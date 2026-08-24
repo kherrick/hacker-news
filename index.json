@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-08-24, 16:33:01",
+      "https://news.ycombinator.com/item?id=49422278"
+    ],
+    [
+      "A Practical Intuition for C++20 Coroutines",
+      "https://blog.ydb.tech/making-coroutines-routine-building-a-scalable-tpc-c-client-in-c-b14f55a09471?postPublishedType=repub"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 16:30:51",
+      "https://news.ycombinator.com/item?id=49422243"
+    ],
+    [
+      "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
+      "https://github.com/ovenpasta/adi2"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 16:30:21",
+      "https://news.ycombinator.com/item?id=49422227"
+    ],
+    [
+      "Public services are increasingly strained by LLM-written appeals for benefits",
+      "https://arxiv.org/abs/2608.16603"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 16:29:57",
+      "https://news.ycombinator.com/item?id=49422220"
+    ],
+    [
+      "A Server Lost Power at 00:32. We Found Out at 08:18",
+      "https://danubedata.ro/blog/storage-power-loss-postmortem-august-2026"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 16:29:00",
+      "https://news.ycombinator.com/item?id=49422204"
+    ],
+    [
+      "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+      "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 16:15:10",
+      "https://news.ycombinator.com/item?id=49421948"
+    ],
+    [
+      "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+      "https://glassbox.codecanary.org"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 16:08:17",
+      "https://news.ycombinator.com/item?id=49421806"
+    ],
+    [
+      "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+      "https://picomq.com/"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 15:52:33",
       "https://news.ycombinator.com/item?id=49421554"
     ],
@@ -11,12 +81,32 @@
   ],
   [
     [
+      "2026-08-24, 15:51:31",
+      "https://news.ycombinator.com/item?id=49421536"
+    ],
+    [
+      "Jabber/XMPP: 25 Years of Digital Independence",
+      "https://gultsch.de/posts/25-years-of-digital-independence/"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 15:48:45",
       "https://news.ycombinator.com/item?id=49421489"
     ],
     [
       "IPFS Maintainers Winding Down",
       "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 15:40:38",
+      "https://news.ycombinator.com/item?id=49421347"
+    ],
+    [
+      "Three Generations in E7",
+      "https://johncarlosbaez.wordpress.com/2026/08/12/three-generations-in-e7/"
     ]
   ],
   [
@@ -41,6 +131,16 @@
   ],
   [
     [
+      "2026-08-24, 15:17:38",
+      "https://news.ycombinator.com/item?id=49420999"
+    ],
+    [
+      "NetBSD GSoC 2026 Improving RAIDframe",
+      "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 15:10:25",
       "https://news.ycombinator.com/item?id=49420902"
     ],
@@ -57,6 +157,36 @@
     [
       "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "https://twitter.com/lemire/status/2091894299289874926"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 15:05:22",
+      "https://news.ycombinator.com/item?id=49420832"
+    ],
+    [
+      "Adafruit USB Type C CC Resistor Fixer",
+      "https://www.adafruit.com/product/6323"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 15:02:01",
+      "https://news.ycombinator.com/item?id=49420783"
+    ],
+    [
+      "Show HN: Free Inference Engineer and Model Training Roadmap",
+      "https://inferquest.org"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 15:01:51",
+      "https://news.ycombinator.com/item?id=49420781"
+    ],
+    [
+      "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
+      "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base"
     ]
   ],
   [
@@ -111,52 +241,12 @@
   ],
   [
     [
-      "2026-08-24, 11:20:40",
-      "https://news.ycombinator.com/item?id=49418163"
-    ],
-    [
-      "Agent Is Not the Model",
-      "https://code.joejag.com/2026/your-agent-is-not-the-model.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 10:18:03",
-      "https://news.ycombinator.com/item?id=49417684"
-    ],
-    [
-      "Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System",
-      "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 09:45:02",
-      "https://news.ycombinator.com/item?id=49417394"
-    ],
-    [
-      "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
-      "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister"
-    ]
-  ],
-  [
-    [
       "2026-08-24, 08:13:17",
       "https://news.ycombinator.com/item?id=49416652"
     ],
     [
       "Fast drilldown dashboards from a single Parquet file",
       "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 06:57:01",
-      "https://news.ycombinator.com/item?id=49416055"
-    ],
-    [
-      "Andreessen Horowitz is investing billions into a bleak future",
-      "https://www.modelrepublic.org/articles/a16z-portfolio"
     ]
   ],
   [
@@ -171,26 +261,6 @@
   ],
   [
     [
-      "2026-08-24, 06:25:31",
-      "https://news.ycombinator.com/item?id=49415852"
-    ],
-    [
-      "OCR It – pull text out of un-copyable documents for your LLM",
-      "https://github.com/thiagotigaz/ocr-it"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 05:47:27",
-      "https://news.ycombinator.com/item?id=49415621"
-    ],
-    [
-      "New EU-wide product repair rules come into force",
-      "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/"
-    ]
-  ],
-  [
-    [
       "2026-08-24, 04:48:20",
       "https://news.ycombinator.com/item?id=49415271"
     ],
@@ -201,52 +271,12 @@
   ],
   [
     [
-      "2026-08-24, 04:47:14",
-      "https://news.ycombinator.com/item?id=49415265"
-    ],
-    [
-      "Mourning Steve French",
-      "https://lwn.net/Articles/1090098/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 23:18:17",
-      "https://news.ycombinator.com/item?id=49413561"
-    ],
-    [
-      "I built a low-latency AI companion that plays Skyrim with me",
-      "https://pantel.is/projects/ai-gaming-companion/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 22:41:04",
-      "https://news.ycombinator.com/item?id=49413320"
-    ],
-    [
-      "Everything I own, owned",
-      "https://schlarp.com/posts/everything-i-own-owned/"
-    ]
-  ],
-  [
-    [
       "2026-08-23, 20:38:09",
       "https://news.ycombinator.com/item?id=49412396"
     ],
     [
       "I were 17, I'd learn how to build LLMs from scratch",
       "https://twitter.com/paulg/status/2091544343589060625"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 19:29:32",
-      "https://news.ycombinator.com/item?id=49411717"
-    ],
-    [
-      "Google Workspace thinks my domain is an email provider (2025)",
-      "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 17:59:52",
-      "https://news.ycombinator.com/item?id=49410932"
-    ],
-    [
-      "My agent.md to improve LLM-assisted code quality",
-      "https://fabiensanglard.net/agent.md/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 15:13:31",
-      "https://news.ycombinator.com/item?id=49409473"
-    ],
-    [
-      "How Complex Systems Fail (1998)",
-      "https://how.complexsystems.fail/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 14:24:21",
-      "https://news.ycombinator.com/item?id=49409092"
-    ],
-    [
-      "What Is a Harness?",
-      "https://earendil.com/posts/what-is-a-harness/"
     ]
   ]
 ]
