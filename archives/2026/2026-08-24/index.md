@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 09:45:02](https://news.ycombinator.com/item?id=49417394) - [Woman stranded in Spain after UK's eVisa system mistakes her for twin sister](https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister)
+* [2026-08-24, 08:13:17](https://news.ycombinator.com/item?id=49416652) - [Fast drilldown dashboards from a single Parquet file](https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/)
 * [2026-08-24, 07:37:53](https://news.ycombinator.com/item?id=49416366) - [We are not going anywhere](https://gist.github.com/omeid/a9d6d1e3c25cb3aa577931e60e006f54)
 * [2026-08-24, 07:17:02](https://news.ycombinator.com/item?id=49416200) - [The Work Number: credit score but for your employment history – by Equifax](https://employees.theworknumber.com)
 * [2026-08-24, 07:03:43](https://news.ycombinator.com/item?id=49416097) - [Over 5,200 Ebola cases recorded in Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration)
@@ -17,8 +19,10 @@
 * [2026-08-24, 05:12:45](https://news.ycombinator.com/item?id=49415405) - [Elevated Errors for Multiple Models](https://status.claude.com/incidents/vgz5psbjmt1h)
 * [2026-08-24, 05:10:49](https://news.ycombinator.com/item?id=49415393) - [OpenAI web interface to Claude down, again](https://news.ycombinator.com/item?id=49415393)
 * [2026-08-24, 04:48:20](https://news.ycombinator.com/item?id=49415271) - [Executable Is a SQLite Database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
+* [2026-08-24, 04:47:14](https://news.ycombinator.com/item?id=49415265) - [Mourning Steve French](https://lwn.net/Articles/1090098/)
 * [2026-08-24, 04:41:37](https://news.ycombinator.com/item?id=49415237) - [AI Is Quietly Draining the Public Internet of Thought](https://twitter.com/BrianRoemmele/status/2091127620431933780)
 * [2026-08-24, 04:27:57](https://news.ycombinator.com/item?id=49415187) - [Nearly 3M Teslas recalled in China over hidden door handles](https://www.bbc.com/news/articles/c4g6ggdg030o)
+* [2026-08-24, 03:32:42](https://news.ycombinator.com/item?id=49414934) - [Why is Anthropic's public writing style so unlike Claude's?](https://cmart.blog/claude-writing/)
 * [2026-08-24, 02:35:57](https://news.ycombinator.com/item?id=49414651) - [This Fact About KPIs May Surprise You](https://www.satisfice.com/blog/archives/488189)
 * [2026-08-24, 02:17:26](https://news.ycombinator.com/item?id=49414556) - [Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency](https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency)
 * [2026-08-24, 01:33:14](https://news.ycombinator.com/item?id=49414338) - [Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps)
