@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 12:18:56](https://news.ycombinator.com/item?id=49418675) - [Ask HN: Why do corporate failures always seem to punish the wrong people?](https://news.ycombinator.com/item?id=49418675)
+* [2026-08-24, 11:55:46](https://news.ycombinator.com/item?id=49418449) - [Anthropic candidates face blunt money question](https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question)
+* [2026-08-24, 11:32:51](https://news.ycombinator.com/item?id=49418255) - [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21)
+* [2026-08-24, 11:20:40](https://news.ycombinator.com/item?id=49418163) - [Agent Is Not the Model](https://code.joejag.com/2026/your-agent-is-not-the-model.html)
 * [2026-08-24, 11:13:53](https://news.ycombinator.com/item?id=49418117) - [Omakase Computing](https://learn.omacom.io/3/omacom/76/omakase-computing)
 * [2026-08-24, 11:04:42](https://news.ycombinator.com/item?id=49418032) - [Omacom Foundation funding hits $10M](https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/)
 * [2026-08-24, 10:52:24](https://news.ycombinator.com/item?id=49417941) - [The treasury bond mess: is this the demise of the US as a safe haven?](https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt)
