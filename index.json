@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-08-24, 07:17:02",
+      "https://news.ycombinator.com/item?id=49416200"
+    ],
+    [
+      "The Work Number: credit score but for your employment history – by Equifax",
+      "https://employees.theworknumber.com"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 07:03:43",
+      "https://news.ycombinator.com/item?id=49416097"
+    ],
+    [
+      "Over 5,200 Ebola cases recorded in Congo",
+      "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 06:57:01",
+      "https://news.ycombinator.com/item?id=49416055"
+    ],
+    [
+      "Andreessen Horowitz is investing billions into a bleak future",
+      "https://www.modelrepublic.org/articles/a16z-portfolio"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 06:32:28",
+      "https://news.ycombinator.com/item?id=49415907"
+    ],
+    [
+      "Anthropic Claude and API service outages",
+      "https://status.claude.com/uptime"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 06:30:07",
       "https://news.ycombinator.com/item?id=49415893"
     ],
@@ -11,12 +51,32 @@
   ],
   [
     [
+      "2026-08-24, 06:25:42",
+      "https://news.ycombinator.com/item?id=49415854"
+    ],
+    [
+      "Your Open Source Model Could Have a Hidden Time-Release Backdoor",
+      "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 06:25:31",
       "https://news.ycombinator.com/item?id=49415852"
     ],
     [
       "OCR It – pull text out of un-copyable documents for your LLM",
       "https://github.com/thiagotigaz/ocr-it"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 06:00:50",
+      "https://news.ycombinator.com/item?id=49415695"
+    ],
+    [
+      "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+      "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md"
     ]
   ],
   [
@@ -41,12 +101,12 @@
   ],
   [
     [
-      "2026-08-24, 02:17:26",
-      "https://news.ycombinator.com/item?id=49414556"
+      "2026-08-24, 04:48:20",
+      "https://news.ycombinator.com/item?id=49415271"
     ],
     [
-      "Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency",
-      "https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency"
+      "Executable Is a SQLite Database",
+      "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database"
     ]
   ],
   [
@@ -91,16 +151,6 @@
   ],
   [
     [
-      "2026-08-23, 22:06:14",
-      "https://news.ycombinator.com/item?id=49413093"
-    ],
-    [
-      "Parallel development without the headaches using Git worktree",
-      "https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/"
-    ]
-  ],
-  [
-    [
       "2026-08-23, 21:41:17",
       "https://news.ycombinator.com/item?id=49412909"
     ],
@@ -111,42 +161,12 @@
   ],
   [
     [
-      "2026-08-23, 20:47:53",
-      "https://news.ycombinator.com/item?id=49412467"
-    ],
-    [
-      "Declarative WebGPU with S-Expressions",
-      "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/"
-    ]
-  ],
-  [
-    [
       "2026-08-23, 20:38:09",
       "https://news.ycombinator.com/item?id=49412396"
     ],
     [
       "I were 17, I'd learn how to build LLMs from scratch",
       "https://twitter.com/paulg/status/2091544343589060625"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 20:30:50",
-      "https://news.ycombinator.com/item?id=49412328"
-    ],
-    [
-      "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
-      "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 20:13:34",
-      "https://news.ycombinator.com/item?id=49412176"
-    ],
-    [
-      "Decoding silent reading from non-invasive EEG",
-      "https://arxiv.org/abs/2608.20186"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "Fable and the end of the free lunch",
       "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 18:55:54",
-      "https://news.ycombinator.com/item?id=49411395"
-    ],
-    [
-      "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
-      "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "A website for debloated open source alternatives",
       "https://debloat.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 16:25:59",
-      "https://news.ycombinator.com/item?id=49410111"
-    ],
-    [
-      "Kodak DC50 now usable on the Apple II",
-      "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/"
     ]
   ],
   [
