@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 07:37:53](https://news.ycombinator.com/item?id=49416366) - [We are not going anywhere](https://gist.github.com/omeid/a9d6d1e3c25cb3aa577931e60e006f54)
 * [2026-08-24, 07:17:02](https://news.ycombinator.com/item?id=49416200) - [The Work Number: credit score but for your employment history – by Equifax](https://employees.theworknumber.com)
 * [2026-08-24, 07:03:43](https://news.ycombinator.com/item?id=49416097) - [Over 5,200 Ebola cases recorded in Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration)
 * [2026-08-24, 06:57:01](https://news.ycombinator.com/item?id=49416055) - [Andreessen Horowitz is investing billions into a bleak future](https://www.modelrepublic.org/articles/a16z-portfolio)

@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-24, 07:37:53](https://news.ycombinator.com/item?id=49416366) - [We are not going anywhere](https://gist.github.com/omeid/a9d6d1e3c25cb3aa577931e60e006f54)
 * [2026-08-24, 07:17:02](https://news.ycombinator.com/item?id=49416200) - [The Work Number: credit score but for your employment history – by Equifax](https://employees.theworknumber.com)
 * [2026-08-24, 07:03:43](https://news.ycombinator.com/item?id=49416097) - [Over 5,200 Ebola cases recorded in Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration)
 * [2026-08-24, 06:57:01](https://news.ycombinator.com/item?id=49416055) - [Andreessen Horowitz is investing billions into a bleak future](https://www.modelrepublic.org/articles/a16z-portfolio)
 * [2026-08-24, 06:32:28](https://news.ycombinator.com/item?id=49415907) - [Anthropic Claude and API service outages](https://status.claude.com/uptime)
 * [2026-08-24, 06:30:07](https://news.ycombinator.com/item?id=49415893) - [FDA clears blood test to aid evaluation for Alzheimer's disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
-* [2026-08-24, 06:25:42](https://news.ycombinator.com/item?id=49415854) - [Your Open Source Model Could Have a Hidden Time-Release Backdoor](https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html)
 * [2026-08-24, 06:25:31](https://news.ycombinator.com/item?id=49415852) - [OCR It – pull text out of un-copyable documents for your LLM](https://github.com/thiagotigaz/ocr-it)
 * [2026-08-24, 06:00:50](https://news.ycombinator.com/item?id=49415695) - [LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent](https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md)
 * [2026-08-24, 05:47:27](https://news.ycombinator.com/item?id=49415621) - [New EU-wide product repair rules come into force](https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/)
