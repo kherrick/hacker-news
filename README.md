@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-25, 10:09:47](https://news.ycombinator.com/item?id=49431364) - [Why some US restaurants are banning tips](https://www.bbc.com/news/articles/c4g36yze692o)
+* [2026-08-25, 09:17:33](https://news.ycombinator.com/item?id=49431024) - [Screen viewing time from age 1 to 8 years and subsequent academic performance](https://link.springer.com/article/10.1007/s12519-026-01046-1)
 * [2026-08-25, 04:33:24](https://news.ycombinator.com/item?id=49429095) - [Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context)
-* [2026-08-25, 04:09:43](https://news.ycombinator.com/item?id=49428972) - [Volcanoes that made history](https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history)
 * [2026-08-25, 03:54:19](https://news.ycombinator.com/item?id=49428882) - [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
 * [2026-08-25, 03:06:26](https://news.ycombinator.com/item?id=49428638) - [SiFive's First Server Platform](https://chipsandcheese.com/p/sifives-first-server-platform)
 * [2026-08-25, 01:40:39](https://news.ycombinator.com/item?id=49428121) - [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
@@ -19,7 +20,6 @@
 * [2026-08-24, 15:51:31](https://news.ycombinator.com/item?id=49421536) - [Jabber/XMPP: 25 Years of Digital Independence](https://gultsch.de/posts/25-years-of-digital-independence/)
 * [2026-08-24, 15:28:04](https://news.ycombinator.com/item?id=49421158) - [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
 * [2026-08-24, 15:08:17](https://news.ycombinator.com/item?id=49420873) - [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
-* [2026-08-24, 15:07:07](https://news.ycombinator.com/item?id=49420861) - [Could we dredge the Netherlands without fossil fuels? (2018)](https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels)
 * [2026-08-24, 14:49:49](https://news.ycombinator.com/item?id=49420598) - [Walgit – a Git server that is one binary in front of an object store](https://github.com/tobi/walgit)
 * [2026-08-24, 14:44:55](https://news.ycombinator.com/item?id=49420530) - [Peppermint oil reduces blood pressure by 8.48 mmHg in small study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538)
 * [2026-08-24, 14:15:38](https://news.ycombinator.com/item?id=49420116) - [Crafting QR Codes: A deep dive into QR code art (2024)](https://kylezhe.ng/writes/crafting-qr-codes)
