@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 17:08:21](https://news.ycombinator.com/item?id=49437283) - [Nitter project received cease and desist](https://github.com/zedeus/nitter/issues/1442)
+* [2026-08-25, 17:02:49](https://news.ycombinator.com/item?id=49437210) - [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590)
+* [2026-08-25, 16:58:31](https://news.ycombinator.com/item?id=49437152) - [Water Behind the Watts: The Hidden Risk of Powering Data Centers](https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers)
+* [2026-08-25, 16:53:33](https://news.ycombinator.com/item?id=49437069) - [My Friend Aaron](https://rorz.io/writing/my-friend-aaron)
+* [2026-08-25, 16:37:52](https://news.ycombinator.com/item?id=49436822) - [SpaceX – Starbase, LA](https://www.spacex.com/sites/starbase-la)
+* [2026-08-25, 16:35:36](https://news.ycombinator.com/item?id=49436786) - [Tooltips Need a Delay, and Then They Need to Skip It](https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/)
 * [2026-08-25, 15:26:45](https://news.ycombinator.com/item?id=49435781) - [Warnock: Harnessing GPU Geometry Amplification for Vector Graphics](https://dl.acm.org/doi/pdf/10.1145/3820012)
 * [2026-08-25, 15:23:41](https://news.ycombinator.com/item?id=49435728) - [How much of HN is AI?](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 * [2026-08-25, 15:09:20](https://news.ycombinator.com/item?id=49435495) - [Beyond Good and Evil: Nietzsche and the Great War](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
