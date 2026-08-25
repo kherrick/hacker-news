@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-25, 19:41:48](https://news.ycombinator.com/item?id=49439535) - [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
+* [2026-08-25, 19:38:24](https://news.ycombinator.com/item?id=49439499) - [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
 * [2026-08-25, 19:07:01](https://news.ycombinator.com/item?id=49439017) - [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
 * [2026-08-25, 18:02:22](https://news.ycombinator.com/item?id=49438052) - [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
 * [2026-08-25, 17:55:23](https://news.ycombinator.com/item?id=49437946) - [Firefox 157 will include JPEG XL by default on all platforms](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1)
@@ -27,7 +28,6 @@
 * [2026-08-25, 13:01:22](https://news.ycombinator.com/item?id=49433292) - [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
 * [2026-08-25, 12:26:58](https://news.ycombinator.com/item?id=49432786) - [Solving the 1+N Query Problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
 * [2026-08-25, 11:49:48](https://news.ycombinator.com/item?id=49432319) - [Don't Wordle](https://dontwordle.com/)
-* [2026-08-25, 11:40:00](https://news.ycombinator.com/item?id=49432227) - [HelloAssembly: The smallest possible complete Windows application (2021)](https://github.com/PlummersSoftwareLLC/HelloAssembly)
 * [2026-08-24, 18:21:17](https://news.ycombinator.com/item?id=49423878) - [Visualizing Binary Files](https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html)
 * [2026-08-23, 17:48:12](https://news.ycombinator.com/item?id=49410814) - [Show HN: I wrote a BASIC interpreter that boots on UEFI machines](https://tarjan.itch.io/thoreaubasic)
 
