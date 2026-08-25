@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 21:43:37](https://news.ycombinator.com/item?id=49441101) - [One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool](https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN)
 * [2026-08-25, 21:39:02](https://news.ycombinator.com/item?id=49441033) - [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
+* [2026-08-25, 21:18:23](https://news.ycombinator.com/item?id=49440786) - [XCancel also down, at least for time being](https://news.ycombinator.com/item?id=49440786)
 * [2026-08-25, 20:49:03](https://news.ycombinator.com/item?id=49440410) - [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
 * [2026-08-25, 19:41:48](https://news.ycombinator.com/item?id=49439535) - [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
 * [2026-08-25, 19:38:24](https://news.ycombinator.com/item?id=49439499) - [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
+* [2026-08-25, 19:25:43](https://news.ycombinator.com/item?id=49439296) - [A brief history of federal lift ticket regulation](https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket)
 * [2026-08-25, 19:07:01](https://news.ycombinator.com/item?id=49439017) - [FDA Authorizes First Wearable Device That Monitors Ketone and Glucose Levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
 * [2026-08-25, 18:43:22](https://news.ycombinator.com/item?id=49438661) - [Dolly Parton Has Died](https://en.wikipedia.org/wiki/Dolly_Parton)
 * [2026-08-25, 18:30:57](https://news.ycombinator.com/item?id=49438492) - [Pgbot: A 5.9 MB read-only Postgres tool for humans and agents](https://pgbot.dev/)
@@ -53,6 +56,7 @@
 * [2026-08-25, 10:34:12](https://news.ycombinator.com/item?id=49431560) - [Quantum battery upends the rules of charging](https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets)
 * [2026-08-25, 10:09:47](https://news.ycombinator.com/item?id=49431364) - [Why some US restaurants are banning tips](https://www.bbc.com/news/articles/c4g36yze692o)
 * [2026-08-25, 09:17:33](https://news.ycombinator.com/item?id=49431024) - [Screen viewing time from age 1 to 8 years and subsequent academic performance](https://link.springer.com/article/10.1007/s12519-026-01046-1)
+* [2026-08-25, 07:32:11](https://news.ycombinator.com/item?id=49430259) - [Show HN: I built self-hosted deployment automation tool for Windows and IIS](https://fdeploy.com/)
 * [2026-08-25, 06:56:55](https://news.ycombinator.com/item?id=49430007) - [Windows 95 released August 24, 1995](https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/)
 * [2026-08-25, 05:12:40](https://news.ycombinator.com/item?id=49429345) - [Rupert Lowe set to be paid as much for divisive posts on X as for being MP](https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk)
 * [2026-08-25, 04:33:24](https://news.ycombinator.com/item?id=49429095) - [Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context)
