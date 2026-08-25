@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 20:49:03](https://news.ycombinator.com/item?id=49440410) - [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
 * [2026-08-25, 19:41:48](https://news.ycombinator.com/item?id=49439535) - [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
 * [2026-08-25, 19:38:24](https://news.ycombinator.com/item?id=49439499) - [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
 * [2026-08-25, 19:07:01](https://news.ycombinator.com/item?id=49439017) - [FDA Authorizes First Wearable Device That Monitors Ketone and Glucose Levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)

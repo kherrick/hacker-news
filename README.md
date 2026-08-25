@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-25, 19:41:48](https://news.ycombinator.com/item?id=49439535) - [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
+* [2026-08-25, 20:49:03](https://news.ycombinator.com/item?id=49440410) - [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
 * [2026-08-25, 19:38:24](https://news.ycombinator.com/item?id=49439499) - [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
 * [2026-08-25, 19:07:01](https://news.ycombinator.com/item?id=49439017) - [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
 * [2026-08-25, 18:02:22](https://news.ycombinator.com/item?id=49438052) - [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
@@ -29,7 +29,7 @@
 * [2026-08-25, 12:26:58](https://news.ycombinator.com/item?id=49432786) - [Solving the 1+N Query Problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
 * [2026-08-25, 11:49:48](https://news.ycombinator.com/item?id=49432319) - [Don't Wordle](https://dontwordle.com/)
 * [2026-08-24, 18:21:17](https://news.ycombinator.com/item?id=49423878) - [Visualizing Binary Files](https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html)
-* [2026-08-23, 17:48:12](https://news.ycombinator.com/item?id=49410814) - [Show HN: I wrote a BASIC interpreter that boots on UEFI machines](https://tarjan.itch.io/thoreaubasic)
+* [2026-08-24, 17:21:20](https://news.ycombinator.com/item?id=49423045) - [Tracking Costco gas prices](https://www.jack.bio/blog/costco-gas-tracking)
 
 ## [Archives](archives/index.md)
 
