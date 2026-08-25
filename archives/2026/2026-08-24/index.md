@@ -26,6 +26,7 @@
 * [2026-08-24, 17:50:18](https://news.ycombinator.com/item?id=49423445) - [Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9](https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html)
 * [2026-08-24, 17:28:43](https://news.ycombinator.com/item?id=49423146) - [Fences, Not Sandboxes](https://yegge.ai/essays/fences-not-sandboxes/)
 * [2026-08-24, 17:23:22](https://news.ycombinator.com/item?id=49423077) - [Agent Lightning v1.0](https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1)
+* [2026-08-24, 17:21:20](https://news.ycombinator.com/item?id=49423045) - [Tracking Costco gas prices](https://www.jack.bio/blog/costco-gas-tracking)
 * [2026-08-24, 17:07:01](https://news.ycombinator.com/item?id=49422800) - [Where Did All the Public Bathrooms Go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/)
 * [2026-08-24, 17:05:38](https://news.ycombinator.com/item?id=49422784) - [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
 * [2026-08-24, 16:52:01](https://news.ycombinator.com/item?id=49422548) - [Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam](https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc)

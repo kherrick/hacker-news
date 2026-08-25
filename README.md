@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-25, 19:07:01](https://news.ycombinator.com/item?id=49439017) - [FDA Authorizes First Wearable Device That Monitors Ketone and Glucose Levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
+* [2026-08-25, 19:07:01](https://news.ycombinator.com/item?id=49439017) - [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
 * [2026-08-25, 18:43:22](https://news.ycombinator.com/item?id=49438661) - [Dolly Parton Has Died](https://en.wikipedia.org/wiki/Dolly_Parton)
 * [2026-08-25, 18:30:57](https://news.ycombinator.com/item?id=49438492) - [Pgbot: A 5.9 MB read-only Postgres tool for humans and agents](https://pgbot.dev/)
 * [2026-08-25, 18:02:22](https://news.ycombinator.com/item?id=49438052) - [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
@@ -20,7 +20,6 @@
 * [2026-08-25, 15:26:45](https://news.ycombinator.com/item?id=49435781) - [Warnock: Harnessing GPU geometry amplification for vector graphics](https://dl.acm.org/doi/pdf/10.1145/3820012)
 * [2026-08-25, 15:20:20](https://news.ycombinator.com/item?id=49435675) - [Show HN: I made a Raspberry with Qwen my local car AI](https://github.com/ThinkOffApp/CarWatch)
 * [2026-08-25, 15:18:22](https://news.ycombinator.com/item?id=49435641) - [Behaviorally fingerprinting Ox Alpha's provenance](https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance)
-* [2026-08-25, 15:09:20](https://news.ycombinator.com/item?id=49435495) - [Otto Dix, Nietzsche, and the Great War (2019)](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
 * [2026-08-25, 14:29:32](https://news.ycombinator.com/item?id=49434820) - [Bomb fishing is wreaking havoc on Indonesia's coral reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs)
 * [2026-08-25, 14:20:36](https://news.ycombinator.com/item?id=49434645) - [Building a backyard office, the build and cost breakdown](https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown)
 * [2026-08-25, 14:06:02](https://news.ycombinator.com/item?id=49434378) - [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia)
@@ -30,6 +29,7 @@
 * [2026-08-25, 12:26:58](https://news.ycombinator.com/item?id=49432786) - [Solving the 1+N Query Problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
 * [2026-08-25, 11:49:48](https://news.ycombinator.com/item?id=49432319) - [Don't Wordle](https://dontwordle.com/)
 * [2026-08-24, 18:21:17](https://news.ycombinator.com/item?id=49423878) - [Visualizing Binary Files](https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html)
+* [2026-08-24, 17:21:20](https://news.ycombinator.com/item?id=49423045) - [Tracking Costco gas prices](https://www.jack.bio/blog/costco-gas-tracking)
 
 ## [Archives](archives/index.md)
 
