@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 10:34:12](https://news.ycombinator.com/item?id=49431560) - [Quantum battery upends the rules of charging](https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets)
 * [2026-08-25, 10:09:47](https://news.ycombinator.com/item?id=49431364) - [Why some US restaurants are banning tips](https://www.bbc.com/news/articles/c4g36yze692o)
 * [2026-08-25, 09:17:33](https://news.ycombinator.com/item?id=49431024) - [Screen viewing time from age 1 to 8 years and subsequent academic performance](https://link.springer.com/article/10.1007/s12519-026-01046-1)
 * [2026-08-25, 05:12:40](https://news.ycombinator.com/item?id=49429345) - [Rupert Lowe set to be paid as much for divisive posts on X as for being MP](https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk)
