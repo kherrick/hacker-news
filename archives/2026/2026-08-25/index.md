@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 15:23:41](https://news.ycombinator.com/item?id=49435728) - [How much of HN is AI?](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
+* [2026-08-25, 15:09:20](https://news.ycombinator.com/item?id=49435495) - [Beyond Good and Evil: Nietzsche and the Great War](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
+* [2026-08-25, 14:48:58](https://news.ycombinator.com/item?id=49435147) - [AI is hitting entry-level jobs hardest, Stanford study finds](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
+* [2026-08-25, 14:30:10](https://news.ycombinator.com/item?id=49434830) - [Apple Releases New Polishing Cloth](https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/)
 * [2026-08-25, 14:29:32](https://news.ycombinator.com/item?id=49434820) - [Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs)
 * [2026-08-25, 14:20:36](https://news.ycombinator.com/item?id=49434645) - [Building a backyard office, the build and cost breakdown](https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown)
 * [2026-08-25, 14:18:29](https://news.ycombinator.com/item?id=49434613) - [MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it](https://www.erathos.com/en/blog/mysql-cdc-to-bigquery)
