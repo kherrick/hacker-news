@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-08-25, 12:44:35",
+      "https://news.ycombinator.com/item?id=49433064"
+    ],
+    [
+      "France's tax agency got hacked (in French)",
+      "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 12:33:00",
+      "https://news.ycombinator.com/item?id=49432879"
+    ],
+    [
+      "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+      "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 11:49:48",
+      "https://news.ycombinator.com/item?id=49432319"
+    ],
+    [
+      "Don't Wordle",
+      "https://dontwordle.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 11:40:00",
+      "https://news.ycombinator.com/item?id=49432227"
+    ],
+    [
+      "HelloAssembly The smallest possible complete Windows application",
+      "https://github.com/PlummersSoftwareLLC/HelloAssembly"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 11:37:24",
       "https://news.ycombinator.com/item?id=49432201"
     ],
@@ -17,26 +57,6 @@
     [
       "Quantum battery upends the rules of charging",
       "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 10:09:47",
-      "https://news.ycombinator.com/item?id=49431364"
-    ],
-    [
-      "Why some US restaurants are banning tips",
-      "https://www.bbc.com/news/articles/c4g36yze692o"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 09:17:33",
-      "https://news.ycombinator.com/item?id=49431024"
-    ],
-    [
-      "Screen viewing time from age 1 to 8 years and subsequent academic performance",
-      "https://link.springer.com/article/10.1007/s12519-026-01046-1"
     ]
   ],
   [
@@ -121,22 +141,22 @@
   ],
   [
     [
-      "2026-08-24, 19:19:08",
-      "https://news.ycombinator.com/item?id=49424606"
-    ],
-    [
-      "Oceans hit highest temperature on record",
-      "https://www.bbc.com/news/articles/c62m4gpnp78o"
-    ]
-  ],
-  [
-    [
       "2026-08-24, 19:03:06",
       "https://news.ycombinator.com/item?id=49424387"
     ],
     [
       "LLMs could control their host machines by exploiting inference engines",
       "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 17:53:14",
+      "https://news.ycombinator.com/item?id=49423495"
+    ],
+    [
+      "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+      "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "The entire city of San Francisco as a video game",
       "https://sf.thijs.gg/"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 16:08:17",
-      "https://news.ycombinator.com/item?id=49421806"
-    ],
-    [
-      "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-      "https://picomq.com/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "How Europe is killing makers and micro-entrepreneurs",
       "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 11:32:51",
-      "https://news.ycombinator.com/item?id=49418255"
-    ],
-    [
-      "SeL4 security proofs now complete on AArch64",
-      "https://proofcraft.systems/news-2026/#2026-08-21"
     ]
   ],
   [
