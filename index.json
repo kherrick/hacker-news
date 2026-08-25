@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-25, 19:07:01",
+      "https://news.ycombinator.com/item?id=49439017"
+    ],
+    [
+      "FDA Authorizes First Wearable Device That Monitors Ketone and Glucose Levels",
+      "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 18:43:22",
+      "https://news.ycombinator.com/item?id=49438661"
+    ],
+    [
+      "Dolly Parton Has Died",
+      "https://en.wikipedia.org/wiki/Dolly_Parton"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 18:30:57",
+      "https://news.ycombinator.com/item?id=49438492"
+    ],
+    [
+      "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+      "https://pgbot.dev/"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 18:02:22",
       "https://news.ycombinator.com/item?id=49438052"
     ],
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=49437361"
     ],
     [
-      "Lightweight system monitor for Linux VPS written in Go",
+      "Show HN: Lightweight system monitor for Linux VPS written in Go",
       "https://github.com/leodeim/vpsmon"
     ]
   ],
@@ -151,12 +181,22 @@
   ],
   [
     [
-      "2026-08-25, 15:23:41",
-      "https://news.ycombinator.com/item?id=49435728"
+      "2026-08-25, 15:20:20",
+      "https://news.ycombinator.com/item?id=49435675"
     ],
     [
-      "How much of HN is AI?",
-      "https://blog.coredump.cx/p/how-much-of-hn-is-ai"
+      "Show HN: I made a Raspberry with Qwen my local car AI",
+      "https://github.com/ThinkOffApp/CarWatch"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 15:18:22",
+      "https://news.ycombinator.com/item?id=49435641"
+    ],
+    [
+      "Behaviorally fingerprinting Ox Alpha's provenance",
+      "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance"
     ]
   ],
   [
@@ -247,46 +287,6 @@
     [
       "Don't Wordle",
       "https://dontwordle.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 11:49:43",
-      "https://news.ycombinator.com/item?id=49432317"
-    ],
-    [
-      "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-      "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 11:40:00",
-      "https://news.ycombinator.com/item?id=49432227"
-    ],
-    [
-      "HelloAssembly: The smallest possible complete Windows application (2021)",
-      "https://github.com/PlummersSoftwareLLC/HelloAssembly"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 06:56:55",
-      "https://news.ycombinator.com/item?id=49430007"
-    ],
-    [
-      "Windows 95 released August 24, 1995",
-      "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 03:06:26",
-      "https://news.ycombinator.com/item?id=49428638"
-    ],
-    [
-      "SiFive's First Server Platform",
-      "https://chipsandcheese.com/p/sifives-first-server-platform"
     ]
   ],
   [
