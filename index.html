@@ -129,26 +129,88 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="49441101">
+        <section id="49441375">
           <h3>
-            <a
-              class="item"
-              href="https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN"
-              >One Go binary, one YAML file, one SQLite database: I wrote my
-              monitoring tool</a
+            <a class="item" href="https://github.com/swimmingbrain/texbrain"
+              >Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser
+              via WASM</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-08-25 @ 21:43:37</span
+              <span>2026-08-25 @ 22:08:50</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49441101"
+                ><a href="https://news.ycombinator.com/item?id=49441375"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                TeXbrain is a static site with no backend. pdfTeX is compiled to
+                WebAssembly (SwiftLaTeX) and runs in your browser. The editor
+                can read and write your project folder through the File System
+                Access API, so you can use git, any local TeX install, local AI
+                Agents, or any other editor on the same files. Git is built in
+                through isomorphic-git for anyone who would rather not touch a
+                terminal and clone, branch, commit, push or pull via commands.
+                No account is needed, no analytics, and everything works offline
+                after the first load.
+              </p>
+              <p>
+                Try it out:
+                <a href="https://tex.swimmingbrain.dev/"
+                  >https://tex.swimmingbrain.dev/</a
+                >
+                (Chromium browsers get direct folder access, while Firefox or
+                Safari fall back to a virtual filesystem)
+              </p>
+              <p>
+                Or for self-hosting/contributing:
+                <a href="https://github.com/swimmingbrain/texbrain"
+                  >https://github.com/swimmingbrain/texbrain</a
+                >
+                (MIT, the pdfTeX engine is EPL 2.0 / GPL 2.0 and is listed in
+                the THIRD_PARTY_LICENSES file).
+              </p>
+              <p>
+                The part I'm most proud of getting to work is the package
+                loading. The engine itself is only 1.8 MB. When it asks for a
+                file it doesn't have, then a service worker intercepts the
+                request and resolves it through Cache Storage first, then a
+                small bundled subset, then a TeX Live tree mirrored on jsDelivr,
+                then a SwiftLaTeX style server as a last resort. Every file is
+                fetched once at most and after the first successful compilation,
+                the core subset is prefetched in the background so that the
+                offline story actually holds. Only file names go over the
+                network, never any document content.
+              </p>
+              <p>
+                So far, it only supports pdfTeX (no XeTeX or LuaTeX), so
+                fontspec or polyglossia won't work, packages are pinned to the
+                TeX Live 2020 era to stay coherent with the engine's format file
+                and there is no bibtex or biber in the engine yet, which is
+                maybe the roughest edge.
+              </p>
+              <p>
+                This is should be a good solution for people on a work laptop, a
+                Chromebook, or a university lab PC where installing TeX Live
+                isn't always an option, and people who don't want to maintain a
+                TeX install at all. If you already have a local setup you like,
+                keep it. This isn't necessarily thought as a replacement for
+                that.
+              </p>
+              <p>
+                Some people have already used it for their thesis in the past
+                months and their bug reports (which I would never have hit on my
+                own) were then most of the summer's work. The first outside PR
+                also landed recently, so if something doesn't compile for you,
+                an issue with the package name or the bug itself is the most
+                useful thing you can send me!
+              </p>
+            </div>
           </section>
         </section>
         <section id="49441033">
@@ -163,11 +225,11 @@
             <h4>
               <span>2026-08-25 @ 21:39:02</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49441033"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -182,11 +244,11 @@
             <h4>
               <span>2026-08-25 @ 21:18:23</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49440786"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
             <div class="text">
@@ -214,11 +276,11 @@
             <h4>
               <span>2026-08-25 @ 20:49:03</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49440410"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -235,11 +297,11 @@
             <h4>
               <span>2026-08-25 @ 19:38:24</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49439499"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -256,7 +318,7 @@
             <h4>
               <span>2026-08-25 @ 19:25:43</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49439296"
                   >Comments</a
@@ -278,11 +340,11 @@
             <h4>
               <span>2026-08-25 @ 19:07:01</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49439017"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -299,11 +361,11 @@
             <h4>
               <span>2026-08-25 @ 18:02:22</span
               ><span class="points-container"
-                >Points: <span class="points">1036</span></span
+                >Points: <span class="points">1082</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49438052"
                   >Comments</a
-                ><span class="descendants">: 158</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
             <div class="text">
@@ -339,11 +401,11 @@
             <h4>
               <span>2026-08-25 @ 17:55:23</span
               ><span class="points-container"
-                >Points: <span class="points">232</span></span
+                >Points: <span class="points">239</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49437946"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -378,11 +440,11 @@
             <h4>
               <span>2026-08-25 @ 17:23:07</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49437483"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -397,11 +459,11 @@
             <h4>
               <span>2026-08-25 @ 17:08:21</span
               ><span class="points-container"
-                >Points: <span class="points">502</span></span
+                >Points: <span class="points">542</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49437283"
                   >Comments</a
-                ><span class="descendants">: 347</span></span
+                ><span class="descendants">: 377</span></span
               >
             </h4>
           </section>
@@ -416,32 +478,11 @@
             <h4>
               <span>2026-08-25 @ 17:02:49</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49437210"
                   >Comments</a
-                ><span class="descendants">: 114</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49437165">
-          <h3>
-            <a
-              class="item"
-              href="https://www.judegomila.com/posts/riemann-lambda-0.1787854"
-              >A new ceiling for Λ: the de Bruijn–Newman constant</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-25 @ 16:59:31</span
-              ><span class="points-container"
-                >Points: <span class="points">44</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49437165"
-                  >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -456,11 +497,11 @@
             <h4>
               <span>2026-08-25 @ 16:53:33</span
               ><span class="points-container"
-                >Points: <span class="points">388</span></span
+                >Points: <span class="points">402</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49437069"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 106</span></span
               >
             </h4>
           </section>
@@ -475,7 +516,7 @@
             <h4>
               <span>2026-08-25 @ 16:52:05</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49437049"
                   >Comments</a
@@ -499,11 +540,11 @@
             <h4>
               <span>2026-08-25 @ 16:37:52</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49436822"
                   >Comments</a
-                ><span class="descendants">: 338</span></span
+                ><span class="descendants">: 357</span></span
               >
             </h4>
           </section>
@@ -520,11 +561,32 @@
             <h4>
               <span>2026-08-25 @ 16:35:36</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49436786"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49436706">
+          <h3>
+            <a
+              class="item"
+              href="https://www.kurz.net/posts/fuzzing-gleam-compiler"
+              >Fuzzing the Gleam Compiler</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-25 @ 16:30:55</span
+              ><span class="points-container"
+                >Points: <span class="points">52</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49436706"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -539,11 +601,11 @@
             <h4>
               <span>2026-08-25 @ 15:20:20</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49435675"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
             <div class="text">
@@ -574,11 +636,11 @@
             <h4>
               <span>2026-08-25 @ 15:18:22</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49435641"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -595,11 +657,11 @@
             <h4>
               <span>2026-08-25 @ 14:29:32</span
               ><span class="points-container"
-                >Points: <span class="points">240</span></span
+                >Points: <span class="points">243</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49434820"
                   >Comments</a
-                ><span class="descendants">: 132</span></span
+                ><span class="descendants">: 133</span></span
               >
             </h4>
           </section>
@@ -616,11 +678,11 @@
             <h4>
               <span>2026-08-25 @ 14:20:36</span
               ><span class="points-container"
-                >Points: <span class="points">232</span></span
+                >Points: <span class="points">242</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49434645"
                   >Comments</a
-                ><span class="descendants">: 171</span></span
+                ><span class="descendants">: 178</span></span
               >
             </h4>
           </section>
@@ -637,11 +699,11 @@
             <h4>
               <span>2026-08-25 @ 14:06:02</span
               ><span class="points-container"
-                >Points: <span class="points">258</span></span
+                >Points: <span class="points">270</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49434378"
                   >Comments</a
-                ><span class="descendants">: 174</span></span
+                ><span class="descendants">: 187</span></span
               >
             </h4>
             <div class="text">
@@ -664,11 +726,11 @@
             <h4>
               <span>2026-08-25 @ 13:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">401</span></span
+                >Points: <span class="points">407</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49433450"
                   >Comments</a
-                ><span class="descendants">: 227</span></span
+                ><span class="descendants">: 236</span></span
               >
             </h4>
           </section>
@@ -685,11 +747,11 @@
             <h4>
               <span>2026-08-25 @ 13:03:17</span
               ><span class="points-container"
-                >Points: <span class="points">673</span></span
+                >Points: <span class="points">680</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49433316"
                   >Comments</a
-                ><span class="descendants">: 411</span></span
+                ><span class="descendants">: 417</span></span
               >
             </h4>
           </section>
@@ -706,11 +768,11 @@
             <h4>
               <span>2026-08-25 @ 13:01:22</span
               ><span class="points-container"
-                >Points: <span class="points">882</span></span
+                >Points: <span class="points">903</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49433292"
                   >Comments</a
-                ><span class="descendants">: 828</span></span
+                ><span class="descendants">: 857</span></span
               >
             </h4>
             <div class="text">
@@ -735,7 +797,7 @@
             <h4>
               <span>2026-08-25 @ 11:49:48</span
               ><span class="points-container"
-                >Points: <span class="points">286</span></span
+                >Points: <span class="points">291</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49432319"
                   >Comments</a
@@ -755,11 +817,11 @@
             <h4>
               <span>2026-08-25 @ 07:32:11</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49430259"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
             <div class="text">
@@ -814,11 +876,11 @@
             <h4>
               <span>2026-08-24 @ 18:21:17</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49423878"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -833,11 +895,11 @@
             <h4>
               <span>2026-08-24 @ 17:21:20</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49423045"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
