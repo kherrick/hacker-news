@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-25, 00:52:27](https://news.ycombinator.com/item?id=49427825) - [What languages are agent skills written in?](https://plicara.ai/research/agent-skill-languages/)
 * [2026-08-24, 23:00:37](https://news.ycombinator.com/item?id=49427001) - [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
 * [2026-08-24, 22:13:40](https://news.ycombinator.com/item?id=49426564) - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
 * [2026-08-24, 22:06:02](https://news.ycombinator.com/item?id=49426466) - [Moon (2024)](https://ciechanow.ski/moon/)
@@ -12,7 +13,6 @@
 * [2026-08-24, 18:15:50](https://news.ycombinator.com/item?id=49423799) - [What Is a Syslog Server?](https://blog.greencloudvps.com/what-is-a-syslog-server.php)
 * [2026-08-24, 17:57:13](https://news.ycombinator.com/item?id=49423539) - [Octopus intelligence may be related to never-before-seen mutation](https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/)
 * [2026-08-24, 17:53:14](https://news.ycombinator.com/item?id=49423495) - [Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff](https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4)
-* [2026-08-24, 17:28:43](https://news.ycombinator.com/item?id=49423146) - [Fences, Not Sandboxes](https://yegge.ai/essays/fences-not-sandboxes/)
 * [2026-08-24, 17:23:22](https://news.ycombinator.com/item?id=49423077) - [Agent Lightning v1.0](https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1)
 * [2026-08-24, 17:07:01](https://news.ycombinator.com/item?id=49422800) - [Where did all the public bathrooms go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/)
 * [2026-08-24, 17:05:38](https://news.ycombinator.com/item?id=49422784) - [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
@@ -25,11 +25,11 @@
 * [2026-08-24, 15:28:04](https://news.ycombinator.com/item?id=49421158) - [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
 * [2026-08-24, 15:22:43](https://news.ycombinator.com/item?id=49421074) - [OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)](https://developers.openai.com/api/docs/pricing)
 * [2026-08-24, 15:08:17](https://news.ycombinator.com/item?id=49420873) - [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
-* [2026-08-24, 14:46:09](https://news.ycombinator.com/item?id=49420556) - [Codefloe Is a Professionally Hosted Public Git Forge](https://codefloe.com/)
 * [2026-08-24, 14:44:55](https://news.ycombinator.com/item?id=49420530) - [Peppermint oil reduces blood pressure by 8.48 mmHg in small study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538)
 * [2026-08-24, 13:17:11](https://news.ycombinator.com/item?id=49419351) - [Show HN: A techno machine in one HTML file, with verifiable renders](https://ssx360.github.io/rack-02/?src=hn)
 * [2026-08-24, 13:05:25](https://news.ycombinator.com/item?id=49419237) - [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
 * [2026-08-24, 11:32:51](https://news.ycombinator.com/item?id=49418255) - [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21)
+* [2026-08-23, 20:38:09](https://news.ycombinator.com/item?id=49412396) - [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)
 
 ## [Archives](archives/index.md)
 
