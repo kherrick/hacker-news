@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-08-25, 03:54:19",
+      "https://news.ycombinator.com/item?id=49428882"
+    ],
+    [
+      "Headlong: A Microharness for Persistent Agents",
+      "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 03:46:01",
+      "https://news.ycombinator.com/item?id=49428842"
+    ],
+    [
+      "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
+      "https://news.ycombinator.com/item?id=49428842"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 02:11:39",
       "https://news.ycombinator.com/item?id=49428318"
     ],
     [
       "Thomson Reuters Launches Its Own Frontier Model",
       "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 01:40:39",
+      "https://news.ycombinator.com/item?id=49428121"
+    ],
+    [
+      "How Universities Should Prepare Founders",
+      "https://paulgraham.com/prepare.html"
     ]
   ],
   [
@@ -91,26 +121,6 @@
   ],
   [
     [
-      "2026-08-24, 18:45:43",
-      "https://news.ycombinator.com/item?id=49424167"
-    ],
-    [
-      "Removed all counters, replies, following/ers, timestamps, from textlog",
-      "https://textlog.cc/post/2059"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 18:37:24",
-      "https://news.ycombinator.com/item?id=49424082"
-    ],
-    [
-      "Anger, Anxiety and Agency",
-      "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/"
-    ]
-  ],
-  [
-    [
       "2026-08-24, 17:57:13",
       "https://news.ycombinator.com/item?id=49423539"
     ],
@@ -151,42 +161,12 @@
   ],
   [
     [
-      "2026-08-24, 16:52:01",
-      "https://news.ycombinator.com/item?id=49422548"
+      "2026-08-24, 16:30:51",
+      "https://news.ycombinator.com/item?id=49422243"
     ],
     [
-      "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-      "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 16:15:10",
-      "https://news.ycombinator.com/item?id=49421948"
-    ],
-    [
-      "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-      "https://glassbox.codecanary.org"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 16:08:17",
-      "https://news.ycombinator.com/item?id=49421806"
-    ],
-    [
-      "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-      "https://picomq.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 15:52:33",
-      "https://news.ycombinator.com/item?id=49421554"
-    ],
-    [
-      "Coding expertise is going to collapse from AI reliance",
-      "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
+      "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
+      "https://github.com/ovenpasta/adi2"
     ]
   ],
   [
@@ -201,32 +181,12 @@
   ],
   [
     [
-      "2026-08-24, 15:48:45",
-      "https://news.ycombinator.com/item?id=49421489"
-    ],
-    [
-      "IPFS Maintainers Winding Down",
-      "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/"
-    ]
-  ],
-  [
-    [
       "2026-08-24, 15:28:04",
       "https://news.ycombinator.com/item?id=49421158"
     ],
     [
       "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 15:22:43",
-      "https://news.ycombinator.com/item?id=49421074"
-    ],
-    [
-      "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "https://developers.openai.com/api/docs/pricing"
     ]
   ],
   [
@@ -241,12 +201,32 @@
   ],
   [
     [
-      "2026-08-24, 14:46:09",
-      "https://news.ycombinator.com/item?id=49420556"
+      "2026-08-24, 15:07:07",
+      "https://news.ycombinator.com/item?id=49420861"
     ],
     [
-      "Codefloe Is a Professionally Hosted Public Git Forge",
-      "https://codefloe.com/"
+      "Could we dredge the Netherlands without fossil fuels? (2018)",
+      "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 14:57:45",
+      "https://news.ycombinator.com/item?id=49420714"
+    ],
+    [
+      "Show HN: How to mentally calculate the day of the week for any date",
+      "https://tinkerandsee.com/weekday/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 14:49:49",
+      "https://news.ycombinator.com/item?id=49420598"
+    ],
+    [
+      "Walgit – a Git server that is one binary in front of an object store",
+      "https://github.com/tobi/walgit"
     ]
   ],
   [
@@ -261,12 +241,12 @@
   ],
   [
     [
-      "2026-08-24, 13:17:11",
-      "https://news.ycombinator.com/item?id=49419351"
+      "2026-08-24, 13:07:22",
+      "https://news.ycombinator.com/item?id=49419252"
     ],
     [
-      "Show HN: A techno machine in one HTML file, with verifiable renders",
-      "https://ssx360.github.io/rack-02/?src=hn"
+      "What's new in Emacs 31.1",
+      "https://www.masteringemacs.org/article/whats-new-in-emacs-311"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
-      "2026-08-23, 20:38:09",
-      "https://news.ycombinator.com/item?id=49412396"
+      "2026-08-23, 19:39:29",
+      "https://news.ycombinator.com/item?id=49411800"
     ],
     [
-      "I were 17, I'd learn how to build LLMs from scratch",
-      "https://twitter.com/paulg/status/2091544343589060625"
+      "Training AI to Paint with Code",
+      "https://surya.website/rling-qwen-to-paint-with-code"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 17:48:12",
+      "https://news.ycombinator.com/item?id=49410814"
+    ],
+    [
+      "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+      "https://tarjan.itch.io/thoreaubasic"
+    ]
+  ],
+  [
+    [
+      "2026-08-22, 13:49:01",
+      "https://news.ycombinator.com/item?id=49399722"
+    ],
+    [
+      "Nostr is an inclusive communication commons",
+      "https://nostr.org/"
     ]
   ]
 ]
