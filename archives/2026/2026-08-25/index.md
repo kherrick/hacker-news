@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 03:54:19](https://news.ycombinator.com/item?id=49428882) - [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
+* [2026-08-25, 03:46:01](https://news.ycombinator.com/item?id=49428842) - [Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?](https://news.ycombinator.com/item?id=49428842)
 * [2026-08-25, 02:11:39](https://news.ycombinator.com/item?id=49428318) - [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
 * [2026-08-25, 01:40:39](https://news.ycombinator.com/item?id=49428121) - [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
 * [2026-08-25, 01:35:00](https://news.ycombinator.com/item?id=49428080) - [Was Modern Art a CIA Psy-Op?](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)

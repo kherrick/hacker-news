@@ -34,6 +34,7 @@
 * [2026-08-23, 17:59:52](https://news.ycombinator.com/item?id=49410932) - [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html)
 * [2026-08-23, 17:59:23](https://news.ycombinator.com/item?id=49410927) - [From Front Panel to Program: Thinking Like a PDP-8](https://pikuma.com/blog/pdp-8-minicomputer)
 * [2026-08-23, 17:51:14](https://news.ycombinator.com/item?id=49410847) - [Powerful extensions do not need powerful code](https://adayinthelifeof.nl/2026/08/23/powerful-extensions-do-not-need-powerful-code/)
+* [2026-08-23, 17:48:12](https://news.ycombinator.com/item?id=49410814) - [Show HN: I wrote a BASIC interpreter that boots on UEFI machines](https://tarjan.itch.io/thoreaubasic)
 * [2026-08-23, 17:32:43](https://news.ycombinator.com/item?id=49410697) - [Dutch regulator fines Uber $966M for automating driver suspensions](https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions)
 * [2026-08-23, 17:25:03](https://news.ycombinator.com/item?id=49410628) - [We must not grant AI agents legal personhood](https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473)
 * [2026-08-23, 17:15:36](https://news.ycombinator.com/item?id=49410545) - [The Remote Work Challenge: Lessons from 5 Cities](https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities)
