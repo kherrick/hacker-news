@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-08-25, 14:29:32",
+      "https://news.ycombinator.com/item?id=49434820"
+    ],
+    [
+      "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+      "https://e360.yale.edu/digest/bomb-fishing-coral-reefs"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 14:20:36",
+      "https://news.ycombinator.com/item?id=49434645"
+    ],
+    [
+      "Building a backyard office, the build and cost breakdown",
+      "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 14:18:29",
+      "https://news.ycombinator.com/item?id=49434613"
+    ],
+    [
+      "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
+      "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 14:00:27",
+      "https://news.ycombinator.com/item?id=49434291"
+    ],
+    [
+      "Anthropic tells staff to work from home due to possible security team strike",
+      "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 13:32:52",
       "https://news.ycombinator.com/item?id=49433759"
     ],
@@ -11,12 +51,12 @@
   ],
   [
     [
-      "2026-08-25, 13:08:13",
-      "https://news.ycombinator.com/item?id=49433372"
+      "2026-08-25, 13:13:00",
+      "https://news.ycombinator.com/item?id=49433450"
     ],
     [
-      "US data centers tripled annual water consumption to 17B gallons",
-      "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/"
+      "Apple's new Mac mini, featuring M6 and M5 Pro",
+      "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/"
     ]
   ],
   [
@@ -91,12 +131,12 @@
   ],
   [
     [
-      "2026-08-25, 03:54:19",
-      "https://news.ycombinator.com/item?id=49428882"
+      "2026-08-25, 06:56:55",
+      "https://news.ycombinator.com/item?id=49430007"
     ],
     [
-      "Headlong: A Microharness for Persistent Agents",
-      "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents"
+      "Windows 95 released August 24, 1995",
+      "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/"
     ]
   ],
   [
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2026-08-24, 15:51:31",
-      "https://news.ycombinator.com/item?id=49421536"
-    ],
-    [
-      "Jabber/XMPP: 25 Years of Digital Independence",
-      "https://gultsch.de/posts/25-years-of-digital-independence/"
-    ]
-  ],
-  [
-    [
       "2026-08-24, 15:28:04",
       "https://news.ycombinator.com/item?id=49421158"
     ],
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2026-08-24, 14:49:49",
-      "https://news.ycombinator.com/item?id=49420598"
-    ],
-    [
-      "Walgit – a Git server that is one binary in front of an object store",
-      "https://github.com/tobi/walgit"
-    ]
-  ],
-  [
-    [
       "2026-08-24, 14:44:55",
       "https://news.ycombinator.com/item?id=49420530"
     ],
     [
       "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
       "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 14:15:38",
-      "https://news.ycombinator.com/item?id=49420116"
-    ],
-    [
-      "Crafting QR Codes: A deep dive into QR code art (2024)",
-      "https://kylezhe.ng/writes/crafting-qr-codes"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Training AI to Paint with Code",
       "https://surya.website/rling-qwen-to-paint-with-code"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 17:48:12",
-      "https://news.ycombinator.com/item?id=49410814"
-    ],
-    [
-      "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-      "https://tarjan.itch.io/thoreaubasic"
     ]
   ]
 ]
