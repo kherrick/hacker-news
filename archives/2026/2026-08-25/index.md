@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 18:02:22](https://news.ycombinator.com/item?id=49438052) - [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
+* [2026-08-25, 17:55:23](https://news.ycombinator.com/item?id=49437946) - [Firefox 157 will include JPEG XL by default on all platforms](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1)
 * [2026-08-25, 17:28:52](https://news.ycombinator.com/item?id=49437566) - [Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
 * [2026-08-25, 17:23:07](https://news.ycombinator.com/item?id=49437483) - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
 * [2026-08-25, 17:13:59](https://news.ycombinator.com/item?id=49437361) - [Lightweight system monitor for Linux VPS written in Go](https://github.com/leodeim/vpsmon)
@@ -25,6 +27,7 @@
 * [2026-08-25, 14:29:32](https://news.ycombinator.com/item?id=49434820) - [Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs)
 * [2026-08-25, 14:20:36](https://news.ycombinator.com/item?id=49434645) - [Building a backyard office, the build and cost breakdown](https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown)
 * [2026-08-25, 14:18:29](https://news.ycombinator.com/item?id=49434613) - [MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it](https://www.erathos.com/en/blog/mysql-cdc-to-bigquery)
+* [2026-08-25, 14:06:02](https://news.ycombinator.com/item?id=49434378) - [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia)
 * [2026-08-25, 14:00:27](https://news.ycombinator.com/item?id=49434291) - [Anthropic tells staff to work from home due to possible security team strike](https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8)
 * [2026-08-25, 13:32:52](https://news.ycombinator.com/item?id=49433759) - [The state of AI in 2026: On the road to ROI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
 * [2026-08-25, 13:13:00](https://news.ycombinator.com/item?id=49433450) - [Apple's new Mac mini, featuring M6 and M5 Pro](https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/)
