@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-25, 00:52:27",
+      "https://news.ycombinator.com/item?id=49427825"
+    ],
+    [
+      "What languages are agent skills written in?",
+      "https://plicara.ai/research/agent-skill-languages/"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 23:00:37",
       "https://news.ycombinator.com/item?id=49427001"
     ],
@@ -117,16 +127,6 @@
     [
       "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
       "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 17:28:43",
-      "https://news.ycombinator.com/item?id=49423146"
-    ],
-    [
-      "Fences, Not Sandboxes",
-      "https://yegge.ai/essays/fences-not-sandboxes/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-08-24, 14:46:09",
-      "https://news.ycombinator.com/item?id=49420556"
-    ],
-    [
-      "Codefloe Is a Professionally Hosted Public Git Forge",
-      "https://codefloe.com/"
-    ]
-  ],
-  [
-    [
       "2026-08-24, 14:44:55",
       "https://news.ycombinator.com/item?id=49420530"
     ],
@@ -297,6 +287,16 @@
     [
       "SeL4 security proofs now complete on AArch64",
       "https://proofcraft.systems/news-2026/#2026-08-21"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 20:38:09",
+      "https://news.ycombinator.com/item?id=49412396"
+    ],
+    [
+      "I were 17, I'd learn how to build LLMs from scratch",
+      "https://twitter.com/paulg/status/2091544343589060625"
     ]
   ]
 ]
