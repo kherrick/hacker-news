@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-25, 01:40:39](https://news.ycombinator.com/item?id=49428121) - [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
-* [2026-08-25, 01:35:00](https://news.ycombinator.com/item?id=49428080) - [Was Modern Art a CIA Psy-Op?](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
-* [2026-08-25, 00:52:27](https://news.ycombinator.com/item?id=49427825) - [What languages are agent skills written in?](https://plicara.ai/research/agent-skill-languages/)
+* [2026-08-25, 02:11:39](https://news.ycombinator.com/item?id=49428318) - [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
+* [2026-08-25, 01:35:00](https://news.ycombinator.com/item?id=49428080) - [Was Modern Art a CIA Psy-Op? (2020)](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
 * [2026-08-24, 23:00:37](https://news.ycombinator.com/item?id=49427001) - [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
 * [2026-08-24, 22:13:40](https://news.ycombinator.com/item?id=49426564) - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
 * [2026-08-24, 22:06:02](https://news.ycombinator.com/item?id=49426466) - [Moon (2024)](https://ciechanow.ski/moon/)
@@ -25,6 +24,7 @@
 * [2026-08-24, 15:28:04](https://news.ycombinator.com/item?id=49421158) - [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
 * [2026-08-24, 15:22:43](https://news.ycombinator.com/item?id=49421074) - [OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)](https://developers.openai.com/api/docs/pricing)
 * [2026-08-24, 15:08:17](https://news.ycombinator.com/item?id=49420873) - [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
+* [2026-08-24, 14:46:09](https://news.ycombinator.com/item?id=49420556) - [Codefloe Is a Professionally Hosted Public Git Forge](https://codefloe.com/)
 * [2026-08-24, 14:44:55](https://news.ycombinator.com/item?id=49420530) - [Peppermint oil reduces blood pressure by 8.48 mmHg in small study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538)
 * [2026-08-24, 13:17:11](https://news.ycombinator.com/item?id=49419351) - [Show HN: A techno machine in one HTML file, with verifiable renders](https://ssx360.github.io/rack-02/?src=hn)
 * [2026-08-24, 13:05:25](https://news.ycombinator.com/item?id=49419237) - [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
