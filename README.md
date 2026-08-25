@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-25, 19:41:48](https://news.ycombinator.com/item?id=49439535) - [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
 * [2026-08-25, 19:07:01](https://news.ycombinator.com/item?id=49439017) - [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
-* [2026-08-25, 18:43:22](https://news.ycombinator.com/item?id=49438661) - [Dolly Parton Has Died](https://en.wikipedia.org/wiki/Dolly_Parton)
 * [2026-08-25, 18:30:57](https://news.ycombinator.com/item?id=49438492) - [Pgbot: A 5.9 MB read-only Postgres tool for humans and agents](https://pgbot.dev/)
 * [2026-08-25, 18:02:22](https://news.ycombinator.com/item?id=49438052) - [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
 * [2026-08-25, 17:55:23](https://news.ycombinator.com/item?id=49437946) - [Firefox 157 will include JPEG XL by default on all platforms](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1)
