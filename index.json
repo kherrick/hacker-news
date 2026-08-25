@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-25, 21:39:02",
+      "https://news.ycombinator.com/item?id=49441033"
+    ],
+    [
+      "Python's pre-declared constants are kinda weird",
+      "https://sebsite.pw/w/20260801-pythonconstants.html"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 20:49:03",
       "https://news.ycombinator.com/item?id=49440410"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-08-25, 15:09:20",
-      "https://news.ycombinator.com/item?id=49435495"
-    ],
-    [
-      "Otto Dix, Nietzsche, and the Great War (2019)",
-      "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war"
-    ]
-  ],
-  [
-    [
       "2026-08-25, 14:29:32",
       "https://news.ycombinator.com/item?id=49434820"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-08-25, 12:26:58",
-      "https://news.ycombinator.com/item?id=49432786"
-    ],
-    [
-      "Solving the 1+N Query Problem",
-      "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem"
-    ]
-  ],
-  [
-    [
       "2026-08-25, 11:49:48",
       "https://news.ycombinator.com/item?id=49432319"
     ],
@@ -297,6 +287,16 @@
     [
       "Tracking Costco gas prices",
       "https://www.jack.bio/blog/costco-gas-tracking"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 17:48:12",
+      "https://news.ycombinator.com/item?id=49410814"
+    ],
+    [
+      "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+      "https://tarjan.itch.io/thoreaubasic"
     ]
   ]
 ]
