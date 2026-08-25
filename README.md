@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-25, 01:40:39](https://news.ycombinator.com/item?id=49428121) - [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
+* [2026-08-25, 01:35:00](https://news.ycombinator.com/item?id=49428080) - [Was Modern Art a CIA Psy-Op?](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
 * [2026-08-25, 00:52:27](https://news.ycombinator.com/item?id=49427825) - [What languages are agent skills written in?](https://plicara.ai/research/agent-skill-languages/)
 * [2026-08-24, 23:00:37](https://news.ycombinator.com/item?id=49427001) - [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
 * [2026-08-24, 22:13:40](https://news.ycombinator.com/item?id=49426564) - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
@@ -10,10 +12,8 @@
 * [2026-08-24, 19:03:06](https://news.ycombinator.com/item?id=49424387) - [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
 * [2026-08-24, 18:45:43](https://news.ycombinator.com/item?id=49424167) - [Removed all counters, replies, following/ers, timestamps, from textlog](https://textlog.cc/post/2059)
 * [2026-08-24, 18:37:24](https://news.ycombinator.com/item?id=49424082) - [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
-* [2026-08-24, 18:15:50](https://news.ycombinator.com/item?id=49423799) - [What Is a Syslog Server?](https://blog.greencloudvps.com/what-is-a-syslog-server.php)
 * [2026-08-24, 17:57:13](https://news.ycombinator.com/item?id=49423539) - [Octopus intelligence may be related to never-before-seen mutation](https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/)
 * [2026-08-24, 17:53:14](https://news.ycombinator.com/item?id=49423495) - [Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff](https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4)
-* [2026-08-24, 17:23:22](https://news.ycombinator.com/item?id=49423077) - [Agent Lightning v1.0](https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1)
 * [2026-08-24, 17:07:01](https://news.ycombinator.com/item?id=49422800) - [Where did all the public bathrooms go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/)
 * [2026-08-24, 17:05:38](https://news.ycombinator.com/item?id=49422784) - [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
 * [2026-08-24, 16:52:01](https://news.ycombinator.com/item?id=49422548) - [Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam](https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc)
