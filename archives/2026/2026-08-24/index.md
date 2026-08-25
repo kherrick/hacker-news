@@ -17,6 +17,7 @@
 * [2026-08-24, 18:37:24](https://news.ycombinator.com/item?id=49424082) - [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
 * [2026-08-24, 18:24:59](https://news.ycombinator.com/item?id=49423927) - [Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](https://github.com/getkern/kern)
 * [2026-08-24, 18:21:48](https://news.ycombinator.com/item?id=49423886) - [Your \"File\" Menu Isn't About Files](https://adam.farkas.pro/your-file-menu-isnt-about-files/)
+* [2026-08-24, 18:21:17](https://news.ycombinator.com/item?id=49423878) - [Visualizing Binary Files](https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html)
 * [2026-08-24, 18:15:50](https://news.ycombinator.com/item?id=49423799) - [What Is a Syslog Server?](https://blog.greencloudvps.com/what-is-a-syslog-server.php)
 * [2026-08-24, 17:57:13](https://news.ycombinator.com/item?id=49423539) - [Octopus intelligence may be related to never-before-seen mutation](https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/)
 * [2026-08-24, 17:53:36](https://news.ycombinator.com/item?id=49423500) - [Claude Code Tips](https://github.com/ykdojo/claude-code-tips)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 15:26:45](https://news.ycombinator.com/item?id=49435781) - [Warnock: Harnessing GPU Geometry Amplification for Vector Graphics](https://dl.acm.org/doi/pdf/10.1145/3820012)
 * [2026-08-25, 15:23:41](https://news.ycombinator.com/item?id=49435728) - [How much of HN is AI?](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 * [2026-08-25, 15:09:20](https://news.ycombinator.com/item?id=49435495) - [Beyond Good and Evil: Nietzsche and the Great War](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
 * [2026-08-25, 14:48:58](https://news.ycombinator.com/item?id=49435147) - [AI is hitting entry-level jobs hardest, Stanford study finds](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
@@ -19,6 +20,7 @@
 * [2026-08-25, 13:01:22](https://news.ycombinator.com/item?id=49433292) - [Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
 * [2026-08-25, 12:44:35](https://news.ycombinator.com/item?id=49433064) - [France's tax agency got hacked (in French)](https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/)
 * [2026-08-25, 12:33:00](https://news.ycombinator.com/item?id=49432879) - [OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users](https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/)
+* [2026-08-25, 12:26:58](https://news.ycombinator.com/item?id=49432786) - [Solving the 1+N Query Problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
 * [2026-08-25, 11:49:48](https://news.ycombinator.com/item?id=49432319) - [Don't Wordle](https://dontwordle.com/)
 * [2026-08-25, 11:49:43](https://news.ycombinator.com/item?id=49432317) - [Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)](https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next)
 * [2026-08-25, 11:40:00](https://news.ycombinator.com/item?id=49432227) - [HelloAssembly The smallest possible complete Windows application](https://github.com/PlummersSoftwareLLC/HelloAssembly)
