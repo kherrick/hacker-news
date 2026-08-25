@@ -6,6 +6,7 @@
 
 * [2026-08-25, 05:12:40](https://news.ycombinator.com/item?id=49429345) - [Rupert Lowe set to be paid as much for divisive posts on X as for being MP](https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk)
 * [2026-08-25, 04:33:24](https://news.ycombinator.com/item?id=49429095) - [Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context)
+* [2026-08-25, 04:09:43](https://news.ycombinator.com/item?id=49428972) - [Volcanoes that made history](https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history)
 * [2026-08-25, 03:54:19](https://news.ycombinator.com/item?id=49428882) - [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
 * [2026-08-25, 03:46:01](https://news.ycombinator.com/item?id=49428842) - [Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?](https://news.ycombinator.com/item?id=49428842)
 * [2026-08-25, 03:06:26](https://news.ycombinator.com/item?id=49428638) - [SiFive's First Server Platform](https://chipsandcheese.com/p/sifives-first-server-platform)
