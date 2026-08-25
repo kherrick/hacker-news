@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 19:07:01](https://news.ycombinator.com/item?id=49439017) - [FDA Authorizes First Wearable Device That Monitors Ketone and Glucose Levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
+* [2026-08-25, 18:43:22](https://news.ycombinator.com/item?id=49438661) - [Dolly Parton Has Died](https://en.wikipedia.org/wiki/Dolly_Parton)
+* [2026-08-25, 18:30:57](https://news.ycombinator.com/item?id=49438492) - [Pgbot: A 5.9 MB read-only Postgres tool for humans and agents](https://pgbot.dev/)
 * [2026-08-25, 18:02:22](https://news.ycombinator.com/item?id=49438052) - [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
 * [2026-08-25, 17:55:23](https://news.ycombinator.com/item?id=49437946) - [Firefox 157 will include JPEG XL by default on all platforms](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1)
 * [2026-08-25, 17:28:52](https://news.ycombinator.com/item?id=49437566) - [Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
@@ -21,6 +24,8 @@
 * [2026-08-25, 16:09:48](https://news.ycombinator.com/item?id=49436400) - [Run Minecraft in a Windows Sandbox for Computer Use Agents](https://cua.ai/docs/how-to-guides/sandbox/minecraft)
 * [2026-08-25, 15:26:45](https://news.ycombinator.com/item?id=49435781) - [Warnock: Harnessing GPU Geometry Amplification for Vector Graphics](https://dl.acm.org/doi/pdf/10.1145/3820012)
 * [2026-08-25, 15:23:41](https://news.ycombinator.com/item?id=49435728) - [How much of HN is AI?](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
+* [2026-08-25, 15:20:20](https://news.ycombinator.com/item?id=49435675) - [Show HN: I made a Raspberry with Qwen my local car AI](https://github.com/ThinkOffApp/CarWatch)
+* [2026-08-25, 15:18:22](https://news.ycombinator.com/item?id=49435641) - [Behaviorally fingerprinting Ox Alpha's provenance](https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance)
 * [2026-08-25, 15:09:20](https://news.ycombinator.com/item?id=49435495) - [Beyond Good and Evil: Nietzsche and the Great War](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
 * [2026-08-25, 14:48:58](https://news.ycombinator.com/item?id=49435147) - [AI is hitting entry-level jobs hardest, Stanford study finds](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 * [2026-08-25, 14:30:10](https://news.ycombinator.com/item?id=49434830) - [Apple Releases New Polishing Cloth](https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/)
