@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 12:44:35](https://news.ycombinator.com/item?id=49433064) - [France's tax agency got hacked (in French)](https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/)
+* [2026-08-25, 12:33:00](https://news.ycombinator.com/item?id=49432879) - [OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users](https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/)
+* [2026-08-25, 11:49:48](https://news.ycombinator.com/item?id=49432319) - [Don't Wordle](https://dontwordle.com/)
+* [2026-08-25, 11:40:00](https://news.ycombinator.com/item?id=49432227) - [HelloAssembly The smallest possible complete Windows application](https://github.com/PlummersSoftwareLLC/HelloAssembly)
 * [2026-08-25, 11:37:24](https://news.ycombinator.com/item?id=49432201) - [Credit Card Rewards Became a $9.2B Wealth Transfer](https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer)
 * [2026-08-25, 10:34:12](https://news.ycombinator.com/item?id=49431560) - [Quantum battery upends the rules of charging](https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets)
 * [2026-08-25, 10:09:47](https://news.ycombinator.com/item?id=49431364) - [Why some US restaurants are banning tips](https://www.bbc.com/news/articles/c4g36yze692o)
