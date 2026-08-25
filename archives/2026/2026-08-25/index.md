@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 13:32:52](https://news.ycombinator.com/item?id=49433759) - [The state of AI in 2026: On the road to ROI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
+* [2026-08-25, 13:08:13](https://news.ycombinator.com/item?id=49433372) - [US data centers tripled annual water consumption to 17B gallons](https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/)
+* [2026-08-25, 13:03:17](https://news.ycombinator.com/item?id=49433316) - [Apple Introduces New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
+* [2026-08-25, 13:01:22](https://news.ycombinator.com/item?id=49433292) - [Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
 * [2026-08-25, 12:44:35](https://news.ycombinator.com/item?id=49433064) - [France's tax agency got hacked (in French)](https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/)
 * [2026-08-25, 12:33:00](https://news.ycombinator.com/item?id=49432879) - [OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users](https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/)
 * [2026-08-25, 11:49:48](https://news.ycombinator.com/item?id=49432319) - [Don't Wordle](https://dontwordle.com/)
+* [2026-08-25, 11:49:43](https://news.ycombinator.com/item?id=49432317) - [Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)](https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next)
 * [2026-08-25, 11:40:00](https://news.ycombinator.com/item?id=49432227) - [HelloAssembly The smallest possible complete Windows application](https://github.com/PlummersSoftwareLLC/HelloAssembly)
 * [2026-08-25, 11:37:24](https://news.ycombinator.com/item?id=49432201) - [Credit Card Rewards Became a $9.2B Wealth Transfer](https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer)
 * [2026-08-25, 10:34:12](https://news.ycombinator.com/item?id=49431560) - [Quantum battery upends the rules of charging](https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets)
