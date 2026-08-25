@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 14:29:32](https://news.ycombinator.com/item?id=49434820) - [Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs)
+* [2026-08-25, 14:20:36](https://news.ycombinator.com/item?id=49434645) - [Building a backyard office, the build and cost breakdown](https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown)
+* [2026-08-25, 14:18:29](https://news.ycombinator.com/item?id=49434613) - [MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it](https://www.erathos.com/en/blog/mysql-cdc-to-bigquery)
+* [2026-08-25, 14:00:27](https://news.ycombinator.com/item?id=49434291) - [Anthropic tells staff to work from home due to possible security team strike](https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8)
 * [2026-08-25, 13:32:52](https://news.ycombinator.com/item?id=49433759) - [The state of AI in 2026: On the road to ROI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
+* [2026-08-25, 13:13:00](https://news.ycombinator.com/item?id=49433450) - [Apple's new Mac mini, featuring M6 and M5 Pro](https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/)
 * [2026-08-25, 13:08:13](https://news.ycombinator.com/item?id=49433372) - [US data centers tripled annual water consumption to 17B gallons](https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/)
 * [2026-08-25, 13:03:17](https://news.ycombinator.com/item?id=49433316) - [Apple Introduces New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
 * [2026-08-25, 13:01:22](https://news.ycombinator.com/item?id=49433292) - [Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
@@ -17,6 +22,7 @@
 * [2026-08-25, 10:34:12](https://news.ycombinator.com/item?id=49431560) - [Quantum battery upends the rules of charging](https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets)
 * [2026-08-25, 10:09:47](https://news.ycombinator.com/item?id=49431364) - [Why some US restaurants are banning tips](https://www.bbc.com/news/articles/c4g36yze692o)
 * [2026-08-25, 09:17:33](https://news.ycombinator.com/item?id=49431024) - [Screen viewing time from age 1 to 8 years and subsequent academic performance](https://link.springer.com/article/10.1007/s12519-026-01046-1)
+* [2026-08-25, 06:56:55](https://news.ycombinator.com/item?id=49430007) - [Windows 95 released August 24, 1995](https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/)
 * [2026-08-25, 05:12:40](https://news.ycombinator.com/item?id=49429345) - [Rupert Lowe set to be paid as much for divisive posts on X as for being MP](https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk)
 * [2026-08-25, 04:33:24](https://news.ycombinator.com/item?id=49429095) - [Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context)
 * [2026-08-25, 04:09:43](https://news.ycombinator.com/item?id=49428972) - [Volcanoes that made history](https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history)
