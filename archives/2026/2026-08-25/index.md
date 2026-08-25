@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-25](index.md)
 
+* [2026-08-25, 22:53:11](https://news.ycombinator.com/item?id=49441781) - [More Fucked Today Than Yesterday](https://climatecasino.substack.com/p/more-fucked-today-than-yesterday)
 * [2026-08-25, 22:08:50](https://news.ycombinator.com/item?id=49441375) - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
 * [2026-08-25, 21:43:37](https://news.ycombinator.com/item?id=49441101) - [One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool](https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN)
 * [2026-08-25, 21:39:02](https://news.ycombinator.com/item?id=49441033) - [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
