@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-08-25, 21:43:37",
+      "https://news.ycombinator.com/item?id=49441101"
+    ],
+    [
+      "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
+      "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 21:39:02",
       "https://news.ycombinator.com/item?id=49441033"
     ],
     [
       "Python's pre-declared constants are kinda weird",
       "https://sebsite.pw/w/20260801-pythonconstants.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 21:18:23",
+      "https://news.ycombinator.com/item?id=49440786"
+    ],
+    [
+      "XCancel also down, at least for time being",
+      "https://news.ycombinator.com/item?id=49440786"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "C2PA Cameras Do Not Survive Contact with Reality",
       "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 19:25:43",
+      "https://news.ycombinator.com/item?id=49439296"
+    ],
+    [
+      "A brief history of federal lift ticket regulation",
+      "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Run OpenBSD on DigitalOcean for $4/month",
       "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 17:13:59",
-      "https://news.ycombinator.com/item?id=49437361"
-    ],
-    [
-      "Show HN: Lightweight system monitor for Linux VPS written in Go",
-      "https://github.com/leodeim/vpsmon"
     ]
   ],
   [
@@ -157,26 +177,6 @@
     [
       "Tooltips need a delay, and then they need to skip it",
       "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 16:30:55",
-      "https://news.ycombinator.com/item?id=49436706"
-    ],
-    [
-      "Fuzzing the Gleam Compiler",
-      "https://www.kurz.net/posts/fuzzing-gleam-compiler"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 15:26:45",
-      "https://news.ycombinator.com/item?id=49435781"
-    ],
-    [
-      "Warnock: Harnessing GPU geometry amplification for vector graphics",
-      "https://dl.acm.org/doi/pdf/10.1145/3820012"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-08-25, 07:32:11",
+      "https://news.ycombinator.com/item?id=49430259"
+    ],
+    [
+      "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
+      "https://fdeploy.com/"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 18:21:17",
       "https://news.ycombinator.com/item?id=49423878"
     ],
@@ -287,16 +297,6 @@
     [
       "Tracking Costco gas prices",
       "https://www.jack.bio/blog/costco-gas-tracking"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 17:48:12",
-      "https://news.ycombinator.com/item?id=49410814"
-    ],
-    [
-      "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-      "https://tarjan.itch.io/thoreaubasic"
     ]
   ]
 ]
