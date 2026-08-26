@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-26, 00:40:41",
+      "https://news.ycombinator.com/item?id=49442743"
+    ],
+    [
+      "The brain may be about to have its Ozempic moment",
+      "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 00:20:49",
+      "https://news.ycombinator.com/item?id=49442589"
+    ],
+    [
+      "Queryable Executables",
+      "https://fzakaria.com/2026/08/24/actually-queryable-executables"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 22:40:07",
       "https://news.ycombinator.com/item?id=49441666"
     ],
@@ -27,16 +47,6 @@
     [
       "Python's pre-declared constants are kinda weird",
       "https://sebsite.pw/w/20260801-pythonconstants.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 21:18:23",
-      "https://news.ycombinator.com/item?id=49440786"
-    ],
-    [
-      "XCancel also down, at least for time being",
-      "https://news.ycombinator.com/item?id=49440786"
     ]
   ],
   [
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=49437283"
     ],
     [
-      "Nitter project received cease and desist",
+      "Nitter and XCancel receive cease and desist notices",
       "https://github.com/zedeus/nitter/issues/1442"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "Tooltips need a delay, and then they need to skip it",
       "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 16:30:55",
-      "https://news.ycombinator.com/item?id=49436706"
-    ],
-    [
-      "Fuzzing the Gleam Compiler",
-      "https://www.kurz.net/posts/fuzzing-gleam-compiler"
     ]
   ],
   [
