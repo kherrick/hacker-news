@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 10:04:55](https://news.ycombinator.com/item?id=49446422) - [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
+* [2026-08-26, 09:35:58](https://news.ycombinator.com/item?id=49446221) - [Social media use on the rise among Australian under-16s after ban: data](https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data)
 * [2026-08-26, 09:01:49](https://news.ycombinator.com/item?id=49445908) - [Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY](https://www.globalsolo.global/data/banking-access-index)
 * [2026-08-26, 08:59:15](https://news.ycombinator.com/item?id=49445884) - [Value Classes Still Need Compiler Sympathy](https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/)
 * [2026-08-26, 08:57:46](https://news.ycombinator.com/item?id=49445873) - [Oldinsurancemaps.net is now a Charter Project](https://openstreetmap.us/news/2026/08/oim-charter-project/)
