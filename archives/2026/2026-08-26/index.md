@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 08:37:59](https://news.ycombinator.com/item?id=49445717) - [The End of Programming](https://pauldix.com/the-end-of-programming)
+* [2026-08-26, 07:36:52](https://news.ycombinator.com/item?id=49445286) - [Show HN: Buslens – where can I get to by bus? (UK)](https://rupertlinacre.com/buslens/)
 * [2026-08-26, 07:31:31](https://news.ycombinator.com/item?id=49445252) - [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/)
 * [2026-08-26, 05:49:20](https://news.ycombinator.com/item?id=49444514) - [More than half of adults in U.S. say they lack basic statistical understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
 * [2026-08-26, 05:09:07](https://news.ycombinator.com/item?id=49444232) - [Secret Cold War IBM Supercomputer Was Built for One Job](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)

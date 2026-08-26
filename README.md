@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-26, 08:37:59](https://news.ycombinator.com/item?id=49445717) - [The End of Programming](https://pauldix.com/the-end-of-programming)
+* [2026-08-26, 07:36:52](https://news.ycombinator.com/item?id=49445286) - [Show HN: Buslens – where can I get to by bus? (UK)](https://rupertlinacre.com/buslens/)
 * [2026-08-26, 07:31:31](https://news.ycombinator.com/item?id=49445252) - [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/)
 * [2026-08-26, 05:49:20](https://news.ycombinator.com/item?id=49444514) - [More than half of adults in U.S. say they lack basic statistical understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
 * [2026-08-26, 05:09:07](https://news.ycombinator.com/item?id=49444232) - [Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
@@ -9,10 +11,8 @@
 * [2026-08-25, 22:08:50](https://news.ycombinator.com/item?id=49441375) - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
 * [2026-08-25, 20:49:03](https://news.ycombinator.com/item?id=49440410) - [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
 * [2026-08-25, 19:38:24](https://news.ycombinator.com/item?id=49439499) - [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
-* [2026-08-25, 19:25:43](https://news.ycombinator.com/item?id=49439296) - [A brief history of federal lift ticket regulation](https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket)
 * [2026-08-25, 19:07:01](https://news.ycombinator.com/item?id=49439017) - [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
 * [2026-08-25, 18:02:22](https://news.ycombinator.com/item?id=49438052) - [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
-* [2026-08-25, 17:55:23](https://news.ycombinator.com/item?id=49437946) - [Firefox 157 will include JPEG XL by default on all platforms](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1)
 * [2026-08-25, 17:23:07](https://news.ycombinator.com/item?id=49437483) - [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
 * [2026-08-25, 17:08:21](https://news.ycombinator.com/item?id=49437283) - [Nitter and XCancel receive cease and desist notices](https://github.com/zedeus/nitter/issues/1442)
 * [2026-08-25, 17:02:49](https://news.ycombinator.com/item?id=49437210) - [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590)
