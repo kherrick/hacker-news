@@ -1,32 +1,82 @@
 [
   [
     [
+      "2026-08-26, 12:59:26",
+      "https://news.ycombinator.com/item?id=49448321"
+    ],
+    [
+      "AWS Acquires DuckDB",
+      "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 12:52:12",
+      "https://news.ycombinator.com/item?id=49448210"
+    ],
+    [
+      "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+      "https://qwen.ai/blog?id=qwen3.8-flash-next"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 12:48:37",
+      "https://news.ycombinator.com/item?id=49448150"
+    ],
+    [
+      "A curmudgeon tries a language server",
+      "https://entropicthoughts.com/curmudgeon-tries-language-server"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 12:47:47",
+      "https://news.ycombinator.com/item?id=49448137"
+    ],
+    [
+      "Bill Gates: The turbulent AI era is here",
+      "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 12:25:45",
+      "https://news.ycombinator.com/item?id=49447772"
+    ],
+    [
+      "X sends in the lawyers to shut down open source project",
+      "https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 12:17:43",
+      "https://news.ycombinator.com/item?id=49447682"
+    ],
+    [
+      "Omarchy development practices lead to predictable security issues",
+      "https://blog.happyfellow.dev/merchants-of-insecurity/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 12:11:19",
+      "https://news.ycombinator.com/item?id=49447600"
+    ],
+    [
+      "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+      "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda"
+    ]
+  ],
+  [
+    [
       "2026-08-26, 12:00:07",
       "https://news.ycombinator.com/item?id=49447480"
     ],
     [
       "Proliferate (YC S25) Is Hiring",
       "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 10:31:37",
-      "https://news.ycombinator.com/item?id=49446653"
-    ],
-    [
-      "Debian polls its developers on AI: permit or ban?",
-      "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 10:26:03",
-      "https://news.ycombinator.com/item?id=49446602"
-    ],
-    [
-      "The Feeling of Power (Asimov, 1958)",
-      "https://archive.org/details/1958-02_IF"
     ]
   ],
   [
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2026-08-26, 02:35:25",
-      "https://news.ycombinator.com/item?id=49443523"
-    ],
-    [
-      "Agentic Context Management: Memory and Cost as Architecture Problems",
-      "https://arxiv.org/abs/2607.21503"
-    ]
-  ],
-  [
-    [
       "2026-08-26, 00:20:49",
       "https://news.ycombinator.com/item?id=49442589"
     ],
@@ -147,16 +187,6 @@
     [
       "When str.lower() is a security vulnerability in Python",
       "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 19:38:24",
-      "https://news.ycombinator.com/item?id=49439499"
-    ],
-    [
-      "C2PA Cameras Do Not Survive Contact with Reality",
-      "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html"
     ]
   ],
   [
@@ -197,16 +227,6 @@
     [
       "Black hole singularity is a surface not a point",
       "https://arxiv.org/abs/2608.21590"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 16:35:36",
-      "https://news.ycombinator.com/item?id=49436786"
-    ],
-    [
-      "Tooltips need a delay, and then they need to skip it",
-      "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Apple introduces M6 and M5 Ultra",
       "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 11:49:48",
-      "https://news.ycombinator.com/item?id=49432319"
-    ],
-    [
-      "Don't Wordle",
-      "https://dontwordle.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 11:37:24",
-      "https://news.ycombinator.com/item?id=49432201"
-    ],
-    [
-      "How credit card rewards became a $9.2B wealth transfer",
-      "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer"
     ]
   ],
   [
