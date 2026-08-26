@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 09:01:49](https://news.ycombinator.com/item?id=49445908) - [Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY](https://www.globalsolo.global/data/banking-access-index)
+* [2026-08-26, 08:59:15](https://news.ycombinator.com/item?id=49445884) - [Value Classes Still Need Compiler Sympathy](https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/)
+* [2026-08-26, 08:57:46](https://news.ycombinator.com/item?id=49445873) - [Oldinsurancemaps.net is now a Charter Project](https://openstreetmap.us/news/2026/08/oim-charter-project/)
+* [2026-08-26, 08:39:17](https://news.ycombinator.com/item?id=49445727) - [RAG Is Simpler Than You Think](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think)
 * [2026-08-26, 08:37:59](https://news.ycombinator.com/item?id=49445717) - [The End of Programming](https://pauldix.com/the-end-of-programming)
 * [2026-08-26, 07:36:52](https://news.ycombinator.com/item?id=49445286) - [Show HN: Buslens – where can I get to by bus? (UK)](https://rupertlinacre.com/buslens/)
 * [2026-08-26, 07:31:31](https://news.ycombinator.com/item?id=49445252) - [Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/)
