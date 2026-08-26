@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 10:44:40](https://news.ycombinator.com/item?id=49446748) - [U.S. gov't moves to suppress pushback on data centers](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them)
+* [2026-08-26, 10:26:03](https://news.ycombinator.com/item?id=49446602) - [The Feeling of Power (Asimov, 1958)](https://archive.org/details/1958-02_IF)
+* [2026-08-26, 10:07:02](https://news.ycombinator.com/item?id=49446442) - [Beyond Recall and the Illusion of Competence](https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html)
 * [2026-08-26, 10:04:55](https://news.ycombinator.com/item?id=49446422) - [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
 * [2026-08-26, 09:35:58](https://news.ycombinator.com/item?id=49446221) - [Social media use on the rise among Australian under-16s after ban: data](https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data)
 * [2026-08-26, 09:01:49](https://news.ycombinator.com/item?id=49445908) - [Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY](https://www.globalsolo.global/data/banking-access-index)
