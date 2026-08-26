@@ -2,7 +2,6 @@
 
 * [2026-08-26, 03:17:51](https://news.ycombinator.com/item?id=49443820) - [Ask HN: What is one simple thing LLMs are insanely bad at?](https://news.ycombinator.com/item?id=49443820)
 * [2026-08-26, 02:35:25](https://news.ycombinator.com/item?id=49443523) - [Agentic Context Management: Memory and Cost as Architecture Problems](https://arxiv.org/abs/2607.21503)
-* [2026-08-26, 00:40:41](https://news.ycombinator.com/item?id=49442743) - [The brain may be about to have its Ozempic moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
 * [2026-08-26, 00:20:49](https://news.ycombinator.com/item?id=49442589) - [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
 * [2026-08-25, 22:40:07](https://news.ycombinator.com/item?id=49441666) - [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
 * [2026-08-25, 22:08:50](https://news.ycombinator.com/item?id=49441375) - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
@@ -18,6 +17,7 @@
 * [2026-08-25, 17:02:49](https://news.ycombinator.com/item?id=49437210) - [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590)
 * [2026-08-25, 16:53:33](https://news.ycombinator.com/item?id=49437069) - [My Friend Aaron](https://rorz.io/writing/my-friend-aaron)
 * [2026-08-25, 16:52:05](https://news.ycombinator.com/item?id=49437049) - [Show HN: LatticeDB – Like SQLite but for graph databases](https://github.com/jeffhajewski/latticedb)
+* [2026-08-25, 16:37:52](https://news.ycombinator.com/item?id=49436822) - [Starbase, LA](https://www.spacex.com/sites/starbase-la)
 * [2026-08-25, 16:35:36](https://news.ycombinator.com/item?id=49436786) - [Tooltips need a delay, and then they need to skip it](https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/)
 * [2026-08-25, 15:20:20](https://news.ycombinator.com/item?id=49435675) - [Show HN: I made a Raspberry with Qwen my local car AI](https://github.com/ThinkOffApp/CarWatch)
 * [2026-08-25, 14:29:32](https://news.ycombinator.com/item?id=49434820) - [Bomb fishing is wreaking havoc on Indonesia's coral reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs)
