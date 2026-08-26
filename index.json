@@ -1,6 +1,126 @@
 [
   [
     [
+      "2026-08-26, 15:30:05",
+      "https://news.ycombinator.com/item?id=49450898"
+    ],
+    [
+      "It's so hard to finish an idea that is not yours (and suggested by AI)",
+      "https://www.ssp.sh/brain/using-obsidian-with-ai/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 15:19:40",
+      "https://news.ycombinator.com/item?id=49450722"
+    ],
+    [
+      "Disruption with Some GitHub Services",
+      "https://www.githubstatus.com/incidents/hcbtzksccj2f"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 15:07:44",
+      "https://news.ycombinator.com/item?id=49450500"
+    ],
+    [
+      "Show HN: TexLite – A lightweight self-hosted LaTeX workspace",
+      "https://github.com/SWUFE-DB-Group/TexLite"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 15:03:52",
+      "https://news.ycombinator.com/item?id=49450448"
+    ],
+    [
+      "Nebula Sans",
+      "https://www.nebulasans.com"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 15:02:15",
+      "https://news.ycombinator.com/item?id=49450417"
+    ],
+    [
+      "WebMCP: Teaching Your Website to Talk to AI Agents",
+      "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 15:01:11",
+      "https://news.ycombinator.com/item?id=49450394"
+    ],
+    [
+      "AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX",
+      "https://github.com/AurionMail/docs"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 14:58:54",
+      "https://news.ycombinator.com/item?id=49450353"
+    ],
+    [
+      "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
+      "https://artificialanalysis.ai/models/glm-5-3-flash"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 14:29:05",
+      "https://news.ycombinator.com/item?id=49449888"
+    ],
+    [
+      "You could have invented PageRank",
+      "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 14:21:56",
+      "https://news.ycombinator.com/item?id=49449755"
+    ],
+    [
+      "Take a Tour of SLAC",
+      "https://www6.slac.stanford.edu/public-tours"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 14:21:44",
+      "https://news.ycombinator.com/item?id=49449749"
+    ],
+    [
+      "Taylor Farms: How One Company's Reach Became a National Risk",
+      "https://farmaction.us/taylorfarmsreport/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 14:16:05",
+      "https://news.ycombinator.com/item?id=49449648"
+    ],
+    [
+      "Show HN: How much of Hacker News is AI?",
+      "https://hnstats.com"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 14:11:39",
+      "https://news.ycombinator.com/item?id=49449576"
+    ],
+    [
+      "Twitter Viewer – View Twitter Without Account",
+      "https://twitterwebviewer.com/"
+    ]
+  ],
+  [
+    [
       "2026-08-26, 14:08:50",
       "https://news.ycombinator.com/item?id=49449507"
     ],
@@ -11,12 +131,62 @@
   ],
   [
     [
-      "2026-08-26, 13:28:32",
-      "https://news.ycombinator.com/item?id=49448819"
+      "2026-08-26, 14:06:16",
+      "https://news.ycombinator.com/item?id=49449458"
     ],
     [
-      "Meta reaches $16.68B settlement over social media harms to children",
-      "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/"
+      "A Citation to Asimov",
+      "https://www.bookandsword.com/2026/08/25/a-citation-to-asimov/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 14:05:31",
+      "https://news.ycombinator.com/item?id=49449440"
+    ],
+    [
+      "How HN: Qisutu – an open-source, self-hosted ticketing and service desk",
+      "https://github.com/qisutu/qisutu"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 13:45:21",
+      "https://news.ycombinator.com/item?id=49449082"
+    ],
+    [
+      "AI Is a Harsh Mistress",
+      "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 13:34:39",
+      "https://news.ycombinator.com/item?id=49448909"
+    ],
+    [
+      "A Man Who Saw Humanity from Two Billion Years Away",
+      "https://thereader.mitpress.mit.edu/the-man-who-saw-humanity-from-two-billion-years-away/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 13:32:35",
+      "https://news.ycombinator.com/item?id=49448872"
+    ],
+    [
+      "France reaches 94.9% fiber coverage in 2026",
+      "https://cartefibre.arcep.fr"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 13:20:40",
+      "https://news.ycombinator.com/item?id=49448665"
+    ],
+    [
+      "11,000-year-old sculpture of man riding a leopard found in Turkey",
+      "https://www.thehistoryblog.com/archives/76809"
     ]
   ],
   [
@@ -51,32 +221,22 @@
   ],
   [
     [
-      "2026-08-26, 12:17:43",
-      "https://news.ycombinator.com/item?id=49447682"
-    ],
-    [
-      "Omarchy development practices lead to predictable security issues",
-      "https://blog.happyfellow.dev/merchants-of-insecurity/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 12:11:19",
-      "https://news.ycombinator.com/item?id=49447600"
-    ],
-    [
-      "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-      "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda"
-    ]
-  ],
-  [
-    [
       "2026-08-26, 12:00:07",
       "https://news.ycombinator.com/item?id=49447480"
     ],
     [
       "Proliferate (YC S25) Is Hiring",
       "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 11:15:56",
+      "https://news.ycombinator.com/item?id=49446984"
+    ],
+    [
+      "Radiation link in flight attendant's breast cancer, French court finds",
+      "https://www.bbc.com/news/articles/cn0j3z6147jo"
     ]
   ],
   [
@@ -97,16 +257,6 @@
     [
       "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
       "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 09:34:38",
-      "https://news.ycombinator.com/item?id=49446210"
-    ],
-    [
-      "XCancel and Nitter are receiving C&D letters from XCorp",
-      "https://news.ycombinator.com/item?id=49446210"
     ]
   ],
   [
@@ -137,156 +287,6 @@
     [
       "RAG Is Simpler Than You Think",
       "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 07:36:52",
-      "https://news.ycombinator.com/item?id=49445286"
-    ],
-    [
-      "Show HN: Buslens – where can I get to by bus? (UK)",
-      "https://rupertlinacre.com/buslens/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 05:09:07",
-      "https://news.ycombinator.com/item?id=49444232"
-    ],
-    [
-      "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
-      "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 00:20:49",
-      "https://news.ycombinator.com/item?id=49442589"
-    ],
-    [
-      "Queryable Executables",
-      "https://fzakaria.com/2026/08/24/actually-queryable-executables"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 22:40:07",
-      "https://news.ycombinator.com/item?id=49441666"
-    ],
-    [
-      "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "https://github.com/runetes/maiao"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 20:49:03",
-      "https://news.ycombinator.com/item?id=49440410"
-    ],
-    [
-      "When str.lower() is a security vulnerability in Python",
-      "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 19:07:01",
-      "https://news.ycombinator.com/item?id=49439017"
-    ],
-    [
-      "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 17:23:07",
-      "https://news.ycombinator.com/item?id=49437483"
-    ],
-    [
-      "Run OpenBSD on DigitalOcean for $4/month",
-      "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 17:08:21",
-      "https://news.ycombinator.com/item?id=49437283"
-    ],
-    [
-      "Nitter and XCancel receive cease and desist notices",
-      "https://github.com/zedeus/nitter/issues/1442"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 17:02:49",
-      "https://news.ycombinator.com/item?id=49437210"
-    ],
-    [
-      "Black hole singularity is a surface not a point",
-      "https://arxiv.org/abs/2608.21590"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 16:35:36",
-      "https://news.ycombinator.com/item?id=49436786"
-    ],
-    [
-      "Tooltips need a delay, and then they need to skip it",
-      "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 14:20:36",
-      "https://news.ycombinator.com/item?id=49434645"
-    ],
-    [
-      "Building a backyard office, the build and cost breakdown",
-      "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 14:06:02",
-      "https://news.ycombinator.com/item?id=49434378"
-    ],
-    [
-      "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 13:13:00",
-      "https://news.ycombinator.com/item?id=49433450"
-    ],
-    [
-      "New Mac mini, featuring M6 and M5 Pro",
-      "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 13:03:17",
-      "https://news.ycombinator.com/item?id=49433316"
-    ],
-    [
-      "New Mac Studio with M5 Max and M5 Ultra",
-      "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 13:01:22",
-      "https://news.ycombinator.com/item?id=49433292"
-    ],
-    [
-      "Apple introduces M6 and M5 Ultra",
-      "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
     ]
   ],
   [
