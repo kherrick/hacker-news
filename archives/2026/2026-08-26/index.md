@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 16:06:01](https://news.ycombinator.com/item?id=49451495) - [Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies](https://www.risklytics.ai/)
+* [2026-08-26, 16:03:37](https://news.ycombinator.com/item?id=49451448) - [Tim Curry, Star of Rocky Horror Picture Show and Stephen King's It, Dies Aged 80](https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film)
+* [2026-08-26, 15:57:22](https://news.ycombinator.com/item?id=49451354) - [Tim Curry Has Died](https://en.wikipedia.org/wiki/Tim_Curry)
+* [2026-08-26, 15:55:15](https://news.ycombinator.com/item?id=49451313) - [The turbulent AI era is here](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make)
 * [2026-08-26, 15:30:05](https://news.ycombinator.com/item?id=49450898) - [It's so hard to finish an idea that is not yours (and suggested by AI)](https://www.ssp.sh/brain/using-obsidian-with-ai/)
 * [2026-08-26, 15:19:40](https://news.ycombinator.com/item?id=49450722) - [Disruption with Some GitHub Services](https://www.githubstatus.com/incidents/hcbtzksccj2f)
 * [2026-08-26, 15:07:44](https://news.ycombinator.com/item?id=49450500) - [Show HN: TexLite – A lightweight self-hosted LaTeX workspace](https://github.com/SWUFE-DB-Group/TexLite)
