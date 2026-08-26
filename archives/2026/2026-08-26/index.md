@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 12:59:26](https://news.ycombinator.com/item?id=49448321) - [AWS Acquires DuckDB](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
+* [2026-08-26, 12:52:12](https://news.ycombinator.com/item?id=49448210) - [Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency](https://qwen.ai/blog?id=qwen3.8-flash-next)
+* [2026-08-26, 12:48:37](https://news.ycombinator.com/item?id=49448150) - [A curmudgeon tries a language server](https://entropicthoughts.com/curmudgeon-tries-language-server)
+* [2026-08-26, 12:47:47](https://news.ycombinator.com/item?id=49448137) - [Bill Gates: The turbulent AI era is here](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make)
+* [2026-08-26, 12:25:45](https://news.ycombinator.com/item?id=49447772) - [X sends in the lawyers to shut down open source project](https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548)
+* [2026-08-26, 12:17:43](https://news.ycombinator.com/item?id=49447682) - [Omarchy development practices lead to predictable security issues](https://blog.happyfellow.dev/merchants-of-insecurity/)
+* [2026-08-26, 12:11:19](https://news.ycombinator.com/item?id=49447600) - [Fake US thinktank set up and funded by Israel sought to game AI for propaganda](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
 * [2026-08-26, 12:00:07](https://news.ycombinator.com/item?id=49447480) - [Proliferate (YC S25) Is Hiring](https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer)
 * [2026-08-26, 11:23:43](https://news.ycombinator.com/item?id=49447054) - [Just say something people want](https://www.gkogan.co/say-something-people-want/)
 * [2026-08-26, 10:44:40](https://news.ycombinator.com/item?id=49446748) - [U.S. gov't moves to suppress pushback on data centers](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them)
