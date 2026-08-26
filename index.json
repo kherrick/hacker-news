@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-08-26, 17:42:22",
+      "https://news.ycombinator.com/item?id=49452990"
+    ],
+    [
+      "Tailcat",
+      "https://github.com/tailscale/tailcat"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 17:41:40",
+      "https://news.ycombinator.com/item?id=49452980"
+    ],
+    [
+      "An ongoing 3D-printer AGPL violation",
+      "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 17:31:08",
+      "https://news.ycombinator.com/item?id=49452822"
+    ],
+    [
+      "CDs vs. NIMBY",
+      "https://www.betonit.ai/p/cds-vs-nimby"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 17:28:21",
+      "https://news.ycombinator.com/item?id=49452789"
+    ],
+    [
+      "YouTube Format IDs",
+      "https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 17:24:15",
+      "https://news.ycombinator.com/item?id=49452740"
+    ],
+    [
+      "Graze Joins Flipboard",
+      "https://graze.leaflet.pub/3mtypcuxxc22p"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 17:20:12",
+      "https://news.ycombinator.com/item?id=49452671"
+    ],
+    [
+      "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+      "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 16:19:03",
+      "https://news.ycombinator.com/item?id=49451675"
+    ],
+    [
+      "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
+      "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer"
+    ]
+  ],
+  [
+    [
       "2026-08-26, 16:06:01",
       "https://news.ycombinator.com/item?id=49451495"
     ],
@@ -15,18 +85,8 @@
       "https://news.ycombinator.com/item?id=49451448"
     ],
     [
-      "Tim Curry, Star of Rocky Horror Picture Show and Stephen King's It, Dies Aged 80",
+      "Tim Curry has died",
       "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 15:57:22",
-      "https://news.ycombinator.com/item?id=49451354"
-    ],
-    [
-      "Tim Curry Has Died",
-      "https://en.wikipedia.org/wiki/Tim_Curry"
     ]
   ],
   [
@@ -45,7 +105,7 @@
       "https://news.ycombinator.com/item?id=49450898"
     ],
     [
-      "It's so hard to finish an idea that is not yours (and suggested by AI)",
+      "It’s so hard to finish an idea that is not yours and is just suggested by AI",
       "https://www.ssp.sh/brain/using-obsidian-with-ai/"
     ]
   ],
@@ -71,32 +131,12 @@
   ],
   [
     [
-      "2026-08-26, 15:02:15",
-      "https://news.ycombinator.com/item?id=49450417"
+      "2026-08-26, 14:49:30",
+      "https://news.ycombinator.com/item?id=49450188"
     ],
     [
-      "WebMCP: Teaching Your Website to Talk to AI Agents",
-      "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 15:01:11",
-      "https://news.ycombinator.com/item?id=49450394"
-    ],
-    [
-      "AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX",
-      "https://github.com/AurionMail/docs"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 14:58:54",
-      "https://news.ycombinator.com/item?id=49450353"
-    ],
-    [
-      "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
-      "https://artificialanalysis.ai/models/glm-5-3-flash"
+      "VMs won't contain cyber-capable agents",
+      "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/"
     ]
   ],
   [
@@ -105,7 +145,7 @@
       "https://news.ycombinator.com/item?id=49449888"
     ],
     [
-      "You could have invented PageRank",
+      "PageRank explained",
       "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/"
     ]
   ],
@@ -117,16 +157,6 @@
     [
       "Taylor Farms: How One Company's Reach Became a National Risk",
       "https://farmaction.us/taylorfarmsreport/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 14:16:05",
-      "https://news.ycombinator.com/item?id=49449648"
-    ],
-    [
-      "Show HN: How much of Hacker News is AI?",
-      "https://hnstats.com"
     ]
   ],
   [
@@ -161,12 +191,12 @@
   ],
   [
     [
-      "2026-08-26, 14:05:31",
-      "https://news.ycombinator.com/item?id=49449440"
+      "2026-08-26, 13:48:03",
+      "https://news.ycombinator.com/item?id=49449128"
     ],
     [
-      "How HN: Qisutu – an open-source, self-hosted ticketing and service desk",
-      "https://github.com/qisutu/qisutu"
+      "Access to Urban Woodlands Linked with Lower Use of Antidepressants",
+      "https://e360.yale.edu/digest/scotland-woodlands-antidepressants"
     ]
   ],
   [
@@ -181,21 +211,11 @@
   ],
   [
     [
-      "2026-08-26, 13:32:35",
-      "https://news.ycombinator.com/item?id=49448872"
-    ],
-    [
-      "France reaches 94.9% fiber coverage in 2026",
-      "https://cartefibre.arcep.fr"
-    ]
-  ],
-  [
-    [
       "2026-08-26, 13:28:32",
       "https://news.ycombinator.com/item?id=49448819"
     ],
     [
-      "Meta reaches $16.68B settlement over social media harms to children",
+      "Meta reaches $17B settlement over social media harms to children",
       "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/"
     ]
   ],
@@ -215,7 +235,7 @@
       "https://news.ycombinator.com/item?id=49448321"
     ],
     [
-      "AWS Acquires DuckDB",
+      "AWS Acquires DuckLabs",
       "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws"
     ]
   ],
@@ -225,7 +245,7 @@
       "https://news.ycombinator.com/item?id=49448210"
     ],
     [
-      "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+      "Qwen3.8-Flash-Next",
       "https://qwen.ai/blog?id=qwen3.8-flash-next"
     ]
   ],
@@ -247,26 +267,6 @@
     [
       "Radiation link in flight attendant's breast cancer, French court finds",
       "https://www.bbc.com/news/articles/cn0j3z6147jo"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 10:07:02",
-      "https://news.ycombinator.com/item?id=49446442"
-    ],
-    [
-      "Beyond Recall and the Illusion of Competence",
-      "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 10:04:55",
-      "https://news.ycombinator.com/item?id=49446422"
-    ],
-    [
-      "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
     ]
   ],
   [
