@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 19:45:59](https://news.ycombinator.com/item?id=49454764) - [Serve Markdown to AI Agents with Accept Headers](https://acceptmarkdown.com/)
+* [2026-08-26, 19:44:33](https://news.ycombinator.com/item?id=49454742) - [The risks of AI are real but manageable (2023)](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable)
+* [2026-08-26, 19:43:48](https://news.ycombinator.com/item?id=49454728) - [GitHub Outage Tracker: Is GitHub Cooked?](https://isgithubcooked.com/)
+* [2026-08-26, 19:23:01](https://news.ycombinator.com/item?id=49454419) - [Dallas startup enriches Uranium](https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu)
+* [2026-08-26, 19:15:23](https://news.ycombinator.com/item?id=49454314) - [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead/)
+* [2026-08-26, 19:08:58](https://news.ycombinator.com/item?id=49454205) - [A Thread-Register Decoupled GPU Execution Model for Efficient Tensor Computation](https://arxiv.org/abs/2608.19628)
+* [2026-08-26, 17:54:51](https://news.ycombinator.com/item?id=49453161) - [The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada](https://thetariffcost.com/)
 * [2026-08-26, 17:42:22](https://news.ycombinator.com/item?id=49452990) - [Tailcat](https://github.com/tailscale/tailcat)
 * [2026-08-26, 17:41:40](https://news.ycombinator.com/item?id=49452980) - [An ongoing 3D-printer AGPL violation](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/)
 * [2026-08-26, 17:31:08](https://news.ycombinator.com/item?id=49452822) - [CDs vs. NIMBY](https://www.betonit.ai/p/cds-vs-nimby)
