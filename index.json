@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-08-26, 03:23:50",
-      "https://news.ycombinator.com/item?id=49443871"
+      "2026-08-26, 05:49:20",
+      "https://news.ycombinator.com/item?id=49444514"
     ],
     [
-      "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
-      "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026"
+      "More than half of adults in U.S. say they lack basic statistical understanding",
+      "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 05:09:07",
+      "https://news.ycombinator.com/item?id=49444232"
+    ],
+    [
+      "Secret Cold War IBM Supercomputer Was Built for One Job",
+      "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=49440410"
     ],
     [
-      "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "When str.lower() is a security vulnerability in Python",
       "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability"
     ]
   ],
@@ -167,16 +177,6 @@
     [
       "Show HN: LatticeDB – Like SQLite but for graph databases",
       "https://github.com/jeffhajewski/latticedb"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 16:37:52",
-      "https://news.ycombinator.com/item?id=49436822"
-    ],
-    [
-      "Starbase, LA",
-      "https://www.spacex.com/sites/starbase-la"
     ]
   ],
   [
