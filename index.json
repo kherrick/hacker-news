@@ -1,11 +1,81 @@
 [
   [
     [
+      "2026-08-26, 19:45:59",
+      "https://news.ycombinator.com/item?id=49454764"
+    ],
+    [
+      "Serve Markdown to AI Agents with Accept Headers",
+      "https://acceptmarkdown.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 19:44:33",
+      "https://news.ycombinator.com/item?id=49454742"
+    ],
+    [
+      "The risks of AI are real but manageable (2023)",
+      "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 19:43:48",
+      "https://news.ycombinator.com/item?id=49454728"
+    ],
+    [
+      "GitHub Outage Tracker: Is GitHub Cooked?",
+      "https://isgithubcooked.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 19:23:01",
+      "https://news.ycombinator.com/item?id=49454419"
+    ],
+    [
+      "Dallas startup enriches Uranium",
+      "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 19:15:23",
+      "https://news.ycombinator.com/item?id=49454314"
+    ],
+    [
+      "The Hugging Face incident and the road ahead",
+      "https://openai.com/index/hugging-face-incident-and-the-road-ahead/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 19:08:58",
+      "https://news.ycombinator.com/item?id=49454205"
+    ],
+    [
+      "A Thread-Register Decoupled GPU Execution Model for Efficient Tensor Computation",
+      "https://arxiv.org/abs/2608.19628"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 17:54:51",
+      "https://news.ycombinator.com/item?id=49453161"
+    ],
+    [
+      "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
+      "https://thetariffcost.com/"
+    ]
+  ],
+  [
+    [
       "2026-08-26, 17:42:22",
       "https://news.ycombinator.com/item?id=49452990"
     ],
     [
-      "Tailcat",
+      "Tailcat – Like netcat, but over Tailscale’s data plane",
       "https://github.com/tailscale/tailcat"
     ]
   ],
@@ -21,32 +91,12 @@
   ],
   [
     [
-      "2026-08-26, 17:31:08",
-      "https://news.ycombinator.com/item?id=49452822"
-    ],
-    [
-      "CDs vs. NIMBY",
-      "https://www.betonit.ai/p/cds-vs-nimby"
-    ]
-  ],
-  [
-    [
       "2026-08-26, 17:28:21",
       "https://news.ycombinator.com/item?id=49452789"
     ],
     [
       "YouTube Format IDs",
       "https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 17:24:15",
-      "https://news.ycombinator.com/item?id=49452740"
-    ],
-    [
-      "Graze Joins Flipboard",
-      "https://graze.leaflet.pub/3mtypcuxxc22p"
     ]
   ],
   [
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2026-08-26, 15:55:15",
-      "https://news.ycombinator.com/item?id=49451313"
-    ],
-    [
-      "The turbulent AI era is here",
-      "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
-    ]
-  ],
-  [
-    [
       "2026-08-26, 15:30:05",
       "https://news.ycombinator.com/item?id=49450898"
     ],
@@ -127,16 +167,6 @@
     [
       "Nebula Sans",
       "https://www.nebulasans.com"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 14:49:30",
-      "https://news.ycombinator.com/item?id=49450188"
-    ],
-    [
-      "VMs won't contain cyber-capable agents",
-      "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2026-08-26, 14:06:16",
-      "https://news.ycombinator.com/item?id=49449458"
-    ],
-    [
-      "A Citation to Asimov",
-      "https://www.bookandsword.com/2026/08/25/a-citation-to-asimov/"
-    ]
-  ],
-  [
-    [
       "2026-08-26, 13:48:03",
       "https://news.ycombinator.com/item?id=49449128"
     ],
     [
       "Access to Urban Woodlands Linked with Lower Use of Antidepressants",
       "https://e360.yale.edu/digest/scotland-woodlands-antidepressants"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 13:34:39",
-      "https://news.ycombinator.com/item?id=49448909"
-    ],
-    [
-      "A Man Who Saw Humanity from Two Billion Years Away",
-      "https://thereader.mitpress.mit.edu/the-man-who-saw-humanity-from-two-billion-years-away/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Radiation link in flight attendant's breast cancer, French court finds",
       "https://www.bbc.com/news/articles/cn0j3z6147jo"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 08:57:46",
-      "https://news.ycombinator.com/item?id=49445873"
-    ],
-    [
-      "Oldinsurancemaps.net is now a Charter Project",
-      "https://openstreetmap.us/news/2026/08/oim-charter-project/"
     ]
   ],
   [
