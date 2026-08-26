@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 14:08:50](https://news.ycombinator.com/item?id=49449507) - [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)
+* [2026-08-26, 13:28:32](https://news.ycombinator.com/item?id=49448819) - [Meta reaches $16.68B settlement over social media harms to children](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/)
 * [2026-08-26, 12:59:26](https://news.ycombinator.com/item?id=49448321) - [AWS Acquires DuckDB](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
 * [2026-08-26, 12:52:12](https://news.ycombinator.com/item?id=49448210) - [Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency](https://qwen.ai/blog?id=qwen3.8-flash-next)
 * [2026-08-26, 12:48:37](https://news.ycombinator.com/item?id=49448150) - [A curmudgeon tries a language server](https://entropicthoughts.com/curmudgeon-tries-language-server)
