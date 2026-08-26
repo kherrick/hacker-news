@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-26, 05:49:20](https://news.ycombinator.com/item?id=49444514) - [More than half of adults in U.S. say they lack basic statistical understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
-* [2026-08-26, 05:09:07](https://news.ycombinator.com/item?id=49444232) - [Secret Cold War IBM Supercomputer Was Built for One Job](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
+* [2026-08-26, 05:09:07](https://news.ycombinator.com/item?id=49444232) - [Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
 * [2026-08-26, 02:35:25](https://news.ycombinator.com/item?id=49443523) - [Agentic Context Management: Memory and Cost as Architecture Problems](https://arxiv.org/abs/2607.21503)
 * [2026-08-26, 00:20:49](https://news.ycombinator.com/item?id=49442589) - [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
 * [2026-08-25, 22:40:07](https://news.ycombinator.com/item?id=49441666) - [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
@@ -27,8 +27,8 @@
 * [2026-08-25, 13:03:17](https://news.ycombinator.com/item?id=49433316) - [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
 * [2026-08-25, 13:01:22](https://news.ycombinator.com/item?id=49433292) - [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
 * [2026-08-25, 11:49:48](https://news.ycombinator.com/item?id=49432319) - [Don't Wordle](https://dontwordle.com/)
+* [2026-08-25, 11:37:24](https://news.ycombinator.com/item?id=49432201) - [How credit card rewards became a $9.2B wealth transfer](https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer)
 * [2026-08-24, 18:21:17](https://news.ycombinator.com/item?id=49423878) - [Visualizing Binary Files](https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html)
-* [2026-08-24, 17:21:20](https://news.ycombinator.com/item?id=49423045) - [Tracking Costco gas prices](https://www.jack.bio/blog/costco-gas-tracking)
 * [2026-08-22, 01:52:24](https://news.ycombinator.com/item?id=49395802) - [Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]](https://www.youtube.com/watch?v=656058JxTM0)
 
 ## [Archives](archives/index.md)
