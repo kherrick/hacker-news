@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-26, 11:23:43](https://news.ycombinator.com/item?id=49447054) - [Just say something people want](https://www.gkogan.co/say-something-people-want/)
 * [2026-08-26, 10:44:40](https://news.ycombinator.com/item?id=49446748) - [U.S. gov't moves to suppress pushback on data centers](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them)
-* [2026-08-26, 10:26:03](https://news.ycombinator.com/item?id=49446602) - [The Feeling of Power (Asimov, 1958)](https://archive.org/details/1958-02_IF)
+* [2026-08-26, 10:25:33](https://news.ycombinator.com/item?id=49446597) - [It's Not the End of Programming](https://mathstodon.xyz/@abuseofnotation/117161292083848755)
 * [2026-08-26, 10:07:02](https://news.ycombinator.com/item?id=49446442) - [Beyond Recall and the Illusion of Competence](https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html)
 * [2026-08-26, 10:04:55](https://news.ycombinator.com/item?id=49446422) - [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
 * [2026-08-26, 09:35:58](https://news.ycombinator.com/item?id=49446221) - [Social media use on the rise among Australian under-16s after ban: data](https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data)
@@ -9,7 +10,6 @@
 * [2026-08-26, 08:57:46](https://news.ycombinator.com/item?id=49445873) - [Oldinsurancemaps.net is now a Charter Project](https://openstreetmap.us/news/2026/08/oim-charter-project/)
 * [2026-08-26, 08:39:17](https://news.ycombinator.com/item?id=49445727) - [RAG Is Simpler Than You Think](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think)
 * [2026-08-26, 07:36:52](https://news.ycombinator.com/item?id=49445286) - [Show HN: Buslens – where can I get to by bus? (UK)](https://rupertlinacre.com/buslens/)
-* [2026-08-26, 05:49:20](https://news.ycombinator.com/item?id=49444514) - [More than half of adults in U.S. say they lack basic statistical understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
 * [2026-08-26, 05:09:07](https://news.ycombinator.com/item?id=49444232) - [Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
 * [2026-08-26, 02:35:25](https://news.ycombinator.com/item?id=49443523) - [Agentic Context Management: Memory and Cost as Architecture Problems](https://arxiv.org/abs/2607.21503)
 * [2026-08-26, 00:20:49](https://news.ycombinator.com/item?id=49442589) - [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
