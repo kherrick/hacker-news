@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-08-27, 08:28:31",
+      "https://news.ycombinator.com/item?id=49461608"
+    ],
+    [
+      "The Dutch are filling gas wells with cement",
+      "https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with"
+    ]
+  ],
+  [
+    [
+      "2026-08-27, 02:21:18",
+      "https://news.ycombinator.com/item?id=49458709"
+    ],
+    [
+      "Kusama Yayoi has died",
+      "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-27, 01:50:26",
+      "https://news.ycombinator.com/item?id=49458478"
+    ],
+    [
+      "Laion Big Video Dataset",
+      "https://projects.laion.ai/bvd/"
+    ]
+  ],
+  [
+    [
+      "2026-08-27, 01:46:22",
+      "https://news.ycombinator.com/item?id=49458418"
+    ],
+    [
+      "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "https://github.com/SenteLabsAI/OpenExecutive"
+    ]
+  ],
+  [
+    [
+      "2026-08-27, 01:12:55",
+      "https://news.ycombinator.com/item?id=49458161"
+    ],
+    [
+      "Nvidia agrees to acquire Hugging Face for $13B",
+      "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 23:55:44",
+      "https://news.ycombinator.com/item?id=49457545"
+    ],
+    [
+      "Mechanical Turk shutting down September 30",
+      "https://www.mturk.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 23:50:15",
+      "https://news.ycombinator.com/item?id=49457512"
+    ],
+    [
+      "Zohran and the Short Link",
+      "https://iamwillwang.com/notes/zohran-and-the-short-link/"
+    ]
+  ],
+  [
+    [
       "2026-08-26, 22:44:03",
       "https://news.ycombinator.com/item?id=49456929"
     ],
@@ -15,8 +85,18 @@
       "https://news.ycombinator.com/item?id=49456851"
     ],
     [
-      "Progress Linux 7.2 – Asahi Linux",
+      "Asahi Linux Progress Report: Linux 7.2",
       "https://asahilinux.org/2026/08/progress-report-7-2/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 21:09:32",
+      "https://news.ycombinator.com/item?id=49455956"
+    ],
+    [
+      "Stripe acquires Clerky",
+      "https://www.clerky.com/blog/clerky-is-joining-stripe"
     ]
   ],
   [
@@ -25,7 +105,7 @@
       "https://news.ycombinator.com/item?id=49455530"
     ],
     [
-      "mold: A Parallel Linker",
+      "Mold: A Massively Parallel Linker",
       "https://arxiv.org/abs/2608.23228"
     ]
   ],
@@ -51,16 +131,6 @@
   ],
   [
     [
-      "2026-08-26, 19:43:48",
-      "https://news.ycombinator.com/item?id=49454728"
-    ],
-    [
-      "GitHub Outage Tracker: Is GitHub Cooked?",
-      "https://isgithubcooked.com/"
-    ]
-  ],
-  [
-    [
       "2026-08-26, 19:23:01",
       "https://news.ycombinator.com/item?id=49454419"
     ],
@@ -77,16 +147,6 @@
     [
       "The Hugging Face incident and the road ahead",
       "https://openai.com/index/hugging-face-incident-and-the-road-ahead/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 17:54:51",
-      "https://news.ycombinator.com/item?id=49453161"
-    ],
-    [
-      "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
-      "https://thetariffcost.com/"
     ]
   ],
   [
@@ -111,21 +171,11 @@
   ],
   [
     [
-      "2026-08-26, 17:28:21",
-      "https://news.ycombinator.com/item?id=49452789"
-    ],
-    [
-      "YouTube Format IDs",
-      "https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa"
-    ]
-  ],
-  [
-    [
       "2026-08-26, 17:22:16",
       "https://news.ycombinator.com/item?id=49452709"
     ],
     [
-      "U.S. State Department Pauses Immigrant Visa Applications",
+      "U.S. State Department pauses immigrant visa applications",
       "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23"
     ]
   ],
@@ -151,21 +201,11 @@
   ],
   [
     [
-      "2026-08-26, 16:40:01",
-      "https://news.ycombinator.com/item?id=49452037"
-    ],
-    [
-      "Show HN: Build your own theme park",
-      "https://www.magicpatterns.com/theme-park"
-    ]
-  ],
-  [
-    [
       "2026-08-26, 16:19:03",
       "https://news.ycombinator.com/item?id=49451675"
     ],
     [
-      "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
+      "FDA approves first in class targeted therapy for metastatic pancreatic cancer",
       "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer"
     ]
   ],
@@ -187,16 +227,6 @@
     [
       "Tim Curry has died",
       "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 15:56:49",
-      "https://news.ycombinator.com/item?id=49451343"
-    ],
-    [
-      "US sanctions Italian hosting provider Autistici Inventati",
-      "https://home.treasury.gov/news/press-releases/sb0616"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "AWS Acquires DuckLabs",
       "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 12:52:12",
-      "https://news.ycombinator.com/item?id=49448210"
-    ],
-    [
-      "Qwen3.8-Flash-Next",
-      "https://qwen.ai/blog?id=qwen3.8-flash-next"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 12:00:07",
-      "https://news.ycombinator.com/item?id=49447480"
-    ],
-    [
-      "Proliferate (YC S25) Is Hiring",
-      "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 01:52:24",
-      "https://news.ycombinator.com/item?id=49395802"
-    ],
-    [
-      "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
-      "https://www.youtube.com/watch?v=656058JxTM0"
     ]
   ]
 ]
