@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-26](index.md)
 
+* [2026-08-26, 23:55:44](https://news.ycombinator.com/item?id=49457545) - [Mechanical Turk shutting down September 30](https://www.mturk.com/)
+* [2026-08-26, 23:50:15](https://news.ycombinator.com/item?id=49457512) - [Zohran and the Short Link](https://iamwillwang.com/notes/zohran-and-the-short-link/)
 * [2026-08-26, 22:44:03](https://news.ycombinator.com/item?id=49456929) - [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
 * [2026-08-26, 22:35:02](https://news.ycombinator.com/item?id=49456851) - [Progress Linux 7.2 – Asahi Linux](https://asahilinux.org/2026/08/progress-report-7-2/)
+* [2026-08-26, 21:09:32](https://news.ycombinator.com/item?id=49455956) - [Stripe acquires Clerky](https://www.clerky.com/blog/clerky-is-joining-stripe)
 * [2026-08-26, 20:37:02](https://news.ycombinator.com/item?id=49455530) - [mold: A Parallel Linker](https://arxiv.org/abs/2608.23228)
 * [2026-08-26, 20:32:29](https://news.ycombinator.com/item?id=49455471) - [IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE](https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone)
 * [2026-08-26, 19:45:59](https://news.ycombinator.com/item?id=49454764) - [Serve Markdown to AI Agents with Accept Headers](https://acceptmarkdown.com/)
