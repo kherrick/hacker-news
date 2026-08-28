@@ -1,52 +1,282 @@
 [
   [
     [
-      "2026-08-28, 03:35:15",
-      "https://news.ycombinator.com/item?id=49474060"
+      "2026-08-28, 15:58:46",
+      "https://news.ycombinator.com/item?id=49480466"
     ],
     [
-      "GoGoGrandparent (YC S16) is hiring back end engineers",
-      "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer"
+      "Just the rumour of a bug is enough to find an exploit these days",
+      "https://anil.recoil.org/notes/rumour-is-the-exploit"
     ]
   ],
   [
     [
-      "2026-08-28, 03:22:04",
-      "https://news.ycombinator.com/item?id=49473982"
+      "2026-08-28, 15:42:04",
+      "https://news.ycombinator.com/item?id=49480220"
     ],
     [
-      "CSV merger that lines up mismatched columns by header, browser-only",
-      "https://usefiletools.com/data/merge-csv/"
+      "How Dactyl Works",
+      "https://dactyl.dev/blog/how-dactyl-works/"
     ]
   ],
   [
     [
-      "2026-08-28, 03:02:42",
-      "https://news.ycombinator.com/item?id=49473868"
+      "2026-08-28, 15:24:44",
+      "https://news.ycombinator.com/item?id=49479951"
     ],
     [
-      "Bootstrappable Builds: How and Why",
-      "https://lwn.net/Articles/1088279/"
+      "Run Qwen3.8 27B locally: real numbers from my Mac Studio",
+      "https://terminalbytes.com/run-qwen-3-8-27b-locally/"
     ]
   ],
   [
     [
-      "2026-08-28, 02:46:39",
-      "https://news.ycombinator.com/item?id=49473767"
+      "2026-08-28, 15:21:26",
+      "https://news.ycombinator.com/item?id=49479898"
     ],
     [
-      "Show HN: IndexFlow – Open-source indexing infrastructure built with Rust",
-      "https://github.com/IndexFlowing/IndexFlow-core"
+      "Lake formed after ice-rock avalanche remains at a high level and is overflowing",
+      "https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns"
     ]
   ],
   [
     [
-      "2026-08-28, 02:05:57",
-      "https://news.ycombinator.com/item?id=49473536"
+      "2026-08-28, 15:20:13",
+      "https://news.ycombinator.com/item?id=49479878"
     ],
     [
-      "USDA recalls 30k pounds of Argentine beef sold in Texas and Florida",
-      "https://cbsaustin.com/news/local/usda-recalls-30000-pounds-of-argentine-beef-sold-in-texas-and-florida"
+      "GLM-5.3 is now open-weight",
+      "https://twitter.com/Zai_org/status/2093354097122455713"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 15:17:09",
+      "https://news.ycombinator.com/item?id=49479837"
+    ],
+    [
+      "GUIs should be fully keyboard-driven",
+      "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 15:16:07",
+      "https://news.ycombinator.com/item?id=49479826"
+    ],
+    [
+      "Don't use musl if you care about performance",
+      "https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 14:44:51",
+      "https://news.ycombinator.com/item?id=49479302"
+    ],
+    [
+      "Africa's Wild Dogs Are the Most Hated Carnivores on the Continent",
+      "https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 14:33:04",
+      "https://news.ycombinator.com/item?id=49479122"
+    ],
+    [
+      "Autistici/Inventati's main .org domain goes dark after US terrorism designation",
+      "https://mastodon.bida.im/@cavallette/117172989300228024"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 14:30:33",
+      "https://news.ycombinator.com/item?id=49479072"
+    ],
+    [
+      "Verschlimmbesserung: The Word Your Software Updates Need",
+      "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 13:51:17",
+      "https://news.ycombinator.com/item?id=49478489"
+    ],
+    [
+      "“Weird” is a weird word",
+      "https://www.deadlanguagesociety.com/p/weird-is-a-weird-word"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 13:46:28",
+      "https://news.ycombinator.com/item?id=49478401"
+    ],
+    [
+      "State of the Map 2026",
+      "https://2026.stateofthemap.org/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 13:43:11",
+      "https://news.ycombinator.com/item?id=49478348"
+    ],
+    [
+      "Autistici/Inventati case sets a new counterterrorism precedent, Irdi says",
+      "https://decode39.com/16319/autistici-inventati-case-sets-a-new-counterterrorism-precedent-irdi-says/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 13:42:40",
+      "https://news.ycombinator.com/item?id=49478340"
+    ],
+    [
+      "Get your Windows license refund",
+      "https://en.refund4freedom.org/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 13:28:56",
+      "https://news.ycombinator.com/item?id=49478178"
+    ],
+    [
+      "Htmx 4.0.0 has been released",
+      "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 13:21:03",
+      "https://news.ycombinator.com/item?id=49478091"
+    ],
+    [
+      "I used AWS cognito for a startup. I wouldn't do it again",
+      "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 13:05:49",
+      "https://news.ycombinator.com/item?id=49477925"
+    ],
+    [
+      "Interactive pattern discovery in binaries (FF-16-TUI)",
+      "https://github.com/HexLasso/FF-16-TUI"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 12:58:53",
+      "https://news.ycombinator.com/item?id=49477854"
+    ],
+    [
+      "U.S. Sanctions Against the a/I Collective",
+      "https://www.inventati.org/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 12:53:42",
+      "https://news.ycombinator.com/item?id=49477813"
+    ],
+    [
+      "Are Crows Our Friends?",
+      "https://www.audubon.org/magazine/are-crows-really-our-friends"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 12:32:16",
+      "https://news.ycombinator.com/item?id=49477600"
+    ],
+    [
+      "“It works better in the app”",
+      "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 12:29:05",
+      "https://news.ycombinator.com/item?id=49477564"
+    ],
+    [
+      "Inception-style curved map for turn-by-turn directions",
+      "https://www.orbify.eu/demo/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 12:28:41",
+      "https://news.ycombinator.com/item?id=49477559"
+    ],
+    [
+      "Smaller reactors bring nuclear power closer to fulfilling its promise",
+      "https://www.nature.com/articles/d41586-026-02506-4"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 12:01:50",
+      "https://news.ycombinator.com/item?id=49477292"
+    ],
+    [
+      "Bhartrhari's Paradox",
+      "https://www.futilitycloset.com/2026/08/18/bhartrharis-paradox/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 11:51:20",
+      "https://news.ycombinator.com/item?id=49477212"
+    ],
+    [
+      "OpenAI: Migrating to HTTPX2",
+      "https://github.com/openai/openai-python/blob/main/httpx2.md"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 11:41:45",
+      "https://news.ycombinator.com/item?id=49477157"
+    ],
+    [
+      "httpx2",
+      "https://github.com/pydantic/httpx2"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 09:00:46",
+      "https://news.ycombinator.com/item?id=49476143"
+    ],
+    [
+      "Hilariously Fast Volume Computation with the Divergence Theorem",
+      "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 08:35:07",
+      "https://news.ycombinator.com/item?id=49475979"
+    ],
+    [
+      "Interactive Warhammer 40k Galaxy Map – Cartographia Imperialis",
+      "https://cartographia40k.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 06:33:57",
+      "https://news.ycombinator.com/item?id=49475079"
+    ],
+    [
+      "Luanti removed from Google Play due to baseless AI copyright notice",
+      "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
     ]
   ],
   [
@@ -55,248 +285,18 @@
       "https://news.ycombinator.com/item?id=49473522"
     ],
     [
-      "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html"
     ]
   ],
   [
     [
-      "2026-08-28, 01:57:26",
-      "https://news.ycombinator.com/item?id=49473483"
+      "2026-08-27, 22:41:11",
+      "https://news.ycombinator.com/item?id=49472216"
     ],
     [
-      "Stripe said to abandon $50B pursuit of PayPal",
-      "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 00:06:51",
-      "https://news.ycombinator.com/item?id=49472820"
-    ],
-    [
-      "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "https://www.terminal-bench-science.ai/announcement"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 22:34:32",
-      "https://news.ycombinator.com/item?id=49472161"
-    ],
-    [
-      "Select * from Internet.blogposts",
-      "https://pfrazee.leaflet.pub/3mu3p2smmis22"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 22:10:47",
-      "https://news.ycombinator.com/item?id=49471965"
-    ],
-    [
-      "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-      "https://github.com/elyosh/OpenTIE/"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 21:46:39",
-      "https://news.ycombinator.com/item?id=49471714"
-    ],
-    [
-      "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-      "https://github.com/calmrocks/ai-engineer-notebooks"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 21:18:35",
-      "https://news.ycombinator.com/item?id=49471407"
-    ],
-    [
-      "Show HN: We built open OpenRouter that turns usage into a better model",
-      "https://github.com/experientiallabs/experiential"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 18:04:50",
-      "https://news.ycombinator.com/item?id=49468834"
-    ],
-    [
-      "Previewing the Model Hardware Standard",
-      "https://www.anthropic.com/news/model-hardware-standard-research-preview"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 18:03:42",
-      "https://news.ycombinator.com/item?id=49468818"
-    ],
-    [
-      "Gemini-3.5-Transcribe",
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 18:03:37",
-      "https://news.ycombinator.com/item?id=49468816"
-    ],
-    [
-      "Show HN: Voronoi Go",
-      "https://voronoigo.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 17:53:40",
-      "https://news.ycombinator.com/item?id=49468642"
-    ],
-    [
-      "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-      "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 17:50:57",
-      "https://news.ycombinator.com/item?id=49468593"
-    ],
-    [
-      "M5Stack Launches PaperMono",
-      "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 17:17:57",
-      "https://news.ycombinator.com/item?id=49468083"
-    ],
-    [
-      "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 17:06:32",
-      "https://news.ycombinator.com/item?id=49467922"
-    ],
-    [
-      "Gemini Omni 1.1 Flash",
-      "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 15:56:58",
-      "https://news.ycombinator.com/item?id=49466917"
-    ],
-    [
-      "Small Models Have Arrived",
-      "https://calv.info/small-models-have-arrived"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 15:55:12",
-      "https://news.ycombinator.com/item?id=49466894"
-    ],
-    [
-      "Suica, Japan's First IC Transit Card",
-      "https://www.tokyodev.com/articles/the-story-of-suica"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 15:40:04",
-      "https://news.ycombinator.com/item?id=49466622"
-    ],
-    [
-      "Engineered yeast for converting plastic and biomass compounds to food additives",
-      "https://acs.digitellinc.com/live/37/session/586399"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 15:01:11",
-      "https://news.ycombinator.com/item?id=49466006"
-    ],
-    [
-      "Decompiling a Nintendo 64 game in 84 days",
-      "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 14:08:18",
-      "https://news.ycombinator.com/item?id=49465169"
-    ],
-    [
-      "507 Mechanical Movements",
-      "https://507movements.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 13:22:36",
-      "https://news.ycombinator.com/item?id=49464543"
-    ],
-    [
-      "Emacs 31: An unofficial guide to Markdown-ts-mode",
-      "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 10:57:56",
-      "https://news.ycombinator.com/item?id=49462763"
-    ],
-    [
-      "Microduck",
-      "https://pollen-robotics.com/microduck/"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 08:59:49",
-      "https://news.ycombinator.com/item?id=49461817"
-    ],
-    [
-      "Show HN: The load-bearing vocabulary of Claude",
-      "https://louisabraham.github.io/load-bearing/"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 01:12:55",
-      "https://news.ycombinator.com/item?id=49458161"
-    ],
-    [
-      "Nvidia agrees to acquire Hugging Face for $13B",
-      "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 00:18:27",
-      "https://news.ycombinator.com/item?id=49457722"
-    ],
-    [
-      "Afterglow: Run classic After Dark screen savers on modern macOS",
-      "https://morphing.cloud/afterglow/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 11:23:54",
-      "https://news.ycombinator.com/item?id=49447057"
-    ],
-    [
-      "The turbulent AI era is here",
-      "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med"
+      "The Twelve-Factor App",
+      "https://12factor.net/"
     ]
   ]
 ]
