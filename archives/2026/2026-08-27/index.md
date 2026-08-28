@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-08-27](index.md)
 
+* [2026-08-27, 22:34:32](https://news.ycombinator.com/item?id=49472161) - [Select * from Internet.blogposts](https://pfrazee.leaflet.pub/3mu3p2smmis22)
+* [2026-08-27, 22:10:47](https://news.ycombinator.com/item?id=49471965) - [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
+* [2026-08-27, 21:46:39](https://news.ycombinator.com/item?id=49471714) - [AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab](https://github.com/calmrocks/ai-engineer-notebooks)
+* [2026-08-27, 21:18:35](https://news.ycombinator.com/item?id=49471407) - [Show HN: We built open OpenRouter that turns usage into a better model](https://github.com/experientiallabs/experiential)
 * [2026-08-27, 18:34:40](https://news.ycombinator.com/item?id=49469249) - [Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)
 * [2026-08-27, 18:23:43](https://news.ycombinator.com/item?id=49469098) - [Autism mutations drive neurodevelopmental pathology](https://www.science.org/doi/10.1126/science.ady4523)
 * [2026-08-27, 18:04:50](https://news.ycombinator.com/item?id=49468834) - [Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview)
+* [2026-08-27, 18:03:42](https://news.ycombinator.com/item?id=49468818) - [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/)
 * [2026-08-27, 18:03:37](https://news.ycombinator.com/item?id=49468816) - [Show HN: Voronoi Go](https://voronoigo.com/)
 * [2026-08-27, 17:53:40](https://news.ycombinator.com/item?id=49468642) - [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290)
 * [2026-08-27, 17:50:57](https://news.ycombinator.com/item?id=49468593) - [M5Stack Launches PaperMono](https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects)
