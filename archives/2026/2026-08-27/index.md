@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-27](index.md)
 
+* [2026-08-27, 22:41:11](https://news.ycombinator.com/item?id=49472216) - [The Twelve-Factor App](https://12factor.net/)
 * [2026-08-27, 22:34:32](https://news.ycombinator.com/item?id=49472161) - [Select * from Internet.blogposts](https://pfrazee.leaflet.pub/3mu3p2smmis22)
 * [2026-08-27, 22:10:47](https://news.ycombinator.com/item?id=49471965) - [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
 * [2026-08-27, 21:46:39](https://news.ycombinator.com/item?id=49471714) - [AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab](https://github.com/calmrocks/ai-engineer-notebooks)
