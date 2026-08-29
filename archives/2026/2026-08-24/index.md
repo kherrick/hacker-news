@@ -79,6 +79,7 @@
 * [2026-08-24, 10:52:24](https://news.ycombinator.com/item?id=49417941) - [The treasury bond mess: is this the demise of the US as a safe haven?](https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt)
 * [2026-08-24, 10:28:56](https://news.ycombinator.com/item?id=49417766) - [Ask HN: Those making $500/month on side projects in 2026 – Show and tell](https://news.ycombinator.com/item?id=49417766)
 * [2026-08-24, 10:18:03](https://news.ycombinator.com/item?id=49417684) - [Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System](https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release)
+* [2026-08-24, 10:14:50](https://news.ycombinator.com/item?id=49417662) - [Kmart Digicam Mod Part 2](https://mason.bearblog.dev/kmart-digicam-mod-part-2/)
 * [2026-08-24, 09:45:02](https://news.ycombinator.com/item?id=49417394) - [Woman stranded in Spain after UK's eVisa system mistakes her for twin sister](https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister)
 * [2026-08-24, 09:30:09](https://news.ycombinator.com/item?id=49417298) - [Monzo Stand-In](https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in)
 * [2026-08-24, 08:46:19](https://news.ycombinator.com/item?id=49416953) - [The Future Belongs to the Weird](https://essays.georgestrakhov.com/weird/)

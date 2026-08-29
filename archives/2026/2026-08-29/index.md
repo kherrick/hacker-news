@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-08-29](index.md)
 
+* [2026-08-29, 19:09:33](https://news.ycombinator.com/item?id=49492432) - [Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)
+* [2026-08-29, 18:44:37](https://news.ycombinator.com/item?id=49492219) - [DHS is using obscure law to snoop on journalists, non-profits, unions](https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits)
+* [2026-08-29, 18:40:56](https://news.ycombinator.com/item?id=49492193) - [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
+* [2026-08-29, 17:39:18](https://news.ycombinator.com/item?id=49491714) - [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/)
+* [2026-08-29, 17:19:47](https://news.ycombinator.com/item?id=49491568) - [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
+* [2026-08-29, 17:13:45](https://news.ycombinator.com/item?id=49491544) - [A better SQL in 11 lines of code](https://prela-lang.org/tutorial/)
+* [2026-08-29, 16:24:21](https://news.ycombinator.com/item?id=49491175) - [Trees for a Changing Climate and Resilient Urban Forest (2022)](https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest)
+* [2026-08-29, 16:16:32](https://news.ycombinator.com/item?id=49491113) - [The growing divide between AI hype and software engineering reality](https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/)
 * [2026-08-29, 15:48:02](https://news.ycombinator.com/item?id=49490870) - [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
 * [2026-08-29, 15:43:53](https://news.ycombinator.com/item?id=49490832) - [Quantifying Colour](https://ekunazanu.foo/lab/quantifying-colour/)
 * [2026-08-29, 15:42:43](https://news.ycombinator.com/item?id=49490826) - [Parsing the Infamous Japanese Postal CSV](https://www.dampfkraft.com/posuto.html)
