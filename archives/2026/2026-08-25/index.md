@@ -69,6 +69,7 @@
 * [2026-08-25, 03:54:19](https://news.ycombinator.com/item?id=49428882) - [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
 * [2026-08-25, 03:46:01](https://news.ycombinator.com/item?id=49428842) - [Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?](https://news.ycombinator.com/item?id=49428842)
 * [2026-08-25, 03:06:26](https://news.ycombinator.com/item?id=49428638) - [SiFive's First Server Platform](https://chipsandcheese.com/p/sifives-first-server-platform)
+* [2026-08-25, 02:17:19](https://news.ycombinator.com/item?id=49428343) - [Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?](https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/)
 * [2026-08-25, 02:11:39](https://news.ycombinator.com/item?id=49428318) - [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
 * [2026-08-25, 01:40:39](https://news.ycombinator.com/item?id=49428121) - [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
 * [2026-08-25, 01:35:00](https://news.ycombinator.com/item?id=49428080) - [Was Modern Art a CIA Psy-Op?](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)

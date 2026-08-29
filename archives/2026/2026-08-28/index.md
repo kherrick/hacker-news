@@ -18,6 +18,7 @@
 * [2026-08-28, 15:58:46](https://news.ycombinator.com/item?id=49480466) - [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
 * [2026-08-28, 15:42:04](https://news.ycombinator.com/item?id=49480220) - [How Dactyl Works](https://dactyl.dev/blog/how-dactyl-works/)
 * [2026-08-28, 15:24:44](https://news.ycombinator.com/item?id=49479951) - [Run Qwen3.8 27B locally: real numbers from my Mac Studio](https://terminalbytes.com/run-qwen-3-8-27b-locally/)
+* [2026-08-28, 15:23:10](https://news.ycombinator.com/item?id=49479924) - [EasyEffects can improve laptop speaker sound quality](https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/)
 * [2026-08-28, 15:21:26](https://news.ycombinator.com/item?id=49479898) - [Lake formed after ice-rock avalanche remains at a high level and is overflowing](https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns)
 * [2026-08-28, 15:20:13](https://news.ycombinator.com/item?id=49479878) - [GLM-5.3 is now open-weight](https://twitter.com/Zai_org/status/2093354097122455713)
 * [2026-08-28, 15:20:13](https://news.ycombinator.com/item?id=49479878) - [GLM-5.3 is now open-weight](https://huggingface.co/zai-org/GLM-5.3)
