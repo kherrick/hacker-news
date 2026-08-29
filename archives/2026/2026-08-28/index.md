@@ -24,6 +24,7 @@
 * [2026-08-28, 15:20:13](https://news.ycombinator.com/item?id=49479878) - [GLM-5.3 is now open-weight](https://huggingface.co/zai-org/GLM-5.3)
 * [2026-08-28, 15:17:09](https://news.ycombinator.com/item?id=49479837) - [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
 * [2026-08-28, 15:16:07](https://news.ycombinator.com/item?id=49479826) - [Don't use musl if you care about performance](https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance/)
+* [2026-08-28, 14:59:15](https://news.ycombinator.com/item?id=49479546) - [Creating the Aetheryte Radio](https://haz.ee/posts/aetheryte-radio.html)
 * [2026-08-28, 14:44:51](https://news.ycombinator.com/item?id=49479302) - [Africa's Wild Dogs Are the Most Hated Carnivores on the Continent](https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/)
 * [2026-08-28, 14:33:04](https://news.ycombinator.com/item?id=49479122) - [Autistici/Inventati's main .org domain goes dark after US terrorism designation](https://mastodon.bida.im/@cavallette/117172989300228024)
 * [2026-08-28, 14:30:33](https://news.ycombinator.com/item?id=49479072) - [Verschlimmbesserung: The Word Your Software Updates Need](https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/)

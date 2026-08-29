@@ -66,6 +66,7 @@
 * [2026-08-26, 12:17:43](https://news.ycombinator.com/item?id=49447682) - [Omarchy development practices lead to predictable security issues](https://blog.happyfellow.dev/merchants-of-insecurity/)
 * [2026-08-26, 12:11:19](https://news.ycombinator.com/item?id=49447600) - [Fake US thinktank set up and funded by Israel sought to game AI for propaganda](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
 * [2026-08-26, 12:00:07](https://news.ycombinator.com/item?id=49447480) - [Proliferate (YC S25) Is Hiring](https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer)
+* [2026-08-26, 11:33:31](https://news.ycombinator.com/item?id=49447178) - [Show HN: Typebase – A single-folder back end you write in TypeScript](https://typebase.io)
 * [2026-08-26, 11:23:54](https://news.ycombinator.com/item?id=49447057) - [The turbulent AI era is here](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med)
 * [2026-08-26, 11:23:43](https://news.ycombinator.com/item?id=49447054) - [Just say something people want](https://www.gkogan.co/say-something-people-want/)
 * [2026-08-26, 11:15:56](https://news.ycombinator.com/item?id=49446984) - [Radiation link in flight attendant's breast cancer, French court finds](https://www.bbc.com/news/articles/cn0j3z6147jo)

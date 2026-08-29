@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
 * [2026-08-24, 23:00:37](https://news.ycombinator.com/item?id=49427001) - [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
+* [2026-08-24, 23:00:10](https://news.ycombinator.com/item?id=49426995) - [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support)
 * [2026-08-24, 22:13:40](https://news.ycombinator.com/item?id=49426564) - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
 * [2026-08-24, 22:06:02](https://news.ycombinator.com/item?id=49426466) - [Moon](https://ciechanow.ski/moon/)
 * [2026-08-24, 21:31:17](https://news.ycombinator.com/item?id=49426118) - [NIST is selling Peanut Butter for $415.33 per jar](https://shop.nist.gov/ccrz__ProductDetails?sku=2387)
@@ -95,6 +96,7 @@
 * [2026-08-24, 05:47:27](https://news.ycombinator.com/item?id=49415621) - [New EU-wide product repair rules come into force](https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/)
 * [2026-08-24, 05:12:45](https://news.ycombinator.com/item?id=49415405) - [Elevated Errors for Multiple Models](https://status.claude.com/incidents/vgz5psbjmt1h)
 * [2026-08-24, 05:10:49](https://news.ycombinator.com/item?id=49415393) - [OpenAI web interface to Claude down, again](https://news.ycombinator.com/item?id=49415393)
+* [2026-08-24, 05:09:23](https://news.ycombinator.com/item?id=49415386) - [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/)
 * [2026-08-24, 04:48:20](https://news.ycombinator.com/item?id=49415271) - [Executable Is a SQLite Database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
 * [2026-08-24, 04:47:14](https://news.ycombinator.com/item?id=49415265) - [Mourning Steve French](https://lwn.net/Articles/1090098/)
 * [2026-08-24, 04:41:37](https://news.ycombinator.com/item?id=49415237) - [AI Is Quietly Draining the Public Internet of Thought](https://twitter.com/BrianRoemmele/status/2091127620431933780)
