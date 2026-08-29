@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-08-29, 19:09:33",
-      "https://news.ycombinator.com/item?id=49492432"
+      "2026-08-29, 21:37:07",
+      "https://news.ycombinator.com/item?id=49493563"
     ],
     [
-      "Warp builds self-improving agents on Claude",
-      "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude"
+      "$44M Solar-Powered EV Production Deal Struck",
+      "https://frequal.com/aptera/ProductionDealAug2026.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 20:53:56",
+      "https://news.ycombinator.com/item?id=49493244"
+    ],
+    [
+      "What we want is a hunter gatherer lifestyle with space age tools",
+      "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 19:33:23",
+      "https://news.ycombinator.com/item?id=49492632"
+    ],
+    [
+      "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+      "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 19:28:28",
+      "https://news.ycombinator.com/item?id=49492584"
+    ],
+    [
+      "Domain-Driven Agents",
+      "https://coldtake.dev/blog/domain-driven-agents"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 19:15:51",
+      "https://news.ycombinator.com/item?id=49492488"
+    ],
+    [
+      "A safe MySQL upgrade that wasn't so safe",
+      "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 19:01:09",
+      "https://news.ycombinator.com/item?id=49492368"
+    ],
+    [
+      "Functional State Machines in Rust: Typestate and Newtype Patterns",
+      "https://dl.acm.org/doi/10.1145/3830438.3830958"
     ]
   ],
   [
@@ -21,12 +71,12 @@
   ],
   [
     [
-      "2026-08-29, 18:40:56",
-      "https://news.ycombinator.com/item?id=49492193"
+      "2026-08-29, 18:22:00",
+      "https://news.ycombinator.com/item?id=49492067"
     ],
     [
-      "The Internet Is Kind of a Predatory Cesspit Now",
-      "https://www.stephendiehl.com/posts/internet_predatory_cesspit/"
+      "vLLM v0.28.0",
+      "https://github.com/vllm-project/vllm/releases/tag/v0.28.0"
     ]
   ],
   [
@@ -67,16 +117,6 @@
     [
       "Trees for a Changing Climate and Resilient Urban Forest (2022)",
       "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 16:16:32",
-      "https://news.ycombinator.com/item?id=49491113"
-    ],
-    [
-      "The growing divide between AI hype and software engineering reality",
-      "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"
     ]
   ],
   [
@@ -141,22 +181,22 @@
   ],
   [
     [
-      "2026-08-28, 23:27:45",
-      "https://news.ycombinator.com/item?id=49485416"
-    ],
-    [
-      "I accidentally turned LLM memory into program analysis",
-      "https://pwning.systems/posts/llm-memory-program-analysis/"
-    ]
-  ],
-  [
-    [
       "2026-08-28, 23:02:21",
       "https://news.ycombinator.com/item?id=49485267"
     ],
     [
       "Boot a Virtual iPhone via Apple's Virtualization.framework",
       "https://github.com/Lakr233/vphone-cli"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 18:53:48",
+      "https://news.ycombinator.com/item?id=49482833"
+    ],
+    [
+      "Nancy Grace Roman Space Telescope Launches this Sunday",
+      "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova"
     ]
   ],
   [
@@ -171,42 +211,12 @@
   ],
   [
     [
-      "2026-08-28, 13:28:56",
-      "https://news.ycombinator.com/item?id=49478178"
+      "2026-08-26, 13:14:46",
+      "https://news.ycombinator.com/item?id=49448583"
     ],
     [
-      "Htmx 4.0",
-      "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 12:29:05",
-      "https://news.ycombinator.com/item?id=49477564"
-    ],
-    [
-      "Inception-style curved map for turn-by-turn directions",
-      "https://www.orbify.eu/demo/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 22:32:00",
-      "https://news.ycombinator.com/item?id=49456819"
-    ],
-    [
-      "Europe's last regular standard-gauge steam passenger service",
-      "https://parowozowniawolsztyn.pl/?page_id=2141"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 15:22:48",
-      "https://news.ycombinator.com/item?id=49450782"
-    ],
-    [
-      "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-      "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/"
+      "Recovering Corrupt Zip Files",
+      "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Show HN: Typebase – A single-folder back end you write in TypeScript",
       "https://typebase.io"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 15:15:08",
-      "https://news.ycombinator.com/item?id=49435595"
-    ],
-    [
-      "Time complexity of operations on Python's built-in types",
-      "https://docs.python.org/3.16/library/time-complexity.html"
     ]
   ],
   [
