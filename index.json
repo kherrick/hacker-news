@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-08-29, 06:35:28",
-      "https://news.ycombinator.com/item?id=49487506"
+      "2026-08-29, 11:39:38",
+      "https://news.ycombinator.com/item?id=49489057"
     ],
     [
-      "e is a customizable self-aware Emacs-like editor written in Chez Scheme",
-      "https://github.com/paveluv/e"
+      "Iceland votes on whether to restart talks on joining EU",
+      "https://www.bbc.com/news/articles/cn45vdxyvvlo"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "TurboKV: Insanely fast Rust key-value store",
       "https://github.com/kingroryg/turbokv"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 01:48:15",
-      "https://news.ycombinator.com/item?id=49486176"
-    ],
-    [
-      "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-      "https://www.kumander.org/"
     ]
   ],
   [
@@ -101,26 +91,6 @@
   ],
   [
     [
-      "2026-08-28, 17:01:12",
-      "https://news.ycombinator.com/item?id=49481455"
-    ],
-    [
-      "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "https://arxiv.org/abs/2608.23691"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 17:00:06",
-      "https://news.ycombinator.com/item?id=49481423"
-    ],
-    [
-      "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
-      "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering"
-    ]
-  ],
-  [
-    [
       "2026-08-28, 15:58:46",
       "https://news.ycombinator.com/item?id=49480466"
     ],
@@ -157,16 +127,6 @@
     [
       "GUIs should be fully keyboard-driven",
       "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 14:30:33",
-      "https://news.ycombinator.com/item?id=49479072"
-    ],
-    [
-      "Verschlimmbesserung: The Word Your Software Updates Need",
-      "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/"
     ]
   ],
   [
@@ -231,6 +191,16 @@
   ],
   [
     [
+      "2026-08-26, 15:22:48",
+      "https://news.ycombinator.com/item?id=49450782"
+    ],
+    [
+      "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+      "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/"
+    ]
+  ],
+  [
+    [
       "2026-08-26, 03:11:13",
       "https://news.ycombinator.com/item?id=49443783"
     ],
@@ -241,12 +211,42 @@
   ],
   [
     [
+      "2026-08-25, 15:15:08",
+      "https://news.ycombinator.com/item?id=49435595"
+    ],
+    [
+      "Time complexity of operations on Python's built-in types",
+      "https://docs.python.org/3.16/library/time-complexity.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 13:04:55",
+      "https://news.ycombinator.com/item?id=49433328"
+    ],
+    [
+      "EVE Online moves to Python 3",
+      "https://www.eveonline.com/news/view/the-move-to-python-3-begins"
+    ]
+  ],
+  [
+    [
       "2026-08-25, 02:17:19",
       "https://news.ycombinator.com/item?id=49428343"
     ],
     [
       "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
       "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 18:58:13",
+      "https://news.ycombinator.com/item?id=49424320"
+    ],
+    [
+      "Glacier Mice",
+      "https://en.wikipedia.org/wiki/Glacier_mice"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2026-08-24, 14:44:20",
+      "https://news.ycombinator.com/item?id=49420524"
+    ],
+    [
+      "Show HN: Galaxium, an experimental WebGPU space explorer",
+      "https://galaxium.app"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 13:21:56",
       "https://news.ycombinator.com/item?id=49419409"
     ],
     [
       "Experiments with Plotter Art",
       "https://sometimes.digital/posts/experiments-with-plotter-art/"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 12:30:57",
-      "https://news.ycombinator.com/item?id=49418813"
-    ],
-    [
-      "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-      "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/"
     ]
   ],
   [
