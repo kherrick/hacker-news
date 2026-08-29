@@ -13,6 +13,7 @@
 * [2026-08-28, 20:27:57](https://news.ycombinator.com/item?id=49483816) - [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
 * [2026-08-28, 19:18:22](https://news.ycombinator.com/item?id=49483080) - [Aspirational Clownmaxxing and Joey's cadillac todo list](https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/)
 * [2026-08-28, 19:14:14](https://news.ycombinator.com/item?id=49483038) - [Show HN: Sesame - a local-first, open-source password manager](https://usesesame.app/)
+* [2026-08-28, 18:53:48](https://news.ycombinator.com/item?id=49482833) - [Nancy Grace Roman Space Telescope Launches this Sunday](https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova)
 * [2026-08-28, 17:01:12](https://news.ycombinator.com/item?id=49481455) - [Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment](https://arxiv.org/abs/2608.23691)
 * [2026-08-28, 17:00:06](https://news.ycombinator.com/item?id=49481423) - [Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research](https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering)
 * [2026-08-28, 15:58:46](https://news.ycombinator.com/item?id=49480466) - [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)

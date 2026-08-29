@@ -58,6 +58,7 @@
 * [2026-08-26, 13:32:35](https://news.ycombinator.com/item?id=49448872) - [France reaches 94.9% fiber coverage in 2026](https://cartefibre.arcep.fr)
 * [2026-08-26, 13:28:32](https://news.ycombinator.com/item?id=49448819) - [Meta reaches $16.68B settlement over social media harms to children](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/)
 * [2026-08-26, 13:20:40](https://news.ycombinator.com/item?id=49448665) - [11,000-year-old sculpture of man riding a leopard found in Turkey](https://www.thehistoryblog.com/archives/76809)
+* [2026-08-26, 13:14:46](https://news.ycombinator.com/item?id=49448583) - [Recovering Corrupt Zip Files](https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895)
 * [2026-08-26, 12:59:26](https://news.ycombinator.com/item?id=49448321) - [AWS Acquires DuckDB](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
 * [2026-08-26, 12:52:12](https://news.ycombinator.com/item?id=49448210) - [Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency](https://qwen.ai/blog?id=qwen3.8-flash-next)
 * [2026-08-26, 12:48:37](https://news.ycombinator.com/item?id=49448150) - [A curmudgeon tries a language server](https://entropicthoughts.com/curmudgeon-tries-language-server)

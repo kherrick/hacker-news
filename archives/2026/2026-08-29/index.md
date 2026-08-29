@@ -4,9 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-08-29](index.md)
 
+* [2026-08-29, 21:37:07](https://news.ycombinator.com/item?id=49493563) - [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html)
+* [2026-08-29, 20:53:56](https://news.ycombinator.com/item?id=49493244) - [What we want is a hunter gatherer lifestyle with space age tools](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer)
+* [2026-08-29, 19:33:23](https://news.ycombinator.com/item?id=49492632) - [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+* [2026-08-29, 19:28:28](https://news.ycombinator.com/item?id=49492584) - [Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents)
+* [2026-08-29, 19:15:51](https://news.ycombinator.com/item?id=49492488) - [A safe MySQL upgrade that wasn't so safe](https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/)
 * [2026-08-29, 19:09:33](https://news.ycombinator.com/item?id=49492432) - [Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)
+* [2026-08-29, 19:01:09](https://news.ycombinator.com/item?id=49492368) - [Functional State Machines in Rust: Typestate and Newtype Patterns](https://dl.acm.org/doi/10.1145/3830438.3830958)
 * [2026-08-29, 18:44:37](https://news.ycombinator.com/item?id=49492219) - [DHS is using obscure law to snoop on journalists, non-profits, unions](https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits)
 * [2026-08-29, 18:40:56](https://news.ycombinator.com/item?id=49492193) - [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
+* [2026-08-29, 18:22:00](https://news.ycombinator.com/item?id=49492067) - [vLLM v0.28.0](https://github.com/vllm-project/vllm/releases/tag/v0.28.0)
 * [2026-08-29, 17:39:18](https://news.ycombinator.com/item?id=49491714) - [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/)
 * [2026-08-29, 17:19:47](https://news.ycombinator.com/item?id=49491568) - [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
 * [2026-08-29, 17:13:45](https://news.ycombinator.com/item?id=49491544) - [A better SQL in 11 lines of code](https://prela-lang.org/tutorial/)
