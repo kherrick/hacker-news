@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-29](index.md)
 
+* [2026-08-29, 11:39:38](https://news.ycombinator.com/item?id=49489057) - [Iceland votes on whether to restart talks on joining EU](https://www.bbc.com/news/articles/cn45vdxyvvlo)
 * [2026-08-29, 06:35:28](https://news.ycombinator.com/item?id=49487506) - [e is a customizable self-aware Emacs-like editor written in Chez Scheme](https://github.com/paveluv/e)
 * [2026-08-29, 06:06:51](https://news.ycombinator.com/item?id=49487341) - [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
 * [2026-08-29, 02:23:37](https://news.ycombinator.com/item?id=49486334) - [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)

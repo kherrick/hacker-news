@@ -36,6 +36,7 @@
 * [2026-08-26, 15:56:49](https://news.ycombinator.com/item?id=49451343) - [US sanctions Italian hosting provider Autistici Inventati](https://home.treasury.gov/news/press-releases/sb0616)
 * [2026-08-26, 15:55:15](https://news.ycombinator.com/item?id=49451313) - [The turbulent AI era is here](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make)
 * [2026-08-26, 15:30:05](https://news.ycombinator.com/item?id=49450898) - [It's so hard to finish an idea that is not yours (and suggested by AI)](https://www.ssp.sh/brain/using-obsidian-with-ai/)
+* [2026-08-26, 15:22:48](https://news.ycombinator.com/item?id=49450782) - [Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems](https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/)
 * [2026-08-26, 15:19:40](https://news.ycombinator.com/item?id=49450722) - [Disruption with Some GitHub Services](https://www.githubstatus.com/incidents/hcbtzksccj2f)
 * [2026-08-26, 15:07:44](https://news.ycombinator.com/item?id=49450500) - [Show HN: TexLite – A lightweight self-hosted LaTeX workspace](https://github.com/SWUFE-DB-Group/TexLite)
 * [2026-08-26, 15:03:52](https://news.ycombinator.com/item?id=49450448) - [Nebula Sans](https://www.nebulasans.com)
