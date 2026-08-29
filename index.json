@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-08-29, 19:09:33",
+      "https://news.ycombinator.com/item?id=49492432"
+    ],
+    [
+      "Warp builds self-improving agents on Claude",
+      "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 18:44:37",
+      "https://news.ycombinator.com/item?id=49492219"
+    ],
+    [
+      "DHS is using obscure law to snoop on journalists, non-profits, unions",
+      "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 18:40:56",
+      "https://news.ycombinator.com/item?id=49492193"
+    ],
+    [
+      "The Internet Is Kind of a Predatory Cesspit Now",
+      "https://www.stephendiehl.com/posts/internet_predatory_cesspit/"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 17:39:18",
+      "https://news.ycombinator.com/item?id=49491714"
+    ],
+    [
+      "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "https://tucker.wales/writing/bias-towards-action/"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 17:19:47",
+      "https://news.ycombinator.com/item?id=49491568"
+    ],
+    [
+      "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 17:13:45",
+      "https://news.ycombinator.com/item?id=49491544"
+    ],
+    [
+      "A better SQL in 11 lines of code",
+      "https://prela-lang.org/tutorial/"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 16:24:21",
+      "https://news.ycombinator.com/item?id=49491175"
+    ],
+    [
+      "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+      "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 16:16:32",
+      "https://news.ycombinator.com/item?id=49491113"
+    ],
+    [
+      "The growing divide between AI hype and software engineering reality",
+      "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"
+    ]
+  ],
+  [
+    [
       "2026-08-29, 15:48:02",
       "https://news.ycombinator.com/item?id=49490870"
     ],
@@ -17,16 +97,6 @@
     [
       "Quantifying Colour",
       "https://ekunazanu.foo/lab/quantifying-colour/"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 15:42:43",
-      "https://news.ycombinator.com/item?id=49490826"
-    ],
-    [
-      "Parsing the Infamous Japanese Postal CSV",
-      "https://www.dampfkraft.com/posuto.html"
     ]
   ],
   [
@@ -51,52 +121,12 @@
   ],
   [
     [
-      "2026-08-29, 14:02:10",
-      "https://news.ycombinator.com/item?id=49489982"
-    ],
-    [
-      "Debian votes to allow \"responsible use of generative AI\"",
-      "https://lwn.net/Articles/1091231/"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 11:39:38",
-      "https://news.ycombinator.com/item?id=49489057"
-    ],
-    [
-      "Iceland votes on whether to restart talks on joining EU",
-      "https://www.bbc.com/news/articles/cn45vdxyvvlo"
-    ]
-  ],
-  [
-    [
       "2026-08-29, 06:06:51",
       "https://news.ycombinator.com/item?id=49487341"
     ],
     [
       "Samsung's Processing-in-Memory (PIM)",
       "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 02:23:37",
-      "https://news.ycombinator.com/item?id=49486334"
-    ],
-    [
-      "TurboKV: Insanely fast Rust key-value store",
-      "https://github.com/kingroryg/turbokv"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 01:47:53",
-      "https://news.ycombinator.com/item?id=49486172"
-    ],
-    [
-      "Our decision on Cursor following its acquisition by SpaceX",
-      "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/"
     ]
   ],
   [
@@ -131,26 +161,6 @@
   ],
   [
     [
-      "2026-08-28, 15:58:46",
-      "https://news.ycombinator.com/item?id=49480466"
-    ],
-    [
-      "Just the rumour of a bug is enough to find an exploit these days",
-      "https://anil.recoil.org/notes/rumour-is-the-exploit"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 15:17:09",
-      "https://news.ycombinator.com/item?id=49479837"
-    ],
-    [
-      "GUIs should be fully keyboard-driven",
-      "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html"
-    ]
-  ],
-  [
-    [
       "2026-08-28, 14:59:15",
       "https://news.ycombinator.com/item?id=49479546"
     ],
@@ -167,16 +177,6 @@
     [
       "Htmx 4.0",
       "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 12:58:53",
-      "https://news.ycombinator.com/item?id=49477854"
-    ],
-    [
-      "U.S. sanctions against the A/I Collective",
-      "https://www.inventati.org/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-08-25, 03:26:09",
+      "https://news.ycombinator.com/item?id=49428756"
+    ],
+    [
+      "Sleepwalker: Passive Backdoor with Its Own Command Language",
+      "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 23:00:10",
       "https://news.ycombinator.com/item?id=49426995"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2026-08-24, 16:41:26",
-      "https://news.ycombinator.com/item?id=49422397"
-    ],
-    [
-      "Queen Caroline turned King Arthur into an 18C royal PR strategy",
-      "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244"
-    ]
-  ],
-  [
-    [
       "2026-08-24, 14:44:20",
       "https://news.ycombinator.com/item?id=49420524"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-08-24, 09:30:09",
-      "https://news.ycombinator.com/item?id=49417298"
+      "2026-08-24, 10:14:50",
+      "https://news.ycombinator.com/item?id=49417662"
     ],
     [
-      "Monzo Stand-In",
-      "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in"
+      "Kmart Digicam Mod Part 2",
+      "https://mason.bearblog.dev/kmart-digicam-mod-part-2/"
     ]
   ],
   [
