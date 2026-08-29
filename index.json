@@ -1,6 +1,116 @@
 [
   [
     [
+      "2026-08-28, 23:46:10",
+      "https://news.ycombinator.com/item?id=49485532"
+    ],
+    [
+      "Does the Sumerian King List Align with Paleoclimate Events?",
+      "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 23:41:05",
+      "https://news.ycombinator.com/item?id=49485504"
+    ],
+    [
+      "PPWR lands another blow to an precarious tabletop industry",
+      "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 23:32:22",
+      "https://news.ycombinator.com/item?id=49485452"
+    ],
+    [
+      "9th Circuit sides with states in Kalshi gambling fight",
+      "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 23:27:45",
+      "https://news.ycombinator.com/item?id=49485416"
+    ],
+    [
+      "I accidentally turned LLM memory into program analysis",
+      "https://pwning.systems/posts/llm-memory-program-analysis/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 23:02:21",
+      "https://news.ycombinator.com/item?id=49485267"
+    ],
+    [
+      "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "https://github.com/Lakr233/vphone-cli"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 22:18:27",
+      "https://news.ycombinator.com/item?id=49484925"
+    ],
+    [
+      "Identifying fake cosmetics using AI",
+      "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 20:27:57",
+      "https://news.ycombinator.com/item?id=49483816"
+    ],
+    [
+      "Stopping the smart TV from being used against you",
+      "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 19:18:22",
+      "https://news.ycombinator.com/item?id=49483080"
+    ],
+    [
+      "Aspirational Clownmaxxing and Joey's cadillac todo list",
+      "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 19:14:14",
+      "https://news.ycombinator.com/item?id=49483038"
+    ],
+    [
+      "Show HN: Sesame - a local-first, open-source password manager",
+      "https://usesesame.app/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 17:01:12",
+      "https://news.ycombinator.com/item?id=49481455"
+    ],
+    [
+      "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "https://arxiv.org/abs/2608.23691"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 17:00:06",
+      "https://news.ycombinator.com/item?id=49481423"
+    ],
+    [
+      "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
+      "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering"
+    ]
+  ],
+  [
+    [
       "2026-08-28, 15:58:46",
       "https://news.ycombinator.com/item?id=49480466"
     ],
@@ -11,42 +121,12 @@
   ],
   [
     [
-      "2026-08-28, 15:42:04",
-      "https://news.ycombinator.com/item?id=49480220"
-    ],
-    [
-      "How Dactyl Works",
-      "https://dactyl.dev/blog/how-dactyl-works/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 15:24:44",
-      "https://news.ycombinator.com/item?id=49479951"
-    ],
-    [
-      "Run Qwen3.8 27B locally: real numbers from my Mac Studio",
-      "https://terminalbytes.com/run-qwen-3-8-27b-locally/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 15:21:26",
-      "https://news.ycombinator.com/item?id=49479898"
-    ],
-    [
-      "Lake formed after ice-rock avalanche remains at a high level and is overflowing",
-      "https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns"
-    ]
-  ],
-  [
-    [
       "2026-08-28, 15:20:13",
       "https://news.ycombinator.com/item?id=49479878"
     ],
     [
       "GLM-5.3 is now open-weight",
-      "https://twitter.com/Zai_org/status/2093354097122455713"
+      "https://huggingface.co/zai-org/GLM-5.3"
     ]
   ],
   [
@@ -61,52 +141,12 @@
   ],
   [
     [
-      "2026-08-28, 15:16:07",
-      "https://news.ycombinator.com/item?id=49479826"
-    ],
-    [
-      "Don't use musl if you care about performance",
-      "https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 14:44:51",
-      "https://news.ycombinator.com/item?id=49479302"
-    ],
-    [
-      "Africa's Wild Dogs Are the Most Hated Carnivores on the Continent",
-      "https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 14:33:04",
-      "https://news.ycombinator.com/item?id=49479122"
-    ],
-    [
-      "Autistici/Inventati's main .org domain goes dark after US terrorism designation",
-      "https://mastodon.bida.im/@cavallette/117172989300228024"
-    ]
-  ],
-  [
-    [
       "2026-08-28, 14:30:33",
       "https://news.ycombinator.com/item?id=49479072"
     ],
     [
       "Verschlimmbesserung: The Word Your Software Updates Need",
       "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 13:51:17",
-      "https://news.ycombinator.com/item?id=49478489"
-    ],
-    [
-      "“Weird” is a weird word",
-      "https://www.deadlanguagesociety.com/p/weird-is-a-weird-word"
     ]
   ],
   [
@@ -121,52 +161,12 @@
   ],
   [
     [
-      "2026-08-28, 13:43:11",
-      "https://news.ycombinator.com/item?id=49478348"
-    ],
-    [
-      "Autistici/Inventati case sets a new counterterrorism precedent, Irdi says",
-      "https://decode39.com/16319/autistici-inventati-case-sets-a-new-counterterrorism-precedent-irdi-says/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 13:42:40",
-      "https://news.ycombinator.com/item?id=49478340"
-    ],
-    [
-      "Get your Windows license refund",
-      "https://en.refund4freedom.org/"
-    ]
-  ],
-  [
-    [
       "2026-08-28, 13:28:56",
       "https://news.ycombinator.com/item?id=49478178"
     ],
     [
-      "Htmx 4.0.0 has been released",
+      "Htmx 4.0",
       "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 13:21:03",
-      "https://news.ycombinator.com/item?id=49478091"
-    ],
-    [
-      "I used AWS cognito for a startup. I wouldn't do it again",
-      "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 13:05:49",
-      "https://news.ycombinator.com/item?id=49477925"
-    ],
-    [
-      "Interactive pattern discovery in binaries (FF-16-TUI)",
-      "https://github.com/HexLasso/FF-16-TUI"
     ]
   ],
   [
@@ -175,28 +175,8 @@
       "https://news.ycombinator.com/item?id=49477854"
     ],
     [
-      "U.S. Sanctions Against the a/I Collective",
+      "U.S. sanctions against the A/I Collective",
       "https://www.inventati.org/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 12:53:42",
-      "https://news.ycombinator.com/item?id=49477813"
-    ],
-    [
-      "Are Crows Our Friends?",
-      "https://www.audubon.org/magazine/are-crows-really-our-friends"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 12:32:16",
-      "https://news.ycombinator.com/item?id=49477600"
-    ],
-    [
-      "“It works better in the app”",
-      "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/"
     ]
   ],
   [
@@ -211,42 +191,12 @@
   ],
   [
     [
-      "2026-08-28, 12:28:41",
-      "https://news.ycombinator.com/item?id=49477559"
-    ],
-    [
-      "Smaller reactors bring nuclear power closer to fulfilling its promise",
-      "https://www.nature.com/articles/d41586-026-02506-4"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 12:01:50",
-      "https://news.ycombinator.com/item?id=49477292"
-    ],
-    [
-      "Bhartrhari's Paradox",
-      "https://www.futilitycloset.com/2026/08/18/bhartrharis-paradox/"
-    ]
-  ],
-  [
-    [
       "2026-08-28, 11:51:20",
       "https://news.ycombinator.com/item?id=49477212"
     ],
     [
-      "OpenAI: Migrating to HTTPX2",
+      "Migrating to HTTPX2",
       "https://github.com/openai/openai-python/blob/main/httpx2.md"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 11:41:45",
-      "https://news.ycombinator.com/item?id=49477157"
-    ],
-    [
-      "httpx2",
-      "https://github.com/pydantic/httpx2"
     ]
   ],
   [
@@ -255,18 +205,8 @@
       "https://news.ycombinator.com/item?id=49476143"
     ],
     [
-      "Hilariously Fast Volume Computation with the Divergence Theorem",
+      "Hilariously fast volume computation with the divergence theorem (2018)",
       "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 08:35:07",
-      "https://news.ycombinator.com/item?id=49475979"
-    ],
-    [
-      "Interactive Warhammer 40k Galaxy Map – Cartographia Imperialis",
-      "https://cartographia40k.com/"
     ]
   ],
   [
@@ -295,8 +235,68 @@
       "https://news.ycombinator.com/item?id=49472216"
     ],
     [
-      "The Twelve-Factor App",
+      "The Twelve-Factor App (2025)",
       "https://12factor.net/"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 19:07:21",
+      "https://news.ycombinator.com/item?id=49454182"
+    ],
+    [
+      "Processing in Memory: DRAM Is About to Do Math",
+      "https://ben3d.ca/blog/processing-in-memory"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 03:11:13",
+      "https://news.ycombinator.com/item?id=49443783"
+    ],
+    [
+      "Visual Analysis of Binary Files",
+      "https://binvis.io/#/"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 22:03:03",
+      "https://news.ycombinator.com/item?id=49441316"
+    ],
+    [
+      "Global demand for sand spawned a worldwide boom in illegal mining (2015)",
+      "https://www.wired.com/2015/03/illegal-sand-mining/"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 11:18:33",
+      "https://news.ycombinator.com/item?id=49431988"
+    ],
+    [
+      "A Japanese shrine has recorded one lake's ice for 583 years, as a divination",
+      "https://jivx.com/omiwatari"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 17:03:12",
+      "https://news.ycombinator.com/item?id=49422743"
+    ],
+    [
+      "Curvature Beziers: Improving on a timeless recipe",
+      "https://acko.net/blog/curvature-beziers/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 06:35:50",
+      "https://news.ycombinator.com/item?id=49415923"
+    ],
+    [
+      "Sloc Cloc and Code 4.0 (scc) – Finding the files that need the most attention",
+      "https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/"
     ]
   ]
 ]
