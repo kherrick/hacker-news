@@ -43,6 +43,7 @@
 * [2026-08-26, 15:02:15](https://news.ycombinator.com/item?id=49450417) - [WebMCP: Teaching Your Website to Talk to AI Agents](https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/)
 * [2026-08-26, 15:01:11](https://news.ycombinator.com/item?id=49450394) - [AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX](https://github.com/AurionMail/docs)
 * [2026-08-26, 14:58:54](https://news.ycombinator.com/item?id=49450353) - [GLM-5.3-Flash Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/glm-5-3-flash)
+* [2026-08-26, 14:53:41](https://news.ycombinator.com/item?id=49450248) - [Is it safe to call print in a Python signal handler?](https://iafisher.com/2026/08/sigprint)
 * [2026-08-26, 14:49:30](https://news.ycombinator.com/item?id=49450188) - [VMs won't contain cyber-capable agents](https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/)
 * [2026-08-26, 14:29:05](https://news.ycombinator.com/item?id=49449888) - [You could have invented PageRank](https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/)
 * [2026-08-26, 14:21:56](https://news.ycombinator.com/item?id=49449755) - [Take a Tour of SLAC](https://www6.slac.stanford.edu/public-tours)

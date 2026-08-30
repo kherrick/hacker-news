@@ -6,6 +6,7 @@
 
 * [2026-08-29, 23:26:44](https://news.ycombinator.com/item?id=49494231) - [Highest-ever ocean temperature measured as powerful El Niño forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)
 * [2026-08-29, 23:22:42](https://news.ycombinator.com/item?id=49494212) - [Police departments weren’t looking for Flock abuse. We did it for them.](https://www.washingtonpost.com/technology/2026/08/19/we-found-cops-who-misused-flock-their-police-departments-didnt-know/)
+* [2026-08-29, 23:17:17](https://news.ycombinator.com/item?id=49494182) - [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
 * [2026-08-29, 23:12:25](https://news.ycombinator.com/item?id=49494151) - [I co-founded Burning Man. The festival has lost its soul](https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/)
 * [2026-08-29, 22:51:17](https://news.ycombinator.com/item?id=49494036) - [Defrag98: Windows 98 Disk Defragmenter Simulator Online](https://defrag98.com)
 * [2026-08-29, 22:49:26](https://news.ycombinator.com/item?id=49494023) - [Twitter (Not affiliated with X Corp)](https://twitter.now/maintenance/)
