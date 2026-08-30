@@ -1,52 +1,72 @@
 [
   [
     [
-      "2026-08-29, 23:26:44",
-      "https://news.ycombinator.com/item?id=49494231"
+      "2026-08-30, 03:15:36",
+      "https://news.ycombinator.com/item?id=49495372"
     ],
     [
-      "Highest-ever ocean temperature measured as powerful El Niño forms",
-      "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms"
+      "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt"
     ]
   ],
   [
     [
-      "2026-08-29, 23:22:42",
-      "https://news.ycombinator.com/item?id=49494212"
+      "2026-08-30, 02:25:32",
+      "https://news.ycombinator.com/item?id=49495127"
     ],
     [
-      "Police departments weren’t looking for Flock abuse. We did it for them.",
-      "https://www.washingtonpost.com/technology/2026/08/19/we-found-cops-who-misused-flock-their-police-departments-didnt-know/"
+      "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
+      "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws"
     ]
   ],
   [
     [
-      "2026-08-29, 23:12:25",
-      "https://news.ycombinator.com/item?id=49494151"
+      "2026-08-30, 01:31:32",
+      "https://news.ycombinator.com/item?id=49494856"
     ],
     [
-      "I co-founded Burning Man. The festival has lost its soul",
-      "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/"
+      "FreeCORE TrueNAS Core – Continued",
+      "https://freecore.org/"
     ]
   ],
   [
     [
-      "2026-08-29, 22:51:17",
-      "https://news.ycombinator.com/item?id=49494036"
+      "2026-08-30, 01:09:15",
+      "https://news.ycombinator.com/item?id=49494751"
     ],
     [
-      "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
-      "https://defrag98.com"
+      "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+      "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/"
     ]
   ],
   [
     [
-      "2026-08-29, 22:49:26",
-      "https://news.ycombinator.com/item?id=49494023"
+      "2026-08-30, 00:33:35",
+      "https://news.ycombinator.com/item?id=49494571"
     ],
     [
-      "Twitter (Not affiliated with X Corp)",
-      "https://twitter.now/maintenance/"
+      "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+      "https://github.com/mk6i/open-oscar-server"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 00:21:40",
+      "https://news.ycombinator.com/item?id=49494520"
+    ],
+    [
+      "Bug Blindness",
+      "https://danluu.com/bug-blind/"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 23:17:17",
+      "https://news.ycombinator.com/item?id=49494182"
+    ],
+    [
+      "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=49492632"
     ],
     [
-      "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+      "Hy4 preview",
       "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/"
     ]
   ],
@@ -67,16 +87,6 @@
     [
       "Domain-Driven Agents",
       "https://coldtake.dev/blog/domain-driven-agents"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 19:15:51",
-      "https://news.ycombinator.com/item?id=49492488"
-    ],
-    [
-      "A safe MySQL upgrade that wasn't so safe",
-      "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "DHS is using obscure law to snoop on journalists, non-profits, unions",
       "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 18:22:00",
-      "https://news.ycombinator.com/item?id=49492067"
-    ],
-    [
-      "vLLM v0.28.0",
-      "https://github.com/vllm-project/vllm/releases/tag/v0.28.0"
     ]
   ],
   [
@@ -141,32 +141,22 @@
   ],
   [
     [
+      "2026-08-29, 15:48:02",
+      "https://news.ycombinator.com/item?id=49490870"
+    ],
+    [
+      "Nancy Grace Roman Space Telescope",
+      "https://science.nasa.gov/mission/roman-space-telescope/"
+    ]
+  ],
+  [
+    [
       "2026-08-29, 15:43:53",
       "https://news.ycombinator.com/item?id=49490832"
     ],
     [
       "Quantifying Colour",
       "https://ekunazanu.foo/lab/quantifying-colour/"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 15:26:28",
-      "https://news.ycombinator.com/item?id=49490702"
-    ],
-    [
-      "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-      "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 14:20:33",
-      "https://news.ycombinator.com/item?id=49490138"
-    ],
-    [
-      "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-      "https://uecker.codeberg.page/2026-08-29.html"
     ]
   ],
   [
@@ -191,42 +181,22 @@
   ],
   [
     [
-      "2026-08-28, 18:53:48",
-      "https://news.ycombinator.com/item?id=49482833"
+      "2026-08-27, 19:12:03",
+      "https://news.ycombinator.com/item?id=49469786"
     ],
     [
-      "Nancy Grace Roman Space Telescope Launches this Sunday",
-      "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova"
+      "Benchmarking Pocket-Scale Inference",
+      "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones"
     ]
   ],
   [
     [
-      "2026-08-28, 14:59:15",
-      "https://news.ycombinator.com/item?id=49479546"
+      "2026-08-26, 14:53:41",
+      "https://news.ycombinator.com/item?id=49450248"
     ],
     [
-      "Creating the Aetheryte Radio",
-      "https://haz.ee/posts/aetheryte-radio.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 13:38:30",
-      "https://news.ycombinator.com/item?id=49478287"
-    ],
-    [
-      "The Finn – an agent that lives in my router and complains about it",
-      "https://github.com/YuriKovalov22/the-finn"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 14:13:15",
-      "https://news.ycombinator.com/item?id=49465250"
-    ],
-    [
-      "The Wandering Yamamura Theater Troupe",
-      "https://cinemasojourns.com/2026/08/27/the-wandering-yamamura-theater-troupe/"
+      "Is it safe to call print in a Python signal handler?",
+      "https://iafisher.com/2026/08/sigprint"
     ]
   ],
   [
@@ -247,6 +217,26 @@
     [
       "Show HN: Typebase – A single-folder back end you write in TypeScript",
       "https://typebase.io"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 18:57:27",
+      "https://news.ycombinator.com/item?id=49438865"
+    ],
+    [
+      "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
+      "https://github.com/gbin/defragger"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 13:20:02",
+      "https://news.ycombinator.com/item?id=49433554"
+    ],
+    [
+      "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
+      "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "SQLite as a Document Database (2020)",
       "https://dgl.cx/2020/06/sqlite-json-support"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 20:12:22",
+      "https://news.ycombinator.com/item?id=49425252"
+    ],
+    [
+      "RISC-V is now officially supported by CPython",
+      "https://blog.python.org/2026/08/riscv-now-officially-supported/"
     ]
   ],
   [
