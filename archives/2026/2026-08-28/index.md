@@ -33,6 +33,7 @@
 * [2026-08-28, 13:46:28](https://news.ycombinator.com/item?id=49478401) - [State of the Map 2026](https://2026.stateofthemap.org/)
 * [2026-08-28, 13:43:11](https://news.ycombinator.com/item?id=49478348) - [Autistici/Inventati case sets a new counterterrorism precedent, Irdi says](https://decode39.com/16319/autistici-inventati-case-sets-a-new-counterterrorism-precedent-irdi-says/)
 * [2026-08-28, 13:42:40](https://news.ycombinator.com/item?id=49478340) - [Get your Windows license refund](https://en.refund4freedom.org/)
+* [2026-08-28, 13:38:30](https://news.ycombinator.com/item?id=49478287) - [The Finn – an agent that lives in my router and complains about it](https://github.com/YuriKovalov22/the-finn)
 * [2026-08-28, 13:28:56](https://news.ycombinator.com/item?id=49478178) - [Htmx 4.0.0 has been released](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
 * [2026-08-28, 13:21:03](https://news.ycombinator.com/item?id=49478091) - [I used AWS cognito for a startup. I wouldn't do it again](https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/)
 * [2026-08-28, 13:05:49](https://news.ycombinator.com/item?id=49477925) - [Interactive pattern discovery in binaries (FF-16-TUI)](https://github.com/HexLasso/FF-16-TUI)

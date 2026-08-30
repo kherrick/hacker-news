@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-29](index.md)
 
+* [2026-08-29, 23:26:44](https://news.ycombinator.com/item?id=49494231) - [Highest-ever ocean temperature measured as powerful El Niño forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)
+* [2026-08-29, 23:22:42](https://news.ycombinator.com/item?id=49494212) - [Police departments weren’t looking for Flock abuse. We did it for them.](https://www.washingtonpost.com/technology/2026/08/19/we-found-cops-who-misused-flock-their-police-departments-didnt-know/)
+* [2026-08-29, 23:12:25](https://news.ycombinator.com/item?id=49494151) - [I co-founded Burning Man. The festival has lost its soul](https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/)
+* [2026-08-29, 22:51:17](https://news.ycombinator.com/item?id=49494036) - [Defrag98: Windows 98 Disk Defragmenter Simulator Online](https://defrag98.com)
+* [2026-08-29, 22:49:26](https://news.ycombinator.com/item?id=49494023) - [Twitter (Not affiliated with X Corp)](https://twitter.now/maintenance/)
 * [2026-08-29, 21:37:07](https://news.ycombinator.com/item?id=49493563) - [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html)
 * [2026-08-29, 20:53:56](https://news.ycombinator.com/item?id=49493244) - [What we want is a hunter gatherer lifestyle with space age tools](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer)
 * [2026-08-29, 19:33:23](https://news.ycombinator.com/item?id=49492632) - [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)

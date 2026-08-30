@@ -29,6 +29,7 @@
 * [2026-08-27, 15:01:11](https://news.ycombinator.com/item?id=49466006) - [Decompiling a Nintendo 64 game in 84 days](https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/)
 * [2026-08-27, 14:45:23](https://news.ycombinator.com/item?id=49465732) - [Launching Route 53 Files](https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html)
 * [2026-08-27, 14:16:23](https://news.ycombinator.com/item?id=49465291) - [Show HN: Restoredrill – proves your Postgres backups restore](https://github.com/ahmadpiran/restoredrill)
+* [2026-08-27, 14:13:15](https://news.ycombinator.com/item?id=49465250) - [The Wandering Yamamura Theater Troupe](https://cinemasojourns.com/2026/08/27/the-wandering-yamamura-theater-troupe/)
 * [2026-08-27, 14:08:18](https://news.ycombinator.com/item?id=49465169) - [507 Mechanical Movements](https://507movements.com/)
 * [2026-08-27, 13:49:29](https://news.ycombinator.com/item?id=49464896) - [Trade (and Tariffs)](https://xkcd.com/3290/)
 * [2026-08-27, 13:22:36](https://news.ycombinator.com/item?id=49464543) - [Emacs 31: An unofficial guide to Markdown-ts-mode](https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31)
