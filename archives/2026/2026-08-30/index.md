@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-30](index.md)
 
+* [2026-08-30, 10:02:16](https://news.ycombinator.com/item?id=49497265) - [Spark: Sparklines in your shell](https://git.zx2c4.com/spark/about/)
+* [2026-08-30, 09:57:06](https://news.ycombinator.com/item?id=49497235) - [Nvidia's AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
+* [2026-08-30, 09:52:15](https://news.ycombinator.com/item?id=49497200) - [Everyone Should Build Their Own Network Stack](https://blog.lyc8503.net/en/post/dn42-2-dnet/)
+* [2026-08-30, 09:26:08](https://news.ycombinator.com/item?id=49497063) - [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994)
+* [2026-08-30, 08:51:39](https://news.ycombinator.com/item?id=49496918) - [Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel](https://www.qubes-os.org/news/2026/08/29/qsb-118/)
+* [2026-08-30, 08:23:26](https://news.ycombinator.com/item?id=49496782) - [Longest Straight Line Paths on Water or Land on the Earth (2018)](https://arxiv.org/abs/1804.07389)
+* [2026-08-30, 07:35:41](https://news.ycombinator.com/item?id=49496543) - [Xcena and Samsung's Near Memory Compute CXL Device](https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs)
 * [2026-08-30, 03:15:36](https://news.ycombinator.com/item?id=49495372) - [California lawmakers unanimously pass Linux exemption from age-verification law](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt)
 * [2026-08-30, 02:25:32](https://news.ycombinator.com/item?id=49495127) - [Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
 * [2026-08-30, 01:31:32](https://news.ycombinator.com/item?id=49494856) - [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
