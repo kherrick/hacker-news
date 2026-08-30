@@ -48,6 +48,7 @@
 * [2026-08-28, 09:00:46](https://news.ycombinator.com/item?id=49476143) - [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
 * [2026-08-28, 08:35:07](https://news.ycombinator.com/item?id=49475979) - [Interactive Warhammer 40k Galaxy Map – Cartographia Imperialis](https://cartographia40k.com/)
 * [2026-08-28, 06:33:57](https://news.ycombinator.com/item?id=49475079) - [Luanti removed from Google Play due to baseless AI copyright notice](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/)
+* [2026-08-28, 04:58:34](https://news.ycombinator.com/item?id=49474515) - [Synchronisation and SMPTE timecode (time code)](https://www.philrees.co.uk/articles/timecode.htm)
 * [2026-08-28, 03:35:15](https://news.ycombinator.com/item?id=49474060) - [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
 * [2026-08-28, 03:22:04](https://news.ycombinator.com/item?id=49473982) - [CSV merger that lines up mismatched columns by header, browser-only](https://usefiletools.com/data/merge-csv/)
 * [2026-08-28, 03:02:42](https://news.ycombinator.com/item?id=49473868) - [Bootstrappable Builds: How and Why](https://lwn.net/Articles/1088279/)
