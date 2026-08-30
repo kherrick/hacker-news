@@ -37,6 +37,7 @@
 * [2026-08-27, 13:49:29](https://news.ycombinator.com/item?id=49464896) - [Trade (and Tariffs)](https://xkcd.com/3290/)
 * [2026-08-27, 13:22:36](https://news.ycombinator.com/item?id=49464543) - [Emacs 31: An unofficial guide to Markdown-ts-mode](https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31)
 * [2026-08-27, 13:14:20](https://news.ycombinator.com/item?id=49464414) - [Aphantasia Beginner's Guide](https://aphantasia.com/guide)
+* [2026-08-27, 13:05:53](https://news.ycombinator.com/item?id=49464287) - [How would you know whether an ancient culture had zero?](https://www.johndcook.com/blog/2026/08/21/ancient-number-system/)
 * [2026-08-27, 12:40:43](https://news.ycombinator.com/item?id=49463888) - [Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]](https://www.youtube.com/watch?v=hpj6r6CjJf8)
 * [2026-08-27, 12:04:11](https://news.ycombinator.com/item?id=49463397) - [Electric rain can eat through metal](https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/)
 * [2026-08-27, 10:57:56](https://news.ycombinator.com/item?id=49462763) - [Microduck](https://pollen-robotics.com/microduck/)

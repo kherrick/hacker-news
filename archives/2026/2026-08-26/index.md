@@ -40,6 +40,7 @@
 * [2026-08-26, 15:22:48](https://news.ycombinator.com/item?id=49450782) - [Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems](https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/)
 * [2026-08-26, 15:19:40](https://news.ycombinator.com/item?id=49450722) - [Disruption with Some GitHub Services](https://www.githubstatus.com/incidents/hcbtzksccj2f)
 * [2026-08-26, 15:07:44](https://news.ycombinator.com/item?id=49450500) - [Show HN: TexLite – A lightweight self-hosted LaTeX workspace](https://github.com/SWUFE-DB-Group/TexLite)
+* [2026-08-26, 15:04:44](https://news.ycombinator.com/item?id=49450461) - [Commercially Available Bike Generators Are Not Sustainable](https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/)
 * [2026-08-26, 15:03:52](https://news.ycombinator.com/item?id=49450448) - [Nebula Sans](https://www.nebulasans.com)
 * [2026-08-26, 15:02:15](https://news.ycombinator.com/item?id=49450417) - [WebMCP: Teaching Your Website to Talk to AI Agents](https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/)
 * [2026-08-26, 15:01:11](https://news.ycombinator.com/item?id=49450394) - [AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX](https://github.com/AurionMail/docs)
