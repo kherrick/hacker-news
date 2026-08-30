@@ -66,6 +66,7 @@
 * [2026-08-24, 14:44:20](https://news.ycombinator.com/item?id=49420524) - [Show HN: Galaxium, an experimental WebGPU space explorer](https://galaxium.app)
 * [2026-08-24, 14:15:38](https://news.ycombinator.com/item?id=49420116) - [Crafting QR Codes: A deep dive into QR code art (2024)](https://kylezhe.ng/writes/crafting-qr-codes)
 * [2026-08-24, 13:21:56](https://news.ycombinator.com/item?id=49419409) - [Experiments with Plotter Art](https://sometimes.digital/posts/experiments-with-plotter-art/)
+* [2026-08-24, 13:19:55](https://news.ycombinator.com/item?id=49419381) - [What my dad taught me about AI coding in the 90s](https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/)
 * [2026-08-24, 13:17:11](https://news.ycombinator.com/item?id=49419351) - [Show HN: A techno machine in one HTML file, with verifiable renders](https://ssx360.github.io/rack-02/?src=hn)
 * [2026-08-24, 13:07:22](https://news.ycombinator.com/item?id=49419252) - [What's new in Emacs 31.1](https://www.masteringemacs.org/article/whats-new-in-emacs-311)
 * [2026-08-24, 13:05:25](https://news.ycombinator.com/item?id=49419237) - [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)

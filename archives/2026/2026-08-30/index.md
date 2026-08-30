@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-08-30](index.md)
 
+* [2026-08-30, 14:29:25](https://news.ycombinator.com/item?id=49498978) - [Europe's summer drought is so extreme that desertification is a growing threat](https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/)
+* [2026-08-30, 12:50:54](https://news.ycombinator.com/item?id=49498201) - [Claude Session URL appended to commit messages and PR descriptions by default](https://github.com/anthropics/claude-code/issues/66504)
+* [2026-08-30, 12:31:05](https://news.ycombinator.com/item?id=49498095) - [No AI Fridays](https://noaifridays.com/)
+* [2026-08-30, 12:02:09](https://news.ycombinator.com/item?id=49497928) - [monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter](https://github.com/fugue-labs/monty-go)
+* [2026-08-30, 11:46:23](https://news.ycombinator.com/item?id=49497854) - [Automating Immersive Reading](https://smoores.dev/post/automating_immersive_reading/)
+* [2026-08-30, 11:41:40](https://news.ycombinator.com/item?id=49497819) - [An implementation of Conway's Game of Life for Windows 3.1x and later](https://www.muppetlabs.com/~breadbox/software/windows.html)
+* [2026-08-30, 11:39:43](https://news.ycombinator.com/item?id=49497810) - [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)
+* [2026-08-30, 10:20:11](https://news.ycombinator.com/item?id=49497357) - [Fair Work Commission condemns 'plain wrong' AI legal advice](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
 * [2026-08-30, 10:02:16](https://news.ycombinator.com/item?id=49497265) - [Spark: Sparklines in your shell](https://git.zx2c4.com/spark/about/)
 * [2026-08-30, 09:57:06](https://news.ycombinator.com/item?id=49497235) - [Nvidia's AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
 * [2026-08-30, 09:52:15](https://news.ycombinator.com/item?id=49497200) - [Everyone Should Build Their Own Network Stack](https://blog.lyc8503.net/en/post/dn42-2-dnet/)
