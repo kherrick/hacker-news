@@ -1,32 +1,82 @@
 [
   [
     [
-      "2026-08-30, 10:02:16",
-      "https://news.ycombinator.com/item?id=49497265"
+      "2026-08-30, 14:29:25",
+      "https://news.ycombinator.com/item?id=49498978"
     ],
     [
-      "Spark: Sparklines in your shell",
-      "https://git.zx2c4.com/spark/about/"
+      "Europe's summer drought is so extreme that desertification is a growing threat",
+      "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/"
     ]
   ],
   [
     [
-      "2026-08-30, 09:57:06",
-      "https://news.ycombinator.com/item?id=49497235"
+      "2026-08-30, 12:50:54",
+      "https://news.ycombinator.com/item?id=49498201"
     ],
     [
-      "Nvidia's AI advantage is moving beyond the GPU",
-      "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+      "Claude Session URL appended to commit messages and PR descriptions by default",
+      "https://github.com/anthropics/claude-code/issues/66504"
     ]
   ],
   [
     [
-      "2026-08-30, 09:52:15",
-      "https://news.ycombinator.com/item?id=49497200"
+      "2026-08-30, 12:31:05",
+      "https://news.ycombinator.com/item?id=49498095"
     ],
     [
-      "Everyone Should Build Their Own Network Stack",
-      "https://blog.lyc8503.net/en/post/dn42-2-dnet/"
+      "No AI Fridays",
+      "https://noaifridays.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 12:02:09",
+      "https://news.ycombinator.com/item?id=49497928"
+    ],
+    [
+      "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+      "https://github.com/fugue-labs/monty-go"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 11:46:23",
+      "https://news.ycombinator.com/item?id=49497854"
+    ],
+    [
+      "Automating Immersive Reading",
+      "https://smoores.dev/post/automating_immersive_reading/"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 11:41:40",
+      "https://news.ycombinator.com/item?id=49497819"
+    ],
+    [
+      "An implementation of Conway's Game of Life for Windows 3.1x and later",
+      "https://www.muppetlabs.com/~breadbox/software/windows.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 11:39:43",
+      "https://news.ycombinator.com/item?id=49497810"
+    ],
+    [
+      "Hacking IKEA Furniture",
+      "https://greenlightning.eu/diy/hacking-ikea-furniture/"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 10:20:11",
+      "https://news.ycombinator.com/item?id=49497357"
+    ],
+    [
+      "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766"
     ]
   ],
   [
@@ -91,26 +141,6 @@
   ],
   [
     [
-      "2026-08-30, 01:09:15",
-      "https://news.ycombinator.com/item?id=49494751"
-    ],
-    [
-      "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
-      "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 00:33:35",
-      "https://news.ycombinator.com/item?id=49494571"
-    ],
-    [
-      "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-      "https://github.com/mk6i/open-oscar-server"
-    ]
-  ],
-  [
-    [
       "2026-08-30, 00:21:40",
       "https://news.ycombinator.com/item?id=49494520"
     ],
@@ -141,22 +171,12 @@
   ],
   [
     [
-      "2026-08-29, 19:01:09",
-      "https://news.ycombinator.com/item?id=49492368"
+      "2026-08-29, 17:49:01",
+      "https://news.ycombinator.com/item?id=49491791"
     ],
     [
-      "Functional State Machines in Rust: Typestate and Newtype Patterns",
-      "https://dl.acm.org/doi/10.1145/3830438.3830958"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 17:39:18",
-      "https://news.ycombinator.com/item?id=49491714"
-    ],
-    [
-      "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-      "https://tucker.wales/writing/bias-towards-action/"
+      "Creepy Crawlies",
+      "https://people.kernel.org/monsieuricon/creepy-crawlies"
     ]
   ],
   [
@@ -171,12 +191,12 @@
   ],
   [
     [
-      "2026-08-29, 06:06:51",
-      "https://news.ycombinator.com/item?id=49487341"
+      "2026-08-29, 12:14:18",
+      "https://news.ycombinator.com/item?id=49489274"
     ],
     [
-      "Samsung's Processing-in-Memory (PIM)",
-      "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing"
+      "When Fruit Is Scarce, These Monkeys Hunt Animals",
+      "https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/"
     ]
   ],
   [
@@ -191,32 +211,22 @@
   ],
   [
     [
+      "2026-08-27, 12:40:43",
+      "https://news.ycombinator.com/item?id=49463888"
+    ],
+    [
+      "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+      "https://www.youtube.com/watch?v=hpj6r6CjJf8"
+    ]
+  ],
+  [
+    [
       "2026-08-26, 17:58:48",
       "https://news.ycombinator.com/item?id=49453232"
     ],
     [
-      "The Einstein-Szilard Refrigerator",
+      "The Einstein-Szilard Refrigerator (2020)",
       "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 14:53:41",
-      "https://news.ycombinator.com/item?id=49450248"
-    ],
-    [
-      "Is it safe to call print in a Python signal handler?",
-      "https://iafisher.com/2026/08/sigprint"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 12:20:38",
-      "https://news.ycombinator.com/item?id=49447719"
-    ],
-    [
-      "Pop-2000, a lingua-franca POP-2 dialect",
-      "https://hitogata.neocities.org/POP-2000"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") (1999)",
       "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 13:04:55",
-      "https://news.ycombinator.com/item?id=49433328"
-    ],
-    [
-      "EVE Online moves to Python 3",
-      "https://www.eveonline.com/news/view/the-move-to-python-3-begins"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-08-24, 18:58:13",
-      "https://news.ycombinator.com/item?id=49424320"
+      "2026-08-24, 13:19:55",
+      "https://news.ycombinator.com/item?id=49419381"
     ],
     [
-      "Glacier Mice",
-      "https://en.wikipedia.org/wiki/Glacier_mice"
+      "What my dad taught me about AI coding in the 90s",
+      "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/"
     ]
   ],
   [
