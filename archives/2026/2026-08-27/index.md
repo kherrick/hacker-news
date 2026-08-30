@@ -8,6 +8,7 @@
 * [2026-08-27, 22:34:32](https://news.ycombinator.com/item?id=49472161) - [Select * from Internet.blogposts](https://pfrazee.leaflet.pub/3mu3p2smmis22)
 * [2026-08-27, 22:10:47](https://news.ycombinator.com/item?id=49471965) - [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
 * [2026-08-27, 21:46:39](https://news.ycombinator.com/item?id=49471714) - [AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab](https://github.com/calmrocks/ai-engineer-notebooks)
+* [2026-08-27, 21:38:27](https://news.ycombinator.com/item?id=49471614) - [Storm Summoner, a MIDI controller for effects pedals](https://kabaragoya.com/products/storm-summoner)
 * [2026-08-27, 21:18:35](https://news.ycombinator.com/item?id=49471407) - [Show HN: We built open OpenRouter that turns usage into a better model](https://github.com/experientiallabs/experiential)
 * [2026-08-27, 19:12:03](https://news.ycombinator.com/item?id=49469786) - [Benchmarking Pocket-Scale Inference](https://artificialanalysis.ai/hardware-inference-stack/mobile-phones)
 * [2026-08-27, 18:34:40](https://news.ycombinator.com/item?id=49469249) - [Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)

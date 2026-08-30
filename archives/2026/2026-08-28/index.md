@@ -30,6 +30,7 @@
 * [2026-08-28, 14:33:04](https://news.ycombinator.com/item?id=49479122) - [Autistici/Inventati's main .org domain goes dark after US terrorism designation](https://mastodon.bida.im/@cavallette/117172989300228024)
 * [2026-08-28, 14:30:33](https://news.ycombinator.com/item?id=49479072) - [Verschlimmbesserung: The Word Your Software Updates Need](https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/)
 * [2026-08-28, 13:51:17](https://news.ycombinator.com/item?id=49478489) - [“Weird” is a weird word](https://www.deadlanguagesociety.com/p/weird-is-a-weird-word)
+* [2026-08-28, 13:48:12](https://news.ycombinator.com/item?id=49478426) - [NFC Energy-Harvesting PCB Business Card with an MCU](https://wilsonharper.net/projects/businesscard/)
 * [2026-08-28, 13:46:28](https://news.ycombinator.com/item?id=49478401) - [State of the Map 2026](https://2026.stateofthemap.org/)
 * [2026-08-28, 13:43:11](https://news.ycombinator.com/item?id=49478348) - [Autistici/Inventati case sets a new counterterrorism precedent, Irdi says](https://decode39.com/16319/autistici-inventati-case-sets-a-new-counterterrorism-precedent-irdi-says/)
 * [2026-08-28, 13:42:40](https://news.ycombinator.com/item?id=49478340) - [Get your Windows license refund](https://en.refund4freedom.org/)

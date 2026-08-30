@@ -41,6 +41,7 @@
 * [2026-08-25, 15:18:22](https://news.ycombinator.com/item?id=49435641) - [Behaviorally fingerprinting Ox Alpha's provenance](https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance)
 * [2026-08-25, 15:15:08](https://news.ycombinator.com/item?id=49435595) - [Time complexity of operations on Python's built-in types](https://docs.python.org/3.16/library/time-complexity.html)
 * [2026-08-25, 15:09:20](https://news.ycombinator.com/item?id=49435495) - [Beyond Good and Evil: Nietzsche and the Great War](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
+* [2026-08-25, 14:57:00](https://news.ycombinator.com/item?id=49435285) - [Sort branches by last commit date](https://ryangreenberg.com/til/git-branches-by-commit-date/)
 * [2026-08-25, 14:48:58](https://news.ycombinator.com/item?id=49435147) - [AI is hitting entry-level jobs hardest, Stanford study finds](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 * [2026-08-25, 14:30:10](https://news.ycombinator.com/item?id=49434830) - [Apple Releases New Polishing Cloth](https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/)
 * [2026-08-25, 14:29:32](https://news.ycombinator.com/item?id=49434820) - [Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs)

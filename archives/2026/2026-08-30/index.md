@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-30](index.md)
 
+* [2026-08-30, 20:46:53](https://news.ycombinator.com/item?id=49502611) - [Continuous Diffusion Language Models (CDLM's)](https://sander.ai/2026/08/24/continuous-dlms.html)
+* [2026-08-30, 20:00:25](https://news.ycombinator.com/item?id=49502214) - [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html)
+* [2026-08-30, 19:08:25](https://news.ycombinator.com/item?id=49501791) - [The world may have less time than it thinks on climate change](https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change)
+* [2026-08-30, 18:49:08](https://news.ycombinator.com/item?id=49501611) - [Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver](https://github.com/KodeMunkie/sm750hdmifb)
 * [2026-08-30, 18:05:06](https://news.ycombinator.com/item?id=49501147) - [Running SQLite Apps on Docker and Kubernetes with Litestream](https://openrun.dev/blog/litestream/)
 * [2026-08-30, 17:59:08](https://news.ycombinator.com/item?id=49501087) - [Flock's CEO Is Lying to Cops About 404 Media's Reporting on Abortion Case](https://www.404media.co/flocks-ceo-is-lying-to-cops-about-404-medias-reporting-on-abortion-case/)
 * [2026-08-30, 17:50:06](https://news.ycombinator.com/item?id=49501002) - [Should We Have Kept the American Empire?](https://www.maximum-progress.com/p/should-we-have-kept-the-american)
@@ -11,6 +15,7 @@
 * [2026-08-30, 16:03:17](https://news.ycombinator.com/item?id=49499891) - [Coordination Headwind: How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/)
 * [2026-08-30, 16:01:10](https://news.ycombinator.com/item?id=49499867) - [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
 * [2026-08-30, 15:59:49](https://news.ycombinator.com/item?id=49499854) - [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/)
+* [2026-08-30, 15:57:30](https://news.ycombinator.com/item?id=49499831) - [Startup Anti-Patterns](https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/)
 * [2026-08-30, 15:12:40](https://news.ycombinator.com/item?id=49499394) - [European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement)
 * [2026-08-30, 14:41:53](https://news.ycombinator.com/item?id=49499095) - [Zig: Pointer Stability for ArrayLists](https://ziglang.org/devlog/2026/#2026-08-27)
 * [2026-08-30, 14:29:25](https://news.ycombinator.com/item?id=49498978) - [Europe's summer drought is so extreme that desertification is a growing threat](https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/)
