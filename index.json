@@ -1,22 +1,82 @@
 [
   [
     [
+      "2026-08-30, 10:02:16",
+      "https://news.ycombinator.com/item?id=49497265"
+    ],
+    [
+      "Spark: Sparklines in your shell",
+      "https://git.zx2c4.com/spark/about/"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 09:57:06",
+      "https://news.ycombinator.com/item?id=49497235"
+    ],
+    [
+      "Nvidia's AI advantage is moving beyond the GPU",
+      "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 09:52:15",
+      "https://news.ycombinator.com/item?id=49497200"
+    ],
+    [
+      "Everyone Should Build Their Own Network Stack",
+      "https://blog.lyc8503.net/en/post/dn42-2-dnet/"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 09:26:08",
+      "https://news.ycombinator.com/item?id=49497063"
+    ],
+    [
+      "Brits would quite like their private messages to stay private",
+      "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 08:51:39",
+      "https://news.ycombinator.com/item?id=49496918"
+    ],
+    [
+      "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "https://www.qubes-os.org/news/2026/08/29/qsb-118/"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 08:23:26",
+      "https://news.ycombinator.com/item?id=49496782"
+    ],
+    [
+      "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "https://arxiv.org/abs/1804.07389"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 07:35:41",
+      "https://news.ycombinator.com/item?id=49496543"
+    ],
+    [
+      "Xcena and Samsung's Near Memory Compute CXL Device",
+      "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs"
+    ]
+  ],
+  [
+    [
       "2026-08-30, 03:15:36",
       "https://news.ycombinator.com/item?id=49495372"
     ],
     [
       "California lawmakers unanimously pass Linux exemption from age-verification law",
       "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 02:25:32",
-      "https://news.ycombinator.com/item?id=49495127"
-    ],
-    [
-      "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
-      "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws"
     ]
   ],
   [
@@ -81,32 +141,12 @@
   ],
   [
     [
-      "2026-08-29, 19:28:28",
-      "https://news.ycombinator.com/item?id=49492584"
-    ],
-    [
-      "Domain-Driven Agents",
-      "https://coldtake.dev/blog/domain-driven-agents"
-    ]
-  ],
-  [
-    [
       "2026-08-29, 19:01:09",
       "https://news.ycombinator.com/item?id=49492368"
     ],
     [
       "Functional State Machines in Rust: Typestate and Newtype Patterns",
       "https://dl.acm.org/doi/10.1145/3830438.3830958"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 18:44:37",
-      "https://news.ycombinator.com/item?id=49492219"
-    ],
-    [
-      "DHS is using obscure law to snoop on journalists, non-profits, unions",
-      "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits"
     ]
   ],
   [
@@ -121,42 +161,12 @@
   ],
   [
     [
-      "2026-08-29, 17:19:47",
-      "https://news.ycombinator.com/item?id=49491568"
-    ],
-    [
-      "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 16:24:21",
-      "https://news.ycombinator.com/item?id=49491175"
-    ],
-    [
-      "Trees for a Changing Climate and Resilient Urban Forest (2022)",
-      "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest"
-    ]
-  ],
-  [
-    [
       "2026-08-29, 15:48:02",
       "https://news.ycombinator.com/item?id=49490870"
     ],
     [
       "Nancy Grace Roman Space Telescope",
       "https://science.nasa.gov/mission/roman-space-telescope/"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 15:43:53",
-      "https://news.ycombinator.com/item?id=49490832"
-    ],
-    [
-      "Quantifying Colour",
-      "https://ekunazanu.foo/lab/quantifying-colour/"
     ]
   ],
   [
@@ -171,22 +181,22 @@
   ],
   [
     [
-      "2026-08-28, 23:02:21",
-      "https://news.ycombinator.com/item?id=49485267"
-    ],
-    [
-      "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "https://github.com/Lakr233/vphone-cli"
-    ]
-  ],
-  [
-    [
       "2026-08-27, 19:12:03",
       "https://news.ycombinator.com/item?id=49469786"
     ],
     [
       "Benchmarking Pocket-Scale Inference",
       "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones"
+    ]
+  ],
+  [
+    [
+      "2026-08-26, 17:58:48",
+      "https://news.ycombinator.com/item?id=49453232"
+    ],
+    [
+      "The Einstein-Szilard Refrigerator",
+      "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator"
     ]
   ],
   [
@@ -201,32 +211,22 @@
   ],
   [
     [
-      "2026-08-26, 13:14:46",
-      "https://news.ycombinator.com/item?id=49448583"
+      "2026-08-26, 12:20:38",
+      "https://news.ycombinator.com/item?id=49447719"
     ],
     [
-      "Recovering Corrupt Zip Files",
-      "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895"
+      "Pop-2000, a lingua-franca POP-2 dialect",
+      "https://hitogata.neocities.org/POP-2000"
     ]
   ],
   [
     [
-      "2026-08-26, 11:33:31",
-      "https://news.ycombinator.com/item?id=49447178"
+      "2026-08-25, 16:56:15",
+      "https://news.ycombinator.com/item?id=49437117"
     ],
     [
-      "Show HN: Typebase – A single-folder back end you write in TypeScript",
-      "https://typebase.io"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 18:57:27",
-      "https://news.ycombinator.com/item?id=49438865"
-    ],
-    [
-      "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
-      "https://github.com/gbin/defragger"
+      "Orbs",
+      "https://ampcode.com/notes/orbs-explained"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=49433554"
     ],
     [
-      "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
+      "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") (1999)",
       "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html"
     ]
   ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-08-25, 03:26:09",
-      "https://news.ycombinator.com/item?id=49428756"
+      "2026-08-25, 08:43:42",
+      "https://news.ycombinator.com/item?id=49430745"
     ],
     [
-      "Sleepwalker: Passive Backdoor with Its Own Command Language",
-      "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/"
+      "JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",
+      "https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0"
     ]
   ],
   [
