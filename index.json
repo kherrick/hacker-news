@@ -1,12 +1,82 @@
 [
   [
     [
-      "2026-08-31, 00:37:47",
-      "https://news.ycombinator.com/item?id=49504352"
+      "2026-08-31, 07:23:47",
+      "https://news.ycombinator.com/item?id=49506655"
     ],
     [
-      "Yen weakens past ¥160 per dollar, eroding intervention gains",
-      "https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/"
+      "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+      "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 06:10:44",
+      "https://news.ycombinator.com/item?id=49506182"
+    ],
+    [
+      "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+      "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 03:38:02",
+      "https://news.ycombinator.com/item?id=49505310"
+    ],
+    [
+      "OpenClaw 2.0, Accidentally",
+      "https://openclaw.ai/blog/openclaw-2-accidentally"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 03:20:33",
+      "https://news.ycombinator.com/item?id=49505219"
+    ],
+    [
+      "P99 0 ms* autocomplete for 240M domain names",
+      "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 03:19:42",
+      "https://news.ycombinator.com/item?id=49505217"
+    ],
+    [
+      "Transfer files over an Ethernet patch cable",
+      "https://maurycyz.com/misc/etherfiles/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 02:44:56",
+      "https://news.ycombinator.com/item?id=49505043"
+    ],
+    [
+      "Show HN: Prove your code produced your claims without making reviewers rerun it",
+      "https://github.com/27-GROUP/kveritas-go/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 02:23:03",
+      "https://news.ycombinator.com/item?id=49504905"
+    ],
+    [
+      "Internet centralization and the original sin of NAT",
+      "https://dreamstation.systems/personal/ntppost.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 01:28:22",
+      "https://news.ycombinator.com/item?id=49504625"
+    ],
+    [
+      "Understanding ChatGPT Work",
+      "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
     ]
   ],
   [
@@ -71,16 +141,6 @@
   ],
   [
     [
-      "2026-08-30, 17:01:56",
-      "https://news.ycombinator.com/item?id=49500471"
-    ],
-    [
-      "Artie (YC S23) Is Hiring Technical AES",
-      "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1"
-    ]
-  ],
-  [
-    [
       "2026-08-30, 16:03:17",
       "https://news.ycombinator.com/item?id=49499891"
     ],
@@ -101,62 +161,12 @@
   ],
   [
     [
-      "2026-08-30, 15:59:49",
-      "https://news.ycombinator.com/item?id=49499854"
-    ],
-    [
-      "Omarchy: Any User Process Can Escalate to Root",
-      "https://0xcc.io/posts/omarchy-root-creds/"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 15:57:30",
-      "https://news.ycombinator.com/item?id=49499831"
-    ],
-    [
-      "Startup Anti-Patterns",
-      "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 15:12:40",
-      "https://news.ycombinator.com/item?id=49499394"
-    ],
-    [
-      "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
-      "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement"
-    ]
-  ],
-  [
-    [
       "2026-08-30, 14:41:53",
       "https://news.ycombinator.com/item?id=49499095"
     ],
     [
       "Zig: Pointer Stability for ArrayLists",
       "https://ziglang.org/devlog/2026/#2026-08-27"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 14:29:25",
-      "https://news.ycombinator.com/item?id=49498978"
-    ],
-    [
-      "Europe's summer drought is so extreme that desertification is a growing threat",
-      "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 11:46:23",
-      "https://news.ycombinator.com/item?id=49497854"
-    ],
-    [
-      "Automating Immersive Reading",
-      "https://smoores.dev/post/automating_immersive_reading/"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-08-30, 08:23:26",
-      "https://news.ycombinator.com/item?id=49496782"
-    ],
-    [
-      "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "https://arxiv.org/abs/1804.07389"
-    ]
-  ],
-  [
-    [
       "2026-08-29, 17:49:01",
       "https://news.ycombinator.com/item?id=49491791"
     ],
@@ -201,12 +201,42 @@
   ],
   [
     [
-      "2026-08-29, 02:43:48",
-      "https://news.ycombinator.com/item?id=49486419"
+      "2026-08-28, 22:29:34",
+      "https://news.ycombinator.com/item?id=49485020"
     ],
     [
-      "Quest for the Eternal Dock – Lambdock",
-      "https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html"
+      "Highlighting My Code Based on How Much I Care",
+      "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 20:11:48",
+      "https://news.ycombinator.com/item?id=49483622"
+    ],
+    [
+      "Racter (1984)",
+      "https://www.ubu.com/historical/racter/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 16:43:11",
+      "https://news.ycombinator.com/item?id=49481141"
+    ],
+    [
+      "My hobby of building miniatures and taking pretty pictures",
+      "https://sandyuraz.com/blogs/tiny-cafe/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 15:34:30",
+      "https://news.ycombinator.com/item?id=49480091"
+    ],
+    [
+      "It takes 5 cloud services to hear my doorbell",
+      "https://blog.vghaisas.com/rube-goldberg-doorbell/"
     ]
   ],
   [
@@ -217,16 +247,6 @@
     [
       "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
       "https://wilsonharper.net/projects/businesscard/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 04:58:34",
-      "https://news.ycombinator.com/item?id=49474515"
-    ],
-    [
-      "Synchronisation and SMPTE timecode (time code)",
-      "https://www.philrees.co.uk/articles/timecode.htm"
     ]
   ],
   [
@@ -247,16 +267,6 @@
     [
       "How would you know whether an ancient culture had zero?",
       "https://www.johndcook.com/blog/2026/08/21/ancient-number-system/"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 12:04:11",
-      "https://news.ycombinator.com/item?id=49463397"
-    ],
-    [
-      "Electric rain can eat through metal",
-      "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Sort branches by last commit date",
       "https://ryangreenberg.com/til/git-branches-by-commit-date/"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 06:16:02",
-      "https://news.ycombinator.com/item?id=49415793"
-    ],
-    [
-      "Adding a directional cost bias to a TSP heuristic reveals better local optima",
-      "https://tsp.uncledroid.app"
     ]
   ]
 ]
