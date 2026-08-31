@@ -1,12 +1,172 @@
 [
   [
     [
-      "2026-08-31, 07:23:47",
-      "https://news.ycombinator.com/item?id=49506655"
+      "2026-08-31, 15:02:41",
+      "https://news.ycombinator.com/item?id=49510632"
     ],
     [
-      "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-      "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails"
+      "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+      "https://github.com/Hebbian-Robotics/hflow"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 15:01:04",
+      "https://news.ycombinator.com/item?id=49510612"
+    ],
+    [
+      "Agentic Trust Controls",
+      "https://trustcontrols.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 14:59:34",
+      "https://news.ycombinator.com/item?id=49510600"
+    ],
+    [
+      "Show HN: 2x-4x cheaper GLM 5.3 for coding and research",
+      "https://www.coralbricks.ai"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 14:54:20",
+      "https://news.ycombinator.com/item?id=49510540"
+    ],
+    [
+      "Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP",
+      "https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 14:52:26",
+      "https://news.ycombinator.com/item?id=49510514"
+    ],
+    [
+      "Playa Phone",
+      "https://playaphone.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 14:52:24",
+      "https://news.ycombinator.com/item?id=49510511"
+    ],
+    [
+      "C++26: Standard Library Hardening Experiments",
+      "https://www.cppstories.com/2026/hardening-experiments/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 14:50:24",
+      "https://news.ycombinator.com/item?id=49510489"
+    ],
+    [
+      "Culture Clash",
+      "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 14:07:15",
+      "https://news.ycombinator.com/item?id=49510000"
+    ],
+    [
+      "ChatGPT Work Tool and Skill Reference",
+      "https://codex-tool-reference.simonw.chatgpt.site/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 13:39:43",
+      "https://news.ycombinator.com/item?id=49509679"
+    ],
+    [
+      "Show HN: Linux server management over SSH – written in Rust and Tauri",
+      "https://serverbox.stupidlabs.lol/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 11:17:25",
+      "https://news.ycombinator.com/item?id=49508317"
+    ],
+    [
+      "Agent Memory as a File Format",
+      "https://calpaterson.com/memoryfields.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 11:13:17",
+      "https://news.ycombinator.com/item?id=49508290"
+    ],
+    [
+      "A CVE Dispute",
+      "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 10:36:43",
+      "https://news.ycombinator.com/item?id=49508059"
+    ],
+    [
+      "Malleable software = solid bases and custom code",
+      "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 09:59:05",
+      "https://news.ycombinator.com/item?id=49507822"
+    ],
+    [
+      "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+      "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 08:57:35",
+      "https://news.ycombinator.com/item?id=49507280"
+    ],
+    [
+      "State of the Map 2026: OpenStreetMap conference",
+      "https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 08:33:01",
+      "https://news.ycombinator.com/item?id=49507121"
+    ],
+    [
+      "Study: Blue light impairs the eye's ability to distinguish fine detail most",
+      "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 08:13:37",
+      "https://news.ycombinator.com/item?id=49506978"
+    ],
+    [
+      "ReactOS 0.4.16",
+      "https://reactos.org/project-news/reactos-0416-released/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 07:49:18",
+      "https://news.ycombinator.com/item?id=49506819"
+    ],
+    [
+      "Breaking Claude Code Opus 5 Auto Mode",
+      "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/"
     ]
   ],
   [
@@ -21,12 +181,12 @@
   ],
   [
     [
-      "2026-08-31, 03:38:02",
-      "https://news.ycombinator.com/item?id=49505310"
+      "2026-08-31, 06:03:02",
+      "https://news.ycombinator.com/item?id=49506142"
     ],
     [
-      "OpenClaw 2.0, Accidentally",
-      "https://openclaw.ai/blog/openclaw-2-accidentally"
+      "uv: Deduplicate all files in the wheel cache",
+      "https://github.com/astral-sh/uv/pull/21327"
     ]
   ],
   [
@@ -37,36 +197,6 @@
     [
       "P99 0 ms* autocomplete for 240M domain names",
       "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 03:19:42",
-      "https://news.ycombinator.com/item?id=49505217"
-    ],
-    [
-      "Transfer files over an Ethernet patch cable",
-      "https://maurycyz.com/misc/etherfiles/"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 02:44:56",
-      "https://news.ycombinator.com/item?id=49505043"
-    ],
-    [
-      "Show HN: Prove your code produced your claims without making reviewers rerun it",
-      "https://github.com/27-GROUP/kveritas-go/"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 02:23:03",
-      "https://news.ycombinator.com/item?id=49504905"
-    ],
-    [
-      "Internet centralization and the original sin of NAT",
-      "https://dreamstation.systems/personal/ntppost.html"
     ]
   ],
   [
@@ -111,112 +241,22 @@
   ],
   [
     [
-      "2026-08-30, 20:46:53",
-      "https://news.ycombinator.com/item?id=49502611"
+      "2026-08-30, 17:01:56",
+      "https://news.ycombinator.com/item?id=49500471"
     ],
     [
-      "Continuous Diffusion Language Models (CDLM's)",
-      "https://sander.ai/2026/08/24/continuous-dlms.html"
+      "Artie (YC S23) Is Hiring Technical AES",
+      "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1"
     ]
   ],
   [
     [
-      "2026-08-30, 20:00:25",
-      "https://news.ycombinator.com/item?id=49502214"
+      "2026-08-30, 14:30:55",
+      "https://news.ycombinator.com/item?id=49498993"
     ],
     [
-      "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "https://www.righto.com/2026/08/spacelab-core-memory.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 18:49:08",
-      "https://news.ycombinator.com/item?id=49501611"
-    ],
-    [
-      "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-      "https://github.com/KodeMunkie/sm750hdmifb"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 16:03:17",
-      "https://news.ycombinator.com/item?id=49499891"
-    ],
-    [
-      "Coordination Headwind: How Organizations Are Like Slime Molds",
-      "https://komoroske.com/slime-mold/"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 16:01:10",
-      "https://news.ycombinator.com/item?id=49499867"
-    ],
-    [
-      "Haiku R1/beta6 has been released",
-      "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 14:41:53",
-      "https://news.ycombinator.com/item?id=49499095"
-    ],
-    [
-      "Zig: Pointer Stability for ArrayLists",
-      "https://ziglang.org/devlog/2026/#2026-08-27"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 11:39:43",
-      "https://news.ycombinator.com/item?id=49497810"
-    ],
-    [
-      "Hacking IKEA Furniture",
-      "https://greenlightning.eu/diy/hacking-ikea-furniture/"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 08:51:39",
-      "https://news.ycombinator.com/item?id=49496918"
-    ],
-    [
-      "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-      "https://www.qubes-os.org/news/2026/08/29/qsb-118/"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 17:49:01",
-      "https://news.ycombinator.com/item?id=49491791"
-    ],
-    [
-      "Creepy Crawlies",
-      "https://people.kernel.org/monsieuricon/creepy-crawlies"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 22:29:34",
-      "https://news.ycombinator.com/item?id=49485020"
-    ],
-    [
-      "Highlighting My Code Based on How Much I Care",
-      "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 20:11:48",
-      "https://news.ycombinator.com/item?id=49483622"
-    ],
-    [
-      "Racter (1984)",
-      "https://www.ubu.com/historical/racter/index.html"
+      "DNS Abuse and Criminal Infrastructure",
+      "https://labs.ripe.net/author/andrew_campling/dns-abuse-and-criminal-infrastructure-beyond-definitions-and-blocklists/"
     ]
   ],
   [
@@ -231,72 +271,32 @@
   ],
   [
     [
-      "2026-08-28, 15:34:30",
-      "https://news.ycombinator.com/item?id=49480091"
+      "2026-08-28, 07:41:57",
+      "https://news.ycombinator.com/item?id=49475568"
     ],
     [
-      "It takes 5 cloud services to hear my doorbell",
-      "https://blog.vghaisas.com/rube-goldberg-doorbell/"
+      "Using floci to emulate Cloud platforms (GCP, AWS, Azure)",
+      "https://flowg.cloud/blog/using-floci-local-emulators"
     ]
   ],
   [
     [
-      "2026-08-28, 13:48:12",
-      "https://news.ycombinator.com/item?id=49478426"
+      "2026-08-27, 16:24:44",
+      "https://news.ycombinator.com/item?id=49467365"
     ],
     [
-      "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
-      "https://wilsonharper.net/projects/businesscard/"
+      "Hit anything. Discover how it rings",
+      "https://fraware.github.io/EVERYTHING-RINGS/"
     ]
   ],
   [
     [
-      "2026-08-27, 17:20:21",
-      "https://news.ycombinator.com/item?id=49468126"
+      "2026-08-24, 12:20:40",
+      "https://news.ycombinator.com/item?id=49418694"
     ],
     [
-      "Dad’s Custom Atari Peripherals",
-      "https://www.goto10retro.com/p/dads-custom-atari-peripherals"
-    ]
-  ],
-  [
-    [
-      "2026-08-27, 13:05:53",
-      "https://news.ycombinator.com/item?id=49464287"
-    ],
-    [
-      "How would you know whether an ancient culture had zero?",
-      "https://www.johndcook.com/blog/2026/08/21/ancient-number-system/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 15:04:44",
-      "https://news.ycombinator.com/item?id=49450461"
-    ],
-    [
-      "Commercially Available Bike Generators Are Not Sustainable (2011)",
-      "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 10:38:56",
-      "https://news.ycombinator.com/item?id=49446705"
-    ],
-    [
-      "Relm4 makes developing beautiful cross-platform applications idiomatic",
-      "https://relm4.org/"
-    ]
-  ],
-  [
-    [
-      "2026-08-25, 14:57:00",
-      "https://news.ycombinator.com/item?id=49435285"
-    ],
-    [
-      "Sort branches by last commit date",
-      "https://ryangreenberg.com/til/git-branches-by-commit-date/"
+      "The Art of Chip-8",
+      "http://beyondloom.com/blog/artofchip8.html"
     ]
   ]
 ]
