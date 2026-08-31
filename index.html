@@ -129,24 +129,476 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="49506655">
+        <section id="49510632">
           <h3>
-            <a
-              class="item"
-              href="https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails"
-              >Meta Security Researcher's AI Agent Accidentally Deleted Her
-              Emails</a
+            <a class="item" href="https://github.com/Hebbian-Robotics/hflow"
+              >Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics
+              data pipelines</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-08-31 @ 07:23:47</span
+              <span>2026-08-31 @ 15:02:41</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49506655"
+                ><a href="https://news.ycombinator.com/item?id=49510632"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/Hebbian-Robotics/hflow"
+                >https://github.com/Hebbian-Robotics/hflow</a
+              >), an SDK that turns multimodal recordings from robots and human
+              operators into standardized, quality-checked episodes and
+              queryable dataset manifests. A recording can contain synchronized
+              video, joint states, actions, timestamps, and metadata, and HFlow
+              processes those streams together.
+              <p>
+                Here’s a demo of HFlow in action:
+                <a href="https://www.youtube.com/watch?v=xni0GwV-xAw"
+                  >https://www.youtube.com/watch?v=xni0GwV-xAw</a
+                >
+              </p>
+              <p>
+                Robotics data pipelines often begin as scripts: one transcodes
+                video, another checks timestamps, another adds labels, and
+                another copies selected recordings into a training set. This
+                works until the corpus grows. Then it becomes difficult to know
+                which code ran, why an episode was excluded, or whether a
+                dataset can be reproduced. The first pain is usually quality
+                control because frozen cameras, missing topics, timestamp drift,
+                and duplicate recordings can quietly enter training data.
+              </p>
+              <p>
+                Brandon first encountered this while training embodied AI models
+                for two-arm industrial cleaning robots. Kingston had run into
+                related problems while building high-throughput infrastructure
+                at Jane Street. Later, while speaking with robotics data
+                providers, we kept seeing teams rebuild similar processing and
+                quality-control infrastructure. We learnt that processing
+                robotics data is itself one of the bottlenecks to improving
+                robotics models.
+              </p>
+              <p>
+                An HFlow pipeline consists of transformations, checks, labels,
+                and enrichments. The SDK exposes them as plain Python functions
+                that receive an episode and return measurements, artifacts, or
+                transformed data. During development, the functions can run
+                in-process. For scheduled corpus processing, HFlow packages the
+                same registered steps as Airflow 3 DAGs, where teams can inspect
+                task status, logs, retries, and reruns.
+              </p>
+              <p>
+                HFlow currently accepts one MCAP file per episode. MCAP (<a
+                  href="https://mcap.dev/"
+                  >https://mcap.dev/</a
+                >) is an open container format by Foxglove for timestamped
+                multimodal recordings, similar in purpose to a ROS bag. It lets
+                video, robot state, actions, and other sensor streams remain
+                synchronized in one file. We use it because HFlow needs to
+                process these streams together, and because the resulting
+                recordings remain compatible with Foxglove and Rerun. HFlow
+                writes a canonical MCAP with in-band H.264 video, grouped camera
+                and state chunks, and provenance describing how the output was
+                produced. Each step has an explicit behavior version, and
+                catalog records connect its measurements and artifacts to the
+                source episode and pipeline run.
+              </p>
+              <p>
+                Quality checks store reusable evidence rather than imposing one
+                universal definition of good data. Some failures, including
+                black frames, frozen video, missing topics, timestamp drift, and
+                impossible joint movements, can be measured deterministically
+                without training a model. Others might be detected using VLMs
+                and other models like MediaPipe Hands. But their meaning depends
+                on the task. A smooth trajectory might indicate a successful
+                demonstration in one setting and a stalled robot in another.
+              </p>
+              <p>
+                HFlow writes measurements, metadata, version stamps, and
+                artifact locations to an append-only Parquet catalog. Teams
+                query it with DuckDB SQL and produce a version-pinned manifest
+                without opening the recordings again. Critical checks can
+                quarantine an episode, but HFlow does not delete data. This
+                separates the evidence from the policy used to assemble a
+                particular dataset.
+              </p>
+              <p>
+                We did not want to replace the tools robotics teams already use.
+                HFlow connects MCAP for synchronized recordings, Airflow for
+                scheduled execution, Parquet for catalog data, and DuckDB for
+                curation. Compared with a general workflow orchestrator, it adds
+                contracts for robotics episodes, processing provenance, quality
+                evidence, quarantine, and dataset manifests. Compared with a
+                training dataset format, it operates earlier and stops at
+                curated episodes plus a manifest.
+              </p>
+              <p>
+                Here are three examples of teams that would use HFlow: 1. A data
+                vendor or marketplace collecting egocentric recordings. They
+                could use HFlow to detect black or frozen video, duplicate
+                recordings, hand-object interaction, and other quality metrics
+                before delivering the data, while retaining evidence of which
+                checks ran on every episode. 2. A robotics team collecting
+                teleoperated demonstrations for its own models. They could use
+                HFlow to standardize recordings, add labels and enrichments, and
+                produce a reproducible training manifest. 3. A team operating
+                robots in the field. It could process incoming logs, quarantine
+                incomplete or corrupted episodes, and query the catalog for
+                particular robot versions, environments, or failure conditions.
+              </p>
+              <p>
+                The project is pre-v1, but the core lifecycle works end to end.
+                You can try it without an account, Docker, or robot hardware by
+                cloning the repository and following the quickstart.
+              </p>
+              <p>
+                HFlow is free under the Apache-2.0 license. The open source
+                deployment is currently a single-tenant workspace, and we have
+                not built the hosted, multi-tenant control plane yet. We are
+                considering making money through managed workspaces and
+                enterprise support for teams that do not want to operate the
+                runtime themselves.
+              </p>
+              <p>
+                Because this processing layer is software and data, people can
+                contribute without owning a robot. We would especially like
+                feedback from people who have built pipelines for robotics,
+                video, or other sensor-heavy systems. We are curious where our
+                data model is wrong, which integrations are missing, and what
+                would fail first on your workloads.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="49510612">
+          <h3>
+            <a class="item" href="https://trustcontrols.ai/"
+              >Agentic Trust Controls</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 15:01:04</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49510612"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49510600">
+          <h3>
+            <a class="item" href="https://www.coralbricks.ai"
+              >Show HN: 2x-4x cheaper GLM 5.3 for coding and research</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 14:59:34</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49510540">
+          <h3>
+            <a
+              class="item"
+              href="https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/"
+              >Apache Iggy, a message streaming platform in Rust, graduates to
+              an Apache TLP</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 14:54:20</span
+              ><span class="points-container"
+                >Points: <span class="points">88</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49510540"
+                  >Comments</a
+                ><span class="descendants">: 24</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49510514">
+          <h3>
+            <a class="item" href="https://playaphone.com/">Playa Phone</a>
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 14:52:26</span
+              ><span class="points-container"
+                >Points: <span class="points">392</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49510514"
+                  >Comments</a
+                ><span class="descendants">: 155</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49510511">
+          <h3>
+            <a
+              class="item"
+              href="https://www.cppstories.com/2026/hardening-experiments/"
+              >C++26: Standard Library Hardening Experiments</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 14:52:24</span
+              ><span class="points-container"
+                >Points: <span class="points">74</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49510511"
+                  >Comments</a
+                ><span class="descendants">: 38</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49510489">
+          <h3>
+            <a
+              class="item"
+              href="https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash"
+              >Culture Clash</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 14:50:24</span
+              ><span class="points-container"
+                >Points: <span class="points">58</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49510489"
+                  >Comments</a
+                ><span class="descendants">: 32</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49510000">
+          <h3>
+            <a
+              class="item"
+              href="https://codex-tool-reference.simonw.chatgpt.site/"
+              >ChatGPT Work Tool and Skill Reference</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 14:07:15</span
+              ><span class="points-container"
+                >Points: <span class="points">148</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49510000"
+                  >Comments</a
+                ><span class="descendants">: 46</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49509679">
+          <h3>
+            <a class="item" href="https://serverbox.stupidlabs.lol/"
+              >Show HN: Linux server management over SSH – written in Rust and
+              Tauri</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 13:39:43</span
+              ><span class="points-container"
+                >Points: <span class="points">46</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49509679"
+                  >Comments</a
+                ><span class="descendants">: 48</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49508317">
+          <h3>
+            <a class="item" href="https://calpaterson.com/memoryfields.html"
+              >Agent Memory as a File Format</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 11:17:25</span
+              ><span class="points-container"
+                >Points: <span class="points">145</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49508317"
+                  >Comments</a
+                ><span class="descendants">: 80</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49508290">
+          <h3>
+            <a
+              class="item"
+              href="https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/"
+              >A CVE Dispute</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 11:13:17</span
+              ><span class="points-container"
+                >Points: <span class="points">174</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49508290"
+                  >Comments</a
+                ><span class="descendants">: 44</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49508059">
+          <h3>
+            <a
+              class="item"
+              href="https://www.mdubakov.me/malleable-software-solid-bases-custom-code/"
+              >Malleable software = solid bases and custom code</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 10:36:43</span
+              ><span class="points-container"
+                >Points: <span class="points">90</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49508059"
+                  >Comments</a
+                ><span class="descendants">: 29</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49507822">
+          <h3>
+            <a
+              class="item"
+              href="https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/"
+              >OpenShot 4.0: Record, Edit, and Color Like Never Before</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 09:59:05</span
+              ><span class="points-container"
+                >Points: <span class="points">488</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49507822"
+                  >Comments</a
+                ><span class="descendants">: 110</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49507280">
+          <h3>
+            <a
+              class="item"
+              href="https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/"
+              >State of the Map 2026: OpenStreetMap conference</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 08:57:35</span
+              ><span class="points-container"
+                >Points: <span class="points">60</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49507280"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <i>State of the Map 2026</i> -
+              <a href="https://news.ycombinator.com/item?id=49478401"
+                >https://news.ycombinator.com/item?id=49478401</a
+              >
+              - Aug 2026 (62 comments)
+            </div>
+          </section>
+        </section>
+        <section id="49507121">
+          <h3>
+            <a
+              class="item"
+              href="https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/"
+              >Study: Blue light impairs the eye's ability to distinguish fine
+              detail most</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 08:33:01</span
+              ><span class="points-container"
+                >Points: <span class="points">84</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49507121"
+                  >Comments</a
+                ><span class="descendants">: 51</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49506978">
+          <h3>
+            <a
+              class="item"
+              href="https://reactos.org/project-news/reactos-0416-released/"
+              >ReactOS 0.4.16</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 08:13:37</span
+              ><span class="points-container"
+                >Points: <span class="points">139</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49506978"
+                  >Comments</a
+                ><span class="descendants">: 33</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49506819">
+          <h3>
+            <a
+              class="item"
+              href="https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/"
+              >Breaking Claude Code Opus 5 Auto Mode</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-31 @ 07:49:18</span
+              ><span class="points-container"
+                >Points: <span class="points">313</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49506819"
+                  >Comments</a
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -164,32 +616,30 @@
             <h4>
               <span>2026-08-31 @ 06:10:44</span
               ><span class="points-container"
-                >Points: <span class="points">284</span></span
+                >Points: <span class="points">350</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49506182"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49505310">
+        <section id="49506142">
           <h3>
-            <a
-              class="item"
-              href="https://openclaw.ai/blog/openclaw-2-accidentally"
-              >OpenClaw 2.0, Accidentally</a
+            <a class="item" href="https://github.com/astral-sh/uv/pull/21327"
+              >uv: Deduplicate all files in the wheel cache</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-08-31 @ 03:38:02</span
+              <span>2026-08-31 @ 06:03:02</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49505310"
+                ><a href="https://news.ycombinator.com/item?id=49506142"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -206,71 +656,11 @@
             <h4>
               <span>2026-08-31 @ 03:20:33</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">211</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49505219"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49505217">
-          <h3>
-            <a class="item" href="https://maurycyz.com/misc/etherfiles/"
-              >Transfer files over an Ethernet patch cable</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-31 @ 03:19:42</span
-              ><span class="points-container"
-                >Points: <span class="points">116</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49505217"
-                  >Comments</a
-                ><span class="descendants">: 124</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49505043">
-          <h3>
-            <a class="item" href="https://github.com/27-GROUP/kveritas-go/"
-              >Show HN: Prove your code produced your claims without making
-              reviewers rerun it</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-31 @ 02:44:56</span
-              ><span class="points-container"
-                >Points: <span class="points">12</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49505043"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49504905">
-          <h3>
-            <a
-              class="item"
-              href="https://dreamstation.systems/personal/ntppost.html"
-              >Internet centralization and the original sin of NAT</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-31 @ 02:23:03</span
-              ><span class="points-container"
-                >Points: <span class="points">66</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49504905"
-                  >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -287,11 +677,11 @@
             <h4>
               <span>2026-08-31 @ 01:28:22</span
               ><span class="points-container"
-                >Points: <span class="points">279</span></span
+                >Points: <span class="points">307</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49504625"
                   >Comments</a
-                ><span class="descendants">: 147</span></span
+                ><span class="descendants">: 172</span></span
               >
             </h4>
           </section>
@@ -308,7 +698,7 @@
             <h4>
               <span>2026-08-30 @ 23:41:32</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49503956"
                   >Comments</a
@@ -327,11 +717,11 @@
             <h4>
               <span>2026-08-30 @ 23:39:35</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49503934"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -348,241 +738,57 @@
             <h4>
               <span>2026-08-30 @ 22:49:48</span
               ><span class="points-container"
-                >Points: <span class="points">1079</span></span
+                >Points: <span class="points">1157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49503601"
                   >Comments</a
-                ><span class="descendants">: 296</span></span
+                ><span class="descendants">: 337</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49502611">
+        <section id="49500471">
           <h3>
             <a
               class="item"
-              href="https://sander.ai/2026/08/24/continuous-dlms.html"
-              >Continuous Diffusion Language Models (CDLM's)</a
+              href="https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1"
+              >Artie (YC S23) Is Hiring Technical AES</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-08-30 @ 20:46:53</span
+              <span>2026-08-30 @ 17:01:56</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49502611"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
+                >Points: <span class="points">1</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49502214">
+        <section id="49498993">
           <h3>
             <a
               class="item"
-              href="https://www.righto.com/2026/08/spacelab-core-memory.html"
-              >Cores in space: The core memory module from a 1980 Spacelab
-              computer</a
+              href="https://labs.ripe.net/author/andrew_campling/dns-abuse-and-criminal-infrastructure-beyond-definitions-and-blocklists/"
+              >DNS Abuse and Criminal Infrastructure</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-08-30 @ 20:00:25</span
+              <span>2026-08-30 @ 14:30:55</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49502214"
+                ><a href="https://news.ycombinator.com/item?id=49498993"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="49501611">
-          <h3>
-            <a class="item" href="https://github.com/KodeMunkie/sm750hdmifb"
-              >Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI
-              Driver</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-30 @ 18:49:08</span
-              ><span class="points-container"
-                >Points: <span class="points">118</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49501611"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
+            <div class="text">
+              <a
+                href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fhosted-files.sched.co%2Ficann86%2F3f%2FGreg%2520Aaron%2520Interisle%2520Report%2520Presentation%2520ICANN86%2520v8June2026.pptx&amp;wdOrigin=BROWSELINK"
+                >https://view.officeapps.live.com/op/view.aspx?src=https%3A%2...</a
               >
-            </h4>
-          </section>
-        </section>
-        <section id="49499891">
-          <h3>
-            <a class="item" href="https://komoroske.com/slime-mold/"
-              >Coordination Headwind: How Organizations Are Like Slime Molds</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-30 @ 16:03:17</span
-              ><span class="points-container"
-                >Points: <span class="points">169</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49499891"
-                  >Comments</a
-                ><span class="descendants">: 48</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49499867">
-          <h3>
-            <a
-              class="item"
-              href="https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6"
-              >Haiku R1/beta6 has been released</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-30 @ 16:01:10</span
-              ><span class="points-container"
-                >Points: <span class="points">348</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49499867"
-                  >Comments</a
-                ><span class="descendants">: 95</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49499095">
-          <h3>
-            <a class="item" href="https://ziglang.org/devlog/2026/#2026-08-27"
-              >Zig: Pointer Stability for ArrayLists</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-30 @ 14:41:53</span
-              ><span class="points-container"
-                >Points: <span class="points">113</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49499095"
-                  >Comments</a
-                ><span class="descendants">: 75</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49497810">
-          <h3>
-            <a
-              class="item"
-              href="https://greenlightning.eu/diy/hacking-ikea-furniture/"
-              >Hacking IKEA Furniture</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-30 @ 11:39:43</span
-              ><span class="points-container"
-                >Points: <span class="points">342</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49497810"
-                  >Comments</a
-                ><span class="descendants">: 254</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49496918">
-          <h3>
-            <a
-              class="item"
-              href="https://www.qubes-os.org/news/2026/08/29/qsb-118/"
-              >Arbitrary code execution in QubesOS via copy-to-VM error
-              reporting backchannel</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-30 @ 08:51:39</span
-              ><span class="points-container"
-                >Points: <span class="points">244</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49496918"
-                  >Comments</a
-                ><span class="descendants">: 96</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49491791">
-          <h3>
-            <a
-              class="item"
-              href="https://people.kernel.org/monsieuricon/creepy-crawlies"
-              >Creepy Crawlies</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-29 @ 17:49:01</span
-              ><span class="points-container"
-                >Points: <span class="points">1294</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49491791"
-                  >Comments</a
-                ><span class="descendants">: 637</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49485020">
-          <h3>
-            <a
-              class="item"
-              href="https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/"
-              >Highlighting My Code Based on How Much I Care</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-28 @ 22:29:34</span
-              ><span class="points-container"
-                >Points: <span class="points">108</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49485020"
-                  >Comments</a
-                ><span class="descendants">: 64</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49483622">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ubu.com/historical/racter/index.html"
-              >Racter (1984)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-28 @ 20:11:48</span
-              ><span class="points-container"
-                >Points: <span class="points">33</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49483622"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
-              >
-            </h4>
+            </div>
           </section>
         </section>
         <section id="49481141">
@@ -595,158 +801,73 @@
             <h4>
               <span>2026-08-28 @ 16:43:11</span
               ><span class="points-container"
-                >Points: <span class="points">288</span></span
+                >Points: <span class="points">348</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49481141"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
+            <div class="text">
+              My hobby of building miniatures and taking pretty pictures
+            </div>
           </section>
         </section>
-        <section id="49480091">
+        <section id="49475568">
           <h3>
             <a
               class="item"
-              href="https://blog.vghaisas.com/rube-goldberg-doorbell/"
-              >It takes 5 cloud services to hear my doorbell</a
+              href="https://flowg.cloud/blog/using-floci-local-emulators"
+              >Using floci to emulate Cloud platforms (GCP, AWS, Azure)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-08-28 @ 15:34:30</span
+              <span>2026-08-28 @ 07:41:57</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49480091"
+                ><a href="https://news.ycombinator.com/item?id=49475568"
                   >Comments</a
-                ><span class="descendants">: 226</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49478426">
+        <section id="49467365">
           <h3>
-            <a
-              class="item"
-              href="https://wilsonharper.net/projects/businesscard/"
-              >Show HN: NFC Energy-Harvesting PCB Business Card with an MCU</a
+            <a class="item" href="https://fraware.github.io/EVERYTHING-RINGS/"
+              >Hit anything. Discover how it rings</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-08-28 @ 13:48:12</span
+              <span>2026-08-27 @ 16:24:44</span
               ><span class="points-container"
-                >Points: <span class="points">203</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49478426"
+                ><a href="https://news.ycombinator.com/item?id=49467365"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49468126">
+        <section id="49418694">
           <h3>
-            <a
-              class="item"
-              href="https://www.goto10retro.com/p/dads-custom-atari-peripherals"
-              >Dad’s Custom Atari Peripherals</a
+            <a class="item" href="http://beyondloom.com/blog/artofchip8.html"
+              >The Art of Chip-8</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-08-27 @ 17:20:21</span
+              <span>2026-08-24 @ 12:20:40</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49468126"
+                ><a href="https://news.ycombinator.com/item?id=49418694"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49464287">
-          <h3>
-            <a
-              class="item"
-              href="https://www.johndcook.com/blog/2026/08/21/ancient-number-system/"
-              >How would you know whether an ancient culture had zero?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-27 @ 13:05:53</span
-              ><span class="points-container"
-                >Points: <span class="points">66</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49464287"
-                  >Comments</a
-                ><span class="descendants">: 46</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49450461">
-          <h3>
-            <a
-              class="item"
-              href="https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/"
-              >Commercially Available Bike Generators Are Not Sustainable
-              (2011)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-26 @ 15:04:44</span
-              ><span class="points-container"
-                >Points: <span class="points">49</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49450461"
-                  >Comments</a
-                ><span class="descendants">: 48</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49446705">
-          <h3>
-            <a class="item" href="https://relm4.org/"
-              >Relm4 makes developing beautiful cross-platform applications
-              idiomatic</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-26 @ 10:38:56</span
-              ><span class="points-container"
-                >Points: <span class="points">58</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49446705"
-                  >Comments</a
-                ><span class="descendants">: 31</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49435285">
-          <h3>
-            <a
-              class="item"
-              href="https://ryangreenberg.com/til/git-branches-by-commit-date/"
-              >Sort branches by last commit date</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-25 @ 14:57:00</span
-              ><span class="points-container"
-                >Points: <span class="points">134</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49435285"
-                  >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
