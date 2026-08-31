@@ -51,6 +51,7 @@
 * [2026-08-25, 14:00:27](https://news.ycombinator.com/item?id=49434291) - [Anthropic tells staff to work from home due to possible security team strike](https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8)
 * [2026-08-25, 13:32:52](https://news.ycombinator.com/item?id=49433759) - [The state of AI in 2026: On the road to ROI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
 * [2026-08-25, 13:20:02](https://news.ycombinator.com/item?id=49433554) - [Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")](https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
+* [2026-08-25, 13:15:10](https://news.ycombinator.com/item?id=49433481) - [Tmp.0ut, Vol. 5](https://tmpout.sh/5/)
 * [2026-08-25, 13:13:00](https://news.ycombinator.com/item?id=49433450) - [Apple's new Mac mini, featuring M6 and M5 Pro](https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/)
 * [2026-08-25, 13:08:13](https://news.ycombinator.com/item?id=49433372) - [US data centers tripled annual water consumption to 17B gallons](https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/)
 * [2026-08-25, 13:04:55](https://news.ycombinator.com/item?id=49433328) - [EVE Online moves to Python 3](https://www.eveonline.com/news/view/the-move-to-python-3-begins)

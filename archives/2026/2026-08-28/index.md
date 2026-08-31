@@ -50,6 +50,7 @@
 * [2026-08-28, 12:01:50](https://news.ycombinator.com/item?id=49477292) - [Bhartrhari's Paradox](https://www.futilitycloset.com/2026/08/18/bhartrharis-paradox/)
 * [2026-08-28, 11:51:20](https://news.ycombinator.com/item?id=49477212) - [OpenAI: Migrating to HTTPX2](https://github.com/openai/openai-python/blob/main/httpx2.md)
 * [2026-08-28, 11:41:45](https://news.ycombinator.com/item?id=49477157) - [httpx2](https://github.com/pydantic/httpx2)
+* [2026-08-28, 09:17:27](https://news.ycombinator.com/item?id=49476239) - ['Mad honey' that can stop your heart is being sold online](https://phys.org/news/2026-08-mad-honey-heart-sold-online.html)
 * [2026-08-28, 09:00:46](https://news.ycombinator.com/item?id=49476143) - [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
 * [2026-08-28, 08:35:07](https://news.ycombinator.com/item?id=49475979) - [Interactive Warhammer 40k Galaxy Map – Cartographia Imperialis](https://cartographia40k.com/)
 * [2026-08-28, 07:41:57](https://news.ycombinator.com/item?id=49475568) - [Using floci to emulate Cloud platforms (GCP, AWS, Azure)](https://flowg.cloud/blog/using-floci-local-emulators)
