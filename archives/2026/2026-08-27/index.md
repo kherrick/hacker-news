@@ -24,6 +24,7 @@
 * [2026-08-27, 17:17:57](https://news.ycombinator.com/item?id=49468083) - [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
 * [2026-08-27, 17:06:32](https://news.ycombinator.com/item?id=49467922) - [Gemini Omni 1.1 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/)
 * [2026-08-27, 17:00:14](https://news.ycombinator.com/item?id=49467837) - [Bild AI (YC W25) is hiring product and AI engineers](https://www.bild.ai/jobs)
+* [2026-08-27, 16:24:44](https://news.ycombinator.com/item?id=49467365) - [Hit anything. Discover how it rings](https://fraware.github.io/EVERYTHING-RINGS/)
 * [2026-08-27, 15:56:58](https://news.ycombinator.com/item?id=49466917) - [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
 * [2026-08-27, 15:55:12](https://news.ycombinator.com/item?id=49466894) - [Suica, Japan's First IC Transit Card](https://www.tokyodev.com/articles/the-story-of-suica)
 * [2026-08-27, 15:46:04](https://news.ycombinator.com/item?id=49466715) - [Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots](https://news.ycombinator.com/item?id=49466715)

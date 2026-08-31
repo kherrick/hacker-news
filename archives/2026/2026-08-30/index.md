@@ -24,6 +24,7 @@
 * [2026-08-30, 15:57:30](https://news.ycombinator.com/item?id=49499831) - [Startup Anti-Patterns](https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/)
 * [2026-08-30, 15:12:40](https://news.ycombinator.com/item?id=49499394) - [European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement)
 * [2026-08-30, 14:41:53](https://news.ycombinator.com/item?id=49499095) - [Zig: Pointer Stability for ArrayLists](https://ziglang.org/devlog/2026/#2026-08-27)
+* [2026-08-30, 14:30:55](https://news.ycombinator.com/item?id=49498993) - [DNS Abuse and Criminal Infrastructure](https://labs.ripe.net/author/andrew_campling/dns-abuse-and-criminal-infrastructure-beyond-definitions-and-blocklists/)
 * [2026-08-30, 14:29:25](https://news.ycombinator.com/item?id=49498978) - [Europe's summer drought is so extreme that desertification is a growing threat](https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/)
 * [2026-08-30, 14:06:54](https://news.ycombinator.com/item?id=49498787) - [METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack](https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/)
 * [2026-08-30, 12:50:54](https://news.ycombinator.com/item?id=49498201) - [Claude Session URL appended to commit messages and PR descriptions by default](https://github.com/anthropics/claude-code/issues/66504)

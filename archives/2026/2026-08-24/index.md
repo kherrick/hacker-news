@@ -71,6 +71,7 @@
 * [2026-08-24, 13:07:22](https://news.ycombinator.com/item?id=49419252) - [What's new in Emacs 31.1](https://www.masteringemacs.org/article/whats-new-in-emacs-311)
 * [2026-08-24, 13:05:25](https://news.ycombinator.com/item?id=49419237) - [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
 * [2026-08-24, 12:30:57](https://news.ycombinator.com/item?id=49418813) - [Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo](https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/)
+* [2026-08-24, 12:20:40](https://news.ycombinator.com/item?id=49418694) - [The Art of Chip-8](http://beyondloom.com/blog/artofchip8.html)
 * [2026-08-24, 12:18:56](https://news.ycombinator.com/item?id=49418675) - [Ask HN: Why do corporate failures always seem to punish the wrong people?](https://news.ycombinator.com/item?id=49418675)
 * [2026-08-24, 11:55:46](https://news.ycombinator.com/item?id=49418449) - [Anthropic candidates face blunt money question](https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question)
 * [2026-08-24, 11:32:51](https://news.ycombinator.com/item?id=49418255) - [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21)
