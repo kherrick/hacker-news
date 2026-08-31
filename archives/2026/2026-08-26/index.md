@@ -76,6 +76,7 @@
 * [2026-08-26, 11:23:43](https://news.ycombinator.com/item?id=49447054) - [Just say something people want](https://www.gkogan.co/say-something-people-want/)
 * [2026-08-26, 11:15:56](https://news.ycombinator.com/item?id=49446984) - [Radiation link in flight attendant's breast cancer, French court finds](https://www.bbc.com/news/articles/cn0j3z6147jo)
 * [2026-08-26, 10:44:40](https://news.ycombinator.com/item?id=49446748) - [U.S. gov't moves to suppress pushback on data centers](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them)
+* [2026-08-26, 10:38:56](https://news.ycombinator.com/item?id=49446705) - [Relm4 makes developing beautiful cross-platform applications idiomatic](https://relm4.org/)
 * [2026-08-26, 10:31:37](https://news.ycombinator.com/item?id=49446653) - [Debian polls its developers on AI: permit or ban?](https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270)
 * [2026-08-26, 10:26:03](https://news.ycombinator.com/item?id=49446602) - [The Feeling of Power (Asimov, 1958)](https://archive.org/details/1958-02_IF)
 * [2026-08-26, 10:25:33](https://news.ycombinator.com/item?id=49446597) - [It's Not the End of Programming](https://mathstodon.xyz/@abuseofnotation/117161292083848755)

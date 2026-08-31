@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-31](index.md)
+
+* [2026-08-31, 00:37:47](https://news.ycombinator.com/item?id=49504352) - [Yen weakens past ¥160 per dollar, eroding intervention gains](https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/)

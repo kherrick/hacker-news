@@ -95,6 +95,7 @@
 * [2026-08-24, 06:30:07](https://news.ycombinator.com/item?id=49415893) - [FDA clears blood test to aid evaluation for Alzheimer's disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 * [2026-08-24, 06:25:42](https://news.ycombinator.com/item?id=49415854) - [Your Open Source Model Could Have a Hidden Time-Release Backdoor](https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html)
 * [2026-08-24, 06:25:31](https://news.ycombinator.com/item?id=49415852) - [OCR It – pull text out of un-copyable documents for your LLM](https://github.com/thiagotigaz/ocr-it)
+* [2026-08-24, 06:16:02](https://news.ycombinator.com/item?id=49415793) - [Adding a directional cost bias to a TSP heuristic reveals better local optima](https://tsp.uncledroid.app)
 * [2026-08-24, 06:00:50](https://news.ycombinator.com/item?id=49415695) - [LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent](https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md)
 * [2026-08-24, 05:47:27](https://news.ycombinator.com/item?id=49415621) - [New EU-wide product repair rules come into force](https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/)
 * [2026-08-24, 05:12:45](https://news.ycombinator.com/item?id=49415405) - [Elevated Errors for Multiple Models](https://status.claude.com/incidents/vgz5psbjmt1h)
