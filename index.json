@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-09-01, 03:23:48",
+      "https://news.ycombinator.com/item?id=49517624"
+    ],
+    [
+      "Restroom Archive",
+      "https://restroomarchive.com"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 03:16:36",
+      "https://news.ycombinator.com/item?id=49517584"
+    ],
+    [
+      "GPU World",
+      "https://www.gpuworld.org/"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 03:05:55",
+      "https://news.ycombinator.com/item?id=49517537"
+    ],
+    [
+      "Google Antigravity introduces Boost deep reasoning (/boost)",
+      "https://antigravity.google/docs/boost/"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 02:56:15",
+      "https://news.ycombinator.com/item?id=49517483"
+    ],
+    [
+      "Is MCP Good Yet?",
+      "https://ismcpgoodyet.com"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 02:52:14",
+      "https://news.ycombinator.com/item?id=49517448"
+    ],
+    [
+      "Fastpotify",
+      "https://fastpotify.rocks/"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 02:29:23",
+      "https://news.ycombinator.com/item?id=49517297"
+    ],
+    [
+      "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+      "https://github.com/fregacmols/RotaryCell"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 01:25:40",
+      "https://news.ycombinator.com/item?id=49516848"
+    ],
+    [
+      "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+      "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 01:01:08",
+      "https://news.ycombinator.com/item?id=49516699"
+    ],
+    [
+      "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+      "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/"
+    ]
+  ],
+  [
+    [
       "2026-08-31, 23:45:56",
       "https://news.ycombinator.com/item?id=49516199"
     ],
@@ -31,26 +111,6 @@
   ],
   [
     [
-      "2026-08-31, 21:12:22",
-      "https://news.ycombinator.com/item?id=49514895"
-    ],
-    [
-      "How we configured OpenTelemetry logs in Rails",
-      "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 21:10:58",
-      "https://news.ycombinator.com/item?id=49514878"
-    ],
-    [
-      "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "https://webiterate.dev/google-removed-extensions-ublock-origin-108/"
-    ]
-  ],
-  [
-    [
       "2026-08-31, 21:00:09",
       "https://news.ycombinator.com/item?id=49514781"
     ],
@@ -71,12 +131,12 @@
   ],
   [
     [
-      "2026-08-31, 18:12:20",
-      "https://news.ycombinator.com/item?id=49512856"
+      "2026-08-31, 17:12:02",
+      "https://news.ycombinator.com/item?id=49512169"
     ],
     [
-      "The safest job from AI may be writing",
-      "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"
+      "GPU World",
+      "https://www.gpuworld.org/"
     ]
   ],
   [
@@ -95,28 +155,8 @@
       "https://news.ycombinator.com/item?id=49511534"
     ],
     [
-      "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
       "https://ravynos.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 15:34:34",
-      "https://news.ycombinator.com/item?id=49511007"
-    ],
-    [
-      "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "https://usealmanac.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 15:02:41",
-      "https://news.ycombinator.com/item?id=49510632"
-    ],
-    [
-      "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-      "https://github.com/Hebbian-Robotics/hflow"
     ]
   ],
   [
@@ -161,32 +201,32 @@
   ],
   [
     [
-      "2026-08-31, 06:05:07",
-      "https://news.ycombinator.com/item?id=49506148"
-    ],
-    [
-      "Since it was stripped of planetary status, Pluto’s defenders have been fighting",
-      "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 02:23:03",
-      "https://news.ycombinator.com/item?id=49504905"
-    ],
-    [
-      "Internet centralization and the original sin of NAT",
-      "https://dreamstation.systems/personal/ntppost.html"
-    ]
-  ],
-  [
-    [
       "2026-08-30, 22:37:01",
       "https://news.ycombinator.com/item?id=49503521"
     ],
     [
       "Terence Tao explains 6 essential mathematical concepts [video]",
       "https://www.youtube.com/watch?v=OOMx2BHHWtE"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 17:05:32",
+      "https://news.ycombinator.com/item?id=49500504"
+    ],
+    [
+      "Cheap GPS jammers are filling the world with navigation dead zones",
+      "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 09:40:12",
+      "https://news.ycombinator.com/item?id=49497137"
+    ],
+    [
+      "A Cyanometer and a Cloud Colourimeter",
+      "https://byopiapress.wordpress.com/2024/05/19/a-cyanometer-and-a-cloud-colourimeter/"
     ]
   ],
   [
@@ -201,21 +241,11 @@
   ],
   [
     [
-      "2026-08-30, 02:35:14",
-      "https://news.ycombinator.com/item?id=49495171"
-    ],
-    [
-      "No country for mediocre mathematicians",
-      "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians"
-    ]
-  ],
-  [
-    [
       "2026-08-29, 23:17:15",
       "https://news.ycombinator.com/item?id=49494181"
     ],
     [
-      "Lion-man – the oldest confirmed statue ever discovered",
+      "Lion-man",
       "https://en.wikipedia.org/wiki/Lion-man"
     ]
   ],
@@ -231,12 +261,12 @@
   ],
   [
     [
-      "2026-08-28, 09:17:27",
-      "https://news.ycombinator.com/item?id=49476239"
+      "2026-08-28, 20:41:35",
+      "https://news.ycombinator.com/item?id=49484004"
     ],
     [
-      "'Mad honey' that can stop your heart is being sold online",
-      "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html"
+      "Borges Labyrinth in Venice reopens to the public",
+      "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2026-08-27, 16:14:23",
-      "https://news.ycombinator.com/item?id=49467203"
+      "2026-08-27, 06:02:30",
+      "https://news.ycombinator.com/item?id=49460419"
     ],
     [
-      "Euphemisation of Taboo Areas (2023) [pdf]",
-      "https://ajmp.uwr.edu.pl/wp-content/uploads/sites/39/2023/12/10_Kleparski.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 20:38:44",
-      "https://news.ycombinator.com/item?id=49455557"
-    ],
-    [
-      "Show HN: We built the smallest dual-band aircraft tracker",
-      "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 09:21:45",
-      "https://news.ycombinator.com/item?id=49446091"
-    ],
-    [
-      "Visualizing Combos in Judo in R",
-      "https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 18:58:19",
-      "https://news.ycombinator.com/item?id=49424322"
-    ],
-    [
-      "Claude × retrocomputing: emulating a QIC-117 tape drive",
-      "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive"
+      "Flat vs. segmented memory – it's recursive",
+      "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented"
     ]
   ]
 ]
