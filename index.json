@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-09-01, 09:52:45",
+      "https://news.ycombinator.com/item?id=49519939"
+    ],
+    [
+      "44% on ARC-AGI-1 in 67 cents",
+      "https://mvakde.github.io/blog/44-on-arc-1/"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 07:01:49",
+      "https://news.ycombinator.com/item?id=49518877"
+    ],
+    [
+      "CollectWise (YC F24) Is Hiring",
+      "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer"
+    ]
+  ],
+  [
+    [
       "2026-09-01, 03:23:48",
       "https://news.ycombinator.com/item?id=49517624"
     ],
@@ -17,26 +37,6 @@
     [
       "GPU World",
       "https://www.gpuworld.org/"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 03:05:55",
-      "https://news.ycombinator.com/item?id=49517537"
-    ],
-    [
-      "Google Antigravity introduces Boost deep reasoning (/boost)",
-      "https://antigravity.google/docs/boost/"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 02:56:15",
-      "https://news.ycombinator.com/item?id=49517483"
-    ],
-    [
-      "Is MCP Good Yet?",
-      "https://ismcpgoodyet.com"
     ]
   ],
   [
@@ -91,32 +91,12 @@
   ],
   [
     [
-      "2026-08-31, 22:53:45",
-      "https://news.ycombinator.com/item?id=49515830"
+      "2026-08-31, 23:26:08",
+      "https://news.ycombinator.com/item?id=49516059"
     ],
     [
-      "Run macOS Software on Linux",
-      "https://www.darlinghq.org/"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 22:32:22",
-      "https://news.ycombinator.com/item?id=49515662"
-    ],
-    [
-      "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
-      "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 21:00:09",
-      "https://news.ycombinator.com/item?id=49514781"
-    ],
-    [
-      "Autonomous (YC F25) is hiring engineers",
-      "https://news.ycombinator.com/item?id=49514781"
+      "Tmp.0ut Volume 5",
+      "https://tmpout.sh/5/"
     ]
   ],
   [
@@ -127,16 +107,6 @@
     [
       "A walkable ASCII cyberpunk city in one HTML file [video]",
       "https://www.youtube.com/watch?v=3YtygAx_C6A"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 17:12:02",
-      "https://news.ycombinator.com/item?id=49512169"
-    ],
-    [
-      "GPU World",
-      "https://www.gpuworld.org/"
     ]
   ],
   [
@@ -201,6 +171,16 @@
   ],
   [
     [
+      "2026-08-31, 04:29:26",
+      "https://news.ycombinator.com/item?id=49505584"
+    ],
+    [
+      "Roget's Thesaurus",
+      "https://artflsrv04.uchicago.edu/roget-thesaurus/"
+    ]
+  ],
+  [
+    [
       "2026-08-30, 22:37:01",
       "https://news.ycombinator.com/item?id=49503521"
     ],
@@ -221,16 +201,6 @@
   ],
   [
     [
-      "2026-08-30, 09:40:12",
-      "https://news.ycombinator.com/item?id=49497137"
-    ],
-    [
-      "A Cyanometer and a Cloud Colourimeter",
-      "https://byopiapress.wordpress.com/2024/05/19/a-cyanometer-and-a-cloud-colourimeter/"
-    ]
-  ],
-  [
-    [
       "2026-08-30, 06:52:04",
       "https://news.ycombinator.com/item?id=49496292"
     ],
@@ -247,6 +217,26 @@
     [
       "Lion-man",
       "https://en.wikipedia.org/wiki/Lion-man"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 21:25:17",
+      "https://news.ycombinator.com/item?id=49493468"
+    ],
+    [
+      "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 13:55:35",
+      "https://news.ycombinator.com/item?id=49489939"
+    ],
+    [
+      "Global Trade and the United States Navy",
+      "https://acoup.blog/2026/08/28/collections-global-trade-and-united-states-navy/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Flat vs. segmented memory – it's recursive",
       "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented"
+    ]
+  ],
+  [
+    [
+      "2026-08-25, 22:34:35",
+      "https://news.ycombinator.com/item?id=49441609"
+    ],
+    [
+      "Polishing Cloth Updated",
+      "https://512pixels.net/2026/08/polishing-cloth-updated/"
     ]
   ]
 ]
