@@ -54,6 +54,7 @@
 * [2026-08-28, 09:17:27](https://news.ycombinator.com/item?id=49476239) - ['Mad honey' that can stop your heart is being sold online](https://phys.org/news/2026-08-mad-honey-heart-sold-online.html)
 * [2026-08-28, 09:00:46](https://news.ycombinator.com/item?id=49476143) - [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
 * [2026-08-28, 08:35:07](https://news.ycombinator.com/item?id=49475979) - [Interactive Warhammer 40k Galaxy Map – Cartographia Imperialis](https://cartographia40k.com/)
+* [2026-08-28, 08:27:02](https://news.ycombinator.com/item?id=49475924) - [Benchmarking Vector Indexes](https://www.percona.com/blog/benchmarking-vector-indexes/)
 * [2026-08-28, 07:41:57](https://news.ycombinator.com/item?id=49475568) - [Using floci to emulate Cloud platforms (GCP, AWS, Azure)](https://flowg.cloud/blog/using-floci-local-emulators)
 * [2026-08-28, 06:33:57](https://news.ycombinator.com/item?id=49475079) - [Luanti removed from Google Play due to baseless AI copyright notice](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/)
 * [2026-08-28, 04:58:34](https://news.ycombinator.com/item?id=49474515) - [Synchronisation and SMPTE timecode (time code)](https://www.philrees.co.uk/articles/timecode.htm)

@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-01](index.md)
 
+* [2026-09-01, 14:19:30](https://news.ycombinator.com/item?id=49522374) - [Saab Enters Collaborative Combat Aircraft Race with High-End Concept](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept)
+* [2026-09-01, 13:46:49](https://news.ycombinator.com/item?id=49521973) - [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/)
+* [2026-09-01, 13:19:12](https://news.ycombinator.com/item?id=49521623) - [Io_uring Without Readahead](https://frn.sh/io-uring/)
+* [2026-09-01, 12:53:51](https://news.ycombinator.com/item?id=49521315) - [EFF to Courts: Don't Rewrite Copyright over AI Hype](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
+* [2026-09-01, 10:11:02](https://news.ycombinator.com/item?id=49520022) - [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
 * [2026-09-01, 09:52:45](https://news.ycombinator.com/item?id=49519939) - [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
 * [2026-09-01, 07:01:49](https://news.ycombinator.com/item?id=49518877) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer)
 * [2026-09-01, 03:23:48](https://news.ycombinator.com/item?id=49517624) - [Restroom Archive](https://restroomarchive.com)
