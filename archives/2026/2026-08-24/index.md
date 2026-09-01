@@ -15,6 +15,7 @@
 * [2026-08-24, 19:32:18](https://news.ycombinator.com/item?id=49424758) - [A Claude Code skill that recovers export-blocked Kindle highlights](https://github.com/l3a0/claude-plugins)
 * [2026-08-24, 19:19:08](https://news.ycombinator.com/item?id=49424606) - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
 * [2026-08-24, 19:03:06](https://news.ycombinator.com/item?id=49424387) - [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
+* [2026-08-24, 18:58:19](https://news.ycombinator.com/item?id=49424322) - [Claude × retrocomputing: emulating a QIC-117 tape drive](https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive)
 * [2026-08-24, 18:58:13](https://news.ycombinator.com/item?id=49424320) - [Glacier Mice](https://en.wikipedia.org/wiki/Glacier_mice)
 * [2026-08-24, 18:45:43](https://news.ycombinator.com/item?id=49424167) - [Removed all counters, replies, following/ers, timestamps, from textlog](https://textlog.cc/post/2059)
 * [2026-08-24, 18:37:24](https://news.ycombinator.com/item?id=49424082) - [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
