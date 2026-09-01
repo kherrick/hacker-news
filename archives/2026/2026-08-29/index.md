@@ -41,6 +41,7 @@
 * [2026-08-29, 12:28:11](https://news.ycombinator.com/item?id=49489376) - [Show HN: Laser Graffiti](https://laser.consti.de)
 * [2026-08-29, 12:14:18](https://news.ycombinator.com/item?id=49489274) - [When Fruit Is Scarce, These Monkeys Hunt Animals](https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/)
 * [2026-08-29, 11:39:38](https://news.ycombinator.com/item?id=49489057) - [Iceland votes on whether to restart talks on joining EU](https://www.bbc.com/news/articles/cn45vdxyvvlo)
+* [2026-08-29, 09:05:53](https://news.ycombinator.com/item?id=49488224) - [How bicycle coaster brakes work (2018)](https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html)
 * [2026-08-29, 06:35:28](https://news.ycombinator.com/item?id=49487506) - [e is a customizable self-aware Emacs-like editor written in Chez Scheme](https://github.com/paveluv/e)
 * [2026-08-29, 06:06:51](https://news.ycombinator.com/item?id=49487341) - [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
 * [2026-08-29, 05:17:59](https://news.ycombinator.com/item?id=49487099) - [Dimethyl Mercury Exposure Incident at MIT](https://twitter.com/andrew_n_carr/status/2093524390390694232)

@@ -67,6 +67,7 @@
 * [2026-08-26, 12:52:12](https://news.ycombinator.com/item?id=49448210) - [Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency](https://qwen.ai/blog?id=qwen3.8-flash-next)
 * [2026-08-26, 12:48:37](https://news.ycombinator.com/item?id=49448150) - [A curmudgeon tries a language server](https://entropicthoughts.com/curmudgeon-tries-language-server)
 * [2026-08-26, 12:47:47](https://news.ycombinator.com/item?id=49448137) - [Bill Gates: The turbulent AI era is here](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make)
+* [2026-08-26, 12:40:56](https://news.ycombinator.com/item?id=49448019) - [Specifications Don't Exist (2025)](https://www.galois.com/articles/specifications-dont-exist)
 * [2026-08-26, 12:25:45](https://news.ycombinator.com/item?id=49447772) - [X sends in the lawyers to shut down open source project](https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548)
 * [2026-08-26, 12:20:38](https://news.ycombinator.com/item?id=49447719) - [Pop-2000, a lingua-franca POP-2 dialect](https://hitogata.neocities.org/POP-2000)
 * [2026-08-26, 12:17:43](https://news.ycombinator.com/item?id=49447682) - [Omarchy development practices lead to predictable security issues](https://blog.happyfellow.dev/merchants-of-insecurity/)
