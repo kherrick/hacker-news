@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-01](index.md)
 
+* [2026-09-01, 09:52:45](https://news.ycombinator.com/item?id=49519939) - [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
+* [2026-09-01, 07:01:49](https://news.ycombinator.com/item?id=49518877) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer)
 * [2026-09-01, 03:23:48](https://news.ycombinator.com/item?id=49517624) - [Restroom Archive](https://restroomarchive.com)
 * [2026-09-01, 03:16:36](https://news.ycombinator.com/item?id=49517584) - [GPU World](https://www.gpuworld.org/)
 * [2026-09-01, 03:05:55](https://news.ycombinator.com/item?id=49517537) - [Google Antigravity introduces Boost deep reasoning (/boost)](https://antigravity.google/docs/boost/)

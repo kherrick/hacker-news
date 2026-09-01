@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-31](index.md)
 
 * [2026-08-31, 23:45:56](https://news.ycombinator.com/item?id=49516199) - [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138)
+* [2026-08-31, 23:26:08](https://news.ycombinator.com/item?id=49516059) - [Tmp.0ut Volume 5](https://tmpout.sh/5/)
 * [2026-08-31, 22:53:45](https://news.ycombinator.com/item?id=49515830) - [Run macOS Software on Linux](https://www.darlinghq.org/)
 * [2026-08-31, 22:32:22](https://news.ycombinator.com/item?id=49515662) - [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
 * [2026-08-31, 21:12:22](https://news.ycombinator.com/item?id=49514895) - [How we configured OpenTelemetry logs in Rails](https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails)
@@ -44,6 +45,7 @@
 * [2026-08-31, 06:10:44](https://news.ycombinator.com/item?id=49506182) - [A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/)
 * [2026-08-31, 06:05:07](https://news.ycombinator.com/item?id=49506148) - [Since it was stripped of planetary status, Pluto’s defenders have been fighting](https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake)
 * [2026-08-31, 06:03:02](https://news.ycombinator.com/item?id=49506142) - [uv: Deduplicate all files in the wheel cache](https://github.com/astral-sh/uv/pull/21327)
+* [2026-08-31, 04:29:26](https://news.ycombinator.com/item?id=49505584) - [Roget's Thesaurus](https://artflsrv04.uchicago.edu/roget-thesaurus/)
 * [2026-08-31, 03:38:02](https://news.ycombinator.com/item?id=49505310) - [OpenClaw 2.0, Accidentally](https://openclaw.ai/blog/openclaw-2-accidentally)
 * [2026-08-31, 03:20:33](https://news.ycombinator.com/item?id=49505219) - [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
 * [2026-08-31, 03:19:42](https://news.ycombinator.com/item?id=49505217) - [Transfer files over an Ethernet patch cable](https://maurycyz.com/misc/etherfiles/)

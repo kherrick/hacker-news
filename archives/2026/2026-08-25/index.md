@@ -6,6 +6,7 @@
 
 * [2026-08-25, 22:53:11](https://news.ycombinator.com/item?id=49441781) - [More Fucked Today Than Yesterday](https://climatecasino.substack.com/p/more-fucked-today-than-yesterday)
 * [2026-08-25, 22:40:07](https://news.ycombinator.com/item?id=49441666) - [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
+* [2026-08-25, 22:34:35](https://news.ycombinator.com/item?id=49441609) - [Polishing Cloth Updated](https://512pixels.net/2026/08/polishing-cloth-updated/)
 * [2026-08-25, 22:08:50](https://news.ycombinator.com/item?id=49441375) - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
 * [2026-08-25, 22:03:03](https://news.ycombinator.com/item?id=49441316) - [Global demand for sand spawned a worldwide boom in illegal mining (2015)](https://www.wired.com/2015/03/illegal-sand-mining/)
 * [2026-08-25, 21:43:37](https://news.ycombinator.com/item?id=49441101) - [One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool](https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN)
