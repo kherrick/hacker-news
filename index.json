@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-08-31, 20:23:50",
-      "https://news.ycombinator.com/item?id=49514454"
+      "2026-08-31, 23:45:56",
+      "https://news.ycombinator.com/item?id=49516199"
     ],
     [
-      "The river of Apple's interface guidelines",
-      "https://hig.josefrichter.design/"
+      "Evidence of Fraud in an Influential Study About Procrastination",
+      "https://datacolada.org/138"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 22:53:45",
+      "https://news.ycombinator.com/item?id=49515830"
+    ],
+    [
+      "Run macOS Software on Linux",
+      "https://www.darlinghq.org/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 22:32:22",
+      "https://news.ycombinator.com/item?id=49515662"
+    ],
+    [
+      "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+      "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 21:12:22",
+      "https://news.ycombinator.com/item?id=49514895"
+    ],
+    [
+      "How we configured OpenTelemetry logs in Rails",
+      "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 21:10:58",
+      "https://news.ycombinator.com/item?id=49514878"
+    ],
+    [
+      "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "https://webiterate.dev/google-removed-extensions-ublock-origin-108/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 21:00:09",
+      "https://news.ycombinator.com/item?id=49514781"
+    ],
+    [
+      "Autonomous (YC F25) is hiring engineers",
+      "https://news.ycombinator.com/item?id=49514781"
     ]
   ],
   [
@@ -21,42 +71,12 @@
   ],
   [
     [
-      "2026-08-31, 18:15:26",
-      "https://news.ycombinator.com/item?id=49512895"
+      "2026-08-31, 18:12:20",
+      "https://news.ycombinator.com/item?id=49512856"
     ],
     [
-      "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "https://jobs.ashbyhq.com/workweave"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 17:50:37",
-      "https://news.ycombinator.com/item?id=49512618"
-    ],
-    [
-      "Kids These Days",
-      "https://smallpotatoes.paulbloom.net/p/kids-these-days"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 17:22:43",
-      "https://news.ycombinator.com/item?id=49512311"
-    ],
-    [
-      "'Stunning' percolation proof solves decades-old puzzle about phase transitions",
-      "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 16:52:35",
-      "https://news.ycombinator.com/item?id=49511917"
-    ],
-    [
-      "Konrad Zuse Museum shutting down due to lack of funding",
-      "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html"
+      "The safest job from AI may be writing",
+      "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
       "https://ravynos.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 16:08:08",
-      "https://news.ycombinator.com/item?id=49511400"
-    ],
-    [
-      "Show HN: Corporate Mind Games – logic puzzles with a sarcastic corporate theme",
-      "https://corporatemindgames.com/"
     ]
   ],
   [
@@ -121,26 +131,6 @@
   ],
   [
     [
-      "2026-08-31, 14:52:24",
-      "https://news.ycombinator.com/item?id=49510511"
-    ],
-    [
-      "C++26: Standard Library Hardening Experiments",
-      "https://www.cppstories.com/2026/hardening-experiments/"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 14:50:24",
-      "https://news.ycombinator.com/item?id=49510489"
-    ],
-    [
-      "The Snow/Leavis ‘two cultures’ clash",
-      "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash"
-    ]
-  ],
-  [
-    [
       "2026-08-31, 14:07:15",
       "https://news.ycombinator.com/item?id=49510000"
     ],
@@ -171,22 +161,12 @@
   ],
   [
     [
-      "2026-08-31, 09:59:05",
-      "https://news.ycombinator.com/item?id=49507822"
+      "2026-08-31, 06:05:07",
+      "https://news.ycombinator.com/item?id=49506148"
     ],
     [
-      "OpenShot 4.0 – Open-source video editor",
-      "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 07:49:18",
-      "https://news.ycombinator.com/item?id=49506819"
-    ],
-    [
-      "Breaking Claude Code Opus 5 Auto Mode",
-      "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/"
+      "Since it was stripped of planetary status, Pluto’s defenders have been fighting",
+      "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake"
     ]
   ],
   [
@@ -221,22 +201,32 @@
   ],
   [
     [
+      "2026-08-30, 02:35:14",
+      "https://news.ycombinator.com/item?id=49495171"
+    ],
+    [
+      "No country for mediocre mathematicians",
+      "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 23:17:15",
+      "https://news.ycombinator.com/item?id=49494181"
+    ],
+    [
+      "Lion-man – the oldest confirmed statue ever discovered",
+      "https://en.wikipedia.org/wiki/Lion-man"
+    ]
+  ],
+  [
+    [
       "2026-08-29, 12:28:11",
       "https://news.ycombinator.com/item?id=49489376"
     ],
     [
       "Show HN: Laser Graffiti",
       "https://laser.consti.de"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 05:17:59",
-      "https://news.ycombinator.com/item?id=49487099"
-    ],
-    [
-      "Dimethyl Mercury Exposure Incident at MIT",
-      "https://twitter.com/andrew_n_carr/status/2093524390390694232"
     ]
   ],
   [
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=49467203"
     ],
     [
-      "Euphemisation of Taboo Areas [pdf]",
+      "Euphemisation of Taboo Areas (2023) [pdf]",
       "https://ajmp.uwr.edu.pl/wp-content/uploads/sites/39/2023/12/10_Kleparski.pdf"
     ]
   ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2026-08-25, 13:15:10",
-      "https://news.ycombinator.com/item?id=49433481"
+      "2026-08-26, 09:21:45",
+      "https://news.ycombinator.com/item?id=49446091"
     ],
     [
-      "Tmp.0ut, Vol. 5",
-      "https://tmpout.sh/5/"
+      "Visualizing Combos in Judo in R",
+      "https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 18:58:19",
+      "https://news.ycombinator.com/item?id=49424322"
+    ],
+    [
+      "Claude × retrocomputing: emulating a QIC-117 tape drive",
+      "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive"
     ]
   ]
 ]
