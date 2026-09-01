@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-09-01](index.md)
 
+* [2026-09-01, 22:30:52](https://news.ycombinator.com/item?id=49529132) - [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
+* [2026-09-01, 22:06:57](https://news.ycombinator.com/item?id=49528895) - [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
+* [2026-09-01, 21:19:10](https://news.ycombinator.com/item?id=49528366) - [Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)
+* [2026-09-01, 20:53:35](https://news.ycombinator.com/item?id=49528057) - [Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"](https://hnmatchmaker.com/)
 * [2026-09-01, 20:39:19](https://news.ycombinator.com/item?id=49527879) - [Dyson Launches Toothbrush](https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue)
+* [2026-09-01, 20:30:51](https://news.ycombinator.com/item?id=49527748) - [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)
+* [2026-09-01, 20:20:41](https://news.ycombinator.com/item?id=49527595) - [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/)
 * [2026-09-01, 20:19:11](https://news.ycombinator.com/item?id=49527573) - [Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/)
 * [2026-09-01, 20:07:57](https://news.ycombinator.com/item?id=49527396) - [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)
 * [2026-09-01, 19:55:47](https://news.ycombinator.com/item?id=49527232) - [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html)
