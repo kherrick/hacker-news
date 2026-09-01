@@ -35,6 +35,7 @@
 * [2026-08-30, 11:46:23](https://news.ycombinator.com/item?id=49497854) - [Automating Immersive Reading](https://smoores.dev/post/automating_immersive_reading/)
 * [2026-08-30, 11:41:40](https://news.ycombinator.com/item?id=49497819) - [An implementation of Conway's Game of Life for Windows 3.1x and later](https://www.muppetlabs.com/~breadbox/software/windows.html)
 * [2026-08-30, 11:39:43](https://news.ycombinator.com/item?id=49497810) - [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)
+* [2026-08-30, 11:27:16](https://news.ycombinator.com/item?id=49497741) - [Physically Immutable Optical Archive Libraries](https://savartus.com/solutions/enterprise-laser-storage/)
 * [2026-08-30, 10:20:11](https://news.ycombinator.com/item?id=49497357) - [Fair Work Commission condemns 'plain wrong' AI legal advice](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
 * [2026-08-30, 10:02:16](https://news.ycombinator.com/item?id=49497265) - [Spark: Sparklines in your shell](https://git.zx2c4.com/spark/about/)
 * [2026-08-30, 09:57:06](https://news.ycombinator.com/item?id=49497235) - [Nvidia's AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)

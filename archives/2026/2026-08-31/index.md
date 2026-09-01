@@ -31,6 +31,7 @@
 * [2026-08-31, 14:50:24](https://news.ycombinator.com/item?id=49510489) - [Culture Clash](https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash)
 * [2026-08-31, 14:07:15](https://news.ycombinator.com/item?id=49510000) - [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/)
 * [2026-08-31, 13:39:43](https://news.ycombinator.com/item?id=49509679) - [Show HN: Linux server management over SSH – written in Rust and Tauri](https://serverbox.stupidlabs.lol/)
+* [2026-08-31, 13:37:28](https://news.ycombinator.com/item?id=49509655) - [We are rebuilding Monica](https://www.monicahq.com/en/blog/we-are-rebuilding-monica/)
 * [2026-08-31, 12:41:22](https://news.ycombinator.com/item?id=49508982) - [Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/)
 * [2026-08-31, 11:45:48](https://news.ycombinator.com/item?id=49508506) - [I think the military commissary's freezers were hacked](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary)
 * [2026-08-31, 11:17:25](https://news.ycombinator.com/item?id=49508317) - [Agent Memory as a File Format](https://calpaterson.com/memoryfields.html)
