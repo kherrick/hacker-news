@@ -1,6 +1,136 @@
 [
   [
     [
+      "2026-09-02, 17:18:39",
+      "https://news.ycombinator.com/item?id=49539389"
+    ],
+    [
+      "Paint.net 5.2 alpha now runs on Linux",
+      "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 17:04:58",
+      "https://news.ycombinator.com/item?id=49539233"
+    ],
+    [
+      "ChatGPT ad targeting is garbage",
+      "https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 16:52:20",
+      "https://news.ycombinator.com/item?id=49539064"
+    ],
+    [
+      "How Railroad Crossings Work",
+      "https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 16:49:29",
+      "https://news.ycombinator.com/item?id=49539024"
+    ],
+    [
+      "Tangle – Visual ML Pipeline Editor",
+      "https://tangleml.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 16:33:07",
+      "https://news.ycombinator.com/item?id=49538745"
+    ],
+    [
+      "How to debloat your Xiaomi 15 Ultra without root access",
+      "https://trackerninja.codeberg.page/post/how-to-debloat-your-xiaomi-15-ultra-without-rooting-and-connecting-it-to-the-computer/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 16:25:28",
+      "https://news.ycombinator.com/item?id=49538633"
+    ],
+    [
+      "The race to engineer new knobs for the human brain",
+      "https://www.neuroai.science/p/the-race-to-engineer-new-knobs-for"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 16:14:52",
+      "https://news.ycombinator.com/item?id=49538490"
+    ],
+    [
+      "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
+      "https://frontierharness.org"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 16:07:18",
+      "https://news.ycombinator.com/item?id=49538375"
+    ],
+    [
+      "Saving money on Google Photos with Immich: Your own personal photo storage",
+      "https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 15:36:24",
+      "https://news.ycombinator.com/item?id=49537900"
+    ],
+    [
+      "AI Policy",
+      "https://dbushell.com/ai/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 15:25:55",
+      "https://news.ycombinator.com/item?id=49537738"
+    ],
+    [
+      "SteamdDB Joins Nexus Mods",
+      "https://www.nexusmods.com/news/15597"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 15:12:40",
+      "https://news.ycombinator.com/item?id=49537553"
+    ],
+    [
+      "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 14:16:45",
+      "https://news.ycombinator.com/item?id=49536606"
+    ],
+    [
+      "Exit the Cave",
+      "https://turtlespace.blog/p/exit-the-cave"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 14:02:35",
+      "https://news.ycombinator.com/item?id=49536411"
+    ],
+    [
+      "WebLLM: high-performance in-browser LLM inference engine",
+      "https://github.com/mlc-ai/web-llm"
+    ]
+  ],
+  [
+    [
       "2026-09-02, 14:00:28",
       "https://news.ycombinator.com/item?id=49536384"
     ],
@@ -15,18 +145,18 @@
       "https://news.ycombinator.com/item?id=49536375"
     ],
     [
-      "Three sites made 215,128 \"best software\" pages for AI. Perplexity cites them",
+      "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
       "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
     ]
   ],
   [
     [
-      "2026-09-02, 13:47:57",
-      "https://news.ycombinator.com/item?id=49536180"
+      "2026-09-02, 13:49:23",
+      "https://news.ycombinator.com/item?id=49536201"
     ],
     [
-      "Dyson CameraJet: The only toothbrush with a camera and a jet",
-      "https://www.dyson.com/discover/news/latest/introducing-camerajet"
+      "A third of Perplexity's citations don't contain the number they're cited for",
+      "https://hausresearch.com/reports/perplexity-citation-audit/"
     ]
   ],
   [
@@ -61,32 +191,12 @@
   ],
   [
     [
-      "2026-09-02, 13:22:29",
-      "https://news.ycombinator.com/item?id=49535835"
-    ],
-    [
-      "Just Bury Your Trash",
-      "https://www.worksinprogress.news/p/just-bury-your-trash"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 13:17:12",
       "https://news.ycombinator.com/item?id=49535752"
     ],
     [
       "A Note from LWN",
       "https://lwn.net/Articles/1090585/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 13:14:57",
-      "https://news.ycombinator.com/item?id=49535721"
-    ],
-    [
-      "A Beginner's Deep Dive Guide to Entra Passkeys",
-      "https://emsroute.com/2026/03/19/passkeys-beginners-101/"
     ]
   ],
   [
@@ -101,52 +211,12 @@
   ],
   [
     [
-      "2026-09-02, 13:03:01",
-      "https://news.ycombinator.com/item?id=49535583"
-    ],
-    [
-      "The Cables That Connect the World",
-      "https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 12:59:09",
       "https://news.ycombinator.com/item?id=49535548"
     ],
     [
       "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
       "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 12:55:40",
-      "https://news.ycombinator.com/item?id=49535526"
-    ],
-    [
-      "Dutch central bank moves share of gold from U.S., Canada to London",
-      "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 12:53:22",
-      "https://news.ycombinator.com/item?id=49535506"
-    ],
-    [
-      "Why humanoid robots won't catch up to human workers any time soon",
-      "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 12:35:20",
-      "https://news.ycombinator.com/item?id=49535324"
-    ],
-    [
-      "Using jq to format JSON on the clipboard",
-      "https://chris48s.github.io/blogmarks/posts/2021/jsontidy/"
     ]
   ],
   [
@@ -171,42 +241,12 @@
   ],
   [
     [
-      "2026-09-02, 11:52:48",
-      "https://news.ycombinator.com/item?id=49534921"
-    ],
-    [
-      "Ending my elixir exploratory writing",
-      "https://lucassifoni.info/blog/the-end-of-this-elixir-log/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 11:00:20",
-      "https://news.ycombinator.com/item?id=49534524"
-    ],
-    [
-      "It's OK to hardcode feature flags (2025)",
-      "https://code.mendhak.com/hardcode-feature-flags/"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 10:02:41",
       "https://news.ycombinator.com/item?id=49534132"
     ],
     [
       "Quasar 438B: Europe's Leading AI Model",
       "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 09:50:58",
-      "https://news.ycombinator.com/item?id=49534041"
-    ],
-    [
-      "Banca Etica Suspends A/I's Account While Condemning the Sanctions Behind It",
-      "https://sabot.media/post/banca-etica-statement-english"
     ]
   ],
   [
@@ -241,62 +281,22 @@
   ],
   [
     [
-      "2026-09-01, 18:35:15",
-      "https://news.ycombinator.com/item?id=49526069"
+      "2026-08-31, 23:24:54",
+      "https://news.ycombinator.com/item?id=49516047"
     ],
     [
-      "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "https://danluu.com/zitron/"
+      "Discontinuation of third level domain registrations for the .name TLD [pdf]",
+      "https://itp.cdn.icann.org/en/files/consensus-policies/rsep-2026013-name-request-15-04-2026-en.pdf"
     ]
   ],
   [
     [
-      "2026-09-01, 15:00:29",
-      "https://news.ycombinator.com/item?id=49522884"
+      "2026-08-31, 19:25:44",
+      "https://news.ycombinator.com/item?id=49513856"
     ],
     [
-      "A Small Telescope That Surprised Me",
-      "https://adfr.io/thoughts/20260831_a_small_telescope_that_surprised_me/"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 13:17:13",
-      "https://news.ycombinator.com/item?id=49521590"
-    ],
-    [
-      "Move in C++ without a std:move",
-      "https://andreasfertig.com/blog/2026/09/move-in-cpp-without-a-stdmove/"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 13:05:03",
-      "https://news.ycombinator.com/item?id=49509283"
-    ],
-    [
-      "The Lost Art of Carrying Loads",
-      "https://www.carryology.com/insights/the-lost-art-of-carrying-loads/"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 11:01:19",
-      "https://news.ycombinator.com/item?id=49508225"
-    ],
-    [
-      "You Know Who Hates AI? Insurance Claims Adjusters",
-      "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 13:31:07",
-      "https://news.ycombinator.com/item?id=49498506"
-    ],
-    [
-      "Crossing Boundaries with Integration Events",
-      "https://deniskyashif.com/2026/08/29/crossing-boundaries-with-integration-events/"
+      "A Selection of Los Alamos Rolodex Business Cards",
+      "https://clui.org/collections/los-alamos-business-cards/selection-cards"
     ]
   ]
 ]
