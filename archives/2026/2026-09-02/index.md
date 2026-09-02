@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-09-02](index.md)
 
+* [2026-09-02, 19:52:53](https://news.ycombinator.com/item?id=49541519) - [I wanna live an NPC life](https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/)
+* [2026-09-02, 19:51:39](https://news.ycombinator.com/item?id=49541496) - [AI Agents and the Refactoring That Never Happens](https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/)
+* [2026-09-02, 19:49:01](https://news.ycombinator.com/item?id=49541458) - [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)
+* [2026-09-02, 19:41:01](https://news.ycombinator.com/item?id=49541331) - [The Post-AI Internet Doesn't Look Great](https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/)
+* [2026-09-02, 19:35:04](https://news.ycombinator.com/item?id=49541256) - [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
+* [2026-09-02, 19:25:47](https://news.ycombinator.com/item?id=49541149) - [Introducing Muse Spark 1.3](https://research.meta.ai/blog/introducing-muse-spark-1-3)
+* [2026-09-02, 18:43:30](https://news.ycombinator.com/item?id=49540574) - [Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form](https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/)
+* [2026-09-02, 18:42:41](https://news.ycombinator.com/item?id=49540565) - [The Qantas A380 engine disintegration in 2010](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
+* [2026-09-02, 18:32:24](https://news.ycombinator.com/item?id=49540415) - [Embedded Rust RTOS vs. C RTOS](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/)
 * [2026-09-02, 17:18:39](https://news.ycombinator.com/item?id=49539389) - [Paint.net 5.2 alpha now runs on Linux](https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/)
 * [2026-09-02, 17:04:58](https://news.ycombinator.com/item?id=49539233) - [ChatGPT ad targeting is garbage](https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/)
 * [2026-09-02, 16:52:20](https://news.ycombinator.com/item?id=49539064) - [How Railroad Crossings Work](https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work)
@@ -15,6 +24,7 @@
 * [2026-09-02, 15:36:24](https://news.ycombinator.com/item?id=49537900) - [AI Policy](https://dbushell.com/ai/)
 * [2026-09-02, 15:25:55](https://news.ycombinator.com/item?id=49537738) - [SteamdDB Joins Nexus Mods](https://www.nexusmods.com/news/15597)
 * [2026-09-02, 15:12:40](https://news.ycombinator.com/item?id=49537553) - [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+* [2026-09-02, 14:46:16](https://news.ycombinator.com/item?id=49537131) - [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
 * [2026-09-02, 14:16:45](https://news.ycombinator.com/item?id=49536606) - [Exit the Cave](https://turtlespace.blog/p/exit-the-cave)
 * [2026-09-02, 14:02:35](https://news.ycombinator.com/item?id=49536411) - [WebLLM: high-performance in-browser LLM inference engine](https://github.com/mlc-ai/web-llm)
 * [2026-09-02, 14:00:28](https://news.ycombinator.com/item?id=49536384) - [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)

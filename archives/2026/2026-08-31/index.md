@@ -20,6 +20,7 @@
 * [2026-08-31, 18:15:26](https://news.ycombinator.com/item?id=49512895) - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/workweave)
 * [2026-08-31, 18:12:20](https://news.ycombinator.com/item?id=49512856) - [The safest job from AI may be writing](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html)
 * [2026-08-31, 17:50:37](https://news.ycombinator.com/item?id=49512618) - [Kids These Days](https://smallpotatoes.paulbloom.net/p/kids-these-days)
+* [2026-08-31, 17:48:07](https://news.ycombinator.com/item?id=49512593) - [A practical guide to running 8x RTX PRO 6000's](https://www.gpupartner.com/blog/a-practical-guide-to-running-8x-rtx-pro-6000s)
 * [2026-08-31, 17:22:43](https://news.ycombinator.com/item?id=49512311) - ['Stunning' percolation proof solves decades-old puzzle about phase transitions](https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/)
 * [2026-08-31, 16:52:35](https://news.ycombinator.com/item?id=49511917) - [Konrad Zuse Museum shutting down due to lack of funding](https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html)
 * [2026-08-31, 16:47:11](https://news.ycombinator.com/item?id=49511856) - [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
