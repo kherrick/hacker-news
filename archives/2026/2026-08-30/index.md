@@ -29,6 +29,7 @@
 * [2026-08-30, 14:30:55](https://news.ycombinator.com/item?id=49498993) - [DNS Abuse and Criminal Infrastructure](https://labs.ripe.net/author/andrew_campling/dns-abuse-and-criminal-infrastructure-beyond-definitions-and-blocklists/)
 * [2026-08-30, 14:29:25](https://news.ycombinator.com/item?id=49498978) - [Europe's summer drought is so extreme that desertification is a growing threat](https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/)
 * [2026-08-30, 14:06:54](https://news.ycombinator.com/item?id=49498787) - [METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack](https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/)
+* [2026-08-30, 13:31:07](https://news.ycombinator.com/item?id=49498506) - [Crossing Boundaries with Integration Events](https://deniskyashif.com/2026/08/29/crossing-boundaries-with-integration-events/)
 * [2026-08-30, 12:50:54](https://news.ycombinator.com/item?id=49498201) - [Claude Session URL appended to commit messages and PR descriptions by default](https://github.com/anthropics/claude-code/issues/66504)
 * [2026-08-30, 12:31:05](https://news.ycombinator.com/item?id=49498095) - [No AI Fridays](https://noaifridays.com/)
 * [2026-08-30, 12:02:09](https://news.ycombinator.com/item?id=49497928) - [monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter](https://github.com/fugue-labs/monty-go)
