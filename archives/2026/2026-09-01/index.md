@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-01](index.md)
 
+* [2026-09-01, 23:48:05](https://news.ycombinator.com/item?id=49529898) - [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
+* [2026-09-01, 23:12:45](https://news.ycombinator.com/item?id=49529567) - [Improving our alignment and security efforts](https://www.anthropic.com/news/improving-alignment-security-efforts)
 * [2026-09-01, 22:30:52](https://news.ycombinator.com/item?id=49529132) - [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
 * [2026-09-01, 22:06:57](https://news.ycombinator.com/item?id=49528895) - [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
 * [2026-09-01, 21:19:10](https://news.ycombinator.com/item?id=49528366) - [Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)

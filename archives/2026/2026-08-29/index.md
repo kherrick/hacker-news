@@ -40,6 +40,7 @@
 * [2026-08-29, 13:55:35](https://news.ycombinator.com/item?id=49489939) - [Global Trade and the United States Navy](https://acoup.blog/2026/08/28/collections-global-trade-and-united-states-navy/)
 * [2026-08-29, 12:28:11](https://news.ycombinator.com/item?id=49489376) - [Show HN: Laser Graffiti](https://laser.consti.de)
 * [2026-08-29, 12:14:18](https://news.ycombinator.com/item?id=49489274) - [When Fruit Is Scarce, These Monkeys Hunt Animals](https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/)
+* [2026-08-29, 11:49:32](https://news.ycombinator.com/item?id=49489098) - [Building Autonomous Goal Loops That Deliver](https://jx0.ca/building-autonomous-goal-loops-that-deliver/)
 * [2026-08-29, 11:39:38](https://news.ycombinator.com/item?id=49489057) - [Iceland votes on whether to restart talks on joining EU](https://www.bbc.com/news/articles/cn45vdxyvvlo)
 * [2026-08-29, 09:05:53](https://news.ycombinator.com/item?id=49488224) - [How bicycle coaster brakes work (2018)](https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html)
 * [2026-08-29, 06:35:28](https://news.ycombinator.com/item?id=49487506) - [e is a customizable self-aware Emacs-like editor written in Chez Scheme](https://github.com/paveluv/e)
