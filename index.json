@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-02, 04:15:56",
+      "https://news.ycombinator.com/item?id=49531651"
+    ],
+    [
+      "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "https://arxiv.org/abs/2608.29530"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 03:54:58",
+      "https://news.ycombinator.com/item?id=49531525"
+    ],
+    [
+      "WebFPGA",
+      "https://webfpga.io/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 02:21:10",
+      "https://news.ycombinator.com/item?id=49530989"
+    ],
+    [
+      "True Rate of Unemployment",
+      "https://www.lisep.org/tru"
+    ]
+  ],
+  [
+    [
       "2026-09-01, 23:48:05",
       "https://news.ycombinator.com/item?id=49529898"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2026-09-01, 23:12:45",
-      "https://news.ycombinator.com/item?id=49529567"
+      "2026-09-01, 23:17:43",
+      "https://news.ycombinator.com/item?id=49529621"
     ],
     [
-      "Improving our alignment and security efforts",
-      "https://www.anthropic.com/news/improving-alignment-security-efforts"
+      "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/"
     ]
   ],
   [
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2026-09-01, 21:19:10",
-      "https://news.ycombinator.com/item?id=49528366"
-    ],
-    [
-      "Fluorescent lamps (don't) have ears",
-      "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears"
-    ]
-  ],
-  [
-    [
       "2026-09-01, 20:53:35",
       "https://news.ycombinator.com/item?id=49528057"
     ],
     [
       "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
       "https://hnmatchmaker.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 20:30:51",
-      "https://news.ycombinator.com/item?id=49527748"
-    ],
-    [
-      "Hang on to Your Firefox",
-      "https://www.newsonaut.com/articles/hang-on-to-your-firefox"
     ]
   ],
   [
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2026-09-01, 17:12:15",
+      "https://news.ycombinator.com/item?id=49524863"
+    ],
+    [
+      "Fine, I'll build my own text editor",
+      "https://dbushell.com/2026/09/01/text-editor/"
+    ]
+  ],
+  [
+    [
       "2026-09-01, 17:00:14",
       "https://news.ycombinator.com/item?id=49524704"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-09-01, 15:55:53",
-      "https://news.ycombinator.com/item?id=49523754"
-    ],
-    [
-      "Play Store blocks AuroraStore, hurting GrapheneOS users",
-      "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566"
-    ]
-  ],
-  [
-    [
       "2026-09-01, 15:35:11",
       "https://news.ycombinator.com/item?id=49523387"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-09-01, 15:01:17",
-      "https://news.ycombinator.com/item?id=49522896"
-    ],
-    [
-      "Ask HN: Who wants to be hired? (September 2026)",
-      "https://news.ycombinator.com/item?id=49522896"
-    ]
-  ],
-  [
-    [
       "2026-09-01, 13:46:49",
       "https://news.ycombinator.com/item?id=49521973"
     ],
@@ -231,32 +231,32 @@
   ],
   [
     [
-      "2026-09-01, 10:11:02",
-      "https://news.ycombinator.com/item?id=49520022"
+      "2026-08-31, 23:35:04",
+      "https://news.ycombinator.com/item?id=49516117"
     ],
     [
-      "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-      "https://github.com/ankidroid/Anki-Android/issues/21656"
+      "Top Web Design Styles of 1993",
+      "https://contemporary-home-computing.org/prof-dr-style/"
     ]
   ],
   [
     [
-      "2026-09-01, 09:52:45",
-      "https://news.ycombinator.com/item?id=49519939"
+      "2026-08-31, 12:02:01",
+      "https://news.ycombinator.com/item?id=49508619"
     ],
     [
-      "I trained a small transformer in 1.5hrs and it beats many LLMs",
-      "https://mvakde.github.io/blog/44-on-arc-1/"
+      "Solving the Flat Cube",
+      "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/"
     ]
   ],
   [
     [
-      "2026-08-29, 15:03:41",
-      "https://news.ycombinator.com/item?id=49490498"
+      "2026-08-29, 23:51:08",
+      "https://news.ycombinator.com/item?id=49494344"
     ],
     [
-      "Magic eye tube",
-      "https://en.wikipedia.org/wiki/Magic_eye_tube"
+      "Laurie Anderson’s next manuscript to be locked away for 88 years",
+      "https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo"
     ]
   ],
   [
@@ -267,6 +267,16 @@
     [
       "Building Autonomous Goal Loops That Deliver",
       "https://jx0.ca/building-autonomous-goal-loops-that-deliver/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 22:05:39",
+      "https://news.ycombinator.com/item?id=49484796"
+    ],
+    [
+      "Forgotten History of Small Nuclear Reactors (2015)",
+      "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Building an interactive instrument for a one-of-a-kind festival",
       "https://benholmen.com/blog/halfmoon-chimes/"
-    ]
-  ],
-  [
-    [
-      "2026-08-28, 15:06:31",
-      "https://news.ycombinator.com/item?id=49479673"
-    ],
-    [
-      "Make a Portable Wide-screen Mechanical TV",
-      "https://spectrum.ieee.org/mechanical-tv-2677767814"
     ]
   ]
 ]
