@@ -11,6 +11,7 @@
 * [2026-08-28, 23:02:21](https://news.ycombinator.com/item?id=49485267) - [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
 * [2026-08-28, 22:29:34](https://news.ycombinator.com/item?id=49485020) - [Highlighting My Code Based on How Much I Care](https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/)
 * [2026-08-28, 22:18:27](https://news.ycombinator.com/item?id=49484925) - [Identifying fake cosmetics using AI](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)
+* [2026-08-28, 22:05:39](https://news.ycombinator.com/item?id=49484796) - [Forgotten History of Small Nuclear Reactors (2015)](https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors)
 * [2026-08-28, 20:41:35](https://news.ycombinator.com/item?id=49484004) - [Borges Labyrinth in Venice reopens to the public](https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening)
 * [2026-08-28, 20:27:57](https://news.ycombinator.com/item?id=49483816) - [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
 * [2026-08-28, 20:11:48](https://news.ycombinator.com/item?id=49483622) - [Racter (1984)](https://www.ubu.com/historical/racter/index.html)

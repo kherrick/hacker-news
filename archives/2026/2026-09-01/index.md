@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-09-01](index.md)
 
 * [2026-09-01, 23:48:05](https://news.ycombinator.com/item?id=49529898) - [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
+* [2026-09-01, 23:17:43](https://news.ycombinator.com/item?id=49529621) - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 * [2026-09-01, 23:12:45](https://news.ycombinator.com/item?id=49529567) - [Improving our alignment and security efforts](https://www.anthropic.com/news/improving-alignment-security-efforts)
 * [2026-09-01, 22:30:52](https://news.ycombinator.com/item?id=49529132) - [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
 * [2026-09-01, 22:06:57](https://news.ycombinator.com/item?id=49528895) - [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
@@ -23,6 +24,7 @@
 * [2026-09-01, 17:46:21](https://news.ycombinator.com/item?id=49525297) - [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc)
 * [2026-09-01, 17:36:02](https://news.ycombinator.com/item?id=49525160) - [Atlas: A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas)
 * [2026-09-01, 17:35:10](https://news.ycombinator.com/item?id=49525153) - [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)
+* [2026-09-01, 17:12:15](https://news.ycombinator.com/item?id=49524863) - [Fine, I'll build my own text editor](https://dbushell.com/2026/09/01/text-editor/)
 * [2026-09-01, 17:00:14](https://news.ycombinator.com/item?id=49524704) - [Quill (YC W20) Is Hiring a Fullstack SWE](https://news.ycombinator.com/item?id=49524704)
 * [2026-09-01, 16:43:40](https://news.ycombinator.com/item?id=49524469) - [Show HN: Newton's Orchard – Browser-based space/gravity playground](https://newtonsorchard.app)
 * [2026-09-01, 16:42:46](https://news.ycombinator.com/item?id=49524447) - [Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream)

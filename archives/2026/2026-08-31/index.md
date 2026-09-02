@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-31](index.md)
 
 * [2026-08-31, 23:45:56](https://news.ycombinator.com/item?id=49516199) - [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138)
+* [2026-08-31, 23:35:04](https://news.ycombinator.com/item?id=49516117) - [Top Web Design Styles of 1993](https://contemporary-home-computing.org/prof-dr-style/)
 * [2026-08-31, 23:26:08](https://news.ycombinator.com/item?id=49516059) - [Tmp.0ut Volume 5](https://tmpout.sh/5/)
 * [2026-08-31, 22:53:45](https://news.ycombinator.com/item?id=49515830) - [Run macOS Software on Linux](https://www.darlinghq.org/)
 * [2026-08-31, 22:32:22](https://news.ycombinator.com/item?id=49515662) - [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
@@ -33,6 +34,7 @@
 * [2026-08-31, 13:39:43](https://news.ycombinator.com/item?id=49509679) - [Show HN: Linux server management over SSH – written in Rust and Tauri](https://serverbox.stupidlabs.lol/)
 * [2026-08-31, 13:37:28](https://news.ycombinator.com/item?id=49509655) - [We are rebuilding Monica](https://www.monicahq.com/en/blog/we-are-rebuilding-monica/)
 * [2026-08-31, 12:41:22](https://news.ycombinator.com/item?id=49508982) - [Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/)
+* [2026-08-31, 12:02:01](https://news.ycombinator.com/item?id=49508619) - [Solving the Flat Cube](https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/)
 * [2026-08-31, 11:45:48](https://news.ycombinator.com/item?id=49508506) - [I think the military commissary's freezers were hacked](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary)
 * [2026-08-31, 11:17:25](https://news.ycombinator.com/item?id=49508317) - [Agent Memory as a File Format](https://calpaterson.com/memoryfields.html)
 * [2026-08-31, 11:13:17](https://news.ycombinator.com/item?id=49508290) - [A CVE Dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/)

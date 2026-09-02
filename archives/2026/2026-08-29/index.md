@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-29](index.md)
 
+* [2026-08-29, 23:51:08](https://news.ycombinator.com/item?id=49494344) - [Laurie Anderson’s next manuscript to be locked away for 88 years](https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo)
 * [2026-08-29, 23:26:44](https://news.ycombinator.com/item?id=49494231) - [Highest-ever ocean temperature measured as powerful El Niño forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)
 * [2026-08-29, 23:22:42](https://news.ycombinator.com/item?id=49494212) - [Police departments weren’t looking for Flock abuse. We did it for them.](https://www.washingtonpost.com/technology/2026/08/19/we-found-cops-who-misused-flock-their-police-departments-didnt-know/)
 * [2026-08-29, 23:17:17](https://news.ycombinator.com/item?id=49494182) - [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
