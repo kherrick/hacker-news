@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-31](index.md)
 
 * [2026-08-31, 23:45:56](https://news.ycombinator.com/item?id=49516199) - [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138)
+* [2026-08-31, 23:43:26](https://news.ycombinator.com/item?id=49516184) - [A Genealogy of Freudenthal's Lincos](https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/)
 * [2026-08-31, 23:35:04](https://news.ycombinator.com/item?id=49516117) - [Top Web Design Styles of 1993](https://contemporary-home-computing.org/prof-dr-style/)
 * [2026-08-31, 23:26:08](https://news.ycombinator.com/item?id=49516059) - [Tmp.0ut Volume 5](https://tmpout.sh/5/)
 * [2026-08-31, 22:53:45](https://news.ycombinator.com/item?id=49515830) - [Run macOS Software on Linux](https://www.darlinghq.org/)
