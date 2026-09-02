@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-02](index.md)
 
+* [2026-09-02, 22:36:04](https://news.ycombinator.com/item?id=49543530) - [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://ronanrx.com/)
+* [2026-09-02, 21:46:33](https://news.ycombinator.com/item?id=49543007) - [Uber shuts operations in Nigeria and Uganda with immediate effect](https://www.bbc.com/news/articles/c86xpv8l9y9o)
+* [2026-09-02, 21:00:04](https://news.ycombinator.com/item?id=49542486) - [Nango (YC W23) is hiring across eng, product and GTM (SF and remote)](https://nango.dev/careers)
+* [2026-09-02, 20:57:04](https://news.ycombinator.com/item?id=49542443) - [Mamdani Bans AI in NYC Schools](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
+* [2026-09-02, 20:34:24](https://news.ycombinator.com/item?id=49542123) - [Vidact – a compiler that turns React into direct DOM operations](https://www.vidact.dev/)
+* [2026-09-02, 20:08:22](https://news.ycombinator.com/item?id=49541754) - [Altair Basic Interpreter Source Code (1975) [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
 * [2026-09-02, 19:52:53](https://news.ycombinator.com/item?id=49541519) - [I wanna live an NPC life](https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/)
 * [2026-09-02, 19:51:39](https://news.ycombinator.com/item?id=49541496) - [AI Agents and the Refactoring That Never Happens](https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/)
 * [2026-09-02, 19:49:01](https://news.ycombinator.com/item?id=49541458) - [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)
@@ -13,6 +19,7 @@
 * [2026-09-02, 18:43:30](https://news.ycombinator.com/item?id=49540574) - [Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form](https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/)
 * [2026-09-02, 18:42:41](https://news.ycombinator.com/item?id=49540565) - [The Qantas A380 engine disintegration in 2010](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 * [2026-09-02, 18:32:24](https://news.ycombinator.com/item?id=49540415) - [Embedded Rust RTOS vs. C RTOS](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/)
+* [2026-09-02, 17:46:42](https://news.ycombinator.com/item?id=49539805) - [Earth's organisms developed via evolution. What if the cosmos did, too?](https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/)
 * [2026-09-02, 17:18:39](https://news.ycombinator.com/item?id=49539389) - [Paint.net 5.2 alpha now runs on Linux](https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/)
 * [2026-09-02, 17:04:58](https://news.ycombinator.com/item?id=49539233) - [ChatGPT ad targeting is garbage](https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/)
 * [2026-09-02, 16:52:20](https://news.ycombinator.com/item?id=49539064) - [How Railroad Crossings Work](https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work)
