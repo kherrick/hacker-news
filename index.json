@@ -1,6 +1,96 @@
 [
   [
     [
+      "2026-09-02, 19:52:53",
+      "https://news.ycombinator.com/item?id=49541519"
+    ],
+    [
+      "I wanna live an NPC life",
+      "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 19:51:39",
+      "https://news.ycombinator.com/item?id=49541496"
+    ],
+    [
+      "AI Agents and the Refactoring That Never Happens",
+      "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 19:49:01",
+      "https://news.ycombinator.com/item?id=49541458"
+    ],
+    [
+      "Fable 5.1 World Modeling",
+      "https://github.com/PhiloLabs/fable51-worlds"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 19:41:01",
+      "https://news.ycombinator.com/item?id=49541331"
+    ],
+    [
+      "The Post-AI Internet Doesn't Look Great",
+      "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 19:35:04",
+      "https://news.ycombinator.com/item?id=49541256"
+    ],
+    [
+      "Muse Spark 1.3",
+      "https://developer.meta.com/ai/models/muse-spark/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 19:25:47",
+      "https://news.ycombinator.com/item?id=49541149"
+    ],
+    [
+      "Introducing Muse Spark 1.3",
+      "https://research.meta.ai/blog/introducing-muse-spark-1-3"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 18:43:30",
+      "https://news.ycombinator.com/item?id=49540574"
+    ],
+    [
+      "Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form",
+      "https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 18:42:41",
+      "https://news.ycombinator.com/item?id=49540565"
+    ],
+    [
+      "The Qantas A380 engine disintegration in 2010",
+      "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 18:32:24",
+      "https://news.ycombinator.com/item?id=49540415"
+    ],
+    [
+      "Embedded Rust RTOS vs. C RTOS",
+      "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/"
+    ]
+  ],
+  [
+    [
       "2026-09-02, 17:18:39",
       "https://news.ycombinator.com/item?id=49539389"
     ],
@@ -11,82 +101,12 @@
   ],
   [
     [
-      "2026-09-02, 17:04:58",
-      "https://news.ycombinator.com/item?id=49539233"
-    ],
-    [
-      "ChatGPT ad targeting is garbage",
-      "https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 16:52:20",
-      "https://news.ycombinator.com/item?id=49539064"
-    ],
-    [
-      "How Railroad Crossings Work",
-      "https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 16:49:29",
-      "https://news.ycombinator.com/item?id=49539024"
-    ],
-    [
-      "Tangle – Visual ML Pipeline Editor",
-      "https://tangleml.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 16:33:07",
-      "https://news.ycombinator.com/item?id=49538745"
-    ],
-    [
-      "How to debloat your Xiaomi 15 Ultra without root access",
-      "https://trackerninja.codeberg.page/post/how-to-debloat-your-xiaomi-15-ultra-without-rooting-and-connecting-it-to-the-computer/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 16:25:28",
-      "https://news.ycombinator.com/item?id=49538633"
-    ],
-    [
-      "The race to engineer new knobs for the human brain",
-      "https://www.neuroai.science/p/the-race-to-engineer-new-knobs-for"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 16:14:52",
       "https://news.ycombinator.com/item?id=49538490"
     ],
     [
       "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
       "https://frontierharness.org"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 16:07:18",
-      "https://news.ycombinator.com/item?id=49538375"
-    ],
-    [
-      "Saving money on Google Photos with Immich: Your own personal photo storage",
-      "https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 15:36:24",
-      "https://news.ycombinator.com/item?id=49537900"
-    ],
-    [
-      "AI Policy",
-      "https://dbushell.com/ai/"
     ]
   ],
   [
@@ -111,6 +131,16 @@
   ],
   [
     [
+      "2026-09-02, 14:46:16",
+      "https://news.ycombinator.com/item?id=49537131"
+    ],
+    [
+      "Google avoids a breakup of its ad tech business",
+      "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html"
+    ]
+  ],
+  [
+    [
       "2026-09-02, 14:16:45",
       "https://news.ycombinator.com/item?id=49536606"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-09-02, 14:00:28",
-      "https://news.ycombinator.com/item?id=49536384"
-    ],
-    [
-      "GrapheneOS says Pixel 11 has MTE support after all",
-      "https://grapheneos.social/@GrapheneOS/117194007157499435"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 13:59:59",
       "https://news.ycombinator.com/item?id=49536375"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2026-09-02, 13:49:23",
-      "https://news.ycombinator.com/item?id=49536201"
-    ],
-    [
-      "A third of Perplexity's citations don't contain the number they're cited for",
-      "https://hausresearch.com/reports/perplexity-citation-audit/"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 13:47:49",
       "https://news.ycombinator.com/item?id=49536177"
     ],
     [
       "Poisson Disk Sampling",
       "https://stripeacross.com/posts/poisson-disk-sampling/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 13:43:14",
-      "https://news.ycombinator.com/item?id=49536114"
-    ],
-    [
-      "Six curl CVEs after OpenAI and Anthropic came back with zero",
-      "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero"
     ]
   ],
   [
@@ -195,18 +195,8 @@
       "https://news.ycombinator.com/item?id=49535752"
     ],
     [
-      "A Note from LWN",
+      "A note on subscription prices from LWN",
       "https://lwn.net/Articles/1090585/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 13:03:50",
-      "https://news.ycombinator.com/item?id=49535586"
-    ],
-    [
-      "LLMs: Intelligence vs. Cost",
-      "https://openteams.com/intelligence-vs-cost/"
     ]
   ],
   [
@@ -225,28 +215,8 @@
       "https://news.ycombinator.com/item?id=49535284"
     ],
     [
-      "Mistral now trains on user input by default, except on enterprise tier",
+      "Can I opt out of my input or output data being used for training?",
       "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 12:23:20",
-      "https://news.ycombinator.com/item?id=49535201"
-    ],
-    [
-      "Check if a file was made with Claude",
-      "https://claude.com/check-content"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 10:02:41",
-      "https://news.ycombinator.com/item?id=49534132"
-    ],
-    [
-      "Quasar 438B: Europe's Leading AI Model",
-      "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
     ]
   ],
   [
@@ -271,12 +241,22 @@
   ],
   [
     [
-      "2026-09-02, 04:15:56",
-      "https://news.ycombinator.com/item?id=49531651"
+      "2026-09-01, 13:41:11",
+      "https://news.ycombinator.com/item?id=49521909"
     ],
     [
-      "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "https://arxiv.org/abs/2608.29530"
+      "We could save petabytes of cache storage with Zstandard and Pingora",
+      "https://blog.cloudflare.com/cache-transcoding/"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 01:49:58",
+      "https://news.ycombinator.com/item?id=49517018"
+    ],
+    [
+      "Wendell Berry has died",
+      "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "A Selection of Los Alamos Rolodex Business Cards",
       "https://clui.org/collections/los-alamos-business-cards/selection-cards"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 17:48:07",
+      "https://news.ycombinator.com/item?id=49512593"
+    ],
+    [
+      "A practical guide to running 8x RTX PRO 6000's",
+      "https://www.gpupartner.com/blog/a-practical-guide-to-running-8x-rtx-pro-6000s"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 20:20:30",
+      "https://news.ycombinator.com/item?id=49502367"
+    ],
+    [
+      "Making the Internet Boring",
+      "https://cemrehancavdar.com/2026/08/30/making-the-internet-boring/"
     ]
   ]
 ]
