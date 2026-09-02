@@ -1,22 +1,72 @@
 [
   [
     [
+      "2026-09-02, 22:36:04",
+      "https://news.ycombinator.com/item?id=49543530"
+    ],
+    [
+      "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "https://ronanrx.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 21:46:33",
+      "https://news.ycombinator.com/item?id=49543007"
+    ],
+    [
+      "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "https://www.bbc.com/news/articles/c86xpv8l9y9o"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 21:00:04",
+      "https://news.ycombinator.com/item?id=49542486"
+    ],
+    [
+      "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+      "https://nango.dev/careers"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 20:57:04",
+      "https://news.ycombinator.com/item?id=49542443"
+    ],
+    [
+      "Mamdani Bans AI in NYC Schools",
+      "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 20:34:24",
+      "https://news.ycombinator.com/item?id=49542123"
+    ],
+    [
+      "Vidact – a compiler that turns React into direct DOM operations",
+      "https://www.vidact.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 20:08:22",
+      "https://news.ycombinator.com/item?id=49541754"
+    ],
+    [
+      "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf"
+    ]
+  ],
+  [
+    [
       "2026-09-02, 19:52:53",
       "https://news.ycombinator.com/item?id=49541519"
     ],
     [
       "I wanna live an NPC life",
       "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 19:51:39",
-      "https://news.ycombinator.com/item?id=49541496"
-    ],
-    [
-      "AI Agents and the Refactoring That Never Happens",
-      "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/"
     ]
   ],
   [
@@ -31,16 +81,6 @@
   ],
   [
     [
-      "2026-09-02, 19:41:01",
-      "https://news.ycombinator.com/item?id=49541331"
-    ],
-    [
-      "The Post-AI Internet Doesn't Look Great",
-      "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 19:35:04",
       "https://news.ycombinator.com/item?id=49541256"
     ],
@@ -51,31 +91,11 @@
   ],
   [
     [
-      "2026-09-02, 19:25:47",
-      "https://news.ycombinator.com/item?id=49541149"
-    ],
-    [
-      "Introducing Muse Spark 1.3",
-      "https://research.meta.ai/blog/introducing-muse-spark-1-3"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 18:43:30",
-      "https://news.ycombinator.com/item?id=49540574"
-    ],
-    [
-      "Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form",
-      "https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 18:42:41",
       "https://news.ycombinator.com/item?id=49540565"
     ],
     [
-      "The Qantas A380 engine disintegration in 2010",
+      "Qantas Airbus A380 engine failure in 2010 (2023)",
       "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7"
     ]
   ],
@@ -91,32 +111,12 @@
   ],
   [
     [
-      "2026-09-02, 17:18:39",
-      "https://news.ycombinator.com/item?id=49539389"
+      "2026-09-02, 17:46:42",
+      "https://news.ycombinator.com/item?id=49539805"
     ],
     [
-      "Paint.net 5.2 alpha now runs on Linux",
-      "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 16:14:52",
-      "https://news.ycombinator.com/item?id=49538490"
-    ],
-    [
-      "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
-      "https://frontierharness.org"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 15:25:55",
-      "https://news.ycombinator.com/item?id=49537738"
-    ],
-    [
-      "SteamdDB Joins Nexus Mods",
-      "https://www.nexusmods.com/news/15597"
+      "Earth's organisms developed via evolution. What if the cosmos did, too?",
+      "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-09-02, 13:17:12",
-      "https://news.ycombinator.com/item?id=49535752"
-    ],
-    [
-      "A note on subscription prices from LWN",
-      "https://lwn.net/Articles/1090585/"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 12:59:09",
       "https://news.ycombinator.com/item?id=49535548"
     ],
@@ -221,22 +211,22 @@
   ],
   [
     [
-      "2026-09-02, 08:43:49",
-      "https://news.ycombinator.com/item?id=49533557"
-    ],
-    [
-      "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
-      "https://careers.telli.com/"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 08:36:43",
       "https://news.ycombinator.com/item?id=49533497"
     ],
     [
       "Commodore 64 released September 1, 1982",
       "https://dfarq.homeip.net/commodore-64-released-september-1-1982/"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 21:29:24",
+      "https://news.ycombinator.com/item?id=49528506"
+    ],
+    [
+      "Show HN: OwnTime – a chess clock for your day's priorities",
+      "https://owntime.app/"
     ]
   ],
   [
@@ -251,22 +241,22 @@
   ],
   [
     [
+      "2026-09-01, 12:25:13",
+      "https://news.ycombinator.com/item?id=49521031"
+    ],
+    [
+      "Engineering of the fastest WebAssembly interpreters",
+      "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/"
+    ]
+  ],
+  [
+    [
       "2026-09-01, 01:49:58",
       "https://news.ycombinator.com/item?id=49517018"
     ],
     [
       "Wendell Berry has died",
       "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 23:24:54",
-      "https://news.ycombinator.com/item?id=49516047"
-    ],
-    [
-      "Discontinuation of third level domain registrations for the .name TLD [pdf]",
-      "https://itp.cdn.icann.org/en/files/consensus-policies/rsep-2026013-name-request-15-04-2026-en.pdf"
     ]
   ],
   [
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2026-08-31, 17:48:07",
-      "https://news.ycombinator.com/item?id=49512593"
+      "2026-08-31, 12:01:05",
+      "https://news.ycombinator.com/item?id=49508608"
     ],
     [
-      "A practical guide to running 8x RTX PRO 6000's",
-      "https://www.gpupartner.com/blog/a-practical-guide-to-running-8x-rtx-pro-6000s"
+      "Reverse Engineering Unknown File Formats with ImHex",
+      "https://werwolv.net/posts/file_format_reverse_engineering/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 09:56:23",
+      "https://news.ycombinator.com/item?id=49507807"
+    ],
+    [
+      "Product Backlog Problems: Why Your Hierarchy Is Broken",
+      "https://www.prodpad.com/blog/backlog-hierarchy-problem/"
     ]
   ],
   [
