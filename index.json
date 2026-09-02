@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-09-01, 23:48:05",
+      "https://news.ycombinator.com/item?id=49529898"
+    ],
+    [
+      "The efficient frontier of LLM inference",
+      "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 23:12:45",
+      "https://news.ycombinator.com/item?id=49529567"
+    ],
+    [
+      "Improving our alignment and security efforts",
+      "https://www.anthropic.com/news/improving-alignment-security-efforts"
+    ]
+  ],
+  [
+    [
       "2026-09-01, 22:30:52",
       "https://news.ycombinator.com/item?id=49529132"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2026-09-01, 20:39:19",
-      "https://news.ycombinator.com/item?id=49527879"
-    ],
-    [
-      "Dyson CameraJet electric toothbrush",
-      "https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue"
-    ]
-  ],
-  [
-    [
       "2026-09-01, 20:30:51",
       "https://news.ycombinator.com/item?id=49527748"
     ],
@@ -67,16 +77,6 @@
     [
       "Path to Astra: critical capabilities and frontier safeguards",
       "https://openai.com/index/path-to-astra/"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 20:19:11",
-      "https://news.ycombinator.com/item?id=49527573"
-    ],
-    [
-      "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-      "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Quill (YC W20) Is Hiring a Fullstack SWE",
       "https://news.ycombinator.com/item?id=49524704"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 16:43:40",
-      "https://news.ycombinator.com/item?id=49524469"
-    ],
-    [
-      "Show HN: Newton's Orchard – Browser-based space/gravity playground",
-      "https://newtonsorchard.app"
     ]
   ],
   [
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2026-08-29, 21:25:17",
-      "https://news.ycombinator.com/item?id=49493468"
-    ],
-    [
-      "American Airlines mechanic Azriel “Al” Blackman has died",
-      "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/"
-    ]
-  ],
-  [
-    [
       "2026-08-29, 15:03:41",
       "https://news.ycombinator.com/item?id=49490498"
     ],
@@ -281,22 +261,42 @@
   ],
   [
     [
+      "2026-08-29, 11:49:32",
+      "https://news.ycombinator.com/item?id=49489098"
+    ],
+    [
+      "Building Autonomous Goal Loops That Deliver",
+      "https://jx0.ca/building-autonomous-goal-loops-that-deliver/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 17:51:19",
+      "https://news.ycombinator.com/item?id=49482099"
+    ],
+    [
+      "Sonic Pi",
+      "https://sonic-pi.net/"
+    ]
+  ],
+  [
+    [
+      "2026-08-28, 15:21:51",
+      "https://news.ycombinator.com/item?id=49479909"
+    ],
+    [
+      "Building an interactive instrument for a one-of-a-kind festival",
+      "https://benholmen.com/blog/halfmoon-chimes/"
+    ]
+  ],
+  [
+    [
       "2026-08-28, 15:06:31",
       "https://news.ycombinator.com/item?id=49479673"
     ],
     [
       "Make a Portable Wide-screen Mechanical TV",
       "https://spectrum.ieee.org/mechanical-tv-2677767814"
-    ]
-  ],
-  [
-    [
-      "2026-08-26, 12:40:56",
-      "https://news.ycombinator.com/item?id=49448019"
-    ],
-    [
-      "Specifications Don't Exist (2025)",
-      "https://www.galois.com/articles/specifications-dont-exist"
     ]
   ]
 ]
