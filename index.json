@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-09-02, 23:57:07",
+      "https://news.ycombinator.com/item?id=49544226"
+    ],
+    [
+      "Reflections on Americans' Net Worth",
+      "https://www.betonit.ai/p/reflections-on-americans-net-worth"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 23:08:47",
+      "https://news.ycombinator.com/item?id=49543841"
+    ],
+    [
+      "METR Report on OpenAI / Hugging Face Hacking Incident",
+      "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident"
+    ]
+  ],
+  [
+    [
       "2026-09-02, 22:36:04",
       "https://news.ycombinator.com/item?id=49543530"
     ],
     [
       "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
       "https://ronanrx.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 22:02:30",
+      "https://news.ycombinator.com/item?id=49543191"
+    ],
+    [
+      "Reasons robotics is hard",
+      "https://secondthoughts.ai/p/14-reasons-robotics-is-hard"
     ]
   ],
   [
@@ -27,26 +57,6 @@
     [
       "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
       "https://nango.dev/careers"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 20:57:04",
-      "https://news.ycombinator.com/item?id=49542443"
-    ],
-    [
-      "Mamdani Bans AI in NYC Schools",
-      "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 20:34:24",
-      "https://news.ycombinator.com/item?id=49542123"
-    ],
-    [
-      "Vidact – a compiler that turns React into direct DOM operations",
-      "https://www.vidact.dev/"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Embedded Rust RTOS vs. C RTOS",
       "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 17:46:42",
-      "https://news.ycombinator.com/item?id=49539805"
-    ],
-    [
-      "Earth's organisms developed via evolution. What if the cosmos did, too?",
-      "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/"
     ]
   ],
   [
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=49535548"
     ],
     [
-      "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+      "Aging brains blend memories together instead of just forgetting them",
       "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/"
     ]
   ],
@@ -211,22 +211,12 @@
   ],
   [
     [
-      "2026-09-02, 08:36:43",
-      "https://news.ycombinator.com/item?id=49533497"
+      "2026-09-01, 16:41:13",
+      "https://news.ycombinator.com/item?id=49524428"
     ],
     [
-      "Commodore 64 released September 1, 1982",
-      "https://dfarq.homeip.net/commodore-64-released-september-1-1982/"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 21:29:24",
-      "https://news.ycombinator.com/item?id=49528506"
-    ],
-    [
-      "Show HN: OwnTime – a chess clock for your day's priorities",
-      "https://owntime.app/"
+      "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+      "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Reverse Engineering Unknown File Formats with ImHex",
       "https://werwolv.net/posts/file_format_reverse_engineering/"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 11:29:44",
+      "https://news.ycombinator.com/item?id=49508405"
+    ],
+    [
+      "Holden's Lightning Flight",
+      "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight"
     ]
   ],
   [
