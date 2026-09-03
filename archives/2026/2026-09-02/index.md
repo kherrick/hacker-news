@@ -24,6 +24,7 @@
 * [2026-09-02, 18:42:41](https://news.ycombinator.com/item?id=49540565) - [The Qantas A380 engine disintegration in 2010](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 * [2026-09-02, 18:32:24](https://news.ycombinator.com/item?id=49540415) - [Embedded Rust RTOS vs. C RTOS](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/)
 * [2026-09-02, 17:46:42](https://news.ycombinator.com/item?id=49539805) - [Earth's organisms developed via evolution. What if the cosmos did, too?](https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/)
+* [2026-09-02, 17:30:55](https://news.ycombinator.com/item?id=49539556) - [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html)
 * [2026-09-02, 17:18:39](https://news.ycombinator.com/item?id=49539389) - [Paint.net 5.2 alpha now runs on Linux](https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/)
 * [2026-09-02, 17:04:58](https://news.ycombinator.com/item?id=49539233) - [ChatGPT ad targeting is garbage](https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/)
 * [2026-09-02, 16:52:20](https://news.ycombinator.com/item?id=49539064) - [How Railroad Crossings Work](https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work)

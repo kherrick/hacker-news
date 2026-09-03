@@ -4,6 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-09-03](index.md)
 
+* [2026-09-03, 17:09:04](https://news.ycombinator.com/item?id=49553303) - [Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB](https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb)
+* [2026-09-03, 17:00:16](https://news.ycombinator.com/item?id=49553173) - [Founding Creative Engineer – Gooseworks (YC W23) Is Hiring](https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer)
+* [2026-09-03, 16:24:13](https://news.ycombinator.com/item?id=49552616) - [Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents](https://www.mireye.com)
+* [2026-09-03, 16:10:12](https://news.ycombinator.com/item?id=49552375) - [Texas Data Center Map: See where data centers are operating or planned](https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/)
+* [2026-09-03, 15:51:53](https://news.ycombinator.com/item?id=49552055) - [VC isn't VC anymore – understanding the rise of Cancer Capital](https://www.anildash.com/2026/09/02/cancer-capital/)
+* [2026-09-03, 15:44:54](https://news.ycombinator.com/item?id=49551925) - [Sony makes bold claim about game ownership](https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/)
+* [2026-09-03, 15:36:43](https://news.ycombinator.com/item?id=49551760) - [K2 Horizon: Frontier Performance, Radically Open](https://ifm.ai/blog/k2/)
+* [2026-09-03, 15:26:01](https://news.ycombinator.com/item?id=49551589) - [Grok outage](https://status.x.ai/)
+* [2026-09-03, 15:07:01](https://news.ycombinator.com/item?id=49551096) - [Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?](https://news.ycombinator.com/item?id=49551096)
+* [2026-09-03, 14:54:39](https://news.ycombinator.com/item?id=49550772) - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
+* [2026-09-03, 14:51:10](https://news.ycombinator.com/item?id=49550698) - [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/)
+* [2026-09-03, 13:51:44](https://news.ycombinator.com/item?id=49549919) - [New York Times and The Athletic workers demand company scrap Kalshi deal](https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/)
 * [2026-09-03, 13:29:12](https://news.ycombinator.com/item?id=49549676) - [Elevated Errors for Multiple Models](https://status.claude.com/incidents/461yvfrzpwtt)
 * [2026-09-03, 12:10:33](https://news.ycombinator.com/item?id=49548952) - [Nvidia to Acquire Hugging Face](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/)
 * [2026-09-03, 12:00:52](https://news.ycombinator.com/item?id=49548864) - [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)
