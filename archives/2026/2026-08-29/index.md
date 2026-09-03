@@ -15,6 +15,7 @@
 * [2026-08-29, 21:37:07](https://news.ycombinator.com/item?id=49493563) - [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html)
 * [2026-08-29, 21:25:17](https://news.ycombinator.com/item?id=49493468) - [American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career](https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/)
 * [2026-08-29, 20:53:56](https://news.ycombinator.com/item?id=49493244) - [What we want is a hunter gatherer lifestyle with space age tools](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer)
+* [2026-08-29, 19:52:51](https://news.ycombinator.com/item?id=49492796) - [What I Learned from My Mom (1941-2026)](https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026)
 * [2026-08-29, 19:33:23](https://news.ycombinator.com/item?id=49492632) - [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
 * [2026-08-29, 19:28:28](https://news.ycombinator.com/item?id=49492584) - [Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents)
 * [2026-08-29, 19:15:51](https://news.ycombinator.com/item?id=49492488) - [A safe MySQL upgrade that wasn't so safe](https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/)

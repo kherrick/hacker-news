@@ -41,6 +41,7 @@
 * [2026-09-01, 15:01:17](https://news.ycombinator.com/item?id=49522896) - [Ask HN: Who wants to be hired? (September 2026)](https://news.ycombinator.com/item?id=49522896)
 * [2026-09-01, 15:00:29](https://news.ycombinator.com/item?id=49522884) - [A Small Telescope That Surprised Me](https://adfr.io/thoughts/20260831_a_small_telescope_that_surprised_me/)
 * [2026-09-01, 14:19:30](https://news.ycombinator.com/item?id=49522374) - [Saab Enters Collaborative Combat Aircraft Race with High-End Concept](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept)
+* [2026-09-01, 14:00:15](https://news.ycombinator.com/item?id=49522137) - [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/)
 * [2026-09-01, 13:46:49](https://news.ycombinator.com/item?id=49521973) - [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/)
 * [2026-09-01, 13:41:11](https://news.ycombinator.com/item?id=49521909) - [We could save petabytes of cache storage with Zstandard and Pingora](https://blog.cloudflare.com/cache-transcoding/)
 * [2026-09-01, 13:19:12](https://news.ycombinator.com/item?id=49521623) - [Io_uring Without Readahead](https://frn.sh/io-uring/)

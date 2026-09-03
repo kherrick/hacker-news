@@ -25,6 +25,7 @@
 * [2026-08-31, 16:52:35](https://news.ycombinator.com/item?id=49511917) - [Konrad Zuse Museum shutting down due to lack of funding](https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html)
 * [2026-08-31, 16:47:11](https://news.ycombinator.com/item?id=49511856) - [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
 * [2026-08-31, 16:19:36](https://news.ycombinator.com/item?id=49511534) - [ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source](https://ravynos.com/)
+* [2026-08-31, 16:15:37](https://news.ycombinator.com/item?id=49511493) - [The Computer Museum of America reclamation project](https://computer-museum.org/wp/)
 * [2026-08-31, 16:08:08](https://news.ycombinator.com/item?id=49511400) - [Show HN: Corporate Mind Games – logic puzzles with a sarcastic corporate theme](https://corporatemindgames.com/)
 * [2026-08-31, 15:34:34](https://news.ycombinator.com/item?id=49511007) - [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/)
 * [2026-08-31, 15:02:41](https://news.ycombinator.com/item?id=49510632) - [Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines](https://github.com/Hebbian-Robotics/hflow)
