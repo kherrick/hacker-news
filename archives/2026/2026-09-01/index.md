@@ -29,6 +29,7 @@
 * [2026-09-01, 17:00:14](https://news.ycombinator.com/item?id=49524704) - [Quill (YC W20) Is Hiring a Fullstack SWE](https://news.ycombinator.com/item?id=49524704)
 * [2026-09-01, 16:43:40](https://news.ycombinator.com/item?id=49524469) - [Show HN: Newton's Orchard – Browser-based space/gravity playground](https://newtonsorchard.app)
 * [2026-09-01, 16:42:46](https://news.ycombinator.com/item?id=49524447) - [Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream)
+* [2026-09-01, 16:41:13](https://news.ycombinator.com/item?id=49524428) - [Whistleblower warns Postal Service mail ballot system has catastrophic problems](https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/)
 * [2026-09-01, 16:34:45](https://news.ycombinator.com/item?id=49524320) - [Movie Scene Map – 13,312 films, series, games, anime and manga](https://moviescenemap.com/)
 * [2026-09-01, 16:25:02](https://news.ycombinator.com/item?id=49524199) - [Thanks to Lake Ontario, MapQuest is popular all over again](https://www.washingtonpost.com/politics/2026/09/01/thanks-lake-ontario-mapquest-is-popular-all-over-again/)
 * [2026-09-01, 15:55:53](https://news.ycombinator.com/item?id=49523754) - [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566)

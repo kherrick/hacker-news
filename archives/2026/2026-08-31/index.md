@@ -42,6 +42,7 @@
 * [2026-08-31, 12:02:01](https://news.ycombinator.com/item?id=49508619) - [Solving the Flat Cube](https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/)
 * [2026-08-31, 12:01:05](https://news.ycombinator.com/item?id=49508608) - [Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/)
 * [2026-08-31, 11:45:48](https://news.ycombinator.com/item?id=49508506) - [I think the military commissary's freezers were hacked](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary)
+* [2026-08-31, 11:29:44](https://news.ycombinator.com/item?id=49508405) - [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight)
 * [2026-08-31, 11:17:25](https://news.ycombinator.com/item?id=49508317) - [Agent Memory as a File Format](https://calpaterson.com/memoryfields.html)
 * [2026-08-31, 11:13:17](https://news.ycombinator.com/item?id=49508290) - [A CVE Dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/)
 * [2026-08-31, 11:01:19](https://news.ycombinator.com/item?id=49508225) - [You Know Who Hates AI? Insurance Claims Adjusters](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/)
