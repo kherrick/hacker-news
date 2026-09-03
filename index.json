@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-09-03, 13:29:12",
+      "https://news.ycombinator.com/item?id=49549676"
+    ],
+    [
+      "Elevated Errors for Multiple Models",
+      "https://status.claude.com/incidents/461yvfrzpwtt"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 12:10:33",
+      "https://news.ycombinator.com/item?id=49548952"
+    ],
+    [
+      "Nvidia to Acquire Hugging Face",
+      "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 12:00:52",
+      "https://news.ycombinator.com/item?id=49548864"
+    ],
+    [
+      "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "https://9mothers.com/careers"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 11:12:57",
+      "https://news.ycombinator.com/item?id=49548530"
+    ],
+    [
+      "A dark horse enters China's AI race: StartLux",
+      "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 11:01:04",
+      "https://news.ycombinator.com/item?id=49548452"
+    ],
+    [
+      "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+      "https://twitter.com/GergelyOrosz/status/2095453567955968398"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 10:53:08",
+      "https://news.ycombinator.com/item?id=49548395"
+    ],
+    [
+      "Audacity 4.0",
+      "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 09:37:55",
+      "https://news.ycombinator.com/item?id=49547888"
+    ],
+    [
+      "Claude for Commerce Agents",
+      "https://claude.com/blog/claude-for-commerce-agents"
+    ]
+  ],
+  [
+    [
       "2026-09-03, 07:04:13",
       "https://news.ycombinator.com/item?id=49546800"
     ],
@@ -27,36 +97,6 @@
     [
       "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
       "https://news.ycombinator.com/item?id=49543530"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 22:02:30",
-      "https://news.ycombinator.com/item?id=49543191"
-    ],
-    [
-      "Reasons robotics is hard",
-      "https://secondthoughts.ai/p/14-reasons-robotics-is-hard"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 21:00:04",
-      "https://news.ycombinator.com/item?id=49542486"
-    ],
-    [
-      "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
-      "https://nango.dev/careers"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 20:08:22",
-      "https://news.ycombinator.com/item?id=49541754"
-    ],
-    [
-      "Altair Basic Interpreter Source Code (1975) [pdf]",
-      "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2026-09-02, 18:32:24",
-      "https://news.ycombinator.com/item?id=49540415"
-    ],
-    [
-      "Async Rust vs RTOS showdown (2022)",
-      "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 15:12:40",
       "https://news.ycombinator.com/item?id=49537553"
     ],
@@ -121,42 +151,12 @@
   ],
   [
     [
-      "2026-09-02, 14:16:45",
-      "https://news.ycombinator.com/item?id=49536606"
-    ],
-    [
-      "Exit the Cave",
-      "https://turtlespace.blog/p/exit-the-cave"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 14:02:35",
-      "https://news.ycombinator.com/item?id=49536411"
-    ],
-    [
-      "WebLLM: high-performance in-browser LLM inference engine",
-      "https://github.com/mlc-ai/web-llm"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 13:59:59",
       "https://news.ycombinator.com/item?id=49536375"
     ],
     [
       "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
       "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 13:47:49",
-      "https://news.ycombinator.com/item?id=49536177"
-    ],
-    [
-      "Poisson Disk Sampling",
-      "https://stripeacross.com/posts/poisson-disk-sampling/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-09-02, 00:20:06",
-      "https://news.ycombinator.com/item?id=49530169"
-    ],
-    [
-      "LLMs and Self-Referentiality",
-      "https://scottaaronson.blog/?p=10046"
-    ]
-  ],
-  [
-    [
       "2026-09-01, 14:00:15",
       "https://news.ycombinator.com/item?id=49522137"
     ],
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2026-09-01, 13:41:11",
-      "https://news.ycombinator.com/item?id=49521909"
+      "2026-09-01, 12:48:40",
+      "https://news.ycombinator.com/item?id=49521264"
     ],
     [
-      "We could save petabytes of cache storage with Zstandard and Pingora",
-      "https://blog.cloudflare.com/cache-transcoding/"
+      "Invisible Companies",
+      "https://colossus.com/article/invisible-companies/"
     ]
   ],
   [
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2026-09-01, 09:27:19",
-      "https://news.ycombinator.com/item?id=49519792"
-    ],
-    [
-      "Higher Multipoles of the Cow",
-      "https://arxiv.org/abs/2504.00506"
-    ]
-  ],
-  [
-    [
       "2026-09-01, 01:49:58",
       "https://news.ycombinator.com/item?id=49517018"
     ],
@@ -251,12 +231,12 @@
   ],
   [
     [
-      "2026-08-31, 19:25:44",
-      "https://news.ycombinator.com/item?id=49513856"
+      "2026-08-31, 19:14:01",
+      "https://news.ycombinator.com/item?id=49513721"
     ],
     [
-      "A Selection of Los Alamos Rolodex Business Cards",
-      "https://clui.org/collections/los-alamos-business-cards/selection-cards"
+      "Fish Bad, Sugar Good and Other Medieval Ideas About Food",
+      "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "Holden's Lightning Flight",
       "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 03:37:12",
+      "https://news.ycombinator.com/item?id=49505306"
+    ],
+    [
+      "Amazon Stonehenge: Parque Arqueológico do Solstício",
+      "https://en.wikipedia.org/wiki/Parque_Arqueol%C3%B3gico_do_Solst%C3%ADcio"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 03:28:32",
+      "https://news.ycombinator.com/item?id=49505257"
+    ],
+    [
+      "Intrusive Linked Lists",
+      "https://www.data-structures-in-practice.com/intrusive-linked-lists/"
     ]
   ],
   [
