@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-09-03, 21:20:34",
+      "https://news.ycombinator.com/item?id=49557206"
+    ],
+    [
+      "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "https://armature.tech/blog/which-tools-coding-agents-install"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 21:01:10",
+      "https://news.ycombinator.com/item?id=49556922"
+    ],
+    [
+      "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "https://tasklet.ai/careers/customer-success-engineer"
+    ]
+  ],
+  [
+    [
       "2026-09-03, 19:45:00",
       "https://news.ycombinator.com/item?id=49555691"
     ],
@@ -47,26 +67,6 @@
     [
       "How concerned should we be about Astra's recurrent architecture?",
       "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent"
-    ]
-  ],
-  [
-    [
-      "2026-09-03, 17:00:16",
-      "https://news.ycombinator.com/item?id=49553173"
-    ],
-    [
-      "Gooseworks (YC W23) Is Hiring – Founding Creative Engineer",
-      "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-09-03, 16:24:13",
-      "https://news.ycombinator.com/item?id=49552616"
-    ],
-    [
-      "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
-      "https://news.ycombinator.com/item?id=49552616"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-09-02, 11:06:05",
+      "https://news.ycombinator.com/item?id=49534573"
+    ],
+    [
+      "Dextroproporphan: An Analogue for a Better Dextromethorphan",
+      "https://monfak.top/blog/posts/dextroproporphan"
+    ]
+  ],
+  [
+    [
       "2026-09-01, 19:02:34",
       "https://news.ycombinator.com/item?id=49526453"
     ],
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2026-09-01, 13:43:14",
-      "https://news.ycombinator.com/item?id=49521933"
+      "2026-09-01, 18:44:28",
+      "https://news.ycombinator.com/item?id=49526210"
     ],
     [
-      "A thousand years older than Stonehenge: Archaeologists explore a Czech sanctuary",
-      "https://info.zcu.cz/clanek.jsp?id=9882&lang=en"
+      "Working to Make Python Lazy",
+      "https://iscinumpy.dev/post/flake8-lazy/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How to get a free .arpa domain",
       "https://hawksley.dev/blog/get-free-arpa-domain"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 22:53:08",
-      "https://news.ycombinator.com/item?id=49494043"
-    ],
-    [
-      "“We want it to really confuse people, but also really make people happy”",
-      "https://unsung.aresluna.org/we-want-it-to-really-confuse-people-but-also-really-make-people-happy/"
     ]
   ]
 ]
