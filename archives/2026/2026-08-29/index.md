@@ -10,6 +10,7 @@
 * [2026-08-29, 23:17:17](https://news.ycombinator.com/item?id=49494182) - [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
 * [2026-08-29, 23:17:15](https://news.ycombinator.com/item?id=49494181) - [Lion-man – the oldest confirmed statue ever discovered](https://en.wikipedia.org/wiki/Lion-man)
 * [2026-08-29, 23:12:25](https://news.ycombinator.com/item?id=49494151) - [I co-founded Burning Man. The festival has lost its soul](https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/)
+* [2026-08-29, 22:53:08](https://news.ycombinator.com/item?id=49494043) - [“We want it to really confuse people, but also really make people happy”](https://unsung.aresluna.org/we-want-it-to-really-confuse-people-but-also-really-make-people-happy/)
 * [2026-08-29, 22:51:17](https://news.ycombinator.com/item?id=49494036) - [Defrag98: Windows 98 Disk Defragmenter Simulator Online](https://defrag98.com)
 * [2026-08-29, 22:49:26](https://news.ycombinator.com/item?id=49494023) - [Twitter (Not affiliated with X Corp)](https://twitter.now/maintenance/)
 * [2026-08-29, 21:37:07](https://news.ycombinator.com/item?id=49493563) - [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html)

@@ -11,6 +11,7 @@
 * [2026-08-31, 23:24:54](https://news.ycombinator.com/item?id=49516047) - [Discontinuation of third level domain registrations for the .name TLD [pdf]](https://itp.cdn.icann.org/en/files/consensus-policies/rsep-2026013-name-request-15-04-2026-en.pdf)
 * [2026-08-31, 22:53:45](https://news.ycombinator.com/item?id=49515830) - [Run macOS Software on Linux](https://www.darlinghq.org/)
 * [2026-08-31, 22:32:22](https://news.ycombinator.com/item?id=49515662) - [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
+* [2026-08-31, 22:21:58](https://news.ycombinator.com/item?id=49515558) - [How to get a free .arpa domain](https://hawksley.dev/blog/get-free-arpa-domain)
 * [2026-08-31, 21:12:22](https://news.ycombinator.com/item?id=49514895) - [How we configured OpenTelemetry logs in Rails](https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails)
 * [2026-08-31, 21:10:58](https://news.ycombinator.com/item?id=49514878) - [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
 * [2026-08-31, 21:00:09](https://news.ycombinator.com/item?id=49514781) - [Autonomous (YC F25) is hiring engineers](https://news.ycombinator.com/item?id=49514781)
