@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-09-03, 07:04:13",
+      "https://news.ycombinator.com/item?id=49546800"
+    ],
+    [
+      "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+      "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 06:59:08",
+      "https://news.ycombinator.com/item?id=49546753"
+    ],
+    [
+      "Pre-Release of Polars 2.0",
+      "https://pola.rs/posts/announcing-polars-2/"
+    ]
+  ],
+  [
+    [
       "2026-09-02, 22:36:04",
       "https://news.ycombinator.com/item?id=49543530"
     ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=49540415"
     ],
     [
-      "Embedded Rust RTOS vs. C RTOS",
+      "Async Rust vs RTOS showdown (2022)",
       "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/"
     ]
   ],
@@ -171,22 +191,22 @@
   ],
   [
     [
-      "2026-09-02, 04:15:56",
-      "https://news.ycombinator.com/item?id=49531651"
+      "2026-09-02, 00:20:06",
+      "https://news.ycombinator.com/item?id=49530169"
     ],
     [
-      "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "https://arxiv.org/abs/2608.29530"
+      "LLMs and Self-Referentiality",
+      "https://scottaaronson.blog/?p=10046"
     ]
   ],
   [
     [
-      "2026-09-01, 16:41:13",
-      "https://news.ycombinator.com/item?id=49524428"
+      "2026-09-01, 14:00:15",
+      "https://news.ycombinator.com/item?id=49522137"
     ],
     [
-      "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
-      "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/"
+      "The Browser's Main Thread Is Expensive",
+      "https://kciter.so/posts/the-expensive-main-thread/en/"
     ]
   ],
   [
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2026-08-31, 13:33:31",
-      "https://news.ycombinator.com/item?id=49509606"
+      "2026-08-31, 16:15:37",
+      "https://news.ycombinator.com/item?id=49511493"
     ],
     [
-      "Creating Backup Storage Sucks",
-      "https://smarmelling.com/posts/creating-backup-storage-sucks.html"
+      "The Computer Museum of America reclamation project",
+      "https://computer-museum.org/wp/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-08-30, 20:20:30",
-      "https://news.ycombinator.com/item?id=49502367"
+      "2026-08-29, 19:52:51",
+      "https://news.ycombinator.com/item?id=49492796"
     ],
     [
-      "Making the Internet Boring",
-      "https://cemrehancavdar.com/2026/08/30/making-the-internet-boring/"
-    ]
-  ],
-  [
-    [
-      "2026-08-30, 12:12:56",
-      "https://news.ycombinator.com/item?id=49497996"
-    ],
-    [
-      "The shrinking landscape of linguistic diversity in the age of LLMs",
-      "https://www.nature.com/articles/s41562-026-02550-0"
-    ]
-  ],
-  [
-    [
-      "2026-08-29, 17:52:46",
-      "https://news.ycombinator.com/item?id=49491815"
-    ],
-    [
-      "How I turned Granola action items into to-do list",
-      "https://runnrr.io"
+      "What I Learned from My Mom (1941-2026)",
+      "https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026"
     ]
   ]
 ]
