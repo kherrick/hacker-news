@@ -129,23 +129,375 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="49549676">
+        <section id="49553303">
           <h3>
             <a
               class="item"
-              href="https://status.claude.com/incidents/461yvfrzpwtt"
-              >Elevated Errors for Multiple Models</a
+              href="https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb"
+              >Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-03 @ 13:29:12</span
+              <span>2026-09-03 @ 17:09:04</span
               ><span class="points-container"
-                >Points: <span class="points">200</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49549676"
+                ><a href="https://news.ycombinator.com/item?id=49553303"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49553173">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer"
+              >Founding Creative Engineer – Gooseworks (YC W23) Is Hiring</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-03 @ 17:00:16</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49552616">
+          <h3>
+            <a class="item" href="https://www.mireye.com"
+              >Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI
+              Agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-03 @ 16:24:13</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49552616"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.mireye.com">https://www.mireye.com</a>). I'm
+              building the infrastructure AI agents use to make decisions about
+              physical places: data, enrichment, tools, and signals for any US
+              location, behind one API and MCP server.
+              <p>
+                Here's a demo video:
+                <a href="https://www.youtube.com/watch?v=haqO6UbUqU0"
+                  >https://www.youtube.com/watch?v=haqO6UbUqU0</a
+                >
+              </p>
+              <p>
+                To try it, paste
+                <a href="https://www.mireye.com/skills.md"
+                  >https://www.mireye.com/skills.md</a
+                >
+                into your agent, and grab a free key at mireye.com (5,000
+                credits, no card). Docs are at
+                <a href="https://docs.mireye.ai">https://docs.mireye.ai</a>. The
+                fastest way in is to ask the API any question about any US
+                location. Test it on a place you know, cold and grade it against
+                what you know.
+              </p>
+              <p>
+                Before Mireye I was building construction agents and hit this
+                wall myself: my agent could reason about anything online but
+                knew nothing about the ground under it. Then a Fortune 500
+                insurer told me their engineers had given up on underwriting
+                agents for the same reason. Frontier models keep hallucinating
+                when asked a specific question about a specific place.
+              </p>
+              <p>
+                My first product was a niche site-screening app. Customers
+                tested it on places they knew and the answers held up, but
+                nobody cared about the app. They wanted the engine underneath.
+                Usage agreed: 311 of the 317 fields in the catalog get queried
+                and no use case dominates. So I killed the app and started
+                building the infrastructure instead.
+              </p>
+              <p>
+                Mireye is not a dataset with an API on top, because facts alone
+                are not a decision. An agent runs the whole job through it:
+                cited facts, a bare address enriched into owner, acreage,
+                structures, and nearby power, tools for the operations models
+                get wrong, and signals when something changes, like a rezoning
+                filing. Data, enrichment, tools, signals.
+              </p>
+              <p>
+                The tools came from watching agents fail. We build agents on our
+                own infra, and the same things kept breaking: an agent would
+                eyeball a distance instead of computing it, grab the wrong
+                parcel for an address, or burn its whole budget halfway through
+                a batch. Each failure became something an agent can call:
+                deterministic geometry and drive-time tools, parcel resolution,
+                a quote endpoint that prices a job before it runs, and skills
+                that package whole workflows like screening a site or
+                underwriting an address.
+              </p>
+              <p>
+                The hard part surprised me. Every source has to be gathered
+                (sometimes county by county, in whatever format each county
+                publishes), normalized into one schema, contracted (where it
+                comes from, what each value means, how often it refreshes), and
+                then kept fresh forever. We run that loop for 366 fields today,
+                served multi-tenant from one index, and every source fought back
+                differently. Maryland publishes a dataset literally titled
+                "Hidden Property Owner Names." I filed public records requests
+                in North Carolina because nobody indexes sewer mains.
+              </p>
+              <p>
+                The deeper problem is meaning. Two counties publish a field with
+                the same name and it means different things. And the most
+                dangerous value is null. Does it mean "no flood zone here" or
+                "this county never mapped floods"? Put a model in front of that
+                gap and it fills the silence with a plausible number. So we type
+                absence. Every field returns ok, absent, or failed. Customers
+                have told me the refusals are why they trust it.
+              </p>
+              <p>
+                The newest piece is on-demand indexing. Ask for a field we don't
+                have and a long-running agent researches sources, collects the
+                data, tests it against ground truth, and indexes it, usually
+                within a day. I'll take a few field requests from this thread
+                and report back with what it built.
+              </p>
+              <p>
+                People have built things I didn't plan for: insurance teams
+                screening portfolios for flood, wind, and wildfire, a proptech
+                cleaning messy listing addresses through enrichment, a wellness
+                brand scoring street corners for poster spots, a robotics
+                company sourcing warehouses, data center site selection, drone
+                deployment planning, school bus routes for a city, signals for
+                human trafficking investigations. The mission is to index every
+                inch of the earth and make it as queryable as the web.
+              </p>
+              <p>
+                Pricing is public: the free tier is 5,000 credits a month,
+                $19/month for 25,000, $99/month for 120,000, custom for
+                enterprise.
+              </p>
+              <p>
+                I'd love to hear where the agents you're building touch the
+                physical world. And I'd love it more if you run Mireye on a
+                place you know and tell me what we got wrong.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="49552375">
+          <h3>
+            <a
+              class="item"
+              href="https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/"
+              >Texas Data Center Map: See where data centers are operating or
+              planned</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-03 @ 16:10:12</span
+              ><span class="points-container"
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49552375"
+                  >Comments</a
+                ><span class="descendants">: 27</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49552055">
+          <h3>
+            <a
+              class="item"
+              href="https://www.anildash.com/2026/09/02/cancer-capital/"
+              >VC isn't VC anymore – understanding the rise of Cancer Capital</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-03 @ 15:51:53</span
+              ><span class="points-container"
+                >Points: <span class="points">177</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49552055"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49551925">
+          <h3>
+            <a
+              class="item"
+              href="https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/"
+              >Sony makes bold claim about game ownership</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-03 @ 15:44:54</span
+              ><span class="points-container"
+                >Points: <span class="points">162</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49551925"
+                  >Comments</a
+                ><span class="descendants">: 218</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49551760">
+          <h3>
+            <a class="item" href="https://ifm.ai/blog/k2/"
+              >K2 Horizon: Frontier Performance, Radically Open</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-03 @ 15:36:43</span
+              ><span class="points-container"
+                >Points: <span class="points">187</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49551760"
+                  >Comments</a
+                ><span class="descendants">: 60</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49551589">
+          <h3><a class="item" href="https://status.x.ai/">Grok outage</a></h3>
+          <section>
+            <h4>
+              <span>2026-09-03 @ 15:26:01</span
+              ><span class="points-container"
+                >Points: <span class="points">153</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49551589"
+                  >Comments</a
+                ><span class="descendants">: 146</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49551096">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=49551096"
+              >Ask HN: Why are OpenAI, Claude, and Grok simultaneously down?
+              Coincidence?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-03 @ 15:07:01</span
+              ><span class="points-container"
+                >Points: <span class="points">253</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49551096"
+                  >Comments</a
+                ><span class="descendants">: 468</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://status.openai.com">https://status.openai.com</a>
+              <p>
+                <a href="https://status.claude.com"
+                  >https://status.claude.com</a
+                >
+              </p>
+              <p><a href="https://status.x.ai">https://status.x.ai</a></p>
+              <p>
+                <i>ChatGPT outage – Resolved</i> -
+                <a href="https://news.ycombinator.com/item?id=49550614"
+                  >https://news.ycombinator.com/item?id=49550614</a
+                >
+                (315 comments)
+              </p>
+              <p>
+                <i>Claude outage – Resolved</i> -
+                <a href="https://news.ycombinator.com/item?id=49549676"
+                  >https://news.ycombinator.com/item?id=49549676</a
+                >
+                (146 comments)
+              </p>
+              <p>
+                <i>Grok outage</i> -
+                <a href="https://news.ycombinator.com/item?id=49551589"
+                  >https://news.ycombinator.com/item?id=49551589</a
+                >
+                (142 comments)
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="49550772">
+          <h3>
+            <a class="item" href="https://neil.fraser.name/news/2026/09/03/"
+              >.name Termination</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-03 @ 14:54:39</span
+              ><span class="points-container"
+                >Points: <span class="points">961</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49550772"
+                  >Comments</a
+                ><span class="descendants">: 277</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49550698">
+          <h3>
+            <a class="item" href="https://anyhumanever.com/"
+              >Any Human Ever – One life, drawn at random from all who have ever
+              lived</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-03 @ 14:51:10</span
+              ><span class="points-container"
+                >Points: <span class="points">300</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49550698"
+                  >Comments</a
+                ><span class="descendants">: 135</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49549919">
+          <h3>
+            <a
+              class="item"
+              href="https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/"
+              >New York Times and The Athletic workers demand company scrap
+              Kalshi deal</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-03 @ 13:51:44</span
+              ><span class="points-container"
+                >Points: <span class="points">239</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49549919"
+                  >Comments</a
+                ><span class="descendants">: 185</span></span
               >
             </h4>
           </section>
@@ -162,49 +514,19 @@
             <h4>
               <span>2026-09-03 @ 12:10:33</span
               ><span class="points-container"
-                >Points: <span class="points">238</span></span
+                >Points: <span class="points">286</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49548952"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="49548864">
-          <h3>
-            <a class="item" href="https://9mothers.com/careers"
-              >9 Mothers (YC P26) Is Hiring in Austin, TX</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-03 @ 12:00:52</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
+            <div class="text">
+              <a
+                href="https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+                >https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face...</a
               >
-            </h4>
-          </section>
-        </section>
-        <section id="49548530">
-          <h3>
-            <a
-              class="item"
-              href="https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector"
-              >A dark horse enters China's AI race: StartLux</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-03 @ 11:12:57</span
-              ><span class="points-container"
-                >Points: <span class="points">52</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49548530"
-                  >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
+            </div>
           </section>
         </section>
         <section id="49548452">
@@ -220,11 +542,11 @@
             <h4>
               <span>2026-09-03 @ 11:01:04</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49548452"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 141</span></span
               >
             </h4>
           </section>
@@ -241,11 +563,11 @@
             <h4>
               <span>2026-09-03 @ 10:53:08</span
               ><span class="points-container"
-                >Points: <span class="points">842</span></span
+                >Points: <span class="points">935</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49548395"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 209</span></span
               >
             </h4>
           </section>
@@ -262,33 +584,11 @@
             <h4>
               <span>2026-09-03 @ 09:37:55</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49547888"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49546800">
-          <h3>
-            <a
-              class="item"
-              href="https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/"
-              >Three schoolgirls in Kinsale pulled up a pea plant covered in
-              warts (2016)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-03 @ 07:04:13</span
-              ><span class="points-container"
-                >Points: <span class="points">134</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49546800"
-                  >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -303,11 +603,11 @@
             <h4>
               <span>2026-09-03 @ 06:59:08</span
               ><span class="points-container"
-                >Points: <span class="points">339</span></span
+                >Points: <span class="points">363</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49546753"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -322,11 +622,11 @@
             <h4>
               <span>2026-09-02 @ 22:36:04</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49543530"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
             <div class="text">
@@ -429,25 +729,6 @@
             </div>
           </section>
         </section>
-        <section id="49541458">
-          <h3>
-            <a class="item" href="https://github.com/PhiloLabs/fable51-worlds"
-              >Fable 5.1 World Modeling</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-02 @ 19:49:01</span
-              ><span class="points-container"
-                >Points: <span class="points">319</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49541458"
-                  >Comments</a
-                ><span class="descendants">: 91</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="49541256">
           <h3>
             <a
@@ -460,11 +741,11 @@
             <h4>
               <span>2026-09-02 @ 19:35:04</span
               ><span class="points-container"
-                >Points: <span class="points">670</span></span
+                >Points: <span class="points">676</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49541256"
                   >Comments</a
-                ><span class="descendants">: 435</span></span
+                ><span class="descendants">: 438</span></span
               >
             </h4>
             <div class="text">
@@ -474,23 +755,23 @@
             </div>
           </section>
         </section>
-        <section id="49540565">
+        <section id="49539556">
           <h3>
             <a
               class="item"
-              href="https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7"
-              >Qantas Airbus A380 engine failure in 2010 (2023)</a
+              href="https://matklad.github.io/2026/09/02/static-allocation-constant-work.html"
+              >Static Allocation, Constant Work</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-02 @ 18:42:41</span
+              <span>2026-09-02 @ 17:30:55</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49540565"
+                ><a href="https://news.ycombinator.com/item?id=49539556"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -507,11 +788,11 @@
             <h4>
               <span>2026-09-02 @ 15:12:40</span
               ><span class="points-container"
-                >Points: <span class="points">1133</span></span
+                >Points: <span class="points">1139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49537553"
                   >Comments</a
-                ><span class="descendants">: 640</span></span
+                ><span class="descendants">: 645</span></span
               >
             </h4>
             <div class="text">
@@ -534,11 +815,11 @@
             <h4>
               <span>2026-09-02 @ 14:46:16</span
               ><span class="points-container"
-                >Points: <span class="points">463</span></span
+                >Points: <span class="points">464</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49537131"
                   >Comments</a
-                ><span class="descendants">: 329</span></span
+                ><span class="descendants">: 336</span></span
               >
             </h4>
             <div class="text">
@@ -552,110 +833,23 @@
             </div>
           </section>
         </section>
-        <section id="49536375">
-          <h3>
-            <a
-              class="item"
-              href="https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
-              >Three sites made 215,128 “best software” pages for AI. Perplexity
-              cites them</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-02 @ 13:59:59</span
-              ><span class="points-container"
-                >Points: <span class="points">497</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49536375"
-                  >Comments</a
-                ><span class="descendants">: 243</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49536079">
-          <h3>
-            <a
-              class="item"
-              href="https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle"
-              >Biggest dark matter detector spots a single weird particle</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-02 @ 13:40:29</span
-              ><span class="points-container"
-                >Points: <span class="points">335</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49536079"
-                  >Comments</a
-                ><span class="descendants">: 124</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49535548">
-          <h3>
-            <a
-              class="item"
-              href="https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/"
-              >Aging brains blend memories together instead of just forgetting
-              them</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-02 @ 12:59:09</span
-              ><span class="points-container"
-                >Points: <span class="points">334</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49535548"
-                  >Comments</a
-                ><span class="descendants">: 133</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49535284">
-          <h3>
-            <a
-              class="item"
-              href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training"
-              >Can I opt out of my input or output data being used for
-              training?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-02 @ 12:30:39</span
-              ><span class="points-container"
-                >Points: <span class="points">484</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49535284"
-                  >Comments</a
-                ><span class="descendants">: 234</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="49522137">
           <h3>
             <a
               class="item"
               href="https://kciter.so/posts/the-expensive-main-thread/en/"
-              >The Browser's Main Thread Is Expensive</a
+              >The browser's main thread is expensive</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-09-01 @ 14:00:15</span
               ><span class="points-container"
-                >Points: <span class="points">311</span></span
+                >Points: <span class="points">341</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49522137"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -672,76 +866,13 @@
             <h4>
               <span>2026-09-01 @ 12:48:40</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49521264"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="49521031">
-          <h3>
-            <a
-              class="item"
-              href="https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/"
-              >Engineering of the fastest WebAssembly interpreters</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-01 @ 12:25:13</span
-              ><span class="points-container"
-                >Points: <span class="points">134</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49521031"
-                  >Comments</a
-                ><span class="descendants">: 18</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49517018">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html"
-              >Wendell Berry has died</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-01 @ 01:49:58</span
-              ><span class="points-container"
-                >Points: <span class="points">227</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49517018"
-                  >Comments</a
-                ><span class="descendants">: 116</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://archive.ph/YP8Uz">https://archive.ph/YP8Uz</a>
-              <p>
-                <a
-                  href="https://kentuckylantern.com/2026/08/31/kentucky-writer-farmer-and-advocate-wendell-berry-dies-at-92/"
-                  >https://kentuckylantern.com/2026/08/31/kentucky-writer-farme...</a
-                >
-              </p>
-              <p>
-                <a
-                  href="https://www.nbcnews.com/news/us-news/wendell-berry-kentucky-born-author-advocated-simpler-life-died-92-rcna595476"
-                  >https://www.nbcnews.com/news/us-news/wendell-berry-kentucky-...</a
-                >
-              </p>
-              <p>
-                <a
-                  href="https://www.honest-broker.com/p/wendell-berrys-nine-rules"
-                  >https://www.honest-broker.com/p/wendell-berrys-nine-rules</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="49513721">
@@ -749,18 +880,18 @@
             <a
               class="item"
               href="https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/"
-              >Fish Bad, Sugar Good and Other Medieval Ideas About Food</a
+              >Fish bad, sugar good and other medieval ideas about food</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-08-31 @ 19:14:01</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49513721"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -775,53 +906,11 @@
             <h4>
               <span>2026-08-31 @ 16:15:37</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49511493"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49508608">
-          <h3>
-            <a
-              class="item"
-              href="https://werwolv.net/posts/file_format_reverse_engineering/"
-              >Reverse Engineering Unknown File Formats with ImHex</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-31 @ 12:01:05</span
-              ><span class="points-container"
-                >Points: <span class="points">246</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49508608"
-                  >Comments</a
-                ><span class="descendants">: 46</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49508405">
-          <h3>
-            <a
-              class="item"
-              href="https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight"
-              >Holden's Lightning Flight</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-31 @ 11:29:44</span
-              ><span class="points-container"
-                >Points: <span class="points">218</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49508405"
-                  >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -838,11 +927,11 @@
             <h4>
               <span>2026-08-31 @ 03:37:12</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49505306"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -852,18 +941,37 @@
             <a
               class="item"
               href="https://www.data-structures-in-practice.com/intrusive-linked-lists/"
-              >Intrusive Linked Lists</a
+              >Intrusive linked lists (2019)</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-08-31 @ 03:28:32</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49505257"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 53</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49498860">
+          <h3>
+            <a class="item" href="https://worldofmatthew.com/blog/bc250/"
+              >My BC-250 Journey (With 40 CUs Unlocked)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-30 @ 14:14:58</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49498860"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -880,11 +988,11 @@
             <h4>
               <span>2026-08-29 @ 19:52:51</span
               ><span class="points-container"
-                >Points: <span class="points">220</span></span
+                >Points: <span class="points">236</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49492796"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
