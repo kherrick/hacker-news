@@ -47,6 +47,7 @@
 * [2026-09-01, 13:19:12](https://news.ycombinator.com/item?id=49521623) - [Io_uring Without Readahead](https://frn.sh/io-uring/)
 * [2026-09-01, 13:17:13](https://news.ycombinator.com/item?id=49521590) - [Move in C++ without a std:move](https://andreasfertig.com/blog/2026/09/move-in-cpp-without-a-stdmove/)
 * [2026-09-01, 12:53:51](https://news.ycombinator.com/item?id=49521315) - [EFF to Courts: Don't Rewrite Copyright over AI Hype](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
+* [2026-09-01, 12:48:40](https://news.ycombinator.com/item?id=49521264) - [Invisible Companies](https://colossus.com/article/invisible-companies/)
 * [2026-09-01, 12:25:13](https://news.ycombinator.com/item?id=49521031) - [Engineering of the fastest WebAssembly interpreters](https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/)
 * [2026-09-01, 10:11:02](https://news.ycombinator.com/item?id=49520022) - [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
 * [2026-09-01, 09:52:45](https://news.ycombinator.com/item?id=49519939) - [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
