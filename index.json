@@ -1,32 +1,12 @@
 [
   [
     [
-      "2026-09-02, 23:57:07",
-      "https://news.ycombinator.com/item?id=49544226"
-    ],
-    [
-      "Reflections on Americans' Net Worth",
-      "https://www.betonit.ai/p/reflections-on-americans-net-worth"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 23:08:47",
-      "https://news.ycombinator.com/item?id=49543841"
-    ],
-    [
-      "METR Report on OpenAI / Hugging Face Hacking Incident",
-      "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 22:36:04",
       "https://news.ycombinator.com/item?id=49543530"
     ],
     [
       "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "https://ronanrx.com/"
+      "https://news.ycombinator.com/item?id=49543530"
     ]
   ],
   [
@@ -37,16 +17,6 @@
     [
       "Reasons robotics is hard",
       "https://secondthoughts.ai/p/14-reasons-robotics-is-hard"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 21:46:33",
-      "https://news.ycombinator.com/item?id=49543007"
-    ],
-    [
-      "Uber shuts operations in Nigeria and Uganda with immediate effect",
-      "https://www.bbc.com/news/articles/c86xpv8l9y9o"
     ]
   ],
   [
@@ -67,16 +37,6 @@
     [
       "Altair Basic Interpreter Source Code (1975) [pdf]",
       "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 19:52:53",
-      "https://news.ycombinator.com/item?id=49541519"
-    ],
-    [
-      "I wanna live an NPC life",
-      "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/"
     ]
   ],
   [
@@ -211,6 +171,16 @@
   ],
   [
     [
+      "2026-09-02, 04:15:56",
+      "https://news.ycombinator.com/item?id=49531651"
+    ],
+    [
+      "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "https://arxiv.org/abs/2608.29530"
+    ]
+  ],
+  [
+    [
       "2026-09-01, 16:41:13",
       "https://news.ycombinator.com/item?id=49524428"
     ],
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2026-09-01, 09:27:19",
+      "https://news.ycombinator.com/item?id=49519792"
+    ],
+    [
+      "Higher Multipoles of the Cow",
+      "https://arxiv.org/abs/2504.00506"
+    ]
+  ],
+  [
+    [
       "2026-09-01, 01:49:58",
       "https://news.ycombinator.com/item?id=49517018"
     ],
@@ -257,6 +237,16 @@
     [
       "A Selection of Los Alamos Rolodex Business Cards",
       "https://clui.org/collections/los-alamos-business-cards/selection-cards"
+    ]
+  ],
+  [
+    [
+      "2026-08-31, 13:33:31",
+      "https://news.ycombinator.com/item?id=49509606"
+    ],
+    [
+      "Creating Backup Storage Sucks",
+      "https://smarmelling.com/posts/creating-backup-storage-sucks.html"
     ]
   ],
   [
@@ -281,22 +271,32 @@
   ],
   [
     [
-      "2026-08-31, 09:56:23",
-      "https://news.ycombinator.com/item?id=49507807"
-    ],
-    [
-      "Product Backlog Problems: Why Your Hierarchy Is Broken",
-      "https://www.prodpad.com/blog/backlog-hierarchy-problem/"
-    ]
-  ],
-  [
-    [
       "2026-08-30, 20:20:30",
       "https://news.ycombinator.com/item?id=49502367"
     ],
     [
       "Making the Internet Boring",
       "https://cemrehancavdar.com/2026/08/30/making-the-internet-boring/"
+    ]
+  ],
+  [
+    [
+      "2026-08-30, 12:12:56",
+      "https://news.ycombinator.com/item?id=49497996"
+    ],
+    [
+      "The shrinking landscape of linguistic diversity in the age of LLMs",
+      "https://www.nature.com/articles/s41562-026-02550-0"
+    ]
+  ],
+  [
+    [
+      "2026-08-29, 17:52:46",
+      "https://news.ycombinator.com/item?id=49491815"
+    ],
+    [
+      "How I turned Granola action items into to-do list",
+      "https://runnrr.io"
     ]
   ]
 ]
