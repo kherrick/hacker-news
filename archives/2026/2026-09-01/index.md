@@ -20,6 +20,7 @@
 * [2026-09-01, 19:55:47](https://news.ycombinator.com/item?id=49527232) - [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html)
 * [2026-09-01, 19:02:34](https://news.ycombinator.com/item?id=49526453) - [The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM)
 * [2026-09-01, 18:50:42](https://news.ycombinator.com/item?id=49526298) - [Xanadu was waiting for agents](https://zed.dev/blog/agentic-xanadu)
+* [2026-09-01, 18:44:28](https://news.ycombinator.com/item?id=49526210) - [Working to Make Python Lazy](https://iscinumpy.dev/post/flake8-lazy/)
 * [2026-09-01, 18:39:04](https://news.ycombinator.com/item?id=49526131) - [I used Fable to rewrite 65kLoC of Go in Rust. It cost $400](https://iurii.net/en/blog/posts/software-engineering/i-used-fable-to-rewrite-65kloc-to-rust/)
 * [2026-09-01, 18:35:15](https://news.ycombinator.com/item?id=49526069) - [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
 * [2026-09-01, 17:57:09](https://news.ycombinator.com/item?id=49525420) - [UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it](https://sariyuce.com/blog/2026/UEFA-Draw/)

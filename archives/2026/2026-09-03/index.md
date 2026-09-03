@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-03](index.md)
 
+* [2026-09-03, 21:20:34](https://news.ycombinator.com/item?id=49557206) - [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
+* [2026-09-03, 21:01:10](https://news.ycombinator.com/item?id=49556922) - [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
 * [2026-09-03, 19:45:00](https://news.ycombinator.com/item?id=49555691) - [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)
 * [2026-09-03, 19:17:24](https://news.ycombinator.com/item?id=49555233) - [The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
 * [2026-09-03, 18:41:05](https://news.ycombinator.com/item?id=49554643) - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)

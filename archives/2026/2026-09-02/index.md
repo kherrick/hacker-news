@@ -62,6 +62,7 @@
 * [2026-09-02, 12:30:39](https://news.ycombinator.com/item?id=49535284) - [Mistral now trains on user input by default, except on enterprise tier](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training)
 * [2026-09-02, 12:23:20](https://news.ycombinator.com/item?id=49535201) - [Check if a file was made with Claude](https://claude.com/check-content)
 * [2026-09-02, 11:52:48](https://news.ycombinator.com/item?id=49534921) - [Ending my elixir exploratory writing](https://lucassifoni.info/blog/the-end-of-this-elixir-log/)
+* [2026-09-02, 11:06:05](https://news.ycombinator.com/item?id=49534573) - [Dextroproporphan: An Analogue for a Better Dextromethorphan](https://monfak.top/blog/posts/dextroproporphan)
 * [2026-09-02, 11:00:20](https://news.ycombinator.com/item?id=49534524) - [It's OK to hardcode feature flags (2025)](https://code.mendhak.com/hardcode-feature-flags/)
 * [2026-09-02, 10:02:41](https://news.ycombinator.com/item?id=49534132) - [Quasar 438B: Europe's Leading AI Model](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
 * [2026-09-02, 09:50:58](https://news.ycombinator.com/item?id=49534041) - [Banca Etica Suspends A/I's Account While Condemning the Sanctions Behind It](https://sabot.media/post/banca-etica-statement-english)

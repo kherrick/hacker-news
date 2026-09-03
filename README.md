@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-09-03, 21:20:34](https://news.ycombinator.com/item?id=49557206) - [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
+* [2026-09-03, 21:01:10](https://news.ycombinator.com/item?id=49556922) - [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
 * [2026-09-03, 19:45:00](https://news.ycombinator.com/item?id=49555691) - [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)
 * [2026-09-03, 19:17:24](https://news.ycombinator.com/item?id=49555233) - [The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
 * [2026-09-03, 18:41:05](https://news.ycombinator.com/item?id=49554643) - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
 * [2026-09-03, 18:32:13](https://news.ycombinator.com/item?id=49554520) - [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
 * [2026-09-03, 17:10:06](https://news.ycombinator.com/item?id=49553321) - [How concerned should we be about Astra's recurrent architecture?](https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent)
-* [2026-09-03, 17:00:16](https://news.ycombinator.com/item?id=49553173) - [Gooseworks (YC W23) Is Hiring – Founding Creative Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer)
-* [2026-09-03, 16:24:13](https://news.ycombinator.com/item?id=49552616) - [Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents](https://news.ycombinator.com/item?id=49552616)
 * [2026-09-03, 16:21:33](https://news.ycombinator.com/item?id=49552572) - [Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%](https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california)
 * [2026-09-03, 15:36:43](https://news.ycombinator.com/item?id=49551760) - [K2 Horizon: A connected fleet of six open models](https://ifm.ai/blog/k2/)
 * [2026-09-03, 15:07:01](https://news.ycombinator.com/item?id=49551096) - [Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?](https://news.ycombinator.com/item?id=49551096)
@@ -25,11 +25,11 @@
 * [2026-09-02, 17:30:55](https://news.ycombinator.com/item?id=49539556) - [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html)
 * [2026-09-02, 15:48:13](https://news.ycombinator.com/item?id=49538069) - [Unusual Suspects](https://neal.fun/unusual-suspects/)
 * [2026-09-02, 15:18:59](https://news.ycombinator.com/item?id=49537632) - [The true horror of Edgar Allan Poe’s stories lies in their confessions](https://yalereview.org/article/emily-ogden-edgar-allan-poe)
+* [2026-09-02, 11:06:05](https://news.ycombinator.com/item?id=49534573) - [Dextroproporphan: An Analogue for a Better Dextromethorphan](https://monfak.top/blog/posts/dextroproporphan)
 * [2026-09-01, 19:02:34](https://news.ycombinator.com/item?id=49526453) - [The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM)
 * [2026-09-01, 18:50:42](https://news.ycombinator.com/item?id=49526298) - [Xanadu was waiting for agents](https://zed.dev/blog/agentic-xanadu)
-* [2026-09-01, 13:43:14](https://news.ycombinator.com/item?id=49521933) - [A thousand years older than Stonehenge: Archaeologists explore a Czech sanctuary](https://info.zcu.cz/clanek.jsp?id=9882&lang=en)
+* [2026-09-01, 18:44:28](https://news.ycombinator.com/item?id=49526210) - [Working to Make Python Lazy](https://iscinumpy.dev/post/flake8-lazy/)
 * [2026-08-31, 22:21:58](https://news.ycombinator.com/item?id=49515558) - [How to get a free .arpa domain](https://hawksley.dev/blog/get-free-arpa-domain)
-* [2026-08-29, 22:53:08](https://news.ycombinator.com/item?id=49494043) - [“We want it to really confuse people, but also really make people happy”](https://unsung.aresluna.org/we-want-it-to-really-confuse-people-but-also-really-make-people-happy/)
 
 ## [Archives](archives/index.md)
 
