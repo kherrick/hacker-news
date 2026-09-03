@@ -24,6 +24,7 @@
 * [2026-08-29, 18:40:56](https://news.ycombinator.com/item?id=49492193) - [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
 * [2026-08-29, 18:24:46](https://news.ycombinator.com/item?id=49492094) - [Fractal Jittered Voronoi Partitions](https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/)
 * [2026-08-29, 18:22:00](https://news.ycombinator.com/item?id=49492067) - [vLLM v0.28.0](https://github.com/vllm-project/vllm/releases/tag/v0.28.0)
+* [2026-08-29, 17:52:46](https://news.ycombinator.com/item?id=49491815) - [How I turned Granola action items into to-do list](https://runnrr.io)
 * [2026-08-29, 17:49:01](https://news.ycombinator.com/item?id=49491791) - [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
 * [2026-08-29, 17:39:18](https://news.ycombinator.com/item?id=49491714) - [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/)
 * [2026-08-29, 17:19:47](https://news.ycombinator.com/item?id=49491568) - [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)

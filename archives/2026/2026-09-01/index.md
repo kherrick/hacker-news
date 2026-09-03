@@ -49,6 +49,7 @@
 * [2026-09-01, 12:25:13](https://news.ycombinator.com/item?id=49521031) - [Engineering of the fastest WebAssembly interpreters](https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/)
 * [2026-09-01, 10:11:02](https://news.ycombinator.com/item?id=49520022) - [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
 * [2026-09-01, 09:52:45](https://news.ycombinator.com/item?id=49519939) - [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
+* [2026-09-01, 09:27:19](https://news.ycombinator.com/item?id=49519792) - [Higher Multipoles of the Cow](https://arxiv.org/abs/2504.00506)
 * [2026-09-01, 07:01:49](https://news.ycombinator.com/item?id=49518877) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer)
 * [2026-09-01, 03:23:48](https://news.ycombinator.com/item?id=49517624) - [Restroom Archive](https://restroomarchive.com)
 * [2026-09-01, 03:16:36](https://news.ycombinator.com/item?id=49517584) - [GPU World](https://www.gpuworld.org/)

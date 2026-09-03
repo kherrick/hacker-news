@@ -7,6 +7,7 @@
 * [2026-09-02, 23:57:07](https://news.ycombinator.com/item?id=49544226) - [Reflections on Americans' Net Worth](https://www.betonit.ai/p/reflections-on-americans-net-worth)
 * [2026-09-02, 23:08:47](https://news.ycombinator.com/item?id=49543841) - [METR Report on OpenAI / Hugging Face Hacking Incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident)
 * [2026-09-02, 22:36:04](https://news.ycombinator.com/item?id=49543530) - [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://ronanrx.com/)
+* [2026-09-02, 22:36:04](https://news.ycombinator.com/item?id=49543530) - [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
 * [2026-09-02, 22:02:30](https://news.ycombinator.com/item?id=49543191) - [Reasons robotics is hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
 * [2026-09-02, 21:46:33](https://news.ycombinator.com/item?id=49543007) - [Uber shuts operations in Nigeria and Uganda with immediate effect](https://www.bbc.com/news/articles/c86xpv8l9y9o)
 * [2026-09-02, 21:00:04](https://news.ycombinator.com/item?id=49542486) - [Nango (YC W23) is hiring across eng, product and GTM (SF and remote)](https://nango.dev/careers)

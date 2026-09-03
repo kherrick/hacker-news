@@ -37,6 +37,7 @@
 * [2026-08-31, 14:07:15](https://news.ycombinator.com/item?id=49510000) - [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/)
 * [2026-08-31, 13:39:43](https://news.ycombinator.com/item?id=49509679) - [Show HN: Linux server management over SSH – written in Rust and Tauri](https://serverbox.stupidlabs.lol/)
 * [2026-08-31, 13:37:28](https://news.ycombinator.com/item?id=49509655) - [We are rebuilding Monica](https://www.monicahq.com/en/blog/we-are-rebuilding-monica/)
+* [2026-08-31, 13:33:31](https://news.ycombinator.com/item?id=49509606) - [Creating Backup Storage Sucks](https://smarmelling.com/posts/creating-backup-storage-sucks.html)
 * [2026-08-31, 13:05:03](https://news.ycombinator.com/item?id=49509283) - [The Lost Art of Carrying Loads](https://www.carryology.com/insights/the-lost-art-of-carrying-loads/)
 * [2026-08-31, 12:41:22](https://news.ycombinator.com/item?id=49508982) - [Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/)
 * [2026-08-31, 12:02:01](https://news.ycombinator.com/item?id=49508619) - [Solving the Flat Cube](https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/)
