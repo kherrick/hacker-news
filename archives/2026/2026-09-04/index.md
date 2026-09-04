@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-04](index.md)
 
+* [2026-09-04, 20:34:49](https://news.ycombinator.com/item?id=49569896) - [Statichost.eu – 100% European static site hosting](https://www.statichost.eu/)
+* [2026-09-04, 20:16:22](https://news.ycombinator.com/item?id=49569702) - [How to Create a Tor Exit Node](https://madpsy.uk/how-to-create-a-tor-exit-node/)
+* [2026-09-04, 20:13:08](https://news.ycombinator.com/item?id=49569663) - [An open DNS recursive service for free security and high privacy](https://quad9.net/)
+* [2026-09-04, 19:48:29](https://news.ycombinator.com/item?id=49569366) - [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
+* [2026-09-04, 19:06:39](https://news.ycombinator.com/item?id=49568828) - [Government Rails Site Hit Hours After CVE Patch](https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/)
+* [2026-09-04, 18:57:32](https://news.ycombinator.com/item?id=49568697) - [Fermat's Last Theorem in Lean 4](https://github.com/anthropics/fermats-last-theorem)
 * [2026-09-04, 18:50:28](https://news.ycombinator.com/item?id=49568579) - [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
 * [2026-09-04, 18:42:56](https://news.ycombinator.com/item?id=49568506) - [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
 * [2026-09-04, 17:56:14](https://news.ycombinator.com/item?id=49567961) - [Hayes AT command set](https://en.wikipedia.org/wiki/Hayes_AT_command_set)

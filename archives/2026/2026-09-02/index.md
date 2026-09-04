@@ -67,6 +67,7 @@
 * [2026-09-02, 11:00:20](https://news.ycombinator.com/item?id=49534524) - [It's OK to hardcode feature flags (2025)](https://code.mendhak.com/hardcode-feature-flags/)
 * [2026-09-02, 10:02:41](https://news.ycombinator.com/item?id=49534132) - [Quasar 438B: Europe's Leading AI Model](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
 * [2026-09-02, 09:50:58](https://news.ycombinator.com/item?id=49534041) - [Banca Etica Suspends A/I's Account While Condemning the Sanctions Behind It](https://sabot.media/post/banca-etica-statement-english)
+* [2026-09-02, 09:48:48](https://news.ycombinator.com/item?id=49534025) - [Fomu An FPGA board that fits inside your USB port](https://www.crowdsupply.com/sutajio-kosagi/fomu)
 * [2026-09-02, 09:24:11](https://news.ycombinator.com/item?id=49533840) - [Resources to Get Good at Soldering?](https://news.ycombinator.com/item?id=49533840)
 * [2026-09-02, 08:43:49](https://news.ycombinator.com/item?id=49533557) - [Telli (YC F24) is hiring engineers and designers [Berlin, on-site]](https://careers.telli.com/)
 * [2026-09-02, 08:36:43](https://news.ycombinator.com/item?id=49533497) - [Commodore 64 released September 1, 1982](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
