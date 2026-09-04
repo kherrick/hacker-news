@@ -1,11 +1,71 @@
 [
   [
     [
+      "2026-09-04, 22:03:16",
+      "https://news.ycombinator.com/item?id=49570772"
+    ],
+    [
+      "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 21:52:01",
+      "https://news.ycombinator.com/item?id=49570669"
+    ],
+    [
+      "Actively exploited sandbox RCE in all Chromium versions",
+      "https://nvd.nist.gov/vuln/detail/cve-2026-85046"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 21:44:59",
+      "https://news.ycombinator.com/item?id=49570597"
+    ],
+    [
+      "Icons as a Service",
+      "https://nravic.com/blog/images/"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 21:39:19",
+      "https://news.ycombinator.com/item?id=49570545"
+    ],
+    [
+      "GPT-6 Astra on OpenRouter",
+      "https://openrouter.ai/openai/gpt-6-astra"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 21:16:16",
+      "https://news.ycombinator.com/item?id=49570328"
+    ],
+    [
+      "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+      "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 21:06:48",
+      "https://news.ycombinator.com/item?id=49570206"
+    ],
+    [
+      "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
+      "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/"
+    ]
+  ],
+  [
+    [
       "2026-09-04, 20:34:49",
       "https://news.ycombinator.com/item?id=49569896"
     ],
     [
-      "Statichost.eu – 100% European static site hosting",
+      "Statichost.eu – European static site hosting",
       "https://www.statichost.eu/"
     ]
   ],
@@ -141,32 +201,12 @@
   ],
   [
     [
-      "2026-09-04, 15:33:45",
-      "https://news.ycombinator.com/item?id=49566137"
-    ],
-    [
-      "Corporate America is getting hooked on open-source AI",
-      "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 12:50:29",
       "https://news.ycombinator.com/item?id=49563851"
     ],
     [
       "IBM Bob",
       "https://bob.ibm.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 12:42:08",
-      "https://news.ycombinator.com/item?id=49563772"
-    ],
-    [
-      "Ok, but does it scale?",
-      "https://spacetimedb.com/blog/how-does-spacetime-scale"
     ]
   ],
   [
@@ -211,42 +251,22 @@
   ],
   [
     [
-      "2026-09-03, 19:10:59",
-      "https://news.ycombinator.com/item?id=49555131"
+      "2026-09-03, 05:35:31",
+      "https://news.ycombinator.com/item?id=49546284"
     ],
     [
-      "Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
-      "https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express"
+      "RSA-260 Factorized",
+      "https://twitter.com/penlume/status/2095372672356212876"
     ]
   ],
   [
     [
-      "2026-09-03, 18:41:05",
-      "https://news.ycombinator.com/item?id=49554643"
+      "2026-09-02, 19:16:16",
+      "https://news.ycombinator.com/item?id=49541025"
     ],
     [
-      "GPT-6 Astra",
-      "https://openai.com/index/gpt-6-astra/"
-    ]
-  ],
-  [
-    [
-      "2026-09-03, 08:31:22",
-      "https://news.ycombinator.com/item?id=49547415"
-    ],
-    [
-      "People that worked on the same idea for decades",
-      "https://nityasnotes.com/writing/decades/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 11:54:14",
-      "https://news.ycombinator.com/item?id=49534936"
-    ],
-    [
-      "The Two Abstractions of System Design: Hide or Reduce",
-      "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html"
+      "Digital Sovereignty Is Written in PHP",
+      "https://thephp.foundation/blog/2026/09/02/digital-sovereignty-is-written-in-php/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-09-01, 19:48:37",
-      "https://news.ycombinator.com/item?id=49527123"
-    ],
-    [
-      "Getting Started with AT Protocol",
-      "https://bnb.im/posts/atproto-essential-resources/"
-    ]
-  ],
-  [
-    [
       "2026-09-01, 00:59:37",
       "https://news.ycombinator.com/item?id=49516691"
     ],
     [
       "Deadpan Photography: Enjoying the Pretence",
       "https://photoni.st/index.php/2026/07/12/deadpan-photography-enjoying-the-pretence/"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 00:01:13",
-      "https://news.ycombinator.com/item?id=49516312"
-    ],
-    [
-      "Elevator of the Year: Modernization of the Metropolis Trust Building",
-      "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building"
     ]
   ],
   [
