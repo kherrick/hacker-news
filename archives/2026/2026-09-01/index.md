@@ -12,6 +12,7 @@
 * [2026-09-01, 21:29:24](https://news.ycombinator.com/item?id=49528506) - [Show HN: OwnTime – a chess clock for your day's priorities](https://owntime.app/)
 * [2026-09-01, 21:19:10](https://news.ycombinator.com/item?id=49528366) - [Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)
 * [2026-09-01, 20:53:35](https://news.ycombinator.com/item?id=49528057) - [Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"](https://hnmatchmaker.com/)
+* [2026-09-01, 20:46:03](https://news.ycombinator.com/item?id=49527967) - [A PCB business card with a batteryless LED, powered by the phone that taps it](https://www.kevin.md/the-business-card-that-lights-up.md/)
 * [2026-09-01, 20:39:19](https://news.ycombinator.com/item?id=49527879) - [Dyson Launches Toothbrush](https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue)
 * [2026-09-01, 20:30:51](https://news.ycombinator.com/item?id=49527748) - [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)
 * [2026-09-01, 20:20:41](https://news.ycombinator.com/item?id=49527595) - [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/)

@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-03](index.md)
 
+* [2026-09-03, 22:37:31](https://news.ycombinator.com/item?id=49558086) - [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
 * [2026-09-03, 21:20:34](https://news.ycombinator.com/item?id=49557206) - [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
 * [2026-09-03, 21:01:10](https://news.ycombinator.com/item?id=49556922) - [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
 * [2026-09-03, 19:45:00](https://news.ycombinator.com/item?id=49555691) - [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)
+* [2026-09-03, 19:38:46](https://news.ycombinator.com/item?id=49555592) - [Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?](https://news.ycombinator.com/item?id=49555592)
 * [2026-09-03, 19:17:24](https://news.ycombinator.com/item?id=49555233) - [The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
 * [2026-09-03, 18:41:05](https://news.ycombinator.com/item?id=49554643) - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
 * [2026-09-03, 18:32:13](https://news.ycombinator.com/item?id=49554520) - [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
@@ -24,6 +26,7 @@
 * [2026-09-03, 15:07:01](https://news.ycombinator.com/item?id=49551096) - [Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?](https://news.ycombinator.com/item?id=49551096)
 * [2026-09-03, 14:54:39](https://news.ycombinator.com/item?id=49550772) - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
 * [2026-09-03, 14:51:10](https://news.ycombinator.com/item?id=49550698) - [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/)
+* [2026-09-03, 14:37:21](https://news.ycombinator.com/item?id=49550479) - [Show HN: I made a word building game supporting anagrams and one handed use](https://news.ycombinator.com/item?id=49550479)
 * [2026-09-03, 14:28:18](https://news.ycombinator.com/item?id=49550375) - [Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/)
 * [2026-09-03, 13:51:44](https://news.ycombinator.com/item?id=49549919) - [New York Times and The Athletic workers demand company scrap Kalshi deal](https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/)
 * [2026-09-03, 13:47:38](https://news.ycombinator.com/item?id=49549877) - [Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere](https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere)
