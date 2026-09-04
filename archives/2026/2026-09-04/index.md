@@ -4,11 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-09-04](index.md)
 
+* [2026-09-04, 15:33:45](https://news.ycombinator.com/item?id=49566137) - [Corporate America Is Getting Hooked on Open-Source A.I](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)
+* [2026-09-04, 15:03:03](https://news.ycombinator.com/item?id=49565693) - [Gmail to end support for \"Send as\" for third-party addresses, such as @yahoo.com](https://support.google.com/mail/answer/22370?hl=en)
+* [2026-09-04, 14:02:50](https://news.ycombinator.com/item?id=49564817) - [Higher social class predicts increased unethical behavior](https://www.pnas.org/doi/10.1073/pnas.1118373109)
+* [2026-09-04, 13:54:26](https://news.ycombinator.com/item?id=49564714) - [Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal](https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/)
+* [2026-09-04, 13:44:14](https://news.ycombinator.com/item?id=49564555) - [US Military disables ad trackers on troops' phones](https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers)
 * [2026-09-04, 12:50:29](https://news.ycombinator.com/item?id=49563851) - [IBM Bob](https://bob.ibm.com/)
 * [2026-09-04, 12:49:44](https://news.ycombinator.com/item?id=49563839) - [Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region](https://github.com/hawshemi/lg-c5-webos25-region-change)
 * [2026-09-04, 12:43:49](https://news.ycombinator.com/item?id=49563784) - [Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+](https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/)
 * [2026-09-04, 12:42:08](https://news.ycombinator.com/item?id=49563772) - [Ok, but Does It Scale?](https://spacetimedb.com/blog/how-does-spacetime-scale)
 * [2026-09-04, 12:01:07](https://news.ycombinator.com/item?id=49563415) - [SubImage (YC W25) Is Hiring a Founding Engineer in SF](https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer)
+* [2026-09-04, 11:59:15](https://news.ycombinator.com/item?id=49563386) - [Google AI Mode shows same products 21.6% more expensive than traditional search](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
 * [2026-09-04, 11:54:53](https://news.ycombinator.com/item?id=49563355) - [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
 * [2026-09-04, 10:56:07](https://news.ycombinator.com/item?id=49562895) - [O&O ShutUp10 – The antispy tool for Windows 10 and 11](https://www.oo-software.com/en/shutup10)
 * [2026-09-04, 10:17:01](https://news.ycombinator.com/item?id=49562657) - [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)

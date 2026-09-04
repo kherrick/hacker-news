@@ -19,6 +19,7 @@
 * [2026-09-01, 20:19:11](https://news.ycombinator.com/item?id=49527573) - [Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/)
 * [2026-09-01, 20:07:57](https://news.ycombinator.com/item?id=49527396) - [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)
 * [2026-09-01, 19:55:47](https://news.ycombinator.com/item?id=49527232) - [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html)
+* [2026-09-01, 19:48:37](https://news.ycombinator.com/item?id=49527123) - [Essential Resources for Getting Started with at Protocol](https://bnb.im/posts/atproto-essential-resources/)
 * [2026-09-01, 19:02:34](https://news.ycombinator.com/item?id=49526453) - [The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM)
 * [2026-09-01, 18:50:42](https://news.ycombinator.com/item?id=49526298) - [Xanadu was waiting for agents](https://zed.dev/blog/agentic-xanadu)
 * [2026-09-01, 18:44:28](https://news.ycombinator.com/item?id=49526210) - [Working to Make Python Lazy](https://iscinumpy.dev/post/flake8-lazy/)
