@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-04](index.md)
 
+* [2026-09-04, 22:03:16](https://news.ycombinator.com/item?id=49570772) - [Record-High 89% in U.S. Say Government Corruption Widespread](https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx)
+* [2026-09-04, 21:52:01](https://news.ycombinator.com/item?id=49570669) - [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+* [2026-09-04, 21:44:59](https://news.ycombinator.com/item?id=49570597) - [Icons as a Service](https://nravic.com/blog/images/)
+* [2026-09-04, 21:39:19](https://news.ycombinator.com/item?id=49570545) - [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
+* [2026-09-04, 21:16:16](https://news.ycombinator.com/item?id=49570328) - [Updates on HEIR, the Homomorphic Encryption Compiler Project](https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/)
+* [2026-09-04, 21:06:48](https://news.ycombinator.com/item?id=49570206) - [Without new landers or rovers, it's helicopters or bust for NASA's Mars program](https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/)
 * [2026-09-04, 20:34:49](https://news.ycombinator.com/item?id=49569896) - [Statichost.eu – 100% European static site hosting](https://www.statichost.eu/)
 * [2026-09-04, 20:16:22](https://news.ycombinator.com/item?id=49569702) - [How to Create a Tor Exit Node](https://madpsy.uk/how-to-create-a-tor-exit-node/)
 * [2026-09-04, 20:13:08](https://news.ycombinator.com/item?id=49569663) - [An open DNS recursive service for free security and high privacy](https://quad9.net/)

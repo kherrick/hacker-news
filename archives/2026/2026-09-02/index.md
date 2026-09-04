@@ -21,6 +21,7 @@
 * [2026-09-02, 19:41:01](https://news.ycombinator.com/item?id=49541331) - [The Post-AI Internet Doesn't Look Great](https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/)
 * [2026-09-02, 19:35:04](https://news.ycombinator.com/item?id=49541256) - [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
 * [2026-09-02, 19:25:47](https://news.ycombinator.com/item?id=49541149) - [Introducing Muse Spark 1.3](https://research.meta.ai/blog/introducing-muse-spark-1-3)
+* [2026-09-02, 19:16:16](https://news.ycombinator.com/item?id=49541025) - [Digital Sovereignty Is Written in PHP](https://thephp.foundation/blog/2026/09/02/digital-sovereignty-is-written-in-php/)
 * [2026-09-02, 19:02:49](https://news.ycombinator.com/item?id=49540827) - [Unified Arabic](https://worksthatwork.com/6/unified-arabic)
 * [2026-09-02, 18:43:30](https://news.ycombinator.com/item?id=49540574) - [Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form](https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/)
 * [2026-09-02, 18:42:41](https://news.ycombinator.com/item?id=49540565) - [The Qantas A380 engine disintegration in 2010](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)

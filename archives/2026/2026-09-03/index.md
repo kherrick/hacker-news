@@ -44,5 +44,6 @@
 * [2026-09-03, 08:31:22](https://news.ycombinator.com/item?id=49547415) - [People that worked on the same idea for decades](https://nityasnotes.com/writing/decades/)
 * [2026-09-03, 07:04:13](https://news.ycombinator.com/item?id=49546800) - [Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
 * [2026-09-03, 06:59:08](https://news.ycombinator.com/item?id=49546753) - [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
+* [2026-09-03, 05:35:31](https://news.ycombinator.com/item?id=49546284) - [RSA-260 Factorized](https://twitter.com/penlume/status/2095372672356212876)
 * [2026-09-03, 01:11:22](https://news.ycombinator.com/item?id=49544762) - [Go grandmaster Shin defeats AI KataGo with a two-stone handicap](https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007)
 * [2026-09-03, 00:49:07](https://news.ycombinator.com/item?id=49544618) - [GPS glitched across the US by as much as 33 feet](https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before)
