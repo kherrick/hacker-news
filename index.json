@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-04, 03:40:26",
+      "https://news.ycombinator.com/item?id=49560260"
+    ],
+    [
+      "Grep beats LSP? Why coding agents ignore your fancier tools",
+      "https://www.agentconnect.md/blog/grep-beat-lsp-harness/"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 02:54:16",
+      "https://news.ycombinator.com/item?id=49559992"
+    ],
+    [
+      "A Mysterious Kidney Disease Has Arrived in Texas",
+      "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 02:40:12",
+      "https://news.ycombinator.com/item?id=49559901"
+    ],
+    [
+      "From Hookswitch to Grave",
+      "https://computer.rip/2026-06-14-hookswitch-to-grave.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 01:45:23",
+      "https://news.ycombinator.com/item?id=49559522"
+    ],
+    [
+      "Project Xanadu: Even More Hindsight",
+      "https://gwern.net/xanadu"
+    ]
+  ],
+  [
+    [
       "2026-09-03, 22:37:31",
       "https://news.ycombinator.com/item?id=49558086"
     ],
@@ -37,16 +77,6 @@
     [
       "OpenAI's GPT-6 Astra on ARC-AGI-3",
       "https://arcprize.org/blog/astra"
-    ]
-  ],
-  [
-    [
-      "2026-09-03, 19:38:46",
-      "https://news.ycombinator.com/item?id=49555592"
-    ],
-    [
-      "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
-      "https://news.ycombinator.com/item?id=49555592"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2026-09-03, 15:07:01",
-      "https://news.ycombinator.com/item?id=49551096"
-    ],
-    [
-      "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-      "https://news.ycombinator.com/item?id=49551096"
-    ]
-  ],
-  [
-    [
       "2026-09-03, 14:54:39",
       "https://news.ycombinator.com/item?id=49550772"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-09-03, 14:37:21",
-      "https://news.ycombinator.com/item?id=49550479"
-    ],
-    [
-      "Show HN: I made a word building game supporting anagrams and one handed use",
-      "https://news.ycombinator.com/item?id=49550479"
-    ]
-  ],
-  [
-    [
       "2026-09-03, 14:28:18",
       "https://news.ycombinator.com/item?id=49550375"
     ],
@@ -161,22 +171,32 @@
   ],
   [
     [
+      "2026-09-03, 12:33:01",
+      "https://news.ycombinator.com/item?id=49549148"
+    ],
+    [
+      "Show HN: Reactor Atlas",
+      "https://reactoratlas.com"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 11:21:18",
+      "https://news.ycombinator.com/item?id=49548600"
+    ],
+    [
+      "Ask HN: Who is using MCP in production?",
+      "https://news.ycombinator.com/item?id=49548600"
+    ]
+  ],
+  [
+    [
       "2026-09-03, 11:01:04",
       "https://news.ycombinator.com/item?id=49548452"
     ],
     [
       "Google Antigravity TOS: 3rd party usage can get Google account suspended",
       "https://twitter.com/GergelyOrosz/status/2095453567955968398"
-    ]
-  ],
-  [
-    [
-      "2026-09-03, 10:53:08",
-      "https://news.ycombinator.com/item?id=49548395"
-    ],
-    [
-      "Audacity 4.0",
-      "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-09-02, 17:30:55",
-      "https://news.ycombinator.com/item?id=49539556"
-    ],
-    [
-      "Static Allocation, Constant Work",
-      "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 15:48:13",
       "https://news.ycombinator.com/item?id=49538069"
     ],
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2026-09-02, 11:06:05",
-      "https://news.ycombinator.com/item?id=49534573"
+      "2026-09-02, 01:50:11",
+      "https://news.ycombinator.com/item?id=49530807"
     ],
     [
-      "Dextroproporphan: An Analogue for a Better Dextromethorphan",
-      "https://monfak.top/blog/posts/dextroproporphan"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 06:39:23",
-      "https://news.ycombinator.com/item?id=49532544"
-    ],
-    [
-      "ITA Controlled English (CE)",
-      "https://github.com/ce-store/ce-store"
+      "New type of dice guarantees no tie when deciding who goes first",
+      "https://www.cbc.ca/lite/story/9.7328614"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-09-01, 18:44:28",
-      "https://news.ycombinator.com/item?id=49526210"
+      "2026-09-01, 14:36:58",
+      "https://news.ycombinator.com/item?id=49522611"
     ],
     [
-      "Working to Make Python Lazy",
-      "https://iscinumpy.dev/post/flake8-lazy/"
+      "Virtual Threads for a scripting language in Java 8 without Loom",
+      "https://jactl.io/blog/2026/08/28/jactl-virtual-threads"
     ]
   ],
   [
     [
-      "2026-08-31, 22:21:58",
-      "https://news.ycombinator.com/item?id=49515558"
+      "2026-08-31, 08:26:09",
+      "https://news.ycombinator.com/item?id=49507072"
     ],
     [
-      "How to get a free .arpa domain",
-      "https://hawksley.dev/blog/get-free-arpa-domain"
+      "How an MIT research project became the Julia programming language",
+      "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831"
     ]
   ]
 ]
