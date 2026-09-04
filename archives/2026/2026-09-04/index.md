@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-04](index.md)
 
+* [2026-09-04, 12:50:29](https://news.ycombinator.com/item?id=49563851) - [IBM Bob](https://bob.ibm.com/)
+* [2026-09-04, 12:49:44](https://news.ycombinator.com/item?id=49563839) - [Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region](https://github.com/hawshemi/lg-c5-webos25-region-change)
+* [2026-09-04, 12:43:49](https://news.ycombinator.com/item?id=49563784) - [Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+](https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/)
+* [2026-09-04, 12:42:08](https://news.ycombinator.com/item?id=49563772) - [Ok, but Does It Scale?](https://spacetimedb.com/blog/how-does-spacetime-scale)
+* [2026-09-04, 12:01:07](https://news.ycombinator.com/item?id=49563415) - [SubImage (YC W25) Is Hiring a Founding Engineer in SF](https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer)
+* [2026-09-04, 11:54:53](https://news.ycombinator.com/item?id=49563355) - [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+* [2026-09-04, 10:56:07](https://news.ycombinator.com/item?id=49562895) - [O&O ShutUp10 – The antispy tool for Windows 10 and 11](https://www.oo-software.com/en/shutup10)
+* [2026-09-04, 10:17:01](https://news.ycombinator.com/item?id=49562657) - [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)
 * [2026-09-04, 08:35:15](https://news.ycombinator.com/item?id=49562062) - [The Raspberry Pi Interactive Timeline · 2006–2026](https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline)
 * [2026-09-04, 08:19:57](https://news.ycombinator.com/item?id=49561975) - [Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/)
 * [2026-09-04, 06:47:51](https://news.ycombinator.com/item?id=49561320) - [Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/)
