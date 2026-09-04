@@ -44,6 +44,7 @@
 * [2026-09-01, 15:01:17](https://news.ycombinator.com/item?id=49522897) - [Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897)
 * [2026-09-01, 15:01:17](https://news.ycombinator.com/item?id=49522896) - [Ask HN: Who wants to be hired? (September 2026)](https://news.ycombinator.com/item?id=49522896)
 * [2026-09-01, 15:00:29](https://news.ycombinator.com/item?id=49522884) - [A Small Telescope That Surprised Me](https://adfr.io/thoughts/20260831_a_small_telescope_that_surprised_me/)
+* [2026-09-01, 14:36:58](https://news.ycombinator.com/item?id=49522611) - [Virtual Threads for a scripting language in Java 8 without Loom](https://jactl.io/blog/2026/08/28/jactl-virtual-threads)
 * [2026-09-01, 14:19:30](https://news.ycombinator.com/item?id=49522374) - [Saab Enters Collaborative Combat Aircraft Race with High-End Concept](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept)
 * [2026-09-01, 14:00:15](https://news.ycombinator.com/item?id=49522137) - [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/)
 * [2026-09-01, 13:46:49](https://news.ycombinator.com/item?id=49521973) - [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/)

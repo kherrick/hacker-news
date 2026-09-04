@@ -55,6 +55,7 @@
 * [2026-08-31, 09:56:23](https://news.ycombinator.com/item?id=49507807) - [Product Backlog Problems: Why Your Hierarchy Is Broken](https://www.prodpad.com/blog/backlog-hierarchy-problem/)
 * [2026-08-31, 08:57:35](https://news.ycombinator.com/item?id=49507280) - [State of the Map 2026: OpenStreetMap conference](https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/)
 * [2026-08-31, 08:33:01](https://news.ycombinator.com/item?id=49507121) - [Study: Blue light impairs the eye's ability to distinguish fine detail most](https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/)
+* [2026-08-31, 08:26:09](https://news.ycombinator.com/item?id=49507072) - [How an MIT research project became the Julia programming language](https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831)
 * [2026-08-31, 08:13:37](https://news.ycombinator.com/item?id=49506978) - [ReactOS 0.4.16](https://reactos.org/project-news/reactos-0416-released/)
 * [2026-08-31, 07:49:18](https://news.ycombinator.com/item?id=49506819) - [Breaking Claude Code Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/)
 * [2026-08-31, 07:23:47](https://news.ycombinator.com/item?id=49506655) - [Meta Security Researcher's AI Agent Accidentally Deleted Her Emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails)
