@@ -63,6 +63,7 @@
 * [2026-09-02, 12:35:20](https://news.ycombinator.com/item?id=49535324) - [Using jq to format JSON on the clipboard](https://chris48s.github.io/blogmarks/posts/2021/jsontidy/)
 * [2026-09-02, 12:30:39](https://news.ycombinator.com/item?id=49535284) - [Mistral now trains on user input by default, except on enterprise tier](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training)
 * [2026-09-02, 12:23:20](https://news.ycombinator.com/item?id=49535201) - [Check if a file was made with Claude](https://claude.com/check-content)
+* [2026-09-02, 12:05:05](https://news.ycombinator.com/item?id=49535024) - [Pointing at the error: compiler-style diagnostics in uutils coreutils](https://uutils.org/blog/2026-08-error-diagnostics/)
 * [2026-09-02, 11:54:14](https://news.ycombinator.com/item?id=49534936) - [The Two Abstractions of System Design: Hide or Reduce](http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html)
 * [2026-09-02, 11:52:48](https://news.ycombinator.com/item?id=49534921) - [Ending my elixir exploratory writing](https://lucassifoni.info/blog/the-end-of-this-elixir-log/)
 * [2026-09-02, 11:06:05](https://news.ycombinator.com/item?id=49534573) - [Dextroproporphan: An Analogue for a Better Dextromethorphan](https://monfak.top/blog/posts/dextroproporphan)

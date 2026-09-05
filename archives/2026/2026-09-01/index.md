@@ -75,6 +75,7 @@
 * [2026-09-01, 02:52:14](https://news.ycombinator.com/item?id=49517448) - [Fastpotify](https://fastpotify.rocks/)
 * [2026-09-01, 02:29:23](https://news.ycombinator.com/item?id=49517297) - [RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3](https://github.com/fregacmols/RotaryCell)
 * [2026-09-01, 01:49:58](https://news.ycombinator.com/item?id=49517018) - [Wendell Berry has died](https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html)
+* [2026-09-01, 01:42:30](https://news.ycombinator.com/item?id=49516962) - [Kale: A Transformation-Safe Spreadsheet System](https://arxiv.org/abs/2608.26345)
 * [2026-09-01, 01:25:40](https://news.ycombinator.com/item?id=49516848) - [DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs](https://www.dolthub.com/blog/2026-08-31-doltlite-beta/)
 * [2026-09-01, 01:01:08](https://news.ycombinator.com/item?id=49516699) - [2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
 * [2026-09-01, 00:59:37](https://news.ycombinator.com/item?id=49516691) - [Deadpan Photography: Enjoying the Pretence](https://photoni.st/index.php/2026/07/12/deadpan-photography-enjoying-the-pretence/)
