@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-09-05, 22:15:52",
+      "https://news.ycombinator.com/item?id=49581240"
+    ],
+    [
+      "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "https://github.com/okf-memory/okf-agent-memory"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 22:08:16",
+      "https://news.ycombinator.com/item?id=49581179"
+    ],
+    [
+      "Falsehoods Programmers Believe About LANs",
+      "https://dreamstation.systems/personal/lanfalsehoods.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 21:43:22",
+      "https://news.ycombinator.com/item?id=49580980"
+    ],
+    [
+      "America's Two Largest School Districts Impose AI Moratoriums",
+      "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 21:17:00",
+      "https://news.ycombinator.com/item?id=49580778"
+    ],
+    [
+      "South African diamond mines are closing due to weak sales and lab-grown stones",
+      "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 21:05:35",
+      "https://news.ycombinator.com/item?id=49580687"
+    ],
+    [
+      "How AI is breaking the British state",
+      "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state"
+    ]
+  ],
+  [
+    [
       "2026-09-05, 20:31:38",
       "https://news.ycombinator.com/item?id=49580369"
     ],
@@ -31,16 +81,6 @@
   ],
   [
     [
-      "2026-09-05, 20:14:25",
-      "https://news.ycombinator.com/item?id=49580248"
-    ],
-    [
-      "Space industry lacks workers needed to rebuild satellites lost in war: report",
-      "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/"
-    ]
-  ],
-  [
-    [
       "2026-09-05, 20:02:35",
       "https://news.ycombinator.com/item?id=49580164"
     ],
@@ -51,12 +91,12 @@
   ],
   [
     [
-      "2026-09-05, 17:46:16",
-      "https://news.ycombinator.com/item?id=49578866"
+      "2026-09-05, 19:41:27",
+      "https://news.ycombinator.com/item?id=49579956"
     ],
     [
-      "The Real Luxuries In Life",
-      "https://feld.com/archives/2026/09/the-real-luxuries-in-life/"
+      "ISAR Aerospace 5 Sept Mission Onward and Upward",
+      "https://isaraerospace.com/mission-updates-overview"
     ]
   ],
   [
@@ -131,26 +171,6 @@
   ],
   [
     [
-      "2026-09-05, 07:52:50",
-      "https://news.ycombinator.com/item?id=49574167"
-    ],
-    [
-      "AI handles incidents, engineers lose touch with their systems",
-      "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 06:31:49",
-      "https://news.ycombinator.com/item?id=49573680"
-    ],
-    [
-      "Git hosting that never leaves Europe",
-      "https://pushin.eu"
-    ]
-  ],
-  [
-    [
       "2026-09-05, 00:04:16",
       "https://news.ycombinator.com/item?id=49571634"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-09-04, 17:18:08",
-      "https://news.ycombinator.com/item?id=49567437"
-    ],
-    [
-      "Show HN: Open-Source eInk Bike Computer",
-      "https://opentrailpaper.com"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 11:54:53",
       "https://news.ycombinator.com/item?id=49563355"
     ],
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2026-09-03, 02:53:46",
-      "https://news.ycombinator.com/item?id=49545430"
-    ],
-    [
-      "Write Software in Latin (2025) [video]",
-      "https://www.youtube.com/watch?v=fGZpaqMha0o"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 18:19:53",
-      "https://news.ycombinator.com/item?id=49540253"
-    ],
-    [
-      "A Million Falcons Went Missing. Here’s How They Were Found",
-      "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 16:56:03",
       "https://news.ycombinator.com/item?id=49539110"
     ],
@@ -297,6 +287,16 @@
     [
       "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
       "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 07:31:38",
+      "https://news.ycombinator.com/item?id=49519101"
+    ],
+    [
+      "Show HN: Fly By – retro biplane flying game",
+      "https://michaelteter.com/flyby.html"
     ]
   ]
 ]
