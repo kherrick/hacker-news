@@ -29,6 +29,7 @@
 * [2026-09-01, 17:57:09](https://news.ycombinator.com/item?id=49525420) - [UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it](https://sariyuce.com/blog/2026/UEFA-Draw/)
 * [2026-09-01, 17:53:53](https://news.ycombinator.com/item?id=49525378) - [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
 * [2026-09-01, 17:46:21](https://news.ycombinator.com/item?id=49525297) - [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc)
+* [2026-09-01, 17:38:10](https://news.ycombinator.com/item?id=49525188) - [Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber](https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable)
 * [2026-09-01, 17:36:02](https://news.ycombinator.com/item?id=49525160) - [Atlas: A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas)
 * [2026-09-01, 17:35:10](https://news.ycombinator.com/item?id=49525153) - [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)
 * [2026-09-01, 17:12:15](https://news.ycombinator.com/item?id=49524863) - [Fine, I'll build my own text editor](https://dbushell.com/2026/09/01/text-editor/)
