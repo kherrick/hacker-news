@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-09-05, 16:48:13",
-      "https://news.ycombinator.com/item?id=49578310"
+      "2026-09-05, 17:46:16",
+      "https://news.ycombinator.com/item?id=49578866"
     ],
     [
-      "Flock used >100 times to track veteran who recorded traffic stop",
-      "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/"
+      "The Luxuries in Life",
+      "https://feld.com/archives/2026/09/the-real-luxuries-in-life/"
     ]
   ],
   [
     [
-      "2026-09-05, 16:30:35",
-      "https://news.ycombinator.com/item?id=49578136"
+      "2026-09-05, 16:45:02",
+      "https://news.ycombinator.com/item?id=49578280"
     ],
     [
-      "Bob and Van",
-      "https://marco.org/2026/09/04/bob-and-van"
+      "Learn Programming with OCaml",
+      "https://usr.lmf.cnrs.fr/lpo/"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
       "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 13:31:05",
+      "https://news.ycombinator.com/item?id=49576343"
+    ],
+    [
+      "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/"
     ]
   ],
   [
@@ -211,22 +221,22 @@
   ],
   [
     [
-      "2026-09-04, 12:50:29",
-      "https://news.ycombinator.com/item?id=49563851"
-    ],
-    [
-      "IBM Bob",
-      "https://bob.ibm.com/"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 11:54:53",
       "https://news.ycombinator.com/item?id=49563355"
     ],
     [
       "Discovery of a new OpenAI agent message board",
       "https://collusion.wiki/"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 16:24:13",
+      "https://news.ycombinator.com/item?id=49552615"
+    ],
+    [
+      "Steffen's Polyhedron – Greg Egan",
+      "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html"
     ]
   ],
   [
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2026-09-02, 16:56:03",
+      "https://news.ycombinator.com/item?id=49539110"
+    ],
+    [
+      "Delidded Intel I9-14900KS CT Scan",
+      "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks"
+    ]
+  ],
+  [
+    [
       "2026-09-02, 13:30:09",
       "https://news.ycombinator.com/item?id=49535940"
     ],
     [
       "Singapore subway (mrt) information display types",
       "https://www.sgtrains.com/technology-infosys.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 12:05:05",
-      "https://news.ycombinator.com/item?id=49535024"
-    ],
-    [
-      "Pointing at the error: compiler-style diagnostics in uutils coreutils",
-      "https://uutils.org/blog/2026-08-error-diagnostics/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
       "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 09:36:10",
-      "https://news.ycombinator.com/item?id=49519850"
-    ],
-    [
-      "Git Submodules as a Package Manager",
-      "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html"
     ]
   ]
 ]
