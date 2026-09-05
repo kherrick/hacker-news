@@ -1,11 +1,61 @@
 [
   [
     [
+      "2026-09-05, 20:31:38",
+      "https://news.ycombinator.com/item?id=49580369"
+    ],
+    [
+      "Private German rocket makes history, reaches orbit from European soil",
+      "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 20:25:59",
+      "https://news.ycombinator.com/item?id=49580329"
+    ],
+    [
+      "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+      "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 20:25:30",
+      "https://news.ycombinator.com/item?id=49580325"
+    ],
+    [
+      "Isar Aerospace launch into orbit [video]",
+      "https://www.youtube.com/watch?v=Ss1DUqLjecc"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 20:14:25",
+      "https://news.ycombinator.com/item?id=49580248"
+    ],
+    [
+      "Space industry lacks workers needed to rebuild satellites lost in war: report",
+      "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 20:02:35",
+      "https://news.ycombinator.com/item?id=49580164"
+    ],
+    [
+      "LLMs as a Cognitive Virus",
+      "https://arxiv.org/abs/2609.03344"
+    ]
+  ],
+  [
+    [
       "2026-09-05, 17:46:16",
       "https://news.ycombinator.com/item?id=49578866"
     ],
     [
-      "The Luxuries in Life",
+      "The Real Luxuries In Life",
       "https://feld.com/archives/2026/09/the-real-luxuries-in-life/"
     ]
   ],
@@ -21,42 +71,12 @@
   ],
   [
     [
-      "2026-09-05, 16:14:34",
-      "https://news.ycombinator.com/item?id=49577985"
-    ],
-    [
-      "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
-      "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods"
-    ]
-  ],
-  [
-    [
       "2026-09-05, 16:13:57",
       "https://news.ycombinator.com/item?id=49577975"
     ],
     [
       "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
       "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 14:40:52",
-      "https://news.ycombinator.com/item?id=49576986"
-    ],
-    [
-      "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
-      "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 14:02:44",
-      "https://news.ycombinator.com/item?id=49576611"
-    ],
-    [
-      "Meet the Ig Nobel Prize Winners",
-      "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/"
     ]
   ],
   [
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2026-09-04, 23:38:50",
-      "https://news.ycombinator.com/item?id=49571465"
-    ],
-    [
-      "Portal by Spotify cut my Claude Code token usage by 90%",
-      "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 21:52:01",
       "https://news.ycombinator.com/item?id=49570669"
     ],
     [
       "Actively exploited sandbox RCE in all Chromium versions",
       "https://nvd.nist.gov/vuln/detail/cve-2026-85046"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 21:39:19",
-      "https://news.ycombinator.com/item?id=49570545"
-    ],
-    [
-      "GPT-6 Astra on OpenRouter",
-      "https://openrouter.ai/openai/gpt-6-astra"
     ]
   ],
   [
@@ -187,16 +187,6 @@
     [
       "Can AI design circuit boards yet?",
       "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 18:50:28",
-      "https://news.ycombinator.com/item?id=49568579"
-    ],
-    [
-      "Shutting down our public encrypted DNS",
-      "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead"
     ]
   ],
   [
@@ -235,8 +225,28 @@
       "https://news.ycombinator.com/item?id=49552615"
     ],
     [
-      "Steffen's Polyhedron – Greg Egan",
+      "Steffen's Polyhedron",
       "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 13:37:22",
+      "https://news.ycombinator.com/item?id=49549778"
+    ],
+    [
+      "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
+      "https://github.com/iczelia/balrogg"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 11:59:17",
+      "https://news.ycombinator.com/item?id=49548852"
+    ],
+    [
+      "How Swiss tables work in Go built-in map",
+      "https://victoriametrics.com/blog/go-swiss-table-map/index.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Singapore subway (mrt) information display types",
       "https://www.sgtrains.com/technology-infosys.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 09:24:11",
-      "https://news.ycombinator.com/item?id=49533840"
-    ],
-    [
-      "Ask HN: Resources to get good at soldering?",
-      "https://news.ycombinator.com/item?id=49533840"
     ]
   ],
   [
