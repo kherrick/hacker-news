@@ -41,6 +41,7 @@
 * [2026-09-02, 15:25:55](https://news.ycombinator.com/item?id=49537738) - [SteamdDB Joins Nexus Mods](https://www.nexusmods.com/news/15597)
 * [2026-09-02, 15:18:59](https://news.ycombinator.com/item?id=49537632) - [The true horror of Edgar Allan Poe’s stories lies in their confessions](https://yalereview.org/article/emily-ogden-edgar-allan-poe)
 * [2026-09-02, 15:12:40](https://news.ycombinator.com/item?id=49537553) - [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+* [2026-09-02, 14:58:44](https://news.ycombinator.com/item?id=49537340) - [The Highest Point in the Netherlands](https://ipv6.hanazo.no/posts/anniversary-personal/)
 * [2026-09-02, 14:46:16](https://news.ycombinator.com/item?id=49537131) - [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
 * [2026-09-02, 14:16:45](https://news.ycombinator.com/item?id=49536606) - [Exit the Cave](https://turtlespace.blog/p/exit-the-cave)
 * [2026-09-02, 14:02:35](https://news.ycombinator.com/item?id=49536411) - [WebLLM: high-performance in-browser LLM inference engine](https://github.com/mlc-ai/web-llm)
