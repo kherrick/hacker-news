@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-09-05, 00:04:14",
+      "https://news.ycombinator.com/item?id=49571632"
+    ],
+    [
+      "Artificial Analysis Intelligence Index v4.2",
+      "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 00:03:08",
+      "https://news.ycombinator.com/item?id=49571627"
+    ],
+    [
+      "Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
+      "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 23:50:29",
+      "https://news.ycombinator.com/item?id=49571537"
+    ],
+    [
+      "Show HN: Moadim.io – A scheduler for agents",
+      "https://moadim.io/"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 23:38:50",
+      "https://news.ycombinator.com/item?id=49571465"
+    ],
+    [
+      "Portal by Spotify cut my Claude Code token usage by 90%",
+      "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 23:09:59",
+      "https://news.ycombinator.com/item?id=49571263"
+    ],
+    [
+      "Connecting every app to every other app",
+      "https://blog.val.town/connectors"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 23:09:18",
+      "https://news.ycombinator.com/item?id=49571255"
+    ],
+    [
+      "Gimlet's Series B",
+      "https://gimletlabs.ai/blog/announcing-series-b"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 22:40:30",
+      "https://news.ycombinator.com/item?id=49571047"
+    ],
+    [
+      "Can guitar frets perform multiplication?",
+      "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html"
+    ]
+  ],
+  [
+    [
       "2026-09-04, 22:03:16",
       "https://news.ycombinator.com/item?id=49570772"
     ],
@@ -51,16 +121,6 @@
   ],
   [
     [
-      "2026-09-04, 21:06:48",
-      "https://news.ycombinator.com/item?id=49570206"
-    ],
-    [
-      "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
-      "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 20:34:49",
       "https://news.ycombinator.com/item?id=49569896"
     ],
@@ -75,7 +135,7 @@
       "https://news.ycombinator.com/item?id=49569702"
     ],
     [
-      "How to Create a Tor Exit Node",
+      "How to Create a Tor Exit Node (2015)",
       "https://madpsy.uk/how-to-create-a-tor-exit-node/"
     ]
   ],
@@ -165,28 +225,8 @@
       "https://news.ycombinator.com/item?id=49567310"
     ],
     [
-      "\"Next-token predictor\" is the wrong mental model for LLMs",
+      "“Next-token predictor” is the wrong mental model for LLMs",
       "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 16:46:59",
-      "https://news.ycombinator.com/item?id=49567053"
-    ],
-    [
-      "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-      "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 16:24:50",
-      "https://news.ycombinator.com/item?id=49566788"
-    ],
-    [
-      "Project HydraFusion: Frontier quality via multi-model orchestration",
-      "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/"
     ]
   ],
   [
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2026-09-04, 12:01:07",
-      "https://news.ycombinator.com/item?id=49563415"
-    ],
-    [
-      "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
-      "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 11:54:53",
       "https://news.ycombinator.com/item?id=49563355"
     ],
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2026-09-04, 09:03:00",
-      "https://news.ycombinator.com/item?id=49562219"
-    ],
-    [
-      "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-      "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md"
-    ]
-  ],
-  [
-    [
       "2026-09-03, 05:35:31",
       "https://news.ycombinator.com/item?id=49546284"
     ],
@@ -261,42 +281,22 @@
   ],
   [
     [
-      "2026-09-02, 19:16:16",
-      "https://news.ycombinator.com/item?id=49541025"
+      "2026-09-01, 22:33:15",
+      "https://news.ycombinator.com/item?id=49529161"
     ],
     [
-      "Digital Sovereignty Is Written in PHP",
-      "https://thephp.foundation/blog/2026/09/02/digital-sovereignty-is-written-in-php/"
+      "Decompiler Explorer",
+      "https://dogbolt.org"
     ]
   ],
   [
     [
-      "2026-09-02, 09:48:48",
-      "https://news.ycombinator.com/item?id=49534025"
+      "2026-09-01, 13:19:48",
+      "https://news.ycombinator.com/item?id=49521631"
     ],
     [
-      "Fomu An FPGA board that fits inside your USB port",
-      "https://www.crowdsupply.com/sutajio-kosagi/fomu"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 00:59:37",
-      "https://news.ycombinator.com/item?id=49516691"
-    ],
-    [
-      "Deadpan Photography: Enjoying the Pretence",
-      "https://photoni.st/index.php/2026/07/12/deadpan-photography-enjoying-the-pretence/"
-    ]
-  ],
-  [
-    [
-      "2026-08-31, 18:10:01",
-      "https://news.ycombinator.com/item?id=49512834"
-    ],
-    [
-      "The Wormhole Hall of Shame",
-      "https://rznicolet.com/2026/07/05/wormhole-hall-of-shame/"
+      "ExactTex. A gradually-typed superset of LaTeX",
+      "https://github.com/camilochs/exacttex"
     ]
   ]
 ]
