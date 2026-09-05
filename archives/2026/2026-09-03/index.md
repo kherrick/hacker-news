@@ -19,6 +19,7 @@
 * [2026-09-03, 17:00:16](https://news.ycombinator.com/item?id=49553173) - [Founding Creative Engineer – Gooseworks (YC W23) Is Hiring](https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer)
 * [2026-09-03, 16:24:13](https://news.ycombinator.com/item?id=49552616) - [Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents](https://www.mireye.com)
 * [2026-09-03, 16:24:13](https://news.ycombinator.com/item?id=49552616) - [Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents](https://news.ycombinator.com/item?id=49552616)
+* [2026-09-03, 16:24:13](https://news.ycombinator.com/item?id=49552615) - [Steffen's Polyhedron – Greg Egan](https://www.gregegan.net/SCIENCE/Steffen/Steffen.html)
 * [2026-09-03, 16:21:33](https://news.ycombinator.com/item?id=49552572) - [Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%](https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california)
 * [2026-09-03, 16:10:12](https://news.ycombinator.com/item?id=49552375) - [Texas Data Center Map: See where data centers are operating or planned](https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/)
 * [2026-09-03, 15:51:53](https://news.ycombinator.com/item?id=49552055) - [VC isn't VC anymore – understanding the rise of Cancer Capital](https://www.anildash.com/2026/09/02/cancer-capital/)

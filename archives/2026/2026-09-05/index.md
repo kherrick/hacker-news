@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-09-05](index.md)
 
+* [2026-09-05, 17:46:16](https://news.ycombinator.com/item?id=49578866) - [The Luxuries in Life](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
 * [2026-09-05, 16:48:13](https://news.ycombinator.com/item?id=49578310) - [Flock used >100 times to track veteran who recorded traffic stop](https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/)
+* [2026-09-05, 16:45:02](https://news.ycombinator.com/item?id=49578280) - [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/)
 * [2026-09-05, 16:30:35](https://news.ycombinator.com/item?id=49578136) - [Bob and Van](https://marco.org/2026/09/04/bob-and-van)
 * [2026-09-05, 16:14:34](https://news.ycombinator.com/item?id=49577985) - [How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
 * [2026-09-05, 16:13:57](https://news.ycombinator.com/item?id=49577975) - [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
 * [2026-09-05, 14:40:52](https://news.ycombinator.com/item?id=49576986) - [How the Disaster of \"Forever Chemicals\" Was Kept Secret](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen)
 * [2026-09-05, 14:02:44](https://news.ycombinator.com/item?id=49576611) - [Meet the Ig Nobel Prize Winners](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/)
 * [2026-09-05, 13:36:38](https://news.ycombinator.com/item?id=49576386) - [The \"$60 Gaming PC\" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
+* [2026-09-05, 13:31:05](https://news.ycombinator.com/item?id=49576343) - [Visualizing Rust's Vtables: How dyn Trait Works In Memory](https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/)
 * [2026-09-05, 13:19:42](https://news.ycombinator.com/item?id=49576258) - [.gitignore Everything by Default](https://packagemain.tech/p/gitignore-everything-by-default)
 * [2026-09-05, 12:23:51](https://news.ycombinator.com/item?id=49575859) - [A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads](https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/)
 * [2026-09-05, 10:33:01](https://news.ycombinator.com/item?id=49575150) - [Terpstra Keyboard](http://terpstrakeyboard.com/)

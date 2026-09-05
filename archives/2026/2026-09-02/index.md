@@ -32,6 +32,7 @@
 * [2026-09-02, 17:30:55](https://news.ycombinator.com/item?id=49539556) - [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html)
 * [2026-09-02, 17:18:39](https://news.ycombinator.com/item?id=49539389) - [Paint.net 5.2 alpha now runs on Linux](https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/)
 * [2026-09-02, 17:04:58](https://news.ycombinator.com/item?id=49539233) - [ChatGPT ad targeting is garbage](https://successfulsoftware.net/2026/09/02/chatgpt-ad-targeting-is-garbage/)
+* [2026-09-02, 16:56:03](https://news.ycombinator.com/item?id=49539110) - [Delidded Intel I9-14900KS CT Scan](https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks)
 * [2026-09-02, 16:52:20](https://news.ycombinator.com/item?id=49539064) - [How Railroad Crossings Work](https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work)
 * [2026-09-02, 16:49:29](https://news.ycombinator.com/item?id=49539024) - [Tangle – Visual ML Pipeline Editor](https://tangleml.com/)
 * [2026-09-02, 16:33:07](https://news.ycombinator.com/item?id=49538745) - [How to debloat your Xiaomi 15 Ultra without root access](https://trackerninja.codeberg.page/post/how-to-debloat-your-xiaomi-15-ultra-without-rooting-and-connecting-it-to-the-computer/)
