@@ -67,6 +67,7 @@
 * [2026-09-01, 09:52:45](https://news.ycombinator.com/item?id=49519939) - [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
 * [2026-09-01, 09:36:10](https://news.ycombinator.com/item?id=49519850) - [Git Submodules as a Package Manager](https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html)
 * [2026-09-01, 09:27:19](https://news.ycombinator.com/item?id=49519792) - [Higher Multipoles of the Cow](https://arxiv.org/abs/2504.00506)
+* [2026-09-01, 07:31:38](https://news.ycombinator.com/item?id=49519101) - [Show HN: Fly By – retro biplane flying game](https://michaelteter.com/flyby.html)
 * [2026-09-01, 07:01:49](https://news.ycombinator.com/item?id=49518877) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer)
 * [2026-09-01, 04:29:03](https://news.ycombinator.com/item?id=49517958) - [Why is Arrays.fill 265 times slower on G1GC?](https://krzysztofslusarski.github.io/2026/08/19/g1barrier.html)
 * [2026-09-01, 03:23:48](https://news.ycombinator.com/item?id=49517624) - [Restroom Archive](https://restroomarchive.com)

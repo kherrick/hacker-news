@@ -4,11 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-09-05](index.md)
 
+* [2026-09-05, 22:15:52](https://news.ycombinator.com/item?id=49581240) - [OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory)
+* [2026-09-05, 22:08:16](https://news.ycombinator.com/item?id=49581179) - [Falsehoods Programmers Believe About LANs](https://dreamstation.systems/personal/lanfalsehoods.html)
+* [2026-09-05, 21:43:22](https://news.ycombinator.com/item?id=49580980) - [America's Two Largest School Districts Impose AI Moratoriums](https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/)
+* [2026-09-05, 21:17:00](https://news.ycombinator.com/item?id=49580778) - [South African diamond mines are closing due to weak sales and lab-grown stones](https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf)
+* [2026-09-05, 21:05:35](https://news.ycombinator.com/item?id=49580687) - [How AI is breaking the British state](https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state)
 * [2026-09-05, 20:31:38](https://news.ycombinator.com/item?id=49580369) - [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
 * [2026-09-05, 20:25:59](https://news.ycombinator.com/item?id=49580329) - [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)
 * [2026-09-05, 20:25:30](https://news.ycombinator.com/item?id=49580325) - [Isar Aerospace launch into orbit [video]](https://www.youtube.com/watch?v=Ss1DUqLjecc)
 * [2026-09-05, 20:14:25](https://news.ycombinator.com/item?id=49580248) - [Space industry lacks workers needed to rebuild satellites lost in war: report](https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/)
 * [2026-09-05, 20:02:35](https://news.ycombinator.com/item?id=49580164) - [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
+* [2026-09-05, 19:41:27](https://news.ycombinator.com/item?id=49579956) - [ISAR Aerospace 5 Sept Mission Onward and Upward](https://isaraerospace.com/mission-updates-overview)
 * [2026-09-05, 17:46:16](https://news.ycombinator.com/item?id=49578866) - [The Luxuries in Life](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
 * [2026-09-05, 16:48:13](https://news.ycombinator.com/item?id=49578310) - [Flock used >100 times to track veteran who recorded traffic stop](https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/)
 * [2026-09-05, 16:45:02](https://news.ycombinator.com/item?id=49578280) - [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/)
