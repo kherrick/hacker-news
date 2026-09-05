@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-04](index.md)
 
+* [2026-09-04, 23:50:29](https://news.ycombinator.com/item?id=49571537) - [Show HN: Moadim.io – A scheduler for agents](https://moadim.io/)
+* [2026-09-04, 23:38:50](https://news.ycombinator.com/item?id=49571465) - [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)
+* [2026-09-04, 23:09:59](https://news.ycombinator.com/item?id=49571263) - [Connecting every app to every other app](https://blog.val.town/connectors)
+* [2026-09-04, 23:09:18](https://news.ycombinator.com/item?id=49571255) - [Gimlet's Series B](https://gimletlabs.ai/blog/announcing-series-b)
+* [2026-09-04, 22:40:30](https://news.ycombinator.com/item?id=49571047) - [Can guitar frets perform multiplication?](https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html)
 * [2026-09-04, 22:03:16](https://news.ycombinator.com/item?id=49570772) - [Record-High 89% in U.S. Say Government Corruption Widespread](https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx)
 * [2026-09-04, 21:52:01](https://news.ycombinator.com/item?id=49570669) - [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
 * [2026-09-04, 21:44:59](https://news.ycombinator.com/item?id=49570597) - [Icons as a Service](https://nravic.com/blog/images/)
