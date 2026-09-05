@@ -1,32 +1,32 @@
 [
   [
     [
+      "2026-09-05, 03:38:56",
+      "https://news.ycombinator.com/item?id=49572875"
+    ],
+    [
+      "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 00:04:16",
+      "https://news.ycombinator.com/item?id=49571634"
+    ],
+    [
+      "Nitter has more working instances than before the takedowns",
+      "https://codeberg.org/mv12star/shitter/wiki/Instances"
+    ]
+  ],
+  [
+    [
       "2026-09-05, 00:04:14",
       "https://news.ycombinator.com/item?id=49571632"
     ],
     [
       "Artificial Analysis Intelligence Index v4.2",
       "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 00:03:08",
-      "https://news.ycombinator.com/item?id=49571627"
-    ],
-    [
-      "Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
-      "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 23:50:29",
-      "https://news.ycombinator.com/item?id=49571537"
-    ],
-    [
-      "Show HN: Moadim.io – A scheduler for agents",
-      "https://moadim.io/"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Connecting every app to every other app",
       "https://blog.val.town/connectors"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 23:09:18",
-      "https://news.ycombinator.com/item?id=49571255"
-    ],
-    [
-      "Gimlet's Series B",
-      "https://gimletlabs.ai/blog/announcing-series-b"
     ]
   ],
   [
@@ -111,32 +101,12 @@
   ],
   [
     [
-      "2026-09-04, 21:16:16",
-      "https://news.ycombinator.com/item?id=49570328"
-    ],
-    [
-      "Updates on HEIR, the Homomorphic Encryption Compiler Project",
-      "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 20:34:49",
       "https://news.ycombinator.com/item?id=49569896"
     ],
     [
       "Statichost.eu – European static site hosting",
       "https://www.statichost.eu/"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 20:16:22",
-      "https://news.ycombinator.com/item?id=49569702"
-    ],
-    [
-      "How to Create a Tor Exit Node (2015)",
-      "https://madpsy.uk/how-to-create-a-tor-exit-node/"
     ]
   ],
   [
@@ -221,16 +191,6 @@
   ],
   [
     [
-      "2026-09-04, 17:09:24",
-      "https://news.ycombinator.com/item?id=49567310"
-    ],
-    [
-      "“Next-token predictor” is the wrong mental model for LLMs",
-      "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 15:38:58",
       "https://news.ycombinator.com/item?id=49566193"
     ],
@@ -261,12 +221,12 @@
   ],
   [
     [
-      "2026-09-04, 10:17:01",
-      "https://news.ycombinator.com/item?id=49562657"
+      "2026-09-04, 09:03:00",
+      "https://news.ycombinator.com/item?id=49562219"
     ],
     [
-      "Solving the Jane Street reverse engineering challenge",
-      "https://jestoph.com/2026/09/04/jane-street-challenge.html"
+      "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md"
     ]
   ],
   [
@@ -281,6 +241,26 @@
   ],
   [
     [
+      "2026-09-02, 14:58:44",
+      "https://news.ycombinator.com/item?id=49537340"
+    ],
+    [
+      "The Highest Point in the Netherlands",
+      "https://ipv6.hanazo.no/posts/anniversary-personal/"
+    ]
+  ],
+  [
+    [
+      "2026-09-02, 09:24:11",
+      "https://news.ycombinator.com/item?id=49533840"
+    ],
+    [
+      "Ask HN: Resources to get good at soldering?",
+      "https://news.ycombinator.com/item?id=49533840"
+    ]
+  ],
+  [
+    [
       "2026-09-01, 22:33:15",
       "https://news.ycombinator.com/item?id=49529161"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2026-09-01, 14:05:19",
+      "https://news.ycombinator.com/item?id=49522194"
+    ],
+    [
+      "Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain",
+      "https://onlinelibrary.wiley.com/doi/10.1111/pala.70064"
+    ]
+  ],
+  [
+    [
       "2026-09-01, 13:19:48",
       "https://news.ycombinator.com/item?id=49521631"
     ],
     [
       "ExactTex. A gradually-typed superset of LaTeX",
       "https://github.com/camilochs/exacttex"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 09:36:10",
+      "https://news.ycombinator.com/item?id=49519850"
+    ],
+    [
+      "Git Submodules as a Package Manager",
+      "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html"
     ]
   ]
 ]
