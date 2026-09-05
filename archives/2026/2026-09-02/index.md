@@ -10,6 +10,7 @@
 * [2026-09-02, 22:36:04](https://news.ycombinator.com/item?id=49543530) - [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
 * [2026-09-02, 22:05:39](https://news.ycombinator.com/item?id=49543220) - [VC isn't VC anymore](https://www.anildash.com/2026/09/02/cancer-capital/)
 * [2026-09-02, 22:02:30](https://news.ycombinator.com/item?id=49543191) - [Reasons robotics is hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
+* [2026-09-02, 21:53:23](https://news.ycombinator.com/item?id=49543082) - [Pushdown automata in statistical machine translation (2014)](https://dl.acm.org/doi/abs/10.1162/coli_a_00197)
 * [2026-09-02, 21:46:33](https://news.ycombinator.com/item?id=49543007) - [Uber shuts operations in Nigeria and Uganda with immediate effect](https://www.bbc.com/news/articles/c86xpv8l9y9o)
 * [2026-09-02, 21:00:04](https://news.ycombinator.com/item?id=49542486) - [Nango (YC W23) is hiring across eng, product and GTM (SF and remote)](https://nango.dev/careers)
 * [2026-09-02, 20:57:04](https://news.ycombinator.com/item?id=49542443) - [Mamdani Bans AI in NYC Schools](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
