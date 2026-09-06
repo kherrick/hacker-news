@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-09-06, 21:16:10",
+      "https://news.ycombinator.com/item?id=49591036"
+    ],
+    [
+      "Windows 11's \"special\" developer edition looks like another marketing misfire",
+      "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 20:45:13",
+      "https://news.ycombinator.com/item?id=49590738"
+    ],
+    [
+      "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "https://github.com/marsbos/mador"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 20:32:38",
+      "https://news.ycombinator.com/item?id=49590611"
+    ],
+    [
+      "It took a year to ship WebAssembly in Anubis",
+      "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 20:31:20",
+      "https://news.ycombinator.com/item?id=49590595"
+    ],
+    [
+      "Harnessing the Universal Geometry of Embeddings",
+      "https://arxiv.org/abs/2505.12540"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 20:24:00",
+      "https://news.ycombinator.com/item?id=49590512"
+    ],
+    [
+      "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "https://grapheneos.social/@GrapheneOS/117225539756835649"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 20:07:30",
+      "https://news.ycombinator.com/item?id=49590354"
+    ],
+    [
+      "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+      "https://getvodforge.com/"
+    ]
+  ],
+  [
+    [
       "2026-09-06, 19:53:23",
       "https://news.ycombinator.com/item?id=49590225"
     ],
@@ -11,31 +71,11 @@
   ],
   [
     [
-      "2026-09-06, 19:06:54",
-      "https://news.ycombinator.com/item?id=49589730"
-    ],
-    [
-      "Ask HN: UK Rescue Rocket Sheds/Houses Information",
-      "https://news.ycombinator.com/item?id=49589730"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 17:51:23",
-      "https://news.ycombinator.com/item?id=49589003"
-    ],
-    [
-      "Following legal advice, the Nitter project will continue",
-      "https://github.com/zedeus/nitter"
-    ]
-  ],
-  [
-    [
       "2026-09-06, 17:49:47",
       "https://news.ycombinator.com/item?id=49588988"
     ],
     [
-      "Nitter is unarchived and will continue",
+      "Nitter and XCancel resume service after legal advice",
       "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
     ]
   ],
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2026-09-06, 14:52:07",
-      "https://news.ycombinator.com/item?id=49587040"
-    ],
-    [
-      "Recreating Minecraft Is Not a Benchmark",
-      "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark"
-    ]
-  ],
-  [
-    [
       "2026-09-06, 14:34:34",
       "https://news.ycombinator.com/item?id=49586898"
     ],
@@ -115,18 +145,18 @@
       "https://news.ycombinator.com/item?id=49586698"
     ],
     [
-      "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-      "https://www.phoronix.com/news/Asahi-Linux-Official-M3"
+      "Asahi Linux on M3",
+      "https://asahilinux.org/2026/09/m2-episode-1/"
     ]
   ],
   [
     [
-      "2026-09-06, 13:38:07",
-      "https://news.ycombinator.com/item?id=49586435"
+      "2026-09-06, 13:07:52",
+      "https://news.ycombinator.com/item?id=49586207"
     ],
     [
-      "The many mysteries and lessons of the Bayeux tapestry",
-      "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry"
+      "Icy Moons Are Ocean Worlds",
+      "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds"
     ]
   ],
   [
@@ -181,42 +211,12 @@
   ],
   [
     [
-      "2026-09-06, 00:03:29",
-      "https://news.ycombinator.com/item?id=49582000"
+      "2026-09-04, 07:17:00",
+      "https://news.ycombinator.com/item?id=49561514"
     ],
     [
-      "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "https://cloudinabottle.org/blog/launch-post"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 21:37:49",
-      "https://news.ycombinator.com/item?id=49580939"
-    ],
-    [
-      "The revolt of the reader",
-      "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 20:33:29",
-      "https://news.ycombinator.com/item?id=49580389"
-    ],
-    [
-      "Ganon's Mysterious Origins (Revisited)",
-      "https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 20:42:46",
-      "https://news.ycombinator.com/item?id=49569983"
-    ],
-    [
-      "Household Laser Cuts",
-      "https://cceckman.com/writing/household-laser-cuts/"
+      "Reverse engineering the storage format for an undocumented database",
+      "https://blog.glazer.ee/posts/converting-cronos/"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-09-02, 18:47:55",
+      "https://news.ycombinator.com/item?id=49540637"
+    ],
+    [
+      "Black Hole of Los Alamos Seller of surplus nuclear research materials (2011)",
+      "https://www.atlasobscura.com/places/black-hole-of-los-alamos"
+    ]
+  ],
+  [
+    [
       "2026-09-02, 18:06:56",
       "https://news.ycombinator.com/item?id=49540090"
     ],
@@ -287,16 +297,6 @@
     [
       "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
       "https://en.wikipedia.org/wiki/M-DISC"
-    ]
-  ],
-  [
-    [
-      "2026-09-01, 22:54:15",
-      "https://news.ycombinator.com/item?id=49529398"
-    ],
-    [
-      "The ColorChecker, photography's most important 24 squares, turns 50",
-      "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/"
     ]
   ]
 ]
