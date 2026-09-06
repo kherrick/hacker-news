@@ -62,6 +62,7 @@
 * [2026-09-02, 13:22:29](https://news.ycombinator.com/item?id=49535835) - [Just Bury Your Trash](https://www.worksinprogress.news/p/just-bury-your-trash)
 * [2026-09-02, 13:17:12](https://news.ycombinator.com/item?id=49535752) - [A Note from LWN](https://lwn.net/Articles/1090585/)
 * [2026-09-02, 13:14:57](https://news.ycombinator.com/item?id=49535721) - [A Beginner's Deep Dive Guide to Entra Passkeys](https://emsroute.com/2026/03/19/passkeys-beginners-101/)
+* [2026-09-02, 13:08:03](https://news.ycombinator.com/item?id=49535634) - [Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark](https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html)
 * [2026-09-02, 13:03:50](https://news.ycombinator.com/item?id=49535586) - [LLMs: Intelligence vs. Cost](https://openteams.com/intelligence-vs-cost/)
 * [2026-09-02, 13:03:01](https://news.ycombinator.com/item?id=49535583) - [The Cables That Connect the World](https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/)
 * [2026-09-02, 12:59:09](https://news.ycombinator.com/item?id=49535548) - [Aging Brains Blend Memories Together Instead of Just Forgetting Them](https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/)

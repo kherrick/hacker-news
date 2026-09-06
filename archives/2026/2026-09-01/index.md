@@ -55,6 +55,7 @@
 * [2026-09-01, 14:18:54](https://news.ycombinator.com/item?id=49522367) - [Authorization terminology is a mess: Let's fix it](https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/)
 * [2026-09-01, 14:05:19](https://news.ycombinator.com/item?id=49522194) - [Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain](https://onlinelibrary.wiley.com/doi/10.1111/pala.70064)
 * [2026-09-01, 14:00:15](https://news.ycombinator.com/item?id=49522137) - [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/)
+* [2026-09-01, 13:54:42](https://news.ycombinator.com/item?id=49522072) - [A Computer History Time Capsule](https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/)
 * [2026-09-01, 13:46:49](https://news.ycombinator.com/item?id=49521973) - [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/)
 * [2026-09-01, 13:43:14](https://news.ycombinator.com/item?id=49521933) - [A thousand years older than Stonehenge: Archaeologists explore a Czech sanctuary](https://info.zcu.cz/clanek.jsp?id=9882&lang=en)
 * [2026-09-01, 13:41:11](https://news.ycombinator.com/item?id=49521909) - [We could save petabytes of cache storage with Zstandard and Pingora](https://blog.cloudflare.com/cache-transcoding/)
