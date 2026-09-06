@@ -47,6 +47,7 @@
 * [2026-09-01, 15:41:03](https://news.ycombinator.com/item?id=49523473) - [Keenable SELECT: an agent that searches the web in SQL](https://keenableai.github.io/select-showcase/)
 * [2026-09-01, 15:35:11](https://news.ycombinator.com/item?id=49523387) - [Ambient CSS v3 – Blender meets CSS](https://ambientcss.vercel.app/)
 * [2026-09-01, 15:33:13](https://news.ycombinator.com/item?id=49523361) - [A browser-based viewer for Office Open XML documents](https://ooxml.silurus.dev/)
+* [2026-09-01, 15:03:36](https://news.ycombinator.com/item?id=49522942) - [Fileregister: Tagging and reference layer for your files, in plain text](https://github.com/rhsev/fileregister)
 * [2026-09-01, 15:01:17](https://news.ycombinator.com/item?id=49522897) - [Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897)
 * [2026-09-01, 15:01:17](https://news.ycombinator.com/item?id=49522896) - [Ask HN: Who wants to be hired? (September 2026)](https://news.ycombinator.com/item?id=49522896)
 * [2026-09-01, 15:00:29](https://news.ycombinator.com/item?id=49522884) - [A Small Telescope That Surprised Me](https://adfr.io/thoughts/20260831_a_small_telescope_that_surprised_me/)

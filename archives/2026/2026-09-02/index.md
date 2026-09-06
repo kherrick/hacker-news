@@ -14,6 +14,7 @@
 * [2026-09-02, 21:53:23](https://news.ycombinator.com/item?id=49543082) - [Pushdown automata in statistical machine translation (2014)](https://dl.acm.org/doi/abs/10.1162/coli_a_00197)
 * [2026-09-02, 21:46:33](https://news.ycombinator.com/item?id=49543007) - [Uber shuts operations in Nigeria and Uganda with immediate effect](https://www.bbc.com/news/articles/c86xpv8l9y9o)
 * [2026-09-02, 21:00:04](https://news.ycombinator.com/item?id=49542486) - [Nango (YC W23) is hiring across eng, product and GTM (SF and remote)](https://nango.dev/careers)
+* [2026-09-02, 20:58:45](https://news.ycombinator.com/item?id=49542471) - [Is There I/O After Death? What Happens to Io_uring When a Process Dies](https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub)
 * [2026-09-02, 20:57:04](https://news.ycombinator.com/item?id=49542443) - [Mamdani Bans AI in NYC Schools](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
 * [2026-09-02, 20:34:24](https://news.ycombinator.com/item?id=49542123) - [Vidact – a compiler that turns React into direct DOM operations](https://www.vidact.dev/)
 * [2026-09-02, 20:19:13](https://news.ycombinator.com/item?id=49541888) - [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers)

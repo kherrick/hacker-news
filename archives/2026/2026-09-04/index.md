@@ -55,3 +55,4 @@
 * [2026-09-04, 02:54:16](https://news.ycombinator.com/item?id=49559992) - [A Mysterious Kidney Disease Has Arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
 * [2026-09-04, 02:40:12](https://news.ycombinator.com/item?id=49559901) - [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
 * [2026-09-04, 01:45:23](https://news.ycombinator.com/item?id=49559522) - [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)
+* [2026-09-04, 01:33:35](https://news.ycombinator.com/item?id=49559451) - [What is Nueralese and Why is it Bad](https://www.lesswrong.com/posts/RCYF2rW8wgusidZk7/what-is-neuralese-and-why-is-it-bad)

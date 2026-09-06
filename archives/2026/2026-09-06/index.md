@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-09-06](index.md)
 
+* [2026-09-06, 16:02:37](https://news.ycombinator.com/item?id=49587833) - [Cultivating Trust](https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/)
+* [2026-09-06, 15:14:06](https://news.ycombinator.com/item?id=49587285) - [Alberta (Canada) slaps punitive tax on solar panels](https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/)
+* [2026-09-06, 15:00:19](https://news.ycombinator.com/item?id=49587128) - [I Feel about AI](https://beza1e1.tuxen.de/ai_feelings.html)
+* [2026-09-06, 14:34:46](https://news.ycombinator.com/item?id=49586902) - [Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS](https://github.com/scastiel/kado)
+* [2026-09-06, 14:34:34](https://news.ycombinator.com/item?id=49586898) - [A/I shuts down – Stay human](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
+* [2026-09-06, 14:08:59](https://news.ycombinator.com/item?id=49586698) - [Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats](https://www.phoronix.com/news/Asahi-Linux-Official-M3)
+* [2026-09-06, 13:38:07](https://news.ycombinator.com/item?id=49586435) - [The many mysteries and lessons of the Bayeux tapestry](https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry)
+* [2026-09-06, 13:02:41](https://news.ycombinator.com/item?id=49586171) - [QBittorrent breaks out of sandbox to commit crimes](https://beige.party/@intransitivelie/117057396732763183)
+* [2026-09-06, 13:00:34](https://news.ycombinator.com/item?id=49586151) - [I'm teaching an introductory 12 week course on Quantum Oracle Engineering](https://shukla.io/quantum-oracle-engineering/)
 * [2026-09-06, 12:58:54](https://news.ycombinator.com/item?id=49586139) - [Schemy Lisp En DOS](https://sled.neocities.org/)
 * [2026-09-06, 12:05:34](https://news.ycombinator.com/item?id=49585703) - [The pencil case model of creativity](https://dub.uu.nl/en/column/pencil-case-model-creativity)
 * [2026-09-06, 11:56:43](https://news.ycombinator.com/item?id=49585644) - [Intellectual Fly Is Open](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
