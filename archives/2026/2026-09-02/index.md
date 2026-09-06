@@ -31,6 +31,7 @@
 * [2026-09-02, 18:42:41](https://news.ycombinator.com/item?id=49540565) - [The Qantas A380 engine disintegration in 2010](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 * [2026-09-02, 18:32:24](https://news.ycombinator.com/item?id=49540415) - [Embedded Rust RTOS vs. C RTOS](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/)
 * [2026-09-02, 18:19:53](https://news.ycombinator.com/item?id=49540253) - [A Million Falcons Went Missing. Here’s How They Were Found](https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis)
+* [2026-09-02, 18:06:56](https://news.ycombinator.com/item?id=49540090) - [Electronic skin for prosthetics to sense temperature and pressure](https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/)
 * [2026-09-02, 17:46:42](https://news.ycombinator.com/item?id=49539805) - [Earth's organisms developed via evolution. What if the cosmos did, too?](https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/)
 * [2026-09-02, 17:44:24](https://news.ycombinator.com/item?id=49539759) - [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html)
 * [2026-09-02, 17:30:55](https://news.ycombinator.com/item?id=49539556) - [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html)

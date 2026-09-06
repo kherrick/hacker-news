@@ -4,9 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-09-06](index.md)
 
+* [2026-09-06, 17:51:23](https://news.ycombinator.com/item?id=49589003) - [Following legal advice, the Nitter project will continue](https://github.com/zedeus/nitter)
+* [2026-09-06, 17:00:28](https://news.ycombinator.com/item?id=49588466) - [Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
+* [2026-09-06, 16:37:55](https://news.ycombinator.com/item?id=49588214) - [We monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)
+* [2026-09-06, 16:27:05](https://news.ycombinator.com/item?id=49588080) - [An Alien Mind](https://openai.com/index/an-alien-mind/)
+* [2026-09-06, 16:10:05](https://news.ycombinator.com/item?id=49587903) - [Research carried out using NetBSD](https://www.netbsd.org/gallery/research.html)
 * [2026-09-06, 16:02:37](https://news.ycombinator.com/item?id=49587833) - [Cultivating Trust](https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/)
+* [2026-09-06, 15:44:24](https://news.ycombinator.com/item?id=49587636) - [NetBSD 9.5 released and EOL for NetBSD-9](https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and)
 * [2026-09-06, 15:14:06](https://news.ycombinator.com/item?id=49587285) - [Alberta (Canada) slaps punitive tax on solar panels](https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/)
+* [2026-09-06, 15:08:44](https://news.ycombinator.com/item?id=49587217) - [Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai)
 * [2026-09-06, 15:00:19](https://news.ycombinator.com/item?id=49587128) - [I Feel about AI](https://beza1e1.tuxen.de/ai_feelings.html)
+* [2026-09-06, 14:52:07](https://news.ycombinator.com/item?id=49587040) - [Recreating Minecraft Is Not a Benchmark](https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark)
 * [2026-09-06, 14:34:46](https://news.ycombinator.com/item?id=49586902) - [Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS](https://github.com/scastiel/kado)
 * [2026-09-06, 14:34:34](https://news.ycombinator.com/item?id=49586898) - [A/I shuts down – Stay human](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
 * [2026-09-06, 14:08:59](https://news.ycombinator.com/item?id=49586698) - [Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats](https://www.phoronix.com/news/Asahi-Linux-Official-M3)

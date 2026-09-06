@@ -14,6 +14,7 @@
 * [2026-09-03, 19:10:21](https://news.ycombinator.com/item?id=49555121) - ['Fakers' by Rory Cormac Review](https://www.historytoday.com/archive/review/fakers-rory-cormac-review)
 * [2026-09-03, 18:52:44](https://news.ycombinator.com/item?id=49554848) - [Matching Puzzle Pieces and Disappointing Benchmarks](https://llogiq.github.io/2026/03/20/case.html)
 * [2026-09-03, 18:41:05](https://news.ycombinator.com/item?id=49554643) - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+* [2026-09-03, 18:40:07](https://news.ycombinator.com/item?id=49554622) - [Babylonian Lamb Stew with Beets (1750–1730 BCE)](https://babylonian-collection.yale.edu/about/babylonian-cooking)
 * [2026-09-03, 18:32:13](https://news.ycombinator.com/item?id=49554520) - [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
 * [2026-09-03, 17:10:06](https://news.ycombinator.com/item?id=49553321) - [How concerned should we be about Astra's recurrent architecture?](https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent)
 * [2026-09-03, 17:09:04](https://news.ycombinator.com/item?id=49553303) - [Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB](https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb)
