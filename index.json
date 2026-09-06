@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-09-06, 02:24:57",
+      "https://news.ycombinator.com/item?id=49582719"
+    ],
+    [
+      "AMD Based FreeBSD Desktop Reloaded",
+      "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 02:12:46",
+      "https://news.ycombinator.com/item?id=49582656"
+    ],
+    [
+      "AI, Tools and Transformation",
+      "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 01:52:45",
+      "https://news.ycombinator.com/item?id=49582582"
+    ],
+    [
+      "GPT-6 Astra on robot arms",
+      "https://openai.robocurve.org/gpt-6-astra/"
+    ]
+  ],
+  [
+    [
       "2026-09-06, 00:03:29",
       "https://news.ycombinator.com/item?id=49582000"
     ],
     [
       "Cloud in a Bottle: making self-hosting accessible to everyone",
       "https://cloudinabottle.org/blog/launch-post"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 23:39:47",
+      "https://news.ycombinator.com/item?id=49581870"
+    ],
+    [
+      "Chrome again exempts Google from user site data settings",
+      "https://lapcatsoftware.com/articles/2026/9/1.html"
     ]
   ],
   [
@@ -31,16 +71,6 @@
   ],
   [
     [
-      "2026-09-05, 21:17:00",
-      "https://news.ycombinator.com/item?id=49580778"
-    ],
-    [
-      "South African diamond mines are closing due to weak sales and lab-grown stones",
-      "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf"
-    ]
-  ],
-  [
-    [
       "2026-09-05, 20:31:38",
       "https://news.ycombinator.com/item?id=49580369"
     ],
@@ -57,16 +87,6 @@
     [
       "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
       "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 20:25:30",
-      "https://news.ycombinator.com/item?id=49580325"
-    ],
-    [
-      "Isar Aerospace launch into orbit [video]",
-      "https://www.youtube.com/watch?v=Ss1DUqLjecc"
     ]
   ],
   [
@@ -117,26 +137,6 @@
     [
       "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
       "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 13:19:42",
-      "https://news.ycombinator.com/item?id=49576258"
-    ],
-    [
-      ".gitignore Everything by Default",
-      "https://packagemain.tech/p/gitignore-everything-by-default"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 12:23:51",
-      "https://news.ycombinator.com/item?id=49575859"
-    ],
-    [
-      "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
-      "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-09-03, 16:24:13",
-      "https://news.ycombinator.com/item?id=49552615"
-    ],
-    [
-      "Steffen's Polyhedron",
-      "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html"
-    ]
-  ],
-  [
-    [
       "2026-09-03, 13:37:22",
       "https://news.ycombinator.com/item?id=49549778"
     ],
@@ -231,22 +221,22 @@
   ],
   [
     [
-      "2026-09-02, 22:17:08",
-      "https://news.ycombinator.com/item?id=49543347"
+      "2026-09-02, 20:19:13",
+      "https://news.ycombinator.com/item?id=49541888"
     ],
     [
-      "CHC5: Open Camera System – Image Sensor Specification Comparison",
-      "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html"
+      "Music Theory for Programmers",
+      "https://runjs.app/blog/music-theory-for-programmers"
     ]
   ],
   [
     [
-      "2026-09-02, 18:19:53",
-      "https://news.ycombinator.com/item?id=49540253"
+      "2026-09-02, 17:44:24",
+      "https://news.ycombinator.com/item?id=49539759"
     ],
     [
-      "A Million Falcons Went Missing. Here’s How They Were Found",
-      "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis"
+      "OpenBSD Stories: Strange Medieval Devices",
+      "http://miod.online.fr/software/openbsd/stories/smd.html"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2026-09-02, 13:30:09",
-      "https://news.ycombinator.com/item?id=49535940"
+      "2026-09-01, 22:54:15",
+      "https://news.ycombinator.com/item?id=49529398"
     ],
     [
-      "Singapore subway (mrt) information display types",
-      "https://www.sgtrains.com/technology-infosys.html"
+      "The ColorChecker, photography's most important 24 squares, turns 50",
+      "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Topologist's Map of the World",
       "https://www.futilitycloset.com/2026/09/01/small-world-20/"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 19:48:04",
+      "https://news.ycombinator.com/item?id=49527110"
+    ],
+    [
+      "RecurseCenter.return()",
+      "https://mm-dev.rocks/series/recursecenter.return/"
     ]
   ],
   [
