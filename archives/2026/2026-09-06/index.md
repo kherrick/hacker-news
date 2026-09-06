@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-06](index.md)
 
+* [2026-09-06, 19:53:23](https://news.ycombinator.com/item?id=49590225) - [The car industry A/B tested selling a car with and without CarPlay](https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/)
+* [2026-09-06, 19:06:54](https://news.ycombinator.com/item?id=49589730) - [Ask HN: UK Rescue Rocket Sheds/Houses Information](https://news.ycombinator.com/item?id=49589730)
 * [2026-09-06, 17:51:23](https://news.ycombinator.com/item?id=49589003) - [Following legal advice, the Nitter project will continue](https://github.com/zedeus/nitter)
+* [2026-09-06, 17:49:47](https://news.ycombinator.com/item?id=49588988) - [Nitter is unarchived and will continue](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
 * [2026-09-06, 17:00:28](https://news.ycombinator.com/item?id=49588466) - [Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
 * [2026-09-06, 16:37:55](https://news.ycombinator.com/item?id=49588214) - [We monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)
 * [2026-09-06, 16:27:05](https://news.ycombinator.com/item?id=49588080) - [An Alien Mind](https://openai.com/index/an-alien-mind/)
