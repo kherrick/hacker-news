@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-05](index.md)
 
+* [2026-09-05, 23:39:47](https://news.ycombinator.com/item?id=49581870) - [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
 * [2026-09-05, 22:15:52](https://news.ycombinator.com/item?id=49581240) - [OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory)
 * [2026-09-05, 22:08:16](https://news.ycombinator.com/item?id=49581179) - [Falsehoods Programmers Believe About LANs](https://dreamstation.systems/personal/lanfalsehoods.html)
 * [2026-09-05, 21:43:22](https://news.ycombinator.com/item?id=49580980) - [America's Two Largest School Districts Impose AI Moratoriums](https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/)
