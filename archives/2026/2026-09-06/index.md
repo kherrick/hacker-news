@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-09-06](index.md)
 
+* [2026-09-06, 12:58:54](https://news.ycombinator.com/item?id=49586139) - [Schemy Lisp En DOS](https://sled.neocities.org/)
+* [2026-09-06, 12:05:34](https://news.ycombinator.com/item?id=49585703) - [The pencil case model of creativity](https://dub.uu.nl/en/column/pencil-case-model-creativity)
+* [2026-09-06, 11:56:43](https://news.ycombinator.com/item?id=49585644) - [Intellectual Fly Is Open](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
+* [2026-09-06, 11:53:40](https://news.ycombinator.com/item?id=49585627) - [Doomscrolling Ourselves to Death](https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death)
+* [2026-09-06, 11:51:28](https://news.ycombinator.com/item?id=49585605) - [New all in one 6502 computer (Neo6502kbd)](https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/)
+* [2026-09-06, 11:50:24](https://news.ycombinator.com/item?id=49585594) - [Don't Use a gmail.com Address](https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/)
+* [2026-09-06, 11:37:27](https://news.ycombinator.com/item?id=49585520) - ['Old Person Smell'](https://www.theguardian.com/wellness/2026/sep/03/old-person-smell)
+* [2026-09-06, 11:04:07](https://news.ycombinator.com/item?id=49585300) - [I asked astra to make playable 4D chess](https://4d-chess.pages.dev/)
+* [2026-09-06, 10:39:44](https://news.ycombinator.com/item?id=49585161) - [I Changed My License](https://bergie.iki.fi/blog/eupl/)
 * [2026-09-06, 09:14:22](https://news.ycombinator.com/item?id=49584637) - [You Don't Have a Right to Safe Drinking Water, US Court Rules](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/)
 * [2026-09-06, 07:33:17](https://news.ycombinator.com/item?id=49584123) - [Play GTA Vice City in the Browser](https://quenq.com/apps/vice-city-online/)
 * [2026-09-06, 07:21:06](https://news.ycombinator.com/item?id=49584083) - [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
