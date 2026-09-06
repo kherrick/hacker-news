@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-06](index.md)
 
+* [2026-09-06, 21:16:10](https://news.ycombinator.com/item?id=49591036) - [Windows 11's \"special\" developer edition looks like another marketing misfire](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
+* [2026-09-06, 20:45:13](https://news.ycombinator.com/item?id=49590738) - [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)
+* [2026-09-06, 20:32:38](https://news.ycombinator.com/item?id=49590611) - [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
+* [2026-09-06, 20:31:20](https://news.ycombinator.com/item?id=49590595) - [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540)
+* [2026-09-06, 20:24:00](https://news.ycombinator.com/item?id=49590512) - [GrapheneOS Overhauled Default Apps and Secure Clipboard](https://grapheneos.social/@GrapheneOS/117225539756835649)
+* [2026-09-06, 20:07:30](https://news.ycombinator.com/item?id=49590354) - [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/)
 * [2026-09-06, 19:53:23](https://news.ycombinator.com/item?id=49590225) - [The car industry A/B tested selling a car with and without CarPlay](https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/)
 * [2026-09-06, 19:06:54](https://news.ycombinator.com/item?id=49589730) - [Ask HN: UK Rescue Rocket Sheds/Houses Information](https://news.ycombinator.com/item?id=49589730)
 * [2026-09-06, 17:51:23](https://news.ycombinator.com/item?id=49589003) - [Following legal advice, the Nitter project will continue](https://github.com/zedeus/nitter)
@@ -20,8 +26,10 @@
 * [2026-09-06, 14:52:07](https://news.ycombinator.com/item?id=49587040) - [Recreating Minecraft Is Not a Benchmark](https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark)
 * [2026-09-06, 14:34:46](https://news.ycombinator.com/item?id=49586902) - [Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS](https://github.com/scastiel/kado)
 * [2026-09-06, 14:34:34](https://news.ycombinator.com/item?id=49586898) - [A/I shuts down – Stay human](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
+* [2026-09-06, 14:08:59](https://news.ycombinator.com/item?id=49586698) - [Asahi Linux on M3](https://asahilinux.org/2026/09/m2-episode-1/)
 * [2026-09-06, 14:08:59](https://news.ycombinator.com/item?id=49586698) - [Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats](https://www.phoronix.com/news/Asahi-Linux-Official-M3)
 * [2026-09-06, 13:38:07](https://news.ycombinator.com/item?id=49586435) - [The many mysteries and lessons of the Bayeux tapestry](https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry)
+* [2026-09-06, 13:07:52](https://news.ycombinator.com/item?id=49586207) - [Icy Moons Are Ocean Worlds](https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds)
 * [2026-09-06, 13:02:41](https://news.ycombinator.com/item?id=49586171) - [QBittorrent breaks out of sandbox to commit crimes](https://beige.party/@intransitivelie/117057396732763183)
 * [2026-09-06, 13:00:34](https://news.ycombinator.com/item?id=49586151) - [I'm teaching an introductory 12 week course on Quantum Oracle Engineering](https://shukla.io/quantum-oracle-engineering/)
 * [2026-09-06, 12:58:54](https://news.ycombinator.com/item?id=49586139) - [Schemy Lisp En DOS](https://sled.neocities.org/)
