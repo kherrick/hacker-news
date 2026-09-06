@@ -16,6 +16,7 @@
 * [2026-09-01, 20:46:03](https://news.ycombinator.com/item?id=49527967) - [A PCB business card with a batteryless LED, powered by the phone that taps it](https://www.kevin.md/the-business-card-that-lights-up.md/)
 * [2026-09-01, 20:39:19](https://news.ycombinator.com/item?id=49527879) - [Dyson Launches Toothbrush](https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue)
 * [2026-09-01, 20:30:51](https://news.ycombinator.com/item?id=49527748) - [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)
+* [2026-09-01, 20:21:08](https://news.ycombinator.com/item?id=49527599) - [Topologist's Map of the World](https://www.futilitycloset.com/2026/09/01/small-world-20/)
 * [2026-09-01, 20:20:41](https://news.ycombinator.com/item?id=49527595) - [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/)
 * [2026-09-01, 20:19:11](https://news.ycombinator.com/item?id=49527573) - [Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/)
 * [2026-09-01, 20:07:57](https://news.ycombinator.com/item?id=49527396) - [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)

@@ -7,6 +7,7 @@
 * [2026-09-05, 22:15:52](https://news.ycombinator.com/item?id=49581240) - [OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory)
 * [2026-09-05, 22:08:16](https://news.ycombinator.com/item?id=49581179) - [Falsehoods Programmers Believe About LANs](https://dreamstation.systems/personal/lanfalsehoods.html)
 * [2026-09-05, 21:43:22](https://news.ycombinator.com/item?id=49580980) - [America's Two Largest School Districts Impose AI Moratoriums](https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/)
+* [2026-09-05, 21:37:49](https://news.ycombinator.com/item?id=49580939) - [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
 * [2026-09-05, 21:17:00](https://news.ycombinator.com/item?id=49580778) - [South African diamond mines are closing due to weak sales and lab-grown stones](https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf)
 * [2026-09-05, 21:05:35](https://news.ycombinator.com/item?id=49580687) - [How AI is breaking the British state](https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state)
 * [2026-09-05, 20:31:38](https://news.ycombinator.com/item?id=49580369) - [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)

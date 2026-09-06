@@ -8,6 +8,7 @@
 * [2026-09-02, 23:08:47](https://news.ycombinator.com/item?id=49543841) - [METR Report on OpenAI / Hugging Face Hacking Incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident)
 * [2026-09-02, 22:36:04](https://news.ycombinator.com/item?id=49543530) - [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://ronanrx.com/)
 * [2026-09-02, 22:36:04](https://news.ycombinator.com/item?id=49543530) - [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
+* [2026-09-02, 22:17:08](https://news.ycombinator.com/item?id=49543347) - [CHC5: Open Camera System – Image Sensor Specification Comparison](https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html)
 * [2026-09-02, 22:05:39](https://news.ycombinator.com/item?id=49543220) - [VC isn't VC anymore](https://www.anildash.com/2026/09/02/cancer-capital/)
 * [2026-09-02, 22:02:30](https://news.ycombinator.com/item?id=49543191) - [Reasons robotics is hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
 * [2026-09-02, 21:53:23](https://news.ycombinator.com/item?id=49543082) - [Pushdown automata in statistical machine translation (2014)](https://dl.acm.org/doi/abs/10.1162/coli_a_00197)
