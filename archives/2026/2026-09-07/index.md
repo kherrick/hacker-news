@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-09-07](index.md)
 
+* [2026-09-07, 21:19:12](https://news.ycombinator.com/item?id=49603092) - [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer)
+* [2026-09-07, 20:34:32](https://news.ycombinator.com/item?id=49602716) - [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
+* [2026-09-07, 20:21:12](https://news.ycombinator.com/item?id=49602582) - [A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on](https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/)
+* [2026-09-07, 19:06:01](https://news.ycombinator.com/item?id=49601814) - [Replaceable but Employed: Automation and the Meaning of Work](https://www.nber.org/papers/w35559)
 * [2026-09-07, 18:52:06](https://news.ycombinator.com/item?id=49601655) - [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
 * [2026-09-07, 18:38:34](https://news.ycombinator.com/item?id=49601480) - [Volkswagen to convert German car plant to produce Israeli defense equipment](https://www.timesofisrael.com/volkswagen-to-convert-german-car-plant-to-produce-israeli-defense-equipment/)
 * [2026-09-07, 18:24:32](https://news.ycombinator.com/item?id=49601338) - [AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
 * [2026-09-07, 17:52:58](https://news.ycombinator.com/item?id=49600997) - [No constitutional right to clean water, federal court finds](https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/)
 * [2026-09-07, 16:58:35](https://news.ycombinator.com/item?id=49600432) - [PostgreSQL 19 Interactive Tour](https://victoriametrics.com/blog/postgres-19/index.html)
+* [2026-09-07, 16:43:37](https://news.ycombinator.com/item?id=49600269) - [Show HN: Wg-admin – web UI for an existing WireGuard host](https://github.com/logimaxx/wg-admin)
 * [2026-09-07, 16:40:32](https://news.ycombinator.com/item?id=49600233) - [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
 * [2026-09-07, 15:39:20](https://news.ycombinator.com/item?id=49599609) - [C Is Not a Low-Level Language (2018)](https://queue.acm.org/doi/10.1145/3212477.3212479)
 * [2026-09-07, 15:27:03](https://news.ycombinator.com/item?id=49599481) - [Bill Gates tries to install MovieMaker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)

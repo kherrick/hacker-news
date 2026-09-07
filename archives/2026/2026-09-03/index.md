@@ -6,6 +6,7 @@
 
 * [2026-09-03, 23:47:28](https://news.ycombinator.com/item?id=49558685) - [Simple Is Not Small](https://jyn.dev/simple-is-not-the-same-as-small/)
 * [2026-09-03, 22:37:31](https://news.ycombinator.com/item?id=49558086) - [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
+* [2026-09-03, 22:26:44](https://news.ycombinator.com/item?id=49557986) - [Methods for Random Gradients (2024)](https://justinjay.wang/methods-for-random-gradients/)
 * [2026-09-03, 21:20:34](https://news.ycombinator.com/item?id=49557206) - [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
 * [2026-09-03, 21:01:10](https://news.ycombinator.com/item?id=49556922) - [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
 * [2026-09-03, 19:45:00](https://news.ycombinator.com/item?id=49555691) - [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)
@@ -18,6 +19,7 @@
 * [2026-09-03, 18:41:05](https://news.ycombinator.com/item?id=49554643) - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
 * [2026-09-03, 18:40:07](https://news.ycombinator.com/item?id=49554622) - [Babylonian Lamb Stew with Beets (1750–1730 BCE)](https://babylonian-collection.yale.edu/about/babylonian-cooking)
 * [2026-09-03, 18:32:13](https://news.ycombinator.com/item?id=49554520) - [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
+* [2026-09-03, 17:57:49](https://news.ycombinator.com/item?id=49553988) - [How to bring up the Linux Kernel on a new platform](https://werwolv.net/posts/linux_bringup/)
 * [2026-09-03, 17:10:06](https://news.ycombinator.com/item?id=49553321) - [How concerned should we be about Astra's recurrent architecture?](https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent)
 * [2026-09-03, 17:09:04](https://news.ycombinator.com/item?id=49553303) - [Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB](https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb)
 * [2026-09-03, 17:00:16](https://news.ycombinator.com/item?id=49553173) - [Founding Creative Engineer – Gooseworks (YC W23) Is Hiring](https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer)
@@ -26,6 +28,7 @@
 * [2026-09-03, 16:24:13](https://news.ycombinator.com/item?id=49552615) - [Steffen's Polyhedron – Greg Egan](https://www.gregegan.net/SCIENCE/Steffen/Steffen.html)
 * [2026-09-03, 16:21:33](https://news.ycombinator.com/item?id=49552572) - [Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%](https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california)
 * [2026-09-03, 16:10:12](https://news.ycombinator.com/item?id=49552375) - [Texas Data Center Map: See where data centers are operating or planned](https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/)
+* [2026-09-03, 16:06:08](https://news.ycombinator.com/item?id=49552299) - [WeatherNext 3](https://deepmind.google/science/weathernext/)
 * [2026-09-03, 15:51:53](https://news.ycombinator.com/item?id=49552055) - [VC isn't VC anymore – understanding the rise of Cancer Capital](https://www.anildash.com/2026/09/02/cancer-capital/)
 * [2026-09-03, 15:44:54](https://news.ycombinator.com/item?id=49551925) - [Sony makes bold claim about game ownership](https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/)
 * [2026-09-03, 15:36:43](https://news.ycombinator.com/item?id=49551760) - [K2 Horizon: Frontier Performance, Radically Open](https://ifm.ai/blog/k2/)

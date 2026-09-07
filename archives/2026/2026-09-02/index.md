@@ -58,6 +58,7 @@
 * [2026-09-02, 14:00:28](https://news.ycombinator.com/item?id=49536384) - [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)
 * [2026-09-02, 13:59:59](https://news.ycombinator.com/item?id=49536375) - [Three sites made 215,128 \"best software\" pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
 * [2026-09-02, 13:49:23](https://news.ycombinator.com/item?id=49536201) - [A third of Perplexity's citations don't contain the number they're cited for](https://hausresearch.com/reports/perplexity-citation-audit/)
+* [2026-09-02, 13:49:12](https://news.ycombinator.com/item?id=49536195) - [My practical approach to surfing the web safely](https://molily.de/safe-websurfing/)
 * [2026-09-02, 13:47:57](https://news.ycombinator.com/item?id=49536180) - [Dyson CameraJet: The only toothbrush with a camera and a jet](https://www.dyson.com/discover/news/latest/introducing-camerajet)
 * [2026-09-02, 13:47:49](https://news.ycombinator.com/item?id=49536177) - [Poisson Disk Sampling](https://stripeacross.com/posts/poisson-disk-sampling/)
 * [2026-09-02, 13:43:14](https://news.ycombinator.com/item?id=49536114) - [Six curl CVEs after OpenAI and Anthropic came back with zero](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero)
