@@ -6,6 +6,7 @@
 
 * [2026-09-06, 23:44:35](https://news.ycombinator.com/item?id=49592094) - [Four Weeks of a Vegan Diet Alter Signs of Inflammation and Aging](https://www.uniklinik-freiburg.de/en/press/press-releases/detailed-view/6938-vier-wochen-vegane-ernaehrung-veraendern-entzuendungs-und-alterungssignale.html)
 * [2026-09-06, 23:14:08](https://news.ycombinator.com/item?id=49591876) - [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
+* [2026-09-06, 23:02:11](https://news.ycombinator.com/item?id=49591793) - [Is mathematics about to enter the conservatory?](https://mbmccoy.dev/posts/mathematical-conservatory/)
 * [2026-09-06, 22:43:25](https://news.ycombinator.com/item?id=49591672) - [Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet](https://twitter.com/Liquid_BTC/status/2096696272447218108)
 * [2026-09-06, 22:36:07](https://news.ycombinator.com/item?id=49591620) - [Political meddling at the Census Bureau damages the US statistical system](https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system)
 * [2026-09-06, 21:16:10](https://news.ycombinator.com/item?id=49591036) - [Windows 11's \"special\" developer edition looks like another marketing misfire](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)

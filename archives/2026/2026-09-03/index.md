@@ -49,6 +49,7 @@
 * [2026-09-03, 11:01:04](https://news.ycombinator.com/item?id=49548452) - [Google Antigravity TOS: 3rd party usage can get Google account suspended](https://twitter.com/GergelyOrosz/status/2095453567955968398)
 * [2026-09-03, 10:53:08](https://news.ycombinator.com/item?id=49548395) - [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
 * [2026-09-03, 10:31:18](https://news.ycombinator.com/item?id=49548256) - [Gloria Steinem has died](https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92)
+* [2026-09-03, 10:23:19](https://news.ycombinator.com/item?id=49548196) - [Please don't rearrange our shoes when we turn up, paramedics in Japan urge](https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette)
 * [2026-09-03, 09:37:55](https://news.ycombinator.com/item?id=49547888) - [Claude for Commerce Agents](https://claude.com/blog/claude-for-commerce-agents)
 * [2026-09-03, 08:31:22](https://news.ycombinator.com/item?id=49547415) - [People that worked on the same idea for decades](https://nityasnotes.com/writing/decades/)
 * [2026-09-03, 07:04:13](https://news.ycombinator.com/item?id=49546800) - [Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
