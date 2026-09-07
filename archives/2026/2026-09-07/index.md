@@ -4,6 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-09-07](index.md)
 
+* [2026-09-07, 13:35:13](https://news.ycombinator.com/item?id=49598291) - [bzip3](https://github.com/iczelia/bzip3)
+* [2026-09-07, 13:00:48](https://news.ycombinator.com/item?id=49597907) - [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
+* [2026-09-07, 12:58:57](https://news.ycombinator.com/item?id=49597895) - [Splash-free urinals (2025)](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
+* [2026-09-07, 11:46:37](https://news.ycombinator.com/item?id=49597189) - [Smartphone makers don't bother to comply with EU repairability requirements](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
+* [2026-09-07, 11:22:40](https://news.ycombinator.com/item?id=49596976) - [Apparently CodePen 2.0 sends data to their servers as you type](https://news.ycombinator.com/item?id=49596976)
+* [2026-09-07, 11:01:06](https://news.ycombinator.com/item?id=49596797) - [VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent](https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/)
+* [2026-09-07, 10:41:29](https://news.ycombinator.com/item?id=49596629) - [Tiny $70 Xteink X3 e-reader](https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/)
+* [2026-09-07, 09:52:26](https://news.ycombinator.com/item?id=49596274) - [Impedance Matching (2017)](https://www.edge.org/response-detail/27238)
+* [2026-09-07, 09:33:39](https://news.ycombinator.com/item?id=49596119) - ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)
+* [2026-09-07, 09:26:53](https://news.ycombinator.com/item?id=49596055) - [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
+* [2026-09-07, 09:26:41](https://news.ycombinator.com/item?id=49596054) - [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
+* [2026-09-07, 09:02:47](https://news.ycombinator.com/item?id=49595865) - [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
 * [2026-09-07, 08:05:00](https://news.ycombinator.com/item?id=49595360) - [Programming is Art](https://orchidfiles.com/programming-is-art/)
 * [2026-09-07, 07:03:20](https://news.ycombinator.com/item?id=49594878) - [LG smart TVs caught logging audio with screen off and snooping on local devices](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html)
 * [2026-09-07, 05:33:25](https://news.ycombinator.com/item?id=49594251) - [Switzerland's Federal Government Is Replacing Microsoft on 3k Computers](https://itsfoss.com/news/switzerland-replace-microssoft-pilot/)

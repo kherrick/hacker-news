@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-03](index.md)
 
+* [2026-09-03, 23:47:28](https://news.ycombinator.com/item?id=49558685) - [Simple Is Not Small](https://jyn.dev/simple-is-not-the-same-as-small/)
 * [2026-09-03, 22:37:31](https://news.ycombinator.com/item?id=49558086) - [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
 * [2026-09-03, 21:20:34](https://news.ycombinator.com/item?id=49557206) - [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
 * [2026-09-03, 21:01:10](https://news.ycombinator.com/item?id=49556922) - [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
@@ -33,6 +34,7 @@
 * [2026-09-03, 14:54:39](https://news.ycombinator.com/item?id=49550772) - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
 * [2026-09-03, 14:51:10](https://news.ycombinator.com/item?id=49550698) - [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/)
 * [2026-09-03, 14:37:21](https://news.ycombinator.com/item?id=49550479) - [Show HN: I made a word building game supporting anagrams and one handed use](https://news.ycombinator.com/item?id=49550479)
+* [2026-09-03, 14:33:01](https://news.ycombinator.com/item?id=49550436) - [I Connected My Withings Body+ to Home Assistant with an ESP32](https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud)
 * [2026-09-03, 14:28:18](https://news.ycombinator.com/item?id=49550375) - [Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/)
 * [2026-09-03, 14:20:06](https://news.ycombinator.com/item?id=49550276) - [I'm a seeing-eye dog for a computer](https://claytonwramsey.com/blog/seeing-eye/)
 * [2026-09-03, 13:51:44](https://news.ycombinator.com/item?id=49549919) - [New York Times and The Athletic workers demand company scrap Kalshi deal](https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/)
