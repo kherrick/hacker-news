@@ -47,6 +47,7 @@
 * [2026-09-04, 11:54:53](https://news.ycombinator.com/item?id=49563355) - [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
 * [2026-09-04, 10:56:07](https://news.ycombinator.com/item?id=49562895) - [O&O ShutUp10 – The antispy tool for Windows 10 and 11](https://www.oo-software.com/en/shutup10)
 * [2026-09-04, 10:17:01](https://news.ycombinator.com/item?id=49562657) - [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)
+* [2026-09-04, 10:08:02](https://news.ycombinator.com/item?id=49562594) - [A Week of Bug Reporting](https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html)
 * [2026-09-04, 09:03:00](https://news.ycombinator.com/item?id=49562219) - [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md)
 * [2026-09-04, 08:35:15](https://news.ycombinator.com/item?id=49562062) - [The Raspberry Pi Interactive Timeline · 2006–2026](https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline)
 * [2026-09-04, 08:19:57](https://news.ycombinator.com/item?id=49561975) - [Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/)
