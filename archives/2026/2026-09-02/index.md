@@ -72,6 +72,7 @@
 * [2026-09-02, 12:59:09](https://news.ycombinator.com/item?id=49535548) - [Aging Brains Blend Memories Together Instead of Just Forgetting Them](https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/)
 * [2026-09-02, 12:55:40](https://news.ycombinator.com/item?id=49535526) - [Dutch central bank moves share of gold from U.S., Canada to London](https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability)
 * [2026-09-02, 12:53:22](https://news.ycombinator.com/item?id=49535506) - [Why humanoid robots won't catch up to human workers any time soon](https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up)
+* [2026-09-02, 12:40:44](https://news.ycombinator.com/item?id=49535375) - [Academia as a d-index measuring contest](https://kevinmunger.substack.com/p/introducing-the-k-index)
 * [2026-09-02, 12:35:20](https://news.ycombinator.com/item?id=49535324) - [Using jq to format JSON on the clipboard](https://chris48s.github.io/blogmarks/posts/2021/jsontidy/)
 * [2026-09-02, 12:30:39](https://news.ycombinator.com/item?id=49535284) - [Mistral now trains on user input by default, except on enterprise tier](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training)
 * [2026-09-02, 12:23:20](https://news.ycombinator.com/item?id=49535201) - [Check if a file was made with Claude](https://claude.com/check-content)

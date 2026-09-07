@@ -21,6 +21,7 @@
 * [2026-09-06, 19:27:10](https://news.ycombinator.com/item?id=49589914) - [Ask HN: How do you manage skills files?](https://news.ycombinator.com/item?id=49589914)
 * [2026-09-06, 19:11:05](https://news.ycombinator.com/item?id=49589768) - [D2 Is Non-Profit](https://d2lang.com/blog/d2-non-profit/)
 * [2026-09-06, 19:06:54](https://news.ycombinator.com/item?id=49589730) - [Ask HN: UK Rescue Rocket Sheds/Houses Information](https://news.ycombinator.com/item?id=49589730)
+* [2026-09-06, 18:10:53](https://news.ycombinator.com/item?id=49589190) - [The Dataflow Model Revisited](https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited)
 * [2026-09-06, 17:51:23](https://news.ycombinator.com/item?id=49589003) - [Following legal advice, the Nitter project will continue](https://github.com/zedeus/nitter)
 * [2026-09-06, 17:49:47](https://news.ycombinator.com/item?id=49588988) - [Nitter is unarchived and will continue](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
 * [2026-09-06, 17:01:39](https://news.ycombinator.com/item?id=49588483) - [YouTube had a bug – I used ChatGPT to investigate](https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate)

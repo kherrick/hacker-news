@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-07](index.md)
 
+* [2026-09-07, 18:52:06](https://news.ycombinator.com/item?id=49601655) - [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
+* [2026-09-07, 18:38:34](https://news.ycombinator.com/item?id=49601480) - [Volkswagen to convert German car plant to produce Israeli defense equipment](https://www.timesofisrael.com/volkswagen-to-convert-german-car-plant-to-produce-israeli-defense-equipment/)
+* [2026-09-07, 18:24:32](https://news.ycombinator.com/item?id=49601338) - [AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
+* [2026-09-07, 17:52:58](https://news.ycombinator.com/item?id=49600997) - [No constitutional right to clean water, federal court finds](https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/)
+* [2026-09-07, 16:58:35](https://news.ycombinator.com/item?id=49600432) - [PostgreSQL 19 Interactive Tour](https://victoriametrics.com/blog/postgres-19/index.html)
+* [2026-09-07, 16:40:32](https://news.ycombinator.com/item?id=49600233) - [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
+* [2026-09-07, 15:39:20](https://news.ycombinator.com/item?id=49599609) - [C Is Not a Low-Level Language (2018)](https://queue.acm.org/doi/10.1145/3212477.3212479)
+* [2026-09-07, 15:27:03](https://news.ycombinator.com/item?id=49599481) - [Bill Gates tries to install MovieMaker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
 * [2026-09-07, 13:35:13](https://news.ycombinator.com/item?id=49598291) - [bzip3](https://github.com/iczelia/bzip3)
 * [2026-09-07, 13:00:48](https://news.ycombinator.com/item?id=49597907) - [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
 * [2026-09-07, 12:58:57](https://news.ycombinator.com/item?id=49597895) - [Splash-free urinals (2025)](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
@@ -26,4 +34,5 @@
 * [2026-09-07, 03:06:33](https://news.ycombinator.com/item?id=49593410) - [Mother convicted of: her 5 yo walks short way to pond alone in Virginia](https://www.washingtonpost.com/dc-md-va/2026/09/06/5-year-old-walked-alone-gated-community-his-mom-was-sentenced/)
 * [2026-09-07, 02:14:59](https://news.ycombinator.com/item?id=49593066) - [Has anybody seen my keys? A key-hierarchy strategy for rack-level security](https://rfd.shared.oxide.computer/rfd/0301)
 * [2026-09-07, 01:41:11](https://news.ycombinator.com/item?id=49592840) - [Show HN: GET Together – A social network where you don't need POST to Post](https://gettogether.dev)
+* [2026-09-07, 00:22:04](https://news.ycombinator.com/item?id=49592375) - [216M Spy TVs – The LG Smart TV Problem [video]](https://www.youtube.com/watch?v=6IFVTcM28KA)
 * [2026-09-07, 00:21:01](https://news.ycombinator.com/item?id=49592366) - [MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server](https://github.com/Staatsgeheim/MathKernel)
