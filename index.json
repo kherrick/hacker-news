@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-06, 23:44:35",
+      "https://news.ycombinator.com/item?id=49592094"
+    ],
+    [
+      "Four Weeks of a Vegan Diet Alter Signs of Inflammation and Aging",
+      "https://www.uniklinik-freiburg.de/en/press/press-releases/detailed-view/6938-vier-wochen-vegane-ernaehrung-veraendern-entzuendungs-und-alterungssignale.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 23:14:08",
+      "https://news.ycombinator.com/item?id=49591876"
+    ],
+    [
+      "Making a Python interpreter in 1024 bytes",
+      "https://austinhenley.com/blog/python1024.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 22:43:25",
+      "https://news.ycombinator.com/item?id=49591672"
+    ],
+    [
+      "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+      "https://twitter.com/Liquid_BTC/status/2096696272447218108"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 22:36:07",
+      "https://news.ycombinator.com/item?id=49591620"
+    ],
+    [
+      "Political meddling at the Census Bureau damages the US statistical system",
+      "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system"
+    ]
+  ],
+  [
+    [
       "2026-09-06, 21:16:10",
       "https://news.ycombinator.com/item?id=49591036"
     ],
@@ -41,6 +81,16 @@
   ],
   [
     [
+      "2026-09-06, 20:24:56",
+      "https://news.ycombinator.com/item?id=49590524"
+    ],
+    [
+      "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
+      "https://github.com/FulltimeFeline/Sol"
+    ]
+  ],
+  [
+    [
       "2026-09-06, 20:24:00",
       "https://news.ycombinator.com/item?id=49590512"
     ],
@@ -51,22 +101,12 @@
   ],
   [
     [
-      "2026-09-06, 20:07:30",
-      "https://news.ycombinator.com/item?id=49590354"
+      "2026-09-06, 19:11:05",
+      "https://news.ycombinator.com/item?id=49589768"
     ],
     [
-      "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
-      "https://getvodforge.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 19:53:23",
-      "https://news.ycombinator.com/item?id=49590225"
-    ],
-    [
-      "The car industry A/B tested selling a car with and without CarPlay",
-      "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/"
+      "D2 Is Non-Profit",
+      "https://d2lang.com/blog/d2-non-profit/"
     ]
   ],
   [
@@ -151,36 +191,6 @@
   ],
   [
     [
-      "2026-09-06, 13:07:52",
-      "https://news.ycombinator.com/item?id=49586207"
-    ],
-    [
-      "Icy Moons Are Ocean Worlds",
-      "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 13:00:34",
-      "https://news.ycombinator.com/item?id=49586151"
-    ],
-    [
-      "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
-      "https://shukla.io/quantum-oracle-engineering/"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 12:05:34",
-      "https://news.ycombinator.com/item?id=49585703"
-    ],
-    [
-      "The pencil case model of creativity",
-      "https://dub.uu.nl/en/column/pencil-case-model-creativity"
-    ]
-  ],
-  [
-    [
       "2026-09-06, 11:56:43",
       "https://news.ycombinator.com/item?id=49585644"
     ],
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2026-09-04, 10:08:02",
+      "https://news.ycombinator.com/item?id=49562594"
+    ],
+    [
+      "A Week of Bug Reporting",
+      "https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html"
+    ]
+  ],
+  [
+    [
       "2026-09-04, 07:17:00",
       "https://news.ycombinator.com/item?id=49561514"
     ],
@@ -231,42 +251,12 @@
   ],
   [
     [
-      "2026-09-03, 05:16:04",
-      "https://news.ycombinator.com/item?id=49546198"
-    ],
-    [
-      "IBM Quantum Nighthawk R2",
-      "https://www.ibm.com/quantum/blog/nighthawk-r2"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 20:58:45",
-      "https://news.ycombinator.com/item?id=49542471"
-    ],
-    [
-      "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
-      "https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub"
-    ]
-  ],
-  [
-    [
       "2026-09-02, 20:34:24",
       "https://news.ycombinator.com/item?id=49542123"
     ],
     [
       "Vidact – a compiler that turns React into direct DOM operations",
       "https://www.vidact.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 20:19:13",
-      "https://news.ycombinator.com/item?id=49541888"
-    ],
-    [
-      "Music Theory for Programmers",
-      "https://runjs.app/blog/music-theory-for-programmers"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
       "https://en.wikipedia.org/wiki/M-DISC"
+    ]
+  ],
+  [
+    [
+      "2026-09-01, 13:57:01",
+      "https://news.ycombinator.com/item?id=49522092"
+    ],
+    [
+      "Adverse Selection and Markouts",
+      "https://machow.ski/posts/markouts_and_adverse_selection/"
     ]
   ]
 ]
