@@ -1,6 +1,126 @@
 [
   [
     [
+      "2026-09-07, 13:35:13",
+      "https://news.ycombinator.com/item?id=49598291"
+    ],
+    [
+      "bzip3",
+      "https://github.com/iczelia/bzip3"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 13:00:48",
+      "https://news.ycombinator.com/item?id=49597907"
+    ],
+    [
+      "De-Brainrot Vacations",
+      "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 12:58:57",
+      "https://news.ycombinator.com/item?id=49597895"
+    ],
+    [
+      "Splash-free urinals (2025)",
+      "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 11:46:37",
+      "https://news.ycombinator.com/item?id=49597189"
+    ],
+    [
+      "Smartphone makers don't bother to comply with EU repairability requirements",
+      "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 11:22:40",
+      "https://news.ycombinator.com/item?id=49596976"
+    ],
+    [
+      "Apparently CodePen 2.0 sends data to their servers as you type",
+      "https://news.ycombinator.com/item?id=49596976"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 11:01:06",
+      "https://news.ycombinator.com/item?id=49596797"
+    ],
+    [
+      "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+      "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 10:41:29",
+      "https://news.ycombinator.com/item?id=49596629"
+    ],
+    [
+      "Tiny $70 Xteink X3 e-reader",
+      "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 09:52:26",
+      "https://news.ycombinator.com/item?id=49596274"
+    ],
+    [
+      "Impedance Matching (2017)",
+      "https://www.edge.org/response-detail/27238"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 09:33:39",
+      "https://news.ycombinator.com/item?id=49596119"
+    ],
+    [
+      "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+      "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 09:26:53",
+      "https://news.ycombinator.com/item?id=49596055"
+    ],
+    [
+      "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "https://mathathonchallenge.com/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 09:26:41",
+      "https://news.ycombinator.com/item?id=49596054"
+    ],
+    [
+      "Speculative Decoding in vLLM on AMD GPUs",
+      "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 09:02:47",
+      "https://news.ycombinator.com/item?id=49595865"
+    ],
+    [
+      "Live map of public transport in Belgium",
+      "https://openbaarvervoerbelgie.be/"
+    ]
+  ],
+  [
+    [
       "2026-09-07, 08:05:00",
       "https://news.ycombinator.com/item?id=49595360"
     ],
@@ -21,16 +141,6 @@
   ],
   [
     [
-      "2026-09-07, 05:33:25",
-      "https://news.ycombinator.com/item?id=49594251"
-    ],
-    [
-      "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
-      "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/"
-    ]
-  ],
-  [
-    [
       "2026-09-07, 04:49:36",
       "https://news.ycombinator.com/item?id=49594008"
     ],
@@ -41,42 +151,12 @@
   ],
   [
     [
-      "2026-09-07, 04:41:01",
-      "https://news.ycombinator.com/item?id=49593971"
-    ],
-    [
-      "TiVo to charge money for skipping commercials in your own recordings",
-      "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 04:18:28",
-      "https://news.ycombinator.com/item?id=49593842"
-    ],
-    [
-      "Coop – Isolated VM Environments for Running Claude Code and Codex",
-      "https://github.com/trailofbits/coop"
-    ]
-  ],
-  [
-    [
       "2026-09-07, 03:29:51",
       "https://news.ycombinator.com/item?id=49593563"
     ],
     [
       "Keep Our Servers Running",
       "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 02:14:59",
-      "https://news.ycombinator.com/item?id=49593066"
-    ],
-    [
-      "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
-      "https://rfd.shared.oxide.computer/rfd/0301"
     ]
   ],
   [
@@ -107,26 +187,6 @@
     [
       "Is mathematics about to enter the conservatory?",
       "https://mbmccoy.dev/posts/mathematical-conservatory/"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 21:05:21",
-      "https://news.ycombinator.com/item?id=49590946"
-    ],
-    [
-      "Signing TLS handshakes inside a TPM",
-      "https://bschaatsbergen.com/posts/go-tpm-tls/"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 20:45:13",
-      "https://news.ycombinator.com/item?id=49590738"
-    ],
-    [
-      "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "https://github.com/marsbos/mador"
     ]
   ],
   [
@@ -181,56 +241,6 @@
   ],
   [
     [
-      "2026-09-06, 16:27:05",
-      "https://news.ycombinator.com/item?id=49588080"
-    ],
-    [
-      "An Alien Mind",
-      "https://openai.com/index/an-alien-mind/"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 15:44:24",
-      "https://news.ycombinator.com/item?id=49587636"
-    ],
-    [
-      "NetBSD 9.5 released and EOL for NetBSD-9",
-      "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 15:08:44",
-      "https://news.ycombinator.com/item?id=49587217"
-    ],
-    [
-      "Research acceleration: The view inside OpenAI",
-      "https://openai.com/index/research-acceleration-view-inside-openai"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 14:08:59",
-      "https://news.ycombinator.com/item?id=49586698"
-    ],
-    [
-      "Asahi Linux on M3",
-      "https://asahilinux.org/2026/09/m2-episode-1/"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 11:56:43",
-      "https://news.ycombinator.com/item?id=49585644"
-    ],
-    [
-      "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
-    ]
-  ],
-  [
-    [
       "2026-09-05, 14:54:44",
       "https://news.ycombinator.com/item?id=49577129"
     ],
@@ -241,62 +251,52 @@
   ],
   [
     [
-      "2026-09-04, 13:47:25",
-      "https://news.ycombinator.com/item?id=49564609"
+      "2026-09-03, 23:47:28",
+      "https://news.ycombinator.com/item?id=49558685"
     ],
     [
-      "The NX bit is not just about security",
-      "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/"
+      "Simple Is Not Small",
+      "https://jyn.dev/simple-is-not-the-same-as-small/"
     ]
   ],
   [
     [
-      "2026-09-04, 07:17:00",
-      "https://news.ycombinator.com/item?id=49561514"
+      "2026-09-03, 14:37:21",
+      "https://news.ycombinator.com/item?id=49550479"
     ],
     [
-      "Reverse engineering the storage format for an undocumented database",
-      "https://blog.glazer.ee/posts/converting-cronos/"
+      "Show HN: I made a word building game supporting anagrams and one handed use",
+      "https://news.ycombinator.com/item?id=49550479"
     ]
   ],
   [
     [
-      "2026-09-03, 18:40:07",
-      "https://news.ycombinator.com/item?id=49554622"
+      "2026-09-03, 14:33:01",
+      "https://news.ycombinator.com/item?id=49550436"
     ],
     [
-      "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-      "https://babylonian-collection.yale.edu/about/babylonian-cooking"
+      "I Connected My Withings Body+ to Home Assistant with an ESP32",
+      "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud"
     ]
   ],
   [
     [
-      "2026-09-03, 14:20:06",
-      "https://news.ycombinator.com/item?id=49550276"
+      "2026-09-02, 14:47:09",
+      "https://news.ycombinator.com/item?id=49537143"
     ],
     [
-      "I'm a seeing-eye dog for a computer",
-      "https://claytonwramsey.com/blog/seeing-eye/"
+      "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
+      "https://play.simten.dev"
     ]
   ],
   [
     [
-      "2026-09-03, 10:23:19",
-      "https://news.ycombinator.com/item?id=49548196"
+      "2026-09-02, 10:39:02",
+      "https://news.ycombinator.com/item?id=49534396"
     ],
     [
-      "Please don't rearrange our shoes when we turn up, paramedics in Japan urge",
-      "https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette"
-    ]
-  ],
-  [
-    [
-      "2026-09-02, 18:47:55",
-      "https://news.ycombinator.com/item?id=49540637"
-    ],
-    [
-      "Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)",
-      "https://www.atlasobscura.com/places/black-hole-of-los-alamos"
+      "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+      "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/"
     ]
   ]
 ]
