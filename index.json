@@ -1,22 +1,82 @@
 [
   [
     [
+      "2026-09-07, 08:05:00",
+      "https://news.ycombinator.com/item?id=49595360"
+    ],
+    [
+      "Programming is Art",
+      "https://orchidfiles.com/programming-is-art/"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 07:03:20",
+      "https://news.ycombinator.com/item?id=49594878"
+    ],
+    [
+      "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 05:33:25",
+      "https://news.ycombinator.com/item?id=49594251"
+    ],
+    [
+      "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+      "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 04:49:36",
+      "https://news.ycombinator.com/item?id=49594008"
+    ],
+    [
+      "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "https://github.com/timgordontg/engrim"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 04:41:01",
+      "https://news.ycombinator.com/item?id=49593971"
+    ],
+    [
+      "TiVo to charge money for skipping commercials in your own recordings",
+      "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 04:18:28",
+      "https://news.ycombinator.com/item?id=49593842"
+    ],
+    [
+      "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "https://github.com/trailofbits/coop"
+    ]
+  ],
+  [
+    [
       "2026-09-07, 03:29:51",
       "https://news.ycombinator.com/item?id=49593563"
     ],
     [
-      "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
+      "Keep Our Servers Running",
       "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/"
     ]
   ],
   [
     [
-      "2026-09-07, 03:06:33",
-      "https://news.ycombinator.com/item?id=49593410"
+      "2026-09-07, 02:14:59",
+      "https://news.ycombinator.com/item?id=49593066"
     ],
     [
-      "Mother convicted of: her 5 yo walks short way to pond alone in Virginia",
-      "https://www.washingtonpost.com/dc-md-va/2026/09/06/5-year-old-walked-alone-gated-community-his-mom-was-sentenced/"
+      "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+      "https://rfd.shared.oxide.computer/rfd/0301"
     ]
   ],
   [
@@ -31,16 +91,6 @@
   ],
   [
     [
-      "2026-09-07, 00:21:01",
-      "https://news.ycombinator.com/item?id=49592366"
-    ],
-    [
-      "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "https://github.com/Staatsgeheim/MathKernel"
-    ]
-  ],
-  [
-    [
       "2026-09-06, 23:14:08",
       "https://news.ycombinator.com/item?id=49591876"
     ],
@@ -51,12 +101,12 @@
   ],
   [
     [
-      "2026-09-06, 22:43:25",
-      "https://news.ycombinator.com/item?id=49591672"
+      "2026-09-06, 23:02:11",
+      "https://news.ycombinator.com/item?id=49591793"
     ],
     [
-      "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-      "https://twitter.com/Liquid_BTC/status/2096696272447218108"
+      "Is mathematics about to enter the conservatory?",
+      "https://mbmccoy.dev/posts/mathematical-conservatory/"
     ]
   ],
   [
@@ -131,42 +181,12 @@
   ],
   [
     [
-      "2026-09-06, 17:01:39",
-      "https://news.ycombinator.com/item?id=49588483"
-    ],
-    [
-      "YouTube had a bug – I used ChatGPT to investigate",
-      "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 17:00:28",
-      "https://news.ycombinator.com/item?id=49588466"
-    ],
-    [
-      "Opalite Health (YC W26) Is Hiring – Founding GTM",
-      "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm"
-    ]
-  ],
-  [
-    [
       "2026-09-06, 16:27:05",
       "https://news.ycombinator.com/item?id=49588080"
     ],
     [
       "An Alien Mind",
       "https://openai.com/index/an-alien-mind/"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 16:10:05",
-      "https://news.ycombinator.com/item?id=49587903"
-    ],
-    [
-      "Research carried out using NetBSD",
-      "https://www.netbsd.org/gallery/research.html"
     ]
   ],
   [
@@ -187,16 +207,6 @@
     [
       "Research acceleration: The view inside OpenAI",
       "https://openai.com/index/research-acceleration-view-inside-openai"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 14:34:34",
-      "https://news.ycombinator.com/item?id=49586898"
-    ],
-    [
-      "A/I shuts down",
-      "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-09-03, 19:10:02",
-      "https://news.ycombinator.com/item?id=49555114"
-    ],
-    [
-      "Every Novel Is Boring–Until It Isn't",
-      "https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/"
-    ]
-  ],
-  [
-    [
       "2026-09-03, 18:40:07",
       "https://news.ycombinator.com/item?id=49554622"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-09-02, 20:34:24",
-      "https://news.ycombinator.com/item?id=49542123"
+      "2026-09-03, 10:23:19",
+      "https://news.ycombinator.com/item?id=49548196"
     ],
     [
-      "Vidact – a compiler that turns React into direct DOM operations",
-      "https://www.vidact.dev/"
+      "Please don't rearrange our shoes when we turn up, paramedics in Japan urge",
+      "https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette"
     ]
   ],
   [
