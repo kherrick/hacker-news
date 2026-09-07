@@ -37,6 +37,7 @@
 * [2026-09-04, 15:03:03](https://news.ycombinator.com/item?id=49565693) - [Gmail to end support for \"Send as\" for third-party addresses, such as @yahoo.com](https://support.google.com/mail/answer/22370?hl=en)
 * [2026-09-04, 14:02:50](https://news.ycombinator.com/item?id=49564817) - [Higher social class predicts increased unethical behavior](https://www.pnas.org/doi/10.1073/pnas.1118373109)
 * [2026-09-04, 13:54:26](https://news.ycombinator.com/item?id=49564714) - [Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal](https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/)
+* [2026-09-04, 13:47:25](https://news.ycombinator.com/item?id=49564609) - [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/)
 * [2026-09-04, 13:44:14](https://news.ycombinator.com/item?id=49564555) - [US Military disables ad trackers on troops' phones](https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers)
 * [2026-09-04, 12:50:29](https://news.ycombinator.com/item?id=49563851) - [IBM Bob](https://bob.ibm.com/)
 * [2026-09-04, 12:49:44](https://news.ycombinator.com/item?id=49563839) - [Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region](https://github.com/hawshemi/lg-c5-webos25-region-change)

@@ -24,6 +24,7 @@
 * [2026-09-05, 16:30:35](https://news.ycombinator.com/item?id=49578136) - [Bob and Van](https://marco.org/2026/09/04/bob-and-van)
 * [2026-09-05, 16:14:34](https://news.ycombinator.com/item?id=49577985) - [How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
 * [2026-09-05, 16:13:57](https://news.ycombinator.com/item?id=49577975) - [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
+* [2026-09-05, 14:54:44](https://news.ycombinator.com/item?id=49577129) - [Ask HN: Fable hacked my piano, can I release the results?](https://news.ycombinator.com/item?id=49577129)
 * [2026-09-05, 14:40:52](https://news.ycombinator.com/item?id=49576986) - [How the Disaster of \"Forever Chemicals\" Was Kept Secret](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen)
 * [2026-09-05, 14:02:44](https://news.ycombinator.com/item?id=49576611) - [Meet the Ig Nobel Prize Winners](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/)
 * [2026-09-05, 13:36:38](https://news.ycombinator.com/item?id=49576386) - [The \"$60 Gaming PC\" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
