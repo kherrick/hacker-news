@@ -1,32 +1,42 @@
 [
   [
     [
+      "2026-09-08, 11:13:03",
+      "https://news.ycombinator.com/item?id=49608697"
+    ],
+    [
+      "PISA 2025 Students' reading and mathematics performance declined across the OECD",
+      "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 09:48:24",
+      "https://news.ycombinator.com/item?id=49608023"
+    ],
+    [
+      "Why getting your hands dirty is good for you",
+      "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 09:43:14",
+      "https://news.ycombinator.com/item?id=49607991"
+    ],
+    [
+      "Antiquated HTML Snippets and Artefacts",
+      "https://vale.rocks/posts/html-relics"
+    ]
+  ],
+  [
+    [
       "2026-09-08, 08:42:56",
       "https://news.ycombinator.com/item?id=49607443"
     ],
     [
       "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
       "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 06:39:20",
-      "https://news.ycombinator.com/item?id=49606339"
-    ],
-    [
-      "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
-      "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 05:42:28",
-      "https://news.ycombinator.com/item?id=49605915"
-    ],
-    [
-      "Navier-Stokes – Tristan Buckmaster [pdf]",
-      "https://cims.nyu.edu/~tristanb/statement.pdf"
     ]
   ],
   [
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2026-09-08, 04:48:10",
-      "https://news.ycombinator.com/item?id=49605691"
-    ],
-    [
-      "We have a year to fix security everywhere",
-      "https://jyn.dev/a-year-to-fix-security/"
-    ]
-  ],
-  [
-    [
       "2026-09-08, 04:36:26",
       "https://news.ycombinator.com/item?id=49605644"
     ],
@@ -87,26 +87,6 @@
     [
       "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
       "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 03:42:25",
-      "https://news.ycombinator.com/item?id=49605433"
-    ],
-    [
-      "I tested 10 model/harness combinations on the same Three.js task",
-      "https://alvins82.github.io/hangar-harness-model-tests/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 03:40:24",
-      "https://news.ycombinator.com/item?id=49605424"
-    ],
-    [
-      "GamersNexus and LG: Or why rooting your TV is a bad idea",
-      "https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n"
     ]
   ],
   [
@@ -191,42 +171,12 @@
   ],
   [
     [
-      "2026-09-07, 09:00:01",
-      "https://news.ycombinator.com/item?id=49595841"
-    ],
-    [
-      "anystation: Calling any station A public board shaped like a tree. No account",
-      "https://anystation.net/"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 00:22:04",
-      "https://news.ycombinator.com/item?id=49592375"
-    ],
-    [
-      "216M Spy TVs – The LG Smart TV Problem [video]",
-      "https://www.youtube.com/watch?v=6IFVTcM28KA"
-    ]
-  ],
-  [
-    [
       "2026-09-06, 19:51:28",
       "https://news.ycombinator.com/item?id=49590199"
     ],
     [
       "Understanding Computer Memory Architecture and SSD Internals",
       "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 14:59:08",
-      "https://news.ycombinator.com/item?id=49587115"
-    ],
-    [
-      "Feather Atlas",
-      "https://www.fws.gov/lab/featheratlas/identify.html"
     ]
   ],
   [
@@ -241,11 +191,21 @@
   ],
   [
     [
+      "2026-09-06, 05:47:05",
+      "https://news.ycombinator.com/item?id=49583684"
+    ],
+    [
+      "Robot writes in languages it has never seen before (2019)",
+      "https://www.wired.com/story/robot-writing/"
+    ]
+  ],
+  [
+    [
       "2026-09-05, 18:44:40",
       "https://news.ycombinator.com/item?id=49579443"
     ],
     [
-      "We built our house for LAN parties",
+      "We built our house for LAN parties (2024)",
       "https://lanparty.house/"
     ]
   ],
@@ -257,6 +217,36 @@
     [
       "Trusting-Trust Attack against an Entire Linux Distribution",
       "https://arxiv.org/abs/2607.24888"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 09:54:15",
+      "https://news.ycombinator.com/item?id=49574941"
+    ],
+    [
+      "Picolibrary: A Small Press",
+      "https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 22:47:04",
+      "https://news.ycombinator.com/item?id=49571096"
+    ],
+    [
+      "This Month in Ladybird – August 2026",
+      "https://ladybird.org/newsletter/2026-08-31/"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 21:25:49",
+      "https://news.ycombinator.com/item?id=49570411"
+    ],
+    [
+      "End-to-end infrastructure for training and inferencing open weight models",
+      "https://docs.appliedcompute.com"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "John Margolies' photographs of roadside America",
       "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 19:38:46",
+      "https://news.ycombinator.com/item?id=49555592"
+    ],
+    [
+      "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+      "https://news.ycombinator.com/item?id=49555592"
     ]
   ],
   [
