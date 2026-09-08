@@ -17,6 +17,7 @@
 * [2026-09-07, 18:38:34](https://news.ycombinator.com/item?id=49601480) - [Volkswagen to convert German car plant to produce Israeli defense equipment](https://www.timesofisrael.com/volkswagen-to-convert-german-car-plant-to-produce-israeli-defense-equipment/)
 * [2026-09-07, 18:24:32](https://news.ycombinator.com/item?id=49601338) - [AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
 * [2026-09-07, 17:52:58](https://news.ycombinator.com/item?id=49600997) - [No constitutional right to clean water, federal court finds](https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/)
+* [2026-09-07, 17:44:33](https://news.ycombinator.com/item?id=49600901) - [The Helicopter with Radioactive Blades](https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/)
 * [2026-09-07, 16:58:35](https://news.ycombinator.com/item?id=49600432) - [PostgreSQL 19 Interactive Tour](https://victoriametrics.com/blog/postgres-19/index.html)
 * [2026-09-07, 16:43:37](https://news.ycombinator.com/item?id=49600269) - [Show HN: Wg-admin – web UI for an existing WireGuard host](https://github.com/logimaxx/wg-admin)
 * [2026-09-07, 16:40:32](https://news.ycombinator.com/item?id=49600233) - [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
