@@ -19,6 +19,7 @@
 * [2026-09-05, 20:14:25](https://news.ycombinator.com/item?id=49580248) - [Space industry lacks workers needed to rebuild satellites lost in war: report](https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/)
 * [2026-09-05, 20:02:35](https://news.ycombinator.com/item?id=49580164) - [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
 * [2026-09-05, 19:41:27](https://news.ycombinator.com/item?id=49579956) - [ISAR Aerospace 5 Sept Mission Onward and Upward](https://isaraerospace.com/mission-updates-overview)
+* [2026-09-05, 18:44:40](https://news.ycombinator.com/item?id=49579443) - [We built our house for LAN parties](https://lanparty.house/)
 * [2026-09-05, 17:46:16](https://news.ycombinator.com/item?id=49578866) - [The Luxuries in Life](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
 * [2026-09-05, 16:48:13](https://news.ycombinator.com/item?id=49578310) - [Flock used >100 times to track veteran who recorded traffic stop](https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/)
 * [2026-09-05, 16:45:02](https://news.ycombinator.com/item?id=49578280) - [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/)

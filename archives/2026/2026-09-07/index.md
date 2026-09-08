@@ -34,6 +34,7 @@
 * [2026-09-07, 09:26:53](https://news.ycombinator.com/item?id=49596055) - [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
 * [2026-09-07, 09:26:41](https://news.ycombinator.com/item?id=49596054) - [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
 * [2026-09-07, 09:02:47](https://news.ycombinator.com/item?id=49595865) - [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
+* [2026-09-07, 09:00:01](https://news.ycombinator.com/item?id=49595841) - [anystation: Calling any station A public board shaped like a tree. No account](https://anystation.net/)
 * [2026-09-07, 08:05:00](https://news.ycombinator.com/item?id=49595360) - [Programming is Art](https://orchidfiles.com/programming-is-art/)
 * [2026-09-07, 07:03:20](https://news.ycombinator.com/item?id=49594878) - [LG smart TVs caught logging audio with screen off and snooping on local devices](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html)
 * [2026-09-07, 05:33:25](https://news.ycombinator.com/item?id=49594251) - [Switzerland's Federal Government Is Replacing Microsoft on 3k Computers](https://itsfoss.com/news/switzerland-replace-microssoft-pilot/)
