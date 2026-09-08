@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-08](index.md)
 
+* [2026-09-08, 21:47:38](https://news.ycombinator.com/item?id=49617581) - [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+* [2026-09-08, 21:22:11](https://news.ycombinator.com/item?id=49617255) - [How to Build a Printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
+* [2026-09-08, 20:14:52](https://news.ycombinator.com/item?id=49616354) - [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
+* [2026-09-08, 20:08:44](https://news.ycombinator.com/item?id=49616272) - [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
+* [2026-09-08, 20:07:55](https://news.ycombinator.com/item?id=49616257) - [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
+* [2026-09-08, 20:06:33](https://news.ycombinator.com/item?id=49616239) - [Trey Parker and Matt Stone Are Changing the Name of South Park to South America](https://twitter.com/SouthPark/status/2097364141237539116)
 * [2026-09-08, 19:25:00](https://news.ycombinator.com/item?id=49615537) - [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)
 * [2026-09-08, 19:04:26](https://news.ycombinator.com/item?id=49615139) - [Function Arguments Are Not Function Colors](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
 * [2026-09-08, 18:37:51](https://news.ycombinator.com/item?id=49614720) - [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)

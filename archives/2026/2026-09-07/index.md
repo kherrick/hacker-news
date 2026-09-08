@@ -21,6 +21,7 @@
 * [2026-09-07, 16:58:35](https://news.ycombinator.com/item?id=49600432) - [PostgreSQL 19 Interactive Tour](https://victoriametrics.com/blog/postgres-19/index.html)
 * [2026-09-07, 16:43:37](https://news.ycombinator.com/item?id=49600269) - [Show HN: Wg-admin – web UI for an existing WireGuard host](https://github.com/logimaxx/wg-admin)
 * [2026-09-07, 16:40:32](https://news.ycombinator.com/item?id=49600233) - [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
+* [2026-09-07, 16:02:02](https://news.ycombinator.com/item?id=49599825) - [Reverse Engineering an ASIC](https://kjartanvandriel.github.io/asic/)
 * [2026-09-07, 15:39:20](https://news.ycombinator.com/item?id=49599609) - [C Is Not a Low-Level Language (2018)](https://queue.acm.org/doi/10.1145/3212477.3212479)
 * [2026-09-07, 15:27:03](https://news.ycombinator.com/item?id=49599481) - [Bill Gates tries to install MovieMaker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
 * [2026-09-07, 13:35:13](https://news.ycombinator.com/item?id=49598291) - [bzip3](https://github.com/iczelia/bzip3)

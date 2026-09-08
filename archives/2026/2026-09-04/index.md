@@ -58,6 +58,7 @@
 * [2026-09-04, 10:17:01](https://news.ycombinator.com/item?id=49562657) - [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)
 * [2026-09-04, 10:08:02](https://news.ycombinator.com/item?id=49562594) - [A Week of Bug Reporting](https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html)
 * [2026-09-04, 09:44:45](https://news.ycombinator.com/item?id=49562440) - [Whistle Synth](https://www.jefftk.com/p/whistle-synth-mac-app)
+* [2026-09-04, 09:42:29](https://news.ycombinator.com/item?id=49562430) - [Tracing np.add, all the way down](https://blog.veitheller.de/numpy.html)
 * [2026-09-04, 09:03:00](https://news.ycombinator.com/item?id=49562219) - [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md)
 * [2026-09-04, 08:35:15](https://news.ycombinator.com/item?id=49562062) - [The Raspberry Pi Interactive Timeline · 2006–2026](https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline)
 * [2026-09-04, 08:19:57](https://news.ycombinator.com/item?id=49561975) - [Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/)
