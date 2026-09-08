@@ -59,6 +59,7 @@
 * [2026-09-06, 07:21:06](https://news.ycombinator.com/item?id=49584083) - [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
 * [2026-09-06, 07:15:10](https://news.ycombinator.com/item?id=49584053) - [Catching Crumbs from the Table (2000)](https://www.nature.com/articles/35014679)
 * [2026-09-06, 06:23:05](https://news.ycombinator.com/item?id=49583842) - [Site Is Closed on Sundays](https://v7.robweychert.com/)
+* [2026-09-06, 05:47:05](https://news.ycombinator.com/item?id=49583684) - [Robot writes in languages it has never seen before (2019)](https://www.wired.com/story/robot-writing/)
 * [2026-09-06, 04:40:00](https://news.ycombinator.com/item?id=49583381) - [Decapitating a MacBook (2025)](https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/)
 * [2026-09-06, 02:24:57](https://news.ycombinator.com/item?id=49582719) - [AMD Based FreeBSD Desktop Reloaded](https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/)
 * [2026-09-06, 02:12:46](https://news.ycombinator.com/item?id=49582656) - [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)

@@ -14,6 +14,7 @@
 * [2026-09-04, 21:52:01](https://news.ycombinator.com/item?id=49570669) - [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
 * [2026-09-04, 21:44:59](https://news.ycombinator.com/item?id=49570597) - [Icons as a Service](https://nravic.com/blog/images/)
 * [2026-09-04, 21:39:19](https://news.ycombinator.com/item?id=49570545) - [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
+* [2026-09-04, 21:25:49](https://news.ycombinator.com/item?id=49570411) - [End-to-end infrastructure for training and inferencing open weight models](https://docs.appliedcompute.com)
 * [2026-09-04, 21:16:16](https://news.ycombinator.com/item?id=49570328) - [Updates on HEIR, the Homomorphic Encryption Compiler Project](https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/)
 * [2026-09-04, 21:06:48](https://news.ycombinator.com/item?id=49570206) - [Without new landers or rovers, it's helicopters or bust for NASA's Mars program](https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/)
 * [2026-09-04, 21:05:24](https://news.ycombinator.com/item?id=49570189) - [Some more thoughts on random_page_cost](https://vondra.me/posts/some-more-thoughts-on-random-page-cost/)
