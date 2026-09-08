@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-08](index.md)
 
+* [2026-09-08, 19:25:00](https://news.ycombinator.com/item?id=49615537) - [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)
+* [2026-09-08, 19:04:26](https://news.ycombinator.com/item?id=49615139) - [Function Arguments Are Not Function Colors](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
+* [2026-09-08, 18:37:51](https://news.ycombinator.com/item?id=49614720) - [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
+* [2026-09-08, 18:26:27](https://news.ycombinator.com/item?id=49614557) - [100s of flights cancelled at UK airports due to ATC issue](https://www.bbc.com/news/live/c6x2z0yy32ejt)
 * [2026-09-08, 17:13:21](https://news.ycombinator.com/item?id=49613262) - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
 * [2026-09-08, 17:00:45](https://news.ycombinator.com/item?id=49613086) - [Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools](https://cepr.org/publications/dp21706)
 * [2026-09-08, 16:59:41](https://news.ycombinator.com/item?id=49613068) - [Show HN: LLM Attention Visualization](https://ishamf.dev/p/llm-attention-visualizer/)
