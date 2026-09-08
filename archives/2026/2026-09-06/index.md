@@ -55,6 +55,7 @@
 * [2026-09-06, 09:14:22](https://news.ycombinator.com/item?id=49584637) - [You Don't Have a Right to Safe Drinking Water, US Court Rules](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/)
 * [2026-09-06, 07:33:17](https://news.ycombinator.com/item?id=49584123) - [Play GTA Vice City in the Browser](https://quenq.com/apps/vice-city-online/)
 * [2026-09-06, 07:21:06](https://news.ycombinator.com/item?id=49584083) - [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
+* [2026-09-06, 07:15:10](https://news.ycombinator.com/item?id=49584053) - [Catching Crumbs from the Table (2000)](https://www.nature.com/articles/35014679)
 * [2026-09-06, 06:23:05](https://news.ycombinator.com/item?id=49583842) - [Site Is Closed on Sundays](https://v7.robweychert.com/)
 * [2026-09-06, 04:40:00](https://news.ycombinator.com/item?id=49583381) - [Decapitating a MacBook (2025)](https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/)
 * [2026-09-06, 02:24:57](https://news.ycombinator.com/item?id=49582719) - [AMD Based FreeBSD Desktop Reloaded](https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/)

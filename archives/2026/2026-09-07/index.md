@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-07](index.md)
 
+* [2026-09-07, 23:37:42](https://news.ycombinator.com/item?id=49604150) - [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
+* [2026-09-07, 22:12:38](https://news.ycombinator.com/item?id=49603546) - [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
 * [2026-09-07, 21:19:12](https://news.ycombinator.com/item?id=49603092) - [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer)
+* [2026-09-07, 21:18:15](https://news.ycombinator.com/item?id=49603086) - [Working on Economics with Fable 5](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
 * [2026-09-07, 20:34:32](https://news.ycombinator.com/item?id=49602716) - [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
+* [2026-09-07, 20:32:55](https://news.ycombinator.com/item?id=49602699) - [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/)
 * [2026-09-07, 20:21:12](https://news.ycombinator.com/item?id=49602582) - [A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on](https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/)
 * [2026-09-07, 19:06:01](https://news.ycombinator.com/item?id=49601814) - [Replaceable but Employed: Automation and the Meaning of Work](https://www.nber.org/papers/w35559)
 * [2026-09-07, 18:52:06](https://news.ycombinator.com/item?id=49601655) - [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)

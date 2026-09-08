@@ -27,6 +27,7 @@
 * [2026-09-04, 18:57:32](https://news.ycombinator.com/item?id=49568697) - [Fermat's Last Theorem in Lean 4](https://github.com/anthropics/fermats-last-theorem)
 * [2026-09-04, 18:50:28](https://news.ycombinator.com/item?id=49568579) - [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
 * [2026-09-04, 18:42:56](https://news.ycombinator.com/item?id=49568506) - [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
+* [2026-09-04, 18:14:44](https://news.ycombinator.com/item?id=49568162) - [Show HN: I built an aesthetically pleasing puzzle](https://jigsawhaiku.com/)
 * [2026-09-04, 17:56:14](https://news.ycombinator.com/item?id=49567961) - [Hayes AT command set](https://en.wikipedia.org/wiki/Hayes_AT_command_set)
 * [2026-09-04, 17:49:09](https://news.ycombinator.com/item?id=49567873) - [The Rust React Compiler is now native in Vite](https://blog.master.dev/react-now-rusted-all-the-way-out/)
 * [2026-09-04, 17:29:22](https://news.ycombinator.com/item?id=49567594) - [Nobody Is Saying Why OpenAI and Anthropic Had Outages](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
