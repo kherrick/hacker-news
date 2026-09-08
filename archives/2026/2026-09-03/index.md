@@ -44,6 +44,7 @@
 * [2026-09-03, 13:47:38](https://news.ycombinator.com/item?id=49549877) - [Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere](https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere)
 * [2026-09-03, 13:37:22](https://news.ycombinator.com/item?id=49549778) - [Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor](https://github.com/iczelia/balrogg)
 * [2026-09-03, 13:29:12](https://news.ycombinator.com/item?id=49549676) - [Elevated Errors for Multiple Models](https://status.claude.com/incidents/461yvfrzpwtt)
+* [2026-09-03, 12:53:21](https://news.ycombinator.com/item?id=49549327) - [Extinct Tasmanian tiger's 'snap' unlike any living mammal's bite](https://www.cnn.com/2026/09/02/science/tasmanian-tiger-skull-bite-force)
 * [2026-09-03, 12:33:01](https://news.ycombinator.com/item?id=49549148) - [Show HN: Reactor Atlas](https://reactoratlas.com)
 * [2026-09-03, 12:10:33](https://news.ycombinator.com/item?id=49548952) - [Nvidia to Acquire Hugging Face](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/)
 * [2026-09-03, 12:00:52](https://news.ycombinator.com/item?id=49548864) - [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)

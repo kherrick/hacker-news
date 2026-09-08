@@ -15,6 +15,7 @@
 * [2026-09-05, 20:31:38](https://news.ycombinator.com/item?id=49580369) - [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
 * [2026-09-05, 20:25:59](https://news.ycombinator.com/item?id=49580329) - [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)
 * [2026-09-05, 20:25:30](https://news.ycombinator.com/item?id=49580325) - [Isar Aerospace launch into orbit [video]](https://www.youtube.com/watch?v=Ss1DUqLjecc)
+* [2026-09-05, 20:15:36](https://news.ycombinator.com/item?id=49580260) - [Everything is free now, so why not a floating orb in my IDE](https://eighttrigrams.net/post/79)
 * [2026-09-05, 20:14:25](https://news.ycombinator.com/item?id=49580248) - [Space industry lacks workers needed to rebuild satellites lost in war: report](https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/)
 * [2026-09-05, 20:02:35](https://news.ycombinator.com/item?id=49580164) - [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
 * [2026-09-05, 19:41:27](https://news.ycombinator.com/item?id=49579956) - [ISAR Aerospace 5 Sept Mission Onward and Upward](https://isaraerospace.com/mission-updates-overview)
