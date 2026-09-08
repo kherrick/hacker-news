@@ -1,12 +1,112 @@
 [
   [
     [
+      "2026-09-08, 08:42:56",
+      "https://news.ycombinator.com/item?id=49607443"
+    ],
+    [
+      "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 06:39:20",
+      "https://news.ycombinator.com/item?id=49606339"
+    ],
+    [
+      "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+      "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 05:42:28",
+      "https://news.ycombinator.com/item?id=49605915"
+    ],
+    [
+      "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "https://cims.nyu.edu/~tristanb/statement.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 05:20:23",
+      "https://news.ycombinator.com/item?id=49605822"
+    ],
+    [
+      "Multi-Agents LLM Financial Trading Framework",
+      "https://github.com/TauricResearch/TradingAgents"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 05:10:36",
+      "https://news.ycombinator.com/item?id=49605782"
+    ],
+    [
+      "My Feed, My Way",
+      "https://www.pm.gov.au/media/my-feed-my-way"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 05:06:23",
+      "https://news.ycombinator.com/item?id=49605767"
+    ],
+    [
+      "Mistral raises €3B",
+      "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 04:48:10",
+      "https://news.ycombinator.com/item?id=49605691"
+    ],
+    [
+      "We have a year to fix security everywhere",
+      "https://jyn.dev/a-year-to-fix-security/"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 04:36:26",
+      "https://news.ycombinator.com/item?id=49605644"
+    ],
+    [
+      "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "https://rohanadwankar.github.io/posts/platforms.html"
+    ]
+  ],
+  [
+    [
       "2026-09-08, 04:06:20",
       "https://news.ycombinator.com/item?id=49605511"
     ],
     [
       "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
       "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 03:42:25",
+      "https://news.ycombinator.com/item?id=49605433"
+    ],
+    [
+      "I tested 10 model/harness combinations on the same Three.js task",
+      "https://alvins82.github.io/hangar-harness-model-tests/"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 03:40:24",
+      "https://news.ycombinator.com/item?id=49605424"
+    ],
+    [
+      "GamersNexus and LG: Or why rooting your TV is a bad idea",
+      "https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n"
     ]
   ],
   [
@@ -21,12 +121,12 @@
   ],
   [
     [
-      "2026-09-08, 02:36:47",
-      "https://news.ycombinator.com/item?id=49605122"
+      "2026-09-08, 01:57:23",
+      "https://news.ycombinator.com/item?id=49604870"
     ],
     [
-      "Show HN: NYC MapTap – Learn NYC neighborhoods",
-      "https://albertjoseph0.github.io/nyc-maptap/"
+      "There's a new \"Google Jail\" for independent wikis",
+      "https://weirdgloop.org/blog/google-jail"
     ]
   ],
   [
@@ -61,26 +161,6 @@
   ],
   [
     [
-      "2026-09-07, 22:12:38",
-      "https://news.ycombinator.com/item?id=49603546"
-    ],
-    [
-      "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-      "https://github.com/Sadpainy/Stuxnet"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 20:34:32",
-      "https://news.ycombinator.com/item?id=49602716"
-    ],
-    [
-      "Macbeth and His Problems",
-      "https://porticoquarterly.com/essay/macbeth-and-his-problems/"
-    ]
-  ],
-  [
-    [
       "2026-09-07, 20:32:55",
       "https://news.ycombinator.com/item?id=49602699"
     ],
@@ -111,22 +191,12 @@
   ],
   [
     [
-      "2026-09-07, 09:26:53",
-      "https://news.ycombinator.com/item?id=49596055"
+      "2026-09-07, 09:00:01",
+      "https://news.ycombinator.com/item?id=49595841"
     ],
     [
-      "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
-      "https://mathathonchallenge.com/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 03:29:51",
-      "https://news.ycombinator.com/item?id=49593563"
-    ],
-    [
-      "Keep Our Servers Running",
-      "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/"
+      "anystation: Calling any station A public board shaped like a tree. No account",
+      "https://anystation.net/"
     ]
   ],
   [
@@ -141,6 +211,26 @@
   ],
   [
     [
+      "2026-09-06, 19:51:28",
+      "https://news.ycombinator.com/item?id=49590199"
+    ],
+    [
+      "Understanding Computer Memory Architecture and SSD Internals",
+      "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 14:59:08",
+      "https://news.ycombinator.com/item?id=49587115"
+    ],
+    [
+      "Feather Atlas",
+      "https://www.fws.gov/lab/featheratlas/identify.html"
+    ]
+  ],
+  [
+    [
       "2026-09-06, 13:07:52",
       "https://news.ycombinator.com/item?id=49586207"
     ],
@@ -151,22 +241,12 @@
   ],
   [
     [
-      "2026-09-06, 07:15:10",
-      "https://news.ycombinator.com/item?id=49584053"
+      "2026-09-05, 18:44:40",
+      "https://news.ycombinator.com/item?id=49579443"
     ],
     [
-      "Catching Crumbs from the Table (2000)",
-      "https://www.nature.com/articles/35014679"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 20:15:36",
-      "https://news.ycombinator.com/item?id=49580260"
-    ],
-    [
-      "Everything is free now, so why not a floating orb in my IDE",
-      "https://eighttrigrams.net/post/79"
+      "We built our house for LAN parties",
+      "https://lanparty.house/"
     ]
   ],
   [
@@ -181,26 +261,6 @@
   ],
   [
     [
-      "2026-09-04, 22:47:04",
-      "https://news.ycombinator.com/item?id=49571096"
-    ],
-    [
-      "This Month in Ladybird – August 2026",
-      "https://ladybird.org/newsletter/2026-08-31/"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 21:05:24",
-      "https://news.ycombinator.com/item?id=49570189"
-    ],
-    [
-      "Some more thoughts on random_page_cost",
-      "https://vondra.me/posts/some-more-thoughts-on-random-page-cost/"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 20:28:52",
       "https://news.ycombinator.com/item?id=49569838"
     ],
@@ -211,72 +271,12 @@
   ],
   [
     [
-      "2026-09-04, 20:20:07",
-      "https://news.ycombinator.com/item?id=49569748"
-    ],
-    [
-      "Finding a bug in Dummit and Foote's Abstract Algebra",
-      "https://kallus.org/blog/dummit_and_foote.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 18:14:44",
-      "https://news.ycombinator.com/item?id=49568162"
-    ],
-    [
-      "Show HN: Jigsaw Haiku",
-      "https://jigsawhaiku.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 13:05:31",
-      "https://news.ycombinator.com/item?id=49564064"
-    ],
-    [
-      "Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board",
-      "https://blog.yosyshq.com/p/colorlight-part-1/"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 05:53:38",
-      "https://news.ycombinator.com/item?id=49561002"
-    ],
-    [
-      "Decoding the NEC V20 Microcode",
-      "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 04:57:22",
       "https://news.ycombinator.com/item?id=49560682"
     ],
     [
       "John Margolies' photographs of roadside America",
       "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/"
-    ]
-  ],
-  [
-    [
-      "2026-09-04, 00:40:06",
-      "https://news.ycombinator.com/item?id=49559069"
-    ],
-    [
-      "Show HN: Interactive Tree of Life",
-      "https://ptree.org/"
-    ]
-  ],
-  [
-    [
-      "2026-09-03, 23:47:28",
-      "https://news.ycombinator.com/item?id=49558685"
-    ],
-    [
-      "Simple Is Not Small",
-      "https://jyn.dev/simple-is-not-the-same-as-small/"
     ]
   ],
   [
