@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-09-07, 21:19:12",
-      "https://news.ycombinator.com/item?id=49603092"
+      "2026-09-07, 23:37:42",
+      "https://news.ycombinator.com/item?id=49604150"
     ],
     [
-      "The Education of a Doomer",
-      "https://borretti.me/article/the-education-of-a-doomer"
+      "TALA Is Open-Source",
+      "https://d2lang.com/blog/tala-is-open-source/"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 22:12:38",
+      "https://news.ycombinator.com/item?id=49603546"
+    ],
+    [
+      "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "https://github.com/Sadpainy/Stuxnet"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 21:18:15",
+      "https://news.ycombinator.com/item?id=49603086"
+    ],
+    [
+      "Working on Economics with Fable 5",
+      "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2026-09-07, 20:21:12",
-      "https://news.ycombinator.com/item?id=49602582"
+      "2026-09-07, 20:32:55",
+      "https://news.ycombinator.com/item?id=49602699"
     ],
     [
-      "A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on",
-      "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/"
+      "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2026-09-07, 16:43:37",
-      "https://news.ycombinator.com/item?id=49600269"
-    ],
-    [
-      "Show HN: Wg-admin – web UI for an existing WireGuard host",
-      "https://github.com/logimaxx/wg-admin"
-    ]
-  ],
-  [
-    [
       "2026-09-07, 13:35:13",
       "https://news.ycombinator.com/item?id=49598291"
     ],
@@ -77,16 +87,6 @@
     [
       "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
       "https://mathathonchallenge.com/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 09:26:41",
-      "https://news.ycombinator.com/item?id=49596054"
-    ],
-    [
-      "Speculative Decoding in vLLM on AMD GPUs",
-      "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus"
     ]
   ],
   [
@@ -141,12 +141,12 @@
   ],
   [
     [
-      "2026-09-06, 12:58:54",
-      "https://news.ycombinator.com/item?id=49586139"
+      "2026-09-06, 07:15:10",
+      "https://news.ycombinator.com/item?id=49584053"
     ],
     [
-      "Schemy Lisp En DOS",
-      "https://sled.neocities.org/"
+      "Catching Crumbs from the Table (2000)",
+      "https://www.nature.com/articles/35014679"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Decapitating a MacBook (2025)",
       "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/"
-    ]
-  ],
-  [
-    [
-      "2026-09-05, 15:22:02",
-      "https://news.ycombinator.com/item?id=49577422"
-    ],
-    [
-      "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
-      "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Finding a bug in Dummit and Foote's Abstract Algebra",
       "https://kallus.org/blog/dummit_and_foote.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-04, 18:14:44",
+      "https://news.ycombinator.com/item?id=49568162"
+    ],
+    [
+      "Show HN: I built an aesthetically pleasing puzzle",
+      "https://jigsawhaiku.com/"
     ]
   ],
   [
