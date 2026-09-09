@@ -11,6 +11,7 @@
 * [2026-09-07, 21:18:15](https://news.ycombinator.com/item?id=49603086) - [Working on Economics with Fable 5](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
 * [2026-09-07, 20:34:32](https://news.ycombinator.com/item?id=49602716) - [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
 * [2026-09-07, 20:32:55](https://news.ycombinator.com/item?id=49602699) - [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/)
+* [2026-09-07, 20:24:53](https://news.ycombinator.com/item?id=49602615) - [Use Vsock with Libzmq](https://blog.remijouan.net/posts/libzmq-vsock-pyzmq/)
 * [2026-09-07, 20:21:12](https://news.ycombinator.com/item?id=49602582) - [A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on](https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/)
 * [2026-09-07, 20:12:12](https://news.ycombinator.com/item?id=49602490) - [Emacs Bedrock 2.0](https://lambdaland.org/posts/2026-09-06-bedrock-v2/)
 * [2026-09-07, 19:06:01](https://news.ycombinator.com/item?id=49601814) - [Replaceable but Employed: Automation and the Meaning of Work](https://www.nber.org/papers/w35559)

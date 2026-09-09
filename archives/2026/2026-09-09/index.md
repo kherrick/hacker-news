@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-09](index.md)
 
+* [2026-09-09, 21:28:56](https://news.ycombinator.com/item?id=49634650) - [Automattic CEO Matt Mullenweg Put on 'Leave of Absence'](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
 * [2026-09-09, 18:15:43](https://news.ycombinator.com/item?id=49630931) - [iPhone Duo](https://www.apple.com/iphone-duo/)
 * [2026-09-09, 17:57:55](https://news.ycombinator.com/item?id=49630606) - [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)
 * [2026-09-09, 17:56:57](https://news.ycombinator.com/item?id=49630583) - [Apple Watch Ultra 4](https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/)
@@ -12,6 +13,7 @@
 * [2026-09-09, 17:33:20](https://news.ycombinator.com/item?id=49630151) - [iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
 * [2026-09-09, 17:24:28](https://news.ycombinator.com/item?id=49630026) - [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
 * [2026-09-09, 17:14:59](https://news.ycombinator.com/item?id=49629886) - [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
+* [2026-09-09, 17:13:52](https://news.ycombinator.com/item?id=49629868) - [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://arxiv.org/abs/2609.09153)
 * [2026-09-09, 17:13:52](https://news.ycombinator.com/item?id=49629868) - [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://academy.dair.ai/papers/procedural-graphs-self-evolving-execution-structures-for-llm-agents-2609.09153)
 * [2026-09-09, 17:13:43](https://news.ycombinator.com/item?id=49629865) - [Why Emacs Consult async searches feel slow and how to speed them up](https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/)
 * [2026-09-09, 17:06:21](https://news.ycombinator.com/item?id=49629747) - [Show HN: Rdltr – Inbox zero for your reading list](https://rdltr.app/)
@@ -29,6 +31,7 @@
 * [2026-09-09, 14:37:47](https://news.ycombinator.com/item?id=49627370) - [GPT-6 Astra, looped transformers, and hidden reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and)
 * [2026-09-09, 13:41:55](https://news.ycombinator.com/item?id=49626431) - [Ask HN: Anyone still coding like 2021? Where do you work?](https://news.ycombinator.com/item?id=49626431)
 * [2026-09-09, 13:41:53](https://news.ycombinator.com/item?id=49626429) - [Playing whack-a-mole is losing](https://dadrian.io/blog/posts/whack-a-mole-is-losing/)
+* [2026-09-09, 13:38:23](https://news.ycombinator.com/item?id=49626373) - [What will our economic future look like?](https://www.anthropic.com/institute/econ-scenarios)
 * [2026-09-09, 13:38:14](https://news.ycombinator.com/item?id=49626372) - [Do people prefer stories written by AI?](https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai)
 * [2026-09-09, 13:27:11](https://news.ycombinator.com/item?id=49626190) - [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
 * [2026-09-09, 13:16:45](https://news.ycombinator.com/item?id=49626052) - [One woman's Tesla was remotely controlled by an abusive ex-partner](https://www.theguardian.com/australia-news/2026/sep/09/how-one-womans-tesla-was-remotely-controlled-and-harass-by-her-abusive-ex-partner-ntwnfb)

@@ -45,6 +45,7 @@
 * [2026-09-05, 09:54:15](https://news.ycombinator.com/item?id=49574941) - [Picolibrary: A Small Press](https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html)
 * [2026-09-05, 07:52:50](https://news.ycombinator.com/item?id=49574167) - [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
 * [2026-09-05, 06:31:49](https://news.ycombinator.com/item?id=49573680) - [Git hosting that never leaves Europe](https://pushin.eu)
+* [2026-09-05, 06:24:26](https://news.ycombinator.com/item?id=49573629) - [Microsoft says email spammers are adopting ASCII smuggling](https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/)
 * [2026-09-05, 03:38:56](https://news.ycombinator.com/item?id=49572875) - [GPT-6 Astra in code review: Gains, privacy, and cost](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)
 * [2026-09-05, 00:04:16](https://news.ycombinator.com/item?id=49571634) - [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
 * [2026-09-05, 00:04:14](https://news.ycombinator.com/item?id=49571632) - [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
