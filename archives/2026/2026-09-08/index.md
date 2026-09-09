@@ -41,6 +41,7 @@
 * [2026-09-08, 11:13:03](https://news.ycombinator.com/item?id=49608697) - [PISA 2025 Students' reading and mathematics performance declined across the OECD](https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html)
 * [2026-09-08, 09:48:24](https://news.ycombinator.com/item?id=49608023) - [Why getting your hands dirty is good for you](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
 * [2026-09-08, 09:43:14](https://news.ycombinator.com/item?id=49607991) - [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics)
+* [2026-09-08, 09:28:35](https://news.ycombinator.com/item?id=49607858) - [Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme](https://codeberg.org/jjba23/maak.el)
 * [2026-09-08, 08:42:56](https://news.ycombinator.com/item?id=49607443) - [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
 * [2026-09-08, 06:39:20](https://news.ycombinator.com/item?id=49606339) - [UAE-based Falcon AI NSFW classifier among top global open-source models (2025)](https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly)
 * [2026-09-08, 05:42:28](https://news.ycombinator.com/item?id=49605915) - [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
