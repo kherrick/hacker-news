@@ -24,6 +24,7 @@
 * [2026-09-07, 16:02:02](https://news.ycombinator.com/item?id=49599825) - [Reverse Engineering an ASIC](https://kjartanvandriel.github.io/asic/)
 * [2026-09-07, 15:39:20](https://news.ycombinator.com/item?id=49599609) - [C Is Not a Low-Level Language (2018)](https://queue.acm.org/doi/10.1145/3212477.3212479)
 * [2026-09-07, 15:27:03](https://news.ycombinator.com/item?id=49599481) - [Bill Gates tries to install MovieMaker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
+* [2026-09-07, 14:35:12](https://news.ycombinator.com/item?id=49598921) - [Getting phpBB 1.4.4 working in Docker](https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html)
 * [2026-09-07, 13:35:13](https://news.ycombinator.com/item?id=49598291) - [bzip3](https://github.com/iczelia/bzip3)
 * [2026-09-07, 13:00:48](https://news.ycombinator.com/item?id=49597907) - [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
 * [2026-09-07, 12:58:57](https://news.ycombinator.com/item?id=49597895) - [Splash-free urinals (2025)](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)

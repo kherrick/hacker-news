@@ -10,6 +10,7 @@
 * [2026-09-06, 22:43:25](https://news.ycombinator.com/item?id=49591672) - [Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet](https://twitter.com/Liquid_BTC/status/2096696272447218108)
 * [2026-09-06, 22:36:07](https://news.ycombinator.com/item?id=49591620) - [Political meddling at the Census Bureau damages the US statistical system](https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system)
 * [2026-09-06, 22:27:27](https://news.ycombinator.com/item?id=49591563) - [The 92-Year-Old Mathematician and the Teenage Apprentice](https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html)
+* [2026-09-06, 21:24:23](https://news.ycombinator.com/item?id=49591112) - [The Microeconomics of Artificial Intelligence (2025)](https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence)
 * [2026-09-06, 21:16:10](https://news.ycombinator.com/item?id=49591036) - [Windows 11's \"special\" developer edition looks like another marketing misfire](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
 * [2026-09-06, 21:05:21](https://news.ycombinator.com/item?id=49590946) - [Signing TLS handshakes inside a TPM](https://bschaatsbergen.com/posts/go-tpm-tls/)
 * [2026-09-06, 20:45:13](https://news.ycombinator.com/item?id=49590738) - [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)
