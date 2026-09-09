@@ -1,32 +1,162 @@
 [
   [
     [
-      "2026-09-09, 13:41:55",
-      "https://news.ycombinator.com/item?id=49626431"
+      "2026-09-09, 17:39:24",
+      "https://news.ycombinator.com/item?id=49630253"
     ],
     [
-      "Ask HN: Anyone still coding like 2021? Where do you work?",
-      "https://news.ycombinator.com/item?id=49626431"
+      "Apple Introduces AirPods 5",
+      "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/"
     ]
   ],
   [
     [
-      "2026-09-09, 13:41:53",
-      "https://news.ycombinator.com/item?id=49626429"
+      "2026-09-09, 17:24:28",
+      "https://news.ycombinator.com/item?id=49630026"
     ],
     [
-      "Playing whack-a-mole is losing",
-      "https://dadrian.io/blog/posts/whack-a-mole-is-losing/"
+      "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3"
     ]
   ],
   [
     [
-      "2026-09-09, 13:38:14",
-      "https://news.ycombinator.com/item?id=49626372"
+      "2026-09-09, 17:14:59",
+      "https://news.ycombinator.com/item?id=49629886"
     ],
     [
-      "Do people prefer stories written by AI?",
-      "https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai"
+      "Growing proof that autonomous cars save lives",
+      "https://spectrum.ieee.org/are-self-driving-cars-safe"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 17:13:43",
+      "https://news.ycombinator.com/item?id=49629865"
+    ],
+    [
+      "Why Emacs Consult async searches feel slow and how to speed them up",
+      "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 17:06:21",
+      "https://news.ycombinator.com/item?id=49629747"
+    ],
+    [
+      "Show HN: Rdltr – Inbox zero for your reading list",
+      "https://rdltr.app/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 16:57:34",
+      "https://news.ycombinator.com/item?id=49629608"
+    ],
+    [
+      "Every Millisecond Counts",
+      "https://jordivillar.com/blog/every-millisecond-counts"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 16:33:44",
+      "https://news.ycombinator.com/item?id=49629209"
+    ],
+    [
+      "The UN challenges five centuries of cartography",
+      "https://www.not-ship.com/united-nations-map/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 16:18:38",
+      "https://news.ycombinator.com/item?id=49628982"
+    ],
+    [
+      "I haven't lost a customer service fight in seven months",
+      "https://www.sudomoin.com/p/consumer-claims"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 15:55:53",
+      "https://news.ycombinator.com/item?id=49628614"
+    ],
+    [
+      "Understanding the recent DDoS attack against Read the Docs",
+      "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 15:53:06",
+      "https://news.ycombinator.com/item?id=49628576"
+    ],
+    [
+      "GNU Radio in the browser",
+      "https://gnuradioworld.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 15:47:42",
+      "https://news.ycombinator.com/item?id=49628493"
+    ],
+    [
+      "No Man's Sky Cosmos",
+      "https://www.nomanssky.com/cosmos-update/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 15:45:43",
+      "https://news.ycombinator.com/item?id=49628454"
+    ],
+    [
+      "Better AI code comment detector",
+      "https://entropicthoughts.com/better-ai-comment-classifier"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 15:44:09",
+      "https://news.ycombinator.com/item?id=49628429"
+    ],
+    [
+      "Planet Labs' open satellite feed",
+      "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 15:34:51",
+      "https://news.ycombinator.com/item?id=49628290"
+    ],
+    [
+      "We accidentally built a synthetic cell factory",
+      "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 15:09:05",
+      "https://news.ycombinator.com/item?id=49627872"
+    ],
+    [
+      "Show HN: Give your AI agent on-screen guides that show users where to click",
+      "https://news.ycombinator.com/item?id=49627872"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 14:37:47",
+      "https://news.ycombinator.com/item?id=49627370"
+    ],
+    [
+      "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
     ]
   ],
   [
@@ -37,16 +167,6 @@
     [
       "Tailwind Labs is joining Shopify",
       "https://tailwindcss.com/blog/tailwind-is-joining-shopify"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 13:16:45",
-      "https://news.ycombinator.com/item?id=49626052"
-    ],
-    [
-      "One woman's Tesla was remotely controlled by an abusive ex-partner",
-      "https://www.theguardian.com/australia-news/2026/sep/09/how-one-womans-tesla-was-remotely-controlled-and-harass-by-her-abusive-ex-partner-ntwnfb"
     ]
   ],
   [
@@ -65,7 +185,7 @@
       "https://news.ycombinator.com/item?id=49624856"
     ],
     [
-      "I advertise malicious software on Google Ads",
+      "How I advertise malicious software on Google Ads",
       "https://xlii.space/eng/malicious-software-on-google-ads/"
     ]
   ],
@@ -91,112 +211,12 @@
   ],
   [
     [
-      "2026-09-09, 10:54:18",
-      "https://news.ycombinator.com/item?id=49624394"
-    ],
-    [
-      "Flock Wants a Closely Surveilled World with No Exit",
-      "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 10:25:41",
-      "https://news.ycombinator.com/item?id=49624163"
-    ],
-    [
-      "How An AI math breakthrough ignited a controversy",
-      "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 10:01:16",
-      "https://news.ycombinator.com/item?id=49623938"
-    ],
-    [
-      "Building a Wall Lamp from Scratch",
-      "https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 10:01:15",
-      "https://news.ycombinator.com/item?id=49623937"
-    ],
-    [
-      "Lotus Notes and the dangers of starting from scratch",
-      "https://buttondown.com/blog/lotus-notes-email"
-    ]
-  ],
-  [
-    [
       "2026-09-09, 09:39:46",
       "https://news.ycombinator.com/item?id=49623754"
     ],
     [
       "Claude, change the \"Add to Cart\" button to blue",
       "https://opusfived.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 07:22:46",
-      "https://news.ycombinator.com/item?id=49622561"
-    ],
-    [
-      "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "https://openai.com/index/codex-quantum-computing-experiments/"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 06:02:07",
-      "https://news.ycombinator.com/item?id=49621751"
-    ],
-    [
-      "“Tweet” and the bird logo apparently enter the public domain",
-      "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 04:43:46",
-      "https://news.ycombinator.com/item?id=49621102"
-    ],
-    [
-      "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
-      "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 21:47:38",
-      "https://news.ycombinator.com/item?id=49617581"
-    ],
-    [
-      "Large language models develop novel social biases through adaptive exploration",
-      "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 21:22:11",
-      "https://news.ycombinator.com/item?id=49617255"
-    ],
-    [
-      "How to build a printer",
-      "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 20:14:52",
-      "https://news.ycombinator.com/item?id=49616354"
-    ],
-    [
-      "Mercury 2.5",
-      "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5"
     ]
   ],
   [
@@ -211,52 +231,42 @@
   ],
   [
     [
-      "2026-09-08, 14:55:45",
-      "https://news.ycombinator.com/item?id=49611251"
+      "2026-09-08, 19:09:50",
+      "https://news.ycombinator.com/item?id=49615245"
     ],
     [
-      "AlphaGenome Atlas: a high-resolution map of human DNA",
-      "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
+      "Rivian's gambit for full autonomy",
+      "https://spectrum.ieee.org/rivian-self-driving"
     ]
   ],
   [
     [
-      "2026-09-08, 14:13:26",
-      "https://news.ycombinator.com/item?id=49610631"
+      "2026-09-08, 18:27:32",
+      "https://news.ycombinator.com/item?id=49614575"
     ],
     [
-      "I-have-ADHD: A skill to stop coding agents from burying the answer",
-      "https://github.com/ayghri/i-have-adhd"
+      "Generating the P3 Tiling",
+      "https://k-monk.org/blog/generating-the-p3-tiling/"
     ]
   ],
   [
     [
-      "2026-09-08, 13:36:53",
-      "https://news.ycombinator.com/item?id=49610181"
+      "2026-09-08, 18:11:05",
+      "https://news.ycombinator.com/item?id=49614280"
     ],
     [
-      "DaVinci Resolve 21.1",
-      "https://www.blackmagicdesign.com/media/release/20260908-03"
+      "What do Visa and Mastercard do? An intro to card networks",
+      "https://tautology.town/2026/06/01/card-networks.html"
     ]
   ],
   [
     [
-      "2026-09-08, 05:42:28",
-      "https://news.ycombinator.com/item?id=49605915"
+      "2026-09-07, 14:44:42",
+      "https://news.ycombinator.com/item?id=49599012"
     ],
     [
-      "Navier-Stokes – Tristan Buckmaster [pdf]",
-      "https://cims.nyu.edu/~tristanb/statement.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 23:40:33",
-      "https://news.ycombinator.com/item?id=49604165"
-    ],
-    [
-      "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes",
-      "https://github.com/ashemag/human-atlas"
+      "Magic Move for Code Snippets from first principles",
+      "https://rahulrav.com/blog/magic_move.html"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2026-09-05, 21:14:18",
-      "https://news.ycombinator.com/item?id=49580761"
+      "2026-09-06, 08:13:53",
+      "https://news.ycombinator.com/item?id=49584361"
     ],
     [
-      "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
-      "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/"
+      "Bespoke: A programming language for people who say please",
+      "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/"
     ]
   ],
   [
     [
-      "2026-09-04, 10:58:30",
-      "https://news.ycombinator.com/item?id=49562915"
+      "2026-09-04, 20:06:17",
+      "https://news.ycombinator.com/item?id=49569584"
     ],
     [
-      "Smolts: A pedagogical IDE for a teaching language",
-      "https://eighty-twenty.org/2026/09/04/smolts"
-    ]
-  ],
-  [
-    [
-      "2026-09-03, 07:29:40",
-      "https://news.ycombinator.com/item?id=49546964"
-    ],
-    [
-      "Tension wood: A 'muscle' that can both bend and straighten plants",
-      "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html"
+      "Searching for the best silicone USB cable",
+      "https://www.frankchiarulli.com/blog/best-silicone-usb-cable/"
     ]
   ]
 ]
