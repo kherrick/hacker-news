@@ -58,6 +58,7 @@
 * [2026-09-03, 10:23:19](https://news.ycombinator.com/item?id=49548196) - [Please don't rearrange our shoes when we turn up, paramedics in Japan urge](https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette)
 * [2026-09-03, 09:37:55](https://news.ycombinator.com/item?id=49547888) - [Claude for Commerce Agents](https://claude.com/blog/claude-for-commerce-agents)
 * [2026-09-03, 08:31:22](https://news.ycombinator.com/item?id=49547415) - [People that worked on the same idea for decades](https://nityasnotes.com/writing/decades/)
+* [2026-09-03, 07:29:40](https://news.ycombinator.com/item?id=49546964) - [Tension wood: A 'muscle' that can both bend and straighten plants](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html)
 * [2026-09-03, 07:04:13](https://news.ycombinator.com/item?id=49546800) - [Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
 * [2026-09-03, 06:59:08](https://news.ycombinator.com/item?id=49546753) - [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
 * [2026-09-03, 05:35:31](https://news.ycombinator.com/item?id=49546284) - [RSA-260 Factorized](https://twitter.com/penlume/status/2095372672356212876)
