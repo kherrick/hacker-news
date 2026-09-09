@@ -24,6 +24,7 @@
 * [2026-09-04, 20:20:07](https://news.ycombinator.com/item?id=49569748) - [Finding a bug in Dummit and Foote's Abstract Algebra](https://kallus.org/blog/dummit_and_foote.html)
 * [2026-09-04, 20:16:22](https://news.ycombinator.com/item?id=49569702) - [How to Create a Tor Exit Node](https://madpsy.uk/how-to-create-a-tor-exit-node/)
 * [2026-09-04, 20:13:08](https://news.ycombinator.com/item?id=49569663) - [An open DNS recursive service for free security and high privacy](https://quad9.net/)
+* [2026-09-04, 20:06:17](https://news.ycombinator.com/item?id=49569584) - [Searching for the best silicone USB cable](https://www.frankchiarulli.com/blog/best-silicone-usb-cable/)
 * [2026-09-04, 19:48:29](https://news.ycombinator.com/item?id=49569366) - [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
 * [2026-09-04, 19:06:39](https://news.ycombinator.com/item?id=49568828) - [Government Rails Site Hit Hours After CVE Patch](https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/)
 * [2026-09-04, 18:57:32](https://news.ycombinator.com/item?id=49568697) - [Fermat's Last Theorem in Lean 4](https://github.com/anthropics/fermats-last-theorem)

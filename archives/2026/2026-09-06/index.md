@@ -60,6 +60,7 @@
 * [2026-09-06, 10:39:44](https://news.ycombinator.com/item?id=49585161) - [I Changed My License](https://bergie.iki.fi/blog/eupl/)
 * [2026-09-06, 10:14:03](https://news.ycombinator.com/item?id=49585008) - [Onionspector – now let's see what The Onion knows about you](https://0ut3r.space/2026/09/06/onionspector/)
 * [2026-09-06, 09:14:22](https://news.ycombinator.com/item?id=49584637) - [You Don't Have a Right to Safe Drinking Water, US Court Rules](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/)
+* [2026-09-06, 08:13:53](https://news.ycombinator.com/item?id=49584361) - [Bespoke: A programming language for people who say please](https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/)
 * [2026-09-06, 07:33:17](https://news.ycombinator.com/item?id=49584123) - [Play GTA Vice City in the Browser](https://quenq.com/apps/vice-city-online/)
 * [2026-09-06, 07:21:06](https://news.ycombinator.com/item?id=49584083) - [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
 * [2026-09-06, 07:15:10](https://news.ycombinator.com/item?id=49584053) - [Catching Crumbs from the Table (2000)](https://www.nature.com/articles/35014679)
