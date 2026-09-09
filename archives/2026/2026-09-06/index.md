@@ -44,6 +44,7 @@
 * [2026-09-06, 14:08:59](https://news.ycombinator.com/item?id=49586698) - [Asahi Linux on M3](https://asahilinux.org/2026/09/m2-episode-1/)
 * [2026-09-06, 14:08:59](https://news.ycombinator.com/item?id=49586698) - [Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats](https://www.phoronix.com/news/Asahi-Linux-Official-M3)
 * [2026-09-06, 14:03:24](https://news.ycombinator.com/item?id=49586667) - [Extracting Steering Vectors from J space](https://darshanmakwana412.github.io/2026/09/extracting-steering-vectors-from-j-space/)
+* [2026-09-06, 13:43:48](https://news.ycombinator.com/item?id=49586494) - [Coyote v. Acme (1990)](https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme)
 * [2026-09-06, 13:38:07](https://news.ycombinator.com/item?id=49586435) - [The many mysteries and lessons of the Bayeux tapestry](https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry)
 * [2026-09-06, 13:07:52](https://news.ycombinator.com/item?id=49586207) - [Icy Moons Are Ocean Worlds](https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds)
 * [2026-09-06, 13:02:41](https://news.ycombinator.com/item?id=49586171) - [QBittorrent breaks out of sandbox to commit crimes](https://beige.party/@intransitivelie/117057396732763183)

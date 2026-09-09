@@ -54,6 +54,7 @@
 * [2026-09-04, 12:01:07](https://news.ycombinator.com/item?id=49563415) - [SubImage (YC W25) Is Hiring a Founding Engineer in SF](https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer)
 * [2026-09-04, 11:59:15](https://news.ycombinator.com/item?id=49563386) - [Google AI Mode shows same products 21.6% more expensive than traditional search](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
 * [2026-09-04, 11:54:53](https://news.ycombinator.com/item?id=49563355) - [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+* [2026-09-04, 10:58:30](https://news.ycombinator.com/item?id=49562915) - [Smolts: A pedagogical IDE for a teaching language](https://eighty-twenty.org/2026/09/04/smolts)
 * [2026-09-04, 10:56:07](https://news.ycombinator.com/item?id=49562895) - [O&O ShutUp10 – The antispy tool for Windows 10 and 11](https://www.oo-software.com/en/shutup10)
 * [2026-09-04, 10:17:01](https://news.ycombinator.com/item?id=49562657) - [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)
 * [2026-09-04, 10:08:02](https://news.ycombinator.com/item?id=49562594) - [A Week of Bug Reporting](https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html)
