@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-09-08, 22:28:14",
+      "https://news.ycombinator.com/item?id=49618050"
+    ],
+    [
+      "A Topological Picture Book, Rendered",
+      "https://e-infinity.space/picture-book/"
+    ]
+  ],
+  [
+    [
       "2026-09-08, 21:47:38",
       "https://news.ycombinator.com/item?id=49617581"
     ],
     [
-      "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+      "Large language models develop novel social biases through adaptive exploration",
       "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH"
     ]
   ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=49617255"
     ],
     [
-      "How to Build a Printer",
+      "How to build a printer",
       "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 21:00:52",
+      "https://news.ycombinator.com/item?id=49616968"
+    ],
+    [
+      "Tao: Open math problems being non-renewably mined by AI",
+      "https://mathstodon.xyz/@tao/117237320796901560"
     ]
   ],
   [
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2026-09-08, 20:06:33",
-      "https://news.ycombinator.com/item?id=49616239"
-    ],
-    [
-      "Trey Parker and Matt Stone Are Changing the Name of South Park to South America",
-      "https://twitter.com/SouthPark/status/2097364141237539116"
-    ]
-  ],
-  [
-    [
       "2026-09-08, 19:25:00",
       "https://news.ycombinator.com/item?id=49615537"
     ],
     [
-      "Muse: Meta's personal AI agent, features and capabilities",
+      "Muse – Meta’s personal AI agent",
       "https://ai.meta.com/muse/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 19:04:26",
-      "https://news.ycombinator.com/item?id=49615139"
-    ],
-    [
-      "Function Arguments Are Not Function Colors",
-      "https://jerf.org/iri/post/2026/func_args_are_not_colors/"
     ]
   ],
   [
@@ -105,18 +105,8 @@
       "https://news.ycombinator.com/item?id=49612818"
     ],
     [
-      "Connecting the Machines",
+      "Connecting the machines",
       "https://herdr.dev/blog/connecting-the-machines/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 16:31:01",
-      "https://news.ycombinator.com/item?id=49612635"
-    ],
-    [
-      "Y Combinator Early Access Network",
-      "https://events.ycombinator.com/yc-early-access-fall-26"
     ]
   ],
   [
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=49612191"
     ],
     [
-      "C*: Unifying Programming and Verification in C",
+      "C*: Unifying Programming and Verification in C (2025)",
       "https://arxiv.org/abs/2504.02246"
     ]
   ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=49611251"
     ],
     [
-      "Google DeepMind Releases AlphaGenome Atlas",
+      "AlphaGenome Atlas: a high-resolution map of human DNA",
       "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
     ]
   ],
@@ -205,28 +195,8 @@
       "https://news.ycombinator.com/item?id=49610059"
     ],
     [
-      "Show HN: Copperhead – Hardware as Fast as Software",
+      "Show HN: Copperhead – Cursor for circuit boards",
       "https://copperhead.sh/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 12:04:04",
-      "https://news.ycombinator.com/item?id=49609174"
-    ],
-    [
-      "FreeBSD 14.5-Release",
-      "https://www.freebsd.org/releases/14.5R/announce/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 09:48:24",
-      "https://news.ycombinator.com/item?id=49608023"
-    ],
-    [
-      "Getting your hands dirty is good for you",
-      "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks"
     ]
   ],
   [
@@ -261,12 +231,42 @@
   ],
   [
     [
+      "2026-09-07, 14:35:12",
+      "https://news.ycombinator.com/item?id=49598921"
+    ],
+    [
+      "Getting phpBB 1.4.4 working in Docker",
+      "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html"
+    ]
+  ],
+  [
+    [
       "2026-09-06, 22:27:27",
       "https://news.ycombinator.com/item?id=49591563"
     ],
     [
       "The 92-Year-Old Mathematician and the Teenage Apprentice",
       "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 21:24:23",
+      "https://news.ycombinator.com/item?id=49591112"
+    ],
+    [
+      "The Microeconomics of Artificial Intelligence (2025)",
+      "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 18:44:40",
+      "https://news.ycombinator.com/item?id=49579443"
+    ],
+    [
+      "We built our house for LAN parties (2024)",
+      "https://lanparty.house/"
     ]
   ],
   [
