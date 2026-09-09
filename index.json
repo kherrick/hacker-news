@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-09, 04:43:46",
+      "https://news.ycombinator.com/item?id=49621102"
+    ],
+    [
+      "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+      "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 01:14:50",
+      "https://news.ycombinator.com/item?id=49619464"
+    ],
+    [
+      "27.5KB language-agnostic WebGPU syntax highlighter",
+      "https://gpu-lexer.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 00:40:40",
+      "https://news.ycombinator.com/item?id=49619227"
+    ],
+    [
+      "I resigned from Anthropic today",
+      "https://twitter.com/hilbertspaess/status/2097476196791709843#m"
+    ]
+  ],
+  [
+    [
       "2026-09-08, 22:28:14",
       "https://news.ycombinator.com/item?id=49618050"
     ],
@@ -81,6 +111,16 @@
   ],
   [
     [
+      "2026-09-08, 18:37:51",
+      "https://news.ycombinator.com/item?id=49614720"
+    ],
+    [
+      "ChatGPT Images 2.5",
+      "https://openai.com/index/introducing-chatgpt-images-2-5/"
+    ]
+  ],
+  [
+    [
       "2026-09-08, 17:13:21",
       "https://news.ycombinator.com/item?id=49613262"
     ],
@@ -91,32 +131,12 @@
   ],
   [
     [
-      "2026-09-08, 16:59:41",
-      "https://news.ycombinator.com/item?id=49613068"
+      "2026-09-08, 15:49:57",
+      "https://news.ycombinator.com/item?id=49612089"
     ],
     [
-      "Show HN: LLM Attention Visualization",
-      "https://ishamf.dev/p/llm-attention-visualizer/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 16:43:55",
-      "https://news.ycombinator.com/item?id=49612818"
-    ],
-    [
-      "Connecting the machines",
-      "https://herdr.dev/blog/connecting-the-machines/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 15:56:56",
-      "https://news.ycombinator.com/item?id=49612191"
-    ],
-    [
-      "C*: Unifying Programming and Verification in C (2025)",
-      "https://arxiv.org/abs/2504.02246"
+      "Into the depths of C: Elaborating the de facto standards (2016)",
+      "https://dl.acm.org/doi/10.1145/2980983.2908081"
     ]
   ],
   [
@@ -131,42 +151,12 @@
   ],
   [
     [
-      "2026-09-08, 14:54:29",
-      "https://news.ycombinator.com/item?id=49611230"
-    ],
-    [
-      "ZX Spectrum: Experimenting with 1-Bit Sound",
-      "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/"
-    ]
-  ],
-  [
-    [
       "2026-09-08, 14:49:19",
       "https://news.ycombinator.com/item?id=49611128"
     ],
     [
       "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
       "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 14:44:25",
-      "https://news.ycombinator.com/item?id=49611051"
-    ],
-    [
-      "The two Christian saints who are the Buddha",
-      "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 14:14:15",
-      "https://news.ycombinator.com/item?id=49610641"
-    ],
-    [
-      "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-      "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
     ]
   ],
   [
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2026-09-08, 13:26:45",
-      "https://news.ycombinator.com/item?id=49610059"
-    ],
-    [
-      "Show HN: Copperhead – Cursor for circuit boards",
-      "https://copperhead.sh/"
-    ]
-  ],
-  [
-    [
       "2026-09-08, 05:42:28",
       "https://news.ycombinator.com/item?id=49605915"
     ],
@@ -221,16 +201,6 @@
   ],
   [
     [
-      "2026-09-07, 16:02:02",
-      "https://news.ycombinator.com/item?id=49599825"
-    ],
-    [
-      "Reverse Engineering an ASIC",
-      "https://kjartanvandriel.github.io/asic/"
-    ]
-  ],
-  [
-    [
       "2026-09-07, 14:35:12",
       "https://news.ycombinator.com/item?id=49598921"
     ],
@@ -241,12 +211,22 @@
   ],
   [
     [
-      "2026-09-06, 22:27:27",
-      "https://news.ycombinator.com/item?id=49591563"
+      "2026-09-07, 13:09:44",
+      "https://news.ycombinator.com/item?id=49598009"
     ],
     [
-      "The 92-Year-Old Mathematician and the Teenage Apprentice",
-      "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html"
+      "Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",
+      "https://news.ycombinator.com/item?id=49598009"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 12:51:57",
+      "https://news.ycombinator.com/item?id=49597806"
+    ],
+    [
+      "The origins of Partner’s computer case",
+      "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/"
     ]
   ],
   [
@@ -257,6 +237,26 @@
     [
       "The Microeconomics of Artificial Intelligence (2025)",
       "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 21:14:18",
+      "https://news.ycombinator.com/item?id=49580761"
+    ],
+    [
+      "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+      "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/"
+    ]
+  ],
+  [
+    [
+      "2026-09-05, 18:50:25",
+      "https://news.ycombinator.com/item?id=49579482"
+    ],
+    [
+      "An Accidental Blackboard",
+      "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-09-05, 12:09:29",
-      "https://news.ycombinator.com/item?id=49575766"
-    ],
-    [
-      "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
-      "https://uecker.codeberg.page/2026-09-05.html"
-    ]
-  ],
-  [
-    [
       "2026-09-04, 09:42:29",
       "https://news.ycombinator.com/item?id=49562430"
     ],
     [
       "Tracing np.add, all the way down",
       "https://blog.veitheller.de/numpy.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-03, 07:29:40",
+      "https://news.ycombinator.com/item?id=49546964"
+    ],
+    [
+      "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html"
     ]
   ]
 ]
