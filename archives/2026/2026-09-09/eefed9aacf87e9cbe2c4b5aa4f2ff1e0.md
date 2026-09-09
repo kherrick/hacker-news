@@ -1,0 +1,3 @@
+# [Published on 2026-09-09](index.md)
+
+* [2026-09-09, 17:13:52](https://news.ycombinator.com/item?id=49629868) - [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://academy.dair.ai/papers/procedural-graphs-self-evolving-execution-structures-for-llm-agents-2609.09153)
