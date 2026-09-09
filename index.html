@@ -129,72 +129,446 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="49626431">
+        <section id="49630253">
           <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=49626431"
-              >Ask HN: Anyone still coding like 2021? Where do you work?</a
+            <a
+              class="item"
+              href="https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/"
+              >Apple Introduces AirPods 5</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-09 @ 13:41:55</span
+              <span>2026-09-09 @ 17:39:24</span
+              ><span class="points-container"
+                >Points: <span class="points">193</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49630253"
+                  >Comments</a
+                ><span class="descendants">: 145</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49630026">
+          <h3>
+            <a
+              class="item"
+              href="https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3"
+              >Qwen 3.8 follows GPT-5.5 Pro reasoning prefills</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-09 @ 17:24:28</span
+              ><span class="points-container"
+                >Points: <span class="points">93</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49630026"
+                  >Comments</a
+                ><span class="descendants">: 37</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49629886">
+          <h3>
+            <a
+              class="item"
+              href="https://spectrum.ieee.org/are-self-driving-cars-safe"
+              >Growing proof that autonomous cars save lives</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-09 @ 17:14:59</span
               ><span class="points-container"
                 >Points: <span class="points">58</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49626431"
+                ><a href="https://news.ycombinator.com/item?id=49629886"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 92</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49629865">
+          <h3>
+            <a
+              class="item"
+              href="https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/"
+              >Why Emacs Consult async searches feel slow and how to speed them
+              up</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-09 @ 17:13:43</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49629865"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49629747">
+          <h3>
+            <a class="item" href="https://rdltr.app/"
+              >Show HN: Rdltr – Inbox zero for your reading list</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-09 @ 17:06:21</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49629747"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
               >
             </h4>
             <div class="text">
+              <a href="https://rdltr.app">https://rdltr.app</a>). The whole
+              thing started because I had so many tabs open with stuff I wanted
+              to read, across browsers, Mac, Linux, and iPhone. They cluttered
+              everything and got in the way of other things I had to do.
               <p>
-                These days I feel I am the only one that hasn’t changed their
-                way of writing software at all. I’d honestly switch careers
-                rather than manage agents. But I’m currently out of work
-                (contract ended) and wondering if there is still a sane place to
-                work, or is it truly time to pivot to another career.
+                Pocket had just shut down when this idea came up, I looked
+                around, tried Instapaper, Raindrop, Matter, and a few others I
+                forget. They were fine, but they all give you a list that only
+                grows, which is another thing to maintain, and not the model I
+                had in mind. Safari has this Reading List feature where you read
+                something and it drops off the unread list. But it’s Apple only
+                and half worked. What I wanted was inbox zero for reading. Open
+                something, read it, come back, and it’s gone from the queue but
+                still in the archive. You keep going until there is nothing
+                left.
+              </p>
+              <p>
+                Links come in from anywhere. Paste a URL on the page, drag one
+                in, or use the bookmarklet, the Chrome and Firefox extensions,
+                or the Apple Shortcut for the iOS share sheet, plus Vim keys,
+                TL;DR summaries on each link, search across everything you have
+                read or saved, RSS for every list, and it works just as well on
+                the phone.
+              </p>
+              <p>
+                The extensions have a couple of tricks that I use all the time.
+                Shift+DD pulls the article text, cleans it up, and sends it to
+                ChatGPT, Claude, or Gemini in a new tab, so you can ask it
+                anything about what you just read. Shift+AA opens it in the
+                Internet Archive, handy for paywalled sites when you don’t have
+                a subscription.
+              </p>
+              <p>
+                The stack is Bun, TypeScript, HTMX, and SQLite, with SSE so the
+                list updates the moment you save or read something, deployed on
+                a Hetzner VPS.
+              </p>
+              <p>
+                Full disclosure, Claude Code wrote most of it. I still spent a
+                ton of time dogfooding, testing, and polishing the UI until
+                things felt right.
+              </p>
+              <p>
+                Anyway, curious to know what your current setup is for this.
               </p>
             </div>
           </section>
         </section>
-        <section id="49626429">
+        <section id="49629608">
           <h3>
             <a
               class="item"
-              href="https://dadrian.io/blog/posts/whack-a-mole-is-losing/"
-              >Playing whack-a-mole is losing</a
+              href="https://jordivillar.com/blog/every-millisecond-counts"
+              >Every Millisecond Counts</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-09 @ 13:41:53</span
+              <span>2026-09-09 @ 16:57:34</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49626429"
+                ><a href="https://news.ycombinator.com/item?id=49629608"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49626372">
+        <section id="49629209">
           <h3>
-            <a
-              class="item"
-              href="https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai"
-              >Do people prefer stories written by AI?</a
+            <a class="item" href="https://www.not-ship.com/united-nations-map/"
+              >The UN challenges five centuries of cartography</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-09 @ 13:38:14</span
+              <span>2026-09-09 @ 16:33:44</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49626372"
+                ><a href="https://news.ycombinator.com/item?id=49629209"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 56</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49628982">
+          <h3>
+            <a class="item" href="https://www.sudomoin.com/p/consumer-claims"
+              >I haven't lost a customer service fight in seven months</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-09 @ 16:18:38</span
+              ><span class="points-container"
+                >Points: <span class="points">48</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49628982"
+                  >Comments</a
+                ><span class="descendants">: 45</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49628614">
+          <h3>
+            <a
+              class="item"
+              href="https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/"
+              >Understanding the recent DDoS attack against Read the Docs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-09 @ 15:55:53</span
+              ><span class="points-container"
+                >Points: <span class="points">98</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49628614"
+                  >Comments</a
+                ><span class="descendants">: 33</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49628576">
+          <h3>
+            <a class="item" href="https://gnuradioworld.com/"
+              >GNU Radio in the browser</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-09 @ 15:53:06</span
+              ><span class="points-container"
+                >Points: <span class="points">126</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49628576"
+                  >Comments</a
+                ><span class="descendants">: 16</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49628493">
+          <h3>
+            <a class="item" href="https://www.nomanssky.com/cosmos-update/"
+              >No Man's Sky Cosmos</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-09 @ 15:47:42</span
+              ><span class="points-container"
+                >Points: <span class="points">169</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49628493"
+                  >Comments</a
+                ><span class="descendants">: 189</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49628454">
+          <h3>
+            <a
+              class="item"
+              href="https://entropicthoughts.com/better-ai-comment-classifier"
+              >Better AI code comment detector</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-09 @ 15:45:43</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49628454"
+                  >Comments</a
+                ><span class="descendants">: 19</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49628429">
+          <h3>
+            <a
+              class="item"
+              href="https://tech.marksblogg.com/planet-labs-open-satellite-feed.html"
+              >Planet Labs' open satellite feed</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-09 @ 15:44:09</span
+              ><span class="points-container"
+                >Points: <span class="points">99</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49628429"
+                  >Comments</a
+                ><span class="descendants">: 20</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49628290">
+          <h3>
+            <a
+              class="item"
+              href="https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory"
+              >We accidentally built a synthetic cell factory</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-09 @ 15:34:51</span
+              ><span class="points-container"
+                >Points: <span class="points">58</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49628290"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49627872">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=49627872"
+              >Show HN: Give your AI agent on-screen guides that show users
+              where to click</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-09 @ 15:09:05</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49627872"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                For instance, let's say a user asks an agent how to do something
+                in a given SaaS product. In an ideal case, maybe that agent
+                replies saying it has a tool to do the task and just automates
+                that work entirely for the user. That's a great outcome.
+              </p>
+              <p>
+                But often that's not the case. Maybe there is no tool call for
+                that exact task, or maybe the user's question is best solved by
+                a specific UI workflow or interface. In these cases, many agents
+                tend to fall back on basic RAG on their help center, or
+                sometimes even searching the internet for an understanding of
+                their own product. This can be a very slow process and most of
+                the time help center articles are outdated as products evolve
+                faster than them today. Even worse, no one likes reading a long
+                list of bullets and mapping that back to a UI.
+              </p>
+              <p>
+                My tool (Assist API) solves this gap with a single tool call
+                defined like this:
+              </p>
+              <p></p>
+              <pre><code>  const frigade_guide_tool = {
+    description: 'Call this tool to answer product questions or guide the user through a task.',
+    parameters: {
+      query: {
+        type: 'string',
+        description: 'What the user is asking or wants to do',
+      },
+    },
+    run: ({ query }) =&gt; frigade.assist({ query }),
+  }
+</code></pre>
+              Here's a demo I recorded on how to set it up with the Vercel AI
+              SDK:
+              <a href="https://www.youtube.com/watch?v=9WQ0UbLjC6I"
+                >https://www.youtube.com/watch?v=9WQ0UbLjC6I</a
+              >
+              <p>When called, the tool will do the following:</p>
+              <p>
+                1) Gather context on what the user is seeing on screen, their
+                permissions, feature flags, and more. Then one of the following:
+              </p>
+              <p>
+                2a) If solvable: Generate an on screen guide for how to fix a
+                given problem
+              </p>
+              <p>
+                2b) If conceptual: Return text describing to the parent agent
+                how to solve the problem
+              </p>
+              <p>2c) Reject (i.e. unable to help)</p>
+              <p>How does the tool know what to do?</p>
+              <p>
+                The tool learns a given application UI by using a browser-based
+                agent. You provide a test account to your software (i.e. staging
+                og preview), and a browser agent logs in and works its way
+                through the entire product. It then builds its own map of how
+                the application works which can the be queried about any
+                product-related question or how to get from A to B in the UI. It
+                also writes its own documentation from this map. The agent
+                re-runs on a schedule or can be triggered through CI/CD.
+              </p>
+              <p>
+                Docs and more details:
+                <a href="https://frigade.com/assist-api"
+                  >https://frigade.com/assist-api</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="49627370">
+          <h3>
+            <a
+              class="item"
+              href="https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
+              >GPT-6 Astra, looped transformers, and hidden reasoning</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-09 @ 14:37:47</span
+              ><span class="points-container"
+                >Points: <span class="points">242</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49627370"
+                  >Comments</a
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
@@ -211,33 +585,11 @@
             <h4>
               <span>2026-09-09 @ 13:27:11</span
               ><span class="points-container"
-                >Points: <span class="points">561</span></span
+                >Points: <span class="points">691</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49626190"
                   >Comments</a
-                ><span class="descendants">: 219</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49626052">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/australia-news/2026/sep/09/how-one-womans-tesla-was-remotely-controlled-and-harass-by-her-abusive-ex-partner-ntwnfb"
-              >One woman's Tesla was remotely controlled by an abusive
-              ex-partner</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-09 @ 13:16:45</span
-              ><span class="points-container"
-                >Points: <span class="points">59</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49626052"
-                  >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 290</span></span
               >
             </h4>
           </section>
@@ -264,18 +616,18 @@
             <a
               class="item"
               href="https://xlii.space/eng/malicious-software-on-google-ads/"
-              >I advertise malicious software on Google Ads</a
+              >How I advertise malicious software on Google Ads</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-09-09 @ 11:43:21</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">307</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49624856"
                   >Comments</a
-                ><span class="descendants">: 164</span></span
+                ><span class="descendants">: 185</span></span
               >
             </h4>
           </section>
@@ -292,11 +644,11 @@
             <h4>
               <span>2026-09-09 @ 11:39:46</span
               ><span class="points-container"
-                >Points: <span class="points">290</span></span
+                >Points: <span class="points">329</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49624823"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -312,11 +664,11 @@
             <h4>
               <span>2026-09-09 @ 11:19:26</span
               ><span class="points-container"
-                >Points: <span class="points">343</span></span
+                >Points: <span class="points">385</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49624603"
                   >Comments</a
-                ><span class="descendants">: 177</span></span
+                ><span class="descendants">: 200</span></span
               >
             </h4>
             <div class="text">
@@ -331,88 +683,6 @@
             </div>
           </section>
         </section>
-        <section id="49624394">
-          <h3>
-            <a
-              class="item"
-              href="https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit"
-              >Flock Wants a Closely Surveilled World with No Exit</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-09 @ 10:54:18</span
-              ><span class="points-container"
-                >Points: <span class="points">538</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49624394"
-                  >Comments</a
-                ><span class="descendants">: 482</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49624163">
-          <h3>
-            <a
-              class="item"
-              href="https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy"
-              >How An AI math breakthrough ignited a controversy</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-09 @ 10:25:41</span
-              ><span class="points-container"
-                >Points: <span class="points">204</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49624163"
-                  >Comments</a
-                ><span class="descendants">: 216</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49623938">
-          <h3>
-            <a
-              class="item"
-              href="https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/"
-              >Building a Wall Lamp from Scratch</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-09 @ 10:01:16</span
-              ><span class="points-container"
-                >Points: <span class="points">70</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49623938"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49623937">
-          <h3>
-            <a class="item" href="https://buttondown.com/blog/lotus-notes-email"
-              >Lotus Notes and the dangers of starting from scratch</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-09 @ 10:01:15</span
-              ><span class="points-container"
-                >Points: <span class="points">136</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49623937"
-                  >Comments</a
-                ><span class="descendants">: 94</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="49623754">
           <h3>
             <a class="item" href="https://opusfived.dev/"
@@ -423,139 +693,11 @@
             <h4>
               <span>2026-09-09 @ 09:39:46</span
               ><span class="points-container"
-                >Points: <span class="points">710</span></span
+                >Points: <span class="points">834</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49623754"
                   >Comments</a
-                ><span class="descendants">: 289</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49622561">
-          <h3>
-            <a
-              class="item"
-              href="https://openai.com/index/codex-quantum-computing-experiments/"
-              >How GPT‑5.6 Sol helps run quantum computing experiments</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-09 @ 07:22:46</span
-              ><span class="points-container"
-                >Points: <span class="points">135</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49622561"
-                  >Comments</a
-                ><span class="descendants">: 103</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49621751">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm"
-              >“Tweet” and the bird logo apparently enter the public domain</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-09 @ 06:02:07</span
-              ><span class="points-container"
-                >Points: <span class="points">202</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49621751"
-                  >Comments</a
-                ><span class="descendants">: 115</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49621102">
-          <h3>
-            <a
-              class="item"
-              href="https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en"
-              >A Biography of Lee Holloway, the Architect of Cloudflare's
-              Technology (Part 1)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-09 @ 04:43:46</span
-              ><span class="points-container"
-                >Points: <span class="points">95</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49621102"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49617581">
-          <h3>
-            <a
-              class="item"
-              href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH"
-              >Large language models develop novel social biases through
-              adaptive exploration</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-08 @ 21:47:38</span
-              ><span class="points-container"
-                >Points: <span class="points">197</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49617581"
-                  >Comments</a
-                ><span class="descendants">: 106</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49617255">
-          <h3>
-            <a
-              class="item"
-              href="https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/"
-              >How to build a printer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-08 @ 21:22:11</span
-              ><span class="points-container"
-                >Points: <span class="points">421</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49617255"
-                  >Comments</a
-                ><span class="descendants">: 96</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49616354">
-          <h3>
-            <a
-              class="item"
-              href="https://www.inceptionlabs.ai/blog/introducing-mercury-2-5"
-              >Mercury 2.5</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-08 @ 20:14:52</span
-              ><span class="points-container"
-                >Points: <span class="points">241</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49616354"
-                  >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 339</span></span
               >
             </h4>
           </section>
@@ -570,131 +712,91 @@
             <h4>
               <span>2026-09-08 @ 19:25:00</span
               ><span class="points-container"
-                >Points: <span class="points">605</span></span
+                >Points: <span class="points">617</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49615537"
                   >Comments</a
-                ><span class="descendants">: 661</span></span
+                ><span class="descendants">: 674</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49611251">
+        <section id="49615245">
+          <h3>
+            <a class="item" href="https://spectrum.ieee.org/rivian-self-driving"
+              >Rivian's gambit for full autonomy</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-08 @ 19:09:50</span
+              ><span class="points-container"
+                >Points: <span class="points">37</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49615245"
+                  >Comments</a
+                ><span class="descendants">: 52</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49614575">
           <h3>
             <a
               class="item"
-              href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
-              >AlphaGenome Atlas: a high-resolution map of human DNA</a
+              href="https://k-monk.org/blog/generating-the-p3-tiling/"
+              >Generating the P3 Tiling</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-08 @ 14:55:45</span
+              <span>2026-09-08 @ 18:27:32</span
               ><span class="points-container"
-                >Points: <span class="points">587</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49611251"
+                ><a href="https://news.ycombinator.com/item?id=49614575"
                   >Comments</a
-                ><span class="descendants">: 128</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
-                >https://deepmind.google/blog/alphagenome-atlas-a-predictive-...</a
-              >
-              <p>
-                <a href="https://deepmind.google.com/science/alphagenome/atlas"
-                  >https://deepmind.google.com/science/alphagenome/atlas</a
-                >
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="49610631">
-          <h3>
-            <a class="item" href="https://github.com/ayghri/i-have-adhd"
-              >I-have-ADHD: A skill to stop coding agents from burying the
-              answer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-08 @ 14:13:26</span
-              ><span class="points-container"
-                >Points: <span class="points">519</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49610631"
-                  >Comments</a
-                ><span class="descendants">: 356</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49610181">
+        <section id="49614280">
           <h3>
             <a
               class="item"
-              href="https://www.blackmagicdesign.com/media/release/20260908-03"
-              >DaVinci Resolve 21.1</a
+              href="https://tautology.town/2026/06/01/card-networks.html"
+              >What do Visa and Mastercard do? An intro to card networks</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-08 @ 13:36:53</span
+              <span>2026-09-08 @ 18:11:05</span
               ><span class="points-container"
-                >Points: <span class="points">429</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49610181"
+                ><a href="https://news.ycombinator.com/item?id=49614280"
                   >Comments</a
-                ><span class="descendants">: 198</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49605915">
+        <section id="49599012">
           <h3>
-            <a class="item" href="https://cims.nyu.edu/~tristanb/statement.pdf"
-              >Navier-Stokes – Tristan Buckmaster [pdf]</a
+            <a class="item" href="https://rahulrav.com/blog/magic_move.html"
+              >Magic Move for Code Snippets from first principles</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-08 @ 05:42:28</span
+              <span>2026-09-07 @ 14:44:42</span
               ><span class="points-container"
-                >Points: <span class="points">1952</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49605915"
+                ><a href="https://news.ycombinator.com/item?id=49599012"
                   >Comments</a
-                ><span class="descendants">: 803</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://simonwillison.net/2026/Sep/8/on-navier-stokes/"
-                >https://simonwillison.net/2026/Sep/8/on-navier-stokes/</a
-              >,
-              <a href="https://news.ycombinator.com/item?id=49621697"
-                >https://news.ycombinator.com/item?id=49621697</a
-              >
-            </div>
-          </section>
-        </section>
-        <section id="49604165">
-          <h3>
-            <a class="item" href="https://github.com/ashemag/human-atlas"
-              >Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D
-              meshes</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-07 @ 23:40:33</span
-              ><span class="points-container"
-                >Points: <span class="points">62</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49604165"
-                  >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -711,11 +813,11 @@
             <h4>
               <span>2026-09-06 @ 13:43:48</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49586494"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
             <div class="text">
@@ -728,65 +830,44 @@
             </div>
           </section>
         </section>
-        <section id="49580761">
+        <section id="49584361">
           <h3>
             <a
               class="item"
-              href="https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/"
-              >Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic
-              Field</a
+              href="https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/"
+              >Bespoke: A programming language for people who say please</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-05 @ 21:14:18</span
+              <span>2026-09-06 @ 08:13:53</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49580761"
+                ><a href="https://news.ycombinator.com/item?id=49584361"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49562915">
-          <h3>
-            <a class="item" href="https://eighty-twenty.org/2026/09/04/smolts"
-              >Smolts: A pedagogical IDE for a teaching language</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-04 @ 10:58:30</span
-              ><span class="points-container"
-                >Points: <span class="points">40</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49562915"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49546964">
+        <section id="49569584">
           <h3>
             <a
               class="item"
-              href="https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html"
-              >Tension wood: A 'muscle' that can both bend and straighten
-              plants</a
+              href="https://www.frankchiarulli.com/blog/best-silicone-usb-cable/"
+              >Searching for the best silicone USB cable</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-03 @ 07:29:40</span
+              <span>2026-09-04 @ 20:06:17</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49546964"
+                ><a href="https://news.ycombinator.com/item?id=49569584"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
