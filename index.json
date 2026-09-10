@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-09-10, 02:04:11",
-      "https://news.ycombinator.com/item?id=49637435"
+      "2026-09-10, 06:12:23",
+      "https://news.ycombinator.com/item?id=49639104"
     ],
     [
-      "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
-      "https://hugovergnes.github.io/little-lm-3-8b/"
+      "I think I hate the internet",
+      "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/"
     ]
   ],
   [
     [
-      "2026-09-10, 01:59:51",
-      "https://news.ycombinator.com/item?id=49637395"
+      "2026-09-10, 06:11:05",
+      "https://news.ycombinator.com/item?id=49639090"
     ],
     [
-      "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-      "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/"
+      "DeepSeek v4.1 Flash",
+      "https://twitter.com/deepseek_ai/status/2097930608790167907"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 04:04:38",
+      "https://news.ycombinator.com/item?id=49638280"
+    ],
+    [
+      "All grown-ups were once children, but only few of them remember it",
+      "https://mathstodon.xyz/@tao/117244102901892965"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 02:04:11",
+      "https://news.ycombinator.com/item?id=49637435"
+    ],
+    [
+      "Training a 3.8B LLM to 0.384 CORE for $998",
+      "https://hugovergnes.github.io/little-lm-3-8b/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Automattic's board forces CEO Matt Mullenweg into leave of absence",
       "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 22:22:53",
-      "https://news.ycombinator.com/item?id=49635384"
-    ],
-    [
-      "Blizzard Workers Win Historic Union Contract",
-      "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-09-09, 15:55:53",
-      "https://news.ycombinator.com/item?id=49628614"
-    ],
-    [
-      "Understanding the recent DDoS attack against Read the Docs",
-      "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/"
-    ]
-  ],
-  [
-    [
       "2026-09-09, 15:53:06",
       "https://news.ycombinator.com/item?id=49628576"
     ],
@@ -157,16 +157,6 @@
     [
       "No Man's Sky Cosmos",
       "https://www.nomanssky.com/cosmos-update/"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 15:44:09",
-      "https://news.ycombinator.com/item?id=49628429"
-    ],
-    [
-      "Planet Labs' open satellite feed",
-      "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html"
     ]
   ],
   [
@@ -211,22 +201,22 @@
   ],
   [
     [
-      "2026-09-09, 09:39:46",
-      "https://news.ycombinator.com/item?id=49623754"
-    ],
-    [
-      "Claude, change the “Add to Cart” button to blue",
-      "https://opusfived.dev/"
-    ]
-  ],
-  [
-    [
       "2026-09-09, 08:53:58",
       "https://news.ycombinator.com/item?id=49623398"
     ],
     [
       "Show HN: Compute polynomials twice as fast",
       "https://thomasahle.com/fast-polynomials/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 04:32:22",
+      "https://news.ycombinator.com/item?id=49621018"
+    ],
+    [
+      "Larger Pacific Striped Octopus",
+      "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus"
     ]
   ],
   [
@@ -251,12 +241,42 @@
   ],
   [
     [
-      "2026-09-07, 20:24:53",
-      "https://news.ycombinator.com/item?id=49602615"
+      "2026-09-08, 15:59:11",
+      "https://news.ycombinator.com/item?id=49612223"
     ],
     [
-      "Use Vsock with Libzmq",
-      "https://blog.remijouan.net/posts/libzmq-vsock-pyzmq/"
+      "Open Source Durable Objects for Postgres",
+      "https://solidobjects.dev/blog/introducing-solidobjects"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 21:42:11",
+      "https://news.ycombinator.com/item?id=49603265"
+    ],
+    [
+      "Version control second coming",
+      "https://psantosl.github.io/posts/version-control-second-coming/"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 16:17:27",
+      "https://news.ycombinator.com/item?id=49599992"
+    ],
+    [
+      "Stockfish 19",
+      "https://stockfishchess.org/blog/2026/stockfish-19/"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 04:27:29",
+      "https://news.ycombinator.com/item?id=49593896"
+    ],
+    [
+      "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+      "https://www.thelec.net/news/articleView.html?idxno=12835"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-09-06, 22:24:18",
-      "https://news.ycombinator.com/item?id=49591536"
-    ],
-    [
-      "The Kuycon P20 – 28\" 4500x3000px 3:2 monitor",
-      "https://taoofmac.com/space/reviews/2026/09/06/1800"
-    ]
-  ],
-  [
-    [
       "2026-09-06, 15:28:59",
       "https://news.ycombinator.com/item?id=49587465"
     ],
     [
       "ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol",
       "https://geo-tp.github.io/ESP32-Bit-Pirate/"
-    ]
-  ],
-  [
-    [
-      "2026-09-06, 08:13:53",
-      "https://news.ycombinator.com/item?id=49584361"
-    ],
-    [
-      "Bespoke: A programming language for people who say please",
-      "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/"
     ]
   ]
 ]
