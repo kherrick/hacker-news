@@ -50,6 +50,7 @@
 * [2026-09-08, 12:04:04](https://news.ycombinator.com/item?id=49609174) - [FreeBSD 14.5-Release](https://www.freebsd.org/releases/14.5R/announce/)
 * [2026-09-08, 11:42:00](https://news.ycombinator.com/item?id=49608931) - [Scanned, segmented, and animated my keyboard. Now you can type on my keyboard](https://chyuang.com/gaussian-splats/)
 * [2026-09-08, 11:13:03](https://news.ycombinator.com/item?id=49608697) - [PISA 2025 Students' reading and mathematics performance declined across the OECD](https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html)
+* [2026-09-08, 11:08:53](https://news.ycombinator.com/item?id=49608665) - [Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics](https://asm-editor.specy.app/)
 * [2026-09-08, 09:48:24](https://news.ycombinator.com/item?id=49608023) - [Why getting your hands dirty is good for you](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
 * [2026-09-08, 09:43:14](https://news.ycombinator.com/item?id=49607991) - [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics)
 * [2026-09-08, 09:28:35](https://news.ycombinator.com/item?id=49607858) - [Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme](https://codeberg.org/jjba23/maak.el)
