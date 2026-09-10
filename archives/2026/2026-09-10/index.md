@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-10](index.md)
 
+* [2026-09-10, 21:30:55](https://news.ycombinator.com/item?id=49650418) - [NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
+* [2026-09-10, 21:22:59](https://news.ycombinator.com/item?id=49650326) - [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
+* [2026-09-10, 20:33:11](https://news.ycombinator.com/item?id=49649789) - [Bodily Oddities](https://vester.si/bodily-oddities/)
+* [2026-09-10, 19:44:15](https://news.ycombinator.com/item?id=49649222) - [Proof of Capture: Apple Reference Image, but open source and using steganography](https://merybenavente.me/blog/proof-of-capture)
+* [2026-09-10, 19:43:22](https://news.ycombinator.com/item?id=49649213) - [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
 * [2026-09-10, 19:03:34](https://news.ycombinator.com/item?id=49648732) - [Genuine Creativity Is Your New Moat (2026)](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
 * [2026-09-10, 17:30:39](https://news.ycombinator.com/item?id=49647404) - [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
+* [2026-09-10, 17:23:42](https://news.ycombinator.com/item?id=49647300) - [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
 * [2026-09-10, 17:14:12](https://news.ycombinator.com/item?id=49647134) - [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 * [2026-09-10, 16:52:11](https://news.ycombinator.com/item?id=49646778) - [Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1](https://tokenstead.ai/models/swe-2)
 * [2026-09-10, 16:14:48](https://news.ycombinator.com/item?id=49646199) - [Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf](https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/)

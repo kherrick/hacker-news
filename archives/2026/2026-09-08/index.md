@@ -13,6 +13,7 @@
 * [2026-09-08, 20:08:44](https://news.ycombinator.com/item?id=49616272) - [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
 * [2026-09-08, 20:07:55](https://news.ycombinator.com/item?id=49616257) - [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
 * [2026-09-08, 20:06:33](https://news.ycombinator.com/item?id=49616239) - [Trey Parker and Matt Stone Are Changing the Name of South Park to South America](https://twitter.com/SouthPark/status/2097364141237539116)
+* [2026-09-08, 19:46:59](https://news.ycombinator.com/item?id=49615922) - [What happens when a GPU writes memory](https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory)
 * [2026-09-08, 19:25:00](https://news.ycombinator.com/item?id=49615537) - [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)
 * [2026-09-08, 19:09:50](https://news.ycombinator.com/item?id=49615245) - [Rivian's gambit for full autonomy](https://spectrum.ieee.org/rivian-self-driving)
 * [2026-09-08, 19:04:26](https://news.ycombinator.com/item?id=49615139) - [Function Arguments Are Not Function Colors](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
@@ -69,3 +70,4 @@
 * [2026-09-08, 01:57:23](https://news.ycombinator.com/item?id=49604870) - [There's a new \"Google Jail\" for independent wikis](https://weirdgloop.org/blog/google-jail)
 * [2026-09-08, 01:56:35](https://news.ycombinator.com/item?id=49604861) - [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
 * [2026-09-08, 01:16:59](https://news.ycombinator.com/item?id=49604637) - [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+* [2026-09-08, 01:08:10](https://news.ycombinator.com/item?id=49604581) - [Show HN: Vertumnus – printable posters of farmers' market produce seasonality](https://vertumnus.fyi)
