@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-08](index.md)
 
+* [2026-09-08, 23:11:30](https://news.ycombinator.com/item?id=49618450) - [Object storage is all you need](https://www.tigrisdata.com/blog/object-storage-all-need/)
 * [2026-09-08, 22:28:14](https://news.ycombinator.com/item?id=49618050) - [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
 * [2026-09-08, 21:47:38](https://news.ycombinator.com/item?id=49617581) - [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
 * [2026-09-08, 21:22:11](https://news.ycombinator.com/item?id=49617255) - [How to Build a Printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
@@ -37,6 +38,7 @@
 * [2026-09-08, 14:44:25](https://news.ycombinator.com/item?id=49611051) - [The two Christian saints who are the Buddha](https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/)
 * [2026-09-08, 14:40:30](https://news.ycombinator.com/item?id=49610988) - [DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits](https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/)
 * [2026-09-08, 14:33:52](https://news.ycombinator.com/item?id=49610900) - [Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger](https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/)
+* [2026-09-08, 14:25:04](https://news.ycombinator.com/item?id=49610780) - [To write non-fiction, draw the trunk, then the rest of the tree](https://devz.cl/posts/how-to-write/)
 * [2026-09-08, 14:14:15](https://news.ycombinator.com/item?id=49610641) - [AlphaGenome Atlas predictive map of every DNA letter change in the human genome](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/)
 * [2026-09-08, 14:13:26](https://news.ycombinator.com/item?id=49610631) - [I-have-ADHD: A skill to stop coding agents from burying the answer](https://github.com/ayghri/i-have-adhd)
 * [2026-09-08, 13:36:53](https://news.ycombinator.com/item?id=49610181) - [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)

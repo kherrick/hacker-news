@@ -29,6 +29,7 @@
 * [2026-09-05, 16:30:35](https://news.ycombinator.com/item?id=49578136) - [Bob and Van](https://marco.org/2026/09/04/bob-and-van)
 * [2026-09-05, 16:14:34](https://news.ycombinator.com/item?id=49577985) - [How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
 * [2026-09-05, 16:13:57](https://news.ycombinator.com/item?id=49577975) - [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
+* [2026-09-05, 15:35:13](https://news.ycombinator.com/item?id=49577541) - [Show HN: Art – draw one stroke, let symmetry complete it](https://mrdee.in/mandala/)
 * [2026-09-05, 15:22:02](https://news.ycombinator.com/item?id=49577422) - [Rebuilding a 1995 GPS Time Server so I don't get Telstra'd](https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/)
 * [2026-09-05, 14:54:44](https://news.ycombinator.com/item?id=49577129) - [Ask HN: Fable hacked my piano, can I release the results?](https://news.ycombinator.com/item?id=49577129)
 * [2026-09-05, 14:40:52](https://news.ycombinator.com/item?id=49576986) - [How the Disaster of \"Forever Chemicals\" Was Kept Secret](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen)
