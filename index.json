@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-09-10, 16:14:48",
-      "https://news.ycombinator.com/item?id=49646199"
+      "2026-09-10, 19:03:34",
+      "https://news.ycombinator.com/item?id=49648732"
     ],
     [
-      "Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf",
-      "https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/"
+      "Genuine Creativity Is Your New Moat (2026)",
+      "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 17:30:39",
+      "https://news.ycombinator.com/item?id=49647404"
+    ],
+    [
+      "JEP 544: Ahead-of-Time Code Compilation",
+      "https://openjdk.org/jeps/544"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 17:14:12",
+      "https://news.ycombinator.com/item?id=49647134"
+    ],
+    [
+      "Music Theory for the 21st-Century Classroom",
+      "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 16:52:11",
+      "https://news.ycombinator.com/item?id=49646778"
+    ],
+    [
+      "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+      "https://tokenstead.ai/models/swe-2"
     ]
   ],
   [
@@ -15,18 +45,8 @@
       "https://news.ycombinator.com/item?id=49646181"
     ],
     [
-      "Software Drives People Insane",
+      "I have a theory that software drives people insane",
       "https://graybeard.ing/software-drives-people-insane/"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 16:09:43",
-      "https://news.ycombinator.com/item?id=49646123"
-    ],
-    [
-      "One resignation turned the embers of AI fear into a wildfire",
-      "https://www.interconnects.ai/p/one-resignation-turned-the-embers"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2026-09-10, 15:50:30",
-      "https://news.ycombinator.com/item?id=49645804"
-    ],
-    [
-      "Serverless DTLS",
-      "https://proxylity.com/docs/listeners/dtls.html"
-    ]
-  ],
-  [
-    [
       "2026-09-10, 15:50:25",
       "https://news.ycombinator.com/item?id=49645803"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=49645763"
     ],
     [
-      "Neki by PlanetScale",
+      "Neki is sharded Postgres by PlanetScale",
       "https://neki.dev/"
     ]
   ],
@@ -121,12 +131,12 @@
   ],
   [
     [
-      "2026-09-10, 15:01:27",
-      "https://news.ycombinator.com/item?id=49644955"
+      "2026-09-10, 15:27:22",
+      "https://news.ycombinator.com/item?id=49645393"
     ],
     [
-      "Show HN: Syq – copy files between machines fast (better than rsync)",
-      "https://greaber.github.io/syq/"
+      "Don't Let Anyone Take Away Your Big Box of Cables",
+      "https://blog.jim-nielsen.com/2026/hands-off-my-cables/"
     ]
   ],
   [
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=49643546"
     ],
     [
-      "Rust Is Tier-1 Language at Microsoft",
+      "Rust is tier-1 language at Microsoft",
       "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/"
     ]
   ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-09-10, 07:29:21",
-      "https://news.ycombinator.com/item?id=49639730"
-    ],
-    [
-      "The first drink-driving conviction may have happened in London",
-      "https://www.ianvisits.co.uk/articles/the-worlds-first-drink-driving-conviction-may-have-happened-in-london-92107/"
-    ]
-  ],
-  [
-    [
       "2026-09-10, 06:49:43",
       "https://news.ycombinator.com/item?id=49639408"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-09-10, 01:58:00",
-      "https://news.ycombinator.com/item?id=49637385"
-    ],
-    [
-      "Show HN: What if the speed of light was 5 km/h?",
-      "https://rivendell.dmitrybrant.com/relativity/"
-    ]
-  ],
-  [
-    [
       "2026-09-09, 18:15:43",
       "https://news.ycombinator.com/item?id=49630931"
     ],
@@ -221,22 +211,22 @@
   ],
   [
     [
+      "2026-09-09, 17:31:39",
+      "https://news.ycombinator.com/item?id=49630125"
+    ],
+    [
+      "Show HN: DOOM in the kernel, or fibers in eBPF",
+      "https://ayles.github.io/doom-in-kernel/"
+    ]
+  ],
+  [
+    [
       "2026-09-09, 14:54:12",
       "https://news.ycombinator.com/item?id=49627634"
     ],
     [
       "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
       "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 13:20:36",
-      "https://news.ycombinator.com/item?id=49626110"
-    ],
-    [
-      "Liesegang Rings",
-      "https://chillphysicsenjoyer.substack.com/p/liesegang-rings"
     ]
   ],
   [
@@ -261,22 +251,22 @@
   ],
   [
     [
-      "2026-09-08, 14:48:17",
-      "https://news.ycombinator.com/item?id=49611112"
-    ],
-    [
-      "Show HN: Filament – Fast data movement engine in Go",
-      "https://github.com/galaxy-io/filament"
-    ]
-  ],
-  [
-    [
       "2026-09-08, 14:25:04",
       "https://news.ycombinator.com/item?id=49610780"
     ],
     [
       "To write non-fiction, draw the trunk, then the rest of the tree",
       "https://devz.cl/posts/how-to-write/"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 20:34:32",
+      "https://news.ycombinator.com/item?id=49602716"
+    ],
+    [
+      "Macbeth and His Problems",
+      "https://porticoquarterly.com/essay/macbeth-and-his-problems/"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2026-09-05, 15:35:13",
-      "https://news.ycombinator.com/item?id=49577541"
+      "2026-09-06, 14:59:33",
+      "https://news.ycombinator.com/item?id=49587121"
     ],
     [
-      "Show HN: Art – draw one stroke, let symmetry complete it",
-      "https://mrdee.in/mandala/"
+      "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+      "https://www.youtube.com/watch?v=n8m7lFQ3njk"
+    ]
+  ],
+  [
+    [
+      "2026-09-06, 12:58:54",
+      "https://news.ycombinator.com/item?id=49586139"
+    ],
+    [
+      "Schemy Lisp En DOS",
+      "https://sled.neocities.org/"
     ]
   ]
 ]
