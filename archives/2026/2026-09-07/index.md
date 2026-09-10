@@ -54,5 +54,6 @@
 * [2026-09-07, 03:06:33](https://news.ycombinator.com/item?id=49593410) - [Mother convicted of: her 5 yo walks short way to pond alone in Virginia](https://www.washingtonpost.com/dc-md-va/2026/09/06/5-year-old-walked-alone-gated-community-his-mom-was-sentenced/)
 * [2026-09-07, 02:14:59](https://news.ycombinator.com/item?id=49593066) - [Has anybody seen my keys? A key-hierarchy strategy for rack-level security](https://rfd.shared.oxide.computer/rfd/0301)
 * [2026-09-07, 01:41:11](https://news.ycombinator.com/item?id=49592840) - [Show HN: GET Together – A social network where you don't need POST to Post](https://gettogether.dev)
+* [2026-09-07, 01:35:21](https://news.ycombinator.com/item?id=49592799) - [Aardman (Wallace and Gromit) Is Selling Its Original Movie Puppets](https://gizmodo.com/aardman-is-selling-its-original-movie-puppets-this-month-2000807968)
 * [2026-09-07, 00:22:04](https://news.ycombinator.com/item?id=49592375) - [216M Spy TVs – The LG Smart TV Problem [video]](https://www.youtube.com/watch?v=6IFVTcM28KA)
 * [2026-09-07, 00:21:01](https://news.ycombinator.com/item?id=49592366) - [MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server](https://github.com/Staatsgeheim/MathKernel)

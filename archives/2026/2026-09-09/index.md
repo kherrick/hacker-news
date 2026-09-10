@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-09](index.md)
 
+* [2026-09-09, 23:49:29](https://news.ycombinator.com/item?id=49636283) - [Automattic's board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
 * [2026-09-09, 22:22:53](https://news.ycombinator.com/item?id=49635384) - [Blizzard Workers Win Historic Union Contract](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)
 * [2026-09-09, 21:28:56](https://news.ycombinator.com/item?id=49634650) - [Automattic CEO Matt Mullenweg Put on 'Leave of Absence'](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
 * [2026-09-09, 20:16:08](https://news.ycombinator.com/item?id=49633534) - [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)
@@ -46,6 +47,7 @@
 * [2026-09-09, 10:01:16](https://news.ycombinator.com/item?id=49623938) - [Building a Wall Lamp from Scratch](https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/)
 * [2026-09-09, 10:01:15](https://news.ycombinator.com/item?id=49623937) - [Lotus Notes and the dangers of starting from scratch](https://buttondown.com/blog/lotus-notes-email)
 * [2026-09-09, 09:39:46](https://news.ycombinator.com/item?id=49623754) - [Claude, change the \"Add to Cart\" button to blue](https://opusfived.dev/)
+* [2026-09-09, 08:53:58](https://news.ycombinator.com/item?id=49623398) - [Show HN: Compute polynomials twice as fast](https://thomasahle.com/fast-polynomials/)
 * [2026-09-09, 08:43:27](https://news.ycombinator.com/item?id=49623306) - [Gambling with our lives: AI researcher quits Anthropic with warning about safety](https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/)
 * [2026-09-09, 07:22:46](https://news.ycombinator.com/item?id=49622561) - [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
 * [2026-09-09, 06:58:44](https://news.ycombinator.com/item?id=49622305) - [On Really Trying (2009)](https://gwern.net/on-really-trying)
