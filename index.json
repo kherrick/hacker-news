@@ -1,21 +1,11 @@
 [
   [
     [
-      "2026-09-10, 21:30:55",
-      "https://news.ycombinator.com/item?id=49650418"
-    ],
-    [
-      "NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
-      "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx"
-    ]
-  ],
-  [
-    [
       "2026-09-10, 21:22:59",
       "https://news.ycombinator.com/item?id=49650326"
     ],
     [
-      "The part of Navier-Stokes no one is talking about",
+      "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
       "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/"
     ]
   ],
@@ -51,11 +41,21 @@
   ],
   [
     [
+      "2026-09-10, 19:34:20",
+      "https://news.ycombinator.com/item?id=49649124"
+    ],
+    [
+      "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "https://auberon.xyz/blog/posts/deathray/"
+    ]
+  ],
+  [
+    [
       "2026-09-10, 19:03:34",
       "https://news.ycombinator.com/item?id=49648732"
     ],
     [
-      "Creativity is the New Moat",
+      "Creativity is the new moat",
       "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=49645754"
     ],
     [
-      "Silicon Valley Is Transforming the Military-Industrial Complex",
+      "Silicon Valley is transforming the military-industrial complex?",
       "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex"
     ]
   ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=49645686"
     ],
     [
-      "Neki",
+      "Neki – Sharded Postgres",
       "https://planetscale.com/blog/introducing-neki"
     ]
   ],
@@ -145,8 +145,8 @@
       "https://news.ycombinator.com/item?id=49645437"
     ],
     [
-      "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
-      "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844"
+      "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=49643982"
     ],
     [
-      "Shopify moves back to Native from React Native",
+      "Shopify is moving from React Native back to Swift and Kotlin",
       "https://shopify.engineering/back-to-native"
     ]
   ],
@@ -241,22 +241,12 @@
   ],
   [
     [
-      "2026-09-08, 16:59:53",
-      "https://news.ycombinator.com/item?id=49613072"
+      "2026-09-08, 11:08:53",
+      "https://news.ycombinator.com/item?id=49608665"
     ],
     [
-      "Compute-efficient pretraining and scaling to trillion-parameter models",
-      "https://magic.dev/blog/pretraining#"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 16:17:51",
-      "https://news.ycombinator.com/item?id=49612470"
-    ],
-    [
-      "Python sets and dictionaries can have quadratic-time performance",
-      "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/"
+      "Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",
+      "https://asm-editor.specy.app/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
       "https://vertumnus.fyi"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 21:50:12",
+      "https://news.ycombinator.com/item?id=49603335"
+    ],
+    [
+      "Recursion into madness",
+      "https://blog.coredump.cx/p/recursion-into-madness"
     ]
   ],
   [
