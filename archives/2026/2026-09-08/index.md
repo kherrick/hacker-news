@@ -26,6 +26,7 @@
 * [2026-09-08, 16:31:01](https://news.ycombinator.com/item?id=49612635) - [Y Combinator Early Access Network](https://events.ycombinator.com/yc-early-access-fall-26)
 * [2026-09-08, 16:30:08](https://news.ycombinator.com/item?id=49612618) - [Hire Every Engineer Like You'd Hire a VP](https://businessasusual.io/p/executive-search-methods-for-engineering)
 * [2026-09-08, 16:07:08](https://news.ycombinator.com/item?id=49612329) - [LG TVs caught spying even when offline or on standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
+* [2026-09-08, 15:59:11](https://news.ycombinator.com/item?id=49612223) - [Open Source Durable Objects for Postgres](https://solidobjects.dev/blog/introducing-solidobjects)
 * [2026-09-08, 15:56:56](https://news.ycombinator.com/item?id=49612191) - [C*: Unifying Programming and Verification in C](https://arxiv.org/abs/2504.02246)
 * [2026-09-08, 15:49:57](https://news.ycombinator.com/item?id=49612089) - [Into the depths of C: Elaborating the de facto standards (2016)](https://dl.acm.org/doi/10.1145/2980983.2908081)
 * [2026-09-08, 15:13:56](https://news.ycombinator.com/item?id=49611549) - [Disappointed Optimists](https://cwodtke.com/disappointed-optimists/)
