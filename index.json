@@ -1,11 +1,61 @@
 [
   [
     [
+      "2026-09-10, 21:30:55",
+      "https://news.ycombinator.com/item?id=49650418"
+    ],
+    [
+      "NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
+      "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 21:22:59",
+      "https://news.ycombinator.com/item?id=49650326"
+    ],
+    [
+      "The part of Navier-Stokes no one is talking about",
+      "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 20:33:11",
+      "https://news.ycombinator.com/item?id=49649789"
+    ],
+    [
+      "Bodily Oddities",
+      "https://vester.si/bodily-oddities/"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 19:44:15",
+      "https://news.ycombinator.com/item?id=49649222"
+    ],
+    [
+      "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "https://merybenavente.me/blog/proof-of-capture"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 19:43:22",
+      "https://news.ycombinator.com/item?id=49649213"
+    ],
+    [
+      "OpenAI Agents API",
+      "https://developers.openai.com/api/docs/guides/agents-api/overview"
+    ]
+  ],
+  [
+    [
       "2026-09-10, 19:03:34",
       "https://news.ycombinator.com/item?id=49648732"
     ],
     [
-      "Genuine Creativity Is Your New Moat (2026)",
+      "Creativity is the New Moat",
       "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat"
     ]
   ],
@@ -17,6 +67,16 @@
     [
       "JEP 544: Ahead-of-Time Code Compilation",
       "https://openjdk.org/jeps/544"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 17:23:42",
+      "https://news.ycombinator.com/item?id=49647300"
+    ],
+    [
+      "Detecting and countering misuse of AI: September 2026",
+      "https://www.anthropic.com/threat-intelligence-report-september-2026"
     ]
   ],
   [
@@ -41,52 +101,12 @@
   ],
   [
     [
-      "2026-09-10, 16:13:42",
-      "https://news.ycombinator.com/item?id=49646181"
-    ],
-    [
-      "I have a theory that software drives people insane",
-      "https://graybeard.ing/software-drives-people-insane/"
-    ]
-  ],
-  [
-    [
       "2026-09-10, 15:57:40",
       "https://news.ycombinator.com/item?id=49645907"
     ],
     [
       "Forgejo <=16.0.3 Critical RCE",
       "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 15:52:02",
-      "https://news.ycombinator.com/item?id=49645826"
-    ],
-    [
-      "Casablanca: How an unproduced play marched into movie history",
-      "https://www.thecollector.com/casablanca-unproduced-play-movie-history/"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 15:50:25",
-      "https://news.ycombinator.com/item?id=49645803"
-    ],
-    [
-      "Show HN: MultiMatte, a Promptable Image Background Removal Model",
-      "https://usefeyn.com/blog/multimatte/"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 15:48:14",
-      "https://news.ycombinator.com/item?id=49645763"
-    ],
-    [
-      "Neki is sharded Postgres by PlanetScale",
-      "https://neki.dev/"
     ]
   ],
   [
@@ -135,7 +155,7 @@
       "https://news.ycombinator.com/item?id=49645393"
     ],
     [
-      "Don't Let Anyone Take Away Your Big Box of Cables",
+      "Don't let anyone take away your big box of cables",
       "https://blog.jim-nielsen.com/2026/hands-off-my-cables/"
     ]
   ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-09-10, 06:11:05",
-      "https://news.ycombinator.com/item?id=49639090"
-    ],
-    [
-      "DeepSeek v4.1 Flash",
-      "https://twitter.com/deepseek_ai/status/2097930608790167907"
-    ]
-  ],
-  [
-    [
       "2026-09-09, 18:15:43",
       "https://news.ycombinator.com/item?id=49630931"
     ],
     [
       "iPhone Duo",
       "https://www.apple.com/iphone-duo/"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 17:31:39",
-      "https://news.ycombinator.com/item?id=49630125"
-    ],
-    [
-      "Show HN: DOOM in the kernel, or fibers in eBPF",
-      "https://ayles.github.io/doom-in-kernel/"
     ]
   ],
   [
@@ -231,11 +231,21 @@
   ],
   [
     [
+      "2026-09-08, 19:46:59",
+      "https://news.ycombinator.com/item?id=49615922"
+    ],
+    [
+      "What happens when a GPU writes memory",
+      "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory"
+    ]
+  ],
+  [
+    [
       "2026-09-08, 16:59:53",
       "https://news.ycombinator.com/item?id=49613072"
     ],
     [
-      ">10x More Efficient Pretraining",
+      "Compute-efficient pretraining and scaling to trillion-parameter models",
       "https://magic.dev/blog/pretraining#"
     ]
   ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2026-09-08, 14:25:04",
-      "https://news.ycombinator.com/item?id=49610780"
+      "2026-09-08, 01:08:10",
+      "https://news.ycombinator.com/item?id=49604581"
     ],
     [
-      "To write non-fiction, draw the trunk, then the rest of the tree",
-      "https://devz.cl/posts/how-to-write/"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 20:34:32",
-      "https://news.ycombinator.com/item?id=49602716"
-    ],
-    [
-      "Macbeth and His Problems",
-      "https://porticoquarterly.com/essay/macbeth-and-his-problems/"
+      "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
+      "https://vertumnus.fyi"
     ]
   ],
   [
