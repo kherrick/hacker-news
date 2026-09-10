@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-10](index.md)
 
+* [2026-09-10, 19:03:34](https://news.ycombinator.com/item?id=49648732) - [Genuine Creativity Is Your New Moat (2026)](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
+* [2026-09-10, 17:30:39](https://news.ycombinator.com/item?id=49647404) - [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
+* [2026-09-10, 17:14:12](https://news.ycombinator.com/item?id=49647134) - [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+* [2026-09-10, 16:52:11](https://news.ycombinator.com/item?id=49646778) - [Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1](https://tokenstead.ai/models/swe-2)
 * [2026-09-10, 16:14:48](https://news.ycombinator.com/item?id=49646199) - [Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf](https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/)
 * [2026-09-10, 16:13:42](https://news.ycombinator.com/item?id=49646181) - [Software Drives People Insane](https://graybeard.ing/software-drives-people-insane/)
 * [2026-09-10, 16:09:43](https://news.ycombinator.com/item?id=49646123) - [One resignation turned the embers of AI fear into a wildfire](https://www.interconnects.ai/p/one-resignation-turned-the-embers)
@@ -16,6 +20,7 @@
 * [2026-09-10, 15:43:49](https://news.ycombinator.com/item?id=49645686) - [Neki](https://planetscale.com/blog/introducing-neki)
 * [2026-09-10, 15:29:47](https://news.ycombinator.com/item?id=49645443) - [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)
 * [2026-09-10, 15:29:30](https://news.ycombinator.com/item?id=49645437) - [NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth](https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844)
+* [2026-09-10, 15:27:22](https://news.ycombinator.com/item?id=49645393) - [Don't Let Anyone Take Away Your Big Box of Cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
 * [2026-09-10, 15:01:27](https://news.ycombinator.com/item?id=49644955) - [Show HN: Syq – copy files between machines fast (better than rsync)](https://greaber.github.io/syq/)
 * [2026-09-10, 14:09:31](https://news.ycombinator.com/item?id=49643982) - [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
 * [2026-09-10, 13:39:16](https://news.ycombinator.com/item?id=49643546) - [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)

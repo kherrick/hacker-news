@@ -39,6 +39,7 @@
 * [2026-09-06, 15:14:06](https://news.ycombinator.com/item?id=49587285) - [Alberta (Canada) slaps punitive tax on solar panels](https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/)
 * [2026-09-06, 15:08:44](https://news.ycombinator.com/item?id=49587217) - [Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai)
 * [2026-09-06, 15:00:19](https://news.ycombinator.com/item?id=49587128) - [I Feel about AI](https://beza1e1.tuxen.de/ai_feelings.html)
+* [2026-09-06, 14:59:33](https://news.ycombinator.com/item?id=49587121) - [Douglas Hofstadter: Analogy as the Core of Cognition [video]](https://www.youtube.com/watch?v=n8m7lFQ3njk)
 * [2026-09-06, 14:59:08](https://news.ycombinator.com/item?id=49587115) - [Feather Atlas](https://www.fws.gov/lab/featheratlas/identify.html)
 * [2026-09-06, 14:52:07](https://news.ycombinator.com/item?id=49587040) - [Recreating Minecraft Is Not a Benchmark](https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark)
 * [2026-09-06, 14:34:46](https://news.ycombinator.com/item?id=49586902) - [Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS](https://github.com/scastiel/kado)

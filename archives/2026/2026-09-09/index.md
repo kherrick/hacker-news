@@ -14,6 +14,7 @@
 * [2026-09-09, 17:56:17](https://news.ycombinator.com/item?id=49630566) - [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
 * [2026-09-09, 17:39:24](https://news.ycombinator.com/item?id=49630253) - [Apple Introduces AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
 * [2026-09-09, 17:33:20](https://news.ycombinator.com/item?id=49630151) - [iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
+* [2026-09-09, 17:31:39](https://news.ycombinator.com/item?id=49630125) - [Show HN: DOOM in the kernel, or fibers in eBPF](https://ayles.github.io/doom-in-kernel/)
 * [2026-09-09, 17:24:28](https://news.ycombinator.com/item?id=49630026) - [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
 * [2026-09-09, 17:14:59](https://news.ycombinator.com/item?id=49629886) - [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
 * [2026-09-09, 17:13:52](https://news.ycombinator.com/item?id=49629868) - [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://arxiv.org/abs/2609.09153)
