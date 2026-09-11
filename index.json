@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-09-11, 18:50:36",
+      "https://news.ycombinator.com/item?id=49663373"
+    ],
+    [
+      "GrapheneOS' rewritten Messages app is released",
+      "https://github.com/GrapheneOS/Messaging/releases/tag/13"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 18:10:20",
+      "https://news.ycombinator.com/item?id=49662767"
+    ],
+    [
+      "Litelm: LiteLLM Without the Bloat",
+      "https://github.com/kennethwolters/litelm"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 18:05:21",
+      "https://news.ycombinator.com/item?id=49662672"
+    ],
+    [
+      "The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution",
+      "https://capitalbnews.org/data-centers-permit-rules-epa/"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 17:54:53",
+      "https://news.ycombinator.com/item?id=49662496"
+    ],
+    [
+      "Show HN: Toast, a beautiful by default in terminal IDE",
+      "https://github.com/paradise-runner/toast"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 17:45:12",
+      "https://news.ycombinator.com/item?id=49662371"
+    ],
+    [
+      "A misalignment of AI in mathematics",
+      "https://mathandai.org/"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 17:45:03",
+      "https://news.ycombinator.com/item?id=49662367"
+    ],
+    [
+      "Room 641A",
+      "https://en.wikipedia.org/wiki/Room_641A"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 17:36:11",
+      "https://news.ycombinator.com/item?id=49662214"
+    ],
+    [
+      "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "https://snap.berkeley.edu/"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 17:25:23",
+      "https://news.ycombinator.com/item?id=49662020"
+    ],
+    [
+      "Mind-altering drugs played key role in rise of Andean civilization",
+      "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization"
+    ]
+  ],
+  [
+    [
       "2026-09-11, 17:00:17",
       "https://news.ycombinator.com/item?id=49661645"
     ],
@@ -11,11 +91,21 @@
   ],
   [
     [
+      "2026-09-11, 16:08:50",
+      "https://news.ycombinator.com/item?id=49660783"
+    ],
+    [
+      "Show HN: Hacker News, Without AI",
+      "https://www.unslop.news/"
+    ]
+  ],
+  [
+    [
       "2026-09-11, 16:03:05",
       "https://news.ycombinator.com/item?id=49660676"
     ],
     [
-      "Godot and Rust based multiplexer (terminal panes and more)",
+      "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
       "https://github.com/godot-pty/gpty"
     ]
   ],
@@ -41,32 +131,12 @@
   ],
   [
     [
-      "2026-09-11, 15:52:49",
-      "https://news.ycombinator.com/item?id=49660482"
+      "2026-09-11, 15:31:47",
+      "https://news.ycombinator.com/item?id=49660149"
     ],
     [
-      "Hacker News with reduced priority for AI driven content",
-      "https://sprinklz.io/public/pdwt4dve5uai"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 15:29:35",
-      "https://news.ycombinator.com/item?id=49660104"
-    ],
-    [
-      "Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster",
-      "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 15:01:19",
-      "https://news.ycombinator.com/item?id=49659647"
-    ],
-    [
-      "Show HN: Hacker News, without AI",
-      "https://hcker.news/?ai=exclude"
+      "Rune is now open source",
+      "https://rune.build/blog/rune-is-now-open-source"
     ]
   ],
   [
@@ -81,42 +151,12 @@
   ],
   [
     [
-      "2026-09-11, 14:14:56",
-      "https://news.ycombinator.com/item?id=49658819"
+      "2026-09-11, 13:42:28",
+      "https://news.ycombinator.com/item?id=49658311"
     ],
     [
-      "New York thoracic surgeon: \"For many patients 9/11 is not over\"",
-      "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 13:54:17",
-      "https://news.ycombinator.com/item?id=49658483"
-    ],
-    [
-      "Show HN: Clawfight.ai MCP-driven agentic game play",
-      "https://clawfight.ai/agents.md"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 13:41:58",
-      "https://news.ycombinator.com/item?id=49658302"
-    ],
-    [
-      "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
-      "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 13:41:38",
-      "https://news.ycombinator.com/item?id=49658299"
-    ],
-    [
-      "Houthis 'take control' of key island in global shipping route",
-      "https://www.bbc.com/news/live/cmd683p01eljt"
+      "Measuring the sloppiness of code",
+      "https://earendil.com/posts/measuring-code-sloppiness/"
     ]
   ],
   [
@@ -145,28 +185,18 @@
       "https://news.ycombinator.com/item?id=49655286"
     ],
     [
-      "Cherenkov Radiation - traveling faster than light",
+      "Cherenkov Radiation",
       "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation"
     ]
   ],
   [
     [
-      "2026-09-11, 07:57:17",
-      "https://news.ycombinator.com/item?id=49654962"
+      "2026-09-11, 00:42:41",
+      "https://news.ycombinator.com/item?id=49652105"
     ],
     [
-      "CSS Curiosities of the Past",
-      "https://vale.rocks/posts/css-relics"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 01:00:56",
-      "https://news.ycombinator.com/item?id=49652237"
-    ],
-    [
-      "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-      "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/"
+      "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "https://www.bbc.com/news/articles/c8r6y4me2g6o"
     ]
   ],
   [
@@ -181,42 +211,32 @@
   ],
   [
     [
-      "2026-09-10, 19:43:22",
-      "https://news.ycombinator.com/item?id=49649213"
+      "2026-09-10, 20:33:11",
+      "https://news.ycombinator.com/item?id=49649789"
     ],
     [
-      "OpenAI Agents API",
-      "https://developers.openai.com/api/docs/guides/agents-api/overview"
+      "Show HN: Bodily Oddities",
+      "https://vester.si/bodily-oddities/"
     ]
   ],
   [
     [
-      "2026-09-10, 15:29:30",
-      "https://news.ycombinator.com/item?id=49645437"
+      "2026-09-09, 11:30:51",
+      "https://news.ycombinator.com/item?id=49624717"
     ],
     [
-      "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-      "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images"
+      "AlphaGenome maps 9B DNA variants",
+      "https://spectrum.ieee.org/alphagenome-atlas"
     ]
   ],
   [
     [
-      "2026-09-10, 15:27:22",
-      "https://news.ycombinator.com/item?id=49645393"
+      "2026-09-09, 07:07:48",
+      "https://news.ycombinator.com/item?id=49622411"
     ],
     [
-      "Don't let anyone take away your big box of cables",
-      "https://blog.jim-nielsen.com/2026/hands-off-my-cables/"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 14:09:31",
-      "https://news.ycombinator.com/item?id=49643982"
-    ],
-    [
-      "Shopify is moving from React Native back to Swift and Kotlin",
-      "https://shopify.engineering/back-to-native"
+      "How I Prompt",
+      "https://thorstenball.com/talks/how-i-prompt/"
     ]
   ],
   [
@@ -241,6 +261,16 @@
   ],
   [
     [
+      "2026-09-08, 22:33:21",
+      "https://news.ycombinator.com/item?id=49618087"
+    ],
+    [
+      "Stop making swap partitions—use swap files instead",
+      "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43"
+    ]
+  ],
+  [
+    [
       "2026-09-08, 17:28:48",
       "https://news.ycombinator.com/item?id=49613507"
     ],
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2026-09-08, 14:54:57",
-      "https://news.ycombinator.com/item?id=49611240"
+      "2026-09-08, 14:28:10",
+      "https://news.ycombinator.com/item?id=49610834"
     ],
     [
-      "iPod Classic 6G in QEMU",
-      "https://www.reddit.com/r/emulation/s/VL4Au2HGxq"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 14:10:33",
-      "https://news.ycombinator.com/item?id=49610596"
-    ],
-    [
-      "An interactive tour of the spanning tree protocol",
-      "https://vincent.bernat.ch/en/blog/2026-spanning-tree"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 06:31:59",
-      "https://news.ycombinator.com/item?id=49606281"
-    ],
-    [
-      "Working with Git Worktrees in Magit",
-      "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 21:57:15",
-      "https://news.ycombinator.com/item?id=49603397"
-    ],
-    [
-      "RISC-V Emulator and Linux System from Scratch",
-      "https://github.com/WerWolv/riscv-emulator"
+      "How the Chorleywood Bread Process transformed British bread",
+      "https://edconway.substack.com/p/the-little-holes-in-your-bread-are"
     ]
   ],
   [
