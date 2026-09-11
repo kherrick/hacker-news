@@ -53,6 +53,7 @@
 * [2026-09-09, 08:53:58](https://news.ycombinator.com/item?id=49623398) - [Show HN: Compute polynomials twice as fast](https://thomasahle.com/fast-polynomials/)
 * [2026-09-09, 08:43:27](https://news.ycombinator.com/item?id=49623306) - [Gambling with our lives: AI researcher quits Anthropic with warning about safety](https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/)
 * [2026-09-09, 07:22:46](https://news.ycombinator.com/item?id=49622561) - [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
+* [2026-09-09, 07:07:26](https://news.ycombinator.com/item?id=49622406) - [Logo Programming Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
 * [2026-09-09, 06:58:44](https://news.ycombinator.com/item?id=49622305) - [On Really Trying (2009)](https://gwern.net/on-really-trying)
 * [2026-09-09, 06:31:28](https://news.ycombinator.com/item?id=49622042) - [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
 * [2026-09-09, 06:02:07](https://news.ycombinator.com/item?id=49621751) - [“Tweet” and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)

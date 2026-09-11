@@ -21,6 +21,7 @@
 * [2026-09-07, 18:52:06](https://news.ycombinator.com/item?id=49601655) - [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
 * [2026-09-07, 18:38:34](https://news.ycombinator.com/item?id=49601480) - [Volkswagen to convert German car plant to produce Israeli defense equipment](https://www.timesofisrael.com/volkswagen-to-convert-german-car-plant-to-produce-israeli-defense-equipment/)
 * [2026-09-07, 18:24:32](https://news.ycombinator.com/item?id=49601338) - [AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
+* [2026-09-07, 18:05:04](https://news.ycombinator.com/item?id=49601138) - [I've operated petabyte-scale ClickHouse clusters for 5 years](https://www.tinybird.co/blog/what-i-learned-operating-clickhouse)
 * [2026-09-07, 17:52:58](https://news.ycombinator.com/item?id=49600997) - [No constitutional right to clean water, federal court finds](https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/)
 * [2026-09-07, 17:44:33](https://news.ycombinator.com/item?id=49600901) - [The Helicopter with Radioactive Blades](https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/)
 * [2026-09-07, 17:21:55](https://news.ycombinator.com/item?id=49600657) - [Customizing my Compaq MX-11800 keyboard](https://blog.webb.page/WM-102)

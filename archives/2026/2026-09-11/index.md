@@ -4,6 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-09-11](index.md)
 
+* [2026-09-11, 17:00:17](https://news.ycombinator.com/item?id=49661645) - [Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering](https://www.getzep.com/careers/)
+* [2026-09-11, 16:03:05](https://news.ycombinator.com/item?id=49660676) - [Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty)
+* [2026-09-11, 15:58:06](https://news.ycombinator.com/item?id=49660576) - [Global Glacier Extinction Explorer](https://glacierextinction.com)
+* [2026-09-11, 15:56:37](https://news.ycombinator.com/item?id=49660555) - [118M Queries per Second on Neki](https://planetscale.com/blog/118-million-queries-per-second-on-neki)
+* [2026-09-11, 15:52:49](https://news.ycombinator.com/item?id=49660482) - [Hacker News with reduced priority for AI driven content](https://sprinklz.io/public/pdwt4dve5uai)
+* [2026-09-11, 15:29:35](https://news.ycombinator.com/item?id=49660104) - [Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/)
+* [2026-09-11, 15:01:19](https://news.ycombinator.com/item?id=49659647) - [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude)
+* [2026-09-11, 14:38:13](https://news.ycombinator.com/item?id=49659245) - [HuggingFace: Security.txt](https://huggingface.co/security.txt)
+* [2026-09-11, 14:14:56](https://news.ycombinator.com/item?id=49658819) - [New York thoracic surgeon: \"For many patients 9/11 is not over\"](https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/)
+* [2026-09-11, 13:54:17](https://news.ycombinator.com/item?id=49658483) - [Show HN: Clawfight.ai MCP-driven agentic game play](https://clawfight.ai/agents.md)
+* [2026-09-11, 13:41:58](https://news.ycombinator.com/item?id=49658302) - [Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK](https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html)
+* [2026-09-11, 13:41:38](https://news.ycombinator.com/item?id=49658299) - [Houthis 'take control' of key island in global shipping route](https://www.bbc.com/news/live/cmd683p01eljt)
 * [2026-09-11, 13:11:04](https://news.ycombinator.com/item?id=49657850) - [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)
 * [2026-09-11, 12:34:25](https://news.ycombinator.com/item?id=49657361) - [Remember Hong Kong](https://www.thenextmove.org/p/remember-hong-kong)
 * [2026-09-11, 11:36:24](https://news.ycombinator.com/item?id=49656698) - [Moonshot serves Claude instead of Kimi and collects exchanges for model training](https://twitter.com/DavidAgranovich/status/2098168522862215449)

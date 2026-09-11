@@ -22,6 +22,7 @@
 * [2026-09-08, 18:27:32](https://news.ycombinator.com/item?id=49614575) - [Generating the P3 Tiling](https://k-monk.org/blog/generating-the-p3-tiling/)
 * [2026-09-08, 18:26:27](https://news.ycombinator.com/item?id=49614557) - [100s of flights cancelled at UK airports due to ATC issue](https://www.bbc.com/news/live/c6x2z0yy32ejt)
 * [2026-09-08, 18:11:05](https://news.ycombinator.com/item?id=49614280) - [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
+* [2026-09-08, 17:28:48](https://news.ycombinator.com/item?id=49613507) - [Copper lined vest to help penguins with recovery](https://apnews.com/article/chile-el-nino-humboldt-penguins-vulnerable-injuries-rehabilitation-6e93b8d4eaef903e4c85d16ade7d5881)
 * [2026-09-08, 17:13:21](https://news.ycombinator.com/item?id=49613262) - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
 * [2026-09-08, 17:00:45](https://news.ycombinator.com/item?id=49613086) - [Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools](https://cepr.org/publications/dp21706)
 * [2026-09-08, 16:59:53](https://news.ycombinator.com/item?id=49613072) - [>10x More Efficient Pretraining](https://magic.dev/blog/pretraining#)
