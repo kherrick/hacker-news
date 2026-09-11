@@ -34,6 +34,7 @@
 * [2026-09-09, 15:09:05](https://news.ycombinator.com/item?id=49627872) - [Show HN: Give your AI agent on-screen guides that show users where to click](https://news.ycombinator.com/item?id=49627872)
 * [2026-09-09, 14:54:12](https://news.ycombinator.com/item?id=49627634) - [Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/)
 * [2026-09-09, 14:37:47](https://news.ycombinator.com/item?id=49627370) - [GPT-6 Astra, looped transformers, and hidden reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and)
+* [2026-09-09, 13:59:50](https://news.ycombinator.com/item?id=49626718) - [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
 * [2026-09-09, 13:41:55](https://news.ycombinator.com/item?id=49626431) - [Ask HN: Anyone still coding like 2021? Where do you work?](https://news.ycombinator.com/item?id=49626431)
 * [2026-09-09, 13:41:53](https://news.ycombinator.com/item?id=49626429) - [Playing whack-a-mole is losing](https://dadrian.io/blog/posts/whack-a-mole-is-losing/)
 * [2026-09-09, 13:38:23](https://news.ycombinator.com/item?id=49626373) - [What will our economic future look like?](https://www.anthropic.com/institute/econ-scenarios)

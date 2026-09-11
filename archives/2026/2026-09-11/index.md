@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-11](index.md)
 
+* [2026-09-11, 20:53:16](https://news.ycombinator.com/item?id=49665210) - [ElevenLabs Music v2.5](https://elevenmusic.io/blog/introducing-music-v2-5)
+* [2026-09-11, 19:46:43](https://news.ycombinator.com/item?id=49664322) - [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/)
 * [2026-09-11, 18:50:36](https://news.ycombinator.com/item?id=49663373) - [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
+* [2026-09-11, 18:30:07](https://news.ycombinator.com/item?id=49663054) - [CIA Releases President's Daily Briefs in Commemoration of 9/11](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/)
+* [2026-09-11, 18:24:55](https://news.ycombinator.com/item?id=49662990) - [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
 * [2026-09-11, 18:10:20](https://news.ycombinator.com/item?id=49662767) - [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
 * [2026-09-11, 18:05:21](https://news.ycombinator.com/item?id=49662672) - [The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution](https://capitalbnews.org/data-centers-permit-rules-epa/)
 * [2026-09-11, 17:54:53](https://news.ycombinator.com/item?id=49662496) - [Show HN: Toast, a beautiful by default in terminal IDE](https://github.com/paradise-runner/toast)

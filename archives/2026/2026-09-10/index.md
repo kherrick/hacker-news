@@ -15,6 +15,7 @@
 * [2026-09-10, 19:34:20](https://news.ycombinator.com/item?id=49649124) - [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/)
 * [2026-09-10, 19:03:34](https://news.ycombinator.com/item?id=49648732) - [Genuine Creativity Is Your New Moat (2026)](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
 * [2026-09-10, 17:30:39](https://news.ycombinator.com/item?id=49647404) - [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
+* [2026-09-10, 17:30:33](https://news.ycombinator.com/item?id=49647403) - [From Front Panel to Program: Thinking Like a PDP-8](https://pikuma.com/blog/pdp-8-minicomputer)
 * [2026-09-10, 17:23:42](https://news.ycombinator.com/item?id=49647300) - [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
 * [2026-09-10, 17:14:12](https://news.ycombinator.com/item?id=49647134) - [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 * [2026-09-10, 16:52:11](https://news.ycombinator.com/item?id=49646778) - [Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1](https://tokenstead.ai/models/swe-2)
