@@ -1,42 +1,122 @@
 [
   [
     [
-      "2026-09-11, 13:11:04",
-      "https://news.ycombinator.com/item?id=49657850"
+      "2026-09-11, 17:00:17",
+      "https://news.ycombinator.com/item?id=49661645"
     ],
     [
-      "Ask HN: Can we please limit the AI news flood?",
-      "https://news.ycombinator.com/item?id=49657850"
+      "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+      "https://www.getzep.com/careers/"
     ]
   ],
   [
     [
-      "2026-09-11, 12:34:25",
-      "https://news.ycombinator.com/item?id=49657361"
+      "2026-09-11, 16:03:05",
+      "https://news.ycombinator.com/item?id=49660676"
     ],
     [
-      "Remember Hong Kong",
-      "https://www.thenextmove.org/p/remember-hong-kong"
+      "Godot and Rust based multiplexer (terminal panes and more)",
+      "https://github.com/godot-pty/gpty"
     ]
   ],
   [
     [
-      "2026-09-11, 11:36:24",
-      "https://news.ycombinator.com/item?id=49656698"
+      "2026-09-11, 15:58:06",
+      "https://news.ycombinator.com/item?id=49660576"
     ],
     [
-      "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
-      "https://twitter.com/DavidAgranovich/status/2098168522862215449"
+      "Global Glacier Extinction Explorer",
+      "https://glacierextinction.com"
     ]
   ],
   [
     [
-      "2026-09-11, 11:17:50",
-      "https://news.ycombinator.com/item?id=49656496"
+      "2026-09-11, 15:56:37",
+      "https://news.ycombinator.com/item?id=49660555"
     ],
     [
-      "The Waymo effect: how AI is quietly making research less collaborative",
-      "https://www.researchagenda.news/articles/the-waymo-effect.html"
+      "118M Queries per Second on Neki",
+      "https://planetscale.com/blog/118-million-queries-per-second-on-neki"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 15:52:49",
+      "https://news.ycombinator.com/item?id=49660482"
+    ],
+    [
+      "Hacker News with reduced priority for AI driven content",
+      "https://sprinklz.io/public/pdwt4dve5uai"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 15:29:35",
+      "https://news.ycombinator.com/item?id=49660104"
+    ],
+    [
+      "Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster",
+      "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 15:01:19",
+      "https://news.ycombinator.com/item?id=49659647"
+    ],
+    [
+      "Show HN: Hacker News, without AI",
+      "https://hcker.news/?ai=exclude"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 14:38:13",
+      "https://news.ycombinator.com/item?id=49659245"
+    ],
+    [
+      "HuggingFace: Security.txt",
+      "https://huggingface.co/security.txt"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 14:14:56",
+      "https://news.ycombinator.com/item?id=49658819"
+    ],
+    [
+      "New York thoracic surgeon: \"For many patients 9/11 is not over\"",
+      "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 13:54:17",
+      "https://news.ycombinator.com/item?id=49658483"
+    ],
+    [
+      "Show HN: Clawfight.ai MCP-driven agentic game play",
+      "https://clawfight.ai/agents.md"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 13:41:58",
+      "https://news.ycombinator.com/item?id=49658302"
+    ],
+    [
+      "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
+      "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 13:41:38",
+      "https://news.ycombinator.com/item?id=49658299"
+    ],
+    [
+      "Houthis 'take control' of key island in global shipping route",
+      "https://www.bbc.com/news/live/cmd683p01eljt"
     ]
   ],
   [
@@ -55,7 +135,7 @@
       "https://news.ycombinator.com/item?id=49656225"
     ],
     [
-      "Claude is no longer available for minors",
+      "Claude is only available to people over 18 years",
       "https://support.claude.com/en/articles/15171100-age-assurance-on-claude"
     ]
   ],
@@ -67,16 +147,6 @@
     [
       "Cherenkov Radiation - traveling faster than light",
       "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 08:26:56",
-      "https://news.ycombinator.com/item?id=49655176"
-    ],
-    [
-      "Neijuan",
-      "https://en.wikipedia.org/wiki/Neijuan"
     ]
   ],
   [
@@ -101,32 +171,12 @@
   ],
   [
     [
-      "2026-09-10, 22:54:01",
-      "https://news.ycombinator.com/item?id=49651221"
+      "2026-09-10, 22:33:45",
+      "https://news.ycombinator.com/item?id=49651046"
     ],
     [
-      "Nine coding harnesses vs. your laptop",
-      "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 21:30:55",
-      "https://news.ycombinator.com/item?id=49650418"
-    ],
-    [
-      "NTSB issues investigative update on B-767 runway excursion accident in Miami",
-      "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 19:44:15",
-      "https://news.ycombinator.com/item?id=49649222"
-    ],
-    [
-      "Proof of Capture: Apple Reference Image, but open source and using steganography",
-      "https://merybenavente.me/blog/proof-of-capture"
+      "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+      "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/"
     ]
   ],
   [
@@ -137,56 +187,6 @@
     [
       "OpenAI Agents API",
       "https://developers.openai.com/api/docs/guides/agents-api/overview"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 19:34:20",
-      "https://news.ycombinator.com/item?id=49649124"
-    ],
-    [
-      "The Deathray: A simple way for an untrusted site to freeze a Mac",
-      "https://auberon.xyz/blog/posts/deathray/"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 17:14:12",
-      "https://news.ycombinator.com/item?id=49647134"
-    ],
-    [
-      "Music Theory for the 21st-Century Classroom",
-      "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 15:57:40",
-      "https://news.ycombinator.com/item?id=49645907"
-    ],
-    [
-      "Forgejo <=16.0.3 Critical RCE",
-      "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 15:43:49",
-      "https://news.ycombinator.com/item?id=49645686"
-    ],
-    [
-      "Neki – Sharded Postgres",
-      "https://planetscale.com/blog/introducing-neki"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 15:29:47",
-      "https://news.ycombinator.com/item?id=49645443"
-    ],
-    [
-      "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "https://cognition.com/blog/swe-2"
     ]
   ],
   [
@@ -221,22 +221,12 @@
   ],
   [
     [
-      "2026-09-10, 13:39:16",
-      "https://news.ycombinator.com/item?id=49643546"
+      "2026-09-09, 07:07:26",
+      "https://news.ycombinator.com/item?id=49622406"
     ],
     [
-      "Rust is tier-1 language at Microsoft",
-      "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 06:49:43",
-      "https://news.ycombinator.com/item?id=49639408"
-    ],
-    [
-      "More questions about whether researchers can trust OpenAI with unpublished math",
-      "https://mathstodon.xyz/@andreasthom/117240535270608201"
+      "Logo Programming Language",
+      "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "So you want to use OpenRouter?",
       "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/"
+    ]
+  ],
+  [
+    [
+      "2026-09-08, 17:28:48",
+      "https://news.ycombinator.com/item?id=49613507"
+    ],
+    [
+      "Copper lined vest to help penguins with recovery",
+      "https://apnews.com/article/chile-el-nino-humboldt-penguins-vulnerable-injuries-rehabilitation-6e93b8d4eaef903e4c85d16ade7d5881"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-09-08, 12:03:33",
-      "https://news.ycombinator.com/item?id=49609169"
-    ],
-    [
-      "Experiment – Projectional Viewer",
-      "https://programmingsimplicity.substack.com/p/experiment-projectional-viewer"
-    ]
-  ],
-  [
-    [
       "2026-09-08, 06:31:59",
       "https://news.ycombinator.com/item?id=49606281"
     ],
@@ -297,6 +287,16 @@
     [
       "RISC-V Emulator and Linux System from Scratch",
       "https://github.com/WerWolv/riscv-emulator"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 18:05:04",
+      "https://news.ycombinator.com/item?id=49601138"
+    ],
+    [
+      "I've operated petabyte-scale ClickHouse clusters for 5 years",
+      "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse"
     ]
   ]
 ]
