@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-10](index.md)
 
+* [2026-09-10, 23:10:06](https://news.ycombinator.com/item?id=49651372) - [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)
+* [2026-09-10, 22:54:01](https://news.ycombinator.com/item?id=49651221) - [Nine coding harnesses vs. your laptop](https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74)
 * [2026-09-10, 21:30:55](https://news.ycombinator.com/item?id=49650418) - [NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
 * [2026-09-10, 21:22:59](https://news.ycombinator.com/item?id=49650326) - [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
 * [2026-09-10, 20:33:11](https://news.ycombinator.com/item?id=49649789) - [Bodily Oddities](https://vester.si/bodily-oddities/)

@@ -22,6 +22,7 @@
 * [2026-09-07, 18:24:32](https://news.ycombinator.com/item?id=49601338) - [AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
 * [2026-09-07, 17:52:58](https://news.ycombinator.com/item?id=49600997) - [No constitutional right to clean water, federal court finds](https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/)
 * [2026-09-07, 17:44:33](https://news.ycombinator.com/item?id=49600901) - [The Helicopter with Radioactive Blades](https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/)
+* [2026-09-07, 17:21:55](https://news.ycombinator.com/item?id=49600657) - [Customizing my Compaq MX-11800 keyboard](https://blog.webb.page/WM-102)
 * [2026-09-07, 17:13:00](https://news.ycombinator.com/item?id=49600569) - [Ancient cave art suggests first known humans in Ireland walked over from Wales](https://www.bbc.com/news/articles/c5y75dl0jpko)
 * [2026-09-07, 16:58:35](https://news.ycombinator.com/item?id=49600432) - [PostgreSQL 19 Interactive Tour](https://victoriametrics.com/blog/postgres-19/index.html)
 * [2026-09-07, 16:43:37](https://news.ycombinator.com/item?id=49600269) - [Show HN: Wg-admin – web UI for an existing WireGuard host](https://github.com/logimaxx/wg-admin)
