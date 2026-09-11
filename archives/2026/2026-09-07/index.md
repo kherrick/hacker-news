@@ -7,6 +7,7 @@
 * [2026-09-07, 23:40:33](https://news.ycombinator.com/item?id=49604165) - [Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes](https://github.com/ashemag/human-atlas)
 * [2026-09-07, 23:37:42](https://news.ycombinator.com/item?id=49604150) - [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
 * [2026-09-07, 22:12:38](https://news.ycombinator.com/item?id=49603546) - [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
+* [2026-09-07, 21:57:15](https://news.ycombinator.com/item?id=49603397) - [RISC-V Emulator and Linux System from Scratch](https://github.com/WerWolv/riscv-emulator)
 * [2026-09-07, 21:50:12](https://news.ycombinator.com/item?id=49603335) - [Recursion into madness](https://blog.coredump.cx/p/recursion-into-madness)
 * [2026-09-07, 21:42:11](https://news.ycombinator.com/item?id=49603265) - [Version control second coming](https://psantosl.github.io/posts/version-control-second-coming/)
 * [2026-09-07, 21:19:12](https://news.ycombinator.com/item?id=49603092) - [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer)

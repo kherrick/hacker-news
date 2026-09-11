@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-09-11](index.md)
 
+* [2026-09-11, 13:11:04](https://news.ycombinator.com/item?id=49657850) - [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)
+* [2026-09-11, 12:34:25](https://news.ycombinator.com/item?id=49657361) - [Remember Hong Kong](https://www.thenextmove.org/p/remember-hong-kong)
+* [2026-09-11, 11:36:24](https://news.ycombinator.com/item?id=49656698) - [Moonshot serves Claude instead of Kimi and collects exchanges for model training](https://twitter.com/DavidAgranovich/status/2098168522862215449)
+* [2026-09-11, 11:17:50](https://news.ycombinator.com/item?id=49656496) - [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)
+* [2026-09-11, 11:15:13](https://news.ycombinator.com/item?id=49656471) - [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
+* [2026-09-11, 10:48:00](https://news.ycombinator.com/item?id=49656225) - [Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
+* [2026-09-11, 08:42:04](https://news.ycombinator.com/item?id=49655286) - [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
+* [2026-09-11, 08:26:56](https://news.ycombinator.com/item?id=49655176) - [Neijuan](https://en.wikipedia.org/wiki/Neijuan)
+* [2026-09-11, 07:57:17](https://news.ycombinator.com/item?id=49654962) - [CSS Curiosities of the Past](https://vale.rocks/posts/css-relics)
 * [2026-09-11, 06:23:06](https://news.ycombinator.com/item?id=49654229) - [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
 * [2026-09-11, 06:19:06](https://news.ycombinator.com/item?id=49654199) - [Anthropic blocks 'malicious use' of AI that could develop biological weapons](https://www.bbc.com/news/articles/cx2zrrpkx20o)
 * [2026-09-11, 05:45:19](https://news.ycombinator.com/item?id=49653985) - [GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api/)
