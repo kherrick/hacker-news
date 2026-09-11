@@ -1,22 +1,52 @@
 [
   [
     [
-      "2026-09-11, 20:53:16",
-      "https://news.ycombinator.com/item?id=49665210"
+      "2026-09-11, 23:17:42",
+      "https://news.ycombinator.com/item?id=49666735"
     ],
     [
-      "ElevenLabs Music v2.5",
-      "https://elevenmusic.io/blog/introducing-music-v2-5"
+      "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "https://www.rubyhack.ai/"
     ]
   ],
   [
     [
-      "2026-09-11, 19:46:43",
-      "https://news.ycombinator.com/item?id=49664322"
+      "2026-09-11, 22:59:09",
+      "https://news.ycombinator.com/item?id=49666587"
     ],
     [
-      "Txt: A fast, keyboard-driven terminal text editor for engineers",
-      "https://txt.hellman.io/"
+      "DeCloudflare",
+      "https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 22:16:15",
+      "https://news.ycombinator.com/item?id=49666155"
+    ],
+    [
+      "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
+      "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 22:15:00",
+      "https://news.ycombinator.com/item?id=49666146"
+    ],
+    [
+      "Project Blinkenlights",
+      "https://blinkenlights.de/en/"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 21:48:00",
+      "https://news.ycombinator.com/item?id=49665864"
+    ],
+    [
+      "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "https://github.com/mirza-rizvi/ResolveHQ"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2026-09-11, 17:45:03",
-      "https://news.ycombinator.com/item?id=49662367"
-    ],
-    [
-      "Room 641A",
-      "https://en.wikipedia.org/wiki/Room_641A"
-    ]
-  ],
-  [
-    [
       "2026-09-11, 17:36:11",
       "https://news.ycombinator.com/item?id=49662214"
     ],
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2026-09-11, 15:56:37",
-      "https://news.ycombinator.com/item?id=49660555"
-    ],
-    [
-      "118M Queries per Second on Neki",
-      "https://planetscale.com/blog/118-million-queries-per-second-on-neki"
-    ]
-  ],
-  [
-    [
       "2026-09-11, 15:31:47",
       "https://news.ycombinator.com/item?id=49660149"
     ],
     [
       "Rune is now open source",
       "https://rune.build/blog/rune-is-now-open-source"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 14:38:13",
-      "https://news.ycombinator.com/item?id=49659245"
-    ],
-    [
-      "HuggingFace: Security.txt",
-      "https://huggingface.co/security.txt"
     ]
   ],
   [
@@ -211,12 +211,22 @@
   ],
   [
     [
-      "2026-09-10, 17:30:33",
-      "https://news.ycombinator.com/item?id=49647403"
+      "2026-09-10, 09:13:48",
+      "https://news.ycombinator.com/item?id=49640741"
     ],
     [
-      "From Front Panel to Program: Thinking Like a PDP-8",
-      "https://pikuma.com/blog/pdp-8-minicomputer"
+      "Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
+      "https://www.fink-translate.com/blog/hepburn-romanization.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 21:59:10",
+      "https://news.ycombinator.com/item?id=49635043"
+    ],
+    [
+      "There is no 10x RBAC",
+      "https://infisical.com/blog/folder-based-rbac"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "So you want to use OpenRouter?",
       "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 22:33:21",
-      "https://news.ycombinator.com/item?id=49618087"
-    ],
-    [
-      "Stop making swap partitions—use swap files instead",
-      "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43"
     ]
   ],
   [
