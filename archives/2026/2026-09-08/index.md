@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-09-08](index.md)
 
 * [2026-09-08, 23:11:30](https://news.ycombinator.com/item?id=49618450) - [Object storage is all you need](https://www.tigrisdata.com/blog/object-storage-all-need/)
+* [2026-09-08, 22:33:21](https://news.ycombinator.com/item?id=49618087) - [Stop making swap partitions–use swap files instead](https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43)
 * [2026-09-08, 22:28:14](https://news.ycombinator.com/item?id=49618050) - [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
 * [2026-09-08, 21:47:38](https://news.ycombinator.com/item?id=49617581) - [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
 * [2026-09-08, 21:22:11](https://news.ycombinator.com/item?id=49617255) - [How to Build a Printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
@@ -58,6 +59,7 @@
 * [2026-09-08, 09:28:35](https://news.ycombinator.com/item?id=49607858) - [Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme](https://codeberg.org/jjba23/maak.el)
 * [2026-09-08, 08:42:56](https://news.ycombinator.com/item?id=49607443) - [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
 * [2026-09-08, 06:39:20](https://news.ycombinator.com/item?id=49606339) - [UAE-based Falcon AI NSFW classifier among top global open-source models (2025)](https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly)
+* [2026-09-08, 06:31:59](https://news.ycombinator.com/item?id=49606281) - [Working with Git Worktrees in Magit](https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/)
 * [2026-09-08, 05:42:28](https://news.ycombinator.com/item?id=49605915) - [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
 * [2026-09-08, 05:25:22](https://news.ycombinator.com/item?id=49605836) - [Electrostatic Cathode Ray Tube Project 1 (2014)](https://labguysworld.com/Project_ESCRTs_001.htm)
 * [2026-09-08, 05:20:23](https://news.ycombinator.com/item?id=49605822) - [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
