@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-11](index.md)
 
+* [2026-09-11, 23:17:42](https://news.ycombinator.com/item?id=49666735) - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
+* [2026-09-11, 22:59:09](https://news.ycombinator.com/item?id=49666587) - [DeCloudflare](https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md)
+* [2026-09-11, 22:16:15](https://news.ycombinator.com/item?id=49666155) - [QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)
+* [2026-09-11, 22:15:00](https://news.ycombinator.com/item?id=49666146) - [Project Blinkenlights](https://blinkenlights.de/en/)
+* [2026-09-11, 21:48:00](https://news.ycombinator.com/item?id=49665864) - [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
 * [2026-09-11, 20:53:16](https://news.ycombinator.com/item?id=49665210) - [ElevenLabs Music v2.5](https://elevenmusic.io/blog/introducing-music-v2-5)
 * [2026-09-11, 19:46:43](https://news.ycombinator.com/item?id=49664322) - [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/)
 * [2026-09-11, 18:50:36](https://news.ycombinator.com/item?id=49663373) - [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
