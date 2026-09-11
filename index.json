@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-09-11, 20:53:16",
+      "https://news.ycombinator.com/item?id=49665210"
+    ],
+    [
+      "ElevenLabs Music v2.5",
+      "https://elevenmusic.io/blog/introducing-music-v2-5"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 19:46:43",
+      "https://news.ycombinator.com/item?id=49664322"
+    ],
+    [
+      "Txt: A fast, keyboard-driven terminal text editor for engineers",
+      "https://txt.hellman.io/"
+    ]
+  ],
+  [
+    [
       "2026-09-11, 18:50:36",
       "https://news.ycombinator.com/item?id=49663373"
     ],
     [
       "GrapheneOS' rewritten Messages app is released",
       "https://github.com/GrapheneOS/Messaging/releases/tag/13"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 18:30:07",
+      "https://news.ycombinator.com/item?id=49663054"
+    ],
+    [
+      "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+      "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 18:24:55",
+      "https://news.ycombinator.com/item?id=49662990"
+    ],
+    [
+      "I spent $220 on Google app ads and 60% of the installs were robots",
+      "https://dayzlegame.com/blog/google-ads-bot-farm/"
     ]
   ],
   [
@@ -25,18 +65,8 @@
       "https://news.ycombinator.com/item?id=49662672"
     ],
     [
-      "The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution",
+      "The EPA is planning to scrap public review rules for data center pollution",
       "https://capitalbnews.org/data-centers-permit-rules-epa/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 17:54:53",
-      "https://news.ycombinator.com/item?id=49662496"
-    ],
-    [
-      "Show HN: Toast, a beautiful by default in terminal IDE",
-      "https://github.com/paradise-runner/toast"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
       "https://www.getzep.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 16:08:50",
-      "https://news.ycombinator.com/item?id=49660783"
-    ],
-    [
-      "Show HN: Hacker News, Without AI",
-      "https://www.unslop.news/"
     ]
   ],
   [
@@ -181,36 +201,6 @@
   ],
   [
     [
-      "2026-09-11, 08:42:04",
-      "https://news.ycombinator.com/item?id=49655286"
-    ],
-    [
-      "Cherenkov Radiation",
-      "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 00:42:41",
-      "https://news.ycombinator.com/item?id=49652105"
-    ],
-    [
-      "Google will buy half the electricity from one of Finland's nuclear power plants",
-      "https://www.bbc.com/news/articles/c8r6y4me2g6o"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 22:33:45",
-      "https://news.ycombinator.com/item?id=49651046"
-    ],
-    [
-      "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
-      "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/"
-    ]
-  ],
-  [
-    [
       "2026-09-10, 20:33:11",
       "https://news.ycombinator.com/item?id=49649789"
     ],
@@ -221,22 +211,32 @@
   ],
   [
     [
+      "2026-09-10, 17:30:33",
+      "https://news.ycombinator.com/item?id=49647403"
+    ],
+    [
+      "From Front Panel to Program: Thinking Like a PDP-8",
+      "https://pikuma.com/blog/pdp-8-minicomputer"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 13:59:50",
+      "https://news.ycombinator.com/item?id=49626718"
+    ],
+    [
+      "A Design Space Exploration of Async/Await",
+      "https://cel.cs.brown.edu/blog/design-space-async-await/"
+    ]
+  ],
+  [
+    [
       "2026-09-09, 11:30:51",
       "https://news.ycombinator.com/item?id=49624717"
     ],
     [
       "AlphaGenome maps 9B DNA variants",
       "https://spectrum.ieee.org/alphagenome-atlas"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 07:07:48",
-      "https://news.ycombinator.com/item?id=49622411"
-    ],
-    [
-      "How I Prompt",
-      "https://thorstenball.com/talks/how-i-prompt/"
     ]
   ],
   [
