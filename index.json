@@ -1,12 +1,72 @@
 [
   [
     [
-      "2026-09-11, 02:51:51",
-      "https://news.ycombinator.com/item?id=49652996"
+      "2026-09-11, 06:23:06",
+      "https://news.ycombinator.com/item?id=49654229"
     ],
     [
-      "LLM Visualizer – Build a Transformer from Scratch",
-      "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard"
+      "Astra for Coding: Why Are We Doing This Again?",
+      "https://lucumr.pocoo.org/2026/9/7/astra-why/"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 06:19:06",
+      "https://news.ycombinator.com/item?id=49654199"
+    ],
+    [
+      "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+      "https://www.bbc.com/news/articles/cx2zrrpkx20o"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 05:45:19",
+      "https://news.ycombinator.com/item?id=49653985"
+    ],
+    [
+      "GPT‑Live‑1 in the API",
+      "https://openai.com/index/introducing-gpt-live-1-in-the-api/"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 05:26:58",
+      "https://news.ycombinator.com/item?id=49653882"
+    ],
+    [
+      "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+      "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 04:52:20",
+      "https://news.ycombinator.com/item?id=49653699"
+    ],
+    [
+      "The Gemini app is now available for Windows",
+      "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 03:48:10",
+      "https://news.ycombinator.com/item?id=49653328"
+    ],
+    [
+      "Exercise intensity is associated with cardiometabolic health",
+      "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 02:49:52",
+      "https://news.ycombinator.com/item?id=49652985"
+    ],
+    [
+      "What Comes After Git",
+      "https://ersc.io/blog/what-comes-after-git"
     ]
   ],
   [
@@ -17,26 +77,6 @@
     [
       "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
       "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 00:54:36",
-      "https://news.ycombinator.com/item?id=49652188"
-    ],
-    [
-      "Herdr Studio",
-      "https://powerfooI.github.io/herdr-studio/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 00:42:41",
-      "https://news.ycombinator.com/item?id=49652105"
-    ],
-    [
-      "Google will buy half the electricity from one of Finland's nuclear power plants",
-      "https://www.bbc.com/news/articles/c8r6y4me2g6o"
     ]
   ],
   [
@@ -107,16 +147,6 @@
     [
       "The Deathray: A simple way for an untrusted site to freeze a Mac",
       "https://auberon.xyz/blog/posts/deathray/"
-    ]
-  ],
-  [
-    [
-      "2026-09-10, 17:30:39",
-      "https://news.ycombinator.com/item?id=49647404"
-    ],
-    [
-      "JEP 544: Ahead-of-Time Code Compilation",
-      "https://openjdk.org/jeps/544"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2026-09-09, 18:15:43",
-      "https://news.ycombinator.com/item?id=49630931"
-    ],
-    [
-      "iPhone Duo",
-      "https://www.apple.com/iphone-duo/"
-    ]
-  ],
-  [
-    [
       "2026-09-09, 14:54:12",
       "https://news.ycombinator.com/item?id=49627634"
     ],
@@ -241,52 +261,32 @@
   ],
   [
     [
-      "2026-09-08, 19:46:59",
-      "https://news.ycombinator.com/item?id=49615922"
+      "2026-09-09, 04:01:10",
+      "https://news.ycombinator.com/item?id=49620760"
     ],
     [
-      "What happens when a GPU writes memory",
-      "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory"
+      "Testing race conditions with mem access tracing and stack-based delay injection",
+      "https://projectzero.google/2026/09/maccconc-race-condition.html"
     ]
   ],
   [
     [
-      "2026-09-08, 12:06:24",
-      "https://news.ycombinator.com/item?id=49609195"
+      "2026-09-08, 22:33:21",
+      "https://news.ycombinator.com/item?id=49618087"
     ],
     [
-      "Bitap: My favorite string matching algorithm",
-      "https://jo3-l.dev/posts/bitap/"
+      "Stop making swap partitions–use swap files instead",
+      "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43"
     ]
   ],
   [
     [
-      "2026-09-08, 09:38:25",
-      "https://news.ycombinator.com/item?id=49607944"
+      "2026-09-08, 06:31:59",
+      "https://news.ycombinator.com/item?id=49606281"
     ],
     [
-      "Finite time blowup with smooth forcing term for the incompressible porous medium",
-      "https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 21:50:12",
-      "https://news.ycombinator.com/item?id=49603335"
-    ],
-    [
-      "Recursion into madness",
-      "https://blog.coredump.cx/p/recursion-into-madness"
-    ]
-  ],
-  [
-    [
-      "2026-09-07, 17:21:55",
-      "https://news.ycombinator.com/item?id=49600657"
-    ],
-    [
-      "Customizing my Compaq MX-11800 keyboard",
-      "https://blog.webb.page/WM-102"
+      "Working with Git Worktrees in Magit",
+      "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/"
     ]
   ],
   [
