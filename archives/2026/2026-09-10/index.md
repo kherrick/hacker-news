@@ -29,6 +29,7 @@
 * [2026-09-10, 15:48:14](https://news.ycombinator.com/item?id=49645763) - [Neki by PlanetScale](https://neki.dev/)
 * [2026-09-10, 15:47:50](https://news.ycombinator.com/item?id=49645754) - [Silicon Valley Is Transforming the Military-Industrial Complex](https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex)
 * [2026-09-10, 15:43:49](https://news.ycombinator.com/item?id=49645686) - [Neki](https://planetscale.com/blog/introducing-neki)
+* [2026-09-10, 15:31:37](https://news.ycombinator.com/item?id=49645480) - [LG denies TV spying claims, says tracking and snooping concerns 'not true'](https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio)
 * [2026-09-10, 15:29:47](https://news.ycombinator.com/item?id=49645443) - [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)
 * [2026-09-10, 15:29:30](https://news.ycombinator.com/item?id=49645437) - [Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images)
 * [2026-09-10, 15:29:30](https://news.ycombinator.com/item?id=49645437) - [NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth](https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844)

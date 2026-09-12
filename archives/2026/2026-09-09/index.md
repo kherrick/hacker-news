@@ -46,6 +46,8 @@
 * [2026-09-09, 13:20:36](https://news.ycombinator.com/item?id=49626110) - [Liesegang Rings](https://chillphysicsenjoyer.substack.com/p/liesegang-rings)
 * [2026-09-09, 13:16:45](https://news.ycombinator.com/item?id=49626052) - [One woman's Tesla was remotely controlled by an abusive ex-partner](https://www.theguardian.com/australia-news/2026/sep/09/how-one-womans-tesla-was-remotely-controlled-and-harass-by-her-abusive-ex-partner-ntwnfb)
 * [2026-09-09, 12:01:38](https://news.ycombinator.com/item?id=49625110) - [Roame (YC S23) Is Hiring Viral Content Editor](https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor)
+* [2026-09-09, 12:01:38](https://news.ycombinator.com/item?id=49625108) - [Eating Fruit Skins](https://pgadey.ca/blog/eating-fruit-skins/)
+* [2026-09-09, 11:57:45](https://news.ycombinator.com/item?id=49625056) - [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/)
 * [2026-09-09, 11:43:21](https://news.ycombinator.com/item?id=49624856) - [I advertise malicious software on Google Ads](https://xlii.space/eng/malicious-software-on-google-ads/)
 * [2026-09-09, 11:39:46](https://news.ycombinator.com/item?id=49624823) - [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)
 * [2026-09-09, 11:30:51](https://news.ycombinator.com/item?id=49624717) - [AlphaGenome maps 9B DNA variants](https://spectrum.ieee.org/alphagenome-atlas)
