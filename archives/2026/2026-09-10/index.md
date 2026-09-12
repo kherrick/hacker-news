@@ -37,6 +37,7 @@
 * [2026-09-10, 14:09:31](https://news.ycombinator.com/item?id=49643982) - [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
 * [2026-09-10, 13:39:16](https://news.ycombinator.com/item?id=49643546) - [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
 * [2026-09-10, 13:21:50](https://news.ycombinator.com/item?id=49643299) - [AI Doomlord Jacob Coxon's Media Tour Has Begun](https://gizmodo.com/ai-doomlord-jacob-coxons-media-tour-has-begun-2000809720)
+* [2026-09-10, 13:10:15](https://news.ycombinator.com/item?id=49643149) - [The oldest known Snakes and Ladders board is probably a forgery](https://en.quantumgame.love/guide/how-old-is-snakes-and-ladders.html)
 * [2026-09-10, 13:07:14](https://news.ycombinator.com/item?id=49643112) - [Another researcher says OpenAI trained on conversations, then claimed breakthrou](https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d)
 * [2026-09-10, 13:03:51](https://news.ycombinator.com/item?id=49643077) - [The Feminist Was a Spy](https://uscpublicdiplomacy.org/blog/feminist-was-spy)
 * [2026-09-10, 13:00:08](https://news.ycombinator.com/item?id=49643027) - [Who People Talk to When They're Struggling](https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling)
