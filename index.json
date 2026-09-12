@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-09-12, 19:15:32",
-      "https://news.ycombinator.com/item?id=49676085"
+      "2026-09-12, 20:25:48",
+      "https://news.ycombinator.com/item?id=49676820"
     ],
     [
-      "An open letter to Dario: if you mean it, open the weights",
-      "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/"
+      "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "https://withspecific.com/benchmarks/real-swe"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 19:57:19",
+      "https://news.ycombinator.com/item?id=49676577"
+    ],
+    [
+      "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
+      "https://modelrift.com/blog/cadquery-vs-openscad/"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 19:35:36",
+      "https://news.ycombinator.com/item?id=49676324"
+    ],
+    [
+      "LG Says We're Fake News [video]",
+      "https://www.youtube.com/watch?v=ToP9xfLDSME"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 18:58:57",
+      "https://news.ycombinator.com/item?id=49675902"
+    ],
+    [
+      "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "https://hachyderm.io/@simontatham/117201594980991062"
     ]
   ],
   [
@@ -61,26 +91,6 @@
   ],
   [
     [
-      "2026-09-12, 14:25:07",
-      "https://news.ycombinator.com/item?id=49672641"
-    ],
-    [
-      "I refuse to let SPICE die",
-      "https://github.com/nefarius/vd_agent/"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 14:16:24",
-      "https://news.ycombinator.com/item?id=49672549"
-    ],
-    [
-      "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
-      "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun"
-    ]
-  ],
-  [
-    [
       "2026-09-12, 14:10:49",
       "https://news.ycombinator.com/item?id=49672510"
     ],
@@ -97,26 +107,6 @@
     [
       "A Mathematical Framework for Transformer Circuits (2021)",
       "https://transformer-circuits.pub/2021/framework/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 13:07:52",
-      "https://news.ycombinator.com/item?id=49671972"
-    ],
-    [
-      "A few good ideas in programming languages",
-      "https://prydt.xyz/blog/a-few-good-ideas-in-pl/"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 11:42:32",
-      "https://news.ycombinator.com/item?id=49671329"
-    ],
-    [
-      "Fuck it, make it anyway",
-      "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2026-09-11, 17:45:12",
+      "https://news.ycombinator.com/item?id=49662371"
+    ],
+    [
+      "A misalignment of AI in mathematics",
+      "https://mathandai.org/"
+    ]
+  ],
+  [
+    [
       "2026-09-11, 17:36:11",
       "https://news.ycombinator.com/item?id=49662214"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2026-09-11, 04:19:40",
-      "https://news.ycombinator.com/item?id=49653509"
+      "2026-09-10, 18:01:47",
+      "https://news.ycombinator.com/item?id=49647860"
     ],
     [
-      "Reconstructing Concurrency Invariants Through Medieval East Asian Logic",
-      "https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic"
+      "The Magic Behind Cubacadabra",
+      "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-09-09, 11:01:10",
-      "https://news.ycombinator.com/item?id=49624456"
-    ],
-    [
-      "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
-      "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250"
-    ]
-  ],
-  [
-    [
       "2026-09-09, 10:00:59",
       "https://news.ycombinator.com/item?id=49623933"
     ],
     [
       "Performance of WebAssembly Runtimes in 2026",
       "https://00f.net/2026/06/23/webassembly-runtimes-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 01:57:37",
+      "https://news.ycombinator.com/item?id=49619848"
+    ],
+    [
+      "Apple iPod Engraver (2019)",
+      "https://dunstanorchard.com/apple-ipod-engraver/"
     ]
   ]
 ]
