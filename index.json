@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-09-12, 01:37:06",
+      "https://news.ycombinator.com/item?id=49667762"
+    ],
+    [
+      "How Poor People Buy Cars",
+      "https://abio.substack.com/p/how-poor-people-buy-cars"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 00:40:32",
+      "https://news.ycombinator.com/item?id=49667375"
+    ],
+    [
+      "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+      "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 00:16:10",
+      "https://news.ycombinator.com/item?id=49667188"
+    ],
+    [
+      "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+      "https://github.com/zachsaw/graphify-csharp"
+    ]
+  ],
+  [
+    [
       "2026-09-11, 23:17:42",
       "https://news.ycombinator.com/item?id=49666735"
     ],
     [
       "OpenAI agents carried out an undisclosed attack on RubyGems",
       "https://www.rubyhack.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 22:59:09",
-      "https://news.ycombinator.com/item?id=49666587"
-    ],
-    [
-      "DeCloudflare",
-      "https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
       "https://github.com/mirza-rizvi/ResolveHQ"
+    ]
+  ],
+  [
+    [
+      "2026-09-11, 21:35:29",
+      "https://news.ycombinator.com/item?id=49665711"
+    ],
+    [
+      "AI researchers debate how close we are to recursive self-improvement",
+      "https://www.dwarkesh.com/p/john-beren-charlie"
     ]
   ],
   [
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2026-09-11, 15:58:06",
-      "https://news.ycombinator.com/item?id=49660576"
-    ],
-    [
-      "Global Glacier Extinction Explorer",
-      "https://glacierextinction.com"
-    ]
-  ],
-  [
-    [
       "2026-09-11, 15:31:47",
       "https://news.ycombinator.com/item?id=49660149"
     ],
     [
       "Rune is now open source",
       "https://rune.build/blog/rune-is-now-open-source"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 13:42:28",
-      "https://news.ycombinator.com/item?id=49658311"
-    ],
-    [
-      "Measuring the sloppiness of code",
-      "https://earendil.com/posts/measuring-code-sloppiness/"
     ]
   ],
   [
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2026-09-10, 13:10:15",
+      "https://news.ycombinator.com/item?id=49643149"
+    ],
+    [
+      "The oldest known Snakes and Ladders board is probably a forgery",
+      "https://en.quantumgame.love/guide/how-old-is-snakes-and-ladders.html"
+    ]
+  ],
+  [
+    [
       "2026-09-10, 09:13:48",
       "https://news.ycombinator.com/item?id=49640741"
     ],
@@ -225,8 +245,18 @@
       "https://news.ycombinator.com/item?id=49635043"
     ],
     [
-      "There is no 10x RBAC",
+      "How we rebuilt complex permissions without migrating to Zanzibar",
       "https://infisical.com/blog/folder-based-rbac"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 21:51:02",
+      "https://news.ycombinator.com/item?id=49634928"
+    ],
+    [
+      "Testing Race Conditions",
+      "https://projectzero.google/2026/09/maccconc-race-condition.html"
     ]
   ],
   [
@@ -257,36 +287,6 @@
     [
       "Logo Programming Language",
       "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 05:37:21",
-      "https://news.ycombinator.com/item?id=49621546"
-    ],
-    [
-      "So you want to use OpenRouter?",
-      "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 17:28:48",
-      "https://news.ycombinator.com/item?id=49613507"
-    ],
-    [
-      "Copper lined vest to help penguins with recovery",
-      "https://apnews.com/article/chile-el-nino-humboldt-penguins-vulnerable-injuries-rehabilitation-6e93b8d4eaef903e4c85d16ade7d5881"
-    ]
-  ],
-  [
-    [
-      "2026-09-08, 14:28:10",
-      "https://news.ycombinator.com/item?id=49610834"
-    ],
-    [
-      "How the Chorleywood Bread Process transformed British bread",
-      "https://edconway.substack.com/p/the-little-holes-in-your-bread-are"
     ]
   ],
   [
