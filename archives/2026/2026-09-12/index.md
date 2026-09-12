@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-12](index.md)
 
+* [2026-09-12, 22:22:31](https://news.ycombinator.com/item?id=49677836) - [Killing with a car costs $1.6M, California requires drivers to carry $30K](https://maxmautner.com/2026/09/11/liability-coverage.html)
+* [2026-09-12, 22:07:19](https://news.ycombinator.com/item?id=49677715) - [StarCraft returns in 2030 as an open-world shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)
+* [2026-09-12, 21:28:08](https://news.ycombinator.com/item?id=49677391) - [Financial Times' 404 Page not Found](https://www.ft.com/article/404)
+* [2026-09-12, 20:28:29](https://news.ycombinator.com/item?id=49676849) - [OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
 * [2026-09-12, 20:25:48](https://news.ycombinator.com/item?id=49676820) - [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
 * [2026-09-12, 19:57:19](https://news.ycombinator.com/item?id=49676577) - [Benchmark: CadQuery vs. OpenSCAD for agentic CAD work](https://modelrift.com/blog/cadquery-vs-openscad/)
 * [2026-09-12, 19:35:36](https://news.ycombinator.com/item?id=49676324) - [LG Says We're Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)

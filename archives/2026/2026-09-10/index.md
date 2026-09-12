@@ -63,3 +63,4 @@
 * [2026-09-10, 01:59:51](https://news.ycombinator.com/item?id=49637395) - [A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
 * [2026-09-10, 01:58:00](https://news.ycombinator.com/item?id=49637385) - [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
 * [2026-09-10, 01:57:32](https://news.ycombinator.com/item?id=49637381) - [How we manage and engage with our horses shapes their personality](https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality)
+* [2026-09-10, 00:16:10](https://news.ycombinator.com/item?id=49636479) - [Getting 50 GB/S Back from the Apple Neural Engine](https://eiln.github.io/posts/ane-dma.html)
