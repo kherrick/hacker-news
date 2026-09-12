@@ -49,6 +49,7 @@
 * [2026-09-09, 11:39:46](https://news.ycombinator.com/item?id=49624823) - [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)
 * [2026-09-09, 11:30:51](https://news.ycombinator.com/item?id=49624717) - [AlphaGenome maps 9B DNA variants](https://spectrum.ieee.org/alphagenome-atlas)
 * [2026-09-09, 11:19:26](https://news.ycombinator.com/item?id=49624603) - [DeepSeek launching v4.1 flash cheaper and more capable than v4 pro](https://news.ycombinator.com/item?id=49624603)
+* [2026-09-09, 11:01:10](https://news.ycombinator.com/item?id=49624456) - [Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them](https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250)
 * [2026-09-09, 10:54:18](https://news.ycombinator.com/item?id=49624394) - [Flock Wants a Closely Surveilled World with No Exit](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit)
 * [2026-09-09, 10:25:41](https://news.ycombinator.com/item?id=49624163) - [How An AI math breakthrough ignited a controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
 * [2026-09-09, 10:01:16](https://news.ycombinator.com/item?id=49623938) - [Building a Wall Lamp from Scratch](https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/)

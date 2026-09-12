@@ -41,6 +41,7 @@
 * [2026-09-10, 13:07:14](https://news.ycombinator.com/item?id=49643112) - [Another researcher says OpenAI trained on conversations, then claimed breakthrou](https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d)
 * [2026-09-10, 13:03:51](https://news.ycombinator.com/item?id=49643077) - [The Feminist Was a Spy](https://uscpublicdiplomacy.org/blog/feminist-was-spy)
 * [2026-09-10, 13:00:08](https://news.ycombinator.com/item?id=49643027) - [Who People Talk to When They're Struggling](https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling)
+* [2026-09-10, 12:59:26](https://news.ycombinator.com/item?id=49643011) - [Designing for Dual Screen and Foldable Devices with CSS (2023)](https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/)
 * [2026-09-10, 12:18:06](https://news.ycombinator.com/item?id=49642531) - [List of references on Sony websites to players \"owning\" their digital games](https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit)
 * [2026-09-10, 10:36:00](https://news.ycombinator.com/item?id=49641401) - [Thanks to Siri Recaps, your Apple Watch is always listening](https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash)
 * [2026-09-10, 10:35:09](https://news.ycombinator.com/item?id=49641393) - [PlayStation cancels Kojima's PHYSINT, Xbox steps in](https://twitter.com/hideo_kojima_en/status/2097877506401681753)
