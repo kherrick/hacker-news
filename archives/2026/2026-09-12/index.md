@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-12](index.md)
 
+* [2026-09-12, 20:25:48](https://news.ycombinator.com/item?id=49676820) - [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
+* [2026-09-12, 19:57:19](https://news.ycombinator.com/item?id=49676577) - [Benchmark: CadQuery vs. OpenSCAD for agentic CAD work](https://modelrift.com/blog/cadquery-vs-openscad/)
+* [2026-09-12, 19:35:36](https://news.ycombinator.com/item?id=49676324) - [LG Says We're Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
 * [2026-09-12, 19:15:32](https://news.ycombinator.com/item?id=49676085) - [An open letter to Dario: if you mean it, open the weights](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/)
+* [2026-09-12, 18:58:57](https://news.ycombinator.com/item?id=49675902) - [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
 * [2026-09-12, 17:05:31](https://news.ycombinator.com/item?id=49674498) - [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
 * [2026-09-12, 16:56:52](https://news.ycombinator.com/item?id=49674395) - [Anthropic boss Dario Amodei calls for AI development to slow down](https://www.bbc.com/news/articles/c14dpgm0rg4o)
 * [2026-09-12, 16:25:08](https://news.ycombinator.com/item?id=49674050) - [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/)

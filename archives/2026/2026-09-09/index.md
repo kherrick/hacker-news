@@ -71,5 +71,6 @@
 * [2026-09-09, 04:43:46](https://news.ycombinator.com/item?id=49621102) - [A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
 * [2026-09-09, 04:32:22](https://news.ycombinator.com/item?id=49621018) - [Larger Pacific Striped Octopus](https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus)
 * [2026-09-09, 04:01:10](https://news.ycombinator.com/item?id=49620760) - [Testing race conditions with mem access tracing and stack-based delay injection](https://projectzero.google/2026/09/maccconc-race-condition.html)
+* [2026-09-09, 01:57:37](https://news.ycombinator.com/item?id=49619848) - [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/)
 * [2026-09-09, 01:14:50](https://news.ycombinator.com/item?id=49619464) - [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
 * [2026-09-09, 00:40:40](https://news.ycombinator.com/item?id=49619227) - [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m)

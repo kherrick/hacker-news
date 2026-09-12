@@ -14,6 +14,7 @@
 * [2026-09-10, 19:43:22](https://news.ycombinator.com/item?id=49649213) - [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
 * [2026-09-10, 19:34:20](https://news.ycombinator.com/item?id=49649124) - [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/)
 * [2026-09-10, 19:03:34](https://news.ycombinator.com/item?id=49648732) - [Genuine Creativity Is Your New Moat (2026)](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
+* [2026-09-10, 18:01:47](https://news.ycombinator.com/item?id=49647860) - [The Magic Behind Cubacadabra](https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/)
 * [2026-09-10, 17:30:39](https://news.ycombinator.com/item?id=49647404) - [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
 * [2026-09-10, 17:30:33](https://news.ycombinator.com/item?id=49647403) - [From Front Panel to Program: Thinking Like a PDP-8](https://pikuma.com/blog/pdp-8-minicomputer)
 * [2026-09-10, 17:23:42](https://news.ycombinator.com/item?id=49647300) - [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
