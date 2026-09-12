@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-12, 22:22:31",
+      "https://news.ycombinator.com/item?id=49677836"
+    ],
+    [
+      "Killing with a car costs $1.6M, California requires drivers to carry $30K",
+      "https://maxmautner.com/2026/09/11/liability-coverage.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 22:07:19",
+      "https://news.ycombinator.com/item?id=49677715"
+    ],
+    [
+      "StarCraft returns in 2030 as an open-world shooter",
+      "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 21:28:08",
+      "https://news.ycombinator.com/item?id=49677391"
+    ],
+    [
+      "Financial Times' 404 Page not Found",
+      "https://www.ft.com/article/404"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 20:28:29",
+      "https://news.ycombinator.com/item?id=49676849"
+    ],
+    [
+      "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+      "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+    ]
+  ],
+  [
+    [
       "2026-09-12, 20:25:48",
       "https://news.ycombinator.com/item?id=49676820"
     ],
@@ -151,32 +191,12 @@
   ],
   [
     [
-      "2026-09-12, 03:14:20",
-      "https://news.ycombinator.com/item?id=49668386"
-    ],
-    [
-      "google.com/goto: Google's anti-scraping update",
-      "https://www.autom.dev/blog/google-search-goto-links"
-    ]
-  ],
-  [
-    [
       "2026-09-11, 21:16:48",
       "https://news.ycombinator.com/item?id=49665502"
     ],
     [
       "Android NAT-T keepalive offload bypasses VPN lockdown",
       "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 17:45:12",
-      "https://news.ycombinator.com/item?id=49662371"
-    ],
-    [
-      "A misalignment of AI in mathematics",
-      "https://mathandai.org/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2026-09-10, 13:39:11",
-      "https://news.ycombinator.com/item?id=49643543"
-    ],
-    [
-      "LRU is harder to beat than the KV-cache papers suggest",
-      "https://github.com/gauravapiscean/agentic-kv-cache"
-    ]
-  ],
-  [
-    [
       "2026-09-10, 07:20:50",
       "https://news.ycombinator.com/item?id=49639647"
     ],
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2026-09-10, 01:57:32",
-      "https://news.ycombinator.com/item?id=49637381"
+      "2026-09-10, 00:16:10",
+      "https://news.ycombinator.com/item?id=49636479"
     ],
     [
-      "How we manage and engage with our horses shapes their personality",
-      "https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 13:59:50",
-      "https://news.ycombinator.com/item?id=49626718"
-    ],
-    [
-      "A Design Space Exploration of Async/Await",
-      "https://cel.cs.brown.edu/blog/design-space-async-await/"
+      "Getting 50 GB/S Back from the Apple Neural Engine",
+      "https://eiln.github.io/posts/ane-dma.html"
     ]
   ],
   [
