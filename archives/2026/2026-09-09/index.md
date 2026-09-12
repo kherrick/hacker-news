@@ -55,6 +55,7 @@
 * [2026-09-09, 10:25:41](https://news.ycombinator.com/item?id=49624163) - [How An AI math breakthrough ignited a controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
 * [2026-09-09, 10:01:16](https://news.ycombinator.com/item?id=49623938) - [Building a Wall Lamp from Scratch](https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/)
 * [2026-09-09, 10:01:15](https://news.ycombinator.com/item?id=49623937) - [Lotus Notes and the dangers of starting from scratch](https://buttondown.com/blog/lotus-notes-email)
+* [2026-09-09, 10:00:59](https://news.ycombinator.com/item?id=49623933) - [Performance of WebAssembly Runtimes in 2026](https://00f.net/2026/06/23/webassembly-runtimes-2026/)
 * [2026-09-09, 09:39:46](https://news.ycombinator.com/item?id=49623754) - [Claude, change the \"Add to Cart\" button to blue](https://opusfived.dev/)
 * [2026-09-09, 08:53:58](https://news.ycombinator.com/item?id=49623398) - [Show HN: Compute polynomials twice as fast](https://thomasahle.com/fast-polynomials/)
 * [2026-09-09, 08:43:27](https://news.ycombinator.com/item?id=49623306) - [Gambling with our lives: AI researcher quits Anthropic with warning about safety](https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/)

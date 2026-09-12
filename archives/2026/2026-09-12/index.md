@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-12](index.md)
 
+* [2026-09-12, 14:07:58](https://news.ycombinator.com/item?id=49672474) - [Compiler Can Undo Your Security Checks](https://davidbombal.com/your-compiler-can-undo-your-security-checks/)
+* [2026-09-12, 13:56:58](https://news.ycombinator.com/item?id=49672365) - [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
+* [2026-09-12, 13:54:19](https://news.ycombinator.com/item?id=49672342) - [My last six months at Evernote](https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/)
+* [2026-09-12, 11:42:32](https://news.ycombinator.com/item?id=49671329) - [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
+* [2026-09-12, 11:37:22](https://news.ycombinator.com/item?id=49671296) - [Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
+* [2026-09-12, 11:13:38](https://news.ycombinator.com/item?id=49671159) - [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
 * [2026-09-12, 10:49:22](https://news.ycombinator.com/item?id=49671043) - [AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All](https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825)
 * [2026-09-12, 10:39:03](https://news.ycombinator.com/item?id=49670981) - [We've followed their lives for six decades; now the stars of 7 Up are bowing out](https://www.bbc.co.uk/news/articles/crm932el3yjo)
 * [2026-09-12, 09:08:54](https://news.ycombinator.com/item?id=49670493) - [Resistance Training Prescription for Muscle Function, Hypertrophy in Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/)
