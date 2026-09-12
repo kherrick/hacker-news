@@ -10,6 +10,7 @@
 * [2026-09-11, 22:15:00](https://news.ycombinator.com/item?id=49666146) - [Project Blinkenlights](https://blinkenlights.de/en/)
 * [2026-09-11, 21:48:00](https://news.ycombinator.com/item?id=49665864) - [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
 * [2026-09-11, 21:35:29](https://news.ycombinator.com/item?id=49665711) - [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie)
+* [2026-09-11, 21:16:48](https://news.ycombinator.com/item?id=49665502) - [Another way to leak traffic on Android has been discovered](https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered)
 * [2026-09-11, 20:53:16](https://news.ycombinator.com/item?id=49665210) - [ElevenLabs Music v2.5](https://elevenmusic.io/blog/introducing-music-v2-5)
 * [2026-09-11, 19:46:43](https://news.ycombinator.com/item?id=49664322) - [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/)
 * [2026-09-11, 18:50:36](https://news.ycombinator.com/item?id=49663373) - [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)

@@ -32,6 +32,7 @@
 * [2026-09-09, 15:47:42](https://news.ycombinator.com/item?id=49628493) - [No Man's Sky Cosmos](https://www.nomanssky.com/cosmos-update/)
 * [2026-09-09, 15:45:43](https://news.ycombinator.com/item?id=49628454) - [Better AI code comment detector](https://entropicthoughts.com/better-ai-comment-classifier)
 * [2026-09-09, 15:44:09](https://news.ycombinator.com/item?id=49628429) - [Planet Labs' open satellite feed](https://tech.marksblogg.com/planet-labs-open-satellite-feed.html)
+* [2026-09-09, 15:40:19](https://news.ycombinator.com/item?id=49628367) - [Bomb Sense (2021)](https://danboland.net/2021/07/15/bomb-sense.html)
 * [2026-09-09, 15:34:51](https://news.ycombinator.com/item?id=49628290) - [We accidentally built a synthetic cell factory](https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory)
 * [2026-09-09, 15:09:05](https://news.ycombinator.com/item?id=49627872) - [Show HN: Give your AI agent on-screen guides that show users where to click](https://news.ycombinator.com/item?id=49627872)
 * [2026-09-09, 14:54:12](https://news.ycombinator.com/item?id=49627634) - [Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/)
