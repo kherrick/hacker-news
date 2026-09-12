@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-09-12, 10:49:22",
-      "https://news.ycombinator.com/item?id=49671043"
+      "2026-09-12, 14:07:58",
+      "https://news.ycombinator.com/item?id=49672474"
     ],
     [
-      "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
-      "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825"
+      "Compiler Can Undo Your Security Checks",
+      "https://davidbombal.com/your-compiler-can-undo-your-security-checks/"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 13:56:58",
+      "https://news.ycombinator.com/item?id=49672365"
+    ],
+    [
+      "A Mathematical Framework for Transformer Circuits (2021)",
+      "https://transformer-circuits.pub/2021/framework/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 13:54:19",
+      "https://news.ycombinator.com/item?id=49672342"
+    ],
+    [
+      "My last six months at Evernote",
+      "https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 11:42:32",
+      "https://news.ycombinator.com/item?id=49671329"
+    ],
+    [
+      "Fuck it, make it anyway",
+      "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 11:37:22",
+      "https://news.ycombinator.com/item?id=49671296"
+    ],
+    [
+      "Crypto farm in Mexican mountains puts spotlight on cartel funding",
+      "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 11:13:38",
+      "https://news.ycombinator.com/item?id=49671159"
+    ],
+    [
+      "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/"
     ]
   ],
   [
@@ -17,16 +67,6 @@
     [
       "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
       "https://www.bbc.co.uk/news/articles/crm932el3yjo"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 09:08:54",
-      "https://news.ycombinator.com/item?id=49670493"
-    ],
-    [
-      "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
-      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
     ]
   ],
   [
@@ -81,42 +121,12 @@
   ],
   [
     [
-      "2026-09-11, 22:15:00",
-      "https://news.ycombinator.com/item?id=49666146"
+      "2026-09-11, 21:21:04",
+      "https://news.ycombinator.com/item?id=49665549"
     ],
     [
-      "Project Blinkenlights",
-      "https://blinkenlights.de/en/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 21:48:00",
-      "https://news.ycombinator.com/item?id=49665864"
-    ],
-    [
-      "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-      "https://github.com/mirza-rizvi/ResolveHQ"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 21:16:48",
-      "https://news.ycombinator.com/item?id=49665502"
-    ],
-    [
-      "Another way to leak traffic on Android has been discovered",
-      "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 18:50:36",
-      "https://news.ycombinator.com/item?id=49663373"
-    ],
-    [
-      "GrapheneOS' rewritten Messages app is released",
-      "https://github.com/GrapheneOS/Messaging/releases/tag/13"
+      "Forgotten Woodlands",
+      "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-09-11, 17:36:11",
-      "https://news.ycombinator.com/item?id=49662214"
-    ],
-    [
-      "Λ Snap – An inviting programming language for kids and adults for CS study",
-      "https://snap.berkeley.edu/"
-    ]
-  ],
-  [
-    [
       "2026-09-11, 17:25:23",
       "https://news.ycombinator.com/item?id=49662020"
     ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2026-09-11, 15:31:47",
-      "https://news.ycombinator.com/item?id=49660149"
+      "2026-09-11, 14:07:08",
+      "https://news.ycombinator.com/item?id=49658672"
     ],
     [
-      "Rune is now open source",
-      "https://rune.build/blog/rune-is-now-open-source"
+      "I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold",
+      "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/"
     ]
   ],
   [
@@ -187,6 +187,16 @@
     [
       "Show HN: Bodily Oddities",
       "https://vester.si/bodily-oddities/"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 13:39:11",
+      "https://news.ycombinator.com/item?id=49643543"
+    ],
+    [
+      "LRU is harder to beat than the KV-cache papers suggest",
+      "https://github.com/gauravapiscean/agentic-kv-cache"
     ]
   ],
   [
@@ -211,32 +221,22 @@
   ],
   [
     [
+      "2026-09-10, 09:12:22",
+      "https://news.ycombinator.com/item?id=49640729"
+    ],
+    [
+      "Finding Slow Code with Wrapture",
+      "https://grahamdumpleton.me/posts/2026/09/finding-slow-code-with-wrapture/"
+    ]
+  ],
+  [
+    [
       "2026-09-10, 07:20:50",
       "https://news.ycombinator.com/item?id=49639647"
     ],
     [
       "IKEA made a mod for Skyrim [video]",
       "https://www.youtube.com/watch?v=iZODN0QUgjI"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 21:51:02",
-      "https://news.ycombinator.com/item?id=49634928"
-    ],
-    [
-      "Testing Race Conditions",
-      "https://projectzero.google/2026/09/maccconc-race-condition.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 15:40:19",
-      "https://news.ycombinator.com/item?id=49628367"
-    ],
-    [
-      "Bomb Sense (2021)",
-      "https://danboland.net/2021/07/15/bomb-sense.html"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2026-09-09, 11:30:51",
-      "https://news.ycombinator.com/item?id=49624717"
-    ],
-    [
-      "AlphaGenome maps 9B DNA variants",
-      "https://spectrum.ieee.org/alphagenome-atlas"
-    ]
-  ],
-  [
-    [
       "2026-09-09, 11:01:10",
       "https://news.ycombinator.com/item?id=49624456"
     ],
     [
       "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
       "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 10:00:59",
+      "https://news.ycombinator.com/item?id=49623933"
+    ],
+    [
+      "Performance of WebAssembly Runtimes in 2026",
+      "https://00f.net/2026/06/23/webassembly-runtimes-2026/"
     ]
   ],
   [
