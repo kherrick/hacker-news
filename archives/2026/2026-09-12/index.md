@@ -4,9 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-09-12](index.md)
 
+* [2026-09-12, 16:56:52](https://news.ycombinator.com/item?id=49674395) - [Anthropic boss Dario Amodei calls for AI development to slow down](https://www.bbc.com/news/articles/c14dpgm0rg4o)
+* [2026-09-12, 16:25:08](https://news.ycombinator.com/item?id=49674050) - [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/)
+* [2026-09-12, 15:49:52](https://news.ycombinator.com/item?id=49673580) - [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
+* [2026-09-12, 15:33:48](https://news.ycombinator.com/item?id=49673392) - [LG responds to TV spying allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)
+* [2026-09-12, 15:24:47](https://news.ycombinator.com/item?id=49673281) - [Is it time for a Luddite Renaissance?](https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance)
+* [2026-09-12, 15:08:27](https://news.ycombinator.com/item?id=49673098) - [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+* [2026-09-12, 14:25:07](https://news.ycombinator.com/item?id=49672641) - [I refuse to let SPICE die](https://github.com/nefarius/vd_agent/)
+* [2026-09-12, 14:17:28](https://news.ycombinator.com/item?id=49672557) - [Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For](https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html)
 * [2026-09-12, 14:07:58](https://news.ycombinator.com/item?id=49672474) - [Compiler Can Undo Your Security Checks](https://davidbombal.com/your-compiler-can-undo-your-security-checks/)
 * [2026-09-12, 13:56:58](https://news.ycombinator.com/item?id=49672365) - [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
 * [2026-09-12, 13:54:19](https://news.ycombinator.com/item?id=49672342) - [My last six months at Evernote](https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/)
+* [2026-09-12, 13:07:52](https://news.ycombinator.com/item?id=49671972) - [A Few Good Ideas in Programming Languages](https://prydt.xyz/blog/a-few-good-ideas-in-pl/)
 * [2026-09-12, 11:42:32](https://news.ycombinator.com/item?id=49671329) - [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
 * [2026-09-12, 11:37:22](https://news.ycombinator.com/item?id=49671296) - [Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
 * [2026-09-12, 11:13:38](https://news.ycombinator.com/item?id=49671159) - [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)

@@ -54,6 +54,7 @@
 * [2026-09-11, 05:45:19](https://news.ycombinator.com/item?id=49653985) - [GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api/)
 * [2026-09-11, 05:26:58](https://news.ycombinator.com/item?id=49653882) - [We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower](https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/)
 * [2026-09-11, 04:52:20](https://news.ycombinator.com/item?id=49653699) - [The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
+* [2026-09-11, 04:19:40](https://news.ycombinator.com/item?id=49653509) - [Reconstructing Concurrency Invariants Through Medieval East Asian Logic](https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic)
 * [2026-09-11, 03:48:10](https://news.ycombinator.com/item?id=49653328) - [Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
 * [2026-09-11, 02:51:51](https://news.ycombinator.com/item?id=49652996) - [LLM Visualizer – Build a Transformer from Scratch](https://jayvisaria.github.io/LLM-Visualizer/#/dashboard)
 * [2026-09-11, 02:49:52](https://news.ycombinator.com/item?id=49652985) - [What Comes After Git](https://ersc.io/blog/what-comes-after-git)
