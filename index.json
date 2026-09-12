@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-09-12, 05:49:10",
-      "https://news.ycombinator.com/item?id=49669276"
+      "2026-09-12, 10:49:22",
+      "https://news.ycombinator.com/item?id=49671043"
     ],
     [
-      "WeWorm: Zero-Click WeChat Worm",
-      "https://calif.io/research/weworm"
+      "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
+      "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 10:39:03",
+      "https://news.ycombinator.com/item?id=49670981"
+    ],
+    [
+      "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
+      "https://www.bbc.co.uk/news/articles/crm932el3yjo"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 09:08:54",
+      "https://news.ycombinator.com/item?id=49670493"
+    ],
+    [
+      "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 07:54:03",
+      "https://news.ycombinator.com/item?id=49670032"
+    ],
+    [
+      "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "https://eiln.github.io/posts/ane.html"
     ]
   ],
   [
@@ -41,26 +71,6 @@
   ],
   [
     [
-      "2026-09-12, 02:42:08",
-      "https://news.ycombinator.com/item?id=49668198"
-    ],
-    [
-      "Pandas Should Go Extinct",
-      "https://eddie.codes/posts/pandas-should-go-extinct/"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 00:40:32",
-      "https://news.ycombinator.com/item?id=49667375"
-    ],
-    [
-      "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
-      "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies"
-    ]
-  ],
-  [
-    [
       "2026-09-11, 23:17:42",
       "https://news.ycombinator.com/item?id=49666735"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2026-09-11, 21:16:48",
+      "https://news.ycombinator.com/item?id=49665502"
+    ],
+    [
+      "Another way to leak traffic on Android has been discovered",
+      "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered"
+    ]
+  ],
+  [
+    [
       "2026-09-11, 18:50:36",
       "https://news.ycombinator.com/item?id=49663373"
     ],
@@ -117,16 +137,6 @@
     [
       "Litelm: LiteLLM Without the Bloat",
       "https://github.com/kennethwolters/litelm"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 18:05:21",
-      "https://news.ycombinator.com/item?id=49662672"
-    ],
-    [
-      "The EPA is planning to scrap public review rules for data center pollution",
-      "https://capitalbnews.org/data-centers-permit-rules-epa/"
     ]
   ],
   [
@@ -171,36 +181,6 @@
   ],
   [
     [
-      "2026-09-11, 11:15:13",
-      "https://news.ycombinator.com/item?id=49656471"
-    ],
-    [
-      "RTK reports token savings, but our cost benchmarks disagree",
-      "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 10:48:00",
-      "https://news.ycombinator.com/item?id=49656225"
-    ],
-    [
-      "Claude is only available to people over 18 years",
-      "https://support.claude.com/en/articles/15171100-age-assurance-on-claude"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 00:42:41",
-      "https://news.ycombinator.com/item?id=49652105"
-    ],
-    [
-      "Google will buy half the electricity from one of Finland's nuclear power plants",
-      "https://www.bbc.com/news/articles/c8r6y4me2g6o"
-    ]
-  ],
-  [
-    [
       "2026-09-10, 20:33:11",
       "https://news.ycombinator.com/item?id=49649789"
     ],
@@ -221,12 +201,22 @@
   ],
   [
     [
-      "2026-09-09, 21:59:10",
-      "https://news.ycombinator.com/item?id=49635043"
+      "2026-09-10, 12:07:11",
+      "https://news.ycombinator.com/item?id=49642396"
     ],
     [
-      "How we rebuilt complex permissions without migrating to Zanzibar",
-      "https://infisical.com/blog/folder-based-rbac"
+      "SystemIO conflicts are not firmware bugs",
+      "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 07:20:50",
+      "https://news.ycombinator.com/item?id=49639647"
+    ],
+    [
+      "IKEA made a mod for Skyrim [video]",
+      "https://www.youtube.com/watch?v=iZODN0QUgjI"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Testing Race Conditions",
       "https://projectzero.google/2026/09/maccconc-race-condition.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-09, 15:40:19",
+      "https://news.ycombinator.com/item?id=49628367"
+    ],
+    [
+      "Bomb Sense (2021)",
+      "https://danboland.net/2021/07/15/bomb-sense.html"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-09-08, 14:28:10",
-      "https://news.ycombinator.com/item?id=49610834"
-    ],
-    [
-      "How the Chorleywood Bread Process transformed British bread",
-      "https://edconway.substack.com/p/the-little-holes-in-your-bread-are"
-    ]
-  ],
-  [
-    [
       "2026-09-07, 18:05:04",
       "https://news.ycombinator.com/item?id=49601138"
     ],
     [
       "I've operated petabyte-scale ClickHouse clusters for 5 years",
       "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse"
+    ]
+  ],
+  [
+    [
+      "2026-09-07, 08:21:41",
+      "https://news.ycombinator.com/item?id=49595505"
+    ],
+    [
+      "Inverse Kinematics and Foot Locking",
+      "https://theorangeduck.com/page/inverse-kinematics-foot-locking"
     ]
   ]
 ]
