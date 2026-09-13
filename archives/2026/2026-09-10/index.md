@@ -49,6 +49,7 @@
 * [2026-09-10, 13:10:15](https://news.ycombinator.com/item?id=49643149) - [The oldest known Snakes and Ladders board is probably a forgery](https://en.quantumgame.love/guide/how-old-is-snakes-and-ladders.html)
 * [2026-09-10, 13:07:14](https://news.ycombinator.com/item?id=49643112) - [Another researcher says OpenAI trained on conversations, then claimed breakthrou](https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d)
 * [2026-09-10, 13:03:51](https://news.ycombinator.com/item?id=49643077) - [The Feminist Was a Spy](https://uscpublicdiplomacy.org/blog/feminist-was-spy)
+* [2026-09-10, 13:02:59](https://news.ycombinator.com/item?id=49643059) - [Bad Code Is Kudzu](https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/)
 * [2026-09-10, 13:00:08](https://news.ycombinator.com/item?id=49643027) - [Who People Talk to When They're Struggling](https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling)
 * [2026-09-10, 12:59:26](https://news.ycombinator.com/item?id=49643011) - [Designing for Dual Screen and Foldable Devices with CSS (2023)](https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/)
 * [2026-09-10, 12:27:25](https://news.ycombinator.com/item?id=49642645) - [Julia 1.13 Highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/)

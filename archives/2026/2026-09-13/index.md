@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-13](index.md)
 
+* [2026-09-13, 21:13:13](https://news.ycombinator.com/item?id=49688761) - [Ask HN: In The Matrix, the bad guys are the 'agents'. Coincidence? Clairvoyance?](https://news.ycombinator.com/item?id=49688761)
+* [2026-09-13, 21:06:13](https://news.ycombinator.com/item?id=49688695) - [Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+* [2026-09-13, 20:33:18](https://news.ycombinator.com/item?id=49688391) - [Flawed Routers Flood University of Wisconsin Internet Time Server (2003)](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
 * [2026-09-13, 20:08:45](https://news.ycombinator.com/item?id=49688157) - [Mark Zuckerberg: \"Cambridge Analytica\" (2017)](https://twitter.com/TechEmails/status/2099214399840059428)
 * [2026-09-13, 19:41:06](https://news.ycombinator.com/item?id=49687869) - [There Is No AI (It's Just People) with Jaron Lanier](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
 * [2026-09-13, 19:15:57](https://news.ycombinator.com/item?id=49687586) - [US diplomat secretly flown home ‘had child abuse images at flat’](https://www.thetimes.com/uk/crime/article/us-diplomat-flown-home-immunity-bv58b3v7q)
