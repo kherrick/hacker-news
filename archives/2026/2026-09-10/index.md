@@ -37,6 +37,7 @@
 * [2026-09-10, 15:29:30](https://news.ycombinator.com/item?id=49645437) - [NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth](https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844)
 * [2026-09-10, 15:27:22](https://news.ycombinator.com/item?id=49645393) - [Don't Let Anyone Take Away Your Big Box of Cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
 * [2026-09-10, 15:01:27](https://news.ycombinator.com/item?id=49644955) - [Show HN: Syq – copy files between machines fast (better than rsync)](https://greaber.github.io/syq/)
+* [2026-09-10, 14:53:30](https://news.ycombinator.com/item?id=49644784) - [Operation Smart Kettle – Börzels Blog](https://blog.boerzel.de/de/blog/operation-smart-kettle)
 * [2026-09-10, 14:43:49](https://news.ycombinator.com/item?id=49644603) - [Show HN: See Sounds on Your Webcam](https://soundmap.darebuild.com/)
 * [2026-09-10, 14:09:31](https://news.ycombinator.com/item?id=49643982) - [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
 * [2026-09-10, 13:39:16](https://news.ycombinator.com/item?id=49643546) - [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
