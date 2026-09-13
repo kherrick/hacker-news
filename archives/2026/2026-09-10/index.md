@@ -6,6 +6,7 @@
 
 * [2026-09-10, 23:10:06](https://news.ycombinator.com/item?id=49651372) - [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)
 * [2026-09-10, 22:54:01](https://news.ycombinator.com/item?id=49651221) - [Nine coding harnesses vs. your laptop](https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74)
+* [2026-09-10, 22:41:57](https://news.ycombinator.com/item?id=49651107) - [On Binary Translation and Its Consequences](https://chipsandcheese.com/p/on-binary-translation-and-its-consequences)
 * [2026-09-10, 22:33:45](https://news.ycombinator.com/item?id=49651046) - [Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe](https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/)
 * [2026-09-10, 21:30:55](https://news.ycombinator.com/item?id=49650418) - [NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
 * [2026-09-10, 21:22:59](https://news.ycombinator.com/item?id=49650326) - [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
@@ -39,6 +40,7 @@
 * [2026-09-10, 15:01:27](https://news.ycombinator.com/item?id=49644955) - [Show HN: Syq – copy files between machines fast (better than rsync)](https://greaber.github.io/syq/)
 * [2026-09-10, 14:53:30](https://news.ycombinator.com/item?id=49644784) - [Operation Smart Kettle – Börzels Blog](https://blog.boerzel.de/de/blog/operation-smart-kettle)
 * [2026-09-10, 14:43:49](https://news.ycombinator.com/item?id=49644603) - [Show HN: See Sounds on Your Webcam](https://soundmap.darebuild.com/)
+* [2026-09-10, 14:24:47](https://news.ycombinator.com/item?id=49644241) - [Ode to Metadata](https://www.autodidacts.io/ode-to-metadata/)
 * [2026-09-10, 14:09:31](https://news.ycombinator.com/item?id=49643982) - [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
 * [2026-09-10, 13:39:16](https://news.ycombinator.com/item?id=49643546) - [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
 * [2026-09-10, 13:39:11](https://news.ycombinator.com/item?id=49643543) - [LRU is harder to beat than the KV-cache papers suggest](https://github.com/gauravapiscean/agentic-kv-cache)
@@ -63,6 +65,7 @@
 * [2026-09-10, 06:12:23](https://news.ycombinator.com/item?id=49639104) - [I think I hate the internet](https://strategictree.bearblog.dev/i-think-i-hate-the-internet/)
 * [2026-09-10, 06:11:05](https://news.ycombinator.com/item?id=49639090) - [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
 * [2026-09-10, 04:04:38](https://news.ycombinator.com/item?id=49638280) - [All grown-ups were once children, but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)
+* [2026-09-10, 03:32:04](https://news.ycombinator.com/item?id=49638071) - [Reverse engineering my e-scooter and rewriting the firmware in Rust](https://bensimms.moe/reverse-engineering-scooter/)
 * [2026-09-10, 02:04:11](https://news.ycombinator.com/item?id=49637435) - [Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes](https://hugovergnes.github.io/little-lm-3-8b/)
 * [2026-09-10, 01:59:51](https://news.ycombinator.com/item?id=49637395) - [A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
 * [2026-09-10, 01:58:00](https://news.ycombinator.com/item?id=49637385) - [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)

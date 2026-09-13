@@ -47,6 +47,7 @@
 * [2026-09-11, 11:17:50](https://news.ycombinator.com/item?id=49656496) - [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)
 * [2026-09-11, 11:15:13](https://news.ycombinator.com/item?id=49656471) - [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
 * [2026-09-11, 10:48:00](https://news.ycombinator.com/item?id=49656225) - [Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
+* [2026-09-11, 09:06:45](https://news.ycombinator.com/item?id=49655450) - [Base84 deserves a place in file names](https://00f.net/2026/09/09/base84/)
 * [2026-09-11, 08:42:04](https://news.ycombinator.com/item?id=49655286) - [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
 * [2026-09-11, 08:26:56](https://news.ycombinator.com/item?id=49655176) - [Neijuan](https://en.wikipedia.org/wiki/Neijuan)
 * [2026-09-11, 07:57:17](https://news.ycombinator.com/item?id=49654962) - [CSS Curiosities of the Past](https://vale.rocks/posts/css-relics)

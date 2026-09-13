@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-09-13](index.md)
 
+* [2026-09-13, 14:15:40](https://news.ycombinator.com/item?id=49684266) - [Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic](https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo)
+* [2026-09-13, 13:54:25](https://news.ycombinator.com/item?id=49684042) - [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
+* [2026-09-13, 13:45:08](https://news.ycombinator.com/item?id=49683953) - [Your car is selling your data](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
+* [2026-09-13, 13:35:31](https://news.ycombinator.com/item?id=49683853) - [Flock worker calls police on reporter filming public camera installation](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/)
+* [2026-09-13, 13:33:34](https://news.ycombinator.com/item?id=49683834) - [AI models don't kill people – people kill people](https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368)
+* [2026-09-13, 13:24:28](https://news.ycombinator.com/item?id=49683729) - [US Customs supervisor busted for stealing hardware from Homeland Security PCs](https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg)
+* [2026-09-13, 12:30:15](https://news.ycombinator.com/item?id=49683262) - [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689)
+* [2026-09-13, 12:01:52](https://news.ycombinator.com/item?id=49683033) - ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
+* [2026-09-13, 11:50:35](https://news.ycombinator.com/item?id=49682946) - [Show HN: Analyst Index – analysts who make money telling you good stock calls](https://www.analystidx.com/)
 * [2026-09-13, 10:29:18](https://news.ycombinator.com/item?id=49682319) - [Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100](https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/)
 * [2026-09-13, 09:59:58](https://news.ycombinator.com/item?id=49682087) - [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
 * [2026-09-13, 08:41:17](https://news.ycombinator.com/item?id=49681545) - [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)
