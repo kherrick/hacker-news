@@ -75,6 +75,7 @@
 * [2026-09-08, 04:06:20](https://news.ycombinator.com/item?id=49605511) - [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics)
 * [2026-09-08, 03:42:25](https://news.ycombinator.com/item?id=49605433) - [I tested 10 model/harness combinations on the same Three.js task](https://alvins82.github.io/hangar-harness-model-tests/)
 * [2026-09-08, 03:40:24](https://news.ycombinator.com/item?id=49605424) - [GamersNexus and LG: Or why rooting your TV is a bad idea](https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n)
+* [2026-09-08, 03:16:02](https://news.ycombinator.com/item?id=49605329) - [Tree Calculus](https://olydis.medium.com/a-visual-introduction-to-tree-calculus-2f4a34ceffc2)
 * [2026-09-08, 02:58:16](https://news.ycombinator.com/item?id=49605246) - [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/)
 * [2026-09-08, 02:36:47](https://news.ycombinator.com/item?id=49605122) - [Show HN: NYC MapTap – Learn NYC neighborhoods](https://albertjoseph0.github.io/nyc-maptap/)
 * [2026-09-08, 01:57:23](https://news.ycombinator.com/item?id=49604870) - [There's a new \"Google Jail\" for independent wikis](https://weirdgloop.org/blog/google-jail)
