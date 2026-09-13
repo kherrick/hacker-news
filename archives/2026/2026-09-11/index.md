@@ -62,6 +62,7 @@
 * [2026-09-11, 04:28:17](https://news.ycombinator.com/item?id=49653559) - [Günther Anders, the Philosopher at the End of the World](https://www.compactmag.com/article/gunther-anders-the-philosopher-at-the-end-of-the-world/)
 * [2026-09-11, 04:19:40](https://news.ycombinator.com/item?id=49653509) - [Reconstructing Concurrency Invariants Through Medieval East Asian Logic](https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic)
 * [2026-09-11, 03:48:10](https://news.ycombinator.com/item?id=49653328) - [Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
+* [2026-09-11, 03:45:42](https://news.ycombinator.com/item?id=49653311) - [Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace](https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace)
 * [2026-09-11, 02:51:51](https://news.ycombinator.com/item?id=49652996) - [LLM Visualizer – Build a Transformer from Scratch](https://jayvisaria.github.io/LLM-Visualizer/#/dashboard)
 * [2026-09-11, 02:49:52](https://news.ycombinator.com/item?id=49652985) - [What Comes After Git](https://ersc.io/blog/what-comes-after-git)
 * [2026-09-11, 01:00:56](https://news.ycombinator.com/item?id=49652237) - [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)

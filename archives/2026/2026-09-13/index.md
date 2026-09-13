@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-09-13](index.md)
 
+* [2026-09-13, 20:08:45](https://news.ycombinator.com/item?id=49688157) - [Mark Zuckerberg: \"Cambridge Analytica\" (2017)](https://twitter.com/TechEmails/status/2099214399840059428)
+* [2026-09-13, 19:41:06](https://news.ycombinator.com/item?id=49687869) - [There Is No AI (It's Just People) with Jaron Lanier](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
+* [2026-09-13, 19:15:57](https://news.ycombinator.com/item?id=49687586) - [US diplomat secretly flown home ‘had child abuse images at flat’](https://www.thetimes.com/uk/crime/article/us-diplomat-flown-home-immunity-bv58b3v7q)
+* [2026-09-13, 18:49:44](https://news.ycombinator.com/item?id=49687334) - [AI recursive self-improvement might not come so quickly after all (August 2026)](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/)
+* [2026-09-13, 18:03:09](https://news.ycombinator.com/item?id=49686766) - [I'm being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html)
+* [2026-09-13, 17:57:59](https://news.ycombinator.com/item?id=49686697) - [Global Shortage Has Led to Motor Oil Rationing at Costco](https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/)
+* [2026-09-13, 17:41:50](https://news.ycombinator.com/item?id=49686503) - [Device Drivers lab exercise – COSC562](https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html)
 * [2026-09-13, 17:37:44](https://news.ycombinator.com/item?id=49686445) - [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
 * [2026-09-13, 17:31:38](https://news.ycombinator.com/item?id=49686380) - [Ask HN: What are you working on? (September 2026)](https://news.ycombinator.com/item?id=49686380)
 * [2026-09-13, 17:18:41](https://news.ycombinator.com/item?id=49686233) - [Ask HN: How can I browse HN in dark mode?](https://news.ycombinator.com/item?id=49686233)
