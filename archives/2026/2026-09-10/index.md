@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-10](index.md)
 
+* [2026-09-10, 23:32:12](https://news.ycombinator.com/item?id=49651567) - [Sean Carroll explains the biggest ideas in the universe – Full Interview [video]](https://www.youtube.com/watch?v=_TBNJyztai0)
 * [2026-09-10, 23:10:06](https://news.ycombinator.com/item?id=49651372) - [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)
 * [2026-09-10, 22:54:01](https://news.ycombinator.com/item?id=49651221) - [Nine coding harnesses vs. your laptop](https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74)
 * [2026-09-10, 22:41:57](https://news.ycombinator.com/item?id=49651107) - [On Binary Translation and Its Consequences](https://chipsandcheese.com/p/on-binary-translation-and-its-consequences)
