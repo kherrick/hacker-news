@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-09-09](index.md)
 
 * [2026-09-09, 23:49:29](https://news.ycombinator.com/item?id=49636283) - [Automattic's board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
+* [2026-09-09, 22:41:14](https://news.ycombinator.com/item?id=49635621) - [Durable execution without history replay](https://trigora.dev/blog/durable-execution-without-history-replay/)
 * [2026-09-09, 22:22:53](https://news.ycombinator.com/item?id=49635384) - [Blizzard Workers Win Historic Union Contract](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)
 * [2026-09-09, 21:59:10](https://news.ycombinator.com/item?id=49635043) - [There is no 10x RBAC](https://infisical.com/blog/folder-based-rbac)
 * [2026-09-09, 21:51:02](https://news.ycombinator.com/item?id=49634928) - [Testing Race Conditions](https://projectzero.google/2026/09/maccconc-race-condition.html)
@@ -23,6 +24,7 @@
 * [2026-09-09, 17:13:52](https://news.ycombinator.com/item?id=49629868) - [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://academy.dair.ai/papers/procedural-graphs-self-evolving-execution-structures-for-llm-agents-2609.09153)
 * [2026-09-09, 17:13:43](https://news.ycombinator.com/item?id=49629865) - [Why Emacs Consult async searches feel slow and how to speed them up](https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/)
 * [2026-09-09, 17:06:21](https://news.ycombinator.com/item?id=49629747) - [Show HN: Rdltr – Inbox zero for your reading list](https://rdltr.app/)
+* [2026-09-09, 16:58:27](https://news.ycombinator.com/item?id=49629624) - [Vintage Scientific Papers with LaTeX](https://github.com/Foadsf/vintage-latex)
 * [2026-09-09, 16:57:34](https://news.ycombinator.com/item?id=49629608) - [Every Millisecond Counts](https://jordivillar.com/blog/every-millisecond-counts)
 * [2026-09-09, 16:38:14](https://news.ycombinator.com/item?id=49629291) - [The Invention of the MMO](https://www.worksinprogress.news/p/the-invention-of-the-mmo)
 * [2026-09-09, 16:33:44](https://news.ycombinator.com/item?id=49629209) - [The UN challenges five centuries of cartography](https://www.not-ship.com/united-nations-map/)
