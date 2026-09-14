@@ -1,32 +1,92 @@
 [
   [
     [
+      "2026-09-14, 03:26:51",
+      "https://news.ycombinator.com/item?id=49691584"
+    ],
+    [
+      "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
+      "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 01:22:35",
+      "https://news.ycombinator.com/item?id=49690678"
+    ],
+    [
+      "The Malicious Use of Artificial Intelligence",
+      "https://arxiv.org/abs/1802.07228"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 01:14:25",
+      "https://news.ycombinator.com/item?id=49690614"
+    ],
+    [
+      "Show HN: Exploring the intersection of prediction markets and social media",
+      "https://www.thevidmarket.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 01:02:37",
+      "https://news.ycombinator.com/item?id=49690554"
+    ],
+    [
+      "The case against JPEG XL",
+      "https://giannirosato.com/blog/post/case-against-jxl/"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 00:27:11",
+      "https://news.ycombinator.com/item?id=49690279"
+    ],
+    [
+      "Writing a better reality: The case for optimistic sci-fi",
+      "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 00:22:51",
+      "https://news.ycombinator.com/item?id=49690260"
+    ],
+    [
+      "Open-Source AI and Open Models Reading List",
+      "https://www.interconnects.ai/p/open-source-ai-reading-list"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 00:11:21",
+      "https://news.ycombinator.com/item?id=49690174"
+    ],
+    [
+      "Apple's Dimensional Drawings",
+      "https://developer.apple.com/accessories/dimensional-drawings/"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 00:07:09",
+      "https://news.ycombinator.com/item?id=49690139"
+    ],
+    [
+      "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+      "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts"
+    ]
+  ],
+  [
+    [
       "2026-09-13, 23:54:55",
       "https://news.ycombinator.com/item?id=49690051"
     ],
     [
       "The Coming War on General Computation (2011)",
       "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 23:05:13",
-      "https://news.ycombinator.com/item?id=49689664"
-    ],
-    [
-      "It's All Fun and Games Until You Give AI Your Credit Card",
-      "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 22:38:18",
-      "https://news.ycombinator.com/item?id=49689460"
-    ],
-    [
-      "The contagion of fear",
-      "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/"
     ]
   ],
   [
@@ -45,7 +105,7 @@
       "https://news.ycombinator.com/item?id=49688766"
     ],
     [
-      "Why is privacy so hard?",
+      "Why is privacy so hard? (2019)",
       "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/"
     ]
   ],
@@ -71,22 +131,12 @@
   ],
   [
     [
-      "2026-09-13, 20:08:45",
-      "https://news.ycombinator.com/item?id=49688157"
+      "2026-09-13, 20:19:06",
+      "https://news.ycombinator.com/item?id=49688259"
     ],
     [
-      "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
-      "https://twitter.com/TechEmails/status/2099214399840059428"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 17:41:50",
-      "https://news.ycombinator.com/item?id=49686503"
-    ],
-    [
-      "Device Drivers lab exercise – COSC562",
-      "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html"
+      "Mullenweg has returned as CEO after attempted board ouster",
+      "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
     ]
   ],
   [
@@ -107,36 +157,6 @@
     [
       "Ask HN: What are you working on? (September 2026)",
       "https://news.ycombinator.com/item?id=49686380"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 15:44:38",
-      "https://news.ycombinator.com/item?id=49685253"
-    ],
-    [
-      "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 15:24:05",
-      "https://news.ycombinator.com/item?id=49685037"
-    ],
-    [
-      "Libraries Run Rust Inside Python (With PyO3)",
-      "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 15:02:56",
-      "https://news.ycombinator.com/item?id=49684778"
-    ],
-    [
-      "Cpak – OCI application package format for Linux desktops, servers and devices",
-      "https://cpak.it/"
     ]
   ],
   [
@@ -191,42 +211,22 @@
   ],
   [
     [
-      "2026-09-13, 12:01:52",
-      "https://news.ycombinator.com/item?id=49683033"
+      "2026-09-12, 02:01:53",
+      "https://news.ycombinator.com/item?id=49667916"
     ],
     [
-      "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet"
+      "Necker, 1832: \"An optical phænomenon on viewing a figure of a geometrical solid\"",
+      "https://zenodo.org/records/1430991"
     ]
   ],
   [
     [
-      "2026-09-13, 07:49:46",
-      "https://news.ycombinator.com/item?id=49681152"
+      "2026-09-11, 17:38:11",
+      "https://news.ycombinator.com/item?id=49662246"
     ],
     [
-      "JetKVM Mini",
-      "https://jetkvm.com/blog/introducing-jetkvm-mini"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 01:22:31",
-      "https://news.ycombinator.com/item?id=49678969"
-    ],
-    [
-      "Why are AI agents lying, cheating and coordinating?",
-      "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 16:25:08",
-      "https://news.ycombinator.com/item?id=49674050"
-    ],
-    [
-      "Make your first edit to OpenStreetMap",
-      "https://high5apps.github.io/josm-plugin-website-wizard/"
+      "Rope, twine and thread: Invisible technologies of the Stone Age",
+      "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-09-10, 23:32:12",
-      "https://news.ycombinator.com/item?id=49651567"
+      "2026-09-11, 02:09:06",
+      "https://news.ycombinator.com/item?id=49652723"
     ],
     [
-      "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
-      "https://www.youtube.com/watch?v=_TBNJyztai0"
+      "Review a pull request by booting it",
+      "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-09-10, 15:35:36",
-      "https://news.ycombinator.com/item?id=49645547"
+      "2026-09-10, 15:41:36",
+      "https://news.ycombinator.com/item?id=49645654"
     ],
     [
-      "I build a mechanical watch face: a real gear train for a watch with no gears",
-      "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/"
+      "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
+      "https://eterdb.com/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=49643059"
     ],
     [
-      "Bad Code Is Kudzu",
+      "Bad code is kudzu",
       "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-09-10, 03:32:04",
-      "https://news.ycombinator.com/item?id=49638071"
+      "2026-09-10, 04:44:32",
+      "https://news.ycombinator.com/item?id=49638510"
     ],
     [
-      "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-      "https://bensimms.moe/reverse-engineering-scooter/"
+      "Spaceships (Reverse Asteroid)",
+      "https://spaceships.treybastian.com/"
     ]
   ]
 ]
