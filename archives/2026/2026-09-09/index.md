@@ -11,6 +11,7 @@
 * [2026-09-09, 21:51:02](https://news.ycombinator.com/item?id=49634928) - [Testing Race Conditions](https://projectzero.google/2026/09/maccconc-race-condition.html)
 * [2026-09-09, 21:28:56](https://news.ycombinator.com/item?id=49634650) - [Automattic CEO Matt Mullenweg Put on 'Leave of Absence'](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
 * [2026-09-09, 20:16:08](https://news.ycombinator.com/item?id=49633534) - [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)
+* [2026-09-09, 18:29:37](https://news.ycombinator.com/item?id=49631365) - [Show HN: Apollo Lunar Module landing simulation](https://gosandeep.com/eagles-descent/)
 * [2026-09-09, 18:15:43](https://news.ycombinator.com/item?id=49630931) - [iPhone Duo](https://www.apple.com/iphone-duo/)
 * [2026-09-09, 17:57:55](https://news.ycombinator.com/item?id=49630606) - [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)
 * [2026-09-09, 17:56:57](https://news.ycombinator.com/item?id=49630583) - [Apple Watch Ultra 4](https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/)
