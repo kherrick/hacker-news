@@ -38,6 +38,7 @@
 * [2026-09-11, 15:31:47](https://news.ycombinator.com/item?id=49660149) - [Rune is now open source](https://rune.build/blog/rune-is-now-open-source)
 * [2026-09-11, 15:29:35](https://news.ycombinator.com/item?id=49660104) - [Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/)
 * [2026-09-11, 15:01:19](https://news.ycombinator.com/item?id=49659647) - [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude)
+* [2026-09-11, 14:55:41](https://news.ycombinator.com/item?id=49659557) - [Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row](https://www.sciencedaily.com/releases/2026/09/260909005152.htm)
 * [2026-09-11, 14:38:13](https://news.ycombinator.com/item?id=49659245) - [HuggingFace: Security.txt](https://huggingface.co/security.txt)
 * [2026-09-11, 14:14:56](https://news.ycombinator.com/item?id=49658819) - [New York thoracic surgeon: \"For many patients 9/11 is not over\"](https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/)
 * [2026-09-11, 14:07:08](https://news.ycombinator.com/item?id=49658672) - [I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold](https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/)

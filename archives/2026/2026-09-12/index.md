@@ -50,5 +50,6 @@
 * [2026-09-12, 02:01:53](https://news.ycombinator.com/item?id=49667916) - [Necker, 1832: \"An optical phænomenon on viewing a figure of a geometrical solid\"](https://zenodo.org/records/1430991)
 * [2026-09-12, 01:37:06](https://news.ycombinator.com/item?id=49667762) - [How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars)
 * [2026-09-12, 00:40:32](https://news.ycombinator.com/item?id=49667375) - [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
+* [2026-09-12, 00:28:02](https://news.ycombinator.com/item?id=49667272) - [Richat Structure](https://en.wikipedia.org/wiki/Richat_Structure)
 * [2026-09-12, 00:17:23](https://news.ycombinator.com/item?id=49667198) - [The Nature of Dance](https://vester.si/blog/nature-of-dance/)
 * [2026-09-12, 00:16:10](https://news.ycombinator.com/item?id=49667188) - [Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp)

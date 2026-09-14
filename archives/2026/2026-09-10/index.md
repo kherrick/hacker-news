@@ -70,6 +70,7 @@
 * [2026-09-10, 06:49:43](https://news.ycombinator.com/item?id=49639408) - [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
 * [2026-09-10, 06:12:23](https://news.ycombinator.com/item?id=49639104) - [I think I hate the internet](https://strategictree.bearblog.dev/i-think-i-hate-the-internet/)
 * [2026-09-10, 06:11:05](https://news.ycombinator.com/item?id=49639090) - [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
+* [2026-09-10, 04:50:25](https://news.ycombinator.com/item?id=49638555) - [Trying to Make a Loop Auto-Vectorize](https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/)
 * [2026-09-10, 04:44:32](https://news.ycombinator.com/item?id=49638510) - [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
 * [2026-09-10, 04:04:38](https://news.ycombinator.com/item?id=49638280) - [All grown-ups were once children, but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)
 * [2026-09-10, 03:32:04](https://news.ycombinator.com/item?id=49638071) - [Reverse engineering my e-scooter and rewriting the firmware in Rust](https://bensimms.moe/reverse-engineering-scooter/)

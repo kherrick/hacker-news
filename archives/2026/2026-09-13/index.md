@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-09-13](index.md)
 
 * [2026-09-13, 23:54:55](https://news.ycombinator.com/item?id=49690051) - [The Coming War on General Computation (2011)](https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation)
+* [2026-09-13, 23:19:00](https://news.ycombinator.com/item?id=49689770) - [Fixing an NZXT Signal 4K30 part 2: the green/pink video bug](https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/)
 * [2026-09-13, 23:05:13](https://news.ycombinator.com/item?id=49689664) - [It's All Fun and Games Until You Give AI Your Credit Card](https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/)
 * [2026-09-13, 22:38:18](https://news.ycombinator.com/item?id=49689460) - [The contagion of fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
 * [2026-09-13, 21:47:04](https://news.ycombinator.com/item?id=49689048) - [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
