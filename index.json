@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-09-14, 20:14:45",
-      "https://news.ycombinator.com/item?id=49703276"
+      "2026-09-14, 23:01:36",
+      "https://news.ycombinator.com/item?id=49705442"
     ],
     [
-      "A Beginning for Mathematics",
-      "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/"
+      "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "https://github.com/JamesRyanATX/fcbnerd"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 21:22:54",
+      "https://news.ycombinator.com/item?id=49704246"
+    ],
+    [
+      "Charts built for Chat",
+      "https://dbtcharts.com/blog/charts-built-for-chat/"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 21:05:22",
+      "https://news.ycombinator.com/item?id=49704008"
+    ],
+    [
+      "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html"
     ]
   ],
   [
@@ -21,42 +41,12 @@
   ],
   [
     [
-      "2026-09-14, 19:42:22",
-      "https://news.ycombinator.com/item?id=49702779"
+      "2026-09-14, 18:03:12",
+      "https://news.ycombinator.com/item?id=49701182"
     ],
     [
-      "Neo Emacs – Emacs from the Future",
-      "https://neomacs.org/"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 19:05:15",
-      "https://news.ycombinator.com/item?id=49702239"
-    ],
-    [
-      "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
-      "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 17:50:29",
-      "https://news.ycombinator.com/item?id=49701004"
-    ],
-    [
-      "iOS 27, iPadOS 27, and macOS 27",
-      "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 17:27:55",
-      "https://news.ycombinator.com/item?id=49700661"
-    ],
-    [
-      "Steam Frame starts at $1059",
-      "https://store.steampowered.com/hardware/steamframe"
+      "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+      "https://pub.sakana.ai/pc-alm/"
     ]
   ],
   [
@@ -97,16 +87,6 @@
     [
       "Why don't machine learning research agents overfit?",
       "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 16:29:30",
-      "https://news.ycombinator.com/item?id=49699590"
-    ],
-    [
-      "When LLM judges agree, should we believe them?",
-      "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2026-09-14, 14:50:32",
+      "https://news.ycombinator.com/item?id=49697893"
+    ],
+    [
+      "Dario, Please",
+      "https://pop.rdi.sh/dario-please/"
+    ]
+  ],
+  [
+    [
       "2026-09-14, 14:04:53",
       "https://news.ycombinator.com/item?id=49697094"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2026-09-14, 13:01:04",
+      "https://news.ycombinator.com/item?id=49696132"
+    ],
+    [
+      "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
+      "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public"
+    ]
+  ],
+  [
+    [
       "2026-09-14, 12:40:57",
       "https://news.ycombinator.com/item?id=49695876"
     ],
@@ -237,16 +237,6 @@
     [
       "XCancel service is suspended until further notice",
       "https://xcancel.com/#"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 08:25:57",
-      "https://news.ycombinator.com/item?id=49693613"
-    ],
-    [
-      "A 386 PC for Your RP2350",
-      "https://github.com/rh1tech/frank-386"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2026-09-12, 15:57:43",
+      "https://news.ycombinator.com/item?id=49673689"
+    ],
+    [
+      "Compressing a Flag to 11 Bits",
+      "https://read.vantezzen.io/miniflags"
+    ]
+  ],
+  [
+    [
       "2026-09-12, 10:13:24",
       "https://news.ycombinator.com/item?id=49670852"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-09-12, 09:43:44",
+      "https://news.ycombinator.com/item?id=49670699"
+    ],
+    [
+      "Optimizing a Spin-Lock",
+      "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/"
+    ]
+  ],
+  [
+    [
       "2026-09-10, 04:50:25",
       "https://news.ycombinator.com/item?id=49638555"
     ],
     [
       "Trying to Make a Loop Auto-Vectorize",
       "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/"
-    ]
-  ],
-  [
-    [
-      "2026-09-09, 18:29:37",
-      "https://news.ycombinator.com/item?id=49631365"
-    ],
-    [
-      "Show HN: Apollo Lunar Module landing simulation",
-      "https://gosandeep.com/eagles-descent/"
     ]
   ]
 ]
