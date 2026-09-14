@@ -4,7 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-09-14](index.md)
 
+* [2026-09-14, 10:22:33](https://news.ycombinator.com/item?id=49694547) - [How Is Compression Prediction?](https://lukefleed.xyz/posts/compression/)
+* [2026-09-14, 09:53:34](https://news.ycombinator.com/item?id=49694311) - [Pkgsrc Is Cool (2022)](https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/)
+* [2026-09-14, 08:25:57](https://news.ycombinator.com/item?id=49693613) - [A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386)
+* [2026-09-14, 08:25:47](https://news.ycombinator.com/item?id=49693610) - [EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/)
+* [2026-09-14, 07:55:19](https://news.ycombinator.com/item?id=49693384) - [OpenArch – PyTorch implementations of modern LLM architectures](https://github.com/anuj0456/OpenArch)
+* [2026-09-14, 07:35:00](https://news.ycombinator.com/item?id=49693226) - [Show HN: 1080p is 920px tall – 1k real browser viewports](https://screensize.net/reports/viewport-stats)
 * [2026-09-14, 03:26:51](https://news.ycombinator.com/item?id=49691584) - [Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping](https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html)
+* [2026-09-14, 02:50:40](https://news.ycombinator.com/item?id=49691343) - [Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout](https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/)
+* [2026-09-14, 02:25:44](https://news.ycombinator.com/item?id=49691152) - [OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others](https://calif.io/research/oempocalypse)
 * [2026-09-14, 01:22:35](https://news.ycombinator.com/item?id=49690678) - [The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228)
 * [2026-09-14, 01:14:25](https://news.ycombinator.com/item?id=49690614) - [Show HN: Exploring the intersection of prediction markets and social media](https://www.thevidmarket.com/)
 * [2026-09-14, 01:02:37](https://news.ycombinator.com/item?id=49690554) - [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
