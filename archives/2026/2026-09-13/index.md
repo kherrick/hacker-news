@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-13](index.md)
 
+* [2026-09-13, 23:54:55](https://news.ycombinator.com/item?id=49690051) - [The Coming War on General Computation (2011)](https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation)
+* [2026-09-13, 23:05:13](https://news.ycombinator.com/item?id=49689664) - [It's All Fun and Games Until You Give AI Your Credit Card](https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/)
+* [2026-09-13, 22:38:18](https://news.ycombinator.com/item?id=49689460) - [The contagion of fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
+* [2026-09-13, 21:47:04](https://news.ycombinator.com/item?id=49689048) - [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
+* [2026-09-13, 21:13:43](https://news.ycombinator.com/item?id=49688766) - [Why is privacy so hard?](https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/)
 * [2026-09-13, 21:13:13](https://news.ycombinator.com/item?id=49688761) - [Ask HN: In The Matrix, the bad guys are the 'agents'. Coincidence? Clairvoyance?](https://news.ycombinator.com/item?id=49688761)
 * [2026-09-13, 21:06:13](https://news.ycombinator.com/item?id=49688695) - [Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
 * [2026-09-13, 20:33:18](https://news.ycombinator.com/item?id=49688391) - [Flawed Routers Flood University of Wisconsin Internet Time Server (2003)](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
