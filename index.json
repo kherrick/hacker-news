@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-09-13, 21:13:13",
-      "https://news.ycombinator.com/item?id=49688761"
+      "2026-09-13, 23:54:55",
+      "https://news.ycombinator.com/item?id=49690051"
     ],
     [
-      "Ask HN: In The Matrix, the bad guys are the 'agents'. Coincidence? Clairvoyance?",
-      "https://news.ycombinator.com/item?id=49688761"
+      "The Coming War on General Computation (2011)",
+      "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 23:05:13",
+      "https://news.ycombinator.com/item?id=49689664"
+    ],
+    [
+      "It's All Fun and Games Until You Give AI Your Credit Card",
+      "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 22:38:18",
+      "https://news.ycombinator.com/item?id=49689460"
+    ],
+    [
+      "The contagion of fear",
+      "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 21:47:04",
+      "https://news.ycombinator.com/item?id=49689048"
+    ],
+    [
+      "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 21:13:43",
+      "https://news.ycombinator.com/item?id=49688766"
+    ],
+    [
+      "Why is privacy so hard?",
+      "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/"
     ]
   ],
   [
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=49688695"
     ],
     [
-      "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
       "https://www.vals.ai/blogs/fable-solves-cyphral-distich"
     ]
   ],
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=49688391"
     ],
     [
-      "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+      "Flawed routers flood University of Wisconsin internet time server (2003)",
       "https://pages.cs.wisc.edu/~plonka/netgear-sntp/"
     ]
   ],
@@ -37,46 +77,6 @@
     [
       "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
       "https://twitter.com/TechEmails/status/2099214399840059428"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 19:41:06",
-      "https://news.ycombinator.com/item?id=49687869"
-    ],
-    [
-      "There Is No AI (It's Just People) with Jaron Lanier",
-      "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 18:49:44",
-      "https://news.ycombinator.com/item?id=49687334"
-    ],
-    [
-      "AI recursive self-improvement might not come so quickly after all (August 2026)",
-      "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 18:03:09",
-      "https://news.ycombinator.com/item?id=49686766"
-    ],
-    [
-      "I'm being cyberattacked by Tesla, Inc",
-      "https://dreamstation.systems/personal/tesla.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 17:57:59",
-      "https://news.ycombinator.com/item?id=49686697"
-    ],
-    [
-      "Global Shortage Has Led to Motor Oil Rationing at Costco",
-      "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/"
     ]
   ],
   [
@@ -101,12 +101,12 @@
   ],
   [
     [
-      "2026-09-13, 17:08:16",
-      "https://news.ycombinator.com/item?id=49686134"
+      "2026-09-13, 17:31:38",
+      "https://news.ycombinator.com/item?id=49686380"
     ],
     [
-      "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
-      "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/"
+      "Ask HN: What are you working on? (September 2026)",
+      "https://news.ycombinator.com/item?id=49686380"
     ]
   ],
   [
@@ -221,32 +221,12 @@
   ],
   [
     [
-      "2026-09-12, 23:43:31",
-      "https://news.ycombinator.com/item?id=49678423"
-    ],
-    [
-      "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "https://github.com/FeralFirmware/TailTalk/"
-    ]
-  ],
-  [
-    [
       "2026-09-12, 16:25:08",
       "https://news.ycombinator.com/item?id=49674050"
     ],
     [
       "Make your first edit to OpenStreetMap",
       "https://high5apps.github.io/josm-plugin-website-wizard/"
-    ]
-  ],
-  [
-    [
-      "2026-09-11, 15:34:53",
-      "https://news.ycombinator.com/item?id=49660196"
-    ],
-    [
-      "Alan's Random Insult Generator (1999)",
-      "https://alanbellows.com/experiments/insult/index.html"
     ]
   ],
   [
@@ -265,8 +245,28 @@
       "https://news.ycombinator.com/item?id=49651567"
     ],
     [
-      "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+      "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
       "https://www.youtube.com/watch?v=_TBNJyztai0"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 19:39:13",
+      "https://news.ycombinator.com/item?id=49649164"
+    ],
+    [
+      "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+      "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee"
+    ]
+  ],
+  [
+    [
+      "2026-09-10, 15:35:36",
+      "https://news.ycombinator.com/item?id=49645547"
+    ],
+    [
+      "I build a mechanical watch face: a real gear train for a watch with no gears",
+      "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=49642645"
     ],
     [
-      "Julia 1.13 Highlights",
+      "Julia 1.13 highlights",
       "https://julialang.org/blog/2026/09/julia-1.13-highlights/"
     ]
   ],
