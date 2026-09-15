@@ -1,22 +1,112 @@
 [
   [
     [
-      "2026-09-15, 16:38:45",
-      "https://news.ycombinator.com/item?id=49715113"
+      "2026-09-15, 19:56:56",
+      "https://news.ycombinator.com/item?id=49718025"
     ],
     [
-      "There's a 100% Chance AI Agents Are Ruining the Internet",
-      "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
+      "How much oil-market buffer is left?",
+      "https://www.depletion.org"
     ]
   ],
   [
     [
-      "2026-09-15, 15:56:14",
-      "https://news.ycombinator.com/item?id=49714495"
+      "2026-09-15, 19:27:35",
+      "https://news.ycombinator.com/item?id=49717605"
     ],
     [
-      "Show HN: Go Bindings for SCIP Optimizer",
-      "https://github.com/egoisutolabs/scipgo"
+      "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+      "https://github.com/GraafHenk/numberwang"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 19:25:03",
+      "https://news.ycombinator.com/item?id=49717558"
+    ],
+    [
+      "Jev: New frontier model 40-400x cheaper and 20-200x faster",
+      "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 18:45:31",
+      "https://news.ycombinator.com/item?id=49716953"
+    ],
+    [
+      "Chop Up Your Books",
+      "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 18:11:24",
+      "https://news.ycombinator.com/item?id=49716476"
+    ],
+    [
+      "We got admin access to Baseten's production GitHub in 25 minutes",
+      "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 17:56:10",
+      "https://news.ycombinator.com/item?id=49716241"
+    ],
+    [
+      "Hugging Face is billing OpenAI $100M for hacking it",
+      "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 17:52:18",
+      "https://news.ycombinator.com/item?id=49716176"
+    ],
+    [
+      "An Update on Wayback Machine Access",
+      "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 17:38:18",
+      "https://news.ycombinator.com/item?id=49715947"
+    ],
+    [
+      "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 17:12:19",
+      "https://news.ycombinator.com/item?id=49715590"
+    ],
+    [
+      "GEFS on OpenBSD: A Early Preview",
+      "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 17:00:31",
+      "https://news.ycombinator.com/item?id=49715446"
+    ],
+    [
+      "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
+      "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 15:58:48",
+      "https://news.ycombinator.com/item?id=49714547"
+    ],
+    [
+      "America's Driver's License Breach Is a National Security Disaster",
+      "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster"
     ]
   ],
   [
@@ -31,42 +121,12 @@
   ],
   [
     [
-      "2026-09-15, 14:44:33",
-      "https://news.ycombinator.com/item?id=49713337"
-    ],
-    [
-      "Closing the IPv6 First-Packet Gap with Grand",
-      "https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 14:40:08",
       "https://news.ycombinator.com/item?id=49713262"
     ],
     [
-      "The CSS Zen Garden dream shipped",
+      "The CSS Zen Garden dream, finally shipped",
       "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 14:40:05",
-      "https://news.ycombinator.com/item?id=49713261"
-    ],
-    [
-      "What we have learned at OpenShell applying formal methods to control AI agents",
-      "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 14:31:23",
-      "https://news.ycombinator.com/item?id=49713130"
-    ],
-    [
-      "GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt",
-      "https://arxiv.org/abs/2602.06258"
     ]
   ],
   [
@@ -81,32 +141,12 @@
   ],
   [
     [
-      "2026-09-15, 13:58:37",
-      "https://news.ycombinator.com/item?id=49712621"
-    ],
-    [
-      "Show HN: Panel – A research workspace where the agent can build its own panes",
-      "https://github.com/greentfrapp/panel"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 13:31:40",
       "https://news.ycombinator.com/item?id=49712278"
     ],
     [
       "Show HN: Capsule – Single-file web apps that save their data into SQLite",
       "https://withcapsule.app/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 13:31:37",
-      "https://news.ycombinator.com/item?id=49712276"
-    ],
-    [
-      "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
-      "https://github.com/ordewell/ordewell"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2026-09-15, 13:13:43",
-      "https://news.ycombinator.com/item?id=49712041"
-    ],
-    [
-      "Java 27",
-      "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 12:31:10",
       "https://news.ycombinator.com/item?id=49711544"
     ],
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2026-09-15, 12:08:26",
-      "https://news.ycombinator.com/item?id=49711309"
-    ],
-    [
-      "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
-      "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 11:26:48",
       "https://news.ycombinator.com/item?id=49710883"
     ],
     [
-      "25 Years of Mass Surveillance Is Enough",
+      "25 years of mass surveillance is enough",
       "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 10:22:46",
-      "https://news.ycombinator.com/item?id=49710253"
-    ],
-    [
-      "Suspected sabotage causes major Netherlands rail disruption",
-      "https://www.bbc.com/news/articles/c8ly49w9g1edo"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Let's make quality the norm again",
       "https://www.forbrukerradet.no/short-life/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 09:47:48",
-      "https://news.ycombinator.com/item?id=49710015"
-    ],
-    [
-      "How much of F-Droid is LLM generated?",
-      "https://tintotint.eu/whacky-corner/f-droid_slop/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-09-15, 07:00:30",
-      "https://news.ycombinator.com/item?id=49708774"
-    ],
-    [
-      "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
-      "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 06:16:24",
       "https://news.ycombinator.com/item?id=49708431"
     ],
@@ -241,12 +231,22 @@
   ],
   [
     [
-      "2026-09-14, 14:33:00",
-      "https://news.ycombinator.com/item?id=49697549"
+      "2026-09-14, 21:15:01",
+      "https://news.ycombinator.com/item?id=49704132"
     ],
     [
-      "A rough guide for going back to the Moon",
-      "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model"
+      "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "https://www.effort.news/irregular"
+    ]
+  ],
+  [
+    [
+      "2026-09-14, 14:30:17",
+      "https://news.ycombinator.com/item?id=49697496"
+    ],
+    [
+      "Most people prefer traditional architecture",
+      "https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture"
     ]
   ],
   [
@@ -255,38 +255,38 @@
       "https://news.ycombinator.com/item?id=49694382"
     ],
     [
-      "A Man Archiving Pirate Radio Station Kool FM",
+      "Archiving pirate radio station Kool FM",
       "https://londonist.com/london/music/kool-fm-archives"
     ]
   ],
   [
     [
-      "2026-09-14, 04:45:43",
-      "https://news.ycombinator.com/item?id=49692098"
+      "2026-09-13, 23:22:15",
+      "https://news.ycombinator.com/item?id=49689801"
     ],
     [
-      "Inverse-Square Law",
-      "https://blog.coredump.cx/p/inverse-square-law"
+      "Rat and Mouse Gazette: Nursing Care (1996)",
+      "https://www.rmca.org/Articles/nurse.htm"
     ]
   ],
   [
     [
-      "2026-09-13, 14:17:49",
-      "https://news.ycombinator.com/item?id=49684289"
+      "2026-09-13, 23:07:37",
+      "https://news.ycombinator.com/item?id=49689685"
     ],
     [
-      "OpenArm: An open-source 7DOF humanoid arm",
-      "https://github.com/enactic/OpenArm"
+      "Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)",
+      "https://publicdomainreview.org/collection/atlantic-city-sand-sculpture/"
     ]
   ],
   [
     [
-      "2026-09-13, 05:47:13",
-      "https://news.ycombinator.com/item?id=49680428"
+      "2026-09-13, 13:54:25",
+      "https://news.ycombinator.com/item?id=49684042"
     ],
     [
-      "Sony's First Computer – The SMC-70 from 1982 [video]",
-      "https://www.youtube.com/watch?v=cT2-7KkPkBc"
+      "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+      "https://www.youtube.com/watch?v=xJzrU38pGWc"
     ]
   ],
   [
