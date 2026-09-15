@@ -1,0 +1,8 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-09-15](index.md)
+
+* [2026-09-15, 04:15:23](https://news.ycombinator.com/item?id=49707627) - [Linux from Scratch](https://www.linuxfromscratch.org/)
+* [2026-09-15, 00:40:14](https://news.ycombinator.com/item?id=49706223) - [Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)

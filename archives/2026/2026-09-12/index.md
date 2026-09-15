@@ -14,6 +14,7 @@
 * [2026-09-12, 20:28:29](https://news.ycombinator.com/item?id=49676849) - [OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
 * [2026-09-12, 20:25:48](https://news.ycombinator.com/item?id=49676820) - [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
 * [2026-09-12, 19:57:19](https://news.ycombinator.com/item?id=49676577) - [Benchmark: CadQuery vs. OpenSCAD for agentic CAD work](https://modelrift.com/blog/cadquery-vs-openscad/)
+* [2026-09-12, 19:43:34](https://news.ycombinator.com/item?id=49676425) - [Show HN: Redis City – Explore how Redis works in an interactive 3D model](https://poltora.dev/redis)
 * [2026-09-12, 19:35:36](https://news.ycombinator.com/item?id=49676324) - [LG Says We're Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
 * [2026-09-12, 19:15:32](https://news.ycombinator.com/item?id=49676085) - [An open letter to Dario: if you mean it, open the weights](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/)
 * [2026-09-12, 18:58:57](https://news.ycombinator.com/item?id=49675902) - [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
