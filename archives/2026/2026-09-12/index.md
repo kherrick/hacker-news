@@ -8,6 +8,7 @@
 * [2026-09-12, 23:43:31](https://news.ycombinator.com/item?id=49678423) - [TailTalk: A modern async user space AppleTalk stack with Rust and Tokio](https://github.com/FeralFirmware/TailTalk/)
 * [2026-09-12, 22:22:31](https://news.ycombinator.com/item?id=49677836) - [Killing with a car costs $1.6M, California requires drivers to carry $30K](https://maxmautner.com/2026/09/11/liability-coverage.html)
 * [2026-09-12, 22:07:19](https://news.ycombinator.com/item?id=49677715) - [StarCraft returns in 2030 as an open-world shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)
+* [2026-09-12, 22:00:20](https://news.ycombinator.com/item?id=49677648) - [Giving up on smart rings](https://notesbylex.com/giving-up-on-smart-rings)
 * [2026-09-12, 21:51:43](https://news.ycombinator.com/item?id=49677577) - [Don't be the out of touch Kung Fu master](https://twitter.com/ID_AA_Carmack/status/2098443262214230095)
 * [2026-09-12, 21:35:38](https://news.ycombinator.com/item?id=49677450) - [P(doom)](https://lucumr.pocoo.org/2026/9/12/pdoom/)
 * [2026-09-12, 21:28:08](https://news.ycombinator.com/item?id=49677391) - [Financial Times' 404 Page not Found](https://www.ft.com/article/404)
