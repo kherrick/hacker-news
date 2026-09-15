@@ -4,7 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-09-15](index.md)
 
+* [2026-09-15, 19:56:56](https://news.ycombinator.com/item?id=49718025) - [How much oil-market buffer is left?](https://www.depletion.org)
+* [2026-09-15, 19:27:35](https://news.ycombinator.com/item?id=49717605) - [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang)
+* [2026-09-15, 19:25:03](https://news.ycombinator.com/item?id=49717558) - [Jev: New frontier model 40-400x cheaper and 20-200x faster](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+* [2026-09-15, 18:45:31](https://news.ycombinator.com/item?id=49716953) - [Chop Up Your Books](https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html)
+* [2026-09-15, 18:11:24](https://news.ycombinator.com/item?id=49716476) - [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover)
+* [2026-09-15, 17:56:10](https://news.ycombinator.com/item?id=49716241) - [Hugging Face is billing OpenAI $100M for hacking it](https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand)
+* [2026-09-15, 17:52:18](https://news.ycombinator.com/item?id=49716176) - [An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)
+* [2026-09-15, 17:38:18](https://news.ycombinator.com/item?id=49715947) - [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)
+* [2026-09-15, 17:12:19](https://news.ycombinator.com/item?id=49715590) - [GEFS on OpenBSD: A Early Preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
+* [2026-09-15, 17:00:31](https://news.ycombinator.com/item?id=49715446) - [Jiga (YC W21) Is Hiring Product Engineer (Remote/US)](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd)
 * [2026-09-15, 16:38:45](https://news.ycombinator.com/item?id=49715113) - [There's a 100% Chance AI Agents Are Ruining the Internet](https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/)
+* [2026-09-15, 15:58:48](https://news.ycombinator.com/item?id=49714547) - [America's Driver's License Breach Is a National Security Disaster](https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster)
 * [2026-09-15, 15:56:14](https://news.ycombinator.com/item?id=49714495) - [Show HN: Go Bindings for SCIP Optimizer](https://github.com/egoisutolabs/scipgo)
 * [2026-09-15, 15:26:45](https://news.ycombinator.com/item?id=49713999) - [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian)
 * [2026-09-15, 14:44:33](https://news.ycombinator.com/item?id=49713337) - [Closing the IPv6 First-Packet Gap with Grand](https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/)

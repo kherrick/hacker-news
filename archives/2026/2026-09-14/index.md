@@ -6,6 +6,7 @@
 
 * [2026-09-14, 23:01:36](https://news.ycombinator.com/item?id=49705442) - [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)
 * [2026-09-14, 21:22:54](https://news.ycombinator.com/item?id=49704246) - [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)
+* [2026-09-14, 21:15:01](https://news.ycombinator.com/item?id=49704132) - [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular)
 * [2026-09-14, 21:05:22](https://news.ycombinator.com/item?id=49704008) - [Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html)
 * [2026-09-14, 20:14:45](https://news.ycombinator.com/item?id=49703276) - [A Beginning for Mathematics](https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/)
 * [2026-09-14, 19:56:20](https://news.ycombinator.com/item?id=49703003) - [GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?](https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review)
@@ -36,6 +37,7 @@
 * [2026-09-14, 15:27:48](https://news.ycombinator.com/item?id=49698603) - [Foundation Model Engineering: From Theory to Production](https://sungeuns.github.io/foundation-model-engineering/)
 * [2026-09-14, 14:50:32](https://news.ycombinator.com/item?id=49697893) - [Dario, Please](https://pop.rdi.sh/dario-please/)
 * [2026-09-14, 14:33:00](https://news.ycombinator.com/item?id=49697549) - [A rough guide for going back to the Moon](https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model)
+* [2026-09-14, 14:30:17](https://news.ycombinator.com/item?id=49697496) - [Most people prefer traditional architecture](https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture)
 * [2026-09-14, 14:29:23](https://news.ycombinator.com/item?id=49697477) - [Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/)
 * [2026-09-14, 14:04:53](https://news.ycombinator.com/item?id=49697094) - [Adversarial Fashion Makes a Statement on AI Panopticon](https://spectrum.ieee.org/adversarial-fashion)
 * [2026-09-14, 13:59:09](https://news.ycombinator.com/item?id=49697014) - [Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama](https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/)
