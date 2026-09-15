@@ -51,6 +51,7 @@
 * [2026-09-13, 08:41:17](https://news.ycombinator.com/item?id=49681545) - [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)
 * [2026-09-13, 07:49:46](https://news.ycombinator.com/item?id=49681152) - [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
 * [2026-09-13, 05:47:13](https://news.ycombinator.com/item?id=49680428) - [Sony's First Computer – The SMC-70 from 1982 [video]](https://www.youtube.com/watch?v=cT2-7KkPkBc)
+* [2026-09-13, 04:09:19](https://news.ycombinator.com/item?id=49679949) - [Data races and the limits of ThreadSanitizer in C and Go](https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html)
 * [2026-09-13, 03:34:53](https://news.ycombinator.com/item?id=49679734) - [A wandering black hole caught feeding on the run](https://phys.org/news/2026-08-black-hole-caught.html)
 * [2026-09-13, 03:19:54](https://news.ycombinator.com/item?id=49679653) - [Every invoice in Brazil's economy runs on SOAP 1.2](https://github.com/stoix-dev/sefaz-webservices-postman)
 * [2026-09-13, 03:18:29](https://news.ycombinator.com/item?id=49679647) - [A succession crisis that tore England apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
