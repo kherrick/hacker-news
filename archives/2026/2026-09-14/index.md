@@ -35,6 +35,7 @@
 * [2026-09-14, 15:30:56](https://news.ycombinator.com/item?id=49698664) - [China's Regulators Take Aim at \"AI Boyfriends\"](https://spectrum.ieee.org/china-ai-chatbot-regulation)
 * [2026-09-14, 15:27:56](https://news.ycombinator.com/item?id=49698607) - [Principles for Fast Tokio Applications](https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/)
 * [2026-09-14, 15:27:48](https://news.ycombinator.com/item?id=49698603) - [Foundation Model Engineering: From Theory to Production](https://sungeuns.github.io/foundation-model-engineering/)
+* [2026-09-14, 14:58:26](https://news.ycombinator.com/item?id=49698036) - [Anecdotally, Programmers Dislike \"Reduce\"](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/)
 * [2026-09-14, 14:50:32](https://news.ycombinator.com/item?id=49697893) - [Dario, Please](https://pop.rdi.sh/dario-please/)
 * [2026-09-14, 14:33:00](https://news.ycombinator.com/item?id=49697549) - [A rough guide for going back to the Moon](https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model)
 * [2026-09-14, 14:30:17](https://news.ycombinator.com/item?id=49697496) - [Most people prefer traditional architecture](https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture)

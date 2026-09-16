@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-16](index.md)
 
+* [2026-09-16, 17:27:37](https://news.ycombinator.com/item?id=49730239) - [ER visits for gambling disorders doubled after expanded online gambling market](https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market)
+* [2026-09-16, 16:26:25](https://news.ycombinator.com/item?id=49729412) - [Claude Cowork and chat are now one Claude](https://claude.com/blog/cowork-is-now-claude)
+* [2026-09-16, 16:13:55](https://news.ycombinator.com/item?id=49729228) - [This Code Is CRAP (2011)](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
+* [2026-09-16, 15:56:47](https://news.ycombinator.com/item?id=49729000) - [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
+* [2026-09-16, 15:40:04](https://news.ycombinator.com/item?id=49728733) - [Can we stop with the uptime percentages?](https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/)
+* [2026-09-16, 14:32:11](https://news.ycombinator.com/item?id=49727659) - [The DeepMind Institute](https://institute.deepmind.com/)
 * [2026-09-16, 14:30:36](https://news.ycombinator.com/item?id=49727627) - [PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"](https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/)
+* [2026-09-16, 14:28:28](https://news.ycombinator.com/item?id=49727592) - [Anatomy of a Texture](https://agentlien.github.io/texture/)
 * [2026-09-16, 14:27:47](https://news.ycombinator.com/item?id=49727580) - [A warning about 'model welfare'](https://mustafa-suleyman.ai/a-warning-about-model-welfare)
 * [2026-09-16, 14:20:06](https://news.ycombinator.com/item?id=49727463) - [We know what a world without work looks like](https://asteriskmag.substack.com/p/we-already-know-what-a-world-without)
 * [2026-09-16, 13:51:15](https://news.ycombinator.com/item?id=49727041) - [OpenAI expands ChatGPT ads with Sponsored Agents](https://openai.com/index/reimagining-advertising-with-ai/)
