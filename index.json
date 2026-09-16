@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-16, 04:58:36",
+      "https://news.ycombinator.com/item?id=49722276"
+    ],
+    [
+      "Datamimic – don't let your coding agent invent its own test world",
+      "https://github.com/rapiddweller/datamimic"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 02:46:06",
+      "https://news.ycombinator.com/item?id=49721548"
+    ],
+    [
+      "Negativland, Culture Jamming, and the Art of Making Something New",
+      "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 02:25:18",
+      "https://news.ycombinator.com/item?id=49721435"
+    ],
+    [
+      "Stay discoverable in search while disallowing AI training",
+      "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 02:07:31",
+      "https://news.ycombinator.com/item?id=49721322"
+    ],
+    [
+      "Apple Reference Image: A New Approach for Verified Photography",
+      "https://security.apple.com/blog/apple-reference-image/"
+    ]
+  ],
+  [
+    [
       "2026-09-15, 23:17:20",
       "https://news.ycombinator.com/item?id=49720164"
     ],
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=49718822"
     ],
     [
-      "Jean-Pierre Serre is 100 years old today",
+      "Jean-Pierre Serre turns 100",
       "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/"
     ]
   ],
@@ -95,7 +135,7 @@
       "https://news.ycombinator.com/item?id=49716476"
     ],
     [
-      "We got admin access to Baseten's production GitHub in 25 minutes",
+      "We got admin access to Baseten's production GitHub",
       "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover"
     ]
   ],
@@ -105,7 +145,7 @@
       "https://news.ycombinator.com/item?id=49716176"
     ],
     [
-      "An Update on Wayback Machine Access",
+      "An update on Wayback Machine access",
       "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/"
     ]
   ],
@@ -121,52 +161,12 @@
   ],
   [
     [
-      "2026-09-15, 17:37:12",
-      "https://news.ycombinator.com/item?id=49715927"
-    ],
-    [
-      "Why I'm still bearish on LLMs after Navier-Stokes",
-      "https://dank.systems/posts/2026-09-15-ai-bear.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 17:12:19",
-      "https://news.ycombinator.com/item?id=49715590"
-    ],
-    [
-      "GEFS on OpenBSD: A Early Preview",
-      "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 17:00:31",
       "https://news.ycombinator.com/item?id=49715446"
     ],
     [
       "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
       "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 15:26:45",
-      "https://news.ycombinator.com/item?id=49713999"
-    ],
-    [
-      "Cartesian – AI 3D Modeling for Design",
-      "https://www.formas.ai/cartesian"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 15:20:26",
-      "https://news.ycombinator.com/item?id=49713894"
-    ],
-    [
-      "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-      "https://github.com/pizza-bot-app/pizza-bot"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-09-15, 03:47:56",
-      "https://news.ycombinator.com/item?id=49707473"
+      "2026-09-15, 00:01:31",
+      "https://news.ycombinator.com/item?id=49705944"
     ],
     [
-      "US confirms for first time it has deployed space weapons",
-      "https://www.bbc.com/news/articles/ck790xg41ygro"
+      "Doing Everyone Else's Job",
+      "https://yosefk.com/blog/doing-everyone-elses-job.html"
     ]
   ],
   [
@@ -271,32 +271,32 @@
   ],
   [
     [
+      "2026-09-14, 09:08:56",
+      "https://news.ycombinator.com/item?id=49693971"
+    ],
+    [
+      "Show HN: I made a flight simulator, except you're just a passenger",
+      "https://inflightsimulator.com"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 14:09:57",
+      "https://news.ycombinator.com/item?id=49684197"
+    ],
+    [
+      "An interactive world map of the stories cultures have told",
+      "https://originmap.sunnyguha.com/"
+    ]
+  ],
+  [
+    [
       "2026-09-13, 07:11:20",
       "https://news.ycombinator.com/item?id=49680916"
     ],
     [
       "Sierra digital cameras on the Apple II",
       "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 04:09:19",
-      "https://news.ycombinator.com/item?id=49679949"
-    ],
-    [
-      "Data races and the limits of ThreadSanitizer in C and Go",
-      "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 22:00:20",
-      "https://news.ycombinator.com/item?id=49677648"
-    ],
-    [
-      "Giving up on smart rings",
-      "https://notesbylex.com/giving-up-on-smart-rings"
     ]
   ]
 ]
