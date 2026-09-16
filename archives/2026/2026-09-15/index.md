@@ -51,3 +51,4 @@
 * [2026-09-15, 03:47:56](https://news.ycombinator.com/item?id=49707473) - [US confirms for first time it has deployed space weapons](https://www.bbc.com/news/articles/ck790xg41ygro)
 * [2026-09-15, 01:45:53](https://news.ycombinator.com/item?id=49706708) - [Vibe Coding is the new Internet Dating?](https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/)
 * [2026-09-15, 00:40:14](https://news.ycombinator.com/item?id=49706223) - [Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
+* [2026-09-15, 00:01:31](https://news.ycombinator.com/item?id=49705944) - [Doing Everyone Else's Job](https://yosefk.com/blog/doing-everyone-elses-job.html)

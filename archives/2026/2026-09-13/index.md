@@ -36,6 +36,7 @@
 * [2026-09-13, 14:25:13](https://news.ycombinator.com/item?id=49684356) - [CUDA for AMD on Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows)
 * [2026-09-13, 14:17:49](https://news.ycombinator.com/item?id=49684289) - [OpenArm: An open-source 7DOF humanoid arm](https://github.com/enactic/OpenArm)
 * [2026-09-13, 14:15:40](https://news.ycombinator.com/item?id=49684266) - [Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic](https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo)
+* [2026-09-13, 14:09:57](https://news.ycombinator.com/item?id=49684197) - [An interactive world map of the stories cultures have told](https://originmap.sunnyguha.com/)
 * [2026-09-13, 14:09:53](https://news.ycombinator.com/item?id=49684196) - [Making Startups Powerful](https://paulgraham.com/powerful.html)
 * [2026-09-13, 14:00:44](https://news.ycombinator.com/item?id=49684101) - [Key symbols we lost to time, pt. 1: The PC side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/)
 * [2026-09-13, 13:54:25](https://news.ycombinator.com/item?id=49684042) - [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)

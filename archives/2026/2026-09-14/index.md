@@ -57,6 +57,7 @@
 * [2026-09-14, 10:01:05](https://news.ycombinator.com/item?id=49694382) - [A Man Archiving Pirate Radio Station Kool FM](https://londonist.com/london/music/kool-fm-archives)
 * [2026-09-14, 09:53:34](https://news.ycombinator.com/item?id=49694311) - [Pkgsrc Is Cool (2022)](https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/)
 * [2026-09-14, 09:51:50](https://news.ycombinator.com/item?id=49694296) - [XCancel service is suspended until further notice](https://xcancel.com/#)
+* [2026-09-14, 09:08:56](https://news.ycombinator.com/item?id=49693971) - [Show HN: I made a flight simulator, except you're just a passenger](https://inflightsimulator.com)
 * [2026-09-14, 08:35:30](https://news.ycombinator.com/item?id=49693690) - [When code is a maze, smart developers make maps](https://medium.com/@simonsmartiom/when-code-is-a-maze-smart-developers-make-maps-fbc452a48c1b)
 * [2026-09-14, 08:25:57](https://news.ycombinator.com/item?id=49693613) - [A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386)
 * [2026-09-14, 08:25:47](https://news.ycombinator.com/item?id=49693610) - [EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/)
