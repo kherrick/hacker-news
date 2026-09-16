@@ -6,6 +6,7 @@
 
 * [2026-09-12, 23:45:58](https://news.ycombinator.com/item?id=49678435) - [AgentsDock: An IDE designed for agentic AI research](https://agentsdock.net/)
 * [2026-09-12, 23:43:31](https://news.ycombinator.com/item?id=49678423) - [TailTalk: A modern async user space AppleTalk stack with Rust and Tokio](https://github.com/FeralFirmware/TailTalk/)
+* [2026-09-12, 22:35:25](https://news.ycombinator.com/item?id=49677916) - [Japan's book scene is moving from bookstores to libraries](https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving)
 * [2026-09-12, 22:22:31](https://news.ycombinator.com/item?id=49677836) - [Killing with a car costs $1.6M, California requires drivers to carry $30K](https://maxmautner.com/2026/09/11/liability-coverage.html)
 * [2026-09-12, 22:07:19](https://news.ycombinator.com/item?id=49677715) - [StarCraft returns in 2030 as an open-world shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)
 * [2026-09-12, 22:00:20](https://news.ycombinator.com/item?id=49677648) - [Giving up on smart rings](https://notesbylex.com/giving-up-on-smart-rings)
@@ -21,6 +22,7 @@
 * [2026-09-12, 18:58:57](https://news.ycombinator.com/item?id=49675902) - [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
 * [2026-09-12, 18:51:40](https://news.ycombinator.com/item?id=49675817) - [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/)
 * [2026-09-12, 17:05:31](https://news.ycombinator.com/item?id=49674498) - [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
+* [2026-09-12, 17:02:19](https://news.ycombinator.com/item?id=49674451) - [Reversing Factorio's RNG](https://gegell.github.io/posts/factorio-rng/)
 * [2026-09-12, 16:56:52](https://news.ycombinator.com/item?id=49674395) - [Anthropic boss Dario Amodei calls for AI development to slow down](https://www.bbc.com/news/articles/c14dpgm0rg4o)
 * [2026-09-12, 16:25:08](https://news.ycombinator.com/item?id=49674050) - [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/)
 * [2026-09-12, 15:57:43](https://news.ycombinator.com/item?id=49673689) - [Compressing a Flag to 11 Bits](https://read.vantezzen.io/miniflags)

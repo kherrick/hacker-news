@@ -4,7 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-09-16](index.md)
 
+* [2026-09-16, 20:59:24](https://news.ycombinator.com/item?id=49732931) - [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
+* [2026-09-16, 20:09:18](https://news.ycombinator.com/item?id=49732270) - [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
+* [2026-09-16, 19:53:36](https://news.ycombinator.com/item?id=49732036) - [macOS 27 Golden Gate – Review](https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/)
+* [2026-09-16, 19:19:08](https://news.ycombinator.com/item?id=49731620) - [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)
+* [2026-09-16, 18:56:05](https://news.ycombinator.com/item?id=49731360) - [Accurate Models of AMD Matrix Cores](https://arxiv.org/abs/2609.14845)
+* [2026-09-16, 18:50:00](https://news.ycombinator.com/item?id=49731285) - [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
+* [2026-09-16, 18:49:57](https://news.ycombinator.com/item?id=49731282) - [Reverse-engineered Jev-like model](https://github.com/vinnylarouge/jevlike)
+* [2026-09-16, 18:31:35](https://news.ycombinator.com/item?id=49731054) - [Vectorized and performance-portable Quicksort (2022)](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 * [2026-09-16, 17:27:37](https://news.ycombinator.com/item?id=49730239) - [ER visits for gambling disorders doubled after expanded online gambling market](https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market)
+* [2026-09-16, 16:58:13](https://news.ycombinator.com/item?id=49729816) - [Training Text-to-Image Models 3.6× Faster](https://www.linum.ai/field-notes/jit-ddt)
 * [2026-09-16, 16:26:25](https://news.ycombinator.com/item?id=49729412) - [Claude Cowork and chat are now one Claude](https://claude.com/blog/cowork-is-now-claude)
 * [2026-09-16, 16:13:55](https://news.ycombinator.com/item?id=49729228) - [This Code Is CRAP (2011)](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
 * [2026-09-16, 15:56:47](https://news.ycombinator.com/item?id=49729000) - [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)

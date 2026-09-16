@@ -6,6 +6,7 @@
 
 * [2026-09-15, 23:17:20](https://news.ycombinator.com/item?id=49720164) - [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
 * [2026-09-15, 22:50:55](https://news.ycombinator.com/item?id=49719938) - [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
+* [2026-09-15, 21:41:42](https://news.ycombinator.com/item?id=49719249) - [AWS says it can't restore some data from mideast facilities struck by Iran](https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d)
 * [2026-09-15, 21:07:47](https://news.ycombinator.com/item?id=49718928) - [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
 * [2026-09-15, 20:57:18](https://news.ycombinator.com/item?id=49718822) - [Jean-Pierre Serre is 100 years old today](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
 * [2026-09-15, 19:56:56](https://news.ycombinator.com/item?id=49718025) - [How much oil-market buffer is left?](https://www.depletion.org)
@@ -39,7 +40,9 @@
 * [2026-09-15, 13:20:24](https://news.ycombinator.com/item?id=49712102) - [Show HN: Hacking a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/)
 * [2026-09-15, 13:13:43](https://news.ycombinator.com/item?id=49712041) - [Java 27](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/)
 * [2026-09-15, 12:31:10](https://news.ycombinator.com/item?id=49711544) - [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
+* [2026-09-15, 12:18:16](https://news.ycombinator.com/item?id=49711424) - [Performance Improvements in .NET 11](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/)
 * [2026-09-15, 12:08:26](https://news.ycombinator.com/item?id=49711309) - [25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]](https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough)
+* [2026-09-15, 11:34:45](https://news.ycombinator.com/item?id=49710968) - [Show HN: Restarted – a 2026 remake of the classic 2015 startup generator](https://restarted.io/)
 * [2026-09-15, 11:28:19](https://news.ycombinator.com/item?id=49710903) - [Tell the speakers that you liked their talks](https://ohhelloana.blog/tell-the-speakers/)
 * [2026-09-15, 11:26:48](https://news.ycombinator.com/item?id=49710883) - [25 Years of Mass Surveillance Is Enough](https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html)
 * [2026-09-15, 10:22:46](https://news.ycombinator.com/item?id=49710253) - [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)

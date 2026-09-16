@@ -28,6 +28,7 @@
 * [2026-09-11, 17:36:11](https://news.ycombinator.com/item?id=49662214) - [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
 * [2026-09-11, 17:25:23](https://news.ycombinator.com/item?id=49662020) - [Mind-altering drugs played key role in rise of Andean civilization](https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization)
 * [2026-09-11, 17:00:17](https://news.ycombinator.com/item?id=49661645) - [Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering](https://www.getzep.com/careers/)
+* [2026-09-11, 16:09:09](https://news.ycombinator.com/item?id=49660791) - [WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL](https://clickhouse.com/blog/introducing-walshadow)
 * [2026-09-11, 16:08:50](https://news.ycombinator.com/item?id=49660783) - [Show HN: Hacker News, Without AI](https://www.unslop.news/)
 * [2026-09-11, 16:03:05](https://news.ycombinator.com/item?id=49660676) - [Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty)
 * [2026-09-11, 16:00:58](https://news.ycombinator.com/item?id=49660631) - [Five Words from Vanishing Fleece](https://blog.wordnik.com/five-words-from-vanishing-fleece)
