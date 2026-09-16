@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-09-15, 23:17:20](https://news.ycombinator.com/item?id=49720164) - [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
+* [2026-09-15, 22:50:55](https://news.ycombinator.com/item?id=49719938) - [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
 * [2026-09-15, 21:07:47](https://news.ycombinator.com/item?id=49718928) - [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
 * [2026-09-15, 20:57:18](https://news.ycombinator.com/item?id=49718822) - [Jean-Pierre Serre is 100 years old today](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
 * [2026-09-15, 19:30:03](https://news.ycombinator.com/item?id=49717638) - [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/)
@@ -19,17 +21,15 @@
 * [2026-09-15, 14:24:08](https://news.ycombinator.com/item?id=49713024) - [The Inference Hardware Revolution of 2026](https://spectrum.ieee.org/inference-hardware-revolution)
 * [2026-09-15, 13:31:40](https://news.ycombinator.com/item?id=49712278) - [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/)
 * [2026-09-15, 13:20:24](https://news.ycombinator.com/item?id=49712102) - [Show HN: Hacking a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/)
-* [2026-09-15, 13:13:43](https://news.ycombinator.com/item?id=49712041) - [Java 27](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/)
 * [2026-09-15, 12:31:10](https://news.ycombinator.com/item?id=49711544) - [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
-* [2026-09-15, 11:26:48](https://news.ycombinator.com/item?id=49710883) - [25 years of mass surveillance is enough](https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html)
 * [2026-09-15, 10:22:46](https://news.ycombinator.com/item?id=49710253) - [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)
 * [2026-09-15, 10:00:16](https://news.ycombinator.com/item?id=49710109) - [Let's make quality the norm again](https://www.forbrukerradet.no/short-life/)
-* [2026-09-15, 06:16:24](https://news.ycombinator.com/item?id=49708431) - [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
 * [2026-09-15, 03:47:56](https://news.ycombinator.com/item?id=49707473) - [US confirms for first time it has deployed space weapons](https://www.bbc.com/news/articles/ck790xg41ygro)
-* [2026-09-15, 01:45:53](https://news.ycombinator.com/item?id=49706708) - [Vibe Coding is the new Internet Dating?](https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/)
 * [2026-09-14, 21:15:01](https://news.ycombinator.com/item?id=49704132) - [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular)
 * [2026-09-14, 14:30:17](https://news.ycombinator.com/item?id=49697496) - [Most people prefer traditional architecture](https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture)
+* [2026-09-13, 07:11:20](https://news.ycombinator.com/item?id=49680916) - [Sierra digital cameras on the Apple II](https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/)
 * [2026-09-13, 04:09:19](https://news.ycombinator.com/item?id=49679949) - [Data races and the limits of ThreadSanitizer in C and Go](https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html)
+* [2026-09-12, 22:00:20](https://news.ycombinator.com/item?id=49677648) - [Giving up on smart rings](https://notesbylex.com/giving-up-on-smart-rings)
 
 ## [Archives](archives/index.md)
 

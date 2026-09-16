@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-15](index.md)
 
+* [2026-09-15, 23:17:20](https://news.ycombinator.com/item?id=49720164) - [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
+* [2026-09-15, 22:50:55](https://news.ycombinator.com/item?id=49719938) - [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
 * [2026-09-15, 21:07:47](https://news.ycombinator.com/item?id=49718928) - [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
 * [2026-09-15, 20:57:18](https://news.ycombinator.com/item?id=49718822) - [Jean-Pierre Serre is 100 years old today](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
 * [2026-09-15, 19:56:56](https://news.ycombinator.com/item?id=49718025) - [How much oil-market buffer is left?](https://www.depletion.org)
