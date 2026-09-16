@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-09-15, 23:17:20",
+      "https://news.ycombinator.com/item?id=49720164"
+    ],
+    [
+      "Saving Jet Fuel",
+      "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 22:50:55",
+      "https://news.ycombinator.com/item?id=49719938"
+    ],
+    [
+      "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+      "https://nand2mario.github.io/posts/2026/zsst-voodoo/"
+    ]
+  ],
+  [
+    [
       "2026-09-15, 21:07:47",
       "https://news.ycombinator.com/item?id=49718928"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-09-15, 13:13:43",
-      "https://news.ycombinator.com/item?id=49712041"
-    ],
-    [
-      "Java 27",
-      "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 12:31:10",
       "https://news.ycombinator.com/item?id=49711544"
     ],
     [
       "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "https://github.com/arnegiacomo/fugleramme"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 11:26:48",
-      "https://news.ycombinator.com/item?id=49710883"
-    ],
-    [
-      "25 years of mass surveillance is enough",
-      "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html"
     ]
   ],
   [
@@ -241,32 +241,12 @@
   ],
   [
     [
-      "2026-09-15, 06:16:24",
-      "https://news.ycombinator.com/item?id=49708431"
-    ],
-    [
-      "I can't stop thinking about Papua New Guinea",
-      "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 03:47:56",
       "https://news.ycombinator.com/item?id=49707473"
     ],
     [
       "US confirms for first time it has deployed space weapons",
       "https://www.bbc.com/news/articles/ck790xg41ygro"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 01:45:53",
-      "https://news.ycombinator.com/item?id=49706708"
-    ],
-    [
-      "Vibe Coding is the new Internet Dating?",
-      "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2026-09-13, 07:11:20",
+      "https://news.ycombinator.com/item?id=49680916"
+    ],
+    [
+      "Sierra digital cameras on the Apple II",
+      "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/"
+    ]
+  ],
+  [
+    [
       "2026-09-13, 04:09:19",
       "https://news.ycombinator.com/item?id=49679949"
     ],
     [
       "Data races and the limits of ThreadSanitizer in C and Go",
       "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-12, 22:00:20",
+      "https://news.ycombinator.com/item?id=49677648"
+    ],
+    [
+      "Giving up on smart rings",
+      "https://notesbylex.com/giving-up-on-smart-rings"
     ]
   ]
 ]
