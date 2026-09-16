@@ -6,6 +6,7 @@
 
 * [2026-09-15, 23:17:20](https://news.ycombinator.com/item?id=49720164) - [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
 * [2026-09-15, 22:50:55](https://news.ycombinator.com/item?id=49719938) - [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
+* [2026-09-15, 22:15:25](https://news.ycombinator.com/item?id=49719596) - [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve)
 * [2026-09-15, 21:41:42](https://news.ycombinator.com/item?id=49719249) - [AWS says it can't restore some data from mideast facilities struck by Iran](https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d)
 * [2026-09-15, 21:07:47](https://news.ycombinator.com/item?id=49718928) - [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
 * [2026-09-15, 20:57:18](https://news.ycombinator.com/item?id=49718822) - [Jean-Pierre Serre is 100 years old today](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)

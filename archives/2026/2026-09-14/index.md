@@ -15,6 +15,7 @@
 * [2026-09-14, 18:03:12](https://news.ycombinator.com/item?id=49701182) - [Backprop Alternative: Augmented Lagrangian Predictive Coding](https://pub.sakana.ai/pc-alm/)
 * [2026-09-14, 17:50:29](https://news.ycombinator.com/item?id=49701004) - [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
 * [2026-09-14, 17:27:55](https://news.ycombinator.com/item?id=49700661) - [Steam Frame starts at $1059](https://store.steampowered.com/hardware/steamframe)
+* [2026-09-14, 17:24:19](https://news.ycombinator.com/item?id=49700598) - [Destroy After Reading: photocopiers,cheap paper and DIY gave metal it's look](https://www.truegrittexturesupply.com/blogs/news/destroy-after-reading)
 * [2026-09-14, 17:16:06](https://news.ycombinator.com/item?id=49700477) - [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
 * [2026-09-14, 17:02:34](https://news.ycombinator.com/item?id=49700255) - [Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%](https://blog.cloudflare.com/automatic-key-exchange-for-origins/)
 * [2026-09-14, 17:00:53](https://news.ycombinator.com/item?id=49700218) - [Cua (YC P25) Is Hiring a Founding Technical GTM Lead](https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead)

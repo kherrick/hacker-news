@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-16](index.md)
 
+* [2026-09-16, 23:06:39](https://news.ycombinator.com/item?id=49734264) - [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
+* [2026-09-16, 22:56:48](https://news.ycombinator.com/item?id=49734171) - [Australia says it could follow Canada in forging deeper ties with EU](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html)
 * [2026-09-16, 20:59:24](https://news.ycombinator.com/item?id=49732931) - [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
+* [2026-09-16, 20:27:16](https://news.ycombinator.com/item?id=49732513) - [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
 * [2026-09-16, 20:09:18](https://news.ycombinator.com/item?id=49732270) - [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
+* [2026-09-16, 19:56:38](https://news.ycombinator.com/item?id=49732087) - [Why Does the Universe Expand?](https://cosmicave.org/2026/09/15/why-does-the-universe-expand/)
 * [2026-09-16, 19:53:36](https://news.ycombinator.com/item?id=49732036) - [macOS 27 Golden Gate – Review](https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/)
 * [2026-09-16, 19:19:08](https://news.ycombinator.com/item?id=49731620) - [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)
 * [2026-09-16, 18:56:05](https://news.ycombinator.com/item?id=49731360) - [Accurate Models of AMD Matrix Cores](https://arxiv.org/abs/2609.14845)
@@ -26,6 +30,7 @@
 * [2026-09-16, 13:51:15](https://news.ycombinator.com/item?id=49727041) - [OpenAI expands ChatGPT ads with Sponsored Agents](https://openai.com/index/reimagining-advertising-with-ai/)
 * [2026-09-16, 13:44:40](https://news.ycombinator.com/item?id=49726955) - [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858)
 * [2026-09-16, 13:18:47](https://news.ycombinator.com/item?id=49726586) - [Hackers Got Inside a Flock Camera. Its Data Shows How the System Works](https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/)
+* [2026-09-16, 13:11:57](https://news.ycombinator.com/item?id=49726501) - [I replaced my brown-noise browser tab with a menu bar app](https://oldmanrahul.com/2026/09/14/hush/)
 * [2026-09-16, 13:02:14](https://news.ycombinator.com/item?id=49726350) - [Scaling Golang CI by Replacing actions/setup-go](https://www.cloudx.ai/posts/setup-go)
 * [2026-09-16, 13:01:52](https://news.ycombinator.com/item?id=49726343) - [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/)
 * [2026-09-16, 13:01:09](https://news.ycombinator.com/item?id=49726329) - [ImpactGate: A merge gate that scores the structural decay AI adds](https://github.com/officefloor/ImpactGate)
@@ -33,6 +38,7 @@
 * [2026-09-16, 12:01:09](https://news.ycombinator.com/item?id=49725541) - [Kyber (YC W23) Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer)
 * [2026-09-16, 11:49:40](https://news.ycombinator.com/item?id=49725356) - [Original Sony PlayStation 2 security chip 'broken wide open' after 26 years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
 * [2026-09-16, 11:19:11](https://news.ycombinator.com/item?id=49724927) - [The Google Play app review process now regularly takes longer than a week](https://gultsch.social/@daniel/117280438824908947)
+* [2026-09-16, 11:15:53](https://news.ycombinator.com/item?id=49724881) - [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
 * [2026-09-16, 10:37:08](https://news.ycombinator.com/item?id=49724488) - [Salesforce Global Outage](https://status.salesforce.com/products/all)
 * [2026-09-16, 09:12:34](https://news.ycombinator.com/item?id=49723873) - [Learning Programming in an Age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/)
 * [2026-09-16, 08:08:57](https://news.ycombinator.com/item?id=49723408) - [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
