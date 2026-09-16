@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-09-16, 23:06:39",
+      "https://news.ycombinator.com/item?id=49734264"
+    ],
+    [
+      "OpenSpec – A lightweight and configurable AI spec framework",
+      "https://openspec.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 22:56:48",
+      "https://news.ycombinator.com/item?id=49734171"
+    ],
+    [
+      "Australia says it could follow Canada in forging deeper ties with EU",
+      "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html"
+    ]
+  ],
+  [
+    [
       "2026-09-16, 20:59:24",
       "https://news.ycombinator.com/item?id=49732931"
     ],
     [
       "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "https://arxiv.org/abs/2609.16338"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 20:27:16",
+      "https://news.ycombinator.com/item?id=49732513"
+    ],
+    [
+      "Backups Aren't Simple",
+      "https://filipovski.net/2026/09/16/backups-arent-simple.html"
     ]
   ],
   [
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2026-09-16, 19:53:36",
-      "https://news.ycombinator.com/item?id=49732036"
+      "2026-09-16, 19:56:38",
+      "https://news.ycombinator.com/item?id=49732087"
     ],
     [
-      "macOS 27 Golden Gate – Review",
-      "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/"
+      "Why Does the Universe Expand?",
+      "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-09-16, 16:26:25",
-      "https://news.ycombinator.com/item?id=49729412"
-    ],
-    [
-      "Claude Cowork and chat are now one Claude",
-      "https://claude.com/blog/cowork-is-now-claude"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 15:56:47",
       "https://news.ycombinator.com/item?id=49729000"
     ],
@@ -131,22 +151,32 @@
   ],
   [
     [
-      "2026-09-16, 14:27:47",
-      "https://news.ycombinator.com/item?id=49727580"
-    ],
-    [
-      "A warning about 'model welfare'",
-      "https://mustafa-suleyman.ai/a-warning-about-model-welfare"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 13:44:40",
       "https://news.ycombinator.com/item?id=49726955"
     ],
     [
       "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
       "https://arxiv.org/abs/2609.14858"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 13:18:47",
+      "https://news.ycombinator.com/item?id=49726586"
+    ],
+    [
+      "Hackers Got Inside a Flock Camera",
+      "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 13:11:57",
+      "https://news.ycombinator.com/item?id=49726501"
+    ],
+    [
+      "I replaced my brown-noise browser tab with a menu bar app",
+      "https://oldmanrahul.com/2026/09/14/hush/"
     ]
   ],
   [
@@ -161,6 +191,16 @@
   ],
   [
     [
+      "2026-09-16, 11:15:53",
+      "https://news.ycombinator.com/item?id=49724881"
+    ],
+    [
+      "Nvidia announces native GPU programming in Rust",
+      "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"
+    ]
+  ],
+  [
+    [
       "2026-09-16, 08:08:57",
       "https://news.ycombinator.com/item?id=49723408"
     ],
@@ -171,32 +211,22 @@
   ],
   [
     [
+      "2026-09-15, 22:15:25",
+      "https://news.ycombinator.com/item?id=49719596"
+    ],
+    [
+      "The engineering behind the US Strategic Petroleum Reserve",
+      "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve"
+    ]
+  ],
+  [
+    [
       "2026-09-15, 21:41:42",
       "https://news.ycombinator.com/item?id=49719249"
     ],
     [
       "AWS says it can't restore some data from mideast facilities struck by Iran",
       "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 19:09:09",
-      "https://news.ycombinator.com/item?id=49717298"
-    ],
-    [
-      "The Siberian Ice Maiden and the Scythian World",
-      "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 13:25:38",
-      "https://news.ycombinator.com/item?id=49712185"
-    ],
-    [
-      "How big are factorials?",
-      "https://eli.thegreenplace.net/2026/how-big-are-factorials/"
     ]
   ],
   [
@@ -221,32 +251,12 @@
   ],
   [
     [
-      "2026-09-15, 11:34:45",
-      "https://news.ycombinator.com/item?id=49710968"
+      "2026-09-14, 17:24:19",
+      "https://news.ycombinator.com/item?id=49700598"
     ],
     [
-      "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
-      "https://restarted.io/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 11:28:19",
-      "https://news.ycombinator.com/item?id=49710903"
-    ],
-    [
-      "Tell the speakers that you liked their talks",
-      "https://ohhelloana.blog/tell-the-speakers/"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 16:21:10",
-      "https://news.ycombinator.com/item?id=49699477"
-    ],
-    [
-      "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
-      "https://attalambda.com"
+      "Destroy After Reading: photocopiers,cheap paper and DIY gave metal it's look",
+      "https://www.truegrittexturesupply.com/blogs/news/destroy-after-reading"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Anecdotally, programmers dislike \"reduce\"",
       "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 21:49:19",
-      "https://news.ycombinator.com/item?id=49689062"
-    ],
-    [
-      "Douglas Adams and the exterminated Doctor Who adventure",
-      "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo"
     ]
   ],
   [
