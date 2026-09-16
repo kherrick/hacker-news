@@ -10,6 +10,7 @@
 * [2026-09-13, 23:07:37](https://news.ycombinator.com/item?id=49689685) - [Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)](https://publicdomainreview.org/collection/atlantic-city-sand-sculpture/)
 * [2026-09-13, 23:05:13](https://news.ycombinator.com/item?id=49689664) - [It's All Fun and Games Until You Give AI Your Credit Card](https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/)
 * [2026-09-13, 22:38:18](https://news.ycombinator.com/item?id=49689460) - [The contagion of fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
+* [2026-09-13, 21:49:19](https://news.ycombinator.com/item?id=49689062) - [Douglas Adams and the exterminated Doctor Who adventure](https://www.bbc.co.uk/news/articles/c8jdp38z4jgo)
 * [2026-09-13, 21:47:04](https://news.ycombinator.com/item?id=49689048) - [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
 * [2026-09-13, 21:13:43](https://news.ycombinator.com/item?id=49688766) - [Why is privacy so hard?](https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/)
 * [2026-09-13, 21:13:13](https://news.ycombinator.com/item?id=49688761) - [Ask HN: In The Matrix, the bad guys are the 'agents'. Coincidence? Clairvoyance?](https://news.ycombinator.com/item?id=49688761)

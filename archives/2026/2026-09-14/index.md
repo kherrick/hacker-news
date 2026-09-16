@@ -41,6 +41,7 @@
 * [2026-09-14, 14:29:23](https://news.ycombinator.com/item?id=49697477) - [Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/)
 * [2026-09-14, 14:04:53](https://news.ycombinator.com/item?id=49697094) - [Adversarial Fashion Makes a Statement on AI Panopticon](https://spectrum.ieee.org/adversarial-fashion)
 * [2026-09-14, 13:59:09](https://news.ycombinator.com/item?id=49697014) - [Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama](https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/)
+* [2026-09-14, 13:58:05](https://news.ycombinator.com/item?id=49696995) - [We do modern frequentist statistics: Using fake-data simulation](https://statmodeling.stat.columbia.edu/2026/09/14/this-is-modern-frequentist-statistics-using-fake-data-simulation-to-understand/)
 * [2026-09-14, 13:38:58](https://news.ycombinator.com/item?id=49696697) - [Ubuntu 26.10 completes transition to Rust-based coreutils](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
 * [2026-09-14, 13:23:53](https://news.ycombinator.com/item?id=49696453) - [People who can't picture anything are rewriting the science of imagination](https://dailyneuron.com/aphantasia-mental-imagery-brain-network/)
 * [2026-09-14, 13:20:22](https://news.ycombinator.com/item?id=49696402) - [Show HN: Pelican-bicycle alternatives (updated for 2026)](https://gally.net/temp/20260914pelican-alternatives/index.html)

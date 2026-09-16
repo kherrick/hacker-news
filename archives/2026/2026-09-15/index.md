@@ -34,6 +34,7 @@
 * [2026-09-15, 13:58:37](https://news.ycombinator.com/item?id=49712621) - [Show HN: Panel – A research workspace where the agent can build its own panes](https://github.com/greentfrapp/panel)
 * [2026-09-15, 13:31:40](https://news.ycombinator.com/item?id=49712278) - [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/)
 * [2026-09-15, 13:31:37](https://news.ycombinator.com/item?id=49712276) - [Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks](https://github.com/ordewell/ordewell)
+* [2026-09-15, 13:25:38](https://news.ycombinator.com/item?id=49712185) - [How Big Are Factorials?](https://eli.thegreenplace.net/2026/how-big-are-factorials/)
 * [2026-09-15, 13:20:24](https://news.ycombinator.com/item?id=49712102) - [Show HN: Hacking a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/)
 * [2026-09-15, 13:13:43](https://news.ycombinator.com/item?id=49712041) - [Java 27](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/)
 * [2026-09-15, 12:31:10](https://news.ycombinator.com/item?id=49711544) - [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
