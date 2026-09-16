@@ -1,12 +1,72 @@
 [
   [
     [
-      "2026-09-16, 14:30:36",
-      "https://news.ycombinator.com/item?id=49727627"
+      "2026-09-16, 17:27:37",
+      "https://news.ycombinator.com/item?id=49730239"
     ],
     [
-      "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-      "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/"
+      "ER visits for gambling disorders doubled after expanded online gambling market",
+      "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 16:26:25",
+      "https://news.ycombinator.com/item?id=49729412"
+    ],
+    [
+      "Claude Cowork and chat are now one Claude",
+      "https://claude.com/blog/cowork-is-now-claude"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 16:13:55",
+      "https://news.ycombinator.com/item?id=49729228"
+    ],
+    [
+      "This Code Is CRAP (2011)",
+      "https://testing.googleblog.com/2011/02/this-code-is-crap.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 15:56:47",
+      "https://news.ycombinator.com/item?id=49729000"
+    ],
+    [
+      "Small Programming Tricks",
+      "https://will-keleher.com/posts/small-programming-tricks-matter/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 15:40:04",
+      "https://news.ycombinator.com/item?id=49728733"
+    ],
+    [
+      "Can we stop with the uptime percentages?",
+      "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 14:32:11",
+      "https://news.ycombinator.com/item?id=49727659"
+    ],
+    [
+      "The DeepMind Institute",
+      "https://institute.deepmind.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 14:28:28",
+      "https://news.ycombinator.com/item?id=49727592"
+    ],
+    [
+      "Anatomy of a Texture",
+      "https://agentlien.github.io/texture/"
     ]
   ],
   [
@@ -17,26 +77,6 @@
     [
       "A warning about 'model welfare'",
       "https://mustafa-suleyman.ai/a-warning-about-model-welfare"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 14:20:06",
-      "https://news.ycombinator.com/item?id=49727463"
-    ],
-    [
-      "We know what a world without work looks like",
-      "https://asteriskmag.substack.com/p/we-already-know-what-a-world-without"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 13:51:15",
-      "https://news.ycombinator.com/item?id=49727041"
-    ],
-    [
-      "OpenAI expands ChatGPT ads with Sponsored Agents",
-      "https://openai.com/index/reimagining-advertising-with-ai/"
     ]
   ],
   [
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=49726586"
     ],
     [
-      "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+      "Hackers Got Inside a Flock Camera",
       "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/"
     ]
   ],
@@ -77,26 +117,6 @@
     [
       "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
       "https://stale.jock.pl/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 13:01:09",
-      "https://news.ycombinator.com/item?id=49726329"
-    ],
-    [
-      "ImpactGate: A merge gate that scores the structural decay AI adds",
-      "https://github.com/officefloor/ImpactGate"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 12:19:55",
-      "https://news.ycombinator.com/item?id=49725800"
-    ],
-    [
-      "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-      "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model"
     ]
   ],
   [
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2026-09-16, 05:43:44",
-      "https://news.ycombinator.com/item?id=49722521"
-    ],
-    [
-      "A software thing I built: GPS on a 25MHz 486-SX",
-      "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 02:07:31",
       "https://news.ycombinator.com/item?id=49721322"
     ],
     [
       "Apple Reference Image: A New Approach for Verified Photography",
       "https://security.apple.com/blog/apple-reference-image/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 21:07:47",
-      "https://news.ycombinator.com/item?id=49718928"
-    ],
-    [
-      "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html"
     ]
   ],
   [
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2026-09-15, 17:52:18",
-      "https://news.ycombinator.com/item?id=49716176"
+      "2026-09-15, 19:09:09",
+      "https://news.ycombinator.com/item?id=49717298"
     ],
     [
-      "An update on Wayback Machine access",
-      "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/"
+      "The Siberian Ice Maiden and the Scythian World",
+      "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=49712185"
     ],
     [
-      "How Big Are Factorials?",
+      "How big are factorials?",
       "https://eli.thegreenplace.net/2026/how-big-are-factorials/"
     ]
   ],
@@ -251,6 +251,26 @@
   ],
   [
     [
+      "2026-09-15, 11:28:19",
+      "https://news.ycombinator.com/item?id=49710903"
+    ],
+    [
+      "Tell the speakers that you liked their talks",
+      "https://ohhelloana.blog/tell-the-speakers/"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 10:14:29",
+      "https://news.ycombinator.com/item?id=49710201"
+    ],
+    [
+      "Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling",
+      "https://loiseaujc.github.io/posts/blog-title/make_gauss_seidel_great_again.html"
+    ]
+  ],
+  [
+    [
       "2026-09-15, 00:01:31",
       "https://news.ycombinator.com/item?id=49705944"
     ],
@@ -261,22 +281,12 @@
   ],
   [
     [
-      "2026-09-14, 13:58:05",
-      "https://news.ycombinator.com/item?id=49696995"
+      "2026-09-14, 14:58:26",
+      "https://news.ycombinator.com/item?id=49698036"
     ],
     [
-      "We do modern frequentist statistics: Using fake-data simulation",
-      "https://statmodeling.stat.columbia.edu/2026/09/14/this-is-modern-frequentist-statistics-using-fake-data-simulation-to-understand/"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 09:16:39",
-      "https://news.ycombinator.com/item?id=49694035"
-    ],
-    [
-      "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "https://arxiv.org/abs/2511.07885"
+      "Anecdotally, Programmers Dislike \"Reduce\"",
+      "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: I made a flight simulator, except you're just a passenger",
       "https://inflightsimulator.com"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 21:49:19",
-      "https://news.ycombinator.com/item?id=49689062"
-    ],
-    [
-      "Douglas Adams and the exterminated Doctor Who adventure",
-      "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo"
     ]
   ]
 ]
