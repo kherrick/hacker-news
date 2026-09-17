@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-09-17, 20:17:48",
+      "https://news.ycombinator.com/item?id=49745940"
+    ],
+    [
+      "Astra for Law",
+      "https://openai.com/index/astra-for-law/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 19:43:34",
+      "https://news.ycombinator.com/item?id=49745570"
+    ],
+    [
+      "Everybody's Lost Their Minds",
+      "https://www.netmeister.org/blog/everybodys-lost-their-minds.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 19:16:46",
+      "https://news.ycombinator.com/item?id=49745266"
+    ],
+    [
+      "Don't Just Say Hello",
+      "https://nohello.net/en/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 18:32:50",
+      "https://news.ycombinator.com/item?id=49744715"
+    ],
+    [
+      "Canto: A speech model built for the real world",
+      "https://wisprflow.ai/canto"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 18:16:38",
+      "https://news.ycombinator.com/item?id=49744530"
+    ],
+    [
+      "Don't Make Job Referrals Public",
+      "https://blog.melashri.net/micro/public-job-referral/"
+    ]
+  ],
+  [
+    [
       "2026-09-17, 17:00:59",
       "https://news.ycombinator.com/item?id=49743567"
     ],
@@ -11,22 +61,22 @@
   ],
   [
     [
-      "2026-09-17, 16:54:57",
-      "https://news.ycombinator.com/item?id=49743478"
+      "2026-09-17, 16:55:14",
+      "https://news.ycombinator.com/item?id=49743483"
     ],
     [
-      "Show HN: AutoBot – live voice control for long-running AI work",
-      "https://github.com/demeyer1/Autobot"
+      "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "https://arxiv.org/abs/2609.18842"
     ]
   ],
   [
     [
-      "2026-09-17, 16:48:17",
-      "https://news.ycombinator.com/item?id=49743382"
+      "2026-09-17, 16:53:51",
+      "https://news.ycombinator.com/item?id=49743459"
     ],
     [
-      "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
-      "https://www.aclif.ai/"
+      "Show HN: Craigslist for agent skills, curated by a human",
+      "https://skillbay.sh/"
     ]
   ],
   [
@@ -35,7 +85,7 @@
       "https://news.ycombinator.com/item?id=49743097"
     ],
     [
-      "hister",
+      "Hister: A private search engine for the pages you visit and the files you keep",
       "https://github.com/asciimoo/hister"
     ]
   ],
@@ -71,16 +121,6 @@
   ],
   [
     [
-      "2026-09-17, 15:40:19",
-      "https://news.ycombinator.com/item?id=49742439"
-    ],
-    [
-      "Vinix – A modern operating system written in V",
-      "https://vinix-os.org/"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 15:40:17",
       "https://news.ycombinator.com/item?id=49742437"
     ],
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2026-09-17, 15:13:30",
-      "https://news.ycombinator.com/item?id=49742021"
-    ],
-    [
-      "Artificial intelligence now beats some of the best human forecasters",
-      "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 13:12:28",
       "https://news.ycombinator.com/item?id=49740260"
     ],
@@ -137,26 +167,6 @@
     [
       "Show HN: Share your AI Setup, Learn from others",
       "https://mysetup.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 12:57:09",
-      "https://news.ycombinator.com/item?id=49740047"
-    ],
-    [
-      "Show HN: I built a new version of my fun spatial 3D online meeting app",
-      "https://flat.social"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 10:30:52",
-      "https://news.ycombinator.com/item?id=49738766"
-    ],
-    [
-      "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-      "https://manticoresearch.com/blog/auto-chunking/"
     ]
   ],
   [
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=49737849"
     ],
     [
-      "One Year of Sponsored Servo Development",
+      "One year of sponsored Servo development",
       "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-09-17, 03:03:23",
-      "https://news.ycombinator.com/item?id=49735930"
-    ],
-    [
-      "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "https://ryan.science/blog/keys-not-included"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 00:28:33",
       "https://news.ycombinator.com/item?id=49734929"
     ],
@@ -221,22 +221,12 @@
   ],
   [
     [
-      "2026-09-16, 11:15:53",
-      "https://news.ycombinator.com/item?id=49724881"
+      "2026-09-16, 12:35:14",
+      "https://news.ycombinator.com/item?id=49726007"
     ],
     [
-      "Nvidia announces native GPU programming in Rust",
-      "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 22:30:30",
-      "https://news.ycombinator.com/item?id=49719751"
-    ],
-    [
-      "Lucasart's Afterlife",
-      "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/"
+      "Wax motor",
+      "https://en.wikipedia.org/wiki/Wax_motor"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
       "https://jakeasmith.com/blog/http-build-url/"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 17:37:41",
+      "https://news.ycombinator.com/item?id=49715936"
+    ],
+    [
+      "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
+      "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-09-15, 04:17:53",
-      "https://news.ycombinator.com/item?id=49707643"
+      "2026-09-15, 15:31:55",
+      "https://news.ycombinator.com/item?id=49714096"
     ],
     [
-      "Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo",
-      "https://guides.visual-paradigm.com/mastering-graphviz-layout-engines-dot-neato-twopi-circo/"
+      "TSMC revealing details about next gen A14 node",
+      "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-09-13, 16:38:22",
-      "https://news.ycombinator.com/item?id=49685835"
+      "2026-09-12, 11:13:14",
+      "https://news.ycombinator.com/item?id=49671157"
     ],
     [
-      "The Relation Between Mathematics and Physics by Paul Dirac (1939)",
-      "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html"
+      "André Weil and the Hodge Conjecture",
+      "https://jiahao116.github.io/Articles/"
     ]
   ]
 ]
