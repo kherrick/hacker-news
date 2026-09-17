@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-09-17](index.md)
 
+* [2026-09-17, 20:17:48](https://news.ycombinator.com/item?id=49745940) - [Astra for Law](https://openai.com/index/astra-for-law/)
+* [2026-09-17, 19:43:34](https://news.ycombinator.com/item?id=49745570) - [Everybody's Lost Their Minds](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)
+* [2026-09-17, 19:16:46](https://news.ycombinator.com/item?id=49745266) - [Don't Just Say Hello](https://nohello.net/en/)
+* [2026-09-17, 18:32:50](https://news.ycombinator.com/item?id=49744715) - [Canto: A speech model built for the real world](https://wisprflow.ai/canto)
+* [2026-09-17, 18:16:38](https://news.ycombinator.com/item?id=49744530) - [Don't Make Job Referrals Public](https://blog.melashri.net/micro/public-job-referral/)
 * [2026-09-17, 17:00:59](https://news.ycombinator.com/item?id=49743567) - [Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI](https://zscc.ai/careers?job_id=109821)
+* [2026-09-17, 16:55:14](https://news.ycombinator.com/item?id=49743483) - [Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data](https://arxiv.org/abs/2609.18842)
 * [2026-09-17, 16:54:57](https://news.ycombinator.com/item?id=49743478) - [Show HN: AutoBot – live voice control for long-running AI work](https://github.com/demeyer1/Autobot)
+* [2026-09-17, 16:53:51](https://news.ycombinator.com/item?id=49743459) - [Show HN: Craigslist for agent skills, curated by a human](https://skillbay.sh/)
 * [2026-09-17, 16:48:17](https://news.ycombinator.com/item?id=49743382) - [Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS](https://www.aclif.ai/)
 * [2026-09-17, 16:25:37](https://news.ycombinator.com/item?id=49743097) - [hister](https://github.com/asciimoo/hister)
 * [2026-09-17, 16:22:15](https://news.ycombinator.com/item?id=49743049) - [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](https://news.ycombinator.com/item?id=49743049)

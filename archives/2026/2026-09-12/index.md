@@ -43,6 +43,7 @@
 * [2026-09-12, 11:37:22](https://news.ycombinator.com/item?id=49671296) - [Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
 * [2026-09-12, 11:27:55](https://news.ycombinator.com/item?id=49671237) - [How Trail of Bits helps verify the integrity of Signal chats](https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/)
 * [2026-09-12, 11:13:38](https://news.ycombinator.com/item?id=49671159) - [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
+* [2026-09-12, 11:13:14](https://news.ycombinator.com/item?id=49671157) - [André Weil and the Hodge Conjecture](https://jiahao116.github.io/Articles/)
 * [2026-09-12, 10:49:22](https://news.ycombinator.com/item?id=49671043) - [AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All](https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825)
 * [2026-09-12, 10:39:03](https://news.ycombinator.com/item?id=49670981) - [We've followed their lives for six decades; now the stars of 7 Up are bowing out](https://www.bbc.co.uk/news/articles/crm932el3yjo)
 * [2026-09-12, 10:13:24](https://news.ycombinator.com/item?id=49670852) - [An atlas of periodic solutions to the three-body problem](https://www.threebodyorbits.com/)

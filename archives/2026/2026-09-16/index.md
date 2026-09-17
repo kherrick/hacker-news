@@ -36,6 +36,7 @@
 * [2026-09-16, 13:02:14](https://news.ycombinator.com/item?id=49726350) - [Scaling Golang CI by Replacing actions/setup-go](https://www.cloudx.ai/posts/setup-go)
 * [2026-09-16, 13:01:52](https://news.ycombinator.com/item?id=49726343) - [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/)
 * [2026-09-16, 13:01:09](https://news.ycombinator.com/item?id=49726329) - [ImpactGate: A merge gate that scores the structural decay AI adds](https://github.com/officefloor/ImpactGate)
+* [2026-09-16, 12:35:14](https://news.ycombinator.com/item?id=49726007) - [Wax motor](https://en.wikipedia.org/wiki/Wax_motor)
 * [2026-09-16, 12:19:55](https://news.ycombinator.com/item?id=49725800) - [DeepSeek v4.1 Flash Is Now Our Best Hacking Model](https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model)
 * [2026-09-16, 12:01:09](https://news.ycombinator.com/item?id=49725541) - [Kyber (YC W23) Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer)
 * [2026-09-16, 11:49:40](https://news.ycombinator.com/item?id=49725356) - [Original Sony PlayStation 2 security chip 'broken wide open' after 26 years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
