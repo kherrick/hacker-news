@@ -6,6 +6,7 @@
 
 * [2026-09-15, 23:17:20](https://news.ycombinator.com/item?id=49720164) - [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
 * [2026-09-15, 22:50:55](https://news.ycombinator.com/item?id=49719938) - [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
+* [2026-09-15, 22:30:30](https://news.ycombinator.com/item?id=49719751) - [Lucasart's Afterlife](https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/)
 * [2026-09-15, 22:15:25](https://news.ycombinator.com/item?id=49719596) - [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve)
 * [2026-09-15, 21:41:42](https://news.ycombinator.com/item?id=49719249) - [AWS says it can't restore some data from mideast facilities struck by Iran](https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d)
 * [2026-09-15, 21:07:47](https://news.ycombinator.com/item?id=49718928) - [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
@@ -24,6 +25,7 @@
 * [2026-09-15, 17:52:18](https://news.ycombinator.com/item?id=49716176) - [An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)
 * [2026-09-15, 17:38:18](https://news.ycombinator.com/item?id=49715947) - [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)
 * [2026-09-15, 17:37:12](https://news.ycombinator.com/item?id=49715927) - [Why I'm still bearish on LLMs after Navier-Stokes](https://dank.systems/posts/2026-09-15-ai-bear.html)
+* [2026-09-15, 17:28:38](https://news.ycombinator.com/item?id=49715813) - [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
 * [2026-09-15, 17:12:19](https://news.ycombinator.com/item?id=49715590) - [GEFS on OpenBSD: A Early Preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
 * [2026-09-15, 17:00:31](https://news.ycombinator.com/item?id=49715446) - [Jiga (YC W21) Is Hiring Product Engineer (Remote/US)](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd)
 * [2026-09-15, 16:52:25](https://news.ycombinator.com/item?id=49715318) - [Comparison of Malloc() Algorithms](https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html)
@@ -32,6 +34,7 @@
 * [2026-09-15, 15:56:14](https://news.ycombinator.com/item?id=49714495) - [Show HN: Go Bindings for SCIP Optimizer](https://github.com/egoisutolabs/scipgo)
 * [2026-09-15, 15:26:45](https://news.ycombinator.com/item?id=49713999) - [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian)
 * [2026-09-15, 15:20:26](https://news.ycombinator.com/item?id=49713894) - [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot)
+* [2026-09-15, 14:45:08](https://news.ycombinator.com/item?id=49713347) - [Online Z3 Guide](https://microsoft.github.io/z3guide/)
 * [2026-09-15, 14:44:33](https://news.ycombinator.com/item?id=49713337) - [Closing the IPv6 First-Packet Gap with Grand](https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/)
 * [2026-09-15, 14:40:08](https://news.ycombinator.com/item?id=49713262) - [The CSS Zen Garden dream shipped](https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/)
 * [2026-09-15, 14:40:05](https://news.ycombinator.com/item?id=49713261) - [What we have learned at OpenShell applying formal methods to control AI agents](https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/)

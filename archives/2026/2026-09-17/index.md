@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-09-17](index.md)
 
+* [2026-09-17, 12:57:09](https://news.ycombinator.com/item?id=49740047) - [Show HN: I built a new version of my fun spatial 3D online meeting app](https://flat.social)
+* [2026-09-17, 11:00:35](https://news.ycombinator.com/item?id=49739018) - [Iran school bombing: grounds to believe US was behind atrocity, UN finds](https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack)
+* [2026-09-17, 10:44:49](https://news.ycombinator.com/item?id=49738879) - [Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)
+* [2026-09-17, 10:30:52](https://news.ycombinator.com/item?id=49738766) - [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
+* [2026-09-17, 08:27:09](https://news.ycombinator.com/item?id=49737922) - [GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)
+* [2026-09-17, 08:13:54](https://news.ycombinator.com/item?id=49737849) - [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+* [2026-09-17, 08:03:54](https://news.ycombinator.com/item?id=49737787) - [CCC invites all model citizens to 40C3](https://events.ccc.de/en/2026/09/12/40c3-model-citizens/)
 * [2026-09-17, 04:36:55](https://news.ycombinator.com/item?id=49736466) - [Cloudflare/Security-Audit-Skill](https://github.com/cloudflare/security-audit-skill)
 * [2026-09-17, 03:12:05](https://news.ycombinator.com/item?id=49735979) - [Jev Ultrafast: A browser agent with a dynamic, indexed action space](https://github.com/browser-use/jev-ultrafast)
 * [2026-09-17, 03:03:23](https://news.ycombinator.com/item?id=49735930) - [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)

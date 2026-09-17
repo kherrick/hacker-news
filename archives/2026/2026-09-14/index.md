@@ -60,6 +60,7 @@
 * [2026-09-14, 12:01:31](https://news.ycombinator.com/item?id=49695408) - [Show HN: Kinesis – Control your Mac with the Meta Neural Band](https://github.com/callbacked/kinesis)
 * [2026-09-14, 11:55:44](https://news.ycombinator.com/item?id=49695331) - [High-performance garbage collection for C++](https://v8.dev/blog/high-performance-cpp-gc)
 * [2026-09-14, 10:22:33](https://news.ycombinator.com/item?id=49694547) - [How Is Compression Prediction?](https://lukefleed.xyz/posts/compression/)
+* [2026-09-14, 10:08:35](https://news.ycombinator.com/item?id=49694444) - [An Archive of Colour Gradients](https://phillips.shef.ac.uk/pub/cpt-city/)
 * [2026-09-14, 10:01:05](https://news.ycombinator.com/item?id=49694382) - [A Man Archiving Pirate Radio Station Kool FM](https://londonist.com/london/music/kool-fm-archives)
 * [2026-09-14, 09:53:34](https://news.ycombinator.com/item?id=49694311) - [Pkgsrc Is Cool (2022)](https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/)
 * [2026-09-14, 09:51:50](https://news.ycombinator.com/item?id=49694296) - [XCancel service is suspended until further notice](https://xcancel.com/#)
