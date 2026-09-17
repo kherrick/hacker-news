@@ -14,6 +14,7 @@
 * [2026-09-15, 19:30:03](https://news.ycombinator.com/item?id=49717638) - [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/)
 * [2026-09-15, 19:27:35](https://news.ycombinator.com/item?id=49717605) - [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang)
 * [2026-09-15, 19:25:03](https://news.ycombinator.com/item?id=49717558) - [Jev: New frontier model 40-400x cheaper and 20-200x faster](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+* [2026-09-15, 19:22:48](https://news.ycombinator.com/item?id=49717525) - [Mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps](https://www.danvk.org/2026/09/10/mapsnap.html)
 * [2026-09-15, 19:09:09](https://news.ycombinator.com/item?id=49717298) - [The Siberian Ice Maiden and the Scythian World](https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian)
 * [2026-09-15, 19:07:38](https://news.ycombinator.com/item?id=49717280) - [Learning to solve hard problems in RL for LLMs by never giving up](https://mnoukhov.github.io/posts/ngu/)
 * [2026-09-15, 18:45:31](https://news.ycombinator.com/item?id=49716953) - [Chop Up Your Books](https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html)

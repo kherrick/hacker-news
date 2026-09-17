@@ -19,6 +19,7 @@
 * [2026-09-14, 17:16:06](https://news.ycombinator.com/item?id=49700477) - [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
 * [2026-09-14, 17:02:34](https://news.ycombinator.com/item?id=49700255) - [Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%](https://blog.cloudflare.com/automatic-key-exchange-for-origins/)
 * [2026-09-14, 17:00:53](https://news.ycombinator.com/item?id=49700218) - [Cua (YC P25) Is Hiring a Founding Technical GTM Lead](https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead)
+* [2026-09-14, 16:57:50](https://news.ycombinator.com/item?id=49700153) - [Developing provably correct Rust code with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus)
 * [2026-09-14, 16:32:23](https://news.ycombinator.com/item?id=49699648) - [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)
 * [2026-09-14, 16:29:30](https://news.ycombinator.com/item?id=49699590) - [When LLM judges agree, should we believe them?](https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them)
 * [2026-09-14, 16:26:03](https://news.ycombinator.com/item?id=49699526) - [Hacking AI customer service agents](https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents)

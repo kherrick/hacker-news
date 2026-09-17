@@ -6,6 +6,7 @@
 
 * [2026-09-16, 23:06:39](https://news.ycombinator.com/item?id=49734264) - [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
 * [2026-09-16, 22:56:48](https://news.ycombinator.com/item?id=49734171) - [Australia says it could follow Canada in forging deeper ties with EU](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html)
+* [2026-09-16, 22:10:13](https://news.ycombinator.com/item?id=49733726) - [HarnessTax: How Much Does the Harness Matter for Coding Agents?](https://harnesstax.github.io/)
 * [2026-09-16, 20:59:24](https://news.ycombinator.com/item?id=49732931) - [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
 * [2026-09-16, 20:27:16](https://news.ycombinator.com/item?id=49732513) - [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
 * [2026-09-16, 20:09:18](https://news.ycombinator.com/item?id=49732270) - [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
