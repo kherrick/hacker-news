@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-09-17, 21:48:38",
+      "https://news.ycombinator.com/item?id=49747070"
+    ],
+    [
+      "How to Write with an LLM",
+      "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 21:15:52",
+      "https://news.ycombinator.com/item?id=49746654"
+    ],
+    [
+      "Sex, AI, and the Apocalypse",
+      "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 21:14:32",
+      "https://news.ycombinator.com/item?id=49746628"
+    ],
+    [
+      "How Uber Protects Against Retry Storms",
+      "https://www.uber.com/us/en/blog/protecting-against-retry-storms/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 21:13:31",
+      "https://news.ycombinator.com/item?id=49746618"
+    ],
+    [
+      "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "https://prismml.com/news/bonsai-2-27b"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 20:52:36",
+      "https://news.ycombinator.com/item?id=49746407"
+    ],
+    [
+      "The most important product decision is what you don't build",
+      "https://liamnugent.me/posts/what-you-dont-build/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 20:48:04",
+      "https://news.ycombinator.com/item?id=49746346"
+    ],
+    [
+      "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+      "https://snapdrop.me"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 20:44:28",
+      "https://news.ycombinator.com/item?id=49746290"
+    ],
+    [
+      "Flet 1.0 – Build cross-platform apps in Python",
+      "https://flet.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 20:36:13",
+      "https://news.ycombinator.com/item?id=49746163"
+    ],
+    [
+      "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "https://bend-lang.com/"
+    ]
+  ],
+  [
+    [
       "2026-09-17, 20:17:48",
       "https://news.ycombinator.com/item?id=49745940"
     ],
@@ -21,32 +101,12 @@
   ],
   [
     [
-      "2026-09-17, 19:16:46",
-      "https://news.ycombinator.com/item?id=49745266"
-    ],
-    [
-      "Don't Just Say Hello",
-      "https://nohello.net/en/"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 18:32:50",
       "https://news.ycombinator.com/item?id=49744715"
     ],
     [
       "Canto: A speech model built for the real world",
       "https://wisprflow.ai/canto"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 18:16:38",
-      "https://news.ycombinator.com/item?id=49744530"
-    ],
-    [
-      "Don't Make Job Referrals Public",
-      "https://blog.melashri.net/micro/public-job-referral/"
     ]
   ],
   [
@@ -61,22 +121,22 @@
   ],
   [
     [
+      "2026-09-17, 16:58:31",
+      "https://news.ycombinator.com/item?id=49743527"
+    ],
+    [
+      "Towards Self-Driving Codebases",
+      "https://blog.detail.dev/posts/towards-self-driving-codebases/"
+    ]
+  ],
+  [
+    [
       "2026-09-17, 16:55:14",
       "https://news.ycombinator.com/item?id=49743483"
     ],
     [
       "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
       "https://arxiv.org/abs/2609.18842"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 16:53:51",
-      "https://news.ycombinator.com/item?id=49743459"
-    ],
-    [
-      "Show HN: Craigslist for agent skills, curated by a human",
-      "https://skillbay.sh/"
     ]
   ],
   [
@@ -97,36 +157,6 @@
     [
       "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
       "https://news.ycombinator.com/item?id=49743049"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 16:17:28",
-      "https://news.ycombinator.com/item?id=49742976"
-    ],
-    [
-      "Ask HN: How to recover Google auth after phone stolen?",
-      "https://news.ycombinator.com/item?id=49742976"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 15:59:37",
-      "https://news.ycombinator.com/item?id=49742714"
-    ],
-    [
-      "Whoisinspace.com/",
-      "https://whoisinspace.com"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 15:40:17",
-      "https://news.ycombinator.com/item?id=49742437"
-    ],
-    [
-      "LLM Classification Is Feature Engineering",
-      "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/"
     ]
   ],
   [
@@ -157,16 +187,6 @@
     [
       "The American Religion of Self-Storage Facilities",
       "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 13:01:44",
-      "https://news.ycombinator.com/item?id=49740105"
-    ],
-    [
-      "Show HN: Share your AI Setup, Learn from others",
-      "https://mysetup.ai/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-09-17, 00:28:33",
-      "https://news.ycombinator.com/item?id=49734929"
-    ],
-    [
-      "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-      "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 12:35:14",
       "https://news.ycombinator.com/item?id=49726007"
     ],
     [
       "Wax motor",
       "https://en.wikipedia.org/wiki/Wax_motor"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 20:53:36",
-      "https://news.ycombinator.com/item?id=49718773"
-    ],
-    [
-      "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
-      "https://jakeasmith.com/blog/http-build-url/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-09-15, 15:37:55",
-      "https://news.ycombinator.com/item?id=49714196"
-    ],
-    [
-      "Grand MS-DOS Gaming General MIDI Showdown",
-      "https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 15:31:55",
       "https://news.ycombinator.com/item?id=49714096"
     ],
     [
       "TSMC revealing details about next gen A14 node",
       "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 10:46:24",
+      "https://news.ycombinator.com/item?id=49710447"
+    ],
+    [
+      "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "https://www.sci.news/paleontology/spanish-diplodocus-15064.html"
     ]
   ],
   [
