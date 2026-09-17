@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-09-17, 12:57:09",
+      "https://news.ycombinator.com/item?id=49740047"
+    ],
+    [
+      "Show HN: I built a new version of my fun spatial 3D online meeting app",
+      "https://flat.social"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 11:00:35",
+      "https://news.ycombinator.com/item?id=49739018"
+    ],
+    [
+      "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+      "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 10:44:49",
+      "https://news.ycombinator.com/item?id=49738879"
+    ],
+    [
+      "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "https://news.ycombinator.com/item?id=49738879"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 10:30:52",
+      "https://news.ycombinator.com/item?id=49738766"
+    ],
+    [
+      "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+      "https://manticoresearch.com/blog/auto-chunking/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 08:27:09",
+      "https://news.ycombinator.com/item?id=49737922"
+    ],
+    [
+      "GLM Built Its Own Inference Infrastructure",
+      "https://z.ai/blog/glm-built-its-inference-infrastructure"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 08:13:54",
+      "https://news.ycombinator.com/item?id=49737849"
+    ],
+    [
+      "One Year of Sponsored Servo Development",
+      "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 08:03:54",
+      "https://news.ycombinator.com/item?id=49737787"
+    ],
+    [
+      "CCC invites all model citizens to 40C3",
+      "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/"
+    ]
+  ],
+  [
+    [
       "2026-09-17, 04:36:55",
       "https://news.ycombinator.com/item?id=49736466"
     ],
@@ -11,52 +81,12 @@
   ],
   [
     [
-      "2026-09-17, 03:12:05",
-      "https://news.ycombinator.com/item?id=49735979"
-    ],
-    [
-      "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
-      "https://github.com/browser-use/jev-ultrafast"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 03:03:23",
       "https://news.ycombinator.com/item?id=49735930"
     ],
     [
       "Keys Not Included: recovering the signing keys for US driver's license barcodes",
       "https://ryan.science/blog/keys-not-included"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 01:33:10",
-      "https://news.ycombinator.com/item?id=49735367"
-    ],
-    [
-      "Part-human part-mouse brain developed in science breakthrough",
-      "https://www.bbc.com/news/articles/c60m3k28j81mo"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 00:28:33",
-      "https://news.ycombinator.com/item?id=49734929"
-    ],
-    [
-      "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-      "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 23:25:17",
-      "https://news.ycombinator.com/item?id=49734409"
-    ],
-    [
-      "US interest rates raised for first time in three years",
-      "https://www.bbc.com/news/articles/cw4gmlyvj422o"
     ]
   ],
   [
@@ -121,42 +151,12 @@
   ],
   [
     [
-      "2026-09-16, 18:49:57",
-      "https://news.ycombinator.com/item?id=49731282"
-    ],
-    [
-      "Reverse-engineered Jev-like model",
-      "https://github.com/vinnylarouge/jevlike"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 15:56:47",
       "https://news.ycombinator.com/item?id=49729000"
     ],
     [
       "Small programming tricks",
       "https://will-keleher.com/posts/small-programming-tricks-matter/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 14:28:28",
-      "https://news.ycombinator.com/item?id=49727592"
-    ],
-    [
-      "Anatomy of a Texture",
-      "https://agentlien.github.io/texture/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 13:44:40",
-      "https://news.ycombinator.com/item?id=49726955"
-    ],
-    [
-      "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "https://arxiv.org/abs/2609.14858"
     ]
   ],
   [
@@ -177,6 +177,16 @@
     [
       "A 32-year-old bug walks into a Telnet server",
       "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 22:30:30",
+      "https://news.ycombinator.com/item?id=49719751"
+    ],
+    [
+      "Lucasart's Afterlife",
+      "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/"
     ]
   ],
   [
@@ -211,12 +221,32 @@
   ],
   [
     [
+      "2026-09-15, 17:28:38",
+      "https://news.ycombinator.com/item?id=49715813"
+    ],
+    [
+      "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "https://global.fujitsu/en-global/pr/news/2026/09/14-02"
+    ]
+  ],
+  [
+    [
       "2026-09-15, 16:52:25",
       "https://news.ycombinator.com/item?id=49715318"
     ],
     [
       "Comparison of Malloc() Algorithms",
       "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 14:45:08",
+      "https://news.ycombinator.com/item?id=49713347"
+    ],
+    [
+      "Online Z3 Guide",
+      "https://microsoft.github.io/z3guide/"
     ]
   ],
   [
@@ -251,22 +281,12 @@
   ],
   [
     [
-      "2026-09-14, 12:25:24",
-      "https://news.ycombinator.com/item?id=49695689"
+      "2026-09-14, 10:08:35",
+      "https://news.ycombinator.com/item?id=49694444"
     ],
     [
-      "PCB is brought to you by Fable 5",
-      "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 06:46:26",
-      "https://news.ycombinator.com/item?id=49692844"
-    ],
-    [
-      "Anecdotally, programmers dislike \"reduce\"",
-      "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/"
+      "An Archive of Colour Gradients",
+      "https://phillips.shef.ac.uk/pub/cpt-city/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "The Relation Between Mathematics and Physics by Paul Dirac",
       "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 22:35:25",
-      "https://news.ycombinator.com/item?id=49677916"
-    ],
-    [
-      "Japan's book scene is moving from bookstores to libraries",
-      "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 17:02:19",
-      "https://news.ycombinator.com/item?id=49674451"
-    ],
-    [
-      "Reversing Factorio's RNG",
-      "https://gegell.github.io/posts/factorio-rng/"
     ]
   ]
 ]
