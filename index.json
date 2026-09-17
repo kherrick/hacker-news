@@ -1,32 +1,152 @@
 [
   [
     [
+      "2026-09-17, 17:00:59",
+      "https://news.ycombinator.com/item?id=49743567"
+    ],
+    [
+      "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+      "https://zscc.ai/careers?job_id=109821"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 16:54:57",
+      "https://news.ycombinator.com/item?id=49743478"
+    ],
+    [
+      "Show HN: AutoBot – live voice control for long-running AI work",
+      "https://github.com/demeyer1/Autobot"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 16:48:17",
+      "https://news.ycombinator.com/item?id=49743382"
+    ],
+    [
+      "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+      "https://www.aclif.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 16:25:37",
+      "https://news.ycombinator.com/item?id=49743097"
+    ],
+    [
+      "hister",
+      "https://github.com/asciimoo/hister"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 16:22:15",
+      "https://news.ycombinator.com/item?id=49743049"
+    ],
+    [
+      "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "https://news.ycombinator.com/item?id=49743049"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 16:17:28",
+      "https://news.ycombinator.com/item?id=49742976"
+    ],
+    [
+      "Ask HN: How to recover Google auth after phone stolen?",
+      "https://news.ycombinator.com/item?id=49742976"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 15:59:37",
+      "https://news.ycombinator.com/item?id=49742714"
+    ],
+    [
+      "Whoisinspace.com/",
+      "https://whoisinspace.com"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 15:40:19",
+      "https://news.ycombinator.com/item?id=49742439"
+    ],
+    [
+      "Vinix – A modern operating system written in V",
+      "https://vinix-os.org/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 15:40:17",
+      "https://news.ycombinator.com/item?id=49742437"
+    ],
+    [
+      "LLM Classification Is Feature Engineering",
+      "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 15:34:01",
+      "https://news.ycombinator.com/item?id=49742355"
+    ],
+    [
+      "CrowdSec Source Code Leak",
+      "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 15:33:54",
+      "https://news.ycombinator.com/item?id=49742353"
+    ],
+    [
+      "Rate limits on GitLab.com are changing",
+      "https://about.gitlab.com/blog/rate-limit-change-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 15:13:30",
+      "https://news.ycombinator.com/item?id=49742021"
+    ],
+    [
+      "Artificial intelligence now beats some of the best human forecasters",
+      "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 13:12:28",
+      "https://news.ycombinator.com/item?id=49740260"
+    ],
+    [
+      "The American Religion of Self-Storage Facilities",
+      "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 13:01:44",
+      "https://news.ycombinator.com/item?id=49740105"
+    ],
+    [
+      "Show HN: Share your AI Setup, Learn from others",
+      "https://mysetup.ai/"
+    ]
+  ],
+  [
+    [
       "2026-09-17, 12:57:09",
       "https://news.ycombinator.com/item?id=49740047"
     ],
     [
       "Show HN: I built a new version of my fun spatial 3D online meeting app",
       "https://flat.social"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 11:00:35",
-      "https://news.ycombinator.com/item?id=49739018"
-    ],
-    [
-      "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
-      "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 10:44:49",
-      "https://news.ycombinator.com/item?id=49738879"
-    ],
-    [
-      "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
-      "https://news.ycombinator.com/item?id=49738879"
     ]
   ],
   [
@@ -41,11 +161,21 @@
   ],
   [
     [
+      "2026-09-17, 08:51:51",
+      "https://news.ycombinator.com/item?id=49738091"
+    ],
+    [
+      "Why I didn’t sign the Fields medallists’ letter",
+      "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/"
+    ]
+  ],
+  [
+    [
       "2026-09-17, 08:27:09",
       "https://news.ycombinator.com/item?id=49737922"
     ],
     [
-      "GLM Built Its Own Inference Infrastructure",
+      "How GLM built its own inference infrastructure",
       "https://z.ai/blog/glm-built-its-inference-infrastructure"
     ]
   ],
@@ -71,16 +201,6 @@
   ],
   [
     [
-      "2026-09-17, 04:36:55",
-      "https://news.ycombinator.com/item?id=49736466"
-    ],
-    [
-      "Cloudflare/Security-Audit-Skill",
-      "https://github.com/cloudflare/security-audit-skill"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 03:03:23",
       "https://news.ycombinator.com/item?id=49735930"
     ],
@@ -91,72 +211,12 @@
   ],
   [
     [
-      "2026-09-16, 23:06:39",
-      "https://news.ycombinator.com/item?id=49734264"
+      "2026-09-17, 00:28:33",
+      "https://news.ycombinator.com/item?id=49734929"
     ],
     [
-      "OpenSpec – A lightweight and configurable AI spec framework",
-      "https://openspec.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 22:10:13",
-      "https://news.ycombinator.com/item?id=49733726"
-    ],
-    [
-      "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-      "https://harnesstax.github.io/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 20:59:24",
-      "https://news.ycombinator.com/item?id=49732931"
-    ],
-    [
-      "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "https://arxiv.org/abs/2609.16338"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 20:27:16",
-      "https://news.ycombinator.com/item?id=49732513"
-    ],
-    [
-      "Backups Aren't Simple",
-      "https://filipovski.net/2026/09/16/backups-arent-simple.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 20:09:18",
-      "https://news.ycombinator.com/item?id=49732270"
-    ],
-    [
-      "Xiaomi Mimo 2.6 live post-training dashboard",
-      "https://mimo.xiaomi.com/rl/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 18:50:00",
-      "https://news.ycombinator.com/item?id=49731285"
-    ],
-    [
-      "Training a 4B model to produce 81% faster query plans than Postgres",
-      "https://rohanbansal.com/qorl"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 15:56:47",
-      "https://news.ycombinator.com/item?id=49729000"
-    ],
-    [
-      "Small programming tricks",
-      "https://will-keleher.com/posts/small-programming-tricks-matter/"
+      "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/"
     ]
   ],
   [
@@ -171,42 +231,12 @@
   ],
   [
     [
-      "2026-09-16, 02:01:27",
-      "https://news.ycombinator.com/item?id=49721291"
-    ],
-    [
-      "A 32-year-old bug walks into a Telnet server",
-      "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/"
-    ]
-  ],
-  [
-    [
       "2026-09-15, 22:30:30",
       "https://news.ycombinator.com/item?id=49719751"
     ],
     [
       "Lucasart's Afterlife",
       "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 22:15:25",
-      "https://news.ycombinator.com/item?id=49719596"
-    ],
-    [
-      "The engineering behind the US Strategic Petroleum Reserve",
-      "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 21:41:42",
-      "https://news.ycombinator.com/item?id=49719249"
-    ],
-    [
-      "AWS says it can't restore some data from mideast facilities struck by Iran",
-      "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d"
     ]
   ],
   [
@@ -231,62 +261,32 @@
   ],
   [
     [
-      "2026-09-15, 16:52:25",
-      "https://news.ycombinator.com/item?id=49715318"
+      "2026-09-15, 15:37:55",
+      "https://news.ycombinator.com/item?id=49714196"
     ],
     [
-      "Comparison of Malloc() Algorithms",
-      "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html"
+      "Grand MS-DOS Gaming General MIDI Showdown",
+      "https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/"
     ]
   ],
   [
     [
-      "2026-09-15, 14:45:08",
-      "https://news.ycombinator.com/item?id=49713347"
+      "2026-09-15, 04:17:53",
+      "https://news.ycombinator.com/item?id=49707643"
     ],
     [
-      "Online Z3 Guide",
-      "https://microsoft.github.io/z3guide/"
+      "Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo",
+      "https://guides.visual-paradigm.com/mastering-graphviz-layout-engines-dot-neato-twopi-circo/"
     ]
   ],
   [
     [
-      "2026-09-15, 12:31:10",
-      "https://news.ycombinator.com/item?id=49711544"
+      "2026-09-14, 21:40:54",
+      "https://news.ycombinator.com/item?id=49704503"
     ],
     [
-      "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "https://github.com/arnegiacomo/fugleramme"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 12:18:16",
-      "https://news.ycombinator.com/item?id=49711424"
-    ],
-    [
-      "Performance Improvements in .NET 11",
-      "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 16:57:50",
-      "https://news.ycombinator.com/item?id=49700153"
-    ],
-    [
-      "Developing provably correct Rust code with Verus",
-      "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 10:08:35",
-      "https://news.ycombinator.com/item?id=49694444"
-    ],
-    [
-      "An Archive of Colour Gradients",
-      "https://phillips.shef.ac.uk/pub/cpt-city/"
+      "Running Ubuntu on the Lenovo IdeaPad Duet",
+      "https://vhaudiquet.fr/blog/duet-ubuntu/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=49685835"
     ],
     [
-      "The Relation Between Mathematics and Physics by Paul Dirac",
+      "The Relation Between Mathematics and Physics by Paul Dirac (1939)",
       "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html"
     ]
   ]
