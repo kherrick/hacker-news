@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-09-14](index.md)
 
 * [2026-09-14, 23:01:36](https://news.ycombinator.com/item?id=49705442) - [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)
+* [2026-09-14, 21:40:54](https://news.ycombinator.com/item?id=49704503) - [Running Ubuntu on the Lenovo IdeaPad Duet](https://vhaudiquet.fr/blog/duet-ubuntu/)
 * [2026-09-14, 21:22:54](https://news.ycombinator.com/item?id=49704246) - [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)
 * [2026-09-14, 21:15:01](https://news.ycombinator.com/item?id=49704132) - [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular)
 * [2026-09-14, 21:05:22](https://news.ycombinator.com/item?id=49704008) - [Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html)
