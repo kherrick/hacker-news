@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-09-17, 01:39:47",
-      "https://news.ycombinator.com/item?id=49735410"
+      "2026-09-17, 04:36:55",
+      "https://news.ycombinator.com/item?id=49736466"
     ],
     [
-      "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-      "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html"
+      "Cloudflare/Security-Audit-Skill",
+      "https://github.com/cloudflare/security-audit-skill"
     ]
   ],
   [
     [
-      "2026-09-17, 01:13:10",
-      "https://news.ycombinator.com/item?id=49735241"
+      "2026-09-17, 03:12:05",
+      "https://news.ycombinator.com/item?id=49735979"
     ],
     [
-      "Pangram – AI detector for text and images",
-      "https://www.pangram.com"
+      "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+      "https://github.com/browser-use/jev-ultrafast"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 03:03:23",
+      "https://news.ycombinator.com/item?id=49735930"
+    ],
+    [
+      "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "https://ryan.science/blog/keys-not-included"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 01:33:10",
+      "https://news.ycombinator.com/item?id=49735367"
+    ],
+    [
+      "Part-human part-mouse brain developed in science breakthrough",
+      "https://www.bbc.com/news/articles/c60m3k28j81mo"
     ]
   ],
   [
@@ -31,22 +51,22 @@
   ],
   [
     [
+      "2026-09-16, 23:25:17",
+      "https://news.ycombinator.com/item?id=49734409"
+    ],
+    [
+      "US interest rates raised for first time in three years",
+      "https://www.bbc.com/news/articles/cw4gmlyvj422o"
+    ]
+  ],
+  [
+    [
       "2026-09-16, 23:06:39",
       "https://news.ycombinator.com/item?id=49734264"
     ],
     [
       "OpenSpec – A lightweight and configurable AI spec framework",
       "https://openspec.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 22:56:48",
-      "https://news.ycombinator.com/item?id=49734171"
-    ],
-    [
-      "Australia says it could follow Canada in forging deeper ties with EU",
-      "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html"
     ]
   ],
   [
@@ -91,26 +111,6 @@
   ],
   [
     [
-      "2026-09-16, 19:56:38",
-      "https://news.ycombinator.com/item?id=49732087"
-    ],
-    [
-      "Why Does the Universe Expand?",
-      "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 18:56:05",
-      "https://news.ycombinator.com/item?id=49731360"
-    ],
-    [
-      "Accurate Models of AMD Matrix Cores",
-      "https://arxiv.org/abs/2609.14845"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 18:50:00",
       "https://news.ycombinator.com/item?id=49731285"
     ],
@@ -131,32 +131,12 @@
   ],
   [
     [
-      "2026-09-16, 16:58:13",
-      "https://news.ycombinator.com/item?id=49729816"
-    ],
-    [
-      "Training Text-to-Image Models 3.6× Faster",
-      "https://www.linum.ai/field-notes/jit-ddt"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 15:56:47",
       "https://news.ycombinator.com/item?id=49729000"
     ],
     [
       "Small programming tricks",
       "https://will-keleher.com/posts/small-programming-tricks-matter/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 14:32:11",
-      "https://news.ycombinator.com/item?id=49727659"
-    ],
-    [
-      "The DeepMind Institute",
-      "https://institute.deepmind.com/"
     ]
   ],
   [
@@ -181,32 +161,22 @@
   ],
   [
     [
-      "2026-09-16, 13:18:47",
-      "https://news.ycombinator.com/item?id=49726586"
-    ],
-    [
-      "Hackers Got Inside a Flock Camera",
-      "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 13:11:57",
-      "https://news.ycombinator.com/item?id=49726501"
-    ],
-    [
-      "I replaced my brown-noise browser tab with a menu bar app",
-      "https://oldmanrahul.com/2026/09/14/hush/"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 11:15:53",
       "https://news.ycombinator.com/item?id=49724881"
     ],
     [
       "Nvidia announces native GPU programming in Rust",
       "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 02:01:27",
+      "https://news.ycombinator.com/item?id=49721291"
+    ],
+    [
+      "A 32-year-old bug walks into a Telnet server",
+      "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/"
     ]
   ],
   [
@@ -231,12 +201,22 @@
   ],
   [
     [
-      "2026-09-15, 19:22:48",
-      "https://news.ycombinator.com/item?id=49717525"
+      "2026-09-15, 20:53:36",
+      "https://news.ycombinator.com/item?id=49718773"
     ],
     [
-      "Mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps",
-      "https://www.danvk.org/2026/09/10/mapsnap.html"
+      "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "https://jakeasmith.com/blog/http-build-url/"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 16:52:25",
+      "https://news.ycombinator.com/item?id=49715318"
+    ],
+    [
+      "Comparison of Malloc() Algorithms",
+      "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2026-09-14, 12:25:24",
+      "https://news.ycombinator.com/item?id=49695689"
+    ],
+    [
+      "PCB is brought to you by Fable 5",
+      "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/"
+    ]
+  ],
+  [
+    [
       "2026-09-14, 06:46:26",
       "https://news.ycombinator.com/item?id=49692844"
     ],
     [
       "Anecdotally, programmers dislike \"reduce\"",
       "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/"
+    ]
+  ],
+  [
+    [
+      "2026-09-13, 16:38:22",
+      "https://news.ycombinator.com/item?id=49685835"
+    ],
+    [
+      "The Relation Between Mathematics and Physics by Paul Dirac",
+      "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html"
     ]
   ],
   [
