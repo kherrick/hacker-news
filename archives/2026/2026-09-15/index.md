@@ -55,6 +55,7 @@
 * [2026-09-15, 11:34:45](https://news.ycombinator.com/item?id=49710968) - [Show HN: Restarted – a 2026 remake of the classic 2015 startup generator](https://restarted.io/)
 * [2026-09-15, 11:28:19](https://news.ycombinator.com/item?id=49710903) - [Tell the speakers that you liked their talks](https://ohhelloana.blog/tell-the-speakers/)
 * [2026-09-15, 11:26:48](https://news.ycombinator.com/item?id=49710883) - [25 Years of Mass Surveillance Is Enough](https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html)
+* [2026-09-15, 10:46:24](https://news.ycombinator.com/item?id=49710447) - [Diplodocus, Long Thought Exclusively American, Turns Up in Spain](https://www.sci.news/paleontology/spanish-diplodocus-15064.html)
 * [2026-09-15, 10:22:46](https://news.ycombinator.com/item?id=49710253) - [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)
 * [2026-09-15, 10:14:29](https://news.ycombinator.com/item?id=49710201) - [Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling](https://loiseaujc.github.io/posts/blog-title/make_gauss_seidel_great_again.html)
 * [2026-09-15, 10:00:16](https://news.ycombinator.com/item?id=49710109) - [Let's make quality the norm again](https://www.forbrukerradet.no/short-life/)
