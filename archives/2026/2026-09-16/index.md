@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-16](index.md)
 
+* [2026-09-16, 23:25:17](https://news.ycombinator.com/item?id=49734409) - [US interest rates raised for first time in three years](https://www.bbc.com/news/articles/cw4gmlyvj422o)
 * [2026-09-16, 23:06:39](https://news.ycombinator.com/item?id=49734264) - [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
 * [2026-09-16, 22:56:48](https://news.ycombinator.com/item?id=49734171) - [Australia says it could follow Canada in forging deeper ties with EU](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html)
 * [2026-09-16, 22:10:13](https://news.ycombinator.com/item?id=49733726) - [HarnessTax: How Much Does the Harness Matter for Coding Agents?](https://harnesstax.github.io/)
@@ -49,3 +50,4 @@
 * [2026-09-16, 02:46:06](https://news.ycombinator.com/item?id=49721548) - [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
 * [2026-09-16, 02:25:18](https://news.ycombinator.com/item?id=49721435) - [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
 * [2026-09-16, 02:07:31](https://news.ycombinator.com/item?id=49721322) - [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
+* [2026-09-16, 02:01:27](https://news.ycombinator.com/item?id=49721291) - [A 32-year-old bug walks into a Telnet server](https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/)

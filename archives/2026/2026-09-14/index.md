@@ -54,6 +54,7 @@
 * [2026-09-14, 12:40:57](https://news.ycombinator.com/item?id=49695876) - [What a time to be alive](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/)
 * [2026-09-14, 12:37:42](https://news.ycombinator.com/item?id=49695829) - [Texas judge rules TikTok misled users on child safety feature](https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/)
 * [2026-09-14, 12:35:56](https://news.ycombinator.com/item?id=49695805) - [SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI](https://github.com/Newspicel/sdrminusminus)
+* [2026-09-14, 12:25:24](https://news.ycombinator.com/item?id=49695689) - [PCB is brought to you by Fable 5](https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/)
 * [2026-09-14, 12:10:17](https://news.ycombinator.com/item?id=49695519) - [There are only twelve 4x4 sudokus (and a cool trick for finding minimal subsets)](https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/)
 * [2026-09-14, 12:01:32](https://news.ycombinator.com/item?id=49695409) - [Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/)
 * [2026-09-14, 12:01:31](https://news.ycombinator.com/item?id=49695408) - [Show HN: Kinesis – Control your Mac with the Meta Neural Band](https://github.com/callbacked/kinesis)

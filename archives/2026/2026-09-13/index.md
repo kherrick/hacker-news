@@ -29,6 +29,7 @@
 * [2026-09-13, 17:18:41](https://news.ycombinator.com/item?id=49686233) - [Ask HN: How can I browse HN in dark mode?](https://news.ycombinator.com/item?id=49686233)
 * [2026-09-13, 17:08:16](https://news.ycombinator.com/item?id=49686134) - [Romania soccer introduces black card to 'combat abusive behaviour' from parents](https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/)
 * [2026-09-13, 16:52:33](https://news.ycombinator.com/item?id=49685991) - [David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models](https://twitter.com/DavidSacks/status/2098973625252708460)
+* [2026-09-13, 16:38:22](https://news.ycombinator.com/item?id=49685835) - [The Relation Between Mathematics and Physics by Paul Dirac](https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html)
 * [2026-09-13, 16:23:43](https://news.ycombinator.com/item?id=49685693) - [Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 build 1507](https://www.hyphanet.org/freenet-hyphanet-075-build-1507-fix-probe-routing-plugins-and-upkeep.html)
 * [2026-09-13, 15:44:38](https://news.ycombinator.com/item?id=49685253) - [Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
 * [2026-09-13, 15:24:05](https://news.ycombinator.com/item?id=49685037) - [Libraries Run Rust Inside Python (With PyO3)](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/)
