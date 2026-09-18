@@ -31,6 +31,7 @@
 * [2026-09-15, 17:00:31](https://news.ycombinator.com/item?id=49715446) - [Jiga (YC W21) Is Hiring Product Engineer (Remote/US)](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd)
 * [2026-09-15, 16:52:25](https://news.ycombinator.com/item?id=49715318) - [Comparison of Malloc() Algorithms](https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html)
 * [2026-09-15, 16:38:45](https://news.ycombinator.com/item?id=49715113) - [There's a 100% Chance AI Agents Are Ruining the Internet](https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/)
+* [2026-09-15, 16:02:15](https://news.ycombinator.com/item?id=49714596) - [Speeding up gearhash on ARM64 (2× faster)](https://sam.dev/blog/gearhash-on-arm64)
 * [2026-09-15, 15:58:48](https://news.ycombinator.com/item?id=49714547) - [America's Driver's License Breach Is a National Security Disaster](https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster)
 * [2026-09-15, 15:56:14](https://news.ycombinator.com/item?id=49714495) - [Show HN: Go Bindings for SCIP Optimizer](https://github.com/egoisutolabs/scipgo)
 * [2026-09-15, 15:37:55](https://news.ycombinator.com/item?id=49714196) - [Grand MS-DOS Gaming General MIDI Showdown](https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/)

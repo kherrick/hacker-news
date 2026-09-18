@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-17](index.md)
 
+* [2026-09-17, 23:05:48](https://news.ycombinator.com/item?id=49747925) - [Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash)
 * [2026-09-17, 21:48:38](https://news.ycombinator.com/item?id=49747070) - [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
 * [2026-09-17, 21:15:52](https://news.ycombinator.com/item?id=49746654) - [Sex, AI, and the Apocalypse](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 * [2026-09-17, 21:14:32](https://news.ycombinator.com/item?id=49746628) - [How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)

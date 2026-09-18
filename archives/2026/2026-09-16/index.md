@@ -39,6 +39,7 @@
 * [2026-09-16, 12:35:14](https://news.ycombinator.com/item?id=49726007) - [Wax motor](https://en.wikipedia.org/wiki/Wax_motor)
 * [2026-09-16, 12:19:55](https://news.ycombinator.com/item?id=49725800) - [DeepSeek v4.1 Flash Is Now Our Best Hacking Model](https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model)
 * [2026-09-16, 12:01:09](https://news.ycombinator.com/item?id=49725541) - [Kyber (YC W23) Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer)
+* [2026-09-16, 11:52:40](https://news.ycombinator.com/item?id=49725404) - [Apple detectives solved mystery of ancient tree and rewrote the history of fruit](https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/)
 * [2026-09-16, 11:49:40](https://news.ycombinator.com/item?id=49725356) - [Original Sony PlayStation 2 security chip 'broken wide open' after 26 years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
 * [2026-09-16, 11:19:11](https://news.ycombinator.com/item?id=49724927) - [The Google Play app review process now regularly takes longer than a week](https://gultsch.social/@daniel/117280438824908947)
 * [2026-09-16, 11:15:53](https://news.ycombinator.com/item?id=49724881) - [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
@@ -52,4 +53,5 @@
 * [2026-09-16, 02:25:18](https://news.ycombinator.com/item?id=49721435) - [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
 * [2026-09-16, 02:07:31](https://news.ycombinator.com/item?id=49721322) - [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
 * [2026-09-16, 02:01:27](https://news.ycombinator.com/item?id=49721291) - [A 32-year-old bug walks into a Telnet server](https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/)
+* [2026-09-16, 01:32:29](https://news.ycombinator.com/item?id=49721122) - [Khipu (Quipu) Field Guide](https://www.khipufieldguide.com/)
 * [2026-09-16, 00:51:06](https://news.ycombinator.com/item?id=49720854) - [Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime](https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/)
