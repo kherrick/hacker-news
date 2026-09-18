@@ -1,12 +1,112 @@
 [
   [
     [
-      "2026-09-17, 21:15:52",
-      "https://news.ycombinator.com/item?id=49746654"
+      "2026-09-18, 04:20:24",
+      "https://news.ycombinator.com/item?id=49750152"
     ],
     [
-      "Sex, AI, and the Apocalypse",
-      "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
+      "Jemalloc 5.4.0",
+      "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 04:09:48",
+      "https://news.ycombinator.com/item?id=49750094"
+    ],
+    [
+      "The Scourge of x86 Emulation",
+      "https://fex-emu.com/Scourge-of-emulation/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 03:49:24",
+      "https://news.ycombinator.com/item?id=49749981"
+    ],
+    [
+      "Waymo in Singapore",
+      "https://waymo.com/waymo-in-singapore/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 03:04:38",
+      "https://news.ycombinator.com/item?id=49749771"
+    ],
+    [
+      "Pre-Greek: The lost language hidden within Ancient Greek",
+      "https://linguisticdiscovery.com/posts/pre-greek/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 03:00:40",
+      "https://news.ycombinator.com/item?id=49749744"
+    ],
+    [
+      "Code Scans",
+      "https://devin.ai/blog/introducing-code-scans"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 02:47:24",
+      "https://news.ycombinator.com/item?id=49749656"
+    ],
+    [
+      "Hacking OpenAI",
+      "https://www.hacktron.ai/blog/hacking-openai"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 02:04:19",
+      "https://news.ycombinator.com/item?id=49749393"
+    ],
+    [
+      "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+      "https://byteshape.com/blogs/Qwen3.8-27B/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 01:34:08",
+      "https://news.ycombinator.com/item?id=49749171"
+    ],
+    [
+      "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+      "https://askamonk.online"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 01:05:03",
+      "https://news.ycombinator.com/item?id=49748957"
+    ],
+    [
+      "Telstra outage: The night a network decided the year was 2006",
+      "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 23:05:48",
+      "https://news.ycombinator.com/item?id=49747925"
+    ],
+    [
+      "Qwen 3.8 Omni Flash",
+      "https://qwen.ai/blog?id=qwen3.8-omni-flash"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 21:48:38",
+      "https://news.ycombinator.com/item?id=49747070"
+    ],
+    [
+      "How to Write with an LLM",
+      "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
     ]
   ],
   [
@@ -41,16 +141,6 @@
   ],
   [
     [
-      "2026-09-17, 20:50:03",
-      "https://news.ycombinator.com/item?id=49746371"
-    ],
-    [
-      "Computer Reset, Dallas",
-      "https://dfarq.homeip.net/computer-reset-dallas/"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 20:48:04",
       "https://news.ycombinator.com/item?id=49746346"
     ],
@@ -81,52 +171,12 @@
   ],
   [
     [
-      "2026-09-17, 20:33:00",
-      "https://news.ycombinator.com/item?id=49746117"
-    ],
-    [
-      "More than 100k people in Japan are now aged 100 or older",
-      "https://www.bbc.com/news/articles/cmzezj5e18xxo"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 20:17:48",
       "https://news.ycombinator.com/item?id=49745940"
     ],
     [
       "Astra for Law",
       "https://openai.com/index/astra-for-law/"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 20:05:31",
-      "https://news.ycombinator.com/item?id=49745809"
-    ],
-    [
-      "Plugin4Shell – Zero Click RCE Vulnerability found in top four coding agents",
-      "https://www.air.security/blog-posts/plugin4shell"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 17:00:59",
-      "https://news.ycombinator.com/item?id=49743567"
-    ],
-    [
-      "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-      "https://zscc.ai/careers?job_id=109821"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 16:58:31",
-      "https://news.ycombinator.com/item?id=49743527"
-    ],
-    [
-      "Towards Self-Driving Codebases",
-      "https://blog.detail.dev/posts/towards-self-driving-codebases/"
     ]
   ],
   [
@@ -151,32 +201,12 @@
   ],
   [
     [
-      "2026-09-17, 16:22:15",
-      "https://news.ycombinator.com/item?id=49743049"
-    ],
-    [
-      "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-      "https://news.ycombinator.com/item?id=49743049"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 15:34:01",
       "https://news.ycombinator.com/item?id=49742355"
     ],
     [
       "CrowdSec Source Code Leak",
       "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 15:33:54",
-      "https://news.ycombinator.com/item?id=49742353"
-    ],
-    [
-      "Rate limits on GitLab.com are changing",
-      "https://about.gitlab.com/blog/rate-limit-change-2026/"
     ]
   ],
   [
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2026-09-17, 13:01:44",
-      "https://news.ycombinator.com/item?id=49740105"
-    ],
-    [
-      "Show HN: Share your AI Setup, Learn from others",
-      "https://mysetup.ai/"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 08:51:51",
       "https://news.ycombinator.com/item?id=49738091"
     ],
     [
       "Why I didn’t sign the Fields medallists’ letter",
       "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 08:03:54",
-      "https://news.ycombinator.com/item?id=49737787"
-    ],
-    [
-      "CCC invites all model citizens to 40C3",
-      "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/"
     ]
   ],
   [
@@ -231,12 +241,22 @@
   ],
   [
     [
-      "2026-09-16, 00:51:06",
-      "https://news.ycombinator.com/item?id=49720854"
+      "2026-09-16, 11:52:40",
+      "https://news.ycombinator.com/item?id=49725404"
     ],
     [
-      "Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime",
-      "https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/"
+      "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
+      "https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 01:32:29",
+      "https://news.ycombinator.com/item?id=49721122"
+    ],
+    [
+      "Khipu (Quipu) Field Guide",
+      "https://www.khipufieldguide.com/"
     ]
   ],
   [
@@ -261,12 +281,12 @@
   ],
   [
     [
-      "2026-09-15, 15:31:55",
-      "https://news.ycombinator.com/item?id=49714096"
+      "2026-09-15, 16:02:15",
+      "https://news.ycombinator.com/item?id=49714596"
     ],
     [
-      "TSMC revealing details about next gen A14 node",
-      "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331"
+      "Speeding up gearhash on ARM64 (2× faster)",
+      "https://sam.dev/blog/gearhash-on-arm64"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
       "https://www.sci.news/paleontology/spanish-diplodocus-15064.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-14, 21:40:54",
-      "https://news.ycombinator.com/item?id=49704503"
-    ],
-    [
-      "Running Ubuntu on the Lenovo IdeaPad Duet",
-      "https://vhaudiquet.fr/blog/duet-ubuntu/"
-    ]
-  ],
-  [
-    [
-      "2026-09-12, 11:13:14",
-      "https://news.ycombinator.com/item?id=49671157"
-    ],
-    [
-      "André Weil and the Hodge Conjecture",
-      "https://jiahao116.github.io/Articles/"
     ]
   ]
 ]
