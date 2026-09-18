@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-17](index.md)
 
+* [2026-09-17, 23:15:57](https://news.ycombinator.com/item?id=49748041) - [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/)
 * [2026-09-17, 23:05:48](https://news.ycombinator.com/item?id=49747925) - [Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash)
 * [2026-09-17, 21:48:38](https://news.ycombinator.com/item?id=49747070) - [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
 * [2026-09-17, 21:15:52](https://news.ycombinator.com/item?id=49746654) - [Sex, AI, and the Apocalypse](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 * [2026-09-17, 21:14:32](https://news.ycombinator.com/item?id=49746628) - [How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
 * [2026-09-17, 21:13:31](https://news.ycombinator.com/item?id=49746618) - [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
 * [2026-09-17, 20:52:36](https://news.ycombinator.com/item?id=49746407) - [The most important product decision is what you don't build](https://liamnugent.me/posts/what-you-dont-build/)
+* [2026-09-17, 20:52:33](https://news.ycombinator.com/item?id=49746406) - [C++26: Trivial infinite loops are no longer undefined behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops)
 * [2026-09-17, 20:50:03](https://news.ycombinator.com/item?id=49746371) - [Computer Reset, Dallas](https://dfarq.homeip.net/computer-reset-dallas/)
 * [2026-09-17, 20:48:04](https://news.ycombinator.com/item?id=49746346) - [Show HN: Snapdrop: Instantly share files between devices. No setup, no signup](https://snapdrop.me)
 * [2026-09-17, 20:44:28](https://news.ycombinator.com/item?id=49746290) - [Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/)

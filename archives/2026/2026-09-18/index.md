@@ -4,7 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-09-18](index.md)
 
+* [2026-09-18, 17:02:52](https://news.ycombinator.com/item?id=49757178) - [There's no point at which turning your brain off will work](https://danluu.com/brain-off/)
+* [2026-09-18, 16:54:18](https://news.ycombinator.com/item?id=49757050) - [Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/)
+* [2026-09-18, 15:50:29](https://news.ycombinator.com/item?id=49756171) - [US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments](https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/)
+* [2026-09-18, 15:04:54](https://news.ycombinator.com/item?id=49755431) - [GrassLobster: AI Agentic Generation of Parametric Geometry Workflows](https://www.miro.vision/index.php/2026/09/17/grasslobbster/)
+* [2026-09-18, 14:58:09](https://news.ycombinator.com/item?id=49755337) - [Build Faster Feedback Loops Using Qualitative User Research](https://blog.nseldeib.com/p/build-faster-feedback-loops-using)
+* [2026-09-18, 14:45:32](https://news.ycombinator.com/item?id=49755160) - [North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)
+* [2026-09-18, 14:41:02](https://news.ycombinator.com/item?id=49755095) - [Mathematicians Build Long-Awaited Graph Sandwich](https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/)
 * [2026-09-18, 14:36:10](https://news.ycombinator.com/item?id=49755024) - [I Vibed a Proof of Conway's Conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/)
+* [2026-09-18, 14:21:24](https://news.ycombinator.com/item?id=49754823) - [BeanShell3 in Development](https://beanshell.github.io/home.html)
+* [2026-09-18, 14:18:41](https://news.ycombinator.com/item?id=49754785) - [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
 * [2026-09-18, 14:11:22](https://news.ycombinator.com/item?id=49754687) - [Second Circuit Allows Government to Search Electronic Devices at the Border](https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion)
 * [2026-09-18, 13:24:35](https://news.ycombinator.com/item?id=49754064) - [NATS publishes preliminary report on technical incident of 8 September](https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/)
 * [2026-09-18, 13:06:30](https://news.ycombinator.com/item?id=49753878) - [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
@@ -25,3 +34,4 @@
 * [2026-09-18, 02:04:19](https://news.ycombinator.com/item?id=49749393) - [Shapelearn Qwen 3.8 27B (13.1 GB VRAM)](https://byteshape.com/blogs/Qwen3.8-27B/)
 * [2026-09-18, 01:34:08](https://news.ycombinator.com/item?id=49749171) - [Ask A Monk – A digital wilderness for thoughts with no immediate answer](https://askamonk.online)
 * [2026-09-18, 01:05:03](https://news.ycombinator.com/item?id=49748957) - [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)
+* [2026-09-18, 00:11:44](https://news.ycombinator.com/item?id=49748553) - [Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle)
