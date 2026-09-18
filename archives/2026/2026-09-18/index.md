@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-18](index.md)
 
+* [2026-09-18, 22:35:10](https://news.ycombinator.com/item?id=49761178) - [US troop deaths during Iran war exceed Pentagon count by at least four](https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/)
+* [2026-09-18, 21:00:32](https://news.ycombinator.com/item?id=49760187) - [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
 * [2026-09-18, 20:02:54](https://news.ycombinator.com/item?id=49759466) - [Korea raises data breach fines to 10% of revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
 * [2026-09-18, 19:03:09](https://news.ycombinator.com/item?id=49758736) - [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
 * [2026-09-18, 19:00:06](https://news.ycombinator.com/item?id=49758689) - [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852)

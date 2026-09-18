@@ -14,6 +14,7 @@
 * [2026-09-16, 19:56:38](https://news.ycombinator.com/item?id=49732087) - [Why Does the Universe Expand?](https://cosmicave.org/2026/09/15/why-does-the-universe-expand/)
 * [2026-09-16, 19:53:36](https://news.ycombinator.com/item?id=49732036) - [macOS 27 Golden Gate – Review](https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/)
 * [2026-09-16, 19:19:08](https://news.ycombinator.com/item?id=49731620) - [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)
+* [2026-09-16, 19:01:09](https://news.ycombinator.com/item?id=49731413) - [Cyclomatic Complexity in C#](https://blog.ndepend.com/understanding-cyclomatic-complexity/)
 * [2026-09-16, 18:56:05](https://news.ycombinator.com/item?id=49731360) - [Accurate Models of AMD Matrix Cores](https://arxiv.org/abs/2609.14845)
 * [2026-09-16, 18:50:00](https://news.ycombinator.com/item?id=49731285) - [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
 * [2026-09-16, 18:49:57](https://news.ycombinator.com/item?id=49731282) - [Reverse-engineered Jev-like model](https://github.com/vinnylarouge/jevlike)
