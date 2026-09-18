@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-09-18, 22:35:10",
+      "https://news.ycombinator.com/item?id=49761178"
+    ],
+    [
+      "US troop deaths during Iran war exceed Pentagon count by at least four",
+      "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 21:00:32",
+      "https://news.ycombinator.com/item?id=49760187"
+    ],
+    [
+      "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "https://code.claude.com/docs/en/changelog"
+    ]
+  ],
+  [
+    [
       "2026-09-18, 20:02:54",
       "https://news.ycombinator.com/item?id=49759466"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=49758615"
     ],
     [
-      "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
+      "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
       "https://arxiv.org/abs/2510.03215"
     ]
   ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=49758580"
     ],
     [
-      "Saving another 100TB of RAM with math (and Rust)",
+      "Saving another 100TB of RAM",
       "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=49758419"
     ],
     [
-      "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
+      "Xcode 27.1 Beta Release Notes",
       "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes"
     ]
   ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=49755533"
     ],
     [
-      "Our brain evolved from two primitive nervous systems that merged: Study",
+      "Two parallel neural ectoderm progenitors contribute to the developing brain",
       "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/"
     ]
   ],
@@ -171,26 +191,6 @@
   ],
   [
     [
-      "2026-09-18, 04:20:24",
-      "https://news.ycombinator.com/item?id=49750152"
-    ],
-    [
-      "Jemalloc 5.4.0",
-      "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 04:09:48",
-      "https://news.ycombinator.com/item?id=49750094"
-    ],
-    [
-      "The scourge of x86 emulation",
-      "https://fex-emu.com/Scourge-of-emulation/"
-    ]
-  ],
-  [
-    [
       "2026-09-18, 02:56:48",
       "https://news.ycombinator.com/item?id=49749724"
     ],
@@ -217,16 +217,6 @@
     [
       "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
       "https://cactuscompute.com/needle"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 23:15:57",
-      "https://news.ycombinator.com/item?id=49748041"
-    ],
-    [
-      "Show HN: Scry, programmable internet search w/ congestion pricing",
-      "https://scry.io/"
     ]
   ],
   [
@@ -271,22 +261,32 @@
   ],
   [
     [
-      "2026-09-17, 18:08:02",
-      "https://news.ycombinator.com/item?id=49744416"
-    ],
-    [
-      "Show HN: Ax-check.com – Can agents use your product?",
-      "https://www.ax-check.com/"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 13:20:03",
       "https://news.ycombinator.com/item?id=49740371"
     ],
     [
-      "\"From Geometry to Algebra and Back Again: 4000 Years of Papers\" by Jack Rusher [video]",
+      "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
       "https://www.youtube.com/watch?v=1cRFfYQYGxE"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 00:45:49",
+      "https://news.ycombinator.com/item?id=49735057"
+    ],
+    [
+      "Size-Specialized Memory Allocation",
+      "https://go.dev/blog/size-specialized-allocations"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 19:01:09",
+      "https://news.ycombinator.com/item?id=49731413"
+    ],
+    [
+      "Cyclomatic Complexity in C#",
+      "https://blog.ndepend.com/understanding-cyclomatic-complexity/"
     ]
   ],
   [
