@@ -36,6 +36,7 @@
 * [2026-09-15, 15:58:48](https://news.ycombinator.com/item?id=49714547) - [America's Driver's License Breach Is a National Security Disaster](https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster)
 * [2026-09-15, 15:56:14](https://news.ycombinator.com/item?id=49714495) - [Show HN: Go Bindings for SCIP Optimizer](https://github.com/egoisutolabs/scipgo)
 * [2026-09-15, 15:37:55](https://news.ycombinator.com/item?id=49714196) - [Grand MS-DOS Gaming General MIDI Showdown](https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/)
+* [2026-09-15, 15:35:33](https://news.ycombinator.com/item?id=49714157) - [A search-and-inference database from scratch in pure Zig](https://antfly.io/research/antfly-zig)
 * [2026-09-15, 15:31:55](https://news.ycombinator.com/item?id=49714096) - [TSMC revealing details about next gen A14 node](https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331)
 * [2026-09-15, 15:26:45](https://news.ycombinator.com/item?id=49713999) - [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian)
 * [2026-09-15, 15:20:26](https://news.ycombinator.com/item?id=49713894) - [Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot)
