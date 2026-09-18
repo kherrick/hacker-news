@@ -4,8 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-09-18](index.md)
 
+* [2026-09-18, 14:36:10](https://news.ycombinator.com/item?id=49755024) - [I Vibed a Proof of Conway's Conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/)
+* [2026-09-18, 14:11:22](https://news.ycombinator.com/item?id=49754687) - [Second Circuit Allows Government to Search Electronic Devices at the Border](https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion)
+* [2026-09-18, 13:24:35](https://news.ycombinator.com/item?id=49754064) - [NATS publishes preliminary report on technical incident of 8 September](https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/)
+* [2026-09-18, 13:06:30](https://news.ycombinator.com/item?id=49753878) - [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
+* [2026-09-18, 12:06:50](https://news.ycombinator.com/item?id=49753211) - [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
+* [2026-09-18, 12:03:55](https://news.ycombinator.com/item?id=49753179) - [Bend 2 and the Vibe-Coding Trap](https://blog.liampwll.com/posts/bend_vibe_coding/)
+* [2026-09-18, 12:00:10](https://news.ycombinator.com/item?id=49753131) - [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)
+* [2026-09-18, 11:01:44](https://news.ycombinator.com/item?id=49752614) - [Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him](https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html)
+* [2026-09-18, 10:35:28](https://news.ycombinator.com/item?id=49752422) - [ZCode, the GLM coding agent, silently uploads your Git history](https://tokenstead.ai/guides/zcode-silent-git-history-upload)
 * [2026-09-18, 09:45:07](https://news.ycombinator.com/item?id=49752056) - [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
 * [2026-09-18, 09:42:22](https://news.ycombinator.com/item?id=49752041) - [OpenJev](https://openjev.com/)
+* [2026-09-18, 07:32:50](https://news.ycombinator.com/item?id=49751222) - [New wild cat species discovered – with only one known living member](https://www.bbc.com/news/articles/c6x2zgv9rr4ro)
 * [2026-09-18, 04:20:24](https://news.ycombinator.com/item?id=49750152) - [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
 * [2026-09-18, 04:09:48](https://news.ycombinator.com/item?id=49750094) - [The Scourge of x86 Emulation](https://fex-emu.com/Scourge-of-emulation/)
 * [2026-09-18, 03:49:24](https://news.ycombinator.com/item?id=49749981) - [Waymo in Singapore](https://waymo.com/waymo-in-singapore/)

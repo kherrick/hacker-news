@@ -29,6 +29,7 @@
 * [2026-09-15, 17:28:38](https://news.ycombinator.com/item?id=49715813) - [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
 * [2026-09-15, 17:12:19](https://news.ycombinator.com/item?id=49715590) - [GEFS on OpenBSD: A Early Preview](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
 * [2026-09-15, 17:00:31](https://news.ycombinator.com/item?id=49715446) - [Jiga (YC W21) Is Hiring Product Engineer (Remote/US)](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd)
+* [2026-09-15, 16:58:22](https://news.ycombinator.com/item?id=49715408) - [Subnormal floating-point numbers are expensive on Intel processors](https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/)
 * [2026-09-15, 16:52:25](https://news.ycombinator.com/item?id=49715318) - [Comparison of Malloc() Algorithms](https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html)
 * [2026-09-15, 16:38:45](https://news.ycombinator.com/item?id=49715113) - [There's a 100% Chance AI Agents Are Ruining the Internet](https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/)
 * [2026-09-15, 16:02:15](https://news.ycombinator.com/item?id=49714596) - [Speeding up gearhash on ARM64 (2× faster)](https://sam.dev/blog/gearhash-on-arm64)

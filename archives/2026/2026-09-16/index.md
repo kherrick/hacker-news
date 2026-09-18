@@ -52,6 +52,7 @@
 * [2026-09-16, 05:43:44](https://news.ycombinator.com/item?id=49722521) - [A software thing I built: GPS on a 25MHz 486-SX](https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/)
 * [2026-09-16, 04:58:36](https://news.ycombinator.com/item?id=49722276) - [Datamimic – don't let your coding agent invent its own test world](https://github.com/rapiddweller/datamimic)
 * [2026-09-16, 02:46:06](https://news.ycombinator.com/item?id=49721548) - [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
+* [2026-09-16, 02:37:22](https://news.ycombinator.com/item?id=49721507) - [The Shadows Lurking in the Equations – Underwater Islands](https://gods.art/articles/equation_shadows)
 * [2026-09-16, 02:25:18](https://news.ycombinator.com/item?id=49721435) - [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
 * [2026-09-16, 02:07:31](https://news.ycombinator.com/item?id=49721322) - [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
 * [2026-09-16, 02:01:27](https://news.ycombinator.com/item?id=49721291) - [A 32-year-old bug walks into a Telnet server](https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/)
