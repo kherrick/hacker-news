@@ -52,3 +52,4 @@
 * [2026-09-16, 02:25:18](https://news.ycombinator.com/item?id=49721435) - [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
 * [2026-09-16, 02:07:31](https://news.ycombinator.com/item?id=49721322) - [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
 * [2026-09-16, 02:01:27](https://news.ycombinator.com/item?id=49721291) - [A 32-year-old bug walks into a Telnet server](https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/)
+* [2026-09-16, 00:51:06](https://news.ycombinator.com/item?id=49720854) - [Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime](https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/)
