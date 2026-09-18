@@ -1,12 +1,82 @@
 [
   [
     [
-      "2026-09-18, 17:02:52",
-      "https://news.ycombinator.com/item?id=49757178"
+      "2026-09-18, 20:02:54",
+      "https://news.ycombinator.com/item?id=49759466"
     ],
     [
-      "There's no point at which turning your brain off will work",
-      "https://danluu.com/brain-off/"
+      "Korea raises data breach fines to 10% of revenue",
+      "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 19:03:09",
+      "https://news.ycombinator.com/item?id=49758736"
+    ],
+    [
+      "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "https://grapheneos.social/@GrapheneOS/117282080803799576"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 19:00:06",
+      "https://news.ycombinator.com/item?id=49758689"
+    ],
+    [
+      "The Implications of Linguistic Illegibility for LLM Security",
+      "https://arxiv.org/abs/2609.02852"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 18:55:35",
+      "https://news.ycombinator.com/item?id=49758615"
+    ],
+    [
+      "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
+      "https://arxiv.org/abs/2510.03215"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 18:51:46",
+      "https://news.ycombinator.com/item?id=49758580"
+    ],
+    [
+      "Saving another 100TB of RAM with math (and Rust)",
+      "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 18:39:31",
+      "https://news.ycombinator.com/item?id=49758419"
+    ],
+    [
+      "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
+      "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 18:08:32",
+      "https://news.ycombinator.com/item?id=49758028"
+    ],
+    [
+      "Border agents can search cellphones without a warrant or reasonable suspicion",
+      "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 17:28:01",
+      "https://news.ycombinator.com/item?id=49757520"
+    ],
+    [
+      "US Military had close call after using AI for hallucinated intelligence report",
+      "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
     ]
   ],
   [
@@ -21,32 +91,12 @@
   ],
   [
     [
-      "2026-09-18, 15:50:29",
-      "https://news.ycombinator.com/item?id=49756171"
+      "2026-09-18, 15:12:07",
+      "https://news.ycombinator.com/item?id=49755533"
     ],
     [
-      "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
-      "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 15:04:54",
-      "https://news.ycombinator.com/item?id=49755431"
-    ],
-    [
-      "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
-      "https://www.miro.vision/index.php/2026/09/17/grasslobbster/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 14:58:09",
-      "https://news.ycombinator.com/item?id=49755337"
-    ],
-    [
-      "Build Faster Feedback Loops Using Qualitative User Research",
-      "https://blog.nseldeib.com/p/build-faster-feedback-loops-using"
+      "Our brain evolved from two primitive nervous systems that merged: Study",
+      "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/"
     ]
   ],
   [
@@ -81,62 +131,12 @@
   ],
   [
     [
-      "2026-09-18, 14:21:24",
-      "https://news.ycombinator.com/item?id=49754823"
-    ],
-    [
-      "BeanShell3 in Development",
-      "https://beanshell.github.io/home.html"
-    ]
-  ],
-  [
-    [
       "2026-09-18, 14:18:41",
       "https://news.ycombinator.com/item?id=49754785"
     ],
     [
       "Cloudflare Quick Tunnels",
       "https://try.cloudflare.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 14:11:22",
-      "https://news.ycombinator.com/item?id=49754687"
-    ],
-    [
-      "Second Circuit Allows Government to Search Electronic Devices at the Border",
-      "https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 13:24:35",
-      "https://news.ycombinator.com/item?id=49754064"
-    ],
-    [
-      "NATS publishes preliminary report on technical incident of 8 September",
-      "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 13:06:30",
-      "https://news.ycombinator.com/item?id=49753878"
-    ],
-    [
-      "An Empirical Study of Harness Design for Coding Agents",
-      "https://arxiv.org/abs/2609.20804"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 12:06:50",
-      "https://news.ycombinator.com/item?id=49753211"
-    ],
-    [
-      "I don't like passkeys",
-      "https://hawksley.dev/blog/i-dont-like-passkeys"
     ]
   ],
   [
@@ -151,32 +151,22 @@
   ],
   [
     [
-      "2026-09-18, 11:01:44",
-      "https://news.ycombinator.com/item?id=49752614"
-    ],
-    [
-      "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-      "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 09:45:07",
-      "https://news.ycombinator.com/item?id=49752056"
-    ],
-    [
-      "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
-    ]
-  ],
-  [
-    [
       "2026-09-18, 09:42:22",
       "https://news.ycombinator.com/item?id=49752041"
     ],
     [
       "OpenJev",
       "https://openjev.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 06:11:17",
+      "https://news.ycombinator.com/item?id=49750694"
+    ],
+    [
+      "Inside ZCode: Silently uploading your Git history to the cloud",
+      "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/"
     ]
   ],
   [
@@ -201,22 +191,22 @@
   ],
   [
     [
-      "2026-09-18, 03:04:38",
-      "https://news.ycombinator.com/item?id=49749771"
+      "2026-09-18, 02:56:48",
+      "https://news.ycombinator.com/item?id=49749724"
     ],
     [
-      "Pre-Greek: The lost language hidden within Ancient Greek",
-      "https://linguisticdiscovery.com/posts/pre-greek/"
+      "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157"
     ]
   ],
   [
     [
-      "2026-09-18, 02:47:24",
-      "https://news.ycombinator.com/item?id=49749656"
+      "2026-09-18, 02:00:25",
+      "https://news.ycombinator.com/item?id=49749369"
     ],
     [
-      "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "https://www.hacktron.ai/blog/hacking-openai"
+      "Minimal Phone 2",
+      "https://minimalcompany.com/"
     ]
   ],
   [
@@ -241,16 +231,6 @@
   ],
   [
     [
-      "2026-09-17, 23:05:48",
-      "https://news.ycombinator.com/item?id=49747925"
-    ],
-    [
-      "Qwen 3.8 Omni Flash",
-      "https://qwen.ai/blog?id=qwen3.8-omni-flash"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 21:48:38",
       "https://news.ycombinator.com/item?id=49747070"
     ],
@@ -261,12 +241,12 @@
   ],
   [
     [
-      "2026-09-17, 21:13:31",
-      "https://news.ycombinator.com/item?id=49746618"
+      "2026-09-17, 21:14:19",
+      "https://news.ycombinator.com/item?id=49746626"
     ],
     [
-      "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "https://prismml.com/news/bonsai-2-27b"
+      "How SpaceX streamlined the Raptor engine",
+      "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor"
     ]
   ],
   [
@@ -281,22 +261,42 @@
   ],
   [
     [
-      "2026-09-16, 13:20:15",
-      "https://news.ycombinator.com/item?id=49726614"
+      "2026-09-17, 18:31:56",
+      "https://news.ycombinator.com/item?id=49744704"
     ],
     [
-      "When the fractional part of a float fixes your shader",
-      "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/"
+      "The first new cat species discovered in 100 years",
+      "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years"
     ]
   ],
   [
     [
-      "2026-09-16, 02:37:22",
-      "https://news.ycombinator.com/item?id=49721507"
+      "2026-09-17, 18:08:02",
+      "https://news.ycombinator.com/item?id=49744416"
     ],
     [
-      "The Shadows Lurking in the Equations – Underwater Islands",
-      "https://gods.art/articles/equation_shadows"
+      "Show HN: Ax-check.com – Can agents use your product?",
+      "https://www.ax-check.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 13:20:03",
+      "https://news.ycombinator.com/item?id=49740371"
+    ],
+    [
+      "\"From Geometry to Algebra and Back Again: 4000 Years of Papers\" by Jack Rusher [video]",
+      "https://www.youtube.com/watch?v=1cRFfYQYGxE"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 15:35:33",
+      "https://news.ycombinator.com/item?id=49714157"
+    ],
+    [
+      "A search-and-inference database from scratch in pure Zig",
+      "https://antfly.io/research/antfly-zig"
     ]
   ]
 ]
