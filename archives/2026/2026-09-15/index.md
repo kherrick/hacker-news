@@ -43,6 +43,7 @@
 * [2026-09-15, 14:40:08](https://news.ycombinator.com/item?id=49713262) - [The CSS Zen Garden dream shipped](https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/)
 * [2026-09-15, 14:40:05](https://news.ycombinator.com/item?id=49713261) - [What we have learned at OpenShell applying formal methods to control AI agents](https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/)
 * [2026-09-15, 14:31:23](https://news.ycombinator.com/item?id=49713130) - [GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt](https://arxiv.org/abs/2602.06258)
+* [2026-09-15, 14:27:54](https://news.ycombinator.com/item?id=49713088) - [Dr Julius Neubronner's Miniature Pigeon Camera](https://publicdomainreview.org/collection/dr-julius-neubronner-s-miniature-pigeon-camera/)
 * [2026-09-15, 14:24:08](https://news.ycombinator.com/item?id=49713024) - [The Inference Hardware Revolution of 2026](https://spectrum.ieee.org/inference-hardware-revolution)
 * [2026-09-15, 13:58:37](https://news.ycombinator.com/item?id=49712621) - [Show HN: Panel – A research workspace where the agent can build its own panes](https://github.com/greentfrapp/panel)
 * [2026-09-15, 13:31:40](https://news.ycombinator.com/item?id=49712278) - [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/)

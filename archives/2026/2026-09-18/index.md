@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-18](index.md)
 
+* [2026-09-18, 09:45:07](https://news.ycombinator.com/item?id=49752056) - [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
+* [2026-09-18, 09:42:22](https://news.ycombinator.com/item?id=49752041) - [OpenJev](https://openjev.com/)
 * [2026-09-18, 04:20:24](https://news.ycombinator.com/item?id=49750152) - [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
 * [2026-09-18, 04:09:48](https://news.ycombinator.com/item?id=49750094) - [The Scourge of x86 Emulation](https://fex-emu.com/Scourge-of-emulation/)
 * [2026-09-18, 03:49:24](https://news.ycombinator.com/item?id=49749981) - [Waymo in Singapore](https://waymo.com/waymo-in-singapore/)
