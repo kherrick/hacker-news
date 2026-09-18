@@ -1,6 +1,96 @@
 [
   [
     [
+      "2026-09-18, 14:36:10",
+      "https://news.ycombinator.com/item?id=49755024"
+    ],
+    [
+      "I Vibed a Proof of Conway's Conjecture",
+      "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 14:11:22",
+      "https://news.ycombinator.com/item?id=49754687"
+    ],
+    [
+      "Second Circuit Allows Government to Search Electronic Devices at the Border",
+      "https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 13:24:35",
+      "https://news.ycombinator.com/item?id=49754064"
+    ],
+    [
+      "NATS publishes preliminary report on technical incident of 8 September",
+      "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 13:06:30",
+      "https://news.ycombinator.com/item?id=49753878"
+    ],
+    [
+      "An Empirical Study of Harness Design for Coding Agents",
+      "https://arxiv.org/abs/2609.20804"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 12:06:50",
+      "https://news.ycombinator.com/item?id=49753211"
+    ],
+    [
+      "I don't like passkeys",
+      "https://hawksley.dev/blog/i-dont-like-passkeys"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 12:03:55",
+      "https://news.ycombinator.com/item?id=49753179"
+    ],
+    [
+      "Bend 2 and the Vibe-Coding Trap",
+      "https://blog.liampwll.com/posts/bend_vibe_coding/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 12:00:10",
+      "https://news.ycombinator.com/item?id=49753131"
+    ],
+    [
+      "Cekura (YC F24) Is Hiring",
+      "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 11:01:44",
+      "https://news.ycombinator.com/item?id=49752614"
+    ],
+    [
+      "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+      "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 10:35:28",
+      "https://news.ycombinator.com/item?id=49752422"
+    ],
+    [
+      "ZCode, the GLM coding agent, silently uploads your Git history",
+      "https://tokenstead.ai/guides/zcode-silent-git-history-upload"
+    ]
+  ],
+  [
+    [
       "2026-09-18, 09:45:07",
       "https://news.ycombinator.com/item?id=49752056"
     ],
@@ -17,6 +107,16 @@
     [
       "OpenJev",
       "https://openjev.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 07:32:50",
+      "https://news.ycombinator.com/item?id=49751222"
+    ],
+    [
+      "New wild cat species discovered – with only one known living member",
+      "https://www.bbc.com/news/articles/c6x2zgv9rr4ro"
     ]
   ],
   [
@@ -61,36 +161,6 @@
   ],
   [
     [
-      "2026-09-18, 02:04:19",
-      "https://news.ycombinator.com/item?id=49749393"
-    ],
-    [
-      "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
-      "https://byteshape.com/blogs/Qwen3.8-27B/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 01:34:08",
-      "https://news.ycombinator.com/item?id=49749171"
-    ],
-    [
-      "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
-      "https://askamonk.online"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 01:05:03",
-      "https://news.ycombinator.com/item?id=49748957"
-    ],
-    [
-      "Telstra outage: The night a network decided the year was 2006",
-      "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 23:05:48",
       "https://news.ycombinator.com/item?id=49747925"
     ],
@@ -117,36 +187,6 @@
     [
       "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
       "https://prismml.com/news/bonsai-2-27b"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 20:52:36",
-      "https://news.ycombinator.com/item?id=49746407"
-    ],
-    [
-      "The most important product decision is what you don't build",
-      "https://liamnugent.me/posts/what-you-dont-build/"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 20:48:04",
-      "https://news.ycombinator.com/item?id=49746346"
-    ],
-    [
-      "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
-      "https://snapdrop.me"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 20:44:28",
-      "https://news.ycombinator.com/item?id=49746290"
-    ],
-    [
-      "Flet 1.0 – Build cross-platform apps in Python",
-      "https://flet.dev/"
     ]
   ],
   [
@@ -181,36 +221,6 @@
   ],
   [
     [
-      "2026-09-17, 15:34:01",
-      "https://news.ycombinator.com/item?id=49742355"
-    ],
-    [
-      "CrowdSec Source Code Leak",
-      "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 08:51:51",
-      "https://news.ycombinator.com/item?id=49738091"
-    ],
-    [
-      "Why I didn’t sign the Fields medallists’ letter",
-      "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 19:56:38",
-      "https://news.ycombinator.com/item?id=49732087"
-    ],
-    [
-      "Why Does the Universe Expand?",
-      "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 14:05:44",
       "https://news.ycombinator.com/item?id=49727245"
     ],
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2026-09-16, 11:52:40",
-      "https://news.ycombinator.com/item?id=49725404"
+      "2026-09-16, 02:37:22",
+      "https://news.ycombinator.com/item?id=49721507"
     ],
     [
-      "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
-      "https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 17:37:41",
-      "https://news.ycombinator.com/item?id=49715936"
-    ],
-    [
-      "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
-      "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy"
+      "The Shadows Lurking in the Equations – Underwater Islands",
+      "https://gods.art/articles/equation_shadows"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-09-15, 16:02:15",
-      "https://news.ycombinator.com/item?id=49714596"
+      "2026-09-15, 16:58:22",
+      "https://news.ycombinator.com/item?id=49715408"
     ],
     [
-      "Speeding up gearhash on ARM64",
-      "https://sam.dev/blog/gearhash-on-arm64"
+      "Subnormal floating-point numbers are expensive on Intel processors",
+      "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-09-15, 10:46:24",
-      "https://news.ycombinator.com/item?id=49710447"
+      "2026-09-13, 22:22:34",
+      "https://news.ycombinator.com/item?id=49689337"
     ],
     [
-      "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
-      "https://www.sci.news/paleontology/spanish-diplodocus-15064.html"
+      "Show HN: Navier-Stokes Visualized as 1kB i386 demos",
+      "https://juandecos.github.io/TurboZip/vortex.html"
     ]
   ]
 ]
