@@ -1,12 +1,102 @@
 [
   [
     [
+      "2026-09-18, 17:02:52",
+      "https://news.ycombinator.com/item?id=49757178"
+    ],
+    [
+      "There's no point at which turning your brain off will work",
+      "https://danluu.com/brain-off/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 16:54:18",
+      "https://news.ycombinator.com/item?id=49757050"
+    ],
+    [
+      "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 15:50:29",
+      "https://news.ycombinator.com/item?id=49756171"
+    ],
+    [
+      "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
+      "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 15:04:54",
+      "https://news.ycombinator.com/item?id=49755431"
+    ],
+    [
+      "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+      "https://www.miro.vision/index.php/2026/09/17/grasslobbster/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 14:58:09",
+      "https://news.ycombinator.com/item?id=49755337"
+    ],
+    [
+      "Build Faster Feedback Loops Using Qualitative User Research",
+      "https://blog.nseldeib.com/p/build-faster-feedback-loops-using"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 14:45:32",
+      "https://news.ycombinator.com/item?id=49755160"
+    ],
+    [
+      "North Korean nuclear test sets off years of earthquakes",
+      "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 14:41:02",
+      "https://news.ycombinator.com/item?id=49755095"
+    ],
+    [
+      "Mathematicians Build Long-Awaited Graph Sandwich",
+      "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/"
+    ]
+  ],
+  [
+    [
       "2026-09-18, 14:36:10",
       "https://news.ycombinator.com/item?id=49755024"
     ],
     [
-      "I Vibed a Proof of Conway's Conjecture",
+      "I vibed a proof of Conway's conjecture",
       "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 14:21:24",
+      "https://news.ycombinator.com/item?id=49754823"
+    ],
+    [
+      "BeanShell3 in Development",
+      "https://beanshell.github.io/home.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 14:18:41",
+      "https://news.ycombinator.com/item?id=49754785"
+    ],
+    [
+      "Cloudflare Quick Tunnels",
+      "https://try.cloudflare.com/"
     ]
   ],
   [
@@ -51,16 +141,6 @@
   ],
   [
     [
-      "2026-09-18, 12:03:55",
-      "https://news.ycombinator.com/item?id=49753179"
-    ],
-    [
-      "Bend 2 and the Vibe-Coding Trap",
-      "https://blog.liampwll.com/posts/bend_vibe_coding/"
-    ]
-  ],
-  [
-    [
       "2026-09-18, 12:00:10",
       "https://news.ycombinator.com/item?id=49753131"
     ],
@@ -81,16 +161,6 @@
   ],
   [
     [
-      "2026-09-18, 10:35:28",
-      "https://news.ycombinator.com/item?id=49752422"
-    ],
-    [
-      "ZCode, the GLM coding agent, silently uploads your Git history",
-      "https://tokenstead.ai/guides/zcode-silent-git-history-upload"
-    ]
-  ],
-  [
-    [
       "2026-09-18, 09:45:07",
       "https://news.ycombinator.com/item?id=49752056"
     ],
@@ -107,16 +177,6 @@
     [
       "OpenJev",
       "https://openjev.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 07:32:50",
-      "https://news.ycombinator.com/item?id=49751222"
-    ],
-    [
-      "New wild cat species discovered – with only one known living member",
-      "https://www.bbc.com/news/articles/c6x2zgv9rr4ro"
     ]
   ],
   [
@@ -161,6 +221,26 @@
   ],
   [
     [
+      "2026-09-18, 00:11:44",
+      "https://news.ycombinator.com/item?id=49748553"
+    ],
+    [
+      "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "https://cactuscompute.com/needle"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 23:15:57",
+      "https://news.ycombinator.com/item?id=49748041"
+    ],
+    [
+      "Show HN: Scry, programmable internet search w/ congestion pricing",
+      "https://scry.io/"
+    ]
+  ],
+  [
+    [
       "2026-09-17, 23:05:48",
       "https://news.ycombinator.com/item?id=49747925"
     ],
@@ -191,42 +271,12 @@
   ],
   [
     [
-      "2026-09-17, 20:36:13",
-      "https://news.ycombinator.com/item?id=49746163"
+      "2026-09-17, 20:52:33",
+      "https://news.ycombinator.com/item?id=49746406"
     ],
     [
-      "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "https://bend-lang.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 20:17:48",
-      "https://news.ycombinator.com/item?id=49745940"
-    ],
-    [
-      "Astra for Law",
-      "https://openai.com/index/astra-for-law/"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 16:25:37",
-      "https://news.ycombinator.com/item?id=49743097"
-    ],
-    [
-      "Hister: A private search engine for the pages you visit and the files you keep",
-      "https://github.com/asciimoo/hister"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 14:05:44",
-      "https://news.ycombinator.com/item?id=49727245"
-    ],
-    [
-      "Replacing Pull Requests with Delta",
-      "https://zed.dev/blog/delta-public-beta"
+      "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops"
     ]
   ],
   [
@@ -241,62 +291,12 @@
   ],
   [
     [
-      "2026-09-16, 12:35:14",
-      "https://news.ycombinator.com/item?id=49726007"
-    ],
-    [
-      "Wax motor",
-      "https://en.wikipedia.org/wiki/Wax_motor"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 02:37:22",
       "https://news.ycombinator.com/item?id=49721507"
     ],
     [
       "The Shadows Lurking in the Equations – Underwater Islands",
       "https://gods.art/articles/equation_shadows"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 17:28:38",
-      "https://news.ycombinator.com/item?id=49715813"
-    ],
-    [
-      "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "https://global.fujitsu/en-global/pr/news/2026/09/14-02"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 16:58:22",
-      "https://news.ycombinator.com/item?id=49715408"
-    ],
-    [
-      "Subnormal floating-point numbers are expensive on Intel processors",
-      "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 14:27:54",
-      "https://news.ycombinator.com/item?id=49713088"
-    ],
-    [
-      "Dr Julius Neubronner's Miniature Pigeon Camera",
-      "https://publicdomainreview.org/collection/dr-julius-neubronner-s-miniature-pigeon-camera/"
-    ]
-  ],
-  [
-    [
-      "2026-09-13, 22:22:34",
-      "https://news.ycombinator.com/item?id=49689337"
-    ],
-    [
-      "Show HN: Navier-Stokes Visualized as 1kB i386 demos",
-      "https://juandecos.github.io/TurboZip/vortex.html"
     ]
   ]
 ]
