@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-09-18, 09:45:07",
+      "https://news.ycombinator.com/item?id=49752056"
+    ],
+    [
+      "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 09:42:22",
+      "https://news.ycombinator.com/item?id=49752041"
+    ],
+    [
+      "OpenJev",
+      "https://openjev.com/"
+    ]
+  ],
+  [
+    [
       "2026-09-18, 04:20:24",
       "https://news.ycombinator.com/item?id=49750152"
     ],
@@ -15,18 +35,8 @@
       "https://news.ycombinator.com/item?id=49750094"
     ],
     [
-      "The Scourge of x86 Emulation",
+      "The scourge of x86 emulation",
       "https://fex-emu.com/Scourge-of-emulation/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 03:49:24",
-      "https://news.ycombinator.com/item?id=49749981"
-    ],
-    [
-      "Waymo in Singapore",
-      "https://waymo.com/waymo-in-singapore/"
     ]
   ],
   [
@@ -41,21 +51,11 @@
   ],
   [
     [
-      "2026-09-18, 03:00:40",
-      "https://news.ycombinator.com/item?id=49749744"
-    ],
-    [
-      "Code Scans",
-      "https://devin.ai/blog/introducing-code-scans"
-    ]
-  ],
-  [
-    [
       "2026-09-18, 02:47:24",
       "https://news.ycombinator.com/item?id=49749656"
     ],
     [
-      "Hacking OpenAI",
+      "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
       "https://www.hacktron.ai/blog/hacking-openai"
     ]
   ],
@@ -107,16 +107,6 @@
     [
       "How to Write with an LLM",
       "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 21:14:32",
-      "https://news.ycombinator.com/item?id=49746628"
-    ],
-    [
-      "How Uber Protects Against Retry Storms",
-      "https://www.uber.com/us/en/blog/protecting-against-retry-storms/"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2026-09-17, 16:55:14",
-      "https://news.ycombinator.com/item?id=49743483"
-    ],
-    [
-      "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-      "https://arxiv.org/abs/2609.18842"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 16:25:37",
       "https://news.ycombinator.com/item?id=49743097"
     ],
@@ -211,22 +191,42 @@
   ],
   [
     [
-      "2026-09-17, 13:12:28",
-      "https://news.ycombinator.com/item?id=49740260"
-    ],
-    [
-      "The American Religion of Self-Storage Facilities",
-      "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 08:51:51",
       "https://news.ycombinator.com/item?id=49738091"
     ],
     [
       "Why I didn’t sign the Fields medallists’ letter",
       "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 19:56:38",
+      "https://news.ycombinator.com/item?id=49732087"
+    ],
+    [
+      "Why Does the Universe Expand?",
+      "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 14:05:44",
+      "https://news.ycombinator.com/item?id=49727245"
+    ],
+    [
+      "Replacing Pull Requests with Delta",
+      "https://zed.dev/blog/delta-public-beta"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 13:20:15",
+      "https://news.ycombinator.com/item?id=49726614"
+    ],
+    [
+      "When the fractional part of a float fixes your shader",
+      "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/"
     ]
   ],
   [
@@ -247,16 +247,6 @@
     [
       "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
       "https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 01:32:29",
-      "https://news.ycombinator.com/item?id=49721122"
-    ],
-    [
-      "Khipu (Quipu) Field Guide",
-      "https://www.khipufieldguide.com/"
     ]
   ],
   [
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=49714596"
     ],
     [
-      "Speeding up gearhash on ARM64 (2× faster)",
+      "Speeding up gearhash on ARM64",
       "https://sam.dev/blog/gearhash-on-arm64"
+    ]
+  ],
+  [
+    [
+      "2026-09-15, 14:27:54",
+      "https://news.ycombinator.com/item?id=49713088"
+    ],
+    [
+      "Dr Julius Neubronner's Miniature Pigeon Camera",
+      "https://publicdomainreview.org/collection/dr-julius-neubronner-s-miniature-pigeon-camera/"
     ]
   ],
   [
