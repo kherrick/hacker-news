@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-19](index.md)
 
+* [2026-09-19, 10:46:58](https://news.ycombinator.com/item?id=49765348) - [Laya the open source version of Jev](https://laya.convaiinnovations.com/)
+* [2026-09-19, 09:20:58](https://news.ycombinator.com/item?id=49764791) - [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
 * [2026-09-19, 06:41:44](https://news.ycombinator.com/item?id=49763987) - [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
 * [2026-09-19, 06:28:02](https://news.ycombinator.com/item?id=49763928) - [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
 * [2026-09-19, 06:19:24](https://news.ycombinator.com/item?id=49763883) - [Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7](https://browser.geekbench.com/v7/cpu/389219)
