@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-09-18, 22:35:10](https://news.ycombinator.com/item?id=49761178) - [US troop deaths during Iran war exceed Pentagon count by at least four](https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/)
+* [2026-09-18, 23:04:17](https://news.ycombinator.com/item?id=49761432) - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)
 * [2026-09-18, 21:00:32](https://news.ycombinator.com/item?id=49760187) - [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
 * [2026-09-18, 20:02:54](https://news.ycombinator.com/item?id=49759466) - [Korea raises data breach fines to 10% of revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
 * [2026-09-18, 19:03:09](https://news.ycombinator.com/item?id=49758736) - [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
@@ -8,8 +8,6 @@
 * [2026-09-18, 18:55:35](https://news.ycombinator.com/item?id=49758615) - [Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](https://arxiv.org/abs/2510.03215)
 * [2026-09-18, 18:51:46](https://news.ycombinator.com/item?id=49758580) - [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
 * [2026-09-18, 18:39:31](https://news.ycombinator.com/item?id=49758419) - [Xcode 27.1 Beta Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes)
-* [2026-09-18, 18:08:32](https://news.ycombinator.com/item?id=49758028) - [Border agents can search cellphones without a warrant or reasonable suspicion](https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/)
-* [2026-09-18, 17:28:01](https://news.ycombinator.com/item?id=49757520) - [US Military had close call after using AI for hallucinated intelligence report](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
 * [2026-09-18, 16:54:18](https://news.ycombinator.com/item?id=49757050) - [Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/)
 * [2026-09-18, 15:12:07](https://news.ycombinator.com/item?id=49755533) - [Two parallel neural ectoderm progenitors contribute to the developing brain](https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/)
 * [2026-09-18, 14:45:32](https://news.ycombinator.com/item?id=49755160) - [North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)
@@ -26,9 +24,11 @@
 * [2026-09-17, 21:14:19](https://news.ycombinator.com/item?id=49746626) - [How SpaceX streamlined the Raptor engine](https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor)
 * [2026-09-17, 20:52:33](https://news.ycombinator.com/item?id=49746406) - [C++26: Trivial infinite loops are no longer undefined behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops)
 * [2026-09-17, 18:31:56](https://news.ycombinator.com/item?id=49744704) - [The first new cat species discovered in 100 years](https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years)
+* [2026-09-17, 17:39:01](https://news.ycombinator.com/item?id=49744036) - [The Farnese letter](https://simonklee.dk/farnese-letter)
 * [2026-09-17, 13:20:03](https://news.ycombinator.com/item?id=49740371) - [From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]](https://www.youtube.com/watch?v=1cRFfYQYGxE)
 * [2026-09-17, 00:45:49](https://news.ycombinator.com/item?id=49735057) - [Size-Specialized Memory Allocation](https://go.dev/blog/size-specialized-allocations)
 * [2026-09-16, 19:01:09](https://news.ycombinator.com/item?id=49731413) - [Cyclomatic Complexity in C#](https://blog.ndepend.com/understanding-cyclomatic-complexity/)
+* [2026-09-16, 16:42:37](https://news.ycombinator.com/item?id=49729631) - [Column built an issuer processor from scratch](https://column.com/card-issuing/)
 * [2026-09-15, 15:35:33](https://news.ycombinator.com/item?id=49714157) - [A search-and-inference database from scratch in pure Zig](https://antfly.io/research/antfly-zig)
 
 ## [Archives](archives/index.md)

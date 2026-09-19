@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-18](index.md)
 
+* [2026-09-18, 23:04:17](https://news.ycombinator.com/item?id=49761432) - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)
 * [2026-09-18, 22:35:10](https://news.ycombinator.com/item?id=49761178) - [US troop deaths during Iran war exceed Pentagon count by at least four](https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/)
 * [2026-09-18, 21:00:32](https://news.ycombinator.com/item?id=49760187) - [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
 * [2026-09-18, 20:02:54](https://news.ycombinator.com/item?id=49759466) - [Korea raises data breach fines to 10% of revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)

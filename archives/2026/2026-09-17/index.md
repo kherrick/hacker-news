@@ -26,6 +26,7 @@
 * [2026-09-17, 18:31:56](https://news.ycombinator.com/item?id=49744704) - [The first new cat species discovered in 100 years](https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years)
 * [2026-09-17, 18:16:38](https://news.ycombinator.com/item?id=49744530) - [Don't Make Job Referrals Public](https://blog.melashri.net/micro/public-job-referral/)
 * [2026-09-17, 18:08:02](https://news.ycombinator.com/item?id=49744416) - [Show HN: Ax-check.com – Can agents use your product?](https://www.ax-check.com/)
+* [2026-09-17, 17:39:01](https://news.ycombinator.com/item?id=49744036) - [The Farnese letter](https://simonklee.dk/farnese-letter)
 * [2026-09-17, 17:00:59](https://news.ycombinator.com/item?id=49743567) - [Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI](https://zscc.ai/careers?job_id=109821)
 * [2026-09-17, 16:58:31](https://news.ycombinator.com/item?id=49743527) - [Towards Self-Driving Codebases](https://blog.detail.dev/posts/towards-self-driving-codebases/)
 * [2026-09-17, 16:55:14](https://news.ycombinator.com/item?id=49743483) - [Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data](https://arxiv.org/abs/2609.18842)

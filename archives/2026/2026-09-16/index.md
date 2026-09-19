@@ -21,6 +21,7 @@
 * [2026-09-16, 18:31:35](https://news.ycombinator.com/item?id=49731054) - [Vectorized and performance-portable Quicksort (2022)](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
 * [2026-09-16, 17:27:37](https://news.ycombinator.com/item?id=49730239) - [ER visits for gambling disorders doubled after expanded online gambling market](https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market)
 * [2026-09-16, 16:58:13](https://news.ycombinator.com/item?id=49729816) - [Training Text-to-Image Models 3.6× Faster](https://www.linum.ai/field-notes/jit-ddt)
+* [2026-09-16, 16:42:37](https://news.ycombinator.com/item?id=49729631) - [Column built an issuer processor from scratch](https://column.com/card-issuing/)
 * [2026-09-16, 16:26:25](https://news.ycombinator.com/item?id=49729412) - [Claude Cowork and chat are now one Claude](https://claude.com/blog/cowork-is-now-claude)
 * [2026-09-16, 16:13:55](https://news.ycombinator.com/item?id=49729228) - [This Code Is CRAP (2011)](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
 * [2026-09-16, 15:56:47](https://news.ycombinator.com/item?id=49729000) - [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
