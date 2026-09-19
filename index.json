@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-19, 21:43:09",
+      "https://news.ycombinator.com/item?id=49770362"
+    ],
+    [
+      "Mayday Mysteries",
+      "http://www.maydaymystery.org/mayday/"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 21:30:59",
+      "https://news.ycombinator.com/item?id=49770293"
+    ],
+    [
+      "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 21:25:29",
+      "https://news.ycombinator.com/item?id=49770256"
+    ],
+    [
+      "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "https://chrono.fandom.com/wiki/Dream_Devourer"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 20:41:26",
+      "https://news.ycombinator.com/item?id=49769944"
+    ],
+    [
+      "English: A vs. An",
+      "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/"
+    ]
+  ],
+  [
+    [
       "2026-09-19, 20:00:59",
       "https://news.ycombinator.com/item?id=49769676"
     ],
@@ -27,16 +67,6 @@
     [
       "Microsoft director: AI scraping 'the largest theft of labor in human history'",
       "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 18:11:40",
-      "https://news.ycombinator.com/item?id=49768833"
-    ],
-    [
-      "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-      "https://bartosz.fenski.pl/modern-fs-benchmark/"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Brood War Bench",
       "https://bw.swerdlow.dev/report"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 13:55:18",
-      "https://news.ycombinator.com/item?id=49766637"
-    ],
-    [
-      "What Zig felt like, coming from Rust",
-      "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-09-19, 02:32:36",
-      "https://news.ycombinator.com/item?id=49762744"
-    ],
-    [
-      "SDCC – Small Device C Compiler",
-      "https://sdcc.sourceforge.net/"
-    ]
-  ],
-  [
-    [
       "2026-09-18, 19:03:09",
       "https://news.ycombinator.com/item?id=49758736"
     ],
@@ -241,22 +251,22 @@
   ],
   [
     [
+      "2026-09-17, 17:30:38",
+      "https://news.ycombinator.com/item?id=49743934"
+    ],
+    [
+      "Compiler-style optimization for drawing via Skia",
+      "https://arxiv.org/abs/2603.23696"
+    ]
+  ],
+  [
+    [
       "2026-09-17, 15:58:31",
       "https://news.ycombinator.com/item?id=49742697"
     ],
     [
       "New evidence for hidden chambers beyond Tutankhamun's tomb",
       "https://www.nature.com/articles/d41586-026-02621-2"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 05:41:24",
-      "https://news.ycombinator.com/item?id=49736823"
-    ],
-    [
-      "Communication by means of modulated Johnson noise",
-      "https://www.pnas.org/doi/10.1073/pnas.2201337119"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Deodands put a price on objects that caused death",
       "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 17:16:11",
-      "https://news.ycombinator.com/item?id=49730069"
-    ],
-    [
-      "You can run Git on object storage if you re-make packfiles",
-      "https://www.tigrisdata.com/blog/objgit-packfiles/"
     ]
   ],
   [
