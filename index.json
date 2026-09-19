@@ -1,42 +1,52 @@
 [
   [
     [
-      "2026-09-19, 16:13:45",
-      "https://news.ycombinator.com/item?id=49767743"
+      "2026-09-19, 18:11:40",
+      "https://news.ycombinator.com/item?id=49768833"
     ],
     [
-      "Leaving DigitalOcean, one site at a time",
-      "https://keith.is/post/leaving-digitalocean/"
+      "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "https://bartosz.fenski.pl/modern-fs-benchmark/"
     ]
   ],
   [
     [
-      "2026-09-19, 15:32:19",
-      "https://news.ycombinator.com/item?id=49767386"
+      "2026-09-19, 17:42:43",
+      "https://news.ycombinator.com/item?id=49768606"
     ],
     [
-      "Jobs Without LeetCode",
-      "https://noleet.lol/jobs"
+      "People who know the most often sound the least certain",
+      "https://vrash.substack.com/p/the-people-who-know-the-most-often"
     ]
   ],
   [
     [
-      "2026-09-19, 14:45:12",
-      "https://news.ycombinator.com/item?id=49766976"
+      "2026-09-19, 17:01:30",
+      "https://news.ycombinator.com/item?id=49768220"
     ],
     [
-      "Agreement between the USA and Denmark (1951,2004) [pdf]",
-      "https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf"
+      "Supabase (YC S20) Is Hiring for OrioleDB",
+      "https://supabase.link/orioledbjob"
     ]
   ],
   [
     [
-      "2026-09-19, 14:23:42",
-      "https://news.ycombinator.com/item?id=49766821"
+      "2026-09-19, 16:35:24",
+      "https://news.ycombinator.com/item?id=49767937"
     ],
     [
-      "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
-      "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951"
+      "Almost Never Use AI to Write Anything Substantive",
+      "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 15:52:51",
+      "https://news.ycombinator.com/item?id=49767564"
+    ],
+    [
+      "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "https://github.com/trycua/cua"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=49765348"
     ],
     [
-      "Laya the open source version of Jev",
+      "I built non-autoregressive decision models with RL a year ago",
       "https://laya.convaiinnovations.com/"
     ]
   ],
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2026-09-18, 23:04:17",
+      "https://news.ycombinator.com/item?id=49761432"
+    ],
+    [
+      "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "https://spectrum.ieee.org/llms-for-chip-design"
+    ]
+  ],
+  [
+    [
       "2026-09-18, 19:03:09",
       "https://news.ycombinator.com/item?id=49758736"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-09-18, 03:08:04",
-      "https://news.ycombinator.com/item?id=49749789"
-    ],
-    [
-      "I built the fastest PHP webserver in the world",
-      "https://qbixserver.com"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 21:48:38",
       "https://news.ycombinator.com/item?id=49747070"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2026-09-17, 16:55:50",
-      "https://news.ycombinator.com/item?id=49743490"
+      "2026-09-17, 19:00:40",
+      "https://news.ycombinator.com/item?id=49745049"
     ],
     [
-      "From Stonemasons to Carpenters",
-      "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters"
+      "Adventures in Microcontroller Circuit Debugging",
+      "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2026-09-17, 01:58:25",
-      "https://news.ycombinator.com/item?id=49735541"
+      "2026-09-17, 00:39:39",
+      "https://news.ycombinator.com/item?id=49735010"
     ],
     [
-      "Ctenophores: Wonders of Biology",
-      "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/"
+      "Suzanne Ciani's Buchla Cookbook",
+      "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Asking Authors About Their Own Papers",
       "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 22:51:16",
-      "https://news.ycombinator.com/item?id=49734131"
-    ],
-    [
-      "Why building a Rust LSP is hard",
-      "https://rust-glancer.github.io/blog/why-lsp-is-hard/"
     ]
   ],
   [
