@@ -29,6 +29,7 @@
 * [2026-09-17, 18:08:02](https://news.ycombinator.com/item?id=49744416) - [Show HN: Ax-check.com – Can agents use your product?](https://www.ax-check.com/)
 * [2026-09-17, 17:47:40](https://news.ycombinator.com/item?id=49744174) - [Show HN: I wrote a custom assembler for CHIP-8 in C++](https://github.com/Tackx/c8-ass)
 * [2026-09-17, 17:39:01](https://news.ycombinator.com/item?id=49744036) - [The Farnese letter](https://simonklee.dk/farnese-letter)
+* [2026-09-17, 17:30:38](https://news.ycombinator.com/item?id=49743934) - [Compiler-style optimization for drawing via Skia](https://arxiv.org/abs/2603.23696)
 * [2026-09-17, 17:00:59](https://news.ycombinator.com/item?id=49743567) - [Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI](https://zscc.ai/careers?job_id=109821)
 * [2026-09-17, 16:58:31](https://news.ycombinator.com/item?id=49743527) - [Towards Self-Driving Codebases](https://blog.detail.dev/posts/towards-self-driving-codebases/)
 * [2026-09-17, 16:55:50](https://news.ycombinator.com/item?id=49743490) - [From Stonemasons to Carpenters](https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters)

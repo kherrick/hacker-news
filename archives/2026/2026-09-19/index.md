@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-19](index.md)
 
+* [2026-09-19, 21:43:09](https://news.ycombinator.com/item?id=49770362) - [Mayday Mysteries](http://www.maydaymystery.org/mayday/)
+* [2026-09-19, 21:30:59](https://news.ycombinator.com/item?id=49770293) - [How Hacker News ranking works: scoring, controversy, and penalties (2013)](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html)
+* [2026-09-19, 21:25:29](https://news.ycombinator.com/item?id=49770256) - [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
+* [2026-09-19, 20:41:26](https://news.ycombinator.com/item?id=49769944) - [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
 * [2026-09-19, 20:00:59](https://news.ycombinator.com/item?id=49769676) - [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install)
 * [2026-09-19, 19:23:23](https://news.ycombinator.com/item?id=49769405) - [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039)
 * [2026-09-19, 18:21:30](https://news.ycombinator.com/item?id=49768921) - [Microsoft director: AI scraping 'the largest theft of labor in human history'](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit)
