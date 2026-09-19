@@ -17,6 +17,7 @@
 * [2026-09-16, 20:09:18](https://news.ycombinator.com/item?id=49732270) - [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
 * [2026-09-16, 19:56:38](https://news.ycombinator.com/item?id=49732087) - [Why Does the Universe Expand?](https://cosmicave.org/2026/09/15/why-does-the-universe-expand/)
 * [2026-09-16, 19:53:36](https://news.ycombinator.com/item?id=49732036) - [macOS 27 Golden Gate – Review](https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/)
+* [2026-09-16, 19:51:23](https://news.ycombinator.com/item?id=49731996) - [Deodands put a price on objects that caused death](https://daily.jstor.org/how-the-railways-killed-a-medieval-law/)
 * [2026-09-16, 19:19:08](https://news.ycombinator.com/item?id=49731620) - [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)
 * [2026-09-16, 19:01:09](https://news.ycombinator.com/item?id=49731413) - [Cyclomatic Complexity in C#](https://blog.ndepend.com/understanding-cyclomatic-complexity/)
 * [2026-09-16, 18:56:05](https://news.ycombinator.com/item?id=49731360) - [Accurate Models of AMD Matrix Cores](https://arxiv.org/abs/2609.14845)

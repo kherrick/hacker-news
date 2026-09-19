@@ -29,6 +29,7 @@
 * [2026-09-18, 14:21:24](https://news.ycombinator.com/item?id=49754823) - [BeanShell3 in Development](https://beanshell.github.io/home.html)
 * [2026-09-18, 14:18:41](https://news.ycombinator.com/item?id=49754785) - [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
 * [2026-09-18, 14:11:22](https://news.ycombinator.com/item?id=49754687) - [Second Circuit Allows Government to Search Electronic Devices at the Border](https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion)
+* [2026-09-18, 13:35:05](https://news.ycombinator.com/item?id=49754194) - [UFO Series Home Page: \"UFO\" TV Series from 1970](https://ufoseries.com/)
 * [2026-09-18, 13:24:35](https://news.ycombinator.com/item?id=49754064) - [NATS publishes preliminary report on technical incident of 8 September](https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/)
 * [2026-09-18, 13:06:30](https://news.ycombinator.com/item?id=49753878) - [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
 * [2026-09-18, 12:06:50](https://news.ycombinator.com/item?id=49753211) - [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)

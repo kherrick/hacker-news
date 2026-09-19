@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-19](index.md)
 
+* [2026-09-19, 20:00:59](https://news.ycombinator.com/item?id=49769676) - [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install)
+* [2026-09-19, 19:23:23](https://news.ycombinator.com/item?id=49769405) - [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039)
+* [2026-09-19, 18:21:30](https://news.ycombinator.com/item?id=49768921) - [Microsoft director: AI scraping 'the largest theft of labor in human history'](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit)
 * [2026-09-19, 18:11:40](https://news.ycombinator.com/item?id=49768833) - [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
 * [2026-09-19, 17:42:43](https://news.ycombinator.com/item?id=49768606) - [People who know the most often sound the least certain](https://vrash.substack.com/p/the-people-who-know-the-most-often)
 * [2026-09-19, 17:01:30](https://news.ycombinator.com/item?id=49768220) - [Supabase (YC S20) Is Hiring for OrioleDB](https://supabase.link/orioledbjob)
@@ -12,6 +15,7 @@
 * [2026-09-19, 15:52:51](https://news.ycombinator.com/item?id=49767564) - [Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua)
 * [2026-09-19, 15:32:19](https://news.ycombinator.com/item?id=49767386) - [Jobs Without LeetCode](https://noleet.lol/jobs)
 * [2026-09-19, 14:45:12](https://news.ycombinator.com/item?id=49766976) - [Agreement between the USA and Denmark (1951,2004) [pdf]](https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf)
+* [2026-09-19, 14:44:02](https://news.ycombinator.com/item?id=49766966) - [Brood War Bench](https://bw.swerdlow.dev/report)
 * [2026-09-19, 14:23:42](https://news.ycombinator.com/item?id=49766821) - [Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
 * [2026-09-19, 14:01:58](https://news.ycombinator.com/item?id=49766676) - [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
 * [2026-09-19, 13:55:18](https://news.ycombinator.com/item?id=49766637) - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
