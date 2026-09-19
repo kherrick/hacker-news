@@ -1,6 +1,96 @@
 [
   [
     [
+      "2026-09-19, 04:44:35",
+      "https://news.ycombinator.com/item?id=49763379"
+    ],
+    [
+      "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 04:28:22",
+      "https://news.ycombinator.com/item?id=49763311"
+    ],
+    [
+      "Show HN: Seal – Letters and passwords that open for your family after you die",
+      "https://github.com/jasonepage/Seal"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 04:23:30",
+      "https://news.ycombinator.com/item?id=49763296"
+    ],
+    [
+      "San Francisco Onion Futures Company",
+      "https://onionfutures.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 04:07:08",
+      "https://news.ycombinator.com/item?id=49763234"
+    ],
+    [
+      "Harm Laundering in GPT Models: Gender Discrimination Transformed Rather Than",
+      "https://arxiv.org/abs/2609.20779"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 02:50:24",
+      "https://news.ycombinator.com/item?id=49762835"
+    ],
+    [
+      "Flock Offers Employees Buyouts as Customers Flee",
+      "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 02:32:36",
+      "https://news.ycombinator.com/item?id=49762744"
+    ],
+    [
+      "SDCC – Small Device C Compiler",
+      "https://sdcc.sourceforge.net/"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 02:21:35",
+      "https://news.ycombinator.com/item?id=49762687"
+    ],
+    [
+      "Science Is Open Software",
+      "https://jepedersen.dk/blog/202505_research/"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 00:30:34",
+      "https://news.ycombinator.com/item?id=49762099"
+    ],
+    [
+      "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "https://liveworld.info/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 23:54:42",
+      "https://news.ycombinator.com/item?id=49761840"
+    ],
+    [
+      "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
+    ]
+  ],
+  [
+    [
       "2026-09-18, 23:04:17",
       "https://news.ycombinator.com/item?id=49761432"
     ],
@@ -21,32 +111,12 @@
   ],
   [
     [
-      "2026-09-18, 20:02:54",
-      "https://news.ycombinator.com/item?id=49759466"
-    ],
-    [
-      "Korea raises data breach fines to 10% of revenue",
-      "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899"
-    ]
-  ],
-  [
-    [
       "2026-09-18, 19:03:09",
       "https://news.ycombinator.com/item?id=49758736"
     ],
     [
       "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "https://grapheneos.social/@GrapheneOS/117282080803799576"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 19:00:06",
-      "https://news.ycombinator.com/item?id=49758689"
-    ],
-    [
-      "The Implications of Linguistic Illegibility for LLM Security",
-      "https://arxiv.org/abs/2609.02852"
     ]
   ],
   [
@@ -91,62 +161,12 @@
   ],
   [
     [
-      "2026-09-18, 15:12:07",
-      "https://news.ycombinator.com/item?id=49755533"
-    ],
-    [
-      "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 14:45:32",
-      "https://news.ycombinator.com/item?id=49755160"
-    ],
-    [
-      "North Korean nuclear test sets off years of earthquakes",
-      "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 14:41:02",
-      "https://news.ycombinator.com/item?id=49755095"
-    ],
-    [
-      "Mathematicians Build Long-Awaited Graph Sandwich",
-      "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 14:36:10",
-      "https://news.ycombinator.com/item?id=49755024"
-    ],
-    [
-      "I vibed a proof of Conway's conjecture",
-      "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/"
-    ]
-  ],
-  [
-    [
       "2026-09-18, 14:18:41",
       "https://news.ycombinator.com/item?id=49754785"
     ],
     [
       "Cloudflare Quick Tunnels",
       "https://try.cloudflare.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 12:00:10",
-      "https://news.ycombinator.com/item?id=49753131"
-    ],
-    [
-      "Cekura (YC F24) Is Hiring",
-      "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us"
     ]
   ],
   [
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2026-09-17, 21:14:19",
-      "https://news.ycombinator.com/item?id=49746626"
-    ],
-    [
-      "How SpaceX streamlined the Raptor engine",
-      "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 20:52:33",
-      "https://news.ycombinator.com/item?id=49746406"
-    ],
-    [
-      "C++26: Trivial infinite loops are no longer undefined behaviour",
-      "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 18:31:56",
       "https://news.ycombinator.com/item?id=49744704"
     ],
@@ -251,22 +251,32 @@
   ],
   [
     [
-      "2026-09-17, 13:20:03",
-      "https://news.ycombinator.com/item?id=49740371"
+      "2026-09-16, 22:51:16",
+      "https://news.ycombinator.com/item?id=49734131"
     ],
     [
-      "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
-      "https://www.youtube.com/watch?v=1cRFfYQYGxE"
+      "Why building a Rust LSP is hard",
+      "https://rust-glancer.github.io/blog/why-lsp-is-hard/"
     ]
   ],
   [
     [
-      "2026-09-17, 00:45:49",
-      "https://news.ycombinator.com/item?id=49735057"
+      "2026-09-16, 22:01:49",
+      "https://news.ycombinator.com/item?id=49733647"
     ],
     [
-      "Size-Specialized Memory Allocation",
-      "https://go.dev/blog/size-specialized-allocations"
+      "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+      "https://github.com/awlevin/typesafe-computer-use"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 21:49:44",
+      "https://news.ycombinator.com/item?id=49733523"
+    ],
+    [
+      "LispBM is a concurrent Lisp for microcontrollers with message passing",
+      "https://www.lispbm.com/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-09-16, 16:42:37",
-      "https://news.ycombinator.com/item?id=49729631"
+      "2026-09-16, 13:30:30",
+      "https://news.ycombinator.com/item?id=49726773"
     ],
     [
-      "Column built an issuer processor from scratch",
-      "https://column.com/card-issuing/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 15:35:33",
-      "https://news.ycombinator.com/item?id=49714157"
-    ],
-    [
-      "A search-and-inference database from scratch in pure Zig",
-      "https://antfly.io/research/antfly-zig"
+      "Goroutine Leak Profiles",
+      "https://go.dev/blog/goroutine-leak-profiles"
     ]
   ]
 ]
