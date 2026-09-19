@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-09-18, 22:35:10",
-      "https://news.ycombinator.com/item?id=49761178"
+      "2026-09-18, 23:04:17",
+      "https://news.ycombinator.com/item?id=49761432"
     ],
     [
-      "US troop deaths during Iran war exceed Pentagon count by at least four",
-      "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/"
+      "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "https://spectrum.ieee.org/llms-for-chip-design"
     ]
   ],
   [
@@ -77,26 +77,6 @@
     [
       "Xcode 27.1 Beta Release Notes",
       "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 18:08:32",
-      "https://news.ycombinator.com/item?id=49758028"
-    ],
-    [
-      "Border agents can search cellphones without a warrant or reasonable suspicion",
-      "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 17:28:01",
-      "https://news.ycombinator.com/item?id=49757520"
-    ],
-    [
-      "US Military had close call after using AI for hallucinated intelligence report",
-      "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2026-09-17, 17:39:01",
+      "https://news.ycombinator.com/item?id=49744036"
+    ],
+    [
+      "The Farnese letter",
+      "https://simonklee.dk/farnese-letter"
+    ]
+  ],
+  [
+    [
       "2026-09-17, 13:20:03",
       "https://news.ycombinator.com/item?id=49740371"
     ],
@@ -287,6 +277,16 @@
     [
       "Cyclomatic Complexity in C#",
       "https://blog.ndepend.com/understanding-cyclomatic-complexity/"
+    ]
+  ],
+  [
+    [
+      "2026-09-16, 16:42:37",
+      "https://news.ycombinator.com/item?id=49729631"
+    ],
+    [
+      "Column built an issuer processor from scratch",
+      "https://column.com/card-issuing/"
     ]
   ],
   [
