@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-09-19, 20:00:59",
+      "https://news.ycombinator.com/item?id=49769676"
+    ],
+    [
+      "Measure internet censorship. Contribute to the largest open dataset",
+      "https://ooni.org/install"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 19:23:23",
+      "https://news.ycombinator.com/item?id=49769405"
+    ],
+    [
+      "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "https://eprint.iacr.org/2026/2039"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 18:21:30",
+      "https://news.ycombinator.com/item?id=49768921"
+    ],
+    [
+      "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
+    ]
+  ],
+  [
+    [
       "2026-09-19, 18:11:40",
       "https://news.ycombinator.com/item?id=49768833"
     ],
     [
       "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
       "https://bartosz.fenski.pl/modern-fs-benchmark/"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 17:42:43",
-      "https://news.ycombinator.com/item?id=49768606"
-    ],
-    [
-      "People who know the most often sound the least certain",
-      "https://vrash.substack.com/p/the-people-who-know-the-most-often"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=49767937"
     ],
     [
-      "Almost Never Use AI to Write Anything Substantive",
+      "I think you should almost never use AI to write",
       "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
     ]
   ],
@@ -51,12 +71,12 @@
   ],
   [
     [
-      "2026-09-19, 14:01:58",
-      "https://news.ycombinator.com/item?id=49766676"
+      "2026-09-19, 14:44:02",
+      "https://news.ycombinator.com/item?id=49766966"
     ],
     [
-      "A graphical desktop for the ZX Spectrum",
-      "https://github.com/mindbox77/zxdesk"
+      "Brood War Bench",
+      "https://bw.swerdlow.dev/report"
     ]
   ],
   [
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=49763697"
     ],
     [
-      "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "Two parallel neural ectoderm progenitors contribute to the developing brain",
       "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html"
     ]
   ],
@@ -147,26 +167,6 @@
     [
       "SDCC – Small Device C Compiler",
       "https://sdcc.sourceforge.net/"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 02:21:35",
-      "https://news.ycombinator.com/item?id=49762687"
-    ],
-    [
-      "Science Is Open Software",
-      "https://jepedersen.dk/blog/202505_research/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 23:04:17",
-      "https://news.ycombinator.com/item?id=49761432"
-    ],
-    [
-      "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "https://spectrum.ieee.org/llms-for-chip-design"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-09-18, 13:35:05",
+      "https://news.ycombinator.com/item?id=49754194"
+    ],
+    [
+      "UFO Series Home Page: \"UFO\" TV Series from 1970",
+      "https://ufoseries.com/"
+    ]
+  ],
+  [
+    [
       "2026-09-17, 21:48:38",
       "https://news.ycombinator.com/item?id=49747070"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-09-17, 09:57:26",
-      "https://news.ycombinator.com/item?id=49738518"
-    ],
-    [
-      "Ray Ozzie and the Optimism of Being Early",
-      "https://reproof.app/blog/lotus-notes-history"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 05:41:24",
       "https://news.ycombinator.com/item?id=49736823"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-09-16, 23:31:31",
-      "https://news.ycombinator.com/item?id=49734467"
+      "2026-09-16, 19:51:23",
+      "https://news.ycombinator.com/item?id=49731996"
     ],
     [
-      "Asking Authors About Their Own Papers",
-      "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0"
+      "Deodands put a price on objects that caused death",
+      "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=49720143"
     ],
     [
-      "“The Secret Life of Circuits” is here",
+      "The Secret Life of Circuits",
       "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here"
     ]
   ]
