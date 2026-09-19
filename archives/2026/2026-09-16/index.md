@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-16](index.md)
 
+* [2026-09-16, 23:31:31](https://news.ycombinator.com/item?id=49734467) - [Asking Authors About Their Own Papers](https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0)
 * [2026-09-16, 23:25:17](https://news.ycombinator.com/item?id=49734409) - [US interest rates raised for first time in three years](https://www.bbc.com/news/articles/cw4gmlyvj422o)
 * [2026-09-16, 23:06:39](https://news.ycombinator.com/item?id=49734264) - [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
 * [2026-09-16, 22:56:48](https://news.ycombinator.com/item?id=49734171) - [Australia says it could follow Canada in forging deeper ties with EU](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html)

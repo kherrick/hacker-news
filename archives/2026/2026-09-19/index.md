@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-09-19](index.md)
 
+* [2026-09-19, 16:13:45](https://news.ycombinator.com/item?id=49767743) - [Leaving DigitalOcean, one site at a time](https://keith.is/post/leaving-digitalocean/)
+* [2026-09-19, 15:32:19](https://news.ycombinator.com/item?id=49767386) - [Jobs Without LeetCode](https://noleet.lol/jobs)
+* [2026-09-19, 14:45:12](https://news.ycombinator.com/item?id=49766976) - [Agreement between the USA and Denmark (1951,2004) [pdf]](https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf)
+* [2026-09-19, 14:23:42](https://news.ycombinator.com/item?id=49766821) - [Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
+* [2026-09-19, 14:01:58](https://news.ycombinator.com/item?id=49766676) - [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
+* [2026-09-19, 13:55:18](https://news.ycombinator.com/item?id=49766637) - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
+* [2026-09-19, 13:52:06](https://news.ycombinator.com/item?id=49766611) - [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)
 * [2026-09-19, 10:46:58](https://news.ycombinator.com/item?id=49765348) - [Laya the open source version of Jev](https://laya.convaiinnovations.com/)
 * [2026-09-19, 09:20:58](https://news.ycombinator.com/item?id=49764791) - [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
 * [2026-09-19, 06:41:44](https://news.ycombinator.com/item?id=49763987) - [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
