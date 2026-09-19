@@ -22,6 +22,7 @@
 * [2026-09-17, 20:05:31](https://news.ycombinator.com/item?id=49745809) - [Plugin4Shell – Zero Click RCE Vulnerability found in top four coding agents](https://www.air.security/blog-posts/plugin4shell)
 * [2026-09-17, 19:43:34](https://news.ycombinator.com/item?id=49745570) - [Everybody's Lost Their Minds](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)
 * [2026-09-17, 19:16:46](https://news.ycombinator.com/item?id=49745266) - [Don't Just Say Hello](https://nohello.net/en/)
+* [2026-09-17, 19:00:40](https://news.ycombinator.com/item?id=49745049) - [Adventures in Microcontroller Circuit Debugging](https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/)
 * [2026-09-17, 18:32:50](https://news.ycombinator.com/item?id=49744715) - [Canto: A speech model built for the real world](https://wisprflow.ai/canto)
 * [2026-09-17, 18:31:56](https://news.ycombinator.com/item?id=49744704) - [The first new cat species discovered in 100 years](https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years)
 * [2026-09-17, 18:16:38](https://news.ycombinator.com/item?id=49744530) - [Don't Make Job Referrals Public](https://blog.melashri.net/micro/public-job-referral/)
@@ -67,4 +68,5 @@
 * [2026-09-17, 01:33:10](https://news.ycombinator.com/item?id=49735367) - [Part-human part-mouse brain developed in science breakthrough](https://www.bbc.com/news/articles/c60m3k28j81mo)
 * [2026-09-17, 01:13:10](https://news.ycombinator.com/item?id=49735241) - [Pangram – AI detector for text and images](https://www.pangram.com)
 * [2026-09-17, 00:45:49](https://news.ycombinator.com/item?id=49735057) - [Size-Specialized Memory Allocation](https://go.dev/blog/size-specialized-allocations)
+* [2026-09-17, 00:39:39](https://news.ycombinator.com/item?id=49735010) - [Suzanne Ciani's Buchla Cookbook](https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook)
 * [2026-09-17, 00:28:33](https://news.ycombinator.com/item?id=49734929) - [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/)

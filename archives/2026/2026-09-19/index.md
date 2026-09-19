@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-19](index.md)
 
+* [2026-09-19, 18:11:40](https://news.ycombinator.com/item?id=49768833) - [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
+* [2026-09-19, 17:42:43](https://news.ycombinator.com/item?id=49768606) - [People who know the most often sound the least certain](https://vrash.substack.com/p/the-people-who-know-the-most-often)
+* [2026-09-19, 17:01:30](https://news.ycombinator.com/item?id=49768220) - [Supabase (YC S20) Is Hiring for OrioleDB](https://supabase.link/orioledbjob)
+* [2026-09-19, 16:35:24](https://news.ycombinator.com/item?id=49767937) - [Almost Never Use AI to Write Anything Substantive](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)
 * [2026-09-19, 16:13:45](https://news.ycombinator.com/item?id=49767743) - [Leaving DigitalOcean, one site at a time](https://keith.is/post/leaving-digitalocean/)
+* [2026-09-19, 15:52:51](https://news.ycombinator.com/item?id=49767564) - [Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua)
 * [2026-09-19, 15:32:19](https://news.ycombinator.com/item?id=49767386) - [Jobs Without LeetCode](https://noleet.lol/jobs)
 * [2026-09-19, 14:45:12](https://news.ycombinator.com/item?id=49766976) - [Agreement between the USA and Denmark (1951,2004) [pdf]](https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf)
 * [2026-09-19, 14:23:42](https://news.ycombinator.com/item?id=49766821) - [Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
