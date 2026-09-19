@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-18](index.md)
 
+* [2026-09-18, 23:54:42](https://news.ycombinator.com/item?id=49761840) - [Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)
 * [2026-09-18, 23:04:17](https://news.ycombinator.com/item?id=49761432) - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)
 * [2026-09-18, 22:35:10](https://news.ycombinator.com/item?id=49761178) - [US troop deaths during Iran war exceed Pentagon count by at least four](https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/)
 * [2026-09-18, 21:00:32](https://news.ycombinator.com/item?id=49760187) - [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
