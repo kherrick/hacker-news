@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-09-15](index.md)
 
 * [2026-09-15, 23:17:20](https://news.ycombinator.com/item?id=49720164) - [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
+* [2026-09-15, 23:15:05](https://news.ycombinator.com/item?id=49720143) - [\"The Secret Life of Circuits\" is here](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here)
 * [2026-09-15, 22:50:55](https://news.ycombinator.com/item?id=49719938) - [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
 * [2026-09-15, 22:30:30](https://news.ycombinator.com/item?id=49719751) - [Lucasart's Afterlife](https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/)
 * [2026-09-15, 22:15:25](https://news.ycombinator.com/item?id=49719596) - [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve)
