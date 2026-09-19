@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-09-19, 16:13:45",
+      "https://news.ycombinator.com/item?id=49767743"
+    ],
+    [
+      "Leaving DigitalOcean, one site at a time",
+      "https://keith.is/post/leaving-digitalocean/"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 15:32:19",
+      "https://news.ycombinator.com/item?id=49767386"
+    ],
+    [
+      "Jobs Without LeetCode",
+      "https://noleet.lol/jobs"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 14:45:12",
+      "https://news.ycombinator.com/item?id=49766976"
+    ],
+    [
+      "Agreement between the USA and Denmark (1951,2004) [pdf]",
+      "https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 14:23:42",
+      "https://news.ycombinator.com/item?id=49766821"
+    ],
+    [
+      "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
+      "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 14:01:58",
+      "https://news.ycombinator.com/item?id=49766676"
+    ],
+    [
+      "A graphical desktop for the ZX Spectrum",
+      "https://github.com/mindbox77/zxdesk"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 13:55:18",
+      "https://news.ycombinator.com/item?id=49766637"
+    ],
+    [
+      "What Zig felt like, coming from Rust",
+      "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 13:52:06",
+      "https://news.ycombinator.com/item?id=49766611"
+    ],
+    [
+      "Tin: full-text search for Postgres",
+      "https://planetscale.com/blog/introducing-tin"
+    ]
+  ],
+  [
+    [
       "2026-09-19, 10:46:58",
       "https://news.ycombinator.com/item?id=49765348"
     ],
@@ -51,16 +121,6 @@
   ],
   [
     [
-      "2026-09-19, 04:44:35",
-      "https://news.ycombinator.com/item?id=49763379"
-    ],
-    [
-      "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/"
-    ]
-  ],
-  [
-    [
       "2026-09-19, 04:23:30",
       "https://news.ycombinator.com/item?id=49763296"
     ],
@@ -91,32 +151,12 @@
   ],
   [
     [
-      "2026-09-18, 23:04:17",
-      "https://news.ycombinator.com/item?id=49761432"
-    ],
-    [
-      "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "https://spectrum.ieee.org/llms-for-chip-design"
-    ]
-  ],
-  [
-    [
       "2026-09-18, 19:03:09",
       "https://news.ycombinator.com/item?id=49758736"
     ],
     [
       "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "https://grapheneos.social/@GrapheneOS/117282080803799576"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 18:55:35",
-      "https://news.ycombinator.com/item?id=49758615"
-    ],
-    [
-      "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "https://arxiv.org/abs/2510.03215"
     ]
   ],
   [
@@ -131,12 +171,12 @@
   ],
   [
     [
-      "2026-09-18, 16:54:18",
-      "https://news.ycombinator.com/item?id=49757050"
+      "2026-09-18, 15:47:14",
+      "https://news.ycombinator.com/item?id=49756121"
     ],
     [
-      "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/"
+      "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+      "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/"
     ]
   ],
   [
@@ -151,42 +191,12 @@
   ],
   [
     [
-      "2026-09-18, 09:42:22",
-      "https://news.ycombinator.com/item?id=49752041"
+      "2026-09-18, 03:08:04",
+      "https://news.ycombinator.com/item?id=49749789"
     ],
     [
-      "OpenJev",
-      "https://openjev.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 06:11:17",
-      "https://news.ycombinator.com/item?id=49750694"
-    ],
-    [
-      "Inside ZCode: Silently uploading your Git history to the cloud",
-      "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 02:56:48",
-      "https://news.ycombinator.com/item?id=49749724"
-    ],
-    [
-      "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-      "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 00:11:44",
-      "https://news.ycombinator.com/item?id=49748553"
-    ],
-    [
-      "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "https://cactuscompute.com/needle"
+      "I built the fastest PHP webserver in the world",
+      "https://qbixserver.com"
     ]
   ],
   [
@@ -201,32 +211,32 @@
   ],
   [
     [
-      "2026-09-17, 18:31:56",
-      "https://news.ycombinator.com/item?id=49744704"
-    ],
-    [
-      "The first new cat species discovered in 100 years",
-      "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 17:47:40",
-      "https://news.ycombinator.com/item?id=49744174"
-    ],
-    [
-      "Show HN: I wrote a custom assembler for CHIP-8 in C++",
-      "https://github.com/Tackx/c8-ass"
-    ]
-  ],
-  [
-    [
       "2026-09-17, 16:55:50",
       "https://news.ycombinator.com/item?id=49743490"
     ],
     [
       "From Stonemasons to Carpenters",
       "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 15:58:31",
+      "https://news.ycombinator.com/item?id=49742697"
+    ],
+    [
+      "New evidence for hidden chambers beyond Tutankhamun's tomb",
+      "https://www.nature.com/articles/d41586-026-02621-2"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 09:57:26",
+      "https://news.ycombinator.com/item?id=49738518"
+    ],
+    [
+      "Ray Ozzie and the Optimism of Being Early",
+      "https://reproof.app/blog/lotus-notes-history"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2026-09-16, 23:31:31",
+      "https://news.ycombinator.com/item?id=49734467"
+    ],
+    [
+      "Asking Authors About Their Own Papers",
+      "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0"
+    ]
+  ],
+  [
+    [
       "2026-09-16, 22:51:16",
       "https://news.ycombinator.com/item?id=49734131"
     ],
@@ -267,26 +287,6 @@
     [
       "You can run Git on object storage if you re-make packfiles",
       "https://www.tigrisdata.com/blog/objgit-packfiles/"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 15:32:27",
-      "https://news.ycombinator.com/item?id=49728602"
-    ],
-    [
-      "Veronese's Dogs",
-      "https://publicdomainreview.org/essay/veroneses-dogs"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 13:30:30",
-      "https://news.ycombinator.com/item?id=49726773"
-    ],
-    [
-      "Goroutine Leak Profiles",
-      "https://go.dev/blog/goroutine-leak-profiles"
     ]
   ],
   [
