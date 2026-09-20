@@ -1,22 +1,62 @@
 [
   [
     [
-      "2026-09-20, 04:46:34",
-      "https://news.ycombinator.com/item?id=49772569"
+      "2026-09-20, 09:09:14",
+      "https://news.ycombinator.com/item?id=49774000"
     ],
     [
-      "BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
-      "https://www.youtube.com/watch?v=IQrnGK5FZXI"
+      "Benchmarking Wild vs. Mold",
+      "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html"
     ]
   ],
   [
     [
-      "2026-09-20, 04:38:00",
-      "https://news.ycombinator.com/item?id=49772541"
+      "2026-09-20, 09:08:52",
+      "https://news.ycombinator.com/item?id=49773998"
     ],
     [
-      "Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
-      "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0"
+      "Microsoft agentically ports Copilot runtime to Rust for $120K",
+      "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 09:01:42",
+      "https://news.ycombinator.com/item?id=49773951"
+    ],
+    [
+      "Don't Be Nice",
+      "https://roe.dev/blog/dont-be-nice"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 06:16:42",
+      "https://news.ycombinator.com/item?id=49772961"
+    ],
+    [
+      "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 05:15:00",
+      "https://news.ycombinator.com/item?id=49772677"
+    ],
+    [
+      "UTF-8000: Unlimited UTF-8",
+      "https://utf-8000.jb2170.com"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 05:11:33",
+      "https://news.ycombinator.com/item?id=49772662"
+    ],
+    [
+      "Telling a Computer to Do Things",
+      "https://will-keleher.com/posts/telling-your-computer-to-do-things/"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "An open source roguelike adventure through dungeons",
       "https://crawl.develz.org/"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 21:43:09",
-      "https://news.ycombinator.com/item?id=49770362"
-    ],
-    [
-      "Mayday Mysteries",
-      "http://www.maydaymystery.org/mayday/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-09-19, 17:01:30",
-      "https://news.ycombinator.com/item?id=49768220"
-    ],
-    [
-      "Supabase (YC S20) Is Hiring for OrioleDB",
-      "https://supabase.link/orioledbjob"
-    ]
-  ],
-  [
-    [
       "2026-09-19, 15:17:12",
       "https://news.ycombinator.com/item?id=49767242"
     ],
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2026-09-19, 08:48:38",
+      "https://news.ycombinator.com/item?id=49764631"
+    ],
+    [
+      "Chess Atlas",
+      "https://chess-timeline.vercel.app/gallery.html"
+    ]
+  ],
+  [
+    [
       "2026-09-19, 06:28:02",
       "https://news.ycombinator.com/item?id=49763928"
     ],
@@ -191,22 +221,42 @@
   ],
   [
     [
-      "2026-09-18, 16:15:52",
-      "https://news.ycombinator.com/item?id=49756548"
+      "2026-09-18, 20:30:28",
+      "https://news.ycombinator.com/item?id=49759853"
     ],
     [
-      "Why isn't mutable a subtype of immutable, or vice versa?",
-      "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html"
+      "When the FM Band Goes Transatlantic",
+      "https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic"
     ]
   ],
   [
     [
-      "2026-09-18, 13:35:05",
-      "https://news.ycombinator.com/item?id=49754194"
+      "2026-09-18, 17:59:41",
+      "https://news.ycombinator.com/item?id=49757929"
     ],
     [
-      "UFO Series Home Page: \"UFO\" TV Series from 1970",
-      "https://ufoseries.com/"
+      "Seeing Circles, Sines, and Signals",
+      "https://jackschaedler.github.io/circles-sines-signals/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 17:25:55",
+      "https://news.ycombinator.com/item?id=49757493"
+    ],
+    [
+      "A Model for Winning Survivor",
+      "https://victoriaritvo.com/blog/predicting-survivor/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 15:59:50",
+      "https://news.ycombinator.com/item?id=49756319"
+    ],
+    [
+      "Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328390"
     ]
   ],
   [
@@ -217,36 +267,6 @@
     [
       "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
       "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 21:48:38",
-      "https://news.ycombinator.com/item?id=49747070"
-    ],
-    [
-      "How to Write with an LLM",
-      "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 17:30:38",
-      "https://news.ycombinator.com/item?id=49743934"
-    ],
-    [
-      "Compiler-style optimization for drawing via Skia",
-      "https://arxiv.org/abs/2603.23696"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 15:58:31",
-      "https://news.ycombinator.com/item?id=49742697"
-    ],
-    [
-      "New evidence for hidden chambers beyond Tutankhamun's tomb",
-      "https://www.nature.com/articles/d41586-026-02621-2"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-09-17, 00:39:39",
-      "https://news.ycombinator.com/item?id=49735010"
-    ],
-    [
-      "Suzanne Ciani's Buchla Cookbook",
-      "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook"
-    ]
-  ],
-  [
-    [
       "2026-09-16, 23:31:31",
       "https://news.ycombinator.com/item?id=49734467"
     ],
     [
       "Asking authors about their own papers",
       "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 19:51:23",
-      "https://news.ycombinator.com/item?id=49731996"
-    ],
-    [
-      "Deodands put a price on objects that caused death",
-      "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/"
     ]
   ]
 ]
