@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-09-19, 23:47:35",
-      "https://news.ycombinator.com/item?id=49771118"
+      "2026-09-20, 04:46:34",
+      "https://news.ycombinator.com/item?id=49772569"
     ],
     [
-      "Show HN: I created an open source locally usable full fledged AI platform",
-      "https://github.com/theguysudo/ENZO"
+      "BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
+      "https://www.youtube.com/watch?v=IQrnGK5FZXI"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 04:38:00",
+      "https://news.ycombinator.com/item?id=49772541"
+    ],
+    [
+      "Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
+      "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 04:35:59",
+      "https://news.ycombinator.com/item?id=49772532"
+    ],
+    [
+      "Step 5 Preview: Advancing the Pareto Frontier",
+      "https://www.stepfun.com/step-5-preview"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 02:19:33",
+      "https://news.ycombinator.com/item?id=49771966"
+    ],
+    [
+      "RSA-896",
+      "https://saweis.net/posts/rsa-896.html"
     ]
   ],
   [
@@ -21,22 +51,12 @@
   ],
   [
     [
-      "2026-09-19, 23:02:34",
-      "https://news.ycombinator.com/item?id=49770847"
+      "2026-09-19, 22:55:53",
+      "https://news.ycombinator.com/item?id=49770809"
     ],
     [
-      "Can you tell which images are AI-generated?",
-      "https://slop-sense.labtoagi.com/games/is-this-image-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 22:22:28",
-      "https://news.ycombinator.com/item?id=49770580"
-    ],
-    [
-      "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-      "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317"
+      "An open source roguelike adventure through dungeons",
+      "https://crawl.develz.org/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Mayday Mysteries",
       "http://www.maydaymystery.org/mayday/"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 21:30:59",
-      "https://news.ycombinator.com/item?id=49770293"
-    ],
-    [
-      "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-      "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=49769676"
     ],
     [
-      "Measure internet censorship. Contribute to the largest open dataset",
+      "Measure internet censorship",
       "https://ooni.org/install"
     ]
   ],
@@ -101,32 +111,22 @@
   ],
   [
     [
+      "2026-09-19, 18:11:40",
+      "https://news.ycombinator.com/item?id=49768833"
+    ],
+    [
+      "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "https://bartosz.fenski.pl/modern-fs-benchmark/"
+    ]
+  ],
+  [
+    [
       "2026-09-19, 17:01:30",
       "https://news.ycombinator.com/item?id=49768220"
     ],
     [
       "Supabase (YC S20) Is Hiring for OrioleDB",
       "https://supabase.link/orioledbjob"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 16:35:24",
-      "https://news.ycombinator.com/item?id=49767937"
-    ],
-    [
-      "I think you should almost never use AI to write",
-      "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 15:52:51",
-      "https://news.ycombinator.com/item?id=49767564"
-    ],
-    [
-      "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "https://github.com/trycua/cua"
     ]
   ],
   [
@@ -151,12 +151,12 @@
   ],
   [
     [
-      "2026-09-19, 13:52:06",
-      "https://news.ycombinator.com/item?id=49766611"
+      "2026-09-19, 13:55:18",
+      "https://news.ycombinator.com/item?id=49766637"
     ],
     [
-      "Tin: full-text search for Postgres",
-      "https://planetscale.com/blog/introducing-tin"
+      "What Zig felt like, coming from Rust",
+      "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/"
     ]
   ],
   [
@@ -181,42 +181,22 @@
   ],
   [
     [
-      "2026-09-19, 06:41:44",
-      "https://news.ycombinator.com/item?id=49763987"
+      "2026-09-19, 06:28:02",
+      "https://news.ycombinator.com/item?id=49763928"
     ],
     [
-      "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
+      "If math is more than proof, we need to better celebrate the rest of it",
+      "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/"
     ]
   ],
   [
     [
-      "2026-09-19, 05:48:50",
-      "https://news.ycombinator.com/item?id=49763697"
+      "2026-09-18, 16:15:52",
+      "https://news.ycombinator.com/item?id=49756548"
     ],
     [
-      "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 04:23:30",
-      "https://news.ycombinator.com/item?id=49763296"
-    ],
-    [
-      "San Francisco Onion Futures Company",
-      "https://onionfutures.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 15:47:14",
-      "https://news.ycombinator.com/item?id=49756121"
-    ],
-    [
-      "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-      "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/"
+      "Why isn't mutable a subtype of immutable, or vice versa?",
+      "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html"
     ]
   ],
   [
@@ -227,6 +207,16 @@
     [
       "UFO Series Home Page: \"UFO\" TV Series from 1970",
       "https://ufoseries.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-18, 13:23:10",
+      "https://news.ycombinator.com/item?id=49754055"
+    ],
+    [
+      "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
+      "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end"
     ]
   ],
   [
@@ -261,12 +251,22 @@
   ],
   [
     [
-      "2026-09-17, 15:40:18",
-      "https://news.ycombinator.com/item?id=49742438"
+      "2026-09-17, 07:00:25",
+      "https://news.ycombinator.com/item?id=49737326"
     ],
     [
-      "Rabbit Hole: Minimum L-seams",
-      "https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/"
+      "Faster NumPy in the Browser",
+      "https://notebook.link/blog/the-last-mile-faster-numpy/"
+    ]
+  ],
+  [
+    [
+      "2026-09-17, 01:00:14",
+      "https://news.ycombinator.com/item?id=49735159"
+    ],
+    [
+      "Weeping whales: Stillborn humpback whale grieving documented",
+      "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-09-16, 23:31:31",
+      "https://news.ycombinator.com/item?id=49734467"
+    ],
+    [
+      "Asking authors about their own papers",
+      "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0"
+    ]
+  ],
+  [
+    [
       "2026-09-16, 19:51:23",
       "https://news.ycombinator.com/item?id=49731996"
     ],
     [
       "Deodands put a price on objects that caused death",
       "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/"
-    ]
-  ],
-  [
-    [
-      "2026-09-15, 23:15:05",
-      "https://news.ycombinator.com/item?id=49720143"
-    ],
-    [
-      "The Secret Life of Circuits",
-      "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here"
     ]
   ]
 ]
