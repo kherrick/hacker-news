@@ -32,6 +32,7 @@
 * [2026-09-19, 14:01:36](https://news.ycombinator.com/item?id=49766671) - [So I have a weatherman, which also tells me the news](https://dexteroot.net/posts/2026/07/so-i-have-a-weatherman-which-also-tells-me-the-news-part-1/)
 * [2026-09-19, 13:55:18](https://news.ycombinator.com/item?id=49766637) - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
 * [2026-09-19, 13:52:06](https://news.ycombinator.com/item?id=49766611) - [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)
+* [2026-09-19, 13:42:31](https://news.ycombinator.com/item?id=49766550) - [More Than a Gigabuck: Estimating GNU/Linux's Size (2001)](https://dwheeler.com/sloc/redhat71-v1/redhat71sloc.1.00.html)
 * [2026-09-19, 11:55:19](https://news.ycombinator.com/item?id=49765798) - [FreeBSD on Aoostar WTR Pro NAS](https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/)
 * [2026-09-19, 10:47:59](https://news.ycombinator.com/item?id=49765354) - [Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI](https://sigabrt.dev)
 * [2026-09-19, 10:46:58](https://news.ycombinator.com/item?id=49765348) - [Laya the open source version of Jev](https://laya.convaiinnovations.com/)

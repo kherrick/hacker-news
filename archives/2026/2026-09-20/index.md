@@ -4,7 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-09-20](index.md)
 
+* [2026-09-20, 17:55:57](https://news.ycombinator.com/item?id=49778195) - [A Necessary History of the Oddest Letter: W](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/)
+* [2026-09-20, 17:51:27](https://news.ycombinator.com/item?id=49778162) - [I turned Jev into a (lousy) chatbot](https://github.com/kyle-pena-nlp/jevchat/)
+* [2026-09-20, 17:38:50](https://news.ycombinator.com/item?id=49778029) - [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
+* [2026-09-20, 17:38:27](https://news.ycombinator.com/item?id=49778022) - [Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++](https://github.com/adonis-singh/re4)
+* [2026-09-20, 17:37:06](https://news.ycombinator.com/item?id=49778008) - [Show HN: Three genlocked RP2350B make a console – 3k sprite pixels per line)](https://www.papydeck.eu/)
+* [2026-09-20, 17:27:11](https://news.ycombinator.com/item?id=49777913) - [Trying the Software Factory Pattern](https://lethain.com/software-factory-experiment/)
+* [2026-09-20, 17:19:52](https://news.ycombinator.com/item?id=49777841) - [US Revokes Limits on Power Plants' Climate Pollution](https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution)
 * [2026-09-20, 16:51:26](https://news.ycombinator.com/item?id=49777539) - [Show HN: Radius – A Meetup.com Alternative](https://radius.to/)
+* [2026-09-20, 16:41:46](https://news.ycombinator.com/item?id=49777467) - [I am often wrong](https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html)
 * [2026-09-20, 15:59:25](https://news.ycombinator.com/item?id=49777111) - [Prompts Aren't Real](https://evaluation.club)
 * [2026-09-20, 15:58:52](https://news.ycombinator.com/item?id=49777106) - [Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)](https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0)
 * [2026-09-20, 15:43:32](https://news.ycombinator.com/item?id=49776960) - [Custom home server built from spare parts](https://asmat.ca/blog/i-went-bananas/)
