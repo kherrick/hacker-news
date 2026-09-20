@@ -42,6 +42,7 @@
 * [2026-09-17, 16:17:28](https://news.ycombinator.com/item?id=49742976) - [Ask HN: How to recover Google auth after phone stolen?](https://news.ycombinator.com/item?id=49742976)
 * [2026-09-17, 15:59:37](https://news.ycombinator.com/item?id=49742714) - [Whoisinspace.com/](https://whoisinspace.com)
 * [2026-09-17, 15:58:31](https://news.ycombinator.com/item?id=49742697) - [New evidence for hidden chambers beyond Tutankhamun's tomb](https://www.nature.com/articles/d41586-026-02621-2)
+* [2026-09-17, 15:54:43](https://news.ycombinator.com/item?id=49742642) - [Go-based Robotics Framework built around NATS.io](https://github.com/emergingrobotics/gorai)
 * [2026-09-17, 15:40:19](https://news.ycombinator.com/item?id=49742439) - [Vinix – A modern operating system written in V](https://vinix-os.org/)
 * [2026-09-17, 15:40:18](https://news.ycombinator.com/item?id=49742438) - [Rabbit Hole: Minimum L-seams](https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/)
 * [2026-09-17, 15:40:17](https://news.ycombinator.com/item?id=49742437) - [LLM Classification Is Feature Engineering](https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/)

@@ -4,6 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-09-20](index.md)
 
+* [2026-09-20, 16:51:26](https://news.ycombinator.com/item?id=49777539) - [Show HN: Radius – A Meetup.com Alternative](https://radius.to/)
+* [2026-09-20, 15:59:25](https://news.ycombinator.com/item?id=49777111) - [Prompts Aren't Real](https://evaluation.club)
+* [2026-09-20, 15:58:52](https://news.ycombinator.com/item?id=49777106) - [Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)](https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0)
+* [2026-09-20, 15:43:32](https://news.ycombinator.com/item?id=49776960) - [Custom home server built from spare parts](https://asmat.ca/blog/i-went-bananas/)
+* [2026-09-20, 15:28:05](https://news.ycombinator.com/item?id=49776826) - [One-Electron Universe](https://en.wikipedia.org/wiki/One-electron_universe)
+* [2026-09-20, 15:18:44](https://news.ycombinator.com/item?id=49776729) - [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
+* [2026-09-20, 15:18:05](https://news.ycombinator.com/item?id=49776717) - [Singapore Is Paying People to Put Down Their Phones and Read Books](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books)
+* [2026-09-20, 15:16:07](https://news.ycombinator.com/item?id=49776699) - [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)
+* [2026-09-20, 15:09:41](https://news.ycombinator.com/item?id=49776627) - [Sherline Tools Is Going Out of Business](https://toolguyd.com/sherline-tools-shutting-down-usa-production/)
+* [2026-09-20, 14:16:14](https://news.ycombinator.com/item?id=49776130) - [The senior engineer death spiral](https://sunilpai.dev/posts/the-senior-engineer-death-spiral/)
+* [2026-09-20, 13:42:10](https://news.ycombinator.com/item?id=49775802) - [Mathematical Billiards (2024)](https://structures.uni-heidelberg.de/blog/posts/2024_01_costa/index.php)
 * [2026-09-20, 13:19:32](https://news.ycombinator.com/item?id=49775579) - [Do birds have accents? the regional differences in birdsong](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108)
 * [2026-09-20, 13:09:25](https://news.ycombinator.com/item?id=49775499) - [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)
 * [2026-09-20, 12:20:13](https://news.ycombinator.com/item?id=49775104) - [Chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/)
