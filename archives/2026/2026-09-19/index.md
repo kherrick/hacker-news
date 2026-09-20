@@ -30,6 +30,8 @@
 * [2026-09-19, 14:01:58](https://news.ycombinator.com/item?id=49766676) - [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
 * [2026-09-19, 13:55:18](https://news.ycombinator.com/item?id=49766637) - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
 * [2026-09-19, 13:52:06](https://news.ycombinator.com/item?id=49766611) - [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)
+* [2026-09-19, 11:55:19](https://news.ycombinator.com/item?id=49765798) - [FreeBSD on Aoostar WTR Pro NAS](https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/)
+* [2026-09-19, 10:47:59](https://news.ycombinator.com/item?id=49765354) - [Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI](https://sigabrt.dev)
 * [2026-09-19, 10:46:58](https://news.ycombinator.com/item?id=49765348) - [Laya the open source version of Jev](https://laya.convaiinnovations.com/)
 * [2026-09-19, 09:20:58](https://news.ycombinator.com/item?id=49764791) - [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
 * [2026-09-19, 08:48:38](https://news.ycombinator.com/item?id=49764631) - [Chess Atlas](https://chess-timeline.vercel.app/gallery.html)

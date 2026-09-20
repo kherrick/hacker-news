@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-20](index.md)
 
+* [2026-09-20, 13:19:32](https://news.ycombinator.com/item?id=49775579) - [Do birds have accents? the regional differences in birdsong](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108)
+* [2026-09-20, 13:09:25](https://news.ycombinator.com/item?id=49775499) - [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)
+* [2026-09-20, 12:20:13](https://news.ycombinator.com/item?id=49775104) - [Chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/)
+* [2026-09-20, 12:17:54](https://news.ycombinator.com/item?id=49775082) - [The Millennium Problems for Biology](https://millenniumproblems.bio/)
 * [2026-09-20, 09:09:14](https://news.ycombinator.com/item?id=49774000) - [Benchmarking Wild vs. Mold](https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html)
 * [2026-09-20, 09:08:52](https://news.ycombinator.com/item?id=49773998) - [Microsoft agentically ports Copilot runtime to Rust for $120K](https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549)
 * [2026-09-20, 09:01:42](https://news.ycombinator.com/item?id=49773951) - [Don't Be Nice](https://roe.dev/blog/dont-be-nice)

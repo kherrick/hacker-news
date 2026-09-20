@@ -27,6 +27,7 @@
 * [2026-09-18, 15:47:14](https://news.ycombinator.com/item?id=49756121) - [Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'](https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/)
 * [2026-09-18, 15:12:07](https://news.ycombinator.com/item?id=49755533) - [Our brain evolved from two primitive nervous systems that merged: Study](https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/)
 * [2026-09-18, 15:04:54](https://news.ycombinator.com/item?id=49755431) - [GrassLobster: AI Agentic Generation of Parametric Geometry Workflows](https://www.miro.vision/index.php/2026/09/17/grasslobbster/)
+* [2026-09-18, 15:01:26](https://news.ycombinator.com/item?id=49755378) - [A custom virtual machine for the Stars 4X game](https://nullprogram.com/blog/2026/09/17/)
 * [2026-09-18, 14:58:09](https://news.ycombinator.com/item?id=49755337) - [Build Faster Feedback Loops Using Qualitative User Research](https://blog.nseldeib.com/p/build-faster-feedback-loops-using)
 * [2026-09-18, 14:45:32](https://news.ycombinator.com/item?id=49755160) - [North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)
 * [2026-09-18, 14:41:02](https://news.ycombinator.com/item?id=49755095) - [Mathematicians Build Long-Awaited Graph Sandwich](https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/)
