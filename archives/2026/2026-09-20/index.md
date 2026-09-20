@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-20](index.md)
 
+* [2026-09-20, 22:35:49](https://news.ycombinator.com/item?id=49780820) - [What Happened to the Snowden Archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
+* [2026-09-20, 22:32:43](https://news.ycombinator.com/item?id=49780797) - [Google's Open Agentic Orchestrator](https://agentexecutor.io)
+* [2026-09-20, 22:13:46](https://news.ycombinator.com/item?id=49780630) - [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/)
 * [2026-09-20, 21:04:32](https://news.ycombinator.com/item?id=49780064) - [Nobody pays for FOSS, we can force them to](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
 * [2026-09-20, 20:59:02](https://news.ycombinator.com/item?id=49780022) - [Ogre Battle 64 Recompiled Project at 99.05%](https://github.com/lfarroco/ogre-battle-64-recomp)
 * [2026-09-20, 20:32:43](https://news.ycombinator.com/item?id=49779802) - [OpenAI's Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
@@ -23,10 +26,12 @@
 * [2026-09-20, 15:58:52](https://news.ycombinator.com/item?id=49777106) - [Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)](https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0)
 * [2026-09-20, 15:43:32](https://news.ycombinator.com/item?id=49776960) - [Custom home server built from spare parts](https://asmat.ca/blog/i-went-bananas/)
 * [2026-09-20, 15:28:05](https://news.ycombinator.com/item?id=49776826) - [One-Electron Universe](https://en.wikipedia.org/wiki/One-electron_universe)
+* [2026-09-20, 15:25:41](https://news.ycombinator.com/item?id=49776796) - [What's been going on in w64devkit the past year](https://nullprogram.com/blog/2026/09/20/)
 * [2026-09-20, 15:18:44](https://news.ycombinator.com/item?id=49776729) - [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
 * [2026-09-20, 15:18:05](https://news.ycombinator.com/item?id=49776717) - [Singapore Is Paying People to Put Down Their Phones and Read Books](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books)
 * [2026-09-20, 15:16:07](https://news.ycombinator.com/item?id=49776699) - [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)
 * [2026-09-20, 15:09:41](https://news.ycombinator.com/item?id=49776627) - [Sherline Tools Is Going Out of Business](https://toolguyd.com/sherline-tools-shutting-down-usa-production/)
+* [2026-09-20, 14:59:10](https://news.ycombinator.com/item?id=49776523) - [Show HN: A competition for small neural networks that play strategy games](https://tinybrains.dev)
 * [2026-09-20, 14:16:14](https://news.ycombinator.com/item?id=49776130) - [The senior engineer death spiral](https://sunilpai.dev/posts/the-senior-engineer-death-spiral/)
 * [2026-09-20, 13:42:10](https://news.ycombinator.com/item?id=49775802) - [Mathematical Billiards (2024)](https://structures.uni-heidelberg.de/blog/posts/2024_01_costa/index.php)
 * [2026-09-20, 13:19:32](https://news.ycombinator.com/item?id=49775579) - [Do birds have accents? the regional differences in birdsong](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108)
