@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-20](index.md)
 
+* [2026-09-20, 21:04:32](https://news.ycombinator.com/item?id=49780064) - [Nobody pays for FOSS, we can force them to](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
+* [2026-09-20, 20:59:02](https://news.ycombinator.com/item?id=49780022) - [Ogre Battle 64 Recompiled Project at 99.05%](https://github.com/lfarroco/ogre-battle-64-recomp)
+* [2026-09-20, 20:32:43](https://news.ycombinator.com/item?id=49779802) - [OpenAI's Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
+* [2026-09-20, 19:55:36](https://news.ycombinator.com/item?id=49779432) - [Frontier Labs Are Selling Garbage to Fools in Washington](https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage)
+* [2026-09-20, 19:37:43](https://news.ycombinator.com/item?id=49779253) - [The Hierarchy of Money](https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/)
+* [2026-09-20, 18:42:47](https://news.ycombinator.com/item?id=49778670) - [Software Sandboxing: The Basics (2025)](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/)
 * [2026-09-20, 17:55:57](https://news.ycombinator.com/item?id=49778195) - [A Necessary History of the Oddest Letter: W](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/)
 * [2026-09-20, 17:51:27](https://news.ycombinator.com/item?id=49778162) - [I turned Jev into a (lousy) chatbot](https://github.com/kyle-pena-nlp/jevchat/)
 * [2026-09-20, 17:38:50](https://news.ycombinator.com/item?id=49778029) - [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
@@ -37,3 +43,4 @@
 * [2026-09-20, 04:38:00](https://news.ycombinator.com/item?id=49772541) - [Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters](https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0)
 * [2026-09-20, 04:35:59](https://news.ycombinator.com/item?id=49772532) - [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
 * [2026-09-20, 02:19:33](https://news.ycombinator.com/item?id=49771966) - [RSA-896](https://saweis.net/posts/rsa-896.html)
+* [2026-09-20, 00:00:47](https://news.ycombinator.com/item?id=49771218) - [Apple iPhone 18 Pro Camera test](https://www.dxomark.com/apple-iphone-18-pro-camera-test/)

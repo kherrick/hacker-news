@@ -19,6 +19,7 @@
 * [2026-09-19, 18:11:40](https://news.ycombinator.com/item?id=49768833) - [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
 * [2026-09-19, 17:42:43](https://news.ycombinator.com/item?id=49768606) - [People who know the most often sound the least certain](https://vrash.substack.com/p/the-people-who-know-the-most-often)
 * [2026-09-19, 17:16:10](https://news.ycombinator.com/item?id=49768347) - [Key symbols we lost to time, pt. 2: The Mac side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/)
+* [2026-09-19, 17:14:51](https://news.ycombinator.com/item?id=49768336) - [The Effect of CRTs on Pixel Art](https://datagubbe.se/crt/)
 * [2026-09-19, 17:01:30](https://news.ycombinator.com/item?id=49768220) - [Supabase (YC S20) Is Hiring for OrioleDB](https://supabase.link/orioledbjob)
 * [2026-09-19, 16:35:24](https://news.ycombinator.com/item?id=49767937) - [Almost Never Use AI to Write Anything Substantive](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)
 * [2026-09-19, 16:13:45](https://news.ycombinator.com/item?id=49767743) - [Leaving DigitalOcean, one site at a time](https://keith.is/post/leaving-digitalocean/)
