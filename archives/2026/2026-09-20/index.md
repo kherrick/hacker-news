@@ -36,6 +36,7 @@
 * [2026-09-20, 15:16:07](https://news.ycombinator.com/item?id=49776699) - [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)
 * [2026-09-20, 15:09:41](https://news.ycombinator.com/item?id=49776627) - [Sherline Tools Is Going Out of Business](https://toolguyd.com/sherline-tools-shutting-down-usa-production/)
 * [2026-09-20, 14:59:10](https://news.ycombinator.com/item?id=49776523) - [Show HN: A competition for small neural networks that play strategy games](https://tinybrains.dev)
+* [2026-09-20, 14:44:27](https://news.ycombinator.com/item?id=49776382) - [The Journey of a Migratory Shorebird](https://www.newyorker.com/magazine/2026/09/21/the-incredible-journey-of-a-migratory-shorebird)
 * [2026-09-20, 14:16:14](https://news.ycombinator.com/item?id=49776130) - [The senior engineer death spiral](https://sunilpai.dev/posts/the-senior-engineer-death-spiral/)
 * [2026-09-20, 13:42:10](https://news.ycombinator.com/item?id=49775802) - [Mathematical Billiards (2024)](https://structures.uni-heidelberg.de/blog/posts/2024_01_costa/index.php)
 * [2026-09-20, 13:19:32](https://news.ycombinator.com/item?id=49775579) - [Do birds have accents? the regional differences in birdsong](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108)

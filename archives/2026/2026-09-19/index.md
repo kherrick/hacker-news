@@ -14,6 +14,7 @@
 * [2026-09-19, 21:25:29](https://news.ycombinator.com/item?id=49770256) - [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
 * [2026-09-19, 20:41:26](https://news.ycombinator.com/item?id=49769944) - [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
 * [2026-09-19, 20:00:59](https://news.ycombinator.com/item?id=49769676) - [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install)
+* [2026-09-19, 19:43:13](https://news.ycombinator.com/item?id=49769561) - [Divide by depth for instant 3D](https://gabrieloc.com/2026/09/15/perspective.html)
 * [2026-09-19, 19:23:23](https://news.ycombinator.com/item?id=49769405) - [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039)
 * [2026-09-19, 18:21:30](https://news.ycombinator.com/item?id=49768921) - [Microsoft director: AI scraping 'the largest theft of labor in human history'](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit)
 * [2026-09-19, 18:11:40](https://news.ycombinator.com/item?id=49768833) - [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
