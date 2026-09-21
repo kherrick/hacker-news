@@ -9,6 +9,7 @@
 * [2026-09-20, 22:35:49](https://news.ycombinator.com/item?id=49780820) - [What Happened to the Snowden Archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
 * [2026-09-20, 22:32:43](https://news.ycombinator.com/item?id=49780797) - [Google's Open Agentic Orchestrator](https://agentexecutor.io)
 * [2026-09-20, 22:13:46](https://news.ycombinator.com/item?id=49780630) - [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/)
+* [2026-09-20, 21:24:33](https://news.ycombinator.com/item?id=49780226) - [Whirlpool Washer Transmission Repair (2007)](https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/)
 * [2026-09-20, 21:04:32](https://news.ycombinator.com/item?id=49780064) - [Nobody pays for FOSS, we can force them to](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
 * [2026-09-20, 20:59:02](https://news.ycombinator.com/item?id=49780022) - [Ogre Battle 64 Recompiled Project at 99.05%](https://github.com/lfarroco/ogre-battle-64-recomp)
 * [2026-09-20, 20:32:43](https://news.ycombinator.com/item?id=49779802) - [OpenAI's Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
