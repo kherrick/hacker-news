@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-09-20, 23:57:10",
+      "https://news.ycombinator.com/item?id=49781436"
+    ],
+    [
+      "Amiga Unix, Again",
+      "https://amigaux.org/"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 23:19:04",
+      "https://news.ycombinator.com/item?id=49781138"
+    ],
+    [
+      "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "https://github.com/BytedTsinghua-SIA/DAPO"
+    ]
+  ],
+  [
+    [
       "2026-09-20, 22:35:49",
       "https://news.ycombinator.com/item?id=49780820"
     ],
     [
-      "What Happened to the Snowden Archive",
+      "What happened to the Snowden archive",
       "https://libroot.org/posts/what-happened-to-the-snowden-archive"
     ]
   ],
@@ -51,12 +71,12 @@
   ],
   [
     [
-      "2026-09-20, 19:55:36",
-      "https://news.ycombinator.com/item?id=49779432"
+      "2026-09-20, 19:44:40",
+      "https://news.ycombinator.com/item?id=49779329"
     ],
     [
-      "Frontier Labs Are Selling Garbage to Fools in Washington",
-      "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage"
+      "Why MCP Was Always a Bad Idea?",
+      "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=49778670"
     ],
     [
-      "Software Sandboxing: The Basics (2025)",
+      "Software sandboxing: The basics (2025)",
       "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/"
     ]
   ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-09-20, 17:27:11",
-      "https://news.ycombinator.com/item?id=49777913"
-    ],
-    [
-      "Trying the Software Factory Pattern",
-      "https://lethain.com/software-factory-experiment/"
-    ]
-  ],
-  [
-    [
       "2026-09-20, 16:51:26",
       "https://news.ycombinator.com/item?id=49777539"
     ],
@@ -141,12 +151,12 @@
   ],
   [
     [
-      "2026-09-20, 15:59:25",
-      "https://news.ycombinator.com/item?id=49777111"
+      "2026-09-20, 16:41:46",
+      "https://news.ycombinator.com/item?id=49777467"
     ],
     [
-      "Prompts aren’t Real",
-      "https://evaluation.club"
+      "I am often wrong",
+      "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html"
     ]
   ],
   [
@@ -155,18 +165,8 @@
       "https://news.ycombinator.com/item?id=49777106"
     ],
     [
-      "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+      "Laya on Mac M4 CoreML Offline",
       "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0"
-    ]
-  ],
-  [
-    [
-      "2026-09-20, 15:43:32",
-      "https://news.ycombinator.com/item?id=49776960"
-    ],
-    [
-      "Custom home server built from spare parts",
-      "https://asmat.ca/blog/i-went-bananas/"
     ]
   ],
   [
@@ -241,6 +241,26 @@
   ],
   [
     [
+      "2026-09-20, 10:49:58",
+      "https://news.ycombinator.com/item?id=49774521"
+    ],
+    [
+      "Why do we need human mathematicians anymore?",
+      "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 06:16:42",
+      "https://news.ycombinator.com/item?id=49772961"
+    ],
+    [
+      "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors"
+    ]
+  ],
+  [
+    [
       "2026-09-20, 00:00:47",
       "https://news.ycombinator.com/item?id=49771218"
     ],
@@ -275,28 +295,8 @@
       "https://news.ycombinator.com/item?id=49768336"
     ],
     [
-      "The Effect of CRTs on Pixel Art",
+      "The Effect of CRTs on Pixel Art (2024)",
       "https://datagubbe.se/crt/"
-    ]
-  ],
-  [
-    [
-      "2026-09-18, 15:01:26",
-      "https://news.ycombinator.com/item?id=49755378"
-    ],
-    [
-      "A custom virtual machine for the Stars 4X game",
-      "https://nullprogram.com/blog/2026/09/17/"
-    ]
-  ],
-  [
-    [
-      "2026-09-17, 01:00:14",
-      "https://news.ycombinator.com/item?id=49735159"
-    ],
-    [
-      "Weeping whales: Stillborn humpback whale grieving documented",
-      "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html"
     ]
   ]
 ]
