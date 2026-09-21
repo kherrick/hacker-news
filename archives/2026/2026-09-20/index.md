@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-20](index.md)
 
+* [2026-09-20, 23:57:10](https://news.ycombinator.com/item?id=49781436) - [Amiga Unix, Again](https://amigaux.org/)
+* [2026-09-20, 23:19:04](https://news.ycombinator.com/item?id=49781138) - [DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR](https://github.com/BytedTsinghua-SIA/DAPO)
 * [2026-09-20, 22:35:49](https://news.ycombinator.com/item?id=49780820) - [What Happened to the Snowden Archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
 * [2026-09-20, 22:32:43](https://news.ycombinator.com/item?id=49780797) - [Google's Open Agentic Orchestrator](https://agentexecutor.io)
 * [2026-09-20, 22:13:46](https://news.ycombinator.com/item?id=49780630) - [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/)
@@ -11,6 +13,7 @@
 * [2026-09-20, 20:59:02](https://news.ycombinator.com/item?id=49780022) - [Ogre Battle 64 Recompiled Project at 99.05%](https://github.com/lfarroco/ogre-battle-64-recomp)
 * [2026-09-20, 20:32:43](https://news.ycombinator.com/item?id=49779802) - [OpenAI's Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
 * [2026-09-20, 19:55:36](https://news.ycombinator.com/item?id=49779432) - [Frontier Labs Are Selling Garbage to Fools in Washington](https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage)
+* [2026-09-20, 19:44:40](https://news.ycombinator.com/item?id=49779329) - [Why MCP Was Always a Bad Idea?](https://maharship.com/blog/why-mcp-was-always-a-bad-idea/)
 * [2026-09-20, 19:37:43](https://news.ycombinator.com/item?id=49779253) - [The Hierarchy of Money](https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/)
 * [2026-09-20, 18:42:47](https://news.ycombinator.com/item?id=49778670) - [Software Sandboxing: The Basics (2025)](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/)
 * [2026-09-20, 17:55:57](https://news.ycombinator.com/item?id=49778195) - [A Necessary History of the Oddest Letter: W](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/)
@@ -38,6 +41,7 @@
 * [2026-09-20, 13:09:25](https://news.ycombinator.com/item?id=49775499) - [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)
 * [2026-09-20, 12:20:13](https://news.ycombinator.com/item?id=49775104) - [Chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/)
 * [2026-09-20, 12:17:54](https://news.ycombinator.com/item?id=49775082) - [The Millennium Problems for Biology](https://millenniumproblems.bio/)
+* [2026-09-20, 10:49:58](https://news.ycombinator.com/item?id=49774521) - [Why do we need human mathematicians anymore?](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/)
 * [2026-09-20, 09:09:14](https://news.ycombinator.com/item?id=49774000) - [Benchmarking Wild vs. Mold](https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html)
 * [2026-09-20, 09:08:52](https://news.ycombinator.com/item?id=49773998) - [Microsoft agentically ports Copilot runtime to Rust for $120K](https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549)
 * [2026-09-20, 09:01:42](https://news.ycombinator.com/item?id=49773951) - [Don't Be Nice](https://roe.dev/blog/dont-be-nice)
