@@ -1,22 +1,62 @@
 [
   [
     [
-      "2026-09-22, 19:03:38",
-      "https://news.ycombinator.com/item?id=49806430"
+      "2026-09-22, 21:06:40",
+      "https://news.ycombinator.com/item?id=49808109"
     ],
     [
-      "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-      "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477"
+      "The UV index is not the warm sensation of sunlight on bare skin",
+      "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/"
     ]
   ],
   [
     [
-      "2026-09-22, 18:34:36",
-      "https://news.ycombinator.com/item?id=49806050"
+      "2026-09-22, 21:00:30",
+      "https://news.ycombinator.com/item?id=49808023"
     ],
     [
-      "Zero-downtime Linux kernel zero-day mitigation via eBPF and SECCOMP",
-      "https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-"
+      "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "https://foxscript.org/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 19:58:47",
+      "https://news.ycombinator.com/item?id=49807248"
+    ],
+    [
+      "The JavaScript Midlife Crisis",
+      "https://maroun-baydoun.com/blog/javascript-midlife-crisis/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 19:42:20",
+      "https://news.ycombinator.com/item?id=49807021"
+    ],
+    [
+      "Native apps written in TypeScript and CSS",
+      "https://github.com/geastack/examples"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 19:03:38",
+      "https://news.ycombinator.com/item?id=49806430"
+    ],
+    [
+      "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 18:57:17",
+      "https://news.ycombinator.com/item?id=49806335"
+    ],
+    [
+      "SAML: A Fractal of Bad Design",
+      "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/"
     ]
   ],
   [
@@ -31,12 +71,32 @@
   ],
   [
     [
+      "2026-09-22, 18:10:31",
+      "https://news.ycombinator.com/item?id=49805677"
+    ],
+    [
+      "An update on how we confirm your age group on Discord",
+      "https://discord.com/blog/safer-for-teens-same-discord-for-adults"
+    ]
+  ],
+  [
+    [
       "2026-09-22, 18:00:34",
       "https://news.ycombinator.com/item?id=49805509"
     ],
     [
       "GPT-6 Sol and Luna",
       "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 17:46:02",
+      "https://news.ycombinator.com/item?id=49805278"
+    ],
+    [
+      "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/"
     ]
   ],
   [
@@ -91,52 +151,12 @@
   ],
   [
     [
-      "2026-09-22, 16:15:06",
-      "https://news.ycombinator.com/item?id=49803683"
-    ],
-    [
-      "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
-      "https://ai-rete-rag.com/"
-    ]
-  ],
-  [
-    [
       "2026-09-22, 16:11:34",
       "https://news.ycombinator.com/item?id=49803635"
     ],
     [
       "16-bit Intel 8088 chip (c. 1985)",
       "https://allpoetry.com/16-bit-Intel-8088-chip"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 15:38:24",
-      "https://news.ycombinator.com/item?id=49803085"
-    ],
-    [
-      "Writing Rust code that's fast by asking agents to make the code faster",
-      "https://minimaxir.com/2026/09/agentic-iteration/"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 15:25:12",
-      "https://news.ycombinator.com/item?id=49802871"
-    ],
-    [
-      "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
-      "https://mouse.dev/blog/muse-runtime-export/"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 15:20:06",
-      "https://news.ycombinator.com/item?id=49802789"
-    ],
-    [
-      "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
-      "https://github.com/General-Instinct/InstinctFlash"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2026-09-22, 14:35:15",
-      "https://news.ycombinator.com/item?id=49802030"
-    ],
-    [
-      "Meta’s Muse has a serious 0-day",
-      "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
-    ]
-  ],
-  [
-    [
       "2026-09-22, 14:30:12",
       "https://news.ycombinator.com/item?id=49801939"
     ],
     [
       "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
       "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 13:52:47",
-      "https://news.ycombinator.com/item?id=49801329"
-    ],
-    [
-      "Show HN: Drop – A rootless Linux sandbox with gVisor support",
-      "https://droprun.sh/"
     ]
   ],
   [
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2026-09-22, 13:45:32",
-      "https://news.ycombinator.com/item?id=49801218"
+      "2026-09-22, 13:01:03",
+      "https://news.ycombinator.com/item?id=49800574"
     ],
     [
-      "The Economics of Open-Weight Inference",
-      "https://data.ornn.com/publications/the-economics-of-open-weight-inference"
+      "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "https://benchmarkheaven.com/jev-models"
     ]
   ],
   [
@@ -205,48 +205,48 @@
       "https://news.ycombinator.com/item?id=49800566"
     ],
     [
-      "Training a model to identify AI-generated web content from structure alone",
+      "Show HN: Training a model to identify AI web content from structure alone",
       "https://arxiv.org/abs/2609.15369"
     ]
   ],
   [
     [
-      "2026-09-22, 08:39:43",
-      "https://news.ycombinator.com/item?id=49798204"
+      "2026-09-22, 03:10:05",
+      "https://news.ycombinator.com/item?id=49796379"
     ],
     [
-      "AMD's random number generator can't generate a 0?",
-      "https://board.flatassembler.net/topic.php?t=24261"
+      "What California is learning from solar panels built over irrigation canals",
+      "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals"
     ]
   ],
   [
     [
-      "2026-09-22, 06:08:39",
-      "https://news.ycombinator.com/item?id=49797323"
+      "2026-09-22, 01:21:20",
+      "https://news.ycombinator.com/item?id=49795686"
     ],
     [
-      "Can gzip be a language model?",
-      "https://nathan.rs/posts/gzip-lm/"
+      "People hooked on vapes try a new way to quit: cigarettes",
+      "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke"
     ]
   ],
   [
     [
-      "2026-09-22, 02:47:52",
-      "https://news.ycombinator.com/item?id=49796260"
+      "2026-09-22, 00:24:00",
+      "https://news.ycombinator.com/item?id=49795260"
     ],
     [
-      "Side-stepping the Secretary Problem, unwittingly",
-      "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html"
+      "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/"
     ]
   ],
   [
     [
-      "2026-09-21, 22:16:34",
-      "https://news.ycombinator.com/item?id=49794193"
+      "2026-09-21, 22:47:54",
+      "https://news.ycombinator.com/item?id=49794478"
     ],
     [
-      "Solitaire Alone Together",
-      "https://solitairealonetogether.com/"
+      "Markdown in /src",
+      "https://htmx.org/essays/markdown-in-src/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-09-21, 02:39:59",
-      "https://news.ycombinator.com/item?id=49782452"
+      "2026-09-21, 03:23:26",
+      "https://news.ycombinator.com/item?id=49782702"
     ],
     [
-      "Relativistic raytracing",
-      "https://publish.obsidian.md/h1m3/Articles/Relativistic+raytracing"
+      "The Trouble with 'Ntile()'",
+      "https://blog.djnavarro.net/posts/2026-09-20_the-trouble-with-ntile/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-09-20, 20:55:07",
-      "https://news.ycombinator.com/item?id=49779984"
+      "2026-09-18, 19:01:03",
+      "https://news.ycombinator.com/item?id=49758709"
     ],
     [
-      "One Minute Park",
-      "https://oneminutepark.tv/"
+      "How did AMD Ryzen get 50% faster in two years?",
+      "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/"
     ]
   ],
   [
     [
-      "2026-09-20, 16:58:34",
-      "https://news.ycombinator.com/item?id=49777601"
+      "2026-09-17, 15:40:18",
+      "https://news.ycombinator.com/item?id=49742438"
     ],
     [
-      "Truman World",
-      "https://trumanworld.live"
+      "Rabbit Hole: Minimum L-seams",
+      "https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/"
     ]
   ]
 ]
