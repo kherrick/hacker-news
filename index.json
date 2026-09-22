@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-09-21, 22:33:45",
-      "https://news.ycombinator.com/item?id=49794354"
+      "2026-09-22, 01:05:19",
+      "https://news.ycombinator.com/item?id=49795579"
     ],
     [
-      "Data Protection Commission fines Google €403M over processing of location data",
-      "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location"
+      "Claude Status – Elevated errors for multiple models",
+      "https://status.claude.com/incidents/7g1qpkyz5gxh"
+    ]
+  ],
+  [
+    [
+      "2026-09-21, 23:16:51",
+      "https://news.ycombinator.com/item?id=49794736"
+    ],
+    [
+      "Looking forward to Git 2.56 – and 3.0",
+      "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/"
+    ]
+  ],
+  [
+    [
+      "2026-09-21, 23:03:49",
+      "https://news.ycombinator.com/item?id=49794615"
+    ],
+    [
+      "Spymarks, Not Watermarks",
+      "https://brand.io/article/spymarks/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-09-21, 18:14:56",
-      "https://news.ycombinator.com/item?id=49791117"
-    ],
-    [
-      "Avoiding the babbling-idiot failure in a time-triggered communication system",
-      "https://ieeexplore.ieee.org/document/689473"
-    ]
-  ],
-  [
-    [
       "2026-09-21, 17:30:21",
       "https://news.ycombinator.com/item?id=49790409"
     ],
@@ -151,12 +161,12 @@
   ],
   [
     [
-      "2026-09-21, 16:22:06",
-      "https://news.ycombinator.com/item?id=49789356"
+      "2026-09-21, 16:22:26",
+      "https://news.ycombinator.com/item?id=49789361"
     ],
     [
-      "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-      "https://github.com/naw103/foremerge"
+      "The agents, they just want to talk",
+      "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html"
     ]
   ],
   [
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=49789081"
     ],
     [
-      "How do Traffic Signals Work (2019)",
+      "How do traffic signals work? (2019)",
       "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work"
     ]
   ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2026-09-21, 15:45:06",
-      "https://news.ycombinator.com/item?id=49788773"
-    ],
-    [
-      "A restored PDP-11/83 serving this page on 211BSD Unix",
-      "http://pdp1173.com/"
-    ]
-  ],
-  [
-    [
       "2026-09-21, 14:26:56",
       "https://news.ycombinator.com/item?id=49787726"
     ],
     [
       "Attention is all you have",
       "https://alicegg.tech/2026/09/21/attention"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 14:22:58",
-      "https://news.ycombinator.com/item?id=49787684"
-    ],
-    [
-      "Noodle Gallery – Self-hosted photo and video manager forked from Immich",
-      "https://digitalescapetools.com/tools/noodlegallery.html"
     ]
   ],
   [
@@ -241,22 +231,22 @@
   ],
   [
     [
-      "2026-09-21, 13:53:27",
-      "https://news.ycombinator.com/item?id=49787313"
-    ],
-    [
-      "M5 Ultra Mac Studio Review",
-      "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/"
-    ]
-  ],
-  [
-    [
       "2026-09-21, 13:38:19",
       "https://news.ycombinator.com/item?id=49787142"
     ],
     [
       "Python Workers are now generally available",
       "https://blog.cloudflare.com/python-workers-ga/"
+    ]
+  ],
+  [
+    [
+      "2026-09-21, 10:57:44",
+      "https://news.ycombinator.com/item?id=49785609"
+    ],
+    [
+      "First Shader from Zero in Godot 4",
+      "https://www.gdquest.com/library/first_shader_godot4_portal/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Journey of a Migratory Shorebird",
       "https://www.newyorker.com/magazine/2026/09/21/the-incredible-journey-of-a-migratory-shorebird"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 00:55:27",
+      "https://news.ycombinator.com/item?id=49771543"
+    ],
+    [
+      "More Floating Point Alternatives",
+      "https://wizardzines.com/comics/floating-point-alternatives/"
     ]
   ],
   [
