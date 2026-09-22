@@ -1,22 +1,72 @@
 [
   [
     [
-      "2026-09-22, 05:49:04",
-      "https://news.ycombinator.com/item?id=49797226"
+      "2026-09-22, 11:29:47",
+      "https://news.ycombinator.com/item?id=49799577"
     ],
     [
-      "Firmware Freedom",
-      "https://playtaurus.com/blog/firmware-freedom"
+      "Type Punning in C and C++",
+      "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html"
     ]
   ],
   [
     [
-      "2026-09-22, 05:32:55",
-      "https://news.ycombinator.com/item?id=49797139"
+      "2026-09-22, 11:00:58",
+      "https://news.ycombinator.com/item?id=49799287"
     ],
     [
-      "Apple Music to open concert venue in Battersea Power Station",
-      "https://www.bbc.com/news/articles/c607l2j2rj8ro"
+      "JetBrains Air: A System of Products for Agentic Software Development",
+      "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 10:36:44",
+      "https://news.ycombinator.com/item?id=49799083"
+    ],
+    [
+      "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+      "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 09:36:31",
+      "https://news.ycombinator.com/item?id=49798597"
+    ],
+    [
+      "Verda (Finland) raises $189M in Series B",
+      "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 08:39:43",
+      "https://news.ycombinator.com/item?id=49798204"
+    ],
+    [
+      "AMD's random number generator can't generate a 0?",
+      "https://board.flatassembler.net/topic.php?t=24261"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 08:04:55",
+      "https://news.ycombinator.com/item?id=49797982"
+    ],
+    [
+      "I said no and Apple said yes",
+      "https://dbushell.com/2026/09/22/apple-intelligence/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 06:08:39",
+      "https://news.ycombinator.com/item?id=49797323"
+    ],
+    [
+      "Can gzip be a language model?",
+      "https://nathan.rs/posts/gzip-lm/"
     ]
   ],
   [
@@ -131,46 +181,6 @@
   ],
   [
     [
-      "2026-09-21, 18:53:01",
-      "https://news.ycombinator.com/item?id=49791647"
-    ],
-    [
-      "Frontier AI on Your Own Hardware",
-      "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 18:33:44",
-      "https://news.ycombinator.com/item?id=49791378"
-    ],
-    [
-      "Why does mathmain need an encrypted loader?",
-      "https://safedep.io/mathmain-encrypted-loader/"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 18:15:32",
-      "https://news.ycombinator.com/item?id=49791125"
-    ],
-    [
-      "Apple Copland D11E4 Booting in the Browser",
-      "https://www.pagetable.com/300"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 17:30:21",
-      "https://news.ycombinator.com/item?id=49790409"
-    ],
-    [
-      "Turn off and restrict access to Apple Intelligence features on Mac",
-      "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac"
-    ]
-  ],
-  [
-    [
       "2026-09-21, 16:14:16",
       "https://news.ycombinator.com/item?id=49789228"
     ],
@@ -187,16 +197,6 @@
     [
       "How do traffic signals work? (2019)",
       "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 15:50:15",
-      "https://news.ycombinator.com/item?id=49788838"
-    ],
-    [
-      "Grok 4.7",
-      "https://x.ai/news/grok-4-7"
     ]
   ],
   [
@@ -231,62 +231,52 @@
   ],
   [
     [
-      "2026-09-21, 10:57:44",
-      "https://news.ycombinator.com/item?id=49785609"
+      "2026-09-21, 12:50:13",
+      "https://news.ycombinator.com/item?id=49786643"
     ],
     [
-      "First Shader from Zero in Godot 4",
-      "https://www.gdquest.com/library/first_shader_godot4_portal/"
+      "A build graph that rolls dice",
+      "https://fzakaria.com/2026/09/20/a-build-graph-that-rolls-dice"
     ]
   ],
   [
     [
-      "2026-09-20, 18:23:12",
-      "https://news.ycombinator.com/item?id=49778467"
+      "2026-09-21, 09:56:34",
+      "https://news.ycombinator.com/item?id=49785202"
     ],
     [
-      "Epoll and Kqueue: How Operating Systems Learned to Wait Efficiently",
-      "https://thecodinggopher.substack.com/p/epoll-and-kqueue-how-operating-systems"
+      "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
+      "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/"
     ]
   ],
   [
     [
-      "2026-09-20, 16:58:34",
-      "https://news.ycombinator.com/item?id=49777601"
+      "2026-09-20, 21:18:58",
+      "https://news.ycombinator.com/item?id=49780175"
     ],
     [
-      "Truman World",
-      "https://trumanworld.live"
+      "What It's Like to Work in One of America's Data Centers",
+      "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003"
     ]
   ],
   [
     [
-      "2026-09-20, 09:57:35",
-      "https://news.ycombinator.com/item?id=49774269"
+      "2026-09-20, 09:38:16",
+      "https://news.ycombinator.com/item?id=49774161"
     ],
     [
-      "PDF Forgeries Are Surprisingly Rare (2022)",
-      "https://gwern.net/blog/2022/pdf-forgery"
+      "A font that reads what you wrote",
+      "https://rohanadwankar.github.io/posts/semfont.html"
     ]
   ],
   [
     [
-      "2026-09-20, 00:55:27",
-      "https://news.ycombinator.com/item?id=49771543"
+      "2026-09-20, 03:21:12",
+      "https://news.ycombinator.com/item?id=49772263"
     ],
     [
-      "More floating point alternatives",
-      "https://wizardzines.com/comics/floating-point-alternatives/"
-    ]
-  ],
-  [
-    [
-      "2026-09-20, 00:28:33",
-      "https://news.ycombinator.com/item?id=49771389"
-    ],
-    [
-      "Paper Models of Polyhedra",
-      "https://www.polyhedra.net/en/"
+      "World Wide Words",
+      "https://www.worldwidewords.org/genindex.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Divide by depth for instant 3D",
       "https://gabrieloc.com/2026/09/15/perspective.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-19, 14:51:09",
+      "https://news.ycombinator.com/item?id=49767024"
+    ],
+    [
+      "JavaFX 27 Native Image on a Raspberry Pi 5",
+      "https://ennerf.github.io/2026/09/18/JavaFX-27-Native-Image-on-a-Raspberry-Pi-5.html"
     ]
   ]
 ]
