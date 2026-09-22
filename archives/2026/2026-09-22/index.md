@@ -4,6 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-09-22](index.md)
 
+* [2026-09-22, 15:25:12](https://news.ycombinator.com/item?id=49802871) - [How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me](https://mouse.dev/blog/muse-runtime-export/)
+* [2026-09-22, 15:09:45](https://news.ycombinator.com/item?id=49802619) - [If you start writing today, there's no way to know if you can write without AI](https://www.ssp.sh/brain/ai-writing/)
+* [2026-09-22, 15:07:03](https://news.ycombinator.com/item?id=49802581) - [Vacate a Drone Restriction That Criminalized Recording Immigration Agents](https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration)
+* [2026-09-22, 14:42:59](https://news.ycombinator.com/item?id=49802161) - [OpenAI is about to eat Jev's lunch – Arcturus Labs](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)
+* [2026-09-22, 14:42:57](https://news.ycombinator.com/item?id=49802160) - [Jev – a curation of Jev demos on X, tools, skills, and integrations](https://github.com/Amal-David/awesome-jev)
+* [2026-09-22, 14:35:15](https://news.ycombinator.com/item?id=49802030) - [Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/)
+* [2026-09-22, 14:30:12](https://news.ycombinator.com/item?id=49801939) - [Apple has added persistent 'ads' to iOS, and it's driving users crazy](https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy)
+* [2026-09-22, 13:52:47](https://news.ycombinator.com/item?id=49801329) - [Show HN: Drop – a rootless Linux sandbox with gVisor support](https://droprun.sh/)
+* [2026-09-22, 13:52:15](https://news.ycombinator.com/item?id=49801324) - [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+* [2026-09-22, 13:45:32](https://news.ycombinator.com/item?id=49801218) - [The Economics of Open-Weight Inference](https://data.ornn.com/publications/the-economics-of-open-weight-inference)
+* [2026-09-22, 13:27:29](https://news.ycombinator.com/item?id=49800953) - [People Training OpenAI's AI Fired for Using AI to Train the AI](https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/)
+* [2026-09-22, 12:11:09](https://news.ycombinator.com/item?id=49799965) - [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
 * [2026-09-22, 11:29:47](https://news.ycombinator.com/item?id=49799577) - [Type Punning in C and C++](https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html)
 * [2026-09-22, 11:00:58](https://news.ycombinator.com/item?id=49799287) - [JetBrains Air: A System of Products for Agentic Software Development](https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/)
 * [2026-09-22, 10:36:44](https://news.ycombinator.com/item?id=49799083) - [9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"](https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html)
