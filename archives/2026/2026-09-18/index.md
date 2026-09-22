@@ -11,6 +11,7 @@
 * [2026-09-18, 20:30:28](https://news.ycombinator.com/item?id=49759853) - [When the FM Band Goes Transatlantic](https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic)
 * [2026-09-18, 20:02:54](https://news.ycombinator.com/item?id=49759466) - [Korea raises data breach fines to 10% of revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
 * [2026-09-18, 19:03:09](https://news.ycombinator.com/item?id=49758736) - [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
+* [2026-09-18, 19:01:03](https://news.ycombinator.com/item?id=49758709) - [How did AMD Ryzen get 50% faster in two years?](https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/)
 * [2026-09-18, 19:00:06](https://news.ycombinator.com/item?id=49758689) - [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852)
 * [2026-09-18, 18:55:35](https://news.ycombinator.com/item?id=49758615) - [Cache-to-Cache: Direct Semantic Communication Between Large Language Models](https://arxiv.org/abs/2510.03215)
 * [2026-09-18, 18:51:46](https://news.ycombinator.com/item?id=49758580) - [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)

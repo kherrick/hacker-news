@@ -6,6 +6,7 @@
 
 * [2026-09-21, 23:16:51](https://news.ycombinator.com/item?id=49794736) - [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
 * [2026-09-21, 23:03:49](https://news.ycombinator.com/item?id=49794615) - [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
+* [2026-09-21, 22:47:54](https://news.ycombinator.com/item?id=49794478) - [Markdown in /src](https://htmx.org/essays/markdown-in-src/)
 * [2026-09-21, 22:33:45](https://news.ycombinator.com/item?id=49794354) - [Data Protection Commission fines Google €403M over processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
 * [2026-09-21, 22:30:41](https://news.ycombinator.com/item?id=49794330) - [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
 * [2026-09-21, 22:16:34](https://news.ycombinator.com/item?id=49794193) - [Solitaire Alone Together](https://solitairealonetogether.com/)
@@ -60,6 +61,7 @@
 * [2026-09-21, 04:35:22](https://news.ycombinator.com/item?id=49783101) - [Heretic removes restrictions from language models](https://heretic-project.org/)
 * [2026-09-21, 04:28:44](https://news.ycombinator.com/item?id=49783062) - [AI chatbots give wrong answers to financial queries 'most of the time'](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
 * [2026-09-21, 03:37:02](https://news.ycombinator.com/item?id=49782775) - [Winning the visa lottery](https://www.aeaweb.org/research/immigration-restrictions-firms-workers)
+* [2026-09-21, 03:23:26](https://news.ycombinator.com/item?id=49782702) - [The Trouble with 'Ntile()'](https://blog.djnavarro.net/posts/2026-09-20_the-trouble-with-ntile/)
 * [2026-09-21, 02:39:59](https://news.ycombinator.com/item?id=49782452) - [Relativistic raytracing](https://publish.obsidian.md/h1m3/Articles/Relativistic+raytracing)
 * [2026-09-21, 02:02:45](https://news.ycombinator.com/item?id=49782220) - [Deterministic Core, Non-Deterministic Shell](https://outdata.net/blog/260803)
 * [2026-09-21, 00:42:14](https://news.ycombinator.com/item?id=49781693) - [Why Backprop Goes Backward (2018)](https://gregorygundersen.com/blog/2018/04/15/backprop/)
