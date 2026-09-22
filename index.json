@@ -1,32 +1,142 @@
 [
   [
     [
+      "2026-09-22, 19:03:38",
+      "https://news.ycombinator.com/item?id=49806430"
+    ],
+    [
+      "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+      "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 18:34:36",
+      "https://news.ycombinator.com/item?id=49806050"
+    ],
+    [
+      "Zero-downtime Linux kernel zero-day mitigation via eBPF and SECCOMP",
+      "https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 18:15:53",
+      "https://news.ycombinator.com/item?id=49805748"
+    ],
+    [
+      "Unreal Agent",
+      "https://unreallabs.ai/blog/unreal-agent/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 18:00:34",
+      "https://news.ycombinator.com/item?id=49805509"
+    ],
+    [
+      "GPT-6 Sol and Luna",
+      "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 17:26:36",
+      "https://news.ycombinator.com/item?id=49804931"
+    ],
+    [
+      "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "https://www.coveragecat.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 17:12:51",
+      "https://news.ycombinator.com/item?id=49804683"
+    ],
+    [
+      "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
+      "https://grapheneos.social/@GrapheneOS/117299954135808210"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 16:51:31",
+      "https://news.ycombinator.com/item?id=49804316"
+    ],
+    [
+      "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "https://artificialanalysis.ai/models/claude-opus-5-5"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 16:33:45",
+      "https://news.ycombinator.com/item?id=49803959"
+    ],
+    [
+      "WordPress: Unauthenticated path traversal leading to conditional RCE",
+      "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 16:29:05",
+      "https://news.ycombinator.com/item?id=49803892"
+    ],
+    [
+      "Claude Opus 5.5",
+      "https://www.anthropic.com/claude-opus-5-5"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 16:15:06",
+      "https://news.ycombinator.com/item?id=49803683"
+    ],
+    [
+      "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "https://ai-rete-rag.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 16:11:34",
+      "https://news.ycombinator.com/item?id=49803635"
+    ],
+    [
+      "16-bit Intel 8088 chip (c. 1985)",
+      "https://allpoetry.com/16-bit-Intel-8088-chip"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 15:38:24",
+      "https://news.ycombinator.com/item?id=49803085"
+    ],
+    [
+      "Writing Rust code that's fast by asking agents to make the code faster",
+      "https://minimaxir.com/2026/09/agentic-iteration/"
+    ]
+  ],
+  [
+    [
       "2026-09-22, 15:25:12",
       "https://news.ycombinator.com/item?id=49802871"
     ],
     [
-      "How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me",
+      "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
       "https://mouse.dev/blog/muse-runtime-export/"
     ]
   ],
   [
     [
-      "2026-09-22, 15:09:45",
-      "https://news.ycombinator.com/item?id=49802619"
+      "2026-09-22, 15:20:06",
+      "https://news.ycombinator.com/item?id=49802789"
     ],
     [
-      "If you start writing today, there's no way to know if you can write without AI",
-      "https://www.ssp.sh/brain/ai-writing/"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 15:07:03",
-      "https://news.ycombinator.com/item?id=49802581"
-    ],
-    [
-      "Vacate a Drone Restriction That Criminalized Recording Immigration Agents",
-      "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration"
+      "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
+      "https://github.com/General-Instinct/InstinctFlash"
     ]
   ],
   [
@@ -35,18 +145,8 @@
       "https://news.ycombinator.com/item?id=49802161"
     ],
     [
-      "OpenAI is about to eat Jev's lunch – Arcturus Labs",
+      "OpenAI is well positioned to fast-follow Jev",
       "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 14:42:57",
-      "https://news.ycombinator.com/item?id=49802160"
-    ],
-    [
-      "Jev – a curation of Jev demos on X, tools, skills, and integrations",
-      "https://github.com/Amal-David/awesome-jev"
     ]
   ],
   [
@@ -55,7 +155,7 @@
       "https://news.ycombinator.com/item?id=49802030"
     ],
     [
-      "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "Meta’s Muse has a serious 0-day",
       "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
     ]
   ],
@@ -75,7 +175,7 @@
       "https://news.ycombinator.com/item?id=49801329"
     ],
     [
-      "Show HN: Drop – a rootless Linux sandbox with gVisor support",
+      "Show HN: Drop – A rootless Linux sandbox with gVisor support",
       "https://droprun.sh/"
     ]
   ],
@@ -101,32 +201,12 @@
   ],
   [
     [
-      "2026-09-22, 13:27:29",
-      "https://news.ycombinator.com/item?id=49800953"
+      "2026-09-22, 13:00:49",
+      "https://news.ycombinator.com/item?id=49800566"
     ],
     [
-      "People Training OpenAI's AI Fired for Using AI to Train the AI",
-      "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 12:11:09",
-      "https://news.ycombinator.com/item?id=49799965"
-    ],
-    [
-      "AI Has No Wisdom and Neither Will You",
-      "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 10:36:44",
-      "https://news.ycombinator.com/item?id=49799083"
-    ],
-    [
-      "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
-      "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html"
+      "Training a model to identify AI-generated web content from structure alone",
+      "https://arxiv.org/abs/2609.15369"
     ]
   ],
   [
@@ -141,16 +221,6 @@
   ],
   [
     [
-      "2026-09-22, 08:04:55",
-      "https://news.ycombinator.com/item?id=49797982"
-    ],
-    [
-      "I said no and Apple said yes",
-      "https://dbushell.com/2026/09/22/apple-intelligence/"
-    ]
-  ],
-  [
-    [
       "2026-09-22, 06:08:39",
       "https://news.ycombinator.com/item?id=49797323"
     ],
@@ -161,32 +231,12 @@
   ],
   [
     [
-      "2026-09-22, 04:02:09",
-      "https://news.ycombinator.com/item?id=49796660"
+      "2026-09-22, 02:47:52",
+      "https://news.ycombinator.com/item?id=49796260"
     ],
     [
-      "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-      "https://artificialanalysis.ai/models/mimo-v2-6-pro"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 23:03:49",
-      "https://news.ycombinator.com/item?id=49794615"
-    ],
-    [
-      "Spymarks, Not Watermarks",
-      "https://brand.io/article/spymarks/"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 22:30:41",
-      "https://news.ycombinator.com/item?id=49794330"
-    ],
-    [
-      "I don't want to read what you didn't write",
-      "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/"
+      "Side-stepping the Secretary Problem, unwittingly",
+      "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html"
     ]
   ],
   [
@@ -201,62 +251,22 @@
   ],
   [
     [
-      "2026-09-21, 20:12:12",
-      "https://news.ycombinator.com/item?id=49792730"
+      "2026-09-21, 13:40:03",
+      "https://news.ycombinator.com/item?id=49787163"
     ],
     [
-      "MiMo v2.6",
-      "https://mimo.xiaomi.com/mimo-v2-6"
+      "George Lucas Returns to Earth, Bearing Gifts",
+      "https://commonedge.org/george-lucas-returns-to-earth-bearing-gifts/"
     ]
   ],
   [
     [
-      "2026-09-21, 19:43:49",
-      "https://news.ycombinator.com/item?id=49792342"
+      "2026-09-21, 02:39:59",
+      "https://news.ycombinator.com/item?id=49782452"
     ],
     [
-      "Transformers Explained Visually",
-      "https://poloclub.github.io/transformer-explainer/"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 19:23:33",
-      "https://news.ycombinator.com/item?id=49792067"
-    ],
-    [
-      "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "https://linear.app/now/ci-bottleneck-reworked"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 14:26:56",
-      "https://news.ycombinator.com/item?id=49787726"
-    ],
-    [
-      "Attention is all you have",
-      "https://alicegg.tech/2026/09/21/attention"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 14:03:18",
-      "https://news.ycombinator.com/item?id=49787436"
-    ],
-    [
-      "What Sun got wrong",
-      "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 09:56:34",
-      "https://news.ycombinator.com/item?id=49785202"
-    ],
-    [
-      "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
-      "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/"
+      "Relativistic raytracing",
+      "https://publish.obsidian.md/h1m3/Articles/Relativistic+raytracing"
     ]
   ],
   [
@@ -265,38 +275,28 @@
       "https://news.ycombinator.com/item?id=49780622"
     ],
     [
-      "Line Scan Photos from MUNI Heritage Weekend in San Francisco",
+      "MUNI Heritage Weekend in San Francisco",
       "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/"
     ]
   ],
   [
     [
-      "2026-09-20, 21:18:58",
-      "https://news.ycombinator.com/item?id=49780175"
+      "2026-09-20, 20:55:07",
+      "https://news.ycombinator.com/item?id=49779984"
     ],
     [
-      "What It's Like to Work in One of America's Data Centers",
-      "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003"
+      "One Minute Park",
+      "https://oneminutepark.tv/"
     ]
   ],
   [
     [
-      "2026-09-20, 09:38:16",
-      "https://news.ycombinator.com/item?id=49774161"
+      "2026-09-20, 16:58:34",
+      "https://news.ycombinator.com/item?id=49777601"
     ],
     [
-      "A font that reads what you wrote",
-      "https://rohanadwankar.github.io/posts/semfont.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-20, 08:02:48",
-      "https://news.ycombinator.com/item?id=49773597"
-    ],
-    [
-      "Teleoperated Humans",
-      "https://www.jefftk.com/p/teleoperated-humans"
+      "Truman World",
+      "https://trumanworld.live"
     ]
   ]
 ]
