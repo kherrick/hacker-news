@@ -27,6 +27,7 @@
 * [2026-09-19, 15:52:51](https://news.ycombinator.com/item?id=49767564) - [Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua)
 * [2026-09-19, 15:32:19](https://news.ycombinator.com/item?id=49767386) - [Jobs Without LeetCode](https://noleet.lol/jobs)
 * [2026-09-19, 15:17:12](https://news.ycombinator.com/item?id=49767242) - [The Lamentable Later Life of Lemmings](https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/)
+* [2026-09-19, 14:51:09](https://news.ycombinator.com/item?id=49767024) - [JavaFX 27 Native Image on a Raspberry Pi 5](https://ennerf.github.io/2026/09/18/JavaFX-27-Native-Image-on-a-Raspberry-Pi-5.html)
 * [2026-09-19, 14:45:12](https://news.ycombinator.com/item?id=49766976) - [Agreement between the USA and Denmark (1951,2004) [pdf]](https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf)
 * [2026-09-19, 14:44:02](https://news.ycombinator.com/item?id=49766966) - [Brood War Bench](https://bw.swerdlow.dev/report)
 * [2026-09-19, 14:23:42](https://news.ycombinator.com/item?id=49766821) - [Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
