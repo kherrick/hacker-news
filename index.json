@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-09-22, 05:49:04",
+      "https://news.ycombinator.com/item?id=49797226"
+    ],
+    [
+      "Firmware Freedom",
+      "https://playtaurus.com/blog/firmware-freedom"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 05:32:55",
+      "https://news.ycombinator.com/item?id=49797139"
+    ],
+    [
+      "Apple Music to open concert venue in Battersea Power Station",
+      "https://www.bbc.com/news/articles/c607l2j2rj8ro"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 04:02:09",
+      "https://news.ycombinator.com/item?id=49796660"
+    ],
+    [
+      "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "https://artificialanalysis.ai/models/mimo-v2-6-pro"
+    ]
+  ],
+  [
+    [
       "2026-09-22, 01:05:19",
       "https://news.ycombinator.com/item?id=49795579"
     ],
     [
       "Claude Status – Elevated errors for multiple models",
       "https://status.claude.com/incidents/7g1qpkyz5gxh"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 00:06:55",
+      "https://news.ycombinator.com/item?id=49795122"
+    ],
+    [
+      "Socrates vs. the Written Word (2011)",
+      "https://wondermark.com/socrates-vs-writing/"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=49792730"
     ],
     [
-      "Xiaomi MiMo v2.6",
+      "MiMo v2.6",
       "https://mimo.xiaomi.com/mimo-v2-6"
     ]
   ],
@@ -91,42 +131,12 @@
   ],
   [
     [
-      "2026-09-21, 19:04:36",
-      "https://news.ycombinator.com/item?id=49791797"
-    ],
-    [
-      "In Search of a Compositional Theory of Self-Stabilization",
-      "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 18:58:26",
-      "https://news.ycombinator.com/item?id=49791720"
-    ],
-    [
-      "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-      "https://robocurve.org/roboharm/"
-    ]
-  ],
-  [
-    [
       "2026-09-21, 18:53:01",
       "https://news.ycombinator.com/item?id=49791647"
     ],
     [
       "Frontier AI on Your Own Hardware",
       "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 18:41:59",
-      "https://news.ycombinator.com/item?id=49791509"
-    ],
-    [
-      "US halts flights at busy East Coast airports, says fiber line cut",
-      "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/"
     ]
   ],
   [
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2026-09-21, 16:22:26",
-      "https://news.ycombinator.com/item?id=49789361"
-    ],
-    [
-      "The agents, they just want to talk",
-      "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html"
-    ]
-  ],
-  [
-    [
       "2026-09-21, 16:14:16",
       "https://news.ycombinator.com/item?id=49789228"
     ],
     [
       "HERMES radio enables voice and data communication over vast distances",
       "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 16:13:57",
-      "https://news.ycombinator.com/item?id=49789224"
-    ],
-    [
-      "Fable 5 – Median thinking declined in August",
-      "https://twitter.com/Lon/status/2101793422487204027"
     ]
   ],
   [
@@ -251,32 +241,32 @@
   ],
   [
     [
-      "2026-09-21, 07:11:55",
-      "https://news.ycombinator.com/item?id=49783999"
+      "2026-09-20, 18:23:12",
+      "https://news.ycombinator.com/item?id=49778467"
     ],
     [
-      "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "https://github.com/jaredpalmer/kev/tree/main"
+      "Epoll and Kqueue: How Operating Systems Learned to Wait Efficiently",
+      "https://thecodinggopher.substack.com/p/epoll-and-kqueue-how-operating-systems"
     ]
   ],
   [
     [
-      "2026-09-21, 05:09:08",
-      "https://news.ycombinator.com/item?id=49783274"
+      "2026-09-20, 16:58:34",
+      "https://news.ycombinator.com/item?id=49777601"
     ],
     [
-      "TXR: An Original, New Programming Language for Convenient Data Munging",
-      "https://www.nongnu.org/txr/"
+      "Truman World",
+      "https://trumanworld.live"
     ]
   ],
   [
     [
-      "2026-09-20, 14:44:27",
-      "https://news.ycombinator.com/item?id=49776382"
+      "2026-09-20, 09:57:35",
+      "https://news.ycombinator.com/item?id=49774269"
     ],
     [
-      "The Journey of a Migratory Shorebird",
-      "https://www.newyorker.com/magazine/2026/09/21/the-incredible-journey-of-a-migratory-shorebird"
+      "PDF Forgeries Are Surprisingly Rare (2022)",
+      "https://gwern.net/blog/2022/pdf-forgery"
     ]
   ],
   [
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=49771543"
     ],
     [
-      "More Floating Point Alternatives",
+      "More floating point alternatives",
       "https://wizardzines.com/comics/floating-point-alternatives/"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 00:28:33",
+      "https://news.ycombinator.com/item?id=49771389"
+    ],
+    [
+      "Paper Models of Polyhedra",
+      "https://www.polyhedra.net/en/"
     ]
   ],
   [
