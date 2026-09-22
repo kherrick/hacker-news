@@ -14,6 +14,7 @@
 * [2026-09-20, 21:18:58](https://news.ycombinator.com/item?id=49780175) - [What It's Like to Work in One of America's Data Centers](https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003)
 * [2026-09-20, 21:04:32](https://news.ycombinator.com/item?id=49780064) - [Nobody pays for FOSS, we can force them to](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
 * [2026-09-20, 20:59:02](https://news.ycombinator.com/item?id=49780022) - [Ogre Battle 64 Recompiled Project at 99.05%](https://github.com/lfarroco/ogre-battle-64-recomp)
+* [2026-09-20, 20:55:07](https://news.ycombinator.com/item?id=49779984) - [One Minute Park](https://oneminutepark.tv/)
 * [2026-09-20, 20:32:43](https://news.ycombinator.com/item?id=49779802) - [OpenAI's Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
 * [2026-09-20, 19:55:36](https://news.ycombinator.com/item?id=49779432) - [Frontier Labs Are Selling Garbage to Fools in Washington](https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage)
 * [2026-09-20, 19:44:40](https://news.ycombinator.com/item?id=49779329) - [Why MCP Was Always a Bad Idea?](https://maharship.com/blog/why-mcp-was-always-a-bad-idea/)
