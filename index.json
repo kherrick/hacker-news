@@ -1,22 +1,122 @@
 [
   [
     [
-      "2026-09-22, 11:29:47",
-      "https://news.ycombinator.com/item?id=49799577"
+      "2026-09-22, 15:25:12",
+      "https://news.ycombinator.com/item?id=49802871"
     ],
     [
-      "Type Punning in C and C++",
-      "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html"
+      "How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me",
+      "https://mouse.dev/blog/muse-runtime-export/"
     ]
   ],
   [
     [
-      "2026-09-22, 11:00:58",
-      "https://news.ycombinator.com/item?id=49799287"
+      "2026-09-22, 15:09:45",
+      "https://news.ycombinator.com/item?id=49802619"
     ],
     [
-      "JetBrains Air: A System of Products for Agentic Software Development",
-      "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/"
+      "If you start writing today, there's no way to know if you can write without AI",
+      "https://www.ssp.sh/brain/ai-writing/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 15:07:03",
+      "https://news.ycombinator.com/item?id=49802581"
+    ],
+    [
+      "Vacate a Drone Restriction That Criminalized Recording Immigration Agents",
+      "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 14:42:59",
+      "https://news.ycombinator.com/item?id=49802161"
+    ],
+    [
+      "OpenAI is about to eat Jev's lunch – Arcturus Labs",
+      "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 14:42:57",
+      "https://news.ycombinator.com/item?id=49802160"
+    ],
+    [
+      "Jev – a curation of Jev demos on X, tools, skills, and integrations",
+      "https://github.com/Amal-David/awesome-jev"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 14:35:15",
+      "https://news.ycombinator.com/item?id=49802030"
+    ],
+    [
+      "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 14:30:12",
+      "https://news.ycombinator.com/item?id=49801939"
+    ],
+    [
+      "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 13:52:47",
+      "https://news.ycombinator.com/item?id=49801329"
+    ],
+    [
+      "Show HN: Drop – a rootless Linux sandbox with gVisor support",
+      "https://droprun.sh/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 13:52:15",
+      "https://news.ycombinator.com/item?id=49801324"
+    ],
+    [
+      "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "https://www.cryptocellar.org/bgac/the-mvueh-break.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 13:45:32",
+      "https://news.ycombinator.com/item?id=49801218"
+    ],
+    [
+      "The Economics of Open-Weight Inference",
+      "https://data.ornn.com/publications/the-economics-of-open-weight-inference"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 13:27:29",
+      "https://news.ycombinator.com/item?id=49800953"
+    ],
+    [
+      "People Training OpenAI's AI Fired for Using AI to Train the AI",
+      "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 12:11:09",
+      "https://news.ycombinator.com/item?id=49799965"
+    ],
+    [
+      "AI Has No Wisdom and Neither Will You",
+      "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/"
     ]
   ],
   [
@@ -27,16 +127,6 @@
     [
       "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
       "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 09:36:31",
-      "https://news.ycombinator.com/item?id=49798597"
-    ],
-    [
-      "Verda (Finland) raises $189M in Series B",
-      "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers"
     ]
   ],
   [
@@ -81,36 +171,6 @@
   ],
   [
     [
-      "2026-09-22, 01:05:19",
-      "https://news.ycombinator.com/item?id=49795579"
-    ],
-    [
-      "Claude Status – Elevated errors for multiple models",
-      "https://status.claude.com/incidents/7g1qpkyz5gxh"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 00:06:55",
-      "https://news.ycombinator.com/item?id=49795122"
-    ],
-    [
-      "Socrates vs. the Written Word (2011)",
-      "https://wondermark.com/socrates-vs-writing/"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 23:16:51",
-      "https://news.ycombinator.com/item?id=49794736"
-    ],
-    [
-      "Looking forward to Git 2.56 – and 3.0",
-      "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/"
-    ]
-  ],
-  [
-    [
       "2026-09-21, 23:03:49",
       "https://news.ycombinator.com/item?id=49794615"
     ],
@@ -127,6 +187,16 @@
     [
       "I don't want to read what you didn't write",
       "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/"
+    ]
+  ],
+  [
+    [
+      "2026-09-21, 22:16:34",
+      "https://news.ycombinator.com/item?id=49794193"
+    ],
+    [
+      "Solitaire Alone Together",
+      "https://solitairealonetogether.com/"
     ]
   ],
   [
@@ -161,46 +231,6 @@
   ],
   [
     [
-      "2026-09-21, 19:17:42",
-      "https://news.ycombinator.com/item?id=49791997"
-    ],
-    [
-      "The Advisory Group on Mathematics and Artificial Intelligence",
-      "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 19:14:12",
-      "https://news.ycombinator.com/item?id=49791939"
-    ],
-    [
-      "NASA’s Mars Sample Return mission is dead",
-      "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 16:14:16",
-      "https://news.ycombinator.com/item?id=49789228"
-    ],
-    [
-      "HERMES radio enables voice and data communication over vast distances",
-      "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 16:06:44",
-      "https://news.ycombinator.com/item?id=49789081"
-    ],
-    [
-      "How do traffic signals work? (2019)",
-      "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work"
-    ]
-  ],
-  [
-    [
       "2026-09-21, 14:26:56",
       "https://news.ycombinator.com/item?id=49787726"
     ],
@@ -221,32 +251,22 @@
   ],
   [
     [
-      "2026-09-21, 13:38:19",
-      "https://news.ycombinator.com/item?id=49787142"
-    ],
-    [
-      "Python Workers are now generally available",
-      "https://blog.cloudflare.com/python-workers-ga/"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 12:50:13",
-      "https://news.ycombinator.com/item?id=49786643"
-    ],
-    [
-      "A build graph that rolls dice",
-      "https://fzakaria.com/2026/09/20/a-build-graph-that-rolls-dice"
-    ]
-  ],
-  [
-    [
       "2026-09-21, 09:56:34",
       "https://news.ycombinator.com/item?id=49785202"
     ],
     [
       "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
       "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 22:13:07",
+      "https://news.ycombinator.com/item?id=49780622"
+    ],
+    [
+      "Line Scan Photos from MUNI Heritage Weekend in San Francisco",
+      "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-09-20, 03:21:12",
-      "https://news.ycombinator.com/item?id=49772263"
+      "2026-09-20, 08:02:48",
+      "https://news.ycombinator.com/item?id=49773597"
     ],
     [
-      "World Wide Words",
-      "https://www.worldwidewords.org/genindex.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 19:43:13",
-      "https://news.ycombinator.com/item?id=49769561"
-    ],
-    [
-      "Divide by depth for instant 3D",
-      "https://gabrieloc.com/2026/09/15/perspective.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-19, 14:51:09",
-      "https://news.ycombinator.com/item?id=49767024"
-    ],
-    [
-      "JavaFX 27 Native Image on a Raspberry Pi 5",
-      "https://ennerf.github.io/2026/09/18/JavaFX-27-Native-Image-on-a-Raspberry-Pi-5.html"
+      "Teleoperated Humans",
+      "https://www.jefftk.com/p/teleoperated-humans"
     ]
   ]
 ]
