@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-21](index.md)
 
+* [2026-09-21, 23:16:51](https://news.ycombinator.com/item?id=49794736) - [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
+* [2026-09-21, 23:03:49](https://news.ycombinator.com/item?id=49794615) - [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
 * [2026-09-21, 22:33:45](https://news.ycombinator.com/item?id=49794354) - [Data Protection Commission fines Google €403M over processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
 * [2026-09-21, 22:30:41](https://news.ycombinator.com/item?id=49794330) - [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
 * [2026-09-21, 20:12:12](https://news.ycombinator.com/item?id=49792730) - [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
@@ -23,6 +25,7 @@
 * [2026-09-21, 17:27:49](https://news.ycombinator.com/item?id=49790389) - [Advisory Group on Mathematics and Artificial Intelligence](https://openai.com/index/advisory-group-on-mathematics-and-ai/)
 * [2026-09-21, 17:00:23](https://news.ycombinator.com/item?id=49789982) - [Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com](https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/)
 * [2026-09-21, 16:36:00](https://news.ycombinator.com/item?id=49789558) - [Grok 4.7 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/grok-4-7)
+* [2026-09-21, 16:22:26](https://news.ycombinator.com/item?id=49789361) - [The agents, they just want to talk](https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html)
 * [2026-09-21, 16:22:06](https://news.ycombinator.com/item?id=49789356) - [Show HN: Foremerge – Catch intent conflicts between parallel coding agents](https://github.com/naw103/foremerge)
 * [2026-09-21, 16:14:16](https://news.ycombinator.com/item?id=49789228) - [This Digital Radio Gets Messages to the World’s Remotest Locations](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data)
 * [2026-09-21, 16:13:57](https://news.ycombinator.com/item?id=49789224) - [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027)
@@ -39,6 +42,7 @@
 * [2026-09-21, 12:54:24](https://news.ycombinator.com/item?id=49786689) - [Raspberry Pi blocks changing RAM chips](https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888)
 * [2026-09-21, 12:47:05](https://news.ycombinator.com/item?id=49786609) - [Ask HN: Is it impossible to disable Siri on macOS 27?](https://news.ycombinator.com/item?id=49786609)
 * [2026-09-21, 12:28:17](https://news.ycombinator.com/item?id=49786419) - [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory)
+* [2026-09-21, 10:57:44](https://news.ycombinator.com/item?id=49785609) - [First Shader from Zero in Godot 4](https://www.gdquest.com/library/first_shader_godot4_portal/)
 * [2026-09-21, 10:33:14](https://news.ycombinator.com/item?id=49785429) - [ZuckOff Know when a camera is in the room](https://zuckoff.app/)
 * [2026-09-21, 10:27:50](https://news.ycombinator.com/item?id=49785397) - [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff)
 * [2026-09-21, 08:54:44](https://news.ycombinator.com/item?id=49784816) - [Don't Use AI to Write](https://paulbakker.io/writing/no-ai-for-writing/)

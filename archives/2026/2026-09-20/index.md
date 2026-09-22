@@ -54,4 +54,5 @@
 * [2026-09-20, 04:38:00](https://news.ycombinator.com/item?id=49772541) - [Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters](https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0)
 * [2026-09-20, 04:35:59](https://news.ycombinator.com/item?id=49772532) - [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
 * [2026-09-20, 02:19:33](https://news.ycombinator.com/item?id=49771966) - [RSA-896](https://saweis.net/posts/rsa-896.html)
+* [2026-09-20, 00:55:27](https://news.ycombinator.com/item?id=49771543) - [More Floating Point Alternatives](https://wizardzines.com/comics/floating-point-alternatives/)
 * [2026-09-20, 00:00:47](https://news.ycombinator.com/item?id=49771218) - [Apple iPhone 18 Pro Camera test](https://www.dxomark.com/apple-iphone-18-pro-camera-test/)
