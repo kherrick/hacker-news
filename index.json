@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-09-23, 09:09:49",
+      "https://news.ycombinator.com/item?id=49813419"
+    ],
+    [
+      "Netherlands bracing for potentially devastating US sanctions against the ICC",
+      "https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 08:46:39",
+      "https://news.ycombinator.com/item?id=49813286"
+    ],
+    [
+      "Abandoning Scientific Linux Was a Mistake",
+      "https://blog.melashri.net/posts/scientific-linux-mistake/"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 07:26:23",
+      "https://news.ycombinator.com/item?id=49812769"
+    ],
+    [
+      "Jev in 25 Lines of Python",
+      "https://www.nobodywho.ai/posts/jev-in-25-lines/"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 05:32:51",
+      "https://news.ycombinator.com/item?id=49812023"
+    ],
+    [
+      "How often do you think about the 1893 World's Fair?",
+      "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 04:00:43",
+      "https://news.ycombinator.com/item?id=49811484"
+    ],
+    [
+      "Grammarly will send unhinged messages to all your users if you try to cancel",
+      "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/"
+    ]
+  ],
+  [
+    [
       "2026-09-23, 03:49:28",
       "https://news.ycombinator.com/item?id=49811429"
     ],
@@ -15,7 +65,7 @@
       "https://news.ycombinator.com/item?id=49811065"
     ],
     [
-      "Transit rewards (Waymo pays you to take the train)",
+      "Transit rewards",
       "https://waymo.com/blog/2026/09/transit-rewards/"
     ]
   ],
@@ -37,16 +87,6 @@
     [
       "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
       "https://foxscript.org/"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 19:42:20",
-      "https://news.ycombinator.com/item?id=49807021"
-    ],
-    [
-      "Native apps written in TypeScript and CSS",
-      "https://github.com/geastack/examples"
     ]
   ],
   [
@@ -141,32 +181,12 @@
   ],
   [
     [
-      "2026-09-22, 16:11:34",
-      "https://news.ycombinator.com/item?id=49803635"
-    ],
-    [
-      "16-bit Intel 8088 chip (c. 1985)",
-      "https://allpoetry.com/16-bit-Intel-8088-chip"
-    ]
-  ],
-  [
-    [
       "2026-09-22, 14:42:59",
       "https://news.ycombinator.com/item?id=49802161"
     ],
     [
       "OpenAI is well positioned to fast-follow Jev",
       "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 14:30:12",
-      "https://news.ycombinator.com/item?id=49801939"
-    ],
-    [
-      "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
-      "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy"
     ]
   ],
   [
@@ -187,6 +207,16 @@
     [
       "Show HN: JevBench, a reproducible benchmark for typed decision models",
       "https://benchmarkheaven.com/jev-models"
+    ]
+  ],
+  [
+    [
+      "2026-09-22, 12:58:02",
+      "https://news.ycombinator.com/item?id=49800513"
+    ],
+    [
+      "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
+      "https://github.com/hsfzxjy/npunlock"
     ]
   ],
   [
@@ -235,18 +265,8 @@
       "https://news.ycombinator.com/item?id=49795053"
     ],
     [
-      "The Softness of Metal",
+      "The softness of metal",
       "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 23:29:42",
-      "https://news.ycombinator.com/item?id=49794844"
-    ],
-    [
-      "Delta: Highly available, strongly consistent storage using chain replication (2022)",
-      "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-09-21, 13:40:03",
-      "https://news.ycombinator.com/item?id=49787163"
-    ],
-    [
-      "George Lucas Returns to Earth, Bearing Gifts",
-      "https://commonedge.org/george-lucas-returns-to-earth-bearing-gifts/"
-    ]
-  ],
-  [
-    [
       "2026-09-21, 01:07:46",
       "https://news.ycombinator.com/item?id=49781862"
     ],
     [
       "ReBarUEFI: Resizable BAR for almost any UEFI system",
       "https://github.com/xCuri0/ReBarUEFI"
-    ]
-  ],
-  [
-    [
-      "2026-09-20, 22:13:07",
-      "https://news.ycombinator.com/item?id=49780622"
-    ],
-    [
-      "MUNI Heritage Weekend in San Francisco",
-      "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/"
     ]
   ],
   [
