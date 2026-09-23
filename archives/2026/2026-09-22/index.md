@@ -45,6 +45,7 @@
 * [2026-09-22, 12:11:09](https://news.ycombinator.com/item?id=49799965) - [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
 * [2026-09-22, 11:29:47](https://news.ycombinator.com/item?id=49799577) - [Type Punning in C and C++](https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html)
 * [2026-09-22, 11:00:58](https://news.ycombinator.com/item?id=49799287) - [JetBrains Air: A System of Products for Agentic Software Development](https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/)
+* [2026-09-22, 10:54:31](https://news.ycombinator.com/item?id=49799241) - [Show HN: An atlas of system designs with interactive architecture diagrams](https://atlas-sysdes.vercel.app/)
 * [2026-09-22, 10:36:44](https://news.ycombinator.com/item?id=49799083) - [9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"](https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html)
 * [2026-09-22, 09:36:31](https://news.ycombinator.com/item?id=49798597) - [Verda (Finland) raises $189M in Series B](https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers)
 * [2026-09-22, 08:39:43](https://news.ycombinator.com/item?id=49798204) - [AMD's random number generator can't generate a 0?](https://board.flatassembler.net/topic.php?t=24261)

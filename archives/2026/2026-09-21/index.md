@@ -23,6 +23,7 @@
 * [2026-09-21, 18:41:59](https://news.ycombinator.com/item?id=49791509) - [US halts flights at busy East Coast airports, says fiber line cut](https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/)
 * [2026-09-21, 18:33:45](https://news.ycombinator.com/item?id=49791380) - [Help 404 Media Find Out How Your Local Police Are Surveiling You](https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/)
 * [2026-09-21, 18:33:44](https://news.ycombinator.com/item?id=49791378) - [Why Does an NPM Math Library Need an Encrypted Loader?](https://safedep.io/mathmain-encrypted-loader/)
+* [2026-09-21, 18:28:20](https://news.ycombinator.com/item?id=49791296) - [Show HN: Conway's Game of Life in boot sector](https://github.com/0xAX/BootLife)
 * [2026-09-21, 18:15:32](https://news.ycombinator.com/item?id=49791125) - [Apple Copland D11E4 Booting in the Browser](https://www.pagetable.com/300)
 * [2026-09-21, 18:14:56](https://news.ycombinator.com/item?id=49791117) - [Avoiding the babbling-idiot failure in a time-triggered communication system](https://ieeexplore.ieee.org/document/689473)
 * [2026-09-21, 17:30:21](https://news.ycombinator.com/item?id=49790409) - [Turn off and restrict access to Apple Intelligence features on Mac](https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac)
