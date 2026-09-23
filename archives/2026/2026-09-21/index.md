@@ -34,6 +34,7 @@
 * [2026-09-21, 16:06:44](https://news.ycombinator.com/item?id=49789081) - [How do Traffic Signals Work (2019)](https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work)
 * [2026-09-21, 15:50:15](https://news.ycombinator.com/item?id=49788838) - [Grok 4.7](https://x.ai/news/grok-4-7)
 * [2026-09-21, 15:45:06](https://news.ycombinator.com/item?id=49788773) - [A restored PDP-11/83 serving this page on 211BSD Unix](http://pdp1173.com/)
+* [2026-09-21, 14:49:05](https://news.ycombinator.com/item?id=49788014) - [Make Math Automatic with Mathy](https://gmays.com/making-math-automatic-with-mathy/)
 * [2026-09-21, 14:26:56](https://news.ycombinator.com/item?id=49787726) - [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
 * [2026-09-21, 14:22:58](https://news.ycombinator.com/item?id=49787684) - [Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich](https://digitalescapetools.com/tools/noodlegallery.html)
 * [2026-09-21, 14:11:45](https://news.ycombinator.com/item?id=49787548) - [Apple Mac mini review](https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/)
@@ -64,4 +65,5 @@
 * [2026-09-21, 03:23:26](https://news.ycombinator.com/item?id=49782702) - [The Trouble with 'Ntile()'](https://blog.djnavarro.net/posts/2026-09-20_the-trouble-with-ntile/)
 * [2026-09-21, 02:39:59](https://news.ycombinator.com/item?id=49782452) - [Relativistic raytracing](https://publish.obsidian.md/h1m3/Articles/Relativistic+raytracing)
 * [2026-09-21, 02:02:45](https://news.ycombinator.com/item?id=49782220) - [Deterministic Core, Non-Deterministic Shell](https://outdata.net/blog/260803)
+* [2026-09-21, 01:07:46](https://news.ycombinator.com/item?id=49781862) - [ReBarUEFI: Resizable BAR for almost any UEFI system](https://github.com/xCuri0/ReBarUEFI)
 * [2026-09-21, 00:42:14](https://news.ycombinator.com/item?id=49781693) - [Why Backprop Goes Backward (2018)](https://gregorygundersen.com/blog/2018/04/15/backprop/)

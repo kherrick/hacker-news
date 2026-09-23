@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-09-22](index.md)
 
+* [2026-09-22, 23:46:07](https://news.ycombinator.com/item?id=49809806) - [The new CC, an AI agent built for families](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/)
+* [2026-09-22, 22:03:46](https://news.ycombinator.com/item?id=49808816) - [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
 * [2026-09-22, 21:06:40](https://news.ycombinator.com/item?id=49808109) - [The UV index is not the warm sensation of sunlight on bare skin](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/)
 * [2026-09-22, 21:00:30](https://news.ycombinator.com/item?id=49808023) - [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/)
 * [2026-09-22, 19:58:47](https://news.ycombinator.com/item?id=49807248) - [The JavaScript Midlife Crisis](https://maroun-baydoun.com/blog/javascript-midlife-crisis/)
 * [2026-09-22, 19:42:20](https://news.ycombinator.com/item?id=49807021) - [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
+* [2026-09-22, 19:40:28](https://news.ycombinator.com/item?id=49807003) - [Obscura: VPN that can't log your activity](https://obscura.com/#faq-technical)
 * [2026-09-22, 19:03:38](https://news.ycombinator.com/item?id=49806430) - [Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children](https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477)
 * [2026-09-22, 19:03:38](https://news.ycombinator.com/item?id=49806430) - [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/)
 * [2026-09-22, 18:57:17](https://news.ycombinator.com/item?id=49806335) - [SAML: A Fractal of Bad Design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)
