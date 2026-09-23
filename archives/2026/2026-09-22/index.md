@@ -56,5 +56,6 @@
 * [2026-09-22, 02:47:52](https://news.ycombinator.com/item?id=49796260) - [Side-stepping the Secretary Problem, unwittingly](https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html)
 * [2026-09-22, 01:21:20](https://news.ycombinator.com/item?id=49795686) - [People hooked on vapes try a new way to quit: cigarettes](https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke)
 * [2026-09-22, 01:05:19](https://news.ycombinator.com/item?id=49795579) - [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)
+* [2026-09-22, 00:32:44](https://news.ycombinator.com/item?id=49795337) - [No Easy Fix for Bogus Respondents in Online Opt-In Polls](https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/)
 * [2026-09-22, 00:24:00](https://news.ycombinator.com/item?id=49795260) - [Did OpenAI solve the wrong Navier-Stokes problem?](https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/)
 * [2026-09-22, 00:06:55](https://news.ycombinator.com/item?id=49795122) - [Socrates vs. the Written Word (2011)](https://wondermark.com/socrates-vs-writing/)

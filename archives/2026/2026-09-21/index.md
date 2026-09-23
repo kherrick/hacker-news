@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-09-21](index.md)
 
+* [2026-09-21, 23:59:10](https://news.ycombinator.com/item?id=49795053) - [The Softness of Metal](https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal)
+* [2026-09-21, 23:29:42](https://news.ycombinator.com/item?id=49794844) - [Delta: Highly available, strongly consistent storage using chain replication (2022)](https://engineering.fb.com/2022/05/04/data-infrastructure/delta/)
 * [2026-09-21, 23:16:51](https://news.ycombinator.com/item?id=49794736) - [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
 * [2026-09-21, 23:03:49](https://news.ycombinator.com/item?id=49794615) - [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
 * [2026-09-21, 22:47:54](https://news.ycombinator.com/item?id=49794478) - [Markdown in /src](https://htmx.org/essays/markdown-in-src/)
