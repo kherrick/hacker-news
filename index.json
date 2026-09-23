@@ -1,22 +1,122 @@
 [
   [
     [
-      "2026-09-23, 14:22:54",
-      "https://news.ycombinator.com/item?id=49816658"
+      "2026-09-23, 18:06:47",
+      "https://news.ycombinator.com/item?id=49820134"
     ],
     [
-      "Montreal adopts bylaw banning insults against police, municipal employees",
-      "https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920"
+      "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
     ]
   ],
   [
     [
-      "2026-09-23, 14:11:14",
-      "https://news.ycombinator.com/item?id=49816487"
+      "2026-09-23, 18:02:08",
+      "https://news.ycombinator.com/item?id=49820065"
     ],
     [
-      "Jev in practice: typed decisions, scoped authority",
-      "https://tenuo.ai/blog/jev-scoped-authority"
+      "A brief history of Windows scroll bar shortcuts",
+      "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 17:45:30",
+      "https://news.ycombinator.com/item?id=49819814"
+    ],
+    [
+      "UK military jamming other nations' satellites to defend itself, BBC told",
+      "https://www.bbc.com/news/articles/c32l8y8kygdvo"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 17:06:16",
+      "https://news.ycombinator.com/item?id=49819221"
+    ],
+    [
+      "Italian parliament votes for return to nuclear energy",
+      "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 16:35:34",
+      "https://news.ycombinator.com/item?id=49818698"
+    ],
+    [
+      "28% of job postings on company career sites have been open over 90 days",
+      "https://unlisted.careers/ghost-jobs/report/2026-09"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 15:30:47",
+      "https://news.ycombinator.com/item?id=49817636"
+    ],
+    [
+      "What to Know About JavaScript in 2026",
+      "https://blog.master.dev/what-to-know-in-javascript-2026-edition/"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 15:29:23",
+      "https://news.ycombinator.com/item?id=49817615"
+    ],
+    [
+      "Gemini 3.8 text-to-speech",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 15:23:05",
+      "https://news.ycombinator.com/item?id=49817524"
+    ],
+    [
+      "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 15:18:53",
+      "https://news.ycombinator.com/item?id=49817469"
+    ],
+    [
+      "Fixing the Portobello Police Station Clock",
+      "https://pointinthecloud.com/2026-04-11-211700.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 15:14:22",
+      "https://news.ycombinator.com/item?id=49817404"
+    ],
+    [
+      "GPT-6 Astra has gained the ability to drive a car",
+      "https://drivingbench.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 15:05:46",
+      "https://news.ycombinator.com/item?id=49817289"
+    ],
+    [
+      "Strands Harness",
+      "https://strandsagents.com/blog/introducing-strands-harness/"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 14:04:34",
+      "https://news.ycombinator.com/item?id=49816374"
+    ],
+    [
+      "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/"
     ]
   ],
   [
@@ -25,18 +125,8 @@
       "https://news.ycombinator.com/item?id=49815982"
     ],
     [
-      "Stripe built its internal AI platform",
+      "Stripe's Knowledge AI Platform",
       "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform"
-    ]
-  ],
-  [
-    [
-      "2026-09-23, 13:08:59",
-      "https://news.ycombinator.com/item?id=49815526"
-    ],
-    [
-      "The Price of Intelligence Is Falling Rapidly",
-      "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html"
     ]
   ],
   [
@@ -45,7 +135,7 @@
       "https://news.ycombinator.com/item?id=49815484"
     ],
     [
-      "The GitHub wiki is an anti-pattern",
+      "The GitHub wiki is an anti-pattern (2022)",
       "https://michaelheap.com/github-wiki-is-an-antipattern/"
     ]
   ],
@@ -55,38 +145,8 @@
       "https://news.ycombinator.com/item?id=49815466"
     ],
     [
-      "I Don't Want the Details",
+      "I don't want the details",
       "https://michaelheap.com/i-dont-want-the-details/"
-    ]
-  ],
-  [
-    [
-      "2026-09-23, 12:57:59",
-      "https://news.ycombinator.com/item?id=49815381"
-    ],
-    [
-      "Samsung accidentally freezes its smart fridges with a software update",
-      "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/"
-    ]
-  ],
-  [
-    [
-      "2026-09-23, 12:36:01",
-      "https://news.ycombinator.com/item?id=49815168"
-    ],
-    [
-      "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
-      "https://ivesentit.com"
-    ]
-  ],
-  [
-    [
-      "2026-09-23, 12:28:40",
-      "https://news.ycombinator.com/item?id=49815095"
-    ],
-    [
-      "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
-      "https://filmstudio.rxlab.app"
     ]
   ],
   [
@@ -95,7 +155,7 @@
       "https://news.ycombinator.com/item?id=49814947"
     ],
     [
-      "Claude Code reads AGENTS.md only when telemetry is on",
+      "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
       "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/"
     ]
   ],
@@ -111,21 +171,11 @@
   ],
   [
     [
-      "2026-09-23, 11:28:47",
-      "https://news.ycombinator.com/item?id=49814432"
-    ],
-    [
-      "Two Git ignore files nobody told me about",
-      "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/"
-    ]
-  ],
-  [
-    [
       "2026-09-23, 11:04:52",
       "https://news.ycombinator.com/item?id=49814236"
     ],
     [
-      "Z80 REPL",
+      "Z80 REPL (2018)",
       "https://abagames.github.io/z80-repl/index.html"
     ]
   ],
@@ -147,16 +197,6 @@
     [
       "Jev in 25 Lines of Python",
       "https://www.nobodywho.ai/posts/jev-in-25-lines/"
-    ]
-  ],
-  [
-    [
-      "2026-09-23, 03:49:28",
-      "https://news.ycombinator.com/item?id=49811429"
-    ],
-    [
-      "Data-only attacks are easier than you think (2024)",
-      "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2026-09-22, 19:03:38",
-      "https://news.ycombinator.com/item?id=49806430"
-    ],
-    [
-      "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
-    ]
-  ],
-  [
-    [
       "2026-09-22, 18:57:17",
       "https://news.ycombinator.com/item?id=49806335"
     ],
@@ -231,26 +261,6 @@
   ],
   [
     [
-      "2026-09-22, 16:51:31",
-      "https://news.ycombinator.com/item?id=49804316"
-    ],
-    [
-      "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "https://artificialanalysis.ai/models/claude-opus-5-5"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 16:33:45",
-      "https://news.ycombinator.com/item?id=49803959"
-    ],
-    [
-      "WordPress: Unauthenticated path traversal leading to conditional RCE",
-      "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp"
-    ]
-  ],
-  [
-    [
       "2026-09-22, 16:29:05",
       "https://news.ycombinator.com/item?id=49803892"
     ],
@@ -277,16 +287,6 @@
     [
       "What California is learning from solar panels built over irrigation canals",
       "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals"
-    ]
-  ],
-  [
-    [
-      "2026-09-21, 01:07:46",
-      "https://news.ycombinator.com/item?id=49781862"
-    ],
-    [
-      "ReBarUEFI: Resizable BAR for almost any UEFI system",
-      "https://github.com/xCuri0/ReBarUEFI"
     ]
   ],
   [
