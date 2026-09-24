@@ -129,76 +129,262 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="49830037">
+        <section id="49834893">
           <h3>
             <a
               class="item"
-              href="https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center"
-              >Oracle Cites 'Force Majeure' to Shield Itself on Controversial
-              Data Center</a
+              href="https://www.usestable.com/careers/product-engineer"
+              >Stable (YC W20) Is Hiring</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-24 @ 13:04:21</span
+              <span>2026-09-24 @ 18:29:18</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49833867">
+          <h3>
+            <a class="item" href="https://github.com/devdotfast/whiteboard"
+              >Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful
+              software design</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-24 @ 17:21:36</span
+              ><span class="points-container"
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49830037"
+                ><a href="https://news.ycombinator.com/item?id=49833867"
+                  >Comments</a
+                ><span class="descendants">: 61</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://whiteboard.dev.fast/"
+                >https://whiteboard.dev.fast/</a
+              >), an open-source desktop app where humans and agents can
+              architect software together in a common workspace. Here’s our
+              repo:
+              <a href="https://github.com/devdotfast/whiteboard"
+                >https://github.com/devdotfast/whiteboard</a
+              >.
+              <p>
+                We were missing the feeling of a “whiteboard session” with
+                another dev where you leave with a deep understanding of a
+                system, so we built this app for ourselves. Whiteboard plugs
+                into the tools you already use - e.g. Claude Code, Codex, etc. –
+                and gives your agent an SDK to draw on an in-app canvas to
+                describe its work. We began with an MVP based on HTML artifacts
+                and started rethinking the app as we ran into limitations:
+              </p>
+              <p>
+                1. Built on top of CodeOSS: We found that in pure HTML tools it
+                was hard to connect a spec or diagram to code. In Whiteboard,
+                when you click on visualizations like a sequence diagram, an
+                entity relationship diagram, or a quote from the agent’s trace,
+                you can jump to the underlying code directly. When navigating
+                code, you get keybindings and LSP support from VSCode out of the
+                box. We’ve found this is especially valuable because tradeoffs
+                are often only discovered after a first pass at implementation
+                (re: slop)
+              </p>
+              <p>
+                2. Semantic diff viewer: we wrote a semantic, AST-aware diff
+                viewer in Rust so you can only view the code changes which are
+                relevant to you [1]. We’ve set up some sane defaults: large
+                added functions are summarized as pseudocode, and things like
+                unit tests and large documentation changes are collapsed /
+                hidden. This is all customizable with a WASM-based plugin
+                system.
+              </p>
+              <p>
+                3. Decision Log: We found it difficult to reason about what set
+                of decisions our agents made autonomously. So we built tools for
+                agents to query and link their own traces to the Whiteboard, so
+                you can understand how the requirements that you set were
+                implemented, and understand what decisions your agent made
+                autonomously.
+              </p>
+              <p>
+                Here’s a quick demo video explaining more:
+                <a href="https://www.youtube.com/watch?v=ChPn3ftULWE"
+                  >https://www.youtube.com/watch?v=ChPn3ftULWE</a
+                >
+              </p>
+              <p>
+                Folks at companies like Salesforce and Modal are using
+                Whiteboard today as a review tool for architecture or spec-level
+                changes – really any change where they want to be involved:
+              </p>
+              <p>
+                1. Reviewing your own coding agent’s work: because Whiteboard
+                makes it easier to review large amounts of code, folks will
+                typically have their AI agents create a prototype and a
+                corresponding Whiteboard session so they can iterate on the
+                design.
+              </p>
+              <p>
+                2. Reviewing other people’s changes: We’ve found that Whiteboard
+                is particularly helpful when composed with tools like Greptile.
+                For example, you can run an automated code reviewer on small
+                changes and escalate to a Whiteboard session for the changes
+                that require human judgement.
+              </p>
+              <p>
+                Why we built this: we’re four buddies from college who quit our
+                jobs as tech leads right before agentic coding became industry
+                standard. As we iterated towards an MVP for a previous idea, we
+                struggled to maintain a comprehensible codebase while reaping
+                all the velocity benefits of agentic coding. As more PRs were
+                merged without our understanding, we felt a ‘cognitive debt’
+                begin to seep in, until it became difficult for us to even
+                contribute to the system [2].
+              </p>
+              <p>
+                We’re releasing our desktop app under an MIT license. Please
+                poke through and feel free to contribute! Eventually we’ll
+                charge companies for a hosted web version that manages
+                whiteboard session creation alongside features like trajectory
+                storage and multiplayer reviews. Everything will always remain
+                self-hostable.
+              </p>
+              <p>
+                Thanks for reading, and we hope you try it out! We would love to
+                hear any feedback and to learn from your expertise.
+              </p>
+              <p>
+                Here’s are the project links again:
+                <a href="https://github.com/devdotfast/whiteboard"
+                  >https://github.com/devdotfast/whiteboard</a
+                >, and you can install (for MacOS + Linux) at
+                <a href="https://install.dev.fast">https://install.dev.fast</a>
+              </p>
+              <p>
+                [1] diffs library:
+                <a href="https://github.com/devdotfast/diffr"
+                  >https://github.com/devdotfast/diffr</a
+                >
+                [2] Credit for the term ‘cognitive debt’ goes to
+                <a
+                  href="https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck"
+                  >https://www.geoffreylitt.com/2026/07/02/understanding-is-the...</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="49832938">
+          <h3>
+            <a class="item" href="https://dynomight.substack.com/p/liver"
+              >Why is the liver so weirdly regenerative?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-24 @ 16:23:00</span
+              ><span class="points-container"
+                >Points: <span class="points">146</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49832938"
                   >Comments</a
                 ><span class="descendants">: 107</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="49832406">
+          <h3>
+            <a
+              class="item"
+              href="https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/"
+              >GitHub has not removed malicious imitation software after 3
+              weeks</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-24 @ 15:50:26</span
+              ><span class="points-container"
+                >Points: <span class="points">227</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49832406"
+                  >Comments</a
+                ><span class="descendants">: 96</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49832231">
+          <h3>
+            <a
+              class="item"
+              href="https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/"
+              >Experiencing writing at our recent Chinese calligraphy
+              workshop</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-24 @ 15:40:03</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49832231"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49831968">
+          <h3>
+            <a
+              class="item"
+              href="https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html"
+              >F-Droid 2.0</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-24 @ 15:26:12</span
+              ><span class="points-container"
+                >Points: <span class="points">757</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49831968"
+                  >Comments</a
+                ><span class="descendants">: 212</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49831098">
+          <h3>
+            <a class="item" href="https://eprint.iacr.org/2026/2131.pdf"
+              >Forging 1024-bit RSA signatures in nearly SNFS time [pdf]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-24 @ 14:26:32</span
+              ><span class="points-container"
+                >Points: <span class="points">37</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49831098"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
             <div class="text">
               <a
-                href="https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426"
-                >https://qz.com/oracle-force-majeure-new-mexico-ai-data-cente...</a
+                href="https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/"
+                >https://arstechnica.com/security/2026/09/theres-a-new-way-to...</a
               >
             </div>
-          </section>
-        </section>
-        <section id="49829960">
-          <h3>
-            <a
-              class="item"
-              href="https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/"
-              >Owners mourn spoiled food after firmware update bricks Samsung
-              smart fridges</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-24 @ 12:58:08</span
-              ><span class="points-container"
-                >Points: <span class="points">239</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49829960"
-                  >Comments</a
-                ><span class="descendants">: 235</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49829387">
-          <h3>
-            <a
-              class="item"
-              href="https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073"
-              >Hackers influence ChatGPT and Gemini to direct users to scam
-              centers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-24 @ 11:54:38</span
-              ><span class="points-container"
-                >Points: <span class="points">126</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49829387"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="49828969">
@@ -214,11 +400,11 @@
             <h4>
               <span>2026-09-24 @ 11:08:39</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49828969"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -228,19 +414,18 @@
             <a
               class="item"
               href="https://macanorak.com/two-tier-encryption-in-the-uk/"
-              >Two-Tier Encryption in the UK – Identical Apple Devices,
-              Different Protection</a
+              >Two-tier encryption in the UK</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-09-24 @ 10:39:19</span
               ><span class="points-container"
-                >Points: <span class="points">294</span></span
+                >Points: <span class="points">344</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49828731"
                   >Comments</a
-                ><span class="descendants">: 287</span></span
+                ><span class="descendants">: 351</span></span
               >
             </h4>
           </section>
@@ -249,7 +434,7 @@
           <h3>
             <a
               class="item"
-              href="https://nokiadesignarchive.aalto.fi/index.html"
+              href="https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c"
               >Nokia Design Archive (2025)</a
             >
           </h3>
@@ -257,93 +442,30 @@
             <h4>
               <span>2026-09-24 @ 09:49:33</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">201</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49828385"
                   >Comments</a
-                ><span class="descendants">: 96</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49827794">
+        <section id="49828120">
           <h3>
-            <a
-              class="item"
-              href="https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/"
-              >Meta takes down a critical video about meta AI Glasses after
-              filming at Meta</a
+            <a class="item" href="https://github.com/driceroland/Search"
+              >Search – A small, fast WebKit browser for macOS</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-24 @ 08:23:03</span
-              ><span class="points-container"
-                >Points: <span class="points">569</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49827794"
-                  >Comments</a
-                ><span class="descendants">: 343</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49827383">
-          <h3>
-            <a
-              class="item"
-              href="https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools"
-              >The Year of Internal Tools</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-24 @ 07:23:07</span
+              <span>2026-09-24 @ 09:11:52</span
               ><span class="points-container"
                 >Points: <span class="points">57</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49827383"
+                ><a href="https://news.ycombinator.com/item?id=49828120"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49826565">
-          <h3>
-            <a class="item" href="https://transluce.org/agent-activity"
-              >Early rogue AI agent activity and attempts to hack found on
-              urlquery.net</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-24 @ 05:21:10</span
-              ><span class="points-container"
-                >Points: <span class="points">205</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49826565"
-                  >Comments</a
-                ><span class="descendants">: 191</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49826221">
-          <h3>
-            <a class="item" href="https://contrastive-lm.notion.site/"
-              >Contrastive Language Models</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-24 @ 04:20:59</span
-              ><span class="points-container"
-                >Points: <span class="points">149</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49826221"
-                  >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -360,236 +482,202 @@
             <h4>
               <span>2026-09-24 @ 02:52:09</span
               ><span class="points-container"
-                >Points: <span class="points">347</span></span
+                >Points: <span class="points">373</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49825642"
                   >Comments</a
-                ><span class="descendants">: 428</span></span
+                ><span class="descendants">: 468</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49825580">
+        <section id="49823738">
           <h3>
-            <a class="item" href="https://www.bbc.com/news/live/cvgl73pxgndwt"
-              >OpenAI agent hacked Australian government website, PM says</a
+            <a class="item" href="https://bastardica.mitpit.com"
+              >Show HN: Make cursed fonts like Times New Bastard</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-24 @ 02:44:48</span
+              <span>2026-09-23 @ 22:53:28</span
               ><span class="points-container"
-                >Points: <span class="points">245</span></span
+                >Points: <span class="points">297</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49825580"
+                ><a href="https://news.ycombinator.com/item?id=49823738"
                   >Comments</a
-                ><span class="descendants">: 185</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
+            <div class="text">
+              A joke tool that abuses OpenType's ligature feature to mix fonts.
+              It works pretty fast on client-side by loading Python in WASM.
+            </div>
           </section>
         </section>
-        <section id="49824864">
-          <h3>
-            <a class="item" href="https://github.com/nestrilabs/virtio-nvgpu"
-              >Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-24 @ 01:02:23</span
-              ><span class="points-container"
-                >Points: <span class="points">147</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49824864"
-                  >Comments</a
-                ><span class="descendants">: 63</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49824268">
-          <h3>
-            <a class="item" href="https://www.meta.com/vr-glasses/"
-              >Meta VR Glasses</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-23 @ 23:47:56</span
-              ><span class="points-container"
-                >Points: <span class="points">471</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49824268"
-                  >Comments</a
-                ><span class="descendants">: 441</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49823664">
+        <section id="49823568">
           <h3>
             <a
               class="item"
-              href="https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/"
-              >ArXiv receives multiyear commitments to support it as an
-              independent nonprofit</a
+              href="https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/"
+              >Toyota is taking the Corolla electric</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-23 @ 22:45:49</span
+              <span>2026-09-23 @ 22:37:28</span
               ><span class="points-container"
-                >Points: <span class="points">294</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49823664"
+                ><a href="https://news.ycombinator.com/item?id=49823568"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 178</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49823582">
+        <section id="49821835">
           <h3>
             <a
               class="item"
-              href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux"
-              >Linux support is coming to Snapdragon X2 Series</a
+              href="https://www.soakingsprings.com/hot-springs/geothermal-map"
+              >Geothermal heat map of US hot springs</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-23 @ 22:38:16</span
+              <span>2026-09-23 @ 20:12:10</span
               ><span class="points-container"
-                >Points: <span class="points">582</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49823582"
+                ><a href="https://news.ycombinator.com/item?id=49821835"
                   >Comments</a
-                ><span class="descendants">: 244</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49823348">
+        <section id="49821438">
+          <h3>
+            <a class="item" href="https://github.com/Parcha-ai/agentrun"
+              >Show HN: AgentRun: DSL to turn agents into workflows</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-23 @ 19:42:58</span
+              ><span class="points-container"
+                >Points: <span class="points">34</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49821438"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I just open sourced the DSL that our harness in grep.ai uses to
+                turn repeatable parts of agent work into workflows. You can
+                combine tool calls, code, Jev-powered system one decisions for
+                things like routing and screening evidence, and agents when a
+                step needs more investigation.
+              </p>
+              <p>
+                Our harness uses the traces and retro notes agents leave behind
+                when doing a job to figure out which parts can become a
+                workflow. The idea is to make the work easier to understand and
+                avoid paying for a full agent loop where one isn’t needed. For
+                example, a research workflow can split a question into
+                subquestions, send agents to research them in parallel, use Jev
+                to screen the evidence, and have another agent write the report.
+                You can inspect the steps, evaluate the evidence screening
+                separately, or change one agent without rebuilding everything.
+              </p>
+              <p>
+                The DSL and examples are in our GitHub. There’s a scripted demo
+                you can run without API keys:
+                <a href="https://github.com/Parcha-ai/agentrun"
+                  >https://github.com/Parcha-ai/agentrun</a
+                >
+              </p>
+              <p>
+                You can also use it as a Pi extension to build, inspect, and run
+                workflows:
+                <a href="https://github.com/Parcha-ai/agentrun#use-it-in-pi"
+                  >https://github.com/Parcha-ai/agentrun#use-it-in-pi</a
+                >
+              </p>
+              <p>I would love to hear if this is useful to others.</p>
+              <p>
+                More background on how AgentRun works in this video:
+                <a href="https://www.youtube.com/watch?v=vOVhtGjtwpg"
+                  >https://www.youtube.com/watch?v=vOVhtGjtwpg</a
+                >. Or read about our use cases in this article:
+                <a href="https://x.com/MiguelriosEN/status/2101029313906987422"
+                  >https://x.com/MiguelriosEN/status/2101029313906987422</a
+                >.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="49818031">
           <h3>
             <a
               class="item"
-              href="https://artificialanalysis.ai/models/mercury-2-5"
-              >Mercury 2.5 LLM hits 770 tokens per second</a
+              href="https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/"
+              >The science of Monkey Island: can grog dissolve a metal mug that
+              fast?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-23 @ 22:16:19</span
+              <span>2026-09-23 @ 15:55:57</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49823348"
+                ><a href="https://news.ycombinator.com/item?id=49818031"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49822555">
+        <section id="49817680">
           <h3>
-            <a class="item" href="https://fly.io/blog/vscode-ssh-wtf/"
-              >VSCode's SSH Agent Is Bananas (2025)</a
+            <a class="item" href="https://www.youtube.com/watch?v=vDjW_dRyKXY"
+              >Rails World 2026 Opening Keynote [video]</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-23 @ 21:01:48</span
+              <span>2026-09-23 @ 15:33:33</span
               ><span class="points-container"
-                >Points: <span class="points">298</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49822555"
+                ><a href="https://news.ycombinator.com/item?id=49817680"
                   >Comments</a
-                ><span class="descendants">: 193</span></span
+                ><span class="descendants">: 174</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49820134">
-          <h3>
-            <a
-              class="item"
-              href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
-              >Claude discovers a novel enzyme system with CRISPR-like
-              repeats</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-23 @ 18:06:47</span
-              ><span class="points-container"
-                >Points: <span class="points">749</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49820134"
-                  >Comments</a
-                ><span class="descendants">: 762</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49819880">
+        <section id="49815370">
           <h3>
             <a
               class="item"
-              href="https://tailscale.com/blog/making-tailscale-faster"
-              >Making Tailscale Faster</a
+              href="https://github.com/christianrowlands/wavedigger"
+              >WaveDigger: Dig into wireless signals to discover their physical
+              locations</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-23 @ 17:49:07</span
+              <span>2026-09-23 @ 12:57:07</span
               ><span class="points-container"
-                >Points: <span class="points">227</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49819880"
+                ><a href="https://news.ycombinator.com/item?id=49815370"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49817741">
-          <h3>
-            <a
-              class="item"
-              href="https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that"
-              >Why 'What's Opera, Doc?' looks like that</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-23 @ 15:37:47</span
-              ><span class="points-container"
-                >Points: <span class="points">134</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49817741"
-                  >Comments</a
-                ><span class="descendants">: 25</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49817469">
-          <h3>
-            <a
-              class="item"
-              href="https://pointinthecloud.com/2026-04-11-211700.html"
-              >Fixing the Portobello Police Station Clock</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-23 @ 15:18:53</span
-              ><span class="points-container"
-                >Points: <span class="points">512</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49817469"
-                  >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -606,34 +694,78 @@
             <h4>
               <span>2026-09-22 @ 18:19:25</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49805806"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49804052">
+        <section id="49805344">
           <h3>
             <a
               class="item"
-              href="https://shishir-iyer.medium.com/automated-optimization-of-a-molecular-simulation-program-4a28a2bc05ad"
-              >Automated optimization of a molecular simulation program</a
+              href="https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/"
+              >My Weird New Hobby: Wandering Around Tokyo on Google Maps</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-22 @ 16:38:28</span
+              <span>2026-09-22 @ 17:49:46</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49804052"
+                ><a href="https://news.ycombinator.com/item?id=49805344"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="49804359">
+          <h3>
+            <a class="item" href="https://github.com/dsummersl/treepeat"
+              >Show HN: Treepeat – Code similarity detection using
+              Tree-sitter</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-22 @ 16:53:25</span
+              ><span class="points-container"
+                >Points: <span class="points">39</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49804359"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Find duplicate code blocks meaningful to the language
+                (classes/functions), not just lines.
+              </p>
+              <p>
+                Find near-duplicates: ignore whitespace, strings, high level AST
+                nodes such as function and names.
+              </p>
+              <p>
+                Find structurally similar code: anonymize identifiers,
+                constants, etc.
+              </p>
+              <p>
+                Pull requests welcome: This is very much an proof of concept -
+                I'm happy with it, but I haven't supported very many languages
+                at present.
+              </p>
+              <p>
+                Languages supported: astro, bash, css, go, html, javascript,
+                lua, markdown (plus codeblocks), python, sql, typescript, java,
+                kotlin, rust, yaml
+              </p>
+            </div>
           </section>
         </section>
         <section id="49802661">
@@ -648,32 +780,32 @@
             <h4>
               <span>2026-09-22 @ 15:12:17</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49802661"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49799855">
+        <section id="49800085">
           <h3>
             <a
               class="item"
-              href="https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/"
-              >The mystery animal on an ancient god's head</a
+              href="https://linebender.org/blog/fearless-simd-1-0/"
+              >Fearless SIMD v1.0</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-22 @ 12:00:11</span
+              <span>2026-09-22 @ 12:23:37</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49799855"
+                ><a href="https://news.ycombinator.com/item?id=49800085"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -690,7 +822,7 @@
             <h4>
               <span>2026-09-22 @ 11:02:43</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49799306"
                   >Comments</a
@@ -699,65 +831,108 @@
             </h4>
           </section>
         </section>
-        <section id="49796372">
+        <section id="49794824">
           <h3>
             <a
               class="item"
-              href="https://www.mini-itx.com/projects/windowsxpbox/"
-              >The "Windows XP Box" (2003)</a
+              href="https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/"
+              >Motor Characterization for Small Running Robots (2016)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-22 @ 03:09:04</span
+              <span>2026-09-21 @ 23:27:31</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49796372"
+                ><a href="https://news.ycombinator.com/item?id=49794824"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49795600">
+        <section id="49794336">
           <h3>
             <a
               class="item"
-              href="https://nanochess.org/transputer_c_compiler.html"
-              >Making portable my unportable transputer C compiler</a
+              href="https://thecretefleet.com/blog/f/b5-bj2---ice-cream-barges---concrete-ship-constructors"
+              >B5-BJ2 – Ice Cream Barges – Concrete Ship Constructors (2023)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-22 @ 01:07:46</span
+              <span>2026-09-21 @ 22:31:35</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49794336"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49793957">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/"
+              >Security auditing in the age of (good enough) AI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-21 @ 21:53:01</span
+              ><span class="points-container"
+                >Points: <span class="points">42</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49793957"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49792652">
+          <h3>
+            <a
+              class="item"
+              href="https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/"
+              >The forgotten battle of East Lansing</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-21 @ 20:07:08</span
+              ><span class="points-container"
+                >Points: <span class="points">69</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49792652"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49787759">
+          <h3>
+            <a
+              class="item"
+              href="https://ahelwer.ca/post/2026-09-21-concurrency-textbook/"
+              >Book review: Is parallel programming hard, and, if so, what can
+              you do about it?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-21 @ 14:30:00</span
               ><span class="points-container"
                 >Points: <span class="points">66</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49795600"
+                ><a href="https://news.ycombinator.com/item?id=49787759"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49793249">
-          <h3>
-            <a
-              class="item"
-              href="https://daily.jstor.org/the-women-who-sold-books-door-to-door/"
-              >Women Who Sold Books Door to Door</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-21 @ 20:52:52</span
-              ><span class="points-container"
-                >Points: <span class="points">61</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49793249"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
