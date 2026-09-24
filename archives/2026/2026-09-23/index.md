@@ -23,6 +23,7 @@
 * [2026-09-23, 17:45:30](https://news.ycombinator.com/item?id=49819814) - [UK military jamming other nations' satellites to defend itself, BBC told](https://www.bbc.com/news/articles/c32l8y8kygdvo)
 * [2026-09-23, 17:06:16](https://news.ycombinator.com/item?id=49819221) - [Italian parliament votes for return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567)
 * [2026-09-23, 16:35:34](https://news.ycombinator.com/item?id=49818698) - [28% of job postings on company career sites have been open over 90 days](https://unlisted.careers/ghost-jobs/report/2026-09)
+* [2026-09-23, 15:37:47](https://news.ycombinator.com/item?id=49817741) - [Why 'What's Opera, Doc?' looks like that](https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that)
 * [2026-09-23, 15:30:47](https://news.ycombinator.com/item?id=49817636) - [What to Know About JavaScript in 2026](https://blog.master.dev/what-to-know-in-javascript-2026-edition/)
 * [2026-09-23, 15:29:23](https://news.ycombinator.com/item?id=49817615) - [Gemini 3.8 text-to-speech](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/)
 * [2026-09-23, 15:23:05](https://news.ycombinator.com/item?id=49817524) - [Radicle: Disclosure of Vulnerability in the Network Protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol)

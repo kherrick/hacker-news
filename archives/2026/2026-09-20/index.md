@@ -31,6 +31,7 @@
 * [2026-09-20, 16:58:34](https://news.ycombinator.com/item?id=49777601) - [Truman World](https://trumanworld.live)
 * [2026-09-20, 16:51:26](https://news.ycombinator.com/item?id=49777539) - [Show HN: Radius – A Meetup.com Alternative](https://radius.to/)
 * [2026-09-20, 16:41:46](https://news.ycombinator.com/item?id=49777467) - [I am often wrong](https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html)
+* [2026-09-20, 16:05:10](https://news.ycombinator.com/item?id=49777158) - [Lambda MicroEgg](https://www.philipzucker.com/lambda_miller_egg/)
 * [2026-09-20, 15:59:25](https://news.ycombinator.com/item?id=49777111) - [Prompts Aren't Real](https://evaluation.club)
 * [2026-09-20, 15:58:52](https://news.ycombinator.com/item?id=49777106) - [Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)](https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0)
 * [2026-09-20, 15:43:32](https://news.ycombinator.com/item?id=49776960) - [Custom home server built from spare parts](https://asmat.ca/blog/i-went-bananas/)
