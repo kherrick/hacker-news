@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-24](index.md)
 
+* [2026-09-24, 13:04:21](https://news.ycombinator.com/item?id=49830037) - [Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center](https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center)
+* [2026-09-24, 12:58:08](https://news.ycombinator.com/item?id=49829960) - [Owners mourn spoiled food after firmware update bricks Samsung smart fridges](https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/)
+* [2026-09-24, 11:54:38](https://news.ycombinator.com/item?id=49829387) - [Hackers influence ChatGPT and Gemini to direct users to scam centers](https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073)
+* [2026-09-24, 11:08:39](https://news.ycombinator.com/item?id=49828969) - [The newest ESP32 can run Linux and it's getting close to a Raspberry Pi](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/)
+* [2026-09-24, 10:39:19](https://news.ycombinator.com/item?id=49828731) - [Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection](https://macanorak.com/two-tier-encryption-in-the-uk/)
+* [2026-09-24, 09:49:33](https://news.ycombinator.com/item?id=49828385) - [Nokia Design Archive (2025)](https://nokiadesignarchive.aalto.fi/index.html)
 * [2026-09-24, 08:23:03](https://news.ycombinator.com/item?id=49827794) - [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
+* [2026-09-24, 07:23:07](https://news.ycombinator.com/item?id=49827383) - [The Year of Internal Tools](https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools)
 * [2026-09-24, 05:21:10](https://news.ycombinator.com/item?id=49826565) - [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)
 * [2026-09-24, 05:07:58](https://news.ycombinator.com/item?id=49826482) - [Six-year-old breaks women's world Rubik's Cube record [video]](https://www.youtube.com/watch?v=UCMRgvyTm08)
 * [2026-09-24, 04:20:59](https://news.ycombinator.com/item?id=49826221) - [Contrastive Language Models](https://contrastive-lm.notion.site/)
