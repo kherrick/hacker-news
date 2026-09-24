@@ -43,6 +43,7 @@
 * [2026-09-22, 14:35:15](https://news.ycombinator.com/item?id=49802030) - [Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/)
 * [2026-09-22, 14:30:12](https://news.ycombinator.com/item?id=49801939) - [Apple has added persistent 'ads' to iOS, and it's driving users crazy](https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy)
 * [2026-09-22, 14:18:09](https://news.ycombinator.com/item?id=49801700) - [Data liberation: Apache Kafka's native cluster mirroring](https://developers.redhat.com/articles/2026/09/22/data-liberation-apache-kafka-native-cluster-mirroring)
+* [2026-09-22, 14:00:08](https://news.ycombinator.com/item?id=49801436) - [2DWillNeverDie](https://2dwillneverdie.com/)
 * [2026-09-22, 13:52:47](https://news.ycombinator.com/item?id=49801329) - [Show HN: Drop – a rootless Linux sandbox with gVisor support](https://droprun.sh/)
 * [2026-09-22, 13:52:15](https://news.ycombinator.com/item?id=49801324) - [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
 * [2026-09-22, 13:45:32](https://news.ycombinator.com/item?id=49801218) - [The Economics of Open-Weight Inference](https://data.ornn.com/publications/the-economics-of-open-weight-inference)
