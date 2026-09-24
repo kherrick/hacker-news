@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-09-23](index.md)
 
+* [2026-09-23, 23:47:56](https://news.ycombinator.com/item?id=49824268) - [Meta VR Glasses](https://www.meta.com/vr-glasses/)
+* [2026-09-23, 23:10:22](https://news.ycombinator.com/item?id=49823922) - [We've Turned Starlink into a Planetary Barometer](https://www.spaceweather.com/starlink/starlink_drag_explainer.html)
+* [2026-09-23, 22:45:49](https://news.ycombinator.com/item?id=49823664) - [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
+* [2026-09-23, 22:38:16](https://news.ycombinator.com/item?id=49823582) - [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+* [2026-09-23, 22:16:19](https://news.ycombinator.com/item?id=49823348) - [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5)
+* [2026-09-23, 22:03:21](https://news.ycombinator.com/item?id=49823195) - [We just shipped support for the ugliest part of HTTP: Vary](https://blog.cloudflare.com/vary-support/)
 * [2026-09-23, 21:01:48](https://news.ycombinator.com/item?id=49822556) - [OpenAI breaches Medicare, Albanese reveals](https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html)
 * [2026-09-23, 21:01:48](https://news.ycombinator.com/item?id=49822555) - [VSCode's SSH Agent Is Bananas](https://fly.io/blog/vscode-ssh-wtf/)
 * [2026-09-23, 19:55:14](https://news.ycombinator.com/item?id=49821608) - [DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why](https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/)
