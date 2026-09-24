@@ -20,6 +20,7 @@
 * [2026-09-21, 19:04:36](https://news.ycombinator.com/item?id=49791797) - [In Search of a Compositional Theory of Self-Stabilization](http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html)
 * [2026-09-21, 18:58:26](https://news.ycombinator.com/item?id=49791720) - [Roboharm: Do frontier robot policies refuse unsafe instructions?](https://robocurve.org/roboharm/)
 * [2026-09-21, 18:53:01](https://news.ycombinator.com/item?id=49791647) - [Frontier AI on Your Own Hardware](https://timdettmers.com/2026/09/21/dlab-open-source-week/)
+* [2026-09-21, 18:46:17](https://news.ycombinator.com/item?id=49791558) - [Solving for faster SHA-1 collision detection](https://sam.dev/blog/faster-sha1-collision-detection)
 * [2026-09-21, 18:41:59](https://news.ycombinator.com/item?id=49791509) - [US halts flights at busy East Coast airports, says fiber line cut](https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/)
 * [2026-09-21, 18:33:45](https://news.ycombinator.com/item?id=49791380) - [Help 404 Media Find Out How Your Local Police Are Surveiling You](https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/)
 * [2026-09-21, 18:33:44](https://news.ycombinator.com/item?id=49791378) - [Why Does an NPM Math Library Need an Encrypted Loader?](https://safedep.io/mathmain-encrypted-loader/)

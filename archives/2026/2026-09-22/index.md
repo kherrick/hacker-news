@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-09-22](index.md)
 
 * [2026-09-22, 23:46:07](https://news.ycombinator.com/item?id=49809806) - [The new CC, an AI agent built for families](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/)
+* [2026-09-22, 22:52:11](https://news.ycombinator.com/item?id=49809404) - [Augustofaces: Pareidolia Fine Art](https://augusto.at/augustosfaces/)
 * [2026-09-22, 22:03:46](https://news.ycombinator.com/item?id=49808816) - [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
 * [2026-09-22, 21:06:40](https://news.ycombinator.com/item?id=49808109) - [The UV index is not the warm sensation of sunlight on bare skin](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/)
 * [2026-09-22, 21:00:30](https://news.ycombinator.com/item?id=49808023) - [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/)
@@ -60,6 +61,7 @@
 * [2026-09-22, 03:09:04](https://news.ycombinator.com/item?id=49796372) - [The \"Windows XP Box\" (2003)](https://www.mini-itx.com/projects/windowsxpbox/)
 * [2026-09-22, 02:47:52](https://news.ycombinator.com/item?id=49796260) - [Side-stepping the Secretary Problem, unwittingly](https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html)
 * [2026-09-22, 01:21:20](https://news.ycombinator.com/item?id=49795686) - [People hooked on vapes try a new way to quit: cigarettes](https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke)
+* [2026-09-22, 01:07:46](https://news.ycombinator.com/item?id=49795600) - [Making portable my unportable transputer C compiler](https://nanochess.org/transputer_c_compiler.html)
 * [2026-09-22, 01:05:19](https://news.ycombinator.com/item?id=49795579) - [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)
 * [2026-09-22, 00:32:44](https://news.ycombinator.com/item?id=49795337) - [No Easy Fix for Bogus Respondents in Online Opt-In Polls](https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/)
 * [2026-09-22, 00:24:00](https://news.ycombinator.com/item?id=49795260) - [Did OpenAI solve the wrong Navier-Stokes problem?](https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/)
