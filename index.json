@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-25, 21:09:27",
+      "https://news.ycombinator.com/item?id=49849985"
+    ],
+    [
+      "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "https://swarmtraces.org/"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 19:37:55",
+      "https://news.ycombinator.com/item?id=49848955"
+    ],
+    [
+      "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "https://news.ycombinator.com/item?id=49848955"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 19:27:37",
+      "https://news.ycombinator.com/item?id=49848838"
+    ],
+    [
+      "Bug: Border radius has infected VSCode editor",
+      "https://github.com/microsoft/vscode/issues/338035"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 19:26:10",
+      "https://news.ycombinator.com/item?id=49848819"
+    ],
+    [
+      "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
+      "https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding"
+    ]
+  ],
+  [
+    [
       "2026-09-25, 18:37:05",
       "https://news.ycombinator.com/item?id=49848295"
     ],
@@ -21,6 +61,16 @@
   ],
   [
     [
+      "2026-09-25, 18:29:49",
+      "https://news.ycombinator.com/item?id=49848227"
+    ],
+    [
+      "Astronomer watches Starlink satellites sinking to build a 'planetary barometer'",
+      "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036"
+    ]
+  ],
+  [
+    [
       "2026-09-25, 18:18:06",
       "https://news.ycombinator.com/item?id=49848095"
     ],
@@ -31,52 +81,22 @@
   ],
   [
     [
-      "2026-09-25, 18:11:48",
-      "https://news.ycombinator.com/item?id=49848033"
-    ],
-    [
-      "Yes, Claude can do Nine Loops",
-      "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 17:19:50",
-      "https://news.ycombinator.com/item?id=49847359"
-    ],
-    [
-      "The Post-AGI Era",
-      "https://www.avidfayaz.com/writings/post-agi/the-post-agi-era"
-    ]
-  ],
-  [
-    [
       "2026-09-25, 16:51:28",
       "https://news.ycombinator.com/item?id=49846953"
     ],
     [
-      "Show HN: Doom or Bloom, map your AI worldview with Jev",
+      "Show HN: Doom or Bloom, map your AI worldview",
       "https://www.doom-or-bloom.com"
     ]
   ],
   [
     [
-      "2026-09-25, 16:45:10",
-      "https://news.ycombinator.com/item?id=49846864"
+      "2026-09-25, 16:05:08",
+      "https://news.ycombinator.com/item?id=49846409"
     ],
     [
-      "A Skill.md for Commenting on Hacker News",
-      "https://blog.coredump.cx/p/a-skillmd-for-commenting-on-hacker"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 16:04:04",
-      "https://news.ycombinator.com/item?id=49846391"
-    ],
-    [
-      "Jevmem – automatic project memory for Claude Code, built on Jev",
-      "https://github.com/Avinash-jetwani/jevmem"
+      "Show HN: I discovered roads in the US across > 1000 themes",
+      "https://road-about-a-theme.pinedesk.biz/"
     ]
   ],
   [
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=49845998"
     ],
     [
-      "Gravity Seems Holographic. What Does That Mean for Reality?",
+      "Gravity seems holographic. What does that mean for reality?",
       "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/"
     ]
   ],
@@ -101,12 +121,12 @@
   ],
   [
     [
-      "2026-09-25, 15:27:35",
-      "https://news.ycombinator.com/item?id=49845952"
+      "2026-09-25, 14:28:07",
+      "https://news.ycombinator.com/item?id=49845172"
     ],
     [
-      "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-      "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models"
+      "Show HN: Jev Plays Pokémon Red",
+      "https://jev-pokemon.vercel.app/"
     ]
   ],
   [
@@ -141,21 +161,11 @@
   ],
   [
     [
-      "2026-09-25, 12:14:02",
-      "https://news.ycombinator.com/item?id=49843550"
-    ],
-    [
-      "The Test",
-      "https://tante.cc/2026/09/24/the-test/"
-    ]
-  ],
-  [
-    [
       "2026-09-25, 11:47:06",
       "https://news.ycombinator.com/item?id=49843269"
     ],
     [
-      "Platform-Independent SIMD in Go",
+      "Platform-independent SIMD in Go",
       "https://go.dev/blog/simd-experiment"
     ]
   ],
@@ -175,28 +185,8 @@
       "https://news.ycombinator.com/item?id=49842270"
     ],
     [
-      "Ink and Switch Interactive Homepage",
+      "Ink and Switch interactive homepage",
       "https://www.inkandswitch.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 09:26:01",
-      "https://news.ycombinator.com/item?id=49842084"
-    ],
-    [
-      "Boards of Casio",
-      "https://www.ambionix.com/blog/boards-of-casio/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 08:06:49",
-      "https://news.ycombinator.com/item?id=49841563"
-    ],
-    [
-      "Dutch governments builds alternative for Microsoft based on NixOS",
-      "https://www.dawo.community/en/"
     ]
   ],
   [
@@ -221,22 +211,22 @@
   ],
   [
     [
-      "2026-09-25, 07:03:46",
-      "https://news.ycombinator.com/item?id=49841115"
+      "2026-09-24, 23:36:50",
+      "https://news.ycombinator.com/item?id=49838247"
     ],
     [
-      "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
-      "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2"
+      "Remembering Johannes Doerfert",
+      "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/"
     ]
   ],
   [
     [
-      "2026-09-25, 02:50:16",
-      "https://news.ycombinator.com/item?id=49839664"
+      "2026-09-24, 19:43:04",
+      "https://news.ycombinator.com/item?id=49835866"
     ],
     [
-      "What About Rails?",
-      "https://jardo.dev/what-about-rails"
+      "Ask HN: Any nerds out there who've read a lot of research papers?",
+      "https://news.ycombinator.com/item?id=49835866"
     ]
   ],
   [
@@ -251,52 +241,62 @@
   ],
   [
     [
-      "2026-09-24, 16:23:00",
-      "https://news.ycombinator.com/item?id=49832938"
+      "2026-09-24, 16:39:20",
+      "https://news.ycombinator.com/item?id=49833212"
     ],
     [
-      "Why is the liver so weirdly regenerative?",
-      "https://dynomight.substack.com/p/liver"
+      "Ask HN: Hypothesis: Cellular providers are deprioritizing voice calls",
+      "https://news.ycombinator.com/item?id=49833212"
     ]
   ],
   [
     [
-      "2026-09-24, 15:26:12",
-      "https://news.ycombinator.com/item?id=49831968"
+      "2026-09-23, 22:14:52",
+      "https://news.ycombinator.com/item?id=49823332"
     ],
     [
-      "F-Droid 2.0",
-      "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html"
+      "Show HN: Jevgpt – reinventing the wheel with another wheel",
+      "https://news.ycombinator.com/item?id=49823332"
     ]
   ],
   [
     [
-      "2026-09-23, 22:53:28",
-      "https://news.ycombinator.com/item?id=49823738"
+      "2026-09-22, 12:25:57",
+      "https://news.ycombinator.com/item?id=49800114"
     ],
     [
-      "Show HN: Make cursed fonts like Times New Bastard",
-      "https://bastardica.mitpit.com"
+      "Bwbach, My Guardian Goblin",
+      "https://robertmay.photography/journal/bwbach-my-guardian-goblin"
     ]
   ],
   [
     [
-      "2026-09-23, 15:33:33",
-      "https://news.ycombinator.com/item?id=49817680"
+      "2026-09-21, 14:49:05",
+      "https://news.ycombinator.com/item?id=49788014"
     ],
     [
-      "Rails World 2026 Opening Keynote [video]",
-      "https://www.youtube.com/watch?v=vDjW_dRyKXY"
+      "Show HN: Make math automatic with Mathy",
+      "https://gmays.com/making-math-automatic-with-mathy/"
     ]
   ],
   [
     [
-      "2026-09-22, 14:00:08",
-      "https://news.ycombinator.com/item?id=49801436"
+      "2026-09-20, 16:48:20",
+      "https://news.ycombinator.com/item?id=49777515"
     ],
     [
-      "2DWillNeverDie",
-      "https://2dwillneverdie.com/"
+      "A History of the Chiming Machines at Gloucester's Cathedral and Churches (2017) [pdf]",
+      "https://www.bgas.org.uk/tbgas_bg/v135/251-268-MacKechnie-Jarvis.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-09-20, 16:00:13",
+      "https://news.ycombinator.com/item?id=49777121"
+    ],
+    [
+      "How video games inspire great UX (2019)",
+      "https://jenson.org/games/"
     ]
   ]
 ]
