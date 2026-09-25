@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-09-24](index.md)
 
+* [2026-09-24, 23:10:44](https://news.ycombinator.com/item?id=49838034) - [GitLab Outage](https://status.gitlab.com/)
+* [2026-09-24, 22:15:58](https://news.ycombinator.com/item?id=49837473) - [Back and shoulder surgery is often worse than useless](https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless)
 * [2026-09-24, 21:33:03](https://news.ycombinator.com/item?id=49837006) - [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
+* [2026-09-24, 20:55:44](https://news.ycombinator.com/item?id=49836612) - [International observers to investigate Swedish election fraud](https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken)
 * [2026-09-24, 20:53:39](https://news.ycombinator.com/item?id=49836590) - [The Board Game of the Alpha Nerds (2014)](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
 * [2026-09-24, 20:42:02](https://news.ycombinator.com/item?id=49836494) - [Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria](https://rackcrunch.com/security-headers-2026)
 * [2026-09-24, 20:34:32](https://news.ycombinator.com/item?id=49836419) - [California is chasing wealth that has feet](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
