@@ -38,6 +38,7 @@
 * [2026-09-22, 15:12:17](https://news.ycombinator.com/item?id=49802661) - [RAM: the forgotten history (2024)](https://blog.coredump.cx/p/memory-the-forgotten-history)
 * [2026-09-22, 15:09:45](https://news.ycombinator.com/item?id=49802619) - [If you start writing today, there's no way to know if you can write without AI](https://www.ssp.sh/brain/ai-writing/)
 * [2026-09-22, 15:07:03](https://news.ycombinator.com/item?id=49802581) - [Vacate a Drone Restriction That Criminalized Recording Immigration Agents](https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration)
+* [2026-09-22, 15:02:39](https://news.ycombinator.com/item?id=49802510) - [Writing Parquet files using Haskell](https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html)
 * [2026-09-22, 14:42:59](https://news.ycombinator.com/item?id=49802161) - [OpenAI is about to eat Jev's lunch – Arcturus Labs](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)
 * [2026-09-22, 14:42:57](https://news.ycombinator.com/item?id=49802160) - [Jev – a curation of Jev demos on X, tools, skills, and integrations](https://github.com/Amal-David/awesome-jev)
 * [2026-09-22, 14:35:15](https://news.ycombinator.com/item?id=49802030) - [Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/)

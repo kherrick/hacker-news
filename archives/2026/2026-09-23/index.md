@@ -12,6 +12,7 @@
 * [2026-09-23, 22:37:28](https://news.ycombinator.com/item?id=49823568) - [Toyota is taking the Corolla electric](https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/)
 * [2026-09-23, 22:16:19](https://news.ycombinator.com/item?id=49823348) - [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5)
 * [2026-09-23, 22:03:21](https://news.ycombinator.com/item?id=49823195) - [We just shipped support for the ugliest part of HTTP: Vary](https://blog.cloudflare.com/vary-support/)
+* [2026-09-23, 21:54:35](https://news.ycombinator.com/item?id=49823113) - [The Bayeux Tapestry: Woven by the Victors](https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors)
 * [2026-09-23, 21:01:48](https://news.ycombinator.com/item?id=49822556) - [OpenAI breaches Medicare, Albanese reveals](https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html)
 * [2026-09-23, 21:01:48](https://news.ycombinator.com/item?id=49822555) - [VSCode's SSH Agent Is Bananas](https://fly.io/blog/vscode-ssh-wtf/)
 * [2026-09-23, 20:12:10](https://news.ycombinator.com/item?id=49821835) - [Geothermal heat map of US hot springs](https://www.soakingsprings.com/hot-springs/geothermal-map)

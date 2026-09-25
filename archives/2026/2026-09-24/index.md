@@ -34,6 +34,7 @@
 * [2026-09-24, 09:11:52](https://news.ycombinator.com/item?id=49828120) - [Search – A small, fast WebKit browser for macOS](https://github.com/driceroland/Search)
 * [2026-09-24, 08:23:03](https://news.ycombinator.com/item?id=49827794) - [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
 * [2026-09-24, 07:23:07](https://news.ycombinator.com/item?id=49827383) - [The Year of Internal Tools](https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools)
+* [2026-09-24, 07:22:17](https://news.ycombinator.com/item?id=49827375) - [Show HN: Air-gapped file encryption as self-decrypting HTML page](https://cms-sfx-demo.apeleg.com/)
 * [2026-09-24, 05:21:10](https://news.ycombinator.com/item?id=49826565) - [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)
 * [2026-09-24, 05:07:58](https://news.ycombinator.com/item?id=49826482) - [Six-year-old breaks women's world Rubik's Cube record [video]](https://www.youtube.com/watch?v=UCMRgvyTm08)
 * [2026-09-24, 04:20:59](https://news.ycombinator.com/item?id=49826221) - [Contrastive Language Models](https://contrastive-lm.notion.site/)
