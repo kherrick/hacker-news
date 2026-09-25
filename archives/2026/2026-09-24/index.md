@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-24](index.md)
 
+* [2026-09-24, 23:36:50](https://news.ycombinator.com/item?id=49838247) - [Remembering Johannes Doerfert](https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/)
 * [2026-09-24, 23:10:44](https://news.ycombinator.com/item?id=49838034) - [GitLab Outage](https://status.gitlab.com/)
 * [2026-09-24, 22:15:58](https://news.ycombinator.com/item?id=49837473) - [Back and shoulder surgery is often worse than useless](https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless)
 * [2026-09-24, 21:33:03](https://news.ycombinator.com/item?id=49837006) - [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
@@ -14,9 +15,11 @@
 * [2026-09-24, 20:28:47](https://news.ycombinator.com/item?id=49836374) - [Opus 5.5 is good at explainer videos](https://launchvideo.io)
 * [2026-09-24, 19:54:21](https://news.ycombinator.com/item?id=49835996) - [Sourcehut account takeover via build logs (XSS in ansi2html)](https://blog.arusekk.pl/posts/srht-account-takeover/)
 * [2026-09-24, 19:46:22](https://news.ycombinator.com/item?id=49835913) - [August 27 TCRF DDoS Attack Postmortem](https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/)
+* [2026-09-24, 19:43:04](https://news.ycombinator.com/item?id=49835866) - [Ask HN: Any nerds out there who've read a lot of research papers?](https://news.ycombinator.com/item?id=49835866)
 * [2026-09-24, 19:14:27](https://news.ycombinator.com/item?id=49835531) - [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
 * [2026-09-24, 18:29:18](https://news.ycombinator.com/item?id=49834893) - [Stable (YC W20) Is Hiring](https://www.usestable.com/careers/product-engineer)
 * [2026-09-24, 17:21:36](https://news.ycombinator.com/item?id=49833867) - [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
+* [2026-09-24, 16:39:20](https://news.ycombinator.com/item?id=49833212) - [Ask HN: Hypothesis: Cellular providers are deprioritizing voice calls](https://news.ycombinator.com/item?id=49833212)
 * [2026-09-24, 16:23:00](https://news.ycombinator.com/item?id=49832938) - [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
 * [2026-09-24, 15:50:26](https://news.ycombinator.com/item?id=49832406) - [GitHub has not removed malicious imitation software after 3 weeks](https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/)
 * [2026-09-24, 15:40:03](https://news.ycombinator.com/item?id=49832231) - [Experiencing writing at our recent Chinese calligraphy workshop](https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/)

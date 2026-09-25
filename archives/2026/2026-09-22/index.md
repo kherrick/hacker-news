@@ -52,6 +52,7 @@
 * [2026-09-22, 13:01:03](https://news.ycombinator.com/item?id=49800574) - [Show HN: JevBench, a reproducible benchmark for typed decision models](https://benchmarkheaven.com/jev-models)
 * [2026-09-22, 13:00:49](https://news.ycombinator.com/item?id=49800566) - [Training a model to identify AI-generated web content from structure alone](https://arxiv.org/abs/2609.15369)
 * [2026-09-22, 12:58:02](https://news.ycombinator.com/item?id=49800513) - [Show HN: Npunlock – Run custom C kernels for Intel NPUs](https://github.com/hsfzxjy/npunlock)
+* [2026-09-22, 12:25:57](https://news.ycombinator.com/item?id=49800114) - [Bwbach, My Guardian Goblin](https://robertmay.photography/journal/bwbach-my-guardian-goblin)
 * [2026-09-22, 12:23:37](https://news.ycombinator.com/item?id=49800085) - [Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/)
 * [2026-09-22, 12:11:09](https://news.ycombinator.com/item?id=49799965) - [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
 * [2026-09-22, 12:00:11](https://news.ycombinator.com/item?id=49799855) - [The mystery animal on an ancient god's head](https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/)
