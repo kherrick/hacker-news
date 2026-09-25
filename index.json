@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-09-24, 23:10:44",
+      "https://news.ycombinator.com/item?id=49838034"
+    ],
+    [
+      "GitLab Outage",
+      "https://status.gitlab.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-24, 22:15:58",
+      "https://news.ycombinator.com/item?id=49837473"
+    ],
+    [
+      "Back and shoulder surgery is often worse than useless",
+      "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless"
+    ]
+  ],
+  [
+    [
       "2026-09-24, 21:33:03",
       "https://news.ycombinator.com/item?id=49837006"
     ],
     [
       "Show HN: Koi.rest – watch some fish and regain your balance",
       "https://koi.rest"
+    ]
+  ],
+  [
+    [
+      "2026-09-24, 20:55:44",
+      "https://news.ycombinator.com/item?id=49836612"
+    ],
+    [
+      "International observers to investigate Swedish election fraud",
+      "https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken"
     ]
   ],
   [
@@ -21,16 +51,6 @@
   ],
   [
     [
-      "2026-09-24, 20:42:02",
-      "https://news.ycombinator.com/item?id=49836494"
-    ],
-    [
-      "Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",
-      "https://rackcrunch.com/security-headers-2026"
-    ]
-  ],
-  [
-    [
       "2026-09-24, 20:34:32",
       "https://news.ycombinator.com/item?id=49836419"
     ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2026-09-24, 20:28:47",
-      "https://news.ycombinator.com/item?id=49836374"
-    ],
-    [
-      "Opus 5.5 is good at explainer videos",
-      "https://launchvideo.io"
-    ]
-  ],
-  [
-    [
       "2026-09-24, 19:54:21",
       "https://news.ycombinator.com/item?id=49835996"
     ],
     [
       "Sourcehut account takeover via build logs (XSS in ansi2html)",
       "https://blog.arusekk.pl/posts/srht-account-takeover/"
-    ]
-  ],
-  [
-    [
-      "2026-09-24, 19:46:22",
-      "https://news.ycombinator.com/item?id=49835913"
-    ],
-    [
-      "August 27 TCRF DDoS Attack Postmortem",
-      "https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2026-09-24, 09:49:33",
+      "https://news.ycombinator.com/item?id=49828385"
+    ],
+    [
+      "Nokia Design Archive (2025)",
+      "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c"
+    ]
+  ],
+  [
+    [
       "2026-09-24, 05:21:10",
       "https://news.ycombinator.com/item?id=49826565"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-09-23, 19:42:58",
-      "https://news.ycombinator.com/item?id=49821438"
-    ],
-    [
-      "Show HN: AgentRun: DSL to turn agents into workflows",
-      "https://github.com/Parcha-ai/agentrun"
-    ]
-  ],
-  [
-    [
       "2026-09-23, 15:33:33",
       "https://news.ycombinator.com/item?id=49817680"
     ],
@@ -231,32 +231,12 @@
   ],
   [
     [
-      "2026-09-23, 00:06:25",
-      "https://news.ycombinator.com/item?id=49809935"
-    ],
-    [
-      "Web-based IBM 1620 emulator and IPL-V from 1963",
-      "https://github.com/pkimpel/retro-1620"
-    ]
-  ],
-  [
-    [
       "2026-09-22, 17:49:46",
       "https://news.ycombinator.com/item?id=49805344"
     ],
     [
       "My weird new hobby: Wandering around Tokyo on Google Maps",
       "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/"
-    ]
-  ],
-  [
-    [
-      "2026-09-22, 16:53:25",
-      "https://news.ycombinator.com/item?id=49804359"
-    ],
-    [
-      "Show HN: Treepeat – Code similarity detection using Tree-sitter",
-      "https://github.com/dsummersl/treepeat"
     ]
   ],
   [
@@ -277,6 +257,26 @@
     [
       "Fearless SIMD v1.0",
       "https://linebender.org/blog/fearless-simd-1-0/"
+    ]
+  ],
+  [
+    [
+      "2026-09-21, 23:27:31",
+      "https://news.ycombinator.com/item?id=49794824"
+    ],
+    [
+      "Motor Characterization for Small Running Robots (2016)",
+      "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/"
+    ]
+  ],
+  [
+    [
+      "2026-09-21, 21:53:01",
+      "https://news.ycombinator.com/item?id=49793957"
+    ],
+    [
+      "Security auditing in the age of (good enough) AI",
+      "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/"
     ]
   ],
   [
