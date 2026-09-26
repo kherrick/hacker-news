@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-09-25](index.md)
 
 * [2026-09-25, 22:51:44](https://news.ycombinator.com/item?id=49851032) - [Tell HN: Codex Is Down [fixed]](https://news.ycombinator.com/item?id=49851032)
+* [2026-09-25, 22:28:02](https://news.ycombinator.com/item?id=49850781) - [Lab on a Contact Lens Can Measure Stress Through Serotonin](https://spectrum.ieee.org/serotonin-stress-smart-contact-lens)
 * [2026-09-25, 21:36:56](https://news.ycombinator.com/item?id=49850305) - [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
 * [2026-09-25, 21:09:27](https://news.ycombinator.com/item?id=49849985) - [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
 * [2026-09-25, 21:02:48](https://news.ycombinator.com/item?id=49849907) - [Teaching a World Model to Play Pokemon](https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/)
@@ -34,6 +35,7 @@
 * [2026-09-25, 13:55:37](https://news.ycombinator.com/item?id=49844736) - [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
 * [2026-09-25, 13:49:06](https://news.ycombinator.com/item?id=49844663) - [ASML says it sold 'absolutely nothing' in Europe in 2026](https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand)
 * [2026-09-25, 13:47:21](https://news.ycombinator.com/item?id=49844642) - [What happens when you analyze your favorite college football team like the CIA?](https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia)
+* [2026-09-25, 13:37:54](https://news.ycombinator.com/item?id=49844497) - [Show HN: Hacker Atlas - A map of what Hacker News talks about](https://hackeratlas.com/)
 * [2026-09-25, 12:48:00](https://news.ycombinator.com/item?id=49843899) - [Nobody Asked for a Crab Chair](https://newmobility.com/nobody-asked-for-a-crab-chair/)
 * [2026-09-25, 12:14:02](https://news.ycombinator.com/item?id=49843550) - [The Test](https://tante.cc/2026/09/24/the-test/)
 * [2026-09-25, 12:13:55](https://news.ycombinator.com/item?id=49843547) - [I'm Tired of Being on the Network](https://matduggan.com/im-tired-of-being-on-the-network/)
@@ -55,4 +57,5 @@
 * [2026-09-25, 07:27:45](https://news.ycombinator.com/item?id=49841285) - [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
 * [2026-09-25, 07:03:46](https://news.ycombinator.com/item?id=49841115) - [CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)
 * [2026-09-25, 04:49:23](https://news.ycombinator.com/item?id=49840300) - [Jev Based Code Review](https://github.com/egma-ai/jev-code-reviewer)
+* [2026-09-25, 03:59:11](https://news.ycombinator.com/item?id=49840054) - [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
 * [2026-09-25, 02:50:16](https://news.ycombinator.com/item?id=49839664) - [What About Rails?](https://jardo.dev/what-about-rails)
