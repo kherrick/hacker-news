@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-26](index.md)
 
+* [2026-09-26, 13:05:36](https://news.ycombinator.com/item?id=49856149) - [Understanding the Impact of LLM Watermarking on AI Agent Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)
+* [2026-09-26, 10:55:56](https://news.ycombinator.com/item?id=49855315) - [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
+* [2026-09-26, 10:08:21](https://news.ycombinator.com/item?id=49855018) - [One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
+* [2026-09-26, 09:55:38](https://news.ycombinator.com/item?id=49854945) - [The Copilot+ PC brand is dead](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
 * [2026-09-26, 09:41:58](https://news.ycombinator.com/item?id=49854875) - [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
+* [2026-09-26, 09:13:41](https://news.ycombinator.com/item?id=49854693) - [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
 * [2026-09-26, 08:31:02](https://news.ycombinator.com/item?id=49854416) - [Floci: Locally emulating any cloud service](https://floci.io)
+* [2026-09-26, 07:49:50](https://news.ycombinator.com/item?id=49854216) - [The far side of the Moon provides clues to a previous magnetic field](https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html)
 * [2026-09-26, 07:33:12](https://news.ycombinator.com/item?id=49854161) - [Is your Postgres migration safe or not safe?](https://safenotsafe.dev/)
 * [2026-09-26, 06:51:12](https://news.ycombinator.com/item?id=49853918) - [Alberta's image as world's only rat-free region shattered by discovery of rat](https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol)
 * [2026-09-26, 04:20:58](https://news.ycombinator.com/item?id=49853175) - [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)

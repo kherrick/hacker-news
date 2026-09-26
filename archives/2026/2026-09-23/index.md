@@ -8,6 +8,7 @@
 * [2026-09-23, 23:10:22](https://news.ycombinator.com/item?id=49823922) - [We've Turned Starlink into a Planetary Barometer](https://www.spaceweather.com/starlink/starlink_drag_explainer.html)
 * [2026-09-23, 22:53:28](https://news.ycombinator.com/item?id=49823738) - [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
 * [2026-09-23, 22:45:49](https://news.ycombinator.com/item?id=49823664) - [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
+* [2026-09-23, 22:42:13](https://news.ycombinator.com/item?id=49823628) - [ASML currently sells no chipmaking machines in Europe, executive says](https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says)
 * [2026-09-23, 22:38:16](https://news.ycombinator.com/item?id=49823582) - [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
 * [2026-09-23, 22:37:28](https://news.ycombinator.com/item?id=49823568) - [Toyota is taking the Corolla electric](https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/)
 * [2026-09-23, 22:30:46](https://news.ycombinator.com/item?id=49823490) - [A new world airport and its baggage](https://computer.rip/2026-09-20-denver-baggage.html)
