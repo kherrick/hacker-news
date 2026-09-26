@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-09-26, 00:08:00",
+      "https://news.ycombinator.com/item?id=49851759"
+    ],
+    [
+      "Brazil Bans Online Betting",
+      "https://www.reuters.com/world/americas/brazils-lula-bans-online-betting-operations-reelection-race-tightens-2026-09-25/"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 22:51:44",
+      "https://news.ycombinator.com/item?id=49851032"
+    ],
+    [
+      "Tell HN: Codex Is Down [fixed]",
+      "https://news.ycombinator.com/item?id=49851032"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 21:36:56",
+      "https://news.ycombinator.com/item?id=49850305"
+    ],
+    [
+      "What even is an OS now?",
+      "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/"
+    ]
+  ],
+  [
+    [
       "2026-09-25, 21:09:27",
       "https://news.ycombinator.com/item?id=49849985"
     ],
@@ -11,32 +41,52 @@
   ],
   [
     [
+      "2026-09-25, 21:02:48",
+      "https://news.ycombinator.com/item?id=49849907"
+    ],
+    [
+      "Teaching a World Model to Play Pokemon",
+      "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 20:55:00",
+      "https://news.ycombinator.com/item?id=49849832"
+    ],
+    [
+      "Excel now supports multiple values in a single cell",
+      "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 19:56:57",
+      "https://news.ycombinator.com/item?id=49849141"
+    ],
+    [
+      "How we learned to stop worrying and love campus surveillance",
+      "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 19:53:08",
+      "https://news.ycombinator.com/item?id=49849098"
+    ],
+    [
+      "A new way to manage memory: no garbage collection, extremely fast & safe access",
+      "https://ulanguage.org/memory"
+    ]
+  ],
+  [
+    [
       "2026-09-25, 19:37:55",
       "https://news.ycombinator.com/item?id=49848955"
     ],
     [
       "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
       "https://news.ycombinator.com/item?id=49848955"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 19:27:37",
-      "https://news.ycombinator.com/item?id=49848838"
-    ],
-    [
-      "Bug: Border radius has infected VSCode editor",
-      "https://github.com/microsoft/vscode/issues/338035"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 19:26:10",
-      "https://news.ycombinator.com/item?id=49848819"
-    ],
-    [
-      "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
-      "https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding"
     ]
   ],
   [
@@ -61,42 +111,12 @@
   ],
   [
     [
-      "2026-09-25, 18:29:49",
-      "https://news.ycombinator.com/item?id=49848227"
-    ],
-    [
-      "Astronomer watches Starlink satellites sinking to build a 'planetary barometer'",
-      "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036"
-    ]
-  ],
-  [
-    [
       "2026-09-25, 18:18:06",
       "https://news.ycombinator.com/item?id=49848095"
     ],
     [
       "Meta's Muse appears to use an OpenAI model labeled muse-special",
       "https://mouse.dev/blog/muse-special/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 16:51:28",
-      "https://news.ycombinator.com/item?id=49846953"
-    ],
-    [
-      "Show HN: Doom or Bloom, map your AI worldview",
-      "https://www.doom-or-bloom.com"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 16:05:08",
-      "https://news.ycombinator.com/item?id=49846409"
-    ],
-    [
-      "Show HN: I discovered roads in the US across > 1000 themes",
-      "https://road-about-a-theme.pinedesk.biz/"
     ]
   ],
   [
@@ -131,12 +151,12 @@
   ],
   [
     [
-      "2026-09-25, 14:24:42",
-      "https://news.ycombinator.com/item?id=49845133"
+      "2026-09-25, 14:07:08",
+      "https://news.ycombinator.com/item?id=49844896"
     ],
     [
-      "Factorio that you can touch",
-      "https://factorio.com/blog/post/fff-447"
+      "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
     ]
   ],
   [
@@ -181,6 +201,26 @@
   ],
   [
     [
+      "2026-09-25, 10:16:50",
+      "https://news.ycombinator.com/item?id=49842462"
+    ],
+    [
+      "An airport cooled by natural ventilation",
+      "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 10:08:41",
+      "https://news.ycombinator.com/item?id=49842409"
+    ],
+    [
+      "I wrote a ray tracer in Brainfuck",
+      "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/"
+    ]
+  ],
+  [
+    [
       "2026-09-25, 09:50:25",
       "https://news.ycombinator.com/item?id=49842270"
     ],
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2026-09-25, 07:27:45",
-      "https://news.ycombinator.com/item?id=49841285"
-    ],
-    [
-      "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-      "https://nyaa.sh/reviews/mac-mini-m6-emulation"
-    ]
-  ],
-  [
-    [
       "2026-09-24, 23:36:50",
       "https://news.ycombinator.com/item?id=49838247"
     ],
@@ -221,42 +251,22 @@
   ],
   [
     [
-      "2026-09-24, 19:43:04",
-      "https://news.ycombinator.com/item?id=49835866"
+      "2026-09-23, 18:23:47",
+      "https://news.ycombinator.com/item?id=49820349"
     ],
     [
-      "Ask HN: Any nerds out there who've read a lot of research papers?",
-      "https://news.ycombinator.com/item?id=49835866"
+      "Loopjacking in A2A Implementations: Hijacking Human-in-the-Loop Approvals",
+      "https://adithyanak.com/loopjacking-in-a2a-implementations/"
     ]
   ],
   [
     [
-      "2026-09-24, 17:21:36",
-      "https://news.ycombinator.com/item?id=49833867"
+      "2026-09-23, 17:07:10",
+      "https://news.ycombinator.com/item?id=49819244"
     ],
     [
-      "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "https://github.com/devdotfast/whiteboard"
-    ]
-  ],
-  [
-    [
-      "2026-09-24, 16:39:20",
-      "https://news.ycombinator.com/item?id=49833212"
-    ],
-    [
-      "Ask HN: Hypothesis: Cellular providers are deprioritizing voice calls",
-      "https://news.ycombinator.com/item?id=49833212"
-    ]
-  ],
-  [
-    [
-      "2026-09-23, 22:14:52",
-      "https://news.ycombinator.com/item?id=49823332"
-    ],
-    [
-      "Show HN: Jevgpt – reinventing the wheel with another wheel",
-      "https://news.ycombinator.com/item?id=49823332"
+      "Why didn't anybody tell me about Redis Hash Slots?",
+      "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: Make math automatic with Mathy",
       "https://gmays.com/making-math-automatic-with-mathy/"
-    ]
-  ],
-  [
-    [
-      "2026-09-20, 16:48:20",
-      "https://news.ycombinator.com/item?id=49777515"
-    ],
-    [
-      "A History of the Chiming Machines at Gloucester's Cathedral and Churches (2017) [pdf]",
-      "https://www.bgas.org.uk/tbgas_bg/v135/251-268-MacKechnie-Jarvis.pdf"
     ]
   ],
   [
