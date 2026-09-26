@@ -10,6 +10,7 @@
 * [2026-09-23, 22:45:49](https://news.ycombinator.com/item?id=49823664) - [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
 * [2026-09-23, 22:38:16](https://news.ycombinator.com/item?id=49823582) - [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
 * [2026-09-23, 22:37:28](https://news.ycombinator.com/item?id=49823568) - [Toyota is taking the Corolla electric](https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/)
+* [2026-09-23, 22:30:46](https://news.ycombinator.com/item?id=49823490) - [A new world airport and its baggage](https://computer.rip/2026-09-20-denver-baggage.html)
 * [2026-09-23, 22:16:19](https://news.ycombinator.com/item?id=49823348) - [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5)
 * [2026-09-23, 22:14:52](https://news.ycombinator.com/item?id=49823332) - [Show HN: Jevgpt – reinventing the wheel with another wheel](https://news.ycombinator.com/item?id=49823332)
 * [2026-09-23, 22:03:21](https://news.ycombinator.com/item?id=49823195) - [We just shipped support for the ugliest part of HTTP: Vary](https://blog.cloudflare.com/vary-support/)

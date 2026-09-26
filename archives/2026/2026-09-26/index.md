@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-09-26](index.md)
 
+* [2026-09-26, 09:41:58](https://news.ycombinator.com/item?id=49854875) - [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
+* [2026-09-26, 08:31:02](https://news.ycombinator.com/item?id=49854416) - [Floci: Locally emulating any cloud service](https://floci.io)
+* [2026-09-26, 07:33:12](https://news.ycombinator.com/item?id=49854161) - [Is your Postgres migration safe or not safe?](https://safenotsafe.dev/)
+* [2026-09-26, 06:51:12](https://news.ycombinator.com/item?id=49853918) - [Alberta's image as world's only rat-free region shattered by discovery of rat](https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol)
 * [2026-09-26, 04:20:58](https://news.ycombinator.com/item?id=49853175) - [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
 * [2026-09-26, 04:13:08](https://news.ycombinator.com/item?id=49853133) - [Pencils Down, Notation Up](https://intertwingly.net/blog/2026/09/25/Pencils-Down-Notation-Up.html)
 * [2026-09-26, 02:46:54](https://news.ycombinator.com/item?id=49852717) - [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
+* [2026-09-26, 02:03:24](https://news.ycombinator.com/item?id=49852462) - [HomelabFest will be in St. Louis in September 2027](https://www.homelabfest.org)
 * [2026-09-26, 01:36:50](https://news.ycombinator.com/item?id=49852302) - [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)
 * [2026-09-26, 00:59:02](https://news.ycombinator.com/item?id=49852065) - [One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days](https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide)
 * [2026-09-26, 00:45:01](https://news.ycombinator.com/item?id=49851985) - [Linguistic humor, Foreign hotel signs](https://www.ling.upenn.edu/~beatrice/humor/foreign-hotel-signs.html)
