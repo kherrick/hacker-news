@@ -1,12 +1,72 @@
 [
   [
     [
-      "2026-09-26, 13:05:36",
-      "https://news.ycombinator.com/item?id=49856149"
+      "2026-09-26, 16:46:24",
+      "https://news.ycombinator.com/item?id=49858253"
     ],
     [
-      "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior"
+      "US jury says Apple owes record $5.7B in haptic technology patent case",
+      "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 16:12:18",
+      "https://news.ycombinator.com/item?id=49857899"
+    ],
+    [
+      "I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband",
+      "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 15:56:34",
+      "https://news.ycombinator.com/item?id=49857729"
+    ],
+    [
+      "Make Claude your assistant in excalidraw",
+      "https://tangled.org/yanndegat.tngl.sh/drawgent"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 15:48:18",
+      "https://news.ycombinator.com/item?id=49857651"
+    ],
+    [
+      "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 15:34:53",
+      "https://news.ycombinator.com/item?id=49857528"
+    ],
+    [
+      "Show HN: A Claude Code skill to analyze your chess games",
+      "https://github.com/brumar/chess-postmortem-skills"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 15:10:29",
+      "https://news.ycombinator.com/item?id=49857323"
+    ],
+    [
+      "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
+      "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 14:03:54",
+      "https://news.ycombinator.com/item?id=49856665"
+    ],
+    [
+      "OpenAI bots meddled with multiple US Government agency sites",
+      "https://www.bbc.com/news/articles/cw62jje658dlo"
     ]
   ],
   [
@@ -17,26 +77,6 @@
     [
       "Breaking Up with Google Play: Why Conversations Is Now Free",
       "https://gultsch.de/posts/breaking-up-with-google-play/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 10:08:21",
-      "https://news.ycombinator.com/item?id=49855018"
-    ],
-    [
-      "One Month Without AI",
-      "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 09:55:38",
-      "https://news.ycombinator.com/item?id=49854945"
-    ],
-    [
-      "The Copilot+ PC brand is dead",
-      "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "Floci: Locally emulating any cloud service",
       "https://floci.io"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 07:49:50",
-      "https://news.ycombinator.com/item?id=49854216"
-    ],
-    [
-      "The far side of the Moon provides clues to a previous magnetic field",
-      "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html"
     ]
   ],
   [
@@ -101,36 +131,6 @@
   ],
   [
     [
-      "2026-09-26, 02:03:24",
-      "https://news.ycombinator.com/item?id=49852462"
-    ],
-    [
-      "HomelabFest will be in St. Louis in September 2027",
-      "https://www.homelabfest.org"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 01:36:50",
-      "https://news.ycombinator.com/item?id=49852302"
-    ],
-    [
-      "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 22:28:02",
-      "https://news.ycombinator.com/item?id=49850781"
-    ],
-    [
-      "Lab on a Contact Lens Can Measure Stress Through Serotonin",
-      "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens"
-    ]
-  ],
-  [
-    [
       "2026-09-25, 21:36:56",
       "https://news.ycombinator.com/item?id=49850305"
     ],
@@ -151,12 +151,12 @@
   ],
   [
     [
-      "2026-09-25, 20:55:00",
-      "https://news.ycombinator.com/item?id=49849832"
+      "2026-09-25, 20:53:54",
+      "https://news.ycombinator.com/item?id=49849820"
     ],
     [
-      "Excel now supports multiple values in a single cell",
-      "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395"
+      "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+      "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2026-09-25, 10:55:40",
+      "https://news.ycombinator.com/item?id=49842764"
+    ],
+    [
+      "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "https://github.com/InfinityLoop1308/PipePipe"
+    ]
+  ],
+  [
+    [
       "2026-09-25, 03:59:11",
       "https://news.ycombinator.com/item?id=49840054"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2026-09-24, 13:25:11",
-      "https://news.ycombinator.com/item?id=49830265"
+      "2026-09-24, 16:11:42",
+      "https://news.ycombinator.com/item?id=49832768"
     ],
     [
-      "From Thin Air to Bootable Images: The Tine Build System",
-      "https://amutable.com/blog/tine-build-system"
+      "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "https://www.movingimagearchive.com/"
     ]
   ],
   [
@@ -241,22 +251,22 @@
   ],
   [
     [
-      "2026-09-24, 12:03:35",
-      "https://news.ycombinator.com/item?id=49829472"
-    ],
-    [
-      "Fourier Analysis: Drawing Llamas with Circles",
-      "https://adekau.github.io/posts/2020/llamas.html"
-    ]
-  ],
-  [
-    [
       "2026-09-24, 11:33:56",
       "https://news.ycombinator.com/item?id=49829202"
     ],
     [
       "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
       "https://castle-engine.io/modern_pascal"
+    ]
+  ],
+  [
+    [
+      "2026-09-24, 08:36:40",
+      "https://news.ycombinator.com/item?id=49827900"
+    ],
+    [
+      "The Lost Atomic Update on Loongson CPU",
+      "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/"
     ]
   ],
   [
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2026-09-24, 01:00:01",
-      "https://news.ycombinator.com/item?id=49824846"
-    ],
-    [
-      "Scientists build most accurate atomic clock",
-      "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html"
-    ]
-  ],
-  [
-    [
       "2026-09-24, 00:34:11",
       "https://news.ycombinator.com/item?id=49824642"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-09-23, 22:42:13",
-      "https://news.ycombinator.com/item?id=49823628"
+      "2026-09-23, 14:40:34",
+      "https://news.ycombinator.com/item?id=49816907"
     ],
     [
-      "ASML currently sells no chipmaking machines in Europe, executive says",
-      "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says"
+      "Reflections on 1,000 Days of Math",
+      "https://gmays.com/reflections-on-1000-days-of-math/"
     ]
   ]
 ]
