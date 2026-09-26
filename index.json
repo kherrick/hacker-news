@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-09-26, 16:46:24",
-      "https://news.ycombinator.com/item?id=49858253"
+      "2026-09-26, 18:22:41",
+      "https://news.ycombinator.com/item?id=49859112"
     ],
     [
-      "US jury says Apple owes record $5.7B in haptic technology patent case",
-      "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/"
+      "DeepSeek Elastic Compute (DSec)",
+      "https://arxiv.org/abs/2609.22978"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 17:10:40",
+      "https://news.ycombinator.com/item?id=49858513"
+    ],
+    [
+      "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "https://github.com/reladraw/reladraw"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=49857899"
     ],
     [
-      "I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband",
+      "I'm the mom in that viral Giants clip. Let me tell you about my husband",
       "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=49857729"
     ],
     [
-      "Make Claude your assistant in excalidraw",
+      "Drawgent: Coding agent on a live Excalidraw canvas",
       "https://tangled.org/yanndegat.tngl.sh/drawgent"
     ]
   ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2026-09-26, 15:40:27",
+      "https://news.ycombinator.com/item?id=49857572"
+    ],
+    [
+      "Automattic has a new board after failed attempt to put CEO on leave",
+      "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/"
+    ]
+  ],
+  [
+    [
       "2026-09-26, 15:34:53",
       "https://news.ycombinator.com/item?id=49857528"
     ],
@@ -51,12 +71,12 @@
   ],
   [
     [
-      "2026-09-26, 15:10:29",
-      "https://news.ycombinator.com/item?id=49857323"
+      "2026-09-26, 15:24:08",
+      "https://news.ycombinator.com/item?id=49857442"
     ],
     [
-      "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
-      "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/"
+      "Plunging test scores are a slow-moving catastrophe",
+      "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe"
     ]
   ],
   [
@@ -77,6 +97,16 @@
     [
       "Breaking Up with Google Play: Why Conversations Is Now Free",
       "https://gultsch.de/posts/breaking-up-with-google-play/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 09:41:58",
+      "https://news.ycombinator.com/item?id=49854875"
+    ],
+    [
+      "How to keep enjoying programming in a world of LLMs",
+      "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Is your Postgres migration safe or not safe?",
       "https://safenotsafe.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 04:20:58",
-      "https://news.ycombinator.com/item?id=49853175"
-    ],
-    [
-      "A single function Jev-like wrapper for LLMs, including vision models",
-      "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html"
     ]
   ],
   [
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2026-09-25, 19:37:55",
-      "https://news.ycombinator.com/item?id=49848955"
-    ],
-    [
-      "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-      "https://news.ycombinator.com/item?id=49848955"
-    ]
-  ],
-  [
-    [
       "2026-09-25, 18:33:50",
       "https://news.ycombinator.com/item?id=49848269"
     ],
     [
       "Ollaya – Ollama for open-source, Jev-style decision models",
       "https://ollaya.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 15:31:02",
-      "https://news.ycombinator.com/item?id=49845998"
-    ],
-    [
-      "Gravity seems holographic. What does that mean for reality?",
-      "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-09-24, 17:31:28",
+      "https://news.ycombinator.com/item?id=49834040"
+    ],
+    [
+      "The Rise of Audio AR",
+      "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html"
+    ]
+  ],
+  [
+    [
       "2026-09-24, 16:11:42",
       "https://news.ycombinator.com/item?id=49832768"
     ],
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2026-09-24, 12:10:53",
-      "https://news.ycombinator.com/item?id=49829528"
+      "2026-09-24, 15:40:03",
+      "https://news.ycombinator.com/item?id=49832231"
     ],
     [
-      "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
-      "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html"
+      "Experiencing writing at our recent Chinese calligraphy workshop",
+      "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/"
     ]
   ],
   [
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=49829202"
     ],
     [
-      "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
+      "Modern Object Pascal Introduction for Programmers",
       "https://castle-engine.io/modern_pascal"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "16GB iPod Nano 3G Upgrade",
       "https://tuckerosman.com/projects/16gb-ipod-nano"
-    ]
-  ],
-  [
-    [
-      "2026-09-24, 00:34:11",
-      "https://news.ycombinator.com/item?id=49824642"
-    ],
-    [
-      "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
-      "https://www.osti.gov/servlets/purl/1124870"
     ]
   ],
   [
