@@ -42,6 +42,7 @@
 * [2026-09-23, 15:18:53](https://news.ycombinator.com/item?id=49817469) - [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)
 * [2026-09-23, 15:14:22](https://news.ycombinator.com/item?id=49817404) - [GPT-6 Astra has gained the ability to drive a car](https://drivingbench.com/)
 * [2026-09-23, 15:05:46](https://news.ycombinator.com/item?id=49817289) - [Strands Harness](https://strandsagents.com/blog/introducing-strands-harness/)
+* [2026-09-23, 14:40:34](https://news.ycombinator.com/item?id=49816907) - [Reflections on 1,000 Days of Math](https://gmays.com/reflections-on-1000-days-of-math/)
 * [2026-09-23, 14:22:54](https://news.ycombinator.com/item?id=49816658) - [Montreal adopts bylaw banning insults against police, municipal employees](https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920)
 * [2026-09-23, 14:11:14](https://news.ycombinator.com/item?id=49816487) - [Jev in practice: typed decisions, scoped authority](https://tenuo.ai/blog/jev-scoped-authority)
 * [2026-09-23, 14:04:34](https://news.ycombinator.com/item?id=49816374) - [Seattle City Council votes to ban surveillance pricing in sale of groceries](https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/)
