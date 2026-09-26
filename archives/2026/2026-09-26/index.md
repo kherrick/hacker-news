@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-09-26](index.md)
 
+* [2026-09-26, 18:22:41](https://news.ycombinator.com/item?id=49859112) - [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
+* [2026-09-26, 17:10:40](https://news.ycombinator.com/item?id=49858513) - [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
 * [2026-09-26, 16:46:24](https://news.ycombinator.com/item?id=49858253) - [US jury says Apple owes record $5.7B in haptic technology patent case](https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/)
 * [2026-09-26, 16:12:18](https://news.ycombinator.com/item?id=49857899) - [I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
 * [2026-09-26, 15:56:34](https://news.ycombinator.com/item?id=49857729) - [Make Claude your assistant in excalidraw](https://tangled.org/yanndegat.tngl.sh/drawgent)
 * [2026-09-26, 15:48:18](https://news.ycombinator.com/item?id=49857651) - [Banks and Credit Unions to Team Up Against Apple Pay Fees](https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/)
+* [2026-09-26, 15:40:27](https://news.ycombinator.com/item?id=49857572) - [Automattic has a new board after failed attempt to put CEO on leave](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/)
 * [2026-09-26, 15:34:53](https://news.ycombinator.com/item?id=49857528) - [Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills)
+* [2026-09-26, 15:24:08](https://news.ycombinator.com/item?id=49857442) - [Plunging test scores are a slow-moving catastrophe](https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe)
 * [2026-09-26, 15:10:29](https://news.ycombinator.com/item?id=49857323) - [New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely](https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/)
 * [2026-09-26, 14:03:54](https://news.ycombinator.com/item?id=49856665) - [OpenAI bots meddled with multiple US Government agency sites](https://www.bbc.com/news/articles/cw62jje658dlo)
 * [2026-09-26, 13:05:36](https://news.ycombinator.com/item?id=49856149) - [Understanding the Impact of LLM Watermarking on AI Agent Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)

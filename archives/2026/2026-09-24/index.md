@@ -20,6 +20,7 @@
 * [2026-09-24, 19:14:27](https://news.ycombinator.com/item?id=49835531) - [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
 * [2026-09-24, 18:43:52](https://news.ycombinator.com/item?id=49835096) - [Postgres SELECT DISTINCT Does Not Scale](https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale)
 * [2026-09-24, 18:29:18](https://news.ycombinator.com/item?id=49834893) - [Stable (YC W20) Is Hiring](https://www.usestable.com/careers/product-engineer)
+* [2026-09-24, 17:31:28](https://news.ycombinator.com/item?id=49834040) - [The Rise of Audio AR](https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html)
 * [2026-09-24, 17:21:36](https://news.ycombinator.com/item?id=49833867) - [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
 * [2026-09-24, 16:39:20](https://news.ycombinator.com/item?id=49833212) - [Ask HN: Hypothesis: Cellular providers are deprioritizing voice calls](https://news.ycombinator.com/item?id=49833212)
 * [2026-09-24, 16:23:00](https://news.ycombinator.com/item?id=49832938) - [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
