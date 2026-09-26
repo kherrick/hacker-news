@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-09-26](index.md)
 
+* [2026-09-26, 20:08:50](https://news.ycombinator.com/item?id=49860074) - [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
 * [2026-09-26, 18:22:41](https://news.ycombinator.com/item?id=49859112) - [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
+* [2026-09-26, 17:43:11](https://news.ycombinator.com/item?id=49858810) - [Japan moves to tighten rules for foreigners](https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt)
 * [2026-09-26, 17:10:40](https://news.ycombinator.com/item?id=49858513) - [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
 * [2026-09-26, 16:46:24](https://news.ycombinator.com/item?id=49858253) - [US jury says Apple owes record $5.7B in haptic technology patent case](https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/)
 * [2026-09-26, 16:12:18](https://news.ycombinator.com/item?id=49857899) - [I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
