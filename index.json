@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-09-26, 09:41:58",
+      "https://news.ycombinator.com/item?id=49854875"
+    ],
+    [
+      "How to keep enjoying programming in a world of LLMs",
+      "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 08:31:02",
+      "https://news.ycombinator.com/item?id=49854416"
+    ],
+    [
+      "Floci: Locally emulating any cloud service",
+      "https://floci.io"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 07:33:12",
+      "https://news.ycombinator.com/item?id=49854161"
+    ],
+    [
+      "Is your Postgres migration safe or not safe?",
+      "https://safenotsafe.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 06:51:12",
+      "https://news.ycombinator.com/item?id=49853918"
+    ],
+    [
+      "Alberta's image as world's only rat-free region shattered by discovery of rat",
+      "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol"
+    ]
+  ],
+  [
+    [
       "2026-09-26, 04:20:58",
       "https://news.ycombinator.com/item?id=49853175"
     ],
@@ -11,22 +51,22 @@
   ],
   [
     [
-      "2026-09-26, 04:13:08",
-      "https://news.ycombinator.com/item?id=49853133"
-    ],
-    [
-      "Pencils Down, Notation Up",
-      "https://intertwingly.net/blog/2026/09/25/Pencils-Down-Notation-Up.html"
-    ]
-  ],
-  [
-    [
       "2026-09-26, 02:46:54",
       "https://news.ycombinator.com/item?id=49852717"
     ],
     [
       "We're gonna need a lot more mathematicians",
       "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 02:03:24",
+      "https://news.ycombinator.com/item?id=49852462"
+    ],
+    [
+      "HomelabFest will be in St. Louis in September 2027",
+      "https://www.homelabfest.org"
     ]
   ],
   [
@@ -47,36 +87,6 @@
     [
       "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
       "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 00:45:01",
-      "https://news.ycombinator.com/item?id=49851985"
-    ],
-    [
-      "Linguistic humor, Foreign hotel signs",
-      "https://www.ling.upenn.edu/~beatrice/humor/foreign-hotel-signs.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 00:29:48",
-      "https://news.ycombinator.com/item?id=49851879"
-    ],
-    [
-      "TiddlyInstall: A universal, reusable, install system",
-      "https://robertsdotpm.github.io/_static/tiddlyinstall.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 00:11:33",
-      "https://news.ycombinator.com/item?id=49851776"
-    ],
-    [
-      "Show HN: A game about fake news and memes",
-      "https://unspin.app/"
     ]
   ],
   [
@@ -121,12 +131,12 @@
   ],
   [
     [
-      "2026-09-25, 19:56:57",
-      "https://news.ycombinator.com/item?id=49849141"
+      "2026-09-25, 19:37:55",
+      "https://news.ycombinator.com/item?id=49848955"
     ],
     [
-      "How we learned to stop worrying and love campus surveillance",
-      "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/"
+      "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "https://news.ycombinator.com/item?id=49848955"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-09-25, 14:07:08",
-      "https://news.ycombinator.com/item?id=49844896"
-    ],
-    [
-      "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
-    ]
-  ],
-  [
-    [
       "2026-09-25, 13:55:37",
       "https://news.ycombinator.com/item?id=49844736"
     ],
@@ -197,16 +197,6 @@
     [
       "Show HN: Hacker Atlas - A map of what Hacker News talks about",
       "https://hackeratlas.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 11:47:06",
-      "https://news.ycombinator.com/item?id=49843269"
-    ],
-    [
-      "Platform-independent SIMD in Go",
-      "https://go.dev/blog/simd-experiment"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2026-09-24, 13:40:03",
-      "https://news.ycombinator.com/item?id=49830434"
+      "2026-09-24, 13:25:11",
+      "https://news.ycombinator.com/item?id=49830265"
     ],
     [
-      "Two and a half years without a gallbladder",
-      "https://tracydurnell.com/2026/09/16/two-and-a-half-years-without-a-gallbladder/"
+      "From Thin Air to Bootable Images: The Tine Build System",
+      "https://amutable.com/blog/tine-build-system"
     ]
   ],
   [
@@ -281,22 +271,32 @@
   ],
   [
     [
-      "2026-09-21, 14:49:05",
-      "https://news.ycombinator.com/item?id=49788014"
+      "2026-09-24, 03:58:54",
+      "https://news.ycombinator.com/item?id=49826087"
     ],
     [
-      "Show HN: Make math automatic with Mathy",
-      "https://gmays.com/making-math-automatic-with-mathy/"
+      "16GB iPod Nano 3G Upgrade",
+      "https://tuckerosman.com/projects/16gb-ipod-nano"
     ]
   ],
   [
     [
-      "2026-09-20, 16:00:13",
-      "https://news.ycombinator.com/item?id=49777121"
+      "2026-09-24, 01:00:01",
+      "https://news.ycombinator.com/item?id=49824846"
     ],
     [
-      "How video games inspire great UX (2019)",
-      "https://jenson.org/games/"
+      "Scientists build most accurate atomic clock",
+      "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 22:30:46",
+      "https://news.ycombinator.com/item?id=49823490"
+    ],
+    [
+      "A new world airport and its baggage",
+      "https://computer.rip/2026-09-20-denver-baggage.html"
     ]
   ]
 ]
