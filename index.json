@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-09-26, 09:41:58",
-      "https://news.ycombinator.com/item?id=49854875"
+      "2026-09-26, 13:05:36",
+      "https://news.ycombinator.com/item?id=49856149"
     ],
     [
-      "How to keep enjoying programming in a world of LLMs",
-      "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705"
+      "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+      "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 10:55:56",
+      "https://news.ycombinator.com/item?id=49855315"
+    ],
+    [
+      "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "https://gultsch.de/posts/breaking-up-with-google-play/"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 10:08:21",
+      "https://news.ycombinator.com/item?id=49855018"
+    ],
+    [
+      "One Month Without AI",
+      "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 09:55:38",
+      "https://news.ycombinator.com/item?id=49854945"
+    ],
+    [
+      "The Copilot+ PC brand is dead",
+      "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 09:13:41",
+      "https://news.ycombinator.com/item?id=49854693"
+    ],
+    [
+      "Fifteen years later, the Apple Cards origin story",
+      "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story"
     ]
   ],
   [
@@ -21,22 +61,22 @@
   ],
   [
     [
+      "2026-09-26, 07:49:50",
+      "https://news.ycombinator.com/item?id=49854216"
+    ],
+    [
+      "The far side of the Moon provides clues to a previous magnetic field",
+      "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html"
+    ]
+  ],
+  [
+    [
       "2026-09-26, 07:33:12",
       "https://news.ycombinator.com/item?id=49854161"
     ],
     [
       "Is your Postgres migration safe or not safe?",
       "https://safenotsafe.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 06:51:12",
-      "https://news.ycombinator.com/item?id=49853918"
-    ],
-    [
-      "Alberta's image as world's only rat-free region shattered by discovery of rat",
-      "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
       "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 00:59:02",
-      "https://news.ycombinator.com/item?id=49852065"
-    ],
-    [
-      "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-      "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide"
     ]
   ],
   [
@@ -161,52 +191,12 @@
   ],
   [
     [
-      "2026-09-25, 15:29:25",
-      "https://news.ycombinator.com/item?id=49845977"
-    ],
-    [
-      "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
-    ]
-  ],
-  [
-    [
       "2026-09-25, 14:28:07",
       "https://news.ycombinator.com/item?id=49845172"
     ],
     [
       "Show HN: Jev Plays Pokémon Red",
       "https://jev-pokemon.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 13:55:37",
-      "https://news.ycombinator.com/item?id=49844736"
-    ],
-    [
-      "First Principles Thinking",
-      "https://sunilsadasivan.com/writing/first-principles-thinking/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 13:37:54",
-      "https://news.ycombinator.com/item?id=49844497"
-    ],
-    [
-      "Show HN: Hacker Atlas - A map of what Hacker News talks about",
-      "https://hackeratlas.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 10:08:41",
-      "https://news.ycombinator.com/item?id=49842409"
-    ],
-    [
-      "I wrote a ray tracer in Brainfuck",
-      "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/"
     ]
   ],
   [
@@ -221,32 +211,12 @@
   ],
   [
     [
-      "2026-09-24, 23:36:50",
-      "https://news.ycombinator.com/item?id=49838247"
-    ],
-    [
-      "Remembering Johannes Doerfert",
-      "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/"
-    ]
-  ],
-  [
-    [
       "2026-09-24, 23:11:45",
       "https://news.ycombinator.com/item?id=49838040"
     ],
     [
       "The Murky History of Soviet-Born Tetris",
       "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/"
-    ]
-  ],
-  [
-    [
-      "2026-09-24, 18:43:52",
-      "https://news.ycombinator.com/item?id=49835096"
-    ],
-    [
-      "Postgres SELECT DISTINCT Does Not Scale",
-      "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale"
     ]
   ],
   [
@@ -261,12 +231,32 @@
   ],
   [
     [
+      "2026-09-24, 12:10:53",
+      "https://news.ycombinator.com/item?id=49829528"
+    ],
+    [
+      "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
+      "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html"
+    ]
+  ],
+  [
+    [
       "2026-09-24, 12:03:35",
       "https://news.ycombinator.com/item?id=49829472"
     ],
     [
       "Fourier Analysis: Drawing Llamas with Circles",
       "https://adekau.github.io/posts/2020/llamas.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-24, 11:33:56",
+      "https://news.ycombinator.com/item?id=49829202"
+    ],
+    [
+      "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
+      "https://castle-engine.io/modern_pascal"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2026-09-23, 22:30:46",
-      "https://news.ycombinator.com/item?id=49823490"
+      "2026-09-24, 00:34:11",
+      "https://news.ycombinator.com/item?id=49824642"
     ],
     [
-      "A new world airport and its baggage",
-      "https://computer.rip/2026-09-20-denver-baggage.html"
+      "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
+      "https://www.osti.gov/servlets/purl/1124870"
+    ]
+  ],
+  [
+    [
+      "2026-09-23, 22:42:13",
+      "https://news.ycombinator.com/item?id=49823628"
+    ],
+    [
+      "ASML currently sells no chipmaking machines in Europe, executive says",
+      "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says"
     ]
   ]
 ]
