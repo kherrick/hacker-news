@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-09-25](index.md)
 
 * [2026-09-25, 22:51:44](https://news.ycombinator.com/item?id=49851032) - [Tell HN: Codex Is Down [fixed]](https://news.ycombinator.com/item?id=49851032)
+* [2026-09-25, 22:48:52](https://news.ycombinator.com/item?id=49850991) - [Exploding variance of means of exponentials: least-squares to the rescue](https://francisbach.com/spectral_log_density_estimation/)
 * [2026-09-25, 22:28:02](https://news.ycombinator.com/item?id=49850781) - [Lab on a Contact Lens Can Measure Stress Through Serotonin](https://spectrum.ieee.org/serotonin-stress-smart-contact-lens)
 * [2026-09-25, 21:36:56](https://news.ycombinator.com/item?id=49850305) - [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
 * [2026-09-25, 21:09:28](https://news.ycombinator.com/item?id=49849986) - [Show HN: Ekselio – Loveable for finance workflows (local first)](https://www.gptbeyond.com/try?home=1)
@@ -24,6 +25,7 @@
 * [2026-09-25, 18:18:06](https://news.ycombinator.com/item?id=49848095) - [Meta's Muse appears to use an OpenAI model labeled muse-special](https://mouse.dev/blog/muse-special/)
 * [2026-09-25, 18:11:48](https://news.ycombinator.com/item?id=49848033) - [Yes, Claude can do Nine Loops](https://www.anthropic.com/research/yes-claude-can-do-nine-loops)
 * [2026-09-25, 17:19:50](https://news.ycombinator.com/item?id=49847359) - [The Post-AGI Era](https://www.avidfayaz.com/writings/post-agi/the-post-agi-era)
+* [2026-09-25, 17:12:04](https://news.ycombinator.com/item?id=49847247) - [Snap Wants to be a State Actor??–Kansas v. Snap](https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm)
 * [2026-09-25, 16:51:28](https://news.ycombinator.com/item?id=49846953) - [Show HN: Doom or Bloom, map your AI worldview with Jev](https://www.doom-or-bloom.com)
 * [2026-09-25, 16:45:10](https://news.ycombinator.com/item?id=49846864) - [A Skill.md for Commenting on Hacker News](https://blog.coredump.cx/p/a-skillmd-for-commenting-on-hacker)
 * [2026-09-25, 16:05:08](https://news.ycombinator.com/item?id=49846409) - [Show HN: I discovered roads in the US across > 1000 themes](https://road-about-a-theme.pinedesk.biz/)
@@ -40,6 +42,7 @@
 * [2026-09-25, 13:48:38](https://news.ycombinator.com/item?id=49844657) - [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
 * [2026-09-25, 13:47:21](https://news.ycombinator.com/item?id=49844642) - [What happens when you analyze your favorite college football team like the CIA?](https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia)
 * [2026-09-25, 13:37:54](https://news.ycombinator.com/item?id=49844497) - [Show HN: Hacker Atlas - A map of what Hacker News talks about](https://hackeratlas.com/)
+* [2026-09-25, 13:00:10](https://news.ycombinator.com/item?id=49844037) - [We Should Be Able to Change Our Languages](http://jimmyhmiller.com/change-our-languages)
 * [2026-09-25, 12:48:00](https://news.ycombinator.com/item?id=49843899) - [Nobody Asked for a Crab Chair](https://newmobility.com/nobody-asked-for-a-crab-chair/)
 * [2026-09-25, 12:14:02](https://news.ycombinator.com/item?id=49843550) - [The Test](https://tante.cc/2026/09/24/the-test/)
 * [2026-09-25, 12:13:55](https://news.ycombinator.com/item?id=49843547) - [I'm Tired of Being on the Network](https://matduggan.com/im-tired-of-being-on-the-network/)
