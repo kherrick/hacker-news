@@ -9,6 +9,7 @@
 * [2026-09-24, 23:10:44](https://news.ycombinator.com/item?id=49838034) - [GitLab Outage](https://status.gitlab.com/)
 * [2026-09-24, 22:15:58](https://news.ycombinator.com/item?id=49837473) - [Back and shoulder surgery is often worse than useless](https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless)
 * [2026-09-24, 21:33:03](https://news.ycombinator.com/item?id=49837006) - [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
+* [2026-09-24, 21:30:18](https://news.ycombinator.com/item?id=49836979) - [Dutch designer made DE9: Closer to the Edit into a playable web-based instrument](https://www.creativeboom.com/work/why-merijn-straathof-turned-a-landmark-techno-album-into-a-playable-web-based-instrument/)
 * [2026-09-24, 20:55:44](https://news.ycombinator.com/item?id=49836612) - [International observers to investigate Swedish election fraud](https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken)
 * [2026-09-24, 20:53:39](https://news.ycombinator.com/item?id=49836590) - [The Board Game of the Alpha Nerds (2014)](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
 * [2026-09-24, 20:51:50](https://news.ycombinator.com/item?id=49836579) - [How I changed teaching after AI managed to do all my homework assignments](https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed)

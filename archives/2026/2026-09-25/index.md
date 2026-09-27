@@ -37,6 +37,7 @@
 * [2026-09-25, 14:00:10](https://news.ycombinator.com/item?id=49844786) - [Allow Carriers on Planes](https://www.jefftk.com/p/allow-carriers-on-planes)
 * [2026-09-25, 13:55:37](https://news.ycombinator.com/item?id=49844736) - [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
 * [2026-09-25, 13:49:06](https://news.ycombinator.com/item?id=49844663) - [ASML says it sold 'absolutely nothing' in Europe in 2026](https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand)
+* [2026-09-25, 13:48:38](https://news.ycombinator.com/item?id=49844657) - [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
 * [2026-09-25, 13:47:21](https://news.ycombinator.com/item?id=49844642) - [What happens when you analyze your favorite college football team like the CIA?](https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia)
 * [2026-09-25, 13:37:54](https://news.ycombinator.com/item?id=49844497) - [Show HN: Hacker Atlas - A map of what Hacker News talks about](https://hackeratlas.com/)
 * [2026-09-25, 12:48:00](https://news.ycombinator.com/item?id=49843899) - [Nobody Asked for a Crab Chair](https://newmobility.com/nobody-asked-for-a-crab-chair/)
@@ -63,3 +64,5 @@
 * [2026-09-25, 04:49:23](https://news.ycombinator.com/item?id=49840300) - [Jev Based Code Review](https://github.com/egma-ai/jev-code-reviewer)
 * [2026-09-25, 03:59:11](https://news.ycombinator.com/item?id=49840054) - [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
 * [2026-09-25, 02:50:16](https://news.ycombinator.com/item?id=49839664) - [What About Rails?](https://jardo.dev/what-about-rails)
+* [2026-09-25, 02:34:39](https://news.ycombinator.com/item?id=49839567) - [Evolving programming languages in the AI era](https://dashbit.co/blog/evolving-ai-era)
+* [2026-09-25, 02:11:07](https://news.ycombinator.com/item?id=49839438) - [Biology might not be quantum, but its math is quantumlike](https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/)
