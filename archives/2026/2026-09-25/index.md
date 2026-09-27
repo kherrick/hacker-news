@@ -15,6 +15,7 @@
 * [2026-09-25, 20:55:00](https://news.ycombinator.com/item?id=49849832) - [Excel now supports multiple values in a single cell](https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395)
 * [2026-09-25, 20:53:54](https://news.ycombinator.com/item?id=49849820) - [Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia](https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html)
 * [2026-09-25, 20:44:38](https://news.ycombinator.com/item?id=49849723) - [Finally, A True Blue Rose Exists](https://www.sciencenews.org/article/true-blue-rose-pigment-copigment)
+* [2026-09-25, 20:20:27](https://news.ycombinator.com/item?id=49849409) - [Writing Efficient C++ Code](https://asawicki.info/articles/writing_efficient_cpp_code.php)
 * [2026-09-25, 19:56:57](https://news.ycombinator.com/item?id=49849141) - [How we learned to stop worrying and love campus surveillance](https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/)
 * [2026-09-25, 19:53:08](https://news.ycombinator.com/item?id=49849098) - [A new way to manage memory: no garbage collection, extremely fast & safe access](https://ulanguage.org/memory)
 * [2026-09-25, 19:37:55](https://news.ycombinator.com/item?id=49848955) - [Ask HN: Who's still keeping a DOS machine up because the business depends on it?](https://news.ycombinator.com/item?id=49848955)

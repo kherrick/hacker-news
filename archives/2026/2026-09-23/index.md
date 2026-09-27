@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-09-23](index.md)
 
 * [2026-09-23, 23:47:56](https://news.ycombinator.com/item?id=49824268) - [Meta VR Glasses](https://www.meta.com/vr-glasses/)
+* [2026-09-23, 23:33:39](https://news.ycombinator.com/item?id=49824144) - [Show HN: A CC0 museum of retro 3D tricks you can paste into a page](https://3d-retro.com/)
 * [2026-09-23, 23:10:22](https://news.ycombinator.com/item?id=49823922) - [We've Turned Starlink into a Planetary Barometer](https://www.spaceweather.com/starlink/starlink_drag_explainer.html)
 * [2026-09-23, 22:53:28](https://news.ycombinator.com/item?id=49823738) - [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
 * [2026-09-23, 22:45:49](https://news.ycombinator.com/item?id=49823664) - [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
