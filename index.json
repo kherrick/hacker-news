@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-09-26, 23:35:34",
-      "https://news.ycombinator.com/item?id=49861659"
+      "2026-09-27, 02:40:26",
+      "https://news.ycombinator.com/item?id=49862809"
     ],
     [
-      "Things You Notice Rewatching Ed, Edd N Eddy as an Adult",
-      "https://noxluneworld.com/darkest-cartoon-network-episodes/"
+      "What is the size of Yemen? (2024)",
+      "https://theborys.substack.com/p/what-is-the-size-of-yemen"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 01:01:18",
+      "https://news.ycombinator.com/item?id=49862244"
+    ],
+    [
+      "Real-time feedback: My closing move in every interview",
+      "https://mgrebler.substack.com/p/real-time-feedback-my-closing-move"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "Welcome to the Medical Clinic at the Interplanetary Relay Station",
       "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 18:42:10",
-      "https://news.ycombinator.com/item?id=49859299"
-    ],
-    [
-      "HomeBody: A humanoid that explores, remembers, and acts on its own",
-      "https://tml.stanford.edu/homebody/"
     ]
   ],
   [
@@ -101,22 +101,12 @@
   ],
   [
     [
-      "2026-09-26, 10:55:56",
-      "https://news.ycombinator.com/item?id=49855315"
+      "2026-09-26, 13:10:05",
+      "https://news.ycombinator.com/item?id=49856193"
     ],
     [
-      "Breaking Up with Google Play: Why Conversations Is Now Free",
-      "https://gultsch.de/posts/breaking-up-with-google-play/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 10:48:40",
-      "https://news.ycombinator.com/item?id=49855276"
-    ],
-    [
-      "Reading’s Bayeux Tapestry",
-      "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html"
+      "Improving site performance by shipping more CSS",
+      "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/"
     ]
   ],
   [
@@ -141,22 +131,32 @@
   ],
   [
     [
+      "2026-09-26, 07:50:24",
+      "https://news.ycombinator.com/item?id=49854219"
+    ],
+    [
+      "Flip Fluid on Flip Dots",
+      "https://mitxela.com/projects/flipflip"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 04:14:11",
+      "https://news.ycombinator.com/item?id=49853137"
+    ],
+    [
+      "An agent used DNS to reach an external chatbot",
+      "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/"
+    ]
+  ],
+  [
+    [
       "2026-09-26, 03:23:31",
       "https://news.ycombinator.com/item?id=49852905"
     ],
     [
       "Promising discoveries about the potential for life on one of Saturn’s icy moons",
       "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 01:13:38",
-      "https://news.ycombinator.com/item?id=49852143"
-    ],
-    [
-      "How one Twitch chat message became code execution on a streamer’s PC",
-      "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/"
     ]
   ],
   [
@@ -171,12 +171,22 @@
   ],
   [
     [
-      "2026-09-25, 20:53:54",
-      "https://news.ycombinator.com/item?id=49849820"
+      "2026-09-25, 22:48:52",
+      "https://news.ycombinator.com/item?id=49850991"
     ],
     [
-      "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-      "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html"
+      "Exploding variance of means of exponentials: least-squares to the rescue",
+      "https://francisbach.com/spectral_log_density_estimation/"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 17:12:04",
+      "https://news.ycombinator.com/item?id=49847247"
+    ],
+    [
+      "Snap Wants to be a State Actor??–Kansas v. Snap",
+      "https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm"
     ]
   ],
   [
@@ -197,6 +207,16 @@
     [
       "Does Georgism work? Five years later",
       "https://www.astralcodexten.com/p/does-georgism-work-five-years-later"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 13:00:10",
+      "https://news.ycombinator.com/item?id=49844037"
+    ],
+    [
+      "We Should Be Able to Change Our Languages",
+      "http://jimmyhmiller.com/change-our-languages"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-09-24, 21:30:18",
-      "https://news.ycombinator.com/item?id=49836979"
-    ],
-    [
-      "Dutch designer made DE9: Closer to the Edit into a playable web-based instrument",
-      "https://www.creativeboom.com/work/why-merijn-straathof-turned-a-landmark-techno-album-into-a-playable-web-based-instrument/"
-    ]
-  ],
-  [
-    [
       "2026-09-24, 20:51:50",
       "https://news.ycombinator.com/item?id=49836579"
     ],
@@ -251,21 +261,11 @@
   ],
   [
     [
-      "2026-09-24, 17:31:28",
-      "https://news.ycombinator.com/item?id=49834040"
-    ],
-    [
-      "The Rise of Audio AR",
-      "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html"
-    ]
-  ],
-  [
-    [
       "2026-09-24, 16:52:24",
       "https://news.ycombinator.com/item?id=49833444"
     ],
     [
-      "LA Metro has some of the slowest escalators on Earth",
+      "LA Metro has some of the slowest escalators",
       "https://basin.la/articles/ninety-feet-a-minute.html"
     ]
   ],
