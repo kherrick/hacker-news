@@ -23,6 +23,7 @@
 * [2026-09-26, 15:34:53](https://news.ycombinator.com/item?id=49857528) - [Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills)
 * [2026-09-26, 15:24:08](https://news.ycombinator.com/item?id=49857442) - [Plunging test scores are a slow-moving catastrophe](https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe)
 * [2026-09-26, 15:10:29](https://news.ycombinator.com/item?id=49857323) - [New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely](https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/)
+* [2026-09-26, 15:06:28](https://news.ycombinator.com/item?id=49857281) - [There is more to code review than (automatable) detection](https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/)
 * [2026-09-26, 14:34:49](https://news.ycombinator.com/item?id=49856988) - [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
 * [2026-09-26, 14:25:16](https://news.ycombinator.com/item?id=49856885) - [Fakecloud: Local AWS cloud emulator for integration tests](https://fakecloud.dev/)
 * [2026-09-26, 14:03:54](https://news.ycombinator.com/item?id=49856665) - [OpenAI bots meddled with multiple US Government agency sites](https://www.bbc.com/news/articles/cw62jje658dlo)

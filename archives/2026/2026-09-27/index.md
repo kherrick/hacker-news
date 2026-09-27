@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-09-27](index.md)
 
+* [2026-09-27, 21:15:33](https://news.ycombinator.com/item?id=49870928) - [EV Sales Are Booming in Europe with Gasoline at $10 a Gallon](https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs)
+* [2026-09-27, 21:06:17](https://news.ycombinator.com/item?id=49870837) - [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
+* [2026-09-27, 20:33:55](https://news.ycombinator.com/item?id=49870541) - [My Recent Woodworking Projects](https://notoriousbfg.com/recent-woodworking-projects/)
+* [2026-09-27, 20:12:54](https://news.ycombinator.com/item?id=49870367) - [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
 * [2026-09-27, 19:37:05](https://news.ycombinator.com/item?id=49870070) - [Alan Kay's answer to \"Did the ENIAC have a BIOS\"?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
 * [2026-09-27, 19:28:23](https://news.ycombinator.com/item?id=49869995) - [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
+* [2026-09-27, 19:04:19](https://news.ycombinator.com/item?id=49869773) - [What I did at Recurse Center](https://thill.me/2026/09/11/what-i-did-at-rc.html)
 * [2026-09-27, 18:44:30](https://news.ycombinator.com/item?id=49869574) - [Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/)
 * [2026-09-27, 18:02:43](https://news.ycombinator.com/item?id=49869142) - [Oral history of John Chowning, inventor of FM synthesis [video]](https://www.youtube.com/watch?v=e1Xn3030IvM)
 * [2026-09-27, 17:31:53](https://news.ycombinator.com/item?id=49868830) - [Ember-1](https://fireworks.ai/blog/ember-1)

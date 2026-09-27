@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-25](index.md)
 
+* [2026-09-25, 23:58:17](https://news.ycombinator.com/item?id=49851693) - [S3 Is the Future, S3 Is the Past](https://btrblocks.com/blog/s3_is_the_future_and_the_past/)
 * [2026-09-25, 22:51:44](https://news.ycombinator.com/item?id=49851032) - [Tell HN: Codex Is Down [fixed]](https://news.ycombinator.com/item?id=49851032)
 * [2026-09-25, 22:48:52](https://news.ycombinator.com/item?id=49850991) - [Exploding variance of means of exponentials: least-squares to the rescue](https://francisbach.com/spectral_log_density_estimation/)
 * [2026-09-25, 22:28:02](https://news.ycombinator.com/item?id=49850781) - [Lab on a Contact Lens Can Measure Stress Through Serotonin](https://spectrum.ieee.org/serotonin-stress-smart-contact-lens)
