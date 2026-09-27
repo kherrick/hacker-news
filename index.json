@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-09-27, 16:29:38",
-      "https://news.ycombinator.com/item?id=49868202"
+      "2026-09-27, 19:37:05",
+      "https://news.ycombinator.com/item?id=49870070"
     ],
     [
-      "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-      "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue"
+      "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+      "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 19:28:23",
+      "https://news.ycombinator.com/item?id=49869995"
+    ],
+    [
+      "Imp is a full port of DSPy to the BEAM",
+      "https://github.com/deepfates/imp"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 18:44:30",
+      "https://news.ycombinator.com/item?id=49869574"
+    ],
+    [
+      "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "https://loficities.com/"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 18:02:43",
+      "https://news.ycombinator.com/item?id=49869142"
+    ],
+    [
+      "Oral history of John Chowning, inventor of FM synthesis [video]",
+      "https://www.youtube.com/watch?v=e1Xn3030IvM"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 17:31:53",
+      "https://news.ycombinator.com/item?id=49868830"
+    ],
+    [
+      "Ember-1",
+      "https://fireworks.ai/blog/ember-1"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 16:50:58",
+      "https://news.ycombinator.com/item?id=49868404"
+    ],
+    [
+      "Don't couple your Go code to GitHub",
+      "https://iain.rocks/blog/dont-couple-your-go-code-to-github"
     ]
   ],
   [
@@ -17,16 +67,6 @@
     [
       "There are no \"rogue\" AI agents",
       "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 16:06:04",
-      "https://news.ycombinator.com/item?id=49867943"
-    ],
-    [
-      "The Mars Delusion",
-      "https://www.noemamag.com/the-mars-delusion/"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=49867553"
     ],
     [
-      "postmarketOS Rebrand: Nura",
+      "PostmarketOS is rebranding as Nura",
       "https://nura.eco/blog/2026/09/27/nura-rename/"
     ]
   ],
@@ -65,8 +105,18 @@
       "https://news.ycombinator.com/item?id=49867067"
     ],
     [
-      "Installing NeoVim caused original Vim undo files to be deleted",
+      "On caring for user data: NeoVim caused Vim undo files to be deleted",
       "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 14:35:10",
+      "https://news.ycombinator.com/item?id=49866988"
+    ],
+    [
+      "Fragment of oldest known peace treaty found in Turkey",
+      "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey"
     ]
   ],
   [
@@ -75,8 +125,18 @@
       "https://news.ycombinator.com/item?id=49866951"
     ],
     [
-      "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+      "In an $80 motel room, a discovery to shed light on the origins of life",
       "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 13:44:45",
+      "https://news.ycombinator.com/item?id=49866597"
+    ],
+    [
+      "Show HN: Building a Markdown editor for Mac, iOS and web",
+      "https://www.markdown.beauty/"
     ]
   ],
   [
@@ -85,7 +145,7 @@
       "https://news.ycombinator.com/item?id=49866534"
     ],
     [
-      "Ten Lines of Code That Changed My World",
+      "Ten lines of code that changed my world",
       "https://pixelambacht.nl/2026/ten-lines-of-code/"
     ]
   ],
@@ -101,62 +161,32 @@
   ],
   [
     [
-      "2026-09-27, 10:26:25",
-      "https://news.ycombinator.com/item?id=49865343"
+      "2026-09-27, 07:02:20",
+      "https://news.ycombinator.com/item?id=49864105"
     ],
     [
-      "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "https://arxiv.org/abs/2609.25021"
+      "Show HN: Trail – new kind of logic game",
+      "https://trail.franzai.com/"
     ]
   ],
   [
     [
-      "2026-09-27, 08:59:59",
-      "https://news.ycombinator.com/item?id=49864743"
+      "2026-09-26, 19:57:24",
+      "https://news.ycombinator.com/item?id=49859982"
     ],
     [
-      "Rusty thoughts on \"Parse, don't validate\"",
-      "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/"
+      "Faster prompt lookup drafting in llama.cpp",
+      "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/"
     ]
   ],
   [
     [
-      "2026-09-27, 06:19:33",
-      "https://news.ycombinator.com/item?id=49863864"
+      "2026-09-26, 19:30:39",
+      "https://news.ycombinator.com/item?id=49859759"
     ],
     [
-      "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-      "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 05:26:15",
-      "https://news.ycombinator.com/item?id=49863600"
-    ],
-    [
-      "The internet discovers TLA+. Now what?",
-      "https://reasonable.io/blog/tla-tutorial/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 18:22:41",
-      "https://news.ycombinator.com/item?id=49859112"
-    ],
-    [
-      "DeepSeek Elastic Compute (DSec)",
-      "https://arxiv.org/abs/2609.22978"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 17:10:40",
-      "https://news.ycombinator.com/item?id=49858513"
-    ],
-    [
-      "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "https://github.com/reladraw/reladraw"
+      "Video CDs Break Windows Explorer",
+      "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html"
     ]
   ],
   [
@@ -181,12 +211,12 @@
   ],
   [
     [
-      "2026-09-26, 09:13:41",
-      "https://news.ycombinator.com/item?id=49854693"
+      "2026-09-26, 13:10:05",
+      "https://news.ycombinator.com/item?id=49856193"
     ],
     [
-      "Fifteen years later, the Apple Cards origin story",
-      "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story"
+      "Improving site performance by shipping more CSS",
+      "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/"
     ]
   ],
   [
@@ -201,12 +231,12 @@
   ],
   [
     [
-      "2026-09-26, 04:14:11",
-      "https://news.ycombinator.com/item?id=49853137"
+      "2026-09-26, 05:27:39",
+      "https://news.ycombinator.com/item?id=49853476"
     ],
     [
-      "An agent used DNS to reach an external chatbot",
-      "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/"
+      "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
+      "https://generalroboticslab.com/cartesian_handv1"
     ]
   ],
   [
@@ -221,12 +251,12 @@
   ],
   [
     [
-      "2026-09-25, 20:44:38",
-      "https://news.ycombinator.com/item?id=49849723"
+      "2026-09-25, 22:11:57",
+      "https://news.ycombinator.com/item?id=49850613"
     ],
     [
-      "Finally, A True Blue Rose Exists",
-      "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment"
+      "Kicki: A DECsystem1060 – Interim Computer Museum",
+      "https://icm.museum/blog/?p=207"
     ]
   ],
   [
@@ -235,68 +265,38 @@
       "https://news.ycombinator.com/item?id=49849409"
     ],
     [
-      "Writing Efficient C++ Code",
+      "Writing Efficient C++ Code (2013)",
       "https://asawicki.info/articles/writing_efficient_cpp_code.php"
     ]
   ],
   [
     [
-      "2026-09-25, 13:49:06",
-      "https://news.ycombinator.com/item?id=49844663"
+      "2026-09-25, 14:38:06",
+      "https://news.ycombinator.com/item?id=49845284"
     ],
     [
-      "ASML says it sold 'absolutely nothing' in Europe in 2026",
-      "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand"
+      "John Coltrane Centenary's – Impulse Records Release the Legendary Tiberi Tapes",
+      "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes"
     ]
   ],
   [
     [
-      "2026-09-25, 13:48:38",
-      "https://news.ycombinator.com/item?id=49844657"
+      "2026-09-25, 14:23:33",
+      "https://news.ycombinator.com/item?id=49845114"
     ],
     [
-      "Does Georgism work? Five years later",
-      "https://www.astralcodexten.com/p/does-georgism-work-five-years-later"
+      "C's Flexible Integer Sizes Were Not a Design Mistake",
+      "https://pikuma.com/blog/c-integer-sizes-not-a-mistake"
     ]
   ],
   [
     [
-      "2026-09-25, 10:55:40",
-      "https://news.ycombinator.com/item?id=49842764"
+      "2026-09-25, 13:46:34",
+      "https://news.ycombinator.com/item?id=49844629"
     ],
     [
-      "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "https://github.com/InfinityLoop1308/PipePipe"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 02:11:07",
-      "https://news.ycombinator.com/item?id=49839438"
-    ],
-    [
-      "Biology might not be quantum, but its math is quantumlike",
-      "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/"
-    ]
-  ],
-  [
-    [
-      "2026-09-24, 16:11:42",
-      "https://news.ycombinator.com/item?id=49832768"
-    ],
-    [
-      "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "https://www.movingimagearchive.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-23, 23:33:39",
-      "https://news.ycombinator.com/item?id=49824144"
-    ],
-    [
-      "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
-      "https://3d-retro.com/"
+      "The state of SIMD in Rust in 2026",
+      "https://shnatsel.github.io/state-of-simd-rust-2026/"
     ]
   ]
 ]
