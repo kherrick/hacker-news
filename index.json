@@ -1,11 +1,51 @@
 [
   [
     [
+      "2026-09-27, 21:15:33",
+      "https://news.ycombinator.com/item?id=49870928"
+    ],
+    [
+      "EV Sales Are Booming in Europe with Gasoline at $10 a Gallon",
+      "https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 21:06:17",
+      "https://news.ycombinator.com/item?id=49870837"
+    ],
+    [
+      "Lunar Terminator Paradox",
+      "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 20:33:55",
+      "https://news.ycombinator.com/item?id=49870541"
+    ],
+    [
+      "My Recent Woodworking Projects",
+      "https://notoriousbfg.com/recent-woodworking-projects/"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 20:12:54",
+      "https://news.ycombinator.com/item?id=49870367"
+    ],
+    [
+      "When did Google get so weird?",
+      "https://sancho.bearblog.dev/google-weird/"
+    ]
+  ],
+  [
+    [
       "2026-09-27, 19:37:05",
       "https://news.ycombinator.com/item?id=49870070"
     ],
     [
-      "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+      "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
       "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11"
     ]
   ],
@@ -17,6 +57,16 @@
     [
       "Imp is a full port of DSPy to the BEAM",
       "https://github.com/deepfates/imp"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 19:04:19",
+      "https://news.ycombinator.com/item?id=49869773"
+    ],
+    [
+      "What I did at Recurse Center",
+      "https://thill.me/2026/09/11/what-i-did-at-rc.html"
     ]
   ],
   [
@@ -61,32 +111,12 @@
   ],
   [
     [
-      "2026-09-27, 16:19:46",
-      "https://news.ycombinator.com/item?id=49868083"
-    ],
-    [
-      "There are no \"rogue\" AI agents",
-      "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
-    ]
-  ],
-  [
-    [
       "2026-09-27, 15:51:28",
       "https://news.ycombinator.com/item?id=49867775"
     ],
     [
       "Show HN: TinyAIArena watch AI agents battle it out",
       "https://tinyaiarena.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 15:31:15",
-      "https://news.ycombinator.com/item?id=49867553"
-    ],
-    [
-      "PostmarketOS is rebranding as Nura",
-      "https://nura.eco/blog/2026/09/27/nura-rename/"
     ]
   ],
   [
@@ -131,42 +161,12 @@
   ],
   [
     [
-      "2026-09-27, 13:44:45",
-      "https://news.ycombinator.com/item?id=49866597"
-    ],
-    [
-      "Show HN: Building a Markdown editor for Mac, iOS and web",
-      "https://www.markdown.beauty/"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 13:33:03",
-      "https://news.ycombinator.com/item?id=49866534"
-    ],
-    [
-      "Ten lines of code that changed my world",
-      "https://pixelambacht.nl/2026/ten-lines-of-code/"
-    ]
-  ],
-  [
-    [
       "2026-09-27, 13:30:11",
       "https://news.ycombinator.com/item?id=49866515"
     ],
     [
       "Replacing the old battery on rechargeable bike lights",
       "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 07:02:20",
-      "https://news.ycombinator.com/item?id=49864105"
-    ],
-    [
-      "Show HN: Trail – new kind of logic game",
-      "https://trail.franzai.com/"
     ]
   ],
   [
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2026-09-26, 14:34:49",
-      "https://news.ycombinator.com/item?id=49856988"
+      "2026-09-26, 15:06:28",
+      "https://news.ycombinator.com/item?id=49857281"
     ],
     [
-      "Go Concurrency Distilled",
-      "https://antonz.org/go-concurrency-distilled/"
+      "There is more to code review than (automatable) detection",
+      "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-09-26, 03:09:50",
-      "https://news.ycombinator.com/item?id=49852832"
+      "2026-09-25, 23:58:17",
+      "https://news.ycombinator.com/item?id=49851693"
     ],
     [
-      "Walgit: A Git server that is one binary in front of an object store",
-      "https://github.com/rgodha24/walgithub"
+      "S3 Is the Future, S3 Is the Past",
+      "https://btrblocks.com/blog/s3_is_the_future_and_the_past/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=49850613"
     ],
     [
-      "Kicki: A DECsystem1060 – Interim Computer Museum",
+      "KICKI: a DECsystem1060",
       "https://icm.museum/blog/?p=207"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=49845284"
     ],
     [
-      "John Coltrane Centenary's – Impulse Records Release the Legendary Tiberi Tapes",
+      "Previously unheard recordings of John Coltrane, captured by Frank Tiberi",
       "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes"
     ]
   ],
