@@ -6,6 +6,8 @@
 
 * [2026-09-26, 23:35:34](https://news.ycombinator.com/item?id=49861659) - [Things You Notice Rewatching Ed, Edd N Eddy as an Adult](https://noxluneworld.com/darkest-cartoon-network-episodes/)
 * [2026-09-26, 20:08:50](https://news.ycombinator.com/item?id=49860074) - [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
+* [2026-09-26, 19:57:24](https://news.ycombinator.com/item?id=49859982) - [Faster prompt lookup drafting in llama.cpp](https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/)
+* [2026-09-26, 19:30:39](https://news.ycombinator.com/item?id=49859759) - [Video CDs Break Windows Explorer](https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html)
 * [2026-09-26, 18:42:10](https://news.ycombinator.com/item?id=49859299) - [HomeBody: A humanoid that explores, remembers, and acts on its own](https://tml.stanford.edu/homebody/)
 * [2026-09-26, 18:22:41](https://news.ycombinator.com/item?id=49859112) - [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
 * [2026-09-26, 17:43:11](https://news.ycombinator.com/item?id=49858810) - [Japan moves to tighten rules for foreigners](https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt)
@@ -37,6 +39,7 @@
 * [2026-09-26, 07:49:50](https://news.ycombinator.com/item?id=49854216) - [The far side of the Moon provides clues to a previous magnetic field](https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html)
 * [2026-09-26, 07:33:12](https://news.ycombinator.com/item?id=49854161) - [Is your Postgres migration safe or not safe?](https://safenotsafe.dev/)
 * [2026-09-26, 06:51:12](https://news.ycombinator.com/item?id=49853918) - [Alberta's image as world's only rat-free region shattered by discovery of rat](https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol)
+* [2026-09-26, 05:27:39](https://news.ycombinator.com/item?id=49853476) - [The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers](https://generalroboticslab.com/cartesian_handv1)
 * [2026-09-26, 04:20:58](https://news.ycombinator.com/item?id=49853175) - [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
 * [2026-09-26, 04:14:11](https://news.ycombinator.com/item?id=49853137) - [An agent used DNS to reach an external chatbot](https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/)
 * [2026-09-26, 04:13:08](https://news.ycombinator.com/item?id=49853133) - [Pencils Down, Notation Up](https://intertwingly.net/blog/2026/09/25/Pencils-Down-Notation-Up.html)
