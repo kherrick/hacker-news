@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-09-27, 21:15:33",
-      "https://news.ycombinator.com/item?id=49870928"
+      "2026-09-28, 01:21:32",
+      "https://news.ycombinator.com/item?id=49872472"
     ],
     [
-      "EV Sales Are Booming in Europe with Gasoline at $10 a Gallon",
-      "https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs"
+      "Self-parking car using genetic algorithm (2021)",
+      "https://trekhleb.dev/blog/2021/self-parking-car-evolution/"
     ]
   ],
   [
@@ -37,6 +37,26 @@
     [
       "When did Google get so weird?",
       "https://sancho.bearblog.dev/google-weird/"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 20:04:37",
+      "https://news.ycombinator.com/item?id=49870304"
+    ],
+    [
+      "Have an LLC",
+      "https://zachholman.com/posts/you-should-have-an-llc"
+    ]
+  ],
+  [
+    [
+      "2026-09-27, 20:03:36",
+      "https://news.ycombinator.com/item?id=49870295"
+    ],
+    [
+      "Self-Hosting on the Dark Web",
+      "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-09-27, 14:45:07",
-      "https://news.ycombinator.com/item?id=49867067"
-    ],
-    [
-      "On caring for user data: NeoVim caused Vim undo files to be deleted",
-      "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/"
-    ]
-  ],
-  [
-    [
       "2026-09-27, 14:35:10",
       "https://news.ycombinator.com/item?id=49866988"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-09-26, 13:10:05",
-      "https://news.ycombinator.com/item?id=49856193"
-    ],
-    [
-      "Improving site performance by shipping more CSS",
-      "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/"
-    ]
-  ],
-  [
-    [
       "2026-09-26, 07:50:24",
       "https://news.ycombinator.com/item?id=49854219"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2026-09-26, 02:24:50",
+      "https://news.ycombinator.com/item?id=49852600"
+    ],
+    [
+      "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
+      "https://github.com/dashersw/coyopedal"
+    ]
+  ],
+  [
+    [
       "2026-09-25, 23:58:17",
       "https://news.ycombinator.com/item?id=49851693"
     ],
     [
       "S3 Is the Future, S3 Is the Past",
       "https://btrblocks.com/blog/s3_is_the_future_and_the_past/"
-    ]
-  ],
-  [
-    [
-      "2026-09-25, 22:11:57",
-      "https://news.ycombinator.com/item?id=49850613"
-    ],
-    [
-      "KICKI: a DECsystem1060",
-      "https://icm.museum/blog/?p=207"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-09-25, 14:23:33",
-      "https://news.ycombinator.com/item?id=49845114"
-    ],
-    [
-      "C's Flexible Integer Sizes Were Not a Design Mistake",
-      "https://pikuma.com/blog/c-integer-sizes-not-a-mistake"
-    ]
-  ],
-  [
-    [
       "2026-09-25, 13:46:34",
       "https://news.ycombinator.com/item?id=49844629"
     ],
     [
       "The state of SIMD in Rust in 2026",
       "https://shnatsel.github.io/state-of-simd-rust-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-09-25, 13:20:04",
+      "https://news.ycombinator.com/item?id=49844266"
+    ],
+    [
+      "A New Experiment Meta-Strategy",
+      "https://chillphysicsenjoyer.substack.com/p/a-new-experiment-meta-strategy"
     ]
   ]
 ]
