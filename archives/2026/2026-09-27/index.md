@@ -31,6 +31,7 @@
 * [2026-09-27, 13:33:03](https://news.ycombinator.com/item?id=49866534) - [Ten Lines of Code That Changed My World](https://pixelambacht.nl/2026/ten-lines-of-code/)
 * [2026-09-27, 13:30:11](https://news.ycombinator.com/item?id=49866515) - [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
 * [2026-09-27, 10:26:25](https://news.ycombinator.com/item?id=49865343) - [\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021)
+* [2026-09-27, 10:19:51](https://news.ycombinator.com/item?id=49865312) - [Footguns with Postgres \"at time zone 'UTC'\"](https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does)
 * [2026-09-27, 09:45:15](https://news.ycombinator.com/item?id=49865067) - [Show HN: LightCloud – A cloud console organised like file system](https://www.light-cloud.com/)
 * [2026-09-27, 08:59:59](https://news.ycombinator.com/item?id=49864743) - [Rusty thoughts on \"Parse, don't validate\"](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/)
 * [2026-09-27, 08:44:04](https://news.ycombinator.com/item?id=49864642) - [Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)
