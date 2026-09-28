@@ -32,6 +32,7 @@
 * [2026-09-26, 11:18:43](https://news.ycombinator.com/item?id=49855447) - [The Greatest Pun in JavaScript](https://shukla.io/blog/2026-09/pun.html)
 * [2026-09-26, 10:55:56](https://news.ycombinator.com/item?id=49855315) - [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
 * [2026-09-26, 10:48:40](https://news.ycombinator.com/item?id=49855276) - [Reading’s Bayeux Tapestry](https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html)
+* [2026-09-26, 10:16:26](https://news.ycombinator.com/item?id=49855059) - [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/)
 * [2026-09-26, 10:08:21](https://news.ycombinator.com/item?id=49855018) - [One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
 * [2026-09-26, 09:55:38](https://news.ycombinator.com/item?id=49854945) - [The Copilot+ PC brand is dead](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
 * [2026-09-26, 09:41:58](https://news.ycombinator.com/item?id=49854875) - [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
