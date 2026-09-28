@@ -50,6 +50,7 @@
 * [2026-09-25, 13:47:21](https://news.ycombinator.com/item?id=49844642) - [What happens when you analyze your favorite college football team like the CIA?](https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia)
 * [2026-09-25, 13:46:34](https://news.ycombinator.com/item?id=49844629) - [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/)
 * [2026-09-25, 13:37:54](https://news.ycombinator.com/item?id=49844497) - [Show HN: Hacker Atlas - A map of what Hacker News talks about](https://hackeratlas.com/)
+* [2026-09-25, 13:20:04](https://news.ycombinator.com/item?id=49844266) - [A New Experiment Meta-Strategy](https://chillphysicsenjoyer.substack.com/p/a-new-experiment-meta-strategy)
 * [2026-09-25, 13:00:10](https://news.ycombinator.com/item?id=49844037) - [We Should Be Able to Change Our Languages](http://jimmyhmiller.com/change-our-languages)
 * [2026-09-25, 12:48:00](https://news.ycombinator.com/item?id=49843899) - [Nobody Asked for a Crab Chair](https://newmobility.com/nobody-asked-for-a-crab-chair/)
 * [2026-09-25, 12:14:02](https://news.ycombinator.com/item?id=49843550) - [The Test](https://tante.cc/2026/09/24/the-test/)

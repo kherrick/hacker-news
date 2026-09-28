@@ -47,6 +47,7 @@
 * [2026-09-26, 03:23:31](https://news.ycombinator.com/item?id=49852905) - [Promising discoveries about the potential for life on one of Saturn’s icy moons](https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html)
 * [2026-09-26, 03:09:50](https://news.ycombinator.com/item?id=49852832) - [Walgit: A Git server that is one binary in front of an object store](https://github.com/rgodha24/walgithub)
 * [2026-09-26, 02:46:54](https://news.ycombinator.com/item?id=49852717) - [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
+* [2026-09-26, 02:24:50](https://news.ycombinator.com/item?id=49852600) - [Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06](https://github.com/dashersw/coyopedal)
 * [2026-09-26, 02:03:24](https://news.ycombinator.com/item?id=49852462) - [HomelabFest will be in St. Louis in September 2027](https://www.homelabfest.org)
 * [2026-09-26, 01:36:50](https://news.ycombinator.com/item?id=49852302) - [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)
 * [2026-09-26, 01:13:38](https://news.ycombinator.com/item?id=49852143) - [How one Twitch chat message became code execution on a streamer’s PC](https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/)
