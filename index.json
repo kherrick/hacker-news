@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-09-28, 01:21:32",
-      "https://news.ycombinator.com/item?id=49872472"
+      "2026-09-28, 03:23:53",
+      "https://news.ycombinator.com/item?id=49873241"
     ],
     [
-      "Self-parking car using genetic algorithm (2021)",
-      "https://trekhleb.dev/blog/2021/self-parking-car-evolution/"
+      "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "https://arxiv.org/abs/2110.01834"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 02:27:40",
+      "https://news.ycombinator.com/item?id=49872864"
+    ],
+    [
+      "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
+      "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 02:05:13",
+      "https://news.ycombinator.com/item?id=49872723"
+    ],
+    [
+      "Owed a billion dollars in Nvidia stock",
+      "https://colo.to/nvidia-stock-narrative.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 01:33:51",
+      "https://news.ycombinator.com/item?id=49872541"
+    ],
+    [
+      "Packing Binary Is Fun",
+      "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 01:22:28",
+      "https://news.ycombinator.com/item?id=49872474"
+    ],
+    [
+      "Was silent reading unusual during Augustine's time?",
+      "https://www.historyofinformation.com/detail.php?entryid=4341"
     ]
   ],
   [
@@ -21,32 +61,12 @@
   ],
   [
     [
-      "2026-09-27, 20:33:55",
-      "https://news.ycombinator.com/item?id=49870541"
-    ],
-    [
-      "My Recent Woodworking Projects",
-      "https://notoriousbfg.com/recent-woodworking-projects/"
-    ]
-  ],
-  [
-    [
       "2026-09-27, 20:12:54",
       "https://news.ycombinator.com/item?id=49870367"
     ],
     [
       "When did Google get so weird?",
       "https://sancho.bearblog.dev/google-weird/"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 20:04:37",
-      "https://news.ycombinator.com/item?id=49870304"
-    ],
-    [
-      "Have an LLC",
-      "https://zachholman.com/posts/you-should-have-an-llc"
     ]
   ],
   [
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2026-09-27, 19:01:31",
+      "https://news.ycombinator.com/item?id=49869755"
+    ],
+    [
+      "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+      "https://www.inkandswitch.com/essay/malleable-software/"
+    ]
+  ],
+  [
+    [
       "2026-09-27, 18:44:30",
       "https://news.ycombinator.com/item?id=49869574"
     ],
@@ -131,36 +161,6 @@
   ],
   [
     [
-      "2026-09-27, 15:51:28",
-      "https://news.ycombinator.com/item?id=49867775"
-    ],
-    [
-      "Show HN: TinyAIArena watch AI agents battle it out",
-      "https://tinyaiarena.com/"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 15:26:40",
-      "https://news.ycombinator.com/item?id=49867486"
-    ],
-    [
-      "The Normalization of Inexplicable Failures",
-      "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 14:35:10",
-      "https://news.ycombinator.com/item?id=49866988"
-    ],
-    [
-      "Fragment of oldest known peace treaty found in Turkey",
-      "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey"
-    ]
-  ],
-  [
-    [
       "2026-09-27, 14:30:55",
       "https://news.ycombinator.com/item?id=49866951"
     ],
@@ -177,26 +177,6 @@
     [
       "Replacing the old battery on rechargeable bike lights",
       "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 19:57:24",
-      "https://news.ycombinator.com/item?id=49859982"
-    ],
-    [
-      "Faster prompt lookup drafting in llama.cpp",
-      "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 19:30:39",
-      "https://news.ycombinator.com/item?id=49859759"
-    ],
-    [
-      "Video CDs Break Windows Explorer",
-      "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html"
     ]
   ],
   [
@@ -221,12 +201,22 @@
   ],
   [
     [
-      "2026-09-26, 07:50:24",
-      "https://news.ycombinator.com/item?id=49854219"
+      "2026-09-26, 11:18:43",
+      "https://news.ycombinator.com/item?id=49855447"
     ],
     [
-      "Flip Fluid on Flip Dots",
-      "https://mitxela.com/projects/flipflip"
+      "The Greatest Pun in JavaScript",
+      "https://shukla.io/blog/2026-09/pun.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 10:48:40",
+      "https://news.ycombinator.com/item?id=49855276"
+    ],
+    [
+      "Reading’s Bayeux Tapestry",
+      "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html"
     ]
   ],
   [
@@ -251,12 +241,22 @@
   ],
   [
     [
-      "2026-09-25, 23:58:17",
-      "https://news.ycombinator.com/item?id=49851693"
+      "2026-09-26, 01:26:56",
+      "https://news.ycombinator.com/item?id=49852238"
     ],
     [
-      "S3 Is the Future, S3 Is the Past",
-      "https://btrblocks.com/blog/s3_is_the_future_and_the_past/"
+      "Functional Mechanical Sympathy [video]",
+      "https://www.youtube.com/watch?v=jSHmDnUZCm8"
+    ]
+  ],
+  [
+    [
+      "2026-09-26, 00:14:04",
+      "https://news.ycombinator.com/item?id=49851795"
+    ],
+    [
+      "Deterministic Concurrency [video]",
+      "https://www.youtube.com/watch?v=25x0UuSCKuU"
     ]
   ],
   [
