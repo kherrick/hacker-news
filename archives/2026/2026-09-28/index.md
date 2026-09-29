@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-28](index.md)
 
+* [2026-09-28, 22:43:12](https://news.ycombinator.com/item?id=49885493) - [Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?](https://jonclegg.github.io/pacman-bakeoff/)
 * [2026-09-28, 21:26:41](https://news.ycombinator.com/item?id=49884625) - [ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
 * [2026-09-28, 20:51:47](https://news.ycombinator.com/item?id=49884169) - [Palantir founder purchases large swath of forest in Sweden](https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/)
 * [2026-09-28, 20:47:26](https://news.ycombinator.com/item?id=49884119) - [Pacing the Frontier is not the actual goal for AI labs](https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs)
@@ -26,6 +27,7 @@
 * [2026-09-28, 17:41:28](https://news.ycombinator.com/item?id=49881606) - [Joseph Szabo’s pictures of American adolescents](https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola)
 * [2026-09-28, 17:34:36](https://news.ycombinator.com/item?id=49881505) - [Launch HN: Vespper (YC F24) – SOTA Docx MCP](https://www.vespper.com/blog/launching-vespper-docx-mcp)
 * [2026-09-28, 16:31:28](https://news.ycombinator.com/item?id=49880601) - [Show HN: Destroy Any Website with Stickman](https://destroy.spritefusion.com/)
+* [2026-09-28, 16:18:57](https://news.ycombinator.com/item?id=49880411) - [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
 * [2026-09-28, 15:54:15](https://news.ycombinator.com/item?id=49880036) - [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
 * [2026-09-28, 15:46:36](https://news.ycombinator.com/item?id=49879883) - [Nvidia wants to put a watchdog chip next to every AI agent](https://www.cnbc.com/2026/09/28/nvidia-releases.html)
 * [2026-09-28, 15:35:23](https://news.ycombinator.com/item?id=49879702) - [Hijacking the PS5's RTMP stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
@@ -39,6 +41,7 @@
 * [2026-09-28, 13:30:54](https://news.ycombinator.com/item?id=49877678) - [Does Reddit have an astroturfing problem? What the data suggests](https://www.petervijeh.com/projects/reddit-astroturf)
 * [2026-09-28, 12:11:20](https://news.ycombinator.com/item?id=49876760) - [Show HN: Hntui – A TUI for Hacker News](https://github.com/ahmd-sh/hntui)
 * [2026-09-28, 11:02:12](https://news.ycombinator.com/item?id=49876148) - [What Would a Serious AI Product Look Like?](https://blog.glyph.im/2026/09/serious-ai-product.html)
+* [2026-09-28, 10:51:46](https://news.ycombinator.com/item?id=49876052) - [The systems that no one will test](https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/)
 * [2026-09-28, 10:30:54](https://news.ycombinator.com/item?id=49875913) - [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)
 * [2026-09-28, 10:14:41](https://news.ycombinator.com/item?id=49875801) - [Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page](https://github.com/seamusc/papermono-shopping-list)
 * [2026-09-28, 08:55:31](https://news.ycombinator.com/item?id=49875308) - [Show HN: Free alternative to graphics design giants](https://scissor.studio/)

@@ -27,6 +27,7 @@
 * [2026-09-27, 14:45:07](https://news.ycombinator.com/item?id=49867067) - [Installing NeoVim caused original Vim undo files to be deleted](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
 * [2026-09-27, 14:35:10](https://news.ycombinator.com/item?id=49866988) - [Fragment of oldest known peace treaty found in Turkey](https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey)
 * [2026-09-27, 14:30:55](https://news.ycombinator.com/item?id=49866951) - [In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
+* [2026-09-27, 14:25:00](https://news.ycombinator.com/item?id=49866903) - [Who Killed Paulina Borsook's Career?](https://www.wired.com/story/paulina-borsook-profile/)
 * [2026-09-27, 13:44:45](https://news.ycombinator.com/item?id=49866597) - [Show HN: Building a Markdown editor for Mac, iOS and web](https://www.markdown.beauty/)
 * [2026-09-27, 13:33:03](https://news.ycombinator.com/item?id=49866534) - [Ten Lines of Code That Changed My World](https://pixelambacht.nl/2026/ten-lines-of-code/)
 * [2026-09-27, 13:30:11](https://news.ycombinator.com/item?id=49866515) - [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
@@ -39,4 +40,5 @@
 * [2026-09-27, 06:19:33](https://news.ycombinator.com/item?id=49863864) - [OpenAI Feared \"Optics\" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
 * [2026-09-27, 05:26:15](https://news.ycombinator.com/item?id=49863600) - [The internet discovers TLA+. Now what?](https://reasonable.io/blog/tla-tutorial/)
 * [2026-09-27, 02:40:26](https://news.ycombinator.com/item?id=49862809) - [What is the size of Yemen? (2024)](https://theborys.substack.com/p/what-is-the-size-of-yemen)
+* [2026-09-27, 02:01:35](https://news.ycombinator.com/item?id=49862602) - [Simulating Airband Am Radios](https://bitbashing.io/am-radio.html)
 * [2026-09-27, 01:01:18](https://news.ycombinator.com/item?id=49862244) - [Real-time feedback: My closing move in every interview](https://mgrebler.substack.com/p/real-time-feedback-my-closing-move)
