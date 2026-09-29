@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-26](index.md)
 
+* [2026-09-26, 23:49:01](https://news.ycombinator.com/item?id=49861755) - [What reversing, modernising old games tells us about the economic impact of AI](https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/)
 * [2026-09-26, 23:35:34](https://news.ycombinator.com/item?id=49861659) - [Things You Notice Rewatching Ed, Edd N Eddy as an Adult](https://noxluneworld.com/darkest-cartoon-network-episodes/)
 * [2026-09-26, 20:08:50](https://news.ycombinator.com/item?id=49860074) - [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
 * [2026-09-26, 19:57:24](https://news.ycombinator.com/item?id=49859982) - [Faster prompt lookup drafting in llama.cpp](https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/)
@@ -12,9 +13,11 @@
 * [2026-09-26, 18:22:41](https://news.ycombinator.com/item?id=49859112) - [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
 * [2026-09-26, 17:43:11](https://news.ycombinator.com/item?id=49858810) - [Japan moves to tighten rules for foreigners](https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt)
 * [2026-09-26, 17:26:54](https://news.ycombinator.com/item?id=49858676) - [Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC](https://www.righto.com/2026/09/8087-tangent-cordic.html)
+* [2026-09-26, 17:23:09](https://news.ycombinator.com/item?id=49858643) - [What is the best shape of a city? Modelling effect of urban form on distance](https://journals.sagepub.com/doi/10.1177/23998083261458842)
 * [2026-09-26, 17:10:40](https://news.ycombinator.com/item?id=49858513) - [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
 * [2026-09-26, 17:01:45](https://news.ycombinator.com/item?id=49858424) - [The Evolution of Vending Machines](https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/)
 * [2026-09-26, 16:46:24](https://news.ycombinator.com/item?id=49858253) - [US jury says Apple owes record $5.7B in haptic technology patent case](https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/)
+* [2026-09-26, 16:40:06](https://news.ycombinator.com/item?id=49858193) - [How to win a beer with high-dimensional statistics](https://jamiesimon.io/blog/how-to-win-a-beer-with-high-dimensional-statistics/)
 * [2026-09-26, 16:12:18](https://news.ycombinator.com/item?id=49857899) - [I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
 * [2026-09-26, 15:56:34](https://news.ycombinator.com/item?id=49857729) - [Make Claude your assistant in excalidraw](https://tangled.org/yanndegat.tngl.sh/drawgent)
 * [2026-09-26, 15:49:04](https://news.ycombinator.com/item?id=49857656) - [Turning GLM-5.3-Flash into a Jev-like decision model](https://www.privatemode.ai/blog/system-one-from-glm-flash)
