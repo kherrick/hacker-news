@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-27](index.md)
 
+* [2026-09-27, 21:26:06](https://news.ycombinator.com/item?id=49871018) - [NAND-16: a computer built from 277,248 NAND gates](https://somethingbig.ai/computer)
 * [2026-09-27, 21:15:33](https://news.ycombinator.com/item?id=49870928) - [EV Sales Are Booming in Europe with Gasoline at $10 a Gallon](https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs)
 * [2026-09-27, 21:06:17](https://news.ycombinator.com/item?id=49870837) - [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
 * [2026-09-27, 20:33:55](https://news.ycombinator.com/item?id=49870541) - [My Recent Woodworking Projects](https://notoriousbfg.com/recent-woodworking-projects/)
@@ -16,6 +17,7 @@
 * [2026-09-27, 19:04:19](https://news.ycombinator.com/item?id=49869773) - [What I did at Recurse Center](https://thill.me/2026/09/11/what-i-did-at-rc.html)
 * [2026-09-27, 19:01:31](https://news.ycombinator.com/item?id=49869755) - [Malleable software: Restoring user agency in a world of locked-down apps (2025)](https://www.inkandswitch.com/essay/malleable-software/)
 * [2026-09-27, 18:44:30](https://news.ycombinator.com/item?id=49869574) - [Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/)
+* [2026-09-27, 18:30:29](https://news.ycombinator.com/item?id=49869441) - [Digital Audio on the ZX Spectrum's 1-Bit Beeper](https://bumbershootsoft.wordpress.com/2026/09/26/digital-audio-on-the-zx-spectrums-1-bit-beeper/)
 * [2026-09-27, 18:02:43](https://news.ycombinator.com/item?id=49869142) - [Oral history of John Chowning, inventor of FM synthesis [video]](https://www.youtube.com/watch?v=e1Xn3030IvM)
 * [2026-09-27, 17:31:53](https://news.ycombinator.com/item?id=49868830) - [Ember-1](https://fireworks.ai/blog/ember-1)
 * [2026-09-27, 16:50:58](https://news.ycombinator.com/item?id=49868404) - [Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
