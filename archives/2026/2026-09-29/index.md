@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-09-29](index.md)
 
+* [2026-09-29, 19:30:17](https://news.ycombinator.com/item?id=49899090) - [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+* [2026-09-29, 19:24:27](https://news.ycombinator.com/item?id=49899004) - [Galaxy Game – Interim Computer Museum](https://icm.museum/blog/?p=698)
+* [2026-09-29, 19:20:02](https://news.ycombinator.com/item?id=49898931) - [Show HN: TurboGPT: train 22KiB transformer in 13s](https://github.com/lostmsu/TurboGPT)
+* [2026-09-29, 19:15:58](https://news.ycombinator.com/item?id=49898877) - [Nicholas Polson has authored 258 academic papers in 2026 so far](https://statmodeling.stat.columbia.edu/2026/08/27/258/)
+* [2026-09-29, 19:08:01](https://news.ycombinator.com/item?id=49898778) - [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/)
 * [2026-09-29, 18:09:50](https://news.ycombinator.com/item?id=49897826) - [The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging](https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/)
 * [2026-09-29, 17:26:27](https://news.ycombinator.com/item?id=49896975) - [ChatGPT Pro 500](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
 * [2026-09-29, 17:13:38](https://news.ycombinator.com/item?id=49896712) - [Tcl/Tk 9.1 Released](https://www.tcl-lang.org/software/tcltk/9.1.html)
@@ -13,8 +18,11 @@
 * [2026-09-29, 16:30:48](https://news.ycombinator.com/item?id=49896050) - [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)
 * [2026-09-29, 16:25:09](https://news.ycombinator.com/item?id=49895970) - [What if Jev spoke Arrow?](https://columnar.tech/blog/what-if-jev-spoke-arrow/)
 * [2026-09-29, 15:44:41](https://news.ycombinator.com/item?id=49895304) - [New PlayStation 5 Console Jailbreak Released](https://github.com/ntfargo/Relapse-Exploit)
+* [2026-09-29, 14:51:36](https://news.ycombinator.com/item?id=49894351) - [Show HN: NSL – WSL for Linux](https://frostyard.github.io/nsl/)
 * [2026-09-29, 14:32:33](https://news.ycombinator.com/item?id=49894005) - [macOS Golden Gate Is a Buggy Mess](https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/)
 * [2026-09-29, 14:12:15](https://news.ycombinator.com/item?id=49893653) - [Google ending ChromeOS support two years early](https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674)
+* [2026-09-29, 14:04:57](https://news.ycombinator.com/item?id=49893509) - [America.gov](https://america.gov/)
+* [2026-09-29, 13:44:43](https://news.ycombinator.com/item?id=49893157) - [Ask HN: What are you reading?](https://news.ycombinator.com/item?id=49893157)
 * [2026-09-29, 13:16:10](https://news.ycombinator.com/item?id=49892721) - [The new Firefox design is here](https://blog.mozilla.org/en/firefox/new-firefox-design-is-here/)
 * [2026-09-29, 12:43:29](https://news.ycombinator.com/item?id=49892245) - [Delhi Cut Electricity Loss from 50 to 5 Percent](https://spectrum.ieee.org/delhi-electricity-loss)
 * [2026-09-29, 12:38:18](https://news.ycombinator.com/item?id=49892175) - [Without the Hot Air](https://www.withouthotair.com/)

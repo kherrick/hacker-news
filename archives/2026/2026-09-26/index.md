@@ -10,6 +10,7 @@
 * [2026-09-26, 19:57:24](https://news.ycombinator.com/item?id=49859982) - [Faster prompt lookup drafting in llama.cpp](https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/)
 * [2026-09-26, 19:43:32](https://news.ycombinator.com/item?id=49859863) - [The Beatles have permeated research papers across academic disciplines](https://phys.org/news/2026-09-beatles-permeated-papers-academic-disciplines.html)
 * [2026-09-26, 19:30:39](https://news.ycombinator.com/item?id=49859759) - [Video CDs Break Windows Explorer](https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html)
+* [2026-09-26, 19:00:46](https://news.ycombinator.com/item?id=49859482) - [C64 MERCENARY (1985): a novel exploit bug at the start of the game](https://gamesexplained.com/c64/mercenary/)
 * [2026-09-26, 18:42:10](https://news.ycombinator.com/item?id=49859299) - [HomeBody: A humanoid that explores, remembers, and acts on its own](https://tml.stanford.edu/homebody/)
 * [2026-09-26, 18:22:41](https://news.ycombinator.com/item?id=49859112) - [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
 * [2026-09-26, 17:43:11](https://news.ycombinator.com/item?id=49858810) - [Japan moves to tighten rules for foreigners](https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt)
