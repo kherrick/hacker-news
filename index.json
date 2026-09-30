@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-09-29, 22:59:28",
-      "https://news.ycombinator.com/item?id=49901973"
+      "2026-09-30, 06:44:09",
+      "https://news.ycombinator.com/item?id=49905264"
     ],
     [
-      "How our vibe coded website looks like a designer made it",
-      "https://railcode.dev/blog/vibe-coded-website"
+      "Postgres with QUIC",
+      "https://blogs.lupyd.com/blog/postgres-with-quic/"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 03:19:54",
+      "https://news.ycombinator.com/item?id=49903993"
+    ],
+    [
+      "PSSA: A non-transformer language model written from scratch in Rust",
+      "https://github.com/Sparticle62ops/pssa"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 03:00:05",
+      "https://news.ycombinator.com/item?id=49903862"
+    ],
+    [
+      "RSS Feeds for Last.fm",
+      "https://lfm.xiffy.nl/"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 02:36:12",
+      "https://news.ycombinator.com/item?id=49903713"
+    ],
+    [
+      "Responsible Release of AI-Generated Mathematics",
+      "https://agmai.org/general-sep29/"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 02:35:58",
+      "https://news.ycombinator.com/item?id=49903712"
+    ],
+    [
+      "Ballmer Peak",
+      "https://en.wikipedia.org/wiki/Ballmer_Peak"
+    ]
+  ],
+  [
+    [
+      "2026-09-29, 23:03:38",
+      "https://news.ycombinator.com/item?id=49902019"
+    ],
+    [
+      "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+      "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river"
     ]
   ],
   [
@@ -17,26 +67,6 @@
     [
       "Livenerf: Has Opus 5.5 been nerfed yet?",
       "https://github.com/ninjahawk/livenerf"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 22:10:23",
-      "https://news.ycombinator.com/item?id=49901437"
-    ],
-    [
-      "UnoDOS",
-      "https://github.com/hmofet/unodos"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 21:48:27",
-      "https://news.ycombinator.com/item?id=49901149"
-    ],
-    [
-      "Deser: Rethinking Rust Serialization",
-      "https://lucumr.pocoo.org/2026/9/29/deser/"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Vermont replacing power plants with home batteries",
       "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 17:15:56",
-      "https://news.ycombinator.com/item?id=49896757"
-    ],
-    [
-      "Show HN: A working 3D model of an Enigma machine",
-      "https://enigma.design"
     ]
   ],
   [
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2026-09-29, 11:14:45",
-      "https://news.ycombinator.com/item?id=49891295"
-    ],
-    [
-      "Everybody’s home. No one’s coming over",
-      "https://www.derekthompson.org/p/the-death-of-the-american-host"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 11:13:54",
-      "https://news.ycombinator.com/item?id=49891290"
-    ],
-    [
-      "Jeeves. Reasoning improves Jev-like decision models",
-      "https://github.com/PostHog/jeeves"
-    ]
-  ],
-  [
-    [
       "2026-09-29, 11:06:25",
       "https://news.ycombinator.com/item?id=49891203"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-09-29, 09:03:41",
-      "https://news.ycombinator.com/item?id=49890226"
+      "2026-09-29, 10:10:20",
+      "https://news.ycombinator.com/item?id=49890733"
     ],
     [
-      "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-      "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
+      "NASA asked several former SR-71A staffers to help secret restart",
+      "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart"
     ]
   ],
   [
@@ -241,12 +241,22 @@
   ],
   [
     [
-      "2026-09-28, 20:07:14",
-      "https://news.ycombinator.com/item?id=49883635"
+      "2026-09-29, 02:27:54",
+      "https://news.ycombinator.com/item?id=49887343"
     ],
     [
-      "Virus Stole a Human Gene and Won't Let Go of It",
-      "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html"
+      "Solving Factorio Quality",
+      "https://exyr.org/2026/solving-factorio-quality/"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 20:28:08",
+      "https://news.ycombinator.com/item?id=49883913"
+    ],
+    [
+      "Testing WebGPU data layouts with Facet",
+      "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/"
     ]
   ],
   [
@@ -257,6 +267,16 @@
     [
       "Phyllotaxis: An audio-reactive LED display",
       "https://jagi.studio/posts/phyllotaxis/"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 15:39:42",
+      "https://news.ycombinator.com/item?id=49879758"
+    ],
+    [
+      "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
+      "https://github.com/ciromattia/kcc"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "NAND-16: a computer built from 277,248 NAND gates",
       "https://somethingbig.ai/computer"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 12:17:39",
-      "https://news.ycombinator.com/item?id=49866031"
-    ],
-    [
-      "Stuck in the Suez Canal – the short version (2021)",
-      "https://cathsenker.co.uk/stuck-in-the-suez-canal-the-short-version/"
-    ]
-  ],
-  [
-    [
-      "2026-09-26, 19:00:46",
-      "https://news.ycombinator.com/item?id=49859482"
-    ],
-    [
-      "Commodore 64: Mercenary",
-      "https://gamesexplained.com/c64/mercenary/"
     ]
   ]
 ]
