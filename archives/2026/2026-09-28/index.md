@@ -38,6 +38,7 @@
 * [2026-09-28, 15:32:18](https://news.ycombinator.com/item?id=49879645) - [Updated Google Maps shows destruction of the city of Rafah](https://twitter.com/AliAbunimah/status/2103890594137309425)
 * [2026-09-28, 15:28:13](https://news.ycombinator.com/item?id=49879577) - [Cf: The Agentic CLI for the Cloudflare API](https://blog.cloudflare.com/cloudflare-cf-cli-launch/)
 * [2026-09-28, 15:16:13](https://news.ycombinator.com/item?id=49879401) - [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/)
+* [2026-09-28, 15:12:43](https://news.ycombinator.com/item?id=49879346) - [Getting out of the way: my robotics crash course](https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/)
 * [2026-09-28, 14:54:21](https://news.ycombinator.com/item?id=49879000) - [MongoDB CEO resigns \"effective immediately\" to join Meta, stock drops 20%](https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/)
 * [2026-09-28, 14:48:44](https://news.ycombinator.com/item?id=49878900) - [What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators](https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/)
 * [2026-09-28, 14:46:07](https://news.ycombinator.com/item?id=49878857) - [A Staff Engineer's Guide to Inventing Work](https://sujithjay.com/inventing-work)
