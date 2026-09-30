@@ -6,8 +6,10 @@
 
 * [2026-09-28, 22:43:12](https://news.ycombinator.com/item?id=49885493) - [Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?](https://jonclegg.github.io/pacman-bakeoff/)
 * [2026-09-28, 21:26:41](https://news.ycombinator.com/item?id=49884625) - [ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
+* [2026-09-28, 21:06:30](https://news.ycombinator.com/item?id=49884346) - [Reverse-engineering a $35 backup camera display (AMT630A)](https://github.com/mogrinz/AMT630A)
 * [2026-09-28, 20:51:47](https://news.ycombinator.com/item?id=49884169) - [Palantir founder purchases large swath of forest in Sweden](https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/)
 * [2026-09-28, 20:47:26](https://news.ycombinator.com/item?id=49884119) - [Pacing the Frontier is not the actual goal for AI labs](https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs)
+* [2026-09-28, 20:32:46](https://news.ycombinator.com/item?id=49883970) - [I Could've Accessed 17T Microsoft Records](https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records)
 * [2026-09-28, 20:28:08](https://news.ycombinator.com/item?id=49883913) - [Testing WebGPU data layouts with Facet](https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/)
 * [2026-09-28, 20:23:36](https://news.ycombinator.com/item?id=49883844) - [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
 * [2026-09-28, 20:21:22](https://news.ycombinator.com/item?id=49883817) - [Best of British Design](https://best-of-british-design.vercel.app/)
@@ -20,6 +22,7 @@
 * [2026-09-28, 19:27:45](https://news.ycombinator.com/item?id=49883159) - [First Steps of the PLC Organization – Independent Public Ledger of Credentials](https://blog.plcred.org/3mwlphq42d227)
 * [2026-09-28, 19:06:16](https://news.ycombinator.com/item?id=49882894) - [Neal Stephenson responds with wit and humor (2004)](https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor)
 * [2026-09-28, 18:58:53](https://news.ycombinator.com/item?id=49882781) - [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
+* [2026-09-28, 18:57:16](https://news.ycombinator.com/item?id=49882754) - [Burning Man Death Rates – A Short Lesson in Statistics](https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson)
 * [2026-09-28, 18:21:31](https://news.ycombinator.com/item?id=49882208) - [GrapheneOS – When an app is slow](https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html)
 * [2026-09-28, 18:04:47](https://news.ycombinator.com/item?id=49881951) - [So long Google, and thanks for all the nudes](https://lecaro.me/20260921-google-less.html)
 * [2026-09-28, 17:58:11](https://news.ycombinator.com/item?id=49881850) - [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-29](index.md)
 
+* [2026-09-29, 23:41:34](https://news.ycombinator.com/item?id=49902382) - [Show HN: Ledge.sh – Runnable Markdown Notes](https://ledge.sh)
 * [2026-09-29, 23:10:26](https://news.ycombinator.com/item?id=49902093) - [Floppy Emu Hardware Failure Analysis Results](https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/)
 * [2026-09-29, 23:03:38](https://news.ycombinator.com/item?id=49902019) - [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river)
 * [2026-09-29, 22:59:28](https://news.ycombinator.com/item?id=49901973) - [How our vibe coded website looks like a designer made it](https://railcode.dev/blog/vibe-coded-website)
@@ -55,8 +56,11 @@
 * [2026-09-29, 07:49:12](https://news.ycombinator.com/item?id=49889633) - [Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland](https://www.startup-nights.ch/event/)
 * [2026-09-29, 06:45:46](https://news.ycombinator.com/item?id=49889140) - [Mathematical Origami](https://mathigon.org/origami)
 * [2026-09-29, 04:14:11](https://news.ycombinator.com/item?id=49888182) - [When oil prices spike, where does the money go?](https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763)
+* [2026-09-29, 03:59:46](https://news.ycombinator.com/item?id=49888039) - [Energy Timelines Photovoltaic](https://www.eia.gov/kids/history-of-energy/timelines/photovoltaic.php)
 * [2026-09-29, 02:27:54](https://news.ycombinator.com/item?id=49887343) - [Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/)
+* [2026-09-29, 00:47:19](https://news.ycombinator.com/item?id=49886535) - [Show HN: Dental Scope – Interactive 3D dental anatomy](https://dental-scope.com/)
 * [2026-09-29, 00:41:45](https://news.ycombinator.com/item?id=49886482) - [Tank Body Problem](http://www.jimsitu.com)
+* [2026-09-29, 00:35:05](https://news.ycombinator.com/item?id=49886422) - [Show HN: Corral – Kill every command your agent starts](https://github.com/Cardinal44/corral)
 * [2026-09-29, 00:34:27](https://news.ycombinator.com/item?id=49886416) - [OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns](https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html)
 * [2026-09-29, 00:12:25](https://news.ycombinator.com/item?id=49886247) - [Humanos – Help Building the Human Operating System](https://tryhumanos.com)
 * [2026-09-29, 00:06:48](https://news.ycombinator.com/item?id=49886195) - [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/)
