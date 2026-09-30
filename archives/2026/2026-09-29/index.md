@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-09-29](index.md)
 
+* [2026-09-29, 23:03:38](https://news.ycombinator.com/item?id=49902019) - [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river)
 * [2026-09-29, 22:59:28](https://news.ycombinator.com/item?id=49901973) - [How our vibe coded website looks like a designer made it](https://railcode.dev/blog/vibe-coded-website)
 * [2026-09-29, 22:36:14](https://news.ycombinator.com/item?id=49901736) - [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
 * [2026-09-29, 22:10:23](https://news.ycombinator.com/item?id=49901437) - [UnoDOS](https://github.com/hmofet/unodos)
@@ -44,12 +45,14 @@
 * [2026-09-29, 11:13:54](https://news.ycombinator.com/item?id=49891290) - [Jeeves. Reasoning improves Jev-like decision models](https://github.com/PostHog/jeeves)
 * [2026-09-29, 11:06:25](https://news.ycombinator.com/item?id=49891203) - [Language models for text classification: From bag-of-words to Jev](https://magazine.sebastianraschka.com/p/classifier-history-and-jev)
 * [2026-09-29, 10:23:33](https://news.ycombinator.com/item?id=49890829) - [New Cyber-OSINT model released](https://twitter.com/0x0SojalSec/status/2104736980768866439)
+* [2026-09-29, 10:10:20](https://news.ycombinator.com/item?id=49890733) - [NASA asked several former SR-71A staffers to help secret restart](https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart)
 * [2026-09-29, 09:58:24](https://news.ycombinator.com/item?id=49890647) - [Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven)
 * [2026-09-29, 09:03:41](https://news.ycombinator.com/item?id=49890226) - [AI companies leak data to advertisers [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
 * [2026-09-29, 08:40:53](https://news.ycombinator.com/item?id=49890054) - [Evan Doorbell's Phone Tapes – Brought to You by Telephone World](https://evan-doorbell.com/)
 * [2026-09-29, 08:40:37](https://news.ycombinator.com/item?id=49890051) - [Using any C++ library in Godot](https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html)
 * [2026-09-29, 07:49:12](https://news.ycombinator.com/item?id=49889633) - [Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland](https://www.startup-nights.ch/event/)
 * [2026-09-29, 04:14:11](https://news.ycombinator.com/item?id=49888182) - [When oil prices spike, where does the money go?](https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763)
+* [2026-09-29, 02:27:54](https://news.ycombinator.com/item?id=49887343) - [Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/)
 * [2026-09-29, 00:41:45](https://news.ycombinator.com/item?id=49886482) - [Tank Body Problem](http://www.jimsitu.com)
 * [2026-09-29, 00:34:27](https://news.ycombinator.com/item?id=49886416) - [OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns](https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html)
 * [2026-09-29, 00:12:25](https://news.ycombinator.com/item?id=49886247) - [Humanos – Help Building the Human Operating System](https://tryhumanos.com)
