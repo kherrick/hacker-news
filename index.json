@@ -1,42 +1,52 @@
 [
   [
     [
+      "2026-09-29, 22:59:28",
+      "https://news.ycombinator.com/item?id=49901973"
+    ],
+    [
+      "How our vibe coded website looks like a designer made it",
+      "https://railcode.dev/blog/vibe-coded-website"
+    ]
+  ],
+  [
+    [
+      "2026-09-29, 22:36:14",
+      "https://news.ycombinator.com/item?id=49901736"
+    ],
+    [
+      "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "https://github.com/ninjahawk/livenerf"
+    ]
+  ],
+  [
+    [
+      "2026-09-29, 22:10:23",
+      "https://news.ycombinator.com/item?id=49901437"
+    ],
+    [
+      "UnoDOS",
+      "https://github.com/hmofet/unodos"
+    ]
+  ],
+  [
+    [
+      "2026-09-29, 21:48:27",
+      "https://news.ycombinator.com/item?id=49901149"
+    ],
+    [
+      "Deser: Rethinking Rust Serialization",
+      "https://lucumr.pocoo.org/2026/9/29/deser/"
+    ]
+  ],
+  [
+    [
       "2026-09-29, 19:30:17",
       "https://news.ycombinator.com/item?id=49899090"
     ],
     [
       "U.S. postal inspectors shut down website selling counterfeit postage labels",
       "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 19:24:27",
-      "https://news.ycombinator.com/item?id=49899004"
-    ],
-    [
-      "Galaxy Game – Interim Computer Museum",
-      "https://icm.museum/blog/?p=698"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 19:20:02",
-      "https://news.ycombinator.com/item?id=49898931"
-    ],
-    [
-      "Show HN: TurboGPT: train 22KiB transformer in 13s",
-      "https://github.com/lostmsu/TurboGPT"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 19:15:58",
-      "https://news.ycombinator.com/item?id=49898877"
-    ],
-    [
-      "Nicholas Polson has authored 258 academic papers in 2026 so far",
-      "https://statmodeling.stat.columbia.edu/2026/08/27/258/"
     ]
   ],
   [
@@ -51,12 +61,32 @@
   ],
   [
     [
-      "2026-09-29, 17:26:27",
-      "https://news.ycombinator.com/item?id=49896975"
+      "2026-09-29, 18:22:40",
+      "https://news.ycombinator.com/item?id=49898050"
     ],
     [
-      "ChatGPT Pro 500",
-      "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers"
+      "We’re forgetting what darkness feels like",
+      "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation"
+    ]
+  ],
+  [
+    [
+      "2026-09-29, 18:19:02",
+      "https://news.ycombinator.com/item?id=49897993"
+    ],
+    [
+      "Vermont replacing power plants with home batteries",
+      "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms"
+    ]
+  ],
+  [
+    [
+      "2026-09-29, 17:15:56",
+      "https://news.ycombinator.com/item?id=49896757"
+    ],
+    [
+      "Show HN: A working 3D model of an Enigma machine",
+      "https://enigma.design"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2026-09-29, 17:07:45",
-      "https://news.ycombinator.com/item?id=49896600"
-    ],
-    [
-      "DevDay 2026 Recap",
-      "https://openai.com/index/devday-2026-recap/"
-    ]
-  ],
-  [
-    [
       "2026-09-29, 17:06:45",
       "https://news.ycombinator.com/item?id=49896586"
     ],
@@ -101,12 +121,12 @@
   ],
   [
     [
-      "2026-09-29, 16:25:09",
-      "https://news.ycombinator.com/item?id=49895970"
+      "2026-09-29, 16:18:26",
+      "https://news.ycombinator.com/item?id=49895864"
     ],
     [
-      "What if Jev spoke Arrow?",
-      "https://columnar.tech/blog/what-if-jev-spoke-arrow/"
+      "Needed 1+1, built a functional programming language",
+      "https://hereticpleb.vercel.app/blog/needed-one-plus-one/"
     ]
   ],
   [
@@ -151,22 +171,22 @@
   ],
   [
     [
+      "2026-09-29, 13:34:20",
+      "https://news.ycombinator.com/item?id=49893002"
+    ],
+    [
+      "Backblaze drive stats for Q2 2026",
+      "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/"
+    ]
+  ],
+  [
+    [
       "2026-09-29, 12:43:29",
       "https://news.ycombinator.com/item?id=49892245"
     ],
     [
       "How Delhi cut electricity loss from 50 to 5 percent",
       "https://spectrum.ieee.org/delhi-electricity-loss"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 12:38:18",
-      "https://news.ycombinator.com/item?id=49892175"
-    ],
-    [
-      "Sustainable energy without the hot air (2008)",
-      "https://www.withouthotair.com/"
     ]
   ],
   [
@@ -191,6 +211,16 @@
   ],
   [
     [
+      "2026-09-29, 11:06:25",
+      "https://news.ycombinator.com/item?id=49891203"
+    ],
+    [
+      "Language models for text classification: From bag-of-words to Jev",
+      "https://magazine.sebastianraschka.com/p/classifier-history-and-jev"
+    ]
+  ],
+  [
+    [
       "2026-09-29, 09:03:41",
       "https://news.ycombinator.com/item?id=49890226"
     ],
@@ -201,12 +231,12 @@
   ],
   [
     [
-      "2026-09-29, 08:40:37",
-      "https://news.ycombinator.com/item?id=49890051"
+      "2026-09-29, 04:14:11",
+      "https://news.ycombinator.com/item?id=49888182"
     ],
     [
-      "Using any C++ library in Godot",
-      "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html"
+      "When oil prices spike, where does the money go?",
+      "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763"
     ]
   ],
   [
@@ -241,42 +271,12 @@
   ],
   [
     [
-      "2026-09-28, 14:00:17",
-      "https://news.ycombinator.com/item?id=49878093"
-    ],
-    [
-      "Walking Men",
-      "https://bookofjoe2.blogspot.com/2026/09/walking-men.html"
-    ]
-  ],
-  [
-    [
       "2026-09-27, 21:26:06",
       "https://news.ycombinator.com/item?id=49871018"
     ],
     [
       "NAND-16: a computer built from 277,248 NAND gates",
       "https://somethingbig.ai/computer"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 20:58:54",
-      "https://news.ycombinator.com/item?id=49870760"
-    ],
-    [
-      "Solving a corn puzzle with CP-SAT",
-      "https://thill.me/2026/07/16/corn-puzzle-sat-solver.html"
-    ]
-  ],
-  [
-    [
-      "2026-09-27, 18:30:29",
-      "https://news.ycombinator.com/item?id=49869441"
-    ],
-    [
-      "Digital Audio on the ZX Spectrum's 1-Bit Beeper",
-      "https://bumbershootsoft.wordpress.com/2026/09/26/digital-audio-on-the-zx-spectrums-1-bit-beeper/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=49859482"
     ],
     [
-      "C64 MERCENARY (1985): a novel exploit bug at the start of the game",
+      "Commodore 64: Mercenary",
       "https://gamesexplained.com/c64/mercenary/"
     ]
   ]
