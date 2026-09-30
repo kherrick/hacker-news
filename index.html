@@ -129,6 +129,416 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="49912444">
+          <h3>
+            <a
+              class="item"
+              href="https://www.netlify.com/blog/edge-functions-firecracker-microvms/"
+              >5x faster Edge Functions: V8 isolates to Firecracker MicroVMs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-30 @ 18:17:45</span
+              ><span class="points-container"
+                >Points: <span class="points">91</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49912444"
+                  >Comments</a
+                ><span class="descendants">: 35</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49911995">
+          <h3>
+            <a class="item" href="https://github.com/magnitudedev/magnitude"
+              >Launch HN: Magnitude (YC S25) – Self-optimizing inference engine
+              for agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-30 @ 17:37:40</span
+              ><span class="points-container"
+                >Points: <span class="points">115</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49911995"
+                  >Comments</a
+                ><span class="descendants">: 49</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We're both software engineers and previously built an open
+                source browser agent to 4k+ GH stars and 100k+ downloads. We
+                increasingly wanted to run it on local models, but found that no
+                inference engine worked for our use case.
+              </p>
+              <p>
+                Inference engines today all make a performance tradeoff. They
+                are either:
+              </p>
+              <p>
+                - Built for batched inference on datacenter hardware at the cost
+                of single-session performance (vLLM, SGLang) - Designed for
+                broad compatibility instead of optimizing for specific hardware
+                (llama.cpp, Ollama) - Specialized for specific hardware or
+                models but lacking engine completeness (oMLX, ds4)
+              </p>
+              <p>
+                Plus none of them are designed for running agents locally.
+                Sessions are long, several often run at once, and you still want
+                to use your computer for other things.
+              </p>
+              <p>
+                Magnitude is built for maximum performance on your hardware and
+                running local agents:
+              </p>
+              <p>
+                - On-device compilation and tuning: Kernels are written with
+                flexible parameters that are tuned on your actual device before
+                the model runs. This gives you broad hardware compatibility with
+                the same performance ceiling as hardware-specific kernels.
+              </p>
+              <p>
+                - Focus on best architectures: We write our tunable, highly
+                efficient kernels for the most popular open-weights families.
+                This allows us to achieve and surpass the performance of
+                hardware or model specialized engines, without forcing ourselves
+                to over-generalize at the cost of performance.
+              </p>
+              <p>
+                - Dynamic memory allocation: Magnitude reserves only enough
+                memory up front to hold model weights. As your agent sessions
+                grow, the memory heap dynamically increases, and frees itself
+                when agents stop. Your hardware can still be used for other
+                stuff while agents run.
+              </p>
+              <p>
+                - Hybrid paged attention: We borrow the best ideas from engines
+                like SGLang to allow concurrent sessions to share prefix caches,
+                but optimize placement for memory-adjacency so single-session
+                performance doesn't suffer.
+              </p>
+              <p>
+                Magnitude is fully open source (Apache 2.0). We built it in
+                Rust, including a custom GPU kernel runtime and autotuner. We
+                take inspiration from the best innovations in inference from
+                academics (e.g. FlashAttention, FlashInfer, TurboQuant) as well
+                as other engines (e.g. SGLang radix attention) to reach the
+                performance ceiling.
+              </p>
+              <p>
+                Benchmarked against llama.cpp with Qwen 3.6 35B A3B (4 bit), 64k
+                context, no speculative decoding:
+              </p>
+              <p>
+                Metal (Mac M4 Pro 48 GB) - 92% faster decode (30 tok/s → 57
+                tok/s) - 9% faster prefill (466 tok/s → 507 tok/s) - 28% less
+                per-agent memory usage
+              </p>
+              <p>
+                CUDA (DGX Spark) - 19% faster decode (49 tok/s → 58 tok/s) - 23%
+                faster prefill (2,033 tok/s → 2,507 tok/s) - 27% less per-agent
+                memory usage
+              </p>
+              <p>
+                Magnitude ships as a desktop app that you can easily connect
+                with whatever agents you already use (Pi, OpenCode, Hermes,
+                Codex, and more). It automatically runs models on demand when
+                these agents actually need them, and shuts them down after
+                inactivity. Here's what it looks like:
+                <a href="https://www.youtube.com/watch?v=0qE8BWEZu7o"
+                  >https://www.youtube.com/watch?v=0qE8BWEZu7o</a
+                >
+              </p>
+              <p>
+                We're excited to push Magnitude further to let you run bigger
+                models on the same hardware while continuing to improve
+                performance. Our plans include:
+              </p>
+              <p>
+                - Expert streaming: store experts on RAM or disk and load them
+                just-in-time. This lets you run models bigger than what
+                otherwise would fit on your GPU.
+              </p>
+              <p>
+                - Kernel compiler: our current kernels tune a few parameters to
+                fit your hardware. We can take this further with a fully custom
+                compiler that automatically chooses how to fuse kernels and
+                which implementations to use, to make it fit to your hardware
+                even better.
+              </p>
+              <p>
+                - Multi-device utilization: Make the best possible use of all
+                hardware on a system (CPU, GPUs, RAM, disk) by detecting these
+                and automatically solving for the best model layout.
+              </p>
+              <p>
+                We'd love for more people to try it out and give us feedback.
+                Feel free to comment here, we'll be around all day!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="49911757">
+          <h3>
+            <a
+              class="item"
+              href="https://yedhu.me/posts/commit-description-as-a-thinking-tool/"
+              >Commit Description as a Thinking Tool</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-30 @ 17:18:13</span
+              ><span class="points-container"
+                >Points: <span class="points">103</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49911757"
+                  >Comments</a
+                ><span class="descendants">: 60</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49911531">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer"
+              >Bild AI (YC W25) Is Hiring a Founding Product Engineer</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-30 @ 17:00:20</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49910613">
+          <h3>
+            <a
+              class="item"
+              href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603"
+              >Moist-Electric Wallpaper for Indoor Energy Harvesting and
+              Humidity Management</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-30 @ 15:54:59</span
+              ><span class="points-container"
+                >Points: <span class="points">53</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49910613"
+                  >Comments</a
+                ><span class="descendants">: 33</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49910328">
+          <h3>
+            <a class="item" href="https://openparrot.app"
+              >Show HN: Parrot – Open-Source Smart Meeting Recorder with
+              Co-Pilot on Mac</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-30 @ 15:33:12</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49910328"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I am Uygar, I am an entrepreneur from London. I run my
+                businesses on calls everyday, customers, partners and suppliers.
+                And i have a horrible memory i forgot things. So months ago with
+                the help of Claude i have built Parrot. I have designed and
+                coded for my work and what i need. An to be honest worked very
+                well and helped me alot.
+              </p>
+              <p>
+                Parrot records what your mac hears and everything stays in your
+                computer if you use local models, no account, no API calls.
+                There is something called copilot which made my life easier, you
+                can upload your files and when parrot hears that question on the
+                screen recommends the answer. Which i believe very handy.
+              </p>
+              <p>
+                If you want to make it smarter and dont mind cloud you can hook
+                up your Claude API and Deepgram account, that gives super powers
+                to Parrot. You still keep it locally but eventually you need to
+                make API calls.
+              </p>
+              <p>So local or cloud totally up to you.</p>
+              <p>
+                Then after months of thinking i have decided share it as open
+                source and this is my first open source project, so please go
+                easy on me :)
+              </p>
+              <p>No account, no membership, open source and free.</p>
+              <p>
+                Code:
+                <a href="https://github.com/turantekin/Parrot"
+                  >https://github.com/turantekin/Parrot</a
+                >
+              </p>
+              <p>
+                This project made me so excited and really would like to share
+                with you guys so i hope can help you too. Again, i am new so go
+                easy on me and if you have any feedback i would like to hear.
+              </p>
+              <p>Thank you Uygar</p>
+            </div>
+          </section>
+        </section>
+        <section id="49909913">
+          <h3>
+            <a class="item" href="https://strata.do/"
+              >Show HN: Strata – an expressive semantic layer that can say no to
+              your LLM</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-30 @ 14:59:57</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49909913"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I spent 4 years at Netflix solving self service for
+                non-technical business users. I think I cracked it with my
+                unique approach to semantic layer design. The key challenge is
+                balancing expressiveness with ease of use for our non technical
+                colleagues. It just so happens that focus made it work pretty
+                well with LLMs too.
+              </p>
+              <p>
+                Strata is a full stack solution. It includes a semantic layer,
+                dashboards, subscriptions, and google sheets exports. All of it
+                can be done view agent conversation or via MCP.
+              </p>
+              <p>
+                Some key concepts and features: - Names are strict. Only one
+                thing called Revenue can exist in a project. If revenue is
+                mapped to multiple tables, the query grain plus speed will
+                decide table. - Strict naming conventions lends itself to
+                enabling Automatic data blending acrros fact domains. -
+                Partition and Aggregate aware semantic routing. This allows you
+                to load a portion of your data into a faster compute engine like
+                Druid or ClickHose, while keeping full history in trino or
+                something cheaper. The query engine will choose the faster tier
+                if the query can be resolved there. - Complex measures: out of
+                the box support for snapshot, LOD (include/exclude), Compound,
+                and Auto leveling compound measures. - On top of the semantic
+                layer users can create custom calculations that span fact
+                domains. - Another interesting feature is the ability to create
+                cohorts and apply as filter to an entire query or single measure
+                within a query.
+              </p>
+              <p>
+                We are deliberately not building a semantic layer that your BI
+                tools connect to. I think that is a dead end. We have apis, and
+                mcp for anything custom you want to build on top.
+              </p>
+              <p>
+                Try it free on docker:
+                <a href="https://strata.do/try/">https://strata.do/try/</a>
+              </p>
+              <p>
+                Docs here to get you going:
+                <a href="https://strata.do/docs/">https://strata.do/docs/</a>
+              </p>
+              <p>
+                This is an early beta version. It is NOT open source. However,
+                the free tier includes up to 25 users. You should be able to run
+                it entirely on your machine with docker.
+              </p>
+              <p>
+                I would love to hear your feedback. Especially, those working
+                with Looker and Cube.
+              </p>
+              <p>Thanks for reading!</p>
+            </div>
+          </section>
+        </section>
+        <section id="49909610">
+          <h3>
+            <a class="item" href="https://sdf.org/"
+              >SDF Public Access Unix System ... est. 1987</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-30 @ 14:36:02</span
+              ><span class="points-container"
+                >Points: <span class="points">73</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49909610"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49909583">
+          <h3>
+            <a class="item" href="https://spectrum.ieee.org/bloomberg-terminal"
+              >A brief history of the Bloomberg terminal</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-30 @ 14:34:07</span
+              ><span class="points-container"
+                >Points: <span class="points">202</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49909583"
+                  >Comments</a
+                ><span class="descendants">: 80</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49909056">
+          <h3>
+            <a
+              class="item"
+              href="https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/"
+              >What TLA+ can and can't check</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-30 @ 13:57:06</span
+              ><span class="points-container"
+                >Points: <span class="points">122</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49909056"
+                  >Comments</a
+                ><span class="descendants">: 29</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="49908962">
           <h3>
             <a
@@ -141,54 +551,32 @@
             <h4>
               <span>2026-09-30 @ 13:50:50</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49908962"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49908757">
+        <section id="49908394">
           <h3>
             <a
               class="item"
-              href="https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts"
-              >Upgrade your desktop: Ubuntu 26.04.1 LTS is now available</a
+              href="https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/"
+              >The last time my family was replaced by technology</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-30 @ 13:36:37</span
+              <span>2026-09-30 @ 13:06:11</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49908757"
+                ><a href="https://news.ycombinator.com/item?id=49908394"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49907057">
-          <h3>
-            <a
-              class="item"
-              href="https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use"
-              >Most data centers refusing to say how much water, electricity
-              they use</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-30 @ 10:49:32</span
-              ><span class="points-container"
-                >Points: <span class="points">189</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49907057"
-                  >Comments</a
-                ><span class="descendants">: 184</span></span
+                ><span class="descendants">: 390</span></span
               >
             </h4>
           </section>
@@ -196,103 +584,94 @@
         <section id="49906637">
           <h3>
             <a class="item" href="https://earendil.com/posts/you-said-no-mcp/"
-              >Pi.dev: You Said No MCP</a
+              >You Said No MCP</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-09-30 @ 09:55:23</span
               ><span class="points-container"
-                >Points: <span class="points">514</span></span
+                >Points: <span class="points">580</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49906637"
                   >Comments</a
-                ><span class="descendants">: 296</span></span
+                ><span class="descendants">: 329</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49905487">
+        <section id="49904314">
           <h3>
             <a
               class="item"
-              href="https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/"
-              >September 2026: The world today, as seen by one Polish guy</a
+              href="https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/"
+              >LinkedIn Larpmaxxing</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-30 @ 07:12:31</span
+              <span>2026-09-30 @ 04:19:57</span
               ><span class="points-container"
-                >Points: <span class="points">469</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49905487"
+                ><a href="https://news.ycombinator.com/item?id=49904314"
                   >Comments</a
-                ><span class="descendants">: 355</span></span
+                ><span class="descendants">: 143</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49903862">
+        <section id="49902382">
           <h3>
-            <a class="item" href="https://lfm.xiffy.nl/"
-              >RSS Feeds for Last.fm</a
+            <a class="item" href="https://ledge.sh"
+              >Show HN: Ledge.sh – Runnable Markdown Notes</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-30 @ 03:00:05</span
+              <span>2026-09-29 @ 23:41:34</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49903862"
+                ><a href="https://news.ycombinator.com/item?id=49902382"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="49902093">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/"
-              >Floppy Emu Hardware Failure Analysis Results</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-29 @ 23:10:26</span
-              ><span class="points-container"
-                >Points: <span class="points">51</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49902093"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49902019">
-          <h3>
-            <a
-              class="item"
-              href="https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river"
-              >NRC issues first U.S. construction permit for a BWRX-300 small
-              modular reactor</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-29 @ 23:03:38</span
-              ><span class="points-container"
-                >Points: <span class="points">111</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49902019"
-                  >Comments</a
-                ><span class="descendants">: 98</span></span
-              >
-            </h4>
+            <div class="text">
+              <p>
+                Ledge is a Markdown notebook that runs shell commands, code,
+                SQL, etc from inside your own notes.
+              </p>
+              <p>
+                I built Ledge because I spend much of my day copy/pasting
+                commands from my notes into the terminal. I was inspired by how
+                much cmux helped me organize my terminals - but there was still
+                a split brain between my notes and frequently run commands. I've
+                been daily-driving it for the past few weeks and use it for
+                deploys, API calls, smoke tests, etc.
+              </p>
+              <p>
+                Ledge runs your real shell just like a terminal app and can be
+                hosted locally or remotely over SSH using ledge-server. I've
+                been building it since July and have recently added support for
+                all the major platforms: Mac (Silicon), Windows (WSL required),
+                Linux, iOS, Android. Mobile devices require SSH access to a
+                ledge-server and Android is still in beta and looking for beta
+                testers (see link on website)!
+              </p>
+              <p>
+                It's built on Bun and Electrobun and is free and open-source.
+                Feel free to review the code and contribute at
+                <a href="https://github.com/ledgesh/ledge"
+                  >https://github.com/ledgesh/ledge</a
+                >
+              </p>
+              <p>
+                Feedback is very much welcome. Any must-have features that are
+                missing?
+              </p>
+            </div>
           </section>
         </section>
         <section id="49901736">
@@ -305,53 +684,11 @@
             <h4>
               <span>2026-09-29 @ 22:36:14</span
               ><span class="points-container"
-                >Points: <span class="points">845</span></span
+                >Points: <span class="points">873</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49901736"
                   >Comments</a
-                ><span class="descendants">: 358</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49899090">
-          <h3>
-            <a
-              class="item"
-              href="https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/"
-              >U.S. postal inspectors shut down website selling counterfeit
-              postage labels</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-29 @ 19:30:17</span
-              ><span class="points-container"
-                >Points: <span class="points">273</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49899090"
-                  >Comments</a
-                ><span class="descendants">: 163</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49898778">
-          <h3>
-            <a class="item" href="https://space.bl2.net/"
-              >Show HN: Real-time Solar System with 526k asteroids and all
-              tracked satellites</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-29 @ 19:08:01</span
-              ><span class="points-container"
-                >Points: <span class="points">363</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49898778"
-                  >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 372</span></span
               >
             </h4>
           </section>
@@ -368,11 +705,11 @@
             <h4>
               <span>2026-09-29 @ 18:19:02</span
               ><span class="points-container"
-                >Points: <span class="points">351</span></span
+                >Points: <span class="points">372</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49897993"
                   >Comments</a
-                ><span class="descendants">: 260</span></span
+                ><span class="descendants">: 272</span></span
               >
             </h4>
             <div class="text">
@@ -380,6 +717,43 @@
                 href="https://electrek.co/2026/07/28/vermonts-largest-energy-source-is-now-a-virtual-power-plant/"
                 >https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...</a
               >
+            </div>
+          </section>
+        </section>
+        <section id="49896757">
+          <h3>
+            <a class="item" href="https://enigma.design"
+              >Show HN: A working 3D model of an Enigma machine</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-29 @ 17:15:56</span
+              ><span class="points-container"
+                >Points: <span class="points">93</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49896757"
+                  >Comments</a
+                ><span class="descendants">: 37</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                It's still a work in progress, but would love any feedback on
+                the experience so far!
+              </p>
+              <p>
+                1.
+                <a href="https://www.youtube.com/watch?v=JsBZOcqZerk"
+                  >https://www.youtube.com/watch?v=JsBZOcqZerk</a
+                >
+              </p>
+              <p>
+                2.
+                <a href="https://www.youtube.com/watch?v=ybkkiGtJmkM"
+                  >https://www.youtube.com/watch?v=ybkkiGtJmkM</a
+                >
+              </p>
             </div>
           </section>
         </section>
@@ -393,158 +767,11 @@
             <h4>
               <span>2026-09-29 @ 17:07:57</span
               ><span class="points-container"
-                >Points: <span class="points">727</span></span
+                >Points: <span class="points">747</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49896604"
                   >Comments</a
-                ><span class="descendants">: 615</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49896586">
-          <h3>
-            <a
-              class="item"
-              href="https://openai.com/index/introducing-gpt-6-1-sol/"
-              >GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-29 @ 17:06:45</span
-              ><span class="points-container"
-                >Points: <span class="points">1038</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49896586"
-                  >Comments</a
-                ><span class="descendants">: 918</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49895864">
-          <h3>
-            <a
-              class="item"
-              href="https://hereticpleb.vercel.app/blog/needed-one-plus-one/"
-              >Needed 1+1, built a functional programming language</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-29 @ 16:18:26</span
-              ><span class="points-container"
-                >Points: <span class="points">143</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49895864"
-                  >Comments</a
-                ><span class="descendants">: 66</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49893509">
-          <h3><a class="item" href="https://america.gov/">America.gov</a></h3>
-          <section>
-            <h4>
-              <span>2026-09-29 @ 14:04:57</span
-              ><span class="points-container"
-                >Points: <span class="points">737</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49893509"
-                  >Comments</a
-                ><span class="descendants">: 672</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49893157">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=49893157"
-              >Ask HN: What are you reading?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-29 @ 13:44:43</span
-              ><span class="points-container"
-                >Points: <span class="points">402</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49893157"
-                  >Comments</a
-                ><span class="descendants">: 808</span></span
-              >
-            </h4>
-            <div class="text">
-              I'm plowing through the Dungeon Crawler Carl series, which is not
-              particularly challenging as sci-fi/LitRPG goes, but entertaining
-              enough. I'm also wrapping up Doctorow's _Enshittification_, and
-              I'm looking for something a little meaty to keep the brain
-              working...
-            </div>
-          </section>
-        </section>
-        <section id="49893002">
-          <h3>
-            <a
-              class="item"
-              href="https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/"
-              >Backblaze drive stats for Q2 2026</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-29 @ 13:34:20</span
-              ><span class="points-container"
-                >Points: <span class="points">293</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49893002"
-                  >Comments</a
-                ><span class="descendants">: 100</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49892245">
-          <h3>
-            <a
-              class="item"
-              href="https://spectrum.ieee.org/delhi-electricity-loss"
-              >How Delhi cut electricity loss from 50 to 5 percent</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-29 @ 12:43:29</span
-              ><span class="points-container"
-                >Points: <span class="points">573</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49892245"
-                  >Comments</a
-                ><span class="descendants">: 314</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49891203">
-          <h3>
-            <a
-              class="item"
-              href="https://magazine.sebastianraschka.com/p/classifier-history-and-jev"
-              >Language models for text classification: From bag-of-words to
-              Jev</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-29 @ 11:06:25</span
-              ><span class="points-container"
-                >Points: <span class="points">193</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49891203"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 628</span></span
               >
             </h4>
           </section>
@@ -562,11 +789,11 @@
             <h4>
               <span>2026-09-29 @ 10:10:20</span
               ><span class="points-container"
-                >Points: <span class="points">292</span></span
+                >Points: <span class="points">309</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49890733"
                   >Comments</a
-                ><span class="descendants">: 334</span></span
+                ><span class="descendants">: 365</span></span
               >
             </h4>
           </section>
@@ -583,11 +810,11 @@
             <h4>
               <span>2026-09-29 @ 10:05:56</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49890707"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
             <div class="text">
@@ -611,7 +838,7 @@
             <h4>
               <span>2026-09-29 @ 06:45:46</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49889140"
                   >Comments</a
@@ -620,23 +847,23 @@
             </h4>
           </section>
         </section>
-        <section id="49888182">
+        <section id="49888039">
           <h3>
             <a
               class="item"
-              href="https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763"
-              >When oil prices spike, where does the money go?</a
+              href="https://www.eia.gov/kids/history-of-energy/timelines/photovoltaic.php"
+              >Energy Timelines Photovoltaic</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-29 @ 04:14:11</span
+              <span>2026-09-29 @ 03:59:46</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49888182"
+                ><a href="https://news.ycombinator.com/item?id=49888039"
                   >Comments</a
-                ><span class="descendants">: 148</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -653,84 +880,147 @@
             <h4>
               <span>2026-09-29 @ 02:27:54</span
               ><span class="points-container"
-                >Points: <span class="points">235</span></span
+                >Points: <span class="points">246</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49887343"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49883913">
+        <section id="49886535">
           <h3>
-            <a
-              class="item"
-              href="https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/"
-              >Testing WebGPU data layouts with Facet</a
+            <a class="item" href="https://dental-scope.com/"
+              >Show HN: Dental Scope – Interactive 3D dental anatomy</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-28 @ 20:28:08</span
+              <span>2026-09-29 @ 00:47:19</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49883913"
+                ><a href="https://news.ycombinator.com/item?id=49886535"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49880411">
+        <section id="49886422">
           <h3>
-            <a class="item" href="https://jagi.studio/posts/phyllotaxis/"
-              >Phyllotaxis: An audio-reactive LED display</a
+            <a class="item" href="https://github.com/Cardinal44/corral"
+              >Show HN: Corral – Kill every command your agent starts</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-28 @ 16:18:57</span
+              <span>2026-09-29 @ 00:35:05</span
               ><span class="points-container"
-                >Points: <span class="points">334</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49880411"
+                ><a href="https://news.ycombinator.com/item?id=49886422"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49879758">
-          <h3>
-            <a class="item" href="https://github.com/ciromattia/kcc"
-              >Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga
-              image quality</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-28 @ 15:39:42</span
-              ><span class="points-container"
-                >Points: <span class="points">71</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49879758"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
               <p>
-                Full details on what KCC does is in the readme with plenty of
-                photos!
+                There are issues about background processes from the Bash tool
+                not getting cleaned up when the session ends, and one where a
+                timeout sends SIGTERM to the whole process group and ends up
+                killing Claude Code itself. Most runners only kill the process
+                they started, so anything that double forks, runs in the
+                background, or keeps stdout open either survives or makes the
+                runner hang.
               </p>
               <p>
-                KCC has been under continuous development since 2012 and has
-                code sign on both Windows and macOS. Also available on Linux.
+                Corral was me attempting to make a fix for this problem, while
+                also trying to learn about processes and signals in Linux. You
+                run corral --wall 30s -- yourcommand and by the time it's done,
+                nothing it started should be running.
               </p>
-              <p>-the current kcc dev</p>
+              <p>
+                The command gets its own session so killing it can't kill you,
+                and there's a mode where it runs in its own cgroup so the whole
+                tree gets killed at once, including processes that may have
+                changed sessions or process groups.
+              </p>
+              <p>
+                If there's no cgroup available it tracks the tree through /proc
+                instead (this is a bit weaker, it still catches processes that
+                changed sessions once their parent dies, but it can't kill
+                anything running as a different user or anything handed off to
+                another service like systemd), and if it can't confirm
+                everything is dead it exits with 120.
+              </p>
+              <p>
+                Would love any feedback and more stuff along these lines i can
+                do to learn more
+              </p>
             </div>
+          </section>
+        </section>
+        <section id="49884346">
+          <h3>
+            <a class="item" href="https://github.com/mogrinz/AMT630A"
+              >Reverse-engineering a $35 backup camera display (AMT630A)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-28 @ 21:06:30</span
+              ><span class="points-container"
+                >Points: <span class="points">65</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49884346"
+                  >Comments</a
+                ><span class="descendants">: 24</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49883970">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records"
+              >I Could've Accessed 17T Microsoft Records</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-28 @ 20:32:46</span
+              ><span class="points-container"
+                >Points: <span class="points">233</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49883970"
+                  >Comments</a
+                ><span class="descendants">: 103</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49882754">
+          <h3>
+            <a
+              class="item"
+              href="https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson"
+              >Burning Man Death Rates – A Short Lesson in Statistics</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-28 @ 18:57:16</span
+              ><span class="points-container"
+                >Points: <span class="points">88</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49882754"
+                  >Comments</a
+                ><span class="descendants">: 112</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="49879346">
@@ -745,30 +1035,11 @@
             <h4>
               <span>2026-09-28 @ 15:12:43</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49879346"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49878857">
-          <h3>
-            <a class="item" href="https://sujithjay.com/inventing-work"
-              >A Staff Engineer's Guide to Inventing Work</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-28 @ 14:46:07</span
-              ><span class="points-container"
-                >Points: <span class="points">359</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49878857"
-                  >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
