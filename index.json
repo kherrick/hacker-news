@@ -1,6 +1,106 @@
 [
   [
     [
+      "2026-09-30, 18:17:45",
+      "https://news.ycombinator.com/item?id=49912444"
+    ],
+    [
+      "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "https://www.netlify.com/blog/edge-functions-firecracker-microvms/"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 17:37:40",
+      "https://news.ycombinator.com/item?id=49911995"
+    ],
+    [
+      "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "https://github.com/magnitudedev/magnitude"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 17:18:13",
+      "https://news.ycombinator.com/item?id=49911757"
+    ],
+    [
+      "Commit Description as a Thinking Tool",
+      "https://yedhu.me/posts/commit-description-as-a-thinking-tool/"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 17:00:20",
+      "https://news.ycombinator.com/item?id=49911531"
+    ],
+    [
+      "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 15:54:59",
+      "https://news.ycombinator.com/item?id=49910613"
+    ],
+    [
+      "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
+      "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 15:33:12",
+      "https://news.ycombinator.com/item?id=49910328"
+    ],
+    [
+      "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+      "https://openparrot.app"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 14:59:57",
+      "https://news.ycombinator.com/item?id=49909913"
+    ],
+    [
+      "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+      "https://strata.do/"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 14:36:02",
+      "https://news.ycombinator.com/item?id=49909610"
+    ],
+    [
+      "SDF Public Access Unix System ... est. 1987",
+      "https://sdf.org/"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 14:34:07",
+      "https://news.ycombinator.com/item?id=49909583"
+    ],
+    [
+      "A brief history of the Bloomberg terminal",
+      "https://spectrum.ieee.org/bloomberg-terminal"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 13:57:06",
+      "https://news.ycombinator.com/item?id=49909056"
+    ],
+    [
+      "What TLA+ can and can't check",
+      "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/"
+    ]
+  ],
+  [
+    [
       "2026-09-30, 13:50:50",
       "https://news.ycombinator.com/item?id=49908962"
     ],
@@ -11,22 +111,12 @@
   ],
   [
     [
-      "2026-09-30, 13:36:37",
-      "https://news.ycombinator.com/item?id=49908757"
+      "2026-09-30, 13:06:11",
+      "https://news.ycombinator.com/item?id=49908394"
     ],
     [
-      "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
-      "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 10:49:32",
-      "https://news.ycombinator.com/item?id=49907057"
-    ],
-    [
-      "Most data centers refusing to say how much water, electricity they use",
-      "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use"
+      "The last time my family was replaced by technology",
+      "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/"
     ]
   ],
   [
@@ -35,48 +125,28 @@
       "https://news.ycombinator.com/item?id=49906637"
     ],
     [
-      "Pi.dev: You Said No MCP",
+      "You Said No MCP",
       "https://earendil.com/posts/you-said-no-mcp/"
     ]
   ],
   [
     [
-      "2026-09-30, 07:12:31",
-      "https://news.ycombinator.com/item?id=49905487"
+      "2026-09-30, 04:19:57",
+      "https://news.ycombinator.com/item?id=49904314"
     ],
     [
-      "September 2026: The world today, as seen by one Polish guy",
-      "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/"
+      "LinkedIn Larpmaxxing",
+      "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/"
     ]
   ],
   [
     [
-      "2026-09-30, 03:00:05",
-      "https://news.ycombinator.com/item?id=49903862"
+      "2026-09-29, 23:41:34",
+      "https://news.ycombinator.com/item?id=49902382"
     ],
     [
-      "RSS Feeds for Last.fm",
-      "https://lfm.xiffy.nl/"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 23:10:26",
-      "https://news.ycombinator.com/item?id=49902093"
-    ],
-    [
-      "Floppy Emu Hardware Failure Analysis Results",
-      "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 23:03:38",
-      "https://news.ycombinator.com/item?id=49902019"
-    ],
-    [
-      "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
-      "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river"
+      "Show HN: Ledge.sh – Runnable Markdown Notes",
+      "https://ledge.sh"
     ]
   ],
   [
@@ -91,26 +161,6 @@
   ],
   [
     [
-      "2026-09-29, 19:30:17",
-      "https://news.ycombinator.com/item?id=49899090"
-    ],
-    [
-      "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 19:08:01",
-      "https://news.ycombinator.com/item?id=49898778"
-    ],
-    [
-      "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "https://space.bl2.net/"
-    ]
-  ],
-  [
-    [
       "2026-09-29, 18:19:02",
       "https://news.ycombinator.com/item?id=49897993"
     ],
@@ -121,82 +171,22 @@
   ],
   [
     [
+      "2026-09-29, 17:15:56",
+      "https://news.ycombinator.com/item?id=49896757"
+    ],
+    [
+      "Show HN: A working 3D model of an Enigma machine",
+      "https://enigma.design"
+    ]
+  ],
+  [
+    [
       "2026-09-29, 17:07:57",
       "https://news.ycombinator.com/item?id=49896604"
     ],
     [
       "Dots: Always-on agents",
       "https://openai.com/index/introducing-dots/"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 17:06:45",
-      "https://news.ycombinator.com/item?id=49896586"
-    ],
-    [
-      "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "https://openai.com/index/introducing-gpt-6-1-sol/"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 16:18:26",
-      "https://news.ycombinator.com/item?id=49895864"
-    ],
-    [
-      "Needed 1+1, built a functional programming language",
-      "https://hereticpleb.vercel.app/blog/needed-one-plus-one/"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 14:04:57",
-      "https://news.ycombinator.com/item?id=49893509"
-    ],
-    [
-      "America.gov",
-      "https://america.gov/"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 13:44:43",
-      "https://news.ycombinator.com/item?id=49893157"
-    ],
-    [
-      "Ask HN: What are you reading?",
-      "https://news.ycombinator.com/item?id=49893157"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 13:34:20",
-      "https://news.ycombinator.com/item?id=49893002"
-    ],
-    [
-      "Backblaze drive stats for Q2 2026",
-      "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 12:43:29",
-      "https://news.ycombinator.com/item?id=49892245"
-    ],
-    [
-      "How Delhi cut electricity loss from 50 to 5 percent",
-      "https://spectrum.ieee.org/delhi-electricity-loss"
-    ]
-  ],
-  [
-    [
-      "2026-09-29, 11:06:25",
-      "https://news.ycombinator.com/item?id=49891203"
-    ],
-    [
-      "Language models for text classification: From bag-of-words to Jev",
-      "https://magazine.sebastianraschka.com/p/classifier-history-and-jev"
     ]
   ],
   [
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2026-09-29, 04:14:11",
-      "https://news.ycombinator.com/item?id=49888182"
+      "2026-09-29, 03:59:46",
+      "https://news.ycombinator.com/item?id=49888039"
     ],
     [
-      "When oil prices spike, where does the money go?",
-      "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763"
+      "Energy Timelines Photovoltaic",
+      "https://www.eia.gov/kids/history-of-energy/timelines/photovoltaic.php"
     ]
   ],
   [
@@ -251,32 +241,52 @@
   ],
   [
     [
-      "2026-09-28, 20:28:08",
-      "https://news.ycombinator.com/item?id=49883913"
+      "2026-09-29, 00:47:19",
+      "https://news.ycombinator.com/item?id=49886535"
     ],
     [
-      "Testing WebGPU data layouts with Facet",
-      "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/"
+      "Show HN: Dental Scope – Interactive 3D dental anatomy",
+      "https://dental-scope.com/"
     ]
   ],
   [
     [
-      "2026-09-28, 16:18:57",
-      "https://news.ycombinator.com/item?id=49880411"
+      "2026-09-29, 00:35:05",
+      "https://news.ycombinator.com/item?id=49886422"
     ],
     [
-      "Phyllotaxis: An audio-reactive LED display",
-      "https://jagi.studio/posts/phyllotaxis/"
+      "Show HN: Corral – Kill every command your agent starts",
+      "https://github.com/Cardinal44/corral"
     ]
   ],
   [
     [
-      "2026-09-28, 15:39:42",
-      "https://news.ycombinator.com/item?id=49879758"
+      "2026-09-28, 21:06:30",
+      "https://news.ycombinator.com/item?id=49884346"
     ],
     [
-      "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
-      "https://github.com/ciromattia/kcc"
+      "Reverse-engineering a $35 backup camera display (AMT630A)",
+      "https://github.com/mogrinz/AMT630A"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 20:32:46",
+      "https://news.ycombinator.com/item?id=49883970"
+    ],
+    [
+      "I Could've Accessed 17T Microsoft Records",
+      "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records"
+    ]
+  ],
+  [
+    [
+      "2026-09-28, 18:57:16",
+      "https://news.ycombinator.com/item?id=49882754"
+    ],
+    [
+      "Burning Man Death Rates – A Short Lesson in Statistics",
+      "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Getting out of the way: my robotics crash course",
       "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/"
-    ]
-  ],
-  [
-    [
-      "2026-09-28, 14:46:07",
-      "https://news.ycombinator.com/item?id=49878857"
-    ],
-    [
-      "A Staff Engineer's Guide to Inventing Work",
-      "https://sujithjay.com/inventing-work"
     ]
   ]
 ]
