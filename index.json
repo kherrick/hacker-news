@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-10-01, 01:40:50",
-      "https://news.ycombinator.com/item?id=49916668"
+      "2026-10-01, 02:30:48",
+      "https://news.ycombinator.com/item?id=49916997"
     ],
     [
-      "10-year Treasury yield climbs above 5.3% to a level not seen in 24 years",
-      "https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f"
+      "Show HN: Yantra – an LALR(1) parser generator for C++",
+      "https://github.com/TantrixAuto/yantra"
     ]
   ],
   [
@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2026-09-30, 22:07:51",
-      "https://news.ycombinator.com/item?id=49915119"
-    ],
-    [
-      "Automating Wi-Fi setup testing on the ESP32",
-      "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/"
-    ]
-  ],
-  [
-    [
       "2026-09-30, 22:03:04",
       "https://news.ycombinator.com/item?id=49915082"
     ],
     [
-      "The top secret URSALA, RAQUEL, and FARRAH satellites",
+      "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
       "https://www.thespacereview.com/article/4951/1"
     ]
   ],
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2026-09-30, 17:00:20",
-      "https://news.ycombinator.com/item?id=49911531"
-    ],
-    [
-      "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-      "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer"
-    ]
-  ],
-  [
-    [
       "2026-09-30, 14:59:42",
       "https://news.ycombinator.com/item?id=49909908"
     ],
@@ -161,12 +141,12 @@
   ],
   [
     [
-      "2026-09-30, 14:38:57",
-      "https://news.ycombinator.com/item?id=49909648"
+      "2026-09-30, 14:36:02",
+      "https://news.ycombinator.com/item?id=49909610"
     ],
     [
-      "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
-      "https://lathoa.ai/en"
+      "SDF Public Access Unix System ... est. 1987",
+      "https://sdf.org/"
     ]
   ],
   [
@@ -211,12 +191,32 @@
   ],
   [
     [
+      "2026-09-30, 09:55:23",
+      "https://news.ycombinator.com/item?id=49906637"
+    ],
+    [
+      "You said no MCP",
+      "https://earendil.com/posts/you-said-no-mcp/"
+    ]
+  ],
+  [
+    [
       "2026-09-30, 09:27:04",
       "https://news.ycombinator.com/item?id=49906432"
     ],
     [
       "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
       "https://twitter.com/tuakdotsol/status/2105105417760391258"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 08:43:21",
+      "https://news.ycombinator.com/item?id=49906100"
+    ],
+    [
+      "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "https://github.com/maanHimself/OpenDLSS-NR"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-09-30, 04:19:57",
+      "https://news.ycombinator.com/item?id=49904314"
+    ],
+    [
+      "LinkedIn Larpmaxxing",
+      "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/"
+    ]
+  ],
+  [
+    [
       "2026-09-30, 02:36:12",
       "https://news.ycombinator.com/item?id=49903713"
     ],
@@ -241,32 +251,32 @@
   ],
   [
     [
-      "2026-09-29, 19:27:28",
-      "https://news.ycombinator.com/item?id=49899047"
+      "2026-09-29, 23:41:34",
+      "https://news.ycombinator.com/item?id=49902382"
     ],
     [
-      "A Closer Look at Australopithecus Africanus",
-      "https://lflank.wordpress.com/2026/09/29/a-closer-look-at-australopithecus-africanus/"
+      "Show HN: Ledge.sh – Runnable Markdown Notes",
+      "https://ledge.sh"
     ]
   ],
   [
     [
-      "2026-09-29, 17:58:44",
-      "https://news.ycombinator.com/item?id=49897600"
+      "2026-09-29, 15:40:03",
+      "https://news.ycombinator.com/item?id=49895221"
     ],
     [
-      "What a Massive New 728-Foot-Wide Crater Means for Future Moon Bases",
-      "https://www.nytimes.com/2026/09/21/science/space/what-a-massive-new-crater-means-for-future-moon-bases.html"
+      "PlayBook: A Programmable Paper Notebook [video]",
+      "https://www.youtube.com/watch?v=GurWDZ8ENpA"
     ]
   ],
   [
     [
-      "2026-09-29, 14:40:04",
-      "https://news.ycombinator.com/item?id=49894143"
+      "2026-09-29, 14:56:22",
+      "https://news.ycombinator.com/item?id=49894430"
     ],
     [
-      "Mechanochemistry of Molecular Motors [video]",
-      "https://www.youtube.com/watch?v=hpxbMVbL3Ms"
+      "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
+      "https://bookofshapes.com/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Why the Bronze Age Collapsed",
       "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age"
-    ]
-  ],
-  [
-    [
-      "2026-09-28, 20:32:46",
-      "https://news.ycombinator.com/item?id=49883970"
-    ],
-    [
-      "I could've accessed 17T Microsoft records",
-      "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records"
     ]
   ],
   [
