@@ -38,6 +38,7 @@
 * [2026-09-30, 10:49:32](https://news.ycombinator.com/item?id=49907057) - [Most data centers refusing to say how much water, electricity they use](https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use)
 * [2026-09-30, 09:55:23](https://news.ycombinator.com/item?id=49906637) - [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
 * [2026-09-30, 09:27:04](https://news.ycombinator.com/item?id=49906432) - [Singapore govt dating app uses Gale-Shapley stable marriage algorithm](https://twitter.com/tuakdotsol/status/2105105417760391258)
+* [2026-09-30, 08:43:21](https://news.ycombinator.com/item?id=49906100) - [OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network](https://github.com/maanHimself/OpenDLSS-NR)
 * [2026-09-30, 07:33:45](https://news.ycombinator.com/item?id=49905644) - [Doing a Machine Learning PhD While Working in Japan](https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan)
 * [2026-09-30, 07:12:31](https://news.ycombinator.com/item?id=49905487) - [September 2026: The world today, as seen by one Polish guy](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/)
 * [2026-09-30, 06:44:09](https://news.ycombinator.com/item?id=49905264) - [Postgres with QUIC](https://blogs.lupyd.com/blog/postgres-with-quic/)

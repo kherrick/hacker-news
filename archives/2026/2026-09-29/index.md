@@ -31,6 +31,8 @@
 * [2026-09-29, 16:25:09](https://news.ycombinator.com/item?id=49895970) - [What if Jev spoke Arrow?](https://columnar.tech/blog/what-if-jev-spoke-arrow/)
 * [2026-09-29, 16:18:26](https://news.ycombinator.com/item?id=49895864) - [Needed 1+1, built a functional programming language](https://hereticpleb.vercel.app/blog/needed-one-plus-one/)
 * [2026-09-29, 15:44:41](https://news.ycombinator.com/item?id=49895304) - [New PlayStation 5 Console Jailbreak Released](https://github.com/ntfargo/Relapse-Exploit)
+* [2026-09-29, 15:40:03](https://news.ycombinator.com/item?id=49895221) - [PlayBook: A Programmable Paper Notebook [video]](https://www.youtube.com/watch?v=GurWDZ8ENpA)
+* [2026-09-29, 14:56:22](https://news.ycombinator.com/item?id=49894430) - [Book of Shapes – Collection of minimal, generative and customizable SVG-patterns](https://bookofshapes.com/)
 * [2026-09-29, 14:51:36](https://news.ycombinator.com/item?id=49894351) - [Show HN: NSL – WSL for Linux](https://frostyard.github.io/nsl/)
 * [2026-09-29, 14:40:04](https://news.ycombinator.com/item?id=49894143) - [Mechanochemistry of Molecular Motors [video]](https://www.youtube.com/watch?v=hpxbMVbL3Ms)
 * [2026-09-29, 14:32:33](https://news.ycombinator.com/item?id=49894005) - [macOS Golden Gate Is a Buggy Mess](https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/)
