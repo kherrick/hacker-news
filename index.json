@@ -1,22 +1,152 @@
 [
   [
     [
-      "2026-10-01, 02:30:48",
-      "https://news.ycombinator.com/item?id=49916997"
+      "2026-10-01, 15:33:26",
+      "https://news.ycombinator.com/item?id=49923056"
     ],
     [
-      "Show HN: Yantra – an LALR(1) parser generator for C++",
-      "https://github.com/TantrixAuto/yantra"
+      "Red Hat Being Phased Out of Existence (Like Many Other Companies IBM Bought)",
+      "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml"
     ]
   ],
   [
     [
-      "2026-09-30, 22:08:50",
-      "https://news.ycombinator.com/item?id=49915126"
+      "2026-10-01, 15:11:10",
+      "https://news.ycombinator.com/item?id=49922736"
     ],
     [
-      "56k.rip – the 1996 dial-up internet experience",
-      "https://56k.rip/"
+      "OpenID Foundation: Identity Management for Agentic AI [pdf]",
+      "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 15:10:46",
+      "https://news.ycombinator.com/item?id=49922729"
+    ],
+    [
+      "Figma restricts MCP access to whitelisted clients, excluding Pi",
+      "https://twitter.com/GayaniFigma/status/2105295629941350454"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 15:02:51",
+      "https://news.ycombinator.com/item?id=49922594"
+    ],
+    [
+      "Polyedergarten: Garden of Paper Polyhedron Models",
+      "https://www.polyedergarten.de/e_index.htm"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 14:58:13",
+      "https://news.ycombinator.com/item?id=49922515"
+    ],
+    [
+      "RacketCon Is Saturday",
+      "https://con.racket-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 14:38:35",
+      "https://news.ycombinator.com/item?id=49922278"
+    ],
+    [
+      "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 13:05:51",
+      "https://news.ycombinator.com/item?id=49921118"
+    ],
+    [
+      "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 13:00:55",
+      "https://news.ycombinator.com/item?id=49921050"
+    ],
+    [
+      "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 12:55:27",
+      "https://news.ycombinator.com/item?id=49920997"
+    ],
+    [
+      "Google breaks promise to provide 10 years of updates to Chromebooks",
+      "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 12:48:59",
+      "https://news.ycombinator.com/item?id=49920932"
+    ],
+    [
+      "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 12:44:38",
+      "https://news.ycombinator.com/item?id=49920896"
+    ],
+    [
+      "How to speed up the Rust compiler in September 2026",
+      "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 11:13:59",
+      "https://news.ycombinator.com/item?id=49920234"
+    ],
+    [
+      "Returning from vacation? The government can search your phone without a warrant",
+      "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 10:59:57",
+      "https://news.ycombinator.com/item?id=49920160"
+    ],
+    [
+      "StreetComplete on iOS is now in public beta",
+      "https://github.com/streetcomplete/StreetComplete/issues/5421"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 10:21:36",
+      "https://news.ycombinator.com/item?id=49919910"
+    ],
+    [
+      "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 09:48:18",
+      "https://news.ycombinator.com/item?id=49919680"
+    ],
+    [
+      "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+      "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate"
     ]
   ],
   [
@@ -27,16 +157,6 @@
     [
       "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
       "https://www.thespacereview.com/article/4951/1"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 20:06:39",
-      "https://news.ycombinator.com/item?id=49913604"
-    ],
-    [
-      "Functional Ultrasound Imaging (fUSI) from scratch",
-      "https://www.neuroai.science/p/functional-ultrasound-imaging-from"
     ]
   ],
   [
@@ -57,16 +177,6 @@
     [
       "Halfspace experimental IDE for solid modeling with distance fields",
       "https://www.mattkeeter.com/projects/halfspace/"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 19:26:37",
-      "https://news.ycombinator.com/item?id=49913192"
-    ],
-    [
-      "EDG C++ front-end goes public",
-      "https://edgcpp.org/#transition"
     ]
   ],
   [
@@ -101,52 +211,12 @@
   ],
   [
     [
-      "2026-09-30, 17:42:13",
-      "https://news.ycombinator.com/item?id=49912048"
-    ],
-    [
-      "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-      "https://www.chompiclub.com/opensource"
-    ]
-  ],
-  [
-    [
       "2026-09-30, 17:37:40",
       "https://news.ycombinator.com/item?id=49911995"
     ],
     [
       "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
       "https://github.com/magnitudedev/magnitude"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 17:00:44",
-      "https://news.ycombinator.com/item?id=49911534"
-    ],
-    [
-      "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
-      "https://www.software3d.com/MillersMonster.php"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 14:59:42",
-      "https://news.ycombinator.com/item?id=49909908"
-    ],
-    [
-      "Coltrane's Tone Circle",
-      "https://jtomschroeder.com/blog/tone-circle/"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 14:36:02",
-      "https://news.ycombinator.com/item?id=49909610"
-    ],
-    [
-      "SDF Public Access Unix System ... est. 1987",
-      "https://sdf.org/"
     ]
   ],
   [
@@ -161,22 +231,12 @@
   ],
   [
     [
-      "2026-09-30, 13:57:06",
-      "https://news.ycombinator.com/item?id=49909056"
+      "2026-09-30, 13:53:46",
+      "https://news.ycombinator.com/item?id=49909005"
     ],
     [
-      "What TLA+ can and can't check",
-      "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 13:50:50",
-      "https://news.ycombinator.com/item?id=49908962"
-    ],
-    [
-      "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-      "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/"
+      "Los Alamos bets on ENIAC: Nuclear Monte Carlo simulations, 1947–1948 (2014) [pdf]",
+      "https://www.tomandmaria.com/Tom/Writing/LosAlamosBetsOnENIAC.pdf"
     ]
   ],
   [
@@ -191,62 +251,12 @@
   ],
   [
     [
-      "2026-09-30, 09:55:23",
-      "https://news.ycombinator.com/item?id=49906637"
-    ],
-    [
-      "You said no MCP",
-      "https://earendil.com/posts/you-said-no-mcp/"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 09:27:04",
-      "https://news.ycombinator.com/item?id=49906432"
-    ],
-    [
-      "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-      "https://twitter.com/tuakdotsol/status/2105105417760391258"
-    ]
-  ],
-  [
-    [
       "2026-09-30, 08:43:21",
       "https://news.ycombinator.com/item?id=49906100"
     ],
     [
       "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
       "https://github.com/maanHimself/OpenDLSS-NR"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 07:33:45",
-      "https://news.ycombinator.com/item?id=49905644"
-    ],
-    [
-      "Doing a Machine Learning PhD While Working in Japan",
-      "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 04:19:57",
-      "https://news.ycombinator.com/item?id=49904314"
-    ],
-    [
-      "LinkedIn Larpmaxxing",
-      "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 02:36:12",
-      "https://news.ycombinator.com/item?id=49903713"
-    ],
-    [
-      "Responsible Release of AI-Generated Mathematics",
-      "https://agmai.org/general-sep29/"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2026-09-29, 15:40:03",
-      "https://news.ycombinator.com/item?id=49895221"
-    ],
-    [
-      "PlayBook: A Programmable Paper Notebook [video]",
-      "https://www.youtube.com/watch?v=GurWDZ8ENpA"
-    ]
-  ],
-  [
-    [
       "2026-09-29, 14:56:22",
       "https://news.ycombinator.com/item?id=49894430"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-09-29, 14:05:13",
+      "https://news.ycombinator.com/item?id=49893519"
+    ],
+    [
+      "Adding Floating-Point Decimals for Fun and Profit",
+      "https://blog.vero.site/post/float"
+    ]
+  ],
+  [
+    [
       "2026-09-29, 10:10:18",
       "https://news.ycombinator.com/item?id=49890732"
     ],
     [
       "Why the Bronze Age Collapsed",
       "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age"
-    ]
-  ],
-  [
-    [
-      "2026-09-28, 18:57:16",
-      "https://news.ycombinator.com/item?id=49882754"
-    ],
-    [
-      "Burning Man death rates – A short lesson in statistics",
-      "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson"
     ]
   ]
 ]
