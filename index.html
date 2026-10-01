@@ -129,123 +129,317 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="49916997">
+        <section id="49923056">
           <h3>
-            <a class="item" href="https://github.com/TantrixAuto/yantra"
-              >Show HN: Yantra – an LALR(1) parser generator for C++</a
+            <a
+              class="item"
+              href="https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml"
+              >Red Hat Being Phased Out of Existence (Like Many Other Companies
+              IBM Bought)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-10-01 @ 02:30:48</span
+              <span>2026-10-01 @ 15:33:26</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49916997"
+                ><a href="https://news.ycombinator.com/item?id=49923056"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
-            <div class="text">
-              <p>
-                Most LALR parser generators (Yacc, Bison, Lemon) run your
-                semantic actions during parsing, as each rule reduces,
-                bottom-up.
-              </p>
-              <p>
-                That means at the time a rule's action runs, you don't yet know
-                what its parent looks like. This pushes a lot of grammars toward
-                hand-built AST classes and a separate walking pass whenever you
-                need to look ahead into siblings or defer a decision until more
-                context is available.
-              </p>
-              <p>
-                On the other hand, Yantra always builds the whole AST first,
-                then walks it top-down in a separate pass, calling your semantic
-                actions as it goes. A parent rule's action can run before its
-                children are visited.
-              </p>
-              <p>
-                A single grammar can define more than one walker. For example,
-                one that emits C++, another that emits Java, from the same
-                parse. The AST and the walker classes are both generated for
-                you.
-              </p>
-              <p>
-                A small example (full version, with compile commands, in the
-                README):
-              </p>
-              <p></p>
-              <pre><code>  start := expr;
-
-  expr := expr(a) PLUS expr(b)
-  %{
-      std::cout &lt;&lt; "Adding" &lt;&lt; std::endl;
-  %}
-
-  expr := NUMBER(N)
-  %{
-      std::cout &lt;&lt; "Number: " &lt;&lt; N.text &lt;&lt; std::endl;
-  %}
-
-  NUMBER := "\d+";
-  PLUS := "\+";
-  WS := "\s+"!;
-</code></pre>
-              Running this on "1 + 2 + 3" prints:
-              <p></p>
-              <pre><code>  Adding
-  Number: 1
-  Adding
-  Number: 2
-  Number: 3
-</code></pre>
-              The outer "Adding", the root of the tree, prints first, before
-              either of its children. That's only possible because the whole
-              tree exists before any action runs.
-              <p>
-                Some other things about it: integrated lexer with mode support
-                (for things like nested comments), an optional amalgamated
-                single-file output mode with a generated main(), C++23, MIT
-                licensed.
-              </p>
-              <p>
-                It's young (0.5.1, pre-1.0) and single-maintainer, so treat it
-                as early. I'd rather know what breaks than have it look more
-                finished than it is.
-              </p>
-              <p>
-                Known gaps are listed at
-                <a
-                  href="https://github.com/TantrixAuto/yantra/blob/main/docs/known_limitations.md"
-                  >https://github.com/TantrixAuto/yantra/blob/main/docs/known_l...</a
-                >
-              </p>
-              <p>
-                Repo:
-                <a href="https://github.com/TantrixAuto/yantra"
-                  >https://github.com/TantrixAuto/yantra</a
-                >
-              </p>
-              <p>Feedback and questions are all welcome. I'll be around.</p>
-            </div>
           </section>
         </section>
-        <section id="49915126">
+        <section id="49922736">
           <h3>
-            <a class="item" href="https://56k.rip/"
-              >56k.rip – the 1996 dial-up internet experience</a
+            <a
+              class="item"
+              href="https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf"
+              >OpenID Foundation: Identity Management for Agentic AI [pdf]</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-30 @ 22:08:50</span
+              <span>2026-10-01 @ 15:11:10</span
               ><span class="points-container"
-                >Points: <span class="points">240</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49915126"
+                ><a href="https://news.ycombinator.com/item?id=49922736"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 18</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49922729">
+          <h3>
+            <a
+              class="item"
+              href="https://twitter.com/GayaniFigma/status/2105295629941350454"
+              >Figma restricts MCP access to whitelisted clients, excluding
+              Pi</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-01 @ 15:10:46</span
+              ><span class="points-container"
+                >Points: <span class="points">148</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49922729"
+                  >Comments</a
+                ><span class="descendants">: 87</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49922594">
+          <h3>
+            <a class="item" href="https://www.polyedergarten.de/e_index.htm"
+              >Polyedergarten: Garden of Paper Polyhedron Models</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-01 @ 15:02:51</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49922594"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49922515">
+          <h3>
+            <a class="item" href="https://con.racket-lang.org/"
+              >RacketCon Is Saturday</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-01 @ 14:58:13</span
+              ><span class="points-container"
+                >Points: <span class="points">108</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49922515"
+                  >Comments</a
+                ><span class="descendants">: 28</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49922278">
+          <h3>
+            <a
+              class="item"
+              href="https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/"
+              >Cops Can Bypass iPhone's Automatic Reboot to Get into Locked
+              Phones</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-01 @ 14:38:35</span
+              ><span class="points-container"
+                >Points: <span class="points">204</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49922278"
+                  >Comments</a
+                ><span class="descendants">: 172</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49921118">
+          <h3>
+            <a
+              class="item"
+              href="https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html"
+              >Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-01 @ 13:05:51</span
+              ><span class="points-container"
+                >Points: <span class="points">242</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49921118"
+                  >Comments</a
+                ><span class="descendants">: 222</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49921050">
+          <h3>
+            <a
+              class="item"
+              href="https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
+              >FTC is investigating OpenAI, Anthropic and other AI companies
+              over product risks</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-01 @ 13:00:55</span
+              ><span class="points-container"
+                >Points: <span class="points">189</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49921050"
+                  >Comments</a
+                ><span class="descendants">: 134</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49920997">
+          <h3>
+            <a
+              class="item"
+              href="https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/"
+              >Google breaks promise to provide 10 years of updates to
+              Chromebooks</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-01 @ 12:55:27</span
+              ><span class="points-container"
+                >Points: <span class="points">339</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49920997"
+                  >Comments</a
+                ><span class="descendants">: 147</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49920932">
+          <h3>
+            <a
+              class="item"
+              href="https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026"
+              >Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and
+              2028 Than in 2026</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-01 @ 12:48:59</span
+              ><span class="points-container"
+                >Points: <span class="points">289</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49920932"
+                  >Comments</a
+                ><span class="descendants">: 335</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49920896">
+          <h3>
+            <a
+              class="item"
+              href="https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html"
+              >How to speed up the Rust compiler in September 2026</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-01 @ 12:44:38</span
+              ><span class="points-container"
+                >Points: <span class="points">204</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49920896"
+                  >Comments</a
+                ><span class="descendants">: 105</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49920234">
+          <h3>
+            <a
+              class="item"
+              href="https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/"
+              >Returning from vacation? The government can search your phone
+              without a warrant</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-01 @ 11:13:59</span
+              ><span class="points-container"
+                >Points: <span class="points">336</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49920234"
+                  >Comments</a
+                ><span class="descendants">: 311</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49920160">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/streetcomplete/StreetComplete/issues/5421"
+              >StreetComplete on iOS is now in public beta</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-01 @ 10:59:57</span
+              ><span class="points-container"
+                >Points: <span class="points">466</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49920160"
+                  >Comments</a
+                ><span class="descendants">: 106</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49919910">
+          <h3>
+            <a
+              class="item"
+              href="https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
+              >GPT-Synopsys: Frontier Intelligence to Revolutionize Chip
+              Design</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-01 @ 10:21:36</span
+              ><span class="points-container"
+                >Points: <span class="points">150</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49919910"
+                  >Comments</a
+                ><span class="descendants">: 81</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49919680">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate"
+              >Truemetrics (YC S23) Is Hiring a GTM Founder's Associate</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-01 @ 09:48:18</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
               >
             </h4>
           </section>
@@ -260,32 +454,11 @@
             <h4>
               <span>2026-09-30 @ 22:03:04</span
               ><span class="points-container"
-                >Points: <span class="points">273</span></span
+                >Points: <span class="points">295</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49915082"
                   >Comments</a
-                ><span class="descendants">: 134</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49913604">
-          <h3>
-            <a
-              class="item"
-              href="https://www.neuroai.science/p/functional-ultrasound-imaging-from"
-              >Functional Ultrasound Imaging (fUSI) from scratch</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-30 @ 20:06:39</span
-              ><span class="points-container"
-                >Points: <span class="points">50</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49913604"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 152</span></span
               >
             </h4>
           </section>
@@ -302,11 +475,11 @@
             <h4>
               <span>2026-09-30 @ 20:04:37</span
               ><span class="points-container"
-                >Points: <span class="points">1553</span></span
+                >Points: <span class="points">1629</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49913571"
                   >Comments</a
-                ><span class="descendants">: 1029</span></span
+                ><span class="descendants">: 1106</span></span
               >
             </h4>
             <div class="text">
@@ -334,37 +507,13 @@
             <h4>
               <span>2026-09-30 @ 19:44:37</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49913350"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="49913192">
-          <h3>
-            <a class="item" href="https://edgcpp.org/#transition"
-              >EDG C++ front-end goes public</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-30 @ 19:26:37</span
-              ><span class="points-container"
-                >Points: <span class="points">233</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49913192"
-                  >Comments</a
-                ><span class="descendants">: 122</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://github.com/edgcpp/compiler"
-                >https://github.com/edgcpp/compiler</a
-              >
-            </div>
           </section>
         </section>
         <section id="49912955">
@@ -379,11 +528,11 @@
             <h4>
               <span>2026-09-30 @ 19:04:50</span
               ><span class="points-container"
-                >Points: <span class="points">228</span></span
+                >Points: <span class="points">245</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49912955"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -400,11 +549,11 @@
             <h4>
               <span>2026-09-30 @ 18:49:06</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">272</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49912792"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -421,31 +570,11 @@
             <h4>
               <span>2026-09-30 @ 18:17:45</span
               ><span class="points-container"
-                >Points: <span class="points">205</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49912444"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49912048">
-          <h3>
-            <a class="item" href="https://www.chompiclub.com/opensource"
-              >CHOMPI portable sampler instrument is now open-source (hardware
-              and software)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-30 @ 17:42:13</span
-              ><span class="points-container"
-                >Points: <span class="points">99</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49912048"
-                  >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 99</span></span
               >
             </h4>
           </section>
@@ -461,11 +590,11 @@
             <h4>
               <span>2026-09-30 @ 17:37:40</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49911995"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
             <div class="text">
@@ -582,63 +711,6 @@
             </div>
           </section>
         </section>
-        <section id="49911534">
-          <h3>
-            <a class="item" href="https://www.software3d.com/MillersMonster.php"
-              >Great Dirhombicosidodecahedron ("Miller's Monster")</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-30 @ 17:00:44</span
-              ><span class="points-container"
-                >Points: <span class="points">77</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49911534"
-                  >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49909908">
-          <h3>
-            <a class="item" href="https://jtomschroeder.com/blog/tone-circle/"
-              >Coltrane's Tone Circle</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-30 @ 14:59:42</span
-              ><span class="points-container"
-                >Points: <span class="points">77</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49909908"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49909610">
-          <h3>
-            <a class="item" href="https://sdf.org/"
-              >SDF Public Access Unix System ... est. 1987</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-30 @ 14:36:02</span
-              ><span class="points-container"
-                >Points: <span class="points">97</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49909610"
-                  >Comments</a
-                ><span class="descendants">: 25</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="49909583">
           <h3>
             <a class="item" href="https://spectrum.ieee.org/bloomberg-terminal"
@@ -649,53 +721,33 @@
             <h4>
               <span>2026-09-30 @ 14:34:07</span
               ><span class="points-container"
-                >Points: <span class="points">344</span></span
+                >Points: <span class="points">370</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49909583"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49909056">
+        <section id="49909005">
           <h3>
             <a
               class="item"
-              href="https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/"
-              >What TLA+ can and can't check</a
+              href="https://www.tomandmaria.com/Tom/Writing/LosAlamosBetsOnENIAC.pdf"
+              >Los Alamos bets on ENIAC: Nuclear Monte Carlo simulations,
+              1947–1948 (2014) [pdf]</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-09-30 @ 13:57:06</span
+              <span>2026-09-30 @ 13:53:46</span
               ><span class="points-container"
-                >Points: <span class="points">223</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49909056"
+                ><a href="https://news.ycombinator.com/item?id=49909005"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49908962">
-          <h3>
-            <a
-              class="item"
-              href="https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/"
-              >SDF vs. MSDF vs. Slug: GPU Text Rendering</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-30 @ 13:50:50</span
-              ><span class="points-container"
-                >Points: <span class="points">168</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49908962"
-                  >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -712,59 +764,13 @@
             <h4>
               <span>2026-09-30 @ 13:06:11</span
               ><span class="points-container"
-                >Points: <span class="points">298</span></span
+                >Points: <span class="points">315</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49908394"
                   >Comments</a
-                ><span class="descendants">: 582</span></span
+                ><span class="descendants">: 615</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="49906637">
-          <h3>
-            <a class="item" href="https://earendil.com/posts/you-said-no-mcp/"
-              >You said no MCP</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-30 @ 09:55:23</span
-              ><span class="points-container"
-                >Points: <span class="points">652</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49906637"
-                  >Comments</a
-                ><span class="descendants">: 358</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49906432">
-          <h3>
-            <a
-              class="item"
-              href="https://twitter.com/tuakdotsol/status/2105105417760391258"
-              >Singapore govt dating app uses Gale-Shapley stable marriage
-              algorithm</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-30 @ 09:27:04</span
-              ><span class="points-container"
-                >Points: <span class="points">432</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49906432"
-                  >Comments</a
-                ><span class="descendants">: 425</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://www.bbc.com/news/articles/cqzjzr893yv4o"
-                >https://www.bbc.com/news/articles/cqzjzr893yv4o</a
-              >
-            </div>
           </section>
         </section>
         <section id="49906100">
@@ -778,72 +784,11 @@
             <h4>
               <span>2026-09-30 @ 08:43:21</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49906100"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49905644">
-          <h3>
-            <a
-              class="item"
-              href="https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan"
-              >Doing a Machine Learning PhD While Working in Japan</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-30 @ 07:33:45</span
-              ><span class="points-container"
-                >Points: <span class="points">126</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49905644"
-                  >Comments</a
-                ><span class="descendants">: 41</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49904314">
-          <h3>
-            <a
-              class="item"
-              href="https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/"
-              >LinkedIn Larpmaxxing</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-30 @ 04:19:57</span
-              ><span class="points-container"
-                >Points: <span class="points">271</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49904314"
-                  >Comments</a
-                ><span class="descendants">: 223</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49903713">
-          <h3>
-            <a class="item" href="https://agmai.org/general-sep29/"
-              >Responsible Release of AI-Generated Mathematics</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-30 @ 02:36:12</span
-              ><span class="points-container"
-                >Points: <span class="points">109</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49903713"
-                  >Comments</a
-                ><span class="descendants">: 155</span></span
+                ><span class="descendants">: 108</span></span
               >
             </h4>
           </section>
@@ -858,11 +803,11 @@
             <h4>
               <span>2026-09-29 @ 23:41:34</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">194</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49902382"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
             <div class="text">
@@ -901,25 +846,6 @@
             </div>
           </section>
         </section>
-        <section id="49895221">
-          <h3>
-            <a class="item" href="https://www.youtube.com/watch?v=GurWDZ8ENpA"
-              >PlayBook: A Programmable Paper Notebook [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-29 @ 15:40:03</span
-              ><span class="points-container"
-                >Points: <span class="points">31</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49895221"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="49894430">
           <h3>
             <a class="item" href="https://bookofshapes.com/"
@@ -931,11 +857,30 @@
             <h4>
               <span>2026-09-29 @ 14:56:22</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">235</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49894430"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 21</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49893519">
+          <h3>
+            <a class="item" href="https://blog.vero.site/post/float"
+              >Adding Floating-Point Decimals for Fun and Profit</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-09-29 @ 14:05:13</span
+              ><span class="points-container"
+                >Points: <span class="points">54</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49893519"
+                  >Comments</a
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -952,32 +897,11 @@
             <h4>
               <span>2026-09-29 @ 10:10:18</span
               ><span class="points-container"
-                >Points: <span class="points">338</span></span
+                >Points: <span class="points">384</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49890732"
                   >Comments</a
-                ><span class="descendants">: 223</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49882754">
-          <h3>
-            <a
-              class="item"
-              href="https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson"
-              >Burning Man death rates – A short lesson in statistics</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-09-28 @ 18:57:16</span
-              ><span class="points-container"
-                >Points: <span class="points">163</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49882754"
-                  >Comments</a
-                ><span class="descendants">: 214</span></span
+                ><span class="descendants">: 281</span></span
               >
             </h4>
           </section>
