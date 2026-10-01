@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-09-30](index.md)
 
 * [2026-09-30, 22:20:08](https://news.ycombinator.com/item?id=49915221) - [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
+* [2026-09-30, 22:08:50](https://news.ycombinator.com/item?id=49915126) - [56k.rip – the 1996 dial-up internet experience](https://56k.rip/)
+* [2026-09-30, 22:07:51](https://news.ycombinator.com/item?id=49915119) - [Automating Wi-Fi setup testing on the ESP32](https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/)
 * [2026-09-30, 22:03:04](https://news.ycombinator.com/item?id=49915082) - [The top secret URSALA, RAQUEL, and FARRAH satellites](https://www.thespacereview.com/article/4951/1)
 * [2026-09-30, 20:50:28](https://news.ycombinator.com/item?id=49914236) - [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon)
 * [2026-09-30, 20:32:23](https://news.ycombinator.com/item?id=49913975) - [Gitea 28.0](https://blog.gitea.com/release-of-28.0.0/)
