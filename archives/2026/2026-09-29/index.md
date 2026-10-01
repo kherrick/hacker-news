@@ -37,6 +37,7 @@
 * [2026-09-29, 14:40:04](https://news.ycombinator.com/item?id=49894143) - [Mechanochemistry of Molecular Motors [video]](https://www.youtube.com/watch?v=hpxbMVbL3Ms)
 * [2026-09-29, 14:32:33](https://news.ycombinator.com/item?id=49894005) - [macOS Golden Gate Is a Buggy Mess](https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/)
 * [2026-09-29, 14:12:15](https://news.ycombinator.com/item?id=49893653) - [Google ending ChromeOS support two years early](https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674)
+* [2026-09-29, 14:05:13](https://news.ycombinator.com/item?id=49893519) - [Adding Floating-Point Decimals for Fun and Profit](https://blog.vero.site/post/float)
 * [2026-09-29, 14:04:57](https://news.ycombinator.com/item?id=49893509) - [America.gov](https://america.gov/)
 * [2026-09-29, 13:44:43](https://news.ycombinator.com/item?id=49893157) - [Ask HN: What are you reading?](https://news.ycombinator.com/item?id=49893157)
 * [2026-09-29, 13:34:20](https://news.ycombinator.com/item?id=49893002) - [Backblaze drive stats for Q2 2026](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/)

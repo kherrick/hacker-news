@@ -32,6 +32,7 @@
 * [2026-09-30, 14:36:02](https://news.ycombinator.com/item?id=49909610) - [SDF Public Access Unix System ... est. 1987](https://sdf.org/)
 * [2026-09-30, 14:34:07](https://news.ycombinator.com/item?id=49909583) - [A brief history of the Bloomberg terminal](https://spectrum.ieee.org/bloomberg-terminal)
 * [2026-09-30, 13:57:06](https://news.ycombinator.com/item?id=49909056) - [What TLA+ can and can't check](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/)
+* [2026-09-30, 13:53:46](https://news.ycombinator.com/item?id=49909005) - [Los Alamos bets on ENIAC: Nuclear Monte Carlo simulations, 1947–1948 (2014) [pdf]](https://www.tomandmaria.com/Tom/Writing/LosAlamosBetsOnENIAC.pdf)
 * [2026-09-30, 13:50:50](https://news.ycombinator.com/item?id=49908962) - [SDF vs. MSDF vs. Slug: GPU Text Rendering](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)
 * [2026-09-30, 13:36:37](https://news.ycombinator.com/item?id=49908757) - [Upgrade your desktop: Ubuntu 26.04.1 LTS is now available](https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts)
 * [2026-09-30, 13:06:11](https://news.ycombinator.com/item?id=49908394) - [The last time my family was replaced by technology](https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/)
