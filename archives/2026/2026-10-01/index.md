@@ -21,6 +21,7 @@
 * [2026-10-01, 19:33:05](https://news.ycombinator.com/item?id=49926069) - [Pi 1.0](https://earendil.com/posts/pi-1-0/)
 * [2026-10-01, 19:24:08](https://news.ycombinator.com/item?id=49925969) - [Pi Durable](https://earendil.com/posts/pi-durable/)
 * [2026-10-01, 19:03:42](https://news.ycombinator.com/item?id=49925742) - [Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570)
+* [2026-10-01, 18:56:52](https://news.ycombinator.com/item?id=49925653) - [Giving friends custom text buzzes based on Morse code](https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/)
 * [2026-10-01, 18:25:46](https://news.ycombinator.com/item?id=49925261) - [iPod of 2026](https://sudo.music/)
 * [2026-10-01, 18:08:03](https://news.ycombinator.com/item?id=49925036) - [Bez: Generating a browser engine from specs and tests](https://tangled.org/burrito.space/bez)
 * [2026-10-01, 17:32:43](https://news.ycombinator.com/item?id=49924618) - [Vote on which of Hacker News' challenges for AI have been met](https://stoppels.ch/goalposts/)
