@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-02, 10:50:08](https://news.ycombinator.com/item?id=49932048) - [Why media fans want to escape algorithms with CDs, DVDs and vinyl](https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl)
+* [2026-10-02, 08:05:48](https://news.ycombinator.com/item?id=49931031) - [Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut)
 * [2026-10-02, 05:12:58](https://news.ycombinator.com/item?id=49930047) - [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
-* [2026-10-02, 04:56:02](https://news.ycombinator.com/item?id=49929970) - [Meta's Muse is fantastic for web scraping](https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/)
-* [2026-10-02, 03:11:20](https://news.ycombinator.com/item?id=49929489) - [DeepSeek Harness](https://www.deepseek.com/en/harness/)
+* [2026-10-02, 03:11:20](https://news.ycombinator.com/item?id=49929489) - [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/)
 * [2026-10-02, 01:56:52](https://news.ycombinator.com/item?id=49929113) - [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
 * [2026-10-01, 23:15:24](https://news.ycombinator.com/item?id=49928152) - [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
 * [2026-10-01, 23:10:44](https://news.ycombinator.com/item?id=49928121) - [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
@@ -16,7 +17,6 @@
 * [2026-10-01, 19:33:05](https://news.ycombinator.com/item?id=49926069) - [Pi 1.0](https://earendil.com/posts/pi-1-0/)
 * [2026-10-01, 19:24:08](https://news.ycombinator.com/item?id=49925969) - [Pi Durable](https://earendil.com/posts/pi-durable/)
 * [2026-10-01, 19:03:42](https://news.ycombinator.com/item?id=49925742) - [Oxygen-deprived underwater zones may not be “dead zones” but clue to early life](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570)
-* [2026-10-01, 18:08:03](https://news.ycombinator.com/item?id=49925036) - [Bez: Generating a browser engine from specs and tests](https://tangled.org/burrito.space/bez)
 * [2026-10-01, 17:32:43](https://news.ycombinator.com/item?id=49924618) - [Vote on which of Hacker News' challenges for AI have been met](https://stoppels.ch/goalposts/)
 * [2026-10-01, 16:57:03](https://news.ycombinator.com/item?id=49924179) - [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
 * [2026-10-01, 16:18:57](https://news.ycombinator.com/item?id=49923692) - [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
@@ -29,7 +29,7 @@
 * [2026-10-01, 13:58:25](https://news.ycombinator.com/item?id=49921798) - [Turbo Haskell](https://comonad.com/reader/2026/turbo-haskell/)
 * [2026-10-01, 12:44:38](https://news.ycombinator.com/item?id=49920896) - [How to speed up the Rust compiler in September 2026](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html)
 * [2026-10-01, 10:59:57](https://news.ycombinator.com/item?id=49920160) - [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
-* [2026-10-01, 09:47:46](https://news.ycombinator.com/item?id=49919676) - [To grieve, or not to grieve?](https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/)
+* [2026-10-01, 10:21:36](https://news.ycombinator.com/item?id=49919910) - [GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design)
 
 ## [Archives](archives/index.md)
 
