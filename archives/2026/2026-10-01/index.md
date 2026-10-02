@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-10-01](index.md)
 
+* [2026-10-01, 23:15:24](https://news.ycombinator.com/item?id=49928152) - [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
 * [2026-10-01, 23:10:44](https://news.ycombinator.com/item?id=49928121) - [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
 * [2026-10-01, 23:10:32](https://news.ycombinator.com/item?id=49928118) - [DoGBench: The first user-facing docs generation benchmark. No model scores >50%](https://dogbench.ai/)
 * [2026-10-01, 23:00:10](https://news.ycombinator.com/item?id=49928054) - [Apple's smart home camera reportedly won't record video](https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/)
 * [2026-10-01, 22:33:23](https://news.ycombinator.com/item?id=49927844) - [2026 International Utility Locate Rodeo](https://locaterodeo.net/)
+* [2026-10-01, 22:23:38](https://news.ycombinator.com/item?id=49927760) - [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/)
 * [2026-10-01, 22:02:31](https://news.ycombinator.com/item?id=49927587) - [Aweb – Communication for AI Agents](https://aweb.ai)
 * [2026-10-01, 21:21:32](https://news.ycombinator.com/item?id=49927212) - [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com)
 * [2026-10-01, 21:07:37](https://news.ycombinator.com/item?id=49927100) - [The death of web development education](https://molily.de/web-dev-education/)
@@ -40,6 +42,7 @@
 * [2026-10-01, 14:38:35](https://news.ycombinator.com/item?id=49922278) - [Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones](https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/)
 * [2026-10-01, 14:33:21](https://news.ycombinator.com/item?id=49922212) - [How to set up SPF, DKIM, and DMARC for your sending domain](https://mailfully.com/blog/spf-dkim-dmarc-setup)
 * [2026-10-01, 14:09:10](https://news.ycombinator.com/item?id=49921923) - [Cloudflare K2: serverless event streams](https://blog.cloudflare.com/cloudflare-k2-streams/)
+* [2026-10-01, 13:58:25](https://news.ycombinator.com/item?id=49921798) - [Turbo Haskell](https://comonad.com/reader/2026/turbo-haskell/)
 * [2026-10-01, 13:05:51](https://news.ycombinator.com/item?id=49921118) - [Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html)
 * [2026-10-01, 13:00:55](https://news.ycombinator.com/item?id=49921050) - [FTC is investigating OpenAI, Anthropic and other AI companies over product risks](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)
 * [2026-10-01, 12:55:27](https://news.ycombinator.com/item?id=49920997) - [Google breaks promise to provide 10 years of updates to Chromebooks](https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/)
@@ -49,5 +52,6 @@
 * [2026-10-01, 10:59:57](https://news.ycombinator.com/item?id=49920160) - [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
 * [2026-10-01, 10:21:36](https://news.ycombinator.com/item?id=49919910) - [GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design)
 * [2026-10-01, 09:48:18](https://news.ycombinator.com/item?id=49919680) - [Truemetrics (YC S23) Is Hiring a GTM Founder's Associate](https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate)
+* [2026-10-01, 09:47:46](https://news.ycombinator.com/item?id=49919676) - [To grieve, or not to grieve?](https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/)
 * [2026-10-01, 02:30:48](https://news.ycombinator.com/item?id=49916997) - [Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra)
 * [2026-10-01, 01:40:50](https://news.ycombinator.com/item?id=49916668) - [10-year Treasury yield climbs above 5.3% to a level not seen in 24 years](https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f)
