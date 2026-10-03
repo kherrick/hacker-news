@@ -1,32 +1,62 @@
 [
   [
     [
-      "2026-10-02, 21:25:25",
-      "https://news.ycombinator.com/item?id=49938783"
+      "2026-10-03, 03:19:10",
+      "https://news.ycombinator.com/item?id=49941114"
     ],
     [
-      "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "https://allenai.org/blog/astabrief"
+      "Extra Big Ass Intelligence",
+      "https://www.extrabigassintelligence.com/"
     ]
   ],
   [
     [
-      "2026-10-02, 21:06:56",
-      "https://news.ycombinator.com/item?id=49938616"
+      "2026-10-03, 03:15:05",
+      "https://news.ycombinator.com/item?id=49941091"
     ],
     [
-      "Every SaaS business will become a harness around a model",
-      "https://blog.sshh.io/p/the-harness-is-the-company"
+      "Cloudflare OHTTP gateway",
+      "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/"
     ]
   ],
   [
     [
-      "2026-10-02, 20:56:36",
-      "https://news.ycombinator.com/item?id=49938521"
+      "2026-10-03, 01:09:01",
+      "https://news.ycombinator.com/item?id=49940467"
     ],
     [
-      "Zig v0.17.0",
-      "https://ziglang.org/download/0.17.0/release-notes.html"
+      "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 00:55:25",
+      "https://news.ycombinator.com/item?id=49940394"
+    ],
+    [
+      "Newgrounds.com – A community of games, music, and art",
+      "https://www.newgrounds.com/"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 00:26:19",
+      "https://news.ycombinator.com/item?id=49940233"
+    ],
+    [
+      "Where Is the Planet",
+      "http://whereistheplanet.com"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 00:23:11",
+      "https://news.ycombinator.com/item?id=49940219"
+    ],
+    [
+      "Things that apparently cause cancer",
+      "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer"
     ]
   ],
   [
@@ -71,22 +101,22 @@
   ],
   [
     [
-      "2026-10-02, 18:09:38",
-      "https://news.ycombinator.com/item?id=49936671"
-    ],
-    [
-      "What if we stopped using GPUs? [video]",
-      "https://www.youtube.com/watch?v=xc2FTBGRSJo"
-    ]
-  ],
-  [
-    [
       "2026-10-02, 18:01:16",
       "https://news.ycombinator.com/item?id=49936575"
     ],
     [
       "From the creator of Redis; run LLM locally with ds4",
       "https://dwarfstar.sh/"
+    ]
+  ],
+  [
+    [
+      "2026-10-02, 17:48:54",
+      "https://news.ycombinator.com/item?id=49936398"
+    ],
+    [
+      "There's a new sea spider in town",
+      "https://nautil.us/theres-a-new-sea-spider-in-town-1285470"
     ]
   ],
   [
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2026-10-02, 12:46:50",
-      "https://news.ycombinator.com/item?id=49932911"
-    ],
-    [
-      "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
-      "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216"
-    ]
-  ],
-  [
-    [
-      "2026-10-02, 11:42:26",
-      "https://news.ycombinator.com/item?id=49932402"
-    ],
-    [
-      "On social reality in China",
-      "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china"
-    ]
-  ],
-  [
-    [
       "2026-10-02, 11:34:28",
       "https://news.ycombinator.com/item?id=49932340"
     ],
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2026-10-02, 11:13:02",
-      "https://news.ycombinator.com/item?id=49932191"
-    ],
-    [
-      "Our Project Suncatcher prototype satellite is in orbit",
-      "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/"
-    ]
-  ],
-  [
-    [
       "2026-10-02, 11:07:17",
       "https://news.ycombinator.com/item?id=49932147"
     ],
     [
       "A 12-year sequence of telescope images of a star and four planets orbiting",
       "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f"
-    ]
-  ],
-  [
-    [
-      "2026-10-02, 10:57:27",
-      "https://news.ycombinator.com/item?id=49932079"
-    ],
-    [
-      "F.02 Decommission",
-      "https://www.figure.ai/news/f-02-decommission"
     ]
   ],
   [
@@ -217,16 +207,6 @@
     [
       "Show HN: Giving Opus 5.5 a simulated paint canvas",
       "https://stillwet.art/"
-    ]
-  ],
-  [
-    [
-      "2026-10-01, 23:26:35",
-      "https://news.ycombinator.com/item?id=49928215"
-    ],
-    [
-      "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
-      "https://github.com/kitao/pyxel"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
-      "2026-09-30, 16:56:36",
-      "https://news.ycombinator.com/item?id=49911472"
+      "2026-10-01, 14:00:54",
+      "https://news.ycombinator.com/item?id=49921825"
     ],
     [
-      "Philip Sidney and the Extreme (Dis)Graces of the Parenthesis",
-      "https://publicdomainreview.org/essay/philip-sidney-and-the-extreme-disgraces-of-the-parenthesis/"
+      "OKI Develops 124-Layer PCB Technology",
+      "https://www.oki.com/global/press/2025/z25006e.html"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 17:46:04",
+      "https://news.ycombinator.com/item?id=49912091"
+    ],
+    [
+      "Billions of Triangles Redux",
+      "https://zeux.io/2026/09/30/billions-of-triangles-redux/"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 14:59:09",
+      "https://news.ycombinator.com/item?id=49909900"
+    ],
+    [
+      "Change Coupling: Why One-Line Fixes Touch Ten Files",
+      "https://kb.buildingbetterteams.de/docs/technology-product/Software/Change-Together/"
     ]
   ]
 ]
