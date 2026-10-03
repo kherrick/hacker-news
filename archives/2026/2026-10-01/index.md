@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-01](index.md)
 
+* [2026-10-01, 23:53:36](https://news.ycombinator.com/item?id=49928361) - [C++ Insights – See your source code with the eyes of a Compiler](https://github.com/andreasfertig/cppinsights)
 * [2026-10-01, 23:26:35](https://news.ycombinator.com/item?id=49928215) - [Show HN: Pyxel – A Python retro game engine with built-in art and sound editors](https://github.com/kitao/pyxel)
 * [2026-10-01, 23:15:24](https://news.ycombinator.com/item?id=49928152) - [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
 * [2026-10-01, 23:10:44](https://news.ycombinator.com/item?id=49928121) - [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)

@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-10-03](index.md)
 
+* [2026-10-03, 12:02:10](https://news.ycombinator.com/item?id=49943524) - [Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack)
+* [2026-10-03, 11:54:24](https://news.ycombinator.com/item?id=49943451) - [The Escalation of War in Ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
+* [2026-10-03, 10:43:51](https://news.ycombinator.com/item?id=49943034) - [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri)
 * [2026-10-03, 10:07:08](https://news.ycombinator.com/item?id=49942865) - [An AI agent emailed researchers for help. It told us why](https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why)
+* [2026-10-03, 09:59:01](https://news.ycombinator.com/item?id=49942818) - [GitHub's new dashboard experience now the default](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/)
+* [2026-10-03, 09:36:04](https://news.ycombinator.com/item?id=49942706) - [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
+* [2026-10-03, 08:40:17](https://news.ycombinator.com/item?id=49942434) - [Show HN: Offrun – manage every coding agent from one workspace](https://offrun.dev/)
 * [2026-10-03, 05:45:30](https://news.ycombinator.com/item?id=49941641) - [Memory-Safe WebP Decoding](https://halide.cx/blog/wpd/)
 * [2026-10-03, 04:53:57](https://news.ycombinator.com/item?id=49941447) - [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
 * [2026-10-03, 03:19:10](https://news.ycombinator.com/item?id=49941114) - [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
