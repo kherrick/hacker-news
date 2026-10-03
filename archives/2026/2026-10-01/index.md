@@ -39,6 +39,7 @@
 * [2026-10-01, 16:52:38](https://news.ycombinator.com/item?id=49924121) - [More like SC-Forth-thousand, am I right?](https://www.leadedsolder.com/2026/10/01/rc2026-10-sg1000-forth-port.html)
 * [2026-10-01, 16:18:57](https://news.ycombinator.com/item?id=49923692) - [Clef: Open-source decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
 * [2026-10-01, 16:14:40](https://news.ycombinator.com/item?id=49923638) - [Lightweight PDF parser with layout, tables, formulas and bounding boxes](https://github.com/beatrizalmeidaf/papero-pdf-text-extractor)
+* [2026-10-01, 16:11:31](https://news.ycombinator.com/item?id=49923602) - [MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today](https://www.red5.net/blog/mpeg-2-transport-streams-and-moq-yes-mpeg-ts-is-still-relevant-today/)
 * [2026-10-01, 16:01:56](https://news.ycombinator.com/item?id=49923466) - [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
 * [2026-10-01, 15:33:26](https://news.ycombinator.com/item?id=49923056) - [Red Hat Being Phased Out of Existence (Like Many Other Companies IBM Bought)](https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml)
 * [2026-10-01, 15:11:10](https://news.ycombinator.com/item?id=49922736) - [OpenID Foundation: Identity Management for Agentic AI [pdf]](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf)

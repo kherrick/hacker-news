@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-03](index.md)
 
+* [2026-10-03, 17:22:48](https://news.ycombinator.com/item?id=49946069) - [Kolibri – Tech Report [pdf]](https://aleph-alpha.com/downloads/tech-report.pdf)
+* [2026-10-03, 17:00:12](https://news.ycombinator.com/item?id=49945904) - [RetailReady (YC W24) Is Hiring](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations)
+* [2026-10-03, 15:52:07](https://news.ycombinator.com/item?id=49945323) - [City building games have a Soul Problem pt.2](https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2)
+* [2026-10-03, 15:02:36](https://news.ycombinator.com/item?id=49944912) - [FTL: A new operating system for clouds](https://ftl-os.org/)
 * [2026-10-03, 12:02:10](https://news.ycombinator.com/item?id=49943524) - [Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack)
 * [2026-10-03, 11:54:24](https://news.ycombinator.com/item?id=49943451) - [The Escalation of War in Ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
 * [2026-10-03, 10:43:51](https://news.ycombinator.com/item?id=49943034) - [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri)

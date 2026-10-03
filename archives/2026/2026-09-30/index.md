@@ -16,6 +16,7 @@
 * [2026-09-30, 19:45:38](https://news.ycombinator.com/item?id=49913364) - [Dear Software Makers](https://blog.jim-nielsen.com/2026/dear-software-makers/)
 * [2026-09-30, 19:44:37](https://news.ycombinator.com/item?id=49913350) - [Halfspace experimental IDE for solid modeling with distance fields](https://www.mattkeeter.com/projects/halfspace/)
 * [2026-09-30, 19:26:37](https://news.ycombinator.com/item?id=49913192) - [EDG C++ front-end goes public](https://edgcpp.org/#transition)
+* [2026-09-30, 19:17:45](https://news.ycombinator.com/item?id=49913106) - [Body Awareness in Goffin's Cockatoos](https://www.nature.com/articles/s41598-026-57500-7)
 * [2026-09-30, 19:04:50](https://news.ycombinator.com/item?id=49912955) - [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
 * [2026-09-30, 18:49:06](https://news.ycombinator.com/item?id=49912792) - [Before pixels: Modular industrial dashboards](https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/)
 * [2026-09-30, 18:17:45](https://news.ycombinator.com/item?id=49912444) - [5x faster Edge Functions: V8 isolates to Firecracker MicroVMs](https://www.netlify.com/blog/edge-functions-firecracker-microvms/)

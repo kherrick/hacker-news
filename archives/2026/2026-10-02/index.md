@@ -28,6 +28,7 @@
 * [2026-10-02, 15:24:54](https://news.ycombinator.com/item?id=49934569) - [Power approval set to delay Oracle's Wisconsin AI datacenter](https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832)
 * [2026-10-02, 15:19:56](https://news.ycombinator.com/item?id=49934511) - [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding)
 * [2026-10-02, 15:12:41](https://news.ycombinator.com/item?id=49934399) - [How accurately calibrated is Jev?](https://maximumeffort.substack.com/p/jev-is-poorly-calibrated)
+* [2026-10-02, 15:00:03](https://news.ycombinator.com/item?id=49934261) - [Holes (1996-2025)](https://plato.stanford.edu/entries/holes/)
 * [2026-10-02, 14:36:04](https://news.ycombinator.com/item?id=49934012) - [Fixing GRPO's credit assignment problem without evaluating every step](https://arxiv.org/abs/2609.36178)
 * [2026-10-02, 14:22:12](https://news.ycombinator.com/item?id=49933869) - [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
 * [2026-10-02, 14:11:24](https://news.ycombinator.com/item?id=49933740) - [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
