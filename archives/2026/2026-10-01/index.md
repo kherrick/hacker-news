@@ -50,6 +50,7 @@
 * [2026-10-01, 14:38:35](https://news.ycombinator.com/item?id=49922278) - [Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones](https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/)
 * [2026-10-01, 14:33:21](https://news.ycombinator.com/item?id=49922212) - [How to set up SPF, DKIM, and DMARC for your sending domain](https://mailfully.com/blog/spf-dkim-dmarc-setup)
 * [2026-10-01, 14:09:10](https://news.ycombinator.com/item?id=49921923) - [Cloudflare K2: serverless event streams](https://blog.cloudflare.com/cloudflare-k2-streams/)
+* [2026-10-01, 14:00:54](https://news.ycombinator.com/item?id=49921825) - [OKI Develops 124-Layer PCB Technology](https://www.oki.com/global/press/2025/z25006e.html)
 * [2026-10-01, 13:58:25](https://news.ycombinator.com/item?id=49921798) - [Turbo Haskell](https://comonad.com/reader/2026/turbo-haskell/)
 * [2026-10-01, 13:05:51](https://news.ycombinator.com/item?id=49921118) - [Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html)
 * [2026-10-01, 13:00:55](https://news.ycombinator.com/item?id=49921050) - [FTC is investigating OpenAI, Anthropic and other AI companies over product risks](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)

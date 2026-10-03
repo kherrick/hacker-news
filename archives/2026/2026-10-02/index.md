@@ -16,6 +16,7 @@
 * [2026-10-02, 19:06:56](https://news.ycombinator.com/item?id=49937276) - [Apple Pass Designer](https://developer.apple.com/pass-designer/)
 * [2026-10-02, 18:09:38](https://news.ycombinator.com/item?id=49936671) - [What if we stopped using GPUs? [video]](https://www.youtube.com/watch?v=xc2FTBGRSJo)
 * [2026-10-02, 18:01:16](https://news.ycombinator.com/item?id=49936575) - [From the creator of Redis; run LLM locally with ds4](https://dwarfstar.sh/)
+* [2026-10-02, 17:48:54](https://news.ycombinator.com/item?id=49936398) - [There's a new sea spider in town](https://nautil.us/theres-a-new-sea-spider-in-town-1285470)
 * [2026-10-02, 16:56:47](https://news.ycombinator.com/item?id=49935797) - [STS-51-F Abort-to-Orbit (1985)](https://en.wikipedia.org/wiki/STS-51-F)
 * [2026-10-02, 15:43:03](https://news.ycombinator.com/item?id=49934784) - [Supabase is acquiring Turso](https://supabase.com/blog/supabase-is-acquiring-turso)
 * [2026-10-02, 15:30:24](https://news.ycombinator.com/item?id=49934631) - [A 20-year-long permanent cookie: America.gov and tracking](https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions)
