@@ -25,6 +25,7 @@
 * [2026-09-30, 17:00:44](https://news.ycombinator.com/item?id=49911534) - [Great Dirhombicosidodecahedron (\"Miller's Monster\")](https://www.software3d.com/MillersMonster.php)
 * [2026-09-30, 17:00:20](https://news.ycombinator.com/item?id=49911531) - [Bild AI (YC W25) Is Hiring a Founding Product Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer)
 * [2026-09-30, 16:58:24](https://news.ycombinator.com/item?id=49911500) - [Show HN: Open-source model routing for coding agents at Astra-level performance](https://news.ycombinator.com/item?id=49911500)
+* [2026-09-30, 16:56:36](https://news.ycombinator.com/item?id=49911472) - [Philip Sidney and the Extreme (Dis)Graces of the Parenthesis](https://publicdomainreview.org/essay/philip-sidney-and-the-extreme-disgraces-of-the-parenthesis/)
 * [2026-09-30, 15:54:59](https://news.ycombinator.com/item?id=49910613) - [Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603)
 * [2026-09-30, 15:33:12](https://news.ycombinator.com/item?id=49910328) - [Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac](https://openparrot.app)
 * [2026-09-30, 14:59:57](https://news.ycombinator.com/item?id=49909913) - [Show HN: Strata – an expressive semantic layer that can say no to your LLM](https://strata.do/)

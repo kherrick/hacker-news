@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-10-02](index.md)
 
+* [2026-10-02, 21:25:25](https://news.ycombinator.com/item?id=49938783) - [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://allenai.org/blog/astabrief)
+* [2026-10-02, 21:06:56](https://news.ycombinator.com/item?id=49938616) - [Every SaaS business will become a harness around a model](https://blog.sshh.io/p/the-harness-is-the-company)
+* [2026-10-02, 20:56:36](https://news.ycombinator.com/item?id=49938521) - [Zig v0.17.0](https://ziglang.org/download/0.17.0/release-notes.html)
 * [2026-10-02, 20:39:05](https://news.ycombinator.com/item?id=49938326) - [Three AI agents, two countries, and one uneven world wide web](https://royapakzad.substack.com/p/multilingual-ai-agents)
 * [2026-10-02, 20:00:15](https://news.ycombinator.com/item?id=49937916) - [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
 * [2026-10-02, 19:45:06](https://news.ycombinator.com/item?id=49937718) - [GrapheneOS has fixed the Android 17 QPR1 kernel performance regression](https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression)
+* [2026-10-02, 19:37:01](https://news.ycombinator.com/item?id=49937631) - [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
 * [2026-10-02, 19:26:54](https://news.ycombinator.com/item?id=49937504) - [Muse Gadgets](https://gadgets.muse.ai)
 * [2026-10-02, 19:18:12](https://news.ycombinator.com/item?id=49937387) - [\"The only intuitive interface is the nipple\" (2012)](https://www.greenend.org.uk/rjk/misc/nipple.html)
 * [2026-10-02, 19:06:56](https://news.ycombinator.com/item?id=49937276) - [Apple Pass Designer](https://developer.apple.com/pass-designer/)
@@ -20,6 +24,7 @@
 * [2026-10-02, 15:19:56](https://news.ycombinator.com/item?id=49934511) - [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding)
 * [2026-10-02, 15:12:41](https://news.ycombinator.com/item?id=49934399) - [How accurately calibrated is Jev?](https://maximumeffort.substack.com/p/jev-is-poorly-calibrated)
 * [2026-10-02, 14:36:04](https://news.ycombinator.com/item?id=49934012) - [Fixing GRPO's credit assignment problem without evaluating every step](https://arxiv.org/abs/2609.36178)
+* [2026-10-02, 14:22:12](https://news.ycombinator.com/item?id=49933869) - [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
 * [2026-10-02, 14:11:24](https://news.ycombinator.com/item?id=49933740) - [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
 * [2026-10-02, 13:19:47](https://news.ycombinator.com/item?id=49933251) - [GPT-6 Astra plays World of Warcraft for the first time with agent-wow](https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/)
 * [2026-10-02, 13:18:32](https://news.ycombinator.com/item?id=49933235) - [The Legend of von Neumann (1973) [pdf]](https://gwern.net/doc/math/1973-halmos.pdf)
