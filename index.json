@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-10-03, 10:07:08",
+      "https://news.ycombinator.com/item?id=49942865"
+    ],
+    [
+      "An AI agent emailed researchers for help. It told us why",
+      "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 05:45:30",
+      "https://news.ycombinator.com/item?id=49941641"
+    ],
+    [
+      "Memory-Safe WebP Decoding",
+      "https://halide.cx/blog/wpd/"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 04:53:57",
+      "https://news.ycombinator.com/item?id=49941447"
+    ],
+    [
+      "An Update on Orion for Linux and Windows",
+      "https://blog.kagi.com/update-orion-linux-windows"
+    ]
+  ],
+  [
+    [
       "2026-10-03, 03:19:10",
       "https://news.ycombinator.com/item?id=49941114"
     ],
@@ -21,16 +51,6 @@
   ],
   [
     [
-      "2026-10-03, 01:09:01",
-      "https://news.ycombinator.com/item?id=49940467"
-    ],
-    [
-      "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-      "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf"
-    ]
-  ],
-  [
-    [
       "2026-10-03, 00:55:25",
       "https://news.ycombinator.com/item?id=49940394"
     ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2026-10-03, 00:26:19",
-      "https://news.ycombinator.com/item?id=49940233"
+      "2026-10-02, 20:37:07",
+      "https://news.ycombinator.com/item?id=49938306"
     ],
     [
-      "Where Is the Planet",
-      "http://whereistheplanet.com"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 00:23:11",
-      "https://news.ycombinator.com/item?id=49940219"
-    ],
-    [
-      "Things that apparently cause cancer",
-      "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer"
-    ]
-  ],
-  [
-    [
-      "2026-10-02, 20:00:15",
-      "https://news.ycombinator.com/item?id=49937916"
-    ],
-    [
-      "Show HN: Made an open-source Lego AI generator",
-      "https://github.com/anteloc/ldraw-nova"
+      "Barcodes are about to go extinct",
+      "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct"
     ]
   ],
   [
@@ -101,22 +101,22 @@
   ],
   [
     [
+      "2026-10-02, 18:53:34",
+      "https://news.ycombinator.com/item?id=49937146"
+    ],
+    [
+      "The Nintendo 64 Partner-N64 Development Kit",
+      "https://www.behindthecode.ca/partner-n64pc-dev-kit/"
+    ]
+  ],
+  [
+    [
       "2026-10-02, 18:01:16",
       "https://news.ycombinator.com/item?id=49936575"
     ],
     [
       "From the creator of Redis; run LLM locally with ds4",
       "https://dwarfstar.sh/"
-    ]
-  ],
-  [
-    [
-      "2026-10-02, 17:48:54",
-      "https://news.ycombinator.com/item?id=49936398"
-    ],
-    [
-      "There's a new sea spider in town",
-      "https://nautil.us/theres-a-new-sea-spider-in-town-1285470"
     ]
   ],
   [
@@ -171,22 +171,22 @@
   ],
   [
     [
-      "2026-10-02, 11:34:28",
-      "https://news.ycombinator.com/item?id=49932340"
-    ],
-    [
-      "Blogging with Gleam, Org-Mode and Pandoc",
-      "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/"
-    ]
-  ],
-  [
-    [
       "2026-10-02, 11:07:17",
       "https://news.ycombinator.com/item?id=49932147"
     ],
     [
       "A 12-year sequence of telescope images of a star and four planets orbiting",
       "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f"
+    ]
+  ],
+  [
+    [
+      "2026-10-02, 03:05:57",
+      "https://news.ycombinator.com/item?id=49929461"
+    ],
+    [
+      "Born Twice: Specimen and Record at the Moment of Collection",
+      "https://tjid3.org/if/ifcomp.html"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2026-10-01, 18:53:28",
-      "https://news.ycombinator.com/item?id=49925602"
-    ],
-    [
-      "Anatomy of a Lean proof for software engineers",
-      "https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/"
-    ]
-  ],
-  [
-    [
       "2026-10-01, 18:20:18",
       "https://news.ycombinator.com/item?id=49925184"
     ],
     [
       "Mike Tomlin spent 12 years building a Minecraft city",
       "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/"
+    ]
+  ],
+  [
+    [
+      "2026-10-01, 16:52:38",
+      "https://news.ycombinator.com/item?id=49924121"
+    ],
+    [
+      "More like SC-Forth-thousand, am I right?",
+      "https://www.leadedsolder.com/2026/10/01/rc2026-10-sg1000-forth-port.html"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-09-30, 17:46:04",
-      "https://news.ycombinator.com/item?id=49912091"
+      "2026-10-01, 06:46:48",
+      "https://news.ycombinator.com/item?id=49918480"
     ],
     [
-      "Billions of Triangles Redux",
-      "https://zeux.io/2026/09/30/billions-of-triangles-redux/"
+      "Programming the ENIAC (2011)",
+      "https://www.columbia.edu/cu/computinghistory/eniac.html"
     ]
   ],
   [
     [
-      "2026-09-30, 14:59:09",
-      "https://news.ycombinator.com/item?id=49909900"
+      "2026-09-30, 17:46:04",
+      "https://news.ycombinator.com/item?id=49912091"
     ],
     [
-      "Change Coupling: Why One-Line Fixes Touch Ten Files",
-      "https://kb.buildingbetterteams.de/docs/technology-product/Software/Change-Together/"
+      "Billions of triangles redux",
+      "https://zeux.io/2026/09/30/billions-of-triangles-redux/"
     ]
   ]
 ]
