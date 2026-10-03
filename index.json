@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-10-02, 20:39:05",
-      "https://news.ycombinator.com/item?id=49938326"
+      "2026-10-02, 21:25:25",
+      "https://news.ycombinator.com/item?id=49938783"
     ],
     [
-      "Three AI agents, two countries, and one uneven world wide web",
-      "https://royapakzad.substack.com/p/multilingual-ai-agents"
+      "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "https://allenai.org/blog/astabrief"
+    ]
+  ],
+  [
+    [
+      "2026-10-02, 21:06:56",
+      "https://news.ycombinator.com/item?id=49938616"
+    ],
+    [
+      "Every SaaS business will become a harness around a model",
+      "https://blog.sshh.io/p/the-harness-is-the-company"
+    ]
+  ],
+  [
+    [
+      "2026-10-02, 20:56:36",
+      "https://news.ycombinator.com/item?id=49938521"
+    ],
+    [
+      "Zig v0.17.0",
+      "https://ziglang.org/download/0.17.0/release-notes.html"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2026-10-02, 19:45:06",
-      "https://news.ycombinator.com/item?id=49937718"
+      "2026-10-02, 19:37:01",
+      "https://news.ycombinator.com/item?id=49937631"
     ],
     [
-      "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
-      "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression"
+      "Updates to Full Disk Access in macOS",
+      "https://developer.apple.com/news/?id=p6zjojqw"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Muse Gadgets",
       "https://gadgets.muse.ai"
-    ]
-  ],
-  [
-    [
-      "2026-10-02, 19:18:12",
-      "https://news.ycombinator.com/item?id=49937387"
-    ],
-    [
-      "\"The only intuitive interface is the nipple\" (2012)",
-      "https://www.greenend.org.uk/rjk/misc/nipple.html"
     ]
   ],
   [
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2026-10-02, 16:56:47",
-      "https://news.ycombinator.com/item?id=49935797"
-    ],
-    [
-      "STS-51-F Abort-to-Orbit (1985)",
-      "https://en.wikipedia.org/wiki/STS-51-F"
-    ]
-  ],
-  [
-    [
       "2026-10-02, 15:29:15",
       "https://news.ycombinator.com/item?id=49934620"
     ],
@@ -101,12 +101,12 @@
   ],
   [
     [
-      "2026-10-02, 15:12:41",
-      "https://news.ycombinator.com/item?id=49934399"
+      "2026-10-02, 14:22:12",
+      "https://news.ycombinator.com/item?id=49933869"
     ],
     [
-      "How accurately calibrated is Jev?",
-      "https://maximumeffort.substack.com/p/jev-is-poorly-calibrated"
+      "The Forgetful CPU (Linux on M4)",
+      "https://yuka.dev/blog-2026-10-02-linux-m4.html"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
       "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216"
-    ]
-  ],
-  [
-    [
-      "2026-10-02, 12:23:08",
-      "https://news.ycombinator.com/item?id=49932694"
-    ],
-    [
-      "100 years of student radio history in the DLARC college radio collections",
-      "https://blog.archive.org/2026/10/02/100-years-of-student-radio-history-in-the-dlarc-college-radio-collections/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Mike Tomlin spent 12 years building a Minecraft city",
       "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 16:56:36",
+      "https://news.ycombinator.com/item?id=49911472"
+    ],
+    [
+      "Philip Sidney and the Extreme (Dis)Graces of the Parenthesis",
+      "https://publicdomainreview.org/essay/philip-sidney-and-the-extreme-disgraces-of-the-parenthesis/"
     ]
   ]
 ]
