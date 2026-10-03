@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-10-03](index.md)
 
+* [2026-10-03, 19:33:16](https://news.ycombinator.com/item?id=49947051) - [We want you to build the next Git platform on Cloudflare](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
+* [2026-10-03, 19:12:27](https://news.ycombinator.com/item?id=49946873) - [Our AI Midwife](https://www.astralcodexten.com/p/our-ai-midwife)
+* [2026-10-03, 19:09:25](https://news.ycombinator.com/item?id=49946845) - [RSS Feed Best Practices (2022)](https://kevincox.ca/2022/05/06/rss-feed-best-practices/)
+* [2026-10-03, 19:07:18](https://news.ycombinator.com/item?id=49946827) - [Two American Airlines Flights End Up with the Same Flight Numbers](https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/)
+* [2026-10-03, 18:29:30](https://news.ycombinator.com/item?id=49946567) - [Getting the most out of Opus 5.5 in Claude and Claude Code](https://claude.dev/blog/getting-the-most-out-of-opus-5-5/)
+* [2026-10-03, 18:08:28](https://news.ycombinator.com/item?id=49946403) - [ADHD, autism or complex trauma? [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf)
+* [2026-10-03, 18:06:45](https://news.ycombinator.com/item?id=49946393) - [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
+* [2026-10-03, 17:23:20](https://news.ycombinator.com/item?id=49946076) - [Vx – One Language, Every Chip](https://vxlang.org/)
 * [2026-10-03, 17:22:48](https://news.ycombinator.com/item?id=49946069) - [Kolibri – Tech Report [pdf]](https://aleph-alpha.com/downloads/tech-report.pdf)
 * [2026-10-03, 17:00:12](https://news.ycombinator.com/item?id=49945904) - [RetailReady (YC W24) Is Hiring](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations)
 * [2026-10-03, 15:52:07](https://news.ycombinator.com/item?id=49945323) - [City building games have a Soul Problem pt.2](https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2)
