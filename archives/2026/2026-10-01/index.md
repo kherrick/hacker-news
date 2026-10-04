@@ -6,6 +6,7 @@
 
 * [2026-10-01, 23:53:36](https://news.ycombinator.com/item?id=49928361) - [C++ Insights – See your source code with the eyes of a Compiler](https://github.com/andreasfertig/cppinsights)
 * [2026-10-01, 23:26:35](https://news.ycombinator.com/item?id=49928215) - [Show HN: Pyxel – A Python retro game engine with built-in art and sound editors](https://github.com/kitao/pyxel)
+* [2026-10-01, 23:24:21](https://news.ycombinator.com/item?id=49928196) - [The Softmax function and its derivative](https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/)
 * [2026-10-01, 23:15:24](https://news.ycombinator.com/item?id=49928152) - [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
 * [2026-10-01, 23:10:44](https://news.ycombinator.com/item?id=49928121) - [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
 * [2026-10-01, 23:10:32](https://news.ycombinator.com/item?id=49928118) - [DoGBench: The first user-facing docs generation benchmark. No model scores >50%](https://dogbench.ai/)
@@ -15,6 +16,7 @@
 * [2026-10-01, 22:23:07](https://news.ycombinator.com/item?id=49927754) - [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
 * [2026-10-01, 22:22:21](https://news.ycombinator.com/item?id=49927747) - [Sites in ChatGPT](https://chatgpt.com/features/sites/)
 * [2026-10-01, 22:02:31](https://news.ycombinator.com/item?id=49927587) - [Aweb – Communication for AI Agents](https://aweb.ai)
+* [2026-10-01, 21:54:26](https://news.ycombinator.com/item?id=49927514) - [Gboard Conveyor Belt Version](https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt)
 * [2026-10-01, 21:29:52](https://news.ycombinator.com/item?id=49927295) - [Show HN: Graphene – Data analysis toolkit for your coding agent](https://github.com/graphene-data/graphene)
 * [2026-10-01, 21:21:32](https://news.ycombinator.com/item?id=49927212) - [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com)
 * [2026-10-01, 21:07:37](https://news.ycombinator.com/item?id=49927100) - [The death of web development education](https://molily.de/web-dev-education/)

@@ -40,6 +40,7 @@
 * [2026-09-30, 13:53:46](https://news.ycombinator.com/item?id=49909005) - [Los Alamos bets on ENIAC: Nuclear Monte Carlo simulations, 1947–1948 (2014) [pdf]](https://www.tomandmaria.com/Tom/Writing/LosAlamosBetsOnENIAC.pdf)
 * [2026-09-30, 13:50:50](https://news.ycombinator.com/item?id=49908962) - [SDF vs. MSDF vs. Slug: GPU Text Rendering](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)
 * [2026-09-30, 13:36:37](https://news.ycombinator.com/item?id=49908757) - [Upgrade your desktop: Ubuntu 26.04.1 LTS is now available](https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts)
+* [2026-09-30, 13:20:03](https://news.ycombinator.com/item?id=49908570) - [Your body of work thinks back at you](https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/)
 * [2026-09-30, 13:06:11](https://news.ycombinator.com/item?id=49908394) - [The last time my family was replaced by technology](https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/)
 * [2026-09-30, 10:49:32](https://news.ycombinator.com/item?id=49907057) - [Most data centers refusing to say how much water, electricity they use](https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use)
 * [2026-09-30, 09:55:23](https://news.ycombinator.com/item?id=49906637) - [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
