@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-10-04, 09:07:11",
+      "https://news.ycombinator.com/item?id=49952029"
+    ],
+    [
+      "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "https://gamehistory.org/5k-magazines/"
+    ]
+  ],
+  [
+    [
+      "2026-10-04, 08:39:58",
+      "https://news.ycombinator.com/item?id=49951881"
+    ],
+    [
+      "In Ukraine, distributed renewables foil Russia's assaults",
+      "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/"
+    ]
+  ],
+  [
+    [
+      "2026-10-04, 06:26:57",
+      "https://news.ycombinator.com/item?id=49951218"
+    ],
+    [
+      "Emitting metadata early makes building/checking Rust up to twice as fast",
+      "https://github.com/PowderworksCode/headstart"
+    ]
+  ],
+  [
+    [
       "2026-10-04, 04:10:47",
       "https://news.ycombinator.com/item?id=49950554"
     ],
     [
-      "Why don't more developers \"use the platform\"?",
+      "Why don't more developers “use the platform”?",
       "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/"
+    ]
+  ],
+  [
+    [
+      "2026-10-04, 02:34:22",
+      "https://news.ycombinator.com/item?id=49950052"
+    ],
+    [
+      "Religious scholars met with Anthropic",
+      "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
     ]
   ],
   [
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2026-10-03, 22:07:13",
-      "https://news.ycombinator.com/item?id=49948254"
-    ],
-    [
-      "Federal judge calls Flock 'indiscriminate mass surveillance'",
-      "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
-    ]
-  ],
-  [
-    [
       "2026-10-03, 20:49:15",
       "https://news.ycombinator.com/item?id=49947631"
     ],
@@ -71,6 +101,16 @@
   ],
   [
     [
+      "2026-10-03, 19:33:16",
+      "https://news.ycombinator.com/item?id=49947051"
+    ],
+    [
+      "We want you to build the next Git platform on Cloudflare",
+      "https://blog.cloudflare.com/next-git-platform-on-cloudflare/"
+    ]
+  ],
+  [
+    [
       "2026-10-03, 19:14:48",
       "https://news.ycombinator.com/item?id=49946895"
     ],
@@ -81,12 +121,22 @@
   ],
   [
     [
-      "2026-10-03, 19:09:25",
-      "https://news.ycombinator.com/item?id=49946845"
+      "2026-10-03, 18:52:06",
+      "https://news.ycombinator.com/item?id=49946707"
     ],
     [
-      "RSS Feed Best Practices (2022)",
-      "https://kevincox.ca/2022/05/06/rss-feed-best-practices/"
+      "How to hack time, with C2PA",
+      "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 18:23:48",
+      "https://news.ycombinator.com/item?id=49946526"
+    ],
+    [
+      "What Meta got right with Muse",
+      "https://metedata.substack.com/p/what-meta-got-right-with-muse"
     ]
   ],
   [
@@ -111,6 +161,16 @@
   ],
   [
     [
+      "2026-10-03, 17:44:29",
+      "https://news.ycombinator.com/item?id=49946228"
+    ],
+    [
+      "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
+    ]
+  ],
+  [
+    [
       "2026-10-03, 17:03:37",
       "https://news.ycombinator.com/item?id=49945933"
     ],
@@ -121,22 +181,12 @@
   ],
   [
     [
-      "2026-10-03, 17:00:12",
-      "https://news.ycombinator.com/item?id=49945904"
+      "2026-10-03, 15:52:07",
+      "https://news.ycombinator.com/item?id=49945323"
     ],
     [
-      "RetailReady (YC W24) Is Hiring",
-      "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 15:55:31",
-      "https://news.ycombinator.com/item?id=49945352"
-    ],
-    [
-      "Docker has always used microVMs (well since 2016)",
-      "https://dave.recoil.org/docker-has-always-used-microvms/"
+      "City building games have a Soul Problem pt.2",
+      "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2"
     ]
   ],
   [
@@ -161,62 +211,12 @@
   ],
   [
     [
-      "2026-10-03, 09:36:04",
-      "https://news.ycombinator.com/item?id=49942706"
-    ],
-    [
-      "Kolibri: A Sovereign Open-Weight Model",
-      "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/"
-    ]
-  ],
-  [
-    [
       "2026-10-03, 07:32:47",
       "https://news.ycombinator.com/item?id=49942130"
     ],
     [
       "Former SR-71 engineer talks NASA's Blackbird revival program",
       "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 07:28:54",
-      "https://news.ycombinator.com/item?id=49942103"
-    ],
-    [
-      "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-      "https://thoreaubasic.com/"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 06:14:16",
-      "https://news.ycombinator.com/item?id=49941764"
-    ],
-    [
-      "The characters of plastics (2024)",
-      "https://yarchive.net/blog/plastics/"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 05:45:30",
-      "https://news.ycombinator.com/item?id=49941641"
-    ],
-    [
-      "Memory-Safe WebP Decoding",
-      "https://halide.cx/blog/wpd/"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 02:28:03",
-      "https://news.ycombinator.com/item?id=49940877"
-    ],
-    [
-      "New York City should carefully measure a new tree",
-      "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-10-02, 20:44:38",
-      "https://news.ycombinator.com/item?id=49938399"
-    ],
-    [
-      "Woking Electrical Control Room (2016)",
-      "http://www.darbiansphotography.com/woking-electrical-control-room-urbex"
-    ]
-  ],
-  [
-    [
       "2026-10-02, 20:39:05",
       "https://news.ycombinator.com/item?id=49938326"
     ],
@@ -251,22 +241,32 @@
   ],
   [
     [
-      "2026-10-02, 19:10:38",
-      "https://news.ycombinator.com/item?id=49937304"
+      "2026-10-02, 17:16:28",
+      "https://news.ycombinator.com/item?id=49936017"
     ],
     [
-      "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-      "https://pipod.dev/"
+      "Dirty Optimization Secrets (C for Playdate)",
+      "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011"
     ]
   ],
   [
     [
-      "2026-10-01, 23:53:36",
-      "https://news.ycombinator.com/item?id=49928361"
+      "2026-10-02, 16:04:48",
+      "https://news.ycombinator.com/item?id=49935097"
     ],
     [
-      "C++ Insights – See your source code with the eyes of a Compiler",
-      "https://github.com/andreasfertig/cppinsights"
+      "gpuvis: GPU Trace Visualizer",
+      "https://github.com/mikesart/gpuvis"
+    ]
+  ],
+  [
+    [
+      "2026-10-02, 15:09:21",
+      "https://news.ycombinator.com/item?id=49934351"
+    ],
+    [
+      "Sea Monkeys Show Scientists How to Rewrite a Rule of Turbulence",
+      "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/"
     ]
   ],
   [
