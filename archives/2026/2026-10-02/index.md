@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-02](index.md)
 
+* [2026-10-02, 23:01:13](https://news.ycombinator.com/item?id=49939637) - [The Heilbronn Problem](https://math.tejstead.com/heilbronn/)
 * [2026-10-02, 21:25:25](https://news.ycombinator.com/item?id=49938783) - [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://allenai.org/blog/astabrief)
 * [2026-10-02, 21:06:56](https://news.ycombinator.com/item?id=49938616) - [Every SaaS business will become a harness around a model](https://blog.sshh.io/p/the-harness-is-the-company)
 * [2026-10-02, 20:56:36](https://news.ycombinator.com/item?id=49938521) - [Zig v0.17.0](https://ziglang.org/download/0.17.0/release-notes.html)
@@ -26,6 +27,7 @@
 * [2026-10-02, 17:16:28](https://news.ycombinator.com/item?id=49936017) - [Dirty Optimization Secrets (C for Playdate)](https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011)
 * [2026-10-02, 16:56:47](https://news.ycombinator.com/item?id=49935797) - [STS-51-F Abort-to-Orbit (1985)](https://en.wikipedia.org/wiki/STS-51-F)
 * [2026-10-02, 16:04:48](https://news.ycombinator.com/item?id=49935097) - [gpuvis: GPU Trace Visualizer](https://github.com/mikesart/gpuvis)
+* [2026-10-02, 16:01:30](https://news.ycombinator.com/item?id=49935038) - [Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs](https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos)
 * [2026-10-02, 15:43:03](https://news.ycombinator.com/item?id=49934784) - [Supabase is acquiring Turso](https://supabase.com/blog/supabase-is-acquiring-turso)
 * [2026-10-02, 15:30:24](https://news.ycombinator.com/item?id=49934631) - [A 20-year-long permanent cookie: America.gov and tracking](https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions)
 * [2026-10-02, 15:29:15](https://news.ycombinator.com/item?id=49934620) - [One month coding with GLM 5.3 Flash](https://wagtail.org/blog/one-month-on-glm-53-flash/)
@@ -52,6 +54,7 @@
 * [2026-10-02, 10:40:31](https://news.ycombinator.com/item?id=49931993) - [Show HN: Our space game has a built-in RISC-V emulator that runs Linux](https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/)
 * [2026-10-02, 09:57:02](https://news.ycombinator.com/item?id=49931725) - [Scientists invent underwater umbrellas to protect coral reefs](https://gizmodo.com/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working-2000819444)
 * [2026-10-02, 08:05:48](https://news.ycombinator.com/item?id=49931031) - [Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut)
+* [2026-10-02, 06:33:06](https://news.ycombinator.com/item?id=49930439) - [Glashütte Trash Clock – A 30-minute pendulum clock made from trash](https://niklasroy.com/gtc/)
 * [2026-10-02, 05:12:58](https://news.ycombinator.com/item?id=49930047) - [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
 * [2026-10-02, 04:56:02](https://news.ycombinator.com/item?id=49929970) - [Meta's Muse is fantastic for web scraping](https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/)
 * [2026-10-02, 03:11:20](https://news.ycombinator.com/item?id=49929489) - [DeepSeek Harness](https://www.deepseek.com/en/harness/)

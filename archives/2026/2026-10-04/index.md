@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-10-04](index.md)
 
+* [2026-10-04, 12:51:53](https://news.ycombinator.com/item?id=49953495) - [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
+* [2026-10-04, 11:58:47](https://news.ycombinator.com/item?id=49953116) - [Rejection Sensitivity in Gifted and Twice-Exceptional Children](https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and)
+* [2026-10-04, 09:24:52](https://news.ycombinator.com/item?id=49952111) - [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)
 * [2026-10-04, 09:07:11](https://news.ycombinator.com/item?id=49952029) - [VGHF Digital Archive passes 5000 magazines. Here's what's next](https://gamehistory.org/5k-magazines/)
 * [2026-10-04, 08:39:58](https://news.ycombinator.com/item?id=49951881) - [In Ukraine, distributed renewables foil Russia's assaults](https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/)
+* [2026-10-04, 07:53:45](https://news.ycombinator.com/item?id=49951641) - [What's the Future for Pure Math Research in the Age of AI?](https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/)
 * [2026-10-04, 06:26:57](https://news.ycombinator.com/item?id=49951218) - [Emitting metadata early makes building/checking Rust up to twice as fast](https://github.com/PowderworksCode/headstart)
 * [2026-10-04, 04:10:47](https://news.ycombinator.com/item?id=49950554) - [Why don't more developers \"use the platform\"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
 * [2026-10-04, 02:34:22](https://news.ycombinator.com/item?id=49950052) - [Religious scholars met with Anthropic](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html)
