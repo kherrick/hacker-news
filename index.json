@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-10-04, 12:51:53",
+      "https://news.ycombinator.com/item?id=49953495"
+    ],
+    [
+      "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "https://github.com/Niko1221/Strata"
+    ]
+  ],
+  [
+    [
+      "2026-10-04, 11:58:47",
+      "https://news.ycombinator.com/item?id=49953116"
+    ],
+    [
+      "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+      "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and"
+    ]
+  ],
+  [
+    [
+      "2026-10-04, 09:24:52",
+      "https://news.ycombinator.com/item?id=49952111"
+    ],
+    [
+      "Show HN: AI search for every photo and every frame of video on macOS",
+      "https://github.com/allenv0/SCM"
+    ]
+  ],
+  [
+    [
       "2026-10-04, 09:07:11",
       "https://news.ycombinator.com/item?id=49952029"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2026-10-04, 08:39:58",
-      "https://news.ycombinator.com/item?id=49951881"
+      "2026-10-04, 07:53:45",
+      "https://news.ycombinator.com/item?id=49951641"
     ],
     [
-      "In Ukraine, distributed renewables foil Russia's assaults",
-      "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/"
+      "What's the Future for Pure Math Research in the Age of AI?",
+      "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-10-03, 20:27:44",
-      "https://news.ycombinator.com/item?id=49947472"
-    ],
-    [
-      "Surely you have ultra-wideband radios on your bins too?",
-      "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/"
-    ]
-  ],
-  [
-    [
       "2026-10-03, 19:33:16",
       "https://news.ycombinator.com/item?id=49947051"
     ],
@@ -117,16 +137,6 @@
     [
       "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
       "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 18:52:06",
-      "https://news.ycombinator.com/item?id=49946707"
-    ],
-    [
-      "How to hack time, with C2PA",
-      "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-10-03, 15:52:07",
-      "https://news.ycombinator.com/item?id=49945323"
-    ],
-    [
-      "City building games have a Soul Problem pt.2",
-      "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2"
-    ]
-  ],
-  [
-    [
       "2026-10-03, 15:02:36",
       "https://news.ycombinator.com/item?id=49944912"
     ],
@@ -211,32 +211,22 @@
   ],
   [
     [
-      "2026-10-03, 07:32:47",
-      "https://news.ycombinator.com/item?id=49942130"
-    ],
-    [
-      "Former SR-71 engineer talks NASA's Blackbird revival program",
-      "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program"
-    ]
-  ],
-  [
-    [
       "2026-10-03, 01:11:15",
       "https://news.ycombinator.com/item?id=49940482"
     ],
     [
-      "Math's pedagogical curse – Grant Sanderson [video]",
+      "Math's pedagogical curse – Grant Sanderson [video] (2023)",
       "https://www.youtube.com/watch?v=UOuxo6SA8Uc"
     ]
   ],
   [
     [
-      "2026-10-02, 20:39:05",
-      "https://news.ycombinator.com/item?id=49938326"
+      "2026-10-02, 23:01:13",
+      "https://news.ycombinator.com/item?id=49939637"
     ],
     [
-      "Three AI agents, two countries, and one uneven world wide web",
-      "https://royapakzad.substack.com/p/multilingual-ai-agents"
+      "The Heilbronn Problem",
+      "https://math.tejstead.com/heilbronn/"
     ]
   ],
   [
@@ -261,12 +251,22 @@
   ],
   [
     [
-      "2026-10-02, 15:09:21",
-      "https://news.ycombinator.com/item?id=49934351"
+      "2026-10-02, 16:01:30",
+      "https://news.ycombinator.com/item?id=49935038"
     ],
     [
-      "Sea Monkeys Show Scientists How to Rewrite a Rule of Turbulence",
-      "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/"
+      "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
+      "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos"
+    ]
+  ],
+  [
+    [
+      "2026-10-02, 06:33:06",
+      "https://news.ycombinator.com/item?id=49930439"
+    ],
+    [
+      "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "https://niklasroy.com/gtc/"
     ]
   ],
   [
