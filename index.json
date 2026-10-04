@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-10-03, 22:18:13",
-      "https://news.ycombinator.com/item?id=49948332"
+      "2026-10-04, 04:10:47",
+      "https://news.ycombinator.com/item?id=49950554"
     ],
     [
-      "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
+      "Why don't more developers \"use the platform\"?",
+      "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/"
+    ]
+  ],
+  [
+    [
+      "2026-10-04, 01:12:22",
+      "https://news.ycombinator.com/item?id=49949588"
+    ],
+    [
+      "We're working on a new RuneScape MMO",
+      "https://play.runescape.com/4"
+    ]
+  ],
+  [
+    [
+      "2026-10-04, 00:50:52",
+      "https://news.ycombinator.com/item?id=49949438"
+    ],
+    [
+      "Tell HN: Bob Cringely has died",
+      "https://news.ycombinator.com/item?id=49949438"
+    ]
+  ],
+  [
+    [
+      "2026-10-04, 00:20:16",
+      "https://news.ycombinator.com/item?id=49949235"
+    ],
+    [
+      "We're going to need default hard budget caps on pretty much everything",
+      "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
     ]
   ],
   [
@@ -41,16 +71,6 @@
   ],
   [
     [
-      "2026-10-03, 19:33:16",
-      "https://news.ycombinator.com/item?id=49947051"
-    ],
-    [
-      "We want you to build the next Git platform on Cloudflare",
-      "https://blog.cloudflare.com/next-git-platform-on-cloudflare/"
-    ]
-  ],
-  [
-    [
       "2026-10-03, 19:14:48",
       "https://news.ycombinator.com/item?id=49946895"
     ],
@@ -71,36 +91,6 @@
   ],
   [
     [
-      "2026-10-03, 18:52:06",
-      "https://news.ycombinator.com/item?id=49946707"
-    ],
-    [
-      "How to hack time, with C2PA",
-      "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 18:29:30",
-      "https://news.ycombinator.com/item?id=49946567"
-    ],
-    [
-      "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 18:23:48",
-      "https://news.ycombinator.com/item?id=49946526"
-    ],
-    [
-      "What Meta got right with Muse",
-      "https://metedata.substack.com/p/what-meta-got-right-with-muse"
-    ]
-  ],
-  [
-    [
       "2026-10-03, 18:06:45",
       "https://news.ycombinator.com/item?id=49946393"
     ],
@@ -117,26 +107,6 @@
     [
       "Treachery in the Rodin Museum 3D scan verdict",
       "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 17:44:29",
-      "https://news.ycombinator.com/item?id=49946228"
-    ],
-    [
-      "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 17:23:20",
-      "https://news.ycombinator.com/item?id=49946076"
-    ],
-    [
-      "Vx – One Language, Every Chip",
-      "https://vxlang.org/"
     ]
   ],
   [
@@ -181,12 +151,12 @@
   ],
   [
     [
-      "2026-10-03, 12:27:31",
-      "https://news.ycombinator.com/item?id=49943685"
+      "2026-10-03, 13:46:34",
+      "https://news.ycombinator.com/item?id=49944227"
     ],
     [
-      "Watson Jr. memo about CDC 6600 (1963)",
-      "https://www.computerhistory.org/revolution/supercomputers/10/33/62"
+      "I quit OpenAI because its culture is broken",
+      "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA"
     ]
   ],
   [
@@ -201,12 +171,32 @@
   ],
   [
     [
+      "2026-10-03, 07:32:47",
+      "https://news.ycombinator.com/item?id=49942130"
+    ],
+    [
+      "Former SR-71 engineer talks NASA's Blackbird revival program",
+      "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program"
+    ]
+  ],
+  [
+    [
       "2026-10-03, 07:28:54",
       "https://news.ycombinator.com/item?id=49942103"
     ],
     [
       "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
       "https://thoreaubasic.com/"
+    ]
+  ],
+  [
+    [
+      "2026-10-03, 06:14:16",
+      "https://news.ycombinator.com/item?id=49941764"
+    ],
+    [
+      "The characters of plastics (2024)",
+      "https://yarchive.net/blog/plastics/"
     ]
   ],
   [
@@ -231,12 +221,32 @@
   ],
   [
     [
+      "2026-10-03, 01:11:15",
+      "https://news.ycombinator.com/item?id=49940482"
+    ],
+    [
+      "Math's pedagogical curse – Grant Sanderson [video]",
+      "https://www.youtube.com/watch?v=UOuxo6SA8Uc"
+    ]
+  ],
+  [
+    [
       "2026-10-02, 20:44:38",
       "https://news.ycombinator.com/item?id=49938399"
     ],
     [
       "Woking Electrical Control Room (2016)",
       "http://www.darbiansphotography.com/woking-electrical-control-room-urbex"
+    ]
+  ],
+  [
+    [
+      "2026-10-02, 20:39:05",
+      "https://news.ycombinator.com/item?id=49938326"
+    ],
+    [
+      "Three AI agents, two countries, and one uneven world wide web",
+      "https://royapakzad.substack.com/p/multilingual-ai-agents"
     ]
   ],
   [
@@ -261,32 +271,22 @@
   ],
   [
     [
-      "2026-10-01, 23:24:21",
-      "https://news.ycombinator.com/item?id=49928196"
-    ],
-    [
-      "The Softmax function and its derivative",
-      "https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/"
-    ]
-  ],
-  [
-    [
-      "2026-10-01, 21:54:26",
-      "https://news.ycombinator.com/item?id=49927514"
-    ],
-    [
-      "Gboard Conveyor Belt Version",
-      "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt"
-    ]
-  ],
-  [
-    [
       "2026-10-01, 16:32:40",
       "https://news.ycombinator.com/item?id=49923873"
     ],
     [
       "Celebrating the 100th birthday of the kidney donated to him as a teenager",
       "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/"
+    ]
+  ],
+  [
+    [
+      "2026-09-30, 15:43:27",
+      "https://news.ycombinator.com/item?id=49910462"
+    ],
+    [
+      "So you think you could be an electrician?",
+      "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician"
     ]
   ],
   [
