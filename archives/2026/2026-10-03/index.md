@@ -7,6 +7,7 @@
 * [2026-10-03, 22:18:13](https://news.ycombinator.com/item?id=49948332) - [OpenAI safety leader quits, warning AI company's culture is 'broken'](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)
 * [2026-10-03, 22:07:13](https://news.ycombinator.com/item?id=49948254) - [Federal judge calls Flock 'indiscriminate mass surveillance'](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
 * [2026-10-03, 20:49:15](https://news.ycombinator.com/item?id=49947631) - [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
+* [2026-10-03, 20:41:15](https://news.ycombinator.com/item?id=49947565) - ['Neanderthals Among Us' by Peter Sahlins Review](https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review)
 * [2026-10-03, 20:27:44](https://news.ycombinator.com/item?id=49947472) - [Surely you have ultra-wideband radios on your bins too?](https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/)
 * [2026-10-03, 19:33:16](https://news.ycombinator.com/item?id=49947051) - [We want you to build the next Git platform on Cloudflare](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
 * [2026-10-03, 19:14:48](https://news.ycombinator.com/item?id=49946895) - [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)

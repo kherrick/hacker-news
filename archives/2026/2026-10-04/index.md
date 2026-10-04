@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-10-04](index.md)
 
+* [2026-10-04, 18:19:24](https://news.ycombinator.com/item?id=49956416) - [The CISA Alert: Security Beyond Solitary Confinement](https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/)
+* [2026-10-04, 18:13:01](https://news.ycombinator.com/item?id=49956358) - [Software Engineering Is Dead. Long Live Product Engineering](https://newsletter.chainofthought.show/p/software-engineering-is-dead-long)
+* [2026-10-04, 17:54:49](https://news.ycombinator.com/item?id=49956183) - [Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN](https://awesomedataviz.com/)
+* [2026-10-04, 17:51:48](https://news.ycombinator.com/item?id=49956148) - [Building a RAG Pipeline for Semantic Code Search](https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/)
+* [2026-10-04, 16:25:17](https://news.ycombinator.com/item?id=49955297) - [Blindsight (Watts Novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
+* [2026-10-04, 15:43:14](https://news.ycombinator.com/item?id=49954882) - [Car is a smartphone on wheels. Here's who's listening](https://automatictransmission.khoury.northeastern.edu/)
 * [2026-10-04, 12:51:53](https://news.ycombinator.com/item?id=49953495) - [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
 * [2026-10-04, 11:58:47](https://news.ycombinator.com/item?id=49953116) - [Rejection Sensitivity in Gifted and Twice-Exceptional Children](https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and)
 * [2026-10-04, 09:24:52](https://news.ycombinator.com/item?id=49952111) - [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)
