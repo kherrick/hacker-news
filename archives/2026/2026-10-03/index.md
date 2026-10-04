@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-03](index.md)
 
+* [2026-10-03, 23:16:45](https://news.ycombinator.com/item?id=49948738) - [Declaring a bird extinct: The median wait is 36 years after the last sighting](https://birdshistory.com/how-long-to-declare-a-bird-extinct/)
 * [2026-10-03, 22:18:13](https://news.ycombinator.com/item?id=49948332) - [OpenAI safety leader quits, warning AI company's culture is 'broken'](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)
 * [2026-10-03, 22:07:13](https://news.ycombinator.com/item?id=49948254) - [Federal judge calls Flock 'indiscriminate mass surveillance'](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
 * [2026-10-03, 20:49:15](https://news.ycombinator.com/item?id=49947631) - [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
@@ -21,6 +22,7 @@
 * [2026-10-03, 18:06:45](https://news.ycombinator.com/item?id=49946393) - [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
 * [2026-10-03, 18:01:27](https://news.ycombinator.com/item?id=49946355) - [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict)
 * [2026-10-03, 17:44:29](https://news.ycombinator.com/item?id=49946228) - [LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/)
+* [2026-10-03, 17:35:42](https://news.ycombinator.com/item?id=49946148) - [Automating my 35mm film scanning pipeline](https://shannadige.com/blog/darkroom/)
 * [2026-10-03, 17:23:20](https://news.ycombinator.com/item?id=49946076) - [Vx – One Language, Every Chip](https://vxlang.org/)
 * [2026-10-03, 17:22:48](https://news.ycombinator.com/item?id=49946069) - [Kolibri – Tech Report [pdf]](https://aleph-alpha.com/downloads/tech-report.pdf)
 * [2026-10-03, 17:03:37](https://news.ycombinator.com/item?id=49945933) - [Agents don't need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory)

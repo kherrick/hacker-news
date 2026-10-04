@@ -70,5 +70,7 @@
 * [2026-10-01, 09:48:18](https://news.ycombinator.com/item?id=49919680) - [Truemetrics (YC S23) Is Hiring a GTM Founder's Associate](https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate)
 * [2026-10-01, 09:47:46](https://news.ycombinator.com/item?id=49919676) - [To grieve, or not to grieve?](https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/)
 * [2026-10-01, 06:46:48](https://news.ycombinator.com/item?id=49918480) - [Programming the ENIAC (2011)](https://www.columbia.edu/cu/computinghistory/eniac.html)
+* [2026-10-01, 03:52:10](https://news.ycombinator.com/item?id=49917536) - [What is going on with ceiling fans](https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans)
 * [2026-10-01, 02:30:48](https://news.ycombinator.com/item?id=49916997) - [Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra)
+* [2026-10-01, 01:55:51](https://news.ycombinator.com/item?id=49916753) - [Page Table Memory Consumption](https://frn.sh/pagetables/)
 * [2026-10-01, 01:40:50](https://news.ycombinator.com/item?id=49916668) - [10-year Treasury yield climbs above 5.3% to a level not seen in 24 years](https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f)
