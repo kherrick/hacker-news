@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-10-05, 05:09:43",
+      "https://news.ycombinator.com/item?id=49960901"
+    ],
+    [
+      "Replacement of Petroleum Based Products with Plant-Based Materials",
+      "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108"
+    ]
+  ],
+  [
+    [
+      "2026-10-05, 02:31:45",
+      "https://news.ycombinator.com/item?id=49960084"
+    ],
+    [
+      "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+      "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857"
+    ]
+  ],
+  [
+    [
+      "2026-10-05, 01:54:08",
+      "https://news.ycombinator.com/item?id=49959869"
+    ],
+    [
+      "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/"
+    ]
+  ],
+  [
+    [
+      "2026-10-05, 01:11:56",
+      "https://news.ycombinator.com/item?id=49959654"
+    ],
+    [
+      "A 40ms Go garbage collector pause caused by swap",
+      "https://frn.sh/go-gc/"
+    ]
+  ],
+  [
+    [
       "2026-10-04, 23:02:43",
       "https://news.ycombinator.com/item?id=49958850"
     ],
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2026-10-04, 18:59:25",
-      "https://news.ycombinator.com/item?id=49956771"
-    ],
-    [
-      "Show HN: Build with Python – a beginner course where your code draws",
-      "https://scimigo.com/en/learn/build-with-python/01-draw-with-python"
-    ]
-  ],
-  [
-    [
       "2026-10-04, 18:49:17",
       "https://news.ycombinator.com/item?id=49956681"
     ],
@@ -81,12 +111,12 @@
   ],
   [
     [
-      "2026-10-04, 17:42:38",
-      "https://news.ycombinator.com/item?id=49956035"
+      "2026-10-04, 17:47:21",
+      "https://news.ycombinator.com/item?id=49956092"
     ],
     [
-      "Incentives in Academic Research",
-      "https://www.msoos.org/2026/10/incentives-in-academic-research/"
+      "All I wanted was a custom domain email",
+      "https://jacobg.co/emails-at-jacobg-co/"
     ]
   ],
   [
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2026-10-04, 06:26:57",
-      "https://news.ycombinator.com/item?id=49951218"
-    ],
-    [
-      "Emitting metadata early makes building/checking Rust up to twice as fast",
-      "https://github.com/PowderworksCode/headstart"
-    ]
-  ],
-  [
-    [
-      "2026-10-04, 04:10:47",
-      "https://news.ycombinator.com/item?id=49950554"
-    ],
-    [
-      "Why don't more developers “use the platform”?",
-      "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/"
-    ]
-  ],
-  [
-    [
       "2026-10-04, 00:50:52",
       "https://news.ycombinator.com/item?id=49949438"
     ],
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2026-10-03, 23:16:45",
-      "https://news.ycombinator.com/item?id=49948738"
+      "2026-10-03, 22:14:00",
+      "https://news.ycombinator.com/item?id=49948300"
     ],
     [
-      "Declaring a bird extinct: The median wait is 36 years after the last sighting",
-      "https://birdshistory.com/how-long-to-declare-a-bird-extinct/"
+      "We ported the original Doom to SQL",
+      "https://cedardb.com/blog/sqldoom/"
     ]
   ],
   [
@@ -191,22 +201,22 @@
   ],
   [
     [
-      "2026-10-03, 20:27:44",
-      "https://news.ycombinator.com/item?id=49947472"
+      "2026-10-03, 17:35:42",
+      "https://news.ycombinator.com/item?id=49946148"
     ],
     [
-      "Surely you have ultra-wideband radios on your bins too?",
-      "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/"
+      "Automating my 35mm film scanning pipeline",
+      "https://shannadige.com/blog/darkroom/"
     ]
   ],
   [
     [
-      "2026-10-03, 17:03:37",
-      "https://news.ycombinator.com/item?id=49945933"
+      "2026-10-03, 12:27:31",
+      "https://news.ycombinator.com/item?id=49943685"
     ],
     [
-      "Agents don't need memory, they need documentation",
-      "https://liao.gg/blog/agents-dont-need-memory"
+      "Watson Jr. memo about CDC 6600 (1963)",
+      "https://www.computerhistory.org/revolution/supercomputers/10/33/62"
     ]
   ],
   [
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=49940044"
     ],
     [
-      "Demystifying Tufte's data-ink ratio – Tufte's Razor",
+      "Demystifying Tufte's data-ink ratio",
       "https://tuftesrazor.scienceux.org/"
     ]
   ],
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2026-10-02, 14:42:44",
-      "https://news.ycombinator.com/item?id=49934078"
+      "2026-10-02, 11:19:36",
+      "https://news.ycombinator.com/item?id=49932236"
     ],
     [
-      "Results from the ASIC puzzle",
-      "https://blog.janestreet.com/asic-puzzle-results/"
-    ]
-  ],
-  [
-    [
-      "2026-10-02, 13:45:49",
-      "https://news.ycombinator.com/item?id=49933461"
-    ],
-    [
-      "A map of every lighthouse",
-      "https://mapped.earth/lighthouses/world"
+      "The Tao of Backup",
+      "http://www.taobackup.com/index.html"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-10-01, 11:31:08",
+      "https://news.ycombinator.com/item?id=49920332"
+    ],
+    [
+      "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
+      "https://www.cambridge.org/core/journals/iraq/article/gods-in-the-classroom-religion-and-education-in-1st-millennium-bce-babylonia/EB059EE81804DCBC1848CACBD6298E0B"
+    ]
+  ],
+  [
+    [
       "2026-10-01, 03:52:10",
       "https://news.ycombinator.com/item?id=49917536"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-10-01, 01:55:51",
-      "https://news.ycombinator.com/item?id=49916753"
+      "2026-10-01, 01:22:48",
+      "https://news.ycombinator.com/item?id=49916550"
     ],
     [
-      "Page Table Memory Consumption",
-      "https://frn.sh/pagetables/"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 15:44:02",
-      "https://news.ycombinator.com/item?id=49910465"
-    ],
-    [
-      "cp: -r or -R?",
-      "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html"
+      "Fixed Points and Strike Mandates",
+      "https://pvk.ca/Blog/2012/02/19/fixed-points-and-strike-mandates/"
     ]
   ]
 ]
