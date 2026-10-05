@@ -1,92 +1,132 @@
 [
   [
     [
-      "2026-10-05, 13:22:31",
-      "https://news.ycombinator.com/item?id=49964537"
+      "2026-10-05, 21:15:07",
+      "https://news.ycombinator.com/item?id=49970871"
     ],
     [
-      "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-      "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a"
+      "Dust: Pretraining Transformers Without Backpropagation",
+      "https://qlabs.sh/research/dust"
     ]
   ],
   [
     [
-      "2026-10-05, 13:02:25",
-      "https://news.ycombinator.com/item?id=49964303"
+      "2026-10-05, 21:00:21",
+      "https://news.ycombinator.com/item?id=49970667"
     ],
     [
-      "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
-      "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped"
+      "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"
     ]
   ],
   [
     [
-      "2026-10-05, 12:59:14",
-      "https://news.ycombinator.com/item?id=49964265"
+      "2026-10-05, 20:49:51",
+      "https://news.ycombinator.com/item?id=49970507"
     ],
     [
-      "Gitframes",
-      "https://github.com/gatewai-dev/gitframes"
+      "WSL containers is now generally available",
+      "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/"
     ]
   ],
   [
     [
-      "2026-10-05, 12:35:55",
-      "https://news.ycombinator.com/item?id=49964045"
+      "2026-10-05, 20:17:07",
+      "https://news.ycombinator.com/item?id=49970073"
     ],
     [
-      "Tell HN: Uceprotect is extorting website owners",
-      "https://news.ycombinator.com/item?id=49964045"
+      "A third way of using Linux",
+      "https://hisvirusness.com/third-is-the-way"
     ]
   ],
   [
     [
-      "2026-10-05, 12:33:15",
-      "https://news.ycombinator.com/item?id=49964018"
+      "2026-10-05, 20:09:12",
+      "https://news.ycombinator.com/item?id=49969961"
     ],
     [
-      "The Era of Software Quality, or the Era of Ostriches?",
-      "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/"
+      "Incident with Actions",
+      "https://www.githubstatus.com/incidents/3q1yb5m7ltvb"
     ]
   ],
   [
     [
-      "2026-10-05, 12:21:02",
-      "https://news.ycombinator.com/item?id=49963895"
+      "2026-10-05, 19:30:21",
+      "https://news.ycombinator.com/item?id=49969375"
     ],
     [
-      "Anthropic wants your thoughts on AI",
-      "https://www.anthropic.com/research/your-thoughts-on-ai"
+      "After bankruptcy, he was banned from sports betting sites. Then he found Kalshi",
+      "https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction"
     ]
   ],
   [
     [
-      "2026-10-05, 11:18:18",
-      "https://news.ycombinator.com/item?id=49963394"
+      "2026-10-05, 19:22:40",
+      "https://news.ycombinator.com/item?id=49969256"
     ],
     [
-      "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
-      "https://github.com/project-minigraf/minigraf"
+      "The Future of Mathematics",
+      "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/"
     ]
   ],
   [
     [
-      "2026-10-05, 11:17:18",
-      "https://news.ycombinator.com/item?id=49963385"
+      "2026-10-05, 19:16:35",
+      "https://news.ycombinator.com/item?id=49969183"
     ],
     [
-      "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
-      "https://github.com/rui314/mold/releases/tag/v3.0.0"
+      "Beam: Reflection's 501B open-weight model",
+      "https://reflection.ai/blog/introducing-beam"
     ]
   ],
   [
     [
-      "2026-10-05, 11:13:51",
-      "https://news.ycombinator.com/item?id=49963366"
+      "2026-10-05, 18:38:01",
+      "https://news.ycombinator.com/item?id=49968708"
     ],
     [
-      "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/"
+      "Greenvolt begins building 600 MW/2.4 GWh BESS in Poland",
+      "https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/"
+    ]
+  ],
+  [
+    [
+      "2026-10-05, 18:15:20",
+      "https://news.ycombinator.com/item?id=49968402"
+    ],
+    [
+      "Norway Eyes Partial Ban of Smart Glasses",
+      "https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239"
+    ]
+  ],
+  [
+    [
+      "2026-10-05, 14:23:47",
+      "https://news.ycombinator.com/item?id=49965308"
+    ],
+    [
+      "Making a GTK application in Haskell, part 1",
+      "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/"
+    ]
+  ],
+  [
+    [
+      "2026-10-05, 14:12:14",
+      "https://news.ycombinator.com/item?id=49965152"
+    ],
+    [
+      "The lamps in my house",
+      "https://arslan.io/2026/10/05/the-lamps-in-my-house/"
+    ]
+  ],
+  [
+    [
+      "2026-10-05, 14:09:15",
+      "https://news.ycombinator.com/item?id=49965118"
+    ],
+    [
+      "Linux containers in 500 lines of code (2016)",
+      "https://blog.lizzie.io/linux-containers-in-500-loc.html"
     ]
   ],
   [
@@ -101,32 +141,22 @@
   ],
   [
     [
-      "2026-10-05, 10:35:59",
-      "https://news.ycombinator.com/item?id=49963094"
-    ],
-    [
-      "Press Release: Nobel Prize in Physiology or Medicine 2026",
-      "https://www.nobelprize.org/prizes/medicine/2026/press-release/"
-    ]
-  ],
-  [
-    [
       "2026-10-05, 10:05:02",
       "https://news.ycombinator.com/item?id=49962857"
     ],
     [
-      "Apple and a Hacker's Future",
+      "Apple and a hacker's future",
       "https://stratechery.com/2026/apple-and-a-hackers-future/"
     ]
   ],
   [
     [
-      "2026-10-05, 08:09:36",
-      "https://news.ycombinator.com/item?id=49962012"
+      "2026-10-05, 09:33:13",
+      "https://news.ycombinator.com/item?id=49962572"
     ],
     [
-      "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger"
+      "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+      "https://www.nobelprize.org/prizes/medicine/2026/summary/"
     ]
   ],
   [
@@ -135,78 +165,68 @@
       "https://news.ycombinator.com/item?id=49961861"
     ],
     [
-      "Huawei and Qualcomm Announce Broad Patent License Agreement",
-      "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement"
+      "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+      "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech"
     ]
   ],
   [
     [
-      "2026-10-04, 21:01:28",
-      "https://news.ycombinator.com/item?id=49957812"
+      "2026-10-05, 05:37:40",
+      "https://news.ycombinator.com/item?id=49961057"
     ],
     [
-      "In the wake of Tippett Studios’ closure, a digital archive appears online",
-      "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/"
+      "Anthropic reported diary entry to police, woman faces felony charge",
+      "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html"
     ]
   ],
   [
     [
-      "2026-10-04, 19:42:25",
-      "https://news.ycombinator.com/item?id=49957116"
+      "2026-10-04, 18:06:04",
+      "https://news.ycombinator.com/item?id=49956290"
     ],
     [
-      "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "https://github.com/omlahore/RemoveMacAI"
+      "The technology to eradicate mosquito-borne disease exists",
+      "https://worksinprogress.co/issue/mosquitoes-are-a-choice/"
     ]
   ],
   [
     [
-      "2026-10-04, 18:49:17",
-      "https://news.ycombinator.com/item?id=49956681"
+      "2026-10-04, 09:31:01",
+      "https://news.ycombinator.com/item?id=49952148"
     ],
     [
-      "A browser-native classic Visual Basic VB6 IDE",
-      "https://wieslawsoltes.github.io/VB6/"
+      "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
+      "https://github.com/rsutcliffe/nightwatch"
     ]
   ],
   [
     [
-      "2026-10-04, 12:51:53",
-      "https://news.ycombinator.com/item?id=49953495"
+      "2026-10-04, 08:03:24",
+      "https://news.ycombinator.com/item?id=49951693"
     ],
     [
-      "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "https://github.com/Niko1221/Strata"
+      "Using Blu-ray M-Disk as Backup of Last Resort",
+      "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/"
     ]
   ],
   [
     [
-      "2026-10-03, 22:14:00",
-      "https://news.ycombinator.com/item?id=49948300"
+      "2026-10-03, 14:07:29",
+      "https://news.ycombinator.com/item?id=49944392"
     ],
     [
-      "We ported the original Doom to SQL",
-      "https://cedardb.com/blog/sqldoom/"
+      "The era of software quality, or the era of ostriches?",
+      "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/"
     ]
   ],
   [
     [
-      "2026-10-03, 17:35:42",
-      "https://news.ycombinator.com/item?id=49946148"
+      "2026-10-03, 13:24:01",
+      "https://news.ycombinator.com/item?id=49944049"
     ],
     [
-      "Automating my 35mm film scanning pipeline",
-      "https://shannadige.com/blog/darkroom/"
-    ]
-  ],
-  [
-    [
-      "2026-10-03, 12:19:40",
-      "https://news.ycombinator.com/item?id=49943637"
-    ],
-    [
-      "Infidel goes wild",
-      "https://blog.zarfhome.com/2026/10/infidel-goes-wild"
+      "Competitive Programmer's Handbook (2018) [pdf]",
+      "https://cses.fi/book/book.pdf"
     ]
   ],
   [
@@ -215,38 +235,28 @@
       "https://news.ycombinator.com/item?id=49943479"
     ],
     [
-      "Type Safe Generic Data Structures in C",
+      "Type Safe Generic Data Structures in C (2025)",
       "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/"
     ]
   ],
   [
     [
-      "2026-10-02, 13:47:41",
-      "https://news.ycombinator.com/item?id=49933476"
+      "2026-10-03, 09:18:08",
+      "https://news.ycombinator.com/item?id=49942617"
     ],
     [
-      "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-      "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails"
+      "Hot Flashing Guide Rev. 2.0 (2004)",
+      "https://archive.techarp.com/showarticle504a.html?pgno=0"
     ]
   ],
   [
     [
-      "2026-10-02, 11:19:36",
-      "https://news.ycombinator.com/item?id=49932236"
+      "2026-10-02, 20:33:26",
+      "https://news.ycombinator.com/item?id=49938270"
     ],
     [
-      "The Tao of Backup",
-      "http://www.taobackup.com/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-02, 07:40:15",
-      "https://news.ycombinator.com/item?id=49930872"
-    ],
-    [
-      "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
-      "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/"
+      "How to save a life without knowing CPR",
+      "https://bookofjoe2.blogspot.com/2026/10/beyondthemedspeak-how-to-save-life.html"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2026-10-01, 17:47:27",
-      "https://news.ycombinator.com/item?id=49924795"
+      "2026-10-01, 12:31:40",
+      "https://news.ycombinator.com/item?id=49920785"
     ],
     [
-      "ExplainDB: A Database System Built for Understandability",
-      "https://github.com/explaindb/explaindb"
+      "The first fully implanted cochlear implant reaches patients",
+      "https://spectrum.ieee.org/fully-implantable-cochlear-implant"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-10-01, 03:52:10",
-      "https://news.ycombinator.com/item?id=49917536"
+      "2026-10-01, 04:36:10",
+      "https://news.ycombinator.com/item?id=49917784"
     ],
     [
-      "What is going on with ceiling fans",
-      "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans"
-    ]
-  ],
-  [
-    [
-      "2026-09-30, 12:40:03",
-      "https://news.ycombinator.com/item?id=49908055"
-    ],
-    [
-      "Lace and Labor: Lessons from the actual Luddites",
-      "https://articlesofinterest.substack.com/p/lace-and-labor"
+      "Beating the compiler (2024)",
+      "https://www.mattkeeter.com/blog/2024-07-12-interpreter/"
     ]
   ]
 ]
