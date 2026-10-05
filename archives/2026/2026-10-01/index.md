@@ -64,6 +64,7 @@
 * [2026-10-01, 12:55:27](https://news.ycombinator.com/item?id=49920997) - [Google breaks promise to provide 10 years of updates to Chromebooks](https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/)
 * [2026-10-01, 12:48:59](https://news.ycombinator.com/item?id=49920932) - [Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026](https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026)
 * [2026-10-01, 12:44:38](https://news.ycombinator.com/item?id=49920896) - [How to speed up the Rust compiler in September 2026](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html)
+* [2026-10-01, 11:31:08](https://news.ycombinator.com/item?id=49920332) - [Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia](https://www.cambridge.org/core/journals/iraq/article/gods-in-the-classroom-religion-and-education-in-1st-millennium-bce-babylonia/EB059EE81804DCBC1848CACBD6298E0B)
 * [2026-10-01, 11:13:59](https://news.ycombinator.com/item?id=49920234) - [Returning from vacation? The government can search your phone without a warrant](https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/)
 * [2026-10-01, 10:59:57](https://news.ycombinator.com/item?id=49920160) - [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
 * [2026-10-01, 10:21:36](https://news.ycombinator.com/item?id=49919910) - [GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design)
@@ -74,3 +75,4 @@
 * [2026-10-01, 02:30:48](https://news.ycombinator.com/item?id=49916997) - [Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra)
 * [2026-10-01, 01:55:51](https://news.ycombinator.com/item?id=49916753) - [Page Table Memory Consumption](https://frn.sh/pagetables/)
 * [2026-10-01, 01:40:50](https://news.ycombinator.com/item?id=49916668) - [10-year Treasury yield climbs above 5.3% to a level not seen in 24 years](https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f)
+* [2026-10-01, 01:22:48](https://news.ycombinator.com/item?id=49916550) - [Fixed Points and Strike Mandates](https://pvk.ca/Blog/2012/02/19/fixed-points-and-strike-mandates/)

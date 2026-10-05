@@ -6,6 +6,7 @@
 
 * [2026-10-03, 23:16:45](https://news.ycombinator.com/item?id=49948738) - [Declaring a bird extinct: The median wait is 36 years after the last sighting](https://birdshistory.com/how-long-to-declare-a-bird-extinct/)
 * [2026-10-03, 22:18:13](https://news.ycombinator.com/item?id=49948332) - [OpenAI safety leader quits, warning AI company's culture is 'broken'](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)
+* [2026-10-03, 22:14:00](https://news.ycombinator.com/item?id=49948300) - [We ported the original Doom to SQL](https://cedardb.com/blog/sqldoom/)
 * [2026-10-03, 22:07:13](https://news.ycombinator.com/item?id=49948254) - [Federal judge calls Flock 'indiscriminate mass surveillance'](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
 * [2026-10-03, 20:49:15](https://news.ycombinator.com/item?id=49947631) - [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
 * [2026-10-03, 20:41:15](https://news.ycombinator.com/item?id=49947565) - ['Neanderthals Among Us' by Peter Sahlins Review](https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review)

@@ -54,6 +54,7 @@
 * [2026-10-02, 11:42:26](https://news.ycombinator.com/item?id=49932402) - [On social reality in China](https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china)
 * [2026-10-02, 11:35:24](https://news.ycombinator.com/item?id=49932350) - [A man who listens to whales](https://blue-continuum.com/the-man-who-listens-to-whales)
 * [2026-10-02, 11:34:28](https://news.ycombinator.com/item?id=49932340) - [Blogging with Gleam, Org-Mode and Pandoc](https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/)
+* [2026-10-02, 11:19:36](https://news.ycombinator.com/item?id=49932236) - [The Tao of Backup](http://www.taobackup.com/index.html)
 * [2026-10-02, 11:13:02](https://news.ycombinator.com/item?id=49932191) - [Our Project Suncatcher prototype satellite is in orbit](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/)
 * [2026-10-02, 11:07:17](https://news.ycombinator.com/item?id=49932147) - [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f)
 * [2026-10-02, 10:57:27](https://news.ycombinator.com/item?id=49932079) - [F.02 Decommission](https://www.figure.ai/news/f-02-decommission)
