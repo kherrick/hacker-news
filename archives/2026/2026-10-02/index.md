@@ -14,6 +14,7 @@
 * [2026-10-02, 20:44:38](https://news.ycombinator.com/item?id=49938399) - [Woking Electrical Control Room (2016)](http://www.darbiansphotography.com/woking-electrical-control-room-urbex)
 * [2026-10-02, 20:39:05](https://news.ycombinator.com/item?id=49938326) - [Three AI agents, two countries, and one uneven world wide web](https://royapakzad.substack.com/p/multilingual-ai-agents)
 * [2026-10-02, 20:37:07](https://news.ycombinator.com/item?id=49938306) - [Barcodes are about to go extinct](https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct)
+* [2026-10-02, 20:33:26](https://news.ycombinator.com/item?id=49938270) - [How to save a life without knowing CPR](https://bookofjoe2.blogspot.com/2026/10/beyondthemedspeak-how-to-save-life.html)
 * [2026-10-02, 20:00:15](https://news.ycombinator.com/item?id=49937916) - [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
 * [2026-10-02, 19:45:06](https://news.ycombinator.com/item?id=49937718) - [GrapheneOS has fixed the Android 17 QPR1 kernel performance regression](https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression)
 * [2026-10-02, 19:37:01](https://news.ycombinator.com/item?id=49937631) - [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
