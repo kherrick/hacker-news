@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-04](index.md)
 
+* [2026-10-04, 23:02:43](https://news.ycombinator.com/item?id=49958850) - [ArtCraft Apps – open-source Adobe compatible suite written in Rust](https://getartcraft.com/apps)
+* [2026-10-04, 22:25:10](https://news.ycombinator.com/item?id=49958569) - [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
+* [2026-10-04, 21:01:28](https://news.ycombinator.com/item?id=49957812) - [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
 * [2026-10-04, 19:42:25](https://news.ycombinator.com/item?id=49957117) - [Homa: The end of TCP for AI clusters [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
 * [2026-10-04, 19:42:25](https://news.ycombinator.com/item?id=49957116) - [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI)
 * [2026-10-04, 19:37:05](https://news.ycombinator.com/item?id=49957068) - [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/)
@@ -15,6 +18,7 @@
 * [2026-10-04, 17:51:48](https://news.ycombinator.com/item?id=49956148) - [Building a RAG Pipeline for Semantic Code Search](https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/)
 * [2026-10-04, 17:47:21](https://news.ycombinator.com/item?id=49956092) - [All I wanted was a custom domain email](https://jacobg.co/emails-at-jacobg-co/)
 * [2026-10-04, 17:42:38](https://news.ycombinator.com/item?id=49956035) - [Incentives in Academic Research](https://www.msoos.org/2026/10/incentives-in-academic-research/)
+* [2026-10-04, 17:38:54](https://news.ycombinator.com/item?id=49956003) - [Xray-core concealed a certificate verification bypass vulnerability](https://github.com/net4people/bbs/issues/672)
 * [2026-10-04, 16:25:17](https://news.ycombinator.com/item?id=49955297) - [Blindsight (Watts Novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
 * [2026-10-04, 15:43:14](https://news.ycombinator.com/item?id=49954882) - [Car is a smartphone on wheels. Here's who's listening](https://automatictransmission.khoury.northeastern.edu/)
 * [2026-10-04, 13:30:49](https://news.ycombinator.com/item?id=49953777) - [The evolution of effective altruism](https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world)

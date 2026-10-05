@@ -32,6 +32,7 @@
 * [2026-10-03, 15:02:36](https://news.ycombinator.com/item?id=49944912) - [FTL: A new operating system for clouds](https://ftl-os.org/)
 * [2026-10-03, 13:46:34](https://news.ycombinator.com/item?id=49944227) - [I quit OpenAI because its culture is broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA)
 * [2026-10-03, 12:27:31](https://news.ycombinator.com/item?id=49943685) - [Watson Jr. memo about CDC 6600 (1963)](https://www.computerhistory.org/revolution/supercomputers/10/33/62)
+* [2026-10-03, 12:19:40](https://news.ycombinator.com/item?id=49943637) - [Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild)
 * [2026-10-03, 12:02:10](https://news.ycombinator.com/item?id=49943524) - [Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack)
 * [2026-10-03, 11:54:24](https://news.ycombinator.com/item?id=49943451) - [The Escalation of War in Ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
 * [2026-10-03, 10:43:51](https://news.ycombinator.com/item?id=49943034) - [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri)

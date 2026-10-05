@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-02](index.md)
 
+* [2026-10-02, 23:55:17](https://news.ycombinator.com/item?id=49940044) - [Demystifying Tufte's data-ink ratio – Tufte's Razor](https://tuftesrazor.scienceux.org/)
 * [2026-10-02, 23:01:13](https://news.ycombinator.com/item?id=49939637) - [The Heilbronn Problem](https://math.tejstead.com/heilbronn/)
+* [2026-10-02, 22:17:04](https://news.ycombinator.com/item?id=49939308) - [Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex](https://alexalejandre.com/interviews/peter-bex/)
 * [2026-10-02, 21:25:25](https://news.ycombinator.com/item?id=49938783) - [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://allenai.org/blog/astabrief)
 * [2026-10-02, 21:06:56](https://news.ycombinator.com/item?id=49938616) - [Every SaaS business will become a harness around a model](https://blog.sshh.io/p/the-harness-is-the-company)
 * [2026-10-02, 20:56:36](https://news.ycombinator.com/item?id=49938521) - [Zig v0.17.0](https://ziglang.org/download/0.17.0/release-notes.html)
