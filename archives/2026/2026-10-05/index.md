@@ -4,6 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-10-05](index.md)
 
+* [2026-10-05, 23:35:35](https://news.ycombinator.com/item?id=49972211) - [Samon: Designing a Zen Garden Raking Puzzle](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
+* [2026-10-05, 23:06:36](https://news.ycombinator.com/item?id=49972008) - [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
+* [2026-10-05, 22:59:24](https://news.ycombinator.com/item?id=49971952) - [Worth Building](https://armstr.ng/writing/worth-building)
+* [2026-10-05, 22:55:11](https://news.ycombinator.com/item?id=49971921) - [Example.com Just Launched the Biggest Redesign in Decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
+* [2026-10-05, 22:46:45](https://news.ycombinator.com/item?id=49971846) - [ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/)
+* [2026-10-05, 22:37:58](https://news.ycombinator.com/item?id=49971782) - [Global Solar Atlas: summary of solar power potential globally](https://globalsolaratlas.info/)
+* [2026-10-05, 22:30:52](https://news.ycombinator.com/item?id=49971726) - [Learning Jazz Pianist Style with Cross-Attention Conditioning](https://almostimplemented.github.io/jazz-pianist-style/)
+* [2026-10-05, 22:30:02](https://news.ycombinator.com/item?id=49971719) - [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/)
+* [2026-10-05, 22:25:47](https://news.ycombinator.com/item?id=49971678) - [Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]](https://nivdayan.github.io/dostoevsky.pdf)
+* [2026-10-05, 22:05:57](https://news.ycombinator.com/item?id=49971523) - [Texas city demands $2M for public records on Flock usage](https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/)
+* [2026-10-05, 21:40:50](https://news.ycombinator.com/item?id=49971230) - [Find the flattest route between any two points in SF](https://flattensf.com/)
 * [2026-10-05, 21:15:07](https://news.ycombinator.com/item?id=49970871) - [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
 * [2026-10-05, 21:00:21](https://news.ycombinator.com/item?id=49970667) - [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
 * [2026-10-05, 20:49:51](https://news.ycombinator.com/item?id=49970507) - [WSL containers is now generally available](https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/)

@@ -28,6 +28,7 @@
 * [2026-10-03, 17:22:48](https://news.ycombinator.com/item?id=49946069) - [Kolibri – Tech Report [pdf]](https://aleph-alpha.com/downloads/tech-report.pdf)
 * [2026-10-03, 17:03:37](https://news.ycombinator.com/item?id=49945933) - [Agents don't need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory)
 * [2026-10-03, 17:00:12](https://news.ycombinator.com/item?id=49945904) - [RetailReady (YC W24) Is Hiring](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations)
+* [2026-10-03, 16:23:07](https://news.ycombinator.com/item?id=49945588) - [An Algorithmic Failure Beneath the Secret Ballot](https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/)
 * [2026-10-03, 15:55:31](https://news.ycombinator.com/item?id=49945352) - [Docker has always used microVMs (well since 2016)](https://dave.recoil.org/docker-has-always-used-microvms/)
 * [2026-10-03, 15:52:07](https://news.ycombinator.com/item?id=49945323) - [City building games have a Soul Problem pt.2](https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2)
 * [2026-10-03, 15:02:36](https://news.ycombinator.com/item?id=49944912) - [FTL: A new operating system for clouds](https://ftl-os.org/)
