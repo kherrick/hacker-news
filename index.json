@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-10-06, 15:29:41",
-      "https://news.ycombinator.com/item?id=49979991"
+      "2026-10-06, 19:55:11",
+      "https://news.ycombinator.com/item?id=49983226"
     ],
     [
-      "Prepare for your next tech interview, free",
-      "https://nokku.payanai.com/interview-prep"
+      "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage",
+      "https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/"
+    ]
+  ],
+  [
+    [
+      "2026-10-06, 19:31:24",
+      "https://news.ycombinator.com/item?id=49982921"
+    ],
+    [
+      "A sustainable web career, for when all this blows over",
+      "https://dbushell.com/2026/10/07/sustainable-web-career/"
+    ]
+  ],
+  [
+    [
+      "2026-10-06, 19:14:19",
+      "https://news.ycombinator.com/item?id=49982735"
+    ],
+    [
+      "Berthd",
+      "https://berthd.app/"
+    ]
+  ],
+  [
+    [
+      "2026-10-06, 16:23:25",
+      "https://news.ycombinator.com/item?id=49980715"
+    ],
+    [
+      "AI is now capable of developing its own inference hardware",
+      "https://github.com/FeSens/openTPU"
+    ]
+  ],
+  [
+    [
+      "2026-10-06, 16:03:49",
+      "https://news.ycombinator.com/item?id=49980487"
+    ],
+    [
+      "EmbeddingGemma 2",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
     ]
   ],
   [
@@ -15,18 +55,18 @@
       "https://news.ycombinator.com/item?id=49979845"
     ],
     [
-      "The Early History of Smalltalk",
+      "The Early History of Smalltalk (1993)",
       "https://worrydream.com/EarlyHistoryOfSmalltalk/"
     ]
   ],
   [
     [
-      "2026-10-06, 14:45:02",
-      "https://news.ycombinator.com/item?id=49979306"
+      "2026-10-06, 13:58:07",
+      "https://news.ycombinator.com/item?id=49978595"
     ],
     [
-      "Vibecoding isn't as fun as writing code by hand",
-      "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/"
+      "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+      "https://peterszentkiralyi.eu/darkplug/"
     ]
   ],
   [
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2026-10-06, 13:45:04",
-      "https://news.ycombinator.com/item?id=49978401"
-    ],
-    [
-      "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
-      "https://jotbus.com/"
-    ]
-  ],
-  [
-    [
       "2026-10-06, 13:30:50",
       "https://news.ycombinator.com/item?id=49978171"
     ],
@@ -61,32 +91,12 @@
   ],
   [
     [
-      "2026-10-06, 13:25:50",
-      "https://news.ycombinator.com/item?id=49978116"
-    ],
-    [
-      "Mistral Large 4: \"Le Chonk\"",
-      "https://mistral.ai/news/mistral-large-4/"
-    ]
-  ],
-  [
-    [
       "2026-10-06, 13:15:49",
       "https://news.ycombinator.com/item?id=49977979"
     ],
     [
       "Mistral Large 4",
-      "https://docs.mistral.ai/models/mistral-large-4-0"
-    ]
-  ],
-  [
-    [
-      "2026-10-06, 13:06:00",
-      "https://news.ycombinator.com/item?id=49977832"
-    ],
-    [
-      "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",
-      "https://mastodon.social/@bagder/117392573268225646"
+      "https://mistral.ai/news/mistral-large-4/\\"
     ]
   ],
   [
@@ -101,12 +111,22 @@
   ],
   [
     [
-      "2026-10-06, 12:45:49",
-      "https://news.ycombinator.com/item?id=49977588"
+      "2026-10-06, 12:53:58",
+      "https://news.ycombinator.com/item?id=49977689"
     ],
     [
-      "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
-      "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/"
+      "Erdosproblems.com Succumbs to the AI Onslaught",
+      "https://www.erdosproblems.com/forum/thread/blog:9"
+    ]
+  ],
+  [
+    [
+      "2026-10-06, 12:40:03",
+      "https://news.ycombinator.com/item?id=49977531"
+    ],
+    [
+      "What's Earth's dominant species by mass?",
+      "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/"
     ]
   ],
   [
@@ -125,18 +145,8 @@
       "https://news.ycombinator.com/item?id=49977177"
     ],
     [
-      "Release of Polars 2.0",
+      "Polars 2.0",
       "https://pola.rs/posts/release-polars-2/"
-    ]
-  ],
-  [
-    [
-      "2026-10-06, 11:45:55",
-      "https://news.ycombinator.com/item?id=49977072"
-    ],
-    [
-      "JetBrains reported a net financial loss first time in its tracked history",
-      "https://www.helgilibrary.com/companies/jetbrains"
     ]
   ],
   [
@@ -155,18 +165,8 @@
       "https://news.ycombinator.com/item?id=49976823"
     ],
     [
-      "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
       "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-06, 10:15:40",
-      "https://news.ycombinator.com/item?id=49976468"
-    ],
-    [
-      "ASOS app users receive push notifications apparently sent by hackers",
-      "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o"
     ]
   ],
   [
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=49976265"
     ],
     [
-      "Nobel Prize in Physics goes to Francis Halzen",
+      "Nobel Prize in Physics 2026: Francis Halzen",
       "https://www.nobelprize.org/prizes/physics/2026/"
     ]
   ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-10-05, 21:00:21",
-      "https://news.ycombinator.com/item?id=49970667"
-    ],
-    [
-      "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"
-    ]
-  ],
-  [
-    [
       "2026-10-05, 19:16:35",
       "https://news.ycombinator.com/item?id=49969183"
     ],
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2026-10-05, 14:12:14",
+      "https://news.ycombinator.com/item?id=49965152"
+    ],
+    [
+      "The lamps in my house",
+      "https://arslan.io/2026/10/05/the-lamps-in-my-house/"
+    ]
+  ],
+  [
+    [
       "2026-10-04, 12:28:55",
       "https://news.ycombinator.com/item?id=49953344"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-10-04, 06:15:17",
-      "https://news.ycombinator.com/item?id=49951155"
+      "2026-10-04, 04:30:46",
+      "https://news.ycombinator.com/item?id=49950653"
     ],
     [
-      "Accountability mechanisms can be joyful (2024)",
-      "https://liquidbrain.net/blog/accountability-and-joy/"
+      "Best-selling Zigbee temperature sensors tested and compared",
+      "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/"
     ]
   ],
   [
