@@ -34,6 +34,7 @@
 * [2026-10-03, 15:52:07](https://news.ycombinator.com/item?id=49945323) - [City building games have a Soul Problem pt.2](https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2)
 * [2026-10-03, 15:02:36](https://news.ycombinator.com/item?id=49944912) - [FTL: A new operating system for clouds](https://ftl-os.org/)
 * [2026-10-03, 14:07:29](https://news.ycombinator.com/item?id=49944392) - [The era of software quality, or the era of ostriches?](https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/)
+* [2026-10-03, 14:04:27](https://news.ycombinator.com/item?id=49944369) - [Direct retinal projection display for smart glasses using a meta-optic mirror](https://www.tdk.com/en/news_center/press/20261002_01.html)
 * [2026-10-03, 13:46:34](https://news.ycombinator.com/item?id=49944227) - [I quit OpenAI because its culture is broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA)
 * [2026-10-03, 13:42:23](https://news.ycombinator.com/item?id=49944196) - [Show HN: Photoc – Command-line tools for photographers](https://github.com/ahmetomerv/photoc)
 * [2026-10-03, 13:24:01](https://news.ycombinator.com/item?id=49944049) - [Competitive Programmer's Handbook (2018) [pdf]](https://cses.fi/book/book.pdf)
