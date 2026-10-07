@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-10-07](index.md)
 
+* [2026-10-07, 11:25:02](https://news.ycombinator.com/item?id=49991227) - [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
+* [2026-10-07, 10:24:19](https://news.ycombinator.com/item?id=49990763) - [PS5 Jailbreaks Are Escalating at an Unprecedented Pace](https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating)
+* [2026-10-07, 09:51:43](https://news.ycombinator.com/item?id=49990470) - [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://www.nobelprize.org/prizes/chemistry/2026/press-release/)
+* [2026-10-07, 09:17:55](https://news.ycombinator.com/item?id=49990224) - [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
+* [2026-10-07, 05:38:35](https://news.ycombinator.com/item?id=49988709) - [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders)
 * [2026-10-07, 04:37:05](https://news.ycombinator.com/item?id=49988230) - [Hackers obtain counterfeit TLS certificates for Google and other large services](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
 * [2026-10-07, 04:22:04](https://news.ycombinator.com/item?id=49988142) - [Calling It Quits on ServerFault](https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml)
 * [2026-10-07, 03:43:14](https://news.ycombinator.com/item?id=49987858) - [The art of defusing a second world war bomb](https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb)
+* [2026-10-07, 03:30:44](https://news.ycombinator.com/item?id=49987765) - [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse)
 * [2026-10-07, 03:16:45](https://news.ycombinator.com/item?id=49987675) - [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html)
 * [2026-10-07, 02:22:42](https://news.ycombinator.com/item?id=49987245) - [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)
 * [2026-10-07, 02:02:11](https://news.ycombinator.com/item?id=49987076) - [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
