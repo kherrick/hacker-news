@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-10-07, 11:25:02",
+      "https://news.ycombinator.com/item?id=49991227"
+    ],
+    [
+      "Shipping JPEG XL in Chrome",
+      "https://developer.chrome.com/blog/jpeg-xl-in-chrome"
+    ]
+  ],
+  [
+    [
+      "2026-10-07, 10:24:19",
+      "https://news.ycombinator.com/item?id=49990763"
+    ],
+    [
+      "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+      "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating"
+    ]
+  ],
+  [
+    [
+      "2026-10-07, 09:51:43",
+      "https://news.ycombinator.com/item?id=49990470"
+    ],
+    [
+      "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "https://www.nobelprize.org/prizes/chemistry/2026/press-release/"
+    ]
+  ],
+  [
+    [
+      "2026-10-07, 09:17:55",
+      "https://news.ycombinator.com/item?id=49990224"
+    ],
+    [
+      "A font recreated from photographs of classic Commodore 64 keycaps",
+      "https://github.com/szabadkai/c64-keyboard-font/"
+    ]
+  ],
+  [
+    [
+      "2026-10-07, 05:38:35",
+      "https://news.ycombinator.com/item?id=49988709"
+    ],
+    [
+      "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "https://github.com/shader-effects-inc/shaders"
+    ]
+  ],
+  [
+    [
       "2026-10-07, 04:37:05",
       "https://news.ycombinator.com/item?id=49988230"
     ],
@@ -11,22 +61,12 @@
   ],
   [
     [
-      "2026-10-07, 04:22:04",
-      "https://news.ycombinator.com/item?id=49988142"
+      "2026-10-07, 03:30:44",
+      "https://news.ycombinator.com/item?id=49987765"
     ],
     [
-      "Calling It Quits on ServerFault",
-      "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml"
-    ]
-  ],
-  [
-    [
-      "2026-10-07, 03:43:14",
-      "https://news.ycombinator.com/item?id=49987858"
-    ],
-    [
-      "The art of defusing a second world war bomb",
-      "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb"
+      "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "https://github.com/nano-muse/nanoMuse"
     ]
   ],
   [
@@ -37,16 +77,6 @@
     [
       "La Cueva BBS in Mexico in 1993 (session replay)",
       "https://nanochess.org/la_cueva_bbs.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-07, 02:22:42",
-      "https://news.ycombinator.com/item?id=49987245"
-    ],
-    [
-      "Xbox has secured exclusive GTA 6 streaming rights",
-      "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "ESP32-C3 Adblock",
       "https://github.com/M-Abozaid/esp32-c3-adblock"
-    ]
-  ],
-  [
-    [
-      "2026-10-07, 01:27:49",
-      "https://news.ycombinator.com/item?id=49986765"
-    ],
-    [
-      "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-      "https://www.sregym.com/blog/jev-driven-sre-diagnosis"
     ]
   ],
   [
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2026-10-06, 21:52:57",
-      "https://news.ycombinator.com/item?id=49984652"
-    ],
-    [
-      "How Fast is Python 3.15?",
-      "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15"
-    ]
-  ],
-  [
-    [
       "2026-10-06, 20:57:25",
       "https://news.ycombinator.com/item?id=49984025"
     ],
     [
       "Decisions API is in public beta",
       "https://developers.openai.com/api/docs/guides/decisions"
-    ]
-  ],
-  [
-    [
-      "2026-10-06, 20:33:47",
-      "https://news.ycombinator.com/item?id=49983703"
-    ],
-    [
-      "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
-      "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=49978333"
     ],
     [
-      "What Is Codemode",
+      "What is Codemode",
       "https://lucumr.pocoo.org/2026/10/6/codemode/"
     ]
   ],
@@ -241,26 +241,6 @@
   ],
   [
     [
-      "2026-10-06, 12:40:03",
-      "https://news.ycombinator.com/item?id=49977531"
-    ],
-    [
-      "What's Earth's dominant species by mass?",
-      "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/"
-    ]
-  ],
-  [
-    [
-      "2026-10-06, 03:01:04",
-      "https://news.ycombinator.com/item?id=49973644"
-    ],
-    [
-      "LLMs may have helped my RSI",
-      "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html"
-    ]
-  ],
-  [
-    [
       "2026-10-05, 17:00:10",
       "https://news.ycombinator.com/item?id=49967427"
     ],
@@ -271,22 +251,42 @@
   ],
   [
     [
-      "2026-10-05, 15:16:10",
-      "https://news.ycombinator.com/item?id=49965959"
+      "2026-10-04, 19:33:16",
+      "https://news.ycombinator.com/item?id=49957044"
     ],
     [
-      "My Homelab Two Years Later, Every Upgrade and What It Cost",
-      "https://www.joekarlsson.com/blog/homelab-two-years-later/"
+      "Show HN: Arcadeia – A self-hosted media library with animated video previews",
+      "https://github.com/travelonium/arcadeia"
     ]
   ],
   [
     [
-      "2026-10-04, 12:45:31",
-      "https://news.ycombinator.com/item?id=49953455"
+      "2026-10-04, 17:58:51",
+      "https://news.ycombinator.com/item?id=49956219"
     ],
     [
-      "Improving and Stabilizing the Racoon2 IKE Daemon in NetBSD",
-      "https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2"
+      "Gallery of Processor Cache Effects (2010)",
+      "https://igoro.com/archive/gallery-of-processor-cache-effects/"
+    ]
+  ],
+  [
+    [
+      "2026-10-04, 14:01:09",
+      "https://news.ycombinator.com/item?id=49954015"
+    ],
+    [
+      "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
+      "https://astrohelm.app/"
+    ]
+  ],
+  [
+    [
+      "2026-10-04, 13:49:51",
+      "https://news.ycombinator.com/item?id=49953939"
+    ],
+    [
+      "The Legend of the Paper Crane",
+      "https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/"
     ]
   ],
   [
