@@ -19,6 +19,7 @@
 * [2026-10-05, 21:15:07](https://news.ycombinator.com/item?id=49970871) - [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
 * [2026-10-05, 21:00:21](https://news.ycombinator.com/item?id=49970667) - [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
 * [2026-10-05, 20:49:51](https://news.ycombinator.com/item?id=49970507) - [WSL containers is now generally available](https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/)
+* [2026-10-05, 20:46:57](https://news.ycombinator.com/item?id=49970459) - [3D-printing platform rapidly produces complex electric machines](https://news.mit.edu/2026/3d-printing-platform-rapidly-produces-complex-electric-machines-0218)
 * [2026-10-05, 20:17:07](https://news.ycombinator.com/item?id=49970073) - [A third way of using Linux](https://hisvirusness.com/third-is-the-way)
 * [2026-10-05, 20:09:12](https://news.ycombinator.com/item?id=49969961) - [Incident with Actions](https://www.githubstatus.com/incidents/3q1yb5m7ltvb)
 * [2026-10-05, 19:30:21](https://news.ycombinator.com/item?id=49969375) - [After bankruptcy, he was banned from sports betting sites. Then he found Kalshi](https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction)
