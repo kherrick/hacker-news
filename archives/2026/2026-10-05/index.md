@@ -27,6 +27,7 @@
 * [2026-10-05, 18:38:01](https://news.ycombinator.com/item?id=49968708) - [Greenvolt begins building 600 MW/2.4 GWh BESS in Poland](https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/)
 * [2026-10-05, 18:15:20](https://news.ycombinator.com/item?id=49968402) - [Norway Eyes Partial Ban of Smart Glasses](https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239)
 * [2026-10-05, 17:00:10](https://news.ycombinator.com/item?id=49967427) - [Benchmark in Milliseconds](https://matklad.github.io/2026/10/05/benchmark-milliseconds.html)
+* [2026-10-05, 15:16:10](https://news.ycombinator.com/item?id=49965959) - [My Homelab Two Years Later, Every Upgrade and What It Cost](https://www.joekarlsson.com/blog/homelab-two-years-later/)
 * [2026-10-05, 14:23:47](https://news.ycombinator.com/item?id=49965308) - [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
 * [2026-10-05, 14:12:14](https://news.ycombinator.com/item?id=49965152) - [The lamps in my house](https://arslan.io/2026/10/05/the-lamps-in-my-house/)
 * [2026-10-05, 14:09:15](https://news.ycombinator.com/item?id=49965118) - [Linux containers in 500 lines of code (2016)](https://blog.lizzie.io/linux-containers-in-500-loc.html)
