@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-05](index.md)
 
 * [2026-10-05, 23:35:35](https://news.ycombinator.com/item?id=49972211) - [Samon: Designing a Zen Garden Raking Puzzle](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
+* [2026-10-05, 23:24:44](https://news.ycombinator.com/item?id=49972125) - [Ask HN: Are there AI models for generating sounds based on a text and reference?](https://news.ycombinator.com/item?id=49972125)
 * [2026-10-05, 23:06:36](https://news.ycombinator.com/item?id=49972008) - [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
 * [2026-10-05, 22:59:24](https://news.ycombinator.com/item?id=49971952) - [Worth Building](https://armstr.ng/writing/worth-building)
 * [2026-10-05, 22:55:11](https://news.ycombinator.com/item?id=49971921) - [Example.com Just Launched the Biggest Redesign in Decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
