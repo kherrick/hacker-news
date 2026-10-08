@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-10-08, 21:00:55",
+      "https://news.ycombinator.com/item?id=50012199"
+    ],
+    [
+      "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+      "https://github.com/thesnarkitecht/rembrandt"
+    ]
+  ],
+  [
+    [
+      "2026-10-08, 20:48:37",
+      "https://news.ycombinator.com/item?id=50012043"
+    ],
+    [
+      "I think we might lose public key cryptography",
+      "https://twitter.com/matthew_d_green/status/2108278850555674975"
+    ]
+  ],
+  [
+    [
+      "2026-10-08, 20:46:25",
+      "https://news.ycombinator.com/item?id=50011999"
+    ],
+    [
+      "AI-ready biological data: $1.8B global commitment",
+      "https://biohub.org/news/virtual-biology-initiative-expansion/"
+    ]
+  ],
+  [
+    [
       "2026-10-08, 19:04:56",
       "https://news.ycombinator.com/item?id=50010470"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2026-10-08, 16:34:13",
-      "https://news.ycombinator.com/item?id=50007993"
-    ],
-    [
-      "Show HN: Jevman – AI decision models play Pac-Man",
-      "https://opper.ai/jevman-benchmark/"
-    ]
-  ],
-  [
-    [
       "2026-10-08, 16:20:20",
       "https://news.ycombinator.com/item?id=50007764"
     ],
@@ -101,26 +121,6 @@
   ],
   [
     [
-      "2026-10-08, 14:39:47",
-      "https://news.ycombinator.com/item?id=50006366"
-    ],
-    [
-      "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-      "https://news.ycombinator.com/item?id=50006366"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 14:18:51",
-      "https://news.ycombinator.com/item?id=50006114"
-    ],
-    [
-      "Show HN: I Put an AI Agent on a Nokia 110",
-      "https://github.com/anupray95/AI-Agent-on-a-NOKIA"
-    ]
-  ],
-  [
-    [
       "2026-10-08, 14:09:53",
       "https://news.ycombinator.com/item?id=50006012"
     ],
@@ -137,16 +137,6 @@
     [
       "Beauty in DVD Menus",
       "https://vale.rocks/posts/dvd-menus"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 13:11:41",
-      "https://news.ycombinator.com/item?id=50005424"
-    ],
-    [
-      "New CRAM method offers giant boost to compressed memory reads",
-      "https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Terminal Protocol for Program Status (OSC 7501)",
       "https://mitchellh.com/writing/program-status-osc7501"
+    ]
+  ],
+  [
+    [
+      "2026-10-06, 15:54:24",
+      "https://news.ycombinator.com/item?id=49980346"
+    ],
+    [
+      "The Slow Formation of Durable Software",
+      "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/"
     ]
   ]
 ]
