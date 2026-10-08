@@ -7,6 +7,7 @@
 * [2026-10-06, 23:54:35](https://news.ycombinator.com/item?id=49985905) - [Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/10/261005011249.htm)
 * [2026-10-06, 23:28:08](https://news.ycombinator.com/item?id=49985664) - [AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)](https://github.com/boykopovar/AnyPS5)
 * [2026-10-06, 23:26:30](https://news.ycombinator.com/item?id=49985643) - [State of Devs 2026 survey results: developers are exhausted](https://2026.stateofdevs.com/en-US/)
+* [2026-10-06, 23:16:56](https://news.ycombinator.com/item?id=49985548) - [Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?](https://news.ycombinator.com/item?id=49985548)
 * [2026-10-06, 23:14:52](https://news.ycombinator.com/item?id=49985524) - [Integer multiplication below n log n](https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026)
 * [2026-10-06, 22:51:35](https://news.ycombinator.com/item?id=49985292) - [UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement](https://arxiv.org/abs/2609.38721)
 * [2026-10-06, 22:23:04](https://news.ycombinator.com/item?id=49984984) - [VECOS – A windows-like operating system for the Vectrex for the UVMC2 [video]](https://www.youtube.com/watch?v=9ranfp_vz30)
