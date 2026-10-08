@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-08](index.md)
 
 * [2026-10-08, 17:15:57](https://news.ycombinator.com/item?id=50008685) - [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
+* [2026-10-08, 17:13:08](https://news.ycombinator.com/item?id=50008642) - [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena)
 * [2026-10-08, 17:08:02](https://news.ycombinator.com/item?id=50008565) - [Anthropic bans 'abusive or cruel behavior' towards Claude](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude)
 * [2026-10-08, 16:59:39](https://news.ycombinator.com/item?id=50008427) - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
 * [2026-10-08, 16:45:58](https://news.ycombinator.com/item?id=50008187) - [OpenAI annualised revenues $20B less than previously signalled](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a)

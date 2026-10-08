@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-08, 17:15:57](https://news.ycombinator.com/item?id=50008685) - [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
+* [2026-10-08, 17:13:08](https://news.ycombinator.com/item?id=50008642) - [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena)
 * [2026-10-08, 16:59:39](https://news.ycombinator.com/item?id=50008427) - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
 * [2026-10-08, 16:45:58](https://news.ycombinator.com/item?id=50008187) - [OpenAI annualised revenues $20B less than previously signalled](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a)
 * [2026-10-08, 16:20:20](https://news.ycombinator.com/item?id=50007764) - [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
@@ -12,7 +13,6 @@
 * [2026-10-08, 13:22:01](https://news.ycombinator.com/item?id=50005527) - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
 * [2026-10-08, 12:28:35](https://news.ycombinator.com/item?id=50005017) - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
 * [2026-10-08, 12:00:20](https://news.ycombinator.com/item?id=50004790) - [I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities](https://quesma.com/blog/invisible-cities-one-shot/)
-* [2026-10-08, 11:58:50](https://news.ycombinator.com/item?id=50004777) - [Anne Carson wins Nobel Prize in literature 2026](https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026)
 * [2026-10-08, 07:05:40](https://news.ycombinator.com/item?id=50002650) - [OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090)
 * [2026-10-08, 05:14:14](https://news.ycombinator.com/item?id=50002008) - [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
 * [2026-10-07, 21:25:16](https://news.ycombinator.com/item?id=49998992) - [Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age](https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/)
