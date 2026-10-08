@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-08, 21:00:55](https://news.ycombinator.com/item?id=50012199) - [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt)
-* [2026-10-08, 20:48:37](https://news.ycombinator.com/item?id=50012043) - [I think we might lose public key cryptography](https://twitter.com/matthew_d_green/status/2108278850555674975)
 * [2026-10-08, 20:46:25](https://news.ycombinator.com/item?id=50011999) - [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
 * [2026-10-08, 20:42:16](https://news.ycombinator.com/item?id=50011928) - [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
 * [2026-10-08, 19:04:56](https://news.ycombinator.com/item?id=50010470) - [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
@@ -13,6 +12,7 @@
 * [2026-10-08, 16:20:20](https://news.ycombinator.com/item?id=50007764) - [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
 * [2026-10-08, 15:51:51](https://news.ycombinator.com/item?id=50007353) - [New gTLD Application for .lan](https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary)
 * [2026-10-08, 15:15:00](https://news.ycombinator.com/item?id=50006832) - [Trump administration is suspending Microsoft from a green card program](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea)
+* [2026-10-08, 14:09:53](https://news.ycombinator.com/item?id=50006012) - [Orkut.com](https://orkut.com/)
 * [2026-10-08, 13:22:01](https://news.ycombinator.com/item?id=50005527) - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
 * [2026-10-08, 12:00:20](https://news.ycombinator.com/item?id=50004790) - [I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities](https://quesma.com/blog/invisible-cities-one-shot/)
 * [2026-10-08, 11:30:08](https://news.ycombinator.com/item?id=50004542) - [Vanillin provides a sweet solution for chronic wound healing](https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/)
