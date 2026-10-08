@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-08](index.md)
 
+* [2026-10-08, 18:29:06](https://news.ycombinator.com/item?id=50009904) - [Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)
 * [2026-10-08, 17:15:57](https://news.ycombinator.com/item?id=50008685) - [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
 * [2026-10-08, 17:13:08](https://news.ycombinator.com/item?id=50008642) - [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena)
 * [2026-10-08, 17:08:02](https://news.ycombinator.com/item?id=50008565) - [Anthropic bans 'abusive or cruel behavior' towards Claude](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude)

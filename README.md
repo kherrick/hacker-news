@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-08, 18:29:06](https://news.ycombinator.com/item?id=50009904) - [Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)
 * [2026-10-08, 17:15:57](https://news.ycombinator.com/item?id=50008685) - [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
 * [2026-10-08, 17:13:08](https://news.ycombinator.com/item?id=50008642) - [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena)
 * [2026-10-08, 16:59:39](https://news.ycombinator.com/item?id=50008427) - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
@@ -20,7 +21,6 @@
 * [2026-10-07, 19:33:40](https://news.ycombinator.com/item?id=49997718) - [The Mathocalypse](https://scottaaronson.blog/?p=10169)
 * [2026-10-07, 18:01:32](https://news.ycombinator.com/item?id=49996437) - [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
 * [2026-10-07, 17:59:34](https://news.ycombinator.com/item?id=49996406) - [Teams in Vienna and Beijing have built the first thorium nuclear clocks](https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html)
-* [2026-10-07, 17:48:38](https://news.ycombinator.com/item?id=49996259) - [Docker Agent](https://github.com/docker/docker-agent)
 * [2026-10-07, 15:44:21](https://news.ycombinator.com/item?id=49994443) - [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/)
 * [2026-10-06, 22:23:04](https://news.ycombinator.com/item?id=49984984) - [VECOS – A windows-like operating system for the Vectrex for the UVMC2 [video]](https://www.youtube.com/watch?v=9ranfp_vz30)
 * [2026-10-06, 22:17:21](https://news.ycombinator.com/item?id=49984923) - [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
