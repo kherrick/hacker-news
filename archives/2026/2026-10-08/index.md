@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-10-08](index.md)
 
+* [2026-10-08, 17:08:02](https://news.ycombinator.com/item?id=50008565) - [Anthropic bans 'abusive or cruel behavior' towards Claude](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude)
+* [2026-10-08, 16:59:39](https://news.ycombinator.com/item?id=50008427) - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
 * [2026-10-08, 16:20:20](https://news.ycombinator.com/item?id=50007764) - [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
 * [2026-10-08, 16:03:33](https://news.ycombinator.com/item?id=50007519) - [4-hour battery storage is cheaper to install than gas turbines all across globe](https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/)
 * [2026-10-08, 15:24:40](https://news.ycombinator.com/item?id=50006948) - [US suspends Microsoft, major IT firms from key green card program](https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/)
 * [2026-10-08, 15:15:00](https://news.ycombinator.com/item?id=50006832) - [US Suspends Visa Program for Tech Firms Including Microsoft](https://www.bloomberg.com/news/articles/2026-10-08/us-suspends-visa-program-for-tech-firms-including-microsoft)
+* [2026-10-08, 15:15:00](https://news.ycombinator.com/item?id=50006832) - [Trump administration is suspending Microsoft from a green card program](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea)
 * [2026-10-08, 14:39:47](https://news.ycombinator.com/item?id=50006366) - [Tell HN: I've been paying for a rural Tanzanian's education for 10 years](https://news.ycombinator.com/item?id=50006366)
 * [2026-10-08, 14:09:53](https://news.ycombinator.com/item?id=50006012) - [Orkut.com](https://orkut.com/)
 * [2026-10-08, 13:34:22](https://news.ycombinator.com/item?id=50005643) - [2027 Web Platform Feature Ranking](https://interop-rank.fxdx.dev/)
