@@ -35,6 +35,7 @@
 * [2026-10-05, 14:23:47](https://news.ycombinator.com/item?id=49965308) - [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
 * [2026-10-05, 14:12:14](https://news.ycombinator.com/item?id=49965152) - [The lamps in my house](https://arslan.io/2026/10/05/the-lamps-in-my-house/)
 * [2026-10-05, 14:09:15](https://news.ycombinator.com/item?id=49965118) - [Linux containers in 500 lines of code (2016)](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+* [2026-10-05, 14:09:14](https://news.ycombinator.com/item?id=49965117) - [Float and integer arithmetic follow two different paradigms](https://blog.pkh.me/p/49-float-and-integer-arithmetic-follow-two-different-paradigms.html)
 * [2026-10-05, 13:22:31](https://news.ycombinator.com/item?id=49964537) - [Spending on AI Is Becoming Almost Impossible for Businesses to Budget](https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a)
 * [2026-10-05, 13:02:25](https://news.ycombinator.com/item?id=49964303) - [Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped](https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped)
 * [2026-10-05, 12:59:14](https://news.ycombinator.com/item?id=49964265) - [Gitframes](https://github.com/gatewai-dev/gitframes)

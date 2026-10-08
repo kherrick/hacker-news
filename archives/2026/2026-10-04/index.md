@@ -6,6 +6,7 @@
 
 * [2026-10-04, 23:02:43](https://news.ycombinator.com/item?id=49958850) - [ArtCraft Apps – open-source Adobe compatible suite written in Rust](https://getartcraft.com/apps)
 * [2026-10-04, 22:25:10](https://news.ycombinator.com/item?id=49958569) - [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
+* [2026-10-04, 21:42:43](https://news.ycombinator.com/item?id=49958194) - [Time Travel in Braid (2015)](https://qntm.org/braid)
 * [2026-10-04, 21:01:28](https://news.ycombinator.com/item?id=49957812) - [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
 * [2026-10-04, 19:42:25](https://news.ycombinator.com/item?id=49957117) - [Homa: The end of TCP for AI clusters [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
 * [2026-10-04, 19:42:25](https://news.ycombinator.com/item?id=49957116) - [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI)

@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-10-07](index.md)
 
+* [2026-10-07, 21:25:16](https://news.ycombinator.com/item?id=49998992) - [Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age](https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/)
 * [2026-10-07, 21:16:18](https://news.ycombinator.com/item?id=49998895) - [Margaret Hamilton, who led software development for the Apollo program, has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 * [2026-10-07, 20:01:37](https://news.ycombinator.com/item?id=49998066) - ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
 * [2026-10-07, 19:33:40](https://news.ycombinator.com/item?id=49997718) - [The Mathocalypse](https://scottaaronson.blog/?p=10169)
 * [2026-10-07, 19:28:52](https://news.ycombinator.com/item?id=49997655) - [As We Become Cameras (2016)](https://thebrowser.com/r/f132aafd?m=c6bf87ab-387d-49ae-9584-ab31c2b12376)
+* [2026-10-07, 19:28:20](https://news.ycombinator.com/item?id=49997646) - [The Outing of Tinky Winky (2014)](https://priceonomics.com/the-outing-of-tinky-winky/)
 * [2026-10-07, 18:49:40](https://news.ycombinator.com/item?id=49997161) - [Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
 * [2026-10-07, 18:43:18](https://news.ycombinator.com/item?id=49997073) - [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)
 * [2026-10-07, 18:10:27](https://news.ycombinator.com/item?id=49996574) - [When the machine boots but the reply disappears](https://mainbrella.com/blog/inside-our-brella/)
