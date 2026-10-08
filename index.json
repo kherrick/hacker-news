@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=49998895"
     ],
     [
-      "Margaret Hamilton, who led software development for the Apollo program, has died",
+      "Margaret Hamilton has died",
       "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
+    ]
+  ],
+  [
+    [
+      "2026-10-07, 20:01:37",
+      "https://news.ycombinator.com/item?id=49998066"
+    ],
+    [
+      "'Jonathan' is the oldest land animal on Earth",
+      "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/"
     ]
   ],
   [
@@ -51,32 +61,22 @@
   ],
   [
     [
+      "2026-10-07, 17:59:34",
+      "https://news.ycombinator.com/item?id=49996406"
+    ],
+    [
+      "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+      "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html"
+    ]
+  ],
+  [
+    [
       "2026-10-07, 17:48:38",
       "https://news.ycombinator.com/item?id=49996259"
     ],
     [
       "Docker Agent",
       "https://github.com/docker/docker-agent"
-    ]
-  ],
-  [
-    [
-      "2026-10-07, 16:59:11",
-      "https://news.ycombinator.com/item?id=49995539"
-    ],
-    [
-      "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-      "https://agent.reviews/"
-    ]
-  ],
-  [
-    [
-      "2026-10-07, 15:46:30",
-      "https://news.ycombinator.com/item?id=49994481"
-    ],
-    [
-      "Open source 160 sound visualization experiments",
-      "https://www.kagan.in/iwrzwr/visual-archive/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Navier–Stokes Lost in Translation",
       "https://arxiv.org/abs/2610.08144"
-    ]
-  ],
-  [
-    [
-      "2026-10-07, 15:15:36",
-      "https://news.ycombinator.com/item?id=49993997"
-    ],
-    [
-      "ShinyHunters Extorted Boeing Spin-Off Prior to Arrests",
-      "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/"
     ]
   ],
   [
@@ -147,16 +137,6 @@
     [
       "SynthID Detector",
       "https://synthid.com/"
-    ]
-  ],
-  [
-    [
-      "2026-10-07, 14:10:55",
-      "https://news.ycombinator.com/item?id=49993121"
-    ],
-    [
-      "AI-assisted proof of optimal packing for 11 squares",
-      "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
     ]
   ],
   [
@@ -211,26 +191,6 @@
   ],
   [
     [
-      "2026-10-07, 09:51:43",
-      "https://news.ycombinator.com/item?id=49990470"
-    ],
-    [
-      "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-      "https://www.nobelprize.org/prizes/chemistry/2026/press-release/"
-    ]
-  ],
-  [
-    [
-      "2026-10-07, 09:17:55",
-      "https://news.ycombinator.com/item?id=49990224"
-    ],
-    [
-      "A font recreated from photographs of classic Commodore 64 keycaps",
-      "https://github.com/szabadkai/c64-keyboard-font/"
-    ]
-  ],
-  [
-    [
       "2026-10-07, 03:43:14",
       "https://news.ycombinator.com/item?id=49987858"
     ],
@@ -247,6 +207,16 @@
     [
       "Sharing AI progress in mathematics",
       "https://openai.com/index/sharing-ai-progress-in-mathematics/"
+    ]
+  ],
+  [
+    [
+      "2026-10-06, 18:49:45",
+      "https://news.ycombinator.com/item?id=49982445"
+    ],
+    [
+      "Cleo (Mathematician)",
+      "https://en.wikipedia.org/wiki/Cleo_(mathematician)"
     ]
   ],
   [
@@ -271,6 +241,16 @@
   ],
   [
     [
+      "2026-10-06, 12:20:03",
+      "https://news.ycombinator.com/item?id=49977351"
+    ],
+    [
+      "A minimal kernel in Swift, running in QEMU",
+      "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/"
+    ]
+  ],
+  [
+    [
       "2026-10-06, 11:11:34",
       "https://news.ycombinator.com/item?id=49976818"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
-      "2026-10-05, 20:46:57",
-      "https://news.ycombinator.com/item?id=49970459"
+      "2026-10-05, 21:08:33",
+      "https://news.ycombinator.com/item?id=49970767"
     ],
     [
-      "3D-printing platform rapidly produces complex electric machines",
-      "https://news.mit.edu/2026/3d-printing-platform-rapidly-produces-complex-electric-machines-0218"
+      "Living off-grid: Hundred Rabbits",
+      "https://100r.ca/site/home.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-05, 19:07:07",
+      "https://news.ycombinator.com/item?id=49969073"
+    ],
+    [
+      "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t"
+    ]
+  ],
+  [
+    [
+      "2026-10-05, 11:40:15",
+      "https://news.ycombinator.com/item?id=49963568"
+    ],
+    [
+      "A new write and space optimized storage engine for MySQL is here",
+      "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/"
     ]
   ]
 ]
