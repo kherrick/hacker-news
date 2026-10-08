@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-08, 18:29:06",
+      "https://news.ycombinator.com/item?id=50009904"
+    ],
+    [
+      "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
+      "https://github.com/p10node/k10s"
+    ]
+  ],
+  [
+    [
       "2026-10-08, 17:15:57",
       "https://news.ycombinator.com/item?id=50008685"
     ],
@@ -197,16 +207,6 @@
     [
       "Teams in Vienna and Beijing have built the first thorium nuclear clocks",
       "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-07, 17:48:38",
-      "https://news.ycombinator.com/item?id=49996259"
-    ],
-    [
-      "Docker Agent",
-      "https://github.com/docker/docker-agent"
     ]
   ],
   [
