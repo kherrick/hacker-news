@@ -7,6 +7,7 @@
 * [2026-10-08, 21:00:55](https://news.ycombinator.com/item?id=50012199) - [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt)
 * [2026-10-08, 20:48:37](https://news.ycombinator.com/item?id=50012043) - [I think we might lose public key cryptography](https://twitter.com/matthew_d_green/status/2108278850555674975)
 * [2026-10-08, 20:46:25](https://news.ycombinator.com/item?id=50011999) - [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
+* [2026-10-08, 20:42:16](https://news.ycombinator.com/item?id=50011928) - [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
 * [2026-10-08, 19:43:59](https://news.ycombinator.com/item?id=50011028) - [License update: AI derivation prohibited on all my art, lore, stories, comics](https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics)
 * [2026-10-08, 19:17:51](https://news.ycombinator.com/item?id=50010656) - [Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months)
 * [2026-10-08, 19:04:56](https://news.ycombinator.com/item?id=50010470) - [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
