@@ -13,7 +13,6 @@
 * [2026-10-08, 16:20:20](https://news.ycombinator.com/item?id=50007764) - [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
 * [2026-10-08, 15:51:51](https://news.ycombinator.com/item?id=50007353) - [New gTLD Application for .lan](https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary)
 * [2026-10-08, 15:15:00](https://news.ycombinator.com/item?id=50006832) - [Trump administration is suspending Microsoft from a green card program](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea)
-* [2026-10-08, 14:09:53](https://news.ycombinator.com/item?id=50006012) - [Orkut.com](https://orkut.com/)
 * [2026-10-08, 13:22:01](https://news.ycombinator.com/item?id=50005527) - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
 * [2026-10-08, 12:00:20](https://news.ycombinator.com/item?id=50004790) - [I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities](https://quesma.com/blog/invisible-cities-one-shot/)
 * [2026-10-08, 11:30:08](https://news.ycombinator.com/item?id=50004542) - [Vanillin provides a sweet solution for chronic wound healing](https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/)
@@ -29,6 +28,7 @@
 * [2026-10-07, 13:58:05](https://news.ycombinator.com/item?id=49992994) - [ETH-68: Ethernet Audio Interface for Linux](https://naturalsystems.io/eth68)
 * [2026-10-07, 05:15:44](https://news.ycombinator.com/item?id=49988516) - [Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU](https://github.com/ymcrcat/rgpu)
 * [2026-10-07, 01:41:03](https://news.ycombinator.com/item?id=49986882) - [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)
+* [2026-10-07, 01:24:17](https://news.ycombinator.com/item?id=49986740) - [Show HN: TerrainSR – fast, realistic heightmap upscaling model](https://huggingface.co/joe-gibbs/terrainsr)
 * [2026-10-06, 21:08:00](https://news.ycombinator.com/item?id=49984159) - [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501)
 
 ## [Archives](archives/index.md)
