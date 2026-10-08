@@ -4,7 +4,6 @@
 * [2026-10-08, 20:46:25](https://news.ycombinator.com/item?id=50011999) - [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
 * [2026-10-08, 20:42:16](https://news.ycombinator.com/item?id=50011928) - [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
 * [2026-10-08, 19:04:56](https://news.ycombinator.com/item?id=50010470) - [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
-* [2026-10-08, 18:29:06](https://news.ycombinator.com/item?id=50009904) - [Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)
 * [2026-10-08, 17:51:49](https://news.ycombinator.com/item?id=50009295) - [Theranos.world](https://www.theranos.world/)
 * [2026-10-08, 16:59:39](https://news.ycombinator.com/item?id=50008427) - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
 * [2026-10-08, 16:45:58](https://news.ycombinator.com/item?id=50008187) - [OpenAI annualised revenues $20B less than previously signalled](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html)
@@ -30,6 +29,7 @@
 * [2026-10-07, 01:41:03](https://news.ycombinator.com/item?id=49986882) - [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)
 * [2026-10-07, 01:24:17](https://news.ycombinator.com/item?id=49986740) - [Show HN: TerrainSR – fast, realistic heightmap upscaling model](https://huggingface.co/joe-gibbs/terrainsr)
 * [2026-10-06, 21:08:00](https://news.ycombinator.com/item?id=49984159) - [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501)
+* [2026-10-06, 15:54:24](https://news.ycombinator.com/item?id=49980346) - [The Slow Formation of Durable Software](https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/)
 
 ## [Archives](archives/index.md)
 
