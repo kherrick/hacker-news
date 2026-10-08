@@ -30,6 +30,7 @@
 * [2026-10-05, 18:38:01](https://news.ycombinator.com/item?id=49968708) - [Greenvolt begins building 600 MW/2.4 GWh BESS in Poland](https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/)
 * [2026-10-05, 18:15:20](https://news.ycombinator.com/item?id=49968402) - [Norway Eyes Partial Ban of Smart Glasses](https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239)
 * [2026-10-05, 17:00:10](https://news.ycombinator.com/item?id=49967427) - [Benchmark in Milliseconds](https://matklad.github.io/2026/10/05/benchmark-milliseconds.html)
+* [2026-10-05, 16:19:11](https://news.ycombinator.com/item?id=49966866) - [Analog Computer Simulator in the Browser](https://pavel-krivanek.github.io/The-Analog-Thing-Simulator/public/)
 * [2026-10-05, 15:16:10](https://news.ycombinator.com/item?id=49965959) - [My Homelab Two Years Later, Every Upgrade and What It Cost](https://www.joekarlsson.com/blog/homelab-two-years-later/)
 * [2026-10-05, 14:23:47](https://news.ycombinator.com/item?id=49965308) - [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
 * [2026-10-05, 14:12:14](https://news.ycombinator.com/item?id=49965152) - [The lamps in my house](https://arslan.io/2026/10/05/the-lamps-in-my-house/)
@@ -56,3 +57,4 @@
 * [2026-10-05, 02:31:45](https://news.ycombinator.com/item?id=49960084) - [Nearly 200 people under observation after Irkutsk lab worker dies from plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
 * [2026-10-05, 01:54:08](https://news.ycombinator.com/item?id=49959869) - [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)
 * [2026-10-05, 01:11:56](https://news.ycombinator.com/item?id=49959654) - [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/)
+* [2026-10-05, 00:06:43](https://news.ycombinator.com/item?id=49959280) - [The 15-year search for a band that charted once and vanished](https://shahidhussain.com/writing/search-for-salvage/)

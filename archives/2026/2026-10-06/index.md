@@ -61,6 +61,7 @@
 * [2026-10-06, 09:48:46](https://news.ycombinator.com/item?id=49976265) - [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)
 * [2026-10-06, 08:08:20](https://news.ycombinator.com/item?id=49975619) - [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
 * [2026-10-06, 07:34:35](https://news.ycombinator.com/item?id=49975373) - [Redis in the Wild: Unexpectedly Bumping into Antirez in His Hometown](https://orazioscicolone.it/posts/2026-10-04-meetantirez/)
+* [2026-10-06, 07:01:51](https://news.ycombinator.com/item?id=49975158) - [New repository settings for configuring pull request access](https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/)
 * [2026-10-06, 04:25:41](https://news.ycombinator.com/item?id=49974173) - [Wood Tape (2004)](http://gamesbyemail.com/WoodTape/Default.htm)
 * [2026-10-06, 03:39:01](https://news.ycombinator.com/item?id=49973878) - [Resurrecting iChat Audio and Video Conferencing](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
 * [2026-10-06, 03:01:04](https://news.ycombinator.com/item?id=49973644) - [LLMs may have helped my RSI](https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html)
