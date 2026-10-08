@@ -15,6 +15,7 @@
 * [2026-10-06, 21:59:43](https://news.ycombinator.com/item?id=49984716) - [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/)
 * [2026-10-06, 21:52:57](https://news.ycombinator.com/item?id=49984652) - [How Fast is Python 3.15?](https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15)
 * [2026-10-06, 21:37:01](https://news.ycombinator.com/item?id=49984484) - [Ask HN: Why is Ask HN only showing me 14 posts?](https://news.ycombinator.com/item?id=49984484)
+* [2026-10-06, 21:08:00](https://news.ycombinator.com/item?id=49984159) - [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501)
 * [2026-10-06, 20:57:25](https://news.ycombinator.com/item?id=49984025) - [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
 * [2026-10-06, 20:41:39](https://news.ycombinator.com/item?id=49983791) - [OpenSSH 10.6](https://www.openssh.org/releasenotes.html#10.6)
 * [2026-10-06, 20:40:48](https://news.ycombinator.com/item?id=49983780) - [Vibecoding Photoshop: Time and pressure](https://andreklein.net/vibecoding-photoshop-time-and-pressure/)
