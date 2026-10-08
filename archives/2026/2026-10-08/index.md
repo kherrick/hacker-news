@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-10-08](index.md)
 
+* [2026-10-08, 19:17:51](https://news.ycombinator.com/item?id=50010656) - [Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months)
 * [2026-10-08, 19:04:56](https://news.ycombinator.com/item?id=50010470) - [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
 * [2026-10-08, 18:44:29](https://news.ycombinator.com/item?id=50010170) - [What ArtCraft's Vibe-Coded Apps Say About Adobe](https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/)
 * [2026-10-08, 18:32:52](https://news.ycombinator.com/item?id=50009965) - [Cloudflare Keeps 1.1.1.1 Out of Piracy Blocking, Escapes Penalties in France](https://torrentfreak.com/cloudflare-keeps-1-1-1-1-out-of-piracy-blocking-escapes-penalties-in-france/)
 * [2026-10-08, 18:29:06](https://news.ycombinator.com/item?id=50009904) - [Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)
 * [2026-10-08, 18:12:49](https://news.ycombinator.com/item?id=50009654) - [Serverless Horrors $10,811.41](https://serverlesshorrors.com/all/cloudflare-108k/)
+* [2026-10-08, 18:11:52](https://news.ycombinator.com/item?id=50009634) - [Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked](https://pocketty.app/)
 * [2026-10-08, 18:08:31](https://news.ycombinator.com/item?id=50009580) - [Show HN: Artvinto – Vintage posters and fine art prints](https://www.artvinto.com)
+* [2026-10-08, 17:51:49](https://news.ycombinator.com/item?id=50009295) - [Theranos.World](https://www.theranos.world/)
 * [2026-10-08, 17:15:57](https://news.ycombinator.com/item?id=50008685) - [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
 * [2026-10-08, 17:13:08](https://news.ycombinator.com/item?id=50008642) - [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena)
 * [2026-10-08, 17:08:02](https://news.ycombinator.com/item?id=50008565) - [Anthropic bans 'abusive or cruel behavior' towards Claude](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude)
@@ -44,5 +47,6 @@
 * [2026-10-08, 06:26:03](https://news.ycombinator.com/item?id=50002419) - [AI Crawler Index](https://mojodojo.io/ai-crawler-index)
 * [2026-10-08, 05:56:31](https://news.ycombinator.com/item?id=50002215) - [Clojure in the age of language models](https://yogthos.net/posts/2026-10-07-clojure-llms.html)
 * [2026-10-08, 05:14:14](https://news.ycombinator.com/item?id=50002008) - [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
+* [2026-10-08, 01:33:17](https://news.ycombinator.com/item?id=50000985) - [US man given prison sentence for bot-farming music streams](https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/)
 * [2026-10-08, 00:46:00](https://news.ycombinator.com/item?id=50000676) - [Port of the TypeScript compiler, checker and lsp to Rust, by LLM](https://github.com/pingdotgg/ts-rust)
 * [2026-10-08, 00:14:48](https://news.ycombinator.com/item?id=50000488) - [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
