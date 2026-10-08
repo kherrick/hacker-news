@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-08, 21:00:55](https://news.ycombinator.com/item?id=50012199) - [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt)
 * [2026-10-08, 20:46:25](https://news.ycombinator.com/item?id=50011999) - [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
 * [2026-10-08, 20:42:16](https://news.ycombinator.com/item?id=50011928) - [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
 * [2026-10-08, 19:04:56](https://news.ycombinator.com/item?id=50010470) - [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
+* [2026-10-08, 18:11:52](https://news.ycombinator.com/item?id=50009634) - [Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked](https://pocketty.app/)
 * [2026-10-08, 17:51:49](https://news.ycombinator.com/item?id=50009295) - [Theranos.world](https://www.theranos.world/)
 * [2026-10-08, 16:59:39](https://news.ycombinator.com/item?id=50008427) - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
 * [2026-10-08, 16:37:24](https://news.ycombinator.com/item?id=50008047) - [Show HN: Making a flexible \"neon\" t-shirt with LED filaments](http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html)
