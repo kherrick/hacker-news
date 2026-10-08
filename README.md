@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-08, 18:29:06](https://news.ycombinator.com/item?id=50009904) - [Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)
+* [2026-10-08, 18:12:49](https://news.ycombinator.com/item?id=50009654) - [Serverless Horrors $10,811.41](https://serverlesshorrors.com/all/cloudflare-108k/)
 * [2026-10-08, 17:15:57](https://news.ycombinator.com/item?id=50008685) - [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
 * [2026-10-08, 17:13:08](https://news.ycombinator.com/item?id=50008642) - [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena)
 * [2026-10-08, 16:59:39](https://news.ycombinator.com/item?id=50008427) - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
@@ -9,7 +10,6 @@
 * [2026-10-08, 16:03:33](https://news.ycombinator.com/item?id=50007519) - [4-hour battery storage is cheaper to install than gas turbines all across globe](https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/)
 * [2026-10-08, 15:15:00](https://news.ycombinator.com/item?id=50006832) - [Trump administration is suspending Microsoft from a green card program](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea)
 * [2026-10-08, 14:39:47](https://news.ycombinator.com/item?id=50006366) - [Tell HN: I've been paying for a rural Tanzanian's education for 10 years](https://news.ycombinator.com/item?id=50006366)
-* [2026-10-08, 13:34:22](https://news.ycombinator.com/item?id=50005643) - [2027 Web Platform Feature Ranking](https://interop-rank.fxdx.dev/)
 * [2026-10-08, 13:29:46](https://news.ycombinator.com/item?id=50005608) - [Sub-1-Bit LLM Compression via Latent Factorization](https://github.com/SamsungLabs/LittleBit)
 * [2026-10-08, 13:22:01](https://news.ycombinator.com/item?id=50005527) - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
 * [2026-10-08, 12:28:35](https://news.ycombinator.com/item?id=50005017) - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
