@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 17:43:27](https://news.ycombinator.com/item?id=50024108) - [I'm still around.. I'm just not writing here](https://rachelbythebay.com/w/2026/10/08/idle/)
+* [2026-10-09, 17:35:40](https://news.ycombinator.com/item?id=50023995) - [Scam American companies are using to manipulate ingredient gets listed first](https://twitter.com/WallStreetApes/status/2108594998656807078)
+* [2026-10-09, 16:55:47](https://news.ycombinator.com/item?id=50023350) - [Before Computer Science Became a Boys' Club, Margaret Hamilton Wrote the Code](https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html)
 * [2026-10-09, 16:52:20](https://news.ycombinator.com/item?id=50023293) - [Tomek Korbak: OpenAI's head of safety told they no longer trust me](https://twitter.com/tomekkorbak/status/2108266859397283953)
 * [2026-10-09, 16:50:01](https://news.ycombinator.com/item?id=50023260) - ['Breathtaking,' 'Devastating': Mathematics Reels After New OpenAI Release](https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html)
 * [2026-10-09, 16:13:08](https://news.ycombinator.com/item?id=50022654) - [Republican data center support collapses locally when sites are in GOP counties](https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f)
 * [2026-10-09, 15:49:31](https://news.ycombinator.com/item?id=50022266) - [A statement on the Tor Project's relationship with Mullvad](https://blog.torproject.org/on-tor-relationship-with-mullvad/)
 * [2026-10-09, 15:18:59](https://news.ycombinator.com/item?id=50021763) - [The super intelligence shit is a humiliation ritual for OpenAI](https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z)
 * [2026-10-09, 15:05:24](https://news.ycombinator.com/item?id=50021540) - [Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland](https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms)
+* [2026-10-09, 15:05:24](https://news.ycombinator.com/item?id=50021540) - [Germany transforms former coal mines into Europe's largest lake landscape](https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands)
 * [2026-10-09, 14:55:57](https://news.ycombinator.com/item?id=50021403) - [Imposing Sanctions on the International Criminal Court](https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/)
 * [2026-10-09, 14:45:19](https://news.ycombinator.com/item?id=50021253) - [Agentic coding is a financial trap](https://frugaast.dev/blog/agentic-costs-unsustainable)
 * [2026-10-09, 14:35:42](https://news.ycombinator.com/item?id=50021127) - [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
