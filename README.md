@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-09, 05:22:58](https://news.ycombinator.com/item?id=50016312) - [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
-* [2026-10-09, 03:03:54](https://news.ycombinator.com/item?id=50015486) - [Anger as man sentenced to death for Facebook comment](https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304)
 * [2026-10-09, 02:02:53](https://news.ycombinator.com/item?id=50015074) - [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
 * [2026-10-08, 22:57:50](https://news.ycombinator.com/item?id=50013610) - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 * [2026-10-08, 20:46:25](https://news.ycombinator.com/item?id=50011999) - [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
@@ -13,6 +12,8 @@
 * [2026-10-08, 16:37:24](https://news.ycombinator.com/item?id=50008047) - [Show HN: Making a flexible \"neon\" t-shirt with LED filaments](http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html)
 * [2026-10-08, 16:34:13](https://news.ycombinator.com/item?id=50007993) - [Show HN: Jevman – AI decision models play Pac-Man](https://opper.ai/jevman-benchmark/)
 * [2026-10-08, 16:20:20](https://news.ycombinator.com/item?id=50007764) - [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
+* [2026-10-08, 15:51:51](https://news.ycombinator.com/item?id=50007353) - [New gTLD Application for .lan](https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary)
+* [2026-10-08, 14:39:47](https://news.ycombinator.com/item?id=50006366) - [Tell HN: I've been paying for a rural Tanzanian's education for 10 years](https://news.ycombinator.com/item?id=50006366)
 * [2026-10-08, 14:09:53](https://news.ycombinator.com/item?id=50006012) - [Orkut.com](https://orkut.com/)
 * [2026-10-08, 13:22:01](https://news.ycombinator.com/item?id=50005527) - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
 * [2026-10-08, 09:48:18](https://news.ycombinator.com/item?id=50003796) - [Yes, and](https://htmx.org/essays/yes-and/)
@@ -29,7 +30,6 @@
 * [2026-10-07, 01:41:03](https://news.ycombinator.com/item?id=49986882) - [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)
 * [2026-10-06, 23:16:56](https://news.ycombinator.com/item?id=49985548) - [Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?](https://news.ycombinator.com/item?id=49985548)
 * [2026-10-06, 21:08:00](https://news.ycombinator.com/item?id=49984159) - [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501)
-* [2026-10-05, 00:06:43](https://news.ycombinator.com/item?id=49959280) - [15-year search for a band that charted once and vanished](https://shahidhussain.com/writing/search-for-salvage/)
 
 ## [Archives](archives/index.md)
 
