@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-09, 03:08:05](https://news.ycombinator.com/item?id=50015515) - [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
-* [2026-10-09, 02:27:45](https://news.ycombinator.com/item?id=50015236) - [What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/)
 * [2026-10-09, 02:02:53](https://news.ycombinator.com/item?id=50015074) - [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
 * [2026-10-09, 00:02:19](https://news.ycombinator.com/item?id=50014150) - [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos)
 * [2026-10-08, 22:57:50](https://news.ycombinator.com/item?id=50013610) - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
@@ -30,6 +29,7 @@
 * [2026-10-06, 23:16:56](https://news.ycombinator.com/item?id=49985548) - [Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?](https://news.ycombinator.com/item?id=49985548)
 * [2026-10-06, 21:08:00](https://news.ycombinator.com/item?id=49984159) - [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501)
 * [2026-10-06, 15:54:24](https://news.ycombinator.com/item?id=49980346) - [The Slow Formation of Durable Software](https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/)
+* [2026-10-05, 00:06:43](https://news.ycombinator.com/item?id=49959280) - [15-year search for a band that charted once and vanished](https://shahidhussain.com/writing/search-for-salvage/)
 
 ## [Archives](archives/index.md)
 
