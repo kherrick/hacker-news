@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 18:07:23](https://news.ycombinator.com/item?id=50024457) - [The Revolution of Vertical Drama Is Happening Behind the Camera](https://medium.com/@ludobos/streathe-real-revolution-of-vertical-drama-is-happening-behind-the-camera-0722d1394bce)
 * [2026-10-09, 17:43:27](https://news.ycombinator.com/item?id=50024108) - [I'm still around.. I'm just not writing here](https://rachelbythebay.com/w/2026/10/08/idle/)
 * [2026-10-09, 17:35:40](https://news.ycombinator.com/item?id=50023995) - [Scam American companies are using to manipulate ingredient gets listed first](https://twitter.com/WallStreetApes/status/2108594998656807078)
 * [2026-10-09, 16:55:47](https://news.ycombinator.com/item?id=50023350) - [Before Computer Science Became a Boys' Club, Margaret Hamilton Wrote the Code](https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html)
@@ -21,6 +22,7 @@
 * [2026-10-09, 14:31:54](https://news.ycombinator.com/item?id=50021066) - [US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/)
 * [2026-10-09, 14:20:19](https://news.ycombinator.com/item?id=50020927) - [Yandex Takes a Second Data Center Hit in 48 Hours](https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277)
 * [2026-10-09, 14:14:08](https://news.ycombinator.com/item?id=50020856) - [Court throws out killer's sentence after judge said he loved AI video of victim](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457)
+* [2026-10-09, 13:49:31](https://news.ycombinator.com/item?id=50020533) - ['Wallace and Gromit,' 90% Alone](https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone)
 * [2026-10-09, 13:12:47](https://news.ycombinator.com/item?id=50020014) - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
 * [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Deno Is Joining Cloudflare](https://deno.com/blog/cloudflare)
 * [2026-10-09, 12:49:41](https://news.ycombinator.com/item?id=50019741) - [Study: Exercise increases cancer survival rates](https://www.nejm.org/doi/10.1056/NEJMoa2502760)
@@ -29,6 +31,7 @@
 * [2026-10-09, 12:21:24](https://news.ycombinator.com/item?id=50019455) - [Iranian campaign planted fake articles in real U.S. publications using ChatGPT](https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/)
 * [2026-10-09, 12:20:55](https://news.ycombinator.com/item?id=50019451) - [The Hetzner Cloud network stack – history and technical overview](https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/)
 * [2026-10-09, 11:40:30](https://news.ycombinator.com/item?id=50019090) - [US proposes $100k charge for international students to do post-graduate work](https://www.nature.com/articles/d41586-026-02921-7)
+* [2026-10-09, 11:36:20](https://news.ycombinator.com/item?id=50019056) - [I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
 * [2026-10-09, 11:03:48](https://news.ycombinator.com/item?id=50018817) - [Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 * [2026-10-09, 10:12:11](https://news.ycombinator.com/item?id=50018420) - [Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
 * [2026-10-09, 10:00:26](https://news.ycombinator.com/item?id=50018350) - [OpenAI fires three safety researchers for \"mishandling research information\"](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
