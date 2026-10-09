@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-09, 09:05:40](https://news.ycombinator.com/item?id=50017966) - [South Africa's Navanethem 'Navi' Pillay Wins 2026 Nobel Peace Prize](https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize)
 * [2026-10-09, 06:54:45](https://news.ycombinator.com/item?id=50016974) - [OTel-Native by Design – Building Products That Export to Any Observability Stack](https://opentelemetry.io/blog/2026/otel-native-by-design/)
 * [2026-10-09, 06:40:14](https://news.ycombinator.com/item?id=50016840) - [Show HN: OldRoll, a free vintage photo editor for the browser](https://www.oldroll.io/)
 * [2026-10-09, 05:51:29](https://news.ycombinator.com/item?id=50016489) - [MXC - a sandboxed code execution system](https://github.com/microsoft/mxc)
@@ -17,7 +18,6 @@
 * [2026-10-08, 16:59:39](https://news.ycombinator.com/item?id=50008427) - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
 * [2026-10-08, 16:37:24](https://news.ycombinator.com/item?id=50008047) - [Show HN: Making a flexible \"neon\" t-shirt with LED filaments](http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html)
 * [2026-10-08, 16:20:20](https://news.ycombinator.com/item?id=50007764) - [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
-* [2026-10-08, 14:09:53](https://news.ycombinator.com/item?id=50006012) - [Orkut.com](https://orkut.com/)
 * [2026-10-08, 13:22:01](https://news.ycombinator.com/item?id=50005527) - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
 * [2026-10-08, 09:48:18](https://news.ycombinator.com/item?id=50003796) - [Yes, and](https://htmx.org/essays/yes-and/)
 * [2026-10-08, 07:05:40](https://news.ycombinator.com/item?id=50002650) - [OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090)
