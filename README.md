@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-09, 03:08:05](https://news.ycombinator.com/item?id=50015515) - [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
 * [2026-10-09, 02:27:45](https://news.ycombinator.com/item?id=50015236) - [What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/)
 * [2026-10-09, 02:02:53](https://news.ycombinator.com/item?id=50015074) - [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
 * [2026-10-09, 00:02:19](https://news.ycombinator.com/item?id=50014150) - [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos)
@@ -25,7 +26,6 @@
 * [2026-10-07, 17:40:23](https://news.ycombinator.com/item?id=49996149) - [DuckDB Ducklake](https://github.com/duckdb/ducklake)
 * [2026-10-07, 16:56:30](https://news.ycombinator.com/item?id=49995495) - [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
 * [2026-10-07, 13:58:05](https://news.ycombinator.com/item?id=49992994) - [ETH-68: Ethernet Audio Interface for Linux](https://naturalsystems.io/eth68)
-* [2026-10-07, 05:15:44](https://news.ycombinator.com/item?id=49988516) - [Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU](https://github.com/ymcrcat/rgpu)
 * [2026-10-07, 01:41:03](https://news.ycombinator.com/item?id=49986882) - [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)
 * [2026-10-06, 23:16:56](https://news.ycombinator.com/item?id=49985548) - [Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?](https://news.ycombinator.com/item?id=49985548)
 * [2026-10-06, 21:08:00](https://news.ycombinator.com/item?id=49984159) - [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501)
