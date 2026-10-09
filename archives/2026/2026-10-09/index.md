@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 12:20:55](https://news.ycombinator.com/item?id=50019451) - [The Hetzner Cloud network stack – history and technical overview](https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/)
+* [2026-10-09, 11:40:30](https://news.ycombinator.com/item?id=50019090) - [US proposes $100k charge for international students to do post-graduate work](https://www.nature.com/articles/d41586-026-02921-7)
 * [2026-10-09, 11:03:48](https://news.ycombinator.com/item?id=50018817) - [Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 * [2026-10-09, 10:12:11](https://news.ycombinator.com/item?id=50018420) - [Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
 * [2026-10-09, 10:00:26](https://news.ycombinator.com/item?id=50018350) - [OpenAI fires three safety researchers for \"mishandling research information\"](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
