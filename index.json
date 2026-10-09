@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-10-09, 16:13:08",
-      "https://news.ycombinator.com/item?id=50022654"
-    ],
-    [
-      "Republican data center support collapses locally when sites are in GOP counties",
-      "https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f"
-    ]
-  ],
-  [
-    [
       "2026-10-09, 15:49:31",
       "https://news.ycombinator.com/item?id=50022266"
     ],
@@ -297,6 +287,16 @@
     [
       "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
       "https://news.ycombinator.com/item?id=49985548"
+    ]
+  ],
+  [
+    [
+      "2026-10-06, 20:24:52",
+      "https://news.ycombinator.com/item?id=49983582"
+    ],
+    [
+      "Training Text-to-Image Models Without a VAE",
+      "https://www.linum.ai/field-notes/pyramid-jit"
     ]
   ]
 ]
