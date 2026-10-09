@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-09, 03:08:05](https://news.ycombinator.com/item?id=50015515) - [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
+* [2026-10-09, 04:43:20](https://news.ycombinator.com/item?id=50016067) - [Cybernetics of AI Companies](https://ai-cybernetics.grok.me)
+* [2026-10-09, 03:03:54](https://news.ycombinator.com/item?id=50015486) - [Anger as man sentenced to death for Facebook comment](https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304)
 * [2026-10-09, 02:02:53](https://news.ycombinator.com/item?id=50015074) - [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
 * [2026-10-08, 22:57:50](https://news.ycombinator.com/item?id=50013610) - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 * [2026-10-08, 20:46:25](https://news.ycombinator.com/item?id=50011999) - [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
@@ -28,7 +29,6 @@
 * [2026-10-07, 01:41:03](https://news.ycombinator.com/item?id=49986882) - [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)
 * [2026-10-06, 23:16:56](https://news.ycombinator.com/item?id=49985548) - [Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?](https://news.ycombinator.com/item?id=49985548)
 * [2026-10-06, 21:08:00](https://news.ycombinator.com/item?id=49984159) - [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501)
-* [2026-10-06, 15:54:24](https://news.ycombinator.com/item?id=49980346) - [The Slow Formation of Durable Software](https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/)
 * [2026-10-05, 00:06:43](https://news.ycombinator.com/item?id=49959280) - [15-year search for a band that charted once and vanished](https://shahidhussain.com/writing/search-for-salvage/)
 
 ## [Archives](archives/index.md)
