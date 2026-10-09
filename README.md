@@ -2,7 +2,6 @@
 
 * [2026-10-09, 03:08:05](https://news.ycombinator.com/item?id=50015515) - [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
 * [2026-10-09, 02:02:53](https://news.ycombinator.com/item?id=50015074) - [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
-* [2026-10-09, 00:02:19](https://news.ycombinator.com/item?id=50014150) - [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos)
 * [2026-10-08, 22:57:50](https://news.ycombinator.com/item?id=50013610) - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 * [2026-10-08, 20:46:25](https://news.ycombinator.com/item?id=50011999) - [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
 * [2026-10-08, 20:42:16](https://news.ycombinator.com/item?id=50011928) - [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
@@ -16,6 +15,7 @@
 * [2026-10-08, 14:09:53](https://news.ycombinator.com/item?id=50006012) - [Orkut.com](https://orkut.com/)
 * [2026-10-08, 13:22:01](https://news.ycombinator.com/item?id=50005527) - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
 * [2026-10-08, 09:48:18](https://news.ycombinator.com/item?id=50003796) - [Yes, and](https://htmx.org/essays/yes-and/)
+* [2026-10-08, 07:07:34](https://news.ycombinator.com/item?id=50002665) - [I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9)
 * [2026-10-08, 07:05:40](https://news.ycombinator.com/item?id=50002650) - [OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090)
 * [2026-10-08, 01:33:17](https://news.ycombinator.com/item?id=50000985) - [US man given prison sentence for bot-farming music streams](https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/)
 * [2026-10-08, 00:14:48](https://news.ycombinator.com/item?id=50000488) - [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
