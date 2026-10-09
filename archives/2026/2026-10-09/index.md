@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 15:18:59](https://news.ycombinator.com/item?id=50021763) - [The super intelligence shit is a humiliation ritual for OpenAI](https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z)
 * [2026-10-09, 15:05:24](https://news.ycombinator.com/item?id=50021540) - [Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland](https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms)
 * [2026-10-09, 14:55:57](https://news.ycombinator.com/item?id=50021403) - [Imposing Sanctions on the International Criminal Court](https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/)
 * [2026-10-09, 14:35:42](https://news.ycombinator.com/item?id=50021127) - [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
