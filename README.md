@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-09, 06:40:14](https://news.ycombinator.com/item?id=50016840) - [Show HN: OldRoll, a free vintage photo editor for the browser](https://www.oldroll.io/)
 * [2026-10-09, 05:22:58](https://news.ycombinator.com/item?id=50016312) - [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
 * [2026-10-09, 03:08:05](https://news.ycombinator.com/item?id=50015515) - [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
 * [2026-10-09, 02:27:45](https://news.ycombinator.com/item?id=50015236) - [What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/)
@@ -20,7 +21,6 @@
 * [2026-10-08, 09:48:18](https://news.ycombinator.com/item?id=50003796) - [Yes, and](https://htmx.org/essays/yes-and/)
 * [2026-10-08, 07:07:34](https://news.ycombinator.com/item?id=50002665) - [I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9)
 * [2026-10-08, 07:05:40](https://news.ycombinator.com/item?id=50002650) - [OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090)
-* [2026-10-08, 01:33:17](https://news.ycombinator.com/item?id=50000985) - [US man given prison sentence for bot-farming music streams](https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/)
 * [2026-10-08, 00:14:48](https://news.ycombinator.com/item?id=50000488) - [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
 * [2026-10-07, 21:25:16](https://news.ycombinator.com/item?id=49998992) - [Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age](https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/)
 * [2026-10-07, 18:14:41](https://news.ycombinator.com/item?id=49996639) - [A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone](https://www.nature.com/articles/s41586-026-10546-z)
