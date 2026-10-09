@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 13:12:47](https://news.ycombinator.com/item?id=50020014) - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
+* [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Deno Is Joining Cloudflare](https://deno.com/blog/cloudflare)
+* [2026-10-09, 12:21:24](https://news.ycombinator.com/item?id=50019455) - [Iranian campaign planted fake articles in real U.S. publications using ChatGPT](https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/)
 * [2026-10-09, 12:20:55](https://news.ycombinator.com/item?id=50019451) - [The Hetzner Cloud network stack – history and technical overview](https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/)
 * [2026-10-09, 11:40:30](https://news.ycombinator.com/item?id=50019090) - [US proposes $100k charge for international students to do post-graduate work](https://www.nature.com/articles/d41586-026-02921-7)
 * [2026-10-09, 11:03:48](https://news.ycombinator.com/item?id=50018817) - [Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
