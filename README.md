@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-09, 20:04:00](https://news.ycombinator.com/item?id=50025935) - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
+* [2026-10-09, 19:50:16](https://news.ycombinator.com/item?id=50025767) - [open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI](https://codeberg.org/ethical-foss/open-slopware)
 * [2026-10-09, 18:39:47](https://news.ycombinator.com/item?id=50024927) - [You might want to try being less creative](https://blog.bawolf.com/p/you-might-want-to-try-being-less)
 * [2026-10-09, 18:38:44](https://news.ycombinator.com/item?id=50024913) - [Microsoft-Decision-1, our model for fast decision-making](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/)
 * [2026-10-09, 18:22:20](https://news.ycombinator.com/item?id=50024669) - [M7.6 Earthquake in Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive)
@@ -13,7 +14,6 @@
 * [2026-10-09, 13:49:31](https://news.ycombinator.com/item?id=50020533) - ['Wallace and Gromit,' 90% Alone](https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone)
 * [2026-10-09, 13:12:47](https://news.ycombinator.com/item?id=50020014) - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
 * [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
-* [2026-10-09, 12:26:12](https://news.ycombinator.com/item?id=50019499) - [100+ reactions to 100+ solutions](https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/)
 * [2026-10-09, 11:36:20](https://news.ycombinator.com/item?id=50019056) - [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
 * [2026-10-09, 11:03:48](https://news.ycombinator.com/item?id=50018817) - [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 * [2026-10-09, 10:12:11](https://news.ycombinator.com/item?id=50018420) - [Nobel Peace Prize for 2026 to Navanethem Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
@@ -27,7 +27,7 @@
 * [2026-10-08, 16:59:39](https://news.ycombinator.com/item?id=50008427) - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
 * [2026-10-08, 09:48:18](https://news.ycombinator.com/item?id=50003796) - [Yes, and](https://htmx.org/essays/yes-and/)
 * [2026-10-08, 00:14:48](https://news.ycombinator.com/item?id=50000488) - [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
-* [2026-10-07, 01:41:03](https://news.ycombinator.com/item?id=49986882) - [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)
+* [2026-10-06, 23:16:56](https://news.ycombinator.com/item?id=49985548) - [Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?](https://news.ycombinator.com/item?id=49985548)
 * [2026-10-06, 20:24:52](https://news.ycombinator.com/item?id=49983582) - [Training Text-to-Image Models Without a VAE](https://www.linum.ai/field-notes/pyramid-jit)
 * [2026-10-05, 07:00:37](https://news.ycombinator.com/item?id=49961538) - [The reciprocal sum of the prime-prefix-free numbers converges [pdf]](https://jdb19937.github.io/prime-prefix-free/ppf.pdf)
 
