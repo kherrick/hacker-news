@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 16:52:20](https://news.ycombinator.com/item?id=50023293) - [Tomek Korbak: OpenAI's head of safety told they no longer trust me](https://twitter.com/tomekkorbak/status/2108266859397283953)
 * [2026-10-09, 16:13:08](https://news.ycombinator.com/item?id=50022654) - [Republican data center support collapses locally when sites are in GOP counties](https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f)
 * [2026-10-09, 15:49:31](https://news.ycombinator.com/item?id=50022266) - [A statement on the Tor Project's relationship with Mullvad](https://blog.torproject.org/on-tor-relationship-with-mullvad/)
 * [2026-10-09, 15:18:59](https://news.ycombinator.com/item?id=50021763) - [The super intelligence shit is a humiliation ritual for OpenAI](https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z)
