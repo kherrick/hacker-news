@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-08](index.md)
 
+* [2026-10-08, 23:32:49](https://news.ycombinator.com/item?id=50013931) - [Show HN: SVG Spark – 10 client-side SVG design and dev tools](https://svg-spark.vercel.app/)
 * [2026-10-08, 23:29:43](https://news.ycombinator.com/item?id=50013902) - [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
+* [2026-10-08, 22:48:30](https://news.ycombinator.com/item?id=50013525) - [Spinal: A near-instant, predictive surface for any codebase](https://spinal.sh/)
 * [2026-10-08, 21:00:55](https://news.ycombinator.com/item?id=50012199) - [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt)
 * [2026-10-08, 20:48:37](https://news.ycombinator.com/item?id=50012043) - [I think we might lose public key cryptography](https://twitter.com/matthew_d_green/status/2108278850555674975)
 * [2026-10-08, 20:46:25](https://news.ycombinator.com/item?id=50011999) - [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
@@ -19,6 +21,7 @@
 * [2026-10-08, 18:11:52](https://news.ycombinator.com/item?id=50009634) - [Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked](https://pocketty.app/)
 * [2026-10-08, 18:08:31](https://news.ycombinator.com/item?id=50009580) - [Show HN: Artvinto – Vintage posters and fine art prints](https://www.artvinto.com)
 * [2026-10-08, 17:51:49](https://news.ycombinator.com/item?id=50009295) - [Theranos.World](https://www.theranos.world/)
+* [2026-10-08, 17:39:26](https://news.ycombinator.com/item?id=50009066) - [Scaling and benchmarking a critical message bus using a new indexing strategy](https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/)
 * [2026-10-08, 17:15:57](https://news.ycombinator.com/item?id=50008685) - [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
 * [2026-10-08, 17:13:08](https://news.ycombinator.com/item?id=50008642) - [Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena)
 * [2026-10-08, 17:08:02](https://news.ycombinator.com/item?id=50008565) - [Anthropic bans 'abusive or cruel behavior' towards Claude](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude)
