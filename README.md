@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-09, 21:25:09](https://news.ycombinator.com/item?id=50026734) - [OpenAI mistranslated mathematics into code for its Navier-Stokes proof](https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/)
 * [2026-10-09, 21:06:59](https://news.ycombinator.com/item?id=50026555) - [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
 * [2026-10-09, 20:04:00](https://news.ycombinator.com/item?id=50025935) - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
 * [2026-10-09, 18:39:47](https://news.ycombinator.com/item?id=50024927) - [You might want to try being less creative](https://blog.bawolf.com/p/you-might-want-to-try-being-less)
@@ -28,7 +29,6 @@
 * [2026-10-08, 17:51:49](https://news.ycombinator.com/item?id=50009295) - [Theranos.world](https://www.theranos.world/)
 * [2026-10-08, 09:48:18](https://news.ycombinator.com/item?id=50003796) - [Yes, and](https://htmx.org/essays/yes-and/)
 * [2026-10-08, 09:10:42](https://news.ycombinator.com/item?id=50003545) - [Show HN: Proton Drive for Linux](https://oss.lsantos.dev/proton-drive-linux-fs/)
-* [2026-10-08, 00:14:48](https://news.ycombinator.com/item?id=50000488) - [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
 * [2026-10-06, 20:24:52](https://news.ycombinator.com/item?id=49983582) - [Training Text-to-Image Models Without a VAE](https://www.linum.ai/field-notes/pyramid-jit)
 
 ## [Archives](archives/index.md)

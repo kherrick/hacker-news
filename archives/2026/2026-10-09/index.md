@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 21:25:09](https://news.ycombinator.com/item?id=50026734) - [OpenAI mistranslated mathematics into code for its Navier-Stokes proof](https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/)
 * [2026-10-09, 21:06:59](https://news.ycombinator.com/item?id=50026555) - [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
 * [2026-10-09, 20:04:00](https://news.ycombinator.com/item?id=50025935) - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
 * [2026-10-09, 19:50:16](https://news.ycombinator.com/item?id=50025767) - [open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI](https://codeberg.org/ethical-foss/open-slopware)
