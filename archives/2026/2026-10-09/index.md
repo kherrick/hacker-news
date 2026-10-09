@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 05:22:58](https://news.ycombinator.com/item?id=50016312) - [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
 * [2026-10-09, 04:43:20](https://news.ycombinator.com/item?id=50016067) - [Cybernetics of AI Companies](https://ai-cybernetics.grok.me)
 * [2026-10-09, 03:08:05](https://news.ycombinator.com/item?id=50015515) - [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
 * [2026-10-09, 03:03:54](https://news.ycombinator.com/item?id=50015486) - [Anger as man sentenced to death for Facebook comment](https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304)
