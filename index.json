@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2026-10-09, 15:49:31",
-      "https://news.ycombinator.com/item?id=50022266"
+      "2026-10-09, 16:50:01",
+      "https://news.ycombinator.com/item?id=50023260"
     ],
     [
-      "A statement on the Tor Project's relationship with Mullvad",
-      "https://blog.torproject.org/on-tor-relationship-with-mullvad/"
+      "'Breathtaking,' 'Devastating': Mathematics Reels After New OpenAI Release",
+      "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html"
     ]
   ],
   [
@@ -31,32 +31,12 @@
   ],
   [
     [
-      "2026-10-09, 14:55:57",
-      "https://news.ycombinator.com/item?id=50021403"
-    ],
-    [
-      "Imposing Sanctions on the International Criminal Court",
-      "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/"
-    ]
-  ],
-  [
-    [
       "2026-10-09, 14:35:42",
       "https://news.ycombinator.com/item?id=50021127"
     ],
     [
-      "Python 3.15.0",
+      "Python 3.15",
       "https://www.python.org/downloads/release/python-3150/"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 14:31:54",
-      "https://news.ycombinator.com/item?id=50021066"
-    ],
-    [
-      "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-      "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/"
     ]
   ],
   [
@@ -75,7 +55,7 @@
       "https://news.ycombinator.com/item?id=50019911"
     ],
     [
-      "Deno Is Joining Cloudflare",
+      "Cloudflare acquires Deno",
       "https://deno.com/blog/cloudflare"
     ]
   ],
@@ -125,7 +105,7 @@
       "https://news.ycombinator.com/item?id=50018817"
     ],
     [
-      "Let your AI agents paint big arrows, boxes and text on your screen",
+      "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
     ]
   ],
@@ -165,7 +145,7 @@
       "https://news.ycombinator.com/item?id=50018088"
     ],
     [
-      "I'm in a Meeting",
+      "Sorry, I'm in a meeting",
       "https://iminafleeting.com/"
     ]
   ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2026-10-07, 17:40:23",
+      "https://news.ycombinator.com/item?id=49996149"
+    ],
+    [
+      "DuckDB Ducklake",
+      "https://github.com/duckdb/ducklake"
+    ]
+  ],
+  [
+    [
       "2026-10-07, 16:56:30",
       "https://news.ycombinator.com/item?id=49995495"
     ],
     [
       "Man discovers his parents' coffee machine used 1TB of data in 10 days",
       "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/"
+    ]
+  ],
+  [
+    [
+      "2026-10-07, 13:58:05",
+      "https://news.ycombinator.com/item?id=49992994"
+    ],
+    [
+      "ETH-68: Ethernet Audio Interface for Linux",
+      "https://naturalsystems.io/eth68"
     ]
   ],
   [
