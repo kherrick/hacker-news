@@ -18,6 +18,7 @@
 * [2026-10-09, 18:10:55](https://news.ycombinator.com/item?id=50024499) - [Show HN: See *almost* any carriers phone settings](https://carrierexplode.com/)
 * [2026-10-09, 18:07:23](https://news.ycombinator.com/item?id=50024457) - [The Revolution of Vertical Drama Is Happening Behind the Camera](https://medium.com/@ludobos/streathe-real-revolution-of-vertical-drama-is-happening-behind-the-camera-0722d1394bce)
 * [2026-10-09, 17:43:27](https://news.ycombinator.com/item?id=50024108) - [I'm still around.. I'm just not writing here](https://rachelbythebay.com/w/2026/10/08/idle/)
+* [2026-10-09, 17:42:12](https://news.ycombinator.com/item?id=50024090) - [What mathematicians should know about the Lean Theorem Prover: reliability & AI](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
 * [2026-10-09, 17:39:44](https://news.ycombinator.com/item?id=50024055) - [Show HN: The rarest tech books and docs you've probably never read](https://readrare.com/)
 * [2026-10-09, 17:35:40](https://news.ycombinator.com/item?id=50023995) - [Scam American companies are using to manipulate ingredient gets listed first](https://twitter.com/WallStreetApes/status/2108594998656807078)
 * [2026-10-09, 17:33:07](https://news.ycombinator.com/item?id=50023953) - [In Memory of Deno](https://orgsoft.org/blog/in-memory-of-deno)
