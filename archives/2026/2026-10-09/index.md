@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 14:31:54](https://news.ycombinator.com/item?id=50021066) - [US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/)
 * [2026-10-09, 14:20:19](https://news.ycombinator.com/item?id=50020927) - [Yandex Takes a Second Data Center Hit in 48 Hours](https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277)
 * [2026-10-09, 14:14:08](https://news.ycombinator.com/item?id=50020856) - [Court throws out killer's sentence after judge said he loved AI video of victim](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457)
 * [2026-10-09, 13:12:47](https://news.ycombinator.com/item?id=50020014) - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
 * [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Deno Is Joining Cloudflare](https://deno.com/blog/cloudflare)
 * [2026-10-09, 12:49:41](https://news.ycombinator.com/item?id=50019741) - [Study: Exercise increases cancer survival rates](https://www.nejm.org/doi/10.1056/NEJMoa2502760)
 * [2026-10-09, 12:29:40](https://news.ycombinator.com/item?id=50019535) - [Meadows – a small language for stock-and-flow diagrams that run](https://lorezzed.github.io/meadows/)
+* [2026-10-09, 12:26:12](https://news.ycombinator.com/item?id=50019499) - [Reactions to 100 Solutions](https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/)
 * [2026-10-09, 12:21:24](https://news.ycombinator.com/item?id=50019455) - [Iranian campaign planted fake articles in real U.S. publications using ChatGPT](https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/)
 * [2026-10-09, 12:20:55](https://news.ycombinator.com/item?id=50019451) - [The Hetzner Cloud network stack – history and technical overview](https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/)
 * [2026-10-09, 11:40:30](https://news.ycombinator.com/item?id=50019090) - [US proposes $100k charge for international students to do post-graduate work](https://www.nature.com/articles/d41586-026-02921-7)
