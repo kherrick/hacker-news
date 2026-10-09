@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-09, 16:52:20](https://news.ycombinator.com/item?id=50023293) - [Tomek Korbak: OpenAI's head of safety told they no longer trust me](https://twitter.com/tomekkorbak/status/2108266859397283953)
-* [2026-10-09, 16:13:08](https://news.ycombinator.com/item?id=50022654) - [Republican data center support collapses locally when sites are in GOP counties](https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f)
 * [2026-10-09, 15:49:31](https://news.ycombinator.com/item?id=50022266) - [A statement on the Tor Project's relationship with Mullvad](https://blog.torproject.org/on-tor-relationship-with-mullvad/)
 * [2026-10-09, 15:05:24](https://news.ycombinator.com/item?id=50021540) - [Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland](https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms)
 * [2026-10-09, 14:55:57](https://news.ycombinator.com/item?id=50021403) - [Imposing Sanctions on the International Criminal Court](https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/)
@@ -30,6 +29,7 @@
 * [2026-10-07, 16:56:30](https://news.ycombinator.com/item?id=49995495) - [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
 * [2026-10-07, 01:41:03](https://news.ycombinator.com/item?id=49986882) - [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)
 * [2026-10-06, 23:16:56](https://news.ycombinator.com/item?id=49985548) - [Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?](https://news.ycombinator.com/item?id=49985548)
+* [2026-10-06, 20:24:52](https://news.ycombinator.com/item?id=49983582) - [Training Text-to-Image Models Without a VAE](https://www.linum.ai/field-notes/pyramid-jit)
 
 ## [Archives](archives/index.md)
 

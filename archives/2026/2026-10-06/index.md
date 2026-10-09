@@ -21,6 +21,7 @@
 * [2026-10-06, 20:41:39](https://news.ycombinator.com/item?id=49983791) - [OpenSSH 10.6](https://www.openssh.org/releasenotes.html#10.6)
 * [2026-10-06, 20:40:48](https://news.ycombinator.com/item?id=49983780) - [Vibecoding Photoshop: Time and pressure](https://andreklein.net/vibecoding-photoshop-time-and-pressure/)
 * [2026-10-06, 20:33:47](https://news.ycombinator.com/item?id=49983703) - [Paramount Skydance has completed its $111B merger with Warner Bros. Discovery](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/)
+* [2026-10-06, 20:24:52](https://news.ycombinator.com/item?id=49983582) - [Training Text-to-Image Models Without a VAE](https://www.linum.ai/field-notes/pyramid-jit)
 * [2026-10-06, 20:12:05](https://news.ycombinator.com/item?id=49983404) - [When random is not actually random enough](https://ersc.io/blog/when-random-isnt-random-enough)
 * [2026-10-06, 19:55:11](https://news.ycombinator.com/item?id=49983226) - [Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage](https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/)
 * [2026-10-06, 19:31:24](https://news.ycombinator.com/item?id=49982921) - [A sustainable web career, for when all this blows over](https://dbushell.com/2026/10/07/sustainable-web-career/)
