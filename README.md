@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-09, 09:05:40](https://news.ycombinator.com/item?id=50017966) - [South Africa's Navanethem 'Navi' Pillay Wins 2026 Nobel Peace Prize](https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize)
 * [2026-10-09, 06:54:45](https://news.ycombinator.com/item?id=50016974) - [OTel-Native by Design – Building Products That Export to Any Observability Stack](https://opentelemetry.io/blog/2026/otel-native-by-design/)
 * [2026-10-09, 06:40:14](https://news.ycombinator.com/item?id=50016840) - [Show HN: OldRoll, a free vintage photo editor for the browser](https://www.oldroll.io/)
 * [2026-10-09, 05:51:29](https://news.ycombinator.com/item?id=50016489) - [MXC - a sandboxed code execution system](https://github.com/microsoft/mxc)
@@ -13,7 +14,6 @@
 * [2026-10-08, 20:42:16](https://news.ycombinator.com/item?id=50011928) - [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
 * [2026-10-08, 19:04:56](https://news.ycombinator.com/item?id=50010470) - [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
 * [2026-10-08, 17:51:49](https://news.ycombinator.com/item?id=50009295) - [Theranos.world](https://www.theranos.world/)
-* [2026-10-08, 17:39:26](https://news.ycombinator.com/item?id=50009066) - [Scaling and benchmarking a critical message bus using a new indexing strategy](https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/)
 * [2026-10-08, 16:59:39](https://news.ycombinator.com/item?id=50008427) - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
 * [2026-10-08, 16:37:24](https://news.ycombinator.com/item?id=50008047) - [Show HN: Making a flexible \"neon\" t-shirt with LED filaments](http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html)
 * [2026-10-08, 16:20:20](https://news.ycombinator.com/item?id=50007764) - [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
