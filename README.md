@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-09, 22:14:03](https://news.ycombinator.com/item?id=50027252) - [In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology](https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology)
 * [2026-10-09, 21:25:09](https://news.ycombinator.com/item?id=50026734) - [OpenAI mistranslated mathematics into code for its Navier-Stokes proof](https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/)
 * [2026-10-09, 21:06:59](https://news.ycombinator.com/item?id=50026555) - [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
 * [2026-10-09, 20:04:00](https://news.ycombinator.com/item?id=50025935) - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
@@ -21,7 +22,6 @@
 * [2026-10-09, 11:03:48](https://news.ycombinator.com/item?id=50018817) - [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 * [2026-10-09, 10:12:11](https://news.ycombinator.com/item?id=50018420) - [Nobel Peace Prize for 2026 to Navanethem Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
 * [2026-10-09, 10:00:26](https://news.ycombinator.com/item?id=50018350) - [OpenAI fires three safety researchers for \"mishandling research information\"](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
-* [2026-10-09, 09:43:06](https://news.ycombinator.com/item?id=50018239) - [Once: Cache CLI commands](https://github.com/alex0ptr/once)
 * [2026-10-09, 09:21:48](https://news.ycombinator.com/item?id=50018088) - [Sorry, I'm in a meeting](https://iminafleeting.com/)
 * [2026-10-09, 07:44:36](https://news.ycombinator.com/item?id=50017357) - [Programming Isn't Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 * [2026-10-09, 05:51:29](https://news.ycombinator.com/item?id=50016489) - [MXC - a sandboxed code execution system](https://github.com/microsoft/mxc)
