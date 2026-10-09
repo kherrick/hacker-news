@@ -53,6 +53,7 @@
 * [2026-10-08, 11:30:08](https://news.ycombinator.com/item?id=50004542) - [Vanillin provides a sweet solution for chronic wound healing](https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/)
 * [2026-10-08, 10:34:15](https://news.ycombinator.com/item?id=50004115) - [OLED burn-in test: 30-month update](https://www.techspot.com/article/3178-oled-burn-in-test/)
 * [2026-10-08, 09:48:18](https://news.ycombinator.com/item?id=50003796) - [Yes, and](https://htmx.org/essays/yes-and/)
+* [2026-10-08, 09:10:42](https://news.ycombinator.com/item?id=50003545) - [Show HN: Proton Drive for Linux](https://oss.lsantos.dev/proton-drive-linux-fs/)
 * [2026-10-08, 07:07:34](https://news.ycombinator.com/item?id=50002665) - [I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9)
 * [2026-10-08, 07:05:40](https://news.ycombinator.com/item?id=50002650) - [OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090)
 * [2026-10-08, 06:43:13](https://news.ycombinator.com/item?id=50002505) - [Dat-ecosystem: high level applications built on top of P2P protocols](https://dat-ecosystem.org/)
