@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-09, 16:13:08](https://news.ycombinator.com/item?id=50022654) - [Republican data center support collapses locally when sites are in GOP counties](https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f)
 * [2026-10-09, 15:49:31](https://news.ycombinator.com/item?id=50022266) - [A statement on the Tor Project's relationship with Mullvad](https://blog.torproject.org/on-tor-relationship-with-mullvad/)
 * [2026-10-09, 15:05:24](https://news.ycombinator.com/item?id=50021540) - [Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland](https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms)
 * [2026-10-09, 14:55:57](https://news.ycombinator.com/item?id=50021403) - [Imposing Sanctions on the International Criminal Court](https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/)
-* [2026-10-09, 14:45:19](https://news.ycombinator.com/item?id=50021253) - [Agentic coding is a financial trap](https://frugaast.dev/blog/agentic-costs-unsustainable)
 * [2026-10-09, 14:35:42](https://news.ycombinator.com/item?id=50021127) - [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
 * [2026-10-09, 14:31:54](https://news.ycombinator.com/item?id=50021066) - [US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/)
 * [2026-10-09, 14:20:19](https://news.ycombinator.com/item?id=50020927) - [Yandex Takes a Second Data Center Hit in 48 Hours](https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277)
