@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2026-10-09, 14:21:31",
+      "https://news.ycombinator.com/item?id=50020947"
+    ],
+    [
+      "Why Are Coding Agents So Dumb?",
+      "https://mtlynch.io/why-are-coding-agents-so-dumb/"
+    ]
+  ],
+  [
+    [
       "2026-10-09, 13:49:31",
       "https://news.ycombinator.com/item?id=50020533"
     ],
@@ -287,16 +297,6 @@
     [
       "Training Text-to-Image Models Without a VAE",
       "https://www.linum.ai/field-notes/pyramid-jit"
-    ]
-  ],
-  [
-    [
-      "2026-10-05, 07:00:37",
-      "https://news.ycombinator.com/item?id=49961538"
-    ],
-    [
-      "The reciprocal sum of the prime-prefix-free numbers converges [pdf]",
-      "https://jdb19937.github.io/prime-prefix-free/ppf.pdf"
     ]
   ]
 ]
