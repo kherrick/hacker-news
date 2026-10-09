@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-09, 03:08:05",
+      "https://news.ycombinator.com/item?id=50015515"
+    ],
+    [
+      "Keyboard differences between Windows and Macs",
+      "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/"
+    ]
+  ],
+  [
+    [
       "2026-10-09, 02:27:45",
       "https://news.ycombinator.com/item?id=50015236"
     ],
@@ -247,16 +257,6 @@
     [
       "ETH-68: Ethernet Audio Interface for Linux",
       "https://naturalsystems.io/eth68"
-    ]
-  ],
-  [
-    [
-      "2026-10-07, 05:15:44",
-      "https://news.ycombinator.com/item?id=49988516"
-    ],
-    [
-      "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
-      "https://github.com/ymcrcat/rgpu"
     ]
   ],
   [
