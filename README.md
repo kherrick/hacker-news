@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-09, 22:14:03](https://news.ycombinator.com/item?id=50027252) - [In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology](https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology)
 * [2026-10-09, 22:05:53](https://news.ycombinator.com/item?id=50027167) - [Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen](https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344)
 * [2026-10-09, 21:25:09](https://news.ycombinator.com/item?id=50026734) - [OpenAI mistranslated mathematics into code for its Navier-Stokes proof](https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/)
 * [2026-10-09, 21:06:59](https://news.ycombinator.com/item?id=50026555) - [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
@@ -8,7 +7,7 @@
 * [2026-10-09, 18:39:47](https://news.ycombinator.com/item?id=50024927) - [You might want to try being less creative](https://blog.bawolf.com/p/you-might-want-to-try-being-less)
 * [2026-10-09, 18:38:44](https://news.ycombinator.com/item?id=50024913) - [Microsoft-Decision-1, our model for fast decision-making](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/)
 * [2026-10-09, 18:22:20](https://news.ycombinator.com/item?id=50024669) - [M7.6 Earthquake in Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive)
-* [2026-10-09, 18:16:03](https://news.ycombinator.com/item?id=50024571) - [Ideas aren't getting harder to find, anyone who tells you otherwise is a coward](https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find)
+* [2026-10-09, 18:16:03](https://news.ycombinator.com/item?id=50024571) - [Ideas aren't getting harder to find (2022)](https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find)
 * [2026-10-09, 18:10:55](https://news.ycombinator.com/item?id=50024499) - [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
 * [2026-10-09, 17:39:44](https://news.ycombinator.com/item?id=50024055) - [Show HN: The rarest tech books and docs you've probably never read](https://readrare.com/)
 * [2026-10-09, 17:02:31](https://news.ycombinator.com/item?id=50023450) - [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai)
@@ -27,6 +26,7 @@
 * [2026-10-09, 07:44:36](https://news.ycombinator.com/item?id=50017357) - [Programming Isn't Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 * [2026-10-09, 05:51:29](https://news.ycombinator.com/item?id=50016489) - [MXC - a sandboxed code execution system](https://github.com/microsoft/mxc)
 * [2026-10-09, 03:08:05](https://news.ycombinator.com/item?id=50015515) - [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
+* [2026-10-08, 17:51:49](https://news.ycombinator.com/item?id=50009295) - [Theranos.world](https://www.theranos.world/)
 * [2026-10-08, 13:48:11](https://news.ycombinator.com/item?id=50005772) - [How to Fix autoconf-style Configuration Probing](https://build2.org/blog/fix-autoconf.xhtml)
 * [2026-10-08, 09:10:42](https://news.ycombinator.com/item?id=50003545) - [Show HN: Proton Drive for Linux](https://oss.lsantos.dev/proton-drive-linux-fs/)
 * [2026-10-06, 20:24:52](https://news.ycombinator.com/item?id=49983582) - [Training Text-to-Image Models Without a VAE](https://www.linum.ai/field-notes/pyramid-jit)
