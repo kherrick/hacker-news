@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-10-09, 00:02:19",
+      "https://news.ycombinator.com/item?id=50014150"
+    ],
+    [
+      "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+      "https://github.com/edrisranjbar/lifeos"
+    ]
+  ],
+  [
+    [
+      "2026-10-08, 23:32:49",
+      "https://news.ycombinator.com/item?id=50013931"
+    ],
+    [
+      "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+      "https://svg-spark.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2026-10-08, 23:29:43",
       "https://news.ycombinator.com/item?id=50013902"
     ],
     [
       "OpenAI, the Partition Principle, and Mathematics",
       "https://karagila.org/2026/openai-pp/"
+    ]
+  ],
+  [
+    [
+      "2026-10-08, 22:48:30",
+      "https://news.ycombinator.com/item?id=50013525"
+    ],
+    [
+      "Spinal: A near-instant, predictive surface for any codebase",
+      "https://spinal.sh/"
     ]
   ],
   [
@@ -61,6 +91,16 @@
   ],
   [
     [
+      "2026-10-08, 17:39:26",
+      "https://news.ycombinator.com/item?id=50009066"
+    ],
+    [
+      "Scaling and benchmarking a critical message bus using a new indexing strategy",
+      "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/"
+    ]
+  ],
+  [
+    [
       "2026-10-08, 16:59:39",
       "https://news.ycombinator.com/item?id=50008427"
     ],
@@ -81,42 +121,22 @@
   ],
   [
     [
+      "2026-10-08, 16:34:13",
+      "https://news.ycombinator.com/item?id=50007993"
+    ],
+    [
+      "Show HN: Jevman – AI decision models play Pac-Man",
+      "https://opper.ai/jevman-benchmark/"
+    ]
+  ],
+  [
+    [
       "2026-10-08, 16:20:20",
       "https://news.ycombinator.com/item?id=50007764"
     ],
     [
       "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
       "https://openrouter.ai/stepfun/step-5-preview"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 15:51:51",
-      "https://news.ycombinator.com/item?id=50007353"
-    ],
-    [
-      "New gTLD Application for .lan",
-      "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 15:15:00",
-      "https://news.ycombinator.com/item?id=50006832"
-    ],
-    [
-      "Trump administration is suspending Microsoft from a green card program",
-      "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 14:09:53",
-      "https://news.ycombinator.com/item?id=50006012"
-    ],
-    [
-      "Orkut.com",
-      "https://orkut.com/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-10-07, 01:24:17",
-      "https://news.ycombinator.com/item?id=49986740"
-    ],
-    [
-      "Show HN: TerrainSR – fast, realistic heightmap upscaling model",
-      "https://huggingface.co/joe-gibbs/terrainsr"
-    ]
-  ],
-  [
-    [
       "2026-10-06, 23:16:56",
       "https://news.ycombinator.com/item?id=49985548"
     ],
@@ -287,16 +297,6 @@
     [
       "A Terminal Protocol for Program Status (OSC 7501)",
       "https://mitchellh.com/writing/program-status-osc7501"
-    ]
-  ],
-  [
-    [
-      "2026-10-06, 15:54:24",
-      "https://news.ycombinator.com/item?id=49980346"
-    ],
-    [
-      "The Slow Formation of Durable Software",
-      "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/"
     ]
   ]
 ]
