@@ -12,6 +12,7 @@
 * [2026-10-06, 22:51:35](https://news.ycombinator.com/item?id=49985292) - [UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement](https://arxiv.org/abs/2609.38721)
 * [2026-10-06, 22:23:04](https://news.ycombinator.com/item?id=49984984) - [VECOS – A windows-like operating system for the Vectrex for the UVMC2 [video]](https://www.youtube.com/watch?v=9ranfp_vz30)
 * [2026-10-06, 22:17:21](https://news.ycombinator.com/item?id=49984923) - [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+* [2026-10-06, 22:10:59](https://news.ycombinator.com/item?id=49984854) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
 * [2026-10-06, 22:09:14](https://news.ycombinator.com/item?id=49984834) - [The Query Transformation Pipeline](https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline)
 * [2026-10-06, 21:59:43](https://news.ycombinator.com/item?id=49984716) - [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/)
 * [2026-10-06, 21:52:57](https://news.ycombinator.com/item?id=49984652) - [How Fast is Python 3.15?](https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15)
