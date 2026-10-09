@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-09, 10:12:11](https://news.ycombinator.com/item?id=50018420) - [Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
+* [2026-10-09, 10:00:26](https://news.ycombinator.com/item?id=50018350) - [OpenAI fires three safety researchers for \"mishandling research information\"](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
 * [2026-10-09, 09:05:40](https://news.ycombinator.com/item?id=50017966) - [South Africa's Navanethem 'Navi' Pillay Wins 2026 Nobel Peace Prize](https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize)
 * [2026-10-09, 06:54:45](https://news.ycombinator.com/item?id=50016974) - [OTel-Native by Design – Building Products That Export to Any Observability Stack](https://opentelemetry.io/blog/2026/otel-native-by-design/)
 * [2026-10-09, 06:40:14](https://news.ycombinator.com/item?id=50016840) - [Show HN: OldRoll, a free vintage photo editor for the browser](https://www.oldroll.io/)
@@ -7,7 +9,6 @@
 * [2026-10-09, 05:22:58](https://news.ycombinator.com/item?id=50016312) - [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
 * [2026-10-09, 03:08:05](https://news.ycombinator.com/item?id=50015515) - [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
 * [2026-10-09, 02:27:45](https://news.ycombinator.com/item?id=50015236) - [What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/)
-* [2026-10-09, 02:02:53](https://news.ycombinator.com/item?id=50015074) - [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
 * [2026-10-08, 23:29:43](https://news.ycombinator.com/item?id=50013902) - [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
 * [2026-10-08, 22:57:50](https://news.ycombinator.com/item?id=50013610) - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 * [2026-10-08, 20:46:25](https://news.ycombinator.com/item?id=50011999) - [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
@@ -22,7 +23,6 @@
 * [2026-10-08, 07:07:34](https://news.ycombinator.com/item?id=50002665) - [I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9)
 * [2026-10-08, 07:05:40](https://news.ycombinator.com/item?id=50002650) - [OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090)
 * [2026-10-08, 00:14:48](https://news.ycombinator.com/item?id=50000488) - [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
-* [2026-10-07, 21:25:16](https://news.ycombinator.com/item?id=49998992) - [Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age](https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/)
 * [2026-10-07, 18:14:41](https://news.ycombinator.com/item?id=49996639) - [A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone](https://www.nature.com/articles/s41586-026-10546-z)
 * [2026-10-07, 17:40:23](https://news.ycombinator.com/item?id=49996149) - [DuckDB Ducklake](https://github.com/duckdb/ducklake)
 * [2026-10-07, 16:56:30](https://news.ycombinator.com/item?id=49995495) - [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
