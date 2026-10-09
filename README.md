@@ -6,7 +6,6 @@
 * [2026-10-09, 18:22:20](https://news.ycombinator.com/item?id=50024669) - [M7.6 Earthquake in Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive)
 * [2026-10-09, 18:16:03](https://news.ycombinator.com/item?id=50024571) - [Ideas aren't getting harder to find, anyone who tells you otherwise is a coward](https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find)
 * [2026-10-09, 18:10:55](https://news.ycombinator.com/item?id=50024499) - [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
-* [2026-10-09, 17:39:44](https://news.ycombinator.com/item?id=50024055) - [Show HN: The rarest tech books and docs you've probably never read](https://readrare.com/)
 * [2026-10-09, 17:02:31](https://news.ycombinator.com/item?id=50023450) - [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai)
 * [2026-10-09, 15:51:05](https://news.ycombinator.com/item?id=50022292) - [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
 * [2026-10-09, 15:49:31](https://news.ycombinator.com/item?id=50022266) - [A statement on the Tor Project's relationship with Mullvad](https://blog.torproject.org/on-tor-relationship-with-mullvad/)
@@ -28,6 +27,7 @@
 * [2026-10-08, 16:59:39](https://news.ycombinator.com/item?id=50008427) - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
 * [2026-10-08, 09:48:18](https://news.ycombinator.com/item?id=50003796) - [Yes, and](https://htmx.org/essays/yes-and/)
 * [2026-10-08, 00:14:48](https://news.ycombinator.com/item?id=50000488) - [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
+* [2026-10-07, 09:35:08](https://news.ycombinator.com/item?id=49990353) - [Wi-Fi to Blame?](https://www.lifemote.com/post/the-state-of-1-gbps-what-home-wi-fi-can-actually-carry)
 * [2026-10-06, 20:24:52](https://news.ycombinator.com/item?id=49983582) - [Training Text-to-Image Models Without a VAE](https://www.linum.ai/field-notes/pyramid-jit)
 * [2026-10-05, 07:00:37](https://news.ycombinator.com/item?id=49961538) - [The reciprocal sum of the prime-prefix-free numbers converges [pdf]](https://jdb19937.github.io/prime-prefix-free/ppf.pdf)
 

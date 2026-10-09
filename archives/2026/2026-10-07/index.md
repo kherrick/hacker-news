@@ -47,6 +47,7 @@
 * [2026-10-07, 11:25:02](https://news.ycombinator.com/item?id=49991227) - [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
 * [2026-10-07, 10:24:19](https://news.ycombinator.com/item?id=49990763) - [PS5 Jailbreaks Are Escalating at an Unprecedented Pace](https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating)
 * [2026-10-07, 09:51:43](https://news.ycombinator.com/item?id=49990470) - [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://www.nobelprize.org/prizes/chemistry/2026/press-release/)
+* [2026-10-07, 09:35:08](https://news.ycombinator.com/item?id=49990353) - [Wi-Fi to Blame?](https://www.lifemote.com/post/the-state-of-1-gbps-what-home-wi-fi-can-actually-carry)
 * [2026-10-07, 09:17:55](https://news.ycombinator.com/item?id=49990224) - [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
 * [2026-10-07, 05:38:35](https://news.ycombinator.com/item?id=49988709) - [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders)
 * [2026-10-07, 05:15:44](https://news.ycombinator.com/item?id=49988516) - [Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU](https://github.com/ymcrcat/rgpu)
