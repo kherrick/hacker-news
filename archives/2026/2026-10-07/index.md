@@ -35,6 +35,7 @@
 * [2026-10-07, 15:05:37](https://news.ycombinator.com/item?id=49993857) - [Animated ASCII Art for Web Pages](https://ascii.rest/)
 * [2026-10-07, 14:16:44](https://news.ycombinator.com/item?id=49993188) - [SynthID Detector](https://synthid.com/)
 * [2026-10-07, 14:10:55](https://news.ycombinator.com/item?id=49993121) - [AI-assisted proof of optimal packing for 11 squares](https://github.com/Queuingtheorydotcom/11SquaresFormalized)
+* [2026-10-07, 14:09:15](https://news.ycombinator.com/item?id=49993106) - [Part of a police code for describing suspects](https://www.researchgate.net/figure/Part-of-a-police-code-for-describing-suspects_fig4_228844649)
 * [2026-10-07, 13:58:05](https://news.ycombinator.com/item?id=49992994) - [ETH-68: Ethernet Audio Interface for Linux](https://naturalsystems.io/eth68)
 * [2026-10-07, 13:51:11](https://news.ycombinator.com/item?id=49992905) - [All the numbers: Amazon Prime Day 2026 powered by AWS](https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/)
 * [2026-10-07, 13:08:26](https://news.ycombinator.com/item?id=49992257) - [Anti-Patterns in Software Blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/)

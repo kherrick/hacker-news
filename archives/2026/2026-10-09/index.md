@@ -11,6 +11,7 @@
 * [2026-10-09, 18:07:23](https://news.ycombinator.com/item?id=50024457) - [The Revolution of Vertical Drama Is Happening Behind the Camera](https://medium.com/@ludobos/streathe-real-revolution-of-vertical-drama-is-happening-behind-the-camera-0722d1394bce)
 * [2026-10-09, 17:43:27](https://news.ycombinator.com/item?id=50024108) - [I'm still around.. I'm just not writing here](https://rachelbythebay.com/w/2026/10/08/idle/)
 * [2026-10-09, 17:35:40](https://news.ycombinator.com/item?id=50023995) - [Scam American companies are using to manipulate ingredient gets listed first](https://twitter.com/WallStreetApes/status/2108594998656807078)
+* [2026-10-09, 17:33:07](https://news.ycombinator.com/item?id=50023953) - [In Memory of Deno](https://orgsoft.org/blog/in-memory-of-deno)
 * [2026-10-09, 17:02:31](https://news.ycombinator.com/item?id=50023450) - [TypeSafe a Raises $870M at a $7.5B](https://typesafe.ai/blog/series-ai)
 * [2026-10-09, 16:55:47](https://news.ycombinator.com/item?id=50023350) - [Before Computer Science Became a Boys' Club, Margaret Hamilton Wrote the Code](https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html)
 * [2026-10-09, 16:52:20](https://news.ycombinator.com/item?id=50023293) - [Tomek Korbak: OpenAI's head of safety told they no longer trust me](https://twitter.com/tomekkorbak/status/2108266859397283953)
