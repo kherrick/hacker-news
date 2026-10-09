@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-09, 14:20:19](https://news.ycombinator.com/item?id=50020927) - [Yandex Takes a Second Data Center Hit in 48 Hours](https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277)
+* [2026-10-09, 14:14:08](https://news.ycombinator.com/item?id=50020856) - [Court throws out killer's sentence after judge said he loved AI video of victim](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457)
 * [2026-10-09, 13:12:47](https://news.ycombinator.com/item?id=50020014) - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
 * [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Deno Is Joining Cloudflare](https://deno.com/blog/cloudflare)
 * [2026-10-09, 12:49:41](https://news.ycombinator.com/item?id=50019741) - [Study: Exercise increases cancer survival rates](https://www.nejm.org/doi/10.1056/NEJMoa2502760)
@@ -21,7 +23,6 @@
 * [2026-10-08, 16:37:24](https://news.ycombinator.com/item?id=50008047) - [Show HN: Making a flexible \"neon\" t-shirt with LED filaments](http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html)
 * [2026-10-08, 13:22:01](https://news.ycombinator.com/item?id=50005527) - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
 * [2026-10-08, 09:48:18](https://news.ycombinator.com/item?id=50003796) - [Yes, and](https://htmx.org/essays/yes-and/)
-* [2026-10-08, 07:07:34](https://news.ycombinator.com/item?id=50002665) - [I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9)
 * [2026-10-08, 07:05:40](https://news.ycombinator.com/item?id=50002650) - [OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090)
 * [2026-10-08, 00:14:48](https://news.ycombinator.com/item?id=50000488) - [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
 * [2026-10-07, 17:40:23](https://news.ycombinator.com/item?id=49996149) - [DuckDB Ducklake](https://github.com/duckdb/ducklake)
@@ -29,7 +30,6 @@
 * [2026-10-07, 13:58:05](https://news.ycombinator.com/item?id=49992994) - [ETH-68: Ethernet Audio Interface for Linux](https://naturalsystems.io/eth68)
 * [2026-10-07, 01:41:03](https://news.ycombinator.com/item?id=49986882) - [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)
 * [2026-10-06, 23:16:56](https://news.ycombinator.com/item?id=49985548) - [Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?](https://news.ycombinator.com/item?id=49985548)
-* [2026-10-06, 21:08:00](https://news.ycombinator.com/item?id=49984159) - [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501)
 
 ## [Archives](archives/index.md)
 

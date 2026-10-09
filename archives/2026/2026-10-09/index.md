@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 14:20:19](https://news.ycombinator.com/item?id=50020927) - [Yandex Takes a Second Data Center Hit in 48 Hours](https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277)
+* [2026-10-09, 14:14:08](https://news.ycombinator.com/item?id=50020856) - [Court throws out killer's sentence after judge said he loved AI video of victim](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457)
 * [2026-10-09, 13:12:47](https://news.ycombinator.com/item?id=50020014) - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
 * [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Deno Is Joining Cloudflare](https://deno.com/blog/cloudflare)
 * [2026-10-09, 12:49:41](https://news.ycombinator.com/item?id=50019741) - [Study: Exercise increases cancer survival rates](https://www.nejm.org/doi/10.1056/NEJMoa2502760)
