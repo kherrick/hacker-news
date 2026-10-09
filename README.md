@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-09, 11:03:48](https://news.ycombinator.com/item?id=50018817) - [Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 * [2026-10-09, 10:12:11](https://news.ycombinator.com/item?id=50018420) - [Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
 * [2026-10-09, 10:00:26](https://news.ycombinator.com/item?id=50018350) - [OpenAI fires three safety researchers for \"mishandling research information\"](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
 * [2026-10-09, 06:54:45](https://news.ycombinator.com/item?id=50016974) - [OTel-Native by Design – Building Products That Export to Any Observability Stack](https://opentelemetry.io/blog/2026/otel-native-by-design/)
@@ -16,7 +17,6 @@
 * [2026-10-08, 16:59:39](https://news.ycombinator.com/item?id=50008427) - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
 * [2026-10-08, 16:37:24](https://news.ycombinator.com/item?id=50008047) - [Show HN: Making a flexible \"neon\" t-shirt with LED filaments](http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html)
 * [2026-10-08, 16:20:20](https://news.ycombinator.com/item?id=50007764) - [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
-* [2026-10-08, 14:09:53](https://news.ycombinator.com/item?id=50006012) - [Orkut.com](https://orkut.com/)
 * [2026-10-08, 13:22:01](https://news.ycombinator.com/item?id=50005527) - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
 * [2026-10-08, 09:48:18](https://news.ycombinator.com/item?id=50003796) - [Yes, and](https://htmx.org/essays/yes-and/)
 * [2026-10-08, 07:07:34](https://news.ycombinator.com/item?id=50002665) - [I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9)

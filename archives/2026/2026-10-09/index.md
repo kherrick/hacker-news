@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 11:03:48](https://news.ycombinator.com/item?id=50018817) - [Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 * [2026-10-09, 10:12:11](https://news.ycombinator.com/item?id=50018420) - [Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
 * [2026-10-09, 10:00:26](https://news.ycombinator.com/item?id=50018350) - [OpenAI fires three safety researchers for \"mishandling research information\"](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
 * [2026-10-09, 09:05:40](https://news.ycombinator.com/item?id=50017966) - [South Africa's Navanethem 'Navi' Pillay Wins 2026 Nobel Peace Prize](https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize)
