@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-10, 00:37:07](https://news.ycombinator.com/item?id=50028275) - [REA Reverse – Engineer Anything](https://rea.tools/)
-* [2026-10-10, 00:13:16](https://news.ycombinator.com/item?id=50028162) - [How Strong Is the Strong Force?](https://cerncourier.com/how-strong-is-the-strong-interaction/)
 * [2026-10-09, 23:57:12](https://news.ycombinator.com/item?id=50028062) - [Has the Autonomous Trucking Revolution Arrived?](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/)
 * [2026-10-09, 23:56:55](https://news.ycombinator.com/item?id=50028059) - [11 of 23 Core Open Source Projects Run on 1 or 2 People](https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/)
 * [2026-10-09, 23:32:04](https://news.ycombinator.com/item?id=50027884) - [The logarithms of rational numbers have irrationality exponent 2 [pdf]](https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf)
@@ -29,6 +28,7 @@
 * [2026-10-09, 07:44:36](https://news.ycombinator.com/item?id=50017357) - [Programming Isn't Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 * [2026-10-08, 09:10:42](https://news.ycombinator.com/item?id=50003545) - [Show HN: Proton Drive for Linux](https://oss.lsantos.dev/proton-drive-linux-fs/)
 * [2026-10-08, 05:39:23](https://news.ycombinator.com/item?id=50002114) - [Smart contracts: Ship the parachute in v1](https://medium.com/@giladha/ship-the-parachute-in-v1-why-upgradeability-and-disaster-recovery-are-not-v2-features-88191f35ba1c)
+* [2026-10-07, 19:15:57](https://news.ycombinator.com/item?id=49997481) - [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 * [2026-10-06, 22:10:59](https://news.ycombinator.com/item?id=49984854) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
 
 ## [Archives](archives/index.md)

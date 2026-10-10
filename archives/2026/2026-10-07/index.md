@@ -10,6 +10,7 @@
 * [2026-10-07, 19:33:40](https://news.ycombinator.com/item?id=49997718) - [The Mathocalypse](https://scottaaronson.blog/?p=10169)
 * [2026-10-07, 19:28:52](https://news.ycombinator.com/item?id=49997655) - [As We Become Cameras (2016)](https://thebrowser.com/r/f132aafd?m=c6bf87ab-387d-49ae-9584-ab31c2b12376)
 * [2026-10-07, 19:28:20](https://news.ycombinator.com/item?id=49997646) - [The Outing of Tinky Winky (2014)](https://priceonomics.com/the-outing-of-tinky-winky/)
+* [2026-10-07, 19:15:57](https://news.ycombinator.com/item?id=49997481) - [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 * [2026-10-07, 18:49:40](https://news.ycombinator.com/item?id=49997161) - [Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
 * [2026-10-07, 18:43:18](https://news.ycombinator.com/item?id=49997073) - [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)
 * [2026-10-07, 18:14:41](https://news.ycombinator.com/item?id=49996639) - [A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone](https://www.nature.com/articles/s41586-026-10546-z)
