@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-10](index.md)
 
 * [2026-10-10, 21:19:42](https://news.ycombinator.com/item?id=50037299) - [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
+* [2026-10-10, 21:07:07](https://news.ycombinator.com/item?id=50037183) - [Why We Still Cannot Read Etruscan](https://veiledantiquity.com/posts/etruscan-language-lost/)
 * [2026-10-10, 20:48:43](https://news.ycombinator.com/item?id=50037024) - [A new look at brains transformed by psychedelics](https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/)
 * [2026-10-10, 20:31:50](https://news.ycombinator.com/item?id=50036864) - [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
 * [2026-10-10, 19:59:24](https://news.ycombinator.com/item?id=50036571) - [50MB operating system can resurrect your old PC](https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/)

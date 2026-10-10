@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-10, 21:19:42](https://news.ycombinator.com/item?id=50037299) - [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
+* [2026-10-10, 21:07:07](https://news.ycombinator.com/item?id=50037183) - [Why We Still Cannot Read Etruscan](https://veiledantiquity.com/posts/etruscan-language-lost/)
 * [2026-10-10, 20:31:50](https://news.ycombinator.com/item?id=50036864) - [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
 * [2026-10-10, 19:59:24](https://news.ycombinator.com/item?id=50036571) - [50MB operating system can resurrect your old PC](https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/)
 * [2026-10-10, 19:12:55](https://news.ycombinator.com/item?id=50036119) - [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
@@ -13,7 +14,6 @@
 * [2026-10-10, 13:29:03](https://news.ycombinator.com/item?id=50032758) - [I would like the value of my home to rise, while my property taxes fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
 * [2026-10-10, 10:57:31](https://news.ycombinator.com/item?id=50031653) - [Apple/macOS removed from official Unix registry](https://www.opengroup.org//openbrand/register/)
 * [2026-10-10, 10:52:09](https://news.ycombinator.com/item?id=50031614) - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
-* [2026-10-10, 09:51:49](https://news.ycombinator.com/item?id=50031269) - [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
 * [2026-10-10, 04:12:26](https://news.ycombinator.com/item?id=50029487) - [The Lightbulb Computer](https://lightbulbcomputer.com/)
 * [2026-10-10, 03:02:47](https://news.ycombinator.com/item?id=50029123) - [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
 * [2026-10-10, 00:37:07](https://news.ycombinator.com/item?id=50028275) - [REA Reverse – Engineer Anything](https://rea.tools/)
