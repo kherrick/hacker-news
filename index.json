@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-10-10, 19:02:35",
-      "https://news.ycombinator.com/item?id=50036023"
-    ],
-    [
-      "Cbirds: A flock of birds in your terminal",
-      "https://github.com/clainstone/cbirds"
-    ]
-  ],
-  [
-    [
       "2026-10-10, 18:48:35",
       "https://news.ycombinator.com/item?id=50035886"
     ],
@@ -37,16 +27,6 @@
     [
       "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
       "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300"
-    ]
-  ],
-  [
-    [
-      "2026-10-10, 18:10:54",
-      "https://news.ycombinator.com/item?id=50035550"
-    ],
-    [
-      "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-      "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/"
     ]
   ],
   [
@@ -125,7 +105,7 @@
       "https://news.ycombinator.com/item?id=50031653"
     ],
     [
-      "Apple/macOS silently removed from official Unix registry",
+      "Apple/macOS removed from official Unix registry",
       "https://www.opengroup.org//openbrand/register/"
     ]
   ],
@@ -167,6 +147,26 @@
     [
       "REA Reverse – Engineer Anything",
       "https://rea.tools/"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 23:28:36",
+      "https://news.ycombinator.com/item?id=50027853"
+    ],
+    [
+      "Compiling Rust to readable C with Eurydice",
+      "https://lwn.net/Articles/1055211/"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 18:10:55",
+      "https://news.ycombinator.com/item?id=50024499"
+    ],
+    [
+      "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "https://carrierexplode.com/"
     ]
   ],
   [
