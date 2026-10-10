@@ -28,8 +28,8 @@
 * [2026-10-07, 20:27:11](https://news.ycombinator.com/item?id=49998350) - [I tried to move my notes out of Emacs. I failed. Again](https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/)
 * [2026-10-07, 19:15:57](https://news.ycombinator.com/item?id=49997481) - [Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 * [2026-10-06, 22:10:59](https://news.ycombinator.com/item?id=49984854) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
+* [2026-10-06, 17:24:17](https://news.ycombinator.com/item?id=49981508) - [Noto means \"no tofu\": fixing dotted circles in Myanmar text](https://www.datocms.com/blog/handling-less-common-scripts)
 * [2026-10-06, 17:07:12](https://news.ycombinator.com/item?id=49981264) - [How to head into VR without wearing a headset](https://www.kyushu-u.ac.jp/en/researches/view/414/)
-* [2026-10-06, 15:44:42](https://news.ycombinator.com/item?id=49980208) - [Communication Between the Compiler, the Build System, and Beyond](https://shrub.industries/words/problem.html)
 
 ## [Archives](archives/index.md)
 

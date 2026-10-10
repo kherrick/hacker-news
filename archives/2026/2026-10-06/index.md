@@ -31,6 +31,7 @@
 * [2026-10-06, 18:52:18](https://news.ycombinator.com/item?id=49982471) - [Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill](https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/)
 * [2026-10-06, 18:49:45](https://news.ycombinator.com/item?id=49982445) - [Cleo (Mathematician)](https://en.wikipedia.org/wiki/Cleo_(mathematician))
 * [2026-10-06, 18:00:34](https://news.ycombinator.com/item?id=49981905) - [Claude Code’s suggested message feature: I think the real customer is the model](https://www.zohaib.cc/blog/smartest-claude-code-feature)
+* [2026-10-06, 17:24:17](https://news.ycombinator.com/item?id=49981508) - [Noto means \"no tofu\": fixing dotted circles in Myanmar text](https://www.datocms.com/blog/handling-less-common-scripts)
 * [2026-10-06, 17:07:12](https://news.ycombinator.com/item?id=49981264) - [How to head into VR without wearing a headset](https://www.kyushu-u.ac.jp/en/researches/view/414/)
 * [2026-10-06, 17:00:59](https://news.ycombinator.com/item?id=49981186) - [California closed the Montana license plate loophole](https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole)
 * [2026-10-06, 16:29:59](https://news.ycombinator.com/item?id=49980790) - [Treg (OpenRouter for Tools)](https://github.com/superdesigndev/treg)
