@@ -6,6 +6,7 @@
 
 * [2026-10-09, 23:57:12](https://news.ycombinator.com/item?id=50028062) - [Has the Autonomous Trucking Revolution Arrived?](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/)
 * [2026-10-09, 23:56:55](https://news.ycombinator.com/item?id=50028059) - [11 of 23 Core Open Source Projects Run on 1 or 2 People](https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/)
+* [2026-10-09, 23:53:08](https://news.ycombinator.com/item?id=50028027) - [Clinical trial of a prion disease drug candidate begins enrolling participants](https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants)
 * [2026-10-09, 23:32:04](https://news.ycombinator.com/item?id=50027884) - [The logarithms of rational numbers have irrationality exponent 2 [pdf]](https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf)
 * [2026-10-09, 23:28:36](https://news.ycombinator.com/item?id=50027853) - [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)
 * [2026-10-09, 23:06:25](https://news.ycombinator.com/item?id=50027694) - [Rewriting Prime Agent in Rust](https://www.primeintellect.ai/blog/prime-agent-rust)

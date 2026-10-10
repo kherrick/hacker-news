@@ -52,6 +52,7 @@
 * [2026-10-07, 09:35:08](https://news.ycombinator.com/item?id=49990353) - [Wi-Fi to Blame?](https://www.lifemote.com/post/the-state-of-1-gbps-what-home-wi-fi-can-actually-carry)
 * [2026-10-07, 09:17:55](https://news.ycombinator.com/item?id=49990224) - [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
 * [2026-10-07, 05:38:35](https://news.ycombinator.com/item?id=49988709) - [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders)
+* [2026-10-07, 05:30:20](https://news.ycombinator.com/item?id=49988640) - [The Alchemical Transformations of the Mutus Liber (1677)](https://publicdomainreview.org/collection/mutus-liber/)
 * [2026-10-07, 05:15:44](https://news.ycombinator.com/item?id=49988516) - [Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU](https://github.com/ymcrcat/rgpu)
 * [2026-10-07, 04:37:05](https://news.ycombinator.com/item?id=49988230) - [Hackers obtain counterfeit TLS certificates for Google and other large services](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
 * [2026-10-07, 04:22:04](https://news.ycombinator.com/item?id=49988142) - [Calling It Quits on ServerFault](https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml)

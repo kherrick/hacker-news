@@ -2,14 +2,13 @@
 
 * [2026-10-10, 00:37:07](https://news.ycombinator.com/item?id=50028275) - [REA Reverse – Engineer Anything](https://rea.tools/)
 * [2026-10-09, 23:57:12](https://news.ycombinator.com/item?id=50028062) - [Has the Autonomous Trucking Revolution Arrived?](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/)
-* [2026-10-09, 23:56:55](https://news.ycombinator.com/item?id=50028059) - [11 of 23 Core Open Source Projects Run on 1 or 2 People](https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/)
+* [2026-10-09, 23:53:08](https://news.ycombinator.com/item?id=50028027) - [Clinical trial of a prion disease drug candidate begins enrolling participants](https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants)
 * [2026-10-09, 23:32:04](https://news.ycombinator.com/item?id=50027884) - [The logarithms of rational numbers have irrationality exponent 2 [pdf]](https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf)
 * [2026-10-09, 23:28:36](https://news.ycombinator.com/item?id=50027853) - [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)
 * [2026-10-09, 23:06:25](https://news.ycombinator.com/item?id=50027694) - [Rewriting Prime Agent in Rust](https://www.primeintellect.ai/blog/prime-agent-rust)
 * [2026-10-09, 22:54:13](https://news.ycombinator.com/item?id=50027590) - [Atari Falcon](https://atarimuseum.nl/atari-falcon/)
 * [2026-10-09, 22:00:35](https://news.ycombinator.com/item?id=50027118) - [Anthropic AI model submits false tip on unsolved Philly murder](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
 * [2026-10-09, 21:06:59](https://news.ycombinator.com/item?id=50026555) - [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
-* [2026-10-09, 18:38:44](https://news.ycombinator.com/item?id=50024913) - [Microsoft-Decision-1, our model for fast decision-making](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/)
 * [2026-10-09, 18:22:20](https://news.ycombinator.com/item?id=50024669) - [M7.6 Earthquake in Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive)
 * [2026-10-09, 18:10:55](https://news.ycombinator.com/item?id=50024499) - [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
 * [2026-10-09, 17:42:12](https://news.ycombinator.com/item?id=50024090) - [What mathematicians should know about the Lean Theorem Prover: reliability & AI](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
@@ -29,6 +28,7 @@
 * [2026-10-08, 09:10:42](https://news.ycombinator.com/item?id=50003545) - [Show HN: Proton Drive for Linux](https://oss.lsantos.dev/proton-drive-linux-fs/)
 * [2026-10-08, 05:39:23](https://news.ycombinator.com/item?id=50002114) - [Smart contracts: Ship the parachute in v1](https://medium.com/@giladha/ship-the-parachute-in-v1-why-upgradeability-and-disaster-recovery-are-not-v2-features-88191f35ba1c)
 * [2026-10-07, 19:15:57](https://news.ycombinator.com/item?id=49997481) - [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
+* [2026-10-07, 05:30:20](https://news.ycombinator.com/item?id=49988640) - [The Alchemical Transformations of the Mutus Liber (1677)](https://publicdomainreview.org/collection/mutus-liber/)
 * [2026-10-06, 22:10:59](https://news.ycombinator.com/item?id=49984854) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
 
 ## [Archives](archives/index.md)
