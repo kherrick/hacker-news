@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-10, 03:42:11](https://news.ycombinator.com/item?id=50029330) - [Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website](https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html)
 * [2026-10-10, 00:37:07](https://news.ycombinator.com/item?id=50028275) - [REA Reverse – Engineer Anything](https://rea.tools/)
 * [2026-10-09, 23:57:12](https://news.ycombinator.com/item?id=50028062) - [Has the Autonomous Trucking Revolution Arrived?](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/)
 * [2026-10-09, 23:53:08](https://news.ycombinator.com/item?id=50028027) - [Clinical trial of a prion disease drug candidate begins enrolling participants](https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants)
@@ -22,7 +23,6 @@
 * [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
 * [2026-10-09, 12:26:12](https://news.ycombinator.com/item?id=50019499) - [100+ reactions to 100+ solutions](https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/)
 * [2026-10-09, 11:36:20](https://news.ycombinator.com/item?id=50019056) - [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
-* [2026-10-09, 11:03:48](https://news.ycombinator.com/item?id=50018817) - [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 * [2026-10-09, 09:21:48](https://news.ycombinator.com/item?id=50018088) - [Sorry, I'm in a meeting](https://iminafleeting.com/)
 * [2026-10-09, 07:44:36](https://news.ycombinator.com/item?id=50017357) - [Programming Isn't Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
 * [2026-10-08, 09:10:42](https://news.ycombinator.com/item?id=50003545) - [Show HN: Proton Drive for Linux](https://oss.lsantos.dev/proton-drive-linux-fs/)
