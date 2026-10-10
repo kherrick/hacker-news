@@ -28,7 +28,7 @@
 * [2026-10-09, 09:21:48](https://news.ycombinator.com/item?id=50018088) - [Sorry, I'm in a meeting](https://iminafleeting.com/)
 * [2026-10-08, 13:48:11](https://news.ycombinator.com/item?id=50005772) - [How to Fix autoconf-style Configuration Probing](https://build2.org/blog/fix-autoconf.xhtml)
 * [2026-10-08, 09:10:42](https://news.ycombinator.com/item?id=50003545) - [Show HN: Proton Drive for Linux](https://oss.lsantos.dev/proton-drive-linux-fs/)
-* [2026-10-07, 15:44:39](https://news.ycombinator.com/item?id=49994449) - [My static site was serving my internal docs](https://tminuslabs.space/serving-secrets)
+* [2026-10-08, 05:39:23](https://news.ycombinator.com/item?id=50002114) - [Smart contracts: Ship the parachute in v1](https://medium.com/@giladha/ship-the-parachute-in-v1-why-upgradeability-and-disaster-recovery-are-not-v2-features-88191f35ba1c)
 * [2026-10-06, 22:10:59](https://news.ycombinator.com/item?id=49984854) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
 
 ## [Archives](archives/index.md)
