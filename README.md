@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-10, 16:19:23](https://news.ycombinator.com/item?id=50034363) - [AI Is Throwing a Roadside Picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
 * [2026-10-10, 15:47:01](https://news.ycombinator.com/item?id=50034081) - [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check)
 * [2026-10-10, 15:40:06](https://news.ycombinator.com/item?id=50034008) - [How Protein Took over the World](https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd)
 * [2026-10-10, 15:10:24](https://news.ycombinator.com/item?id=50033721) - [PVX-001: open-source Covid-19 vaccine starts Phase 1 trial](https://chronicles.popvax.com/p/popvax-goes-clinical)
@@ -23,7 +24,6 @@
 * [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
 * [2026-10-09, 06:52:49](https://news.ycombinator.com/item?id=50016956) - [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
 * [2026-10-09, 00:29:01](https://news.ycombinator.com/item?id=50014397) - [Timestamping a Giant Record of the Web](https://projecttimestamper.org/blog/common-crawl/)
-* [2026-10-08, 19:41:19](https://news.ycombinator.com/item?id=50010986) - [Cube Type – Isometric Typography Generator](https://typeincube.com/)
 * [2026-10-07, 21:06:54](https://news.ycombinator.com/item?id=49998801) - [WSL3 Performance is about 5-60% faster than WSL2 depending on the workload](https://tonym.us/wsl2-vs-wsl3-benchmarks.html)
 * [2026-10-07, 19:15:57](https://news.ycombinator.com/item?id=49997481) - [Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 * [2026-10-07, 01:44:59](https://news.ycombinator.com/item?id=49986919) - [Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years](https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html)

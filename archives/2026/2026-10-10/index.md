@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-10](index.md)
 
+* [2026-10-10, 16:19:23](https://news.ycombinator.com/item?id=50034363) - [AI Is Throwing a Roadside Picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
 * [2026-10-10, 15:53:46](https://news.ycombinator.com/item?id=50034141) - [The Disease called Politics (1962)](https://www.panarchy.org/roszak/politics.html)
 * [2026-10-10, 15:47:01](https://news.ycombinator.com/item?id=50034081) - [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check)
 * [2026-10-10, 15:40:06](https://news.ycombinator.com/item?id=50034008) - [How Protein Took over the World](https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd)
