@@ -2,6 +2,7 @@
 
 * [2026-10-10, 22:50:10](https://news.ycombinator.com/item?id=50037949) - [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
 * [2026-10-10, 20:31:50](https://news.ycombinator.com/item?id=50036864) - [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
+* [2026-10-10, 19:12:55](https://news.ycombinator.com/item?id=50036119) - [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
 * [2026-10-10, 18:48:35](https://news.ycombinator.com/item?id=50035886) - [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
 * [2026-10-10, 18:08:49](https://news.ycombinator.com/item?id=50035530) - [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
 * [2026-10-10, 15:51:39](https://news.ycombinator.com/item?id=50034123) - [MrBeast 'spends millions reverse engineering the algorithms on each platform'](https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas)
@@ -24,7 +25,6 @@
 * [2026-10-09, 06:52:49](https://news.ycombinator.com/item?id=50016956) - [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
 * [2026-10-09, 06:21:36](https://news.ycombinator.com/item?id=50016696) - [Whooping Cranes Learned to Migrate by Following Costumed Pilots](https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration)
 * [2026-10-08, 13:44:36](https://news.ycombinator.com/item?id=50005743) - [C for Rust programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
-* [2026-10-07, 20:07:09](https://news.ycombinator.com/item?id=49998116) - [A nuclear clock synchronized to 229Th](https://www.nature.com/articles/s41586-026-11122-1)
 * [2026-10-07, 19:15:57](https://news.ycombinator.com/item?id=49997481) - [Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 * [2026-10-07, 12:30:40](https://news.ycombinator.com/item?id=49991852) - [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
 * [2026-10-07, 01:44:59](https://news.ycombinator.com/item?id=49986919) - [Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years](https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html)
