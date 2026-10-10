@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-10, 21:19:42](https://news.ycombinator.com/item?id=50037299) - [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
+* [2026-10-10, 20:31:50](https://news.ycombinator.com/item?id=50036864) - [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
 * [2026-10-10, 19:59:24](https://news.ycombinator.com/item?id=50036571) - [50MB operating system can resurrect your old PC](https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/)
 * [2026-10-10, 19:12:55](https://news.ycombinator.com/item?id=50036119) - [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
 * [2026-10-10, 18:48:35](https://news.ycombinator.com/item?id=50035886) - [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
@@ -19,7 +21,6 @@
 * [2026-10-10, 00:13:16](https://news.ycombinator.com/item?id=50028162) - [How strong is the strong interaction?](https://cerncourier.com/how-strong-is-the-strong-interaction/)
 * [2026-10-09, 22:14:40](https://news.ycombinator.com/item?id=50027257) - [Recent AI models struggled to match a human algorithmic innovation](https://epoch.ai/publications/innovationeval)
 * [2026-10-09, 17:52:07](https://news.ycombinator.com/item?id=50024242) - [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart)
-* [2026-10-09, 15:51:05](https://news.ycombinator.com/item?id=50022292) - [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
 * [2026-10-09, 13:10:34](https://news.ycombinator.com/item?id=50019988) - [Chip-hex:cost-benefit, energy efficiency and hexagonal](https://github.com/lzprograma/Chip-Hexa)
 * [2026-10-09, 07:29:08](https://news.ycombinator.com/item?id=50017247) - [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger)
 * [2026-10-09, 06:52:49](https://news.ycombinator.com/item?id=50016956) - [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
@@ -28,7 +29,6 @@
 * [2026-10-07, 12:30:40](https://news.ycombinator.com/item?id=49991852) - [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
 * [2026-10-07, 01:44:59](https://news.ycombinator.com/item?id=49986919) - [Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years](https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html)
 * [2026-10-06, 21:22:44](https://news.ycombinator.com/item?id=49984349) - [OpenSCAD the Programmers Solid 3D CAD Modeller](https://openscad.org/)
-* [2026-10-06, 17:24:17](https://news.ycombinator.com/item?id=49981508) - [Noto means \"no tofu\": fixing dotted circles in Myanmar text](https://www.datocms.com/blog/handling-less-common-scripts)
 * [2026-10-06, 16:37:21](https://news.ycombinator.com/item?id=49980880) - [Grieving the loss of details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
 
 ## [Archives](archives/index.md)
