@@ -51,6 +51,7 @@
 * [2026-10-09, 14:31:54](https://news.ycombinator.com/item?id=50021066) - [US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/)
 * [2026-10-09, 14:21:31](https://news.ycombinator.com/item?id=50020947) - [Why Are Coding Agents So Dumb?](https://mtlynch.io/why-are-coding-agents-so-dumb/)
 * [2026-10-09, 14:20:19](https://news.ycombinator.com/item?id=50020927) - [Yandex Takes a Second Data Center Hit in 48 Hours](https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277)
+* [2026-10-09, 14:18:03](https://news.ycombinator.com/item?id=50020901) - [Getting old Macromedia Director Games to run on modern Hardware](https://werwolv.net/posts/macromedia_copy_protection/)
 * [2026-10-09, 14:14:08](https://news.ycombinator.com/item?id=50020856) - [Court throws out killer's sentence after judge said he loved AI video of victim](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457)
 * [2026-10-09, 13:49:31](https://news.ycombinator.com/item?id=50020533) - ['Wallace and Gromit,' 90% Alone](https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone)
 * [2026-10-09, 13:12:47](https://news.ycombinator.com/item?id=50020014) - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
