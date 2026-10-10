@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-10, 22:50:10](https://news.ycombinator.com/item?id=50037949) - [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
-* [2026-10-10, 21:19:42](https://news.ycombinator.com/item?id=50037299) - [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
 * [2026-10-10, 20:31:50](https://news.ycombinator.com/item?id=50036864) - [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
 * [2026-10-10, 19:12:55](https://news.ycombinator.com/item?id=50036119) - [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
 * [2026-10-10, 18:48:35](https://news.ycombinator.com/item?id=50035886) - [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
@@ -28,6 +27,7 @@
 * [2026-10-07, 20:07:09](https://news.ycombinator.com/item?id=49998116) - [A nuclear clock synchronized to 229Th](https://www.nature.com/articles/s41586-026-11122-1)
 * [2026-10-07, 19:15:57](https://news.ycombinator.com/item?id=49997481) - [Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 * [2026-10-07, 12:30:40](https://news.ycombinator.com/item?id=49991852) - [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
+* [2026-10-07, 01:44:59](https://news.ycombinator.com/item?id=49986919) - [Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years](https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html)
 * [2026-10-06, 21:22:44](https://news.ycombinator.com/item?id=49984349) - [OpenSCAD the Programmers Solid 3D CAD Modeller](https://openscad.org/)
 * [2026-10-06, 16:37:21](https://news.ycombinator.com/item?id=49980880) - [Grieving the loss of details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
 
