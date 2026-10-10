@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-10-09, 23:28:36",
-      "https://news.ycombinator.com/item?id=50027853"
-    ],
-    [
-      "Compiling Rust to readable C with Eurydice",
-      "https://lwn.net/Articles/1055211/"
-    ]
-  ],
-  [
-    [
       "2026-10-09, 18:10:55",
       "https://news.ycombinator.com/item?id=50024499"
     ],
@@ -207,6 +197,16 @@
     [
       "Cloudflare acquires Deno",
       "https://deno.com/blog/cloudflare"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 07:29:08",
+      "https://news.ycombinator.com/item?id=50017247"
+    ],
+    [
+      "Nix wrote half of my debugger",
+      "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger"
     ]
   ],
   [
