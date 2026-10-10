@@ -67,6 +67,7 @@
 * [2026-10-09, 09:21:48](https://news.ycombinator.com/item?id=50018088) - [I'm in a Meeting](https://iminafleeting.com/)
 * [2026-10-09, 09:05:40](https://news.ycombinator.com/item?id=50017966) - [South Africa's Navanethem 'Navi' Pillay Wins 2026 Nobel Peace Prize](https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize)
 * [2026-10-09, 07:44:36](https://news.ycombinator.com/item?id=50017357) - [Programming Isn't Special](https://blog.glyph.im/2026/10/programming-isnt-special.html)
+* [2026-10-09, 07:29:08](https://news.ycombinator.com/item?id=50017247) - [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger)
 * [2026-10-09, 06:54:45](https://news.ycombinator.com/item?id=50016974) - [OTel-Native by Design – Building Products That Export to Any Observability Stack](https://opentelemetry.io/blog/2026/otel-native-by-design/)
 * [2026-10-09, 06:52:49](https://news.ycombinator.com/item?id=50016956) - [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
 * [2026-10-09, 06:40:14](https://news.ycombinator.com/item?id=50016840) - [Show HN: OldRoll, a free vintage photo editor for the browser](https://www.oldroll.io/)
