@@ -63,6 +63,7 @@
 * [2026-10-07, 03:16:45](https://news.ycombinator.com/item?id=49987675) - [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html)
 * [2026-10-07, 02:22:42](https://news.ycombinator.com/item?id=49987245) - [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)
 * [2026-10-07, 02:02:11](https://news.ycombinator.com/item?id=49987076) - [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
+* [2026-10-07, 01:44:59](https://news.ycombinator.com/item?id=49986919) - [Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years](https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html)
 * [2026-10-07, 01:41:03](https://news.ycombinator.com/item?id=49986882) - [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)
 * [2026-10-07, 01:39:21](https://news.ycombinator.com/item?id=49986862) - [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
 * [2026-10-07, 01:27:49](https://news.ycombinator.com/item?id=49986765) - [Jev-Driven SRE Diagnosis: What Worked and What Failed](https://www.sregym.com/blog/jev-driven-sre-diagnosis)
