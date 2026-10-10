@@ -2,7 +2,6 @@
 
 * [2026-10-10, 14:46:16](https://news.ycombinator.com/item?id=50033517) - [My personal AI agent posted my bank details on company Slack](https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10)
 * [2026-10-10, 14:32:50](https://news.ycombinator.com/item?id=50033407) - [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
-* [2026-10-10, 13:05:58](https://news.ycombinator.com/item?id=50032556) - [Lobbying Is Corruption](https://carette.xyz/posts/lobbying_and_corruption/)
 * [2026-10-10, 10:57:31](https://news.ycombinator.com/item?id=50031653) - [Apple/macOS silently removed from official Unix registry](https://www.opengroup.org//openbrand/register/)
 * [2026-10-10, 10:52:09](https://news.ycombinator.com/item?id=50031614) - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
 * [2026-10-10, 09:51:49](https://news.ycombinator.com/item?id=50031269) - [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
@@ -28,6 +27,7 @@
 * [2026-10-07, 21:06:54](https://news.ycombinator.com/item?id=49998801) - [WSL3 Performance is about 5-60% faster than WSL2 depending on the workload](https://tonym.us/wsl2-vs-wsl3-benchmarks.html)
 * [2026-10-07, 19:15:57](https://news.ycombinator.com/item?id=49997481) - [Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 * [2026-10-07, 01:44:59](https://news.ycombinator.com/item?id=49986919) - [Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years](https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html)
+* [2026-10-06, 22:10:59](https://news.ycombinator.com/item?id=49984854) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
 * [2026-10-06, 17:24:17](https://news.ycombinator.com/item?id=49981508) - [Noto means \"no tofu\": fixing dotted circles in Myanmar text](https://www.datocms.com/blog/handling-less-common-scripts)
 * [2026-10-06, 17:07:12](https://news.ycombinator.com/item?id=49981264) - [How to head into VR without wearing a headset](https://www.kyushu-u.ac.jp/en/researches/view/414/)
 
