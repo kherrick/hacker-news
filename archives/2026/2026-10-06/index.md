@@ -38,6 +38,7 @@
 * [2026-10-06, 16:03:49](https://news.ycombinator.com/item?id=49980487) - [EmbeddingGemma 2](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/)
 * [2026-10-06, 15:58:19](https://news.ycombinator.com/item?id=49980399) - [Show HN: Durable Actors – OSS Durable Objects with configurable compute](https://github.com/TerseAI/durable-actors)
 * [2026-10-06, 15:54:24](https://news.ycombinator.com/item?id=49980346) - [The Slow Formation of Durable Software](https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/)
+* [2026-10-06, 15:44:42](https://news.ycombinator.com/item?id=49980208) - [Communication Between the Compiler, the Build System, and Beyond](https://shrub.industries/words/problem.html)
 * [2026-10-06, 15:29:41](https://news.ycombinator.com/item?id=49979991) - [Prepare for your next tech interview, free](https://nokku.payanai.com/interview-prep)
 * [2026-10-06, 15:19:57](https://news.ycombinator.com/item?id=49979845) - [The Early History of Smalltalk](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 * [2026-10-06, 14:45:02](https://news.ycombinator.com/item?id=49979306) - [Vibecoding isn't as fun as writing code by hand](https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/)

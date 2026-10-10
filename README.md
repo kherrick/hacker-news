@@ -3,7 +3,6 @@
 * [2026-10-10, 03:42:11](https://news.ycombinator.com/item?id=50029330) - [Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website](https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html)
 * [2026-10-10, 03:02:47](https://news.ycombinator.com/item?id=50029123) - [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
 * [2026-10-10, 02:37:47](https://news.ycombinator.com/item?id=50028982) - [Put a price on breakthroughs](https://alexwang.ai/posts/put-a-price-on-breakthroughs/)
-* [2026-10-10, 02:13:44](https://news.ycombinator.com/item?id=50028855) - [Next.js 16.4](https://nextjs.org/blog/next-16-4)
 * [2026-10-10, 00:37:07](https://news.ycombinator.com/item?id=50028275) - [REA Reverse – Engineer Anything](https://rea.tools/)
 * [2026-10-09, 23:57:12](https://news.ycombinator.com/item?id=50028062) - [Has the Autonomous Trucking Revolution Arrived?](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/)
 * [2026-10-09, 23:53:08](https://news.ycombinator.com/item?id=50028027) - [Clinical trial of a prion disease drug candidate begins enrolling participants](https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants)
@@ -30,6 +29,7 @@
 * [2026-10-07, 19:15:57](https://news.ycombinator.com/item?id=49997481) - [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 * [2026-10-07, 05:30:20](https://news.ycombinator.com/item?id=49988640) - [The Alchemical Transformations of the Mutus Liber (1677)](https://publicdomainreview.org/collection/mutus-liber/)
 * [2026-10-06, 22:10:59](https://news.ycombinator.com/item?id=49984854) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
+* [2026-10-06, 15:44:42](https://news.ycombinator.com/item?id=49980208) - [Communication Between the Compiler, the Build System, and Beyond](https://shrub.industries/words/problem.html)
 
 ## [Archives](archives/index.md)
 
