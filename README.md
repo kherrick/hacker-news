@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-10, 13:05:58](https://news.ycombinator.com/item?id=50032556) - [Lobbying Is Corruption](https://carette.xyz/posts/lobbying_and_corruption/)
 * [2026-10-10, 12:04:04](https://news.ycombinator.com/item?id=50032064) - [LLMs Aren't Inevitable](https://deadsimpletech.com/blog/llms-arent-inevitable)
 * [2026-10-10, 10:57:31](https://news.ycombinator.com/item?id=50031653) - [Apple/macOS silently removed from official Unix registry](https://www.opengroup.org//openbrand/register/)
 * [2026-10-10, 10:52:09](https://news.ycombinator.com/item?id=50031614) - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
@@ -17,7 +18,6 @@
 * [2026-10-09, 15:51:05](https://news.ycombinator.com/item?id=50022292) - [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
 * [2026-10-09, 14:56:13](https://news.ycombinator.com/item?id=50021410) - [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)
 * [2026-10-09, 13:49:31](https://news.ycombinator.com/item?id=50020533) - ['Wallace and Gromit,' 90% Alone](https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone)
-* [2026-10-09, 13:12:47](https://news.ycombinator.com/item?id=50020014) - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
 * [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
 * [2026-10-09, 11:36:20](https://news.ycombinator.com/item?id=50019056) - [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
 * [2026-10-09, 09:21:48](https://news.ycombinator.com/item?id=50018088) - [Sorry, I'm in a meeting](https://iminafleeting.com/)
