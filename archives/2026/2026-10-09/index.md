@@ -11,6 +11,7 @@
 * [2026-10-09, 23:28:36](https://news.ycombinator.com/item?id=50027853) - [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)
 * [2026-10-09, 23:06:25](https://news.ycombinator.com/item?id=50027694) - [Rewriting Prime Agent in Rust](https://www.primeintellect.ai/blog/prime-agent-rust)
 * [2026-10-09, 22:54:13](https://news.ycombinator.com/item?id=50027590) - [Atari Falcon](https://atarimuseum.nl/atari-falcon/)
+* [2026-10-09, 22:14:40](https://news.ycombinator.com/item?id=50027257) - [Recent AI models struggled to match a human algorithmic innovation](https://epoch.ai/publications/innovationeval)
 * [2026-10-09, 22:14:03](https://news.ycombinator.com/item?id=50027252) - [In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology](https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology)
 * [2026-10-09, 22:12:56](https://news.ycombinator.com/item?id=50027234) - [Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025](https://www.nber.org/papers/w35854)
 * [2026-10-09, 22:05:53](https://news.ycombinator.com/item?id=50027167) - [Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen](https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344)
