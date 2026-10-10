@@ -3,7 +3,6 @@
 * [2026-10-10, 15:47:01](https://news.ycombinator.com/item?id=50034081) - [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check)
 * [2026-10-10, 15:40:06](https://news.ycombinator.com/item?id=50034008) - [How Protein Took over the World](https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd)
 * [2026-10-10, 15:10:24](https://news.ycombinator.com/item?id=50033721) - [PVX-001: open-source Covid-19 vaccine starts Phase 1 trial](https://chronicles.popvax.com/p/popvax-goes-clinical)
-* [2026-10-10, 15:04:38](https://news.ycombinator.com/item?id=50033678) - [Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal](https://wsj.com/tech/ai/tom-brown-athropic-669005ad)
 * [2026-10-10, 15:00:36](https://news.ycombinator.com/item?id=50033638) - [FDA may allow some toxic chemicals to be added to food without safety review](https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis)
 * [2026-10-10, 14:32:50](https://news.ycombinator.com/item?id=50033407) - [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
 * [2026-10-10, 13:29:03](https://news.ycombinator.com/item?id=50032758) - [I would like the value of my home to rise, while my property taxes fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
@@ -23,13 +22,14 @@
 * [2026-10-09, 14:56:13](https://news.ycombinator.com/item?id=50021410) - [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)
 * [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
 * [2026-10-09, 06:52:49](https://news.ycombinator.com/item?id=50016956) - [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
-* [2026-10-09, 06:21:36](https://news.ycombinator.com/item?id=50016696) - [Whooping Cranes Learned to Migrate by Following Costumed Pilots](https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration)
 * [2026-10-09, 00:29:01](https://news.ycombinator.com/item?id=50014397) - [Timestamping a Giant Record of the Web](https://projecttimestamper.org/blog/common-crawl/)
+* [2026-10-08, 19:41:19](https://news.ycombinator.com/item?id=50010986) - [Cube Type – Isometric Typography Generator](https://typeincube.com/)
 * [2026-10-07, 21:06:54](https://news.ycombinator.com/item?id=49998801) - [WSL3 Performance is about 5-60% faster than WSL2 depending on the workload](https://tonym.us/wsl2-vs-wsl3-benchmarks.html)
 * [2026-10-07, 19:15:57](https://news.ycombinator.com/item?id=49997481) - [Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 * [2026-10-07, 01:44:59](https://news.ycombinator.com/item?id=49986919) - [Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years](https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html)
 * [2026-10-06, 17:24:17](https://news.ycombinator.com/item?id=49981508) - [Noto means \"no tofu\": fixing dotted circles in Myanmar text](https://www.datocms.com/blog/handling-less-common-scripts)
 * [2026-10-06, 17:07:12](https://news.ycombinator.com/item?id=49981264) - [How to head into VR without wearing a headset](https://www.kyushu-u.ac.jp/en/researches/view/414/)
+* [2026-10-06, 16:37:21](https://news.ycombinator.com/item?id=49980880) - [Grieving the Loss of Details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
 
 ## [Archives](archives/index.md)
 

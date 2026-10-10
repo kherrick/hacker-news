@@ -34,6 +34,7 @@
 * [2026-10-06, 17:24:17](https://news.ycombinator.com/item?id=49981508) - [Noto means \"no tofu\": fixing dotted circles in Myanmar text](https://www.datocms.com/blog/handling-less-common-scripts)
 * [2026-10-06, 17:07:12](https://news.ycombinator.com/item?id=49981264) - [How to head into VR without wearing a headset](https://www.kyushu-u.ac.jp/en/researches/view/414/)
 * [2026-10-06, 17:00:59](https://news.ycombinator.com/item?id=49981186) - [California closed the Montana license plate loophole](https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole)
+* [2026-10-06, 16:37:21](https://news.ycombinator.com/item?id=49980880) - [Grieving the Loss of Details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
 * [2026-10-06, 16:29:59](https://news.ycombinator.com/item?id=49980790) - [Treg (OpenRouter for Tools)](https://github.com/superdesigndev/treg)
 * [2026-10-06, 16:23:25](https://news.ycombinator.com/item?id=49980715) - [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
 * [2026-10-06, 16:14:42](https://news.ycombinator.com/item?id=49980626) - [How machines learned precision](https://glinscott.github.io/how-machines-learned-precision/)
