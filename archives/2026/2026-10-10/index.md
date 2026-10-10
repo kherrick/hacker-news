@@ -8,6 +8,8 @@
 * [2026-10-10, 15:47:01](https://news.ycombinator.com/item?id=50034081) - [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check)
 * [2026-10-10, 15:40:06](https://news.ycombinator.com/item?id=50034008) - [How Protein Took over the World](https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd)
 * [2026-10-10, 15:10:24](https://news.ycombinator.com/item?id=50033721) - [PVX-001: open-source Covid-19 vaccine starts Phase 1 trial](https://chronicles.popvax.com/p/popvax-goes-clinical)
+* [2026-10-10, 15:04:38](https://news.ycombinator.com/item?id=50033678) - [Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal](https://wsj.com/tech/ai/tom-brown-athropic-669005ad)
+* [2026-10-10, 15:00:36](https://news.ycombinator.com/item?id=50033638) - [FDA may allow some toxic chemicals to be added to food without safety review](https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis)
 * [2026-10-10, 14:46:16](https://news.ycombinator.com/item?id=50033517) - [My personal AI agent posted my bank details on company Slack](https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10)
 * [2026-10-10, 14:32:50](https://news.ycombinator.com/item?id=50033407) - [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
 * [2026-10-10, 13:29:03](https://news.ycombinator.com/item?id=50032758) - [I Would Like the Value of My Home to Rise, While My Property Taxes Fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
