@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-10, 04:51:26](https://news.ycombinator.com/item?id=50029681) - [If AI is conscient, then we are making slaves](https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi)
-* [2026-10-10, 04:40:36](https://news.ycombinator.com/item?id=50029630) - [Lobbying](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html)
 * [2026-10-10, 04:04:17](https://news.ycombinator.com/item?id=50029452) - [Data Center Darling's $30B IPO Dream Crushed in 48 Hours](https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours)
 * [2026-10-10, 03:02:47](https://news.ycombinator.com/item?id=50029123) - [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
 * [2026-10-10, 02:37:47](https://news.ycombinator.com/item?id=50028982) - [Put a price on breakthroughs](https://alexwang.ai/posts/put-a-price-on-breakthroughs/)
@@ -25,6 +24,7 @@
 * [2026-10-09, 13:12:47](https://news.ycombinator.com/item?id=50020014) - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
 * [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
 * [2026-10-09, 11:36:20](https://news.ycombinator.com/item?id=50019056) - [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
+* [2026-10-09, 09:21:48](https://news.ycombinator.com/item?id=50018088) - [Sorry, I'm in a meeting](https://iminafleeting.com/)
 * [2026-10-08, 09:10:42](https://news.ycombinator.com/item?id=50003545) - [Show HN: Proton Drive for Linux](https://oss.lsantos.dev/proton-drive-linux-fs/)
 * [2026-10-07, 19:15:57](https://news.ycombinator.com/item?id=49997481) - [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 * [2026-10-06, 22:10:59](https://news.ycombinator.com/item?id=49984854) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
