@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-10](index.md)
 
+* [2026-10-10, 05:47:46](https://news.ycombinator.com/item?id=50029982) - [Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
+* [2026-10-10, 05:22:30](https://news.ycombinator.com/item?id=50029830) - [Food processing influences metabolism and brain activity](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)
 * [2026-10-10, 04:51:26](https://news.ycombinator.com/item?id=50029681) - [If AI is conscient, then we are making slaves](https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi)
 * [2026-10-10, 04:40:36](https://news.ycombinator.com/item?id=50029630) - [Lobbying](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html)
 * [2026-10-10, 04:37:13](https://news.ycombinator.com/item?id=50029607) - [Show HN: A simple to-do app for iPhone, Mac, and your agent](https://ilia.page/writing/introducing-nagare)
