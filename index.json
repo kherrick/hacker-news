@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-10-09, 07:44:36",
-      "https://news.ycombinator.com/item?id=50017357"
-    ],
-    [
-      "Programming Isn't Special",
-      "https://blog.glyph.im/2026/10/programming-isnt-special.html"
-    ]
-  ],
-  [
-    [
       "2026-10-08, 19:41:19",
       "https://news.ycombinator.com/item?id=50010986"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: Proton Drive for Linux",
       "https://oss.lsantos.dev/proton-drive-linux-fs/"
+    ]
+  ],
+  [
+    [
+      "2026-10-07, 21:06:54",
+      "https://news.ycombinator.com/item?id=49998801"
+    ],
+    [
+      "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
+      "https://tonym.us/wsl2-vs-wsl3-benchmarks.html"
     ]
   ],
   [
