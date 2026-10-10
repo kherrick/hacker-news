@@ -43,6 +43,7 @@
 * [2026-10-08, 14:18:51](https://news.ycombinator.com/item?id=50006114) - [Show HN: I Put an AI Agent on a Nokia 110](https://github.com/anupray95/AI-Agent-on-a-NOKIA)
 * [2026-10-08, 14:09:53](https://news.ycombinator.com/item?id=50006012) - [Orkut.com](https://orkut.com/)
 * [2026-10-08, 13:48:11](https://news.ycombinator.com/item?id=50005772) - [How to Fix autoconf-style Configuration Probing](https://build2.org/blog/fix-autoconf.xhtml)
+* [2026-10-08, 13:44:36](https://news.ycombinator.com/item?id=50005743) - [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
 * [2026-10-08, 13:42:16](https://news.ycombinator.com/item?id=50005719) - [Calling a function in C without naming it](https://wiro.world/posts/calling-c-func-without-naming-it/)
 * [2026-10-08, 13:34:22](https://news.ycombinator.com/item?id=50005643) - [2027 Web Platform Feature Ranking](https://interop-rank.fxdx.dev/)
 * [2026-10-08, 13:29:46](https://news.ycombinator.com/item?id=50005608) - [Sub-1-Bit LLM Compression via Latent Factorization](https://github.com/SamsungLabs/LittleBit)
