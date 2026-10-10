@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 23:57:12](https://news.ycombinator.com/item?id=50028062) - [Has the Autonomous Trucking Revolution Arrived?](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/)
 * [2026-10-09, 23:56:55](https://news.ycombinator.com/item?id=50028059) - [11 of 23 Core Open Source Projects Run on 1 or 2 People](https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/)
+* [2026-10-09, 23:32:04](https://news.ycombinator.com/item?id=50027884) - [The logarithms of rational numbers have irrationality exponent 2 [pdf]](https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf)
 * [2026-10-09, 23:28:36](https://news.ycombinator.com/item?id=50027853) - [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)
 * [2026-10-09, 23:06:25](https://news.ycombinator.com/item?id=50027694) - [Rewriting Prime Agent in Rust](https://www.primeintellect.ai/blog/prime-agent-rust)
 * [2026-10-09, 22:54:13](https://news.ycombinator.com/item?id=50027590) - [Atari Falcon](https://atarimuseum.nl/atari-falcon/)
 * [2026-10-09, 22:14:03](https://news.ycombinator.com/item?id=50027252) - [In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology](https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology)
+* [2026-10-09, 22:12:56](https://news.ycombinator.com/item?id=50027234) - [Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025](https://www.nber.org/papers/w35854)
 * [2026-10-09, 22:05:53](https://news.ycombinator.com/item?id=50027167) - [Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen](https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344)
 * [2026-10-09, 22:00:35](https://news.ycombinator.com/item?id=50027118) - [Anthropic AI model submits false tip on unsolved Philly murder](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
 * [2026-10-09, 21:25:09](https://news.ycombinator.com/item?id=50026734) - [OpenAI mistranslated mathematics into code for its Navier-Stokes proof](https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/)
@@ -37,6 +40,7 @@
 * [2026-10-09, 15:18:59](https://news.ycombinator.com/item?id=50021763) - [The super intelligence shit is a humiliation ritual for OpenAI](https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z)
 * [2026-10-09, 15:05:24](https://news.ycombinator.com/item?id=50021540) - [Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland](https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms)
 * [2026-10-09, 15:05:24](https://news.ycombinator.com/item?id=50021540) - [Germany transforms former coal mines into Europe's largest lake landscape](https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands)
+* [2026-10-09, 14:56:13](https://news.ycombinator.com/item?id=50021410) - [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)
 * [2026-10-09, 14:55:57](https://news.ycombinator.com/item?id=50021403) - [Imposing Sanctions on the International Criminal Court](https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/)
 * [2026-10-09, 14:45:19](https://news.ycombinator.com/item?id=50021253) - [Agentic coding is a financial trap](https://frugaast.dev/blog/agentic-costs-unsustainable)
 * [2026-10-09, 14:35:42](https://news.ycombinator.com/item?id=50021127) - [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
