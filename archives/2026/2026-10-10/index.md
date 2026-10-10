@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-10](index.md)
 
 * [2026-10-10, 04:40:36](https://news.ycombinator.com/item?id=50029630) - [Lobbying](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html)
+* [2026-10-10, 04:04:17](https://news.ycombinator.com/item?id=50029452) - [Data Center Darling's $30B IPO Dream Crushed in 48 Hours](https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours)
 * [2026-10-10, 03:42:11](https://news.ycombinator.com/item?id=50029330) - [Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website](https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html)
 * [2026-10-10, 03:02:47](https://news.ycombinator.com/item?id=50029123) - [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
 * [2026-10-10, 02:37:47](https://news.ycombinator.com/item?id=50028982) - [Put a price on breakthroughs](https://alexwang.ai/posts/put-a-price-on-breakthroughs/)
