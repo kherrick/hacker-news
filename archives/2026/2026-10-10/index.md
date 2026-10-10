@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-10-10](index.md)
 
+* [2026-10-10, 19:12:55](https://news.ycombinator.com/item?id=50036119) - [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
+* [2026-10-10, 19:02:35](https://news.ycombinator.com/item?id=50036023) - [Cbirds: A flock of birds in your terminal](https://github.com/clainstone/cbirds)
 * [2026-10-10, 18:48:35](https://news.ycombinator.com/item?id=50035886) - [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
 * [2026-10-10, 18:16:19](https://news.ycombinator.com/item?id=50035602) - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/workweave)
 * [2026-10-10, 18:11:58](https://news.ycombinator.com/item?id=50035561) - [Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300)
 * [2026-10-10, 18:10:54](https://news.ycombinator.com/item?id=50035550) - [Anthropic discloses 2 months old fake tip to police among new rogue AI incidents](https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/)
+* [2026-10-10, 18:08:49](https://news.ycombinator.com/item?id=50035530) - [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
 * [2026-10-10, 16:19:23](https://news.ycombinator.com/item?id=50034363) - [AI Is Throwing a Roadside Picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
 * [2026-10-10, 15:53:46](https://news.ycombinator.com/item?id=50034141) - [The Disease called Politics (1962)](https://www.panarchy.org/roszak/politics.html)
 * [2026-10-10, 15:47:01](https://news.ycombinator.com/item?id=50034081) - [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check)
