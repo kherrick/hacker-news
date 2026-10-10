@@ -6,6 +6,7 @@
 
 * [2026-10-07, 21:25:16](https://news.ycombinator.com/item?id=49998992) - [Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age](https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/)
 * [2026-10-07, 21:16:18](https://news.ycombinator.com/item?id=49998895) - [Margaret Hamilton, who led software development for the Apollo program, has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+* [2026-10-07, 21:06:54](https://news.ycombinator.com/item?id=49998801) - [WSL3 Performance is about 5-60% faster than WSL2 depending on the workload](https://tonym.us/wsl2-vs-wsl3-benchmarks.html)
 * [2026-10-07, 20:27:11](https://news.ycombinator.com/item?id=49998350) - [I tried to move my notes out of Emacs. I failed. Again](https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/)
 * [2026-10-07, 20:01:37](https://news.ycombinator.com/item?id=49998066) - ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
 * [2026-10-07, 19:33:40](https://news.ycombinator.com/item?id=49997718) - [The Mathocalypse](https://scottaaronson.blog/?p=10169)
