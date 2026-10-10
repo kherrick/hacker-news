@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-10, 10:52:09](https://news.ycombinator.com/item?id=50031614) - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
 * [2026-10-10, 09:51:49](https://news.ycombinator.com/item?id=50031269) - [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
 * [2026-10-10, 05:47:46](https://news.ycombinator.com/item?id=50029982) - [Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
 * [2026-10-10, 05:22:30](https://news.ycombinator.com/item?id=50029830) - [Food processing influences metabolism and brain activity](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)
@@ -18,7 +19,6 @@
 * [2026-10-09, 13:49:31](https://news.ycombinator.com/item?id=50020533) - ['Wallace and Gromit,' 90% Alone](https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone)
 * [2026-10-09, 13:12:47](https://news.ycombinator.com/item?id=50020014) - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
 * [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
-* [2026-10-09, 12:26:12](https://news.ycombinator.com/item?id=50019499) - [100+ reactions to 100+ solutions](https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/)
 * [2026-10-09, 11:36:20](https://news.ycombinator.com/item?id=50019056) - [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
 * [2026-10-09, 09:21:48](https://news.ycombinator.com/item?id=50018088) - [Sorry, I'm in a meeting](https://iminafleeting.com/)
 * [2026-10-08, 19:41:19](https://news.ycombinator.com/item?id=50010986) - [Cube Type – Isometric Typography Generator](https://typeincube.com/)
