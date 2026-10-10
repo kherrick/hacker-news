@@ -1,12 +1,92 @@
 [
   [
     [
+      "2026-10-10, 00:38:18",
+      "https://news.ycombinator.com/item?id=50028283"
+    ],
+    [
+      "Show HN: Yeah Nah – a BS score for Australian job ads",
+      "https://yeahnah.lol/"
+    ]
+  ],
+  [
+    [
+      "2026-10-10, 00:37:07",
+      "https://news.ycombinator.com/item?id=50028275"
+    ],
+    [
+      "REA Reverse – Engineer Anything",
+      "https://rea.tools/"
+    ]
+  ],
+  [
+    [
+      "2026-10-10, 00:14:46",
+      "https://news.ycombinator.com/item?id=50028176"
+    ],
+    [
+      "Brockovich AI Datacenter Reporting: AI Data Centers Across the United States",
+      "https://www.brockovichdatacenter.com/"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 23:56:55",
+      "https://news.ycombinator.com/item?id=50028059"
+    ],
+    [
+      "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+      "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 23:28:36",
+      "https://news.ycombinator.com/item?id=50027853"
+    ],
+    [
+      "Compiling Rust to readable C with Eurydice",
+      "https://lwn.net/Articles/1055211/"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 23:06:25",
+      "https://news.ycombinator.com/item?id=50027694"
+    ],
+    [
+      "Rewriting Prime Agent in Rust",
+      "https://www.primeintellect.ai/blog/prime-agent-rust"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 22:54:13",
+      "https://news.ycombinator.com/item?id=50027590"
+    ],
+    [
+      "Atari Falcon",
+      "https://atarimuseum.nl/atari-falcon/"
+    ]
+  ],
+  [
+    [
       "2026-10-09, 22:05:53",
       "https://news.ycombinator.com/item?id=50027167"
     ],
     [
       "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
       "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 22:00:35",
+      "https://news.ycombinator.com/item?id=50027118"
+    ],
+    [
+      "Anthropic AI model submits false tip on unsolved Philly murder",
+      "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/"
     ]
   ],
   [
@@ -81,16 +161,6 @@
   ],
   [
     [
-      "2026-10-09, 17:42:12",
-      "https://news.ycombinator.com/item?id=50024090"
-    ],
-    [
-      "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/"
-    ]
-  ],
-  [
-    [
       "2026-10-09, 17:39:44",
       "https://news.ycombinator.com/item?id=50024055"
     ],
@@ -117,26 +187,6 @@
     [
       "Triple-A Minesweeper",
       "https://minesweeper.mikelacher.com/"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 15:49:31",
-      "https://news.ycombinator.com/item?id=50022266"
-    ],
-    [
-      "A statement on the Tor Project's relationship with Mullvad",
-      "https://blog.torproject.org/on-tor-relationship-with-mullvad/"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 15:05:24",
-      "https://news.ycombinator.com/item?id=50021540"
-    ],
-    [
-      "Germany transforms former coal mines into Europe's largest lake landscape",
-      "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands"
     ]
   ],
   [
@@ -201,62 +251,12 @@
   ],
   [
     [
-      "2026-10-09, 10:00:26",
-      "https://news.ycombinator.com/item?id=50018350"
-    ],
-    [
-      "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
-    ]
-  ],
-  [
-    [
       "2026-10-09, 09:21:48",
       "https://news.ycombinator.com/item?id=50018088"
     ],
     [
       "Sorry, I'm in a meeting",
       "https://iminafleeting.com/"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 07:44:36",
-      "https://news.ycombinator.com/item?id=50017357"
-    ],
-    [
-      "Programming Isn't Special",
-      "https://blog.glyph.im/2026/10/programming-isnt-special.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 05:51:29",
-      "https://news.ycombinator.com/item?id=50016489"
-    ],
-    [
-      "MXC - a sandboxed code execution system",
-      "https://github.com/microsoft/mxc"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 03:08:05",
-      "https://news.ycombinator.com/item?id=50015515"
-    ],
-    [
-      "Keyboard differences between Windows and Macs",
-      "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 17:51:49",
-      "https://news.ycombinator.com/item?id=50009295"
-    ],
-    [
-      "Theranos.world",
-      "https://www.theranos.world/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-10-07, 15:44:39",
+      "https://news.ycombinator.com/item?id=49994449"
+    ],
+    [
+      "My static site was serving my internal docs",
+      "https://tminuslabs.space/serving-secrets"
+    ]
+  ],
+  [
+    [
       "2026-10-06, 22:10:59",
       "https://news.ycombinator.com/item?id=49984854"
     ],
     [
       "The role of cat eye narrowing movements in cat–human communication (2020)",
       "https://www.nature.com/articles/s41598-020-73426-0"
-    ]
-  ],
-  [
-    [
-      "2026-10-06, 20:24:52",
-      "https://news.ycombinator.com/item?id=49983582"
-    ],
-    [
-      "Training Text-to-Image Models Without a VAE",
-      "https://www.linum.ai/field-notes/pyramid-jit"
     ]
   ]
 ]
