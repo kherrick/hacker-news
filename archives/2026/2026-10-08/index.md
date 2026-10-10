@@ -37,6 +37,7 @@
 * [2026-10-08, 15:24:40](https://news.ycombinator.com/item?id=50006948) - [US suspends Microsoft, major IT firms from key green card program](https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/)
 * [2026-10-08, 15:15:00](https://news.ycombinator.com/item?id=50006832) - [US Suspends Visa Program for Tech Firms Including Microsoft](https://www.bloomberg.com/news/articles/2026-10-08/us-suspends-visa-program-for-tech-firms-including-microsoft)
 * [2026-10-08, 15:15:00](https://news.ycombinator.com/item?id=50006832) - [Trump administration is suspending Microsoft from a green card program](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea)
+* [2026-10-08, 15:06:39](https://news.ycombinator.com/item?id=50006734) - [Vegetative Electron Microscopy WTF? (2025)](https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html)
 * [2026-10-08, 14:39:47](https://news.ycombinator.com/item?id=50006366) - [Tell HN: I've been paying for a rural Tanzanian's education for 10 years](https://news.ycombinator.com/item?id=50006366)
 * [2026-10-08, 14:18:51](https://news.ycombinator.com/item?id=50006114) - [Show HN: I Put an AI Agent on a Nokia 110](https://github.com/anupray95/AI-Agent-on-a-NOKIA)
 * [2026-10-08, 14:09:53](https://news.ycombinator.com/item?id=50006012) - [Orkut.com](https://orkut.com/)
