@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-10-09](index.md)
 
+* [2026-10-09, 23:56:55](https://news.ycombinator.com/item?id=50028059) - [11 of 23 Core Open Source Projects Run on 1 or 2 People](https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/)
+* [2026-10-09, 23:28:36](https://news.ycombinator.com/item?id=50027853) - [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)
+* [2026-10-09, 23:06:25](https://news.ycombinator.com/item?id=50027694) - [Rewriting Prime Agent in Rust](https://www.primeintellect.ai/blog/prime-agent-rust)
+* [2026-10-09, 22:54:13](https://news.ycombinator.com/item?id=50027590) - [Atari Falcon](https://atarimuseum.nl/atari-falcon/)
 * [2026-10-09, 22:14:03](https://news.ycombinator.com/item?id=50027252) - [In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology](https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology)
 * [2026-10-09, 22:05:53](https://news.ycombinator.com/item?id=50027167) - [Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen](https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344)
+* [2026-10-09, 22:00:35](https://news.ycombinator.com/item?id=50027118) - [Anthropic AI model submits false tip on unsolved Philly murder](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
 * [2026-10-09, 21:25:09](https://news.ycombinator.com/item?id=50026734) - [OpenAI mistranslated mathematics into code for its Navier-Stokes proof](https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/)
 * [2026-10-09, 21:06:59](https://news.ycombinator.com/item?id=50026555) - [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
 * [2026-10-09, 20:04:00](https://news.ycombinator.com/item?id=50025935) - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)

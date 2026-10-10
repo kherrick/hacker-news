@@ -25,6 +25,7 @@
 * [2026-10-07, 16:56:30](https://news.ycombinator.com/item?id=49995495) - [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
 * [2026-10-07, 15:59:41](https://news.ycombinator.com/item?id=49994663) - [The dawn of the age of the exoskeleton](https://theconversation.com/the-dawn-of-the-age-of-the-exoskeleton-281804)
 * [2026-10-07, 15:46:30](https://news.ycombinator.com/item?id=49994481) - [Open source 160 sound visualization experiments](https://www.kagan.in/iwrzwr/visual-archive/)
+* [2026-10-07, 15:44:39](https://news.ycombinator.com/item?id=49994449) - [My static site was serving my internal docs](https://tminuslabs.space/serving-secrets)
 * [2026-10-07, 15:44:21](https://news.ycombinator.com/item?id=49994443) - [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/)
 * [2026-10-07, 15:24:38](https://news.ycombinator.com/item?id=49994145) - [Navier–Stokes Lost in Translation](https://arxiv.org/abs/2610.08144)
 * [2026-10-07, 15:19:50](https://news.ycombinator.com/item?id=49994065) - [Reverse Engineering of the M-VAVE FM-1 Pocket Synthesizer Firmware](https://github.com/AL-255/FM-1-RE)
