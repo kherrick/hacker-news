@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-10, 09:51:49",
+      "https://news.ycombinator.com/item?id=50031269"
+    ],
+    [
+      "`123456' password used in Danish CPR data breach",
+      "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/"
+    ]
+  ],
+  [
+    [
       "2026-10-10, 05:47:46",
       "https://news.ycombinator.com/item?id=50029982"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-10-09, 07:44:36",
-      "https://news.ycombinator.com/item?id=50017357"
-    ],
-    [
-      "Programming Isn't Special",
-      "https://blog.glyph.im/2026/10/programming-isnt-special.html"
-    ]
-  ],
-  [
-    [
       "2026-10-08, 19:41:19",
       "https://news.ycombinator.com/item?id=50010986"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=49997481"
     ],
     [
-      "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+      "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
       "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo"
     ]
   ],
