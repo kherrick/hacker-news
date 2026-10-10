@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-10](index.md)
 
+* [2026-10-10, 22:50:10](https://news.ycombinator.com/item?id=50037949) - [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
 * [2026-10-10, 21:19:42](https://news.ycombinator.com/item?id=50037299) - [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
 * [2026-10-10, 21:07:07](https://news.ycombinator.com/item?id=50037183) - [Why We Still Cannot Read Etruscan](https://veiledantiquity.com/posts/etruscan-language-lost/)
 * [2026-10-10, 20:48:43](https://news.ycombinator.com/item?id=50037024) - [A new look at brains transformed by psychedelics](https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/)
@@ -18,6 +19,7 @@
 * [2026-10-10, 18:08:49](https://news.ycombinator.com/item?id=50035530) - [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
 * [2026-10-10, 16:19:23](https://news.ycombinator.com/item?id=50034363) - [AI Is Throwing a Roadside Picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
 * [2026-10-10, 15:53:46](https://news.ycombinator.com/item?id=50034141) - [The Disease called Politics (1962)](https://www.panarchy.org/roszak/politics.html)
+* [2026-10-10, 15:51:39](https://news.ycombinator.com/item?id=50034123) - [MrBeast 'spends millions reverse engineering the algorithms on each platform'](https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas)
 * [2026-10-10, 15:47:01](https://news.ycombinator.com/item?id=50034081) - [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
 * [2026-10-10, 15:47:01](https://news.ycombinator.com/item?id=50034081) - [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check)
 * [2026-10-10, 15:40:06](https://news.ycombinator.com/item?id=50034008) - [How Protein Took over the World](https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd)
