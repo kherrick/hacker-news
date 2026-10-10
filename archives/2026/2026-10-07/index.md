@@ -45,6 +45,7 @@
 * [2026-10-07, 13:08:26](https://news.ycombinator.com/item?id=49992257) - [Anti-Patterns in Software Blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/)
 * [2026-10-07, 12:57:10](https://news.ycombinator.com/item?id=49992125) - [House with 15m underground tunnels for sale for 300k](https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/)
 * [2026-10-07, 12:51:08](https://news.ycombinator.com/item?id=49992057) - [Show HN: A walkable 3D art history museum built from Wikipedia](https://artmuseum.artfrompixels.com/)
+* [2026-10-07, 12:30:40](https://news.ycombinator.com/item?id=49991852) - [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
 * [2026-10-07, 12:28:36](https://news.ycombinator.com/item?id=49991823) - [Google Playground: Create and play custom games](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/)
 * [2026-10-07, 12:04:36](https://news.ycombinator.com/item?id=49991580) - [Write Like It's 1866: LLMs Relearn Telegraphese](https://fiveminutesforward.com/post/2026-10-04-telegraph-test/)
 * [2026-10-07, 11:27:27](https://news.ycombinator.com/item?id=49991243) - [God of War on PSP, recompiled to WebAssembly and running in the browser](https://github.com/snuri00/psp-web-recomp)

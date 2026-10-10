@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-10](index.md)
 
 * [2026-10-10, 18:16:19](https://news.ycombinator.com/item?id=50035602) - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/workweave)
+* [2026-10-10, 18:11:58](https://news.ycombinator.com/item?id=50035561) - [Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300)
 * [2026-10-10, 18:10:54](https://news.ycombinator.com/item?id=50035550) - [Anthropic discloses 2 months old fake tip to police among new rogue AI incidents](https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/)
 * [2026-10-10, 16:19:23](https://news.ycombinator.com/item?id=50034363) - [AI Is Throwing a Roadside Picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
 * [2026-10-10, 15:53:46](https://news.ycombinator.com/item?id=50034141) - [The Disease called Politics (1962)](https://www.panarchy.org/roszak/politics.html)
@@ -15,6 +16,7 @@
 * [2026-10-10, 15:00:36](https://news.ycombinator.com/item?id=50033638) - [FDA may allow some toxic chemicals to be added to food without safety review](https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis)
 * [2026-10-10, 14:46:16](https://news.ycombinator.com/item?id=50033517) - [My personal AI agent posted my bank details on company Slack](https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10)
 * [2026-10-10, 14:32:50](https://news.ycombinator.com/item?id=50033407) - [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
+* [2026-10-10, 14:27:09](https://news.ycombinator.com/item?id=50033357) - [Unikernels were hard. key word: were](https://ghuntley.com/unikernels/)
 * [2026-10-10, 13:29:03](https://news.ycombinator.com/item?id=50032758) - [I Would Like the Value of My Home to Rise, While My Property Taxes Fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
 * [2026-10-10, 13:05:58](https://news.ycombinator.com/item?id=50032556) - [Lobbying Is Corruption](https://carette.xyz/posts/lobbying_and_corruption/)
 * [2026-10-10, 12:04:04](https://news.ycombinator.com/item?id=50032064) - [LLMs Aren't Inevitable](https://deadsimpletech.com/blog/llms-arent-inevitable)
