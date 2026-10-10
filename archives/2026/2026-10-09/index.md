@@ -70,6 +70,7 @@
 * [2026-10-09, 06:54:45](https://news.ycombinator.com/item?id=50016974) - [OTel-Native by Design – Building Products That Export to Any Observability Stack](https://opentelemetry.io/blog/2026/otel-native-by-design/)
 * [2026-10-09, 06:52:49](https://news.ycombinator.com/item?id=50016956) - [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
 * [2026-10-09, 06:40:14](https://news.ycombinator.com/item?id=50016840) - [Show HN: OldRoll, a free vintage photo editor for the browser](https://www.oldroll.io/)
+* [2026-10-09, 06:21:36](https://news.ycombinator.com/item?id=50016696) - [Whooping Cranes Learned to Migrate by Following Costumed Pilots](https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration)
 * [2026-10-09, 05:51:29](https://news.ycombinator.com/item?id=50016489) - [MXC - a sandboxed code execution system](https://github.com/microsoft/mxc)
 * [2026-10-09, 05:22:58](https://news.ycombinator.com/item?id=50016312) - [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
 * [2026-10-09, 04:43:20](https://news.ycombinator.com/item?id=50016067) - [Cybernetics of AI Companies](https://ai-cybernetics.grok.me)
