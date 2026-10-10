@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2026-10-07, 21:06:54",
-      "https://news.ycombinator.com/item?id=49998801"
-    ],
-    [
-      "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
-      "https://tonym.us/wsl2-vs-wsl3-benchmarks.html"
-    ]
-  ],
-  [
-    [
       "2026-10-07, 19:15:57",
       "https://news.ycombinator.com/item?id=49997481"
     ],
@@ -287,6 +277,16 @@
     [
       "OpenSCAD the Programmers Solid 3D CAD Modeller",
       "https://openscad.org/"
+    ]
+  ],
+  [
+    [
+      "2026-10-06, 17:24:17",
+      "https://news.ycombinator.com/item?id=49981508"
+    ],
+    [
+      "Noto means \"no tofu\": fixing dotted circles in Myanmar text",
+      "https://www.datocms.com/blog/handling-less-common-scripts"
     ]
   ],
   [
