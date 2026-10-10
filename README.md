@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-10, 20:48:43](https://news.ycombinator.com/item?id=50037024) - [A new look at brains transformed by psychedelics](https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/)
+* [2026-10-10, 19:59:24](https://news.ycombinator.com/item?id=50036571) - [50MB operating system can resurrect your old PC](https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/)
 * [2026-10-10, 19:12:55](https://news.ycombinator.com/item?id=50036119) - [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
 * [2026-10-10, 18:48:35](https://news.ycombinator.com/item?id=50035886) - [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
-* [2026-10-10, 18:11:58](https://news.ycombinator.com/item?id=50035561) - [Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300)
 * [2026-10-10, 18:08:49](https://news.ycombinator.com/item?id=50035530) - [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
 * [2026-10-10, 15:47:01](https://news.ycombinator.com/item?id=50034081) - [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
 * [2026-10-10, 15:40:06](https://news.ycombinator.com/item?id=50034008) - [How Protein Took over the World](https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd)
@@ -20,7 +21,7 @@
 * [2026-10-09, 22:14:40](https://news.ycombinator.com/item?id=50027257) - [Recent AI models struggled to match a human algorithmic innovation](https://epoch.ai/publications/innovationeval)
 * [2026-10-09, 17:52:07](https://news.ycombinator.com/item?id=50024242) - [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart)
 * [2026-10-09, 15:51:05](https://news.ycombinator.com/item?id=50022292) - [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
-* [2026-10-09, 14:56:13](https://news.ycombinator.com/item?id=50021410) - [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)
+* [2026-10-09, 13:10:34](https://news.ycombinator.com/item?id=50019988) - [Chip-hex:cost-benefit, energy efficiency and hexagonal](https://github.com/lzprograma/Chip-Hexa)
 * [2026-10-09, 07:29:08](https://news.ycombinator.com/item?id=50017247) - [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger)
 * [2026-10-09, 06:52:49](https://news.ycombinator.com/item?id=50016956) - [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
 * [2026-10-09, 06:21:36](https://news.ycombinator.com/item?id=50016696) - [Whooping Cranes Learned to Migrate by Following Costumed Pilots](https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration)
@@ -28,7 +29,6 @@
 * [2026-10-07, 12:30:40](https://news.ycombinator.com/item?id=49991852) - [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
 * [2026-10-07, 01:44:59](https://news.ycombinator.com/item?id=49986919) - [Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years](https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html)
 * [2026-10-06, 21:22:44](https://news.ycombinator.com/item?id=49984349) - [OpenSCAD the Programmers Solid 3D CAD Modeller](https://openscad.org/)
-* [2026-10-06, 17:24:17](https://news.ycombinator.com/item?id=49981508) - [Noto means \"no tofu\": fixing dotted circles in Myanmar text](https://www.datocms.com/blog/handling-less-common-scripts)
 * [2026-10-06, 16:37:21](https://news.ycombinator.com/item?id=49980880) - [Grieving the loss of details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
 
 ## [Archives](archives/index.md)

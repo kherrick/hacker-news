@@ -53,6 +53,7 @@
 * [2026-10-09, 14:14:08](https://news.ycombinator.com/item?id=50020856) - [Court throws out killer's sentence after judge said he loved AI video of victim](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457)
 * [2026-10-09, 13:49:31](https://news.ycombinator.com/item?id=50020533) - ['Wallace and Gromit,' 90% Alone](https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone)
 * [2026-10-09, 13:12:47](https://news.ycombinator.com/item?id=50020014) - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
+* [2026-10-09, 13:10:34](https://news.ycombinator.com/item?id=50019988) - [Chip-hex:cost-benefit, energy efficiency and hexagonal](https://github.com/lzprograma/Chip-Hexa)
 * [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Deno Is Joining Cloudflare](https://deno.com/blog/cloudflare)
 * [2026-10-09, 12:49:41](https://news.ycombinator.com/item?id=50019741) - [Study: Exercise increases cancer survival rates](https://www.nejm.org/doi/10.1056/NEJMoa2502760)
 * [2026-10-09, 12:29:40](https://news.ycombinator.com/item?id=50019535) - [Meadows – a small language for stock-and-flow diagrams that run](https://lorezzed.github.io/meadows/)
