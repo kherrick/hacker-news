@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-10](index.md)
 
+* [2026-10-10, 14:46:16](https://news.ycombinator.com/item?id=50033517) - [My personal AI agent posted my bank details on company Slack](https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10)
 * [2026-10-10, 14:32:50](https://news.ycombinator.com/item?id=50033407) - [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
 * [2026-10-10, 13:29:03](https://news.ycombinator.com/item?id=50032758) - [I Would Like the Value of My Home to Rise, While My Property Taxes Fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
 * [2026-10-10, 13:05:58](https://news.ycombinator.com/item?id=50032556) - [Lobbying Is Corruption](https://carette.xyz/posts/lobbying_and_corruption/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-10, 14:46:16](https://news.ycombinator.com/item?id=50033517) - [My personal AI agent posted my bank details on company Slack](https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10)
 * [2026-10-10, 14:32:50](https://news.ycombinator.com/item?id=50033407) - [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
 * [2026-10-10, 13:05:58](https://news.ycombinator.com/item?id=50032556) - [Lobbying Is Corruption](https://carette.xyz/posts/lobbying_and_corruption/)
 * [2026-10-10, 10:57:31](https://news.ycombinator.com/item?id=50031653) - [Apple/macOS silently removed from official Unix registry](https://www.opengroup.org//openbrand/register/)
@@ -11,12 +12,12 @@
 * [2026-10-09, 23:53:08](https://news.ycombinator.com/item?id=50028027) - [Clinical trial of a prion disease drug candidate begins enrolling participants](https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants)
 * [2026-10-09, 23:28:36](https://news.ycombinator.com/item?id=50027853) - [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)
 * [2026-10-09, 18:10:55](https://news.ycombinator.com/item?id=50024499) - [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
+* [2026-10-09, 17:52:07](https://news.ycombinator.com/item?id=50024242) - [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart)
 * [2026-10-09, 17:42:12](https://news.ycombinator.com/item?id=50024090) - [What mathematicians should know about the Lean Theorem Prover: reliability & AI](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
 * [2026-10-09, 17:35:40](https://news.ycombinator.com/item?id=50023995) - [Scam American companies are using to manipulate ingredient lists](https://twitter.com/WallStreetApes/status/2108594998656807078)
 * [2026-10-09, 17:02:31](https://news.ycombinator.com/item?id=50023450) - [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai)
 * [2026-10-09, 15:51:05](https://news.ycombinator.com/item?id=50022292) - [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
 * [2026-10-09, 14:56:13](https://news.ycombinator.com/item?id=50021410) - [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)
-* [2026-10-09, 13:49:31](https://news.ycombinator.com/item?id=50020533) - ['Wallace and Gromit,' 90% Alone](https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone)
 * [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
 * [2026-10-09, 11:36:20](https://news.ycombinator.com/item?id=50019056) - [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
 * [2026-10-09, 06:52:49](https://news.ycombinator.com/item?id=50016956) - [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
@@ -27,7 +28,6 @@
 * [2026-10-07, 21:06:54](https://news.ycombinator.com/item?id=49998801) - [WSL3 Performance is about 5-60% faster than WSL2 depending on the workload](https://tonym.us/wsl2-vs-wsl3-benchmarks.html)
 * [2026-10-07, 19:15:57](https://news.ycombinator.com/item?id=49997481) - [Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 * [2026-10-07, 01:44:59](https://news.ycombinator.com/item?id=49986919) - [Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years](https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html)
-* [2026-10-06, 22:10:59](https://news.ycombinator.com/item?id=49984854) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
 * [2026-10-06, 17:24:17](https://news.ycombinator.com/item?id=49981508) - [Noto means \"no tofu\": fixing dotted circles in Myanmar text](https://www.datocms.com/blog/handling-less-common-scripts)
 * [2026-10-06, 17:07:12](https://news.ycombinator.com/item?id=49981264) - [How to head into VR without wearing a headset](https://www.kyushu-u.ac.jp/en/researches/view/414/)
 

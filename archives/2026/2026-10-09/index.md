@@ -26,6 +26,7 @@
 * [2026-10-09, 18:16:03](https://news.ycombinator.com/item?id=50024571) - [Ideas aren't getting harder to find, anyone who tells you otherwise is a coward](https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find)
 * [2026-10-09, 18:10:55](https://news.ycombinator.com/item?id=50024499) - [Show HN: See *almost* any carriers phone settings](https://carrierexplode.com/)
 * [2026-10-09, 18:07:23](https://news.ycombinator.com/item?id=50024457) - [The Revolution of Vertical Drama Is Happening Behind the Camera](https://medium.com/@ludobos/streathe-real-revolution-of-vertical-drama-is-happening-behind-the-camera-0722d1394bce)
+* [2026-10-09, 17:52:07](https://news.ycombinator.com/item?id=50024242) - [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart)
 * [2026-10-09, 17:43:27](https://news.ycombinator.com/item?id=50024108) - [I'm still around.. I'm just not writing here](https://rachelbythebay.com/w/2026/10/08/idle/)
 * [2026-10-09, 17:42:12](https://news.ycombinator.com/item?id=50024090) - [What mathematicians should know about the Lean Theorem Prover: reliability & AI](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
 * [2026-10-09, 17:39:44](https://news.ycombinator.com/item?id=50024055) - [Show HN: The rarest tech books and docs you've probably never read](https://readrare.com/)
