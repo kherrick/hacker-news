@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-10](index.md)
 
+* [2026-10-10, 12:04:04](https://news.ycombinator.com/item?id=50032064) - [LLMs Aren't Inevitable](https://deadsimpletech.com/blog/llms-arent-inevitable)
 * [2026-10-10, 10:57:31](https://news.ycombinator.com/item?id=50031653) - [Apple/macOS silently removed from official Unix registry](https://www.opengroup.org//openbrand/register/)
 * [2026-10-10, 10:52:09](https://news.ycombinator.com/item?id=50031614) - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
 * [2026-10-10, 09:51:49](https://news.ycombinator.com/item?id=50031269) - [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
