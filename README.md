@@ -25,10 +25,10 @@
 * [2026-10-09, 13:12:47](https://news.ycombinator.com/item?id=50020014) - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
 * [2026-10-09, 13:03:48](https://news.ycombinator.com/item?id=50019911) - [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
 * [2026-10-09, 11:36:20](https://news.ycombinator.com/item?id=50019056) - [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
-* [2026-10-09, 09:21:48](https://news.ycombinator.com/item?id=50018088) - [Sorry, I'm in a meeting](https://iminafleeting.com/)
 * [2026-10-08, 09:10:42](https://news.ycombinator.com/item?id=50003545) - [Show HN: Proton Drive for Linux](https://oss.lsantos.dev/proton-drive-linux-fs/)
 * [2026-10-07, 19:15:57](https://news.ycombinator.com/item?id=49997481) - [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 * [2026-10-06, 22:10:59](https://news.ycombinator.com/item?id=49984854) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
+* [2026-10-06, 17:07:12](https://news.ycombinator.com/item?id=49981264) - [How to head into VR without wearing a headset](https://www.kyushu-u.ac.jp/en/researches/view/414/)
 * [2026-10-06, 15:44:42](https://news.ycombinator.com/item?id=49980208) - [Communication Between the Compiler, the Build System, and Beyond](https://shrub.industries/words/problem.html)
 
 ## [Archives](archives/index.md)
