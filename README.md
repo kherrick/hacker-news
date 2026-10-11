@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-11, 13:06:36](https://news.ycombinator.com/item?id=50042942) - [How HN: Go-dev-auth zero-dependency authentication library for Go](https://github.com/go-dev-auth/go-dev-auth)
 * [2026-10-11, 13:00:27](https://news.ycombinator.com/item?id=50042896) - [Bot traffic plunged to near 0 following the strike on its Vladimir data center](https://bsky.app/profile/perevaa.bsky.social/post/3mxlm6w2wcs26)
 * [2026-10-11, 12:13:13](https://news.ycombinator.com/item?id=50042425) - [Don't Put Tilde In Your Path](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
 * [2026-10-11, 12:07:22](https://news.ycombinator.com/item?id=50042370) - [Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests](https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html)
@@ -26,7 +27,6 @@
 * [2026-10-09, 15:26:33](https://news.ycombinator.com/item?id=50021899) - [Five months treating bugs like patients and coding agents like a medical team](https://www.cockroachlabs.com/blog/experiment-running-hospital-code/)
 * [2026-10-09, 08:13:44](https://news.ycombinator.com/item?id=50017548) - [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
 * [2026-10-09, 07:29:08](https://news.ycombinator.com/item?id=50017247) - [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger)
-* [2026-10-09, 06:52:49](https://news.ycombinator.com/item?id=50016956) - [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
 * [2026-10-09, 03:58:16](https://news.ycombinator.com/item?id=50015833) - [Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes](https://hangul.ink/blog/hangul-day)
 * [2026-10-08, 02:15:16](https://news.ycombinator.com/item?id=50001234) - [Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)
 * [2026-10-07, 12:30:40](https://news.ycombinator.com/item?id=49991852) - [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
