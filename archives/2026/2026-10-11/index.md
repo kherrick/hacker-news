@@ -19,6 +19,7 @@
 * [2026-10-11, 11:47:29](https://news.ycombinator.com/item?id=50042219) - [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
 * [2026-10-11, 11:39:10](https://news.ycombinator.com/item?id=50042149) - [What driving across Europe costs in tolls, vignettes, bridges and fuel](https://copilot.travel/tolls/europe-2026)
 * [2026-10-11, 11:34:28](https://news.ycombinator.com/item?id=50042107) - [AI is creating a 'human premium' for art created by people](https://www.bbc.com/news/articles/c5vgjm3gk7rzo)
+* [2026-10-11, 11:03:21](https://news.ycombinator.com/item?id=50041873) - [Nicolas Cage says he won't work with Amazon again over AI dispute](https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute)
 * [2026-10-11, 10:47:21](https://news.ycombinator.com/item?id=50041765) - [Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things](https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things)
 * [2026-10-11, 10:37:55](https://news.ycombinator.com/item?id=50041682) - [Nitter: Update Oct 10th seeking funding and legal help](https://nitter.net)
 * [2026-10-11, 10:34:43](https://news.ycombinator.com/item?id=50041667) - [\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)

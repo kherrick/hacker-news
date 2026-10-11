@@ -53,5 +53,6 @@
 * [2026-10-10, 01:37:08](https://news.ycombinator.com/item?id=50028647) - [Decade-old RAM is making a comeback](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
 * [2026-10-10, 00:38:18](https://news.ycombinator.com/item?id=50028283) - [Show HN: Yeah Nah – a BS score for Australian job ads](https://yeahnah.lol/)
 * [2026-10-10, 00:37:07](https://news.ycombinator.com/item?id=50028275) - [REA Reverse – Engineer Anything](https://rea.tools/)
+* [2026-10-10, 00:34:34](https://news.ycombinator.com/item?id=50028264) - [A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis](https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/)
 * [2026-10-10, 00:14:46](https://news.ycombinator.com/item?id=50028176) - [Brockovich AI Datacenter Reporting: AI Data Centers Across the United States](https://www.brockovichdatacenter.com/)
 * [2026-10-10, 00:13:16](https://news.ycombinator.com/item?id=50028162) - [How Strong Is the Strong Force?](https://cerncourier.com/how-strong-is-the-strong-interaction/)
