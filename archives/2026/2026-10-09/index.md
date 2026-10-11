@@ -65,6 +65,7 @@
 * [2026-10-09, 12:26:12](https://news.ycombinator.com/item?id=50019499) - [Reactions to 100 Solutions](https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/)
 * [2026-10-09, 12:21:24](https://news.ycombinator.com/item?id=50019455) - [Iranian campaign planted fake articles in real U.S. publications using ChatGPT](https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/)
 * [2026-10-09, 12:20:55](https://news.ycombinator.com/item?id=50019451) - [The Hetzner Cloud network stack – history and technical overview](https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/)
+* [2026-10-09, 11:53:43](https://news.ycombinator.com/item?id=50019213) - [The Wild West of polyglot docs sites](https://technicalwriting.dev/blog/2026/10/polyglot/index.html)
 * [2026-10-09, 11:40:30](https://news.ycombinator.com/item?id=50019090) - [US proposes $100k charge for international students to do post-graduate work](https://www.nature.com/articles/d41586-026-02921-7)
 * [2026-10-09, 11:36:20](https://news.ycombinator.com/item?id=50019056) - [I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
 * [2026-10-09, 11:20:49](https://news.ycombinator.com/item?id=50018929) - [Plumbers, chains, and famous painters: The history of the pipe operator in R](http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/)
