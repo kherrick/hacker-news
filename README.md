@@ -2,8 +2,8 @@
 
 * [2026-10-11, 21:07:20](https://news.ycombinator.com/item?id=50047825) - [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
 * [2026-10-11, 20:20:52](https://news.ycombinator.com/item?id=50047422) - [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046)
+* [2026-10-11, 20:10:55](https://news.ycombinator.com/item?id=50047323) - [Fetching AMD SEV Reports (With Zig)](https://bschaatsbergen.com/posts/zig-sev-guest/)
 * [2026-10-11, 19:46:40](https://news.ycombinator.com/item?id=50047091) - [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
-* [2026-10-11, 19:44:45](https://news.ycombinator.com/item?id=50047071) - [Artificial Insanity](https://richwhitehouse.com/index.php?postid=78)
 * [2026-10-11, 19:43:32](https://news.ycombinator.com/item?id=50047055) - [Do You Have Pre-2012 Onion Issues?](https://theonion.com/archivehunt/)
 * [2026-10-11, 19:23:07](https://news.ycombinator.com/item?id=50046864) - [The Unreasonable Effectiveness of Vex in NixOS](https://blog.kammel.dev/post/nixos_vex/)
 * [2026-10-11, 18:26:24](https://news.ycombinator.com/item?id=50046241) - [Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)
@@ -24,11 +24,11 @@
 * [2026-10-11, 10:11:27](https://news.ycombinator.com/item?id=50041540) - [IRCv3](https://ircv3.net/)
 * [2026-10-11, 07:34:45](https://news.ycombinator.com/item?id=50040547) - [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
 * [2026-10-11, 06:18:59](https://news.ycombinator.com/item?id=50040276) - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
+* [2026-10-10, 14:56:11](https://news.ycombinator.com/item?id=50033601) - [Safe SIMD in Rust, even on the inside](https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/)
 * [2026-10-10, 14:43:09](https://news.ycombinator.com/item?id=50033486) - [FlowCE: Calculus on your TI-84 Plus CE](https://tommyb3ll.github.io/FlowCE/)
 * [2026-10-10, 12:27:36](https://news.ycombinator.com/item?id=50032253) - [Shape-sensing sheet digitally tracks its own movement as it bends and twists](https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008)
 * [2026-10-10, 01:37:08](https://news.ycombinator.com/item?id=50028647) - [The RAM shortage is bringing back DDR4](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
 * [2026-10-10, 00:34:34](https://news.ycombinator.com/item?id=50028264) - [A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis](https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/)
-* [2026-10-09, 15:32:04](https://news.ycombinator.com/item?id=50021989) - [I guess I'm using WebP now?](https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now)
 * [2026-10-08, 17:08:05](https://news.ycombinator.com/item?id=50008566) - [Akhetonics Photonic Computing: 1,000x Faster CPUs](https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079)
 
 ## [Archives](archives/index.md)
