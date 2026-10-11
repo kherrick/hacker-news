@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 21:07:20](https://news.ycombinator.com/item?id=50047825) - [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
 * [2026-10-11, 20:20:52](https://news.ycombinator.com/item?id=50047422) - [Andrej Karpathy breaks down the capability gap](https://twitter.com/karpathy/status/2109361546505966046)
 * [2026-10-11, 20:05:03](https://news.ycombinator.com/item?id=50047257) - [Cognitive Decline or Sanity Incline?](https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline)
 * [2026-10-11, 19:46:40](https://news.ycombinator.com/item?id=50047091) - [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
