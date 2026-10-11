@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 21:59:48](https://news.ycombinator.com/item?id=50048312) - [Passkeys are a trap. Do not use them](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
+* [2026-10-11, 21:44:24](https://news.ycombinator.com/item?id=50048136) - [An AI agent's $20 Kalshi account, with an exact reward model](https://github.com/mirabilis-agent/lip-ledger)
 * [2026-10-11, 21:07:20](https://news.ycombinator.com/item?id=50047825) - [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
 * [2026-10-11, 20:20:52](https://news.ycombinator.com/item?id=50047422) - [Andrej Karpathy breaks down the capability gap](https://twitter.com/karpathy/status/2109361546505966046)
 * [2026-10-11, 20:10:55](https://news.ycombinator.com/item?id=50047323) - [Fetching AMD SEV Reports (With Zig)](https://bschaatsbergen.com/posts/zig-sev-guest/)

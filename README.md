@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-11, 21:59:48](https://news.ycombinator.com/item?id=50048312) - [Passkeys are a trap. Do not use them](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
+* [2026-10-11, 21:44:24](https://news.ycombinator.com/item?id=50048136) - [An AI agent's $20 Kalshi account, with an exact reward model](https://github.com/mirabilis-agent/lip-ledger)
 * [2026-10-11, 21:07:20](https://news.ycombinator.com/item?id=50047825) - [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
 * [2026-10-11, 20:20:52](https://news.ycombinator.com/item?id=50047422) - [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046)
-* [2026-10-11, 20:10:55](https://news.ycombinator.com/item?id=50047323) - [Fetching AMD SEV Reports (With Zig)](https://bschaatsbergen.com/posts/zig-sev-guest/)
 * [2026-10-11, 19:46:40](https://news.ycombinator.com/item?id=50047091) - [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
 * [2026-10-11, 19:43:32](https://news.ycombinator.com/item?id=50047055) - [Do You Have Pre-2012 Onion Issues?](https://theonion.com/archivehunt/)
 * [2026-10-11, 19:23:07](https://news.ycombinator.com/item?id=50046864) - [The Unreasonable Effectiveness of Vex in NixOS](https://blog.kammel.dev/post/nixos_vex/)
@@ -22,7 +23,6 @@
 * [2026-10-11, 12:01:08](https://news.ycombinator.com/item?id=50042330) - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os)
 * [2026-10-11, 11:47:29](https://news.ycombinator.com/item?id=50042219) - [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
 * [2026-10-11, 10:11:27](https://news.ycombinator.com/item?id=50041540) - [IRCv3](https://ircv3.net/)
-* [2026-10-11, 07:34:45](https://news.ycombinator.com/item?id=50040547) - [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
 * [2026-10-11, 06:18:59](https://news.ycombinator.com/item?id=50040276) - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
 * [2026-10-10, 14:56:11](https://news.ycombinator.com/item?id=50033601) - [Safe SIMD in Rust, even on the inside](https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/)
 * [2026-10-10, 14:43:09](https://news.ycombinator.com/item?id=50033486) - [FlowCE: Calculus on your TI-84 Plus CE](https://tommyb3ll.github.io/FlowCE/)
