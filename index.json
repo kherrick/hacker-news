@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-11, 13:06:36",
+      "https://news.ycombinator.com/item?id=50042942"
+    ],
+    [
+      "How HN: Go-dev-auth zero-dependency authentication library for Go",
+      "https://github.com/go-dev-auth/go-dev-auth"
+    ]
+  ],
+  [
+    [
       "2026-10-11, 13:00:27",
       "https://news.ycombinator.com/item?id=50042896"
     ],
@@ -257,16 +267,6 @@
     [
       "Nix wrote half of my debugger",
       "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 06:52:49",
-      "https://news.ycombinator.com/item?id=50016956"
-    ],
-    [
-      "Mxc: Microsoft Execution Containers version 1.0.0",
-      "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/"
     ]
   ],
   [
