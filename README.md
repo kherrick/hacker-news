@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-11, 13:00:27](https://news.ycombinator.com/item?id=50042896) - [Bot traffic plunged to near 0 following the strike on its Vladimir data center](https://bsky.app/profile/perevaa.bsky.social/post/3mxlm6w2wcs26)
 * [2026-10-11, 12:13:13](https://news.ycombinator.com/item?id=50042425) - [Don't Put Tilde In Your Path](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
 * [2026-10-11, 12:07:22](https://news.ycombinator.com/item?id=50042370) - [Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests](https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html)
 * [2026-10-11, 12:06:22](https://news.ycombinator.com/item?id=50042362) - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
@@ -16,7 +17,6 @@
 * [2026-10-10, 22:50:10](https://news.ycombinator.com/item?id=50037949) - [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
 * [2026-10-10, 20:31:50](https://news.ycombinator.com/item?id=50036864) - [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
 * [2026-10-10, 15:47:01](https://news.ycombinator.com/item?id=50034081) - [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
-* [2026-10-10, 14:27:09](https://news.ycombinator.com/item?id=50033357) - [Unikernels were hard. key word: were](https://ghuntley.com/unikernels/)
 * [2026-10-10, 14:21:12](https://news.ycombinator.com/item?id=50033300) - [Compression and Concatenation on the Web](https://theconsensus.dev/p/2026/10/04/compression-and-concatenation-on-the-web.html?focus=1)
 * [2026-10-10, 10:52:09](https://news.ycombinator.com/item?id=50031614) - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
 * [2026-10-10, 09:55:43](https://news.ycombinator.com/item?id=50031289) - [When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64](https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/)

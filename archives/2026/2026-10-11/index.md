@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 13:00:27](https://news.ycombinator.com/item?id=50042896) - [Bot traffic plunged to near 0 following the strike on its Vladimir data center](https://bsky.app/profile/perevaa.bsky.social/post/3mxlm6w2wcs26)
 * [2026-10-11, 12:13:13](https://news.ycombinator.com/item?id=50042425) - [Don't Put Tilde In Your Path](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
 * [2026-10-11, 12:07:22](https://news.ycombinator.com/item?id=50042370) - [Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests](https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html)
 * [2026-10-11, 12:06:22](https://news.ycombinator.com/item?id=50042362) - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
