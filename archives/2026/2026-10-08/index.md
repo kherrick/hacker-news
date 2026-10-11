@@ -67,6 +67,7 @@
 * [2026-10-08, 05:56:31](https://news.ycombinator.com/item?id=50002215) - [Clojure in the age of language models](https://yogthos.net/posts/2026-10-07-clojure-llms.html)
 * [2026-10-08, 05:39:23](https://news.ycombinator.com/item?id=50002114) - [Smart contracts: Ship the parachute in v1](https://medium.com/@giladha/ship-the-parachute-in-v1-why-upgradeability-and-disaster-recovery-are-not-v2-features-88191f35ba1c)
 * [2026-10-08, 05:14:14](https://news.ycombinator.com/item?id=50002008) - [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
+* [2026-10-08, 02:15:16](https://news.ycombinator.com/item?id=50001234) - [Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)
 * [2026-10-08, 01:33:17](https://news.ycombinator.com/item?id=50000985) - [US man given prison sentence for bot-farming music streams](https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/)
 * [2026-10-08, 00:46:00](https://news.ycombinator.com/item?id=50000676) - [Port of the TypeScript compiler, checker and lsp to Rust, by LLM](https://github.com/pingdotgg/ts-rust)
 * [2026-10-08, 00:14:48](https://news.ycombinator.com/item?id=50000488) - [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
