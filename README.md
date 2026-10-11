@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-11, 17:56:13](https://news.ycombinator.com/item?id=50045895) - [We're unlocking the biggest mysteries of the clitoris](https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2)
 * [2026-10-11, 17:40:42](https://news.ycombinator.com/item?id=50045735) - [YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit](https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns)
 * [2026-10-11, 16:58:22](https://news.ycombinator.com/item?id=50045273) - [apsw: Another Python SQLite Wrapper](https://github.com/rogerbinns/apsw)
 * [2026-10-11, 16:03:58](https://news.ycombinator.com/item?id=50044715) - [How to Build Wealth as a Career Person](https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/)
@@ -23,7 +24,6 @@
 * [2026-10-10, 04:12:26](https://news.ycombinator.com/item?id=50029487) - [The Lightbulb Computer](https://lightbulbcomputer.com/)
 * [2026-10-10, 01:37:08](https://news.ycombinator.com/item?id=50028647) - [The RAM shortage is bringing back DDR4](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
 * [2026-10-10, 00:34:34](https://news.ycombinator.com/item?id=50028264) - [A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis](https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/)
-* [2026-10-09, 15:26:33](https://news.ycombinator.com/item?id=50021899) - [Five months treating bugs like patients and coding agents like a medical team](https://www.cockroachlabs.com/blog/experiment-running-hospital-code/)
 * [2026-10-09, 11:53:43](https://news.ycombinator.com/item?id=50019213) - [The Wild West of polyglot docs sites](https://technicalwriting.dev/blog/2026/10/polyglot/index.html)
 * [2026-10-09, 11:20:49](https://news.ycombinator.com/item?id=50018929) - [Plumbers, chains, and famous painters: The history of the pipe operator in R](http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/)
 * [2026-10-09, 08:13:44](https://news.ycombinator.com/item?id=50017548) - [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
