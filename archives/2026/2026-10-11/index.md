@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 16:06:02](https://news.ycombinator.com/item?id=50044733) - [The Corporate Happiness Treadmill and the Case for Doing Less](https://0xff.nu/corp-burnout/)
 * [2026-10-11, 15:21:58](https://news.ycombinator.com/item?id=50044272) - [How I reverse engineered a commercial spatial audio effect](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/)
 * [2026-10-11, 14:28:39](https://news.ycombinator.com/item?id=50043682) - [Internal files add to evidence of an ExxonMobil climate deception campaign](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
 * [2026-10-11, 14:21:31](https://news.ycombinator.com/item?id=50043603) - [Why Texas Is Making Data Centers Wait](https://a16z.com/why-texas-is-making-data-centers-wait/)
