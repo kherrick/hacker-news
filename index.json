@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2026-10-11, 02:02:38",
-      "https://news.ycombinator.com/item?id=50039092"
-    ],
-    [
-      "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "https://momo5502.com/posts/2026-10-09-game-decompilation/"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 00:45:49",
       "https://news.ycombinator.com/item?id=50038623"
     ],
@@ -267,6 +257,16 @@
     [
       "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
       "https://hangul.ink/blog/hangul-day"
+    ]
+  ],
+  [
+    [
+      "2026-10-08, 15:23:19",
+      "https://news.ycombinator.com/item?id=50006930"
+    ],
+    [
+      "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
+      "https://github.com/moritzwilksch/diffle"
     ]
   ],
   [
