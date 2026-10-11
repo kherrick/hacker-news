@@ -32,6 +32,7 @@
 * [2026-10-11, 14:28:39](https://news.ycombinator.com/item?id=50043682) - [Internal files add to evidence of an ExxonMobil climate deception campaign](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
 * [2026-10-11, 14:21:31](https://news.ycombinator.com/item?id=50043603) - [Why Texas Is Making Data Centers Wait](https://a16z.com/why-texas-is-making-data-centers-wait/)
 * [2026-10-11, 13:28:03](https://news.ycombinator.com/item?id=50043110) - [Open-Source Microsoft Office Excel, PowerPoint, and Word Replications](https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next)
+* [2026-10-11, 13:17:52](https://news.ycombinator.com/item?id=50043030) - [SQLAlchemy 2.1.0 Released](https://www.sqlalchemy.org/blog/2026/09/24/sqlalchemy-2.1.0-released/)
 * [2026-10-11, 13:16:45](https://news.ycombinator.com/item?id=50043026) - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 * [2026-10-11, 13:06:36](https://news.ycombinator.com/item?id=50042942) - [How HN: Go-dev-auth zero-dependency authentication library for Go](https://github.com/go-dev-auth/go-dev-auth)
 * [2026-10-11, 13:00:27](https://news.ycombinator.com/item?id=50042896) - [Bot traffic plunged to near 0 following the strike on its Vladimir data center](https://bsky.app/profile/perevaa.bsky.social/post/3mxlm6w2wcs26)
