@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-11, 17:40:42](https://news.ycombinator.com/item?id=50045735) - [YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit](https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns)
 * [2026-10-11, 16:58:22](https://news.ycombinator.com/item?id=50045273) - [apsw: Another Python SQLite Wrapper](https://github.com/rogerbinns/apsw)
 * [2026-10-11, 16:03:58](https://news.ycombinator.com/item?id=50044715) - [How to Build Wealth as a Career Person](https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/)
 * [2026-10-11, 15:21:58](https://news.ycombinator.com/item?id=50044272) - [How I reverse engineered a commercial spatial audio effect](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/)
@@ -26,8 +27,7 @@
 * [2026-10-09, 11:53:43](https://news.ycombinator.com/item?id=50019213) - [The Wild West of polyglot docs sites](https://technicalwriting.dev/blog/2026/10/polyglot/index.html)
 * [2026-10-09, 11:20:49](https://news.ycombinator.com/item?id=50018929) - [Plumbers, chains, and famous painters: The history of the pipe operator in R](http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/)
 * [2026-10-09, 08:13:44](https://news.ycombinator.com/item?id=50017548) - [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
-* [2026-10-09, 07:29:08](https://news.ycombinator.com/item?id=50017247) - [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger)
-* [2026-10-09, 03:58:16](https://news.ycombinator.com/item?id=50015833) - [Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes](https://hangul.ink/blog/hangul-day)
+* [2026-10-08, 17:08:05](https://news.ycombinator.com/item?id=50008566) - [Akhetonics Photonic Computing: 1,000x Faster CPUs](https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079)
 * [2026-10-08, 02:15:16](https://news.ycombinator.com/item?id=50001234) - [Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)
 * [2026-10-07, 12:30:40](https://news.ycombinator.com/item?id=49991852) - [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
 

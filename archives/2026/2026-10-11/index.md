@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 17:40:42](https://news.ycombinator.com/item?id=50045735) - [YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit](https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns)
 * [2026-10-11, 17:18:21](https://news.ycombinator.com/item?id=50045480) - [Why we're watching these climate tech companies](https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/)
 * [2026-10-11, 16:59:24](https://news.ycombinator.com/item?id=50045288) - [Why hasn't SpaceX, worth $2T, paid this Bay Area chef the $70K it owes him?](https://www.sfchronicle.com/food/restaurants/article/spacex-stateline-napa-late-payment-22463945.php)
 * [2026-10-11, 16:58:22](https://news.ycombinator.com/item?id=50045273) - [apsw: Another Python SQLite Wrapper](https://github.com/rogerbinns/apsw)
