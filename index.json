@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-10-11, 12:13:13",
+      "https://news.ycombinator.com/item?id=50042425"
+    ],
+    [
+      "Don't Put Tilde In Your Path",
+      "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 12:07:22",
+      "https://news.ycombinator.com/item?id=50042370"
+    ],
+    [
+      "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",
+      "https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 12:06:22",
+      "https://news.ycombinator.com/item?id=50042362"
+    ],
+    [
+      "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "https://verdagon.dev/blog/valen-group-borrowing"
+    ]
+  ],
+  [
+    [
       "2026-10-11, 12:01:08",
       "https://news.ycombinator.com/item?id=50042330"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2026-10-11, 07:53:42",
-      "https://news.ycombinator.com/item?id=50040625"
-    ],
-    [
-      "I wish you the best in the Offline",
-      "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 07:34:45",
       "https://news.ycombinator.com/item?id=50040547"
     ],
@@ -151,6 +171,16 @@
   ],
   [
     [
+      "2026-10-10, 14:21:12",
+      "https://news.ycombinator.com/item?id=50033300"
+    ],
+    [
+      "Compression and Concatenation on the Web",
+      "https://theconsensus.dev/p/2026/10/04/compression-and-concatenation-on-the-web.html?focus=1"
+    ]
+  ],
+  [
+    [
       "2026-10-10, 10:52:09",
       "https://news.ycombinator.com/item?id=50031614"
     ],
@@ -197,26 +227,6 @@
     [
       "The Lightbulb Computer",
       "https://lightbulbcomputer.com/"
-    ]
-  ],
-  [
-    [
-      "2026-10-10, 01:37:08",
-      "https://news.ycombinator.com/item?id=50028647"
-    ],
-    [
-      "Decade-old RAM is making a comeback",
-      "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 18:31:50",
-      "https://news.ycombinator.com/item?id=50024805"
-    ],
-    [
-      "Deterministic Simulation Testing in Celld",
-      "https://celld.dev/docs/engineering/deterministic-simulation-testing/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "2D Vehicles",
       "https://patkerr.co.uk/2d-vehicles/"
-    ]
-  ],
-  [
-    [
-      "2026-10-06, 21:22:44",
-      "https://news.ycombinator.com/item?id=49984349"
-    ],
-    [
-      "OpenSCAD the Programmers Solid 3D CAD Modeller",
-      "https://openscad.org/"
     ]
   ]
 ]
