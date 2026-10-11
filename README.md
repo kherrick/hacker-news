@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-11, 21:59:48](https://news.ycombinator.com/item?id=50048312) - [Passkeys are a trap. Do not use them](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
-* [2026-10-11, 21:44:24](https://news.ycombinator.com/item?id=50048136) - [An AI agent's $20 Kalshi account, with an exact reward model](https://github.com/mirabilis-agent/lip-ledger)
 * [2026-10-11, 21:07:20](https://news.ycombinator.com/item?id=50047825) - [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
 * [2026-10-11, 20:20:52](https://news.ycombinator.com/item?id=50047422) - [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046)
+* [2026-10-11, 20:10:55](https://news.ycombinator.com/item?id=50047323) - [Fetching AMD SEV Reports (With Zig)](https://bschaatsbergen.com/posts/zig-sev-guest/)
 * [2026-10-11, 19:46:40](https://news.ycombinator.com/item?id=50047091) - [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
 * [2026-10-11, 19:43:32](https://news.ycombinator.com/item?id=50047055) - [So, You’d Like To Sell Your Print Issues Of The Onion?](https://theonion.com/archivehunt/)
 * [2026-10-11, 19:23:07](https://news.ycombinator.com/item?id=50046864) - [The Unreasonable Effectiveness of Vex in NixOS](https://blog.kammel.dev/post/nixos_vex/)
