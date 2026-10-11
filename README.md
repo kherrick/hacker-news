@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-11, 14:28:39](https://news.ycombinator.com/item?id=50043682) - [Internal files add to evidence of an ExxonMobil climate deception campaign](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
+* [2026-10-11, 14:21:31](https://news.ycombinator.com/item?id=50043603) - [Why Texas Is Making Data Centers Wait](https://a16z.com/why-texas-is-making-data-centers-wait/)
 * [2026-10-11, 13:28:03](https://news.ycombinator.com/item?id=50043110) - [Open-Source Microsoft Office Excel, PowerPoint, and Word Replications](https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next)
 * [2026-10-11, 13:16:45](https://news.ycombinator.com/item?id=50043026) - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 * [2026-10-11, 12:13:13](https://news.ycombinator.com/item?id=50042425) - [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
@@ -26,7 +27,6 @@
 * [2026-10-09, 11:20:49](https://news.ycombinator.com/item?id=50018929) - [Plumbers, chains, and famous painters: The history of the pipe operator in R](http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/)
 * [2026-10-09, 08:13:44](https://news.ycombinator.com/item?id=50017548) - [How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)
 * [2026-10-09, 07:29:08](https://news.ycombinator.com/item?id=50017247) - [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger)
-* [2026-10-09, 06:52:49](https://news.ycombinator.com/item?id=50016956) - [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
 * [2026-10-09, 03:58:16](https://news.ycombinator.com/item?id=50015833) - [Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes](https://hangul.ink/blog/hangul-day)
 * [2026-10-08, 02:15:16](https://news.ycombinator.com/item?id=50001234) - [Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)
 * [2026-10-07, 12:30:40](https://news.ycombinator.com/item?id=49991852) - [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
