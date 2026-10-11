@@ -25,11 +25,11 @@
 * [2026-10-11, 10:11:27](https://news.ycombinator.com/item?id=50041540) - [IRCv3](https://ircv3.net/)
 * [2026-10-11, 06:18:59](https://news.ycombinator.com/item?id=50040276) - [LineageOS 24](https://lineageos.org/Changelog-32/)
 * [2026-10-11, 02:02:38](https://news.ycombinator.com/item?id=50039092) - [500B tokens later: Letting AI agents decompile a first-person shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+* [2026-10-10, 19:02:35](https://news.ycombinator.com/item?id=50036023) - [Cbirds: A flock of birds in your terminal](https://github.com/clainstone/cbirds)
 * [2026-10-10, 14:56:11](https://news.ycombinator.com/item?id=50033601) - [Safe SIMD in Rust, even on the inside](https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/)
 * [2026-10-10, 14:43:09](https://news.ycombinator.com/item?id=50033486) - [FlowCE: Calculus on your TI-84 Plus CE](https://tommyb3ll.github.io/FlowCE/)
 * [2026-10-10, 00:34:34](https://news.ycombinator.com/item?id=50028264) - [A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis](https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/)
 * [2026-10-09, 15:32:04](https://news.ycombinator.com/item?id=50021989) - [I guess I'm using WebP now?](https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now)
-* [2026-10-08, 17:08:05](https://news.ycombinator.com/item?id=50008566) - [Akhetonics Photonic Computing: 1,000x Faster CPUs](https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079)
 
 ## [Archives](archives/index.md)
 
