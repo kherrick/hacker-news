@@ -27,6 +27,7 @@
 * [2026-10-10, 15:04:38](https://news.ycombinator.com/item?id=50033678) - [Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal](https://wsj.com/tech/ai/tom-brown-athropic-669005ad)
 * [2026-10-10, 15:00:36](https://news.ycombinator.com/item?id=50033638) - [FDA may allow some toxic chemicals to be added to food without safety review](https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis)
 * [2026-10-10, 14:46:16](https://news.ycombinator.com/item?id=50033517) - [My personal AI agent posted my bank details on company Slack](https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10)
+* [2026-10-10, 14:43:09](https://news.ycombinator.com/item?id=50033486) - [FlowCE: Calculus on your TI-84 Plus CE](https://tommyb3ll.github.io/FlowCE/)
 * [2026-10-10, 14:32:50](https://news.ycombinator.com/item?id=50033407) - [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
 * [2026-10-10, 14:27:09](https://news.ycombinator.com/item?id=50033357) - [Unikernels were hard. key word: were](https://ghuntley.com/unikernels/)
 * [2026-10-10, 14:21:12](https://news.ycombinator.com/item?id=50033300) - [Compression and Concatenation on the Web](https://theconsensus.dev/p/2026/10/04/compression-and-concatenation-on-the-web.html?focus=1)

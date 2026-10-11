@@ -24,11 +24,11 @@
 * [2026-10-11, 06:18:59](https://news.ycombinator.com/item?id=50040276) - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
 * [2026-10-10, 22:50:10](https://news.ycombinator.com/item?id=50037949) - [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
 * [2026-10-10, 20:31:50](https://news.ycombinator.com/item?id=50036864) - [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
+* [2026-10-10, 14:43:09](https://news.ycombinator.com/item?id=50033486) - [FlowCE: Calculus on your TI-84 Plus CE](https://tommyb3ll.github.io/FlowCE/)
 * [2026-10-10, 12:27:36](https://news.ycombinator.com/item?id=50032253) - [Shape-sensing sheet digitally tracks its own movement as it bends and twists](https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008)
 * [2026-10-10, 01:37:08](https://news.ycombinator.com/item?id=50028647) - [The RAM shortage is bringing back DDR4](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
 * [2026-10-10, 00:34:34](https://news.ycombinator.com/item?id=50028264) - [A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis](https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/)
 * [2026-10-09, 15:32:04](https://news.ycombinator.com/item?id=50021989) - [I guess I'm using WebP now?](https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now)
-* [2026-10-09, 11:20:49](https://news.ycombinator.com/item?id=50018929) - [Plumbers, chains, and famous painters: The history of the pipe operator in R](http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/)
 * [2026-10-08, 17:08:05](https://news.ycombinator.com/item?id=50008566) - [Akhetonics Photonic Computing: 1,000x Faster CPUs](https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079)
 
 ## [Archives](archives/index.md)
