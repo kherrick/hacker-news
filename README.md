@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-11, 03:41:53](https://news.ycombinator.com/item?id=50039627) - [Satya Nadella says we should assume all AI models are 'compromised'](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
+* [2026-10-11, 03:13:46](https://news.ycombinator.com/item?id=50039504) - [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app)
 * [2026-10-11, 02:02:38](https://news.ycombinator.com/item?id=50039092) - [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
 * [2026-10-11, 00:46:48](https://news.ycombinator.com/item?id=50038634) - [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)
 * [2026-10-11, 00:45:49](https://news.ycombinator.com/item?id=50038623) - [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
@@ -13,7 +15,6 @@
 * [2026-10-10, 10:52:09](https://news.ycombinator.com/item?id=50031614) - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
 * [2026-10-10, 05:22:30](https://news.ycombinator.com/item?id=50029830) - [Food processing influences metabolism and brain activity](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)
 * [2026-10-10, 04:12:26](https://news.ycombinator.com/item?id=50029487) - [The Lightbulb Computer](https://lightbulbcomputer.com/)
-* [2026-10-10, 03:02:47](https://news.ycombinator.com/item?id=50029123) - [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
 * [2026-10-09, 22:14:40](https://news.ycombinator.com/item?id=50027257) - [Recent AI models struggled to match a human algorithmic innovation](https://epoch.ai/publications/innovationeval)
 * [2026-10-09, 18:31:50](https://news.ycombinator.com/item?id=50024805) - [Deterministic Simulation Testing in Celld](https://celld.dev/docs/engineering/deterministic-simulation-testing/)
 * [2026-10-09, 17:52:07](https://news.ycombinator.com/item?id=50024242) - [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart)
@@ -27,7 +28,6 @@
 * [2026-10-08, 02:15:16](https://news.ycombinator.com/item?id=50001234) - [Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)
 * [2026-10-07, 19:15:57](https://news.ycombinator.com/item?id=49997481) - [Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 * [2026-10-07, 12:30:40](https://news.ycombinator.com/item?id=49991852) - [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
-* [2026-10-07, 01:44:59](https://news.ycombinator.com/item?id=49986919) - [Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years](https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html)
 * [2026-10-06, 21:22:44](https://news.ycombinator.com/item?id=49984349) - [OpenSCAD the Programmers Solid 3D CAD Modeller](https://openscad.org/)
 * [2026-10-06, 16:37:21](https://news.ycombinator.com/item?id=49980880) - [Grieving the loss of details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
 

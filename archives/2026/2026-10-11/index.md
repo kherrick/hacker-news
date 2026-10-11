@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 03:41:53](https://news.ycombinator.com/item?id=50039627) - [Satya Nadella says we should assume all AI models are 'compromised'](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
+* [2026-10-11, 03:13:46](https://news.ycombinator.com/item?id=50039504) - [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app)
 * [2026-10-11, 02:02:38](https://news.ycombinator.com/item?id=50039092) - [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
 * [2026-10-11, 01:17:22](https://news.ycombinator.com/item?id=50038865) - [Anthropic asks users to stop being mean to Claude](https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218)
 * [2026-10-11, 00:47:37](https://news.ycombinator.com/item?id=50038640) - [Generative AI scandal has come to one of Nikon's competitions](https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/)
