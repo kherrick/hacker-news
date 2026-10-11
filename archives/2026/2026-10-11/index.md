@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 20:05:03](https://news.ycombinator.com/item?id=50047257) - [Cognitive Decline or Sanity Incline?](https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline)
+* [2026-10-11, 19:46:40](https://news.ycombinator.com/item?id=50047091) - [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
 * [2026-10-11, 19:43:32](https://news.ycombinator.com/item?id=50047055) - [Be The Onion's Hero for Once](https://mailchi.mp/email.theonion.com/archivehunt)
+* [2026-10-11, 19:23:07](https://news.ycombinator.com/item?id=50046864) - [The Unreasonable Effectiveness of Vex in NixOS](https://blog.kammel.dev/post/nixos_vex/)
 * [2026-10-11, 18:26:24](https://news.ycombinator.com/item?id=50046241) - [Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)
 * [2026-10-11, 18:16:54](https://news.ycombinator.com/item?id=50046117) - [Anthropic is out with new nonsense about Claude](https://dair-community.social/@emilymbender/117412868905734653)
 * [2026-10-11, 18:04:47](https://news.ycombinator.com/item?id=50045984) - [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
