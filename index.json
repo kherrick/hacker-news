@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-10-11, 00:46:48",
+      "https://news.ycombinator.com/item?id=50038634"
+    ],
+    [
+      "WallHop – 12ft.io is gone, so I built a replacement",
+      "https://wallhop.io/"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 00:20:23",
+      "https://news.ycombinator.com/item?id=50038458"
+    ],
+    [
+      "Ask HN: Why aren't Americans rising up against tipping?",
+      "https://news.ycombinator.com/item?id=50038458"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 00:17:30",
+      "https://news.ycombinator.com/item?id=50038440"
+    ],
+    [
+      "A minimal Rust TUI for managing GitHub repos and branches",
+      "https://github.com/jorgeandrecastro/github-workflow"
+    ]
+  ],
+  [
+    [
       "2026-10-10, 22:50:10",
       "https://news.ycombinator.com/item?id=50037949"
     ],
@@ -21,16 +51,6 @@
   ],
   [
     [
-      "2026-10-10, 19:12:55",
-      "https://news.ycombinator.com/item?id=50036119"
-    ],
-    [
-      "Takeshi's Castle",
-      "https://en.wikipedia.org/wiki/Takeshi%27s_Castle"
-    ]
-  ],
-  [
-    [
       "2026-10-10, 18:48:35",
       "https://news.ycombinator.com/item?id=50035886"
     ],
@@ -47,16 +67,6 @@
     [
       "Why DuckDB 2.0 is faster",
       "https://motherduck.com/blog/why-duckdb-20-is-faster/"
-    ]
-  ],
-  [
-    [
-      "2026-10-10, 15:51:39",
-      "https://news.ycombinator.com/item?id=50034123"
-    ],
-    [
-      "MrBeast 'spends millions reverse engineering the algorithms on each platform'",
-      "https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-10-10, 00:13:16",
-      "https://news.ycombinator.com/item?id=50028162"
-    ],
-    [
-      "How strong is the strong interaction?",
-      "https://cerncourier.com/how-strong-is-the-strong-interaction/"
-    ]
-  ],
-  [
-    [
       "2026-10-09, 22:14:40",
       "https://news.ycombinator.com/item?id=50027257"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-10-09, 06:21:36",
-      "https://news.ycombinator.com/item?id=50016696"
+      "2026-10-08, 15:23:19",
+      "https://news.ycombinator.com/item?id=50006930"
     ],
     [
-      "Whooping Cranes Learned to Migrate by Following Costumed Pilots",
-      "https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration"
+      "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
+      "https://github.com/moritzwilksch/diffle"
     ]
   ],
   [
