@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 22:45:40](https://news.ycombinator.com/item?id=50048768) - [Google Data Centers around the world](https://datacenters.google/locations/)
+* [2026-10-11, 22:33:39](https://news.ycombinator.com/item?id=50048642) - [Fingerprints Are the New Cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
+* [2026-10-11, 22:33:30](https://news.ycombinator.com/item?id=50048638) - [Google is illegaly cutting forest to build data centers](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment)
 * [2026-10-11, 22:22:10](https://news.ycombinator.com/item?id=50048522) - [Recursive self-improvement through collective intelligence](https://pub.sakana.ai/mass/)
 * [2026-10-11, 21:59:48](https://news.ycombinator.com/item?id=50048312) - [Passkeys are a trap. Do not use them](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
 * [2026-10-11, 21:44:24](https://news.ycombinator.com/item?id=50048136) - [An AI agent's $20 Kalshi account, with an exact reward model](https://github.com/mirabilis-agent/lip-ledger)
