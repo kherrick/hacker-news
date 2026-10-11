@@ -14,6 +14,7 @@
 * [2026-10-11, 03:21:07](https://news.ycombinator.com/item?id=50039536) - [GameBoy on E-Paper ESP32 at 30FPS [video]](https://www.youtube.com/watch?v=XiZmM6hwwAU)
 * [2026-10-11, 03:13:46](https://news.ycombinator.com/item?id=50039504) - [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app)
 * [2026-10-11, 02:02:38](https://news.ycombinator.com/item?id=50039092) - [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+* [2026-10-11, 01:56:16](https://news.ycombinator.com/item?id=50039063) - [European Alternatives](https://buy-european.net/en/alternatives)
 * [2026-10-11, 01:56:04](https://news.ycombinator.com/item?id=50039062) - [A plastic once thought harmless may be fueling fatty liver disease](https://www.sciencedaily.com/releases/2026/10/261008102718.htm)
 * [2026-10-11, 01:17:22](https://news.ycombinator.com/item?id=50038865) - [Anthropic asks users to stop being mean to Claude](https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218)
 * [2026-10-11, 00:47:37](https://news.ycombinator.com/item?id=50038640) - [Generative AI scandal has come to one of Nikon's competitions](https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/)

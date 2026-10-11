@@ -23,6 +23,7 @@
 * [2026-10-08, 18:12:49](https://news.ycombinator.com/item?id=50009654) - [Serverless Horrors $10,811.41](https://serverlesshorrors.com/all/cloudflare-108k/)
 * [2026-10-08, 18:11:52](https://news.ycombinator.com/item?id=50009634) - [Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked](https://pocketty.app/)
 * [2026-10-08, 18:08:31](https://news.ycombinator.com/item?id=50009580) - [Show HN: Artvinto – Vintage posters and fine art prints](https://www.artvinto.com)
+* [2026-10-08, 18:00:03](https://news.ycombinator.com/item?id=50009451) - [The Marriage That Captures a High Point of American Art](https://www.theatlantic.com/culture/2026/10/jackson-pollock-lee-krasner-met-review/688916)
 * [2026-10-08, 17:51:49](https://news.ycombinator.com/item?id=50009295) - [Theranos.World](https://www.theranos.world/)
 * [2026-10-08, 17:39:26](https://news.ycombinator.com/item?id=50009066) - [Scaling and benchmarking a critical message bus using a new indexing strategy](https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/)
 * [2026-10-08, 17:15:57](https://news.ycombinator.com/item?id=50008685) - [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
