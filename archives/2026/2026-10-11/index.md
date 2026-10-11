@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 20:20:52](https://news.ycombinator.com/item?id=50047422) - [Andrej Karpathy breaks down the capability gap](https://twitter.com/karpathy/status/2109361546505966046)
 * [2026-10-11, 20:05:03](https://news.ycombinator.com/item?id=50047257) - [Cognitive Decline or Sanity Incline?](https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline)
 * [2026-10-11, 19:46:40](https://news.ycombinator.com/item?id=50047091) - [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
 * [2026-10-11, 19:44:45](https://news.ycombinator.com/item?id=50047071) - [Artificial Insanity](https://richwhitehouse.com/index.php?postid=78)
