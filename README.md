@@ -2,6 +2,7 @@
 
 * [2026-10-11, 20:05:03](https://news.ycombinator.com/item?id=50047257) - [Cognitive Decline or Sanity Incline?](https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline)
 * [2026-10-11, 19:46:40](https://news.ycombinator.com/item?id=50047091) - [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
+* [2026-10-11, 19:44:45](https://news.ycombinator.com/item?id=50047071) - [Artificial Insanity](https://richwhitehouse.com/index.php?postid=78)
 * [2026-10-11, 19:43:32](https://news.ycombinator.com/item?id=50047055) - [Be The Onion's Hero for Once](https://mailchi.mp/email.theonion.com/archivehunt)
 * [2026-10-11, 19:23:07](https://news.ycombinator.com/item?id=50046864) - [The Unreasonable Effectiveness of Vex in NixOS](https://blog.kammel.dev/post/nixos_vex/)
 * [2026-10-11, 18:26:24](https://news.ycombinator.com/item?id=50046241) - [Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)
@@ -9,7 +10,6 @@
 * [2026-10-11, 18:01:16](https://news.ycombinator.com/item?id=50045946) - [NYC's \"Click to Cancel\" rule is now in effect](https://www.nyc.gov/main/click-to-cancel)
 * [2026-10-11, 16:58:22](https://news.ycombinator.com/item?id=50045273) - [apsw: Another Python SQLite Wrapper](https://github.com/rogerbinns/apsw)
 * [2026-10-11, 16:31:37](https://news.ycombinator.com/item?id=50044989) - [Playgrnd – tiny tools for making weird, beautiful things](https://www.playgrnd.tools/)
-* [2026-10-11, 16:03:58](https://news.ycombinator.com/item?id=50044715) - [How to Build Wealth as a Career Person](https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/)
 * [2026-10-11, 15:21:58](https://news.ycombinator.com/item?id=50044272) - [How I reverse engineered a commercial spatial audio effect](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/)
 * [2026-10-11, 14:29:07](https://news.ycombinator.com/item?id=50043689) - [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
 * [2026-10-11, 13:16:45](https://news.ycombinator.com/item?id=50043026) - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
