@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-11, 11:34:28",
+      "https://news.ycombinator.com/item?id=50042107"
+    ],
+    [
+      "AI is creating a 'human premium' for art created by people",
+      "https://www.bbc.com/news/articles/c5vgjm3gk7rzo"
+    ]
+  ],
+  [
+    [
       "2026-10-11, 10:37:55",
       "https://news.ycombinator.com/item?id=50041682"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2026-10-11, 03:21:07",
-      "https://news.ycombinator.com/item?id=50039536"
-    ],
-    [
-      "GameBoy on E-Paper ESP32 at 30FPS [video]",
-      "https://www.youtube.com/watch?v=XiZmM6hwwAU"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 02:02:38",
       "https://news.ycombinator.com/item?id=50039092"
     ],
@@ -147,6 +147,16 @@
     [
       "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "https://github.com/rociiu/talorys"
+    ]
+  ],
+  [
+    [
+      "2026-10-10, 09:55:43",
+      "https://news.ycombinator.com/item?id=50031289"
+    ],
+    [
+      "When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64",
+      "https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
       "https://hangul.ink/blog/hangul-day"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 15:23:19",
-      "https://news.ycombinator.com/item?id=50006930"
-    ],
-    [
-      "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
-      "https://github.com/moritzwilksch/diffle"
     ]
   ],
   [
