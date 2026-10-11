@@ -7,6 +7,7 @@
 * [2026-10-11, 10:47:21](https://news.ycombinator.com/item?id=50041765) - [Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things](https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things)
 * [2026-10-11, 10:37:55](https://news.ycombinator.com/item?id=50041682) - [Nitter: Update Oct 10th seeking funding and legal help](https://nitter.net)
 * [2026-10-11, 10:34:43](https://news.ycombinator.com/item?id=50041667) - [\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
+* [2026-10-11, 10:27:53](https://news.ycombinator.com/item?id=50041619) - [Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter](https://radar.cloudflare.com/bots/as13238?dateRange=7d)
 * [2026-10-11, 10:11:27](https://news.ycombinator.com/item?id=50041540) - [IRCv3](https://ircv3.net/)
 * [2026-10-11, 07:53:42](https://news.ycombinator.com/item?id=50040625) - [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
 * [2026-10-11, 07:34:45](https://news.ycombinator.com/item?id=50040547) - [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
