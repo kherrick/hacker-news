@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-11, 20:05:03](https://news.ycombinator.com/item?id=50047257) - [Cognitive Decline or Sanity Incline?](https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline)
 * [2026-10-11, 19:46:40](https://news.ycombinator.com/item?id=50047091) - [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
 * [2026-10-11, 19:44:45](https://news.ycombinator.com/item?id=50047071) - [Artificial Insanity](https://richwhitehouse.com/index.php?postid=78)
 * [2026-10-11, 19:43:32](https://news.ycombinator.com/item?id=50047055) - [Be The Onion's Hero for Once](https://mailchi.mp/email.theonion.com/archivehunt)
@@ -29,6 +28,7 @@
 * [2026-10-10, 01:37:08](https://news.ycombinator.com/item?id=50028647) - [The RAM shortage is bringing back DDR4](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
 * [2026-10-10, 00:34:34](https://news.ycombinator.com/item?id=50028264) - [A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis](https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/)
 * [2026-10-09, 15:32:04](https://news.ycombinator.com/item?id=50021989) - [I guess I'm using WebP now?](https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now)
+* [2026-10-09, 11:20:49](https://news.ycombinator.com/item?id=50018929) - [Plumbers, chains, and famous painters: The history of the pipe operator in R](http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/)
 * [2026-10-08, 17:08:05](https://news.ycombinator.com/item?id=50008566) - [Akhetonics Photonic Computing: 1,000x Faster CPUs](https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079)
 
 ## [Archives](archives/index.md)
