@@ -22,6 +22,7 @@
 * [2026-10-09, 19:50:16](https://news.ycombinator.com/item?id=50025767) - [open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI](https://codeberg.org/ethical-foss/open-slopware)
 * [2026-10-09, 18:39:47](https://news.ycombinator.com/item?id=50024927) - [You Might Want to Try Being Less Creative](https://blog.bawolf.com/p/you-might-want-to-try-being-less)
 * [2026-10-09, 18:38:44](https://news.ycombinator.com/item?id=50024913) - [Microsoft-Decision-1, our model for fast decision-making](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/)
+* [2026-10-09, 18:31:50](https://news.ycombinator.com/item?id=50024805) - [Deterministic Simulation Testing in Celld](https://celld.dev/docs/engineering/deterministic-simulation-testing/)
 * [2026-10-09, 18:28:12](https://news.ycombinator.com/item?id=50024757) - [Platforms' Violent Content Rules Are About to Meet The Pentagon's Firing Squad](https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/)
 * [2026-10-09, 18:22:20](https://news.ycombinator.com/item?id=50024669) - [M7.6 Earthquake in Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive)
 * [2026-10-09, 18:16:03](https://news.ycombinator.com/item?id=50024571) - [Ideas aren't getting harder to find, anyone who tells you otherwise is a coward](https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find)
