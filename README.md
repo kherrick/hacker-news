@@ -2,7 +2,6 @@
 
 * [2026-10-11, 02:02:38](https://news.ycombinator.com/item?id=50039092) - [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
 * [2026-10-11, 01:17:22](https://news.ycombinator.com/item?id=50038865) - [Anthropic asks users to stop being mean to Claude](https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218)
-* [2026-10-11, 00:47:37](https://news.ycombinator.com/item?id=50038640) - [Generative AI scandal has come to one of Nikon's competitions](https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/)
 * [2026-10-11, 00:46:48](https://news.ycombinator.com/item?id=50038634) - [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)
 * [2026-10-11, 00:45:49](https://news.ycombinator.com/item?id=50038623) - [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
 * [2026-10-11, 00:22:33](https://news.ycombinator.com/item?id=50038473) - [Veda: The First Agentic Hobby Operating System](https://github.com/vahmoh25/Veda)
@@ -22,6 +21,7 @@
 * [2026-10-09, 14:18:03](https://news.ycombinator.com/item?id=50020901) - [Getting old Macromedia Director Games to run on modern Hardware](https://werwolv.net/posts/macromedia_copy_protection/)
 * [2026-10-09, 07:29:08](https://news.ycombinator.com/item?id=50017247) - [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger)
 * [2026-10-09, 06:52:49](https://news.ycombinator.com/item?id=50016956) - [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)
+* [2026-10-09, 03:58:16](https://news.ycombinator.com/item?id=50015833) - [Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes](https://hangul.ink/blog/hangul-day)
 * [2026-10-08, 15:23:19](https://news.ycombinator.com/item?id=50006930) - [Show HN: Diffle, a keyboard-centric diff viewer with LSP support](https://github.com/moritzwilksch/diffle)
 * [2026-10-08, 13:44:36](https://news.ycombinator.com/item?id=50005743) - [C for Rust programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
 * [2026-10-08, 02:15:16](https://news.ycombinator.com/item?id=50001234) - [Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)
