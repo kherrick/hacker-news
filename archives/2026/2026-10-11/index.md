@@ -6,6 +6,7 @@
 
 * [2026-10-11, 04:07:32](https://news.ycombinator.com/item?id=50039715) - [Vegetables half as nutritious as they were in the 1960s](https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/)
 * [2026-10-11, 03:42:56](https://news.ycombinator.com/item?id=50039633) - [Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list](https://github.com/vscarpenter/gsd-task-manager)
+* [2026-10-11, 03:42:47](https://news.ycombinator.com/item?id=50039630) - [AI agents in a stand-up call](https://atoll92.github.io/agent-standup/)
 * [2026-10-11, 03:41:53](https://news.ycombinator.com/item?id=50039627) - [Satya Nadella says we should assume all AI models are 'compromised'](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
 * [2026-10-11, 03:21:07](https://news.ycombinator.com/item?id=50039536) - [GameBoy on E-Paper ESP32 at 30FPS [video]](https://www.youtube.com/watch?v=XiZmM6hwwAU)
 * [2026-10-11, 03:13:46](https://news.ycombinator.com/item?id=50039504) - [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app)
