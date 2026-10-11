@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-11, 10:37:55",
+      "https://news.ycombinator.com/item?id=50041682"
+    ],
+    [
+      "Nitter: Update Oct 10th seeking funding and legal help",
+      "https://nitter.net"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 10:34:43",
+      "https://news.ycombinator.com/item?id=50041667"
+    ],
+    [
+      "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+      "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/"
+    ]
+  ],
+  [
+    [
       "2026-10-11, 10:11:27",
       "https://news.ycombinator.com/item?id=50041540"
     ],
@@ -37,16 +57,6 @@
     [
       "LineageOS 24.0",
       "https://lineageos.org/Changelog-32/"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 03:21:07",
-      "https://news.ycombinator.com/item?id=50039536"
-    ],
-    [
-      "GameBoy on E-Paper ESP32 at 30FPS [video]",
-      "https://www.youtube.com/watch?v=XiZmM6hwwAU"
     ]
   ],
   [
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2026-10-10, 07:10:17",
+      "https://news.ycombinator.com/item?id=50030470"
+    ],
+    [
+      "Rat's Register Allocator",
+      "https://hexrat.cc/pages/blog/2026_10_07"
+    ]
+  ],
+  [
+    [
       "2026-10-10, 05:22:30",
       "https://news.ycombinator.com/item?id=50029830"
     ],
@@ -187,16 +207,6 @@
     [
       "Five months treating bugs like patients and coding agents like a medical team",
       "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 14:18:03",
-      "https://news.ycombinator.com/item?id=50020901"
-    ],
-    [
-      "Getting old Macromedia Director Games to run on modern Hardware",
-      "https://werwolv.net/posts/macromedia_copy_protection/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
       "https://github.com/moritzwilksch/diffle"
-    ]
-  ],
-  [
-    [
-      "2026-10-08, 13:44:36",
-      "https://news.ycombinator.com/item?id=50005743"
-    ],
-    [
-      "C for Rust programmers",
-      "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/"
     ]
   ],
   [
