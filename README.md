@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-11, 22:22:10](https://news.ycombinator.com/item?id=50048522) - [Recursive self-improvement through collective intelligence](https://pub.sakana.ai/mass/)
 * [2026-10-11, 21:59:48](https://news.ycombinator.com/item?id=50048312) - [Passkeys are a trap. Do not use them](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
 * [2026-10-11, 21:07:20](https://news.ycombinator.com/item?id=50047825) - [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
 * [2026-10-11, 20:20:52](https://news.ycombinator.com/item?id=50047422) - [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046)
@@ -13,7 +14,6 @@
 * [2026-10-11, 16:31:37](https://news.ycombinator.com/item?id=50044989) - [Playgrnd – tiny tools for making weird, beautiful things](https://www.playgrnd.tools/)
 * [2026-10-11, 16:03:58](https://news.ycombinator.com/item?id=50044715) - [How to Build Wealth as a Career Person](https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/)
 * [2026-10-11, 15:21:58](https://news.ycombinator.com/item?id=50044272) - [How I reverse engineered a commercial spatial audio effect](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/)
-* [2026-10-11, 14:29:07](https://news.ycombinator.com/item?id=50043689) - [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
 * [2026-10-11, 13:17:52](https://news.ycombinator.com/item?id=50043030) - [SQLAlchemy 2.1.0 Released](https://www.sqlalchemy.org/blog/2026/09/24/sqlalchemy-2.1.0-released/)
 * [2026-10-11, 13:16:45](https://news.ycombinator.com/item?id=50043026) - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 * [2026-10-11, 12:13:13](https://news.ycombinator.com/item?id=50042425) - [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
