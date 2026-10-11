@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-11, 15:21:58](https://news.ycombinator.com/item?id=50044272) - [How I reverse engineered a commercial spatial audio effect](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/)
 * [2026-10-11, 14:28:39](https://news.ycombinator.com/item?id=50043682) - [Internal files add to evidence of an ExxonMobil climate deception campaign](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
 * [2026-10-11, 14:21:31](https://news.ycombinator.com/item?id=50043603) - [Why Texas Is Making Data Centers Wait](https://a16z.com/why-texas-is-making-data-centers-wait/)
 * [2026-10-11, 13:28:03](https://news.ycombinator.com/item?id=50043110) - [Open-Source Microsoft Office Excel, PowerPoint, and Word Replications](https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next)
@@ -17,7 +18,6 @@
 * [2026-10-10, 20:31:50](https://news.ycombinator.com/item?id=50036864) - [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
 * [2026-10-10, 15:47:01](https://news.ycombinator.com/item?id=50034081) - [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
 * [2026-10-10, 10:52:09](https://news.ycombinator.com/item?id=50031614) - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
-* [2026-10-10, 09:55:43](https://news.ycombinator.com/item?id=50031289) - [When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64](https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/)
 * [2026-10-10, 07:10:17](https://news.ycombinator.com/item?id=50030470) - [Rat's Register Allocator](https://hexrat.cc/pages/blog/2026_10_07)
 * [2026-10-10, 04:12:26](https://news.ycombinator.com/item?id=50029487) - [The Lightbulb Computer](https://lightbulbcomputer.com/)
 * [2026-10-10, 01:37:08](https://news.ycombinator.com/item?id=50028647) - [The RAM shortage is bringing back DDR4](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
