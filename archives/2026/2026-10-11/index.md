@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 18:26:24](https://news.ycombinator.com/item?id=50046241) - [Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)
 * [2026-10-11, 18:16:54](https://news.ycombinator.com/item?id=50046117) - [Anthropic is out with new nonsense about Claude](https://dair-community.social/@emilymbender/117412868905734653)
 * [2026-10-11, 18:04:47](https://news.ycombinator.com/item?id=50045984) - [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
 * [2026-10-11, 18:01:16](https://news.ycombinator.com/item?id=50045946) - [NYC's \"Click to Cancel\" rule is now in effect](https://www.nyc.gov/main/click-to-cancel)

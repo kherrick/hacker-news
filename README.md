@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-11, 18:26:24](https://news.ycombinator.com/item?id=50046241) - [Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)
 * [2026-10-11, 18:04:47](https://news.ycombinator.com/item?id=50045984) - [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
 * [2026-10-11, 18:01:16](https://news.ycombinator.com/item?id=50045946) - [NYC's \"Click to Cancel\" rule is now in effect](https://www.nyc.gov/main/click-to-cancel)
 * [2026-10-11, 17:40:42](https://news.ycombinator.com/item?id=50045735) - [YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit](https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns)
@@ -8,7 +9,6 @@
 * [2026-10-11, 16:03:58](https://news.ycombinator.com/item?id=50044715) - [How to Build Wealth as a Career Person](https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/)
 * [2026-10-11, 15:21:58](https://news.ycombinator.com/item?id=50044272) - [How I reverse engineered a commercial spatial audio effect](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/)
 * [2026-10-11, 14:29:07](https://news.ycombinator.com/item?id=50043689) - [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
-* [2026-10-11, 14:28:39](https://news.ycombinator.com/item?id=50043682) - [Documents add to evidence in climate deception case against ExxonMobil](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
 * [2026-10-11, 13:16:45](https://news.ycombinator.com/item?id=50043026) - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 * [2026-10-11, 12:13:13](https://news.ycombinator.com/item?id=50042425) - [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
 * [2026-10-11, 12:06:22](https://news.ycombinator.com/item?id=50042362) - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
