@@ -27,6 +27,7 @@
 * [2026-10-09, 18:28:12](https://news.ycombinator.com/item?id=50024757) - [Platforms' Violent Content Rules Are About to Meet The Pentagon's Firing Squad](https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/)
 * [2026-10-09, 18:22:20](https://news.ycombinator.com/item?id=50024669) - [M7.6 Earthquake in Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive)
 * [2026-10-09, 18:16:03](https://news.ycombinator.com/item?id=50024571) - [Ideas aren't getting harder to find, anyone who tells you otherwise is a coward](https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find)
+* [2026-10-09, 18:15:59](https://news.ycombinator.com/item?id=50024570) - [Rolling the Root Key](https://blog.apnic.net/2026/10/09/rolling-the-root-key-2/)
 * [2026-10-09, 18:10:55](https://news.ycombinator.com/item?id=50024499) - [Show HN: See *almost* any carriers phone settings](https://carrierexplode.com/)
 * [2026-10-09, 18:07:23](https://news.ycombinator.com/item?id=50024457) - [The Revolution of Vertical Drama Is Happening Behind the Camera](https://medium.com/@ludobos/streathe-real-revolution-of-vertical-drama-is-happening-behind-the-camera-0722d1394bce)
 * [2026-10-09, 17:52:07](https://news.ycombinator.com/item?id=50024242) - [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart)
