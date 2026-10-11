@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2026-10-11, 20:10:55",
+      "https://news.ycombinator.com/item?id=50047323"
+    ],
+    [
+      "Fetching AMD SEV Reports (With Zig)",
+      "https://bschaatsbergen.com/posts/zig-sev-guest/"
+    ]
+  ],
+  [
+    [
       "2026-10-11, 19:46:40",
       "https://news.ycombinator.com/item?id=50047091"
     ],
     [
       "Cartographers of North Korea",
       "https://cartographers-nk.wonyoung.so/"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 19:44:45",
-      "https://news.ycombinator.com/item?id=50047071"
-    ],
-    [
-      "Artificial Insanity",
-      "https://richwhitehouse.com/index.php?postid=78"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-10-10, 14:56:11",
+      "https://news.ycombinator.com/item?id=50033601"
+    ],
+    [
+      "Safe SIMD in Rust, even on the inside",
+      "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/"
+    ]
+  ],
+  [
+    [
       "2026-10-10, 14:43:09",
       "https://news.ycombinator.com/item?id=50033486"
     ],
@@ -277,16 +287,6 @@
     [
       "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
       "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 15:32:04",
-      "https://news.ycombinator.com/item?id=50021989"
-    ],
-    [
-      "I guess I'm using WebP now?",
-      "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now"
     ]
   ],
   [
