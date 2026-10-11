@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-11, 21:07:20](https://news.ycombinator.com/item?id=50047825) - [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
-* [2026-10-11, 20:20:52](https://news.ycombinator.com/item?id=50047422) - [Andrej Karpathy breaks down the capability gap](https://twitter.com/karpathy/status/2109361546505966046)
+* [2026-10-11, 20:20:52](https://news.ycombinator.com/item?id=50047422) - [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046)
 * [2026-10-11, 19:46:40](https://news.ycombinator.com/item?id=50047091) - [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
 * [2026-10-11, 19:44:45](https://news.ycombinator.com/item?id=50047071) - [Artificial Insanity](https://richwhitehouse.com/index.php?postid=78)
-* [2026-10-11, 19:43:32](https://news.ycombinator.com/item?id=50047055) - [Do You Have Pre-2012 Onion Issues?](https://mailchi.mp/email.theonion.com/archivehunt)
+* [2026-10-11, 19:43:32](https://news.ycombinator.com/item?id=50047055) - [Do You Have Pre-2012 Onion Issues?](https://theonion.com/archivehunt/)
 * [2026-10-11, 19:23:07](https://news.ycombinator.com/item?id=50046864) - [The Unreasonable Effectiveness of Vex in NixOS](https://blog.kammel.dev/post/nixos_vex/)
 * [2026-10-11, 18:26:24](https://news.ycombinator.com/item?id=50046241) - [Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)
 * [2026-10-11, 18:04:47](https://news.ycombinator.com/item?id=50045984) - [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
