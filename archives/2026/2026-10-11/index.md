@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 07:34:45](https://news.ycombinator.com/item?id=50040547) - [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
 * [2026-10-11, 04:07:32](https://news.ycombinator.com/item?id=50039715) - [Vegetables half as nutritious as they were in the 1960s](https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/)
 * [2026-10-11, 03:42:56](https://news.ycombinator.com/item?id=50039633) - [Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list](https://github.com/vscarpenter/gsd-task-manager)
 * [2026-10-11, 03:42:47](https://news.ycombinator.com/item?id=50039630) - [AI agents in a stand-up call](https://atoll92.github.io/agent-standup/)
