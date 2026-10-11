@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2026-10-11, 10:34:43",
-      "https://news.ycombinator.com/item?id=50041667"
-    ],
-    [
-      "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
-      "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 10:27:53",
       "https://news.ycombinator.com/item?id=50041619"
     ],
@@ -231,22 +221,22 @@
   ],
   [
     [
-      "2026-10-10, 01:37:08",
-      "https://news.ycombinator.com/item?id=50028647"
-    ],
-    [
-      "Decade-old RAM is making a comeback",
-      "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback"
-    ]
-  ],
-  [
-    [
       "2026-10-09, 15:26:33",
       "https://news.ycombinator.com/item?id=50021899"
     ],
     [
       "Five months treating bugs like patients and coding agents like a medical team",
       "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 11:20:49",
+      "https://news.ycombinator.com/item?id=50018929"
+    ],
+    [
+      "Plumbers, chains, and famous painters: The history of the pipe operator in R",
+      "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Nix wrote half of my debugger",
       "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger"
+    ]
+  ],
+  [
+    [
+      "2026-10-09, 06:52:49",
+      "https://news.ycombinator.com/item?id=50016956"
+    ],
+    [
+      "Mxc: Microsoft Execution Containers version 1.0.0",
+      "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/"
     ]
   ],
   [
