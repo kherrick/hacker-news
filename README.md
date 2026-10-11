@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-11, 04:07:32](https://news.ycombinator.com/item?id=50039715) - [Vegetables half as nutritious as they were in the 1960s](https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/)
-* [2026-10-11, 03:42:56](https://news.ycombinator.com/item?id=50039633) - [Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list](https://github.com/vscarpenter/gsd-task-manager)
+* [2026-10-11, 04:07:32](https://news.ycombinator.com/item?id=50039715) - [Vegetables are half as nutritious as they were in the 1960s](https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/)
 * [2026-10-11, 03:41:53](https://news.ycombinator.com/item?id=50039627) - [Satya Nadella says we should assume all AI models are 'compromised'](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
 * [2026-10-11, 03:21:07](https://news.ycombinator.com/item?id=50039536) - [GameBoy on E-Paper ESP32 at 30FPS [video]](https://www.youtube.com/watch?v=XiZmM6hwwAU)
 * [2026-10-11, 03:13:46](https://news.ycombinator.com/item?id=50039504) - [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app)
@@ -29,6 +28,7 @@
 * [2026-10-08, 13:44:36](https://news.ycombinator.com/item?id=50005743) - [C for Rust programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
 * [2026-10-08, 02:15:16](https://news.ycombinator.com/item?id=50001234) - [Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)
 * [2026-10-07, 12:30:40](https://news.ycombinator.com/item?id=49991852) - [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
+* [2026-10-06, 21:22:44](https://news.ycombinator.com/item?id=49984349) - [OpenSCAD the Programmers Solid 3D CAD Modeller](https://openscad.org/)
 * [2026-10-06, 16:37:21](https://news.ycombinator.com/item?id=49980880) - [Grieving the loss of details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
 
 ## [Archives](archives/index.md)
