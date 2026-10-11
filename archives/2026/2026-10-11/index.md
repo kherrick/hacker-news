@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 10:11:27](https://news.ycombinator.com/item?id=50041540) - [IRCv3](https://ircv3.net/)
 * [2026-10-11, 07:53:42](https://news.ycombinator.com/item?id=50040625) - [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
 * [2026-10-11, 07:34:45](https://news.ycombinator.com/item?id=50040547) - [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
 * [2026-10-11, 06:18:59](https://news.ycombinator.com/item?id=50040276) - [LineageOS 24.0](https://lineageos.org/Changelog-32/)

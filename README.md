@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-11, 10:11:27](https://news.ycombinator.com/item?id=50041540) - [IRCv3](https://ircv3.net/)
 * [2026-10-11, 07:53:42](https://news.ycombinator.com/item?id=50040625) - [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
 * [2026-10-11, 07:34:45](https://news.ycombinator.com/item?id=50040547) - [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
 * [2026-10-11, 06:18:59](https://news.ycombinator.com/item?id=50040276) - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
@@ -29,7 +30,6 @@
 * [2026-10-08, 02:15:16](https://news.ycombinator.com/item?id=50001234) - [Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)
 * [2026-10-07, 12:30:40](https://news.ycombinator.com/item?id=49991852) - [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
 * [2026-10-06, 21:22:44](https://news.ycombinator.com/item?id=49984349) - [OpenSCAD the Programmers Solid 3D CAD Modeller](https://openscad.org/)
-* [2026-10-06, 16:37:21](https://news.ycombinator.com/item?id=49980880) - [Grieving the loss of details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/)
 
 ## [Archives](archives/index.md)
 
