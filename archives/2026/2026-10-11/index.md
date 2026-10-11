@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 18:16:54](https://news.ycombinator.com/item?id=50046117) - [Anthropic is out with new nonsense about Claude](https://dair-community.social/@emilymbender/117412868905734653)
 * [2026-10-11, 18:04:47](https://news.ycombinator.com/item?id=50045984) - [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
 * [2026-10-11, 18:01:16](https://news.ycombinator.com/item?id=50045946) - [NYC's \"Click to Cancel\" rule is now in effect](https://www.nyc.gov/main/click-to-cancel)
 * [2026-10-11, 17:56:13](https://news.ycombinator.com/item?id=50045895) - [We're unlocking the biggest mysteries of the clitoris](https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2)
@@ -11,6 +12,7 @@
 * [2026-10-11, 17:18:21](https://news.ycombinator.com/item?id=50045480) - [Why we're watching these climate tech companies](https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/)
 * [2026-10-11, 16:59:24](https://news.ycombinator.com/item?id=50045288) - [Why hasn't SpaceX, worth $2T, paid this Bay Area chef the $70K it owes him?](https://www.sfchronicle.com/food/restaurants/article/spacex-stateline-napa-late-payment-22463945.php)
 * [2026-10-11, 16:58:22](https://news.ycombinator.com/item?id=50045273) - [apsw: Another Python SQLite Wrapper](https://github.com/rogerbinns/apsw)
+* [2026-10-11, 16:31:37](https://news.ycombinator.com/item?id=50044989) - [Playgrnd – tiny tools for making weird, beautiful things](https://www.playgrnd.tools/)
 * [2026-10-11, 16:06:02](https://news.ycombinator.com/item?id=50044733) - [The Corporate Happiness Treadmill and the Case for Doing Less](https://0xff.nu/corp-burnout/)
 * [2026-10-11, 16:03:58](https://news.ycombinator.com/item?id=50044715) - [How to Build Wealth as a Career Person](https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/)
 * [2026-10-11, 15:21:58](https://news.ycombinator.com/item?id=50044272) - [How I reverse engineered a commercial spatial audio effect](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/)
