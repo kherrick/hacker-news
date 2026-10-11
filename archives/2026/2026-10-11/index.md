@@ -11,6 +11,7 @@
 * [2026-10-11, 12:13:13](https://news.ycombinator.com/item?id=50042425) - [Don't Put Tilde In Your Path](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
 * [2026-10-11, 12:07:22](https://news.ycombinator.com/item?id=50042370) - [Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests](https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html)
 * [2026-10-11, 12:06:22](https://news.ycombinator.com/item?id=50042362) - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
+* [2026-10-11, 12:01:28](https://news.ycombinator.com/item?id=50042333) - [Show HN: BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/)
 * [2026-10-11, 12:01:08](https://news.ycombinator.com/item?id=50042330) - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os)
 * [2026-10-11, 11:47:29](https://news.ycombinator.com/item?id=50042219) - [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
 * [2026-10-11, 11:39:10](https://news.ycombinator.com/item?id=50042149) - [What driving across Europe costs in tolls, vignettes, bridges and fuel](https://copilot.travel/tolls/europe-2026)
