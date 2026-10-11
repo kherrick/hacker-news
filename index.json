@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-10-11, 16:06:02",
-      "https://news.ycombinator.com/item?id=50044733"
+      "2026-10-11, 17:18:21",
+      "https://news.ycombinator.com/item?id=50045480"
     ],
     [
-      "The Corporate Happiness Treadmill and the Case for Doing Less",
-      "https://0xff.nu/corp-burnout/"
+      "Why we're watching these climate tech companies",
+      "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 16:58:22",
+      "https://news.ycombinator.com/item?id=50045273"
+    ],
+    [
+      "apsw: Another Python SQLite Wrapper",
+      "https://github.com/rogerbinns/apsw"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "How big is a Git commit?",
       "https://ratfactor.com/cards/git-commit-size"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 07:29:08",
-      "https://news.ycombinator.com/item?id=50017247"
-    ],
-    [
-      "Nix wrote half of my debugger",
-      "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger"
     ]
   ],
   [
