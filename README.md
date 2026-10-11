@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-11, 02:02:38](https://news.ycombinator.com/item?id=50039092) - [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
-* [2026-10-11, 01:17:22](https://news.ycombinator.com/item?id=50038865) - [Anthropic asks users to stop being mean to Claude](https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218)
 * [2026-10-11, 00:46:48](https://news.ycombinator.com/item?id=50038634) - [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)
 * [2026-10-11, 00:45:49](https://news.ycombinator.com/item?id=50038623) - [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
 * [2026-10-11, 00:22:33](https://news.ycombinator.com/item?id=50038473) - [Veda: The First Agentic Hobby Operating System](https://github.com/vahmoh25/Veda)
@@ -11,6 +10,7 @@
 * [2026-10-10, 18:08:49](https://news.ycombinator.com/item?id=50035530) - [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
 * [2026-10-10, 15:47:01](https://news.ycombinator.com/item?id=50034081) - [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
 * [2026-10-10, 14:27:09](https://news.ycombinator.com/item?id=50033357) - [Unikernels were hard. key word: were](https://ghuntley.com/unikernels/)
+* [2026-10-10, 13:29:03](https://news.ycombinator.com/item?id=50032758) - [I would like the value of my home to rise, while my property taxes fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
 * [2026-10-10, 10:52:09](https://news.ycombinator.com/item?id=50031614) - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
 * [2026-10-10, 05:22:30](https://news.ycombinator.com/item?id=50029830) - [Food processing influences metabolism and brain activity](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)
 * [2026-10-10, 04:12:26](https://news.ycombinator.com/item?id=50029487) - [The Lightbulb Computer](https://lightbulbcomputer.com/)
