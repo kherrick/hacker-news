@@ -8,6 +8,7 @@
 * [2026-10-08, 23:29:43](https://news.ycombinator.com/item?id=50013902) - [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
 * [2026-10-08, 22:57:50](https://news.ycombinator.com/item?id=50013610) - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 * [2026-10-08, 22:48:30](https://news.ycombinator.com/item?id=50013525) - [Spinal: A near-instant, predictive surface for any codebase](https://spinal.sh/)
+* [2026-10-08, 22:20:22](https://news.ycombinator.com/item?id=50013210) - [Thorium 229 based nuclear clocks](https://www.jerrycards.com/news/first-ticking-nuclear-clocks-thorium-229-tsinghua-tu-wien-2026)
 * [2026-10-08, 21:00:55](https://news.ycombinator.com/item?id=50012199) - [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt)
 * [2026-10-08, 20:48:37](https://news.ycombinator.com/item?id=50012043) - [I think we might lose public key cryptography](https://twitter.com/matthew_d_green/status/2108278850555674975)
 * [2026-10-08, 20:46:25](https://news.ycombinator.com/item?id=50011999) - [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
