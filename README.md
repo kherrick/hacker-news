@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-11, 22:45:40](https://news.ycombinator.com/item?id=50048768) - [Google Data Centers around the world](https://datacenters.google/locations/)
+* [2026-10-11, 22:39:40](https://news.ycombinator.com/item?id=50048702) - [JulianFlux: Electrodynamic vector retrieval and causal routing for AI](https://github.com/julianjohnson-web/julianflux-research)
 * [2026-10-11, 22:33:39](https://news.ycombinator.com/item?id=50048642) - [Fingerprints Are the New Cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
 * [2026-10-11, 22:33:30](https://news.ycombinator.com/item?id=50048638) - [Google is illegaly cutting forest to build data centers](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment)
 * [2026-10-11, 22:22:10](https://news.ycombinator.com/item?id=50048522) - [Recursive self-improvement through collective intelligence](https://pub.sakana.ai/mass/)
@@ -28,7 +29,6 @@
 * [2026-10-10, 19:02:35](https://news.ycombinator.com/item?id=50036023) - [Cbirds: A flock of birds in your terminal](https://github.com/clainstone/cbirds)
 * [2026-10-10, 14:56:11](https://news.ycombinator.com/item?id=50033601) - [Safe SIMD in Rust, even on the inside](https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/)
 * [2026-10-10, 14:43:09](https://news.ycombinator.com/item?id=50033486) - [FlowCE: Calculus on your TI-84 Plus CE](https://tommyb3ll.github.io/FlowCE/)
-* [2026-10-10, 00:34:34](https://news.ycombinator.com/item?id=50028264) - [A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis](https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/)
 * [2026-10-09, 15:32:04](https://news.ycombinator.com/item?id=50021989) - [I guess I'm using WebP now?](https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now)
 
 ## [Archives](archives/index.md)
