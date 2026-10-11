@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-11, 10:47:21](https://news.ycombinator.com/item?id=50041765) - [Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things](https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things)
 * [2026-10-11, 10:37:55](https://news.ycombinator.com/item?id=50041682) - [Nitter: Update Oct 10th seeking funding and legal help](https://nitter.net)
 * [2026-10-11, 10:34:43](https://news.ycombinator.com/item?id=50041667) - [\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
 * [2026-10-11, 10:11:27](https://news.ycombinator.com/item?id=50041540) - [IRCv3](https://ircv3.net/)
@@ -7,7 +8,6 @@
 * [2026-10-11, 07:34:45](https://news.ycombinator.com/item?id=50040547) - [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
 * [2026-10-11, 06:18:59](https://news.ycombinator.com/item?id=50040276) - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
 * [2026-10-11, 02:02:38](https://news.ycombinator.com/item?id=50039092) - [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
-* [2026-10-11, 01:56:16](https://news.ycombinator.com/item?id=50039063) - [European Alternatives](https://buy-european.net/en/alternatives)
 * [2026-10-11, 00:45:49](https://news.ycombinator.com/item?id=50038623) - [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
 * [2026-10-10, 22:50:10](https://news.ycombinator.com/item?id=50037949) - [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
 * [2026-10-10, 20:31:50](https://news.ycombinator.com/item?id=50036864) - [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
