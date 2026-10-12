@@ -7,6 +7,7 @@
 * [2026-10-12, 22:15:29](https://news.ycombinator.com/item?id=50063831) - [Breaking Bad star RJ Mitte dies aged 34](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
 * [2026-10-12, 21:40:18](https://news.ycombinator.com/item?id=50063427) - [AI Is a Tool. Using It Well Takes Skill.](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 * [2026-10-12, 21:39:32](https://news.ycombinator.com/item?id=50063417) - [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
+* [2026-10-12, 21:35:35](https://news.ycombinator.com/item?id=50063365) - [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
 * [2026-10-12, 21:12:43](https://news.ycombinator.com/item?id=50063138) - [Who Is Vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
 * [2026-10-12, 21:03:36](https://news.ycombinator.com/item?id=50063042) - [Show HN: Brickbrag – A multiplayer brick-building world in the browser](https://brickbrag.com/)
 * [2026-10-12, 20:52:34](https://news.ycombinator.com/item?id=50062922) - [In Praise of John Cale, the Superior Velvet](https://thequietus.com/subscriber-area/low-culture-essay/john-cale-low-culture/)
