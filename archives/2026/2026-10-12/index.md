@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
+* [2026-10-12, 16:11:45](https://news.ycombinator.com/item?id=50058507) - [GLM-Legal: Advancing Agentic Legal Intelligence](https://z.ai/blog/glm-legal)
+* [2026-10-12, 15:36:21](https://news.ycombinator.com/item?id=50057956) - [French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack](https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html)
 * [2026-10-12, 14:52:37](https://news.ycombinator.com/item?id=50057278) - [Why aren't AI companies being charged for hacking?](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
 * [2026-10-12, 14:45:44](https://news.ycombinator.com/item?id=50057185) - [Deep dive into Azure Maia 300 architecture](https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/)
 * [2026-10-12, 14:34:25](https://news.ycombinator.com/item?id=50057030) - [An Unmade Film Shaped Hayao Miyazaki](https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki)
