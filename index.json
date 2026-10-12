@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-10-12, 18:09:10",
-      "https://news.ycombinator.com/item?id=50060387"
-    ],
-    [
-      "French supermarkets suffer refrigerator shutdown after unprecedented cyberattack",
-      "https://www.rnz.co.nz/news/world/1865776/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 18:02:32",
       "https://news.ycombinator.com/item?id=50060296"
     ],
@@ -97,6 +87,16 @@
     [
       "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
       "https://news.ycombinator.com/item?id=50059096"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 16:31:55",
+      "https://news.ycombinator.com/item?id=50058850"
+    ],
+    [
+      "Reverse engineer anything with agents, from app behavior down to native binaries",
+      "https://github.com/morluto/rea"
     ]
   ],
   [
