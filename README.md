@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms hidden chip in crypto wallet amid $92M theft claims](https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/)
 * [2026-10-12, 08:30:33](https://news.ycombinator.com/item?id=50053216) - [Fable Took My Job](https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html)
 * [2026-10-12, 07:47:29](https://news.ycombinator.com/item?id=50052814) - [Zod 4.6.6 compromised by malware?](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467)
 * [2026-10-12, 06:46:53](https://news.ycombinator.com/item?id=50052251) - [Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp)
@@ -29,7 +30,6 @@
 * [2026-10-10, 17:12:33](https://news.ycombinator.com/item?id=50034950) - [Bag of Decisions Reranker](https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html)
 * [2026-10-10, 15:59:52](https://news.ycombinator.com/item?id=50034206) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 * [2026-10-10, 15:39:30](https://news.ycombinator.com/item?id=50034001) - [No portable way to detect string-to-float conversion errors in standard C](https://sebsite.pw/w/20261009-strtod.html)
-* [2026-10-09, 15:32:04](https://news.ycombinator.com/item?id=50021989) - [I guess I'm using WebP now?](https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now)
 
 ## [Archives](archives/index.md)
 
