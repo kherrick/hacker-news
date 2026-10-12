@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-12, 06:36:53",
+      "https://news.ycombinator.com/item?id=50052163"
+    ],
+    [
+      "Postgres isn't slow, your storage is",
+      "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 06:35:05",
+      "https://news.ycombinator.com/item?id=50052156"
+    ],
+    [
+      "Attack of the Vibe Coded Photoshop Clones",
+      "https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 05:02:34",
       "https://news.ycombinator.com/item?id=50051573"
     ],
@@ -41,22 +61,22 @@
   ],
   [
     [
+      "2026-10-12, 00:15:12",
+      "https://news.ycombinator.com/item?id=50049588"
+    ],
+    [
+      "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "https://github.com/SaarthurR/atticus-mac"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 00:03:53",
       "https://news.ycombinator.com/item?id=50049508"
     ],
     [
       "Local Indexing to reduce tool calling and token usage",
       "https://tedhaley.ca/pensieve/"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 00:02:45",
-      "https://news.ycombinator.com/item?id=50049498"
-    ],
-    [
-      "HashiCorp archives the Boundary open source repo",
-      "https://github.com/hashicorp/boundary"
     ]
   ],
   [
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2026-10-11, 22:33:30",
-      "https://news.ycombinator.com/item?id=50048638"
-    ],
-    [
-      "Google is illegaly cutting forest to build data centers",
-      "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 22:22:10",
       "https://news.ycombinator.com/item?id=50048522"
     ],
     [
       "Recursive self-improvement through collective intelligence",
       "https://pub.sakana.ai/mass/"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 22:18:26",
-      "https://news.ycombinator.com/item?id=50048490"
-    ],
-    [
-      "Shredding JSON columns gave Logfire up to 1000x faster queries",
-      "https://pydantic.dev/articles/dynamic-shredding-2026-01-26"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-10-10, 14:56:11",
-      "https://news.ycombinator.com/item?id=50033601"
+      "2026-10-10, 13:28:05",
+      "https://news.ycombinator.com/item?id=50032748"
     ],
     [
-      "Safe SIMD in Rust, even on the inside",
-      "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/"
+      "Draw by Pinging IPv6 Addresses",
+      "https://pings.utwente.io/"
     ]
   ],
   [
