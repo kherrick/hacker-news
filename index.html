@@ -139,7 +139,7 @@
             <h4>
               <span>2026-10-12 @ 00:03:53</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50049508"
                   >Comments</a
@@ -158,11 +158,11 @@
             <h4>
               <span>2026-10-12 @ 00:02:45</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50049498"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -178,11 +178,11 @@
             <h4>
               <span>2026-10-11 @ 23:52:23</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50049425"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -199,11 +199,11 @@
             <h4>
               <span>2026-10-11 @ 23:50:34</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50049411"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -240,11 +240,11 @@
             <h4>
               <span>2026-10-11 @ 23:40:06</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50049302"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -261,7 +261,7 @@
             <h4>
               <span>2026-10-11 @ 23:22:36</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50049133"
                   >Comments</a
@@ -270,23 +270,104 @@
             </h4>
           </section>
         </section>
+        <section id="50049132">
+          <h3>
+            <a class="item" href="https://github.com/swimmingbrain/brainotes"
+              >Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a
+              browser tab</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-11 @ 23:22:29</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50049132"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                This is the same idea for the other half of my studies, the
+                handwritten notes. I take them on a convertible laptop, and I've
+                had a hard time with apps for that, taking notes from a device
+                to another, exporting as PDF, needing an account for many of
+                them, etc. So I've been working on the version of it that I
+                always wanted. Open a tab, the slides of the lecture or multiple
+                PDFs open next to the page or even become the page, write on
+                them with my pen, and nothing ever leaves my browser.
+              </p>
+              <p>
+                braiNOTES is a static website and has no backend. Strokes are
+                perfect-freehand outlines which support pen pressure, the PDF
+                files are rendered by pdf.js in a worker, and for storage it
+                uses IndexedDB a moment after every change. No account, no
+                analytics, and completely offline and local-first. You can
+                export notebooks as .brainotes files, which in the background is
+                a zip with one json per page + the PDFs and pictures you import.
+                It keeps the original pages and puts the vectorized ink on top,
+                this way the text stays selectable in the slides.
+              </p>
+              <p>
+                You can try it here:
+                <a href="https://notes.swimmingbrain.dev"
+                  >https://notes.swimmingbrain.dev</a
+                >
+                GitHub Repo:
+                <a href="https://github.com/swimmingbrain/brainotes"
+                  >https://github.com/swimmingbrain/brainotes</a
+                >
+                (MIT)
+              </p>
+              <p>
+                In Study mode, the PDF opens on the side of the tab, you can
+                read it simultaneously to the notes, snip a formula or diagrams
+                directly into the notes with the snip tool, and then write
+                around it. In Board mode, you have just a Whiteboard for
+                tutoring or simply for more place for exercises, and can also
+                highlight or draw things with the laser pointer tool while
+                presenting.
+              </p>
+              <p>
+                The line of the ink appears the moment the pen moves, and a one
+                euro filter calms shaky hands while you write + a light a refit
+                when you lift the pen.
+              </p>
+              <p>
+                I also have a video editor and an animation tool which are still
+                a work in progress, on the same GitHub profile. I'm also working
+                on a MCP server for each tool, so you can use your MCP client to
+                do further things with your notes, automatically edit videos on
+                the video editor, etc. That feature will of course be off unless
+                you turn it on and will only be able to talk to localhost.
+              </p>
+              <p>
+                I've used this tool for every lecture in the last few months and
+                a few friends use it too. Bug reports, fixes, recommendations,
+                feedback are all welcome!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="50048642">
           <h3>
             <a
               class="item"
               href="https://royfish.dev/fingerprints-are-the-new-cookies"
-              >Fingerprints Are the New Cookies</a
+              >Fingerprints are the new cookies</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-10-11 @ 22:33:39</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50048642"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -303,11 +384,11 @@
             <h4>
               <span>2026-10-11 @ 22:33:30</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50048638"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -322,11 +403,11 @@
             <h4>
               <span>2026-10-11 @ 22:22:10</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50048522"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -336,18 +417,18 @@
             <a
               class="item"
               href="https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them"
-              >Passkeys are a trap. Do not use them</a
+              >Passkeys are a trap</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-10-11 @ 21:59:48</span
               ><span class="points-container"
-                >Points: <span class="points">276</span></span
+                >Points: <span class="points">317</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50048312"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 177</span></span
               >
             </h4>
           </section>
@@ -365,11 +446,11 @@
             <h4>
               <span>2026-10-11 @ 21:07:20</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50047825"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 123</span></span
               >
             </h4>
           </section>
@@ -386,11 +467,11 @@
             <h4>
               <span>2026-10-11 @ 20:20:52</span
               ><span class="points-container"
-                >Points: <span class="points">253</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50047422"
                   >Comments</a
-                ><span class="descendants">: 406</span></span
+                ><span class="descendants">: 444</span></span
               >
             </h4>
           </section>
@@ -405,11 +486,11 @@
             <h4>
               <span>2026-10-11 @ 19:46:40</span
               ><span class="points-container"
-                >Points: <span class="points">187</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50047091"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -424,7 +505,7 @@
             <h4>
               <span>2026-10-11 @ 19:43:32</span
               ><span class="points-container"
-                >Points: <span class="points">252</span></span
+                >Points: <span class="points">260</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50047055"
                   >Comments</a
@@ -436,18 +517,18 @@
         <section id="50046241">
           <h3>
             <a class="item" href="https://www.ways-of-seeing.com/ch1"
-              >Chapter 1 of Ways of Seeing by John Berger</a
+              >Chapter 1 of "Ways of Seeing" by John Berger (1972)</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-10-11 @ 18:26:24</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50046241"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -462,11 +543,11 @@
             <h4>
               <span>2026-10-11 @ 18:04:47</span
               ><span class="points-container"
-                >Points: <span class="points">367</span></span
+                >Points: <span class="points">384</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50045984"
                   >Comments</a
-                ><span class="descendants">: 155</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
           </section>
@@ -481,11 +562,11 @@
             <h4>
               <span>2026-10-11 @ 18:01:16</span
               ><span class="points-container"
-                >Points: <span class="points">354</span></span
+                >Points: <span class="points">366</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50045946"
                   >Comments</a
-                ><span class="descendants">: 172</span></span
+                ><span class="descendants">: 183</span></span
               >
             </h4>
           </section>
@@ -500,7 +581,7 @@
             <h4>
               <span>2026-10-11 @ 16:58:22</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50045273"
                   >Comments</a
@@ -521,7 +602,7 @@
             <h4>
               <span>2026-10-11 @ 15:21:58</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50044272"
                   >Comments</a
@@ -542,11 +623,11 @@
             <h4>
               <span>2026-10-11 @ 13:16:45</span
               ><span class="points-container"
-                >Points: <span class="points">322</span></span
+                >Points: <span class="points">327</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50043026"
                   >Comments</a
-                ><span class="descendants">: 372</span></span
+                ><span class="descendants">: 380</span></span
               >
             </h4>
           </section>
@@ -563,11 +644,11 @@
             <h4>
               <span>2026-10-11 @ 12:13:13</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50042425"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 143</span></span
               >
             </h4>
           </section>
@@ -582,26 +663,11 @@
             <h4>
               <span>2026-10-11 @ 12:01:28</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50042333"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50041540">
-          <h3><a class="item" href="https://ircv3.net/">IRCv3</a></h3>
-          <section>
-            <h4>
-              <span>2026-10-11 @ 10:11:27</span
-              ><span class="points-container"
-                >Points: <span class="points">358</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50041540"
-                  >Comments</a
-                ><span class="descendants">: 305</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
@@ -619,91 +685,34 @@
             <h4>
               <span>2026-10-11 @ 09:19:46</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50041252"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="50039291">
+        <section id="50039608">
           <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=50039291"
-              >Ask HN: Do you want a router that has DD-WRT pre-installed?</a
+            <a
+              class="item"
+              href="https://purplesyringa.moe/blog/vectorized-clz-and-ctz/"
+              >Vectorized CLZ and CTZ</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-10-11 @ 02:37:33</span
+              <span>2026-10-11 @ 03:36:42</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50039291"
+                ><a href="https://news.ycombinator.com/item?id=50039608"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
-            <div class="text">
-              <p>
-                I have been flashing DD-WRT to my routers for many years. My
-                current setup is an Archer C9 that connects via cable to an
-                Archer C8, which then wirelessly bridges to an R7000. All of
-                them run DD-WRT. If I had "fun money," I would buy a low-power
-                SFF PC with dual NICs, run OPNsense or OpenWrt, and use the
-                wireless routers strictly as access points. Since I don't have
-                that much to spend, I look for older DD-WRT friendly routers,
-                usually under $30, on Craigslist or Facebook Marketplace, and
-                flash them myself.
-              </p>
-              <p>
-                I see that Ubiquiti and MikroTik make quality routers with
-                proprietary OSes for around $65 new. Protectli and Netgate offer
-                pfSense routers starting at $259.00. The GL.iNet Flint 2 is
-                $169.00, and the OpenWrt One is $89.
-              </p>
-              <p>
-                According to ResellBot (because eBay now requires a login to see
-                sold listings with prices), the sold "DD-WRT Routers" generally
-                go for under $160. These include the WRT3200ACM, Netgear AC1750,
-                Linksys EA9300, and Linksys R7350.
-              </p>
-              <p>
-                When I asked an AI how I would go about judging interest,
-                building, raising funds, and manufacturing, it seems doable but
-                expensive (said $125,000 minimum in total made up of $30,000 for
-                regulatory approval, engineering and protoyping $10,000+) and
-                time-consuming just to get to a "golden prototype" for demos.
-              </p>
-              <p>
-                So if I were a "hacker" and wanted an open-source router,
-                depending on my funds, I would either:
-              </p>
-              <p>1. Flash DD-WRT to an existing router (used or new).</p>
-              <p>
-                2. Buy one with it already installed, like the OpenWrt One or a
-                Protectli device.
-              </p>
-              <p>3. Get an SFF PC and build my own.</p>
-              <p>
-                I remember when some comments about DropBox said it was a waste
-                because any hacker could make that. I also know DropBox was
-                marketed to the average person and businesses. I don't really
-                see how a hacker friendly router could take off like that unless
-                hackers are choosing the hardware and setting up the networks
-                for average people. And I assume that most people setting up the
-                networks want different qualities like brand name recognition,
-                ease and speed of purchasing equipment (Walmart or BestBuy), and
-                the ability to point a customer or family member to the number
-                of solid reviews and articles saying it a good router to qualify
-                their choices.
-              </p>
-              <p>
-                So, do you actually want a router that you can buy with DD-WRT
-                pre-installed?
-              </p>
-            </div>
           </section>
         </section>
         <section id="50039092">
@@ -719,11 +728,11 @@
             <h4>
               <span>2026-10-11 @ 02:02:38</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50039092"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -740,7 +749,7 @@
             <h4>
               <span>2026-10-10 @ 14:56:11</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50033601"
                   >Comments</a
@@ -759,11 +768,11 @@
             <h4>
               <span>2026-10-10 @ 14:43:09</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50033486"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -780,11 +789,11 @@
             <h4>
               <span>2026-10-09 @ 15:32:04</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50021989"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
