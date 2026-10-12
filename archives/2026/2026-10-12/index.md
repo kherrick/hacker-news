@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
+* [2026-10-12, 16:48:01](https://news.ycombinator.com/item?id=50059115) - [Muse Wonder](https://research.meta.ai/blog/muse-wonder)
+* [2026-10-12, 16:46:34](https://news.ycombinator.com/item?id=50059096) - [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
+* [2026-10-12, 16:31:55](https://news.ycombinator.com/item?id=50058850) - [Reverse engineer anything with agents, from app behavior down to native binaries](https://github.com/morluto/rea)
 * [2026-10-12, 16:15:28](https://news.ycombinator.com/item?id=50058569) - [French supermarkets suffer refrigerator shutdown after unprecedented cyberattack](https://www.afp.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack)
 * [2026-10-12, 16:13:10](https://news.ycombinator.com/item?id=50058528) - [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
 * [2026-10-12, 16:11:45](https://news.ycombinator.com/item?id=50058507) - [GLM-Legal: Advancing Agentic Legal Intelligence](https://z.ai/blog/glm-legal)
 * [2026-10-12, 15:36:21](https://news.ycombinator.com/item?id=50057956) - [French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack](https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html)
+* [2026-10-12, 15:16:45](https://news.ycombinator.com/item?id=50057668) - [Kevin Kelly's 2016 AI Predictions, 10 Years Later](https://taylor.town/kk-ai-2026)
 * [2026-10-12, 15:08:53](https://news.ycombinator.com/item?id=50057551) - [Fridges in French supermarkets hit by cyber attack](https://www.bbc.com/news/articles/crq5nzxv9q4yo)
 * [2026-10-12, 14:59:08](https://news.ycombinator.com/item?id=50057384) - [Hackers heat French supermarket fridges, sparking fires and food losses](https://www.reuters.com/business/retail-consumer/french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12/)
 * [2026-10-12, 14:52:37](https://news.ycombinator.com/item?id=50057278) - [Why aren't AI companies being charged for hacking?](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
