@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
+* [2026-10-12, 22:15:29](https://news.ycombinator.com/item?id=50063831) - [Breaking Bad star RJ Mitte dies aged 34](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
 * [2026-10-12, 21:40:18](https://news.ycombinator.com/item?id=50063427) - [AI Is a Tool. Using It Well Takes Skill.](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 * [2026-10-12, 21:39:32](https://news.ycombinator.com/item?id=50063417) - [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
 * [2026-10-12, 21:12:43](https://news.ycombinator.com/item?id=50063138) - [Who Is Vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)

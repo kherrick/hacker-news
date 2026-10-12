@@ -74,6 +74,7 @@
 * [2026-10-11, 07:53:42](https://news.ycombinator.com/item?id=50040625) - [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
 * [2026-10-11, 07:34:45](https://news.ycombinator.com/item?id=50040547) - [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
 * [2026-10-11, 06:18:59](https://news.ycombinator.com/item?id=50040276) - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
+* [2026-10-11, 05:32:28](https://news.ycombinator.com/item?id=50040090) - [Does Fast Mode Do Anything?](https://doesfastdoanything.com/)
 * [2026-10-11, 04:07:32](https://news.ycombinator.com/item?id=50039715) - [Vegetables half as nutritious as they were in the 1960s](https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/)
 * [2026-10-11, 03:42:56](https://news.ycombinator.com/item?id=50039633) - [Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list](https://github.com/vscarpenter/gsd-task-manager)
 * [2026-10-11, 03:42:47](https://news.ycombinator.com/item?id=50039630) - [AI agents in a stand-up call](https://atoll92.github.io/agent-standup/)
