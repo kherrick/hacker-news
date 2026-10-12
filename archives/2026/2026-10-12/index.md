@@ -8,6 +8,7 @@
 * [2026-10-12, 04:54:12](https://news.ycombinator.com/item?id=50051532) - [Yandex bot traffic down 99% after data center attack](https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic)
 * [2026-10-12, 04:54:00](https://news.ycombinator.com/item?id=50051530) - [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
 * [2026-10-12, 03:50:58](https://news.ycombinator.com/item?id=50051172) - [X Is Bad, Though](https://lexontech.org/x-is-bad-though)
+* [2026-10-12, 03:37:09](https://news.ycombinator.com/item?id=50051097) - [Crest – an Arc-inspired open-source browser for Mac](https://crestbrowser.com/)
 * [2026-10-12, 02:52:10](https://news.ycombinator.com/item?id=50050762) - [Sorry we made you grind LeetCode](https://www.hackerrank.com/writing/why-were-sorry)
 * [2026-10-12, 01:57:39](https://news.ycombinator.com/item?id=50050370) - [An open-source, clean-room reimplementation of Microsoft Word in pure Rust](https://github.com/storytold/wordcraft)
 * [2026-10-12, 00:48:27](https://news.ycombinator.com/item?id=50049872) - [Doory – Open-Source Canva](https://github.com/shaongitbd/doory)
