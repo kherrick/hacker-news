@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-10-12, 19:52:12",
-      "https://news.ycombinator.com/item?id=50062025"
-    ],
-    [
-      "Martin Odersky – Keynote: The End of Programming? [video]",
-      "https://www.youtube.com/watch?v=jlJyuJhDnlc"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 19:40:00",
       "https://news.ycombinator.com/item?id=50061859"
     ],
@@ -71,22 +61,22 @@
   ],
   [
     [
+      "2026-10-12, 18:00:25",
+      "https://news.ycombinator.com/item?id=50060269"
+    ],
+    [
+      "'AI' Is Not a Tool by Rich Hickey",
+      "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 17:14:01",
       "https://news.ycombinator.com/item?id=50059523"
     ],
     [
       "AI coding agents generate more code, but not more software",
       "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 17:08:16",
-      "https://news.ycombinator.com/item?id=50059446"
-    ],
-    [
-      "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
-      "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Calculus with Julia",
       "https://jverzani.github.io/CalculusWithJuliaNotes.jl/"
+    ]
+  ],
+  [
+    [
+      "2026-10-10, 15:39:30",
+      "https://news.ycombinator.com/item?id=50034001"
+    ],
+    [
+      "No portable way to detect string-to-float conversion errors in standard C",
+      "https://sebsite.pw/w/20261009-strtod.html"
     ]
   ]
 ]
