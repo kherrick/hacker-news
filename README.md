@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-12, 10:21:27](https://news.ycombinator.com/item?id=50054207) - [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo)
 * [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms hidden chip in crypto wallet amid $92M theft claims](https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/)
 * [2026-10-12, 08:30:33](https://news.ycombinator.com/item?id=50053216) - [Fable Took My Job](https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html)
 * [2026-10-12, 07:47:29](https://news.ycombinator.com/item?id=50052814) - [Zod 4.6.6 compromised by malware?](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467)
@@ -24,7 +25,6 @@
 * [2026-10-11, 13:16:45](https://news.ycombinator.com/item?id=50043026) - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 * [2026-10-11, 10:18:18](https://news.ycombinator.com/item?id=50041573) - [Running the unmodified Linux amdgpu driver on an iPad](https://github.com/Geramy/LemonSeed-Studio)
 * [2026-10-11, 09:19:46](https://news.ycombinator.com/item?id=50041252) - [Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos](https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5)
-* [2026-10-11, 03:36:42](https://news.ycombinator.com/item?id=50039608) - [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
 * [2026-10-11, 02:37:33](https://news.ycombinator.com/item?id=50039291) - [Ask HN: Do you want a router that has DD-WRT pre-installed?](https://news.ycombinator.com/item?id=50039291)
 * [2026-10-10, 23:12:55](https://news.ycombinator.com/item?id=50038088) - [Every US Electrical Outlet Explained [video]](https://www.youtube.com/watch?v=n_1wzYQwnts)
 * [2026-10-10, 17:12:33](https://news.ycombinator.com/item?id=50034950) - [Bag of Decisions Reranker](https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html)
