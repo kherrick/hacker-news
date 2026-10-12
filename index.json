@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-12, 22:15:29",
+      "https://news.ycombinator.com/item?id=50063831"
+    ],
+    [
+      "Breaking Bad star RJ Mitte dies aged 34",
+      "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 21:40:18",
       "https://news.ycombinator.com/item?id=50063427"
     ],
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2026-10-12, 11:22:24",
-      "https://news.ycombinator.com/item?id=50054751"
-    ],
-    [
-      "QGIS enacts moratorium on AI contributions",
-      "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 07:28:53",
-      "https://news.ycombinator.com/item?id=50052638"
-    ],
-    [
-      "I Found a $90k Remote Code Execution Vulnerability in Google",
-      "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 06:46:53",
       "https://news.ycombinator.com/item?id=50052251"
     ],
@@ -267,6 +257,16 @@
     [
       "America's Longest Highway Tunnel (2025)",
       "https://www.thetravel.com/americas-longest-highway-tunnel-not-for-faint-of-heart/"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 05:32:28",
+      "https://news.ycombinator.com/item?id=50040090"
+    ],
+    [
+      "Does Fast Mode Do Anything?",
+      "https://doesfastdoanything.com/"
     ]
   ],
   [
