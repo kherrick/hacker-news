@@ -36,6 +36,7 @@
 * [2026-10-10, 14:27:09](https://news.ycombinator.com/item?id=50033357) - [Unikernels were hard. key word: were](https://ghuntley.com/unikernels/)
 * [2026-10-10, 14:21:12](https://news.ycombinator.com/item?id=50033300) - [Compression and Concatenation on the Web](https://theconsensus.dev/p/2026/10/04/compression-and-concatenation-on-the-web.html?focus=1)
 * [2026-10-10, 13:29:03](https://news.ycombinator.com/item?id=50032758) - [I Would Like the Value of My Home to Rise, While My Property Taxes Fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
+* [2026-10-10, 13:28:05](https://news.ycombinator.com/item?id=50032748) - [Draw by Pinging IPv6 Addresses](https://pings.utwente.io/)
 * [2026-10-10, 13:05:58](https://news.ycombinator.com/item?id=50032556) - [Lobbying Is Corruption](https://carette.xyz/posts/lobbying_and_corruption/)
 * [2026-10-10, 12:27:36](https://news.ycombinator.com/item?id=50032253) - [Shape-sensing sheet digitally tracks its own movement as it bends and twists](https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008)
 * [2026-10-10, 12:04:04](https://news.ycombinator.com/item?id=50032064) - [LLMs Aren't Inevitable](https://deadsimpletech.com/blog/llms-arent-inevitable)
