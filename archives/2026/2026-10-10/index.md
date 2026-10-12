@@ -18,6 +18,7 @@
 * [2026-10-10, 18:11:58](https://news.ycombinator.com/item?id=50035561) - [Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300)
 * [2026-10-10, 18:10:54](https://news.ycombinator.com/item?id=50035550) - [Anthropic discloses 2 months old fake tip to police among new rogue AI incidents](https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/)
 * [2026-10-10, 18:08:49](https://news.ycombinator.com/item?id=50035530) - [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
+* [2026-10-10, 17:12:33](https://news.ycombinator.com/item?id=50034950) - [Bag of Decisions Reranker](https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html)
 * [2026-10-10, 16:19:23](https://news.ycombinator.com/item?id=50034363) - [AI Is Throwing a Roadside Picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
 * [2026-10-10, 15:59:52](https://news.ycombinator.com/item?id=50034206) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 * [2026-10-10, 15:53:46](https://news.ycombinator.com/item?id=50034141) - [The Disease called Politics (1962)](https://www.panarchy.org/roszak/politics.html)
