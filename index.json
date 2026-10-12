@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-10-12, 04:54:00",
+      "https://news.ycombinator.com/item?id=50051530"
+    ],
+    [
+      "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+      "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 00:48:27",
       "https://news.ycombinator.com/item?id=50049872"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-10-11, 12:01:28",
-      "https://news.ycombinator.com/item?id=50042333"
-    ],
-    [
-      "Show HN: BetterWispr – Free, open-source dictation for Mac",
-      "https://betterwispr.com/"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 09:19:46",
       "https://news.ycombinator.com/item?id=50041252"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-10-10, 23:12:55",
+      "https://news.ycombinator.com/item?id=50038088"
+    ],
+    [
+      "Every US Electrical Outlet Explained [video]",
+      "https://www.youtube.com/watch?v=n_1wzYQwnts"
+    ]
+  ],
+  [
+    [
       "2026-10-10, 15:59:52",
       "https://news.ycombinator.com/item?id=50034206"
     ],
@@ -277,16 +287,6 @@
     [
       "No portable way to detect string-to-float conversion errors in standard C",
       "https://sebsite.pw/w/20261009-strtod.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-10, 14:56:11",
-      "https://news.ycombinator.com/item?id=50033601"
-    ],
-    [
-      "Safe SIMD in Rust, even on the inside",
-      "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/"
     ]
   ],
   [
