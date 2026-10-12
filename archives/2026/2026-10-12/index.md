@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
+* [2026-10-12, 07:47:29](https://news.ycombinator.com/item?id=50052814) - [Zod 4.6.6 compromised by malware?](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467)
+* [2026-10-12, 06:46:53](https://news.ycombinator.com/item?id=50052251) - [Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp)
 * [2026-10-12, 06:36:53](https://news.ycombinator.com/item?id=50052163) - [Postgres isn't slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)
 * [2026-10-12, 06:35:05](https://news.ycombinator.com/item?id=50052156) - [Attack of the Vibe Coded Photoshop Clones](https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones)
 * [2026-10-12, 05:03:47](https://news.ycombinator.com/item?id=50051583) - [Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'](https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html)
