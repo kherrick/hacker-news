@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-12, 03:50:58",
+      "https://news.ycombinator.com/item?id=50051172"
+    ],
+    [
+      "X Is Bad, Though",
+      "https://lexontech.org/x-is-bad-though"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 00:48:27",
       "https://news.ycombinator.com/item?id=50049872"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-10-11, 15:21:58",
-      "https://news.ycombinator.com/item?id=50044272"
-    ],
-    [
-      "How I reverse engineered a commercial spatial audio effect",
-      "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 13:16:45",
       "https://news.ycombinator.com/item?id=50043026"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-10-11, 10:45:55",
+      "https://news.ycombinator.com/item?id=50041755"
+    ],
+    [
+      "Building a VMM from scratch, #0: Why BoxLite is replacing libkrun",
+      "https://blog.boxlite.ai/building-a-vmm-from-scratch-0-why-boxlite-is-replacing-libkrun"
+    ]
+  ],
+  [
+    [
       "2026-10-11, 09:19:46",
       "https://news.ycombinator.com/item?id=50041252"
     ],
@@ -247,16 +257,6 @@
     [
       "Vectorized CLZ and CTZ",
       "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 02:02:38",
-      "https://news.ycombinator.com/item?id=50039092"
-    ],
-    [
-      "500B tokens later: Letting AI agents decompile a first-person shooter",
-      "https://momo5502.com/posts/2026-10-09-game-decompilation/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-10-10, 14:43:09",
-      "https://news.ycombinator.com/item?id=50033486"
+      "2026-10-10, 14:56:11",
+      "https://news.ycombinator.com/item?id=50033601"
     ],
     [
-      "FlowCE: Calculus on your TI-84 Plus CE",
-      "https://tommyb3ll.github.io/FlowCE/"
+      "Safe SIMD in Rust, even on the inside",
+      "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/"
     ]
   ],
   [
