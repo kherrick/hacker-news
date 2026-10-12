@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
+* [2026-10-12, 18:03:56](https://news.ycombinator.com/item?id=50060311) - [Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts](https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch)
 * [2026-10-12, 17:14:01](https://news.ycombinator.com/item?id=50059523) - [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
 * [2026-10-12, 16:54:08](https://news.ycombinator.com/item?id=50059204) - [Thinking Will Become a Hobby](https://www.spinellis.gr/blog/20261008/?li261008)
 * [2026-10-12, 16:48:01](https://news.ycombinator.com/item?id=50059115) - [Muse Wonder](https://research.meta.ai/blog/muse-wonder)
@@ -26,6 +27,7 @@
 * [2026-10-12, 12:26:32](https://news.ycombinator.com/item?id=50055409) - [(Post-Quantum) Cryptographic Right Answers](https://words.filippo.io/right-answers/)
 * [2026-10-12, 12:23:51](https://news.ycombinator.com/item?id=50055375) - [Incident with Actions, Pull Requests and Issues](https://www.githubstatus.com/incidents/93njd414rpbx)
 * [2026-10-12, 12:16:42](https://news.ycombinator.com/item?id=50055304) - [Hackers activate automatic defrosting accross European supermarket fridges](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
+* [2026-10-12, 12:09:09](https://news.ycombinator.com/item?id=50055220) - [Citroen revives the 2CV for an electric age](https://www.bbc.com/news/articles/c620r33plgppo)
 * [2026-10-12, 12:09:09](https://news.ycombinator.com/item?id=50055220) - [Citroen revives the 2CV for an electric age](https://www.bbc.co.uk/news/articles/c620r33plgppo)
 * [2026-10-12, 11:22:24](https://news.ycombinator.com/item?id=50054751) - [QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)
 * [2026-10-12, 10:53:41](https://news.ycombinator.com/item?id=50054474) - [Living in the Weimar Era of Ruby](https://blog.julik.nl/2026/10/the-weimar-of-ruby)
