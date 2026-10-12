@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-12, 07:47:29",
+      "https://news.ycombinator.com/item?id=50052814"
+    ],
+    [
+      "Zod 4.6.6 compromised by malware?",
+      "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 06:46:53",
+      "https://news.ycombinator.com/item?id=50052251"
+    ],
+    [
+      "Show HN: PS2 games statically recompiled to WebAssembly",
+      "https://github.com/snuri00/ps2-web-recomp"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 06:36:53",
       "https://news.ycombinator.com/item?id=50052163"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2026-10-12, 00:15:12",
-      "https://news.ycombinator.com/item?id=50049588"
-    ],
-    [
-      "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-      "https://github.com/SaarthurR/atticus-mac"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 00:03:53",
       "https://news.ycombinator.com/item?id=50049508"
     ],
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2026-10-11, 23:08:29",
-      "https://news.ycombinator.com/item?id=50049003"
+      "2026-10-11, 22:45:40",
+      "https://news.ycombinator.com/item?id=50048768"
     ],
     [
-      "ClickHouse C – Talk to ClickHouse using its native binary protocol",
-      "https://github.com/ClickHouse/clickhouse-c"
+      "Google Data Centers around the world",
+      "https://datacenters.google/locations/"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-10-11, 21:04:46",
-      "https://news.ycombinator.com/item?id=50047802"
-    ],
-    [
-      "Tattoos you can turn on and off",
-      "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 20:20:52",
       "https://news.ycombinator.com/item?id=50047422"
     ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=50047055"
     ],
     [
-      "So, You’d Like To Sell Your Print Issues Of The Onion?",
+      "So, you’d like to sell your print issues of The Onion?",
       "https://theonion.com/archivehunt/"
     ]
   ],
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-10-11, 16:58:22",
-      "https://news.ycombinator.com/item?id=50045273"
+      "2026-10-11, 13:16:45",
+      "https://news.ycombinator.com/item?id=50043026"
     ],
     [
-      "apsw: Another Python SQLite Wrapper",
-      "https://github.com/rogerbinns/apsw"
+      "Terence Tao: Math 2.0 [pdf]",
+      "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-10-11, 02:37:33",
+      "https://news.ycombinator.com/item?id=50039291"
+    ],
+    [
+      "Ask HN: Do you want a router that has DD-WRT pre-installed?",
+      "https://news.ycombinator.com/item?id=50039291"
+    ]
+  ],
+  [
+    [
       "2026-10-10, 23:12:55",
       "https://news.ycombinator.com/item?id=50038088"
     ],
@@ -277,16 +287,6 @@
     [
       "No portable way to detect string-to-float conversion errors in standard C",
       "https://sebsite.pw/w/20261009-strtod.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-10, 13:28:05",
-      "https://news.ycombinator.com/item?id=50032748"
-    ],
-    [
-      "Draw by Pinging IPv6 Addresses",
-      "https://pings.utwente.io/"
     ]
   ],
   [
