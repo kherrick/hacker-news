@@ -129,6 +129,157 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="50059115">
+          <h3>
+            <a class="item" href="https://research.meta.ai/blog/muse-wonder"
+              >Muse Wonder</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-12 @ 16:48:01</span
+              ><span class="points-container"
+                >Points: <span class="points">111</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50059115"
+                  >Comments</a
+                ><span class="descendants">: 46</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50059096">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=50059096"
+              >Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for
+              running agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-12 @ 16:46:34</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50059096"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://agent37.com">https://agent37.com</a>). We build
+              sandboxes for running AI agents at under 10% of the cost of most
+              sandbox providers. Our customers spend an average of $0.37/month
+              per sandbox.
+              <p>
+                You can view a video walkthrough of the product here:
+                <a href="https://youtu.be/DK5ISR2tbNo"
+                  >https://youtu.be/DK5ISR2tbNo</a
+                >
+              </p>
+              <p>
+                We started as one of those OpenClaw wrapper companies back in
+                February (yup.. judge me). In time we added more and more
+                harnesses.
+              </p>
+              <p>
+                One of the goals I had at the time was to offer a free plan to
+                users, so as to gain more market share. But it was too cost
+                prohibitive to do it right away. Especially since we were
+                bootstrapped and servers were running on my savings.
+              </p>
+              <p>
+                Today we’re actually able to offer the free plan thanks to the
+                optimizations we’ve made since. Over 90% of the new signups we
+                have are just free plan users and they host their personal
+                Hermes/Openclaw/Claude Code etc on our cloud. Our infrastructure
+                cost for the free sandboxes averages around $0.05 to $0.10 per
+                user per month.
+              </p>
+              <p>
+                Here are some techniques that have worked for lowering cost:
+              </p>
+              <p>
+                * When you look at agent harnesses, they have certain patterns
+                in the way they consume CPU and RAM. They need CPU in bursts
+                when they’re initializing or performing certain tasks, but
+                beyond that, they’re often not peaking. They need more RAM for
+                things like browser and computer-use tasks. Once the task is
+                done, usage often comes back down. This is a key insight in
+                lowering cost, so by efficiently managing the CPU/RAM
+                utilization we could lower the cost.
+              </p>
+              <p>
+                * Secondly, you have to skip the hyperscalers when renting the
+                Hosts. I worked at Amazon before and they have 80-90% margins on
+                VMs. So it was an obvious choice once I looked at the prices to
+                go one layer down to vendors like Hetzner and OVH. This alone
+                was probably one of the biggest cost levers in reducing the
+                cost.
+              </p>
+              <p>
+                * Thirdly, you also want to pick a technology stack that lets
+                you efficiently cache and share resources across the host. We
+                use gVisor for better utilization and fast boot times. It lets
+                us use available host memory across sandboxes without reserving
+                a full VM’s memory for each one. There are tradeoffs: our gVisor
+                sandboxes don’t support workloads like Docker-in-Docker or
+                Android emulators.
+              </p>
+              <p>
+                * And finally the size and shape of the hosts you buy also makes
+                a big difference. RAM is typically the bottleneck when it comes
+                to cost and not the CPU. This is specifically true for agent
+                harness workloads, so when buying servers, we optimize for
+                packing more RAM into a given host.
+              </p>
+              <p>
+                We also host full VM sandboxes for workloads that need them,
+                including running Docker at a slightly higher price, but they
+                are still pretty low cost given the rest of the techniques.
+              </p>
+              <p>
+                Overall, my learning has been that just by focusing on a niche
+                of sandbox usecases, and optimizing for it you can give a much
+                better cost/performance tradeoff.
+              </p>
+              <p>
+                I was previously a Senior Software Engineer at Amazon and an
+                Engineering Manager at Quantcast. I built Amazon's internal AI
+                chatbot, Diya, and their internal coding harness, Ziya.
+              </p>
+              <p>
+                If you’re someone who’s looking to run agents on sandbox and are
+                exploring a sandbox vendor, come check us out. We’re
+                particularly looking for developers building messaging agents to
+                try their workloads and challenge the limits and economics of
+                our platform.
+              </p>
+              <p>Thanks!</p>
+              <p><a href="https://agent37.com">https://agent37.com</a></p>
+            </div>
+          </section>
+        </section>
+        <section id="50058850">
+          <h3>
+            <a class="item" href="https://github.com/morluto/rea"
+              >Reverse engineer anything with agents, from app behavior down to
+              native binaries</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-12 @ 16:31:55</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50058850"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="50058528">
           <h3>
             <a
@@ -141,11 +292,11 @@
             <h4>
               <span>2026-10-12 @ 16:13:10</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50058528"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -160,11 +311,11 @@
             <h4>
               <span>2026-10-12 @ 16:11:45</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50058507"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -182,11 +333,30 @@
             <h4>
               <span>2026-10-12 @ 15:36:21</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50057956"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 116</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50057668">
+          <h3>
+            <a class="item" href="https://taylor.town/kk-ai-2026"
+              >Kevin Kelly's 2016 AI Predictions, 10 Years Later</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-12 @ 15:16:45</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50057668"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -203,11 +373,11 @@
             <h4>
               <span>2026-10-12 @ 15:08:53</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50057551"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -225,11 +395,11 @@
             <h4>
               <span>2026-10-12 @ 14:59:08</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50057384"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -246,7 +416,7 @@
             <h4>
               <span>2026-10-12 @ 14:45:44</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50057185"
                   >Comments</a
@@ -267,33 +437,11 @@
             <h4>
               <span>2026-10-12 @ 14:34:25</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50057030"
                   >Comments</a
                 ><span class="descendants">: 5</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50055654">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules"
-              >AI less regulated than milk, Microsoft president says in warning
-              over safety</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-12 @ 12:46:52</span
-              ><span class="points-container"
-                >Points: <span class="points">55</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50055654"
-                  >Comments</a
-                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -309,11 +457,11 @@
             <h4>
               <span>2026-10-12 @ 12:41:58</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50055593"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -330,11 +478,11 @@
             <h4>
               <span>2026-10-12 @ 12:23:51</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50055375"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -344,18 +492,18 @@
             <a
               class="item"
               href="https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
-              >QGIS bans AI assisted contributions</a
+              >QGIS enacts moratorium on AI assisted contributions</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-10-12 @ 11:22:24</span
               ><span class="points-container"
-                >Points: <span class="points">330</span></span
+                >Points: <span class="points">332</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50054751"
                   >Comments</a
-                ><span class="descendants">: 355</span></span
+                ><span class="descendants">: 357</span></span
               >
             </h4>
           </section>
@@ -372,11 +520,11 @@
             <h4>
               <span>2026-10-12 @ 10:53:41</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50054474"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -393,11 +541,11 @@
             <h4>
               <span>2026-10-12 @ 07:28:53</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50052638"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -412,11 +560,11 @@
             <h4>
               <span>2026-10-12 @ 06:46:53</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50052251"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -433,7 +581,7 @@
             <h4>
               <span>2026-10-12 @ 05:02:34</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50051573"
                   >Comments</a
@@ -461,25 +609,6 @@
             </h4>
           </section>
         </section>
-        <section id="50049508">
-          <h3>
-            <a class="item" href="https://tedhaley.ca/pensieve/"
-              >Local Indexing to reduce tool calling and token usage</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-12 @ 00:03:53</span
-              ><span class="points-container"
-                >Points: <span class="points">114</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50049508"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="50048642">
           <h3>
             <a
@@ -492,53 +621,11 @@
             <h4>
               <span>2026-10-11 @ 22:33:39</span
               ><span class="points-container"
-                >Points: <span class="points">616</span></span
+                >Points: <span class="points">628</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50048642"
                   >Comments</a
-                ><span class="descendants">: 301</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50048312">
-          <h3>
-            <a
-              class="item"
-              href="https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them"
-              >Passkeys are a trap</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-11 @ 21:59:48</span
-              ><span class="points-container"
-                >Points: <span class="points">937</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50048312"
-                  >Comments</a
-                ><span class="descendants">: 487</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50047422">
-          <h3>
-            <a
-              class="item"
-              href="https://twitter.com/karpathy/status/2109361546505966046"
-              >The gap in shared understanding of LLM capability is widening</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-11 @ 20:20:52</span
-              ><span class="points-container"
-                >Points: <span class="points">619</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50047422"
-                  >Comments</a
-                ><span class="descendants">: 892</span></span
+                ><span class="descendants">: 304</span></span
               >
             </h4>
           </section>
@@ -572,11 +659,11 @@
             <h4>
               <span>2026-10-11 @ 18:04:47</span
               ><span class="points-container"
-                >Points: <span class="points">628</span></span
+                >Points: <span class="points">632</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50045984"
                   >Comments</a
-                ><span class="descendants">: 238</span></span
+                ><span class="descendants">: 239</span></span
               >
             </h4>
           </section>
@@ -593,11 +680,11 @@
             <h4>
               <span>2026-10-11 @ 13:16:45</span
               ><span class="points-container"
-                >Points: <span class="points">482</span></span
+                >Points: <span class="points">486</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50043026"
                   >Comments</a
-                ><span class="descendants">: 474</span></span
+                ><span class="descendants">: 478</span></span
               >
             </h4>
           </section>
@@ -631,7 +718,7 @@
             <h4>
               <span>2026-10-11 @ 10:18:18</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50041573"
                   >Comments</a
@@ -650,11 +737,11 @@
             <h4>
               <span>2026-10-11 @ 02:37:33</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50039291"
                   >Comments</a
-                ><span class="descendants">: 123</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
             <div class="text">
@@ -730,11 +817,11 @@
             <h4>
               <span>2026-10-10 @ 22:10:57</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50037711"
                   >Comments</a
-                ><span class="descendants">: 129</span></span
+                ><span class="descendants">: 133</span></span
               >
             </h4>
           </section>
@@ -752,11 +839,11 @@
             <h4>
               <span>2026-10-10 @ 19:28:41</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50036287"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -773,7 +860,7 @@
             <h4>
               <span>2026-10-10 @ 17:12:33</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50034950"
                   >Comments</a
@@ -794,7 +881,7 @@
             <h4>
               <span>2026-10-10 @ 15:59:52</span
               ><span class="points-container"
-                >Points: <span class="points">217</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50034206"
                   >Comments</a
