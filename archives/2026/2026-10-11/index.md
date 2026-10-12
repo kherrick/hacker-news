@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-11](index.md)
 
+* [2026-10-11, 23:52:23](https://news.ycombinator.com/item?id=50049425) - [Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM](https://github.com/moral666/QT)
 * [2026-10-11, 23:50:34](https://news.ycombinator.com/item?id=50049411) - [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
 * [2026-10-11, 23:47:59](https://news.ycombinator.com/item?id=50049388) - [Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes](https://github.com/plimsollmark/plimsoll)
 * [2026-10-11, 23:40:06](https://news.ycombinator.com/item?id=50049302) - [Governments are mishandling the affordability crisis](https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis)
@@ -62,6 +63,7 @@
 * [2026-10-11, 10:34:43](https://news.ycombinator.com/item?id=50041667) - [\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/)
 * [2026-10-11, 10:27:53](https://news.ycombinator.com/item?id=50041619) - [Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter](https://radar.cloudflare.com/bots/as13238?dateRange=7d)
 * [2026-10-11, 10:11:27](https://news.ycombinator.com/item?id=50041540) - [IRCv3](https://ircv3.net/)
+* [2026-10-11, 09:19:46](https://news.ycombinator.com/item?id=50041252) - [Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos](https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5)
 * [2026-10-11, 07:53:42](https://news.ycombinator.com/item?id=50040625) - [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
 * [2026-10-11, 07:34:45](https://news.ycombinator.com/item?id=50040547) - [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
 * [2026-10-11, 06:18:59](https://news.ycombinator.com/item?id=50040276) - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
