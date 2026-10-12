@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-12, 19:25:29](https://news.ycombinator.com/item?id=50061603) - [AI models may be capable of self-replicating without access to a datacenter](https://www.anthropic.com/research/self-replicating-ai)
 * [2026-10-12, 19:08:21](https://news.ycombinator.com/item?id=50061278) - [Introducing OpenFatigue](https://openfatigue.ai/)
 * [2026-10-12, 18:29:04](https://news.ycombinator.com/item?id=50060694) - [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
 * [2026-10-12, 18:27:26](https://news.ycombinator.com/item?id=50060674) - [Publishers Killed the Paperback, Then Blamed Readers](https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback)
 * [2026-10-12, 18:09:10](https://news.ycombinator.com/item?id=50060387) - [French supermarkets suffer refrigerator shutdown after unprecedented cyberattack](https://www.rnz.co.nz/news/world/1865776/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack)
 * [2026-10-12, 18:02:32](https://news.ycombinator.com/item?id=50060296) - [My Reddit AMA on the Law of Web Scraping](https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm)
-* [2026-10-12, 18:00:25](https://news.ycombinator.com/item?id=50060269) - ['AI' Is Not a Tool by Rich Hickey](https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b11c02)
 * [2026-10-12, 17:14:01](https://news.ycombinator.com/item?id=50059523) - [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
 * [2026-10-12, 17:08:16](https://news.ycombinator.com/item?id=50059446) - [Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon's Producer](https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/)
 * [2026-10-12, 16:54:08](https://news.ycombinator.com/item?id=50059204) - [Thinking will become a hobby](https://www.spinellis.gr/blog/20261008/?li261008)
