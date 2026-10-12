@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-12, 12:46:52](https://news.ycombinator.com/item?id=50055654) - [AI less regulated than milk, Microsoft president says in warning over safety](https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules)
-* [2026-10-12, 12:16:42](https://news.ycombinator.com/item?id=50055304) - [Hackers activate automatic defrosting accross European supermarket fridges](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
+* [2026-10-12, 12:23:51](https://news.ycombinator.com/item?id=50055375) - [Incident with Actions, Pull Requests and Issues](https://www.githubstatus.com/incidents/93njd414rpbx)
 * [2026-10-12, 12:09:09](https://news.ycombinator.com/item?id=50055220) - [Citroen revives the 2CV for an electric age](https://www.bbc.co.uk/news/articles/c620r33plgppo)
 * [2026-10-12, 11:22:24](https://news.ycombinator.com/item?id=50054751) - [QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)
 * [2026-10-12, 10:21:27](https://news.ycombinator.com/item?id=50054207) - [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo)
@@ -21,6 +20,7 @@
 * [2026-10-11, 19:46:40](https://news.ycombinator.com/item?id=50047091) - [Cartographers of North Korea (2019)](https://cartographers-nk.wonyoung.so/)
 * [2026-10-11, 18:26:24](https://news.ycombinator.com/item?id=50046241) - [Chapter 1 of \"Ways of Seeing\" by John Berger (1972)](https://www.ways-of-seeing.com/ch1)
 * [2026-10-11, 18:04:47](https://news.ycombinator.com/item?id=50045984) - [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
+* [2026-10-11, 18:01:16](https://news.ycombinator.com/item?id=50045946) - [NYC's \"Click to Cancel\" rule is now in effect](https://www.nyc.gov/main/click-to-cancel)
 * [2026-10-11, 13:16:45](https://news.ycombinator.com/item?id=50043026) - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 * [2026-10-11, 13:05:03](https://news.ycombinator.com/item?id=50042936) - [Choreographic Programming in Rust](https://github.com/hibanaworks/hibana)
 * [2026-10-11, 10:18:18](https://news.ycombinator.com/item?id=50041573) - [Running the unmodified Linux amdgpu driver on an iPad](https://github.com/Geramy/LemonSeed-Studio)
