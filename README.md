@@ -13,7 +13,6 @@
 * [2026-10-12, 00:03:53](https://news.ycombinator.com/item?id=50049508) - [Local Indexing to reduce tool calling and token usage](https://tedhaley.ca/pensieve/)
 * [2026-10-11, 23:50:34](https://news.ycombinator.com/item?id=50049411) - [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
 * [2026-10-11, 23:22:36](https://news.ycombinator.com/item?id=50049133) - [Illustration Beyond Proof](https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/)
-* [2026-10-11, 22:45:40](https://news.ycombinator.com/item?id=50048768) - [Google Data Centers around the world](https://datacenters.google/locations/)
 * [2026-10-11, 22:33:39](https://news.ycombinator.com/item?id=50048642) - [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
 * [2026-10-11, 21:59:48](https://news.ycombinator.com/item?id=50048312) - [Passkeys are a trap](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
 * [2026-10-11, 20:20:52](https://news.ycombinator.com/item?id=50047422) - [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046)
@@ -25,11 +24,12 @@
 * [2026-10-11, 13:16:45](https://news.ycombinator.com/item?id=50043026) - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 * [2026-10-11, 10:18:18](https://news.ycombinator.com/item?id=50041573) - [Running the unmodified Linux amdgpu driver on an iPad](https://github.com/Geramy/LemonSeed-Studio)
 * [2026-10-11, 09:19:46](https://news.ycombinator.com/item?id=50041252) - [Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos](https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5)
-* [2026-10-11, 03:36:42](https://news.ycombinator.com/item?id=50039608) - [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
 * [2026-10-11, 02:37:33](https://news.ycombinator.com/item?id=50039291) - [Ask HN: Do you want a router that has DD-WRT pre-installed?](https://news.ycombinator.com/item?id=50039291)
 * [2026-10-10, 22:10:57](https://news.ycombinator.com/item?id=50037711) - [Secret of Orange Cats Revealed After 60-Year Search](https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search)
+* [2026-10-10, 19:28:41](https://news.ycombinator.com/item?id=50036287) - [The Making Of Super Mario 64 – full Giles Goddard interview (2001)](https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/)
 * [2026-10-10, 17:12:33](https://news.ycombinator.com/item?id=50034950) - [Bag of Decisions Reranker](https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html)
 * [2026-10-10, 15:59:52](https://news.ycombinator.com/item?id=50034206) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+* [2026-10-09, 15:32:04](https://news.ycombinator.com/item?id=50021989) - [I guess I'm using WebP now?](https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now)
 
 ## [Archives](archives/index.md)
 
