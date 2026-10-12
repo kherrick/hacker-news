@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
+* [2026-10-12, 14:52:37](https://news.ycombinator.com/item?id=50057278) - [Why aren't AI companies being charged for hacking?](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
+* [2026-10-12, 14:34:25](https://news.ycombinator.com/item?id=50057030) - [An Unmade Film Shaped Hayao Miyazaki](https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki)
+* [2026-10-12, 14:19:04](https://news.ycombinator.com/item?id=50056822) - [Solar Panels That Plug into Your Wall Are About to Be Everywhere](https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy)
 * [2026-10-12, 13:20:04](https://news.ycombinator.com/item?id=50056063) - [\"Just Ask Claude\" Is a Rare and Valuable Skill](https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable)
 * [2026-10-12, 12:46:52](https://news.ycombinator.com/item?id=50055654) - [AI less regulated than milk, Microsoft president says in warning over safety](https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules)
 * [2026-10-12, 12:23:51](https://news.ycombinator.com/item?id=50055375) - [Incident with Actions, Pull Requests and Issues](https://www.githubstatus.com/incidents/93njd414rpbx)
