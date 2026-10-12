@@ -51,6 +51,7 @@
 * [2026-10-11, 13:17:52](https://news.ycombinator.com/item?id=50043030) - [SQLAlchemy 2.1.0 Released](https://www.sqlalchemy.org/blog/2026/09/24/sqlalchemy-2.1.0-released/)
 * [2026-10-11, 13:16:45](https://news.ycombinator.com/item?id=50043026) - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 * [2026-10-11, 13:06:36](https://news.ycombinator.com/item?id=50042942) - [How HN: Go-dev-auth zero-dependency authentication library for Go](https://github.com/go-dev-auth/go-dev-auth)
+* [2026-10-11, 13:05:03](https://news.ycombinator.com/item?id=50042936) - [Choreographic Programming in Rust](https://github.com/hibanaworks/hibana)
 * [2026-10-11, 13:00:27](https://news.ycombinator.com/item?id=50042896) - [Bot traffic plunged to near 0 following the strike on its Vladimir data center](https://bsky.app/profile/perevaa.bsky.social/post/3mxlm6w2wcs26)
 * [2026-10-11, 12:13:13](https://news.ycombinator.com/item?id=50042425) - [Don't Put Tilde In Your Path](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
 * [2026-10-11, 12:07:22](https://news.ycombinator.com/item?id=50042370) - [Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests](https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html)

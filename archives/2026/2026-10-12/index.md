@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
+* [2026-10-12, 12:46:52](https://news.ycombinator.com/item?id=50055654) - [AI less regulated than milk, Microsoft president says in warning over safety](https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules)
 * [2026-10-12, 12:16:42](https://news.ycombinator.com/item?id=50055304) - [Hackers activate automatic defrosting accross European supermarket fridges](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 * [2026-10-12, 12:09:09](https://news.ycombinator.com/item?id=50055220) - [Citroen revives the 2CV for an electric age](https://www.bbc.co.uk/news/articles/c620r33plgppo)
 * [2026-10-12, 11:22:24](https://news.ycombinator.com/item?id=50054751) - [QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)
