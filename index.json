@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-10-12, 03:50:58",
-      "https://news.ycombinator.com/item?id=50051172"
+      "2026-10-12, 05:02:34",
+      "https://news.ycombinator.com/item?id=50051573"
     ],
     [
-      "X Is Bad, Though",
-      "https://lexontech.org/x-is-bad-though"
+      "Type-safe HTML templating in Zig",
+      "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 04:54:12",
+      "https://news.ycombinator.com/item?id=50051532"
+    ],
+    [
+      "Yandex bot traffic down 99% after data center attack",
+      "https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Show HN: BetterWispr – Free, open-source dictation for Mac",
       "https://betterwispr.com/"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 10:45:55",
-      "https://news.ycombinator.com/item?id=50041755"
-    ],
-    [
-      "Building a VMM from scratch, #0: Why BoxLite is replacing libkrun",
-      "https://blog.boxlite.ai/building-a-vmm-from-scratch-0-why-boxlite-is-replacing-libkrun"
     ]
   ],
   [
