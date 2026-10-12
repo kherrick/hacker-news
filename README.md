@@ -1,6 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-12, 23:36:00](https://news.ycombinator.com/item?id=50064546) - [SQL Injection found on ibm.com subdomain](https://hackerone.com/reports/3662090)
+* [2026-10-12, 23:34:22](https://news.ycombinator.com/item?id=50064536) - [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
+* [2026-10-12, 23:07:25](https://news.ycombinator.com/item?id=50064318) - [GPT-6 Astra Helped Me Jailbreak My Kindle](https://nirajrajgor.com/blog/kindle-photo-frame-with-ai)
 * [2026-10-12, 22:15:29](https://news.ycombinator.com/item?id=50063831) - [Breaking Bad star RJ Mitte dies aged 34](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
+* [2026-10-12, 22:05:43](https://news.ycombinator.com/item?id=50063717) - [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
 * [2026-10-12, 21:40:18](https://news.ycombinator.com/item?id=50063427) - [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 * [2026-10-12, 21:39:32](https://news.ycombinator.com/item?id=50063417) - [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
 * [2026-10-12, 21:35:35](https://news.ycombinator.com/item?id=50063365) - [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
@@ -10,7 +14,6 @@
 * [2026-10-12, 19:36:02](https://news.ycombinator.com/item?id=50061791) - [Making big downloads resumable in Firefox](https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html)
 * [2026-10-12, 18:29:04](https://news.ycombinator.com/item?id=50060694) - [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
 * [2026-10-12, 18:27:26](https://news.ycombinator.com/item?id=50060674) - [Publishers Killed the Paperback, Then Blamed Readers](https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback)
-* [2026-10-12, 18:02:32](https://news.ycombinator.com/item?id=50060296) - [My Reddit AMA on the Law of Web Scraping](https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm)
 * [2026-10-12, 18:00:25](https://news.ycombinator.com/item?id=50060269) - ['AI' Is Not a Tool by Rich Hickey](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 * [2026-10-12, 17:14:01](https://news.ycombinator.com/item?id=50059523) - [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
 * [2026-10-12, 16:54:08](https://news.ycombinator.com/item?id=50059204) - [Thinking will become a hobby](https://www.spinellis.gr/blog/20261008/?li261008)
@@ -24,12 +27,9 @@
 * [2026-10-12, 12:16:42](https://news.ycombinator.com/item?id=50055304) - [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 * [2026-10-12, 12:09:09](https://news.ycombinator.com/item?id=50055220) - [Citroen revives the 2CV for an electric age](https://www.bbc.com/news/articles/c620r33plgppo)
 * [2026-10-12, 06:46:53](https://news.ycombinator.com/item?id=50052251) - [Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp)
-* [2026-10-12, 05:02:34](https://news.ycombinator.com/item?id=50051573) - [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
 * [2026-10-12, 00:15:12](https://news.ycombinator.com/item?id=50049588) - [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac)
-* [2026-10-11, 19:12:39](https://news.ycombinator.com/item?id=50046745) - [America's Longest Highway Tunnel (2025)](https://www.thetravel.com/americas-longest-highway-tunnel-not-for-faint-of-heart/)
 * [2026-10-10, 22:10:57](https://news.ycombinator.com/item?id=50037711) - [Secret of Orange Cats Revealed After 60-Year Search](https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search)
 * [2026-10-10, 19:28:41](https://news.ycombinator.com/item?id=50036287) - [The Making Of Super Mario 64 – full Giles Goddard interview (2001)](https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/)
-* [2026-10-10, 15:39:30](https://news.ycombinator.com/item?id=50034001) - [No portable way to detect string-to-float conversion errors in standard C](https://sebsite.pw/w/20261009-strtod.html)
 
 ## [Archives](archives/index.md)
 

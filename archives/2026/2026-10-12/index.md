@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
+* [2026-10-12, 23:36:00](https://news.ycombinator.com/item?id=50064546) - [SQL Injection found on ibm.com subdomain](https://hackerone.com/reports/3662090)
+* [2026-10-12, 23:34:22](https://news.ycombinator.com/item?id=50064536) - [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
+* [2026-10-12, 23:07:25](https://news.ycombinator.com/item?id=50064318) - [GPT-6 Astra Helped Me Jailbreak My Kindle](https://nirajrajgor.com/blog/kindle-photo-frame-with-ai)
 * [2026-10-12, 22:15:29](https://news.ycombinator.com/item?id=50063831) - [Breaking Bad star RJ Mitte dies aged 34](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
+* [2026-10-12, 22:05:43](https://news.ycombinator.com/item?id=50063717) - [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
 * [2026-10-12, 21:40:18](https://news.ycombinator.com/item?id=50063427) - [AI Is a Tool. Using It Well Takes Skill.](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 * [2026-10-12, 21:39:32](https://news.ycombinator.com/item?id=50063417) - [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
 * [2026-10-12, 21:35:35](https://news.ycombinator.com/item?id=50063365) - [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
