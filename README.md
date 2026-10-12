@@ -2,7 +2,6 @@
 
 * [2026-10-12, 10:21:27](https://news.ycombinator.com/item?id=50054207) - [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo)
 * [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms hidden chip in crypto wallet amid $92M theft claims](https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/)
-* [2026-10-12, 08:30:33](https://news.ycombinator.com/item?id=50053216) - [Fable Took My Job](https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html)
 * [2026-10-12, 07:47:29](https://news.ycombinator.com/item?id=50052814) - [Zod 4.6.6 compromised by malware?](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467)
 * [2026-10-12, 06:46:53](https://news.ycombinator.com/item?id=50052251) - [Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp)
 * [2026-10-12, 06:36:53](https://news.ycombinator.com/item?id=50052163) - [Postgres isn't slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)
@@ -25,11 +24,12 @@
 * [2026-10-11, 13:16:45](https://news.ycombinator.com/item?id=50043026) - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 * [2026-10-11, 10:18:18](https://news.ycombinator.com/item?id=50041573) - [Running the unmodified Linux amdgpu driver on an iPad](https://github.com/Geramy/LemonSeed-Studio)
 * [2026-10-11, 09:19:46](https://news.ycombinator.com/item?id=50041252) - [Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos](https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5)
+* [2026-10-11, 03:36:42](https://news.ycombinator.com/item?id=50039608) - [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
 * [2026-10-11, 02:37:33](https://news.ycombinator.com/item?id=50039291) - [Ask HN: Do you want a router that has DD-WRT pre-installed?](https://news.ycombinator.com/item?id=50039291)
 * [2026-10-10, 22:10:57](https://news.ycombinator.com/item?id=50037711) - [Secret of Orange Cats Revealed After 60-Year Search](https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search)
 * [2026-10-10, 17:12:33](https://news.ycombinator.com/item?id=50034950) - [Bag of Decisions Reranker](https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html)
 * [2026-10-10, 15:59:52](https://news.ycombinator.com/item?id=50034206) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
-* [2026-10-10, 15:39:30](https://news.ycombinator.com/item?id=50034001) - [No portable way to detect string-to-float conversion errors in standard C](https://sebsite.pw/w/20261009-strtod.html)
+* [2026-10-09, 15:32:04](https://news.ycombinator.com/item?id=50021989) - [I guess I'm using WebP now?](https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now)
 
 ## [Archives](archives/index.md)
 
