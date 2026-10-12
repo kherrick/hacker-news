@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-10-12, 01:57:39",
-      "https://news.ycombinator.com/item?id=50050370"
+      "2026-10-12, 02:52:10",
+      "https://news.ycombinator.com/item?id=50050762"
     ],
     [
-      "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "https://github.com/storytold/wordcraft"
+      "Sorry we made you grind LeetCode",
+      "https://www.hackerrank.com/writing/why-were-sorry"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Illustration Beyond Proof",
       "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 23:22:29",
-      "https://news.ycombinator.com/item?id=50049132"
-    ],
-    [
-      "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
-      "https://github.com/swimmingbrain/brainotes"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "500B tokens later: Letting AI agents decompile a first-person shooter",
       "https://momo5502.com/posts/2026-10-09-game-decompilation/"
+    ]
+  ],
+  [
+    [
+      "2026-10-10, 15:59:52",
+      "https://news.ycombinator.com/item?id=50034206"
+    ],
+    [
+      "Calculus with Julia",
+      "https://jverzani.github.io/CalculusWithJuliaNotes.jl/"
     ]
   ],
   [
