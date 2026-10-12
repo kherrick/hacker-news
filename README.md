@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-12, 20:05:00](https://news.ycombinator.com/item?id=50062205) - [Muse DAU dropped and Meta insiders decided to sell](https://theinference.org/article/meta-s-muse-daily-user-growth-fell-62-in-three-weeks-and-insiders-made-172-trades-without-a-buy)
+* [2026-10-12, 20:07:42](https://news.ycombinator.com/item?id=50062237) - [Epic Games tells employees to use AI to get Disney game done](https://www.avclub.com/epic-games-disney-ai-delay)
 * [2026-10-12, 19:40:00](https://news.ycombinator.com/item?id=50061859) - [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
 * [2026-10-12, 19:08:21](https://news.ycombinator.com/item?id=50061278) - [Introducing OpenFatigue](https://openfatigue.ai/)
 * [2026-10-12, 18:29:04](https://news.ycombinator.com/item?id=50060694) - [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
@@ -18,7 +18,7 @@
 * [2026-10-12, 12:41:58](https://news.ycombinator.com/item?id=50055593) - [Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr)
 * [2026-10-12, 12:26:32](https://news.ycombinator.com/item?id=50055409) - [(Post-Quantum) Cryptographic Right Answers](https://words.filippo.io/right-answers/)
 * [2026-10-12, 12:23:51](https://news.ycombinator.com/item?id=50055375) - [Incident with Actions, Pull Requests and Issues](https://www.githubstatus.com/incidents/93njd414rpbx)
-* [2026-10-12, 12:16:42](https://news.ycombinator.com/item?id=50055304) - [Hackers activate automatic defrosting accross European supermarket fridges](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
+* [2026-10-12, 12:16:42](https://news.ycombinator.com/item?id=50055304) - [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 * [2026-10-12, 12:09:09](https://news.ycombinator.com/item?id=50055220) - [Citroen revives the 2CV for an electric age](https://www.bbc.com/news/articles/c620r33plgppo)
 * [2026-10-12, 11:22:24](https://news.ycombinator.com/item?id=50054751) - [QGIS enacts moratorium on AI contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)
 * [2026-10-12, 07:28:53](https://news.ycombinator.com/item?id=50052638) - [I Found a $90k Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)
