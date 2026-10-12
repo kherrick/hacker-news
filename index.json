@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-12, 10:09:37",
+      "https://news.ycombinator.com/item?id=50054092"
+    ],
+    [
+      "Ledger confirms hidden chip in crypto wallet amid $92M theft claims",
+      "https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 08:30:33",
       "https://news.ycombinator.com/item?id=50053216"
     ],
@@ -287,16 +297,6 @@
     [
       "No portable way to detect string-to-float conversion errors in standard C",
       "https://sebsite.pw/w/20261009-strtod.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 15:32:04",
-      "https://news.ycombinator.com/item?id=50021989"
-    ],
-    [
-      "I guess I'm using WebP now?",
-      "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now"
     ]
   ]
 ]
