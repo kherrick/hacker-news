@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-12, 17:14:01",
+      "https://news.ycombinator.com/item?id=50059523"
+    ],
+    [
+      "AI coding agents generate more code, but not more software",
+      "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 16:54:08",
+      "https://news.ycombinator.com/item?id=50059204"
+    ],
+    [
+      "Thinking Will Become a Hobby",
+      "https://www.spinellis.gr/blog/20261008/?li261008"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 16:48:01",
       "https://news.ycombinator.com/item?id=50059115"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2026-10-12, 15:36:21",
-      "https://news.ycombinator.com/item?id=50057956"
-    ],
-    [
-      "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
-      "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 15:16:45",
       "https://news.ycombinator.com/item?id=50057668"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2026-10-12, 14:45:44",
-      "https://news.ycombinator.com/item?id=50057185"
-    ],
-    [
-      "Deep dive into Azure Maia 300 architecture",
-      "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 14:34:25",
       "https://news.ycombinator.com/item?id=50057030"
     ],
@@ -117,6 +117,16 @@
     [
       "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
       "https://github.com/h0m3us3r/w1700k-sdr"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 12:26:32",
+      "https://news.ycombinator.com/item?id=50055409"
+    ],
+    [
+      "(Post-Quantum) Cryptographic Right Answers",
+      "https://words.filippo.io/right-answers/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Running the unmodified Linux amdgpu driver on an iPad",
       "https://github.com/Geramy/LemonSeed-Studio"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 02:37:33",
-      "https://news.ycombinator.com/item?id=50039291"
-    ],
-    [
-      "Ask HN: Do you want a router that has DD-WRT pre-installed?",
-      "https://news.ycombinator.com/item?id=50039291"
     ]
   ],
   [
