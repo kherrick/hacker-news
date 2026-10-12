@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-12, 03:50:58](https://news.ycombinator.com/item?id=50051172) - [X Is Bad, Though](https://lexontech.org/x-is-bad-though)
+* [2026-10-12, 05:02:34](https://news.ycombinator.com/item?id=50051573) - [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
+* [2026-10-12, 04:54:12](https://news.ycombinator.com/item?id=50051532) - [Yandex bot traffic down 99% after data center attack](https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic)
 * [2026-10-12, 00:48:27](https://news.ycombinator.com/item?id=50049872) - [Doory – Open-Source Canva](https://github.com/shaongitbd/doory)
 * [2026-10-12, 00:03:53](https://news.ycombinator.com/item?id=50049508) - [Local Indexing to reduce tool calling and token usage](https://tedhaley.ca/pensieve/)
 * [2026-10-12, 00:02:45](https://news.ycombinator.com/item?id=50049498) - [HashiCorp archives the Boundary open source repo](https://github.com/hashicorp/boundary)
@@ -23,7 +24,6 @@
 * [2026-10-11, 13:16:45](https://news.ycombinator.com/item?id=50043026) - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 * [2026-10-11, 12:06:22](https://news.ycombinator.com/item?id=50042362) - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
 * [2026-10-11, 12:01:28](https://news.ycombinator.com/item?id=50042333) - [Show HN: BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/)
-* [2026-10-11, 10:45:55](https://news.ycombinator.com/item?id=50041755) - [Building a VMM from scratch, #0: Why BoxLite is replacing libkrun](https://blog.boxlite.ai/building-a-vmm-from-scratch-0-why-boxlite-is-replacing-libkrun)
 * [2026-10-11, 09:19:46](https://news.ycombinator.com/item?id=50041252) - [Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos](https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5)
 * [2026-10-11, 03:36:42](https://news.ycombinator.com/item?id=50039608) - [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
 * [2026-10-10, 15:59:52](https://news.ycombinator.com/item?id=50034206) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
