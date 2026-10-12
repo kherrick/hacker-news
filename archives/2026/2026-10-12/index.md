@@ -16,6 +16,7 @@
 * [2026-10-12, 18:09:10](https://news.ycombinator.com/item?id=50060387) - [French supermarkets suffer refrigerator shutdown after unprecedented cyberattack](https://www.rnz.co.nz/news/world/1865776/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack)
 * [2026-10-12, 18:03:56](https://news.ycombinator.com/item?id=50060311) - [Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts](https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch)
 * [2026-10-12, 18:02:32](https://news.ycombinator.com/item?id=50060296) - [My Reddit AMA on the Law of Web Scraping](https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm)
+* [2026-10-12, 18:00:25](https://news.ycombinator.com/item?id=50060269) - ['AI' Is Not a Tool by Rich Hickey](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 * [2026-10-12, 18:00:25](https://news.ycombinator.com/item?id=50060269) - ['AI' Is Not a Tool by Rich Hickey](https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b11c02)
 * [2026-10-12, 17:14:01](https://news.ycombinator.com/item?id=50059523) - [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
 * [2026-10-12, 17:08:16](https://news.ycombinator.com/item?id=50059446) - [Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon's Producer](https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/)

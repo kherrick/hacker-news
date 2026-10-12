@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-12, 20:07:42](https://news.ycombinator.com/item?id=50062237) - [Epic Games tells employees to use AI to get Disney game done](https://www.avclub.com/epic-games-disney-ai-delay)
-* [2026-10-12, 19:52:12](https://news.ycombinator.com/item?id=50062025) - [Martin Odersky – Keynote: The End of Programming? [video]](https://www.youtube.com/watch?v=jlJyuJhDnlc)
 * [2026-10-12, 19:40:00](https://news.ycombinator.com/item?id=50061859) - [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
 * [2026-10-12, 19:08:21](https://news.ycombinator.com/item?id=50061278) - [Introducing OpenFatigue](https://openfatigue.ai/)
 * [2026-10-12, 18:29:04](https://news.ycombinator.com/item?id=50060694) - [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
 * [2026-10-12, 18:27:26](https://news.ycombinator.com/item?id=50060674) - [Publishers Killed the Paperback, Then Blamed Readers](https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback)
 * [2026-10-12, 18:02:32](https://news.ycombinator.com/item?id=50060296) - [My Reddit AMA on the Law of Web Scraping](https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm)
+* [2026-10-12, 18:00:25](https://news.ycombinator.com/item?id=50060269) - ['AI' Is Not a Tool by Rich Hickey](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 * [2026-10-12, 17:14:01](https://news.ycombinator.com/item?id=50059523) - [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
-* [2026-10-12, 17:08:16](https://news.ycombinator.com/item?id=50059446) - [Feds got warrants to use fake cell towers to hunt down Don Lemon's producer](https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/)
 * [2026-10-12, 16:54:08](https://news.ycombinator.com/item?id=50059204) - [Thinking will become a hobby](https://www.spinellis.gr/blog/20261008/?li261008)
 * [2026-10-12, 16:48:01](https://news.ycombinator.com/item?id=50059115) - [Muse Wonder](https://research.meta.ai/blog/muse-wonder)
 * [2026-10-12, 16:46:34](https://news.ycombinator.com/item?id=50059096) - [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
@@ -30,6 +29,7 @@
 * [2026-10-10, 22:10:57](https://news.ycombinator.com/item?id=50037711) - [Secret of Orange Cats Revealed After 60-Year Search](https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search)
 * [2026-10-10, 19:28:41](https://news.ycombinator.com/item?id=50036287) - [The Making Of Super Mario 64 – full Giles Goddard interview (2001)](https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/)
 * [2026-10-10, 15:59:52](https://news.ycombinator.com/item?id=50034206) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+* [2026-10-10, 15:39:30](https://news.ycombinator.com/item?id=50034001) - [No portable way to detect string-to-float conversion errors in standard C](https://sebsite.pw/w/20261009-strtod.html)
 
 ## [Archives](archives/index.md)
 
