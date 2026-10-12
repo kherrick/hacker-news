@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-12, 20:05:00",
+      "https://news.ycombinator.com/item?id=50062205"
+    ],
+    [
+      "Muse DAU dropped and Meta insiders decided to sell",
+      "https://theinference.org/article/meta-s-muse-daily-user-growth-fell-62-in-three-weeks-and-insiders-made-172-trades-without-a-buy"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 19:40:00",
       "https://news.ycombinator.com/item?id=50061859"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2026-10-12, 18:00:25",
-      "https://news.ycombinator.com/item?id=50060269"
-    ],
-    [
-      "'AI' Is Not a Tool by Rich Hickey",
-      "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b11c02"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 17:14:01",
       "https://news.ycombinator.com/item?id=50059523"
     ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=50059446"
     ],
     [
-      "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon's Producer",
+      "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
       "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/"
     ]
   ],
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-10-12, 15:08:53",
-      "https://news.ycombinator.com/item?id=50057551"
-    ],
-    [
-      "Fridges in French supermarkets hit by cyber attack",
-      "https://www.bbc.com/news/articles/crq5nzxv9q4yo"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 12:41:58",
       "https://news.ycombinator.com/item?id=50055593"
     ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2026-10-12, 12:23:51",
+      "https://news.ycombinator.com/item?id=50055375"
+    ],
+    [
+      "Incident with Actions, Pull Requests and Issues",
+      "https://www.githubstatus.com/incidents/93njd414rpbx"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 12:16:42",
       "https://news.ycombinator.com/item?id=50055304"
     ],
@@ -197,6 +197,16 @@
     [
       "Citroen revives the 2CV for an electric age",
       "https://www.bbc.com/news/articles/c620r33plgppo"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 11:22:24",
+      "https://news.ycombinator.com/item?id=50054751"
+    ],
+    [
+      "QGIS enacts moratorium on AI contributions",
+      "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
     ]
   ],
   [
@@ -241,32 +251,22 @@
   ],
   [
     [
-      "2026-10-11, 20:20:52",
-      "https://news.ycombinator.com/item?id=50047422"
-    ],
-    [
-      "The gap in shared understanding of LLM capability is widening",
-      "https://twitter.com/karpathy/status/2109361546505966046"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 18:04:47",
-      "https://news.ycombinator.com/item?id=50045984"
-    ],
-    [
-      "Total Annihilation, rebuilt for modern computers",
-      "https://nanolathe.gg"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 13:16:45",
       "https://news.ycombinator.com/item?id=50043026"
     ],
     [
       "Terence Tao: Math 2.0 [pdf]",
       "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 10:18:18",
+      "https://news.ycombinator.com/item?id=50041573"
+    ],
+    [
+      "Running the unmodified Linux amdgpu driver on an iPad",
+      "https://github.com/Geramy/LemonSeed-Studio"
     ]
   ],
   [
