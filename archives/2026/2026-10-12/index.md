@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-12](index.md)
 
+* [2026-10-12, 11:22:24](https://news.ycombinator.com/item?id=50054751) - [QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)
 * [2026-10-12, 10:21:27](https://news.ycombinator.com/item?id=50054207) - [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo)
 * [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms hidden chip in crypto wallet amid $92M theft claims](https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/)
 * [2026-10-12, 08:30:33](https://news.ycombinator.com/item?id=50053216) - [Fable Took My Job](https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html)
