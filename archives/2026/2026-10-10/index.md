@@ -6,6 +6,7 @@
 
 * [2026-10-10, 23:12:55](https://news.ycombinator.com/item?id=50038088) - [Every US Electrical Outlet Explained [video]](https://www.youtube.com/watch?v=n_1wzYQwnts)
 * [2026-10-10, 22:50:10](https://news.ycombinator.com/item?id=50037949) - [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
+* [2026-10-10, 22:10:57](https://news.ycombinator.com/item?id=50037711) - [Secret of Orange Cats Revealed After 60-Year Search](https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search)
 * [2026-10-10, 21:19:42](https://news.ycombinator.com/item?id=50037299) - [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
 * [2026-10-10, 21:07:07](https://news.ycombinator.com/item?id=50037183) - [Why We Still Cannot Read Etruscan](https://veiledantiquity.com/posts/etruscan-language-lost/)
 * [2026-10-10, 20:48:43](https://news.ycombinator.com/item?id=50037024) - [A new look at brains transformed by psychedelics](https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/)
