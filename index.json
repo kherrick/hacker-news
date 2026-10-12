@@ -11,22 +11,62 @@
   ],
   [
     [
+      "2026-10-11, 23:47:59",
+      "https://news.ycombinator.com/item?id=50049388"
+    ],
+    [
+      "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "https://github.com/plimsollmark/plimsoll"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 23:40:06",
+      "https://news.ycombinator.com/item?id=50049302"
+    ],
+    [
+      "Governments are mishandling the affordability crisis",
+      "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 23:22:36",
+      "https://news.ycombinator.com/item?id=50049133"
+    ],
+    [
+      "Illustration Beyond Proof",
+      "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 23:08:29",
+      "https://news.ycombinator.com/item?id=50049003"
+    ],
+    [
+      "ClickHouse C – Talk to ClickHouse using its native binary protocol",
+      "https://github.com/ClickHouse/clickhouse-c"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 23:01:29",
+      "https://news.ycombinator.com/item?id=50048937"
+    ],
+    [
+      "Rubber Duck: An AI interviewer for the knowledge in your head",
+      "https://rubberduck.talk/sign-in"
+    ]
+  ],
+  [
+    [
       "2026-10-11, 22:45:40",
       "https://news.ycombinator.com/item?id=50048768"
     ],
     [
       "Google Data Centers around the world",
       "https://datacenters.google/locations/"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 22:39:40",
-      "https://news.ycombinator.com/item?id=50048702"
-    ],
-    [
-      "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
-      "https://github.com/julianjohnson-web/julianflux-research"
     ]
   ],
   [
@@ -57,6 +97,16 @@
     [
       "Recursive self-improvement through collective intelligence",
       "https://pub.sakana.ai/mass/"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 22:18:26",
+      "https://news.ycombinator.com/item?id=50048490"
+    ],
+    [
+      "Shredding JSON columns gave Logfire up to 1000x faster queries",
+      "https://pydantic.dev/articles/dynamic-shredding-2026-01-26"
     ]
   ],
   [
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2026-10-11, 19:23:07",
-      "https://news.ycombinator.com/item?id=50046864"
-    ],
-    [
-      "The Unreasonable Effectiveness of Vex in NixOS",
-      "https://blog.kammel.dev/post/nixos_vex/"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 18:26:24",
       "https://news.ycombinator.com/item?id=50046241"
     ],
@@ -161,26 +201,6 @@
   ],
   [
     [
-      "2026-10-11, 16:31:37",
-      "https://news.ycombinator.com/item?id=50044989"
-    ],
-    [
-      "Playgrnd – tiny tools for making weird, beautiful things",
-      "https://www.playgrnd.tools/"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 15:21:58",
-      "https://news.ycombinator.com/item?id=50044272"
-    ],
-    [
-      "How I reverse engineered a commercial spatial audio effect",
-      "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 13:16:45",
       "https://news.ycombinator.com/item?id=50043026"
     ],
@@ -197,16 +217,6 @@
     [
       "The tilde in your PATH may not be your HOME",
       "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 12:06:22",
-      "https://news.ycombinator.com/item?id=50042362"
-    ],
-    [
-      "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "https://verdagon.dev/blog/valen-group-borrowing"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "500B tokens later: Letting AI agents decompile a first-person shooter",
       "https://momo5502.com/posts/2026-10-09-game-decompilation/"
-    ]
-  ],
-  [
-    [
-      "2026-10-10, 19:02:35",
-      "https://news.ycombinator.com/item?id=50036023"
-    ],
-    [
-      "Cbirds: A flock of birds in your terminal",
-      "https://github.com/clainstone/cbirds"
     ]
   ],
   [
