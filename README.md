@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-12, 14:52:37](https://news.ycombinator.com/item?id=50057278) - [Why aren't AI companies being charged for hacking?](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
+* [2026-10-12, 14:45:44](https://news.ycombinator.com/item?id=50057185) - [Deep dive into Azure Maia 300 architecture](https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/)
 * [2026-10-12, 14:34:25](https://news.ycombinator.com/item?id=50057030) - [An Unmade Film Shaped Hayao Miyazaki](https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki)
 * [2026-10-12, 14:19:04](https://news.ycombinator.com/item?id=50056822) - [Solar Panels That Plug into Your Wall](https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy)
-* [2026-10-12, 12:46:52](https://news.ycombinator.com/item?id=50055654) - [AI less regulated than milk, Microsoft president says in warning over safety](https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules)
 * [2026-10-12, 12:23:51](https://news.ycombinator.com/item?id=50055375) - [Incident with Actions, Pull Requests and Issues](https://www.githubstatus.com/incidents/93njd414rpbx)
 * [2026-10-12, 12:09:09](https://news.ycombinator.com/item?id=50055220) - [Citroen revives the 2CV for an electric age](https://www.bbc.co.uk/news/articles/c620r33plgppo)
 * [2026-10-12, 11:22:24](https://news.ycombinator.com/item?id=50054751) - [QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)
