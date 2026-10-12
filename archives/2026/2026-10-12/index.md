@@ -6,6 +6,7 @@
 
 * [2026-10-12, 06:36:53](https://news.ycombinator.com/item?id=50052163) - [Postgres isn't slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)
 * [2026-10-12, 06:35:05](https://news.ycombinator.com/item?id=50052156) - [Attack of the Vibe Coded Photoshop Clones](https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones)
+* [2026-10-12, 05:03:47](https://news.ycombinator.com/item?id=50051583) - [Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'](https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html)
 * [2026-10-12, 05:02:34](https://news.ycombinator.com/item?id=50051573) - [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
 * [2026-10-12, 04:54:12](https://news.ycombinator.com/item?id=50051532) - [Yandex bot traffic down 99% after data center attack](https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic)
 * [2026-10-12, 04:54:00](https://news.ycombinator.com/item?id=50051530) - [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)

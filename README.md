@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-12, 06:36:53](https://news.ycombinator.com/item?id=50052163) - [Postgres isn't slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)
-* [2026-10-12, 06:35:05](https://news.ycombinator.com/item?id=50052156) - [Attack of the Vibe Coded Photoshop Clones](https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones)
+* [2026-10-12, 05:03:47](https://news.ycombinator.com/item?id=50051583) - [Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'](https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html)
 * [2026-10-12, 05:02:34](https://news.ycombinator.com/item?id=50051573) - [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
 * [2026-10-12, 04:54:00](https://news.ycombinator.com/item?id=50051530) - [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
 * [2026-10-12, 03:37:09](https://news.ycombinator.com/item?id=50051097) - [Crest – an Arc-inspired open-source browser for Mac](https://crestbrowser.com/)
@@ -22,7 +22,7 @@
 * [2026-10-11, 18:04:47](https://news.ycombinator.com/item?id=50045984) - [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
 * [2026-10-11, 18:01:16](https://news.ycombinator.com/item?id=50045946) - [NYC's \"Click to Cancel\" rule is now in effect](https://www.nyc.gov/main/click-to-cancel)
 * [2026-10-11, 16:58:22](https://news.ycombinator.com/item?id=50045273) - [apsw: Another Python SQLite Wrapper](https://github.com/rogerbinns/apsw)
-* [2026-10-11, 12:06:22](https://news.ycombinator.com/item?id=50042362) - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
+* [2026-10-11, 10:18:18](https://news.ycombinator.com/item?id=50041573) - [Running the unmodified Linux amdgpu driver on an iPad](https://github.com/Geramy/LemonSeed-Studio)
 * [2026-10-11, 09:19:46](https://news.ycombinator.com/item?id=50041252) - [Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos](https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5)
 * [2026-10-11, 03:36:42](https://news.ycombinator.com/item?id=50039608) - [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
 * [2026-10-10, 23:12:55](https://news.ycombinator.com/item?id=50038088) - [Every US Electrical Outlet Explained [video]](https://www.youtube.com/watch?v=n_1wzYQwnts)
