@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-10-12, 18:03:56",
-      "https://news.ycombinator.com/item?id=50060311"
+      "2026-10-12, 18:29:04",
+      "https://news.ycombinator.com/item?id=50060694"
     ],
     [
-      "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
-      "https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch"
+      "Codex CLI installs a persistent, self-updating background daemon by default",
+      "https://github.com/openai/codex/issues/48195"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 18:27:26",
+      "https://news.ycombinator.com/item?id=50060674"
+    ],
+    [
+      "Publishers Killed the Paperback, Then Blamed Readers",
+      "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 18:17:29",
+      "https://news.ycombinator.com/item?id=50060500"
+    ],
+    [
+      "Just say no to OpenAI and Anthropic",
+      "https://micahflee.com/just-say-no-to-openai-and-anthropic/"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 18:09:10",
+      "https://news.ycombinator.com/item?id=50060387"
+    ],
+    [
+      "French supermarkets suffer refrigerator shutdown after unprecedented cyberattack",
+      "https://www.rnz.co.nz/news/world/1865776/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 18:02:32",
+      "https://news.ycombinator.com/item?id=50060296"
+    ],
+    [
+      "My Reddit AMA on the Law of Web Scraping",
+      "https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm"
     ]
   ],
   [
@@ -17,6 +57,16 @@
     [
       "AI coding agents generate more code, but not more software",
       "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 17:08:16",
+      "https://news.ycombinator.com/item?id=50059446"
+    ],
+    [
+      "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon's Producer",
+      "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/"
     ]
   ],
   [
@@ -47,16 +97,6 @@
     [
       "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
       "https://news.ycombinator.com/item?id=50059096"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 16:31:55",
-      "https://news.ycombinator.com/item?id=50058850"
-    ],
-    [
-      "Reverse engineer anything with agents, from app behavior down to native binaries",
-      "https://github.com/morluto/rea"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2026-10-12, 11:22:24",
-      "https://news.ycombinator.com/item?id=50054751"
-    ],
-    [
-      "QGIS: No AI contributions permitted",
-      "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 07:28:53",
       "https://news.ycombinator.com/item?id=50052638"
     ],
@@ -231,26 +261,6 @@
   ],
   [
     [
-      "2026-10-11, 13:16:45",
-      "https://news.ycombinator.com/item?id=50043026"
-    ],
-    [
-      "Terence Tao: Math 2.0 [pdf]",
-      "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 13:05:03",
-      "https://news.ycombinator.com/item?id=50042936"
-    ],
-    [
-      "Choreographic Programming in Rust",
-      "https://github.com/hibanaworks/hibana"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 10:18:18",
       "https://news.ycombinator.com/item?id=50041573"
     ],
@@ -277,16 +287,6 @@
     [
       "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
       "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/"
-    ]
-  ],
-  [
-    [
-      "2026-10-10, 17:12:33",
-      "https://news.ycombinator.com/item?id=50034950"
-    ],
-    [
-      "Bag of Decisions Reranker",
-      "https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html"
     ]
   ],
   [
