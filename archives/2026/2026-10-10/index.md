@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-10](index.md)
 
+* [2026-10-10, 23:12:55](https://news.ycombinator.com/item?id=50038088) - [Every US Electrical Outlet Explained [video]](https://www.youtube.com/watch?v=n_1wzYQwnts)
 * [2026-10-10, 22:50:10](https://news.ycombinator.com/item?id=50037949) - [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
 * [2026-10-10, 21:19:42](https://news.ycombinator.com/item?id=50037299) - [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
 * [2026-10-10, 21:07:07](https://news.ycombinator.com/item?id=50037183) - [Why We Still Cannot Read Etruscan](https://veiledantiquity.com/posts/etruscan-language-lost/)

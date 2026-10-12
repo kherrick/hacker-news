@@ -2,6 +2,7 @@
 
 * [2026-10-12, 05:02:34](https://news.ycombinator.com/item?id=50051573) - [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
 * [2026-10-12, 04:54:12](https://news.ycombinator.com/item?id=50051532) - [Yandex bot traffic down 99% after data center attack](https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic)
+* [2026-10-12, 04:54:00](https://news.ycombinator.com/item?id=50051530) - [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
 * [2026-10-12, 00:48:27](https://news.ycombinator.com/item?id=50049872) - [Doory – Open-Source Canva](https://github.com/shaongitbd/doory)
 * [2026-10-12, 00:03:53](https://news.ycombinator.com/item?id=50049508) - [Local Indexing to reduce tool calling and token usage](https://tedhaley.ca/pensieve/)
 * [2026-10-12, 00:02:45](https://news.ycombinator.com/item?id=50049498) - [HashiCorp archives the Boundary open source repo](https://github.com/hashicorp/boundary)
@@ -23,12 +24,11 @@
 * [2026-10-11, 16:58:22](https://news.ycombinator.com/item?id=50045273) - [apsw: Another Python SQLite Wrapper](https://github.com/rogerbinns/apsw)
 * [2026-10-11, 13:16:45](https://news.ycombinator.com/item?id=50043026) - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 * [2026-10-11, 12:06:22](https://news.ycombinator.com/item?id=50042362) - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
-* [2026-10-11, 12:01:28](https://news.ycombinator.com/item?id=50042333) - [Show HN: BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/)
 * [2026-10-11, 09:19:46](https://news.ycombinator.com/item?id=50041252) - [Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos](https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5)
 * [2026-10-11, 03:36:42](https://news.ycombinator.com/item?id=50039608) - [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/)
+* [2026-10-10, 23:12:55](https://news.ycombinator.com/item?id=50038088) - [Every US Electrical Outlet Explained [video]](https://www.youtube.com/watch?v=n_1wzYQwnts)
 * [2026-10-10, 15:59:52](https://news.ycombinator.com/item?id=50034206) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 * [2026-10-10, 15:39:30](https://news.ycombinator.com/item?id=50034001) - [No portable way to detect string-to-float conversion errors in standard C](https://sebsite.pw/w/20261009-strtod.html)
-* [2026-10-10, 14:56:11](https://news.ycombinator.com/item?id=50033601) - [Safe SIMD in Rust, even on the inside](https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/)
 * [2026-10-09, 15:32:04](https://news.ycombinator.com/item?id=50021989) - [I guess I'm using WebP now?](https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now)
 
 ## [Archives](archives/index.md)
