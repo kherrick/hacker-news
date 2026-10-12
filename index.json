@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-10-11, 03:36:42",
+      "https://news.ycombinator.com/item?id=50039608"
+    ],
+    [
+      "Vectorized CLZ and CTZ",
+      "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/"
+    ]
+  ],
+  [
+    [
       "2026-10-11, 02:37:33",
       "https://news.ycombinator.com/item?id=50039291"
     ],
@@ -287,16 +297,6 @@
     [
       "Calculus with Julia",
       "https://jverzani.github.io/CalculusWithJuliaNotes.jl/"
-    ]
-  ],
-  [
-    [
-      "2026-10-09, 15:32:04",
-      "https://news.ycombinator.com/item?id=50021989"
-    ],
-    [
-      "I guess I'm using WebP now?",
-      "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now"
     ]
   ]
 ]
