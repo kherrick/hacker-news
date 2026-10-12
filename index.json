@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-12, 11:22:24",
+      "https://news.ycombinator.com/item?id=50054751"
+    ],
+    [
+      "QGIS bans AI assisted contributions",
+      "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 10:21:27",
       "https://news.ycombinator.com/item?id=50054207"
     ],
@@ -237,16 +247,6 @@
     [
       "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
       "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 03:36:42",
-      "https://news.ycombinator.com/item?id=50039608"
-    ],
-    [
-      "Vectorized CLZ and CTZ",
-      "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/"
     ]
   ],
   [
