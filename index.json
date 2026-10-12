@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-10-12, 16:48:01",
+      "https://news.ycombinator.com/item?id=50059115"
+    ],
+    [
+      "Muse Wonder",
+      "https://research.meta.ai/blog/muse-wonder"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 16:46:34",
+      "https://news.ycombinator.com/item?id=50059096"
+    ],
+    [
+      "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "https://news.ycombinator.com/item?id=50059096"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 16:31:55",
+      "https://news.ycombinator.com/item?id=50058850"
+    ],
+    [
+      "Reverse engineer anything with agents, from app behavior down to native binaries",
+      "https://github.com/morluto/rea"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 16:13:10",
       "https://news.ycombinator.com/item?id=50058528"
     ],
@@ -27,6 +57,16 @@
     [
       "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
       "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 15:16:45",
+      "https://news.ycombinator.com/item?id=50057668"
+    ],
+    [
+      "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "https://taylor.town/kk-ai-2026"
     ]
   ],
   [
@@ -71,16 +111,6 @@
   ],
   [
     [
-      "2026-10-12, 12:46:52",
-      "https://news.ycombinator.com/item?id=50055654"
-    ],
-    [
-      "AI less regulated than milk, Microsoft president says in warning over safety",
-      "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 12:41:58",
       "https://news.ycombinator.com/item?id=50055593"
     ],
@@ -105,7 +135,7 @@
       "https://news.ycombinator.com/item?id=50054751"
     ],
     [
-      "QGIS bans AI assisted contributions",
+      "QGIS enacts moratorium on AI assisted contributions",
       "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
     ]
   ],
@@ -161,42 +191,12 @@
   ],
   [
     [
-      "2026-10-12, 00:03:53",
-      "https://news.ycombinator.com/item?id=50049508"
-    ],
-    [
-      "Local Indexing to reduce tool calling and token usage",
-      "https://tedhaley.ca/pensieve/"
-    ]
-  ],
-  [
-    [
       "2026-10-11, 22:33:39",
       "https://news.ycombinator.com/item?id=50048642"
     ],
     [
       "Fingerprints are the new cookies",
       "https://royfish.dev/fingerprints-are-the-new-cookies"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 21:59:48",
-      "https://news.ycombinator.com/item?id=50048312"
-    ],
-    [
-      "Passkeys are a trap",
-      "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 20:20:52",
-      "https://news.ycombinator.com/item?id=50047422"
-    ],
-    [
-      "The gap in shared understanding of LLM capability is widening",
-      "https://twitter.com/karpathy/status/2109361546505966046"
     ]
   ],
   [
