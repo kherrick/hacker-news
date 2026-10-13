@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-13, 05:22:28](https://news.ycombinator.com/item?id=50067098) - [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
 * [2026-10-13, 02:46:43](https://news.ycombinator.com/item?id=50065932) - [A look at OpenAI’s math that’s claimed computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)
 * [2026-10-13, 02:25:00](https://news.ycombinator.com/item?id=50065805) - [China Overtakes U.S. For First Time as Top Spender on R&D in 2024](https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/)
 * [2026-10-13, 02:09:19](https://news.ycombinator.com/item?id=50065713) - [The Dock on Mac, from OS 10 to macOS 27](https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/)
@@ -25,7 +26,6 @@
 * [2026-10-12, 12:41:58](https://news.ycombinator.com/item?id=50055593) - [Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr)
 * [2026-10-12, 12:16:42](https://news.ycombinator.com/item?id=50055304) - [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 * [2026-10-12, 12:09:09](https://news.ycombinator.com/item?id=50055220) - [Citroen revives the 2CV for an electric age](https://www.bbc.com/news/articles/c620r33plgppo)
-* [2026-10-12, 00:15:12](https://news.ycombinator.com/item?id=50049588) - [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac)
 * [2026-10-11, 20:48:30](https://news.ycombinator.com/item?id=50047664) - [Auto Research: Integer multiplication below n log n](https://app.getsupers.com/auto-research)
 * [2026-10-11, 11:02:30](https://news.ycombinator.com/item?id=50041866) - [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
 * [2026-10-10, 22:10:57](https://news.ycombinator.com/item?id=50037711) - [Secret of Orange Cats Revealed After 60-Year Search](https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search)
