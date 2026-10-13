@@ -22,12 +22,12 @@
 * [2026-10-13, 12:26:36](https://news.ycombinator.com/item?id=50070593) - [A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud)
 * [2026-10-13, 12:23:34](https://news.ycombinator.com/item?id=50070554) - [Worlds more habitable than Earth?](https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html)
 * [2026-10-13, 12:00:42](https://news.ycombinator.com/item?id=50070302) - [Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
+* [2026-10-13, 11:32:00](https://news.ycombinator.com/item?id=50070010) - [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui)
 * [2026-10-13, 11:27:14](https://news.ycombinator.com/item?id=50069971) - [We turned EmbeddingGemma 2 into a speech-to-text model](https://eg2.haku.sh/)
 * [2026-10-13, 10:27:00](https://news.ycombinator.com/item?id=50069499) - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
 * [2026-10-13, 10:08:34](https://news.ycombinator.com/item?id=50069337) - [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
 * [2026-10-13, 07:28:34](https://news.ycombinator.com/item?id=50068036) - [Character.ai has initiated voluntary Chapter 11 bankruptcy](https://blog.character.ai/an-update-on-character-ai/)
 * [2026-10-13, 06:02:51](https://news.ycombinator.com/item?id=50067414) - [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107)
-* [2026-10-12, 21:40:18](https://news.ycombinator.com/item?id=50063427) - [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 * [2026-10-12, 19:28:48](https://news.ycombinator.com/item?id=50061659) - [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
 * [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 
