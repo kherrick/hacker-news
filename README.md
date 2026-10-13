@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-13, 22:31:48](https://news.ycombinator.com/item?id=50079842) - [Running Qwen3.8 at 255 tok/s on a single 5090](https://meshapplied.com)
+* [2026-10-13, 21:57:29](https://news.ycombinator.com/item?id=50079464) - [AlphaNIST](https://alpha-nist.github.io/)
+* [2026-10-13, 21:55:25](https://news.ycombinator.com/item?id=50079437) - [Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)
 * [2026-10-13, 21:54:24](https://news.ycombinator.com/item?id=50079417) - [Nexus-Q: un motor open source de Rust para PQC](https://nexus-q.link/)
 * [2026-10-13, 21:01:12](https://news.ycombinator.com/item?id=50078686) - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
 * [2026-10-13, 20:23:55](https://news.ycombinator.com/item?id=50078141) - [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
@@ -27,7 +28,6 @@
 * [2026-10-13, 07:28:34](https://news.ycombinator.com/item?id=50068036) - [Character.ai has initiated voluntary Chapter 11 bankruptcy](https://blog.character.ai/an-update-on-character-ai/)
 * [2026-10-13, 06:47:42](https://news.ycombinator.com/item?id=50067721) - [Maybe a better way to track the release history of a Git repo](https://blog.plover.com/prog/git/history-proposal.html)
 * [2026-10-12, 19:28:48](https://news.ycombinator.com/item?id=50061659) - [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
-* [2026-10-12, 17:15:13](https://news.ycombinator.com/item?id=50059542) - [Hiking the world in search of rare cheeses](https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses)
 * [2026-10-12, 16:20:26](https://news.ycombinator.com/item?id=50058649) - [IDRs as Records of Intent](https://wrla.ch/log/2026/10/idrs-as-records-of-intent/)
 * [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 
