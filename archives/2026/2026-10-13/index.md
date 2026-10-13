@@ -18,6 +18,7 @@
 * [2026-10-13, 08:34:12](https://news.ycombinator.com/item?id=50068508) - [Crypto thieves sell hardware wallets with secret eSIM](https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html)
 * [2026-10-13, 08:24:51](https://news.ycombinator.com/item?id=50068443) - [Document Review with Unsiloed and TypeSafe Jev](https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev)
 * [2026-10-13, 08:24:06](https://news.ycombinator.com/item?id=50068437) - [DishwasherBench – Can Frontier Models Stack a Dishwasher?](https://github.com/composo-ai/DishwasherBench)
+* [2026-10-13, 07:28:34](https://news.ycombinator.com/item?id=50068036) - [Character.ai files for Chapter 11 bankruptcy](https://blog.character.ai/an-update-on-character-ai/)
 * [2026-10-13, 06:27:03](https://news.ycombinator.com/item?id=50067570) - [Denmark set to allow return of 'physical force' in school](https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html)
 * [2026-10-13, 06:02:51](https://news.ycombinator.com/item?id=50067414) - [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107)
 * [2026-10-13, 05:57:32](https://news.ycombinator.com/item?id=50067356) - [Threat of AI share crash puts world financial stability at risk, says IMF](https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks)
