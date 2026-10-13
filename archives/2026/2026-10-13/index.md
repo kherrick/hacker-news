@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
+* [2026-10-13, 13:02:12](https://news.ycombinator.com/item?id=50071017) - [Apple HomeView](https://www.apple.com/apple-homeview/)
+* [2026-10-13, 12:26:36](https://news.ycombinator.com/item?id=50070593) - [Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs](https://machinelearning.apple.com/research/distributed-gpu-cloud)
 * [2026-10-13, 12:00:42](https://news.ycombinator.com/item?id=50070302) - [Mozilla Introduces Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
 * [2026-10-13, 11:27:14](https://news.ycombinator.com/item?id=50069971) - [An hour of audio transcribed in about 13s on MacBook Air](https://eg2.haku.sh/)
 * [2026-10-13, 11:24:08](https://news.ycombinator.com/item?id=50069942) - [Character.ai Files for Bankruptcy](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
