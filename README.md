@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-13, 14:21:40](https://news.ycombinator.com/item?id=50072229) - [A Book That Will Never Be Read](https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/)
+* [2026-10-13, 13:21:35](https://news.ycombinator.com/item?id=50071310) - [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
 * [2026-10-13, 13:02:12](https://news.ycombinator.com/item?id=50071017) - [Apple HomeView](https://www.apple.com/apple-homeview/)
 * [2026-10-13, 12:26:36](https://news.ycombinator.com/item?id=50070593) - [Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs](https://machinelearning.apple.com/research/distributed-gpu-cloud)
 * [2026-10-13, 12:00:42](https://news.ycombinator.com/item?id=50070302) - [Mozilla Introduces Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
@@ -13,7 +15,6 @@
 * [2026-10-13, 07:28:34](https://news.ycombinator.com/item?id=50068036) - [Character.ai files for Chapter 11 bankruptcy](https://blog.character.ai/an-update-on-character-ai/)
 * [2026-10-13, 06:02:51](https://news.ycombinator.com/item?id=50067414) - [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107)
 * [2026-10-13, 02:46:43](https://news.ycombinator.com/item?id=50065932) - [A look at the math that OpenAI claims computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)
-* [2026-10-13, 02:07:08](https://news.ycombinator.com/item?id=50065692) - [AI models can provably hide arbitrary capabilities](https://arxiv.org/abs/2610.13928)
 * [2026-10-13, 00:11:04](https://news.ycombinator.com/item?id=50064840) - [Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)](https://github.com/bherbruck/solidcraft)
 * [2026-10-12, 22:05:43](https://news.ycombinator.com/item?id=50063717) - [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
 * [2026-10-12, 21:40:18](https://news.ycombinator.com/item?id=50063427) - [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
@@ -28,7 +29,6 @@
 * [2026-10-12, 12:41:58](https://news.ycombinator.com/item?id=50055593) - [Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr)
 * [2026-10-12, 12:16:42](https://news.ycombinator.com/item?id=50055304) - [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 * [2026-10-12, 12:09:09](https://news.ycombinator.com/item?id=50055220) - [Citroen revives the 2CV for an electric age](https://www.bbc.com/news/articles/c620r33plgppo)
-* [2026-10-11, 20:48:30](https://news.ycombinator.com/item?id=50047664) - [Auto Research: Integer multiplication below n log n](https://app.getsupers.com/auto-research)
 * [2026-10-11, 11:02:30](https://news.ycombinator.com/item?id=50041866) - [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
+* [2026-10-13, 14:21:40](https://news.ycombinator.com/item?id=50072229) - [A Book That Will Never Be Read](https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/)
+* [2026-10-13, 13:21:35](https://news.ycombinator.com/item?id=50071310) - [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
 * [2026-10-13, 13:02:12](https://news.ycombinator.com/item?id=50071017) - [Apple HomeView](https://www.apple.com/apple-homeview/)
 * [2026-10-13, 12:26:36](https://news.ycombinator.com/item?id=50070593) - [Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs](https://machinelearning.apple.com/research/distributed-gpu-cloud)
 * [2026-10-13, 12:00:42](https://news.ycombinator.com/item?id=50070302) - [Mozilla Introduces Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
