@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
 * [2026-10-13, 17:00:39](https://news.ycombinator.com/item?id=50074969) - [Coris (YC S22) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations)
+* [2026-10-13, 16:57:57](https://news.ycombinator.com/item?id=50074909) - [Show HN: How Random Are You?](https://lab.specr.net/rigged-draw/)
 * [2026-10-13, 16:55:47](https://news.ycombinator.com/item?id=50074869) - [Gemini 4 Argon for Robotics Blog](https://developers.googleblog.com/gemini-4-argon-for-robotics/)
 * [2026-10-13, 16:48:18](https://news.ycombinator.com/item?id=50074739) - [Americans Trust in Federal Government Sinks to New Depths](https://news.gallup.com/poll/715361/trust-federal-government-sinks-new-depths.aspx)
 * [2026-10-13, 16:24:15](https://news.ycombinator.com/item?id=50074289) - [Cyberattack halts construction of tunnel between Denmark and Germany](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24)
