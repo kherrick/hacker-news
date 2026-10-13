@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-13, 19:11:48",
+      "https://news.ycombinator.com/item?id=50077020"
+    ],
+    [
+      "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "https://guitoro.com/"
+    ]
+  ],
+  [
+    [
       "2026-10-13, 18:37:45",
       "https://news.ycombinator.com/item?id=50076503"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-10-13, 10:07:03",
-      "https://news.ycombinator.com/item?id=50069318"
-    ],
-    [
-      "AWS Lambda Web Functions",
-      "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/"
-    ]
-  ],
-  [
-    [
       "2026-10-13, 07:28:34",
       "https://news.ycombinator.com/item?id=50068036"
     ],
@@ -295,8 +295,8 @@
       "https://news.ycombinator.com/item?id=50054092"
     ],
     [
-      "Ledger confirms hidden chip in crypto wallet amid $92M theft claims",
-      "https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/"
+      "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
     ]
   ]
 ]
