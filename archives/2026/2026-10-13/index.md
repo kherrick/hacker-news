@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
+* [2026-10-13, 12:00:42](https://news.ycombinator.com/item?id=50070302) - [Mozilla Introduces Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
 * [2026-10-13, 11:27:14](https://news.ycombinator.com/item?id=50069971) - [An hour of audio transcribed in about 13s on MacBook Air](https://eg2.haku.sh/)
 * [2026-10-13, 11:24:08](https://news.ycombinator.com/item?id=50069942) - [Character.ai Files for Bankruptcy](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
 * [2026-10-13, 10:27:00](https://news.ycombinator.com/item?id=50069499) - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)

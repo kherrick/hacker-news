@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-13, 12:00:42](https://news.ycombinator.com/item?id=50070302) - [Mozilla Introduces Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
 * [2026-10-13, 11:27:14](https://news.ycombinator.com/item?id=50069971) - [An hour of audio transcribed in about 13s on MacBook Air](https://eg2.haku.sh/)
 * [2026-10-13, 11:24:08](https://news.ycombinator.com/item?id=50069942) - [Character.ai Files for Bankruptcy](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
 * [2026-10-13, 10:27:00](https://news.ycombinator.com/item?id=50069499) - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
@@ -9,11 +10,11 @@
 * [2026-10-13, 10:07:03](https://news.ycombinator.com/item?id=50069318) - [AWS Lambda Web Functions](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/)
 * [2026-10-13, 08:34:12](https://news.ycombinator.com/item?id=50068508) - [Crypto thieves sell hardware wallets with secret eSIM](https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html)
 * [2026-10-13, 08:24:51](https://news.ycombinator.com/item?id=50068443) - [Document Review with Unsiloed and TypeSafe Jev](https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev)
+* [2026-10-13, 08:24:06](https://news.ycombinator.com/item?id=50068437) - [DishwasherBench – Can Frontier Models Stack a Dishwasher?](https://github.com/composo-ai/DishwasherBench)
 * [2026-10-13, 06:02:51](https://news.ycombinator.com/item?id=50067414) - [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107)
 * [2026-10-13, 02:46:43](https://news.ycombinator.com/item?id=50065932) - [A look at the math that OpenAI claims computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)
 * [2026-10-13, 02:07:08](https://news.ycombinator.com/item?id=50065692) - [AI models can provably hide arbitrary capabilities](https://arxiv.org/abs/2610.13928)
 * [2026-10-13, 00:11:04](https://news.ycombinator.com/item?id=50064840) - [Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)](https://github.com/bherbruck/solidcraft)
-* [2026-10-12, 23:21:12](https://news.ycombinator.com/item?id=50064438) - [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
 * [2026-10-12, 22:05:43](https://news.ycombinator.com/item?id=50063717) - [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
 * [2026-10-12, 21:40:18](https://news.ycombinator.com/item?id=50063427) - [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 * [2026-10-12, 21:35:35](https://news.ycombinator.com/item?id=50063365) - [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
@@ -29,7 +30,6 @@
 * [2026-10-12, 12:09:09](https://news.ycombinator.com/item?id=50055220) - [Citroen revives the 2CV for an electric age](https://www.bbc.com/news/articles/c620r33plgppo)
 * [2026-10-11, 20:48:30](https://news.ycombinator.com/item?id=50047664) - [Auto Research: Integer multiplication below n log n](https://app.getsupers.com/auto-research)
 * [2026-10-11, 11:02:30](https://news.ycombinator.com/item?id=50041866) - [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
-* [2026-10-10, 19:28:41](https://news.ycombinator.com/item?id=50036287) - [The Making Of Super Mario 64 – full Giles Goddard interview (2001)](https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/)
 
 ## [Archives](archives/index.md)
 
