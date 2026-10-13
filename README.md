@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-13, 10:27:00](https://news.ycombinator.com/item?id=50069499) - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
 * [2026-10-13, 10:08:34](https://news.ycombinator.com/item?id=50069337) - [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
 * [2026-10-13, 10:08:18](https://news.ycombinator.com/item?id=50069333) - [AI models may soon self-replicate without access to data centers](https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/)
 * [2026-10-13, 10:08:00](https://news.ycombinator.com/item?id=50069329) - [CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades](https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran)
@@ -18,7 +19,6 @@
 * [2026-10-12, 21:12:43](https://news.ycombinator.com/item?id=50063138) - [Who is vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
 * [2026-10-12, 19:40:00](https://news.ycombinator.com/item?id=50061859) - [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
 * [2026-10-12, 19:36:02](https://news.ycombinator.com/item?id=50061791) - [Making big downloads resumable in Firefox](https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html)
-* [2026-10-12, 18:29:04](https://news.ycombinator.com/item?id=50060694) - [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
 * [2026-10-12, 16:46:34](https://news.ycombinator.com/item?id=50059096) - [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
 * [2026-10-12, 16:13:10](https://news.ycombinator.com/item?id=50058528) - [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
 * [2026-10-12, 16:11:45](https://news.ycombinator.com/item?id=50058507) - [GLM-Legal](https://z.ai/blog/glm-legal)
