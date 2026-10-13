@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-13, 17:43:05",
+      "https://news.ycombinator.com/item?id=50075665"
+    ],
+    [
+      "Show HN: XY Music Notation",
+      "https://music.xy.dev/"
+    ]
+  ],
+  [
+    [
       "2026-10-13, 17:00:39",
       "https://news.ycombinator.com/item?id=50074969"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=50073633"
     ],
     [
-      "Redesigning Source Control at Anthropic",
+      "Redesigning source control at Anthropic",
       "https://www.anthropic.com/engineering/redesigning-source-control"
     ]
   ],
@@ -97,6 +107,16 @@
     [
       "Thunderbird for iOS",
       "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/"
+    ]
+  ],
+  [
+    [
+      "2026-10-13, 14:26:08",
+      "https://news.ycombinator.com/item?id=50072286"
+    ],
+    [
+      "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/"
     ]
   ],
   [
@@ -151,22 +171,22 @@
   ],
   [
     [
+      "2026-10-13, 12:23:34",
+      "https://news.ycombinator.com/item?id=50070554"
+    ],
+    [
+      "Worlds more habitable than Earth?",
+      "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html"
+    ]
+  ],
+  [
+    [
       "2026-10-13, 12:00:42",
       "https://news.ycombinator.com/item?id=50070302"
     ],
     [
       "Firefox Enterprise",
       "https://www.firefox.com/en-US/enterprise/"
-    ]
-  ],
-  [
-    [
-      "2026-10-13, 12:00:04",
-      "https://news.ycombinator.com/item?id=50070287"
-    ],
-    [
-      "A Visual Intro to Complex Numbers",
-      "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers"
     ]
   ],
   [
@@ -201,12 +221,12 @@
   ],
   [
     [
-      "2026-10-13, 08:24:51",
-      "https://news.ycombinator.com/item?id=50068443"
+      "2026-10-13, 10:07:03",
+      "https://news.ycombinator.com/item?id=50069318"
     ],
     [
-      "Document Review with Unsiloed and TypeSafe Jev",
-      "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev"
+      "AWS Lambda Web Functions",
+      "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2026-10-12, 21:35:35",
-      "https://news.ycombinator.com/item?id=50063365"
-    ],
-    [
-      "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 19:28:48",
       "https://news.ycombinator.com/item?id=50061659"
     ],
     [
       "MIT class project turns into an FDA-cleared treatment for tremors",
       "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 16:13:10",
-      "https://news.ycombinator.com/item?id=50058528"
-    ],
-    [
-      "A Modern Web App in C",
-      "https://prophitt.me/writing/a-modern-web-app-in-c"
     ]
   ],
   [
