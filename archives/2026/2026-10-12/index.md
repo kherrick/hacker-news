@@ -33,6 +33,7 @@
 * [2026-10-12, 18:02:32](https://news.ycombinator.com/item?id=50060296) - [My Reddit AMA on the Law of Web Scraping](https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm)
 * [2026-10-12, 18:00:25](https://news.ycombinator.com/item?id=50060269) - ['AI' Is Not a Tool by Rich Hickey](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e)
 * [2026-10-12, 18:00:25](https://news.ycombinator.com/item?id=50060269) - ['AI' Is Not a Tool by Rich Hickey](https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b11c02)
+* [2026-10-12, 17:15:13](https://news.ycombinator.com/item?id=50059542) - [Hiking the world in search of rare cheeses](https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses)
 * [2026-10-12, 17:14:01](https://news.ycombinator.com/item?id=50059523) - [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
 * [2026-10-12, 17:08:16](https://news.ycombinator.com/item?id=50059446) - [Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon's Producer](https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/)
 * [2026-10-12, 16:54:08](https://news.ycombinator.com/item?id=50059204) - [Thinking Will Become a Hobby](https://www.spinellis.gr/blog/20261008/?li261008)
