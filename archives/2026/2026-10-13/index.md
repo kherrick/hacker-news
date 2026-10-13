@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
 * [2026-10-13, 21:01:12](https://news.ycombinator.com/item?id=50078686) - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
+* [2026-10-13, 20:23:55](https://news.ycombinator.com/item?id=50078141) - [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
 * [2026-10-13, 19:55:31](https://news.ycombinator.com/item?id=50077703) - [OpenAI finds recording device in one of their offices](https://twitter.com/OpenAINewsroom/status/2110095403198849132)
 * [2026-10-13, 19:50:31](https://news.ycombinator.com/item?id=50077619) - [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/)
 * [2026-10-13, 19:17:19](https://news.ycombinator.com/item?id=50077096) - [The Four Colour Theorem: The first time machines mogged mathematicians](https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians)
@@ -52,6 +53,7 @@
 * [2026-10-13, 08:24:51](https://news.ycombinator.com/item?id=50068443) - [Document Review with Unsiloed and TypeSafe Jev](https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev)
 * [2026-10-13, 08:24:06](https://news.ycombinator.com/item?id=50068437) - [DishwasherBench – Can Frontier Models Stack a Dishwasher?](https://github.com/composo-ai/DishwasherBench)
 * [2026-10-13, 07:28:34](https://news.ycombinator.com/item?id=50068036) - [Character.ai files for Chapter 11 bankruptcy](https://blog.character.ai/an-update-on-character-ai/)
+* [2026-10-13, 06:47:42](https://news.ycombinator.com/item?id=50067721) - [Maybe a better way to track the release history of a Git repo](https://blog.plover.com/prog/git/history-proposal.html)
 * [2026-10-13, 06:27:03](https://news.ycombinator.com/item?id=50067570) - [Denmark set to allow return of 'physical force' in school](https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html)
 * [2026-10-13, 06:02:51](https://news.ycombinator.com/item?id=50067414) - [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107)
 * [2026-10-13, 05:57:32](https://news.ycombinator.com/item?id=50067356) - [Threat of AI share crash puts world financial stability at risk, says IMF](https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks)
