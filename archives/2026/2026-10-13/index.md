@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
+* [2026-10-13, 17:00:39](https://news.ycombinator.com/item?id=50074969) - [Coris (YC S22) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations)
+* [2026-10-13, 16:24:15](https://news.ycombinator.com/item?id=50074289) - [Cyberattack halts construction of tunnel between Denmark and Germany](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24)
 * [2026-10-13, 16:03:16](https://news.ycombinator.com/item?id=50073879) - [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+* [2026-10-13, 15:49:56](https://news.ycombinator.com/item?id=50073633) - [Redesigning Source Control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 * [2026-10-13, 15:41:00](https://news.ycombinator.com/item?id=50073471) - [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471)
 * [2026-10-13, 15:40:03](https://news.ycombinator.com/item?id=50073455) - [Now That Information Is Free, What's a College Campus For?](https://commonedge.org/now-that-information-is-free-whats-a-college-campus-for/)
 * [2026-10-13, 15:25:50](https://news.ycombinator.com/item?id=50073221) - [I posted to HN, and then my website was flooded with AI bot traffic](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
