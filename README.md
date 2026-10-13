@@ -12,12 +12,12 @@
 * [2026-10-13, 15:49:56](https://news.ycombinator.com/item?id=50073633) - [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 * [2026-10-13, 15:41:00](https://news.ycombinator.com/item?id=50073471) - [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471)
 * [2026-10-13, 15:25:50](https://news.ycombinator.com/item?id=50073221) - [I posted to HN, and then my website was flooded with AI bot traffic](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
+* [2026-10-13, 15:12:57](https://news.ycombinator.com/item?id=50072994) - [The United Kingdom generates less electricity per person than in the 1970s](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak)
 * [2026-10-13, 15:07:37](https://news.ycombinator.com/item?id=50072913) - [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)
 * [2026-10-13, 14:26:08](https://news.ycombinator.com/item?id=50072286) - [Apple's new 'Switch to Safari' campaign details why you should ditch Chrome](https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/)
 * [2026-10-13, 14:14:23](https://news.ycombinator.com/item?id=50072120) - [How to engineer an AI harness for game development](https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code)
 * [2026-10-13, 13:21:35](https://news.ycombinator.com/item?id=50071310) - [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
 * [2026-10-13, 13:02:12](https://news.ycombinator.com/item?id=50071017) - [Apple HomeView](https://www.apple.com/apple-homeview/)
-* [2026-10-13, 12:40:04](https://news.ycombinator.com/item?id=50070741) - [BB(10) > Graham's Number](https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md)
 * [2026-10-13, 12:26:36](https://news.ycombinator.com/item?id=50070593) - [A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud)
 * [2026-10-13, 12:23:34](https://news.ycombinator.com/item?id=50070554) - [Worlds more habitable than Earth?](https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html)
 * [2026-10-13, 12:00:42](https://news.ycombinator.com/item?id=50070302) - [Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
@@ -29,7 +29,7 @@
 * [2026-10-13, 06:02:51](https://news.ycombinator.com/item?id=50067414) - [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107)
 * [2026-10-12, 21:40:18](https://news.ycombinator.com/item?id=50063427) - [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 * [2026-10-12, 19:28:48](https://news.ycombinator.com/item?id=50061659) - [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
-* [2026-10-12, 16:11:45](https://news.ycombinator.com/item?id=50058507) - [GLM-Legal](https://z.ai/blog/glm-legal)
+* [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms hidden chip in crypto wallet amid $92M theft claims](https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/)
 
 ## [Archives](archives/index.md)
 
