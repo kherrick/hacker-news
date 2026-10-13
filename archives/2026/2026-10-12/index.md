@@ -61,6 +61,7 @@
 * [2026-10-12, 11:22:24](https://news.ycombinator.com/item?id=50054751) - [QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)
 * [2026-10-12, 10:53:41](https://news.ycombinator.com/item?id=50054474) - [Living in the Weimar Era of Ruby](https://blog.julik.nl/2026/10/the-weimar-of-ruby)
 * [2026-10-12, 10:21:27](https://news.ycombinator.com/item?id=50054207) - [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo)
+* [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 * [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms hidden chip in crypto wallet amid $92M theft claims](https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/)
 * [2026-10-12, 08:30:33](https://news.ycombinator.com/item?id=50053216) - [Fable Took My Job](https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html)
 * [2026-10-12, 07:47:29](https://news.ycombinator.com/item?id=50052814) - [Zod 4.6.6 compromised by malware?](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467)

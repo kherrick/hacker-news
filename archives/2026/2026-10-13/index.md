@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
+* [2026-10-13, 19:11:48](https://news.ycombinator.com/item?id=50077020) - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
 * [2026-10-13, 18:37:45](https://news.ycombinator.com/item?id=50076503) - [Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain)
 * [2026-10-13, 18:09:26](https://news.ycombinator.com/item?id=50076048) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 * [2026-10-13, 17:52:57](https://news.ycombinator.com/item?id=50075809) - [Show HN: Deslop – Oxlint rules for AI-generated TypeScript](https://github.com/maharshi365/deslop)

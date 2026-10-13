@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-13, 19:11:48](https://news.ycombinator.com/item?id=50077020) - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
 * [2026-10-13, 18:37:45](https://news.ycombinator.com/item?id=50076503) - [Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain)
 * [2026-10-13, 18:09:26](https://news.ycombinator.com/item?id=50076048) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 * [2026-10-13, 17:52:57](https://news.ycombinator.com/item?id=50075809) - [Show HN: Deslop – Oxlint rules for AI-generated TypeScript](https://github.com/maharshi365/deslop)
@@ -24,12 +25,11 @@
 * [2026-10-13, 11:27:14](https://news.ycombinator.com/item?id=50069971) - [We turned EmbeddingGemma 2 into a speech-to-text model](https://eg2.haku.sh/)
 * [2026-10-13, 10:27:00](https://news.ycombinator.com/item?id=50069499) - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
 * [2026-10-13, 10:08:34](https://news.ycombinator.com/item?id=50069337) - [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
-* [2026-10-13, 10:07:03](https://news.ycombinator.com/item?id=50069318) - [AWS Lambda Web Functions](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/)
 * [2026-10-13, 07:28:34](https://news.ycombinator.com/item?id=50068036) - [Character.ai has initiated voluntary Chapter 11 bankruptcy](https://blog.character.ai/an-update-on-character-ai/)
 * [2026-10-13, 06:02:51](https://news.ycombinator.com/item?id=50067414) - [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107)
 * [2026-10-12, 21:40:18](https://news.ycombinator.com/item?id=50063427) - [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 * [2026-10-12, 19:28:48](https://news.ycombinator.com/item?id=50061659) - [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
-* [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms hidden chip in crypto wallet amid $92M theft claims](https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/)
+* [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 
 ## [Archives](archives/index.md)
 
