@@ -1,22 +1,32 @@
 [
   [
     [
-      "2026-10-12, 23:36:00",
-      "https://news.ycombinator.com/item?id=50064546"
-    ],
-    [
-      "SQL Injection found on ibm.com subdomain",
-      "https://hackerone.com/reports/3662090"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 23:34:22",
       "https://news.ycombinator.com/item?id=50064536"
     ],
     [
       "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
       "https://doi.org/10.1111/acel.70751"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 23:22:00",
+      "https://news.ycombinator.com/item?id=50064444"
+    ],
+    [
+      "A shared, verifiable fix database that AI agents read and write themselves",
+      "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 23:21:12",
+      "https://news.ycombinator.com/item?id=50064438"
+    ],
+    [
+      "Show HN: An experimental pattern-first DAW that supports MCP",
+      "https://github.com/andrewfader/blokkily"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Codex CLI installs a persistent, self-updating background daemon by default",
       "https://github.com/openai/codex/issues/48195"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 18:27:26",
-      "https://news.ycombinator.com/item?id=50060674"
-    ],
-    [
-      "Publishers Killed the Paperback, Then Blamed Readers",
-      "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-10-12, 00:15:12",
-      "https://news.ycombinator.com/item?id=50049588"
+      "2026-10-11, 11:02:30",
+      "https://news.ycombinator.com/item?id=50041866"
     ],
     [
-      "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-      "https://github.com/SaarthurR/atticus-mac"
+      "The baffling intelligence of a single cell (2024)",
+      "https://jsomers.net/e-coli-chemotaxis/"
     ]
   ],
   [
