@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
+* [2026-10-13, 05:57:32](https://news.ycombinator.com/item?id=50067356) - [Threat of AI share crash puts world financial stability at risk, says IMF](https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks)
 * [2026-10-13, 05:22:28](https://news.ycombinator.com/item?id=50067098) - [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
 * [2026-10-13, 02:51:50](https://news.ycombinator.com/item?id=50065972) - [NAZA: Netanyahu orders identification and prosecution of film's interviewees](https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film)
 * [2026-10-13, 02:46:43](https://news.ycombinator.com/item?id=50065932) - [OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit](https://www.argmin.net/p/faster-fourier-transforms)
