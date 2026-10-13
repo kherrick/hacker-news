@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-13, 19:55:31](https://news.ycombinator.com/item?id=50077703) - [OpenAI finds recording device in one of their offices](https://twitter.com/OpenAINewsroom/status/2110095403198849132)
+* [2026-10-13, 19:50:31](https://news.ycombinator.com/item?id=50077619) - [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/)
 * [2026-10-13, 19:17:19](https://news.ycombinator.com/item?id=50077096) - [The Four Colour Theorem: The first time machines mogged mathematicians](https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians)
 * [2026-10-13, 19:11:48](https://news.ycombinator.com/item?id=50077020) - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
 * [2026-10-13, 18:37:45](https://news.ycombinator.com/item?id=50076503) - [Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain)
-* [2026-10-13, 18:09:26](https://news.ycombinator.com/item?id=50076048) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 * [2026-10-13, 17:43:05](https://news.ycombinator.com/item?id=50075665) - [Show HN: XY Music Notation](https://music.xy.dev/)
 * [2026-10-13, 17:00:39](https://news.ycombinator.com/item?id=50074969) - [Coris (YC S22) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations)
 * [2026-10-13, 16:57:57](https://news.ycombinator.com/item?id=50074909) - [Show HN: How Random Are You?](https://lab.specr.net/rigged-draw/)
