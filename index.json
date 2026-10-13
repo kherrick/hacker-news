@@ -1,21 +1,11 @@
 [
   [
     [
-      "2026-10-13, 02:51:50",
-      "https://news.ycombinator.com/item?id=50065972"
-    ],
-    [
-      "NAZA: Netanyahu orders identification and prosecution of film's interviewees",
-      "https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film"
-    ]
-  ],
-  [
-    [
       "2026-10-13, 02:46:43",
       "https://news.ycombinator.com/item?id=50065932"
     ],
     [
-      "OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit",
+      "A look at OpenAI’s math they claim computes faster Fourier transforms",
       "https://www.argmin.net/p/faster-fourier-transforms"
     ]
   ],
@@ -47,16 +37,6 @@
     [
       "AI Models Can Provably Hide Arbitrary Capabilities",
       "https://arxiv.org/abs/2610.13928"
-    ]
-  ],
-  [
-    [
-      "2026-10-13, 01:46:47",
-      "https://news.ycombinator.com/item?id=50065553"
-    ],
-    [
-      "Strengthening our defenses against distillation attacks",
-      "https://www.anthropic.com/research/distillation-defenses"
     ]
   ],
   [
@@ -171,6 +151,16 @@
   ],
   [
     [
+      "2026-10-12, 16:54:08",
+      "https://news.ycombinator.com/item?id=50059204"
+    ],
+    [
+      "Thinking will become a hobby",
+      "https://www.spinellis.gr/blog/20261008/?li261008"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 16:48:01",
       "https://news.ycombinator.com/item?id=50059115"
     ],
@@ -257,6 +247,16 @@
     [
       "Citroen revives the 2CV for an electric age",
       "https://www.bbc.com/news/articles/c620r33plgppo"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 00:15:12",
+      "https://news.ycombinator.com/item?id=50049588"
+    ],
+    [
+      "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "https://github.com/SaarthurR/atticus-mac"
     ]
   ],
   [
