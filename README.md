@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-13, 16:03:16](https://news.ycombinator.com/item?id=50073879) - [Gemini 4 Argon](https://deepmind.google/models/gemini/)
 * [2026-10-13, 15:41:00](https://news.ycombinator.com/item?id=50073471) - [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471)
-* [2026-10-13, 15:40:03](https://news.ycombinator.com/item?id=50073455) - [Now That Information Is Free, What's a College Campus For?](https://commonedge.org/now-that-information-is-free-whats-a-college-campus-for/)
 * [2026-10-13, 15:25:50](https://news.ycombinator.com/item?id=50073221) - [I posted to HN, and then my website was flooded with AI bot traffic](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
+* [2026-10-13, 15:12:57](https://news.ycombinator.com/item?id=50072994) - [The United Kingdom Generates Less Electricity per Person Than in the 1970s](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak)
 * [2026-10-13, 15:07:37](https://news.ycombinator.com/item?id=50072913) - [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)
 * [2026-10-13, 14:21:40](https://news.ycombinator.com/item?id=50072229) - [A Book That Will Never Be Read](https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/)
+* [2026-10-13, 14:14:23](https://news.ycombinator.com/item?id=50072120) - [How to engineer an AI harness for game development](https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code)
 * [2026-10-13, 13:21:35](https://news.ycombinator.com/item?id=50071310) - [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
 * [2026-10-13, 13:02:12](https://news.ycombinator.com/item?id=50071017) - [Apple HomeView](https://www.apple.com/apple-homeview/)
 * [2026-10-13, 12:40:04](https://news.ycombinator.com/item?id=50070741) - [BB(10) > Graham's Number](https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md)
@@ -26,9 +28,7 @@
 * [2026-10-12, 19:36:02](https://news.ycombinator.com/item?id=50061791) - [Making big downloads resumable in Firefox](https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html)
 * [2026-10-12, 16:13:10](https://news.ycombinator.com/item?id=50058528) - [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
 * [2026-10-12, 16:11:45](https://news.ycombinator.com/item?id=50058507) - [GLM-Legal](https://z.ai/blog/glm-legal)
-* [2026-10-12, 12:41:58](https://news.ycombinator.com/item?id=50055593) - [Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr)
 * [2026-10-12, 12:16:42](https://news.ycombinator.com/item?id=50055304) - [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
-* [2026-10-12, 12:09:09](https://news.ycombinator.com/item?id=50055220) - [Citroen revives the 2CV for an electric age](https://www.bbc.com/news/articles/c620r33plgppo)
 * [2026-10-11, 11:02:30](https://news.ycombinator.com/item?id=50041866) - [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
 
 ## [Archives](archives/index.md)

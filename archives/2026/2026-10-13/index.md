@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
+* [2026-10-13, 16:03:16](https://news.ycombinator.com/item?id=50073879) - [Gemini 4 Argon](https://deepmind.google/models/gemini/)
 * [2026-10-13, 15:41:00](https://news.ycombinator.com/item?id=50073471) - [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471)
 * [2026-10-13, 15:40:03](https://news.ycombinator.com/item?id=50073455) - [Now That Information Is Free, What's a College Campus For?](https://commonedge.org/now-that-information-is-free-whats-a-college-campus-for/)
 * [2026-10-13, 15:25:50](https://news.ycombinator.com/item?id=50073221) - [I posted to HN, and then my website was flooded with AI bot traffic](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
+* [2026-10-13, 15:12:57](https://news.ycombinator.com/item?id=50072994) - [The United Kingdom Generates Less Electricity per Person Than in the 1970s](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak)
 * [2026-10-13, 15:07:37](https://news.ycombinator.com/item?id=50072913) - [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)
 * [2026-10-13, 15:07:20](https://news.ycombinator.com/item?id=50072909) - [Nearly all 19 car brands send driver data to third parties (Northeastern/CR)](https://news.auravision.co/car-is-spying/)
 * [2026-10-13, 14:26:08](https://news.ycombinator.com/item?id=50072286) - [Apple's new 'Switch to Safari' campaign details why you should ditch Chrome](https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/)
 * [2026-10-13, 14:21:40](https://news.ycombinator.com/item?id=50072229) - [A Book That Will Never Be Read](https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/)
+* [2026-10-13, 14:14:23](https://news.ycombinator.com/item?id=50072120) - [How to engineer an AI harness for game development](https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code)
 * [2026-10-13, 13:21:35](https://news.ycombinator.com/item?id=50071310) - [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
 * [2026-10-13, 13:02:12](https://news.ycombinator.com/item?id=50071017) - [Apple HomeView](https://www.apple.com/apple-homeview/)
 * [2026-10-13, 12:40:04](https://news.ycombinator.com/item?id=50070741) - [BB(10) > Graham's Number](https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md)
