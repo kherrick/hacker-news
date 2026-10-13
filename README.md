@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-13, 02:46:43](https://news.ycombinator.com/item?id=50065932) - [A look at OpenAI’s math that’s claimed computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)
-* [2026-10-13, 02:39:35](https://news.ycombinator.com/item?id=50065892) - [Leaving Tech](https://ryanbigg.com/2026/10/leaving-tech)
 * [2026-10-13, 02:25:00](https://news.ycombinator.com/item?id=50065805) - [China Overtakes U.S. For First Time as Top Spender on R&D in 2024](https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/)
 * [2026-10-13, 02:09:19](https://news.ycombinator.com/item?id=50065713) - [The Dock on Mac, from OS 10 to macOS 27](https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/)
 * [2026-10-13, 02:07:08](https://news.ycombinator.com/item?id=50065692) - [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928)
+* [2026-10-13, 00:11:04](https://news.ycombinator.com/item?id=50064840) - [Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)](https://github.com/bherbruck/solidcraft)
 * [2026-10-12, 23:34:22](https://news.ycombinator.com/item?id=50064536) - [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
 * [2026-10-12, 23:21:12](https://news.ycombinator.com/item?id=50064438) - [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
 * [2026-10-12, 22:05:43](https://news.ycombinator.com/item?id=50063717) - [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
