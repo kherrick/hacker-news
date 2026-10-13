@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-10-12, 23:07:25",
-      "https://news.ycombinator.com/item?id=50064318"
-    ],
-    [
-      "I turned my unused Kindle into a photo frame with GPT-6 Astra",
-      "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
-    ]
-  ],
-  [
-    [
       "2026-10-12, 22:05:43",
       "https://news.ycombinator.com/item?id=50063717"
     ],
@@ -147,6 +137,16 @@
     [
       "Codex CLI installs a persistent, self-updating background daemon by default",
       "https://github.com/openai/codex/issues/48195"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 16:54:08",
+      "https://news.ycombinator.com/item?id=50059204"
+    ],
+    [
+      "Thinking will become a hobby",
+      "https://www.spinellis.gr/blog/20261008/?li261008"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-10-12, 06:46:53",
-      "https://news.ycombinator.com/item?id=50052251"
+      "2026-10-12, 00:15:12",
+      "https://news.ycombinator.com/item?id=50049588"
     ],
     [
-      "Show HN: PS2 games statically recompiled to WebAssembly",
-      "https://github.com/snuri00/ps2-web-recomp"
+      "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "https://github.com/SaarthurR/atticus-mac"
     ]
   ],
   [
