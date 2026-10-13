@@ -7,6 +7,7 @@
 * [2026-10-13, 09:25:10](https://news.ycombinator.com/item?id=50068946) - [Were Software Engineers blue-collar workers all along?](https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along)
 * [2026-10-13, 09:02:45](https://news.ycombinator.com/item?id=50068732) - [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
 * [2026-10-13, 08:34:35](https://news.ycombinator.com/item?id=50068510) - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
+* [2026-10-13, 08:34:12](https://news.ycombinator.com/item?id=50068508) - [Crypto thieves sell hardware wallets with secret eSIM](https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html)
 * [2026-10-13, 08:24:51](https://news.ycombinator.com/item?id=50068443) - [Document Review with Unsiloed and TypeSafe Jev](https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev)
 * [2026-10-13, 08:24:06](https://news.ycombinator.com/item?id=50068437) - [DishwasherBench – Can Frontier Models Stack a Dishwasher?](https://github.com/composo-ai/DishwasherBench)
 * [2026-10-13, 06:27:03](https://news.ycombinator.com/item?id=50067570) - [Denmark set to allow return of 'physical force' in school](https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html)
