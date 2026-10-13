@@ -75,6 +75,7 @@
 * [2026-10-11, 09:19:46](https://news.ycombinator.com/item?id=50041252) - [Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos](https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5)
 * [2026-10-11, 07:53:42](https://news.ycombinator.com/item?id=50040625) - [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
 * [2026-10-11, 07:34:45](https://news.ycombinator.com/item?id=50040547) - [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
+* [2026-10-11, 06:32:15](https://news.ycombinator.com/item?id=50040317) - [Neuroscience can make decluttering easier](https://www.nytimes.com/2026/10/11/opinion/clutter-spring-cleaning-psychology.html)
 * [2026-10-11, 06:18:59](https://news.ycombinator.com/item?id=50040276) - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
 * [2026-10-11, 05:32:28](https://news.ycombinator.com/item?id=50040090) - [Does Fast Mode Do Anything?](https://doesfastdoanything.com/)
 * [2026-10-11, 04:07:32](https://news.ycombinator.com/item?id=50039715) - [Vegetables half as nutritious as they were in the 1960s](https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/)
