@@ -63,6 +63,7 @@
 * [2026-10-11, 11:39:10](https://news.ycombinator.com/item?id=50042149) - [What driving across Europe costs in tolls, vignettes, bridges and fuel](https://copilot.travel/tolls/europe-2026)
 * [2026-10-11, 11:34:28](https://news.ycombinator.com/item?id=50042107) - [AI is creating a 'human premium' for art created by people](https://www.bbc.com/news/articles/c5vgjm3gk7rzo)
 * [2026-10-11, 11:03:21](https://news.ycombinator.com/item?id=50041873) - [Nicolas Cage says he won't work with Amazon again over AI dispute](https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute)
+* [2026-10-11, 11:02:30](https://news.ycombinator.com/item?id=50041866) - [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
 * [2026-10-11, 10:47:21](https://news.ycombinator.com/item?id=50041765) - [Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things](https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things)
 * [2026-10-11, 10:45:55](https://news.ycombinator.com/item?id=50041755) - [Building a VMM from scratch, #0: Why BoxLite is replacing libkrun](https://blog.boxlite.ai/building-a-vmm-from-scratch-0-why-boxlite-is-replacing-libkrun)
 * [2026-10-11, 10:37:55](https://news.ycombinator.com/item?id=50041682) - [Nitter: Update Oct 10th seeking funding and legal help](https://nitter.net)
