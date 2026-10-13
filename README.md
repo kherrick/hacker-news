@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-13, 23:13:23](https://news.ycombinator.com/item?id=50080275) - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
 * [2026-10-13, 21:57:29](https://news.ycombinator.com/item?id=50079464) - [AlphaNIST](https://alpha-nist.github.io/)
 * [2026-10-13, 21:55:25](https://news.ycombinator.com/item?id=50079437) - [Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)
 * [2026-10-13, 21:01:12](https://news.ycombinator.com/item?id=50078686) - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
@@ -7,7 +8,6 @@
 * [2026-10-13, 19:50:31](https://news.ycombinator.com/item?id=50077619) - [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/)
 * [2026-10-13, 19:17:19](https://news.ycombinator.com/item?id=50077096) - [The Four Colour Theorem: The first time machines mogged mathematicians](https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians)
 * [2026-10-13, 19:11:48](https://news.ycombinator.com/item?id=50077020) - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
-* [2026-10-13, 16:57:57](https://news.ycombinator.com/item?id=50074909) - [Show HN: How Random Are You?](https://lab.specr.net/rigged-draw/)
 * [2026-10-13, 16:55:47](https://news.ycombinator.com/item?id=50074869) - [Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)
 * [2026-10-13, 16:03:16](https://news.ycombinator.com/item?id=50073879) - [Gemini 4 Argon](https://deepmind.google/models/gemini/)
 * [2026-10-13, 15:49:56](https://news.ycombinator.com/item?id=50073633) - [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
