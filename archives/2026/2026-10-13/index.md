@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
+* [2026-10-13, 19:17:19](https://news.ycombinator.com/item?id=50077096) - [The Four Colour Theorem: The first time machines mogged mathematicians](https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians)
 * [2026-10-13, 19:11:48](https://news.ycombinator.com/item?id=50077020) - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
 * [2026-10-13, 18:37:45](https://news.ycombinator.com/item?id=50076503) - [Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain)
 * [2026-10-13, 18:09:26](https://news.ycombinator.com/item?id=50076048) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
@@ -26,6 +27,7 @@
 * [2026-10-13, 14:21:40](https://news.ycombinator.com/item?id=50072229) - [A Book That Will Never Be Read](https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/)
 * [2026-10-13, 14:14:23](https://news.ycombinator.com/item?id=50072120) - [How to engineer an AI harness for game development](https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code)
 * [2026-10-13, 13:21:35](https://news.ycombinator.com/item?id=50071310) - [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
+* [2026-10-13, 13:14:09](https://news.ycombinator.com/item?id=50071200) - [Show HN: Stream live open data in two commands](https://docs.hypermass.io/docs/cli/)
 * [2026-10-13, 13:02:12](https://news.ycombinator.com/item?id=50071017) - [Apple HomeView](https://www.apple.com/apple-homeview/)
 * [2026-10-13, 12:40:04](https://news.ycombinator.com/item?id=50070741) - [BB(10) > Graham's Number](https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md)
 * [2026-10-13, 12:26:36](https://news.ycombinator.com/item?id=50070593) - [Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs](https://machinelearning.apple.com/research/distributed-gpu-cloud)
