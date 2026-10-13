@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-13, 10:08:34](https://news.ycombinator.com/item?id=50069337) - [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
+* [2026-10-13, 10:08:18](https://news.ycombinator.com/item?id=50069333) - [AI models may soon self-replicate without access to data centers](https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/)
 * [2026-10-13, 10:08:00](https://news.ycombinator.com/item?id=50069329) - [CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades](https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran)
 * [2026-10-13, 10:07:03](https://news.ycombinator.com/item?id=50069318) - [AWS Lambda Web Functions](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/)
-* [2026-10-13, 09:25:10](https://news.ycombinator.com/item?id=50068946) - [Were Software Engineers blue-collar workers all along?](https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along)
 * [2026-10-13, 08:34:12](https://news.ycombinator.com/item?id=50068508) - [Crypto thieves sell hardware wallets with secret eSIM](https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html)
 * [2026-10-13, 08:24:51](https://news.ycombinator.com/item?id=50068443) - [Document Review with Unsiloed and TypeSafe Jev](https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev)
-* [2026-10-13, 08:24:06](https://news.ycombinator.com/item?id=50068437) - [DishwasherBench – Can Frontier Models Stack a Dishwasher?](https://github.com/composo-ai/DishwasherBench)
 * [2026-10-13, 06:02:51](https://news.ycombinator.com/item?id=50067414) - [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107)
 * [2026-10-13, 02:46:43](https://news.ycombinator.com/item?id=50065932) - [A look at the math that OpenAI claims computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)
 * [2026-10-13, 02:07:08](https://news.ycombinator.com/item?id=50065692) - [AI models can provably hide arbitrary capabilities](https://arxiv.org/abs/2610.13928)
