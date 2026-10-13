@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-13, 10:27:00",
+      "https://news.ycombinator.com/item?id=50069499"
+    ],
+    [
+      "11 year old unsoundness bugs found in Rust borrow checker",
+      "https://github.com/rust-lang/rust/issues/164250"
+    ]
+  ],
+  [
+    [
       "2026-10-13, 10:08:34",
       "https://news.ycombinator.com/item?id=50069337"
     ],
@@ -177,16 +187,6 @@
     [
       "Making big downloads resumable in Firefox",
       "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 18:29:04",
-      "https://news.ycombinator.com/item?id=50060694"
-    ],
-    [
-      "Codex CLI installs a persistent, self-updating background daemon by default",
-      "https://github.com/openai/codex/issues/48195"
     ]
   ],
   [
