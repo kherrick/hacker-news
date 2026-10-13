@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-13, 23:13:23](https://news.ycombinator.com/item?id=50080275) - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
+* [2026-10-13, 22:33:33](https://news.ycombinator.com/item?id=50079865) - [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
 * [2026-10-13, 21:57:29](https://news.ycombinator.com/item?id=50079464) - [AlphaNIST](https://alpha-nist.github.io/)
 * [2026-10-13, 21:55:25](https://news.ycombinator.com/item?id=50079437) - [Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)
 * [2026-10-13, 21:01:12](https://news.ycombinator.com/item?id=50078686) - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
@@ -19,7 +20,6 @@
 * [2026-10-13, 13:21:35](https://news.ycombinator.com/item?id=50071310) - [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
 * [2026-10-13, 13:02:12](https://news.ycombinator.com/item?id=50071017) - [Apple HomeView](https://www.apple.com/apple-homeview/)
 * [2026-10-13, 12:26:36](https://news.ycombinator.com/item?id=50070593) - [A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud)
-* [2026-10-13, 12:23:34](https://news.ycombinator.com/item?id=50070554) - [Worlds more habitable than Earth?](https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html)
 * [2026-10-13, 12:00:42](https://news.ycombinator.com/item?id=50070302) - [Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
 * [2026-10-13, 11:32:00](https://news.ycombinator.com/item?id=50070010) - [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui)
 * [2026-10-13, 11:27:14](https://news.ycombinator.com/item?id=50069971) - [We turned EmbeddingGemma 2 into a speech-to-text model](https://eg2.haku.sh/)
