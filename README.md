@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-13, 11:27:14](https://news.ycombinator.com/item?id=50069971) - [An hour of audio transcribed in about 13s on MacBook Air](https://eg2.haku.sh/)
+* [2026-10-13, 11:24:08](https://news.ycombinator.com/item?id=50069942) - [Character.ai Files for Bankruptcy](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
 * [2026-10-13, 10:27:00](https://news.ycombinator.com/item?id=50069499) - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
 * [2026-10-13, 10:08:34](https://news.ycombinator.com/item?id=50069337) - [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
 * [2026-10-13, 10:08:18](https://news.ycombinator.com/item?id=50069333) - [AI models may soon self-replicate without access to data centers](https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/)
@@ -22,7 +23,6 @@
 * [2026-10-12, 16:46:34](https://news.ycombinator.com/item?id=50059096) - [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
 * [2026-10-12, 16:13:10](https://news.ycombinator.com/item?id=50058528) - [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
 * [2026-10-12, 16:11:45](https://news.ycombinator.com/item?id=50058507) - [GLM-Legal](https://z.ai/blog/glm-legal)
-* [2026-10-12, 15:16:45](https://news.ycombinator.com/item?id=50057668) - [Kevin Kelly's 2016 AI Predictions, 10 Years Later](https://taylor.town/kk-ai-2026)
 * [2026-10-12, 14:19:04](https://news.ycombinator.com/item?id=50056822) - [Solar panels that plug into your wall](https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy)
 * [2026-10-12, 12:41:58](https://news.ycombinator.com/item?id=50055593) - [Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr)
 * [2026-10-12, 12:16:42](https://news.ycombinator.com/item?id=50055304) - [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
