@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-13, 12:00:42",
+      "https://news.ycombinator.com/item?id=50070302"
+    ],
+    [
+      "Mozilla Introduces Firefox Enterprise",
+      "https://www.firefox.com/en-US/enterprise/"
+    ]
+  ],
+  [
+    [
       "2026-10-13, 11:27:14",
       "https://news.ycombinator.com/item?id=50069971"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2026-10-13, 08:24:06",
+      "https://news.ycombinator.com/item?id=50068437"
+    ],
+    [
+      "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+      "https://github.com/composo-ai/DishwasherBench"
+    ]
+  ],
+  [
+    [
       "2026-10-13, 06:02:51",
       "https://news.ycombinator.com/item?id=50067414"
     ],
@@ -127,16 +147,6 @@
     [
       "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
       "https://github.com/bherbruck/solidcraft"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 23:21:12",
-      "https://news.ycombinator.com/item?id=50064438"
-    ],
-    [
-      "Show HN: An experimental pattern-first DAW that supports MCP",
-      "https://github.com/andrewfader/blokkily"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The baffling intelligence of a single cell (2024)",
       "https://jsomers.net/e-coli-chemotaxis/"
-    ]
-  ],
-  [
-    [
-      "2026-10-10, 19:28:41",
-      "https://news.ycombinator.com/item?id=50036287"
-    ],
-    [
-      "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
-      "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/"
     ]
   ]
 ]
