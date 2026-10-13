@@ -28,8 +28,8 @@
 * [2026-10-13, 06:47:42](https://news.ycombinator.com/item?id=50067721) - [Maybe a better way to track the release history of a Git repo](https://blog.plover.com/prog/git/history-proposal.html)
 * [2026-10-12, 19:28:48](https://news.ycombinator.com/item?id=50061659) - [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
 * [2026-10-12, 17:15:13](https://news.ycombinator.com/item?id=50059542) - [Hiking the world in search of rare cheeses](https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses)
-* [2026-10-12, 16:20:26](https://news.ycombinator.com/item?id=50058649) - [IDRs as Records of Intent](https://wrla.ch/log/2026/10/idrs-as-records-of-intent/)
 * [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
+* [2026-10-12, 09:05:02](https://news.ycombinator.com/item?id=50053487) - [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html)
 
 ## [Archives](archives/index.md)
 
