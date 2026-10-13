@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-13, 02:46:43](https://news.ycombinator.com/item?id=50065932) - [A look at OpenAI’s math they claim computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)
+* [2026-10-13, 02:46:43](https://news.ycombinator.com/item?id=50065932) - [A look at OpenAI’s math that’s claimed computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)
 * [2026-10-13, 02:39:35](https://news.ycombinator.com/item?id=50065892) - [Leaving Tech](https://ryanbigg.com/2026/10/leaving-tech)
 * [2026-10-13, 02:25:00](https://news.ycombinator.com/item?id=50065805) - [China Overtakes U.S. For First Time as Top Spender on R&D in 2024](https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/)
+* [2026-10-13, 02:09:19](https://news.ycombinator.com/item?id=50065713) - [The Dock on Mac, from OS 10 to macOS 27](https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/)
 * [2026-10-13, 02:07:08](https://news.ycombinator.com/item?id=50065692) - [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928)
 * [2026-10-12, 23:34:22](https://news.ycombinator.com/item?id=50064536) - [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
 * [2026-10-12, 23:21:12](https://news.ycombinator.com/item?id=50064438) - [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
@@ -15,7 +16,6 @@
 * [2026-10-12, 19:40:00](https://news.ycombinator.com/item?id=50061859) - [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
 * [2026-10-12, 19:36:02](https://news.ycombinator.com/item?id=50061791) - [Making big downloads resumable in Firefox](https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html)
 * [2026-10-12, 18:29:04](https://news.ycombinator.com/item?id=50060694) - [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
-* [2026-10-12, 16:54:08](https://news.ycombinator.com/item?id=50059204) - [Thinking will become a hobby](https://www.spinellis.gr/blog/20261008/?li261008)
 * [2026-10-12, 16:48:01](https://news.ycombinator.com/item?id=50059115) - [Muse Wonder](https://research.meta.ai/blog/muse-wonder)
 * [2026-10-12, 16:46:34](https://news.ycombinator.com/item?id=50059096) - [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
 * [2026-10-12, 16:13:10](https://news.ycombinator.com/item?id=50058528) - [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
