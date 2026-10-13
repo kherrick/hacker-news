@@ -22,6 +22,7 @@
 * [2026-10-12, 19:52:12](https://news.ycombinator.com/item?id=50062025) - [Martin Odersky – Keynote: The End of Programming? [video]](https://www.youtube.com/watch?v=jlJyuJhDnlc)
 * [2026-10-12, 19:40:00](https://news.ycombinator.com/item?id=50061859) - [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
 * [2026-10-12, 19:36:02](https://news.ycombinator.com/item?id=50061791) - [Making big downloads resumable in Firefox](https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html)
+* [2026-10-12, 19:28:48](https://news.ycombinator.com/item?id=50061659) - [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
 * [2026-10-12, 19:25:29](https://news.ycombinator.com/item?id=50061603) - [AI models may be capable of self-replicating without access to a datacenter](https://www.anthropic.com/research/self-replicating-ai)
 * [2026-10-12, 19:08:21](https://news.ycombinator.com/item?id=50061278) - [Introducing OpenFatigue](https://openfatigue.ai/)
 * [2026-10-12, 18:29:04](https://news.ycombinator.com/item?id=50060694) - [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
