@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2026-10-13, 08:34:12",
-      "https://news.ycombinator.com/item?id=50068508"
-    ],
-    [
-      "Crypto thieves sell hardware wallets with secret eSIM",
-      "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html"
-    ]
-  ],
-  [
-    [
       "2026-10-13, 08:24:51",
       "https://news.ycombinator.com/item?id=50068443"
     ],
@@ -137,6 +127,16 @@
     [
       "A look at the math that OpenAI claims computes faster Fourier transforms",
       "https://www.argmin.net/p/faster-fourier-transforms"
+    ]
+  ],
+  [
+    [
+      "2026-10-13, 02:07:08",
+      "https://news.ycombinator.com/item?id=50065692"
+    ],
+    [
+      "AI models can provably hide arbitrary capabilities",
+      "https://arxiv.org/abs/2610.13928"
     ]
   ],
   [
