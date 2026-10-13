@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
+* [2026-10-13, 10:08:00](https://news.ycombinator.com/item?id=50069329) - [CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades](https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran)
+* [2026-10-13, 10:07:03](https://news.ycombinator.com/item?id=50069318) - [AWS Lambda Web Functions](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/)
 * [2026-10-13, 09:25:10](https://news.ycombinator.com/item?id=50068946) - [Were Software Engineers blue-collar workers all along?](https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along)
 * [2026-10-13, 09:02:45](https://news.ycombinator.com/item?id=50068732) - [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
 * [2026-10-13, 08:34:35](https://news.ycombinator.com/item?id=50068510) - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
