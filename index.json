@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2026-10-13, 05:57:32",
-      "https://news.ycombinator.com/item?id=50067356"
-    ],
-    [
-      "Threat of AI share crash puts world financial stability at risk, says IMF",
-      "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
-    ]
-  ],
-  [
-    [
       "2026-10-13, 02:46:43",
       "https://news.ycombinator.com/item?id=50065932"
     ],
     [
-      "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "A look at the math that OpenAI claims computes faster Fourier transforms",
       "https://www.argmin.net/p/faster-fourier-transforms"
     ]
   ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=50065692"
     ],
     [
-      "AI Models Can Provably Hide Arbitrary Capabilities",
+      "AI models can provably hide arbitrary capabilities",
       "https://arxiv.org/abs/2610.13928"
     ]
   ],
@@ -67,16 +57,6 @@
     [
       "Show HN: An experimental pattern-first DAW that supports MCP",
       "https://github.com/andrewfader/blokkily"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 22:15:29",
-      "https://news.ycombinator.com/item?id=50063831"
-    ],
-    [
-      "RJ Mitte has died",
-      "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332"
     ]
   ],
   [
@@ -167,6 +147,16 @@
     [
       "Codex CLI installs a persistent, self-updating background daemon by default",
       "https://github.com/openai/codex/issues/48195"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 16:54:08",
+      "https://news.ycombinator.com/item?id=50059204"
+    ],
+    [
+      "Thinking will become a hobby",
+      "https://www.spinellis.gr/blog/20261008/?li261008"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Auto Research: Integer multiplication below n log n",
       "https://app.getsupers.com/auto-research"
+    ]
+  ],
+  [
+    [
+      "2026-10-11, 13:16:45",
+      "https://news.ycombinator.com/item?id=50043026"
+    ],
+    [
+      "Terence Tao: Math 2.0 [pdf]",
+      "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"
     ]
   ],
   [
