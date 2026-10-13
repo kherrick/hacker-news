@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-10-13, 02:39:35",
+      "https://news.ycombinator.com/item?id=50065892"
+    ],
+    [
+      "Leaving Tech",
+      "https://ryanbigg.com/2026/10/leaving-tech"
+    ]
+  ],
+  [
+    [
+      "2026-10-13, 02:25:00",
+      "https://news.ycombinator.com/item?id=50065805"
+    ],
+    [
+      "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
+      "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/"
+    ]
+  ],
+  [
+    [
+      "2026-10-13, 01:46:47",
+      "https://news.ycombinator.com/item?id=50065553"
+    ],
+    [
+      "Strengthening our defenses against distillation attacks",
+      "https://www.anthropic.com/research/distillation-defenses"
+    ]
+  ],
+  [
+    [
       "2026-10-12, 23:34:22",
       "https://news.ycombinator.com/item?id=50064536"
     ],
@@ -27,16 +57,6 @@
     [
       "I turned my unused Kindle into a photo frame with GPT-6 Astra",
       "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 22:15:29",
-      "https://news.ycombinator.com/item?id=50063831"
-    ],
-    [
-      "RJ Mitte has died",
-      "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Codex CLI installs a persistent, self-updating background daemon by default",
       "https://github.com/openai/codex/issues/48195"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 16:54:08",
-      "https://news.ycombinator.com/item?id=50059204"
-    ],
-    [
-      "Thinking will become a hobby",
-      "https://www.spinellis.gr/blog/20261008/?li261008"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Show HN: PS2 games statically recompiled to WebAssembly",
       "https://github.com/snuri00/ps2-web-recomp"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 00:15:12",
-      "https://news.ycombinator.com/item?id=50049588"
-    ],
-    [
-      "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-      "https://github.com/SaarthurR/atticus-mac"
     ]
   ],
   [
