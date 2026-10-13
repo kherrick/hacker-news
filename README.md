@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-13, 19:55:31](https://news.ycombinator.com/item?id=50077703) - [OpenAI finds recording device in one of their offices](https://twitter.com/OpenAINewsroom/status/2110095403198849132)
 * [2026-10-13, 19:17:19](https://news.ycombinator.com/item?id=50077096) - [The Four Colour Theorem: The first time machines mogged mathematicians](https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians)
 * [2026-10-13, 19:11:48](https://news.ycombinator.com/item?id=50077020) - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
 * [2026-10-13, 18:37:45](https://news.ycombinator.com/item?id=50076503) - [Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain)
@@ -17,7 +18,6 @@
 * [2026-10-13, 14:26:08](https://news.ycombinator.com/item?id=50072286) - [Apple's new 'Switch to Safari' campaign details why you should ditch Chrome](https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/)
 * [2026-10-13, 14:14:23](https://news.ycombinator.com/item?id=50072120) - [How to engineer an AI harness for game development](https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code)
 * [2026-10-13, 13:21:35](https://news.ycombinator.com/item?id=50071310) - [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
-* [2026-10-13, 13:14:09](https://news.ycombinator.com/item?id=50071200) - [Show HN: Stream live open data in two commands](https://docs.hypermass.io/docs/cli/)
 * [2026-10-13, 13:02:12](https://news.ycombinator.com/item?id=50071017) - [Apple HomeView](https://www.apple.com/apple-homeview/)
 * [2026-10-13, 12:26:36](https://news.ycombinator.com/item?id=50070593) - [A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud)
 * [2026-10-13, 12:23:34](https://news.ycombinator.com/item?id=50070554) - [Worlds more habitable than Earth?](https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html)
