@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 10:29:56](https://news.ycombinator.com/item?id=50085332) - [Show HN: Building an LLM from Scratch in TypeScript](https://book.humanexperiences.io/)
+* [2026-10-14, 10:25:48](https://news.ycombinator.com/item?id=50085296) - [I let an AI run my startup for a week](https://daily.tinyprojects.dev/221)
+* [2026-10-14, 10:08:57](https://news.ycombinator.com/item?id=50085112) - [Apple: Switch to Safari (From Chrome)](https://www.apple.com/safari/switch/)
+* [2026-10-14, 09:54:23](https://news.ycombinator.com/item?id=50084969) - [Ask HN: What is the current trajectory of a senior engineer?](https://news.ycombinator.com/item?id=50084969)
 * [2026-10-14, 09:10:37](https://news.ycombinator.com/item?id=50084622) - [Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex)
 * [2026-10-14, 08:49:06](https://news.ycombinator.com/item?id=50084416) - [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
 * [2026-10-14, 08:27:59](https://news.ycombinator.com/item?id=50084240) - [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
