@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-14, 13:20:02](https://news.ycombinator.com/item?id=50087328) - [Switzerland proposes banning profiling-based ads to minors](https://www.admin.ch/en/newnsb/NMn5s24l8NjQ)
 * [2026-10-14, 12:58:32](https://news.ycombinator.com/item?id=50087044) - [RIP Eric Binnion](https://ma.tt/2026/10/rip-eric/)
 * [2026-10-14, 12:16:35](https://news.ycombinator.com/item?id=50086484) - [The Aaronson Oracle](https://aaronsonoracle.com/)
-* [2026-10-14, 12:01:16](https://news.ycombinator.com/item?id=50086313) - [Smart people don't think others are stupid](https://sive.rs/ss)
 * [2026-10-14, 11:47:53](https://news.ycombinator.com/item?id=50086165) - [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
 * [2026-10-14, 10:28:26](https://news.ycombinator.com/item?id=50085323) - [TV4 postpones show after AI agent erases edited material](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)
 * [2026-10-14, 10:26:53](https://news.ycombinator.com/item?id=50085306) - [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
