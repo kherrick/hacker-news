@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-10-13, 22:46:49",
+      "https://news.ycombinator.com/item?id=50080007"
+    ],
+    [
+      "Grace Hopper Celebration Cancelled",
+      "https://anitab.org/press-release"
+    ]
+  ],
+  [
+    [
       "2026-10-13, 22:33:33",
       "https://news.ycombinator.com/item?id=50079865"
     ],
@@ -77,16 +87,6 @@
     [
       "OpenAI engineer arrested in bugging of executive conference room",
       "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"
-    ]
-  ],
-  [
-    [
-      "2026-10-13, 19:17:19",
-      "https://news.ycombinator.com/item?id=50077096"
-    ],
-    [
-      "The Four Colour Theorem: The first time machines mogged mathematicians",
-      "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2026-10-13, 12:00:42",
-      "https://news.ycombinator.com/item?id=50070302"
-    ],
-    [
-      "Firefox Enterprise",
-      "https://www.firefox.com/en-US/enterprise/"
-    ]
-  ],
-  [
-    [
       "2026-10-13, 11:32:00",
       "https://news.ycombinator.com/item?id=50070010"
     ],
     [
       "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
       "https://github.com/LargeModGames/spotatui"
+    ]
+  ],
+  [
+    [
+      "2026-10-13, 10:27:00",
+      "https://news.ycombinator.com/item?id=50069499"
+    ],
+    [
+      "11 year old unsoundness bugs found in Rust borrow checker",
+      "https://github.com/rust-lang/rust/issues/164250"
     ]
   ],
   [
