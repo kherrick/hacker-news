@@ -34,6 +34,7 @@
 * [2026-10-11, 19:12:39](https://news.ycombinator.com/item?id=50046745) - [America's Longest Highway Tunnel (2025)](https://www.thetravel.com/americas-longest-highway-tunnel-not-for-faint-of-heart/)
 * [2026-10-11, 18:26:24](https://news.ycombinator.com/item?id=50046241) - [Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)
 * [2026-10-11, 18:16:54](https://news.ycombinator.com/item?id=50046117) - [Anthropic is out with new nonsense about Claude](https://dair-community.social/@emilymbender/117412868905734653)
+* [2026-10-11, 18:07:56](https://news.ycombinator.com/item?id=50046022) - [Arena Allocators in C](https://eliasebner.com/blog/guides/arena-allocators-in-c/)
 * [2026-10-11, 18:04:47](https://news.ycombinator.com/item?id=50045984) - [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
 * [2026-10-11, 18:01:16](https://news.ycombinator.com/item?id=50045946) - [NYC's \"Click to Cancel\" rule is now in effect](https://www.nyc.gov/main/click-to-cancel)
 * [2026-10-11, 17:56:13](https://news.ycombinator.com/item?id=50045895) - [We're unlocking the biggest mysteries of the clitoris](https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2)
