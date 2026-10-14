@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 16:52:42](https://news.ycombinator.com/item?id=50090799) - [Has AI Tells](https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1)
+* [2026-10-14, 16:33:34](https://news.ycombinator.com/item?id=50090443) - [The Emperor Pelican Has No Clothes](https://arcfu.com/post/the-emperor-pelican-has-no-clothes/)
 * [2026-10-14, 16:16:25](https://news.ycombinator.com/item?id=50090084) - [Amsterdam police confisquates server left-wing ISP A/I at American request](https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960)
+* [2026-10-14, 16:09:00](https://news.ycombinator.com/item?id=50089921) - [Americans' Social Activity Has Steeply Declined in the Past 30 Years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
 * [2026-10-14, 15:51:40](https://news.ycombinator.com/item?id=50089624) - [Shit Flow Diagram](https://en.wikipedia.org/wiki/Shit_flow_diagram)
 * [2026-10-14, 15:39:45](https://news.ycombinator.com/item?id=50089395) - [Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/)
 * [2026-10-14, 15:31:15](https://news.ycombinator.com/item?id=50089229) - [Submarine Cable Resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
