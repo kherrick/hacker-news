@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-14, 13:20:39](https://news.ycombinator.com/item?id=50087336) - [Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff](https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/)
 * [2026-10-14, 13:20:02](https://news.ycombinator.com/item?id=50087328) - [Switzerland proposes banning profiling-based ads to minors](https://www.admin.ch/en/newnsb/NMn5s24l8NjQ)
 * [2026-10-14, 12:58:32](https://news.ycombinator.com/item?id=50087044) - [RIP Eric Binnion](https://ma.tt/2026/10/rip-eric/)
 * [2026-10-14, 12:16:35](https://news.ycombinator.com/item?id=50086484) - [The Aaronson Oracle](https://aaronsonoracle.com/)
@@ -22,7 +23,6 @@
 * [2026-10-13, 15:12:57](https://news.ycombinator.com/item?id=50072994) - [The United Kingdom generates less electricity per person than in the 1970s](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak)
 * [2026-10-13, 13:31:43](https://news.ycombinator.com/item?id=50071466) - [Same Job, Two Engines: InnoDB and Iceberg Internals](https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/)
 * [2026-10-12, 23:52:29](https://news.ycombinator.com/item?id=50064673) - [The Origin Story of Kid Pix](http://red-green-blue.com/kid-pix-the-early-years)
-* [2026-10-12, 21:40:18](https://news.ycombinator.com/item?id=50063427) - [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 * [2026-10-12, 21:09:08](https://news.ycombinator.com/item?id=50063104) - [Kcgi – minimal CGI and FastCGI library for C/C++](https://kristaps.bsd.lv/kcgi/)
 * [2026-10-12, 19:28:48](https://news.ycombinator.com/item?id=50061659) - [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
 * [2026-10-12, 14:41:27](https://news.ycombinator.com/item?id=50057119) - [Maybe a better way to track the release history of a Git repo](https://blog.plover.com/prog/git/history-proposal.html)
