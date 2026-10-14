@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-14, 09:10:37](https://news.ycombinator.com/item?id=50084622) - [Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex)
+* [2026-10-14, 08:49:06](https://news.ycombinator.com/item?id=50084416) - [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
 * [2026-10-14, 08:27:59](https://news.ycombinator.com/item?id=50084240) - [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
 * [2026-10-14, 06:18:01](https://news.ycombinator.com/item?id=50083130) - [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
 * [2026-10-14, 04:42:33](https://news.ycombinator.com/item?id=50082470) - [Felix Rieseberg Homepage](https://felixrieseberg.com/)
@@ -16,10 +18,8 @@
 * [2026-10-13, 15:49:56](https://news.ycombinator.com/item?id=50073633) - [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 * [2026-10-13, 15:12:57](https://news.ycombinator.com/item?id=50072994) - [The United Kingdom generates less electricity per person than in the 1970s](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak)
 * [2026-10-13, 15:07:37](https://news.ycombinator.com/item?id=50072913) - [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)
-* [2026-10-13, 14:14:23](https://news.ycombinator.com/item?id=50072120) - [How to engineer an AI harness for game development](https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code)
 * [2026-10-13, 13:31:43](https://news.ycombinator.com/item?id=50071466) - [Same Job, Two Engines: InnoDB and Iceberg Internals](https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/)
 * [2026-10-13, 13:02:12](https://news.ycombinator.com/item?id=50071017) - [Apple HomeView](https://www.apple.com/apple-homeview/)
-* [2026-10-13, 12:00:42](https://news.ycombinator.com/item?id=50070302) - [Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
 * [2026-10-13, 10:27:00](https://news.ycombinator.com/item?id=50069499) - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
 * [2026-10-12, 21:40:18](https://news.ycombinator.com/item?id=50063427) - [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 * [2026-10-12, 21:09:08](https://news.ycombinator.com/item?id=50063104) - [Kcgi – minimal CGI and FastCGI library for C/C++](https://kristaps.bsd.lv/kcgi/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 09:10:37](https://news.ycombinator.com/item?id=50084622) - [Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex)
+* [2026-10-14, 08:49:06](https://news.ycombinator.com/item?id=50084416) - [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
 * [2026-10-14, 08:27:59](https://news.ycombinator.com/item?id=50084240) - [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
 * [2026-10-14, 07:30:49](https://news.ycombinator.com/item?id=50083766) - [Why Sweden is abandoning its cashless society](https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html)
 * [2026-10-14, 06:18:01](https://news.ycombinator.com/item?id=50083130) - [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
