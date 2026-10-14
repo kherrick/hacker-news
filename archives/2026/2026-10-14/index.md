@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
 * [2026-10-14, 10:29:56](https://news.ycombinator.com/item?id=50085332) - [Show HN: Building an LLM from Scratch in TypeScript](https://book.humanexperiences.io/)
+* [2026-10-14, 10:26:24](https://news.ycombinator.com/item?id=50085302) - [AI Laser Locking for Quantum Computers: How QuEra Automates It](https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers)
 * [2026-10-14, 10:25:48](https://news.ycombinator.com/item?id=50085296) - [I let an AI run my startup for a week](https://daily.tinyprojects.dev/221)
+* [2026-10-14, 10:21:13](https://news.ycombinator.com/item?id=50085259) - [Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"](https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren)
 * [2026-10-14, 10:08:57](https://news.ycombinator.com/item?id=50085112) - [Apple: Switch to Safari (From Chrome)](https://www.apple.com/safari/switch/)
 * [2026-10-14, 09:54:23](https://news.ycombinator.com/item?id=50084969) - [Ask HN: What is the current trajectory of a senior engineer?](https://news.ycombinator.com/item?id=50084969)
 * [2026-10-14, 09:10:37](https://news.ycombinator.com/item?id=50084622) - [Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex)
