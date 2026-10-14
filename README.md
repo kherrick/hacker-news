@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-14, 21:11:03](https://news.ycombinator.com/item?id=50095353) - [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
 * [2026-10-14, 20:48:24](https://news.ycombinator.com/item?id=50094994) - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
 * [2026-10-14, 20:30:54](https://news.ycombinator.com/item?id=50094694) - [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
 * [2026-10-14, 20:29:13](https://news.ycombinator.com/item?id=50094673) - [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
@@ -9,9 +10,8 @@
 * [2026-10-14, 18:32:52](https://news.ycombinator.com/item?id=50092664) - [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
 * [2026-10-14, 18:23:14](https://news.ycombinator.com/item?id=50092470) - [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
 * [2026-10-14, 17:50:26](https://news.ycombinator.com/item?id=50091875) - [America didn't lose its rare earth industry, it sold it](https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it)
-* [2026-10-14, 17:45:34](https://news.ycombinator.com/item?id=50091794) - [Neckbeard – a DevOps/platform/SRE plugin for your agent](https://github.com/bealesh/neckbeard)
+* [2026-10-14, 17:45:34](https://news.ycombinator.com/item?id=50091794) - [Neckbeard – A DevOps/platform/SRE plugin for your agent](https://github.com/bealesh/neckbeard)
 * [2026-10-14, 17:45:23](https://news.ycombinator.com/item?id=50091788) - [AI agents aren't 'going rogue.' Frontier labs are skipping security basics](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
-* [2026-10-14, 16:45:19](https://news.ycombinator.com/item?id=50090662) - [Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges](https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges)
 * [2026-10-14, 16:29:33](https://news.ycombinator.com/item?id=50090369) - [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse)
 * [2026-10-14, 16:28:51](https://news.ycombinator.com/item?id=50090349) - [Google is silently linking your phone number across all signed-in accounts](https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/)
 * [2026-10-14, 15:31:15](https://news.ycombinator.com/item?id=50089229) - [Submarine cable resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
