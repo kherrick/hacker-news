@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2026-10-13, 19:50:31",
+      "https://news.ycombinator.com/item?id=50077619"
+    ],
+    [
+      "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "https://parsimony.lasu.dev/"
+    ]
+  ],
+  [
+    [
       "2026-10-13, 19:11:48",
       "https://news.ycombinator.com/item?id=50077020"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-10-13, 11:27:14",
-      "https://news.ycombinator.com/item?id=50069971"
-    ],
-    [
-      "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "https://eg2.haku.sh/"
-    ]
-  ],
-  [
-    [
       "2026-10-13, 07:28:34",
       "https://news.ycombinator.com/item?id=50068036"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-10-12, 15:12:37",
-      "https://news.ycombinator.com/item?id=50057612"
+      "2026-10-12, 14:41:27",
+      "https://news.ycombinator.com/item?id=50057119"
     ],
     [
-      "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
-      "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm"
+      "Maybe a better way to track the release history of a Git repo",
+      "https://blog.plover.com/prog/git/history-proposal.html"
     ]
   ],
   [
