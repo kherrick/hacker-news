@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 15:51:40](https://news.ycombinator.com/item?id=50089624) - [Shit Flow Diagram](https://en.wikipedia.org/wiki/Shit_flow_diagram)
+* [2026-10-14, 15:39:45](https://news.ycombinator.com/item?id=50089395) - [Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/)
+* [2026-10-14, 15:31:15](https://news.ycombinator.com/item?id=50089229) - [Submarine Cable Resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
 * [2026-10-14, 15:23:31](https://news.ycombinator.com/item?id=50089052) - [Why are all these data companies buying internal data?](https://apnews.com/press-release/newsfile/press-release-2dc1342f34a40e5953ab80c2f4bd4fdd)
 * [2026-10-14, 15:15:45](https://news.ycombinator.com/item?id=50088935) - [Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
+* [2026-10-14, 15:00:41](https://news.ycombinator.com/item?id=50088713) - [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle)
 * [2026-10-14, 14:55:19](https://news.ycombinator.com/item?id=50088643) - [Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation)
 * [2026-10-14, 14:47:44](https://news.ycombinator.com/item?id=50088534) - [AI is mass decompiling games. That's both awesome and scary](https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/)
+* [2026-10-14, 14:40:03](https://news.ycombinator.com/item?id=50088447) - [Strands Decider: Why Not an Encoder?](https://brooker.co.za:443/blog/2026/10/04/encoders.html)
 * [2026-10-14, 14:38:55](https://news.ycombinator.com/item?id=50088430) - [ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
 * [2026-10-14, 13:31:27](https://news.ycombinator.com/item?id=50087524) - [Apple Keynote now showing ads in its UI](https://mastodon.social/@marioguzman/117436264149891011)
 * [2026-10-14, 13:20:39](https://news.ycombinator.com/item?id=50087336) - [Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff](https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/)
@@ -15,6 +20,7 @@
 * [2026-10-14, 12:58:32](https://news.ycombinator.com/item?id=50087044) - [RIP Eric Binnion](https://ma.tt/2026/10/rip-eric/)
 * [2026-10-14, 12:40:55](https://news.ycombinator.com/item?id=50086794) - [CPI-U rises 7.2% annualized in September (3.7% YoY)](https://www.bls.gov/news.release/cpi.nr0.htm?)
 * [2026-10-14, 12:16:35](https://news.ycombinator.com/item?id=50086484) - [The Aaronson Oracle](https://aaronsonoracle.com/)
+* [2026-10-14, 12:05:44](https://news.ycombinator.com/item?id=50086363) - [Nvidia's first GPU: GeForce 256](https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/)
 * [2026-10-14, 12:01:16](https://news.ycombinator.com/item?id=50086313) - [Smart people don't think others are stupid](https://sive.rs/ss)
 * [2026-10-14, 11:47:53](https://news.ycombinator.com/item?id=50086165) - [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
 * [2026-10-14, 10:55:57](https://news.ycombinator.com/item?id=50085607) - [Xi's 'death watch' will become a global spectacle](https://www.semafor.com/article/10/13/2026/xis-death-watch-will-become-a-global-spectacle)
