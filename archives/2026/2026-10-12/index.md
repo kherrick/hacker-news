@@ -47,6 +47,7 @@
 * [2026-10-12, 16:11:45](https://news.ycombinator.com/item?id=50058507) - [GLM-Legal: Advancing Agentic Legal Intelligence](https://z.ai/blog/glm-legal)
 * [2026-10-12, 16:04:37](https://news.ycombinator.com/item?id=50058395) - [How Do Cuttlefish Hide?](https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html)
 * [2026-10-12, 15:36:21](https://news.ycombinator.com/item?id=50057956) - [French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack](https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html)
+* [2026-10-12, 15:20:04](https://news.ycombinator.com/item?id=50057720) - [How to Select an Experiment](https://chillphysicsenjoyer.substack.com/p/how-to-select-an-experiment)
 * [2026-10-12, 15:16:45](https://news.ycombinator.com/item?id=50057668) - [Kevin Kelly's 2016 AI Predictions, 10 Years Later](https://taylor.town/kk-ai-2026)
 * [2026-10-12, 15:12:37](https://news.ycombinator.com/item?id=50057612) - [Rebuilding the Original Odhner Model 127 Pinwheel Calculator](https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm)
 * [2026-10-12, 15:09:22](https://news.ycombinator.com/item?id=50057559) - [A Strongly Aperiodic Monotile in Three Dimensions](https://arxiv.org/abs/2609.19214)
