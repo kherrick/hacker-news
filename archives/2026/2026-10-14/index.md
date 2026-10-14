@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 12:16:35](https://news.ycombinator.com/item?id=50086484) - [The Aaronson Oracle](https://aaronsonoracle.com/)
 * [2026-10-14, 12:01:16](https://news.ycombinator.com/item?id=50086313) - [Smart people don't think others are stupid](https://sive.rs/ss)
 * [2026-10-14, 11:47:53](https://news.ycombinator.com/item?id=50086165) - [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
 * [2026-10-14, 10:55:57](https://news.ycombinator.com/item?id=50085607) - [Xi's 'death watch' will become a global spectacle](https://www.semafor.com/article/10/13/2026/xis-death-watch-will-become-a-global-spectacle)
