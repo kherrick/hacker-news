@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2026-10-14, 18:21:14",
+      "https://news.ycombinator.com/item?id=50092423"
+    ],
+    [
+      "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+      "https://oxide.computer/blog/voxel-labs"
+    ]
+  ],
+  [
+    [
       "2026-10-14, 17:50:26",
       "https://news.ycombinator.com/item?id=50091875"
     ],
@@ -115,8 +125,18 @@
       "https://news.ycombinator.com/item?id=50091788"
     ],
     [
-      "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+      "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-14, 17:00:59",
+      "https://news.ycombinator.com/item?id=50090932"
+    ],
+    [
+      "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "https://clova.email/"
     ]
   ],
   [
@@ -171,42 +191,12 @@
   ],
   [
     [
-      "2026-10-14, 14:40:03",
-      "https://news.ycombinator.com/item?id=50088447"
-    ],
-    [
-      "Strands Decider: Why Not an Encoder?",
-      "https://brooker.co.za:443/blog/2026/10/04/encoders.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 12:05:44",
-      "https://news.ycombinator.com/item?id=50086363"
-    ],
-    [
-      "Nvidia's first GPU: GeForce 256",
-      "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/"
-    ]
-  ],
-  [
-    [
       "2026-10-14, 11:47:53",
       "https://news.ycombinator.com/item?id=50086165"
     ],
     [
       "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
       "https://github.com/timescale/pg_vectorsearch"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 10:28:26",
-      "https://news.ycombinator.com/item?id=50085323"
-    ],
-    [
-      "TV4 postpones show after AI agent erases edited material",
-      "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Iosevka is an open-source, sans-serif and slab-serif monospace font",
       "https://typeof.net/Iosevka/"
+    ]
+  ],
+  [
+    [
+      "2026-10-14, 06:02:16",
+      "https://news.ycombinator.com/item?id=50083028"
+    ],
+    [
+      "Why is every rationalist blog post way too long?",
+      "https://alexwennerberg.com/blog/2026-10-13-long.html"
     ]
   ],
   [
