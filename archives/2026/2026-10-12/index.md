@@ -63,6 +63,7 @@
 * [2026-10-12, 14:19:04](https://news.ycombinator.com/item?id=50056822) - [Solar Panels That Plug into Your Wall Are About to Be Everywhere](https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy)
 * [2026-10-12, 13:20:04](https://news.ycombinator.com/item?id=50056063) - [\"Just Ask Claude\" Is a Rare and Valuable Skill](https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable)
 * [2026-10-12, 12:46:52](https://news.ycombinator.com/item?id=50055654) - [AI less regulated than milk, Microsoft president says in warning over safety](https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules)
+* [2026-10-12, 12:44:42](https://news.ycombinator.com/item?id=50055632) - [The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)](https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html)
 * [2026-10-12, 12:41:58](https://news.ycombinator.com/item?id=50055593) - [Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr)
 * [2026-10-12, 12:26:32](https://news.ycombinator.com/item?id=50055409) - [(Post-Quantum) Cryptographic Right Answers](https://words.filippo.io/right-answers/)
 * [2026-10-12, 12:23:51](https://news.ycombinator.com/item?id=50055375) - [Incident with Actions, Pull Requests and Issues](https://www.githubstatus.com/incidents/93njd414rpbx)
