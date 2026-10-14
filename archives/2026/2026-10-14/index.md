@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 20:48:24](https://news.ycombinator.com/item?id=50094994) - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
 * [2026-10-14, 20:30:54](https://news.ycombinator.com/item?id=50094694) - [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
 * [2026-10-14, 20:29:13](https://news.ycombinator.com/item?id=50094673) - [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
 * [2026-10-14, 19:44:02](https://news.ycombinator.com/item?id=50093913) - [Casey Newton and John Gruber Slink Back to X](https://karlbode.com/casey-newton-and-john-gruber-slink-back-to-elon-musks-right-wing-propaganda-machine/)
