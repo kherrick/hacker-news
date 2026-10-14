@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-14, 07:30:49](https://news.ycombinator.com/item?id=50083766) - [Why Sweden is abandoning its cashless society](https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html)
 * [2026-10-14, 06:18:01](https://news.ycombinator.com/item?id=50083130) - [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
 * [2026-10-14, 04:42:33](https://news.ycombinator.com/item?id=50082470) - [Felix Rieseberg Homepage](https://felixrieseberg.com/)
 * [2026-10-14, 01:01:08](https://news.ycombinator.com/item?id=50081092) - [Do Frameworks Matter Anymore?](https://brookslybrand.com/posts/do-frameworks-matter-anymore/)
-* [2026-10-13, 23:13:23](https://news.ycombinator.com/item?id=50080275) - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
 * [2026-10-13, 22:46:49](https://news.ycombinator.com/item?id=50080007) - [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
 * [2026-10-13, 22:33:33](https://news.ycombinator.com/item?id=50079865) - [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
 * [2026-10-13, 21:57:29](https://news.ycombinator.com/item?id=50079464) - [AlphaNIST](https://alpha-nist.github.io/)
