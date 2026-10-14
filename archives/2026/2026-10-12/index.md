@@ -44,6 +44,7 @@
 * [2026-10-12, 16:15:28](https://news.ycombinator.com/item?id=50058569) - [French supermarkets suffer refrigerator shutdown after unprecedented cyberattack](https://www.afp.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack)
 * [2026-10-12, 16:13:10](https://news.ycombinator.com/item?id=50058528) - [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
 * [2026-10-12, 16:11:45](https://news.ycombinator.com/item?id=50058507) - [GLM-Legal: Advancing Agentic Legal Intelligence](https://z.ai/blog/glm-legal)
+* [2026-10-12, 16:04:37](https://news.ycombinator.com/item?id=50058395) - [How Do Cuttlefish Hide?](https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html)
 * [2026-10-12, 15:36:21](https://news.ycombinator.com/item?id=50057956) - [French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack](https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html)
 * [2026-10-12, 15:16:45](https://news.ycombinator.com/item?id=50057668) - [Kevin Kelly's 2016 AI Predictions, 10 Years Later](https://taylor.town/kk-ai-2026)
 * [2026-10-12, 15:12:37](https://news.ycombinator.com/item?id=50057612) - [Rebuilding the Original Odhner Model 127 Pinwheel Calculator](https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm)
