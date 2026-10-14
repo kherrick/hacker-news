@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
 * [2026-10-14, 18:43:57](https://news.ycombinator.com/item?id=50092847) - [How the Military Will Hack the Election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)
+* [2026-10-14, 18:37:21](https://news.ycombinator.com/item?id=50092730) - [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
 * [2026-10-14, 18:32:52](https://news.ycombinator.com/item?id=50092664) - [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
+* [2026-10-14, 18:23:14](https://news.ycombinator.com/item?id=50092470) - [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
 * [2026-10-14, 18:20:44](https://news.ycombinator.com/item?id=50092415) - [Container ship sinks in Strait of Hormuz as Iran steps up attacks](https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html)
 * [2026-10-14, 17:50:26](https://news.ycombinator.com/item?id=50091875) - [America Didn't Lose Its Rare Earth Industry. It Sold It](https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it)
 * [2026-10-14, 17:45:34](https://news.ycombinator.com/item?id=50091794) - [Neckbeard – a DevOps/platform/SRE plugin for your agent](https://github.com/bealesh/neckbeard)
