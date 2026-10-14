@@ -46,6 +46,7 @@
 * [2026-10-12, 16:11:45](https://news.ycombinator.com/item?id=50058507) - [GLM-Legal: Advancing Agentic Legal Intelligence](https://z.ai/blog/glm-legal)
 * [2026-10-12, 15:36:21](https://news.ycombinator.com/item?id=50057956) - [French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack](https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html)
 * [2026-10-12, 15:16:45](https://news.ycombinator.com/item?id=50057668) - [Kevin Kelly's 2016 AI Predictions, 10 Years Later](https://taylor.town/kk-ai-2026)
+* [2026-10-12, 15:12:37](https://news.ycombinator.com/item?id=50057612) - [Rebuilding the Original Odhner Model 127 Pinwheel Calculator](https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm)
 * [2026-10-12, 15:08:53](https://news.ycombinator.com/item?id=50057551) - [Fridges in French supermarkets hit by cyber attack](https://www.bbc.com/news/articles/crq5nzxv9q4yo)
 * [2026-10-12, 14:59:08](https://news.ycombinator.com/item?id=50057384) - [Hackers heat French supermarket fridges, sparking fires and food losses](https://www.reuters.com/business/retail-consumer/french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12/)
 * [2026-10-12, 14:52:37](https://news.ycombinator.com/item?id=50057278) - [Why aren't AI companies being charged for hacking?](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
