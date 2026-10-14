@@ -2,6 +2,7 @@
 
 * [2026-10-14, 15:23:31](https://news.ycombinator.com/item?id=50089052) - [Why are all these data companies buying internal data?](https://apnews.com/press-release/newsfile/press-release-2dc1342f34a40e5953ab80c2f4bd4fdd)
 * [2026-10-14, 15:15:45](https://news.ycombinator.com/item?id=50088935) - [Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
+* [2026-10-14, 14:55:19](https://news.ycombinator.com/item?id=50088643) - [Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation)
 * [2026-10-14, 14:38:55](https://news.ycombinator.com/item?id=50088430) - [ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
 * [2026-10-14, 12:58:32](https://news.ycombinator.com/item?id=50087044) - [Eric Binnion has died](https://ma.tt/2026/10/rip-eric/)
 * [2026-10-14, 12:16:35](https://news.ycombinator.com/item?id=50086484) - [The Aaronson Oracle](https://aaronsonoracle.com/)
@@ -23,7 +24,6 @@
 * [2026-10-13, 15:12:57](https://news.ycombinator.com/item?id=50072994) - [The United Kingdom generates less electricity per person than in the 1970s](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak)
 * [2026-10-13, 13:31:43](https://news.ycombinator.com/item?id=50071466) - [Same Job, Two Engines: InnoDB and Iceberg Internals](https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/)
 * [2026-10-12, 23:52:29](https://news.ycombinator.com/item?id=50064673) - [The Origin Story of Kid Pix](http://red-green-blue.com/kid-pix-the-early-years)
-* [2026-10-12, 21:09:08](https://news.ycombinator.com/item?id=50063104) - [Kcgi – minimal CGI and FastCGI library for C/C++](https://kristaps.bsd.lv/kcgi/)
 * [2026-10-12, 20:29:25](https://news.ycombinator.com/item?id=50062575) - [The Genealogy of Eliza](https://elizagen.org/genealogy.html)
 * [2026-10-12, 19:28:48](https://news.ycombinator.com/item?id=50061659) - [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
 * [2026-10-12, 12:44:42](https://news.ycombinator.com/item?id=50055632) - [The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)](https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html)

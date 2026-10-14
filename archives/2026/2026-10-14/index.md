@@ -6,6 +6,7 @@
 
 * [2026-10-14, 15:23:31](https://news.ycombinator.com/item?id=50089052) - [Why are all these data companies buying internal data?](https://apnews.com/press-release/newsfile/press-release-2dc1342f34a40e5953ab80c2f4bd4fdd)
 * [2026-10-14, 15:15:45](https://news.ycombinator.com/item?id=50088935) - [Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
+* [2026-10-14, 14:55:19](https://news.ycombinator.com/item?id=50088643) - [Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation)
 * [2026-10-14, 14:38:55](https://news.ycombinator.com/item?id=50088430) - [ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
 * [2026-10-14, 13:20:39](https://news.ycombinator.com/item?id=50087336) - [Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff](https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/)
 * [2026-10-14, 13:20:02](https://news.ycombinator.com/item?id=50087328) - [Switzerland proposes banning profiling-based ads to minors](https://www.admin.ch/en/newnsb/NMn5s24l8NjQ)
