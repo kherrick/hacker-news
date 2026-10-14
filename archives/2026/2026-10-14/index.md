@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 20:29:13](https://news.ycombinator.com/item?id=50094673) - [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
 * [2026-10-14, 19:44:02](https://news.ycombinator.com/item?id=50093913) - [Casey Newton and John Gruber Slink Back to X](https://karlbode.com/casey-newton-and-john-gruber-slink-back-to-elon-musks-right-wing-propaganda-machine/)
 * [2026-10-14, 19:29:12](https://news.ycombinator.com/item?id=50093612) - [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
 * [2026-10-14, 19:26:30](https://news.ycombinator.com/item?id=50093568) - [Things to know if you get cancer in 2026](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
