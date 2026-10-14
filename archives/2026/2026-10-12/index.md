@@ -52,6 +52,7 @@
 * [2026-10-12, 14:59:08](https://news.ycombinator.com/item?id=50057384) - [Hackers heat French supermarket fridges, sparking fires and food losses](https://www.reuters.com/business/retail-consumer/french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12/)
 * [2026-10-12, 14:52:37](https://news.ycombinator.com/item?id=50057278) - [Why aren't AI companies being charged for hacking?](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
 * [2026-10-12, 14:45:44](https://news.ycombinator.com/item?id=50057185) - [Deep dive into Azure Maia 300 architecture](https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/)
+* [2026-10-12, 14:41:27](https://news.ycombinator.com/item?id=50057119) - [Maybe a better way to track the release history of a Git repo](https://blog.plover.com/prog/git/history-proposal.html)
 * [2026-10-12, 14:34:25](https://news.ycombinator.com/item?id=50057030) - [An Unmade Film Shaped Hayao Miyazaki](https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki)
 * [2026-10-12, 14:19:04](https://news.ycombinator.com/item?id=50056822) - [Solar Panels That Plug into Your Wall Are About to Be Everywhere](https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy)
 * [2026-10-12, 13:20:04](https://news.ycombinator.com/item?id=50056063) - [\"Just Ask Claude\" Is a Rare and Valuable Skill](https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable)
