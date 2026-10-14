@@ -26,8 +26,8 @@
 * [2026-10-14, 08:27:59](https://news.ycombinator.com/item?id=50084240) - [Iosevka is an open-source, sans-serif and slab-serif monospace font](https://typeof.net/Iosevka/)
 * [2026-10-14, 06:02:16](https://news.ycombinator.com/item?id=50083028) - [Why is every rationalist blog post way too long?](https://alexwennerberg.com/blog/2026-10-13-long.html)
 * [2026-10-13, 21:06:33](https://news.ycombinator.com/item?id=50078757) - [Marshall Islands Stick Chart](https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart)
+* [2026-10-13, 12:13:20](https://news.ycombinator.com/item?id=50070438) - [Using the Wrong Dictionary (2014)](https://jsomers.net/blog/dictionary)
 * [2026-10-13, 01:50:17](https://news.ycombinator.com/item?id=50065572) - [LittleJS is 2D and 3D now](https://frankforce.com/littlejs-is-2d-and-3d-now/)
-* [2026-10-12, 23:52:29](https://news.ycombinator.com/item?id=50064673) - [The Origin Story of Kid Pix](http://red-green-blue.com/kid-pix-the-early-years)
 * [2026-10-12, 10:52:25](https://news.ycombinator.com/item?id=50054465) - [Phloem: Git history grown like a slime mold](https://phloem.stemdeck.app/)
 * [2026-10-12, 02:21:54](https://news.ycombinator.com/item?id=50050553) - [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
 

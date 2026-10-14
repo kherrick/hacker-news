@@ -45,6 +45,7 @@
 * [2026-10-13, 12:40:04](https://news.ycombinator.com/item?id=50070741) - [BB(10) > Graham's Number](https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md)
 * [2026-10-13, 12:26:36](https://news.ycombinator.com/item?id=50070593) - [Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs](https://machinelearning.apple.com/research/distributed-gpu-cloud)
 * [2026-10-13, 12:23:34](https://news.ycombinator.com/item?id=50070554) - [Worlds More Habitable Than Earth? They're Out There](https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html)
+* [2026-10-13, 12:13:20](https://news.ycombinator.com/item?id=50070438) - [Using the Wrong Dictionary (2014)](https://jsomers.net/blog/dictionary)
 * [2026-10-13, 12:00:42](https://news.ycombinator.com/item?id=50070302) - [Mozilla Introduces Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)
 * [2026-10-13, 12:00:04](https://news.ycombinator.com/item?id=50070287) - [A Visual Intro to Complex Numbers](https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers)
 * [2026-10-13, 11:32:00](https://news.ycombinator.com/item?id=50070010) - [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui)
