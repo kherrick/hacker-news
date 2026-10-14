@@ -21,6 +21,7 @@
 * [2026-10-12, 20:07:42](https://news.ycombinator.com/item?id=50062237) - [Epic Games tells employees to use AI to get Disney game done](https://www.avclub.com/epic-games-disney-ai-delay)
 * [2026-10-12, 20:05:00](https://news.ycombinator.com/item?id=50062205) - [Muse DAU dropped and Meta insiders decided to sell](https://theinference.org/article/meta-s-muse-daily-user-growth-fell-62-in-three-weeks-and-insiders-made-172-trades-without-a-buy)
 * [2026-10-12, 19:52:12](https://news.ycombinator.com/item?id=50062025) - [Martin Odersky – Keynote: The End of Programming? [video]](https://www.youtube.com/watch?v=jlJyuJhDnlc)
+* [2026-10-12, 19:49:01](https://news.ycombinator.com/item?id=50061985) - [Who Taught the Machines Mathematics?](https://nisheethvishnoi.com/2026/10/09/who-taught-the-machines-mathematics/)
 * [2026-10-12, 19:40:00](https://news.ycombinator.com/item?id=50061859) - [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
 * [2026-10-12, 19:36:02](https://news.ycombinator.com/item?id=50061791) - [Making big downloads resumable in Firefox](https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html)
 * [2026-10-12, 19:28:48](https://news.ycombinator.com/item?id=50061659) - [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
