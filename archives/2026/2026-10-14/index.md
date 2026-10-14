@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 19:19:13](https://news.ycombinator.com/item?id=50093445) - [Back to School, in Gaza](https://www.newyorker.com/news/the-lede/back-to-school-in-gaza)
+* [2026-10-14, 19:03:58](https://news.ycombinator.com/item?id=50093180) - [Suicide rates highest ever among middle-aged men](https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/)
 * [2026-10-14, 18:43:57](https://news.ycombinator.com/item?id=50092847) - [How the Military Will Hack the Election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)
 * [2026-10-14, 18:37:21](https://news.ycombinator.com/item?id=50092730) - [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
 * [2026-10-14, 18:32:52](https://news.ycombinator.com/item?id=50092664) - [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
