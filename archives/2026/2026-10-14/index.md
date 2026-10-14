@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 12:58:32](https://news.ycombinator.com/item?id=50087044) - [RIP Eric Binnion](https://ma.tt/2026/10/rip-eric/)
 * [2026-10-14, 12:16:35](https://news.ycombinator.com/item?id=50086484) - [The Aaronson Oracle](https://aaronsonoracle.com/)
 * [2026-10-14, 12:01:16](https://news.ycombinator.com/item?id=50086313) - [Smart people don't think others are stupid](https://sive.rs/ss)
 * [2026-10-14, 11:47:53](https://news.ycombinator.com/item?id=50086165) - [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
