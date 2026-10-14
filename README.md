@@ -2,7 +2,7 @@
 
 * [2026-10-14, 13:20:39](https://news.ycombinator.com/item?id=50087336) - [Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff](https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/)
 * [2026-10-14, 13:20:02](https://news.ycombinator.com/item?id=50087328) - [Switzerland proposes banning profiling-based ads to minors](https://www.admin.ch/en/newnsb/NMn5s24l8NjQ)
-* [2026-10-14, 12:58:32](https://news.ycombinator.com/item?id=50087044) - [RIP Eric Binnion](https://ma.tt/2026/10/rip-eric/)
+* [2026-10-14, 12:58:32](https://news.ycombinator.com/item?id=50087044) - [Eric Binnion has died](https://ma.tt/2026/10/rip-eric/)
 * [2026-10-14, 12:40:55](https://news.ycombinator.com/item?id=50086794) - [CPI-U rises 7.2% annualized in September (3.7% YoY)](https://www.bls.gov/news.release/cpi.nr0.htm?)
 * [2026-10-14, 12:16:35](https://news.ycombinator.com/item?id=50086484) - [The Aaronson Oracle](https://aaronsonoracle.com/)
 * [2026-10-14, 11:47:53](https://news.ycombinator.com/item?id=50086165) - [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
