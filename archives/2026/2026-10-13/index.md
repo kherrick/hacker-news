@@ -37,6 +37,7 @@
 * [2026-10-13, 14:26:08](https://news.ycombinator.com/item?id=50072286) - [Apple's new 'Switch to Safari' campaign details why you should ditch Chrome](https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/)
 * [2026-10-13, 14:21:40](https://news.ycombinator.com/item?id=50072229) - [A Book That Will Never Be Read](https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/)
 * [2026-10-13, 14:14:23](https://news.ycombinator.com/item?id=50072120) - [How to engineer an AI harness for game development](https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code)
+* [2026-10-13, 13:31:43](https://news.ycombinator.com/item?id=50071466) - [Same Job, Two Engines: InnoDB and Iceberg Internals](https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/)
 * [2026-10-13, 13:21:35](https://news.ycombinator.com/item?id=50071310) - [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
 * [2026-10-13, 13:14:09](https://news.ycombinator.com/item?id=50071200) - [Show HN: Stream live open data in two commands](https://docs.hypermass.io/docs/cli/)
 * [2026-10-13, 13:02:12](https://news.ycombinator.com/item?id=50071017) - [Apple HomeView](https://www.apple.com/apple-homeview/)
