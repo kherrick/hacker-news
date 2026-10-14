@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-13](index.md)
 
 * [2026-10-13, 23:13:23](https://news.ycombinator.com/item?id=50080275) - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
+* [2026-10-13, 22:46:49](https://news.ycombinator.com/item?id=50080007) - [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
 * [2026-10-13, 22:33:33](https://news.ycombinator.com/item?id=50079865) - [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
 * [2026-10-13, 22:31:48](https://news.ycombinator.com/item?id=50079842) - [Running Qwen3.8 at 255 tok/s on a single 5090](https://meshapplied.com)
 * [2026-10-13, 21:57:29](https://news.ycombinator.com/item?id=50079464) - [AlphaNIST](https://alpha-nist.github.io/)
