@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-14, 15:23:31](https://news.ycombinator.com/item?id=50089052) - [Why are all these data companies buying internal data?](https://apnews.com/press-release/newsfile/press-release-2dc1342f34a40e5953ab80c2f4bd4fdd)
 * [2026-10-14, 15:15:45](https://news.ycombinator.com/item?id=50088935) - [Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
 * [2026-10-14, 14:55:19](https://news.ycombinator.com/item?id=50088643) - [Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation)
+* [2026-10-14, 14:47:44](https://news.ycombinator.com/item?id=50088534) - [AI is mass decompiling games. That's both awesome and scary](https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/)
 * [2026-10-14, 14:38:55](https://news.ycombinator.com/item?id=50088430) - [ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
+* [2026-10-14, 13:31:27](https://news.ycombinator.com/item?id=50087524) - [Apple Keynote now showing ads in its UI](https://mastodon.social/@marioguzman/117436264149891011)
 * [2026-10-14, 12:58:32](https://news.ycombinator.com/item?id=50087044) - [Eric Binnion has died](https://ma.tt/2026/10/rip-eric/)
 * [2026-10-14, 12:16:35](https://news.ycombinator.com/item?id=50086484) - [The Aaronson Oracle](https://aaronsonoracle.com/)
 * [2026-10-14, 11:47:53](https://news.ycombinator.com/item?id=50086165) - [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
@@ -27,7 +28,6 @@
 * [2026-10-12, 20:29:25](https://news.ycombinator.com/item?id=50062575) - [The Genealogy of Eliza](https://elizagen.org/genealogy.html)
 * [2026-10-12, 19:28:48](https://news.ycombinator.com/item?id=50061659) - [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
 * [2026-10-12, 12:44:42](https://news.ycombinator.com/item?id=50055632) - [The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)](https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html)
-* [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 * [2026-10-12, 09:05:02](https://news.ycombinator.com/item?id=50053487) - [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html)
 * [2026-10-11, 16:46:43](https://news.ycombinator.com/item?id=50045147) - [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/)
 
