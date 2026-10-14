@@ -15,6 +15,7 @@
 * [2026-10-12, 21:39:32](https://news.ycombinator.com/item?id=50063417) - [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
 * [2026-10-12, 21:35:35](https://news.ycombinator.com/item?id=50063365) - [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
 * [2026-10-12, 21:12:43](https://news.ycombinator.com/item?id=50063138) - [Who Is Vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
+* [2026-10-12, 21:09:08](https://news.ycombinator.com/item?id=50063104) - [Kcgi – minimal CGI and FastCGI library for C/C++](https://kristaps.bsd.lv/kcgi/)
 * [2026-10-12, 21:03:36](https://news.ycombinator.com/item?id=50063042) - [Show HN: Brickbrag – A multiplayer brick-building world in the browser](https://brickbrag.com/)
 * [2026-10-12, 20:52:34](https://news.ycombinator.com/item?id=50062922) - [In Praise of John Cale, the Superior Velvet](https://thequietus.com/subscriber-area/low-culture-essay/john-cale-low-culture/)
 * [2026-10-12, 20:07:42](https://news.ycombinator.com/item?id=50062237) - [Epic Games tells employees to use AI to get Disney game done](https://www.avclub.com/epic-games-disney-ai-delay)
