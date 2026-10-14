@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 17:37:23](https://news.ycombinator.com/item?id=50091647) - [Sally Rooney can no longer sell books in UK due to Palestine Action support](https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support)
 * [2026-10-14, 17:31:24](https://news.ycombinator.com/item?id=50091519) - [US report details extent of 'devastating' dating-app scams](https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress)
 * [2026-10-14, 16:55:07](https://news.ycombinator.com/item?id=50090842) - [Linus Torvalds's first LLM-assisted patch series](https://lwn.net/Articles/1100449/)
 * [2026-10-14, 16:52:42](https://news.ycombinator.com/item?id=50090799) - [Has AI Tells](https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1)
+* [2026-10-14, 16:45:19](https://news.ycombinator.com/item?id=50090662) - [Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges](https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges)
 * [2026-10-14, 16:34:53](https://news.ycombinator.com/item?id=50090484) - [I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice](https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/)
 * [2026-10-14, 16:33:34](https://news.ycombinator.com/item?id=50090443) - [The Emperor Pelican Has No Clothes](https://arcfu.com/post/the-emperor-pelican-has-no-clothes/)
 * [2026-10-14, 16:29:33](https://news.ycombinator.com/item?id=50090369) - [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse)
