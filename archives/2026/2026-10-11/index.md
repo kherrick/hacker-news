@@ -19,6 +19,7 @@
 * [2026-10-11, 22:22:10](https://news.ycombinator.com/item?id=50048522) - [Recursive self-improvement through collective intelligence](https://pub.sakana.ai/mass/)
 * [2026-10-11, 22:18:26](https://news.ycombinator.com/item?id=50048490) - [Shredding JSON columns gave Logfire up to 1000x faster queries](https://pydantic.dev/articles/dynamic-shredding-2026-01-26)
 * [2026-10-11, 21:59:48](https://news.ycombinator.com/item?id=50048312) - [Passkeys are a trap. Do not use them](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
+* [2026-10-11, 21:50:14](https://news.ycombinator.com/item?id=50048193) - [How I manage persistent Claude Code loops: Spool](https://github.com/enes-alatas/spool)
 * [2026-10-11, 21:44:24](https://news.ycombinator.com/item?id=50048136) - [An AI agent's $20 Kalshi account, with an exact reward model](https://github.com/mirabilis-agent/lip-ledger)
 * [2026-10-11, 21:07:20](https://news.ycombinator.com/item?id=50047825) - [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
 * [2026-10-11, 21:04:46](https://news.ycombinator.com/item?id=50047802) - [Tattoos you can turn on and off](https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off)

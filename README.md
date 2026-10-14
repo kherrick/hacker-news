@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-14, 22:37:54](https://news.ycombinator.com/item?id=50096485) - [Problems with the Rust Language](https://oxetene.net/problems-with-the-rust-language/)
 * [2026-10-14, 22:10:08](https://news.ycombinator.com/item?id=50096142) - [Tiny Little Office](https://tinylittleoffice.com/)
 * [2026-10-14, 21:11:03](https://news.ycombinator.com/item?id=50095353) - [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
 * [2026-10-14, 20:48:24](https://news.ycombinator.com/item?id=50094994) - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
@@ -24,12 +25,11 @@
 * [2026-10-14, 11:47:53](https://news.ycombinator.com/item?id=50086165) - [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
 * [2026-10-14, 09:28:17](https://news.ycombinator.com/item?id=50084757) - [How Amazon pushes up prices all across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 * [2026-10-14, 08:27:59](https://news.ycombinator.com/item?id=50084240) - [Iosevka is an open-source, sans-serif and slab-serif monospace font](https://typeof.net/Iosevka/)
-* [2026-10-14, 06:02:16](https://news.ycombinator.com/item?id=50083028) - [Why is every rationalist blog post way too long?](https://alexwennerberg.com/blog/2026-10-13-long.html)
-* [2026-10-13, 21:06:33](https://news.ycombinator.com/item?id=50078757) - [Marshall Islands Stick Chart](https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart)
 * [2026-10-13, 12:13:20](https://news.ycombinator.com/item?id=50070438) - [Webster’s Dictionary: The pleasure of finding things out (2014)](https://jsomers.net/blog/dictionary)
 * [2026-10-13, 01:50:17](https://news.ycombinator.com/item?id=50065572) - [LittleJS is 2D and 3D now](https://frankforce.com/littlejs-is-2d-and-3d-now/)
 * [2026-10-12, 10:52:25](https://news.ycombinator.com/item?id=50054465) - [Phloem: Git history grown like a slime mold](https://phloem.stemdeck.app/)
 * [2026-10-12, 02:21:54](https://news.ycombinator.com/item?id=50050553) - [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
+* [2026-10-11, 21:50:14](https://news.ycombinator.com/item?id=50048193) - [How I manage persistent Claude Code loops: Spool](https://github.com/enes-alatas/spool)
 
 ## [Archives](archives/index.md)
 
