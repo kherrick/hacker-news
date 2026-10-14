@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-14, 04:42:33](https://news.ycombinator.com/item?id=50082470) - [Felix Rieseberg Homepage](https://felixrieseberg.com/)
 * [2026-10-14, 03:10:25](https://news.ycombinator.com/item?id=50081930) - [Is 'Attention' the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/)
 * [2026-10-14, 01:09:13](https://news.ycombinator.com/item?id=50081151) - [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people)
 * [2026-10-14, 01:05:23](https://news.ycombinator.com/item?id=50081133) - [High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/)
@@ -8,7 +9,6 @@
 * [2026-10-13, 22:46:49](https://news.ycombinator.com/item?id=50080007) - [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
 * [2026-10-13, 22:33:33](https://news.ycombinator.com/item?id=50079865) - [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
 * [2026-10-13, 21:57:29](https://news.ycombinator.com/item?id=50079464) - [AlphaNIST](https://alpha-nist.github.io/)
-* [2026-10-13, 21:55:25](https://news.ycombinator.com/item?id=50079437) - [Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)
 * [2026-10-13, 21:01:12](https://news.ycombinator.com/item?id=50078686) - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
 * [2026-10-13, 20:23:55](https://news.ycombinator.com/item?id=50078141) - [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
 * [2026-10-13, 19:11:48](https://news.ycombinator.com/item?id=50077020) - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
@@ -29,7 +29,7 @@
 * [2026-10-12, 14:41:27](https://news.ycombinator.com/item?id=50057119) - [Maybe a better way to track the release history of a Git repo](https://blog.plover.com/prog/git/history-proposal.html)
 * [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 * [2026-10-12, 09:05:02](https://news.ycombinator.com/item?id=50053487) - [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html)
-* [2026-10-11, 16:46:43](https://news.ycombinator.com/item?id=50045147) - [Sound – Bartosz Ciechanowski](https://ciechanow.ski/sound/)
+* [2026-10-11, 16:46:43](https://news.ycombinator.com/item?id=50045147) - [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/)
 
 ## [Archives](archives/index.md)
 
