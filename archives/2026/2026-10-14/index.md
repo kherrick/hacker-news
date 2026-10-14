@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 17:50:26](https://news.ycombinator.com/item?id=50091875) - [America Didn't Lose Its Rare Earth Industry. It Sold It](https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it)
 * [2026-10-14, 17:45:34](https://news.ycombinator.com/item?id=50091794) - [Neckbeard – a DevOps/platform/SRE plugin for your agent](https://github.com/bealesh/neckbeard)
 * [2026-10-14, 17:45:23](https://news.ycombinator.com/item?id=50091788) - [AI agents aren't 'going rogue.' Frontier labs are skipping security basics](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
 * [2026-10-14, 17:39:37](https://news.ycombinator.com/item?id=50091684) - [OpenAI claims employee sent secret device information to Apple](https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a)
