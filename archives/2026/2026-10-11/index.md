@@ -48,6 +48,7 @@
 * [2026-10-11, 16:03:58](https://news.ycombinator.com/item?id=50044715) - [How to Build Wealth as a Career Person](https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/)
 * [2026-10-11, 15:21:58](https://news.ycombinator.com/item?id=50044272) - [How I reverse engineered a commercial spatial audio effect](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/)
 * [2026-10-11, 15:01:17](https://news.ycombinator.com/item?id=50044028) - [Loop Engineering: Optimizing Code Generation and Verification](https://bradleygibbs.dev/posts/loop-optimization/)
+* [2026-10-11, 14:52:59](https://news.ycombinator.com/item?id=50043948) - [Show HN: Timur's Chess – A 14th century chess variant with giraffes](https://timurschess.com)
 * [2026-10-11, 14:29:07](https://news.ycombinator.com/item?id=50043689) - [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/)
 * [2026-10-11, 14:28:39](https://news.ycombinator.com/item?id=50043682) - [Internal files add to evidence of an ExxonMobil climate deception campaign](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
 * [2026-10-11, 14:21:31](https://news.ycombinator.com/item?id=50043603) - [Why Texas Is Making Data Centers Wait](https://a16z.com/why-texas-is-making-data-centers-wait/)

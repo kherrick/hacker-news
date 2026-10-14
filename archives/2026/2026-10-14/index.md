@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 19:44:02](https://news.ycombinator.com/item?id=50093913) - [Casey Newton and John Gruber Slink Back to X](https://karlbode.com/casey-newton-and-john-gruber-slink-back-to-elon-musks-right-wing-propaganda-machine/)
+* [2026-10-14, 19:29:12](https://news.ycombinator.com/item?id=50093612) - [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
+* [2026-10-14, 19:26:30](https://news.ycombinator.com/item?id=50093568) - [Things to know if you get cancer in 2026](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
 * [2026-10-14, 19:19:13](https://news.ycombinator.com/item?id=50093445) - [Back to School, in Gaza](https://www.newyorker.com/news/the-lede/back-to-school-in-gaza)
 * [2026-10-14, 19:11:25](https://news.ycombinator.com/item?id=50093298) - [Private equity ownership affects dental practices](https://www.dentaleconomics.com/macro-op-ed/industry-news/news/55341670/how-does-private-equity-ownership-really-affect-dental-practices)
 * [2026-10-14, 19:03:58](https://news.ycombinator.com/item?id=50093180) - [Suicide rates highest ever among middle-aged men](https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/)
