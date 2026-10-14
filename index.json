@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-10-14, 16:52:42",
+      "https://news.ycombinator.com/item?id=50090799"
+    ],
+    [
+      "Has AI Tells",
+      "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
+    ]
+  ],
+  [
+    [
+      "2026-10-14, 16:33:34",
+      "https://news.ycombinator.com/item?id=50090443"
+    ],
+    [
+      "The Emperor Pelican Has No Clothes",
+      "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/"
+    ]
+  ],
+  [
+    [
       "2026-10-14, 16:16:25",
       "https://news.ycombinator.com/item?id=50090084"
     ],
     [
       "Amsterdam police confisquates server left-wing ISP A/I at American request",
       "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960"
+    ]
+  ],
+  [
+    [
+      "2026-10-14, 16:09:00",
+      "https://news.ycombinator.com/item?id=50089921"
+    ],
+    [
+      "Americans' Social Activity Has Steeply Declined in the Past 30 Years",
+      "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "ASML's strong orders ease fears AI spending boom is running out of steam",
       "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 13:31:27",
-      "https://news.ycombinator.com/item?id=50087524"
-    ],
-    [
-      "Apple Keynote now showing ads in its UI",
-      "https://mastodon.social/@marioguzman/117436264149891011"
     ]
   ],
   [
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=50084240"
     ],
     [
-      "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "Iosevka is an open-source, sans-serif and slab-serif monospace font",
       "https://typeof.net/Iosevka/"
     ]
   ],
@@ -177,16 +197,6 @@
     [
       "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
       "https://github.com/android/ndk/issues/2260"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 04:42:33",
-      "https://news.ycombinator.com/item?id=50082470"
-    ],
-    [
-      "Felix Rieseberg Homepage",
-      "https://felixrieseberg.com/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-10-13, 16:57:57",
-      "https://news.ycombinator.com/item?id=50074909"
-    ],
-    [
-      "Show HN: How random are you?",
-      "https://lab.specr.net/rigged-draw/"
-    ]
-  ],
-  [
-    [
       "2026-10-13, 16:03:16",
       "https://news.ycombinator.com/item?id=50073879"
     ],
@@ -237,6 +237,16 @@
     [
       "Same Job, Two Engines: InnoDB and Iceberg Internals",
       "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/"
+    ]
+  ],
+  [
+    [
+      "2026-10-13, 01:50:17",
+      "https://news.ycombinator.com/item?id=50065572"
+    ],
+    [
+      "LittleJS is 2D and 3D now",
+      "https://frankforce.com/littlejs-is-2d-and-3d-now/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Sound (2022)",
       "https://ciechanow.ski/sound/"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 13:28:46",
-      "https://news.ycombinator.com/item?id=50043112"
-    ],
-    [
-      "How Tabasco Became the World's Hot Sauce",
-      "https://www.weareravenous.com/how-tabasco-accidentally-on-purpose-became-the-worlds-hot-sauce/"
     ]
   ]
 ]
