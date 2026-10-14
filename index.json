@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-10-14, 01:01:08",
+      "https://news.ycombinator.com/item?id=50081092"
+    ],
+    [
+      "Do Frameworks Matter Anymore?",
+      "https://brookslybrand.com/posts/do-frameworks-matter-anymore/"
+    ]
+  ],
+  [
+    [
       "2026-10-13, 23:13:23",
       "https://news.ycombinator.com/item?id=50080275"
     ],
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2026-10-13, 12:26:36",
-      "https://news.ycombinator.com/item?id=50070593"
+      "2026-10-13, 10:27:00",
+      "https://news.ycombinator.com/item?id=50069499"
     ],
     [
-      "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-      "https://machinelearning.apple.com/research/distributed-gpu-cloud"
-    ]
-  ],
-  [
-    [
-      "2026-10-13, 07:28:34",
-      "https://news.ycombinator.com/item?id=50068036"
-    ],
-    [
-      "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "https://blog.character.ai/an-update-on-character-ai/"
+      "11 year old unsoundness bugs found in Rust borrow checker",
+      "https://github.com/rust-lang/rust/issues/164250"
     ]
   ],
   [
