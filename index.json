@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-10-14, 14:55:19",
+      "https://news.ycombinator.com/item?id=50088643"
+    ],
+    [
+      "Running Windows desktop tests from Linux with disposable VMs",
+      "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation"
+    ]
+  ],
+  [
+    [
       "2026-10-14, 14:38:55",
       "https://news.ycombinator.com/item?id=50088430"
     ],
@@ -227,16 +237,6 @@
     [
       "The Origin Story of Kid Pix",
       "http://red-green-blue.com/kid-pix-the-early-years"
-    ]
-  ],
-  [
-    [
-      "2026-10-12, 21:09:08",
-      "https://news.ycombinator.com/item?id=50063104"
-    ],
-    [
-      "Kcgi – minimal CGI and FastCGI library for C/C++",
-      "https://kristaps.bsd.lv/kcgi/"
     ]
   ],
   [
