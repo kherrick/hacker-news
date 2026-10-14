@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-14, 15:23:31](https://news.ycombinator.com/item?id=50089052) - [Why are all these data companies buying internal data?](https://apnews.com/press-release/newsfile/press-release-2dc1342f34a40e5953ab80c2f4bd4fdd)
 * [2026-10-14, 15:15:45](https://news.ycombinator.com/item?id=50088935) - [Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
 * [2026-10-14, 14:38:55](https://news.ycombinator.com/item?id=50088430) - [ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
 * [2026-10-14, 12:58:32](https://news.ycombinator.com/item?id=50087044) - [Eric Binnion has died](https://ma.tt/2026/10/rip-eric/)
-* [2026-10-14, 12:40:55](https://news.ycombinator.com/item?id=50086794) - [CPI-U rises 7.2% annualized in September (3.7% YoY)](https://www.bls.gov/news.release/cpi.nr0.htm?)
 * [2026-10-14, 12:16:35](https://news.ycombinator.com/item?id=50086484) - [The Aaronson Oracle](https://aaronsonoracle.com/)
 * [2026-10-14, 11:47:53](https://news.ycombinator.com/item?id=50086165) - [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
 * [2026-10-14, 10:28:26](https://news.ycombinator.com/item?id=50085323) - [TV4 postpones show after AI agent erases edited material](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)
