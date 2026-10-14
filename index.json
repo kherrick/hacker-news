@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-14, 01:09:13",
+      "https://news.ycombinator.com/item?id=50081151"
+    ],
+    [
+      "I built a tool to track what AI leaders say and how their views change on video",
+      "https://blumify.io/people"
+    ]
+  ],
+  [
+    [
+      "2026-10-14, 01:05:23",
+      "https://news.ycombinator.com/item?id=50081133"
+    ],
+    [
+      "High-speed video reveals how honey bee stingers pump venom",
+      "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/"
+    ]
+  ],
+  [
+    [
       "2026-10-13, 23:13:23",
       "https://news.ycombinator.com/item?id=50080275"
     ],
@@ -71,22 +91,32 @@
   ],
   [
     [
-      "2026-10-13, 19:17:19",
-      "https://news.ycombinator.com/item?id=50077096"
-    ],
-    [
-      "The Four Colour Theorem: The first time machines mogged mathematicians",
-      "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians"
-    ]
-  ],
-  [
-    [
       "2026-10-13, 19:11:48",
       "https://news.ycombinator.com/item?id=50077020"
     ],
     [
       "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
       "https://guitoro.com/"
+    ]
+  ],
+  [
+    [
+      "2026-10-13, 17:43:05",
+      "https://news.ycombinator.com/item?id=50075665"
+    ],
+    [
+      "Show HN: XY Music Notation",
+      "https://music.xy.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-10-13, 16:57:57",
+      "https://news.ycombinator.com/item?id=50074909"
+    ],
+    [
+      "Show HN: How random are you?",
+      "https://lab.specr.net/rigged-draw/"
     ]
   ],
   [
@@ -207,36 +237,6 @@
     [
       "We turned EmbeddingGemma 2 into a speech-to-text model",
       "https://eg2.haku.sh/"
-    ]
-  ],
-  [
-    [
-      "2026-10-13, 10:27:00",
-      "https://news.ycombinator.com/item?id=50069499"
-    ],
-    [
-      "11 year old unsoundness bugs found in Rust borrow checker",
-      "https://github.com/rust-lang/rust/issues/164250"
-    ]
-  ],
-  [
-    [
-      "2026-10-13, 07:28:34",
-      "https://news.ycombinator.com/item?id=50068036"
-    ],
-    [
-      "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "https://blog.character.ai/an-update-on-character-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-10-13, 06:47:42",
-      "https://news.ycombinator.com/item?id=50067721"
-    ],
-    [
-      "Maybe a better way to track the release history of a Git repo",
-      "https://blog.plover.com/prog/git/history-proposal.html"
     ]
   ],
   [
