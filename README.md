@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-14, 19:44:02](https://news.ycombinator.com/item?id=50093913) - [Casey Newton and John Gruber Slink Back to X](https://karlbode.com/casey-newton-and-john-gruber-slink-back-to-elon-musks-right-wing-propaganda-machine/)
 * [2026-10-14, 19:29:12](https://news.ycombinator.com/item?id=50093612) - [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
 * [2026-10-14, 19:26:30](https://news.ycombinator.com/item?id=50093568) - [Things to know if you get cancer in 2026](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
 * [2026-10-14, 19:03:58](https://news.ycombinator.com/item?id=50093180) - [Suicide rates highest ever among middle-aged men](https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/)
@@ -29,6 +28,7 @@
 * [2026-10-12, 23:52:29](https://news.ycombinator.com/item?id=50064673) - [The Origin Story of Kid Pix](http://red-green-blue.com/kid-pix-the-early-years)
 * [2026-10-12, 12:44:42](https://news.ycombinator.com/item?id=50055632) - [The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)](https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html)
 * [2026-10-12, 10:52:25](https://news.ycombinator.com/item?id=50054465) - [Phloem: Git history grown like a slime mold](https://phloem.stemdeck.app/)
+* [2026-10-12, 02:21:54](https://news.ycombinator.com/item?id=50050553) - [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
 * [2026-10-11, 14:52:59](https://news.ycombinator.com/item?id=50043948) - [Show HN: Timur's Chess – A 14th century chess variant with giraffes](https://timurschess.com)
 
 ## [Archives](archives/index.md)
