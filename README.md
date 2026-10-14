@@ -22,7 +22,7 @@
 * [2026-10-14, 15:31:15](https://news.ycombinator.com/item?id=50089229) - [Submarine cable resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
 * [2026-10-14, 15:15:45](https://news.ycombinator.com/item?id=50088935) - [Passkeys are not a trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
 * [2026-10-14, 11:47:53](https://news.ycombinator.com/item?id=50086165) - [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
-* [2026-10-14, 09:28:17](https://news.ycombinator.com/item?id=50084757) - [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
+* [2026-10-14, 09:28:17](https://news.ycombinator.com/item?id=50084757) - [How Amazon pushes up prices all across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 * [2026-10-14, 08:27:59](https://news.ycombinator.com/item?id=50084240) - [Iosevka is an open-source, sans-serif and slab-serif monospace font](https://typeof.net/Iosevka/)
 * [2026-10-14, 06:02:16](https://news.ycombinator.com/item?id=50083028) - [Why is every rationalist blog post way too long?](https://alexwennerberg.com/blog/2026-10-13-long.html)
 * [2026-10-13, 21:06:33](https://news.ycombinator.com/item?id=50078757) - [Marshall Islands Stick Chart](https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart)
