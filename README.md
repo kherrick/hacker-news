@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-14, 15:15:45](https://news.ycombinator.com/item?id=50088935) - [Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
 * [2026-10-14, 14:38:55](https://news.ycombinator.com/item?id=50088430) - [ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
-* [2026-10-14, 13:20:02](https://news.ycombinator.com/item?id=50087328) - [Switzerland proposes banning profiling-based ads to minors](https://www.admin.ch/en/newnsb/NMn5s24l8NjQ)
 * [2026-10-14, 12:58:32](https://news.ycombinator.com/item?id=50087044) - [Eric Binnion has died](https://ma.tt/2026/10/rip-eric/)
 * [2026-10-14, 12:40:55](https://news.ycombinator.com/item?id=50086794) - [CPI-U rises 7.2% annualized in September (3.7% YoY)](https://www.bls.gov/news.release/cpi.nr0.htm?)
 * [2026-10-14, 12:16:35](https://news.ycombinator.com/item?id=50086484) - [The Aaronson Oracle](https://aaronsonoracle.com/)
