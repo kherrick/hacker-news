@@ -10,6 +10,7 @@
 * [2026-10-14, 10:25:48](https://news.ycombinator.com/item?id=50085296) - [I let an AI run my startup for a week](https://daily.tinyprojects.dev/221)
 * [2026-10-14, 10:21:13](https://news.ycombinator.com/item?id=50085259) - [Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"](https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren)
 * [2026-10-14, 10:08:57](https://news.ycombinator.com/item?id=50085112) - [Apple: Switch to Safari (From Chrome)](https://www.apple.com/safari/switch/)
+* [2026-10-14, 10:00:24](https://news.ycombinator.com/item?id=50085022) - [Show HN: A guided 3D Leonardo da Vinci museum, built in code](https://museumofages.org/w/vinci)
 * [2026-10-14, 09:54:23](https://news.ycombinator.com/item?id=50084969) - [Ask HN: What is the current trajectory of a senior engineer?](https://news.ycombinator.com/item?id=50084969)
 * [2026-10-14, 09:37:24](https://news.ycombinator.com/item?id=50084838) - [Who Is Planting Backdoors in Ledger Crypto Wallets?](https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/)
 * [2026-10-14, 09:28:17](https://news.ycombinator.com/item?id=50084757) - [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
