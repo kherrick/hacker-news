@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 17:45:34](https://news.ycombinator.com/item?id=50091794) - [Neckbeard – a DevOps/platform/SRE plugin for your agent](https://github.com/bealesh/neckbeard)
+* [2026-10-14, 17:45:23](https://news.ycombinator.com/item?id=50091788) - [AI agents aren't 'going rogue.' Frontier labs are skipping security basics](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
+* [2026-10-14, 17:39:37](https://news.ycombinator.com/item?id=50091684) - [OpenAI claims employee sent secret device information to Apple](https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a)
 * [2026-10-14, 17:37:23](https://news.ycombinator.com/item?id=50091647) - [Sally Rooney can no longer sell books in UK due to Palestine Action support](https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support)
 * [2026-10-14, 17:31:24](https://news.ycombinator.com/item?id=50091519) - [US report details extent of 'devastating' dating-app scams](https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress)
+* [2026-10-14, 17:00:59](https://news.ycombinator.com/item?id=50090932) - [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/)
 * [2026-10-14, 16:55:07](https://news.ycombinator.com/item?id=50090842) - [Linus Torvalds's first LLM-assisted patch series](https://lwn.net/Articles/1100449/)
 * [2026-10-14, 16:52:42](https://news.ycombinator.com/item?id=50090799) - [Has AI Tells](https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1)
 * [2026-10-14, 16:45:19](https://news.ycombinator.com/item?id=50090662) - [Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges](https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges)

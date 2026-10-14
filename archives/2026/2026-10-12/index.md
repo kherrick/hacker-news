@@ -90,6 +90,7 @@
 * [2026-10-12, 03:50:58](https://news.ycombinator.com/item?id=50051172) - [X Is Bad, Though](https://lexontech.org/x-is-bad-though)
 * [2026-10-12, 03:37:09](https://news.ycombinator.com/item?id=50051097) - [Crest – an Arc-inspired open-source browser for Mac](https://crestbrowser.com/)
 * [2026-10-12, 02:52:10](https://news.ycombinator.com/item?id=50050762) - [Sorry we made you grind LeetCode](https://www.hackerrank.com/writing/why-were-sorry)
+* [2026-10-12, 02:21:54](https://news.ycombinator.com/item?id=50050553) - [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
 * [2026-10-12, 01:57:39](https://news.ycombinator.com/item?id=50050370) - [An open-source, clean-room reimplementation of Microsoft Word in pure Rust](https://github.com/storytold/wordcraft)
 * [2026-10-12, 00:48:27](https://news.ycombinator.com/item?id=50049872) - [Doory – Open-Source Canva](https://github.com/shaongitbd/doory)
 * [2026-10-12, 00:15:12](https://news.ycombinator.com/item?id=50049588) - [Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac)
