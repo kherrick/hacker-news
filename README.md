@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-14, 03:10:25](https://news.ycombinator.com/item?id=50081930) - [Is 'Attention' the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/)
 * [2026-10-14, 01:09:13](https://news.ycombinator.com/item?id=50081151) - [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people)
 * [2026-10-14, 01:05:23](https://news.ycombinator.com/item?id=50081133) - [High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/)
 * [2026-10-13, 23:13:23](https://news.ycombinator.com/item?id=50080275) - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
@@ -9,7 +10,6 @@
 * [2026-10-13, 21:55:25](https://news.ycombinator.com/item?id=50079437) - [Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)
 * [2026-10-13, 21:01:12](https://news.ycombinator.com/item?id=50078686) - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
 * [2026-10-13, 20:23:55](https://news.ycombinator.com/item?id=50078141) - [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
-* [2026-10-13, 19:50:31](https://news.ycombinator.com/item?id=50077619) - [Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/)
 * [2026-10-13, 19:17:19](https://news.ycombinator.com/item?id=50077096) - [The Four Colour Theorem: The first time machines mogged mathematicians](https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians)
 * [2026-10-13, 19:11:48](https://news.ycombinator.com/item?id=50077020) - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
 * [2026-10-13, 17:43:05](https://news.ycombinator.com/item?id=50075665) - [Show HN: XY Music Notation](https://music.xy.dev/)
@@ -23,13 +23,13 @@
 * [2026-10-13, 13:21:35](https://news.ycombinator.com/item?id=50071310) - [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
 * [2026-10-13, 13:02:12](https://news.ycombinator.com/item?id=50071017) - [Apple HomeView](https://www.apple.com/apple-homeview/)
 * [2026-10-13, 12:26:36](https://news.ycombinator.com/item?id=50070593) - [A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud)
-* [2026-10-13, 11:32:00](https://news.ycombinator.com/item?id=50070010) - [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui)
 * [2026-10-13, 07:28:34](https://news.ycombinator.com/item?id=50068036) - [Character.ai has initiated voluntary Chapter 11 bankruptcy](https://blog.character.ai/an-update-on-character-ai/)
 * [2026-10-12, 19:28:48](https://news.ycombinator.com/item?id=50061659) - [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
 * [2026-10-12, 17:15:13](https://news.ycombinator.com/item?id=50059542) - [Hiking the world in search of rare cheeses](https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses)
 * [2026-10-12, 14:41:27](https://news.ycombinator.com/item?id=50057119) - [Maybe a better way to track the release history of a Git repo](https://blog.plover.com/prog/git/history-proposal.html)
 * [2026-10-12, 10:09:37](https://news.ycombinator.com/item?id=50054092) - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 * [2026-10-12, 09:05:02](https://news.ycombinator.com/item?id=50053487) - [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html)
+* [2026-10-11, 16:46:43](https://news.ycombinator.com/item?id=50045147) - [Sound – Bartosz Ciechanowski](https://ciechanow.ski/sound/)
 
 ## [Archives](archives/index.md)
 
