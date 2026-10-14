@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 10:50:45](https://news.ycombinator.com/item?id=50085547) - [The road we were told not to take](https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter)
 * [2026-10-14, 10:29:56](https://news.ycombinator.com/item?id=50085332) - [Show HN: Building an LLM from Scratch in TypeScript](https://book.humanexperiences.io/)
 * [2026-10-14, 10:26:53](https://news.ycombinator.com/item?id=50085306) - [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
 * [2026-10-14, 10:26:24](https://news.ycombinator.com/item?id=50085302) - [AI Laser Locking for Quantum Computers: How QuEra Automates It](https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers)

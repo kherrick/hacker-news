@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-14, 10:50:45](https://news.ycombinator.com/item?id=50085547) - [The road we were told not to take](https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter)
 * [2026-10-14, 10:29:56](https://news.ycombinator.com/item?id=50085332) - [Show HN: Building an LLM from Scratch in TypeScript](https://book.humanexperiences.io/)
 * [2026-10-14, 10:26:53](https://news.ycombinator.com/item?id=50085306) - [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
 * [2026-10-14, 10:26:24](https://news.ycombinator.com/item?id=50085302) - [AI Laser Locking for Quantum Computers: How QuEra Automates It](https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers)
@@ -16,7 +17,6 @@
 * [2026-10-14, 04:42:33](https://news.ycombinator.com/item?id=50082470) - [Felix Rieseberg Homepage](https://felixrieseberg.com/)
 * [2026-10-14, 03:28:00](https://news.ycombinator.com/item?id=50082021) - [Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord](https://strafe.chat/)
 * [2026-10-13, 22:33:33](https://news.ycombinator.com/item?id=50079865) - [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
-* [2026-10-13, 21:01:12](https://news.ycombinator.com/item?id=50078686) - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
 * [2026-10-13, 19:11:48](https://news.ycombinator.com/item?id=50077020) - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
 * [2026-10-13, 16:57:57](https://news.ycombinator.com/item?id=50074909) - [Show HN: How random are you?](https://lab.specr.net/rigged-draw/)
 * [2026-10-13, 16:03:16](https://news.ycombinator.com/item?id=50073879) - [Gemini 4 Argon](https://deepmind.google/models/gemini/)
