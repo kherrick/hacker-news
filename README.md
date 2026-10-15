@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-15, 15:44:36](https://news.ycombinator.com/item?id=50105344) - [I designed a nose guard for my dog and gave it away. Now 500 dogs wear one](https://snoutcover.com/one-year)
 * [2026-10-15, 15:03:17](https://news.ycombinator.com/item?id=50104726) - [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
 * [2026-10-15, 14:58:48](https://news.ycombinator.com/item?id=50104654) - [Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
 * [2026-10-15, 14:47:39](https://news.ycombinator.com/item?id=50104465) - [Siri is so bad at everything](https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/)
@@ -21,7 +22,6 @@
 * [2026-10-13, 22:17:41](https://news.ycombinator.com/item?id=50079701) - [The First Social Network: In rural Argentina residents send messages w AM radio](https://www.newyorker.com/magazine/2026/10/19/the-first-social-network)
 * [2026-10-13, 19:55:41](https://news.ycombinator.com/item?id=50077709) - [Donaldson Futuro House in Idyllwild, California, USA](https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/)
 * [2026-10-13, 17:27:01](https://news.ycombinator.com/item?id=50075392) - [The largest eagle hunted unlike any other bird of prey (2021)](https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html)
-* [2026-10-13, 14:38:03](https://news.ycombinator.com/item?id=50072456) - [Show HN: A 3D Configurator for Macropads](https://npad.ngrok.dev)
 * [2026-10-13, 13:05:46](https://news.ycombinator.com/item?id=50071068) - [Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster](https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/)
 * [2026-10-13, 12:33:18](https://news.ycombinator.com/item?id=50070661) - [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
 * [2026-10-13, 12:30:08](https://news.ycombinator.com/item?id=50070625) - [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
