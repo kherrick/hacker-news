@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-15, 01:07:15](https://news.ycombinator.com/item?id=50097880) - [Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive](https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive)
 * [2026-10-14, 23:59:37](https://news.ycombinator.com/item?id=50097369) - [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
 * [2026-10-14, 23:40:28](https://news.ycombinator.com/item?id=50097182) - [A new model for open source: closed to pull requests, open to remix](https://ghuntley.com/remix/)
 * [2026-10-14, 22:10:08](https://news.ycombinator.com/item?id=50096142) - [Tiny Little Office](https://tinylittleoffice.com/)
@@ -26,7 +27,6 @@
 * [2026-10-14, 09:28:17](https://news.ycombinator.com/item?id=50084757) - [How Amazon pushes up prices all across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 * [2026-10-14, 06:02:16](https://news.ycombinator.com/item?id=50083028) - [Why is every rationalist blog post way too long?](https://alexwennerberg.com/blog/2026-10-13-long.html)
 * [2026-10-13, 13:36:21](https://news.ycombinator.com/item?id=50071546) - [your C is not standard C](https://sebsite.pw/w/20261012-notstdc.html)
-* [2026-10-13, 12:13:20](https://news.ycombinator.com/item?id=50070438) - [Webster’s Dictionary: The pleasure of finding things out (2014)](https://jsomers.net/blog/dictionary)
 * [2026-10-13, 05:54:01](https://news.ycombinator.com/item?id=50067325) - [Ask HN: CAD for wood working with LLM support?](https://news.ycombinator.com/item?id=50067325)
 * [2026-10-12, 10:52:25](https://news.ycombinator.com/item?id=50054465) - [Phloem: Git history grown like a slime mold](https://phloem.stemdeck.app/)
 * [2026-10-12, 02:21:54](https://news.ycombinator.com/item?id=50050553) - [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)

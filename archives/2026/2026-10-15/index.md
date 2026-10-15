@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-10-15](index.md)
+
+* [2026-10-15, 01:07:15](https://news.ycombinator.com/item?id=50097880) - [Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive](https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive)
