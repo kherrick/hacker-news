@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-15, 17:30:10](https://news.ycombinator.com/item?id=50107114) - [Anthropic Update on Independent Evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators)
 * [2026-10-15, 17:05:19](https://news.ycombinator.com/item?id=50106738) - [More on Anthropic's Scion ripping off Mononoke](https://sunshowers.io/posts/anthropic-mononoke-2/)
 * [2026-10-15, 17:01:56](https://news.ycombinator.com/item?id=50106676) - [An Israeli firm is sending zero-click spyware through online ads](https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware)
 * [2026-10-15, 16:58:30](https://news.ycombinator.com/item?id=50106620) - [Muse Spark Open, the Most Capable US Open‑Weight Model to Date](https://research.meta.ai/blog/muse-spark-open)
@@ -23,7 +24,6 @@
 * [2026-10-15, 10:43:36](https://news.ycombinator.com/item?id=50101813) - [Zero-Click Spyware Delivered via Targeted Ads: AdFection](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
 * [2026-10-14, 22:10:08](https://news.ycombinator.com/item?id=50096142) - [Tiny Little Office](https://tinylittleoffice.com/)
 * [2026-10-14, 20:48:24](https://news.ycombinator.com/item?id=50094994) - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
-* [2026-10-14, 19:26:30](https://news.ycombinator.com/item?id=50093568) - [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
 * [2026-10-14, 10:13:39](https://news.ycombinator.com/item?id=50085171) - [Game of Life – But Multiplayer, Hypermedia and Python](https://stario.dev/apps/life)
 * [2026-10-13, 23:00:46](https://news.ycombinator.com/item?id=50080155) - [Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love](https://www.seriouseats.com/biscoff-history-12168161)
 * [2026-10-13, 22:17:41](https://news.ycombinator.com/item?id=50079701) - [The First Social Network: In rural Argentina residents send messages w AM radio](https://www.newyorker.com/magazine/2026/10/19/the-first-social-network)

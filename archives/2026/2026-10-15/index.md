@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
+* [2026-10-15, 17:30:10](https://news.ycombinator.com/item?id=50107114) - [Anthropic Update on Independent Evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators)
 * [2026-10-15, 17:05:19](https://news.ycombinator.com/item?id=50106738) - [More on Anthropic's Scion ripping off Mononoke](https://sunshowers.io/posts/anthropic-mononoke-2/)
 * [2026-10-15, 17:01:56](https://news.ycombinator.com/item?id=50106676) - [An Israeli firm is sending zero-click spyware through online ads](https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware)
 * [2026-10-15, 16:58:30](https://news.ycombinator.com/item?id=50106620) - [Muse Spark Open, the Most Capable US Open‑Weight Model to Date](https://research.meta.ai/blog/muse-spark-open)
