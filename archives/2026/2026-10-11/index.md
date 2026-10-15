@@ -24,6 +24,7 @@
 * [2026-10-11, 21:07:20](https://news.ycombinator.com/item?id=50047825) - [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
 * [2026-10-11, 21:04:46](https://news.ycombinator.com/item?id=50047802) - [Tattoos you can turn on and off](https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off)
 * [2026-10-11, 20:48:30](https://news.ycombinator.com/item?id=50047664) - [Auto Research: Integer multiplication below n log n](https://app.getsupers.com/auto-research)
+* [2026-10-11, 20:36:56](https://news.ycombinator.com/item?id=50047576) - [The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl](https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/)
 * [2026-10-11, 20:20:52](https://news.ycombinator.com/item?id=50047422) - [Andrej Karpathy breaks down the capability gap](https://twitter.com/karpathy/status/2109361546505966046)
 * [2026-10-11, 20:10:55](https://news.ycombinator.com/item?id=50047323) - [Fetching AMD SEV Reports (With Zig)](https://bschaatsbergen.com/posts/zig-sev-guest/)
 * [2026-10-11, 20:05:03](https://news.ycombinator.com/item?id=50047257) - [Cognitive Decline or Sanity Incline?](https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
+* [2026-10-15, 04:23:27](https://news.ycombinator.com/item?id=50099121) - [An Apology](https://www.elevationlab.com/blogs/news/an-apology)
 * [2026-10-15, 03:18:49](https://news.ycombinator.com/item?id=50098702) - [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct)
 * [2026-10-15, 02:53:29](https://news.ycombinator.com/item?id=50098570) - [One in ten people are older than 65. Three in four live under a leader who is](https://hannahritchie.substack.com/p/how-old-are-leaders)
 * [2026-10-15, 02:33:42](https://news.ycombinator.com/item?id=50098454) - [Show HN: My Terminal Themes Web App](https://news.ycombinator.com/item?id=50098454)

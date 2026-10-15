@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-15, 04:23:27](https://news.ycombinator.com/item?id=50099121) - [An Apology](https://www.elevationlab.com/blogs/news/an-apology)
 * [2026-10-15, 03:18:49](https://news.ycombinator.com/item?id=50098702) - [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct)
 * [2026-10-15, 02:53:29](https://news.ycombinator.com/item?id=50098570) - [One in ten people are older than 65. Three in four live under a leader who is](https://hannahritchie.substack.com/p/how-old-are-leaders)
 * [2026-10-15, 02:33:42](https://news.ycombinator.com/item?id=50098454) - [Show HN: My Terminal Themes Web App](https://news.ycombinator.com/item?id=50098454)
@@ -11,12 +12,10 @@
 * [2026-10-14, 20:30:54](https://news.ycombinator.com/item?id=50094694) - [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
 * [2026-10-14, 19:29:12](https://news.ycombinator.com/item?id=50093612) - [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
 * [2026-10-14, 19:26:30](https://news.ycombinator.com/item?id=50093568) - [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
-* [2026-10-14, 19:03:58](https://news.ycombinator.com/item?id=50093180) - [Suicide rates highest ever among middle-aged men](https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/)
 * [2026-10-14, 18:37:21](https://news.ycombinator.com/item?id=50092730) - [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
 * [2026-10-14, 18:23:14](https://news.ycombinator.com/item?id=50092470) - [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
 * [2026-10-14, 18:21:14](https://news.ycombinator.com/item?id=50092423) - [Virtual Oxide Labs: Emulating a Full Oxide Rack](https://oxide.computer/blog/voxel-labs)
 * [2026-10-14, 17:45:23](https://news.ycombinator.com/item?id=50091788) - [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
-* [2026-10-14, 17:00:59](https://news.ycombinator.com/item?id=50090932) - [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/)
 * [2026-10-14, 16:52:42](https://news.ycombinator.com/item?id=50090799) - [Has AI tells](https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1)
 * [2026-10-14, 16:29:33](https://news.ycombinator.com/item?id=50090369) - [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse)
 * [2026-10-14, 16:09:00](https://news.ycombinator.com/item?id=50089921) - [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
@@ -30,6 +29,7 @@
 * [2026-10-12, 10:52:25](https://news.ycombinator.com/item?id=50054465) - [Phloem: Git history grown like a slime mold](https://phloem.stemdeck.app/)
 * [2026-10-12, 08:51:18](https://news.ycombinator.com/item?id=50053384) - [Catch a Bird – I made it for my own sanity](https://catchabird.com)
 * [2026-10-12, 02:21:54](https://news.ycombinator.com/item?id=50050553) - [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
+* [2026-10-11, 20:36:56](https://news.ycombinator.com/item?id=50047576) - [The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl](https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/)
 
 ## [Archives](archives/index.md)
 
