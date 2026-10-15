@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-15, 20:22:50](https://news.ycombinator.com/item?id=50109707) - [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
+* [2026-10-15, 19:55:49](https://news.ycombinator.com/item?id=50109375) - [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
 * [2026-10-15, 19:21:38](https://news.ycombinator.com/item?id=50108872) - [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
-* [2026-10-15, 18:54:36](https://news.ycombinator.com/item?id=50108491) - [We are entering a period of overlapping crises](https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/)
 * [2026-10-15, 18:38:16](https://news.ycombinator.com/item?id=50108229) - [E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
 * [2026-10-15, 17:47:39](https://news.ycombinator.com/item?id=50107379) - [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
 * [2026-10-15, 17:05:19](https://news.ycombinator.com/item?id=50106738) - [More on Anthropic's Scion ripping off Mononoke](https://sunshowers.io/posts/anthropic-mononoke-2/)
@@ -14,7 +15,6 @@
 * [2026-10-15, 15:52:08](https://news.ycombinator.com/item?id=50105467) - [Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering](https://proa.so/)
 * [2026-10-15, 15:03:17](https://news.ycombinator.com/item?id=50104726) - [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
 * [2026-10-15, 14:58:48](https://news.ycombinator.com/item?id=50104654) - [Simons Foundation launches $15M effort to help mathematicians navigate AI era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
-* [2026-10-15, 14:36:22](https://news.ycombinator.com/item?id=50104310) - [Prompt injection in HTTP headers: what 217M web responses show](https://www.signalscorps.com/blog/prompt-injection-in-http-headers/)
 * [2026-10-15, 13:44:32](https://news.ycombinator.com/item?id=50103630) - [I know why the mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
 * [2026-10-15, 13:23:44](https://news.ycombinator.com/item?id=50103338) - [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
 * [2026-10-15, 13:11:26](https://news.ycombinator.com/item?id=50103164) - [C++26 Contracts: Introduction to Preconditions and Postconditions](https://www.cppstories.com/2026/cpp26_contracts/)
