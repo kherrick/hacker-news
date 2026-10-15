@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-15, 02:06:36](https://news.ycombinator.com/item?id=50098274) - [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
-* [2026-10-15, 00:58:26](https://news.ycombinator.com/item?id=50097811) - [Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs](https://capsem.org/)
 * [2026-10-14, 23:59:37](https://news.ycombinator.com/item?id=50097369) - [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
 * [2026-10-14, 22:10:08](https://news.ycombinator.com/item?id=50096142) - [Tiny Little Office](https://tinylittleoffice.com/)
 * [2026-10-14, 21:11:03](https://news.ycombinator.com/item?id=50095353) - [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
@@ -23,6 +22,7 @@
 * [2026-10-14, 16:09:00](https://news.ycombinator.com/item?id=50089921) - [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
 * [2026-10-14, 15:31:15](https://news.ycombinator.com/item?id=50089229) - [Submarine cable resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
 * [2026-10-14, 15:15:45](https://news.ycombinator.com/item?id=50088935) - [Passkeys are not a trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
+* [2026-10-14, 11:47:53](https://news.ycombinator.com/item?id=50086165) - [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
 * [2026-10-14, 09:28:17](https://news.ycombinator.com/item?id=50084757) - [How Amazon pushes up prices all across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 * [2026-10-14, 06:02:16](https://news.ycombinator.com/item?id=50083028) - [Why is every rationalist blog post way too long?](https://alexwennerberg.com/blog/2026-10-13-long.html)
 * [2026-10-13, 13:36:21](https://news.ycombinator.com/item?id=50071546) - [your C is not standard C](https://sebsite.pw/w/20261012-notstdc.html)
