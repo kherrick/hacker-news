@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-15, 04:25:28](https://news.ycombinator.com/item?id=50099136) - [Show HN: Flipflop, iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
-* [2026-10-15, 02:33:42](https://news.ycombinator.com/item?id=50098454) - [Show HN: My Terminal Themes Web App](https://news.ycombinator.com/item?id=50098454)
 * [2026-10-15, 02:06:36](https://news.ycombinator.com/item?id=50098274) - [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
 * [2026-10-14, 23:59:37](https://news.ycombinator.com/item?id=50097369) - [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
 * [2026-10-14, 22:10:08](https://news.ycombinator.com/item?id=50096142) - [Tiny Little Office](https://tinylittleoffice.com/)
@@ -26,6 +25,7 @@
 * [2026-10-13, 12:33:18](https://news.ycombinator.com/item?id=50070661) - [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
 * [2026-10-13, 05:54:01](https://news.ycombinator.com/item?id=50067325) - [Ask HN: CAD for wood working with LLM support?](https://news.ycombinator.com/item?id=50067325)
 * [2026-10-12, 18:44:42](https://news.ycombinator.com/item?id=50060923) - [David Rudnick on \"borderline impossible\" process of designing Arsenal typeface](https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026)
+* [2026-10-12, 18:20:17](https://news.ycombinator.com/item?id=50060547) - [Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction](https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html)
 * [2026-10-12, 10:52:25](https://news.ycombinator.com/item?id=50054465) - [Phloem: Git history grown like a slime mold](https://phloem.stemdeck.app/)
 * [2026-10-12, 08:51:18](https://news.ycombinator.com/item?id=50053384) - [Catch a Bird – I made it for my own sanity](https://catchabird.com)
 * [2026-10-12, 02:21:54](https://news.ycombinator.com/item?id=50050553) - [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
