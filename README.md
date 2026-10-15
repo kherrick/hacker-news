@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-15, 03:18:49](https://news.ycombinator.com/item?id=50098702) - [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct)
 * [2026-10-15, 02:06:36](https://news.ycombinator.com/item?id=50098274) - [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
 * [2026-10-14, 23:59:37](https://news.ycombinator.com/item?id=50097369) - [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
 * [2026-10-14, 22:10:08](https://news.ycombinator.com/item?id=50096142) - [Tiny Little Office](https://tinylittleoffice.com/)
@@ -26,7 +27,6 @@
 * [2026-10-14, 06:02:16](https://news.ycombinator.com/item?id=50083028) - [Why is every rationalist blog post way too long?](https://alexwennerberg.com/blog/2026-10-13-long.html)
 * [2026-10-13, 19:55:41](https://news.ycombinator.com/item?id=50077709) - [Donaldson Futuro House in Idyllwild, California, USA](https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/)
 * [2026-10-13, 13:36:21](https://news.ycombinator.com/item?id=50071546) - [Your C is not standard C](https://sebsite.pw/w/20261012-notstdc.html)
-* [2026-10-13, 05:54:01](https://news.ycombinator.com/item?id=50067325) - [Ask HN: CAD for wood working with LLM support?](https://news.ycombinator.com/item?id=50067325)
 * [2026-10-12, 10:52:25](https://news.ycombinator.com/item?id=50054465) - [Phloem: Git history grown like a slime mold](https://phloem.stemdeck.app/)
 * [2026-10-12, 08:51:18](https://news.ycombinator.com/item?id=50053384) - [Catch a Bird – I made it for my own sanity](https://catchabird.com)
 * [2026-10-12, 02:21:54](https://news.ycombinator.com/item?id=50050553) - [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
