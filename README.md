@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-15, 14:36:22](https://news.ycombinator.com/item?id=50104310) - [Prompt injection in HTTP headers: what 217M web responses show](https://www.signalscorps.com/blog/prompt-injection-in-http-headers/)
 * [2026-10-15, 14:35:15](https://news.ycombinator.com/item?id=50104299) - [Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
 * [2026-10-15, 13:44:32](https://news.ycombinator.com/item?id=50103630) - [I know why Mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
 * [2026-10-15, 13:23:44](https://news.ycombinator.com/item?id=50103338) - [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
@@ -25,7 +26,6 @@
 * [2026-10-13, 12:30:08](https://news.ycombinator.com/item?id=50070625) - [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
 * [2026-10-13, 01:02:54](https://news.ycombinator.com/item?id=50065237) - [Stopping sand from destroying a hydropower turbine [video]](https://www.youtube.com/watch?v=kCYrSBexF_4)
 * [2026-10-12, 23:25:20](https://news.ycombinator.com/item?id=50064470) - [Show HN: Indigene – Native plants for where you stand](https://indigene.app/)
-* [2026-10-12, 18:44:42](https://news.ycombinator.com/item?id=50060923) - [David Rudnick on \"borderline impossible\" process of designing Arsenal typeface](https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026)
 * [2026-10-12, 18:20:17](https://news.ycombinator.com/item?id=50060547) - [Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction](https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html)
 * [2026-10-12, 16:13:11](https://news.ycombinator.com/item?id=50058531) - [The Haunted Toys R Us](https://www.retroist.com/p/the-haunted-toys-r-us)
 * [2026-10-12, 08:51:18](https://news.ycombinator.com/item?id=50053384) - [Catch a Bird – I made it for my own sanity](https://catchabird.com)
