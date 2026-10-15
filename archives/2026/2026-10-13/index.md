@@ -8,6 +8,7 @@
 * [2026-10-13, 22:46:49](https://news.ycombinator.com/item?id=50080007) - [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
 * [2026-10-13, 22:33:33](https://news.ycombinator.com/item?id=50079865) - [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
 * [2026-10-13, 22:31:48](https://news.ycombinator.com/item?id=50079842) - [Running Qwen3.8 at 255 tok/s on a single 5090](https://meshapplied.com)
+* [2026-10-13, 22:17:41](https://news.ycombinator.com/item?id=50079701) - [The First Social Network: In rural Argentina residents send messages w AM radio](https://www.newyorker.com/magazine/2026/10/19/the-first-social-network)
 * [2026-10-13, 21:57:29](https://news.ycombinator.com/item?id=50079464) - [AlphaNIST](https://alpha-nist.github.io/)
 * [2026-10-13, 21:55:25](https://news.ycombinator.com/item?id=50079437) - [Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)
 * [2026-10-13, 21:54:24](https://news.ycombinator.com/item?id=50079417) - [Nexus-Q: un motor open source de Rust para PQC](https://nexus-q.link/)
