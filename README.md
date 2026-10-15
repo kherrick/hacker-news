@@ -13,6 +13,7 @@
 * [2026-10-15, 15:52:08](https://news.ycombinator.com/item?id=50105467) - [Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering](https://proa.so/)
 * [2026-10-15, 15:03:17](https://news.ycombinator.com/item?id=50104726) - [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
 * [2026-10-15, 14:58:48](https://news.ycombinator.com/item?id=50104654) - [Simons Foundation launches $15M effort to help mathematicians navigate AI era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
+* [2026-10-15, 14:36:22](https://news.ycombinator.com/item?id=50104310) - [Prompt injection in HTTP headers: what 217M web responses show](https://www.signalscorps.com/blog/prompt-injection-in-http-headers/)
 * [2026-10-15, 14:35:15](https://news.ycombinator.com/item?id=50104299) - [Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
 * [2026-10-15, 13:44:32](https://news.ycombinator.com/item?id=50103630) - [I know why the mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
 * [2026-10-15, 13:23:44](https://news.ycombinator.com/item?id=50103338) - [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
@@ -27,7 +28,6 @@
 * [2026-10-14, 09:17:06](https://news.ycombinator.com/item?id=50084674) - [Why I Wrote PGP (1991, revised 1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 * [2026-10-13, 23:37:33](https://news.ycombinator.com/item?id=50080464) - [FastH3-Omni: The best open-source H3 model](https://www.reactor.inc/models/fast-h3-omni)
 * [2026-10-13, 23:00:46](https://news.ycombinator.com/item?id=50080155) - [Delta’s Biscoff cookies were supposed to be temporary](https://www.seriouseats.com/biscoff-history-12168161)
-* [2026-10-13, 17:27:01](https://news.ycombinator.com/item?id=50075392) - [The largest eagle hunted unlike any other bird of prey (2021)](https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html)
 * [2026-10-13, 12:30:08](https://news.ycombinator.com/item?id=50070625) - [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
 * [2026-10-12, 20:35:43](https://news.ycombinator.com/item?id=50062683) - [Rediscovering the Romance of Travel Clocks](https://www.acollectedman.com/blogs/journal/rediscovering-travel-clocks)
 
