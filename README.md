@@ -23,13 +23,13 @@
 * [2026-10-15, 04:25:28](https://news.ycombinator.com/item?id=50099136) - [Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
 * [2026-10-15, 04:23:27](https://news.ycombinator.com/item?id=50099121) - [An Apology](https://www.elevationlab.com/blogs/news/an-apology)
 * [2026-10-15, 01:02:05](https://news.ycombinator.com/item?id=50097843) - [The engineering that allows articulated buses to bend](https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/)
+* [2026-10-14, 19:26:30](https://news.ycombinator.com/item?id=50093568) - [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
 * [2026-10-14, 10:13:39](https://news.ycombinator.com/item?id=50085171) - [Game of Life – But Multiplayer, Hypermedia and Python](https://stario.dev/apps/life)
 * [2026-10-14, 09:17:06](https://news.ycombinator.com/item?id=50084674) - [Why I Wrote PGP (1991, revised 1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 * [2026-10-14, 05:08:09](https://news.ycombinator.com/item?id=50082637) - [The 8-mile hole in a Hawaii national park that no one can explain](https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php)
 * [2026-10-13, 23:00:46](https://news.ycombinator.com/item?id=50080155) - [Delta’s Biscoff cookies were supposed to be temporary](https://www.seriouseats.com/biscoff-history-12168161)
 * [2026-10-13, 12:30:08](https://news.ycombinator.com/item?id=50070625) - [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
 * [2026-10-13, 10:21:17](https://news.ycombinator.com/item?id=50069439) - [Major ICQ security hole (1998)](https://opennet.ru/base/maillist/169.txt.html)
-* [2026-10-12, 20:35:43](https://news.ycombinator.com/item?id=50062683) - [Rediscovering the Romance of Travel Clocks](https://www.acollectedman.com/blogs/journal/rediscovering-travel-clocks)
 
 ## [Archives](archives/index.md)
 
