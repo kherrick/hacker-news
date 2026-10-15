@@ -28,7 +28,7 @@
 * [2026-10-14, 10:13:39](https://news.ycombinator.com/item?id=50085171) - [Game of Life – But Multiplayer, Hypermedia and Python](https://stario.dev/apps/life)
 * [2026-10-14, 09:17:06](https://news.ycombinator.com/item?id=50084674) - [Why I Wrote PGP (1991, revised 1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 * [2026-10-13, 23:00:46](https://news.ycombinator.com/item?id=50080155) - [Delta’s Biscoff cookies were supposed to be temporary](https://www.seriouseats.com/biscoff-history-12168161)
-* [2026-10-13, 17:27:01](https://news.ycombinator.com/item?id=50075392) - [The largest eagle hunted unlike any other bird of prey (2021)](https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html)
+* [2026-10-13, 20:49:13](https://news.ycombinator.com/item?id=50078524) - [Turn an old junk phone into a Talking Jack-O-Lantern](https://jack-o.io/)
 * [2026-10-13, 12:30:08](https://news.ycombinator.com/item?id=50070625) - [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
 
 ## [Archives](archives/index.md)
