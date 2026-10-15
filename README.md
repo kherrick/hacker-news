@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-15, 13:44:32](https://news.ycombinator.com/item?id=50103630) - [I know why Mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
+* [2026-10-15, 13:23:44](https://news.ycombinator.com/item?id=50103338) - [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
 * [2026-10-15, 13:19:07](https://news.ycombinator.com/item?id=50103263) - [GridSnap – an open-source Divvy-style window snapper for macOS](https://github.com/konieczkow/gridsnap)
 * [2026-10-15, 13:11:26](https://news.ycombinator.com/item?id=50103164) - [C++26 Contracts: Introduction to Preconditions and Postconditions](https://www.cppstories.com/2026/cpp26_contracts/)
 * [2026-10-15, 12:58:32](https://news.ycombinator.com/item?id=50103000) - [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
@@ -19,7 +20,6 @@
 * [2026-10-13, 22:17:41](https://news.ycombinator.com/item?id=50079701) - [The First Social Network: In rural Argentina residents send messages w AM radio](https://www.newyorker.com/magazine/2026/10/19/the-first-social-network)
 * [2026-10-13, 19:55:41](https://news.ycombinator.com/item?id=50077709) - [Donaldson Futuro House in Idyllwild, California, USA](https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/)
 * [2026-10-13, 14:38:03](https://news.ycombinator.com/item?id=50072456) - [Show HN: A 3D Configurator for Macropads](https://npad.ngrok.dev)
-* [2026-10-13, 13:36:21](https://news.ycombinator.com/item?id=50071546) - [Your C is not standard C](https://sebsite.pw/w/20261012-notstdc.html)
 * [2026-10-13, 13:05:46](https://news.ycombinator.com/item?id=50071068) - [Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster](https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/)
 * [2026-10-13, 12:33:18](https://news.ycombinator.com/item?id=50070661) - [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
 * [2026-10-13, 12:30:08](https://news.ycombinator.com/item?id=50070625) - [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)

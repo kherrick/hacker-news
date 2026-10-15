@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
 * [2026-10-15, 13:44:32](https://news.ycombinator.com/item?id=50103630) - [I know why Mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
+* [2026-10-15, 13:23:44](https://news.ycombinator.com/item?id=50103338) - [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
 * [2026-10-15, 13:19:07](https://news.ycombinator.com/item?id=50103263) - [GridSnap – an open-source Divvy-style window snapper for macOS](https://github.com/konieczkow/gridsnap)
 * [2026-10-15, 13:11:26](https://news.ycombinator.com/item?id=50103164) - [C++26 Contracts: Introduction to Preconditions and Postconditions](https://www.cppstories.com/2026/cpp26_contracts/)
 * [2026-10-15, 12:58:32](https://news.ycombinator.com/item?id=50103000) - [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
