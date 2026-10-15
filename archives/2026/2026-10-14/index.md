@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-14](index.md)
 
+* [2026-10-14, 23:59:37](https://news.ycombinator.com/item?id=50097369) - [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+* [2026-10-14, 23:40:28](https://news.ycombinator.com/item?id=50097182) - [A new model for open source: closed to pull requests, open to remix](https://ghuntley.com/remix/)
 * [2026-10-14, 22:37:54](https://news.ycombinator.com/item?id=50096485) - [Problems with the Rust Language](https://oxetene.net/problems-with-the-rust-language/)
 * [2026-10-14, 22:10:08](https://news.ycombinator.com/item?id=50096142) - [Tiny Little Office](https://tinylittleoffice.com/)
 * [2026-10-14, 21:11:03](https://news.ycombinator.com/item?id=50095353) - [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
