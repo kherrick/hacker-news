@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-14, 23:59:37",
+      "https://news.ycombinator.com/item?id=50097369"
+    ],
+    [
+      "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "https://www.liquid.ai/blog/lfm2-5-24b-a2b"
+    ]
+  ],
+  [
+    [
+      "2026-10-14, 23:40:28",
+      "https://news.ycombinator.com/item?id=50097182"
+    ],
+    [
+      "A new model for open source: closed to pull requests, open to remix",
+      "https://ghuntley.com/remix/"
+    ]
+  ],
+  [
+    [
       "2026-10-14, 22:10:08",
       "https://news.ycombinator.com/item?id=50096142"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-10-14, 08:27:59",
-      "https://news.ycombinator.com/item?id=50084240"
-    ],
-    [
-      "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-      "https://typeof.net/Iosevka/"
-    ]
-  ],
-  [
-    [
       "2026-10-14, 06:02:16",
       "https://news.ycombinator.com/item?id=50083028"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2026-10-13, 12:13:20",
-      "https://news.ycombinator.com/item?id=50070438"
+      "2026-10-13, 05:54:01",
+      "https://news.ycombinator.com/item?id=50067325"
     ],
     [
-      "Webster’s Dictionary: The pleasure of finding things out (2014)",
-      "https://jsomers.net/blog/dictionary"
+      "Ask HN: CAD for wood working with LLM support?",
+      "https://news.ycombinator.com/item?id=50067325"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Do dentists know what they're doing?",
       "https://mapwriting.substack.com/p/dentists"
-    ]
-  ],
-  [
-    [
-      "2026-10-11, 21:50:14",
-      "https://news.ycombinator.com/item?id=50048193"
-    ],
-    [
-      "How I manage persistent Claude Code loops: Spool",
-      "https://github.com/enes-alatas/spool"
     ]
   ]
 ]
