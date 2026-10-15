@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
+* [2026-10-15, 13:44:32](https://news.ycombinator.com/item?id=50103630) - [I know why Mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
+* [2026-10-15, 13:19:07](https://news.ycombinator.com/item?id=50103263) - [GridSnap – an open-source Divvy-style window snapper for macOS](https://github.com/konieczkow/gridsnap)
 * [2026-10-15, 13:11:26](https://news.ycombinator.com/item?id=50103164) - [C++26 Contracts: Introduction to Preconditions and Postconditions](https://www.cppstories.com/2026/cpp26_contracts/)
 * [2026-10-15, 12:58:32](https://news.ycombinator.com/item?id=50103000) - [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
 * [2026-10-15, 12:52:16](https://news.ycombinator.com/item?id=50102923) - [Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
@@ -11,6 +13,7 @@
 * [2026-10-15, 12:29:59](https://news.ycombinator.com/item?id=50102689) - [ICE Kills More Americans Than Illegal Immigrants](https://hughhowey.com/ice-kills-more-americans-than-illegal-immigrants/)
 * [2026-10-15, 11:59:09](https://news.ycombinator.com/item?id=50102423) - [Ubuntu 26.10 (Stonking Stingray) released](https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html)
 * [2026-10-15, 11:38:57](https://news.ycombinator.com/item?id=50102247) - [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/)
+* [2026-10-15, 10:43:36](https://news.ycombinator.com/item?id=50101813) - [Zero-Click Spyware Delivered via Targeted Ads: AdFection](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
 * [2026-10-15, 09:13:20](https://news.ycombinator.com/item?id=50101149) - [The cost of getting a job today](https://weli.dev/blog/the-cost-of-getting-a-job-today/)
 * [2026-10-15, 08:18:38](https://news.ycombinator.com/item?id=50100791) - [AI was great until it was not](https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not)
 * [2026-10-15, 07:20:39](https://news.ycombinator.com/item?id=50100387) - [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
