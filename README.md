@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-15, 13:11:26](https://news.ycombinator.com/item?id=50103164) - [C++26 Contracts: Introduction to Preconditions and Postconditions](https://www.cppstories.com/2026/cpp26_contracts/)
 * [2026-10-15, 12:58:32](https://news.ycombinator.com/item?id=50103000) - [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
 * [2026-10-15, 12:52:16](https://news.ycombinator.com/item?id=50102923) - [Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
 * [2026-10-15, 11:59:09](https://news.ycombinator.com/item?id=50102423) - [Ubuntu 26.10 (Stonking Stingray) released](https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html)
@@ -29,7 +30,6 @@
 * [2026-10-12, 16:13:11](https://news.ycombinator.com/item?id=50058531) - [The Haunted Toys R Us](https://www.retroist.com/p/the-haunted-toys-r-us)
 * [2026-10-12, 08:51:18](https://news.ycombinator.com/item?id=50053384) - [Catch a Bird – I made it for my own sanity](https://catchabird.com)
 * [2026-10-12, 02:21:54](https://news.ycombinator.com/item?id=50050553) - [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
-* [2026-10-11, 20:36:56](https://news.ycombinator.com/item?id=50047576) - [The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl](https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/)
 
 ## [Archives](archives/index.md)
 
