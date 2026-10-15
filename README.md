@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-15, 17:01:56](https://news.ycombinator.com/item?id=50106676) - [An Israeli firm is sending zero-click spyware through online ads](https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware)
 * [2026-10-15, 16:26:16](https://news.ycombinator.com/item?id=50106054) - [Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally](https://sygal.app)
 * [2026-10-15, 16:17:40](https://news.ycombinator.com/item?id=50105900) - [Market selloff, rising rates test AI data centre deal boom](https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/)
 * [2026-10-15, 16:11:36](https://news.ycombinator.com/item?id=50105777) - [The technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
@@ -22,13 +23,12 @@
 * [2026-10-14, 20:48:24](https://news.ycombinator.com/item?id=50094994) - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
 * [2026-10-14, 19:26:30](https://news.ycombinator.com/item?id=50093568) - [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
 * [2026-10-14, 16:09:00](https://news.ycombinator.com/item?id=50089921) - [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
+* [2026-10-14, 10:13:39](https://news.ycombinator.com/item?id=50085171) - [Game of Life – But Multiplayer, Hypermedia and Python](https://stario.dev/apps/life)
 * [2026-10-13, 23:00:46](https://news.ycombinator.com/item?id=50080155) - [Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love](https://www.seriouseats.com/biscoff-history-12168161)
 * [2026-10-13, 22:17:41](https://news.ycombinator.com/item?id=50079701) - [The First Social Network: In rural Argentina residents send messages w AM radio](https://www.newyorker.com/magazine/2026/10/19/the-first-social-network)
 * [2026-10-13, 17:27:01](https://news.ycombinator.com/item?id=50075392) - [The largest eagle hunted unlike any other bird of prey (2021)](https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html)
 * [2026-10-13, 12:30:08](https://news.ycombinator.com/item?id=50070625) - [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
-* [2026-10-12, 23:25:20](https://news.ycombinator.com/item?id=50064470) - [Show HN: Indigene – Native plants for where you stand](https://indigene.app/)
 * [2026-10-12, 16:13:11](https://news.ycombinator.com/item?id=50058531) - [The Haunted Toys R Us](https://www.retroist.com/p/the-haunted-toys-r-us)
-* [2026-10-12, 08:51:18](https://news.ycombinator.com/item?id=50053384) - [Catch a Bird – I made it for my own sanity](https://catchabird.com)
 * [2026-10-12, 02:21:54](https://news.ycombinator.com/item?id=50050553) - [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
 
 ## [Archives](archives/index.md)
