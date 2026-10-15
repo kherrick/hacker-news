@@ -29,6 +29,7 @@
 * [2026-10-12, 19:28:48](https://news.ycombinator.com/item?id=50061659) - [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
 * [2026-10-12, 19:25:29](https://news.ycombinator.com/item?id=50061603) - [AI models may be capable of self-replicating without access to a datacenter](https://www.anthropic.com/research/self-replicating-ai)
 * [2026-10-12, 19:08:21](https://news.ycombinator.com/item?id=50061278) - [Introducing OpenFatigue](https://openfatigue.ai/)
+* [2026-10-12, 18:44:42](https://news.ycombinator.com/item?id=50060923) - [David Rudnick on \"borderline impossible\" process of designing Arsenal typeface](https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026)
 * [2026-10-12, 18:29:04](https://news.ycombinator.com/item?id=50060694) - [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
 * [2026-10-12, 18:27:26](https://news.ycombinator.com/item?id=50060674) - [Publishers Killed the Paperback, Then Blamed Readers](https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback)
 * [2026-10-12, 18:23:10](https://news.ycombinator.com/item?id=50060606) - [FCSS 2: Utility CSS that reads like CSS](https://github.com/meerita/FCSS2)
