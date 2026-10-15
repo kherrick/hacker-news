@@ -14,7 +14,6 @@
 * [2026-10-14, 18:32:52](https://news.ycombinator.com/item?id=50092664) - [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
 * [2026-10-14, 18:23:14](https://news.ycombinator.com/item?id=50092470) - [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
 * [2026-10-14, 18:21:14](https://news.ycombinator.com/item?id=50092423) - [Virtual Oxide Labs: Emulating a Full Oxide Rack](https://oxide.computer/blog/voxel-labs)
-* [2026-10-14, 17:50:26](https://news.ycombinator.com/item?id=50091875) - [America didn't lose its rare earth industry, it sold it](https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it)
 * [2026-10-14, 17:45:23](https://news.ycombinator.com/item?id=50091788) - [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
 * [2026-10-14, 17:00:59](https://news.ycombinator.com/item?id=50090932) - [Show HN: I wrote an email app that accepts only one sender per inbox](https://clova.email/)
 * [2026-10-14, 16:52:42](https://news.ycombinator.com/item?id=50090799) - [Has AI tells](https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1)
@@ -26,8 +25,9 @@
 * [2026-10-14, 11:47:53](https://news.ycombinator.com/item?id=50086165) - [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
 * [2026-10-14, 09:28:17](https://news.ycombinator.com/item?id=50084757) - [How Amazon pushes up prices all across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 * [2026-10-14, 06:02:16](https://news.ycombinator.com/item?id=50083028) - [Why is every rationalist blog post way too long?](https://alexwennerberg.com/blog/2026-10-13-long.html)
+* [2026-10-13, 13:36:21](https://news.ycombinator.com/item?id=50071546) - [your C is not standard C](https://sebsite.pw/w/20261012-notstdc.html)
+* [2026-10-13, 12:13:20](https://news.ycombinator.com/item?id=50070438) - [Webster’s Dictionary: The pleasure of finding things out (2014)](https://jsomers.net/blog/dictionary)
 * [2026-10-13, 05:54:01](https://news.ycombinator.com/item?id=50067325) - [Ask HN: CAD for wood working with LLM support?](https://news.ycombinator.com/item?id=50067325)
-* [2026-10-13, 01:50:17](https://news.ycombinator.com/item?id=50065572) - [LittleJS is 2D and 3D now](https://frankforce.com/littlejs-is-2d-and-3d-now/)
 * [2026-10-12, 10:52:25](https://news.ycombinator.com/item?id=50054465) - [Phloem: Git history grown like a slime mold](https://phloem.stemdeck.app/)
 * [2026-10-12, 02:21:54](https://news.ycombinator.com/item?id=50050553) - [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
 
