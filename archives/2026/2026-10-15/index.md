@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
+* [2026-10-15, 18:38:16](https://news.ycombinator.com/item?id=50108229) - [E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
+* [2026-10-15, 18:32:29](https://news.ycombinator.com/item?id=50108131) - [Why We're Banning AI](https://www.currentaffairs.org/news/why-were-banning-ai)
 * [2026-10-15, 17:47:39](https://news.ycombinator.com/item?id=50107379) - [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
 * [2026-10-15, 17:30:10](https://news.ycombinator.com/item?id=50107114) - [Anthropic Update on Independent Evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators)
 * [2026-10-15, 17:05:19](https://news.ycombinator.com/item?id=50106738) - [More on Anthropic's Scion ripping off Mononoke](https://sunshowers.io/posts/anthropic-mononoke-2/)
