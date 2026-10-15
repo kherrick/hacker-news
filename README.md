@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-15, 12:29:59](https://news.ycombinator.com/item?id=50102689) - [ICE Kills More Americans Than Illegal Immigrants](https://hughhowey.com/ice-kills-more-americans-than-illegal-immigrants/)
+* [2026-10-15, 12:52:16](https://news.ycombinator.com/item?id=50102923) - [Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
+* [2026-10-15, 12:45:59](https://news.ycombinator.com/item?id=50102854) - [X purges 13,000 accounts linked to suspected meddling ahead of US midterms](https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234)
 * [2026-10-15, 11:59:09](https://news.ycombinator.com/item?id=50102423) - [Ubuntu 26.10 (Stonking Stingray) released](https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html)
 * [2026-10-15, 11:38:57](https://news.ycombinator.com/item?id=50102247) - [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/)
 * [2026-10-15, 07:20:39](https://news.ycombinator.com/item?id=50100387) - [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
@@ -12,7 +13,6 @@
 * [2026-10-14, 20:48:24](https://news.ycombinator.com/item?id=50094994) - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
 * [2026-10-14, 19:26:30](https://news.ycombinator.com/item?id=50093568) - [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
 * [2026-10-14, 18:23:14](https://news.ycombinator.com/item?id=50092470) - [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
-* [2026-10-14, 17:45:23](https://news.ycombinator.com/item?id=50091788) - [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
 * [2026-10-14, 16:29:33](https://news.ycombinator.com/item?id=50090369) - [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse)
 * [2026-10-14, 16:09:00](https://news.ycombinator.com/item?id=50089921) - [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
 * [2026-10-14, 09:28:17](https://news.ycombinator.com/item?id=50084757) - [How Amazon pushes up prices all across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
