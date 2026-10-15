@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
+* [2026-10-15, 16:26:16](https://news.ycombinator.com/item?id=50106054) - [Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally](https://sygal.app)
 * [2026-10-15, 16:17:40](https://news.ycombinator.com/item?id=50105900) - [Market selloff, rising rates test AI data centre deal boom](https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/)
 * [2026-10-15, 16:11:36](https://news.ycombinator.com/item?id=50105777) - [The technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
 * [2026-10-15, 16:04:05](https://news.ycombinator.com/item?id=50105648) - [Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro](https://www.krea.ai/krea-3)
