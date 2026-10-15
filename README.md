@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-15, 14:47:39](https://news.ycombinator.com/item?id=50104465) - [Siri is so bad at everything](https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/)
 * [2026-10-15, 14:36:22](https://news.ycombinator.com/item?id=50104310) - [Prompt injection in HTTP headers: what 217M web responses show](https://www.signalscorps.com/blog/prompt-injection-in-http-headers/)
 * [2026-10-15, 14:35:15](https://news.ycombinator.com/item?id=50104299) - [Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
 * [2026-10-15, 13:44:32](https://news.ycombinator.com/item?id=50103630) - [I know why Mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
@@ -16,7 +17,6 @@
 * [2026-10-14, 22:10:08](https://news.ycombinator.com/item?id=50096142) - [Tiny Little Office](https://tinylittleoffice.com/)
 * [2026-10-14, 20:48:24](https://news.ycombinator.com/item?id=50094994) - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
 * [2026-10-14, 19:26:30](https://news.ycombinator.com/item?id=50093568) - [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
-* [2026-10-14, 16:29:33](https://news.ycombinator.com/item?id=50090369) - [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse)
 * [2026-10-14, 16:09:00](https://news.ycombinator.com/item?id=50089921) - [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
 * [2026-10-13, 22:17:41](https://news.ycombinator.com/item?id=50079701) - [The First Social Network: In rural Argentina residents send messages w AM radio](https://www.newyorker.com/magazine/2026/10/19/the-first-social-network)
 * [2026-10-13, 19:55:41](https://news.ycombinator.com/item?id=50077709) - [Donaldson Futuro House in Idyllwild, California, USA](https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/)
