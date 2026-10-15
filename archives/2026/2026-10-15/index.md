@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
+* [2026-10-15, 12:58:32](https://news.ycombinator.com/item?id=50103000) - [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
 * [2026-10-15, 12:52:16](https://news.ycombinator.com/item?id=50102923) - [Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
 * [2026-10-15, 12:45:59](https://news.ycombinator.com/item?id=50102854) - [X purges 13,000 accounts linked to suspected meddling ahead of US midterms](https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234)
 * [2026-10-15, 12:29:59](https://news.ycombinator.com/item?id=50102689) - [ICE Kills More Americans Than Illegal Immigrants](https://hughhowey.com/ice-kills-more-americans-than-illegal-immigrants/)
