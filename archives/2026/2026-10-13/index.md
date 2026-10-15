@@ -15,6 +15,7 @@
 * [2026-10-13, 21:54:24](https://news.ycombinator.com/item?id=50079417) - [Nexus-Q: un motor open source de Rust para PQC](https://nexus-q.link/)
 * [2026-10-13, 21:06:33](https://news.ycombinator.com/item?id=50078757) - [Marshall Islands Stick Chart](https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart)
 * [2026-10-13, 21:01:12](https://news.ycombinator.com/item?id=50078686) - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
+* [2026-10-13, 20:49:13](https://news.ycombinator.com/item?id=50078524) - [Turn an old junk phone into a Talking Jack-O-Lantern](https://jack-o.io/)
 * [2026-10-13, 20:23:55](https://news.ycombinator.com/item?id=50078141) - [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
 * [2026-10-13, 19:55:41](https://news.ycombinator.com/item?id=50077709) - [Donaldson Futuro House in Idyllwild, California, USA](https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/)
 * [2026-10-13, 19:55:31](https://news.ycombinator.com/item?id=50077703) - [OpenAI finds recording device in one of their offices](https://twitter.com/OpenAINewsroom/status/2110095403198849132)
