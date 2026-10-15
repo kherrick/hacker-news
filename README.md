@@ -5,7 +5,6 @@
 * [2026-10-15, 18:38:16](https://news.ycombinator.com/item?id=50108229) - [E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
 * [2026-10-15, 18:32:29](https://news.ycombinator.com/item?id=50108131) - [Why We're Banning AI](https://www.currentaffairs.org/news/why-were-banning-ai)
 * [2026-10-15, 17:47:39](https://news.ycombinator.com/item?id=50107379) - [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
-* [2026-10-15, 17:30:10](https://news.ycombinator.com/item?id=50107114) - [An update on independent evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators)
 * [2026-10-15, 17:05:19](https://news.ycombinator.com/item?id=50106738) - [More on Anthropic's Scion ripping off Mononoke](https://sunshowers.io/posts/anthropic-mononoke-2/)
 * [2026-10-15, 17:01:56](https://news.ycombinator.com/item?id=50106676) - [An Israeli firm is sending zero-click spyware through online ads](https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware)
 * [2026-10-15, 16:26:16](https://news.ycombinator.com/item?id=50106054) - [Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally](https://sygal.app)
@@ -29,6 +28,7 @@
 * [2026-10-14, 09:17:06](https://news.ycombinator.com/item?id=50084674) - [Why I Wrote PGP (1991, revised 1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 * [2026-10-13, 23:00:46](https://news.ycombinator.com/item?id=50080155) - [Delta’s Biscoff cookies were supposed to be temporary](https://www.seriouseats.com/biscoff-history-12168161)
 * [2026-10-13, 20:49:13](https://news.ycombinator.com/item?id=50078524) - [Turn an old junk phone into a Talking Jack-O-Lantern](https://jack-o.io/)
+* [2026-10-13, 17:27:01](https://news.ycombinator.com/item?id=50075392) - [The largest eagle hunted unlike any other bird of prey (2021)](https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html)
 * [2026-10-13, 12:30:08](https://news.ycombinator.com/item?id=50070625) - [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
 
 ## [Archives](archives/index.md)
