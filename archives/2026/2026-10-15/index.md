@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
+* [2026-10-15, 12:29:59](https://news.ycombinator.com/item?id=50102689) - [ICE Kills More Americans Than Illegal Immigrants](https://hughhowey.com/ice-kills-more-americans-than-illegal-immigrants/)
+* [2026-10-15, 11:59:09](https://news.ycombinator.com/item?id=50102423) - [Ubuntu 26.10 (Stonking Stingray) released](https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html)
 * [2026-10-15, 11:38:57](https://news.ycombinator.com/item?id=50102247) - [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/)
 * [2026-10-15, 09:13:20](https://news.ycombinator.com/item?id=50101149) - [The cost of getting a job today](https://weli.dev/blog/the-cost-of-getting-a-job-today/)
 * [2026-10-15, 08:18:38](https://news.ycombinator.com/item?id=50100791) - [AI was great until it was not](https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not)

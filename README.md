@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-15, 12:29:59](https://news.ycombinator.com/item?id=50102689) - [ICE Kills More Americans Than Illegal Immigrants](https://hughhowey.com/ice-kills-more-americans-than-illegal-immigrants/)
+* [2026-10-15, 11:59:09](https://news.ycombinator.com/item?id=50102423) - [Ubuntu 26.10 (Stonking Stingray) released](https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html)
 * [2026-10-15, 11:38:57](https://news.ycombinator.com/item?id=50102247) - [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/)
 * [2026-10-15, 07:20:39](https://news.ycombinator.com/item?id=50100387) - [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
 * [2026-10-15, 04:25:28](https://news.ycombinator.com/item?id=50099136) - [Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
@@ -7,7 +9,6 @@
 * [2026-10-14, 23:59:37](https://news.ycombinator.com/item?id=50097369) - [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
 * [2026-10-14, 22:23:53](https://news.ycombinator.com/item?id=50096300) - [Show HN: Ito – Build Terminal UIs in Lua](https://uji.sh/ito/)
 * [2026-10-14, 22:10:08](https://news.ycombinator.com/item?id=50096142) - [Tiny Little Office](https://tinylittleoffice.com/)
-* [2026-10-14, 21:11:03](https://news.ycombinator.com/item?id=50095353) - [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
 * [2026-10-14, 20:48:24](https://news.ycombinator.com/item?id=50094994) - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
 * [2026-10-14, 19:26:30](https://news.ycombinator.com/item?id=50093568) - [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
 * [2026-10-14, 18:23:14](https://news.ycombinator.com/item?id=50092470) - [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
@@ -17,7 +18,6 @@
 * [2026-10-14, 09:28:17](https://news.ycombinator.com/item?id=50084757) - [How Amazon pushes up prices all across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 * [2026-10-13, 22:17:41](https://news.ycombinator.com/item?id=50079701) - [The First Social Network: In rural Argentina residents send messages w AM radio](https://www.newyorker.com/magazine/2026/10/19/the-first-social-network)
 * [2026-10-13, 19:55:41](https://news.ycombinator.com/item?id=50077709) - [Donaldson Futuro House in Idyllwild, California, USA](https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/)
-* [2026-10-13, 14:00:06](https://news.ycombinator.com/item?id=50071902) - [Bookofjoe's Favorite Thing: Best Pill Splitter](https://bookofjoe2.blogspot.com/2026/09/bookofjoes-favorite-thing-worlds-best.html)
 * [2026-10-13, 13:36:21](https://news.ycombinator.com/item?id=50071546) - [Your C is not standard C](https://sebsite.pw/w/20261012-notstdc.html)
 * [2026-10-13, 13:05:46](https://news.ycombinator.com/item?id=50071068) - [Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster](https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/)
 * [2026-10-13, 12:33:18](https://news.ycombinator.com/item?id=50070661) - [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
