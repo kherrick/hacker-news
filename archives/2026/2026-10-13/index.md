@@ -84,4 +84,5 @@
 * [2026-10-13, 02:07:08](https://news.ycombinator.com/item?id=50065692) - [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928)
 * [2026-10-13, 01:50:17](https://news.ycombinator.com/item?id=50065572) - [LittleJS is 2D and 3D now](https://frankforce.com/littlejs-is-2d-and-3d-now/)
 * [2026-10-13, 01:46:47](https://news.ycombinator.com/item?id=50065553) - [Strengthening our defenses against distillation attacks](https://www.anthropic.com/research/distillation-defenses)
+* [2026-10-13, 01:02:54](https://news.ycombinator.com/item?id=50065237) - [Stopping sand from destroying a hydropower turbine [video]](https://www.youtube.com/watch?v=kCYrSBexF_4)
 * [2026-10-13, 00:11:04](https://news.ycombinator.com/item?id=50064840) - [Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)](https://github.com/bherbruck/solidcraft)
