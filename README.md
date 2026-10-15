@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-15, 22:11:24](https://news.ycombinator.com/item?id=50111112) - [Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI](https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai)
 * [2026-10-15, 20:23:25](https://news.ycombinator.com/item?id=50109715) - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 * [2026-10-15, 19:55:49](https://news.ycombinator.com/item?id=50109375) - [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
 * [2026-10-15, 19:21:38](https://news.ycombinator.com/item?id=50108872) - [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
@@ -23,6 +22,7 @@
 * [2026-10-15, 10:43:36](https://news.ycombinator.com/item?id=50101813) - [AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
 * [2026-10-15, 04:25:28](https://news.ycombinator.com/item?id=50099136) - [Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
 * [2026-10-15, 04:23:27](https://news.ycombinator.com/item?id=50099121) - [An Apology](https://www.elevationlab.com/blogs/news/an-apology)
+* [2026-10-15, 02:33:42](https://news.ycombinator.com/item?id=50098454) - [Show HN: My Terminal Themes Web App](https://news.ycombinator.com/item?id=50098454)
 * [2026-10-15, 01:02:05](https://news.ycombinator.com/item?id=50097843) - [The engineering that allows articulated buses to bend](https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/)
 * [2026-10-14, 10:13:39](https://news.ycombinator.com/item?id=50085171) - [Game of Life – But Multiplayer, Hypermedia and Python](https://stario.dev/apps/life)
 * [2026-10-14, 09:17:06](https://news.ycombinator.com/item?id=50084674) - [Why I Wrote PGP (1991, revised 1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
