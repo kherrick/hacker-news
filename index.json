@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-10-15, 00:58:26",
-      "https://news.ycombinator.com/item?id=50097811"
-    ],
-    [
-      "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs",
-      "https://capsem.org/"
-    ]
-  ],
-  [
-    [
       "2026-10-14, 23:59:37",
       "https://news.ycombinator.com/item?id=50097369"
     ],
@@ -227,6 +217,16 @@
     [
       "Passkeys are not a trap",
       "https://scotthelme.co.uk/passkeys-are-not-a-trap/"
+    ]
+  ],
+  [
+    [
+      "2026-10-14, 11:47:53",
+      "https://news.ycombinator.com/item?id=50086165"
+    ],
+    [
+      "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "https://github.com/timescale/pg_vectorsearch"
     ]
   ],
   [
