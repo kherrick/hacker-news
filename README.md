@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-15, 09:13:20](https://news.ycombinator.com/item?id=50101149) - [The cost of getting a job today](https://weli.dev/blog/the-cost-of-getting-a-job-today/)
 * [2026-10-15, 08:18:38](https://news.ycombinator.com/item?id=50100791) - [AI was great until it was not](https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not)
 * [2026-10-15, 07:20:39](https://news.ycombinator.com/item?id=50100387) - [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
 * [2026-10-15, 04:25:28](https://news.ycombinator.com/item?id=50099136) - [Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
@@ -14,7 +15,6 @@
 * [2026-10-14, 17:45:23](https://news.ycombinator.com/item?id=50091788) - [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)
 * [2026-10-14, 16:29:33](https://news.ycombinator.com/item?id=50090369) - [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse)
 * [2026-10-14, 16:09:00](https://news.ycombinator.com/item?id=50089921) - [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
-* [2026-10-14, 15:31:15](https://news.ycombinator.com/item?id=50089229) - [Submarine cable resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
 * [2026-10-14, 09:28:17](https://news.ycombinator.com/item?id=50084757) - [How Amazon pushes up prices all across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 * [2026-10-14, 06:02:16](https://news.ycombinator.com/item?id=50083028) - [Why is every rationalist blog post way too long?](https://alexwennerberg.com/blog/2026-10-13-long.html)
 * [2026-10-14, 00:52:25](https://news.ycombinator.com/item?id=50081045) - [Creating a Garmin \"MCP\"](https://jackantico.io/garmin-mcp)
