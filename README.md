@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-15, 04:25:28](https://news.ycombinator.com/item?id=50099136) - [Show HN: Flipflop, iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
-* [2026-10-15, 04:23:27](https://news.ycombinator.com/item?id=50099121) - [An Apology](https://www.elevationlab.com/blogs/news/an-apology)
+* [2026-10-15, 02:33:42](https://news.ycombinator.com/item?id=50098454) - [Show HN: My Terminal Themes Web App](https://news.ycombinator.com/item?id=50098454)
 * [2026-10-15, 02:06:36](https://news.ycombinator.com/item?id=50098274) - [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
 * [2026-10-14, 23:59:37](https://news.ycombinator.com/item?id=50097369) - [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
 * [2026-10-14, 22:10:08](https://news.ycombinator.com/item?id=50096142) - [Tiny Little Office](https://tinylittleoffice.com/)
