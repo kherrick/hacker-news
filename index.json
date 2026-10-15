@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-10-15, 01:07:15",
-      "https://news.ycombinator.com/item?id=50097880"
+      "2026-10-15, 02:06:36",
+      "https://news.ycombinator.com/item?id=50098274"
     ],
     [
-      "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive",
-      "https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive"
+      "The Double Headed Stack Allocator",
+      "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 00:58:26",
+      "https://news.ycombinator.com/item?id=50097811"
+    ],
+    [
+      "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs",
+      "https://capsem.org/"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=50093568"
     ],
     [
-      "Things to know when you get cancer – 2026 Edition",
+      "Things to know when you get cancer",
       "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/"
     ]
   ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-10-14, 11:47:53",
-      "https://news.ycombinator.com/item?id=50086165"
-    ],
-    [
-      "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-      "https://github.com/timescale/pg_vectorsearch"
-    ]
-  ],
-  [
-    [
       "2026-10-14, 09:28:17",
       "https://news.ycombinator.com/item?id=50084757"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-10-13, 12:13:20",
-      "https://news.ycombinator.com/item?id=50070438"
-    ],
-    [
-      "Webster’s Dictionary: The pleasure of finding things out (2014)",
-      "https://jsomers.net/blog/dictionary"
-    ]
-  ],
-  [
-    [
       "2026-10-13, 05:54:01",
       "https://news.ycombinator.com/item?id=50067325"
     ],
@@ -287,6 +277,16 @@
     [
       "Phloem: Git history grown like a slime mold",
       "https://phloem.stemdeck.app/"
+    ]
+  ],
+  [
+    [
+      "2026-10-12, 08:51:18",
+      "https://news.ycombinator.com/item?id=50053384"
+    ],
+    [
+      "Catch a Bird – I made it for my own sanity",
+      "https://catchabird.com"
     ]
   ],
   [
