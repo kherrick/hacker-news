@@ -24,6 +24,7 @@
 * [2026-10-13, 18:09:26](https://news.ycombinator.com/item?id=50076048) - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
 * [2026-10-13, 17:52:57](https://news.ycombinator.com/item?id=50075809) - [Show HN: Deslop – Oxlint rules for AI-generated TypeScript](https://github.com/maharshi365/deslop)
 * [2026-10-13, 17:43:05](https://news.ycombinator.com/item?id=50075665) - [Show HN: XY Music Notation](https://music.xy.dev/)
+* [2026-10-13, 17:27:01](https://news.ycombinator.com/item?id=50075392) - [The largest eagle hunted unlike any other bird of prey (2021)](https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html)
 * [2026-10-13, 17:00:39](https://news.ycombinator.com/item?id=50074969) - [Coris (YC S22) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations)
 * [2026-10-13, 16:57:57](https://news.ycombinator.com/item?id=50074909) - [Show HN: How Random Are You?](https://lab.specr.net/rigged-draw/)
 * [2026-10-13, 16:55:47](https://news.ycombinator.com/item?id=50074869) - [Gemini 4 Argon for Robotics Blog](https://developers.googleblog.com/gemini-4-argon-for-robotics/)
