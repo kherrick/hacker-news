@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
+* [2026-10-15, 16:11:36](https://news.ycombinator.com/item?id=50105777) - [The technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
+* [2026-10-15, 16:04:01](https://news.ycombinator.com/item?id=50105647) - [Neural Networks Are Already Clean](https://already-clean.goodfire.com/)
 * [2026-10-15, 16:03:19](https://news.ycombinator.com/item?id=50105635) - [Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher](https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/)
 * [2026-10-15, 15:44:36](https://news.ycombinator.com/item?id=50105344) - [I designed a nose guard for my dog and gave it away. Now 500 dogs wear one](https://snoutcover.com/one-year)
 * [2026-10-15, 15:03:17](https://news.ycombinator.com/item?id=50104726) - [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
