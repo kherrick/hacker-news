@@ -7,6 +7,7 @@
 * [2026-10-12, 23:52:29](https://news.ycombinator.com/item?id=50064673) - [The Origin Story of Kid Pix](http://red-green-blue.com/kid-pix-the-early-years)
 * [2026-10-12, 23:36:00](https://news.ycombinator.com/item?id=50064546) - [SQL Injection found on ibm.com subdomain](https://hackerone.com/reports/3662090)
 * [2026-10-12, 23:34:22](https://news.ycombinator.com/item?id=50064536) - [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
+* [2026-10-12, 23:25:20](https://news.ycombinator.com/item?id=50064470) - [Show HN: Indigene – Native plants for where you stand](https://indigene.app/)
 * [2026-10-12, 23:22:00](https://news.ycombinator.com/item?id=50064444) - [A shared, verifiable fix database that AI agents read and write themselves](https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt)
 * [2026-10-12, 23:21:12](https://news.ycombinator.com/item?id=50064438) - [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
 * [2026-10-12, 23:07:25](https://news.ycombinator.com/item?id=50064318) - [GPT-6 Astra Helped Me Jailbreak My Kindle](https://nirajrajgor.com/blog/kindle-photo-frame-with-ai)
