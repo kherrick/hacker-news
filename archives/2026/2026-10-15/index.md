@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
+* [2026-10-15, 19:58:33](https://news.ycombinator.com/item?id=50109409) - [2026 State of the Climate Report Shows a Planet Reaching Its Limits](https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits)
 * [2026-10-15, 19:21:38](https://news.ycombinator.com/item?id=50108872) - [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
 * [2026-10-15, 18:54:36](https://news.ycombinator.com/item?id=50108491) - [We are entering a period of overlapping crises](https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/)
 * [2026-10-15, 18:38:16](https://news.ycombinator.com/item?id=50108229) - [E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
