@@ -64,6 +64,7 @@
 * [2026-10-13, 11:27:14](https://news.ycombinator.com/item?id=50069971) - [An hour of audio transcribed in about 13s on MacBook Air](https://eg2.haku.sh/)
 * [2026-10-13, 11:24:08](https://news.ycombinator.com/item?id=50069942) - [Character.ai Files for Bankruptcy](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
 * [2026-10-13, 10:27:00](https://news.ycombinator.com/item?id=50069499) - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
+* [2026-10-13, 10:21:17](https://news.ycombinator.com/item?id=50069439) - [Major ICQ security hole (1998)](https://opennet.ru/base/maillist/169.txt.html)
 * [2026-10-13, 10:08:34](https://news.ycombinator.com/item?id=50069337) - [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
 * [2026-10-13, 10:08:18](https://news.ycombinator.com/item?id=50069333) - [AI models may soon self-replicate without access to data centers](https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/)
 * [2026-10-13, 10:08:00](https://news.ycombinator.com/item?id=50069329) - [CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades](https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran)
