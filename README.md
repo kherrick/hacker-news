@@ -2,7 +2,6 @@
 
 * [2026-10-15, 12:58:32](https://news.ycombinator.com/item?id=50103000) - [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
 * [2026-10-15, 12:52:16](https://news.ycombinator.com/item?id=50102923) - [Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
-* [2026-10-15, 12:45:59](https://news.ycombinator.com/item?id=50102854) - [X purges 13,000 accounts linked to suspected meddling ahead of US midterms](https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234)
 * [2026-10-15, 11:59:09](https://news.ycombinator.com/item?id=50102423) - [Ubuntu 26.10 (Stonking Stingray) released](https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html)
 * [2026-10-15, 11:38:57](https://news.ycombinator.com/item?id=50102247) - [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/)
 * [2026-10-15, 04:25:28](https://news.ycombinator.com/item?id=50099136) - [Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
@@ -22,6 +21,7 @@
 * [2026-10-13, 13:05:46](https://news.ycombinator.com/item?id=50071068) - [Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster](https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/)
 * [2026-10-13, 12:33:18](https://news.ycombinator.com/item?id=50070661) - [It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)
 * [2026-10-13, 12:30:08](https://news.ycombinator.com/item?id=50070625) - [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
+* [2026-10-13, 05:54:01](https://news.ycombinator.com/item?id=50067325) - [Ask HN: CAD for wood working with LLM support?](https://news.ycombinator.com/item?id=50067325)
 * [2026-10-13, 01:02:54](https://news.ycombinator.com/item?id=50065237) - [Stopping sand from destroying a hydropower turbine [video]](https://www.youtube.com/watch?v=kCYrSBexF_4)
 * [2026-10-12, 23:25:20](https://news.ycombinator.com/item?id=50064470) - [Show HN: Indigene – Native plants for where you stand](https://indigene.app/)
 * [2026-10-12, 18:44:42](https://news.ycombinator.com/item?id=50060923) - [David Rudnick on \"borderline impossible\" process of designing Arsenal typeface](https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026)
