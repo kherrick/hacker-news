@@ -76,6 +76,7 @@
 * [2026-10-14, 10:00:24](https://news.ycombinator.com/item?id=50085022) - [Show HN: A guided 3D Leonardo da Vinci museum, built in code](https://museumofages.org/w/vinci)
 * [2026-10-14, 09:54:23](https://news.ycombinator.com/item?id=50084969) - [Ask HN: What is the current trajectory of a senior engineer?](https://news.ycombinator.com/item?id=50084969)
 * [2026-10-14, 09:37:24](https://news.ycombinator.com/item?id=50084838) - [Who Is Planting Backdoors in Ledger Crypto Wallets?](https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/)
+* [2026-10-14, 09:32:09](https://news.ycombinator.com/item?id=50084790) - [The Economic Complexity of the Western Roman Empire](https://www.michelecoscia.com/?p=2613)
 * [2026-10-14, 09:28:17](https://news.ycombinator.com/item?id=50084757) - [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 * [2026-10-14, 09:17:06](https://news.ycombinator.com/item?id=50084674) - [Why I Wrote PGP (1991, revised 1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 * [2026-10-14, 09:10:37](https://news.ycombinator.com/item?id=50084622) - [Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex)

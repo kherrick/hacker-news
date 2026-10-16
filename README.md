@@ -21,6 +21,7 @@
 * [2026-10-15, 14:35:15](https://news.ycombinator.com/item?id=50104299) - [Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
 * [2026-10-15, 13:23:44](https://news.ycombinator.com/item?id=50103338) - [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
 * [2026-10-15, 12:52:16](https://news.ycombinator.com/item?id=50102923) - [Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
+* [2026-10-14, 09:32:09](https://news.ycombinator.com/item?id=50084790) - [The Economic Complexity of the Western Roman Empire](https://www.michelecoscia.com/?p=2613)
 * [2026-10-14, 09:17:06](https://news.ycombinator.com/item?id=50084674) - [Why I Wrote PGP (1991, revised 1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 * [2026-10-14, 03:41:42](https://news.ycombinator.com/item?id=50082113) - [New York City's iconic horse-drawn carriages expected to take their last trot](https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban)
 * [2026-10-13, 23:00:46](https://news.ycombinator.com/item?id=50080155) - [Delta’s Biscoff cookies were supposed to be temporary](https://www.seriouseats.com/biscoff-history-12168161)
@@ -29,7 +30,6 @@
 * [2026-10-13, 10:21:17](https://news.ycombinator.com/item?id=50069439) - [Major ICQ security hole (1998)](https://opennet.ru/base/maillist/169.txt.html)
 * [2026-10-13, 07:52:54](https://news.ycombinator.com/item?id=50068203) - [Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat](https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge)
 * [2026-10-13, 02:32:53](https://news.ycombinator.com/item?id=50065859) - [Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]](https://www.youtube.com/watch?v=sjNpfz4UzqU)
-* [2026-10-12, 16:46:30](https://news.ycombinator.com/item?id=50059094) - [Casio F-91W using Statecharts](https://github.com/dundalek/casio-f91w-fsm)
 
 ## [Archives](archives/index.md)
 
