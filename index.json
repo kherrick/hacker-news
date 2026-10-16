@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-16, 15:38:35",
+      "https://news.ycombinator.com/item?id=50119752"
+    ],
+    [
+      "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
+      "https://onedeploy.co"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 14:44:17",
       "https://news.ycombinator.com/item?id=50118981"
     ],
@@ -17,6 +27,16 @@
     [
       "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
       "https://calif.io/research/big-fish"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 14:35:43",
+      "https://news.ycombinator.com/item?id=50118876"
+    ],
+    [
+      "Show HN: rStation – A shared research lab for your AI agents",
+      "https://rstation.ai/"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "How to make System 1 LLMs show System 2 competencies?",
       "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 14:12:15",
+      "https://news.ycombinator.com/item?id=50118624"
+    ],
+    [
+      "Tesla Unveils 'Flying' Roadster with SpaceX Thrusters [video]",
+      "https://www.youtube.com/watch?v=eqOfmtTJD1A"
     ]
   ],
   [
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2026-10-15, 17:47:39",
-      "https://news.ycombinator.com/item?id=50107379"
+      "2026-10-15, 20:23:25",
+      "https://news.ycombinator.com/item?id=50109715"
     ],
     [
-      "Muse Spark Open",
-      "https://research.meta.ai/blog/muse-spark-open"
-    ]
-  ],
-  [
-    [
-      "2026-10-15, 16:24:52",
-      "https://news.ycombinator.com/item?id=50106023"
-    ],
-    [
-      "Jev meets the Trolley Problem",
-      "https://zachlandes.com/trolley-problem/"
-    ]
-  ],
-  [
-    [
-      "2026-10-15, 16:04:01",
-      "https://news.ycombinator.com/item?id=50105647"
-    ],
-    [
-      "Neural networks are clean",
-      "https://already-clean.goodfire.com/"
+      "What I self-host",
+      "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Gyroscopes Got So Small [video]",
       "https://www.youtube.com/watch?v=0Zc_6xB5W3Y"
-    ]
-  ],
-  [
-    [
-      "2026-10-15, 13:23:44",
-      "https://news.ycombinator.com/item?id=50103338"
-    ],
-    [
-      "Wayland desktop for Linux with skeuomorphic design",
-      "https://github.com/fyzugx/DEsk"
     ]
   ],
   [
