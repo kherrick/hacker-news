@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-16, 21:01:23",
-      "https://news.ycombinator.com/item?id=50124642"
-    ],
-    [
-      "Why harnesses matter for energy (and token) efficiency",
-      "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency"
-    ]
-  ],
-  [
-    [
       "2026-10-16, 20:33:41",
       "https://news.ycombinator.com/item?id=50124251"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=50123580"
     ],
     [
-      "Flux 3 Image Klein: open weights, 5.6B parameters",
+      "FLUX 3 Image Klein",
       "https://bfl.ai/blog/flux-3-image-klein"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
       "https://machinelearning.apple.com/research/mlx-distributed-inference"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 13:43:30",
+      "https://news.ycombinator.com/item?id=50118318"
+    ],
+    [
+      "What was a Token Ring network?",
+      "https://dfarq.homeip.net/what-was-a-token-ring-network/"
     ]
   ],
   [
