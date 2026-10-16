@@ -41,6 +41,7 @@
 * [2026-10-13, 15:12:57](https://news.ycombinator.com/item?id=50072994) - [The United Kingdom Generates Less Electricity per Person Than in the 1970s](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak)
 * [2026-10-13, 15:07:37](https://news.ycombinator.com/item?id=50072913) - [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)
 * [2026-10-13, 15:07:20](https://news.ycombinator.com/item?id=50072909) - [Nearly all 19 car brands send driver data to third parties (Northeastern/CR)](https://news.auravision.co/car-is-spying/)
+* [2026-10-13, 14:40:03](https://news.ycombinator.com/item?id=50072485) - [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/)
 * [2026-10-13, 14:38:03](https://news.ycombinator.com/item?id=50072456) - [Show HN: A 3D Configurator for Macropads](https://npad.ngrok.dev)
 * [2026-10-13, 14:26:08](https://news.ycombinator.com/item?id=50072286) - [Apple's new 'Switch to Safari' campaign details why you should ditch Chrome](https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/)
 * [2026-10-13, 14:21:40](https://news.ycombinator.com/item?id=50072229) - [A Book That Will Never Be Read](https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/)
