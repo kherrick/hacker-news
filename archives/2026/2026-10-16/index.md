@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-10-16](index.md)
 
+* [2026-10-16, 18:55:59](https://news.ycombinator.com/item?id=50122800) - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 * [2026-10-16, 18:32:35](https://news.ycombinator.com/item?id=50122431) - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
 * [2026-10-16, 18:11:42](https://news.ycombinator.com/item?id=50122112) - [Anthropic assigned highest junk credit rating in June](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d)
 * [2026-10-16, 18:06:17](https://news.ycombinator.com/item?id=50122034) - [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear)
 * [2026-10-16, 18:00:18](https://news.ycombinator.com/item?id=50121939) - [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
+* [2026-10-16, 17:35:07](https://news.ycombinator.com/item?id=50121601) - [GifCities](https://gifcities.org/)
+* [2026-10-16, 17:31:42](https://news.ycombinator.com/item?id=50121562) - [Anthropic Console overcharged my card 100x due to internationalization input bug](https://news.ycombinator.com/item?id=50121562)
 * [2026-10-16, 17:08:55](https://news.ycombinator.com/item?id=50121188) - [Piramidal (YC W24) Is Hiring](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009)
 * [2026-10-16, 17:08:38](https://news.ycombinator.com/item?id=50121179) - [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/)
 * [2026-10-16, 16:57:49](https://news.ycombinator.com/item?id=50121004) - [/dev/null: social network for developers](https://dev-null.sh)
