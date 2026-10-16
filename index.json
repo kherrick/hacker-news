@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-16, 18:55:59",
+      "https://news.ycombinator.com/item?id=50122800"
+    ],
+    [
+      "Claude reveals ECDSA curve origins",
+      "https://www.anthropic.com/research/ecdsa-curve-origins"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 18:32:35",
       "https://news.ycombinator.com/item?id=50122431"
     ],
@@ -41,6 +51,26 @@
   ],
   [
     [
+      "2026-10-16, 17:35:07",
+      "https://news.ycombinator.com/item?id=50121601"
+    ],
+    [
+      "GifCities",
+      "https://gifcities.org/"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 17:31:42",
+      "https://news.ycombinator.com/item?id=50121562"
+    ],
+    [
+      "Anthropic Console overcharged my card 100x due to internationalization input bug",
+      "https://news.ycombinator.com/item?id=50121562"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 17:08:55",
       "https://news.ycombinator.com/item?id=50121188"
     ],
@@ -57,6 +87,16 @@
     [
       "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "https://www.mercor.com/research/labor-index/benchmark-map/"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 16:57:49",
+      "https://news.ycombinator.com/item?id=50121004"
+    ],
+    [
+      "/dev/null: social network for developers",
+      "https://dev-null.sh"
     ]
   ],
   [
@@ -97,16 +137,6 @@
     [
       "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
       "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 15:38:28",
-      "https://news.ycombinator.com/item?id=50119751"
-    ],
-    [
-      "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-      "https://adepts.of0x.cc/eufy-homestation2-firmware/"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2026-10-14, 22:46:07",
-      "https://news.ycombinator.com/item?id=50096574"
-    ],
-    [
-      "AB Fab – On Anthony Burgess",
-      "https://www.lrb.co.uk/the-paper/v48/n18/ian-penman/ab-fab"
-    ]
-  ],
-  [
-    [
       "2026-10-14, 12:44:07",
       "https://news.ycombinator.com/item?id=50086838"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2026-10-14, 10:51:37",
-      "https://news.ycombinator.com/item?id=50085553"
-    ],
-    [
-      "AI-assisted PCB design for KiCad 10",
-      "https://github.com/mixelpixx/Konnect"
-    ]
-  ],
-  [
-    [
       "2026-10-14, 09:32:09",
       "https://news.ycombinator.com/item?id=50084790"
     ],
     [
       "The Economic Complexity of the Western Roman Empire",
       "https://www.michelecoscia.com/?p=2613"
-    ]
-  ],
-  [
-    [
-      "2026-10-13, 23:10:04",
-      "https://news.ycombinator.com/item?id=50080246"
-    ],
-    [
-      "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
-      "https://wonderhop.io/en/"
     ]
   ],
   [
