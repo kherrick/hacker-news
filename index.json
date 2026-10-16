@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-10-16, 05:14:42",
-      "https://news.ycombinator.com/item?id=50114359"
-    ],
-    [
-      "Last rites for Gentoo's Chromium package",
-      "https://lwn.net/Articles/1097760/"
-    ]
-  ],
-  [
-    [
       "2026-10-16, 05:11:28",
       "https://news.ycombinator.com/item?id=50114342"
     ],
@@ -77,6 +67,16 @@
     [
       "Meta’s new commercial terms will allow the scraping of news sites: experts",
       "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 23:22:53",
+      "https://news.ycombinator.com/item?id=50111742"
+    ],
+    [
+      "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "https://github.com/johnrash/bebox"
     ]
   ],
   [
