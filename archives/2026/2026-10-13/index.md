@@ -14,6 +14,7 @@
 * [2026-10-13, 21:57:29](https://news.ycombinator.com/item?id=50079464) - [AlphaNIST](https://alpha-nist.github.io/)
 * [2026-10-13, 21:55:25](https://news.ycombinator.com/item?id=50079437) - [Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)
 * [2026-10-13, 21:54:24](https://news.ycombinator.com/item?id=50079417) - [Nexus-Q: un motor open source de Rust para PQC](https://nexus-q.link/)
+* [2026-10-13, 21:42:38](https://news.ycombinator.com/item?id=50079280) - [New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete](https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete)
 * [2026-10-13, 21:06:33](https://news.ycombinator.com/item?id=50078757) - [Marshall Islands Stick Chart](https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart)
 * [2026-10-13, 21:01:12](https://news.ycombinator.com/item?id=50078686) - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
 * [2026-10-13, 20:49:13](https://news.ycombinator.com/item?id=50078524) - [Turn an old junk phone into a Talking Jack-O-Lantern](https://jack-o.io/)
