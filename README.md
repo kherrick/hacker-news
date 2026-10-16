@@ -3,7 +3,6 @@
 * [2026-10-16, 21:01:23](https://news.ycombinator.com/item?id=50124642) - [Why harnesses matter for energy (and token) efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
 * [2026-10-16, 20:33:41](https://news.ycombinator.com/item?id=50124251) - [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314)
 * [2026-10-16, 19:47:13](https://news.ycombinator.com/item?id=50123580) - [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
-* [2026-10-16, 19:33:00](https://news.ycombinator.com/item?id=50123356) - [The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)
 * [2026-10-16, 19:04:47](https://news.ycombinator.com/item?id=50122951) - [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
 * [2026-10-16, 19:01:17](https://news.ycombinator.com/item?id=50122878) - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
 * [2026-10-16, 18:55:59](https://news.ycombinator.com/item?id=50122800) - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
@@ -28,6 +27,7 @@
 * [2026-10-14, 16:33:48](https://news.ycombinator.com/item?id=50090453) - [PGO or not PGO this is the dilemma. Step 2](https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/)
 * [2026-10-14, 07:21:12](https://news.ycombinator.com/item?id=50083673) - [Wireless magnetic millirobots that deliver medicine inside the beating heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)
 * [2026-10-13, 23:10:04](https://news.ycombinator.com/item?id=50080246) - [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](https://wonderhop.io/en/)
+* [2026-10-13, 19:40:29](https://news.ycombinator.com/item?id=50077462) - [The Bawdy Graffiti of Pompeii and Herculaneum (2017)](https://kashgar.com.au/blogs/history/the-bawdy-graffiti-of-pompeii-and-herculaneu)
 * [2026-10-13, 18:11:46](https://news.ycombinator.com/item?id=50076089) - [Monte-Carlo Simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
 * [2026-10-13, 16:26:03](https://news.ycombinator.com/item?id=50074322) - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/)
 
