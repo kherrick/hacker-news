@@ -12,6 +12,7 @@
 * [2026-10-16, 15:56:25](https://news.ycombinator.com/item?id=50120010) - [America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program](https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation)
 * [2026-10-16, 15:55:40](https://news.ycombinator.com/item?id=50119991) - [Postgres 19 delayed after AI reviewers find more bugs than humans can fix](https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471)
 * [2026-10-16, 15:38:35](https://news.ycombinator.com/item?id=50119752) - [Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS](https://onedeploy.co)
+* [2026-10-16, 15:38:28](https://news.ycombinator.com/item?id=50119751) - [A story of WiFi secrets, UART lockdowns and a damaged flash memory chip](https://adepts.of0x.cc/eufy-homestation2-firmware/)
 * [2026-10-16, 14:44:17](https://news.ycombinator.com/item?id=50118981) - [Hello Toronto – Waymo Is En Route](https://waymo.com/blog/2026/10/waymo-in-toronto/)
 * [2026-10-16, 14:44:02](https://news.ycombinator.com/item?id=50118977) - [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
 * [2026-10-16, 14:41:24](https://news.ycombinator.com/item?id=50118950) - [Show HN: Grimoire for Biology](https://grimoire.bio)
