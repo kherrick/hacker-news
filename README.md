@@ -9,7 +9,7 @@
 * [2026-10-16, 16:03:02](https://news.ycombinator.com/item?id=50120101) - [US Rep Announces Congressional Legislation to Protect Video Game Ownership](https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games)
 * [2026-10-16, 15:56:25](https://news.ycombinator.com/item?id=50120010) - [Inside Polymarket's paid quote-retweet esports program](https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation)
 * [2026-10-16, 15:55:40](https://news.ycombinator.com/item?id=50119991) - [Postgres 19 delayed after AI reviewers find more bugs than humans can fix](https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471)
-* [2026-10-16, 15:38:35](https://news.ycombinator.com/item?id=50119752) - [Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS](https://onedeploy.co)
+* [2026-10-16, 15:38:28](https://news.ycombinator.com/item?id=50119751) - [A story of WiFi secrets, UART lockdowns and a damaged flash memory chip](https://adepts.of0x.cc/eufy-homestation2-firmware/)
 * [2026-10-16, 14:44:02](https://news.ycombinator.com/item?id=50118977) - [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
 * [2026-10-16, 14:35:43](https://news.ycombinator.com/item?id=50118876) - [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/)
 * [2026-10-16, 14:31:43](https://news.ycombinator.com/item?id=50118828) - [What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain)
