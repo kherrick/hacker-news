@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="50122800">
+          <h3>
+            <a
+              class="item"
+              href="https://www.anthropic.com/research/ecdsa-curve-origins"
+              >Claude reveals ECDSA curve origins</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-16 @ 18:55:59</span
+              ><span class="points-container"
+                >Points: <span class="points">109</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50122800"
+                  >Comments</a
+                ><span class="descendants">: 31</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="50122431">
           <h3>
             <a class="item" href="https://github.com/cobanov/PS5LM"
@@ -140,11 +161,11 @@
             <h4>
               <span>2026-10-16 @ 18:32:35</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50122431"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -161,11 +182,11 @@
             <h4>
               <span>2026-10-16 @ 18:11:42</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50122112"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -183,11 +204,11 @@
             <h4>
               <span>2026-10-16 @ 18:06:17</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50122034"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -204,13 +225,125 @@
             <h4>
               <span>2026-10-16 @ 18:00:18</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50121939"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="50121601">
+          <h3><a class="item" href="https://gifcities.org/">GifCities</a></h3>
+          <section>
+            <h4>
+              <span>2026-10-16 @ 17:35:07</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50121601"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a
+                href="https://twitter.com/internetarchive/status/2111140945705963787"
+                >https://twitter.com/internetarchive/status/21111409457059637...</a
+              >
+            </div>
+          </section>
+        </section>
+        <section id="50121562">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=50121562"
+              >Anthropic Console overcharged my card 100x due to
+              internationalization input bug</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-16 @ 17:31:42</span
+              ><span class="points-container"
+                >Points: <span class="points">42</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50121562"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The platform prompted me for a payment. Since I am in a
+                Spanish-speaking region where localized systems and keyboards
+                handle dots and commas differently, I typed 5.04.
+              </p>
+              <p>
+                Anthropic’s input system completely failed to sanitize or
+                validate the data. Instead of throwing a formatting error or
+                converting it properly, it silently stripped the decimal
+                internally and instantly charged my credit card $504.00 USD
+                instead of $5.04 USD.
+              </p>
+              <p>
+                To make matters worse, there was no confirmation modal or review
+                screen summarizing the final amount before processing the
+                transaction. It was a single-click, instantaneous overcharge.
+              </p>
+              <p>
+                Anticipating the Obvious Skepticism: Before anyone suggests "you
+                should have checked your regional settings" or "just wait for
+                the chargeback":
+              </p>
+              <p>
+                1. Users are not the QA team: In financial software, a system is
+                never supposed to guess or automatically manipulate a numerical
+                input without explicit validation. If an input is ambiguous due
+                to locale differences, the application must reject it or ask for
+                clarification, not execute a 100x overcharge.
+              </p>
+              <p>
+                2. Scale of the vulnerability: This time it was $504.00, which
+                is an unfair and frustrating burden for independent developers.
+                But because this pipeline completely lacks a confirmation screen
+                and basic input sanitization, the exact same bug could happen to
+                someone typing 50.00 and end up charging them $5,000.00 or more
+                instantly. It is a systemic financial risk.
+              </p>
+              <p>
+                3. The Chargeback Illusion: Yes, I have already initiated a
+                chargeback with my bank in Costa Rica. However, banking
+                processes here are slow and take up to 120 days to resolve. In
+                the meantime, the $504.00 has already been deducted and charged
+                to my credit card statement. I am forced to pay for Anthropic’s
+                engineering mistake out of my own pocket right now.
+              </p>
+              <p>
+                The Support Wall: I filed an official complaint on the exact
+                same day, minutes after it happened. I wasn't met with a human;
+                I was blocked by an automated support BOT. The bot repeatedly
+                and rigidly denied the refund, closing the ticket by citing
+                generic policies without a single human ever looking at the fact
+                that the overcharge was caused by a technical bug in their own
+                platform.
+              </p>
+              <p>
+                As developers, we build systems that process people's money.
+                Omitting a confirmation screen on a financial transaction,
+                failing to sanitize localized numerical inputs, and then hiding
+                behind unyielding AI support bots to keep money that doesn't
+                belong to you is completely unacceptable.
+              </p>
+              <p>
+                If anyone from Anthropic's billing or engineering team is
+                reading this, please look into this bug and review my case. It
+                is a critical flaw that is actively harming international
+                developers who are just trying to build on your ecosystem.
+              </p>
+              <p>Pura vida!</p>
+              <p>R.S.G.</p>
+            </div>
           </section>
         </section>
         <section id="50121188">
@@ -243,11 +376,30 @@
             <h4>
               <span>2026-10-16 @ 17:08:38</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50121179"
                   >Comments</a
-                ><span class="descendants">: 180</span></span
+                ><span class="descendants">: 191</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50121004">
+          <h3>
+            <a class="item" href="https://dev-null.sh"
+              >/dev/null: social network for developers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-16 @ 16:57:49</span
+              ><span class="points-container"
+                >Points: <span class="points">49</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50121004"
+                  >Comments</a
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -264,11 +416,11 @@
             <h4>
               <span>2026-10-16 @ 16:12:02</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50120224"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -286,11 +438,11 @@
             <h4>
               <span>2026-10-16 @ 16:03:02</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50120101"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -329,33 +481,11 @@
             <h4>
               <span>2026-10-16 @ 15:55:40</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50119991"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50119751">
-          <h3>
-            <a
-              class="item"
-              href="https://adepts.of0x.cc/eufy-homestation2-firmware/"
-              >A story of WiFi secrets, UART lockdowns and a damaged flash
-              memory chip</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-16 @ 15:38:28</span
-              ><span class="points-container"
-                >Points: <span class="points">15</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50119751"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -370,7 +500,7 @@
             <h4>
               <span>2026-10-16 @ 14:44:02</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50118977"
                   >Comments</a
@@ -408,11 +538,11 @@
             <h4>
               <span>2026-10-16 @ 14:31:43</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50118828"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -427,11 +557,11 @@
             <h4>
               <span>2026-10-16 @ 14:18:44</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50118688"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
             <div class="text">
@@ -457,7 +587,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50118662"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -474,11 +604,11 @@
             <h4>
               <span>2026-10-16 @ 13:43:48</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">204</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50118320"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -495,11 +625,11 @@
             <h4>
               <span>2026-10-16 @ 13:38:25</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50118267"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -516,11 +646,11 @@
             <h4>
               <span>2026-10-16 @ 12:52:08</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">245</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50117746"
                   >Comments</a
-                ><span class="descendants">: 164</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
           </section>
@@ -535,11 +665,11 @@
             <h4>
               <span>2026-10-16 @ 01:32:45</span
               ><span class="points-container"
-                >Points: <span class="points">636</span></span
+                >Points: <span class="points">645</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50112657"
                   >Comments</a
-                ><span class="descendants">: 1039</span></span
+                ><span class="descendants">: 1053</span></span
               >
             </h4>
             <div class="text">
@@ -565,11 +695,11 @@
             <h4>
               <span>2026-10-15 @ 23:23:51</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50111752"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -588,28 +718,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50104965"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50096574">
-          <h3>
-            <a
-              class="item"
-              href="https://www.lrb.co.uk/the-paper/v48/n18/ian-penman/ab-fab"
-              >AB Fab – On Anthony Burgess</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-14 @ 22:46:07</span
-              ><span class="points-container"
-                >Points: <span class="points">6</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50096574"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -625,30 +734,11 @@
             <h4>
               <span>2026-10-14 @ 12:44:07</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50086838"
                   >Comments</a
                 ><span class="descendants">: 7</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50085553">
-          <h3>
-            <a class="item" href="https://github.com/mixelpixx/Konnect"
-              >AI-assisted PCB design for KiCad 10</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-14 @ 10:51:37</span
-              ><span class="points-container"
-                >Points: <span class="points">119</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50085553"
-                  >Comments</a
-                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -663,75 +753,13 @@
             <h4>
               <span>2026-10-14 @ 09:32:09</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50084790"
                   >Comments</a
                 ><span class="descendants">: 30</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="50080246">
-          <h3>
-            <a class="item" href="https://wonderhop.io/en/"
-              >Show HN: Wonderhop – A daily game: guess what most people say, or
-              what none do</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-13 @ 23:10:04</span
-              ><span class="points-container"
-                >Points: <span class="points">30</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50080246"
-                  >Comments</a
-                ><span class="descendants">: 36</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Wonderhop is a small browser game with no account needed to
-                play, everyday there are 4 rounds of 7 quesitons like "Name a
-                food that a lot of people hate" The goal depends on the mode:
-                Either gives the answer most people would give, the one no one
-                would give, the oldest answer or the most recent one and there's
-                a leaderboard for the day.
-              </p>
-              <p>
-                The most interesting part of the project was understanding
-                answers that are typed freely and in 10 languages, there was
-                some typos, plurals, nickname, or even duplicate way of sayign
-                the same thing. We needed AI judge that checks it really existes
-                conencted to some API like wikipedia to judge the veracity of
-                each answer really quickly (less than 1s on average)
-              </p>
-              <p>
-                The percentage starts from an estimate but move really fast with
-                the answers of real players. If the list missed a good answer,
-                it gets added as soon as a few different players give it.
-              </p>
-              <p>
-                (There are also a lot of secrets and pop culture references
-                added in the game :) )
-              </p>
-              <p>
-                A large part of the code was written with AI tools, but the
-                artistic direction the concept and every choice design are
-                human-made
-              </p>
-              <p>
-                We'd love to know if the goal is clear from the very first
-                question while playing and were any good answers rejected
-                unfairly
-              </p>
-              <p>
-                We are a couple of developers from Montreal that like guessing
-                games so we built this in about two month.
-              </p>
-              <p>Thanks a lot!</p>
-            </div>
           </section>
         </section>
         <section id="50077225">
@@ -746,7 +774,7 @@
             <h4>
               <span>2026-10-13 @ 19:25:18</span
               ><span class="points-container"
-                >Points: <span class="points">227</span></span
+                >Points: <span class="points">229</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50077225"
                   >Comments</a
@@ -768,11 +796,11 @@
             <h4>
               <span>2026-10-13 @ 16:26:03</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50074322"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -788,11 +816,11 @@
             <h4>
               <span>2026-10-13 @ 02:32:53</span
               ><span class="points-container"
-                >Points: <span class="points">766</span></span
+                >Points: <span class="points">771</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50065859"
                   >Comments</a
-                ><span class="descendants">: 233</span></span
+                ><span class="descendants">: 234</span></span
               >
             </h4>
           </section>
