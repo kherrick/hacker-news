@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-16, 00:52:35](https://news.ycombinator.com/item?id=50112330) - [RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
 * [2026-10-15, 23:22:53](https://news.ycombinator.com/item?id=50111742) - [BeBox is a Haiku application that emulates Be Inc.'s BeBox](https://github.com/johnrash/bebox)
 * [2026-10-15, 23:17:50](https://news.ycombinator.com/item?id=50111708) - [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
 * [2026-10-15, 20:23:25](https://news.ycombinator.com/item?id=50109715) - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
@@ -15,7 +16,6 @@
 * [2026-10-15, 15:03:17](https://news.ycombinator.com/item?id=50104726) - [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
 * [2026-10-15, 14:58:48](https://news.ycombinator.com/item?id=50104654) - [Simons Foundation launches $15M effort to help mathematicians navigate AI era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
 * [2026-10-15, 14:35:15](https://news.ycombinator.com/item?id=50104299) - [Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
-* [2026-10-15, 13:44:32](https://news.ycombinator.com/item?id=50103630) - [I know why the mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
 * [2026-10-15, 13:23:44](https://news.ycombinator.com/item?id=50103338) - [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
 * [2026-10-15, 13:11:26](https://news.ycombinator.com/item?id=50103164) - [C++26 Contracts: Introduction to Preconditions and Postconditions](https://www.cppstories.com/2026/cpp26_contracts/)
 * [2026-10-15, 12:52:16](https://news.ycombinator.com/item?id=50102923) - [Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
