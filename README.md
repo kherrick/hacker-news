@@ -2,7 +2,6 @@
 
 * [2026-10-16, 17:08:55](https://news.ycombinator.com/item?id=50121188) - [Piramidal (YC W24) Is Hiring](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009)
 * [2026-10-16, 17:08:38](https://news.ycombinator.com/item?id=50121179) - [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/)
-* [2026-10-16, 16:38:02](https://news.ycombinator.com/item?id=50120664) - [Desire to Move Permanently to U.S. at New Low](https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx)
 * [2026-10-16, 16:12:02](https://news.ycombinator.com/item?id=50120224) - [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 * [2026-10-16, 16:03:02](https://news.ycombinator.com/item?id=50120101) - [US Rep Announces Congressional Legislation to Protect Video Game Ownership](https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games)
 * [2026-10-16, 15:56:25](https://news.ycombinator.com/item?id=50120010) - [Inside Polymarket's paid quote-retweet esports program](https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation)
@@ -21,6 +20,7 @@
 * [2026-10-16, 12:52:08](https://news.ycombinator.com/item?id=50117746) - [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
 * [2026-10-16, 12:22:13](https://news.ycombinator.com/item?id=50117504) - [Bark: The Toll-Free BBS for 90s Teens](https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens)
 * [2026-10-16, 05:11:28](https://news.ycombinator.com/item?id=50114342) - [The Folders Programming Language](https://danieltemkin.com/esolangs/folders)
+* [2026-10-16, 01:32:45](https://news.ycombinator.com/item?id=50112657) - [Tesla Roadster](https://www.tesla.com/roadster)
 * [2026-10-15, 23:23:51](https://news.ycombinator.com/item?id=50111752) - [Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]](https://www.youtube.com/watch?v=eF6bMSjPepM)
 * [2026-10-15, 15:20:04](https://news.ycombinator.com/item?id=50104965) - [How gyroscopes got so small [video]](https://www.youtube.com/watch?v=0Zc_6xB5W3Y)
 * [2026-10-14, 12:44:07](https://news.ycombinator.com/item?id=50086838) - [Making 1,750 programmable PCB badges for Canada's biggest hackathon](https://va3ndf.com/blog/hacker-badges/)
