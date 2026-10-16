@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-16](index.md)
 
+* [2026-10-16, 15:56:25](https://news.ycombinator.com/item?id=50120010) - [America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program](https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation)
 * [2026-10-16, 15:38:35](https://news.ycombinator.com/item?id=50119752) - [Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS](https://onedeploy.co)
 * [2026-10-16, 14:44:17](https://news.ycombinator.com/item?id=50118981) - [Hello Toronto – Waymo Is En Route](https://waymo.com/blog/2026/10/waymo-in-toronto/)
 * [2026-10-16, 14:44:02](https://news.ycombinator.com/item?id=50118977) - [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
+* [2026-10-16, 14:41:24](https://news.ycombinator.com/item?id=50118950) - [Show HN: Grimoire for Biology](https://grimoire.bio)
 * [2026-10-16, 14:35:43](https://news.ycombinator.com/item?id=50118876) - [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/)
 * [2026-10-16, 14:34:47](https://news.ycombinator.com/item?id=50118863) - [Redesigning Source Control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/)
 * [2026-10-16, 14:31:43](https://news.ycombinator.com/item?id=50118828) - [What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain)
@@ -17,6 +19,7 @@
 * [2026-10-16, 13:43:48](https://news.ycombinator.com/item?id=50118320) - [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
 * [2026-10-16, 13:43:30](https://news.ycombinator.com/item?id=50118318) - [What was a Token Ring network?](https://dfarq.homeip.net/what-was-a-token-ring-network/)
 * [2026-10-16, 13:38:25](https://news.ycombinator.com/item?id=50118267) - [RFC8950: Announce IPv4 with an IPv6 next-hop](https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/)
+* [2026-10-16, 13:18:59](https://news.ycombinator.com/item?id=50118048) - [My old job feels distant now](https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/)
 * [2026-10-16, 13:09:25](https://news.ycombinator.com/item?id=50117952) - [Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities](https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations)
 * [2026-10-16, 12:52:08](https://news.ycombinator.com/item?id=50117746) - [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
 * [2026-10-16, 12:22:13](https://news.ycombinator.com/item?id=50117504) - [Bark: The Toll-Free BBS for 90s Teens](https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens)
