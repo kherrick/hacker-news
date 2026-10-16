@@ -64,6 +64,7 @@
 * [2026-10-14, 12:01:16](https://news.ycombinator.com/item?id=50086313) - [Smart people don't think others are stupid](https://sive.rs/ss)
 * [2026-10-14, 11:47:53](https://news.ycombinator.com/item?id=50086165) - [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
 * [2026-10-14, 10:55:57](https://news.ycombinator.com/item?id=50085607) - [Xi's 'death watch' will become a global spectacle](https://www.semafor.com/article/10/13/2026/xis-death-watch-will-become-a-global-spectacle)
+* [2026-10-14, 10:51:37](https://news.ycombinator.com/item?id=50085553) - [AI-assisted PCB design for KiCad 10](https://github.com/mixelpixx/Konnect)
 * [2026-10-14, 10:50:45](https://news.ycombinator.com/item?id=50085547) - [The road we were told not to take](https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter)
 * [2026-10-14, 10:29:56](https://news.ycombinator.com/item?id=50085332) - [Show HN: Building an LLM from Scratch in TypeScript](https://book.humanexperiences.io/)
 * [2026-10-14, 10:28:26](https://news.ycombinator.com/item?id=50085323) - [TV4 postpones show after AI agent erases edited material](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-16](index.md)
 
 * [2026-10-16, 09:54:55](https://news.ycombinator.com/item?id=50116367) - [Japanese people still aren't having sex. And nobody knows why](https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience)
+* [2026-10-16, 09:40:47](https://news.ycombinator.com/item?id=50116255) - [Tesla's new Roadster makes a flying debut, hitting 60 MPH in under a second](https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second)
 * [2026-10-16, 07:12:09](https://news.ycombinator.com/item?id=50115144) - [The insider trading you're allowed to do](https://coached.com/essays/the-insider-trading-youre-allowed-to-do/)
 * [2026-10-16, 05:14:42](https://news.ycombinator.com/item?id=50114359) - [Last rites for Gentoo's Chromium package](https://lwn.net/Articles/1097760/)
 * [2026-10-16, 05:11:28](https://news.ycombinator.com/item?id=50114342) - [The Folders Programming Language](https://danieltemkin.com/esolangs/folders)
