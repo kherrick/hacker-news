@@ -37,6 +37,7 @@
 * [2026-10-14, 16:52:42](https://news.ycombinator.com/item?id=50090799) - [Has AI Tells](https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1)
 * [2026-10-14, 16:45:19](https://news.ycombinator.com/item?id=50090662) - [Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges](https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges)
 * [2026-10-14, 16:34:53](https://news.ycombinator.com/item?id=50090484) - [I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice](https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/)
+* [2026-10-14, 16:33:48](https://news.ycombinator.com/item?id=50090453) - [PGO or not PGO this is the dilemma. Step 2](https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/)
 * [2026-10-14, 16:33:34](https://news.ycombinator.com/item?id=50090443) - [The Emperor Pelican Has No Clothes](https://arcfu.com/post/the-emperor-pelican-has-no-clothes/)
 * [2026-10-14, 16:29:33](https://news.ycombinator.com/item?id=50090369) - [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse)
 * [2026-10-14, 16:28:51](https://news.ycombinator.com/item?id=50090349) - [Google is silently linking your phone number across all signed-in accounts](https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/)
