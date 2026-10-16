@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-16, 09:40:47](https://news.ycombinator.com/item?id=50116255) - [Tesla's new Roadster makes a flying debut, hitting 60 MPH in under a second](https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second)
+* [2026-10-16, 12:16:42](https://news.ycombinator.com/item?id=50117451) - [Qualcomm Legally Proves Arm Breached Its License, Wins $2](https://www.techpowerup.com/353776/qualcomm-legally-proves-arm-breached-its-license-wins-usd-2)
 * [2026-10-16, 05:11:28](https://news.ycombinator.com/item?id=50114342) - [The Folders Programming Language](https://danieltemkin.com/esolangs/folders)
 * [2026-10-16, 01:56:37](https://news.ycombinator.com/item?id=50112887) - [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
 * [2026-10-16, 01:43:17](https://news.ycombinator.com/item?id=50112739) - [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
