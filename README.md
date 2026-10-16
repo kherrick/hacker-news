@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-16, 21:01:23](https://news.ycombinator.com/item?id=50124642) - [Why harnesses matter for energy (and token) efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
 * [2026-10-16, 20:33:41](https://news.ycombinator.com/item?id=50124251) - [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314)
 * [2026-10-16, 19:47:13](https://news.ycombinator.com/item?id=50123580) - [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
 * [2026-10-16, 19:33:00](https://news.ycombinator.com/item?id=50123356) - [The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)
 * [2026-10-16, 19:04:47](https://news.ycombinator.com/item?id=50122951) - [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
 * [2026-10-16, 19:01:17](https://news.ycombinator.com/item?id=50122878) - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
 * [2026-10-16, 18:55:59](https://news.ycombinator.com/item?id=50122800) - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
-* [2026-10-16, 18:54:47](https://news.ycombinator.com/item?id=50122776) - [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money)
 * [2026-10-16, 18:52:39](https://news.ycombinator.com/item?id=50122736) - [C++26: The New Debugging Header](https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging)
 * [2026-10-16, 18:32:35](https://news.ycombinator.com/item?id=50122431) - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
 * [2026-10-16, 18:11:42](https://news.ycombinator.com/item?id=50122112) - [Anthropic assigned highest junk credit rating in June](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d)
