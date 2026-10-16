@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-16, 00:52:35](https://news.ycombinator.com/item?id=50112330) - [RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
+* [2026-10-15, 23:37:42](https://news.ycombinator.com/item?id=50111852) - [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
 * [2026-10-15, 23:22:53](https://news.ycombinator.com/item?id=50111742) - [BeBox is a Haiku application that emulates Be Inc.'s BeBox](https://github.com/johnrash/bebox)
-* [2026-10-15, 23:17:50](https://news.ycombinator.com/item?id=50111708) - [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
 * [2026-10-15, 20:23:25](https://news.ycombinator.com/item?id=50109715) - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 * [2026-10-15, 19:55:49](https://news.ycombinator.com/item?id=50109375) - [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
 * [2026-10-15, 19:21:38](https://news.ycombinator.com/item?id=50108872) - [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
@@ -12,7 +12,6 @@
 * [2026-10-15, 16:04:05](https://news.ycombinator.com/item?id=50105648) - [Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3)
 * [2026-10-15, 16:04:01](https://news.ycombinator.com/item?id=50105647) - [Neural networks are clean](https://already-clean.goodfire.com/)
 * [2026-10-15, 16:03:19](https://news.ycombinator.com/item?id=50105635) - [Steam Client is now faster than Epic's new vibe coded launcher](https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/)
-* [2026-10-15, 15:52:08](https://news.ycombinator.com/item?id=50105467) - [Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering](https://proa.so/)
 * [2026-10-15, 15:03:17](https://news.ycombinator.com/item?id=50104726) - [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
 * [2026-10-15, 14:58:48](https://news.ycombinator.com/item?id=50104654) - [Simons Foundation launches $15M effort to help mathematicians navigate AI era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
 * [2026-10-15, 14:35:15](https://news.ycombinator.com/item?id=50104299) - [Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
@@ -28,6 +27,7 @@
 * [2026-10-14, 05:08:09](https://news.ycombinator.com/item?id=50082637) - [The 8-mile hole in a Hawaii national park that no one can explain](https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php)
 * [2026-10-13, 23:00:46](https://news.ycombinator.com/item?id=50080155) - [Delta’s Biscoff cookies were supposed to be temporary](https://www.seriouseats.com/biscoff-history-12168161)
 * [2026-10-13, 12:30:08](https://news.ycombinator.com/item?id=50070625) - [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
+* [2026-10-13, 12:20:03](https://news.ycombinator.com/item?id=50070510) - [Speculative Sauropods](https://svpow.com/2026/10/02/speculative-sauropods/)
 * [2026-10-13, 10:21:17](https://news.ycombinator.com/item?id=50069439) - [Major ICQ security hole (1998)](https://opennet.ru/base/maillist/169.txt.html)
 * [2026-10-13, 07:52:54](https://news.ycombinator.com/item?id=50068203) - [Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat](https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge)
 
