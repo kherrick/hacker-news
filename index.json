@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-10-16, 19:04:47",
+      "https://news.ycombinator.com/item?id=50122951"
+    ],
+    [
+      "Claude writes about 90% of Claude Code's code",
+      "https://claude.dev/blog/solving-code-review-at-anthropic/"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 19:03:32",
+      "https://news.ycombinator.com/item?id=50122920"
+    ],
+    [
+      "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+      "https://words.filippo.io/seeds-solved/"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 18:55:59",
       "https://news.ycombinator.com/item?id=50122800"
     ],
     [
       "Claude reveals ECDSA curve origins",
       "https://www.anthropic.com/research/ecdsa-curve-origins"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 18:54:47",
+      "https://news.ycombinator.com/item?id=50122776"
+    ],
+    [
+      "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+      "https://stoke.money"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 18:54:22",
+      "https://news.ycombinator.com/item?id=50122767"
+    ],
+    [
+      "Weatherdeck – a read-only status board for AI coding agent lanes",
+      "https://github.com/Moshik21/weatherdeck"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 18:52:39",
+      "https://news.ycombinator.com/item?id=50122736"
+    ],
+    [
+      "C++26: The New Debugging Header",
+      "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging"
     ]
   ],
   [
@@ -61,16 +111,6 @@
   ],
   [
     [
-      "2026-10-16, 17:31:42",
-      "https://news.ycombinator.com/item?id=50121562"
-    ],
-    [
-      "Anthropic Console overcharged my card 100x due to internationalization input bug",
-      "https://news.ycombinator.com/item?id=50121562"
-    ]
-  ],
-  [
-    [
       "2026-10-16, 17:08:55",
       "https://news.ycombinator.com/item?id=50121188"
     ],
@@ -121,42 +161,12 @@
   ],
   [
     [
-      "2026-10-16, 15:56:25",
-      "https://news.ycombinator.com/item?id=50120010"
-    ],
-    [
-      "Inside Polymarket's paid quote-retweet esports program",
-      "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 15:55:40",
-      "https://news.ycombinator.com/item?id=50119991"
-    ],
-    [
-      "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
-    ]
-  ],
-  [
-    [
       "2026-10-16, 14:44:02",
       "https://news.ycombinator.com/item?id=50118977"
     ],
     [
       "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
       "https://calif.io/research/big-fish"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 14:35:43",
-      "https://news.ycombinator.com/item?id=50118876"
-    ],
-    [
-      "Show HN: rStation – A shared research lab for your AI agents",
-      "https://rstation.ai/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-10-15, 15:20:04",
-      "https://news.ycombinator.com/item?id=50104965"
-    ],
-    [
-      "How gyroscopes got so small [video]",
-      "https://www.youtube.com/watch?v=0Zc_6xB5W3Y"
-    ]
-  ],
-  [
-    [
       "2026-10-14, 12:44:07",
       "https://news.ycombinator.com/item?id=50086838"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-10-14, 09:32:09",
-      "https://news.ycombinator.com/item?id=50084790"
-    ],
-    [
-      "The Economic Complexity of the Western Roman Empire",
-      "https://www.michelecoscia.com/?p=2613"
-    ]
-  ],
-  [
-    [
       "2026-10-13, 19:25:18",
       "https://news.ycombinator.com/item?id=50077225"
     ],
     [
       "Yet another way to invoke functions without parentheses",
       "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/"
+    ]
+  ],
+  [
+    [
+      "2026-10-13, 18:11:46",
+      "https://news.ycombinator.com/item?id=50076089"
+    ],
+    [
+      "Monte-Carlo Simulations",
+      "https://eli.thegreenplace.net/2026/monte-carlo-simulations/"
     ]
   ],
   [
