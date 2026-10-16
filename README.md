@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-16, 21:01:23](https://news.ycombinator.com/item?id=50124642) - [Why harnesses matter for energy (and token) efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
 * [2026-10-16, 20:33:41](https://news.ycombinator.com/item?id=50124251) - [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314)
-* [2026-10-16, 19:47:13](https://news.ycombinator.com/item?id=50123580) - [Flux 3 Image Klein: open weights, 5.6B parameters](https://bfl.ai/blog/flux-3-image-klein)
+* [2026-10-16, 19:47:13](https://news.ycombinator.com/item?id=50123580) - [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
 * [2026-10-16, 19:33:00](https://news.ycombinator.com/item?id=50123356) - [The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)
 * [2026-10-16, 19:04:47](https://news.ycombinator.com/item?id=50122951) - [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
 * [2026-10-16, 19:01:17](https://news.ycombinator.com/item?id=50122878) - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
@@ -23,6 +22,7 @@
 * [2026-10-16, 14:31:43](https://news.ycombinator.com/item?id=50118828) - [What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain)
 * [2026-10-16, 14:18:44](https://news.ycombinator.com/item?id=50118688) - [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
 * [2026-10-16, 13:43:48](https://news.ycombinator.com/item?id=50118320) - [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
+* [2026-10-16, 13:43:30](https://news.ycombinator.com/item?id=50118318) - [What was a Token Ring network?](https://dfarq.homeip.net/what-was-a-token-ring-network/)
 * [2026-10-16, 13:38:25](https://news.ycombinator.com/item?id=50118267) - [RFC8950: Announce IPv4 with an IPv6 next-hop](https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/)
 * [2026-10-16, 12:52:08](https://news.ycombinator.com/item?id=50117746) - [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
 * [2026-10-16, 01:32:45](https://news.ycombinator.com/item?id=50112657) - [Tesla Roadster](https://www.tesla.com/roadster)
