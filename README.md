@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-16, 05:14:42](https://news.ycombinator.com/item?id=50114359) - [Last rites for Gentoo's Chromium package](https://lwn.net/Articles/1097760/)
+* [2026-10-16, 05:11:28](https://news.ycombinator.com/item?id=50114342) - [The Folders Programming Language](https://danieltemkin.com/esolangs/folders)
 * [2026-10-16, 01:56:37](https://news.ycombinator.com/item?id=50112887) - [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
 * [2026-10-16, 01:43:17](https://news.ycombinator.com/item?id=50112739) - [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
 * [2026-10-16, 00:52:40](https://news.ycombinator.com/item?id=50112331) - [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
@@ -10,7 +11,6 @@
 * [2026-10-15, 20:23:25](https://news.ycombinator.com/item?id=50109715) - [What I self-host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 * [2026-10-15, 19:55:49](https://news.ycombinator.com/item?id=50109375) - [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
 * [2026-10-15, 19:21:38](https://news.ycombinator.com/item?id=50108872) - [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
-* [2026-10-15, 18:38:16](https://news.ycombinator.com/item?id=50108229) - [E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
 * [2026-10-15, 17:47:39](https://news.ycombinator.com/item?id=50107379) - [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
 * [2026-10-15, 16:24:52](https://news.ycombinator.com/item?id=50106023) - [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/)
 * [2026-10-15, 16:11:36](https://news.ycombinator.com/item?id=50105777) - [BIPM decides to stop adding leap seconds to UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
