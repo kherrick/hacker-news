@@ -59,6 +59,7 @@
 * [2026-10-14, 13:20:02](https://news.ycombinator.com/item?id=50087328) - [Switzerland proposes banning profiling-based ads to minors](https://www.admin.ch/en/newnsb/NMn5s24l8NjQ)
 * [2026-10-14, 12:58:32](https://news.ycombinator.com/item?id=50087044) - [RIP Eric Binnion](https://ma.tt/2026/10/rip-eric/)
 * [2026-10-14, 12:40:55](https://news.ycombinator.com/item?id=50086794) - [CPI-U rises 7.2% annualized in September (3.7% YoY)](https://www.bls.gov/news.release/cpi.nr0.htm?)
+* [2026-10-14, 12:22:36](https://news.ycombinator.com/item?id=50086576) - [Men with Queer Nerves: The Jumping Frenchmen of Maine](https://publicdomainreview.org/essay/the-jumping-frenchmen-of-maine)
 * [2026-10-14, 12:16:35](https://news.ycombinator.com/item?id=50086484) - [The Aaronson Oracle](https://aaronsonoracle.com/)
 * [2026-10-14, 12:05:44](https://news.ycombinator.com/item?id=50086363) - [Nvidia's first GPU: GeForce 256](https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/)
 * [2026-10-14, 12:01:16](https://news.ycombinator.com/item?id=50086313) - [Smart people don't think others are stupid](https://sive.rs/ss)

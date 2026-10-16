@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-15](index.md)
 
 * [2026-10-15, 23:37:42](https://news.ycombinator.com/item?id=50111852) - [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+* [2026-10-15, 23:23:51](https://news.ycombinator.com/item?id=50111752) - [Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]](https://www.youtube.com/watch?v=eF6bMSjPepM)
 * [2026-10-15, 23:22:53](https://news.ycombinator.com/item?id=50111742) - [BeBox is a Haiku application that emulates Be Inc.'s BeBox](https://github.com/johnrash/bebox)
 * [2026-10-15, 23:17:50](https://news.ycombinator.com/item?id=50111708) - [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
 * [2026-10-15, 22:11:24](https://news.ycombinator.com/item?id=50111112) - [Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI](https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai)
@@ -31,6 +32,7 @@
 * [2026-10-15, 16:03:19](https://news.ycombinator.com/item?id=50105635) - [Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher](https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/)
 * [2026-10-15, 15:52:08](https://news.ycombinator.com/item?id=50105467) - [Show HN: Proa – a Rust web framework with fast SSR and multi-target rendering](https://proa.so/)
 * [2026-10-15, 15:44:36](https://news.ycombinator.com/item?id=50105344) - [I designed a nose guard for my dog and gave it away. Now 500 dogs wear one](https://snoutcover.com/one-year)
+* [2026-10-15, 15:20:04](https://news.ycombinator.com/item?id=50104965) - [Gyroscopes Got So Small [video]](https://www.youtube.com/watch?v=0Zc_6xB5W3Y)
 * [2026-10-15, 15:03:17](https://news.ycombinator.com/item?id=50104726) - [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
 * [2026-10-15, 14:58:48](https://news.ycombinator.com/item?id=50104654) - [Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
 * [2026-10-15, 14:47:39](https://news.ycombinator.com/item?id=50104465) - [Siri is so bad at everything](https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/)
