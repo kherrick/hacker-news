@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-16](index.md)
 
+* [2026-10-16, 18:11:42](https://news.ycombinator.com/item?id=50122112) - [Anthropic assigned highest junk credit rating in June](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d)
 * [2026-10-16, 18:06:17](https://news.ycombinator.com/item?id=50122034) - [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear)
 * [2026-10-16, 18:00:18](https://news.ycombinator.com/item?id=50121939) - [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
 * [2026-10-16, 17:08:55](https://news.ycombinator.com/item?id=50121188) - [Piramidal (YC W24) Is Hiring](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009)
