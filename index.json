@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-15, 23:22:53",
+      "https://news.ycombinator.com/item?id=50111742"
+    ],
+    [
+      "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "https://github.com/johnrash/bebox"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 23:17:50",
+      "https://news.ycombinator.com/item?id=50111708"
+    ],
+    [
+      "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/"
+    ]
+  ],
+  [
+    [
       "2026-10-15, 20:23:25",
       "https://news.ycombinator.com/item?id=50109715"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-10-15, 14:36:22",
-      "https://news.ycombinator.com/item?id=50104310"
-    ],
-    [
-      "Prompt injection in HTTP headers: what 217M web responses show",
-      "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/"
-    ]
-  ],
-  [
-    [
       "2026-10-15, 14:35:15",
       "https://news.ycombinator.com/item?id=50104299"
     ],
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2026-10-14, 19:26:30",
-      "https://news.ycombinator.com/item?id=50093568"
-    ],
-    [
-      "Things to know when you get cancer",
-      "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 10:13:39",
-      "https://news.ycombinator.com/item?id=50085171"
-    ],
-    [
-      "Game of Life – But Multiplayer, Hypermedia and Python",
-      "https://stario.dev/apps/life"
-    ]
-  ],
-  [
-    [
       "2026-10-14, 09:17:06",
       "https://news.ycombinator.com/item?id=50084674"
     ],
@@ -297,6 +287,16 @@
     [
       "Major ICQ security hole (1998)",
       "https://opennet.ru/base/maillist/169.txt.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-13, 07:52:54",
+      "https://news.ycombinator.com/item?id=50068203"
+    ],
+    [
+      "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge"
     ]
   ]
 ]
