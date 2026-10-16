@@ -88,6 +88,7 @@
 * [2026-10-14, 06:02:16](https://news.ycombinator.com/item?id=50083028) - [Why is every rationalist blog post way too long?](https://alexwennerberg.com/blog/2026-10-13-long.html)
 * [2026-10-14, 05:53:36](https://news.ycombinator.com/item?id=50082962) - [Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse](https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866)
 * [2026-10-14, 05:08:09](https://news.ycombinator.com/item?id=50082637) - [The 8-mile hole in a Hawaii national park that no one can explain](https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php)
+* [2026-10-14, 04:55:40](https://news.ycombinator.com/item?id=50082554) - [MS Paint Adds Freeform Rotation (2026)](https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/)
 * [2026-10-14, 04:42:33](https://news.ycombinator.com/item?id=50082470) - [Felix Rieseberg Homepage](https://felixrieseberg.com/)
 * [2026-10-14, 03:41:42](https://news.ycombinator.com/item?id=50082113) - [New York City's iconic horse-drawn carriages expected to take their last trot](https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban)
 * [2026-10-14, 03:28:00](https://news.ycombinator.com/item?id=50082021) - [Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord](https://strafe.chat/)
