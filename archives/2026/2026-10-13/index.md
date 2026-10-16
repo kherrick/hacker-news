@@ -34,6 +34,7 @@
 * [2026-10-13, 16:57:57](https://news.ycombinator.com/item?id=50074909) - [Show HN: How Random Are You?](https://lab.specr.net/rigged-draw/)
 * [2026-10-13, 16:55:47](https://news.ycombinator.com/item?id=50074869) - [Gemini 4 Argon for Robotics Blog](https://developers.googleblog.com/gemini-4-argon-for-robotics/)
 * [2026-10-13, 16:48:18](https://news.ycombinator.com/item?id=50074739) - [Americans Trust in Federal Government Sinks to New Depths](https://news.gallup.com/poll/715361/trust-federal-government-sinks-new-depths.aspx)
+* [2026-10-13, 16:26:03](https://news.ycombinator.com/item?id=50074322) - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/)
 * [2026-10-13, 16:24:15](https://news.ycombinator.com/item?id=50074289) - [Cyberattack halts construction of tunnel between Denmark and Germany](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24)
 * [2026-10-13, 16:03:16](https://news.ycombinator.com/item?id=50073879) - [Gemini 4 Argon](https://deepmind.google/models/gemini/)
 * [2026-10-13, 15:49:56](https://news.ycombinator.com/item?id=50073633) - [Redesigning Source Control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)

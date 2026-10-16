@@ -7,6 +7,7 @@
 * [2026-10-16, 14:44:17](https://news.ycombinator.com/item?id=50118981) - [Hello Toronto – Waymo Is En Route](https://waymo.com/blog/2026/10/waymo-in-toronto/)
 * [2026-10-16, 14:44:02](https://news.ycombinator.com/item?id=50118977) - [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
 * [2026-10-16, 14:34:47](https://news.ycombinator.com/item?id=50118863) - [Redesigning Source Control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/)
+* [2026-10-16, 14:31:43](https://news.ycombinator.com/item?id=50118828) - [What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain)
 * [2026-10-16, 14:18:44](https://news.ycombinator.com/item?id=50118688) - [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
 * [2026-10-16, 14:16:34](https://news.ycombinator.com/item?id=50118662) - [How to make System 1 LLMs show System 2 competencies?](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113)
 * [2026-10-16, 14:01:53](https://news.ycombinator.com/item?id=50118512) - [How to Formalize All of Mathematics](https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/)
