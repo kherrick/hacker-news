@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-16, 02:04:26](https://news.ycombinator.com/item?id=50112963) - [Woman arrested after blocking delivery robot in Center City Philadelphia](https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/)
+* [2026-10-16, 01:56:37](https://news.ycombinator.com/item?id=50112887) - [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
 * [2026-10-16, 01:43:17](https://news.ycombinator.com/item?id=50112739) - [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
 * [2026-10-16, 01:32:45](https://news.ycombinator.com/item?id=50112657) - [Tesla Roadster](https://www.tesla.com/roadster)
-* [2026-10-16, 01:04:18](https://news.ycombinator.com/item?id=50112421) - [Turn your regular JavaScript code into a neural net](https://chenglou.me/handwired/)
 * [2026-10-16, 00:52:40](https://news.ycombinator.com/item?id=50112331) - [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
 * [2026-10-16, 00:52:35](https://news.ycombinator.com/item?id=50112330) - [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
 * [2026-10-15, 23:37:42](https://news.ycombinator.com/item?id=50111852) - [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
