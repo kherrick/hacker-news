@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-10-16](index.md)
 
+* [2026-10-16, 19:04:47](https://news.ycombinator.com/item?id=50122951) - [Claude writes about 90% of Claude Code's code](https://claude.dev/blog/solving-code-review-at-anthropic/)
+* [2026-10-16, 19:03:32](https://news.ycombinator.com/item?id=50122920) - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
 * [2026-10-16, 18:55:59](https://news.ycombinator.com/item?id=50122800) - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+* [2026-10-16, 18:54:47](https://news.ycombinator.com/item?id=50122776) - [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money)
+* [2026-10-16, 18:54:22](https://news.ycombinator.com/item?id=50122767) - [Weatherdeck – a read-only status board for AI coding agent lanes](https://github.com/Moshik21/weatherdeck)
+* [2026-10-16, 18:52:39](https://news.ycombinator.com/item?id=50122736) - [C++26: The New Debugging Header](https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging)
 * [2026-10-16, 18:32:35](https://news.ycombinator.com/item?id=50122431) - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
 * [2026-10-16, 18:11:42](https://news.ycombinator.com/item?id=50122112) - [Anthropic assigned highest junk credit rating in June](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d)
 * [2026-10-16, 18:06:17](https://news.ycombinator.com/item?id=50122034) - [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear)
