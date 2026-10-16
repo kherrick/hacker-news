@@ -22,7 +22,6 @@
 * [2026-10-15, 12:52:16](https://news.ycombinator.com/item?id=50102923) - [Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
 * [2026-10-15, 11:38:57](https://news.ycombinator.com/item?id=50102247) - [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/)
 * [2026-10-15, 10:43:36](https://news.ycombinator.com/item?id=50101813) - [AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
-* [2026-10-15, 01:02:05](https://news.ycombinator.com/item?id=50097843) - [The engineering that allows articulated buses to bend](https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/)
 * [2026-10-14, 09:17:06](https://news.ycombinator.com/item?id=50084674) - [Why I Wrote PGP (1991, revised 1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 * [2026-10-13, 23:00:46](https://news.ycombinator.com/item?id=50080155) - [Delta’s Biscoff cookies were supposed to be temporary](https://www.seriouseats.com/biscoff-history-12168161)
 * [2026-10-13, 14:14:20](https://news.ycombinator.com/item?id=50072119) - ['500-hour' Order of the Sinking Star is as complex and exhausting as it sounds](https://www.polygon.com/order-of-the-sinking-star-impressions/)
@@ -30,6 +29,7 @@
 * [2026-10-13, 10:21:17](https://news.ycombinator.com/item?id=50069439) - [Major ICQ security hole (1998)](https://opennet.ru/base/maillist/169.txt.html)
 * [2026-10-13, 07:52:54](https://news.ycombinator.com/item?id=50068203) - [Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat](https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge)
 * [2026-10-13, 02:32:53](https://news.ycombinator.com/item?id=50065859) - [Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]](https://www.youtube.com/watch?v=sjNpfz4UzqU)
+* [2026-10-12, 16:46:30](https://news.ycombinator.com/item?id=50059094) - [Casio F-91W using Statecharts](https://github.com/dundalek/casio-f91w-fsm)
 
 ## [Archives](archives/index.md)
 

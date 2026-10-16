@@ -48,6 +48,7 @@
 * [2026-10-12, 16:54:08](https://news.ycombinator.com/item?id=50059204) - [Thinking Will Become a Hobby](https://www.spinellis.gr/blog/20261008/?li261008)
 * [2026-10-12, 16:48:01](https://news.ycombinator.com/item?id=50059115) - [Muse Wonder](https://research.meta.ai/blog/muse-wonder)
 * [2026-10-12, 16:46:34](https://news.ycombinator.com/item?id=50059096) - [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
+* [2026-10-12, 16:46:30](https://news.ycombinator.com/item?id=50059094) - [Casio F-91W using Statecharts](https://github.com/dundalek/casio-f91w-fsm)
 * [2026-10-12, 16:31:55](https://news.ycombinator.com/item?id=50058850) - [Reverse engineer anything with agents, from app behavior down to native binaries](https://github.com/morluto/rea)
 * [2026-10-12, 16:20:26](https://news.ycombinator.com/item?id=50058649) - [IDRs as Records of Intent](https://wrla.ch/log/2026/10/idrs-as-records-of-intent/)
 * [2026-10-12, 16:15:28](https://news.ycombinator.com/item?id=50058569) - [French supermarkets suffer refrigerator shutdown after unprecedented cyberattack](https://www.afp.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack)
