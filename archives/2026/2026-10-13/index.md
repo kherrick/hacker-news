@@ -6,6 +6,7 @@
 
 * [2026-10-13, 23:37:33](https://news.ycombinator.com/item?id=50080464) - [FastH3-Omni: The best open-source H3 model](https://www.reactor.inc/models/fast-h3-omni)
 * [2026-10-13, 23:13:23](https://news.ycombinator.com/item?id=50080275) - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
+* [2026-10-13, 23:10:04](https://news.ycombinator.com/item?id=50080246) - [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](https://wonderhop.io/en/)
 * [2026-10-13, 23:00:46](https://news.ycombinator.com/item?id=50080155) - [Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love](https://www.seriouseats.com/biscoff-history-12168161)
 * [2026-10-13, 22:46:49](https://news.ycombinator.com/item?id=50080007) - [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
 * [2026-10-13, 22:33:33](https://news.ycombinator.com/item?id=50079865) - [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
