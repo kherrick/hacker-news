@@ -49,6 +49,7 @@
 * [2026-10-13, 14:00:06](https://news.ycombinator.com/item?id=50071902) - [Bookofjoe's Favorite Thing: Best Pill Splitter](https://bookofjoe2.blogspot.com/2026/09/bookofjoes-favorite-thing-worlds-best.html)
 * [2026-10-13, 13:36:21](https://news.ycombinator.com/item?id=50071546) - [your C is not standard C](https://sebsite.pw/w/20261012-notstdc.html)
 * [2026-10-13, 13:31:43](https://news.ycombinator.com/item?id=50071466) - [Same Job, Two Engines: InnoDB and Iceberg Internals](https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/)
+* [2026-10-13, 13:22:11](https://news.ycombinator.com/item?id=50071319) - [4 Years of Ludicon](https://www.ludicon.com/castano/blog/2026/10/4-years-of-ludicon/)
 * [2026-10-13, 13:21:35](https://news.ycombinator.com/item?id=50071310) - [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
 * [2026-10-13, 13:14:09](https://news.ycombinator.com/item?id=50071200) - [Show HN: Stream live open data in two commands](https://docs.hypermass.io/docs/cli/)
 * [2026-10-13, 13:05:46](https://news.ycombinator.com/item?id=50071068) - [Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster](https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/)

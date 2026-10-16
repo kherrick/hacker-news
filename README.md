@@ -27,7 +27,7 @@
 * [2026-10-14, 09:17:06](https://news.ycombinator.com/item?id=50084674) - [Why I Wrote PGP (1991, revised 1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 * [2026-10-13, 23:00:46](https://news.ycombinator.com/item?id=50080155) - [Delta’s Biscoff cookies were supposed to be temporary](https://www.seriouseats.com/biscoff-history-12168161)
 * [2026-10-13, 14:14:20](https://news.ycombinator.com/item?id=50072119) - ['500-hour' Order of the Sinking Star is as complex and exhausting as it sounds](https://www.polygon.com/order-of-the-sinking-star-impressions/)
-* [2026-10-13, 12:20:03](https://news.ycombinator.com/item?id=50070510) - [Speculative Sauropods](https://svpow.com/2026/10/02/speculative-sauropods/)
+* [2026-10-13, 13:22:11](https://news.ycombinator.com/item?id=50071319) - [4 Years of Ludicon](https://www.ludicon.com/castano/blog/2026/10/4-years-of-ludicon/)
 * [2026-10-13, 10:21:17](https://news.ycombinator.com/item?id=50069439) - [Major ICQ security hole (1998)](https://opennet.ru/base/maillist/169.txt.html)
 * [2026-10-13, 07:52:54](https://news.ycombinator.com/item?id=50068203) - [Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat](https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge)
 
