@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-10-16, 01:32:45",
+      "https://news.ycombinator.com/item?id=50112657"
+    ],
+    [
+      "Tesla Roadster",
+      "https://www.tesla.com/roadster"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 00:52:35",
       "https://news.ycombinator.com/item?id=50112330"
     ],
     [
-      "RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago",
+      "RPKI now protects 70% of internet routes",
       "https://ipinfo.io/blog/rpki-protects-70-internet-routes"
     ]
   ],
@@ -27,6 +37,16 @@
     [
       "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
       "https://github.com/johnrash/bebox"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 23:17:50",
+      "https://news.ycombinator.com/item?id=50111708"
+    ],
+    [
+      "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-10-15, 14:58:48",
-      "https://news.ycombinator.com/item?id=50104654"
-    ],
-    [
-      "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/"
-    ]
-  ],
-  [
-    [
       "2026-10-15, 14:35:15",
       "https://news.ycombinator.com/item?id=50104299"
     ],
@@ -157,16 +167,6 @@
     [
       "Wayland desktop for Linux with skeuomorphic design",
       "https://github.com/fyzugx/DEsk"
-    ]
-  ],
-  [
-    [
-      "2026-10-15, 13:11:26",
-      "https://news.ycombinator.com/item?id=50103164"
-    ],
-    [
-      "C++26 Contracts: Introduction to Preconditions and Postconditions",
-      "https://www.cppstories.com/2026/cpp26_contracts/"
     ]
   ],
   [
