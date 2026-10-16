@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-16, 04:27:54](https://news.ycombinator.com/item?id=50114077) - [Tesla makes cars that fly? [video]](https://www.youtube.com/watch?v=7p5LxFdc-Qg)
 * [2026-10-16, 01:56:37](https://news.ycombinator.com/item?id=50112887) - [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
 * [2026-10-16, 01:43:17](https://news.ycombinator.com/item?id=50112739) - [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
 * [2026-10-16, 00:52:40](https://news.ycombinator.com/item?id=50112331) - [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
@@ -19,7 +20,6 @@
 * [2026-10-15, 14:35:15](https://news.ycombinator.com/item?id=50104299) - [Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
 * [2026-10-15, 13:23:44](https://news.ycombinator.com/item?id=50103338) - [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
 * [2026-10-15, 12:52:16](https://news.ycombinator.com/item?id=50102923) - [Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
-* [2026-10-15, 11:38:57](https://news.ycombinator.com/item?id=50102247) - [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/)
 * [2026-10-15, 10:43:36](https://news.ycombinator.com/item?id=50101813) - [AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
 * [2026-10-15, 07:20:39](https://news.ycombinator.com/item?id=50100387) - [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
 * [2026-10-15, 01:02:05](https://news.ycombinator.com/item?id=50097843) - [The engineering that allows articulated buses to bend](https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/)
