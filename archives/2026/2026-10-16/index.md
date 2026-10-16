@@ -8,6 +8,7 @@
 * [2026-10-16, 19:33:00](https://news.ycombinator.com/item?id=50123356) - [The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)
 * [2026-10-16, 19:04:47](https://news.ycombinator.com/item?id=50122951) - [Claude writes about 90% of Claude Code's code](https://claude.dev/blog/solving-code-review-at-anthropic/)
 * [2026-10-16, 19:03:32](https://news.ycombinator.com/item?id=50122920) - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
+* [2026-10-16, 19:01:17](https://news.ycombinator.com/item?id=50122878) - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
 * [2026-10-16, 18:55:59](https://news.ycombinator.com/item?id=50122800) - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 * [2026-10-16, 18:54:47](https://news.ycombinator.com/item?id=50122776) - [Show HN: Stoke Money – Personal finance app built around a cash flow forecast](https://stoke.money)
 * [2026-10-16, 18:54:22](https://news.ycombinator.com/item?id=50122767) - [Weatherdeck – a read-only status board for AI coding agent lanes](https://github.com/Moshik21/weatherdeck)
