@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=50122951"
     ],
     [
-      "Claude writes about 90% of Claude Code's code",
+      "How the Claude Code team does code review",
       "https://claude.dev/blog/solving-code-review-at-anthropic/"
     ]
   ],
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-10-16, 15:55:40",
-      "https://news.ycombinator.com/item?id=50119991"
-    ],
-    [
-      "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
-    ]
-  ],
-  [
-    [
       "2026-10-16, 14:44:02",
       "https://news.ycombinator.com/item?id=50118977"
     ],
@@ -197,6 +187,16 @@
     [
       "Show HN: Gemini 4 Argon plays StarCraft",
       "https://starskirmish.com/bench/v0-2/"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 14:16:34",
+      "https://news.ycombinator.com/item?id=50118662"
+    ],
+    [
+      "How to make System 1 LLMs show System 2 competencies?",
+      "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113"
     ]
   ],
   [
