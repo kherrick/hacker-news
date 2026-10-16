@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-16](index.md)
 
+* [2026-10-16, 13:09:25](https://news.ycombinator.com/item?id=50117952) - [Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities](https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations)
 * [2026-10-16, 12:52:08](https://news.ycombinator.com/item?id=50117746) - [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
+* [2026-10-16, 12:22:13](https://news.ycombinator.com/item?id=50117504) - [Bark: The Toll-Free BBS for 90s Teens](https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens)
 * [2026-10-16, 12:16:42](https://news.ycombinator.com/item?id=50117451) - [Qualcomm Legally Proves Arm Breached Its License, Wins $2](https://www.techpowerup.com/353776/qualcomm-legally-proves-arm-breached-its-license-wins-usd-2)
 * [2026-10-16, 09:54:55](https://news.ycombinator.com/item?id=50116367) - [Japanese people still aren't having sex. And nobody knows why](https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience)
 * [2026-10-16, 09:40:47](https://news.ycombinator.com/item?id=50116255) - [Tesla's new Roadster makes a flying debut, hitting 60 MPH in under a second](https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second)
