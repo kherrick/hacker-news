@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-16, 05:14:42](https://news.ycombinator.com/item?id=50114359) - [Last rites for Gentoo's Chromium package](https://lwn.net/Articles/1097760/)
 * [2026-10-16, 01:56:37](https://news.ycombinator.com/item?id=50112887) - [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
 * [2026-10-16, 01:43:17](https://news.ycombinator.com/item?id=50112739) - [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
 * [2026-10-16, 00:52:40](https://news.ycombinator.com/item?id=50112331) - [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
@@ -19,10 +20,9 @@
 * [2026-10-15, 14:35:15](https://news.ycombinator.com/item?id=50104299) - [Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
 * [2026-10-15, 13:23:44](https://news.ycombinator.com/item?id=50103338) - [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
 * [2026-10-15, 12:52:16](https://news.ycombinator.com/item?id=50102923) - [Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
-* [2026-10-15, 11:38:57](https://news.ycombinator.com/item?id=50102247) - [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/)
-* [2026-10-15, 10:43:36](https://news.ycombinator.com/item?id=50101813) - [AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
 * [2026-10-15, 01:02:05](https://news.ycombinator.com/item?id=50097843) - [The engineering that allows articulated buses to bend](https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/)
 * [2026-10-14, 09:17:06](https://news.ycombinator.com/item?id=50084674) - [Why I Wrote PGP (1991, revised 1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
+* [2026-10-14, 03:41:42](https://news.ycombinator.com/item?id=50082113) - [New York City's iconic horse-drawn carriages expected to take their last trot](https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban)
 * [2026-10-13, 23:00:46](https://news.ycombinator.com/item?id=50080155) - [Delta’s Biscoff cookies were supposed to be temporary](https://www.seriouseats.com/biscoff-history-12168161)
 * [2026-10-13, 14:14:20](https://news.ycombinator.com/item?id=50072119) - ['500-hour' Order of the Sinking Star is as complex and exhausting as it sounds](https://www.polygon.com/order-of-the-sinking-star-impressions/)
 * [2026-10-13, 13:22:11](https://news.ycombinator.com/item?id=50071319) - [4 Years of Ludicon](https://www.ludicon.com/castano/blog/2026/10/4-years-of-ludicon/)
