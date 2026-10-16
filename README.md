@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-16, 12:52:08](https://news.ycombinator.com/item?id=50117746) - [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
-* [2026-10-16, 12:16:42](https://news.ycombinator.com/item?id=50117451) - [Qualcomm Legally Proves Arm Breached Its License, Wins $2](https://www.techpowerup.com/353776/qualcomm-legally-proves-arm-breached-its-license-wins-usd-2)
 * [2026-10-16, 05:11:28](https://news.ycombinator.com/item?id=50114342) - [The Folders Programming Language](https://danieltemkin.com/esolangs/folders)
 * [2026-10-16, 01:56:37](https://news.ycombinator.com/item?id=50112887) - [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
 * [2026-10-16, 01:43:17](https://news.ycombinator.com/item?id=50112739) - [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
@@ -24,6 +23,7 @@
 * [2026-10-14, 09:32:09](https://news.ycombinator.com/item?id=50084790) - [The Economic Complexity of the Western Roman Empire](https://www.michelecoscia.com/?p=2613)
 * [2026-10-14, 09:17:06](https://news.ycombinator.com/item?id=50084674) - [Why I Wrote PGP (1991, revised 1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 * [2026-10-14, 04:55:40](https://news.ycombinator.com/item?id=50082554) - [MS Paint Adds Freeform Rotation (2026)](https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/)
+* [2026-10-13, 23:00:46](https://news.ycombinator.com/item?id=50080155) - [Delta’s Biscoff cookies were supposed to be temporary](https://www.seriouseats.com/biscoff-history-12168161)
 * [2026-10-13, 21:42:38](https://news.ycombinator.com/item?id=50079280) - [New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete](https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete)
 * [2026-10-13, 19:25:18](https://news.ycombinator.com/item?id=50077225) - [Yet another way to invoke functions without parentheses](https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/)
 * [2026-10-13, 14:40:03](https://news.ycombinator.com/item?id=50072485) - [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/)
