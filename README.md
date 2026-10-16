@@ -26,10 +26,10 @@
 * [2026-10-16, 12:52:08](https://news.ycombinator.com/item?id=50117746) - [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
 * [2026-10-16, 01:32:45](https://news.ycombinator.com/item?id=50112657) - [Tesla Roadster](https://www.tesla.com/roadster)
 * [2026-10-15, 02:07:15](https://news.ycombinator.com/item?id=50098281) - [Symmetries in Boolean Scan](https://ap29600.github.io/boolean_scans.html)
+* [2026-10-14, 12:44:07](https://news.ycombinator.com/item?id=50086838) - [Making 1,750 programmable PCB badges for Canada's biggest hackathon](https://va3ndf.com/blog/hacker-badges/)
 * [2026-10-13, 23:10:04](https://news.ycombinator.com/item?id=50080246) - [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](https://wonderhop.io/en/)
 * [2026-10-13, 18:11:46](https://news.ycombinator.com/item?id=50076089) - [Monte-Carlo Simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
 * [2026-10-13, 16:26:03](https://news.ycombinator.com/item?id=50074322) - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/)
-* [2026-10-13, 02:32:53](https://news.ycombinator.com/item?id=50065859) - [Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]](https://www.youtube.com/watch?v=sjNpfz4UzqU)
 
 ## [Archives](archives/index.md)
 
