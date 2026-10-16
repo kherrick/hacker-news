@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-10-16](index.md)
 
+* [2026-10-16, 15:38:35](https://news.ycombinator.com/item?id=50119752) - [Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS](https://onedeploy.co)
 * [2026-10-16, 14:44:17](https://news.ycombinator.com/item?id=50118981) - [Hello Toronto – Waymo Is En Route](https://waymo.com/blog/2026/10/waymo-in-toronto/)
 * [2026-10-16, 14:44:02](https://news.ycombinator.com/item?id=50118977) - [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
+* [2026-10-16, 14:35:43](https://news.ycombinator.com/item?id=50118876) - [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/)
 * [2026-10-16, 14:34:47](https://news.ycombinator.com/item?id=50118863) - [Redesigning Source Control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/)
 * [2026-10-16, 14:31:43](https://news.ycombinator.com/item?id=50118828) - [What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain)
 * [2026-10-16, 14:18:44](https://news.ycombinator.com/item?id=50118688) - [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
 * [2026-10-16, 14:16:34](https://news.ycombinator.com/item?id=50118662) - [How to make System 1 LLMs show System 2 competencies?](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113)
+* [2026-10-16, 14:12:15](https://news.ycombinator.com/item?id=50118624) - [Tesla Unveils 'Flying' Roadster with SpaceX Thrusters [video]](https://www.youtube.com/watch?v=eqOfmtTJD1A)
 * [2026-10-16, 14:01:53](https://news.ycombinator.com/item?id=50118512) - [How to Formalize All of Mathematics](https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/)
 * [2026-10-16, 13:43:48](https://news.ycombinator.com/item?id=50118320) - [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
 * [2026-10-16, 13:43:30](https://news.ycombinator.com/item?id=50118318) - [What was a Token Ring network?](https://dfarq.homeip.net/what-was-a-token-ring-network/)
