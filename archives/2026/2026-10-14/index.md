@@ -87,6 +87,7 @@
 * [2026-10-14, 08:49:06](https://news.ycombinator.com/item?id=50084416) - [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
 * [2026-10-14, 08:27:59](https://news.ycombinator.com/item?id=50084240) - [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
 * [2026-10-14, 07:30:49](https://news.ycombinator.com/item?id=50083766) - [Why Sweden is abandoning its cashless society](https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html)
+* [2026-10-14, 07:21:12](https://news.ycombinator.com/item?id=50083673) - [Wireless magnetic millirobots that deliver medicine inside the beating heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)
 * [2026-10-14, 06:18:01](https://news.ycombinator.com/item?id=50083130) - [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
 * [2026-10-14, 06:02:16](https://news.ycombinator.com/item?id=50083028) - [Why is every rationalist blog post way too long?](https://alexwennerberg.com/blog/2026-10-13-long.html)
 * [2026-10-14, 05:53:36](https://news.ycombinator.com/item?id=50082962) - [Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse](https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866)
