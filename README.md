@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-16, 12:52:08](https://news.ycombinator.com/item?id=50117746) - [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
+* [2026-10-16, 12:16:42](https://news.ycombinator.com/item?id=50117451) - [Qualcomm Legally Proves Arm Breached Its License, Wins $2](https://www.techpowerup.com/353776/qualcomm-legally-proves-arm-breached-its-license-wins-usd-2)
 * [2026-10-16, 05:11:28](https://news.ycombinator.com/item?id=50114342) - [The Folders Programming Language](https://danieltemkin.com/esolangs/folders)
 * [2026-10-16, 01:56:37](https://news.ycombinator.com/item?id=50112887) - [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
 * [2026-10-16, 01:43:17](https://news.ycombinator.com/item?id=50112739) - [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
@@ -27,7 +28,6 @@
 * [2026-10-13, 21:42:38](https://news.ycombinator.com/item?id=50079280) - [New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete](https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete)
 * [2026-10-13, 19:25:18](https://news.ycombinator.com/item?id=50077225) - [Yet another way to invoke functions without parentheses](https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/)
 * [2026-10-13, 14:40:03](https://news.ycombinator.com/item?id=50072485) - [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/)
-* [2026-10-13, 14:14:20](https://news.ycombinator.com/item?id=50072119) - ['500-hour' Order of the Sinking Star is as complex and exhausting as it sounds](https://www.polygon.com/order-of-the-sinking-star-impressions/)
 * [2026-10-13, 07:52:54](https://news.ycombinator.com/item?id=50068203) - [Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat](https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge)
 * [2026-10-13, 02:32:53](https://news.ycombinator.com/item?id=50065859) - [Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]](https://www.youtube.com/watch?v=sjNpfz4UzqU)
 
