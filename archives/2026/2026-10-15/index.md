@@ -60,6 +60,7 @@
 * [2026-10-15, 07:55:34](https://news.ycombinator.com/item?id=50100640) - [What changes when your search index lives on S3?](https://infino.ai/blog/search-index-on-s3/)
 * [2026-10-15, 07:27:55](https://news.ycombinator.com/item?id=50100440) - [We Still Use Paper](https://humanpro.co/articles/we-still-use-paper/)
 * [2026-10-15, 07:20:39](https://news.ycombinator.com/item?id=50100387) - [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
+* [2026-10-15, 07:18:14](https://news.ycombinator.com/item?id=50100366) - [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
 * [2026-10-15, 04:25:28](https://news.ycombinator.com/item?id=50099136) - [Show HN: Flipflop, iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
 * [2026-10-15, 04:23:27](https://news.ycombinator.com/item?id=50099121) - [An Apology](https://www.elevationlab.com/blogs/news/an-apology)
 * [2026-10-15, 03:18:49](https://news.ycombinator.com/item?id=50098702) - [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct)
