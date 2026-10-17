@@ -50,6 +50,7 @@
 * [2026-10-14, 15:31:15](https://news.ycombinator.com/item?id=50089229) - [Submarine Cable Resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
 * [2026-10-14, 15:23:31](https://news.ycombinator.com/item?id=50089052) - [Why are all these data companies buying internal data?](https://apnews.com/press-release/newsfile/press-release-2dc1342f34a40e5953ab80c2f4bd4fdd)
 * [2026-10-14, 15:23:27](https://news.ycombinator.com/item?id=50089051) - [Olympus: Correcting the power dynamic of code (2024)](https://danieltemkin.com/Esolangs/Olympus/)
+* [2026-10-14, 15:15:58](https://news.ycombinator.com/item?id=50088937) - [California is building a $400M shield for Yosemite's most dangerous highway](https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php)
 * [2026-10-14, 15:15:45](https://news.ycombinator.com/item?id=50088935) - [Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
 * [2026-10-14, 15:03:14](https://news.ycombinator.com/item?id=50088748) - [I built the RealWorld app in Lean 4](https://leangineer.com/blog/realworld-in-lean/)
 * [2026-10-14, 15:00:41](https://news.ycombinator.com/item?id=50088713) - [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle)
