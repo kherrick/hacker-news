@@ -151,22 +151,22 @@
   ],
   [
     [
+      "2026-10-16, 15:38:28",
+      "https://news.ycombinator.com/item?id=50119751"
+    ],
+    [
+      "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+      "https://adepts.of0x.cc/eufy-homestation2-firmware/"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 14:44:02",
       "https://news.ycombinator.com/item?id=50118977"
     ],
     [
       "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
       "https://calif.io/research/big-fish"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 14:31:43",
-      "https://news.ycombinator.com/item?id=50118828"
-    ],
-    [
-      "What on Earth Is Dekton?",
-      "https://www.worksinprogress.news/p/porcelain"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-10-16, 08:28:54",
-      "https://news.ycombinator.com/item?id=50115703"
-    ],
-    [
-      "Coconuts in Medieval Britain (2015)",
-      "https://www.themarysue.com/monty-python-holy-grail-coconuts/"
-    ]
-  ],
-  [
-    [
       "2026-10-16, 01:32:45",
       "https://news.ycombinator.com/item?id=50112657"
     ],
@@ -227,6 +217,16 @@
     [
       "Ultramarine 1 Flash",
       "https://www.paperinstruments.com/ultramarine"
+    ]
+  ],
+  [
+    [
+      "2026-10-14, 16:13:25",
+      "https://news.ycombinator.com/item?id=50090027"
+    ],
+    [
+      "Compiler bootstrapping depends on more than you might think",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges"
     ]
   ],
   [
