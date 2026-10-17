@@ -2,6 +2,7 @@
 
 * [2026-10-17, 02:21:08](https://news.ycombinator.com/item?id=50127274) - [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
 * [2026-10-17, 01:01:51](https://news.ycombinator.com/item?id=50126774) - [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
+* [2026-10-16, 23:52:04](https://news.ycombinator.com/item?id=50126334) - [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org)
 * [2026-10-16, 22:21:05](https://news.ycombinator.com/item?id=50125545) - [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
 * [2026-10-16, 19:47:13](https://news.ycombinator.com/item?id=50123580) - [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
 * [2026-10-16, 19:04:47](https://news.ycombinator.com/item?id=50122951) - [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
@@ -19,7 +20,6 @@
 * [2026-10-16, 14:31:43](https://news.ycombinator.com/item?id=50118828) - [What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain)
 * [2026-10-16, 14:18:44](https://news.ycombinator.com/item?id=50118688) - [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
 * [2026-10-16, 13:43:48](https://news.ycombinator.com/item?id=50118320) - [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
-* [2026-10-16, 13:43:30](https://news.ycombinator.com/item?id=50118318) - [What was a Token Ring network?](https://dfarq.homeip.net/what-was-a-token-ring-network/)
 * [2026-10-16, 12:52:08](https://news.ycombinator.com/item?id=50117746) - [I love software rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
 * [2026-10-16, 08:28:54](https://news.ycombinator.com/item?id=50115703) - [Coconuts in Medieval Britain (2015)](https://www.themarysue.com/monty-python-holy-grail-coconuts/)
 * [2026-10-16, 01:32:45](https://news.ycombinator.com/item?id=50112657) - [Tesla Roadster](https://www.tesla.com/roadster)
