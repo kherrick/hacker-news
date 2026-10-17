@@ -23,6 +23,7 @@
 * [2026-10-14, 18:43:57](https://news.ycombinator.com/item?id=50092847) - [How the Military Will Hack the Election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)
 * [2026-10-14, 18:37:21](https://news.ycombinator.com/item?id=50092730) - [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
 * [2026-10-14, 18:32:52](https://news.ycombinator.com/item?id=50092664) - [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
+* [2026-10-14, 18:32:17](https://news.ycombinator.com/item?id=50092655) - [Ultramarine 1 Flash: Frontier Model 100X Cheaper](https://www.paperinstruments.com/ultramarine)
 * [2026-10-14, 18:23:14](https://news.ycombinator.com/item?id=50092470) - [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
 * [2026-10-14, 18:21:14](https://news.ycombinator.com/item?id=50092423) - [Virtual Oxide Labs: Emulating a Full Oxide Rack](https://oxide.computer/blog/voxel-labs)
 * [2026-10-14, 18:20:44](https://news.ycombinator.com/item?id=50092415) - [Container ship sinks in Strait of Hormuz as Iran steps up attacks](https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html)
