@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-17, 09:08:16](https://news.ycombinator.com/item?id=50129274) - [\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf)
 * [2026-10-17, 08:37:46](https://news.ycombinator.com/item?id=50129121) - [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
@@ -28,7 +29,6 @@
 * [2026-10-14, 15:04:33](https://news.ycombinator.com/item?id=50088767) - [0/1 Knapsack Problem in PyTorch](https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg)
 * [2026-10-14, 15:03:14](https://news.ycombinator.com/item?id=50088748) - [I built the RealWorld app in Lean 4](https://leangineer.com/blog/realworld-in-lean/)
 * [2026-10-14, 07:21:12](https://news.ycombinator.com/item?id=50083673) - [Wireless magnetic millirobots that deliver medicine inside the beating heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)
-* [2026-10-13, 21:42:38](https://news.ycombinator.com/item?id=50079280) - [New 'super ice' 10 times stronger, bringing it close to the strength of concrete](https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete)
 * [2026-10-13, 18:11:46](https://news.ycombinator.com/item?id=50076089) - [Monte-Carlo Simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
 
 ## [Archives](archives/index.md)
