@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-17](index.md)
 
+* [2026-10-17, 17:02:50](https://news.ycombinator.com/item?id=50132839) - [Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers](https://www.artie.com/careers)
 * [2026-10-17, 16:10:21](https://news.ycombinator.com/item?id=50132328) - [GLP-1 may slow biological aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging)
 * [2026-10-17, 16:04:23](https://news.ycombinator.com/item?id=50132278) - [Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/)
 * [2026-10-17, 15:17:32](https://news.ycombinator.com/item?id=50131881) - [Ad-tech company was a delivery system for \"mercenary spyware\"](https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech)
