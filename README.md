@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-17, 04:08:27](https://news.ycombinator.com/item?id=50127839) - [\"In every study that considered the question\"](https://unsung.aresluna.org/in-every-study-that-considered-the-question/)
 * [2026-10-17, 02:21:08](https://news.ycombinator.com/item?id=50127274) - [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
 * [2026-10-17, 01:01:51](https://news.ycombinator.com/item?id=50126774) - [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
 * [2026-10-16, 23:52:04](https://news.ycombinator.com/item?id=50126334) - [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org)
@@ -12,7 +13,6 @@
 * [2026-10-16, 18:32:35](https://news.ycombinator.com/item?id=50122431) - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
 * [2026-10-16, 18:06:17](https://news.ycombinator.com/item?id=50122034) - [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear)
 * [2026-10-16, 18:00:18](https://news.ycombinator.com/item?id=50121939) - [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
-* [2026-10-16, 17:35:07](https://news.ycombinator.com/item?id=50121601) - [GifCities](https://gifcities.org/)
 * [2026-10-16, 17:08:38](https://news.ycombinator.com/item?id=50121179) - [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/)
 * [2026-10-16, 16:12:02](https://news.ycombinator.com/item?id=50120224) - [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 * [2026-10-16, 14:44:17](https://news.ycombinator.com/item?id=50118981) - [Waymo in Toronto](https://waymo.com/blog/2026/10/waymo-in-toronto/)
