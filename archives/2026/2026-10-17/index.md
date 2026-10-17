@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-17](index.md)
 
 * [2026-10-17, 15:17:32](https://news.ycombinator.com/item?id=50131881) - [Ad-tech company was a delivery system for \"mercenary spyware\"](https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech)
+* [2026-10-17, 14:22:05](https://news.ycombinator.com/item?id=50131440) - [US federal budget deficit jumps 12% in one year to nearly $2 Trillion](https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html)
 * [2026-10-17, 14:01:01](https://news.ycombinator.com/item?id=50131256) - [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
 * [2026-10-17, 13:55:28](https://news.ycombinator.com/item?id=50131213) - [Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
 * [2026-10-17, 13:51:08](https://news.ycombinator.com/item?id=50131189) - [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim)
