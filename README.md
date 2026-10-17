@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-17, 17:16:17](https://news.ycombinator.com/item?id=50132972) - [Elon Musk's foundation is opaque, miserly and self-serving](https://www.economist.com/business/2026/10/13/elon-musks-foundation-is-opaque-miserly-and-self-serving)
 * [2026-10-17, 17:02:50](https://news.ycombinator.com/item?id=50132839) - [Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers](https://www.artie.com/careers)
 * [2026-10-17, 16:31:12](https://news.ycombinator.com/item?id=50132502) - [OpenAI discloses four more rogue incidents](https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/)
 * [2026-10-17, 16:10:21](https://news.ycombinator.com/item?id=50132328) - [GLP-1 may slow biological aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging)
@@ -23,7 +24,6 @@
 * [2026-10-16, 01:32:45](https://news.ycombinator.com/item?id=50112657) - [Tesla Roadster](https://www.tesla.com/roadster)
 * [2026-10-15, 17:06:01](https://news.ycombinator.com/item?id=50106747) - [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
 * [2026-10-15, 15:06:52](https://news.ycombinator.com/item?id=50104783) - [Recipes Are Moving from Maven Central to the Code Genome Project](https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module)
-* [2026-10-15, 13:41:08](https://news.ycombinator.com/item?id=50103588) - [The cryptoint library (2025) [pdf]](https://cr.yp.to/papers/cryptoint-20250424.pdf)
 * [2026-10-15, 13:18:44](https://news.ycombinator.com/item?id=50103255) - [Intuitive concurrent programming in any language](https://www.lf-lang.org/)
 * [2026-10-15, 08:48:30](https://news.ycombinator.com/item?id=50100994) - [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
 * [2026-10-15, 07:55:34](https://news.ycombinator.com/item?id=50100640) - [What changes when your search index lives on S3?](https://infino.ai/blog/search-index-on-s3/)
