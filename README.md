@@ -4,6 +4,7 @@
 * [2026-10-17, 18:45:07](https://news.ycombinator.com/item?id=50133830) - [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
 * [2026-10-17, 18:34:13](https://news.ycombinator.com/item?id=50133736) - [Pattern Matching Beats Narrative Reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
 * [2026-10-17, 18:01:41](https://news.ycombinator.com/item?id=50133401) - [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
+* [2026-10-17, 17:45:08](https://news.ycombinator.com/item?id=50133231) - [Codex is EATING my Mac's disk space](https://github.com/openai/codex/issues/25921)
 * [2026-10-17, 17:36:17](https://news.ycombinator.com/item?id=50133150) - [I Became a Citizen of Japan](https://www.derekwessman.com/blog-1/natural)
 * [2026-10-17, 17:14:12](https://news.ycombinator.com/item?id=50132950) - [Development statistics for the 7.2 kernel](https://lwn.net/Articles/1088776/)
 * [2026-10-17, 17:06:07](https://news.ycombinator.com/item?id=50132870) - [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)
@@ -28,7 +29,6 @@
 * [2026-10-15, 08:48:30](https://news.ycombinator.com/item?id=50100994) - [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
 * [2026-10-15, 07:18:14](https://news.ycombinator.com/item?id=50100366) - [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
 * [2026-10-14, 20:41:36](https://news.ycombinator.com/item?id=50094887) - [Vintage Cassettes: 1963-2010](http://vintagecassettes.com/)
-* [2026-10-14, 15:58:44](https://news.ycombinator.com/item?id=50089727) - [Almost every dumbphone worth knowing about](https://slowerliving.club/phones/)
 * [2026-10-14, 04:23:25](https://news.ycombinator.com/item?id=50082358) - [A Tudor life in the time of plague (2020)](https://www.historytoday.com/archive/history-matters/tudor-life-time-plague)
 
 ## [Archives](archives/index.md)
