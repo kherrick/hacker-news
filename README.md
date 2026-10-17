@@ -29,7 +29,7 @@
 * [2026-10-15, 08:48:30](https://news.ycombinator.com/item?id=50100994) - [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
 * [2026-10-15, 07:18:14](https://news.ycombinator.com/item?id=50100366) - [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
 * [2026-10-14, 20:41:36](https://news.ycombinator.com/item?id=50094887) - [Vintage Cassettes: 1963-2010](http://vintagecassettes.com/)
-* [2026-10-14, 04:23:25](https://news.ycombinator.com/item?id=50082358) - [A Tudor life in the time of plague (2020)](https://www.historytoday.com/archive/history-matters/tudor-life-time-plague)
+* [2026-10-14, 17:00:31](https://news.ycombinator.com/item?id=50090927) - [Types of types: Haskell's Kind system](https://thunk.blog/posts/types-of-types-haskell-kind-system/)
 
 ## [Archives](archives/index.md)
 
