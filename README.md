@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-17, 06:19:44](https://news.ycombinator.com/item?id=50128468) - [Why Math Dumped OpenAI](https://raymyers.org/post/math-dumped-openai/)
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 * [2026-10-17, 02:21:08](https://news.ycombinator.com/item?id=50127274) - [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
 * [2026-10-17, 01:01:51](https://news.ycombinator.com/item?id=50126774) - [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
@@ -29,7 +30,6 @@
 * [2026-10-14, 07:21:12](https://news.ycombinator.com/item?id=50083673) - [Wireless magnetic millirobots that deliver medicine inside the beating heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)
 * [2026-10-13, 21:42:38](https://news.ycombinator.com/item?id=50079280) - [New 'super ice' 10 times stronger, bringing it close to the strength of concrete](https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete)
 * [2026-10-13, 18:11:46](https://news.ycombinator.com/item?id=50076089) - [Monte-Carlo Simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
-* [2026-10-13, 16:26:03](https://news.ycombinator.com/item?id=50074322) - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/)
 
 ## [Archives](archives/index.md)
 
