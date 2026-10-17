@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-17, 02:21:08](https://news.ycombinator.com/item?id=50127274) - [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
 * [2026-10-17, 01:01:51](https://news.ycombinator.com/item?id=50126774) - [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
 * [2026-10-16, 22:21:05](https://news.ycombinator.com/item?id=50125545) - [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
 * [2026-10-16, 21:01:23](https://news.ycombinator.com/item?id=50124642) - [Why harnesses matter for energy (and token) efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
@@ -24,7 +25,6 @@
 * [2026-10-16, 13:43:30](https://news.ycombinator.com/item?id=50118318) - [What was a Token Ring network?](https://dfarq.homeip.net/what-was-a-token-ring-network/)
 * [2026-10-16, 12:52:08](https://news.ycombinator.com/item?id=50117746) - [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
 * [2026-10-16, 01:32:45](https://news.ycombinator.com/item?id=50112657) - [Tesla Roadster](https://www.tesla.com/roadster)
-* [2026-10-14, 16:33:48](https://news.ycombinator.com/item?id=50090453) - [PGO or not PGO this is the dilemma. Step 2](https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/)
 * [2026-10-14, 15:03:14](https://news.ycombinator.com/item?id=50088748) - [I built the RealWorld app in Lean 4](https://leangineer.com/blog/realworld-in-lean/)
 * [2026-10-14, 07:21:12](https://news.ycombinator.com/item?id=50083673) - [Wireless magnetic millirobots that deliver medicine inside the beating heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)
 * [2026-10-13, 23:10:04](https://news.ycombinator.com/item?id=50080246) - [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](https://wonderhop.io/en/)
