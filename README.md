@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-17, 21:37:07](https://news.ycombinator.com/item?id=50135379) - [JDK 28](https://openjdk.org/projects/jdk/28/)
 * [2026-10-17, 20:07:33](https://news.ycombinator.com/item?id=50134617) - [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
-* [2026-10-17, 18:45:07](https://news.ycombinator.com/item?id=50133830) - [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
-* [2026-10-17, 18:34:13](https://news.ycombinator.com/item?id=50133736) - [Pattern matching beats narrative reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
+* [2026-10-17, 18:45:07](https://news.ycombinator.com/item?id=50133830) - [Microsoft and CMU team up to train early career software engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
 * [2026-10-17, 18:01:41](https://news.ycombinator.com/item?id=50133401) - [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
 * [2026-10-17, 17:45:08](https://news.ycombinator.com/item?id=50133231) - [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
 * [2026-10-17, 17:36:17](https://news.ycombinator.com/item?id=50133150) - [I Became a Citizen of Japan](https://www.derekwessman.com/blog-1/natural)
@@ -19,7 +19,6 @@
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 * [2026-10-17, 03:18:39](https://news.ycombinator.com/item?id=50127586) - [Source code of the Estonian online voting system](https://github.com/valimised/ivxv)
 * [2026-10-17, 03:16:25](https://news.ycombinator.com/item?id=50127572) - [A skeptic's first contact with Kubernetes (2024)](https://blog.davidv.dev/posts/first-contact-with-k8s/)
-* [2026-10-16, 23:58:34](https://news.ycombinator.com/item?id=50126384) - [Show HN: Things to Do API](https://thingstodoapi.com/)
 * [2026-10-16, 23:47:31](https://news.ycombinator.com/item?id=50126312) - [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/)
 * [2026-10-16, 23:38:27](https://news.ycombinator.com/item?id=50126253) - [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
 * [2026-10-16, 19:01:17](https://news.ycombinator.com/item?id=50122878) - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
@@ -29,6 +28,7 @@
 * [2026-10-15, 08:48:30](https://news.ycombinator.com/item?id=50100994) - [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
 * [2026-10-15, 07:18:14](https://news.ycombinator.com/item?id=50100366) - [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
 * [2026-10-14, 20:41:36](https://news.ycombinator.com/item?id=50094887) - [Vintage Cassettes: 1963-2010](http://vintagecassettes.com/)
+* [2026-10-14, 18:36:59](https://news.ycombinator.com/item?id=50092722) - [\"I'm Not Going to Have Blood on My Hands\"](https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php)
 * [2026-10-14, 17:00:31](https://news.ycombinator.com/item?id=50090927) - [Types of types: Haskell's Kind system](https://thunk.blog/posts/types-of-types-haskell-kind-system/)
 
 ## [Archives](archives/index.md)

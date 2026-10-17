@@ -24,6 +24,7 @@
 * [2026-10-14, 19:03:58](https://news.ycombinator.com/item?id=50093180) - [Suicide rates highest ever among middle-aged men](https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/)
 * [2026-10-14, 18:43:57](https://news.ycombinator.com/item?id=50092847) - [How the Military Will Hack the Election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)
 * [2026-10-14, 18:37:21](https://news.ycombinator.com/item?id=50092730) - [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
+* [2026-10-14, 18:36:59](https://news.ycombinator.com/item?id=50092722) - [\"I'm Not Going to Have Blood on My Hands\"](https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php)
 * [2026-10-14, 18:32:52](https://news.ycombinator.com/item?id=50092664) - [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
 * [2026-10-14, 18:32:17](https://news.ycombinator.com/item?id=50092655) - [Ultramarine 1 Flash: Frontier Model 100X Cheaper](https://www.paperinstruments.com/ultramarine)
 * [2026-10-14, 18:23:14](https://news.ycombinator.com/item?id=50092470) - [Show HN: Petal, open-source CoScreen/ScreenHero finally free](https://petal.live/)
