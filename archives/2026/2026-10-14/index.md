@@ -10,6 +10,7 @@
 * [2026-10-14, 22:37:54](https://news.ycombinator.com/item?id=50096485) - [Problems with the Rust Language](https://oxetene.net/problems-with-the-rust-language/)
 * [2026-10-14, 22:23:53](https://news.ycombinator.com/item?id=50096300) - [Show HN: Ito – Build Terminal UIs in Lua](https://uji.sh/ito/)
 * [2026-10-14, 22:10:08](https://news.ycombinator.com/item?id=50096142) - [Tiny Little Office](https://tinylittleoffice.com/)
+* [2026-10-14, 21:39:50](https://news.ycombinator.com/item?id=50095730) - [Orbital Angular Momentum of Light](https://en.wikipedia.org/wiki/Orbital_angular_momentum_of_light)
 * [2026-10-14, 21:11:03](https://news.ycombinator.com/item?id=50095353) - [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
 * [2026-10-14, 20:48:24](https://news.ycombinator.com/item?id=50094994) - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
 * [2026-10-14, 20:30:54](https://news.ycombinator.com/item?id=50094694) - [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
