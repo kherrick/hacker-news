@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-17](index.md)
 
 * [2026-10-17, 18:34:13](https://news.ycombinator.com/item?id=50133736) - [Pattern Matching Beats Narrative Reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
+* [2026-10-17, 18:31:30](https://news.ycombinator.com/item?id=50133713) - [AI Can Write the Code. Who Verifies It?](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it)
 * [2026-10-17, 18:10:21](https://news.ycombinator.com/item?id=50133500) - [Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)](https://twitter.com/anemll/status/2111517143087067309)
 * [2026-10-17, 18:01:41](https://news.ycombinator.com/item?id=50133401) - [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
 * [2026-10-17, 17:49:59](https://news.ycombinator.com/item?id=50133286) - [Masked settlers attack European diplomats in occupied West Bank](https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank)
