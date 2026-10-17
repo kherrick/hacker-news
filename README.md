@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-17, 08:37:46](https://news.ycombinator.com/item?id=50129121) - [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 * [2026-10-17, 02:21:08](https://news.ycombinator.com/item?id=50127274) - [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
@@ -24,7 +25,6 @@
 * [2026-10-15, 17:06:01](https://news.ycombinator.com/item?id=50106747) - [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
 * [2026-10-15, 13:18:44](https://news.ycombinator.com/item?id=50103255) - [Intuitive concurrent programming in any language](https://www.lf-lang.org/)
 * [2026-10-14, 15:49:31](https://news.ycombinator.com/item?id=50089577) - [Tell HN: Remember to migrate away from .name domain](https://news.ycombinator.com/item?id=50089577)
-* [2026-10-14, 15:15:58](https://news.ycombinator.com/item?id=50088937) - [California is building a $400M shield for Yosemite's most dangerous highway](https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php)
 * [2026-10-14, 15:04:33](https://news.ycombinator.com/item?id=50088767) - [0/1 Knapsack Problem in PyTorch](https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg)
 * [2026-10-14, 15:03:14](https://news.ycombinator.com/item?id=50088748) - [I built the RealWorld app in Lean 4](https://leangineer.com/blog/realworld-in-lean/)
 * [2026-10-14, 07:21:12](https://news.ycombinator.com/item?id=50083673) - [Wireless magnetic millirobots that deliver medicine inside the beating heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-17](index.md)
 
+* [2026-10-17, 08:37:46](https://news.ycombinator.com/item?id=50129121) - [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 * [2026-10-17, 06:19:44](https://news.ycombinator.com/item?id=50128468) - [Why Math Dumped OpenAI](https://raymyers.org/post/math-dumped-openai/)
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
