@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 * [2026-10-17, 04:08:27](https://news.ycombinator.com/item?id=50127839) - [\"In every study that considered the question\"](https://unsung.aresluna.org/in-every-study-that-considered-the-question/)
 * [2026-10-17, 02:21:08](https://news.ycombinator.com/item?id=50127274) - [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
 * [2026-10-17, 01:01:51](https://news.ycombinator.com/item?id=50126774) - [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
@@ -19,7 +20,6 @@
 * [2026-10-16, 14:18:44](https://news.ycombinator.com/item?id=50118688) - [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
 * [2026-10-16, 13:43:48](https://news.ycombinator.com/item?id=50118320) - [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
 * [2026-10-16, 12:52:08](https://news.ycombinator.com/item?id=50117746) - [I love software rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
-* [2026-10-16, 08:28:54](https://news.ycombinator.com/item?id=50115703) - [Coconuts in Medieval Britain (2015)](https://www.themarysue.com/monty-python-holy-grail-coconuts/)
 * [2026-10-16, 01:32:45](https://news.ycombinator.com/item?id=50112657) - [Tesla Roadster](https://www.tesla.com/roadster)
 * [2026-10-15, 17:06:01](https://news.ycombinator.com/item?id=50106747) - [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
 * [2026-10-14, 15:15:58](https://news.ycombinator.com/item?id=50088937) - [California is building a $400M shield for Yosemite's most dangerous highway](https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php)
