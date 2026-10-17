@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-17, 12:36:19](https://news.ycombinator.com/item?id=50130570) - [Super Intelligence](https://www.si.gov/)
+* [2026-10-17, 12:15:57](https://news.ycombinator.com/item?id=50130442) - [Show HN: Which Mac runs which LLM, and how fast](https://macyou.co/mac-llm-calculator)
 * [2026-10-17, 08:37:46](https://news.ycombinator.com/item?id=50129121) - [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)

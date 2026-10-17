@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-17](index.md)
 
 * [2026-10-17, 12:36:19](https://news.ycombinator.com/item?id=50130570) - [Super Intelligence](https://www.si.gov/)
+* [2026-10-17, 12:15:57](https://news.ycombinator.com/item?id=50130442) - [Show HN: Which Mac runs which LLM, and how fast](https://macyou.co/mac-llm-calculator)
 * [2026-10-17, 09:08:16](https://news.ycombinator.com/item?id=50129274) - [\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf)
 * [2026-10-17, 09:01:30](https://news.ycombinator.com/item?id=50129235) - [Is MCP becoming the common foundation of smart, decentralised search?](https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search)
 * [2026-10-17, 08:37:46](https://news.ycombinator.com/item?id=50129121) - [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
