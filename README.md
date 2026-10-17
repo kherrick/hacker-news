@@ -24,11 +24,11 @@
 * [2026-10-15, 17:06:01](https://news.ycombinator.com/item?id=50106747) - [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
 * [2026-10-15, 15:06:52](https://news.ycombinator.com/item?id=50104783) - [Recipes Are Moving from Maven Central to the Code Genome Project](https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module)
 * [2026-10-15, 13:18:44](https://news.ycombinator.com/item?id=50103255) - [Intuitive concurrent programming in any language](https://www.lf-lang.org/)
+* [2026-10-15, 07:27:55](https://news.ycombinator.com/item?id=50100440) - [We Still Use Paper](https://humanpro.co/articles/we-still-use-paper/)
 * [2026-10-14, 15:49:31](https://news.ycombinator.com/item?id=50089577) - [Tell HN: Remember to migrate away from .name domain](https://news.ycombinator.com/item?id=50089577)
 * [2026-10-14, 15:04:33](https://news.ycombinator.com/item?id=50088767) - [0/1 Knapsack Problem in PyTorch](https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg)
 * [2026-10-14, 15:03:14](https://news.ycombinator.com/item?id=50088748) - [I built the RealWorld app in Lean 4](https://leangineer.com/blog/realworld-in-lean/)
 * [2026-10-14, 07:21:12](https://news.ycombinator.com/item?id=50083673) - [Wireless magnetic millirobots that deliver medicine inside the beating heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)
-* [2026-10-13, 21:42:38](https://news.ycombinator.com/item?id=50079280) - [New 'super ice' 10 times stronger, bringing it close to the strength of concrete](https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete)
 * [2026-10-13, 18:11:46](https://news.ycombinator.com/item?id=50076089) - [Monte-Carlo Simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
 
 ## [Archives](archives/index.md)
