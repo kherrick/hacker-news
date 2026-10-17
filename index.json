@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=50132278"
     ],
     [
-      "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
+      "Amazon uses AI to monitor union risk in UK warehouses",
       "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"
     ]
   ],
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-10-16, 18:06:17",
-      "https://news.ycombinator.com/item?id=50122034"
-    ],
-    [
-      "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear"
-    ]
-  ],
-  [
-    [
       "2026-10-16, 17:28:19",
       "https://news.ycombinator.com/item?id=50121506"
     ],
@@ -205,18 +195,8 @@
       "https://news.ycombinator.com/item?id=50115354"
     ],
     [
-      "Development of Norton Commander",
+      "The history of development of Norton Commander (2011)",
       "https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 01:32:45",
-      "https://news.ycombinator.com/item?id=50112657"
-    ],
-    [
-      "Tesla Roadster",
-      "https://www.tesla.com/roadster"
     ]
   ],
   [
@@ -231,12 +211,12 @@
   ],
   [
     [
-      "2026-10-15, 15:06:52",
-      "https://news.ycombinator.com/item?id=50104783"
+      "2026-10-15, 13:41:08",
+      "https://news.ycombinator.com/item?id=50103588"
     ],
     [
-      "Recipes Are Moving from Maven Central to the Code Genome Project",
-      "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module"
+      "The cryptoint library (2025) [pdf]",
+      "https://cr.yp.to/papers/cryptoint-20250424.pdf"
     ]
   ],
   [
@@ -275,8 +255,28 @@
       "https://news.ycombinator.com/item?id=50100440"
     ],
     [
-      "We Still Use Paper",
+      "We still use paper",
       "https://humanpro.co/articles/we-still-use-paper/"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 07:18:14",
+      "https://news.ycombinator.com/item?id=50100366"
+    ],
+    [
+      "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "https://github.com/antirez/c64-hw-simulator"
+    ]
+  ],
+  [
+    [
+      "2026-10-14, 20:41:36",
+      "https://news.ycombinator.com/item?id=50094887"
+    ],
+    [
+      "Vintage Cassettes: 1963-2010",
+      "http://vintagecassettes.com/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=50082358"
     ],
     [
-      "A Tudor Life in the Time of Plague",
+      "A Tudor life in the time of plague (2020)",
       "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague"
     ]
   ]
