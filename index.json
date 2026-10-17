@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-10-17, 18:10:21",
-      "https://news.ycombinator.com/item?id=50133500"
+      "2026-10-17, 18:34:13",
+      "https://news.ycombinator.com/item?id=50133736"
     ],
     [
-      "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
-      "https://twitter.com/anemll/status/2111517143087067309"
+      "Pattern Matching Beats Narrative Reasoning",
+      "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative"
     ]
   ],
   [
@@ -57,26 +57,6 @@
     [
       "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
       "https://www.artie.com/careers"
-    ]
-  ],
-  [
-    [
-      "2026-10-17, 16:31:12",
-      "https://news.ycombinator.com/item?id=50132502"
-    ],
-    [
-      "OpenAI discloses four more rogue incidents",
-      "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"
-    ]
-  ],
-  [
-    [
-      "2026-10-17, 16:10:21",
-      "https://news.ycombinator.com/item?id=50132328"
-    ],
-    [
-      "GLP-1 may slow biological aging",
-      "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging"
     ]
   ],
   [
@@ -171,12 +151,32 @@
   ],
   [
     [
+      "2026-10-17, 03:18:39",
+      "https://news.ycombinator.com/item?id=50127586"
+    ],
+    [
+      "Source code of the Estonian online voting system",
+      "https://github.com/valimised/ivxv"
+    ]
+  ],
+  [
+    [
       "2026-10-17, 03:16:25",
       "https://news.ycombinator.com/item?id=50127572"
     ],
     [
       "A skeptic's first contact with Kubernetes (2024)",
       "https://blog.davidv.dev/posts/first-contact-with-k8s/"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 23:58:34",
+      "https://news.ycombinator.com/item?id=50126384"
+    ],
+    [
+      "Show HN: Things to Do API",
+      "https://thingstodoapi.com/"
     ]
   ],
   [
@@ -191,12 +191,32 @@
   ],
   [
     [
+      "2026-10-16, 23:38:27",
+      "https://news.ycombinator.com/item?id=50126253"
+    ],
+    [
+      "Bleached corals thrive within days when touching healthy neighbour",
+      "https://www.nature.com/articles/d41586-026-03266-x"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 19:01:17",
       "https://news.ycombinator.com/item?id=50122878"
     ],
     [
       "You could have invented transformers from memory",
       "https://alexwang.ai/posts/associative-memory/"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 18:49:31",
+      "https://news.ycombinator.com/item?id=50122682"
+    ],
+    [
+      "Espresso machine can run Doom",
+      "https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/"
     ]
   ],
   [
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2026-10-16, 07:41:36",
-      "https://news.ycombinator.com/item?id=50115354"
+      "2026-10-16, 13:22:49",
+      "https://news.ycombinator.com/item?id=50118098"
     ],
     [
-      "The history of development of Norton Commander (2011)",
-      "https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml"
+      "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
+      "https://github.com/Kapendev/parin"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2026-10-15, 07:55:34",
-      "https://news.ycombinator.com/item?id=50100640"
-    ],
-    [
-      "What changes when your search index lives on S3?",
-      "https://infino.ai/blog/search-index-on-s3/"
-    ]
-  ],
-  [
-    [
       "2026-10-15, 07:18:14",
       "https://news.ycombinator.com/item?id=50100366"
     ],
@@ -277,16 +287,6 @@
     [
       "Vintage Cassettes: 1963-2010",
       "http://vintagecassettes.com/"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 15:49:31",
-      "https://news.ycombinator.com/item?id=50089577"
-    ],
-    [
-      "Tell HN: Remember to migrate away from .name domain",
-      "https://news.ycombinator.com/item?id=50089577"
     ]
   ],
   [
