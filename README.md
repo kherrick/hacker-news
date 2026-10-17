@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-17, 14:01:01](https://news.ycombinator.com/item?id=50131256) - [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
+* [2026-10-17, 10:59:31](https://news.ycombinator.com/item?id=50129947) - [MapQuest will now show you where Flock cameras are in your neighborhood](https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/)
 * [2026-10-17, 08:37:46](https://news.ycombinator.com/item?id=50129121) - [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
@@ -8,7 +9,6 @@
 * [2026-10-17, 01:01:51](https://news.ycombinator.com/item?id=50126774) - [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
 * [2026-10-16, 22:21:05](https://news.ycombinator.com/item?id=50125545) - [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
 * [2026-10-16, 19:47:13](https://news.ycombinator.com/item?id=50123580) - [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
-* [2026-10-16, 19:04:47](https://news.ycombinator.com/item?id=50122951) - [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
 * [2026-10-16, 19:01:17](https://news.ycombinator.com/item?id=50122878) - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
 * [2026-10-16, 18:55:59](https://news.ycombinator.com/item?id=50122800) - [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 * [2026-10-16, 18:32:35](https://news.ycombinator.com/item?id=50122431) - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
