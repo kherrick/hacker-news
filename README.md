@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-17, 18:45:07](https://news.ycombinator.com/item?id=50133830) - [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
 * [2026-10-17, 18:34:13](https://news.ycombinator.com/item?id=50133736) - [Pattern Matching Beats Narrative Reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
 * [2026-10-17, 18:31:30](https://news.ycombinator.com/item?id=50133713) - [AI Can Write the Code. Who Verifies It?](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it)
 * [2026-10-17, 18:01:41](https://news.ycombinator.com/item?id=50133401) - [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
@@ -23,7 +24,6 @@
 * [2026-10-16, 23:38:27](https://news.ycombinator.com/item?id=50126253) - [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
 * [2026-10-16, 19:01:17](https://news.ycombinator.com/item?id=50122878) - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
 * [2026-10-16, 18:49:31](https://news.ycombinator.com/item?id=50122682) - [Espresso machine can run Doom](https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/)
-* [2026-10-16, 17:28:19](https://news.ycombinator.com/item?id=50121506) - [The First Candid](https://www.newyorker.com/magazine/2026/10/19/the-first-candid)
 * [2026-10-16, 15:06:43](https://news.ycombinator.com/item?id=50119315) - [Rendering pretty sky in Around The World game](https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/)
 * [2026-10-16, 13:22:49](https://news.ycombinator.com/item?id=50118098) - [Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang](https://github.com/Kapendev/parin)
 * [2026-10-15, 08:48:30](https://news.ycombinator.com/item?id=50100994) - [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
