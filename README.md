@@ -18,7 +18,7 @@
 * [2026-10-16, 15:38:28](https://news.ycombinator.com/item?id=50119751) - [A story of WiFi secrets, UART lockdowns and a damaged flash memory chip](https://adepts.of0x.cc/eufy-homestation2-firmware/)
 * [2026-10-16, 14:18:44](https://news.ycombinator.com/item?id=50118688) - [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
 * [2026-10-16, 13:43:48](https://news.ycombinator.com/item?id=50118320) - [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
-* [2026-10-16, 12:52:08](https://news.ycombinator.com/item?id=50117746) - [I love software rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
+* [2026-10-16, 07:41:36](https://news.ycombinator.com/item?id=50115354) - [Development of Norton Commander](https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml)
 * [2026-10-16, 01:32:45](https://news.ycombinator.com/item?id=50112657) - [Tesla Roadster](https://www.tesla.com/roadster)
 * [2026-10-15, 17:06:01](https://news.ycombinator.com/item?id=50106747) - [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
 * [2026-10-15, 15:06:52](https://news.ycombinator.com/item?id=50104783) - [Recipes Are Moving from Maven Central to the Code Genome Project](https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module)
