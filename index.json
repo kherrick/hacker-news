@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-10-17, 18:10:21",
+      "https://news.ycombinator.com/item?id=50133500"
+    ],
+    [
+      "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
+      "https://twitter.com/anemll/status/2111517143087067309"
+    ]
+  ],
+  [
+    [
       "2026-10-17, 18:01:41",
       "https://news.ycombinator.com/item?id=50133401"
     ],
     [
       "OpenCode Hacked: User credentials leaked",
       "https://twitter.com/opencode/status/2111516673953935833"
-    ]
-  ],
-  [
-    [
-      "2026-10-17, 17:49:59",
-      "https://news.ycombinator.com/item?id=50133286"
-    ],
-    [
-      "Masked settlers attack European diplomats in occupied West Bank",
-      "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2026-10-17, 11:20:52",
+      "https://news.ycombinator.com/item?id=50130079"
+    ],
+    [
+      "The future of programming (1982)",
+      "https://dl.acm.org/doi/10.1145/358453.358459"
+    ]
+  ],
+  [
+    [
       "2026-10-17, 10:59:31",
       "https://news.ycombinator.com/item?id=50129947"
     ],
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2026-10-17, 03:16:25",
+      "https://news.ycombinator.com/item?id=50127572"
+    ],
+    [
+      "A skeptic's first contact with Kubernetes (2024)",
+      "https://blog.davidv.dev/posts/first-contact-with-k8s/"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 19:01:17",
       "https://news.ycombinator.com/item?id=50122878"
     ],
@@ -187,16 +207,6 @@
     [
       "The First Candid",
       "https://www.newyorker.com/magazine/2026/10/19/the-first-candid"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 15:38:28",
-      "https://news.ycombinator.com/item?id=50119751"
-    ],
-    [
-      "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-      "https://adepts.of0x.cc/eufy-homestation2-firmware/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Furifont, a Japanese font that shows furigana",
       "https://furifont.antfu.me/"
-    ]
-  ],
-  [
-    [
-      "2026-10-15, 07:55:34",
-      "https://news.ycombinator.com/item?id=50100640"
-    ],
-    [
-      "What changes when your search index lives on S3?",
-      "https://infino.ai/blog/search-index-on-s3/"
     ]
   ],
   [
