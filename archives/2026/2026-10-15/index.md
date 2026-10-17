@@ -9,6 +9,7 @@
 * [2026-10-15, 23:22:53](https://news.ycombinator.com/item?id=50111742) - [BeBox is a Haiku application that emulates Be Inc.'s BeBox](https://github.com/johnrash/bebox)
 * [2026-10-15, 23:17:50](https://news.ycombinator.com/item?id=50111708) - [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
 * [2026-10-15, 22:11:24](https://news.ycombinator.com/item?id=50111112) - [Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI](https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai)
+* [2026-10-15, 21:55:04](https://news.ycombinator.com/item?id=50110930) - [$50k First Letters Prize Awarded for PHerc 343](https://scrollprize.substack.com/p/50k-first-letters-prize-awarded-for)
 * [2026-10-15, 20:23:25](https://news.ycombinator.com/item?id=50109715) - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 * [2026-10-15, 20:22:50](https://news.ycombinator.com/item?id=50109707) - [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
 * [2026-10-15, 19:58:33](https://news.ycombinator.com/item?id=50109409) - [2026 State of the Climate Report Shows a Planet Reaching Its Limits](https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits)
