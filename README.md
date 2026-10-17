@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-17, 18:01:41](https://news.ycombinator.com/item?id=50133401) - [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
+* [2026-10-17, 17:49:59](https://news.ycombinator.com/item?id=50133286) - [Masked settlers attack European diplomats in occupied West Bank](https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank)
 * [2026-10-17, 17:14:12](https://news.ycombinator.com/item?id=50132950) - [Development statistics for the 7.2 kernel](https://lwn.net/Articles/1088776/)
 * [2026-10-17, 17:10:27](https://news.ycombinator.com/item?id=50132911) - [tsc-ts: TypeScript written in TypeScript](https://github.com/vercel-labs/tsc-ts)
 * [2026-10-17, 17:02:50](https://news.ycombinator.com/item?id=50132839) - [Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers](https://www.artie.com/careers)
@@ -13,7 +14,6 @@
 * [2026-10-17, 13:51:08](https://news.ycombinator.com/item?id=50131189) - [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim)
 * [2026-10-17, 13:28:46](https://news.ycombinator.com/item?id=50131006) - [Show HN: High-quality duck audio synthesizer](https://celphase.github.io/duck-pond/)
 * [2026-10-17, 10:59:31](https://news.ycombinator.com/item?id=50129947) - [MapQuest will now show you where Flock cameras are in your neighborhood](https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/)
-* [2026-10-17, 09:08:16](https://news.ycombinator.com/item?id=50129274) - [\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 * [2026-10-16, 19:01:17](https://news.ycombinator.com/item?id=50122878) - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-17](index.md)
 
 * [2026-10-17, 18:01:41](https://news.ycombinator.com/item?id=50133401) - [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
+* [2026-10-17, 17:49:59](https://news.ycombinator.com/item?id=50133286) - [Masked settlers attack European diplomats in occupied West Bank](https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank)
 * [2026-10-17, 17:16:17](https://news.ycombinator.com/item?id=50132972) - [Elon Musk's foundation is opaque, miserly and self-serving](https://www.economist.com/business/2026/10/13/elon-musks-foundation-is-opaque-miserly-and-self-serving)
 * [2026-10-17, 17:14:12](https://news.ycombinator.com/item?id=50132950) - [Linux bugs fixed per release over time: >2× rise since 2026-04](https://lwn.net/Articles/1088776/)
 * [2026-10-17, 17:10:27](https://news.ycombinator.com/item?id=50132911) - [tsc-ts: TypeScript written in TypeScript](https://github.com/vercel-labs/tsc-ts)
