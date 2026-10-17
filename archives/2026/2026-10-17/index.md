@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-17](index.md)
 
+* [2026-10-17, 18:10:21](https://news.ycombinator.com/item?id=50133500) - [Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)](https://twitter.com/anemll/status/2111517143087067309)
 * [2026-10-17, 18:01:41](https://news.ycombinator.com/item?id=50133401) - [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
 * [2026-10-17, 17:49:59](https://news.ycombinator.com/item?id=50133286) - [Masked settlers attack European diplomats in occupied West Bank](https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank)
 * [2026-10-17, 17:16:17](https://news.ycombinator.com/item?id=50132972) - [Elon Musk's foundation is opaque, miserly and self-serving](https://www.economist.com/business/2026/10/13/elon-musks-foundation-is-opaque-miserly-and-self-serving)
@@ -33,5 +34,6 @@
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 * [2026-10-17, 04:08:27](https://news.ycombinator.com/item?id=50127839) - [\"In every study that considered the question\"](https://unsung.aresluna.org/in-every-study-that-considered-the-question/)
 * [2026-10-17, 03:47:50](https://news.ycombinator.com/item?id=50127732) - [DeepSeek v4.1 flash on OpenCode pretty good](https://github.com/aditauqir/shev)
+* [2026-10-17, 03:16:25](https://news.ycombinator.com/item?id=50127572) - [A skeptic's first contact with Kubernetes (2024)](https://blog.davidv.dev/posts/first-contact-with-k8s/)
 * [2026-10-17, 02:21:08](https://news.ycombinator.com/item?id=50127274) - [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
 * [2026-10-17, 01:01:51](https://news.ycombinator.com/item?id=50126774) - [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
