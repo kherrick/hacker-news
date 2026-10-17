@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-10-17, 13:51:08",
-      "https://news.ycombinator.com/item?id=50131189"
-    ],
-    [
-      "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-      "https://github.com/mikroverk/esp32sim"
-    ]
-  ],
-  [
-    [
       "2026-10-17, 11:20:52",
       "https://news.ycombinator.com/item?id=50130079"
     ],
@@ -277,6 +267,16 @@
     [
       "0/1 Knapsack Problem in PyTorch",
       "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg"
+    ]
+  ],
+  [
+    [
+      "2026-10-14, 15:03:14",
+      "https://news.ycombinator.com/item?id=50088748"
+    ],
+    [
+      "I built the RealWorld app in Lean 4",
+      "https://leangineer.com/blog/realworld-in-lean/"
     ]
   ],
   [
