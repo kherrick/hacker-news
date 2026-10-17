@@ -2,7 +2,7 @@
 
 * [2026-10-17, 20:07:33](https://news.ycombinator.com/item?id=50134617) - [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
 * [2026-10-17, 18:45:07](https://news.ycombinator.com/item?id=50133830) - [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
-* [2026-10-17, 18:34:13](https://news.ycombinator.com/item?id=50133736) - [Pattern Matching Beats Narrative Reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
+* [2026-10-17, 18:34:13](https://news.ycombinator.com/item?id=50133736) - [Pattern matching beats narrative reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
 * [2026-10-17, 18:01:41](https://news.ycombinator.com/item?id=50133401) - [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
 * [2026-10-17, 17:45:08](https://news.ycombinator.com/item?id=50133231) - [Codex is EATING my Mac's disk space](https://github.com/openai/codex/issues/25921)
 * [2026-10-17, 17:36:17](https://news.ycombinator.com/item?id=50133150) - [I Became a Citizen of Japan](https://www.derekwessman.com/blog-1/natural)
