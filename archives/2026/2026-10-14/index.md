@@ -47,6 +47,7 @@
 * [2026-10-14, 16:13:25](https://news.ycombinator.com/item?id=50090027) - [Compiler bootstrapping depends on more than you might think](https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges)
 * [2026-10-14, 16:09:00](https://news.ycombinator.com/item?id=50089921) - [Americans' Social Activity Has Steeply Declined in the Past 30 Years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
 * [2026-10-14, 15:51:40](https://news.ycombinator.com/item?id=50089624) - [Shit Flow Diagram](https://en.wikipedia.org/wiki/Shit_flow_diagram)
+* [2026-10-14, 15:49:31](https://news.ycombinator.com/item?id=50089577) - [Tell HN: Remember to migrate away from .name domain](https://news.ycombinator.com/item?id=50089577)
 * [2026-10-14, 15:39:45](https://news.ycombinator.com/item?id=50089395) - [Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/)
 * [2026-10-14, 15:31:15](https://news.ycombinator.com/item?id=50089229) - [Submarine Cable Resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
 * [2026-10-14, 15:23:31](https://news.ycombinator.com/item?id=50089052) - [Why are all these data companies buying internal data?](https://apnews.com/press-release/newsfile/press-release-2dc1342f34a40e5953ab80c2f4bd4fdd)
