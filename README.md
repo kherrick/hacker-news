@@ -20,7 +20,6 @@
 * [2026-10-16, 15:38:28](https://news.ycombinator.com/item?id=50119751) - [A story of WiFi secrets, UART lockdowns and a damaged flash memory chip](https://adepts.of0x.cc/eufy-homestation2-firmware/)
 * [2026-10-16, 14:18:44](https://news.ycombinator.com/item?id=50118688) - [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
 * [2026-10-16, 13:43:48](https://news.ycombinator.com/item?id=50118320) - [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
-* [2026-10-16, 12:52:08](https://news.ycombinator.com/item?id=50117746) - [I love software rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
 * [2026-10-16, 01:32:45](https://news.ycombinator.com/item?id=50112657) - [Tesla Roadster](https://www.tesla.com/roadster)
 * [2026-10-15, 17:06:01](https://news.ycombinator.com/item?id=50106747) - [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
 * [2026-10-15, 15:06:52](https://news.ycombinator.com/item?id=50104783) - [Recipes Are Moving from Maven Central to the Code Genome Project](https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module)
@@ -29,6 +28,7 @@
 * [2026-10-14, 15:04:33](https://news.ycombinator.com/item?id=50088767) - [0/1 Knapsack Problem in PyTorch](https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg)
 * [2026-10-14, 15:03:14](https://news.ycombinator.com/item?id=50088748) - [I built the RealWorld app in Lean 4](https://leangineer.com/blog/realworld-in-lean/)
 * [2026-10-14, 07:21:12](https://news.ycombinator.com/item?id=50083673) - [Wireless magnetic millirobots that deliver medicine inside the beating heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)
+* [2026-10-13, 21:42:38](https://news.ycombinator.com/item?id=50079280) - [New 'super ice' 10 times stronger, bringing it close to the strength of concrete](https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete)
 * [2026-10-13, 18:11:46](https://news.ycombinator.com/item?id=50076089) - [Monte-Carlo Simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
 
 ## [Archives](archives/index.md)
