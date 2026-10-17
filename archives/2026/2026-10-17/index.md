@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-17](index.md)
 
 * [2026-10-17, 18:45:07](https://news.ycombinator.com/item?id=50133830) - [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
+* [2026-10-17, 18:34:33](https://news.ycombinator.com/item?id=50133738) - [Owner of Former UWS Barbecue Restaurant Indicted for Wage Theft: Manhattan DA](https://www.westsiderag.com/2026/10/08/owner-of-former-uws-barbecue-restaurant-indicted-for-wage-theft-manhattan-da)
 * [2026-10-17, 18:34:13](https://news.ycombinator.com/item?id=50133736) - [Pattern Matching Beats Narrative Reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
 * [2026-10-17, 18:31:30](https://news.ycombinator.com/item?id=50133713) - [AI Can Write the Code. Who Verifies It?](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it)
 * [2026-10-17, 18:10:21](https://news.ycombinator.com/item?id=50133500) - [Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)](https://twitter.com/anemll/status/2111517143087067309)

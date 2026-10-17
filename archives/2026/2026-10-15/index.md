@@ -55,6 +55,7 @@
 * [2026-10-15, 11:59:09](https://news.ycombinator.com/item?id=50102423) - [Ubuntu 26.10 (Stonking Stingray) released](https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html)
 * [2026-10-15, 11:38:57](https://news.ycombinator.com/item?id=50102247) - [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/)
 * [2026-10-15, 10:43:36](https://news.ycombinator.com/item?id=50101813) - [Zero-Click Spyware Delivered via Targeted Ads: AdFection](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
+* [2026-10-15, 10:24:16](https://news.ycombinator.com/item?id=50101649) - [Laser Fault Injection on a Budget: RP2350 Edition](https://courk.cc/rp2350-challenge-laser)
 * [2026-10-15, 09:13:20](https://news.ycombinator.com/item?id=50101149) - [The cost of getting a job today](https://weli.dev/blog/the-cost-of-getting-a-job-today/)
 * [2026-10-15, 08:48:30](https://news.ycombinator.com/item?id=50100994) - [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
 * [2026-10-15, 08:18:38](https://news.ycombinator.com/item?id=50100791) - [AI was great until it was not](https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not)
