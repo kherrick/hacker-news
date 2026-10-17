@@ -25,9 +25,9 @@
 * [2026-10-16, 12:52:08](https://news.ycombinator.com/item?id=50117746) - [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
 * [2026-10-16, 01:32:45](https://news.ycombinator.com/item?id=50112657) - [Tesla Roadster](https://www.tesla.com/roadster)
 * [2026-10-14, 16:33:48](https://news.ycombinator.com/item?id=50090453) - [PGO or not PGO this is the dilemma. Step 2](https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/)
+* [2026-10-14, 15:23:27](https://news.ycombinator.com/item?id=50089051) - [Olympus: Correcting the power dynamic of code (2024)](https://danieltemkin.com/Esolangs/Olympus/)
 * [2026-10-14, 07:21:12](https://news.ycombinator.com/item?id=50083673) - [Wireless magnetic millirobots that deliver medicine inside the beating heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)
 * [2026-10-13, 23:10:04](https://news.ycombinator.com/item?id=50080246) - [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](https://wonderhop.io/en/)
-* [2026-10-13, 19:40:29](https://news.ycombinator.com/item?id=50077462) - [The Bawdy Graffiti of Pompeii and Herculaneum (2017)](https://kashgar.com.au/blogs/history/the-bawdy-graffiti-of-pompeii-and-herculaneu)
 * [2026-10-13, 18:11:46](https://news.ycombinator.com/item?id=50076089) - [Monte-Carlo Simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
 * [2026-10-13, 16:26:03](https://news.ycombinator.com/item?id=50074322) - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/)
 
