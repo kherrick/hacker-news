@@ -103,6 +103,7 @@
 * [2026-10-14, 05:08:09](https://news.ycombinator.com/item?id=50082637) - [The 8-mile hole in a Hawaii national park that no one can explain](https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php)
 * [2026-10-14, 04:55:40](https://news.ycombinator.com/item?id=50082554) - [MS Paint Adds Freeform Rotation (2026)](https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/)
 * [2026-10-14, 04:42:33](https://news.ycombinator.com/item?id=50082470) - [Felix Rieseberg Homepage](https://felixrieseberg.com/)
+* [2026-10-14, 04:23:25](https://news.ycombinator.com/item?id=50082358) - [A Tudor Life in the Time of Plague](https://www.historytoday.com/archive/history-matters/tudor-life-time-plague)
 * [2026-10-14, 03:41:42](https://news.ycombinator.com/item?id=50082113) - [New York City's iconic horse-drawn carriages expected to take their last trot](https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban)
 * [2026-10-14, 03:28:00](https://news.ycombinator.com/item?id=50082021) - [Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord](https://strafe.chat/)
 * [2026-10-14, 03:10:25](https://news.ycombinator.com/item?id=50081930) - [Is 'Attention' the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/)
