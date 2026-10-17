@@ -48,6 +48,7 @@
 * [2026-10-14, 16:16:25](https://news.ycombinator.com/item?id=50090084) - [Amsterdam police confisquates server left-wing ISP A/I at American request](https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960)
 * [2026-10-14, 16:13:25](https://news.ycombinator.com/item?id=50090027) - [Compiler bootstrapping depends on more than you might think](https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges)
 * [2026-10-14, 16:09:00](https://news.ycombinator.com/item?id=50089921) - [Americans' Social Activity Has Steeply Declined in the Past 30 Years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
+* [2026-10-14, 15:58:44](https://news.ycombinator.com/item?id=50089727) - [Almost every dumbphone worth knowing about](https://slowerliving.club/phones/)
 * [2026-10-14, 15:51:40](https://news.ycombinator.com/item?id=50089624) - [Shit Flow Diagram](https://en.wikipedia.org/wiki/Shit_flow_diagram)
 * [2026-10-14, 15:49:31](https://news.ycombinator.com/item?id=50089577) - [Tell HN: Remember to migrate away from .name domain](https://news.ycombinator.com/item?id=50089577)
 * [2026-10-14, 15:39:45](https://news.ycombinator.com/item?id=50089395) - [Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/)
