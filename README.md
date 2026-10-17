@@ -4,6 +4,7 @@
 * [2026-10-17, 09:01:30](https://news.ycombinator.com/item?id=50129235) - [Is MCP becoming the common foundation of smart, decentralised search?](https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search)
 * [2026-10-17, 08:37:46](https://news.ycombinator.com/item?id=50129121) - [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+* [2026-10-17, 07:01:07](https://news.ycombinator.com/item?id=50128654) - [Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop](https://github.com/CLoaKY233/siltop)
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 * [2026-10-17, 02:21:08](https://news.ycombinator.com/item?id=50127274) - [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
 * [2026-10-17, 01:01:51](https://news.ycombinator.com/item?id=50126774) - [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
@@ -28,7 +29,6 @@
 * [2026-10-14, 15:49:31](https://news.ycombinator.com/item?id=50089577) - [Tell HN: Remember to migrate away from .name domain](https://news.ycombinator.com/item?id=50089577)
 * [2026-10-14, 15:04:33](https://news.ycombinator.com/item?id=50088767) - [0/1 Knapsack Problem in PyTorch](https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg)
 * [2026-10-14, 15:03:14](https://news.ycombinator.com/item?id=50088748) - [I built the RealWorld app in Lean 4](https://leangineer.com/blog/realworld-in-lean/)
-* [2026-10-14, 07:21:12](https://news.ycombinator.com/item?id=50083673) - [Wireless magnetic millirobots that deliver medicine inside the beating heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)
 * [2026-10-13, 18:11:46](https://news.ycombinator.com/item?id=50076089) - [Monte-Carlo Simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
 
 ## [Archives](archives/index.md)
