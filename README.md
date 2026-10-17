@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-17, 18:45:07](https://news.ycombinator.com/item?id=50133830) - [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
-* [2026-10-17, 18:34:33](https://news.ycombinator.com/item?id=50133738) - [Owner of Former UWS Barbecue Restaurant Indicted for Wage Theft: Manhattan DA](https://www.westsiderag.com/2026/10/08/owner-of-former-uws-barbecue-restaurant-indicted-for-wage-theft-manhattan-da)
 * [2026-10-17, 18:34:13](https://news.ycombinator.com/item?id=50133736) - [Pattern Matching Beats Narrative Reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
 * [2026-10-17, 18:31:30](https://news.ycombinator.com/item?id=50133713) - [AI Can Write the Code. Who Verifies It?](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it)
 * [2026-10-17, 18:01:41](https://news.ycombinator.com/item?id=50133401) - [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
@@ -15,6 +14,7 @@
 * [2026-10-17, 13:55:28](https://news.ycombinator.com/item?id=50131213) - [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
 * [2026-10-17, 13:51:08](https://news.ycombinator.com/item?id=50131189) - [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim)
 * [2026-10-17, 13:28:46](https://news.ycombinator.com/item?id=50131006) - [Show HN: High-quality duck audio synthesizer](https://celphase.github.io/duck-pond/)
+* [2026-10-17, 11:20:52](https://news.ycombinator.com/item?id=50130079) - [The future of programming (1982)](https://dl.acm.org/doi/10.1145/358453.358459)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 * [2026-10-17, 03:18:39](https://news.ycombinator.com/item?id=50127586) - [Source code of the Estonian online voting system](https://github.com/valimised/ivxv)
