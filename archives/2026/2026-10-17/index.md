@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-17](index.md)
 
+* [2026-10-17, 14:01:01](https://news.ycombinator.com/item?id=50131256) - [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
 * [2026-10-17, 12:36:19](https://news.ycombinator.com/item?id=50130570) - [Super Intelligence](https://www.si.gov/)
 * [2026-10-17, 12:15:57](https://news.ycombinator.com/item?id=50130442) - [Show HN: Which Mac runs which LLM, and how fast](https://macyou.co/mac-llm-calculator)
 * [2026-10-17, 09:08:16](https://news.ycombinator.com/item?id=50129274) - [\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-17, 14:01:01](https://news.ycombinator.com/item?id=50131256) - [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
 * [2026-10-17, 08:37:46](https://news.ycombinator.com/item?id=50129121) - [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
@@ -13,10 +14,11 @@
 * [2026-10-16, 18:32:35](https://news.ycombinator.com/item?id=50122431) - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
 * [2026-10-16, 18:06:17](https://news.ycombinator.com/item?id=50122034) - [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear)
 * [2026-10-16, 18:00:18](https://news.ycombinator.com/item?id=50121939) - [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
+* [2026-10-16, 17:28:19](https://news.ycombinator.com/item?id=50121506) - [The First Candid](https://www.newyorker.com/magazine/2026/10/19/the-first-candid)
 * [2026-10-16, 17:08:38](https://news.ycombinator.com/item?id=50121179) - [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/)
 * [2026-10-16, 16:12:02](https://news.ycombinator.com/item?id=50120224) - [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 * [2026-10-16, 15:38:28](https://news.ycombinator.com/item?id=50119751) - [A story of WiFi secrets, UART lockdowns and a damaged flash memory chip](https://adepts.of0x.cc/eufy-homestation2-firmware/)
-* [2026-10-16, 14:18:44](https://news.ycombinator.com/item?id=50118688) - [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
+* [2026-10-16, 15:06:43](https://news.ycombinator.com/item?id=50119315) - [Rendering pretty sky in Around The World game](https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/)
 * [2026-10-16, 13:43:48](https://news.ycombinator.com/item?id=50118320) - [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
 * [2026-10-16, 07:41:36](https://news.ycombinator.com/item?id=50115354) - [Development of Norton Commander](https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml)
 * [2026-10-16, 01:32:45](https://news.ycombinator.com/item?id=50112657) - [Tesla Roadster](https://www.tesla.com/roadster)
@@ -27,9 +29,7 @@
 * [2026-10-14, 21:39:50](https://news.ycombinator.com/item?id=50095730) - [Orbital Angular Momentum of Light](https://en.wikipedia.org/wiki/Orbital_angular_momentum_of_light)
 * [2026-10-14, 15:04:33](https://news.ycombinator.com/item?id=50088767) - [0/1 Knapsack Problem in PyTorch](https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg)
 * [2026-10-14, 15:03:14](https://news.ycombinator.com/item?id=50088748) - [I built the RealWorld app in Lean 4](https://leangineer.com/blog/realworld-in-lean/)
-* [2026-10-13, 21:42:38](https://news.ycombinator.com/item?id=50079280) - [New 'super ice' 10 times stronger, bringing it close to the strength of concrete](https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete)
 * [2026-10-13, 18:11:46](https://news.ycombinator.com/item?id=50076089) - [Monte-Carlo Simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
-* [2026-10-13, 16:26:03](https://news.ycombinator.com/item?id=50074322) - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/)
 
 ## [Archives](archives/index.md)
 
