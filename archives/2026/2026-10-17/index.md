@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-10-17](index.md)
 
 * [2026-10-17, 23:31:48](https://news.ycombinator.com/item?id=50136198) - [Retired Penn professor arrested for blocking Uber Eats robot](https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l)
+* [2026-10-17, 23:26:35](https://news.ycombinator.com/item?id=50136150) - [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
 * [2026-10-17, 23:08:30](https://news.ycombinator.com/item?id=50136017) - [Beyond Tetris: The Other Games of Alexey Pajitnov [video]](https://www.youtube.com/watch?v=QH_LPimUJMs)
+* [2026-10-17, 22:26:47](https://news.ycombinator.com/item?id=50135762) - [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/)
 * [2026-10-17, 21:37:07](https://news.ycombinator.com/item?id=50135379) - [JDK 28](https://openjdk.org/projects/jdk/28/)
 * [2026-10-17, 20:07:33](https://news.ycombinator.com/item?id=50134617) - [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
 * [2026-10-17, 18:45:07](https://news.ycombinator.com/item?id=50133830) - [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)

@@ -58,6 +58,7 @@
 * [2026-10-16, 13:43:48](https://news.ycombinator.com/item?id=50118320) - [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
 * [2026-10-16, 13:43:30](https://news.ycombinator.com/item?id=50118318) - [What was a Token Ring network?](https://dfarq.homeip.net/what-was-a-token-ring-network/)
 * [2026-10-16, 13:38:25](https://news.ycombinator.com/item?id=50118267) - [RFC8950: Announce IPv4 with an IPv6 next-hop](https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/)
+* [2026-10-16, 13:30:20](https://news.ycombinator.com/item?id=50118165) - [\"I'm on a war footing\": Terry Tao and the crisis in math](https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html)
 * [2026-10-16, 13:22:49](https://news.ycombinator.com/item?id=50118098) - [Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang](https://github.com/Kapendev/parin)
 * [2026-10-16, 13:18:59](https://news.ycombinator.com/item?id=50118048) - [My old job feels distant now](https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/)
 * [2026-10-16, 13:09:25](https://news.ycombinator.com/item?id=50117952) - [Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities](https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations)
