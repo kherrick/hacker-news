@@ -32,6 +32,7 @@
 * [2026-10-17, 14:01:01](https://news.ycombinator.com/item?id=50131256) - [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
 * [2026-10-17, 13:55:28](https://news.ycombinator.com/item?id=50131213) - [Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
 * [2026-10-17, 13:51:08](https://news.ycombinator.com/item?id=50131189) - [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim)
+* [2026-10-17, 13:34:43](https://news.ycombinator.com/item?id=50131053) - [Developing for Debugging (2025)](https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/)
 * [2026-10-17, 13:28:46](https://news.ycombinator.com/item?id=50131006) - [Show HN: High-quality duck audio synthesizer](https://celphase.github.io/duck-pond/)
 * [2026-10-17, 12:36:19](https://news.ycombinator.com/item?id=50130570) - [Super Intelligence](https://www.si.gov/)
 * [2026-10-17, 12:15:57](https://news.ycombinator.com/item?id=50130442) - [Show HN: Which Mac runs which LLM, and how fast](https://macyou.co/mac-llm-calculator)

@@ -25,6 +25,7 @@
 * [2026-10-16, 18:48:48](https://news.ycombinator.com/item?id=50122671) - [Regex visualized as 3D marble run](https://www.regexmarblerun.com/)
 * [2026-10-16, 18:32:35](https://news.ycombinator.com/item?id=50122431) - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
 * [2026-10-16, 18:11:42](https://news.ycombinator.com/item?id=50122112) - [Anthropic assigned highest junk credit rating in June](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d)
+* [2026-10-16, 18:07:44](https://news.ycombinator.com/item?id=50122058) - [One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux](https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/)
 * [2026-10-16, 18:06:17](https://news.ycombinator.com/item?id=50122034) - [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear)
 * [2026-10-16, 18:00:18](https://news.ycombinator.com/item?id=50121939) - [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
 * [2026-10-16, 17:35:07](https://news.ycombinator.com/item?id=50121601) - [GifCities](https://gifcities.org/)
