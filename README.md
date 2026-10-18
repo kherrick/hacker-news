@@ -15,7 +15,6 @@
 * [2026-10-17, 13:28:46](https://news.ycombinator.com/item?id=50131006) - [Show HN: High-quality duck audio synthesizer](https://celphase.github.io/duck-pond/)
 * [2026-10-17, 12:06:44](https://news.ycombinator.com/item?id=50130379) - [Interactive Linear Programming in the Browser](https://lpviz.net/)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
-* [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 * [2026-10-16, 23:47:31](https://news.ycombinator.com/item?id=50126312) - [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/)
 * [2026-10-16, 23:38:27](https://news.ycombinator.com/item?id=50126253) - [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
 * [2026-10-16, 21:07:24](https://news.ycombinator.com/item?id=50124730) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
@@ -30,6 +29,7 @@
 * [2026-10-15, 07:18:14](https://news.ycombinator.com/item?id=50100366) - [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
 * [2026-10-15, 02:39:37](https://news.ycombinator.com/item?id=50098485) - [Lorenz and Little: How Much Does Your Tail Cost?](https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html)
 * [2026-10-14, 23:48:38](https://news.ycombinator.com/item?id=50097257) - [Custom server to revive neato bots](https://github.com/vacuula/vacuula)
+* [2026-10-14, 18:57:57](https://news.ycombinator.com/item?id=50093081) - [Hatching (Heraldry)](https://en.wikipedia.org/wiki/Hatching_(heraldry))
 
 ## [Archives](archives/index.md)
 

@@ -23,6 +23,7 @@
 * [2026-10-14, 19:19:13](https://news.ycombinator.com/item?id=50093445) - [Back to School, in Gaza](https://www.newyorker.com/news/the-lede/back-to-school-in-gaza)
 * [2026-10-14, 19:11:25](https://news.ycombinator.com/item?id=50093298) - [Private equity ownership affects dental practices](https://www.dentaleconomics.com/macro-op-ed/industry-news/news/55341670/how-does-private-equity-ownership-really-affect-dental-practices)
 * [2026-10-14, 19:03:58](https://news.ycombinator.com/item?id=50093180) - [Suicide rates highest ever among middle-aged men](https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/)
+* [2026-10-14, 18:57:57](https://news.ycombinator.com/item?id=50093081) - [Hatching (Heraldry)](https://en.wikipedia.org/wiki/Hatching_(heraldry))
 * [2026-10-14, 18:53:00](https://news.ycombinator.com/item?id=50093006) - [Each step of decoding a PNG (2022)](https://iter.ca/post/png/)
 * [2026-10-14, 18:43:57](https://news.ycombinator.com/item?id=50092847) - [How the Military Will Hack the Election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)
 * [2026-10-14, 18:37:21](https://news.ycombinator.com/item?id=50092730) - [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
