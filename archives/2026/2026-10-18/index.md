@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-18](index.md)
 
+* [2026-10-18, 15:26:06](https://news.ycombinator.com/item?id=50141909) - [macOS 15.8.2 Breaks OpenGL](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550)
 * [2026-10-18, 15:00:40](https://news.ycombinator.com/item?id=50141681) - [Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/)
 * [2026-10-18, 14:58:10](https://news.ycombinator.com/item?id=50141657) - [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
 * [2026-10-18, 14:47:37](https://news.ycombinator.com/item?id=50141579) - [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/)
+* [2026-10-18, 14:31:52](https://news.ycombinator.com/item?id=50141436) - [High performance policy routed IPsec mesh SD-WAN](https://ranet3.com/)
 * [2026-10-18, 14:30:27](https://news.ycombinator.com/item?id=50141429) - [Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
 * [2026-10-18, 14:16:41](https://news.ycombinator.com/item?id=50141295) - [Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car](https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car)
 * [2026-10-18, 14:05:36](https://news.ycombinator.com/item?id=50141206) - [Theranos-Style Fraud Has Become the Norm](https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/)
