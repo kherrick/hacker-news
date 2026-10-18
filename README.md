@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-18, 01:18:50](https://news.ycombinator.com/item?id=50136881) - [Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day)
 * [2026-10-18, 00:14:22](https://news.ycombinator.com/item?id=50136536) - [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
 * [2026-10-17, 21:37:07](https://news.ycombinator.com/item?id=50135379) - [JDK 28](https://openjdk.org/projects/jdk/28/)
 * [2026-10-17, 20:07:33](https://news.ycombinator.com/item?id=50134617) - [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
@@ -13,7 +14,6 @@
 * [2026-10-17, 13:55:28](https://news.ycombinator.com/item?id=50131213) - [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
 * [2026-10-17, 13:51:08](https://news.ycombinator.com/item?id=50131189) - [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim)
 * [2026-10-17, 13:28:46](https://news.ycombinator.com/item?id=50131006) - [Show HN: High-quality duck audio synthesizer](https://celphase.github.io/duck-pond/)
-* [2026-10-17, 11:20:52](https://news.ycombinator.com/item?id=50130079) - [The future of programming (1982)](https://dl.acm.org/doi/10.1145/358453.358459)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 * [2026-10-17, 03:18:39](https://news.ycombinator.com/item?id=50127586) - [Source code of the Estonian online voting system](https://github.com/valimised/ivxv)
