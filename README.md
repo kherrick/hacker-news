@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-18, 00:14:22](https://news.ycombinator.com/item?id=50136536) - [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
-* [2026-10-17, 21:37:07](https://news.ycombinator.com/item?id=50135379) - [JDK 28](https://openjdk.org/projects/jdk/28/)
 * [2026-10-17, 20:07:33](https://news.ycombinator.com/item?id=50134617) - [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
 * [2026-10-17, 17:45:08](https://news.ycombinator.com/item?id=50133231) - [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
 * [2026-10-17, 17:36:17](https://news.ycombinator.com/item?id=50133150) - [I Became a Citizen of Japan](https://www.derekwessman.com/blog-1/natural)
@@ -29,6 +28,7 @@
 * [2026-10-15, 07:18:14](https://news.ycombinator.com/item?id=50100366) - [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
 * [2026-10-14, 23:48:38](https://news.ycombinator.com/item?id=50097257) - [Custom server to revive neato bots](https://github.com/vacuula/vacuula)
 * [2026-10-14, 20:41:36](https://news.ycombinator.com/item?id=50094887) - [Vintage Cassettes: 1963-2010](http://vintagecassettes.com/)
+* [2026-10-14, 18:53:00](https://news.ycombinator.com/item?id=50093006) - [Each step of decoding a PNG (2022)](https://iter.ca/post/png/)
 * [2026-10-14, 17:00:31](https://news.ycombinator.com/item?id=50090927) - [Types of types: Haskell's Kind system](https://thunk.blog/posts/types-of-types-haskell-kind-system/)
 
 ## [Archives](archives/index.md)
