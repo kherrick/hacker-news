@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-18, 13:48:48",
+      "https://news.ycombinator.com/item?id=50141076"
+    ],
+    [
+      "RepRapMicron",
+      "https://github.com/VikOlliver/RepRapMicron/wiki"
+    ]
+  ],
+  [
+    [
       "2026-10-18, 13:45:25",
       "https://news.ycombinator.com/item?id=50141053"
     ],
@@ -17,6 +27,16 @@
     [
       "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
       "https://github.com/0x23/MicroManipulatorStepper"
+    ]
+  ],
+  [
+    [
+      "2026-10-18, 11:15:37",
+      "https://news.ycombinator.com/item?id=50139998"
+    ],
+    [
+      "The Brain Sandwich",
+      "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-10-16, 13:08:32",
-      "https://news.ycombinator.com/item?id=50117935"
-    ],
-    [
-      "Superoptimizing an FPU Emulator",
-      "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/"
-    ]
-  ],
-  [
-    [
       "2026-10-16, 06:16:13",
       "https://news.ycombinator.com/item?id=50114758"
     ],
@@ -277,16 +287,6 @@
     [
       "Lorenz and Little: How Much Does Your Tail Cost?",
       "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 23:48:38",
-      "https://news.ycombinator.com/item?id=50097257"
-    ],
-    [
-      "Custom server to revive neato bots",
-      "https://github.com/vacuula/vacuula"
     ]
   ],
   [
