@@ -2,7 +2,6 @@
 
 * [2026-10-18, 11:16:22](https://news.ycombinator.com/item?id=50140001) - [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)
 * [2026-10-18, 11:02:28](https://news.ycombinator.com/item?id=50139935) - [Kids are outsmarting social media bans. That's not a problem we need to solve](https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/)
-* [2026-10-18, 10:49:26](https://news.ycombinator.com/item?id=50139873) - [How employment is changing at Anthropic](https://www.anthropic.com/research/employment-at-anthropic)
 * [2026-10-18, 10:21:51](https://news.ycombinator.com/item?id=50139692) - [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
 * [2026-10-18, 08:19:53](https://news.ycombinator.com/item?id=50139067) - [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/)
 * [2026-10-18, 06:50:36](https://news.ycombinator.com/item?id=50138531) - [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
@@ -16,6 +15,7 @@
 * [2026-10-17, 13:28:46](https://news.ycombinator.com/item?id=50131006) - [Show HN: High-quality duck audio synthesizer](https://celphase.github.io/duck-pond/)
 * [2026-10-17, 12:06:44](https://news.ycombinator.com/item?id=50130379) - [Interactive Linear Programming in the Browser](https://lpviz.net/)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+* [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 * [2026-10-16, 23:47:31](https://news.ycombinator.com/item?id=50126312) - [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/)
 * [2026-10-16, 23:38:27](https://news.ycombinator.com/item?id=50126253) - [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
 * [2026-10-16, 21:07:24](https://news.ycombinator.com/item?id=50124730) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
