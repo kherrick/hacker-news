@@ -2,6 +2,7 @@
 
 * [2026-10-18, 15:00:40](https://news.ycombinator.com/item?id=50141681) - [Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/)
 * [2026-10-18, 14:58:10](https://news.ycombinator.com/item?id=50141657) - [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
+* [2026-10-18, 14:47:37](https://news.ycombinator.com/item?id=50141579) - [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/)
 * [2026-10-18, 14:30:27](https://news.ycombinator.com/item?id=50141429) - [Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
 * [2026-10-18, 14:16:41](https://news.ycombinator.com/item?id=50141295) - [Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car](https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car)
 * [2026-10-18, 14:05:36](https://news.ycombinator.com/item?id=50141206) - [Theranos-Style Fraud Has Become the Norm](https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/)
@@ -17,7 +18,6 @@
 * [2026-10-18, 04:33:49](https://news.ycombinator.com/item?id=50137950) - [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)
 * [2026-10-18, 03:19:49](https://news.ycombinator.com/item?id=50137620) - [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
 * [2026-10-17, 15:55:09](https://news.ycombinator.com/item?id=50132193) - [Pele – Mermaid diagrams as themeable SVG](https://pele.run/)
-* [2026-10-17, 13:55:28](https://news.ycombinator.com/item?id=50131213) - [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 * [2026-10-16, 23:47:31](https://news.ycombinator.com/item?id=50126312) - [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/)
 * [2026-10-16, 23:38:27](https://news.ycombinator.com/item?id=50126253) - [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
