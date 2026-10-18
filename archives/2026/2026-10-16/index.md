@@ -22,6 +22,7 @@
 * [2026-10-16, 18:54:22](https://news.ycombinator.com/item?id=50122767) - [Weatherdeck – a read-only status board for AI coding agent lanes](https://github.com/Moshik21/weatherdeck)
 * [2026-10-16, 18:52:39](https://news.ycombinator.com/item?id=50122736) - [C++26: The New Debugging Header](https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging)
 * [2026-10-16, 18:49:31](https://news.ycombinator.com/item?id=50122682) - [Espresso machine can run Doom](https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/)
+* [2026-10-16, 18:48:48](https://news.ycombinator.com/item?id=50122671) - [Regex visualized as 3D marble run](https://www.regexmarblerun.com/)
 * [2026-10-16, 18:32:35](https://news.ycombinator.com/item?id=50122431) - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
 * [2026-10-16, 18:11:42](https://news.ycombinator.com/item?id=50122112) - [Anthropic assigned highest junk credit rating in June](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d)
 * [2026-10-16, 18:06:17](https://news.ycombinator.com/item?id=50122034) - [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear)
