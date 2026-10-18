@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-18, 00:14:22](https://news.ycombinator.com/item?id=50136536) - [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
+* [2026-10-17, 21:37:07](https://news.ycombinator.com/item?id=50135379) - [JDK 28](https://openjdk.org/projects/jdk/28/)
 * [2026-10-17, 20:07:33](https://news.ycombinator.com/item?id=50134617) - [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
 * [2026-10-17, 17:45:08](https://news.ycombinator.com/item?id=50133231) - [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
 * [2026-10-17, 17:36:17](https://news.ycombinator.com/item?id=50133150) - [I Became a Citizen of Japan](https://www.derekwessman.com/blog-1/natural)
@@ -21,7 +22,6 @@
 * [2026-10-16, 15:06:43](https://news.ycombinator.com/item?id=50119315) - [Rendering pretty sky in Around The World game](https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/)
 * [2026-10-16, 13:22:49](https://news.ycombinator.com/item?id=50118098) - [Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang](https://github.com/Kapendev/parin)
 * [2026-10-16, 13:08:32](https://news.ycombinator.com/item?id=50117935) - [Superoptimizing an FPU Emulator](https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/)
-* [2026-10-16, 09:35:36](https://news.ycombinator.com/item?id=50116213) - [Processing my father's death by climbing in his footsteps](https://www.nytimes.com/interactive/2026/10/14/magazine/yosemite-climbing-dad-east-buttress.html)
 * [2026-10-16, 06:16:13](https://news.ycombinator.com/item?id=50114758) - [Lean now ships with verified kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/)
 * [2026-10-15, 10:24:16](https://news.ycombinator.com/item?id=50101649) - [Laser Fault Injection on a Budget: RP2350 Edition](https://courk.cc/rp2350-challenge-laser)
 * [2026-10-15, 08:48:30](https://news.ycombinator.com/item?id=50100994) - [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
