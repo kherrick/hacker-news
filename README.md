@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-18, 13:48:48](https://news.ycombinator.com/item?id=50141076) - [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
-* [2026-10-18, 13:45:25](https://news.ycombinator.com/item?id=50141053) - [Gen Z Is the First Generation Dumber Than Their Parents](https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/)
 * [2026-10-18, 11:16:22](https://news.ycombinator.com/item?id=50140001) - [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)
 * [2026-10-18, 11:15:37](https://news.ycombinator.com/item?id=50139998) - [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
 * [2026-10-18, 10:21:51](https://news.ycombinator.com/item?id=50139692) - [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
@@ -11,6 +10,7 @@
 * [2026-10-18, 03:19:49](https://news.ycombinator.com/item?id=50137620) - [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
 * [2026-10-18, 00:14:22](https://news.ycombinator.com/item?id=50136536) - [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
 * [2026-10-17, 17:45:08](https://news.ycombinator.com/item?id=50133231) - [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
+* [2026-10-17, 17:06:07](https://news.ycombinator.com/item?id=50132870) - [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)
 * [2026-10-17, 15:55:09](https://news.ycombinator.com/item?id=50132193) - [Pele – Mermaid diagrams as themeable SVG](https://pele.run/)
 * [2026-10-17, 13:55:28](https://news.ycombinator.com/item?id=50131213) - [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
 * [2026-10-17, 13:28:46](https://news.ycombinator.com/item?id=50131006) - [Show HN: High-quality duck audio synthesizer](https://celphase.github.io/duck-pond/)
