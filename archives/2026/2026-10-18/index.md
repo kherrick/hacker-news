@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-18](index.md)
 
+* [2026-10-18, 06:50:36](https://news.ycombinator.com/item?id=50138531) - [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
+* [2026-10-18, 06:36:48](https://news.ycombinator.com/item?id=50138462) - [A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One](https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c)
 * [2026-10-18, 05:27:58](https://news.ycombinator.com/item?id=50138156) - [The game industry is broken – can we fix it?](https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash)
 * [2026-10-18, 05:09:14](https://news.ycombinator.com/item?id=50138087) - [Matthew Prince on why Cloudflare offers a free version and always will](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
 * [2026-10-18, 04:59:24](https://news.ycombinator.com/item?id=50138044) - [A Mole Infiltrated the Highest Ranks of American Militias](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
