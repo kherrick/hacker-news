@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-18](index.md)
 
+* [2026-10-18, 14:30:27](https://news.ycombinator.com/item?id=50141429) - [Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
 * [2026-10-18, 13:48:48](https://news.ycombinator.com/item?id=50141076) - [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
 * [2026-10-18, 13:45:25](https://news.ycombinator.com/item?id=50141053) - [Gen Z Is the First Generation Dumber Than Their Parents](https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/)
+* [2026-10-18, 13:06:54](https://news.ycombinator.com/item?id=50140769) - [Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/)
 * [2026-10-18, 12:46:35](https://news.ycombinator.com/item?id=50140638) - [Germany's 17M Immigrants: Where They Come From](https://www.visualcapitalist.com/cp/where-germanys-immigrants-come-from/)
 * [2026-10-18, 11:16:22](https://news.ycombinator.com/item?id=50140001) - [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)
 * [2026-10-18, 11:15:37](https://news.ycombinator.com/item?id=50139998) - [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
