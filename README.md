@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-18, 13:48:48](https://news.ycombinator.com/item?id=50141076) - [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
 * [2026-10-18, 13:45:25](https://news.ycombinator.com/item?id=50141053) - [Gen Z Is the First Generation Dumber Than Their Parents](https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/)
 * [2026-10-18, 11:16:22](https://news.ycombinator.com/item?id=50140001) - [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)
+* [2026-10-18, 11:15:37](https://news.ycombinator.com/item?id=50139998) - [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
 * [2026-10-18, 10:21:51](https://news.ycombinator.com/item?id=50139692) - [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
 * [2026-10-18, 08:19:53](https://news.ycombinator.com/item?id=50139067) - [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/)
 * [2026-10-18, 06:50:36](https://news.ycombinator.com/item?id=50138531) - [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
@@ -20,7 +22,6 @@
 * [2026-10-16, 21:07:24](https://news.ycombinator.com/item?id=50124730) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
 * [2026-10-16, 19:01:17](https://news.ycombinator.com/item?id=50122878) - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
 * [2026-10-16, 18:48:48](https://news.ycombinator.com/item?id=50122671) - [Regex visualized as 3D marble run](https://www.regexmarblerun.com/)
-* [2026-10-16, 13:08:32](https://news.ycombinator.com/item?id=50117935) - [Superoptimizing an FPU Emulator](https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/)
 * [2026-10-16, 06:16:13](https://news.ycombinator.com/item?id=50114758) - [Lean now ships with verified kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/)
 * [2026-10-15, 20:55:40](https://news.ycombinator.com/item?id=50110081) - [Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo](https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo)
 * [2026-10-15, 17:08:26](https://news.ycombinator.com/item?id=50106792) - [Fun Extending the C Preprocessor](https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html)
@@ -28,7 +29,6 @@
 * [2026-10-15, 08:48:30](https://news.ycombinator.com/item?id=50100994) - [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
 * [2026-10-15, 07:18:14](https://news.ycombinator.com/item?id=50100366) - [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
 * [2026-10-15, 02:39:37](https://news.ycombinator.com/item?id=50098485) - [Lorenz and Little: How Much Does Your Tail Cost?](https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html)
-* [2026-10-14, 23:48:38](https://news.ycombinator.com/item?id=50097257) - [Custom server to revive neato bots](https://github.com/vacuula/vacuula)
 * [2026-10-14, 18:57:57](https://news.ycombinator.com/item?id=50093081) - [Hatching (Heraldry)](https://en.wikipedia.org/wiki/Hatching_(heraldry))
 
 ## [Archives](archives/index.md)
