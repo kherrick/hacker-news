@@ -121,22 +121,22 @@
   ],
   [
     [
+      "2026-10-18, 12:11:13",
+      "https://news.ycombinator.com/item?id=50140383"
+    ],
+    [
+      "A new way to think about borrow checking (in reverse)",
+      "https://verdagon.dev/blog/reverse-borrow-checking"
+    ]
+  ],
+  [
+    [
       "2026-10-18, 11:16:22",
       "https://news.ycombinator.com/item?id=50140001"
     ],
     [
       "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
       "https://github.com/0x23/MicroManipulatorStepper"
-    ]
-  ],
-  [
-    [
-      "2026-10-18, 10:21:51",
-      "https://news.ycombinator.com/item?id=50139692"
-    ],
-    [
-      "Legal experts warn Meta's new terms still grant broad scraping permissions",
-      "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-10-16, 21:07:24",
-      "https://news.ycombinator.com/item?id=50124730"
-    ],
-    [
-      "Teal – A statically-typed dialect of Lua",
-      "https://teal-language.org/"
-    ]
-  ],
-  [
-    [
       "2026-10-16, 19:17:23",
       "https://news.ycombinator.com/item?id=50123123"
     ],
@@ -257,6 +247,16 @@
     [
       "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
       "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 13:30:20",
+      "https://news.ycombinator.com/item?id=50118165"
+    ],
+    [
+      "\"I'm on a war footing\": Terry Tao and the crisis in math",
+      "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html"
     ]
   ],
   [
