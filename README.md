@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-18, 14:58:10](https://news.ycombinator.com/item?id=50141657) - [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
 * [2026-10-18, 14:30:27](https://news.ycombinator.com/item?id=50141429) - [Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
 * [2026-10-18, 13:48:48](https://news.ycombinator.com/item?id=50141076) - [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
 * [2026-10-18, 13:06:54](https://news.ycombinator.com/item?id=50140769) - [Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/)
@@ -11,7 +12,6 @@
 * [2026-10-18, 04:33:49](https://news.ycombinator.com/item?id=50137950) - [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)
 * [2026-10-18, 03:19:49](https://news.ycombinator.com/item?id=50137620) - [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
 * [2026-10-18, 00:14:22](https://news.ycombinator.com/item?id=50136536) - [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
-* [2026-10-17, 17:45:08](https://news.ycombinator.com/item?id=50133231) - [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
 * [2026-10-17, 15:55:09](https://news.ycombinator.com/item?id=50132193) - [Pele – Mermaid diagrams as themeable SVG](https://pele.run/)
 * [2026-10-17, 13:55:28](https://news.ycombinator.com/item?id=50131213) - [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
 * [2026-10-17, 12:06:44](https://news.ycombinator.com/item?id=50130379) - [Interactive Linear Programming in the Browser](https://lpviz.net/)

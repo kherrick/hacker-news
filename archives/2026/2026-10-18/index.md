@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-18](index.md)
 
+* [2026-10-18, 14:58:10](https://news.ycombinator.com/item?id=50141657) - [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
 * [2026-10-18, 14:30:27](https://news.ycombinator.com/item?id=50141429) - [Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
 * [2026-10-18, 13:48:48](https://news.ycombinator.com/item?id=50141076) - [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
 * [2026-10-18, 13:45:25](https://news.ycombinator.com/item?id=50141053) - [Gen Z Is the First Generation Dumber Than Their Parents](https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/)
