@@ -34,6 +34,7 @@
 * [2026-10-17, 13:28:46](https://news.ycombinator.com/item?id=50131006) - [Show HN: High-quality duck audio synthesizer](https://celphase.github.io/duck-pond/)
 * [2026-10-17, 12:36:19](https://news.ycombinator.com/item?id=50130570) - [Super Intelligence](https://www.si.gov/)
 * [2026-10-17, 12:15:57](https://news.ycombinator.com/item?id=50130442) - [Show HN: Which Mac runs which LLM, and how fast](https://macyou.co/mac-llm-calculator)
+* [2026-10-17, 12:06:44](https://news.ycombinator.com/item?id=50130379) - [Interactive Linear Programming in the Browser](https://lpviz.net/)
 * [2026-10-17, 11:20:52](https://news.ycombinator.com/item?id=50130079) - [The future of programming – A.I. Wasserman and S. Gutz (1982)](https://dl.acm.org/doi/10.1145/358453.358459)
 * [2026-10-17, 10:59:31](https://news.ycombinator.com/item?id=50129947) - [MapQuest will now show you where Flock cameras are in your neighborhood](https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/)
 * [2026-10-17, 09:08:16](https://news.ycombinator.com/item?id=50129274) - [\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf)
