@@ -51,3 +51,4 @@
 * [2026-10-17, 03:16:25](https://news.ycombinator.com/item?id=50127572) - [A skeptic's first contact with Kubernetes (2024)](https://blog.davidv.dev/posts/first-contact-with-k8s/)
 * [2026-10-17, 02:21:08](https://news.ycombinator.com/item?id=50127274) - [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
 * [2026-10-17, 01:01:51](https://news.ycombinator.com/item?id=50126774) - [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
+* [2026-10-17, 00:11:29](https://news.ycombinator.com/item?id=50126457) - [Propagation of Sound in Strongly Viscous Liquids (1966) [pdf]](https://jetp.ras.ru/cgi-bin/dn/e_023_05_0893.pdf)
