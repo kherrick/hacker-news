@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-18, 18:48:04](https://news.ycombinator.com/item?id=50144066) - [Free Pascal Compiler Now Supports Dynamic Packages](https://www.getlazarus.org/dynamic/)
 * [2026-10-18, 18:40:16](https://news.ycombinator.com/item?id=50144005) - [HOA's are making the home crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
 * [2026-10-18, 18:26:40](https://news.ycombinator.com/item?id=50143876) - [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
 * [2026-10-18, 18:15:10](https://news.ycombinator.com/item?id=50143755) - [Investing in the Public Benefit](https://www.anthropic.com/news/public-benefit-fund)
@@ -22,7 +23,6 @@
 * [2026-10-18, 04:33:49](https://news.ycombinator.com/item?id=50137950) - [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)
 * [2026-10-18, 03:19:49](https://news.ycombinator.com/item?id=50137620) - [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
 * [2026-10-17, 23:08:30](https://news.ycombinator.com/item?id=50136017) - [Beyond Tetris: The Other Games of Alexey Pajitnov [video]](https://www.youtube.com/watch?v=QH_LPimUJMs)
-* [2026-10-16, 23:47:31](https://news.ycombinator.com/item?id=50126312) - [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/)
 * [2026-10-16, 21:07:24](https://news.ycombinator.com/item?id=50124730) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
 * [2026-10-16, 18:48:48](https://news.ycombinator.com/item?id=50122671) - [Regex visualized as 3D marble run](https://www.regexmarblerun.com/)
 * [2026-10-16, 15:43:46](https://news.ycombinator.com/item?id=50119819) - [CKKS – Addition and Multiplication](https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/)
