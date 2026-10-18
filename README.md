@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-18, 15:41:12](https://news.ycombinator.com/item?id=50142034) - [Campus deplatformings hit record high](https://expression.fire.org/p/campus-deplatformings-hit-record)
 * [2026-10-18, 15:26:06](https://news.ycombinator.com/item?id=50141909) - [macOS 15.8.2 Breaks OpenGL](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550)
 * [2026-10-18, 15:00:40](https://news.ycombinator.com/item?id=50141681) - [Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/)
 * [2026-10-18, 14:58:10](https://news.ycombinator.com/item?id=50141657) - [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
@@ -8,7 +7,6 @@
 * [2026-10-18, 14:31:52](https://news.ycombinator.com/item?id=50141436) - [High performance policy routed IPsec mesh SD-WAN](https://ranet3.com/)
 * [2026-10-18, 14:30:27](https://news.ycombinator.com/item?id=50141429) - [Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
 * [2026-10-18, 14:16:41](https://news.ycombinator.com/item?id=50141295) - [Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car](https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car)
-* [2026-10-18, 14:05:36](https://news.ycombinator.com/item?id=50141206) - [Theranos-Style Fraud Has Become the Norm](https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/)
 * [2026-10-18, 13:48:48](https://news.ycombinator.com/item?id=50141076) - [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
 * [2026-10-18, 13:41:06](https://news.ycombinator.com/item?id=50141024) - [The Electronic Disturbance Theater and Electronic Civil Disobedience](https://www.thing.net/~rdom/ecd/EDTECD.html)
 * [2026-10-18, 13:06:54](https://news.ycombinator.com/item?id=50140769) - [Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/)
@@ -29,6 +27,8 @@
 * [2026-10-16, 04:25:02](https://news.ycombinator.com/item?id=50114061) - [Chirp Pong – uses microphones and audio for networked game play](https://simonwillison.net/2026/Oct/15/chirp-pong/)
 * [2026-10-15, 18:34:09](https://news.ycombinator.com/item?id=50108165) - [Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5](http://www.ibiblio.org/eldritch/nhb/paperc/intro.html)
 * [2026-10-15, 12:06:38](https://news.ycombinator.com/item?id=50102480) - [A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]](https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf)
+* [2026-10-15, 08:48:30](https://news.ycombinator.com/item?id=50100994) - [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
+* [2026-10-14, 22:07:47](https://news.ycombinator.com/item?id=50096110) - [Sigsaly: Churchill's top secret hotline to the President](https://www.iwm.org.uk/history/iwm/cwr/telephone)
 * [2026-10-14, 18:57:57](https://news.ycombinator.com/item?id=50093081) - [Hatching (Heraldry)](https://en.wikipedia.org/wiki/Hatching_(heraldry))
 
 ## [Archives](archives/index.md)
