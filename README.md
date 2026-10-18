@@ -21,6 +21,7 @@
 * [2026-10-17, 00:11:29](https://news.ycombinator.com/item?id=50126457) - [Propagation of Sound in Strongly Viscous Liquids (1966) [pdf]](https://jetp.ras.ru/cgi-bin/dn/e_023_05_0893.pdf)
 * [2026-10-16, 23:47:31](https://news.ycombinator.com/item?id=50126312) - [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/)
 * [2026-10-16, 23:38:27](https://news.ycombinator.com/item?id=50126253) - [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
+* [2026-10-16, 21:07:24](https://news.ycombinator.com/item?id=50124730) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
 * [2026-10-16, 19:01:17](https://news.ycombinator.com/item?id=50122878) - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
 * [2026-10-16, 13:08:32](https://news.ycombinator.com/item?id=50117935) - [Superoptimizing an FPU Emulator](https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/)
 * [2026-10-16, 06:16:13](https://news.ycombinator.com/item?id=50114758) - [Lean now ships with verified kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/)
@@ -29,7 +30,6 @@
 * [2026-10-15, 08:48:30](https://news.ycombinator.com/item?id=50100994) - [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
 * [2026-10-15, 07:18:14](https://news.ycombinator.com/item?id=50100366) - [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
 * [2026-10-14, 23:48:38](https://news.ycombinator.com/item?id=50097257) - [Custom server to revive neato bots](https://github.com/vacuula/vacuula)
-* [2026-10-14, 17:00:31](https://news.ycombinator.com/item?id=50090927) - [Types of types: Haskell's Kind system](https://thunk.blog/posts/types-of-types-haskell-kind-system/)
 
 ## [Archives](archives/index.md)
 
