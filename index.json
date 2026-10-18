@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-10-16, 21:07:24",
+      "https://news.ycombinator.com/item?id=50124730"
+    ],
+    [
+      "Teal – A statically-typed dialect of Lua",
+      "https://teal-language.org/"
+    ]
+  ],
+  [
+    [
       "2026-10-16, 19:01:17",
       "https://news.ycombinator.com/item?id=50122878"
     ],
@@ -287,16 +297,6 @@
     [
       "Custom server to revive neato bots",
       "https://github.com/vacuula/vacuula"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 17:00:31",
-      "https://news.ycombinator.com/item?id=50090927"
-    ],
-    [
-      "Types of types: Haskell's Kind system",
-      "https://thunk.blog/posts/types-of-types-haskell-kind-system/"
     ]
   ]
 ]
