@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-18, 19:02:11](https://news.ycombinator.com/item?id=50144175) - [Personal software factories are a waste of time](https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/)
 * [2026-10-18, 18:48:04](https://news.ycombinator.com/item?id=50144066) - [Free Pascal Compiler Now Supports Dynamic Packages](https://www.getlazarus.org/dynamic/)
 * [2026-10-18, 18:40:16](https://news.ycombinator.com/item?id=50144005) - [HOA's are making the home crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
 * [2026-10-18, 18:26:40](https://news.ycombinator.com/item?id=50143876) - [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
@@ -28,7 +29,6 @@
 * [2026-10-16, 15:43:46](https://news.ycombinator.com/item?id=50119819) - [CKKS – Addition and Multiplication](https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/)
 * [2026-10-15, 18:34:09](https://news.ycombinator.com/item?id=50108165) - [Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5](http://www.ibiblio.org/eldritch/nhb/paperc/intro.html)
 * [2026-10-14, 22:07:47](https://news.ycombinator.com/item?id=50096110) - [Sigsaly: Churchill's top secret hotline to the President](https://www.iwm.org.uk/history/iwm/cwr/telephone)
-* [2026-10-14, 18:57:57](https://news.ycombinator.com/item?id=50093081) - [Hatching (Heraldry)](https://en.wikipedia.org/wiki/Hatching_(heraldry))
 * [2026-10-14, 18:53:52](https://news.ycombinator.com/item?id=50093020) - [I Electrified My Push Scooter with a Power Drill](https://eddieabbondanz.io/post/shop/drill-powered-scooter/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-18](index.md)
 
+* [2026-10-18, 19:02:11](https://news.ycombinator.com/item?id=50144175) - [Personal software factories are a waste of time](https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/)
 * [2026-10-18, 18:48:04](https://news.ycombinator.com/item?id=50144066) - [Free Pascal Compiler Now Supports Dynamic Packages](https://www.getlazarus.org/dynamic/)
 * [2026-10-18, 18:40:16](https://news.ycombinator.com/item?id=50144005) - [HOA's are making the home crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
 * [2026-10-18, 18:26:40](https://news.ycombinator.com/item?id=50143876) - [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
