@@ -69,6 +69,7 @@
 * [2026-10-15, 04:23:27](https://news.ycombinator.com/item?id=50099121) - [An Apology](https://www.elevationlab.com/blogs/news/an-apology)
 * [2026-10-15, 03:18:49](https://news.ycombinator.com/item?id=50098702) - [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct)
 * [2026-10-15, 02:53:29](https://news.ycombinator.com/item?id=50098570) - [One in ten people are older than 65. Three in four live under a leader who is](https://hannahritchie.substack.com/p/how-old-are-leaders)
+* [2026-10-15, 02:39:37](https://news.ycombinator.com/item?id=50098485) - [Lorenz and Little: How Much Does Your Tail Cost?](https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html)
 * [2026-10-15, 02:33:42](https://news.ycombinator.com/item?id=50098454) - [Show HN: My Terminal Themes Web App](https://news.ycombinator.com/item?id=50098454)
 * [2026-10-15, 02:07:15](https://news.ycombinator.com/item?id=50098281) - [Symmetries in Boolean Scan](https://ap29600.github.io/boolean_scans.html)
 * [2026-10-15, 02:06:36](https://news.ycombinator.com/item?id=50098274) - [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
