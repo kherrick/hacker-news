@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-18, 11:02:28",
+      "https://news.ycombinator.com/item?id=50139935"
+    ],
+    [
+      "Kids are outsmarting social media bans. That's not a problem we need to solve",
+      "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/"
+    ]
+  ],
+  [
+    [
+      "2026-10-18, 10:49:26",
+      "https://news.ycombinator.com/item?id=50139873"
+    ],
+    [
+      "How employment is changing at Anthropic",
+      "https://www.anthropic.com/research/employment-at-anthropic"
+    ]
+  ],
+  [
+    [
       "2026-10-18, 10:14:42",
       "https://news.ycombinator.com/item?id=50139658"
     ],
@@ -37,16 +57,6 @@
     [
       "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
       "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685"
-    ]
-  ],
-  [
-    [
-      "2026-10-18, 04:49:31",
-      "https://news.ycombinator.com/item?id=50138002"
-    ],
-    [
-      "Notes on the Complex Roots of Unity",
-      "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/"
     ]
   ],
   [
@@ -111,32 +121,12 @@
   ],
   [
     [
-      "2026-10-17, 14:01:01",
-      "https://news.ycombinator.com/item?id=50131256"
-    ],
-    [
-      "Solar surpasses nuclear power globally for first time",
-      "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"
-    ]
-  ],
-  [
-    [
       "2026-10-17, 13:55:28",
       "https://news.ycombinator.com/item?id=50131213"
     ],
     [
       "Making chicken transparent using Dorito dust",
       "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using"
-    ]
-  ],
-  [
-    [
-      "2026-10-17, 13:51:08",
-      "https://news.ycombinator.com/item?id=50131189"
-    ],
-    [
-      "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-      "https://github.com/mikroverk/esp32sim"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Commodore 64 hardware simulator: break chips and pins, see the results",
       "https://github.com/antirez/c64-hw-simulator"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 02:39:37",
+      "https://news.ycombinator.com/item?id=50098485"
+    ],
+    [
+      "Lorenz and Little: How Much Does Your Tail Cost?",
+      "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html"
     ]
   ],
   [
