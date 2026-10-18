@@ -25,9 +25,9 @@
 * [2026-10-16, 21:07:24](https://news.ycombinator.com/item?id=50124730) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
 * [2026-10-16, 18:48:48](https://news.ycombinator.com/item?id=50122671) - [Regex visualized as 3D marble run](https://www.regexmarblerun.com/)
 * [2026-10-16, 06:16:13](https://news.ycombinator.com/item?id=50114758) - [Lean now ships with verified kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/)
+* [2026-10-16, 04:25:02](https://news.ycombinator.com/item?id=50114061) - [Chirp Pong – uses microphones and audio for networked game play](https://simonwillison.net/2026/Oct/15/chirp-pong/)
 * [2026-10-15, 18:34:09](https://news.ycombinator.com/item?id=50108165) - [Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5](http://www.ibiblio.org/eldritch/nhb/paperc/intro.html)
 * [2026-10-15, 12:06:38](https://news.ycombinator.com/item?id=50102480) - [A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]](https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf)
-* [2026-10-15, 08:48:30](https://news.ycombinator.com/item?id=50100994) - [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
 * [2026-10-14, 22:07:47](https://news.ycombinator.com/item?id=50096110) - [Sigsaly: Churchill's top secret hotline to the President](https://www.iwm.org.uk/history/iwm/cwr/telephone)
 * [2026-10-14, 18:57:57](https://news.ycombinator.com/item?id=50093081) - [Hatching (Heraldry)](https://en.wikipedia.org/wiki/Hatching_(heraldry))
 
