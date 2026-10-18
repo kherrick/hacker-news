@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-18, 11:16:22",
+      "https://news.ycombinator.com/item?id=50140001"
+    ],
+    [
+      "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "https://github.com/0x23/MicroManipulatorStepper"
+    ]
+  ],
+  [
+    [
       "2026-10-18, 11:02:28",
       "https://news.ycombinator.com/item?id=50139935"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-10-17, 13:51:08",
-      "https://news.ycombinator.com/item?id=50131189"
-    ],
-    [
-      "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-      "https://github.com/mikroverk/esp32sim"
-    ]
-  ],
-  [
-    [
       "2026-10-17, 13:28:46",
       "https://news.ycombinator.com/item?id=50131006"
     ],
@@ -157,16 +157,6 @@
     [
       "DeepSeek-v4.1-Flash-1017",
       "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
-    ]
-  ],
-  [
-    [
-      "2026-10-17, 04:36:53",
-      "https://news.ycombinator.com/item?id=50127979"
-    ],
-    [
-      "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "https://llmspeed.dev/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Fun Extending the C Preprocessor",
       "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 12:06:38",
+      "https://news.ycombinator.com/item?id=50102480"
+    ],
+    [
+      "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
+      "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf"
     ]
   ],
   [
