@@ -22,6 +22,7 @@
 * [2026-10-15, 18:32:29](https://news.ycombinator.com/item?id=50108131) - [Why We're Banning AI](https://www.currentaffairs.org/news/why-were-banning-ai)
 * [2026-10-15, 17:47:39](https://news.ycombinator.com/item?id=50107379) - [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
 * [2026-10-15, 17:30:10](https://news.ycombinator.com/item?id=50107114) - [Anthropic Update on Independent Evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators)
+* [2026-10-15, 17:08:26](https://news.ycombinator.com/item?id=50106792) - [Fun Extending the C Preprocessor](https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html)
 * [2026-10-15, 17:06:01](https://news.ycombinator.com/item?id=50106747) - [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
 * [2026-10-15, 17:05:19](https://news.ycombinator.com/item?id=50106738) - [More on Anthropic's Scion ripping off Mononoke](https://sunshowers.io/posts/anthropic-mononoke-2/)
 * [2026-10-15, 17:01:56](https://news.ycombinator.com/item?id=50106676) - [An Israeli firm is sending zero-click spyware through online ads](https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware)
