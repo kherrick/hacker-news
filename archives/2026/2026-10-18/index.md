@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-18](index.md)
 
+* [2026-10-18, 15:41:12](https://news.ycombinator.com/item?id=50142034) - [Campus deplatformings hit record high](https://expression.fire.org/p/campus-deplatformings-hit-record)
 * [2026-10-18, 15:26:06](https://news.ycombinator.com/item?id=50141909) - [macOS 15.8.2 Breaks OpenGL](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550)
 * [2026-10-18, 15:00:40](https://news.ycombinator.com/item?id=50141681) - [Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/)
 * [2026-10-18, 14:58:10](https://news.ycombinator.com/item?id=50141657) - [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
