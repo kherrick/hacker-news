@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-18, 21:36:10](https://news.ycombinator.com/item?id=50145715) - [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
+* [2026-10-18, 21:24:13](https://news.ycombinator.com/item?id=50145628) - [Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux](https://github.com/omnipty-terminal/omnipty)
 * [2026-10-18, 20:48:14](https://news.ycombinator.com/item?id=50145337) - [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
 * [2026-10-18, 20:43:40](https://news.ycombinator.com/item?id=50145295) - [Netflix vmaf: Perceptual video quality assessment based on multi-method fusion](https://github.com/Netflix/vmaf)
 * [2026-10-18, 18:48:04](https://news.ycombinator.com/item?id=50144066) - [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
@@ -10,7 +11,6 @@
 * [2026-10-18, 16:32:00](https://news.ycombinator.com/item?id=50142573) - [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
 * [2026-10-18, 16:20:27](https://news.ycombinator.com/item?id=50142449) - [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
 * [2026-10-18, 14:47:37](https://news.ycombinator.com/item?id=50141579) - [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/)
-* [2026-10-18, 14:31:52](https://news.ycombinator.com/item?id=50141436) - [Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN](https://ranet3.com/)
 * [2026-10-18, 13:48:48](https://news.ycombinator.com/item?id=50141076) - [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
 * [2026-10-18, 13:06:54](https://news.ycombinator.com/item?id=50140769) - [Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/)
 * [2026-10-18, 11:16:22](https://news.ycombinator.com/item?id=50140001) - [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)
