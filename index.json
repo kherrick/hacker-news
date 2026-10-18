@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-10-15, 10:24:16",
-      "https://news.ycombinator.com/item?id=50101649"
-    ],
-    [
-      "Laser Fault Injection on a Budget: RP2350 Edition (2025)",
-      "https://courk.cc/rp2350-challenge-laser"
-    ]
-  ],
-  [
-    [
       "2026-10-15, 08:48:30",
       "https://news.ycombinator.com/item?id=50100994"
     ],
@@ -297,6 +287,16 @@
     [
       "Custom server to revive neato bots",
       "https://github.com/vacuula/vacuula"
+    ]
+  ],
+  [
+    [
+      "2026-10-14, 17:00:31",
+      "https://news.ycombinator.com/item?id=50090927"
+    ],
+    [
+      "Types of types: Haskell's Kind system",
+      "https://thunk.blog/posts/types-of-types-haskell-kind-system/"
     ]
   ]
 ]
