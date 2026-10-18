@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-18, 12:46:35](https://news.ycombinator.com/item?id=50140638) - [Germany's 17M Immigrants: Where They Come From](https://www.visualcapitalist.com/cp/where-germanys-immigrants-come-from/)
 * [2026-10-18, 11:16:22](https://news.ycombinator.com/item?id=50140001) - [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)
 * [2026-10-18, 10:21:51](https://news.ycombinator.com/item?id=50139692) - [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
 * [2026-10-18, 08:19:53](https://news.ycombinator.com/item?id=50139067) - [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/)
 * [2026-10-18, 06:50:36](https://news.ycombinator.com/item?id=50138531) - [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
+* [2026-10-18, 04:49:31](https://news.ycombinator.com/item?id=50138002) - [Notes on the Complex Roots of Unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/)
 * [2026-10-18, 04:33:49](https://news.ycombinator.com/item?id=50137950) - [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)
 * [2026-10-18, 03:19:49](https://news.ycombinator.com/item?id=50137620) - [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
 * [2026-10-18, 00:14:22](https://news.ycombinator.com/item?id=50136536) - [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
