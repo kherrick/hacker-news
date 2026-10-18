@@ -26,10 +26,10 @@
 * [2026-10-16, 06:16:13](https://news.ycombinator.com/item?id=50114758) - [Lean now ships with verified kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/)
 * [2026-10-15, 20:55:40](https://news.ycombinator.com/item?id=50110081) - [Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo](https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo)
 * [2026-10-15, 17:08:26](https://news.ycombinator.com/item?id=50106792) - [Fun Extending the C Preprocessor](https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html)
-* [2026-10-15, 10:24:16](https://news.ycombinator.com/item?id=50101649) - [Laser Fault Injection on a Budget: RP2350 Edition (2025)](https://courk.cc/rp2350-challenge-laser)
 * [2026-10-15, 08:48:30](https://news.ycombinator.com/item?id=50100994) - [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
 * [2026-10-15, 07:18:14](https://news.ycombinator.com/item?id=50100366) - [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
 * [2026-10-14, 23:48:38](https://news.ycombinator.com/item?id=50097257) - [Custom server to revive neato bots](https://github.com/vacuula/vacuula)
+* [2026-10-14, 17:00:31](https://news.ycombinator.com/item?id=50090927) - [Types of types: Haskell's Kind system](https://thunk.blog/posts/types-of-types-haskell-kind-system/)
 
 ## [Archives](archives/index.md)
 
