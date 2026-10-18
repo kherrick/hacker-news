@@ -31,12 +31,32 @@
   ],
   [
     [
+      "2026-10-18, 18:40:16",
+      "https://news.ycombinator.com/item?id=50144005"
+    ],
+    [
+      "Florida's HOAs and condo associations are making the housing crisis worse",
+      "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html"
+    ]
+  ],
+  [
+    [
       "2026-10-18, 17:56:59",
       "https://news.ycombinator.com/item?id=50143536"
     ],
     [
       "PalmOS Lemmings",
       "https://github.com/ardiri/palmos-lemmings"
+    ]
+  ],
+  [
+    [
+      "2026-10-18, 17:19:34",
+      "https://news.ycombinator.com/item?id=50143132"
+    ],
+    [
+      "Mitos editor is a fork of Helix",
+      "https://mitos.computer/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-10-18, 13:41:06",
-      "https://news.ycombinator.com/item?id=50141024"
-    ],
-    [
-      "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
-      "https://www.thing.net/~rdom/ecd/EDTECD.html"
-    ]
-  ],
-  [
-    [
       "2026-10-18, 13:06:54",
       "https://news.ycombinator.com/item?id=50140769"
     ],
@@ -137,16 +147,6 @@
     [
       "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
       "https://github.com/0x23/MicroManipulatorStepper"
-    ]
-  ],
-  [
-    [
-      "2026-10-18, 11:15:37",
-      "https://news.ycombinator.com/item?id=50139998"
-    ],
-    [
-      "The Brain Sandwich",
-      "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-10-16, 15:43:46",
-      "https://news.ycombinator.com/item?id=50119819"
-    ],
-    [
-      "CKKS – Addition and Multiplication",
-      "https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/"
-    ]
-  ],
-  [
-    [
       "2026-10-15, 18:34:09",
       "https://news.ycombinator.com/item?id=50108165"
     ],
@@ -297,6 +287,16 @@
     [
       "I electrified my push scooter with a power drill",
       "https://eddieabbondanz.io/post/shop/drill-powered-scooter/"
+    ]
+  ],
+  [
+    [
+      "2026-10-14, 17:00:31",
+      "https://news.ycombinator.com/item?id=50090927"
+    ],
+    [
+      "Types of types: Haskell's Kind system",
+      "https://thunk.blog/posts/types-of-types-haskell-kind-system/"
     ]
   ]
 ]
