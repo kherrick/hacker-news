@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-18, 17:27:30](https://news.ycombinator.com/item?id=50143218) - [British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)
+* [2026-10-18, 17:56:59](https://news.ycombinator.com/item?id=50143536) - [PalmOS Lemmings by Aaron Ardiri](https://github.com/ardiri/palmos-lemmings)
 * [2026-10-18, 17:19:34](https://news.ycombinator.com/item?id=50143132) - [Mitos editor is a fork of Helix](https://mitos.computer/)
 * [2026-10-18, 16:56:56](https://news.ycombinator.com/item?id=50142866) - [Namecheap just seized and disabled all my domains](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/)
 * [2026-10-18, 16:32:00](https://news.ycombinator.com/item?id=50142573) - [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
@@ -24,8 +24,8 @@
 * [2026-10-16, 23:38:27](https://news.ycombinator.com/item?id=50126253) - [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
 * [2026-10-16, 21:07:24](https://news.ycombinator.com/item?id=50124730) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
 * [2026-10-16, 18:48:48](https://news.ycombinator.com/item?id=50122671) - [Regex visualized as 3D marble run](https://www.regexmarblerun.com/)
+* [2026-10-16, 15:43:46](https://news.ycombinator.com/item?id=50119819) - [CKKS – Addition and Multiplication](https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/)
 * [2026-10-16, 06:16:13](https://news.ycombinator.com/item?id=50114758) - [Lean now ships with verified kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/)
-* [2026-10-16, 04:25:02](https://news.ycombinator.com/item?id=50114061) - [Chirp Pong – uses microphones and audio for networked game play](https://simonwillison.net/2026/Oct/15/chirp-pong/)
 * [2026-10-15, 18:34:09](https://news.ycombinator.com/item?id=50108165) - [Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5](http://www.ibiblio.org/eldritch/nhb/paperc/intro.html)
 * [2026-10-14, 22:07:47](https://news.ycombinator.com/item?id=50096110) - [Sigsaly: Churchill's top secret hotline to the President](https://www.iwm.org.uk/history/iwm/cwr/telephone)
 * [2026-10-14, 18:57:57](https://news.ycombinator.com/item?id=50093081) - [Hatching (Heraldry)](https://en.wikipedia.org/wiki/Hatching_(heraldry))

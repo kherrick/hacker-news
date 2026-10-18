@@ -39,6 +39,7 @@
 * [2026-10-16, 16:03:02](https://news.ycombinator.com/item?id=50120101) - [US Rep Announces Congressional Legislation to Protect Video Game Ownership](https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games)
 * [2026-10-16, 15:56:25](https://news.ycombinator.com/item?id=50120010) - [America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program](https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation)
 * [2026-10-16, 15:55:40](https://news.ycombinator.com/item?id=50119991) - [Postgres 19 delayed after AI reviewers find more bugs than humans can fix](https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471)
+* [2026-10-16, 15:43:46](https://news.ycombinator.com/item?id=50119819) - [CKKS – Addition and Multiplication](https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/)
 * [2026-10-16, 15:38:35](https://news.ycombinator.com/item?id=50119752) - [Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS](https://onedeploy.co)
 * [2026-10-16, 15:38:28](https://news.ycombinator.com/item?id=50119751) - [A story of WiFi secrets, UART lockdowns and a damaged flash memory chip](https://adepts.of0x.cc/eufy-homestation2-firmware/)
 * [2026-10-16, 15:06:43](https://news.ycombinator.com/item?id=50119315) - [Rendering pretty sky in Around The World game](https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/)
