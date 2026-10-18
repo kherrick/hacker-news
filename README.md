@@ -2,10 +2,10 @@
 
 * [2026-10-18, 11:02:28](https://news.ycombinator.com/item?id=50139935) - [Kids are outsmarting social media bans. That's not a problem we need to solve](https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/)
 * [2026-10-18, 10:49:26](https://news.ycombinator.com/item?id=50139873) - [How employment is changing at Anthropic](https://www.anthropic.com/research/employment-at-anthropic)
+* [2026-10-18, 10:21:51](https://news.ycombinator.com/item?id=50139692) - [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
 * [2026-10-18, 10:14:42](https://news.ycombinator.com/item?id=50139658) - [It's time to talk about TEEs](https://alinush.github.io//tee)
 * [2026-10-18, 08:19:53](https://news.ycombinator.com/item?id=50139067) - [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/)
 * [2026-10-18, 06:50:36](https://news.ycombinator.com/item?id=50138531) - [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
-* [2026-10-18, 05:09:14](https://news.ycombinator.com/item?id=50138087) - [Matthew Prince on why Cloudflare offers a free version and always will (2016)](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
 * [2026-10-18, 04:33:49](https://news.ycombinator.com/item?id=50137950) - [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)
 * [2026-10-18, 03:19:49](https://news.ycombinator.com/item?id=50137620) - [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
 * [2026-10-18, 00:14:22](https://news.ycombinator.com/item?id=50136536) - [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
