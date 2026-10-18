@@ -6,6 +6,7 @@
 
 * [2026-10-18, 19:24:30](https://news.ycombinator.com/item?id=50144405) - [US threatens Europe over Starlink restrictions](https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa)
 * [2026-10-18, 19:02:11](https://news.ycombinator.com/item?id=50144175) - [Personal software factories are a waste of time](https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/)
+* [2026-10-18, 18:59:09](https://news.ycombinator.com/item?id=50144144) - [Tiny Brutalism – Thanks to HN it's on Steam](https://store.steampowered.com/app/5426130/Tiny_Brutalism/)
 * [2026-10-18, 18:48:04](https://news.ycombinator.com/item?id=50144066) - [Free Pascal Compiler Now Supports Dynamic Packages](https://www.getlazarus.org/dynamic/)
 * [2026-10-18, 18:40:16](https://news.ycombinator.com/item?id=50144005) - [HOA's are making the home crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
 * [2026-10-18, 18:26:40](https://news.ycombinator.com/item?id=50143876) - [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
@@ -48,5 +49,6 @@
 * [2026-10-18, 04:07:07](https://news.ycombinator.com/item?id=50137826) - [My AI agent caught most of our sites saying sent while no email left the server](https://iampneuma.com/the-function-returned-true/)
 * [2026-10-18, 04:04:58](https://news.ycombinator.com/item?id=50137820) - [Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5](https://tkgally.github.io/500-clocks/)
 * [2026-10-18, 03:19:49](https://news.ycombinator.com/item?id=50137620) - [How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
+* [2026-10-18, 01:38:08](https://news.ycombinator.com/item?id=50136979) - [Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky)
 * [2026-10-18, 01:18:50](https://news.ycombinator.com/item?id=50136881) - [Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day)
 * [2026-10-18, 00:14:22](https://news.ycombinator.com/item?id=50136536) - [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)

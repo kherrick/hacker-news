@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-18, 19:24:30](https://news.ycombinator.com/item?id=50144405) - [US threatens Europe over Starlink restrictions](https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa)
+* [2026-10-18, 18:59:09](https://news.ycombinator.com/item?id=50144144) - [Tiny Brutalism – Thanks to HN it's on Steam](https://store.steampowered.com/app/5426130/Tiny_Brutalism/)
 * [2026-10-18, 18:48:04](https://news.ycombinator.com/item?id=50144066) - [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
 * [2026-10-18, 18:40:16](https://news.ycombinator.com/item?id=50144005) - [Florida's HOAs and condo associations are making the housing crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
 * [2026-10-18, 18:26:40](https://news.ycombinator.com/item?id=50143876) - [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
@@ -12,6 +12,7 @@
 * [2026-10-18, 15:26:06](https://news.ycombinator.com/item?id=50141909) - [macOS 15.8.2 Breaks OpenGL](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550)
 * [2026-10-18, 15:00:40](https://news.ycombinator.com/item?id=50141681) - [Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/)
 * [2026-10-18, 14:47:37](https://news.ycombinator.com/item?id=50141579) - [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/)
+* [2026-10-18, 14:31:52](https://news.ycombinator.com/item?id=50141436) - [Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN](https://ranet3.com/)
 * [2026-10-18, 13:48:48](https://news.ycombinator.com/item?id=50141076) - [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
 * [2026-10-18, 13:41:06](https://news.ycombinator.com/item?id=50141024) - [The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)](https://www.thing.net/~rdom/ecd/EDTECD.html)
 * [2026-10-18, 13:06:54](https://news.ycombinator.com/item?id=50140769) - [Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/)
@@ -22,14 +23,13 @@
 * [2026-10-18, 06:50:36](https://news.ycombinator.com/item?id=50138531) - [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
 * [2026-10-18, 04:33:49](https://news.ycombinator.com/item?id=50137950) - [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)
 * [2026-10-18, 03:19:49](https://news.ycombinator.com/item?id=50137620) - [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
+* [2026-10-18, 01:38:08](https://news.ycombinator.com/item?id=50136979) - [Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky)
 * [2026-10-17, 23:08:30](https://news.ycombinator.com/item?id=50136017) - [Beyond Tetris: The other games of Alexey Pajitnov [video]](https://www.youtube.com/watch?v=QH_LPimUJMs)
 * [2026-10-17, 08:24:23](https://news.ycombinator.com/item?id=50129060) - [Geographical Fun: Being Humourous Outlines of Various Countries (1868)](https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868/)
 * [2026-10-16, 21:07:24](https://news.ycombinator.com/item?id=50124730) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
-* [2026-10-16, 15:43:46](https://news.ycombinator.com/item?id=50119819) - [CKKS – Addition and Multiplication](https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/)
 * [2026-10-15, 18:34:09](https://news.ycombinator.com/item?id=50108165) - [Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5](http://www.ibiblio.org/eldritch/nhb/paperc/intro.html)
 * [2026-10-14, 22:07:47](https://news.ycombinator.com/item?id=50096110) - [SIGSALY: Churchill's top secret hotline to the president](https://www.iwm.org.uk/history/iwm/cwr/telephone)
-* [2026-10-14, 18:57:57](https://news.ycombinator.com/item?id=50093081) - [Hatching (Heraldry)](https://en.wikipedia.org/wiki/Hatching_(heraldry))
-* [2026-10-14, 18:53:52](https://news.ycombinator.com/item?id=50093020) - [I Electrified My Push Scooter with a Power Drill](https://eddieabbondanz.io/post/shop/drill-powered-scooter/)
+* [2026-10-14, 18:53:52](https://news.ycombinator.com/item?id=50093020) - [I electrified my push scooter with a power drill](https://eddieabbondanz.io/post/shop/drill-powered-scooter/)
 
 ## [Archives](archives/index.md)
 
