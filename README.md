@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-18, 06:50:36](https://news.ycombinator.com/item?id=50138531) - [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
-* [2026-10-18, 06:36:48](https://news.ycombinator.com/item?id=50138462) - [A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One](https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c)
 * [2026-10-18, 05:09:14](https://news.ycombinator.com/item?id=50138087) - [Matthew Prince on why Cloudflare offers a free version and always will (2016)](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
 * [2026-10-18, 04:59:24](https://news.ycombinator.com/item?id=50138044) - [A Mole Infiltrated the Highest Ranks of American Militias (2025)](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
 * [2026-10-18, 04:49:31](https://news.ycombinator.com/item?id=50138002) - [Notes on the Complex Roots of Unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/)
@@ -23,6 +22,7 @@
 * [2026-10-16, 23:38:27](https://news.ycombinator.com/item?id=50126253) - [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
 * [2026-10-16, 21:07:24](https://news.ycombinator.com/item?id=50124730) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
 * [2026-10-16, 19:01:17](https://news.ycombinator.com/item?id=50122878) - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
+* [2026-10-16, 17:29:00](https://news.ycombinator.com/item?id=50121516) - [Go Piss, Girl: The plight of the public potty](https://thebaffler.com/latest/go-piss-girl-wagner)
 * [2026-10-16, 13:08:32](https://news.ycombinator.com/item?id=50117935) - [Superoptimizing an FPU Emulator](https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/)
 * [2026-10-16, 06:16:13](https://news.ycombinator.com/item?id=50114758) - [Lean now ships with verified kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/)
 * [2026-10-15, 20:55:40](https://news.ycombinator.com/item?id=50110081) - [Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo](https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo)

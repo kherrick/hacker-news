@@ -28,6 +28,7 @@
 * [2026-10-16, 18:00:18](https://news.ycombinator.com/item?id=50121939) - [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)
 * [2026-10-16, 17:35:07](https://news.ycombinator.com/item?id=50121601) - [GifCities](https://gifcities.org/)
 * [2026-10-16, 17:31:42](https://news.ycombinator.com/item?id=50121562) - [Anthropic Console overcharged my card 100x due to internationalization input bug](https://news.ycombinator.com/item?id=50121562)
+* [2026-10-16, 17:29:00](https://news.ycombinator.com/item?id=50121516) - [Go Piss, Girl: The plight of the public potty](https://thebaffler.com/latest/go-piss-girl-wagner)
 * [2026-10-16, 17:28:19](https://news.ycombinator.com/item?id=50121506) - [The First Candid](https://www.newyorker.com/magazine/2026/10/19/the-first-candid)
 * [2026-10-16, 17:08:55](https://news.ycombinator.com/item?id=50121188) - [Piramidal (YC W24) Is Hiring](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009)
 * [2026-10-16, 17:08:38](https://news.ycombinator.com/item?id=50121179) - [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/)
