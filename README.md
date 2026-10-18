@@ -8,7 +8,7 @@
 * [2026-10-18, 14:47:37](https://news.ycombinator.com/item?id=50141579) - [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/)
 * [2026-10-18, 14:30:27](https://news.ycombinator.com/item?id=50141429) - [Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
 * [2026-10-18, 13:48:48](https://news.ycombinator.com/item?id=50141076) - [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
-* [2026-10-18, 13:41:06](https://news.ycombinator.com/item?id=50141024) - [The Electronic Disturbance Theater and Electronic Civil Disobedience](https://www.thing.net/~rdom/ecd/EDTECD.html)
+* [2026-10-18, 13:41:06](https://news.ycombinator.com/item?id=50141024) - [The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)](https://www.thing.net/~rdom/ecd/EDTECD.html)
 * [2026-10-18, 13:06:54](https://news.ycombinator.com/item?id=50140769) - [Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/)
 * [2026-10-18, 12:22:58](https://news.ycombinator.com/item?id=50140462) - [How Far Will AI Assistants Go for a Refund They Can't Get?](https://www.vals.ai/blogs/impossible-refund)
 * [2026-10-18, 11:16:22](https://news.ycombinator.com/item?id=50140001) - [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)
