@@ -14,6 +14,7 @@
 * [2026-10-16, 20:33:41](https://news.ycombinator.com/item?id=50124251) - [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314)
 * [2026-10-16, 19:47:13](https://news.ycombinator.com/item?id=50123580) - [Flux 3 Image Klein: open weights, 5.6B parameters](https://bfl.ai/blog/flux-3-image-klein)
 * [2026-10-16, 19:33:00](https://news.ycombinator.com/item?id=50123356) - [The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)
+* [2026-10-16, 19:17:23](https://news.ycombinator.com/item?id=50123123) - [\"Traditional, but Puzzling\"](https://unsung.aresluna.org/traditional-but-puzzling/)
 * [2026-10-16, 19:04:47](https://news.ycombinator.com/item?id=50122951) - [Claude writes about 90% of Claude Code's code](https://claude.dev/blog/solving-code-review-at-anthropic/)
 * [2026-10-16, 19:03:32](https://news.ycombinator.com/item?id=50122920) - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
 * [2026-10-16, 19:01:17](https://news.ycombinator.com/item?id=50122878) - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
