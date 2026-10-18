@@ -2,6 +2,7 @@
 
 * [2026-10-18, 18:40:16](https://news.ycombinator.com/item?id=50144005) - [HOA's are making the home crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
 * [2026-10-18, 18:26:40](https://news.ycombinator.com/item?id=50143876) - [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
+* [2026-10-18, 18:15:10](https://news.ycombinator.com/item?id=50143755) - [Investing in the Public Benefit](https://www.anthropic.com/news/public-benefit-fund)
 * [2026-10-18, 17:56:59](https://news.ycombinator.com/item?id=50143536) - [PalmOS Lemmings by Aaron Ardiri](https://github.com/ardiri/palmos-lemmings)
 * [2026-10-18, 17:19:34](https://news.ycombinator.com/item?id=50143132) - [Mitos editor is a fork of Helix](https://mitos.computer/)
 * [2026-10-18, 16:56:56](https://news.ycombinator.com/item?id=50142866) - [Namecheap just seized and disabled all my domains](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/)
@@ -25,7 +26,6 @@
 * [2026-10-16, 21:07:24](https://news.ycombinator.com/item?id=50124730) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
 * [2026-10-16, 18:48:48](https://news.ycombinator.com/item?id=50122671) - [Regex visualized as 3D marble run](https://www.regexmarblerun.com/)
 * [2026-10-16, 15:43:46](https://news.ycombinator.com/item?id=50119819) - [CKKS – Addition and Multiplication](https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/)
-* [2026-10-16, 06:16:13](https://news.ycombinator.com/item?id=50114758) - [Lean now ships with verified kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/)
 * [2026-10-15, 18:34:09](https://news.ycombinator.com/item?id=50108165) - [Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5](http://www.ibiblio.org/eldritch/nhb/paperc/intro.html)
 * [2026-10-14, 22:07:47](https://news.ycombinator.com/item?id=50096110) - [Sigsaly: Churchill's top secret hotline to the President](https://www.iwm.org.uk/history/iwm/cwr/telephone)
 * [2026-10-14, 18:57:57](https://news.ycombinator.com/item?id=50093081) - [Hatching (Heraldry)](https://en.wikipedia.org/wiki/Hatching_(heraldry))
