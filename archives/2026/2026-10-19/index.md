@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 14:06:10](https://news.ycombinator.com/item?id=50152701) - [Beyond These Stars](https://store.steampowered.com/app/2295060/Beyond_These_Stars/)
+* [2026-10-19, 13:53:52](https://news.ycombinator.com/item?id=50152541) - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)
+* [2026-10-19, 13:35:34](https://news.ycombinator.com/item?id=50152307) - [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
 * [2026-10-19, 13:27:49](https://news.ycombinator.com/item?id=50152207) - [Stripe will acquire OpenRouter for $7.5B](https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/)
 * [2026-10-19, 13:00:47](https://news.ycombinator.com/item?id=50151928) - [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/)
 * [2026-10-19, 13:00:29](https://news.ycombinator.com/item?id=50151922) - [8 in 10 Americans oppose live-streaming execution](https://www.washingtonpost.com/national-security/2026/10/15/8-10-americans-oppose-live-streaming-execution-fort-hood-shooter-poll-shows/)
