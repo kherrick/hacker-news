@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-19, 17:58:54",
-      "https://news.ycombinator.com/item?id=50155647"
-    ],
-    [
-      "Show HN: Open-source early-reading reader with phonics help",
-      "https://github.com/finereli/yarareads"
-    ]
-  ],
-  [
-    [
       "2026-10-19, 17:30:26",
       "https://news.ycombinator.com/item?id=50155291"
     ],
@@ -77,6 +67,16 @@
     [
       "I no longer care to work on any Ruby gems so I've archived all my repositories",
       "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 16:09:10",
+      "https://news.ycombinator.com/item?id=50154147"
+    ],
+    [
+      "Pentulive (Puppy Live) [video]",
+      "https://yle.fi/t/18-332106/fi"
     ]
   ],
   [
@@ -151,12 +151,12 @@
   ],
   [
     [
-      "2026-10-19, 13:16:59",
-      "https://news.ycombinator.com/item?id=50152072"
+      "2026-10-19, 13:35:12",
+      "https://news.ycombinator.com/item?id=50152302"
     ],
     [
-      "One hacker used AI agents and a few thousand dollars to break into 100 sites",
-      "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/"
+      "Cairn: Open windows into AI-driven cyber operations",
+      "https://norforge.com/blog/inside_cairn"
     ]
   ],
   [
@@ -171,32 +171,12 @@
   ],
   [
     [
-      "2026-10-19, 13:00:47",
-      "https://news.ycombinator.com/item?id=50151928"
-    ],
-    [
-      "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "https://100toolkit.com/blog/deslop-model/"
-    ]
-  ],
-  [
-    [
       "2026-10-19, 12:06:03",
       "https://news.ycombinator.com/item?id=50151376"
     ],
     [
       "The obscure trust looming over Anthropic's IPO",
       "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 11:12:02",
-      "https://news.ycombinator.com/item?id=50150935"
-    ],
-    [
-      "ESA's Hera Will View Asteroid Scars from DART's Strike",
-      "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous"
     ]
   ],
   [
@@ -227,6 +207,36 @@
     [
       "Timestral: Mistral's time-series foundation models",
       "https://mistral.ai/news/timestral/"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 02:40:04",
+      "https://news.ycombinator.com/item?id=50147760"
+    ],
+    [
+      "The Annotated VT100 Firmware (2022)",
+      "https://vt100.net/dec/vt100/rom/"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 01:56:39",
+      "https://news.ycombinator.com/item?id=50147462"
+    ],
+    [
+      "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
+      "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 01:18:02",
+      "https://news.ycombinator.com/item?id=50147233"
+    ],
+    [
+      "Starcraft: Ashfall",
+      "https://starcraft-shooter-2026.pages.dev/"
     ]
   ],
   [
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2026-10-17, 15:02:08",
-      "https://news.ycombinator.com/item?id=50131749"
+      "2026-10-17, 19:37:54",
+      "https://news.ycombinator.com/item?id=50134359"
     ],
     [
-      "A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z",
-      "https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z"
+      "The fire retardant in the seafood chain",
+      "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Galois Finite Fields and the Advanced Encryption Standard (AES)",
       "https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 21:13:08",
-      "https://news.ycombinator.com/item?id=50124811"
-    ],
-    [
-      "Gdynia and the Dream of a Maritime Poland",
-      "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/"
     ]
   ]
 ]
