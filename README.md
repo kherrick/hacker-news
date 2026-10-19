@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-19, 01:55:03](https://news.ycombinator.com/item?id=50147455) - [Footage of the Flock search that a judge ruled was uncosntitutional](https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/)
+* [2026-10-19, 01:18:02](https://news.ycombinator.com/item?id=50147233) - [Starcraft: Ashfall](https://starcraft-shooter-2026.pages.dev/)
 * [2026-10-18, 23:37:57](https://news.ycombinator.com/item?id=50146625) - [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
 * [2026-10-18, 23:37:54](https://news.ycombinator.com/item?id=50146624) - [How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?](https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base)
 * [2026-10-18, 21:36:10](https://news.ycombinator.com/item?id=50145715) - [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
@@ -29,7 +30,6 @@
 * [2026-10-15, 22:56:23](https://news.ycombinator.com/item?id=50111537) - [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448)
 * [2026-10-15, 01:51:02](https://news.ycombinator.com/item?id=50098148) - [16-bit fully functional DIY magnetic core memory](https://www.youtube.com/watch?v=OJ1WYyO2jdY)
 * [2026-10-14, 22:07:47](https://news.ycombinator.com/item?id=50096110) - [SIGSALY: Churchill's top secret hotline to the president](https://www.iwm.org.uk/history/iwm/cwr/telephone)
-* [2026-10-14, 18:53:52](https://news.ycombinator.com/item?id=50093020) - [I electrified my push scooter with a power drill](https://eddieabbondanz.io/post/shop/drill-powered-scooter/)
 
 ## [Archives](archives/index.md)
 
