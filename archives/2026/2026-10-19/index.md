@@ -19,6 +19,7 @@
 * [2026-10-19, 13:36:43](https://news.ycombinator.com/item?id=50152321) - [Plex vulnerabilities being exploited in the wild to drop a cryptominer](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html)
 * [2026-10-19, 13:35:34](https://news.ycombinator.com/item?id=50152307) - [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
 * [2026-10-19, 13:27:49](https://news.ycombinator.com/item?id=50152207) - [Stripe will acquire OpenRouter for $7.5B](https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/)
+* [2026-10-19, 13:07:07](https://news.ycombinator.com/item?id=50151980) - [Show HN: I built a task system to handle the drudgery so I could focus on tasks](https://3anddoneapp.com/try)
 * [2026-10-19, 13:00:47](https://news.ycombinator.com/item?id=50151928) - [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/)
 * [2026-10-19, 13:00:29](https://news.ycombinator.com/item?id=50151922) - [8 in 10 Americans oppose live-streaming execution](https://www.washingtonpost.com/national-security/2026/10/15/8-10-americans-oppose-live-streaming-execution-fort-hood-shooter-poll-shows/)
 * [2026-10-19, 12:07:41](https://news.ycombinator.com/item?id=50151390) - [Harness Engineering 101: The LLM is the brain, the harness is the body](https://github.com/IsuruMaduranga/harness-engineering-101)

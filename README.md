@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-19, 16:37:10](https://news.ycombinator.com/item?id=50154518) - [I no longer care to work on any Ruby gems so I've archived all my repositories](https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository)
 * [2026-10-19, 16:00:18](https://news.ycombinator.com/item?id=50154029) - [Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures](https://news.ycombinator.com/item?id=50154029)
-* [2026-10-19, 15:52:26](https://news.ycombinator.com/item?id=50153934) - [Another day another GitHub incident](https://www.githubstatus.com/incidents/8tzbpcnl75jp)
+* [2026-10-19, 15:52:26](https://news.ycombinator.com/item?id=50153934) - [Degraded availability for GitHub Actions, GitHub Pages and Webhooks](https://www.githubstatus.com/incidents/8tzbpcnl75jp)
 * [2026-10-19, 15:28:24](https://news.ycombinator.com/item?id=50153630) - [CERN and Mistral join forces to accelerate AI for science](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/)
 * [2026-10-19, 15:10:20](https://news.ycombinator.com/item?id=50153431) - [Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix](https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf)
 * [2026-10-19, 14:31:11](https://news.ycombinator.com/item?id=50152970) - [Maybe There Was an Egg Cartel After All](https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411)
@@ -10,6 +9,7 @@
 * [2026-10-19, 13:53:52](https://news.ycombinator.com/item?id=50152541) - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)
 * [2026-10-19, 13:36:43](https://news.ycombinator.com/item?id=50152321) - [Plex vulnerabilities being exploited in the wild to drop a cryptominer](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html)
 * [2026-10-19, 13:35:34](https://news.ycombinator.com/item?id=50152307) - [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
+* [2026-10-19, 13:07:07](https://news.ycombinator.com/item?id=50151980) - [Show HN: I built a task system to handle the drudgery so I could focus on tasks](https://3anddoneapp.com/try)
 * [2026-10-19, 13:00:47](https://news.ycombinator.com/item?id=50151928) - [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/)
 * [2026-10-19, 11:12:02](https://news.ycombinator.com/item?id=50150935) - [ESA's Hera Will View Asteroid Scars from DART's Strike](https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous)
 * [2026-10-19, 11:10:54](https://news.ycombinator.com/item?id=50150927) - [Alternatives to Animal Testing Are Finally Taking Off](https://spectrum.ieee.org/alternatives-to-animal-testing)
