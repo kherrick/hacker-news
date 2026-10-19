@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 15:24:43](https://news.ycombinator.com/item?id=50153598) - [Kevin Bacon's missing clothes finally delivered in Ireland](https://www.rte.ie/entertainment/2026/1019/1595980-kevin-bacon/)
 * [2026-10-19, 15:06:00](https://news.ycombinator.com/item?id=50153384) - [WFP stops provision to half a million people in Gaza over lack of funding](https://www.middleeasteye.net/news/world-food-programme-stops-funding-half-million-people-gaza-over-lack-funding)
 * [2026-10-19, 14:31:11](https://news.ycombinator.com/item?id=50152970) - [Maybe There Was an Egg Cartel After All](https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411)
 * [2026-10-19, 14:06:10](https://news.ycombinator.com/item?id=50152701) - [Beyond These Stars](https://store.steampowered.com/app/2295060/Beyond_These_Stars/)
