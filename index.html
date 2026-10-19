@@ -129,6 +129,140 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="50152701">
+          <h3>
+            <a
+              class="item"
+              href="https://store.steampowered.com/app/2295060/Beyond_These_Stars/"
+              >Beyond These Stars</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-19 @ 14:06:10</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50152701"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50152541">
+          <h3>
+            <a class="item" href="https://github.com/kividbio/kividb"
+              >Show HN: KiviDB, a faster Redis-compatible memory database and
+              vector cache</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-19 @ 13:53:52</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50152541"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                So I have been working on this project KiviDB from February
+                2026. It started as a project for me to understand rust, having
+                a product with no GC pauses, memory blow up after snapshots and
+                getting OOM on running pods, and that was actually an issue I
+                faced with Dragonfly. I wanted to have something picking the
+                best of Rust, but also picking the best parts of other
+                alternatives like Garnet and Dragonfly. I used AI a lot, but I
+                was the one making the design decisions based on the tests that
+                claude picked from my history of troubleshooting sessions as
+                part of my job. KiviDB supports both RESP2 and RESP3 protocol. I
+                had some founders credits on my AWS account which helped me with
+                the infra, and running instances I could perform benchmark on.
+              </p>
+              <p>
+                Its keyspace is sharded across threads, it is multi-threaded in
+                nature, and performs best on Linux due to io_uring, I used the
+                tokio_uring crate for this. It also has tokio fallback for other
+                OS's. I hadn't open sourced it until recently as I felt it was
+                not ready yet, the best way to learn it was to build a cloud
+                managed service for it across all three widely used cloud
+                providers i.e AWS, GCP and azure. Since I used to mainly work
+                with cloud, I had some insights on what would be the best ways
+                for the deployments, how to conduct failovers, manage SLAs, etc.
+                And that's what I took help from claude to fast pace it. The
+                website does look like AI slop but it works for now, given my
+                limited resources, that's all I had. You may check it out at :
+                <a href="https://kividb.io">https://kividb.io</a>, I open
+                sourced the core engine under AGPLv3, didn't want to have just
+                source available, because that is available with other tools
+                too. It supports apprx 98-99% of the redis 8.10 commands, few
+                have issues and you can find them at
+                <a href="https://github.com/kividbio/kividb/issues"
+                  >https://github.com/kividbio/kividb/issues</a
+                >, contributors are welcome.
+              </p>
+              <p>
+                Now the numbers, for the final benchmark, I used 2 c7gn.metal
+                servers, in the same placement group in us-east1, and I used
+                memtier-benchmark tool for this. The setting was : 10M keys,
+                100B each, 32 cores in use with both pipeline and un-pipelined
+                runs.
+              </p>
+              <p>
+                pipeline 16 GET: KiviDB 21.2M ops/sec vs Dragonfly 2.0 9.1M,
+                Redis 8.10 2.4M, Redis Cluster 32 shards 4.7M
+              </p>
+              <p>
+                When not pipelined, Dragonfly performed slightly better at 3.35M
+                ops/sec vs kividb at 3.07M ops/sec. Memory per key was also
+                slightly worse than dragonfly and almost same as Redis, 177B
+                (kividb) vs 134B (dragonfly) vs 178B (redis).
+              </p>
+              <p>
+                With vector ingestion times it was slower but when querying, it
+                was faster than most alternatives at lower ef, however slower
+                than dragonfly at high ef. Most of the technical details are
+                mentioned here so you can check it out:
+                <a href="https://kividb.io/benchmarks"
+                  >https://kividb.io/benchmarks</a
+                >.
+              </p>
+              <p>
+                easiest way to try it: docker run -d -p 6380:6380 kividb/kividb
+              </p>
+              <p>
+                I am looking forward to building a community around this,
+                provide better rust based tools, I am open to constructive
+                criticism and value informed opinion. Thanks
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="50152307">
+          <h3>
+            <a
+              class="item"
+              href="https://marc.info/?l=openbsd-ports&amp;m=179236125692175"
+              >Wine Ported to OpenBSD</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-19 @ 13:35:34</span
+              ><span class="points-container"
+                >Points: <span class="points">43</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50152307"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="50151928">
           <h3>
             <a class="item" href="https://100toolkit.com/blog/deslop-model/"
@@ -139,11 +273,11 @@
             <h4>
               <span>2026-10-19 @ 13:00:47</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50151928"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -161,11 +295,11 @@
             <h4>
               <span>2026-10-19 @ 12:07:41</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50151390"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -180,7 +314,7 @@
             <h4>
               <span>2026-10-19 @ 11:28:45</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50151059"
                   >Comments</a
@@ -201,7 +335,7 @@
             <h4>
               <span>2026-10-19 @ 11:12:02</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50150935"
                   >Comments</a
@@ -222,11 +356,11 @@
             <h4>
               <span>2026-10-19 @ 11:10:54</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50150927"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -244,11 +378,11 @@
             <h4>
               <span>2026-10-19 @ 10:53:39</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50150809"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -266,11 +400,11 @@
             <h4>
               <span>2026-10-19 @ 10:45:14</span
               ><span class="points-container"
-                >Points: <span class="points">500</span></span
+                >Points: <span class="points">536</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50150750"
                   >Comments</a
-                ><span class="descendants">: 236</span></span
+                ><span class="descendants">: 256</span></span
               >
             </h4>
           </section>
@@ -285,11 +419,11 @@
             <h4>
               <span>2026-10-19 @ 09:59:32</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">228</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50150434"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -304,11 +438,11 @@
             <h4>
               <span>2026-10-19 @ 07:23:57</span
               ><span class="points-container"
-                >Points: <span class="points">414</span></span
+                >Points: <span class="points">426</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50149392"
                   >Comments</a
-                ><span class="descendants">: 182</span></span
+                ><span class="descendants">: 186</span></span
               >
             </h4>
           </section>
@@ -323,11 +457,11 @@
             <h4>
               <span>2026-10-19 @ 05:55:31</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50148855"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -344,7 +478,7 @@
             <h4>
               <span>2026-10-19 @ 02:01:16</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50147492"
                   >Comments</a
@@ -363,7 +497,7 @@
             <h4>
               <span>2026-10-18 @ 23:37:57</span
               ><span class="points-container"
-                >Points: <span class="points">233</span></span
+                >Points: <span class="points">234</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50146625"
                   >Comments</a
@@ -385,11 +519,11 @@
             <h4>
               <span>2026-10-18 @ 23:37:54</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50146624"
                   >Comments</a
-                ><span class="descendants">: 150</span></span
+                ><span class="descendants">: 154</span></span
               >
             </h4>
           </section>
@@ -443,11 +577,11 @@
             <h4>
               <span>2026-10-18 @ 21:09:12</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">250</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50145507"
                   >Comments</a
-                ><span class="descendants">: 164</span></span
+                ><span class="descendants">: 167</span></span
               >
             </h4>
           </section>
@@ -513,25 +647,6 @@
             </h4>
           </section>
         </section>
-        <section id="50143536">
-          <h3>
-            <a class="item" href="https://github.com/ardiri/palmos-lemmings"
-              >PalmOS Lemmings</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-18 @ 17:56:59</span
-              ><span class="points-container"
-                >Points: <span class="points">143</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50143536"
-                  >Comments</a
-                ><span class="descendants">: 33</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="50142573">
           <h3>
             <a
@@ -544,7 +659,7 @@
             <h4>
               <span>2026-10-18 @ 16:32:00</span
               ><span class="points-container"
-                >Points: <span class="points">502</span></span
+                >Points: <span class="points">505</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50142573"
                   >Comments</a
@@ -565,32 +680,11 @@
             <h4>
               <span>2026-10-18 @ 13:48:48</span
               ><span class="points-container"
-                >Points: <span class="points">424</span></span
+                >Points: <span class="points">427</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50141076"
                   >Comments</a
                 ><span class="descendants">: 67</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50140383">
-          <h3>
-            <a
-              class="item"
-              href="https://verdagon.dev/blog/reverse-borrow-checking"
-              >A new way to think about borrow checking (in reverse)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-18 @ 12:11:13</span
-              ><span class="points-container"
-                >Points: <span class="points">111</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50140383"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -608,7 +702,7 @@
             <h4>
               <span>2026-10-18 @ 01:38:08</span
               ><span class="points-container"
-                >Points: <span class="points">303</span></span
+                >Points: <span class="points">305</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50136979"
                   >Comments</a
@@ -628,30 +722,11 @@
             <h4>
               <span>2026-10-17 @ 23:26:35</span
               ><span class="points-container"
-                >Points: <span class="points">460</span></span
+                >Points: <span class="points">466</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50136150"
                   >Comments</a
-                ><span class="descendants">: 593</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50135762">
-          <h3>
-            <a class="item" href="https://blog.picheta.me/post/killswitch-lang/"
-              >I built a programming language that LLMs can't use</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-17 @ 22:26:47</span
-              ><span class="points-container"
-                >Points: <span class="points">248</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50135762"
-                  >Comments</a
-                ><span class="descendants">: 182</span></span
+                ><span class="descendants">: 598</span></span
               >
             </h4>
           </section>
@@ -688,7 +763,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50125551"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -705,7 +780,7 @@
             <h4>
               <span>2026-10-16 @ 21:13:08</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50124811"
                   >Comments</a
@@ -726,7 +801,7 @@
             <h4>
               <span>2026-10-16 @ 06:17:01</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50114766"
                   >Comments</a
@@ -745,11 +820,11 @@
             <h4>
               <span>2026-10-15 @ 22:56:23</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50111537"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -766,11 +841,11 @@
             <h4>
               <span>2026-10-15 @ 15:13:21</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50104874"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
