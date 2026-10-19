@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-19, 05:55:31](https://news.ycombinator.com/item?id=50148855) - [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)
+* [2026-10-19, 05:11:24](https://news.ycombinator.com/item?id=50148601) - [Flatpak – An Insecurity Nightmare](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
 * [2026-10-19, 04:41:46](https://news.ycombinator.com/item?id=50148452) - [DeepSeek V4.1 Flash 1017 (Max)](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)
 * [2026-10-19, 04:40:18](https://news.ycombinator.com/item?id=50148441) - [Verisign .com Domain Name Registry Consumer Class Action](https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action)
 * [2026-10-19, 02:01:16](https://news.ycombinator.com/item?id=50147492) - [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
@@ -14,7 +15,6 @@
 * [2026-10-18, 17:56:59](https://news.ycombinator.com/item?id=50143536) - [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings)
 * [2026-10-18, 16:56:56](https://news.ycombinator.com/item?id=50142866) - [Namecheap just seized and disabled all my domains](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/)
 * [2026-10-18, 16:32:00](https://news.ycombinator.com/item?id=50142573) - [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
-* [2026-10-18, 16:20:27](https://news.ycombinator.com/item?id=50142449) - [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
 * [2026-10-18, 14:47:37](https://news.ycombinator.com/item?id=50141579) - [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/)
 * [2026-10-18, 13:48:48](https://news.ycombinator.com/item?id=50141076) - [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
 * [2026-10-18, 12:11:13](https://news.ycombinator.com/item?id=50140383) - [A new way to think about borrow checking (in reverse)](https://verdagon.dev/blog/reverse-borrow-checking)
@@ -24,11 +24,11 @@
 * [2026-10-17, 22:26:47](https://news.ycombinator.com/item?id=50135762) - [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/)
 * [2026-10-17, 14:07:36](https://news.ycombinator.com/item?id=50131315) - [Rabbits were a medieval royal luxury in England until the Black Death](https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html)
 * [2026-10-16, 22:21:34](https://news.ycombinator.com/item?id=50125551) - [The DNS Museum](https://dns.museum)
-* [2026-10-16, 19:17:23](https://news.ycombinator.com/item?id=50123123) - [\"Traditional, but Puzzling\"](https://unsung.aresluna.org/traditional-but-puzzling/)
 * [2026-10-16, 18:07:44](https://news.ycombinator.com/item?id=50122058) - [One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux](https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/)
 * [2026-10-16, 13:30:20](https://news.ycombinator.com/item?id=50118165) - [\"I'm on a war footing\": Terry Tao and the crisis in math](https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html)
 * [2026-10-15, 22:56:23](https://news.ycombinator.com/item?id=50111537) - [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448)
 * [2026-10-15, 18:42:57](https://news.ycombinator.com/item?id=50108297) - [How Postgres DELETE can actually scale](https://www.dbos.dev/blog/scaling-deletions-in-postgres)
+* [2026-10-15, 15:13:21](https://news.ycombinator.com/item?id=50104874) - [How to Train Your Robot](https://www.construction-physics.com/p/how-to-train-your-robot)
 * [2026-10-15, 01:51:02](https://news.ycombinator.com/item?id=50098148) - [16-bit fully functional DIY magnetic core memory](https://www.youtube.com/watch?v=OJ1WYyO2jdY)
 
 ## [Archives](archives/index.md)

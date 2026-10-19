@@ -41,6 +41,7 @@
 * [2026-10-15, 15:52:08](https://news.ycombinator.com/item?id=50105467) - [Show HN: Proa – a Rust web framework with fast SSR and multi-target rendering](https://proa.so/)
 * [2026-10-15, 15:44:36](https://news.ycombinator.com/item?id=50105344) - [I designed a nose guard for my dog and gave it away. Now 500 dogs wear one](https://snoutcover.com/one-year)
 * [2026-10-15, 15:20:04](https://news.ycombinator.com/item?id=50104965) - [Gyroscopes Got So Small [video]](https://www.youtube.com/watch?v=0Zc_6xB5W3Y)
+* [2026-10-15, 15:13:21](https://news.ycombinator.com/item?id=50104874) - [How to Train Your Robot](https://www.construction-physics.com/p/how-to-train-your-robot)
 * [2026-10-15, 15:06:52](https://news.ycombinator.com/item?id=50104783) - [Recipes Are Moving from Maven Central to the Code Genome Project](https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module)
 * [2026-10-15, 15:03:17](https://news.ycombinator.com/item?id=50104726) - [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
 * [2026-10-15, 14:58:48](https://news.ycombinator.com/item?id=50104654) - [Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)

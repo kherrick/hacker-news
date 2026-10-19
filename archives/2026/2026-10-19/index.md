@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
 * [2026-10-19, 05:55:31](https://news.ycombinator.com/item?id=50148855) - [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)
+* [2026-10-19, 05:11:24](https://news.ycombinator.com/item?id=50148601) - [Flatpak – An Insecurity Nightmare](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
 * [2026-10-19, 04:41:46](https://news.ycombinator.com/item?id=50148452) - [DeepSeek v4.1 Flash 1017 Scores 45 in Artificial Analysis](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)
 * [2026-10-19, 04:40:18](https://news.ycombinator.com/item?id=50148441) - [Verisign .com Domain Name Registry Consumer Class Action](https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action)
 * [2026-10-19, 04:32:07](https://news.ycombinator.com/item?id=50148396) - [Show HN: Strot – Compile an LLM's intent once, run decisions locally forever](https://github.com/strot-ai/Project-STROT)
