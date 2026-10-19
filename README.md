@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-19, 02:01:16](https://news.ycombinator.com/item?id=50147492) - [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
 * [2026-10-19, 01:55:03](https://news.ycombinator.com/item?id=50147455) - [Footage of the Flock search that a judge ruled was uncosntitutional](https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/)
 * [2026-10-19, 01:18:02](https://news.ycombinator.com/item?id=50147233) - [Starcraft: Ashfall](https://starcraft-shooter-2026.pages.dev/)
 * [2026-10-18, 23:37:57](https://news.ycombinator.com/item?id=50146625) - [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
@@ -21,7 +22,6 @@
 * [2026-10-18, 01:38:08](https://news.ycombinator.com/item?id=50136979) - [Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky)
 * [2026-10-17, 23:26:35](https://news.ycombinator.com/item?id=50136150) - [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
 * [2026-10-17, 22:26:47](https://news.ycombinator.com/item?id=50135762) - [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/)
-* [2026-10-17, 13:34:43](https://news.ycombinator.com/item?id=50131053) - [Developing for Debugging (2025)](https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/)
 * [2026-10-16, 22:21:34](https://news.ycombinator.com/item?id=50125551) - [The DNS Museum](https://dns.museum)
 * [2026-10-16, 19:17:23](https://news.ycombinator.com/item?id=50123123) - [\"Traditional, but Puzzling\"](https://unsung.aresluna.org/traditional-but-puzzling/)
 * [2026-10-16, 18:07:44](https://news.ycombinator.com/item?id=50122058) - [One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux](https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/)
