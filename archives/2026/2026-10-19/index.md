@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 12:07:41](https://news.ycombinator.com/item?id=50151390) - [Harness Engineering 101: The LLM is the brain, the harness is the body](https://github.com/IsuruMaduranga/harness-engineering-101)
 * [2026-10-19, 11:12:02](https://news.ycombinator.com/item?id=50150935) - [ESA's Hera Will View Asteroid Scars from DART's Strike](https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous)
+* [2026-10-19, 11:10:54](https://news.ycombinator.com/item?id=50150927) - [Alternatives to Animal Testing Are Finally Taking Off](https://spectrum.ieee.org/alternatives-to-animal-testing)
 * [2026-10-19, 11:07:21](https://news.ycombinator.com/item?id=50150908) - [Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks](https://clipjury.com/guides/ai-tool-terms-changed-2026/)
 * [2026-10-19, 10:53:39](https://news.ycombinator.com/item?id=50150809) - [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
 * [2026-10-19, 10:45:14](https://news.ycombinator.com/item?id=50150750) - [Documents: Police officer gave her Flock login to her ICE agent husband](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816)
