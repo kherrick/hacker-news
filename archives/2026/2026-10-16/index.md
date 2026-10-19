@@ -76,6 +76,7 @@
 * [2026-10-16, 08:28:54](https://news.ycombinator.com/item?id=50115703) - [Coconuts in Medieval Britain (2015)](https://www.themarysue.com/monty-python-holy-grail-coconuts/)
 * [2026-10-16, 07:41:36](https://news.ycombinator.com/item?id=50115354) - [Development of Norton Commander](https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml)
 * [2026-10-16, 07:12:09](https://news.ycombinator.com/item?id=50115144) - [The insider trading you're allowed to do](https://coached.com/essays/the-insider-trading-youre-allowed-to-do/)
+* [2026-10-16, 06:17:01](https://news.ycombinator.com/item?id=50114766) - [Beyond the Glass](https://longreads.com/2026/10/15/mother-museum-skulls-grief-agni/)
 * [2026-10-16, 06:16:13](https://news.ycombinator.com/item?id=50114758) - [Lean Now Ships with Verified Kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/)
 * [2026-10-16, 05:14:42](https://news.ycombinator.com/item?id=50114359) - [Last rites for Gentoo's Chromium package](https://lwn.net/Articles/1097760/)
 * [2026-10-16, 05:11:28](https://news.ycombinator.com/item?id=50114342) - [The Folders Programming Language](https://danieltemkin.com/esolangs/folders)

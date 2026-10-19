@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 13:27:49](https://news.ycombinator.com/item?id=50152207) - [Stripe will acquire OpenRouter for $7.5B](https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/)
 * [2026-10-19, 13:00:47](https://news.ycombinator.com/item?id=50151928) - [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/)
 * [2026-10-19, 13:00:29](https://news.ycombinator.com/item?id=50151922) - [8 in 10 Americans oppose live-streaming execution](https://www.washingtonpost.com/national-security/2026/10/15/8-10-americans-oppose-live-streaming-execution-fort-hood-shooter-poll-shows/)
 * [2026-10-19, 12:07:41](https://news.ycombinator.com/item?id=50151390) - [Harness Engineering 101: The LLM is the brain, the harness is the body](https://github.com/IsuruMaduranga/harness-engineering-101)
+* [2026-10-19, 11:28:45](https://news.ycombinator.com/item?id=50151059) - [Harness2 by Google Research – Recursive Agent Harnessing](https://github.com/google-research/harness2)
 * [2026-10-19, 11:12:02](https://news.ycombinator.com/item?id=50150935) - [ESA's Hera Will View Asteroid Scars from DART's Strike](https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous)
 * [2026-10-19, 11:10:54](https://news.ycombinator.com/item?id=50150927) - [Alternatives to Animal Testing Are Finally Taking Off](https://spectrum.ieee.org/alternatives-to-animal-testing)
 * [2026-10-19, 11:07:21](https://news.ycombinator.com/item?id=50150908) - [Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks](https://clipjury.com/guides/ai-tool-terms-changed-2026/)

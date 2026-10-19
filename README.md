@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-19, 13:27:49](https://news.ycombinator.com/item?id=50152207) - [Stripe will acquire OpenRouter for $7.5B](https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/)
 * [2026-10-19, 13:00:47](https://news.ycombinator.com/item?id=50151928) - [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/)
-* [2026-10-19, 13:00:29](https://news.ycombinator.com/item?id=50151922) - [8 in 10 Americans oppose live-streaming execution](https://www.washingtonpost.com/national-security/2026/10/15/8-10-americans-oppose-live-streaming-execution-fort-hood-shooter-poll-shows/)
 * [2026-10-19, 12:07:41](https://news.ycombinator.com/item?id=50151390) - [Harness Engineering 101: The LLM is the brain, the harness is the body](https://github.com/IsuruMaduranga/harness-engineering-101)
+* [2026-10-19, 11:28:45](https://news.ycombinator.com/item?id=50151059) - [Harness2 by Google Research – Recursive Agent Harnessing](https://github.com/google-research/harness2)
 * [2026-10-19, 11:12:02](https://news.ycombinator.com/item?id=50150935) - [ESA's Hera Will View Asteroid Scars from DART's Strike](https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous)
 * [2026-10-19, 11:10:54](https://news.ycombinator.com/item?id=50150927) - [Alternatives to Animal Testing Are Finally Taking Off](https://spectrum.ieee.org/alternatives-to-animal-testing)
 * [2026-10-19, 10:53:39](https://news.ycombinator.com/item?id=50150809) - [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
@@ -17,9 +18,7 @@
 * [2026-10-18, 21:09:12](https://news.ycombinator.com/item?id=50145507) - [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
 * [2026-10-18, 20:48:14](https://news.ycombinator.com/item?id=50145337) - [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
 * [2026-10-18, 18:48:04](https://news.ycombinator.com/item?id=50144066) - [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
-* [2026-10-18, 17:56:59](https://news.ycombinator.com/item?id=50143536) - [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings)
 * [2026-10-18, 16:32:00](https://news.ycombinator.com/item?id=50142573) - [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
-* [2026-10-18, 14:31:52](https://news.ycombinator.com/item?id=50141436) - [Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN](https://ranet3.com/)
 * [2026-10-18, 13:48:48](https://news.ycombinator.com/item?id=50141076) - [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
 * [2026-10-18, 01:38:08](https://news.ycombinator.com/item?id=50136979) - [Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky)
 * [2026-10-17, 23:26:35](https://news.ycombinator.com/item?id=50136150) - [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
@@ -28,6 +27,7 @@
 * [2026-10-17, 14:07:36](https://news.ycombinator.com/item?id=50131315) - [Rabbits were a medieval royal luxury in England until the Black Death](https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html)
 * [2026-10-16, 22:21:34](https://news.ycombinator.com/item?id=50125551) - [The DNS Museum](https://dns.museum)
 * [2026-10-16, 21:13:08](https://news.ycombinator.com/item?id=50124811) - [Gdynia and the Dream of a Maritime Poland](https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/)
+* [2026-10-16, 06:17:01](https://news.ycombinator.com/item?id=50114766) - [Beyond the Glass](https://longreads.com/2026/10/15/mother-museum-skulls-grief-agni/)
 * [2026-10-15, 22:56:23](https://news.ycombinator.com/item?id=50111537) - [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448)
 * [2026-10-15, 15:13:21](https://news.ycombinator.com/item?id=50104874) - [How to Train Your Robot](https://www.construction-physics.com/p/how-to-train-your-robot)
 
