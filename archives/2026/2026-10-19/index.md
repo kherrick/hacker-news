@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 17:58:54](https://news.ycombinator.com/item?id=50155647) - [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)
 * [2026-10-19, 17:30:26](https://news.ycombinator.com/item?id=50155291) - [Europe EV sales rose 70.3% in September, 32.6% of market share](https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/)
 * [2026-10-19, 17:27:11](https://news.ycombinator.com/item?id=50155245) - [Inception \"Mercury 3\", 1000 tok/s diffusion LLM](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
+* [2026-10-19, 17:26:38](https://news.ycombinator.com/item?id=50155237) - [Ukraine carries out aerial drone evacuation of a wounded soldier](https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html)
 * [2026-10-19, 17:21:33](https://news.ycombinator.com/item?id=50155172) - [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
 * [2026-10-19, 16:45:30](https://news.ycombinator.com/item?id=50154624) - [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
 * [2026-10-19, 16:39:09](https://news.ycombinator.com/item?id=50154540) - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
@@ -25,6 +27,7 @@
 * [2026-10-19, 13:36:43](https://news.ycombinator.com/item?id=50152321) - [Plex vulnerabilities being exploited in the wild to drop a cryptominer](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html)
 * [2026-10-19, 13:35:34](https://news.ycombinator.com/item?id=50152307) - [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
 * [2026-10-19, 13:27:49](https://news.ycombinator.com/item?id=50152207) - [Stripe will acquire OpenRouter for $7.5B](https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/)
+* [2026-10-19, 13:16:59](https://news.ycombinator.com/item?id=50152072) - [One hacker used AI agents and a few thousand dollars to break into 100 sites](https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/)
 * [2026-10-19, 13:07:07](https://news.ycombinator.com/item?id=50151980) - [Show HN: I built a task system to handle the drudgery so I could focus on tasks](https://3anddoneapp.com/try)
 * [2026-10-19, 13:00:47](https://news.ycombinator.com/item?id=50151928) - [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/)
 * [2026-10-19, 13:00:29](https://news.ycombinator.com/item?id=50151922) - [8 in 10 Americans oppose live-streaming execution](https://www.washingtonpost.com/national-security/2026/10/15/8-10-americans-oppose-live-streaming-execution-fort-hood-shooter-poll-shows/)
