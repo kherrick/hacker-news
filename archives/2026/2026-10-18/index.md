@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-18](index.md)
 
 * [2026-10-18, 23:37:57](https://news.ycombinator.com/item?id=50146625) - [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
+* [2026-10-18, 23:37:54](https://news.ycombinator.com/item?id=50146624) - [How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?](https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base)
 * [2026-10-18, 22:48:07](https://news.ycombinator.com/item?id=50146286) - [How RC2's π table was made](https://khalidhamadeh.com/writing/rc2-pi-table)
 * [2026-10-18, 21:36:10](https://news.ycombinator.com/item?id=50145715) - [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
 * [2026-10-18, 21:24:13](https://news.ycombinator.com/item?id=50145628) - [Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux](https://github.com/omnipty-terminal/omnipty)

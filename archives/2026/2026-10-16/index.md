@@ -8,6 +8,7 @@
 * [2026-10-16, 23:52:04](https://news.ycombinator.com/item?id=50126334) - [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org)
 * [2026-10-16, 23:47:31](https://news.ycombinator.com/item?id=50126312) - [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/)
 * [2026-10-16, 23:38:27](https://news.ycombinator.com/item?id=50126253) - [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
+* [2026-10-16, 22:21:34](https://news.ycombinator.com/item?id=50125551) - [The DNS Museum](https://dns.museum)
 * [2026-10-16, 22:21:05](https://news.ycombinator.com/item?id=50125545) - [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
 * [2026-10-16, 21:07:24](https://news.ycombinator.com/item?id=50124730) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
 * [2026-10-16, 21:01:23](https://news.ycombinator.com/item?id=50124642) - [Why harnesses matter for energy (and token) efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
