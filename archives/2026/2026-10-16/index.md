@@ -10,6 +10,7 @@
 * [2026-10-16, 23:38:27](https://news.ycombinator.com/item?id=50126253) - [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
 * [2026-10-16, 22:21:34](https://news.ycombinator.com/item?id=50125551) - [The DNS Museum](https://dns.museum)
 * [2026-10-16, 22:21:05](https://news.ycombinator.com/item?id=50125545) - [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
+* [2026-10-16, 21:13:08](https://news.ycombinator.com/item?id=50124811) - [Gdynia and the Dream of a Maritime Poland](https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/)
 * [2026-10-16, 21:07:24](https://news.ycombinator.com/item?id=50124730) - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
 * [2026-10-16, 21:01:23](https://news.ycombinator.com/item?id=50124642) - [Why harnesses matter for energy (and token) efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
 * [2026-10-16, 20:33:41](https://news.ycombinator.com/item?id=50124251) - [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314)
