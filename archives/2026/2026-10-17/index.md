@@ -49,6 +49,7 @@
 * [2026-10-17, 09:08:16](https://news.ycombinator.com/item?id=50129274) - [\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf)
 * [2026-10-17, 09:01:30](https://news.ycombinator.com/item?id=50129235) - [Is MCP becoming the common foundation of smart, decentralised search?](https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search)
 * [2026-10-17, 08:37:46](https://news.ycombinator.com/item?id=50129121) - [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
+* [2026-10-17, 08:34:31](https://news.ycombinator.com/item?id=50129102) - [Galois Finite Fields and the Advanced Encryption Standard (AES)](https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html)
 * [2026-10-17, 08:24:23](https://news.ycombinator.com/item?id=50129060) - [Geographical Fun: Being Humourous Outlines of Various Countries (1868)](https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868/)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 * [2026-10-17, 07:01:07](https://news.ycombinator.com/item?id=50128654) - [Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop](https://github.com/CLoaKY233/siltop)
