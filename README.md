@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-19, 11:12:02](https://news.ycombinator.com/item?id=50150935) - [ESA's Hera Will View Asteroid Scars from DART's Strike](https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous)
 * [2026-10-19, 10:53:39](https://news.ycombinator.com/item?id=50150809) - [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
 * [2026-10-19, 10:45:14](https://news.ycombinator.com/item?id=50150750) - [Documents: Police officer gave her Flock login to her ICE agent husband](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816)
 * [2026-10-19, 09:59:32](https://news.ycombinator.com/item?id=50150434) - [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/)
@@ -28,7 +29,6 @@
 * [2026-10-16, 00:33:14](https://news.ycombinator.com/item?id=50112204) - [HOL Light Tutorial](https://hol-light.github.io/tutorial/HTML/tutorial.html)
 * [2026-10-15, 22:56:23](https://news.ycombinator.com/item?id=50111537) - [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448)
 * [2026-10-15, 20:09:26](https://news.ycombinator.com/item?id=50109546) - [Lant – The Forgotten Resource](https://sites.udel.edu/materialmatters/2018/04/11/lant-the-forgotten-resource/)
-* [2026-10-15, 18:42:57](https://news.ycombinator.com/item?id=50108297) - [How Postgres DELETE can actually scale](https://www.dbos.dev/blog/scaling-deletions-in-postgres)
 * [2026-10-15, 15:13:21](https://news.ycombinator.com/item?id=50104874) - [How to Train Your Robot](https://www.construction-physics.com/p/how-to-train-your-robot)
 
 ## [Archives](archives/index.md)
