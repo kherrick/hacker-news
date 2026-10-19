@@ -14,6 +14,7 @@
 * [2026-10-15, 20:55:40](https://news.ycombinator.com/item?id=50110081) - [Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo](https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo)
 * [2026-10-15, 20:23:25](https://news.ycombinator.com/item?id=50109715) - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 * [2026-10-15, 20:22:50](https://news.ycombinator.com/item?id=50109707) - [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
+* [2026-10-15, 20:09:26](https://news.ycombinator.com/item?id=50109546) - [Lant – The Forgotten Resource](https://sites.udel.edu/materialmatters/2018/04/11/lant-the-forgotten-resource/)
 * [2026-10-15, 19:58:33](https://news.ycombinator.com/item?id=50109409) - [2026 State of the Climate Report Shows a Planet Reaching Its Limits](https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits)
 * [2026-10-15, 19:55:49](https://news.ycombinator.com/item?id=50109375) - [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
 * [2026-10-15, 19:47:45](https://news.ycombinator.com/item?id=50109272) - [\"I'm a Lawyer.\" Said the White House Press Secretary. Florida Would Like a Word](https://chazstevens.substack.com/p/im-a-lawyer)
