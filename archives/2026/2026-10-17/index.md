@@ -23,6 +23,7 @@
 * [2026-10-17, 17:16:17](https://news.ycombinator.com/item?id=50132972) - [Elon Musk's foundation is opaque, miserly and self-serving](https://www.economist.com/business/2026/10/13/elon-musks-foundation-is-opaque-miserly-and-self-serving)
 * [2026-10-17, 17:14:12](https://news.ycombinator.com/item?id=50132950) - [Linux bugs fixed per release over time: >2× rise since 2026-04](https://lwn.net/Articles/1088776/)
 * [2026-10-17, 17:10:27](https://news.ycombinator.com/item?id=50132911) - [tsc-ts: TypeScript written in TypeScript](https://github.com/vercel-labs/tsc-ts)
+* [2026-10-17, 17:09:47](https://news.ycombinator.com/item?id=50132906) - [Tennyson's Faith: A Nobler Type](https://hedgehogreview.com/issues/the-fading-promise-of-higher-education/articles/tennysons-faith)
 * [2026-10-17, 17:06:07](https://news.ycombinator.com/item?id=50132870) - [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)
 * [2026-10-17, 17:02:50](https://news.ycombinator.com/item?id=50132839) - [Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers](https://www.artie.com/careers)
 * [2026-10-17, 16:31:12](https://news.ycombinator.com/item?id=50132502) - [OpenAI discloses four more rogue incidents](https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/)
