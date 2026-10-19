@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 21:11:45](https://news.ycombinator.com/item?id=50158138) - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
+* [2026-10-19, 21:08:18](https://news.ycombinator.com/item?id=50158100) - [Putting Linux on my RTX spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
 * [2026-10-19, 18:51:09](https://news.ycombinator.com/item?id=50156332) - [Towards Company World Models](https://www.beaconholdings.com/research/towards-company-world-models)
 * [2026-10-19, 18:42:32](https://news.ycombinator.com/item?id=50156206) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 * [2026-10-19, 18:36:00](https://news.ycombinator.com/item?id=50156132) - [Cloud of suspicion lifted from NIST curves](https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/)

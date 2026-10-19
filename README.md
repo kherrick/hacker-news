@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-19, 18:51:09](https://news.ycombinator.com/item?id=50156332) - [Towards Company World Models](https://www.beaconholdings.com/research/towards-company-world-models)
+* [2026-10-19, 21:11:45](https://news.ycombinator.com/item?id=50158138) - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
+* [2026-10-19, 21:08:18](https://news.ycombinator.com/item?id=50158100) - [Putting Linux on my RTX spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
 * [2026-10-19, 18:42:32](https://news.ycombinator.com/item?id=50156206) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
-* [2026-10-19, 17:58:54](https://news.ycombinator.com/item?id=50155647) - [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)
 * [2026-10-19, 17:27:11](https://news.ycombinator.com/item?id=50155245) - [Mercury 3: Diffusion at scale](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
 * [2026-10-19, 17:21:33](https://news.ycombinator.com/item?id=50155172) - [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
 * [2026-10-19, 16:45:30](https://news.ycombinator.com/item?id=50154624) - [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
