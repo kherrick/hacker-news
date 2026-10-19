@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-19, 21:11:45](https://news.ycombinator.com/item?id=50158138) - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
-* [2026-10-19, 21:08:18](https://news.ycombinator.com/item?id=50158100) - [Putting Linux on my RTX spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
+* [2026-10-19, 21:08:18](https://news.ycombinator.com/item?id=50158100) - [Putting Linux on my RTX Spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
 * [2026-10-19, 20:50:08](https://news.ycombinator.com/item?id=50157865) - [One Hash Bloom Filters](https://calabro.io/ohbf)
 * [2026-10-19, 19:19:33](https://news.ycombinator.com/item?id=50156744) - [The End of Rationing](https://sanketsaurav.com/writing/end-of-rationing)
 * [2026-10-19, 19:05:53](https://news.ycombinator.com/item?id=50156561) - [My Neighbor, Me, and a Grand Principle](https://lastwordonnothing.com/2026/10/19/my-neighbor-me-and-a-grand-principle/)
@@ -22,13 +22,13 @@
 * [2026-10-19, 10:53:39](https://news.ycombinator.com/item?id=50150809) - [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
 * [2026-10-19, 09:59:32](https://news.ycombinator.com/item?id=50150434) - [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/)
 * [2026-10-19, 09:05:07](https://news.ycombinator.com/item?id=50150089) - [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
+* [2026-10-19, 02:40:04](https://news.ycombinator.com/item?id=50147760) - [The Annotated VT100 Firmware (2022)](https://vt100.net/dec/vt100/rom/)
 * [2026-10-19, 01:56:39](https://news.ycombinator.com/item?id=50147462) - [Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas](https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/)
 * [2026-10-19, 01:18:02](https://news.ycombinator.com/item?id=50147233) - [Starcraft: Ashfall](https://starcraft-shooter-2026.pages.dev/)
 * [2026-10-17, 23:24:05](https://news.ycombinator.com/item?id=50136126) - [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
 * [2026-10-17, 19:53:20](https://news.ycombinator.com/item?id=50134472) - [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 * [2026-10-17, 19:37:54](https://news.ycombinator.com/item?id=50134359) - [The fire retardant in the seafood chain](https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/)
 * [2026-10-17, 08:34:31](https://news.ycombinator.com/item?id=50129102) - [Galois Finite Fields and the Advanced Encryption Standard (AES)](https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html)
-* [2026-10-17, 07:08:35](https://news.ycombinator.com/item?id=50128688) - [Most lookups are for things that don't exist](https://cristicretan.ro/articles/2026/10/16/most-lookups-are-for-things-that-dont-exist/)
 * [2026-10-16, 17:53:05](https://news.ycombinator.com/item?id=50121834) - [Credit where credit is due](https://thefloatingcontinent.com/blog/credit-is-due/)
 
 ## [Archives](archives/index.md)
