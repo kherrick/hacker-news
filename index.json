@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-19, 00:30:34",
+      "https://news.ycombinator.com/item?id=50146966"
+    ],
+    [
+      "Sanity's Edge – A voice BBS from 1994",
+      "https://sanitys-edge.shouden.us"
+    ]
+  ],
+  [
+    [
       "2026-10-18, 23:37:57",
       "https://news.ycombinator.com/item?id=50146625"
     ],
@@ -37,6 +47,16 @@
     [
       "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "https://arxiv.org/abs/2610.18861"
+    ]
+  ],
+  [
+    [
+      "2026-10-18, 19:02:11",
+      "https://news.ycombinator.com/item?id=50144175"
+    ],
+    [
+      "Personal software factories are a waste of time",
+      "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "RepRapMicron",
       "https://github.com/VikOlliver/RepRapMicron/wiki"
-    ]
-  ],
-  [
-    [
-      "2026-10-18, 13:06:54",
-      "https://news.ycombinator.com/item?id=50140769"
-    ],
-    [
-      "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-      "https://legendofhyrule.com/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "I electrified my push scooter with a power drill",
       "https://eddieabbondanz.io/post/shop/drill-powered-scooter/"
-    ]
-  ],
-  [
-    [
-      "2026-10-14, 17:00:31",
-      "https://news.ycombinator.com/item?id=50090927"
-    ],
-    [
-      "Types of types: Haskell's Kind system",
-      "https://thunk.blog/posts/types-of-types-haskell-kind-system/"
     ]
   ]
 ]
