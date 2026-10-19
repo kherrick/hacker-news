@@ -28,8 +28,8 @@
 * [2026-10-16, 18:07:44](https://news.ycombinator.com/item?id=50122058) - [One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux](https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/)
 * [2026-10-16, 13:30:20](https://news.ycombinator.com/item?id=50118165) - [\"I'm on a war footing\": Terry Tao and the crisis in math](https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html)
 * [2026-10-15, 22:56:23](https://news.ycombinator.com/item?id=50111537) - [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448)
+* [2026-10-15, 18:42:57](https://news.ycombinator.com/item?id=50108297) - [How Postgres DELETE can actually scale](https://www.dbos.dev/blog/scaling-deletions-in-postgres)
 * [2026-10-15, 01:51:02](https://news.ycombinator.com/item?id=50098148) - [16-bit fully functional DIY magnetic core memory](https://www.youtube.com/watch?v=OJ1WYyO2jdY)
-* [2026-10-14, 22:07:47](https://news.ycombinator.com/item?id=50096110) - [SIGSALY: Churchill's top secret hotline to the president](https://www.iwm.org.uk/history/iwm/cwr/telephone)
 
 ## [Archives](archives/index.md)
 
