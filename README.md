@@ -2,7 +2,6 @@
 
 * [2026-10-19, 07:23:57](https://news.ycombinator.com/item?id=50149392) - [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
 * [2026-10-19, 05:55:31](https://news.ycombinator.com/item?id=50148855) - [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)
-* [2026-10-19, 05:11:24](https://news.ycombinator.com/item?id=50148601) - [Flatpak – An Insecurity Nightmare](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
 * [2026-10-19, 04:41:46](https://news.ycombinator.com/item?id=50148452) - [DeepSeek V4.1 Flash 1017 (Max)](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)
 * [2026-10-19, 02:01:16](https://news.ycombinator.com/item?id=50147492) - [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
 * [2026-10-18, 23:37:57](https://news.ycombinator.com/item?id=50146625) - [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
@@ -17,6 +16,7 @@
 * [2026-10-18, 14:47:37](https://news.ycombinator.com/item?id=50141579) - [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/)
 * [2026-10-18, 14:31:52](https://news.ycombinator.com/item?id=50141436) - [Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN](https://ranet3.com/)
 * [2026-10-18, 13:48:48](https://news.ycombinator.com/item?id=50141076) - [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
+* [2026-10-18, 13:06:54](https://news.ycombinator.com/item?id=50140769) - [Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/)
 * [2026-10-18, 12:11:13](https://news.ycombinator.com/item?id=50140383) - [A new way to think about borrow checking (in reverse)](https://verdagon.dev/blog/reverse-borrow-checking)
 * [2026-10-18, 11:16:22](https://news.ycombinator.com/item?id=50140001) - [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)
 * [2026-10-18, 01:38:08](https://news.ycombinator.com/item?id=50136979) - [Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky)
