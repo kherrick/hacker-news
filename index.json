@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-19, 17:30:26",
-      "https://news.ycombinator.com/item?id=50155291"
-    ],
-    [
-      "Europe EV sales rose 70.3% in September, 32.6% of market share",
-      "https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/"
-    ]
-  ],
-  [
-    [
       "2026-10-19, 17:27:11",
       "https://news.ycombinator.com/item?id=50155245"
     ],
@@ -111,22 +101,12 @@
   ],
   [
     [
-      "2026-10-19, 15:10:20",
-      "https://news.ycombinator.com/item?id=50153431"
+      "2026-10-19, 13:47:56",
+      "https://news.ycombinator.com/item?id=50152466"
     ],
     [
-      "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
-      "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 13:53:52",
-      "https://news.ycombinator.com/item?id=50152541"
-    ],
-    [
-      "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-      "https://github.com/kividbio/kividb"
+      "Maxwell: A new kind of model that sits between code and hardware",
+      "https://heymaxwell.ai/"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2026-10-19, 11:24:34",
+      "https://news.ycombinator.com/item?id=50151036"
+    ],
+    [
+      "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "https://news.ycombinator.com/item?id=50151036"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 11:10:54",
       "https://news.ycombinator.com/item?id=50150927"
     ],
@@ -207,6 +197,16 @@
     [
       "Timestral: Mistral's time-series foundation models",
       "https://mistral.ai/news/timestral/"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 09:05:07",
+      "https://news.ycombinator.com/item?id=50150089"
+    ],
+    [
+      "I built a drone with only one motor [video]",
+      "https://www.youtube.com/watch?v=Ndftcft6XhU"
     ]
   ],
   [
