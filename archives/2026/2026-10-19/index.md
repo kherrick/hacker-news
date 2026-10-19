@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
 * [2026-10-19, 21:11:45](https://news.ycombinator.com/item?id=50158138) - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
+* [2026-10-19, 21:10:57](https://news.ycombinator.com/item?id=50158131) - [Diablo 2 Survivors](https://d2survivors.lol/)
 * [2026-10-19, 21:08:18](https://news.ycombinator.com/item?id=50158100) - [Putting Linux on my RTX spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
 * [2026-10-19, 20:31:05](https://news.ycombinator.com/item?id=50157664) - [Germany's far-right AfD: half a million internal documents leaked](https://hexane.cc/)
 * [2026-10-19, 18:51:09](https://news.ycombinator.com/item?id=50156332) - [Towards Company World Models](https://www.beaconholdings.com/research/towards-company-world-models)

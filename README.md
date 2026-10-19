@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-19, 21:11:45](https://news.ycombinator.com/item?id=50158138) - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
+* [2026-10-19, 21:10:57](https://news.ycombinator.com/item?id=50158131) - [Diablo 2 Survivors](https://d2survivors.lol/)
 * [2026-10-19, 21:08:18](https://news.ycombinator.com/item?id=50158100) - [Putting Linux on my RTX spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
 * [2026-10-19, 18:42:32](https://news.ycombinator.com/item?id=50156206) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 * [2026-10-19, 17:27:11](https://news.ycombinator.com/item?id=50155245) - [Mercury 3: Diffusion at scale](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
@@ -13,7 +14,6 @@
 * [2026-10-19, 14:31:27](https://news.ycombinator.com/item?id=50152976) - [Detecting model weight tampering in GPU memory (Rome attacks)](https://stealthium.io/blog/hands-off-detecting-model-weight-tampering)
 * [2026-10-19, 13:36:43](https://news.ycombinator.com/item?id=50152321) - [Plex vulnerabilities being exploited in the wild to drop a cryptominer](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html)
 * [2026-10-19, 13:35:34](https://news.ycombinator.com/item?id=50152307) - [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
-* [2026-10-19, 13:35:12](https://news.ycombinator.com/item?id=50152302) - [Cairn: Open windows into AI-driven cyber operations](https://norforge.com/blog/inside_cairn)
 * [2026-10-19, 12:06:03](https://news.ycombinator.com/item?id=50151376) - [The obscure trust looming over Anthropic's IPO](https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink)
 * [2026-10-19, 11:24:34](https://news.ycombinator.com/item?id=50151036) - [Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)
 * [2026-10-19, 11:10:54](https://news.ycombinator.com/item?id=50150927) - [Alternatives to animal testing are finally taking off](https://spectrum.ieee.org/alternatives-to-animal-testing)
