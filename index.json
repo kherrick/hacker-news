@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=50155245"
     ],
     [
-      "Inception \"Mercury 3\", 1000 tok/s diffusion LLM",
+      "Mercury 3: Diffusion at scale",
       "https://www.inceptionlabs.ai/blog/introducing-mercury-3"
     ]
   ],
@@ -37,6 +37,16 @@
     [
       "Android apps running native on macOS",
       "https://github.com/kksimp/Mac.apk"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 16:39:09",
+      "https://news.ycombinator.com/item?id=50154540"
+    ],
+    [
+      "MiniMax M3.1 Flash",
+      "https://www.minimax.io/blog/minimax-m31f"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=50153630"
     ],
     [
-      "CERN and Mistral join forces to accelerate AI for science",
+      "CERN and Mistral sign a statement of intent to establish a strategic partnership",
       "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=50152307"
     ],
     [
-      "Wine Ported to OpenBSD",
+      "Wine ported to OpenBSD",
       "https://marc.info/?l=openbsd-ports&m=179236125692175"
     ]
   ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=50150927"
     ],
     [
-      "Alternatives to Animal Testing Are Finally Taking Off",
+      "Alternatives to animal testing are finally taking off",
       "https://spectrum.ieee.org/alternatives-to-animal-testing"
     ]
   ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-10-18, 21:09:12",
-      "https://news.ycombinator.com/item?id=50145507"
-    ],
-    [
-      "If you don't run your own LLM proxy, how do you know whats going on?",
-      "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
-    ]
-  ],
-  [
-    [
       "2026-10-18, 20:48:14",
       "https://news.ycombinator.com/item?id=50145337"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=50134472"
     ],
     [
-      "It's still OK to enjoy programming",
+      "It's still ok to enjoy programming",
       "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming"
     ]
   ],
