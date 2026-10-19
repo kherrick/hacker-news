@@ -54,6 +54,7 @@
 * [2026-10-17, 08:34:31](https://news.ycombinator.com/item?id=50129102) - [Galois Finite Fields and the Advanced Encryption Standard (AES)](https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html)
 * [2026-10-17, 08:24:23](https://news.ycombinator.com/item?id=50129060) - [Geographical Fun: Being Humourous Outlines of Various Countries (1868)](https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868/)
 * [2026-10-17, 08:21:25](https://news.ycombinator.com/item?id=50129045) - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+* [2026-10-17, 07:08:35](https://news.ycombinator.com/item?id=50128688) - [Most lookups are for things that don't exist](https://cristicretan.ro/articles/2026/10/16/most-lookups-are-for-things-that-dont-exist/)
 * [2026-10-17, 07:01:07](https://news.ycombinator.com/item?id=50128654) - [Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop](https://github.com/CLoaKY233/siltop)
 * [2026-10-17, 06:19:44](https://news.ycombinator.com/item?id=50128468) - [Why Math Dumped OpenAI](https://raymyers.org/post/math-dumped-openai/)
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
