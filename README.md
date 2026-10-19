@@ -2,13 +2,11 @@
 
 * [2026-10-19, 02:01:16](https://news.ycombinator.com/item?id=50147492) - [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
 * [2026-10-19, 01:55:03](https://news.ycombinator.com/item?id=50147455) - [Footage of the Flock search that a judge ruled was uncosntitutional](https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/)
-* [2026-10-19, 01:18:02](https://news.ycombinator.com/item?id=50147233) - [Starcraft: Ashfall](https://starcraft-shooter-2026.pages.dev/)
 * [2026-10-18, 23:37:57](https://news.ycombinator.com/item?id=50146625) - [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
 * [2026-10-18, 23:37:54](https://news.ycombinator.com/item?id=50146624) - [How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?](https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base)
 * [2026-10-18, 21:36:10](https://news.ycombinator.com/item?id=50145715) - [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
 * [2026-10-18, 21:09:12](https://news.ycombinator.com/item?id=50145507) - [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
 * [2026-10-18, 20:48:14](https://news.ycombinator.com/item?id=50145337) - [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
-* [2026-10-18, 19:02:11](https://news.ycombinator.com/item?id=50144175) - [Personal software factories are a waste of time](https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/)
 * [2026-10-18, 18:48:04](https://news.ycombinator.com/item?id=50144066) - [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
 * [2026-10-18, 17:56:59](https://news.ycombinator.com/item?id=50143536) - [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings)
 * [2026-10-18, 17:21:23](https://news.ycombinator.com/item?id=50143154) - [What the heck is /pkg?](https://anderegg.ca/2026/10/18/what-the-heck-is-pkg)
@@ -28,8 +26,10 @@
 * [2026-10-16, 17:28:19](https://news.ycombinator.com/item?id=50121506) - [The First Candid](https://www.newyorker.com/magazine/2026/10/19/the-first-candid)
 * [2026-10-16, 13:30:20](https://news.ycombinator.com/item?id=50118165) - [\"I'm on a war footing\": Terry Tao and the crisis in math](https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html)
 * [2026-10-15, 22:56:23](https://news.ycombinator.com/item?id=50111537) - [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448)
+* [2026-10-15, 12:52:54](https://news.ycombinator.com/item?id=50102932) - [Faster command recall with substring search](https://www.dantleech.com/blog/2026/10/15/faster-command-recall-with-substring-search./)
 * [2026-10-15, 01:51:02](https://news.ycombinator.com/item?id=50098148) - [16-bit fully functional DIY magnetic core memory](https://www.youtube.com/watch?v=OJ1WYyO2jdY)
 * [2026-10-14, 22:07:47](https://news.ycombinator.com/item?id=50096110) - [SIGSALY: Churchill's top secret hotline to the president](https://www.iwm.org.uk/history/iwm/cwr/telephone)
+* [2026-10-14, 18:53:52](https://news.ycombinator.com/item?id=50093020) - [I electrified my push scooter with a power drill](https://eddieabbondanz.io/post/shop/drill-powered-scooter/)
 
 ## [Archives](archives/index.md)
 

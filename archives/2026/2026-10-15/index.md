@@ -54,6 +54,7 @@
 * [2026-10-15, 13:18:44](https://news.ycombinator.com/item?id=50103255) - [Intuitive concurrent programming in any language](https://www.lf-lang.org/)
 * [2026-10-15, 13:11:26](https://news.ycombinator.com/item?id=50103164) - [C++26 Contracts: Introduction to Preconditions and Postconditions](https://www.cppstories.com/2026/cpp26_contracts/)
 * [2026-10-15, 12:58:32](https://news.ycombinator.com/item?id=50103000) - [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
+* [2026-10-15, 12:52:54](https://news.ycombinator.com/item?id=50102932) - [Faster command recall with substring search](https://www.dantleech.com/blog/2026/10/15/faster-command-recall-with-substring-search./)
 * [2026-10-15, 12:52:16](https://news.ycombinator.com/item?id=50102923) - [Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
 * [2026-10-15, 12:45:59](https://news.ycombinator.com/item?id=50102854) - [X purges 13,000 accounts linked to suspected meddling ahead of US midterms](https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234)
 * [2026-10-15, 12:29:59](https://news.ycombinator.com/item?id=50102689) - [ICE Kills More Americans Than Illegal Immigrants](https://hughhowey.com/ice-kills-more-americans-than-illegal-immigrants/)
