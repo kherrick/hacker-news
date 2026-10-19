@@ -2,7 +2,6 @@
 
 * [2026-10-19, 04:41:46](https://news.ycombinator.com/item?id=50148452) - [DeepSeek V4.1 Flash 1017 (Max)](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)
 * [2026-10-19, 04:40:18](https://news.ycombinator.com/item?id=50148441) - [Verisign .com Domain Name Registry Consumer Class Action](https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action)
-* [2026-10-19, 04:32:07](https://news.ycombinator.com/item?id=50148396) - [Show HN: Strot – Compile an LLM's intent once, run decisions locally](https://github.com/strot-ai/Project-STROT)
 * [2026-10-19, 04:24:57](https://news.ycombinator.com/item?id=50148356) - [Show HN: Yila – A Codex for Scientific Research](https://yila.ai)
 * [2026-10-19, 02:01:16](https://news.ycombinator.com/item?id=50147492) - [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
 * [2026-10-19, 01:55:03](https://news.ycombinator.com/item?id=50147455) - [Footage of the Flock search that a judge ruled was uncosntitutional](https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/)
@@ -14,6 +13,7 @@
 * [2026-10-18, 20:48:14](https://news.ycombinator.com/item?id=50145337) - [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
 * [2026-10-18, 18:48:04](https://news.ycombinator.com/item?id=50144066) - [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
 * [2026-10-18, 17:56:59](https://news.ycombinator.com/item?id=50143536) - [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings)
+* [2026-10-18, 16:56:56](https://news.ycombinator.com/item?id=50142866) - [Namecheap just seized and disabled all my domains](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/)
 * [2026-10-18, 16:32:00](https://news.ycombinator.com/item?id=50142573) - [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
 * [2026-10-18, 16:20:27](https://news.ycombinator.com/item?id=50142449) - [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
 * [2026-10-18, 14:47:37](https://news.ycombinator.com/item?id=50141579) - [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/)
