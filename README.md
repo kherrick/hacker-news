@@ -2,7 +2,6 @@
 
 * [2026-10-19, 21:11:45](https://news.ycombinator.com/item?id=50158138) - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
 * [2026-10-19, 21:08:18](https://news.ycombinator.com/item?id=50158100) - [Putting Linux on my RTX spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
-* [2026-10-19, 20:31:05](https://news.ycombinator.com/item?id=50157664) - [Germany's far-right AfD: half a million internal documents leaked](https://hexane.cc/)
 * [2026-10-19, 18:42:32](https://news.ycombinator.com/item?id=50156206) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 * [2026-10-19, 17:27:11](https://news.ycombinator.com/item?id=50155245) - [Mercury 3: Diffusion at scale](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
 * [2026-10-19, 17:21:33](https://news.ycombinator.com/item?id=50155172) - [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
@@ -30,6 +29,7 @@
 * [2026-10-17, 19:37:54](https://news.ycombinator.com/item?id=50134359) - [The fire retardant in the seafood chain](https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/)
 * [2026-10-17, 08:34:31](https://news.ycombinator.com/item?id=50129102) - [Galois Finite Fields and the Advanced Encryption Standard (AES)](https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html)
 * [2026-10-16, 17:53:05](https://news.ycombinator.com/item?id=50121834) - [Credit where credit is due](https://thefloatingcontinent.com/blog/credit-is-due/)
+* [2026-10-16, 08:28:54](https://news.ycombinator.com/item?id=50115703) - [Coconuts in Medieval Britain (2015)](https://www.themarysue.com/monty-python-holy-grail-coconuts/)
 
 ## [Archives](archives/index.md)
 
