@@ -6,6 +6,7 @@
 
 * [2026-10-19, 11:07:21](https://news.ycombinator.com/item?id=50150908) - [Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks](https://clipjury.com/guides/ai-tool-terms-changed-2026/)
 * [2026-10-19, 10:53:39](https://news.ycombinator.com/item?id=50150809) - [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
+* [2026-10-19, 10:45:14](https://news.ycombinator.com/item?id=50150750) - [Documents: Police officer gave her Flock login to her ICE agent husband](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816)
 * [2026-10-19, 09:59:32](https://news.ycombinator.com/item?id=50150434) - [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/)
 * [2026-10-19, 07:23:57](https://news.ycombinator.com/item?id=50149392) - [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
 * [2026-10-19, 05:55:31](https://news.ycombinator.com/item?id=50148855) - [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)
