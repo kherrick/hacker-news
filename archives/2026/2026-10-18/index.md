@@ -41,6 +41,7 @@
 * [2026-10-18, 13:41:06](https://news.ycombinator.com/item?id=50141024) - [The Electronic Disturbance Theater and Electronic Civil Disobedience](https://www.thing.net/~rdom/ecd/EDTECD.html)
 * [2026-10-18, 13:06:54](https://news.ycombinator.com/item?id=50140769) - [Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/)
 * [2026-10-18, 12:46:35](https://news.ycombinator.com/item?id=50140638) - [Germany's 17M Immigrants: Where They Come From](https://www.visualcapitalist.com/cp/where-germanys-immigrants-come-from/)
+* [2026-10-18, 12:39:56](https://news.ycombinator.com/item?id=50140584) - [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)
 * [2026-10-18, 12:22:58](https://news.ycombinator.com/item?id=50140462) - [How Far Will AI Assistants Go for a Refund They Can't Get?](https://www.vals.ai/blogs/impossible-refund)
 * [2026-10-18, 12:11:13](https://news.ycombinator.com/item?id=50140383) - [A new way to think about borrow checking (in reverse)](https://verdagon.dev/blog/reverse-borrow-checking)
 * [2026-10-18, 11:16:22](https://news.ycombinator.com/item?id=50140001) - [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)
