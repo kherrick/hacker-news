@@ -129,6 +129,177 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="50154060">
+          <h3>
+            <a
+              class="item"
+              href="https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"
+              >AI companies are coming for the plumbers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-19 @ 16:03:29</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50154060"
+                  >Comments</a
+                ><span class="descendants">: 34</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50154029">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=50154029"
+              >Launch HN: Laminar (YC S24) – We trained a model to catch silent
+              agent failures</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-19 @ 16:00:18</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50154029"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://laminar.sh">https://laminar.sh</a>). We’ve been
+              building open-source observability for AI agents since 2024.
+              Recently, we released flow-1, a model trained with RL to find
+              errors in agent traces. On our benchmark (<a
+                href="https://laminar.sh/blog/flow-1"
+                >https://laminar.sh/blog/flow-1</a
+              >), it matches GPT-6-sol in detection quality while being 23x
+              cheaper. This makes it affordable to analyze every production
+              agent trace, without sampling.
+              <p>
+                Here’s a one-minute walkthrough:
+                <a href="https://youtu.be/KJa3h6ZJNLQ"
+                  >https://youtu.be/KJa3h6ZJNLQ</a
+                >
+              </p>
+              <p>
+                We also put together a post with example traces and analyses
+                from flow-1 and other models:
+                <a href="https://laminar.sh/blog/flow-1-in-action"
+                  >https://laminar.sh/blog/flow-1-in-action</a
+                >
+              </p>
+              <p>
+                Agent observability is crowded, so instead of a bullet list of
+                how Laminar differs from X, we’ll explain how we’re solving
+                agent observability from first principles.
+              </p>
+              <p>
+                Agents now run for many steps and fail implicitly. An agent can
+                click the wrong button or cite the wrong document while every
+                call completes successfully. These errors are the most useful
+                ones to catch and understand. To find them, you need to
+                understand what the agent was trying to do and inspect its LLM
+                calls and tool results. Simply looking at the final agent output
+                is not enough.
+              </p>
+              <p>
+                Collecting traces alone doesn’t solve this. A lot of agent
+                observability platforms are still data collectors at their core.
+                You can end up paying to store traces that nobody has time to
+                read or extract value from.
+              </p>
+              <p>
+                Using another LLM to inspect traces is THE solution, but capable
+                models are expensive at scale and cheaper ones often miss errors
+                or flag unrelated things.
+              </p>
+              <p>
+                So we built our model to solve exactly this problem. We
+                finetuned a small OSS model and then post trained it with RL on
+                thousands of synthetic investigations of realistic agent
+                workflows in software, legal, customer support, etc. We got a
+                model that is both good at agent trace analysis and very cheap
+                to run.
+              </p>
+              <p>
+                flow-1 runs inside a harness we call Signals. It acts as a
+                coding agent, treating an agent trace like a repo, with each
+                span (an LLM call, tool call, etc.) as a file. It starts from a
+                compressed string representation of a full agent trace and a
+                user prompt, then greps across spans and reads the relevant ones
+                in full.
+              </p>
+              <p>
+                The beauty of Signals is that it can respond to a general
+                prompt. You can ask it to identify user frustration, check
+                whether your browser agent completed a checkout, and so on. It’s
+                not limited to raw error detection. It returns findings as JSON
+                in a schema users can freely define. We call these signal
+                events.
+              </p>
+              <p>
+                Once you’re analyzing every trace, you also have too many
+                individual events to read. That’s why we automatically group
+                similar signal events into clusters. You can see recurring
+                problems and how often they happen, then drill into individual
+                events and the traces behind them.
+              </p>
+              <p>
+                You can use traces from a cluster to build an eval dataset for
+                that type of failure. You can then use your favourite coding
+                agent to hillclimb on those evals and check that the fix works
+                across these cases before shipping it to prod.
+              </p>
+              <p>
+                Trace → analyze → catch errors and form clusters → fix →
+                release. Making this loop easy is why we built Laminar.
+              </p>
+              <p>
+                We’ve put the same thought into the rest of Laminar. Our blog
+                (<a href="https://laminar.sh/blog">https://laminar.sh/blog</a>)
+                explains how looking closely at how agents actually work led us
+                to build 20x trace compression, a custom SQL query engine and
+                automatic task extraction.
+              </p>
+              <p>
+                Laminar is Apache 2.0 and self-hostable (<a
+                  href="https://github.com/lmnr-ai/lmnr"
+                  >https://github.com/lmnr-ai/lmnr</a
+                >). We make money from the managed cloud.
+              </p>
+              <p>
+                We’d love to hear how you track your agents’ performance today.
+                How much do you learn from user feedback versus your own
+                monitoring? And when you fix something, how do you check that it
+                hasn’t introduced a different failure?
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="50153934">
+          <h3>
+            <a
+              class="item"
+              href="https://www.githubstatus.com/incidents/8tzbpcnl75jp"
+              >Another day another GitHub incident</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-19 @ 15:52:26</span
+              ><span class="points-container"
+                >Points: <span class="points">65</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50153934"
+                  >Comments</a
+                ><span class="descendants">: 40</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="50153431">
           <h3>
             <a
@@ -142,7 +313,7 @@
             <h4>
               <span>2026-10-19 @ 15:10:20</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50153431"
                   >Comments</a
@@ -164,11 +335,11 @@
             <h4>
               <span>2026-10-19 @ 14:23:17</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50152877"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -184,11 +355,11 @@
             <h4>
               <span>2026-10-19 @ 13:53:52</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50152541"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
             <div class="text">
@@ -277,11 +448,11 @@
             <h4>
               <span>2026-10-19 @ 13:35:34</span
               ><span class="points-container"
-                >Points: <span class="points">215</span></span
+                >Points: <span class="points">237</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50152307"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -296,30 +467,11 @@
             <h4>
               <span>2026-10-19 @ 13:00:47</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50151928"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50151059">
-          <h3>
-            <a class="item" href="https://github.com/google-research/harness2"
-              >Harness2 by Google Research – Recursive Agent Harnessing</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-19 @ 11:28:45</span
-              ><span class="points-container"
-                >Points: <span class="points">59</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50151059"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -336,7 +488,7 @@
             <h4>
               <span>2026-10-19 @ 11:12:02</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50150935"
                   >Comments</a
@@ -357,11 +509,11 @@
             <h4>
               <span>2026-10-19 @ 11:10:54</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">167</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50150927"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -379,11 +531,11 @@
             <h4>
               <span>2026-10-19 @ 10:53:39</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50150809"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -398,11 +550,11 @@
             <h4>
               <span>2026-10-19 @ 09:59:32</span
               ><span class="points-container"
-                >Points: <span class="points">326</span></span
+                >Points: <span class="points">344</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50150434"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -417,11 +569,11 @@
             <h4>
               <span>2026-10-19 @ 07:23:57</span
               ><span class="points-container"
-                >Points: <span class="points">502</span></span
+                >Points: <span class="points">508</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50149392"
                   >Comments</a
-                ><span class="descendants">: 220</span></span
+                ><span class="descendants">: 225</span></span
               >
             </h4>
           </section>
@@ -436,32 +588,11 @@
             <h4>
               <span>2026-10-19 @ 05:55:31</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50148855"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50147492">
-          <h3>
-            <a
-              class="item"
-              href="https://contextfirst.blog/superlite-hand-an-agent-a-spec/"
-              >Superlite: A Faster Alternatie to Superpowers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-19 @ 02:01:16</span
-              ><span class="points-container"
-                >Points: <span class="points">134</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50147492"
-                  >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -476,11 +607,11 @@
             <h4>
               <span>2026-10-18 @ 23:37:57</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">245</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50146625"
                   >Comments</a
-                ><span class="descendants">: 114</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -498,11 +629,11 @@
             <h4>
               <span>2026-10-18 @ 23:37:54</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50146624"
                   >Comments</a
-                ><span class="descendants">: 187</span></span
+                ><span class="descendants">: 190</span></span
               >
             </h4>
           </section>
@@ -520,7 +651,7 @@
             <h4>
               <span>2026-10-18 @ 21:09:12</span
               ><span class="points-container"
-                >Points: <span class="points">270</span></span
+                >Points: <span class="points">271</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50145507"
                   >Comments</a
@@ -540,7 +671,7 @@
             <h4>
               <span>2026-10-18 @ 20:48:14</span
               ><span class="points-container"
-                >Points: <span class="points">481</span></span
+                >Points: <span class="points">483</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50145337"
                   >Comments</a
@@ -571,25 +702,6 @@
             </div>
           </section>
         </section>
-        <section id="50144066">
-          <h3>
-            <a class="item" href="https://www.getlazarus.org/dynamic/"
-              >Free Pascal compiler now supports dynamic packages</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-18 @ 18:48:04</span
-              ><span class="points-container"
-                >Points: <span class="points">192</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50144066"
-                  >Comments</a
-                ><span class="descendants">: 47</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="50142573">
           <h3>
             <a
@@ -602,11 +714,11 @@
             <h4>
               <span>2026-10-18 @ 16:32:00</span
               ><span class="points-container"
-                >Points: <span class="points">522</span></span
+                >Points: <span class="points">525</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50142573"
                   >Comments</a
-                ><span class="descendants">: 187</span></span
+                ><span class="descendants">: 188</span></span
               >
             </h4>
           </section>
@@ -649,7 +761,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50136979"
                   >Comments</a
-                ><span class="descendants">: 190</span></span
+                ><span class="descendants">: 191</span></span
               >
             </h4>
           </section>
@@ -665,11 +777,11 @@
             <h4>
               <span>2026-10-17 @ 23:26:35</span
               ><span class="points-container"
-                >Points: <span class="points">492</span></span
+                >Points: <span class="points">495</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50136150"
                   >Comments</a
-                ><span class="descendants">: 673</span></span
+                ><span class="descendants">: 686</span></span
               >
             </h4>
           </section>
@@ -686,11 +798,11 @@
             <h4>
               <span>2026-10-17 @ 19:53:20</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50134472"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -708,11 +820,11 @@
             <h4>
               <span>2026-10-17 @ 15:02:08</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50131749"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -734,7 +846,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50131315"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -766,11 +878,11 @@
             <h4>
               <span>2026-10-16 @ 21:13:08</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50124811"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -787,11 +899,11 @@
             <h4>
               <span>2026-10-16 @ 06:17:01</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50114766"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -806,11 +918,11 @@
             <h4>
               <span>2026-10-15 @ 22:56:23</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50111537"
                   >Comments</a
-                ><span class="descendants">: 94</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -827,11 +939,11 @@
             <h4>
               <span>2026-10-15 @ 15:13:21</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50104874"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
