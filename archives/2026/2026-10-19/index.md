@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 16:03:29](https://news.ycombinator.com/item?id=50154060) - [AI companies are coming for the plumbers](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning)
+* [2026-10-19, 16:00:18](https://news.ycombinator.com/item?id=50154029) - [Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures](https://news.ycombinator.com/item?id=50154029)
+* [2026-10-19, 15:52:26](https://news.ycombinator.com/item?id=50153934) - [Another day another GitHub incident](https://www.githubstatus.com/incidents/8tzbpcnl75jp)
 * [2026-10-19, 15:24:43](https://news.ycombinator.com/item?id=50153598) - [Kevin Bacon's missing clothes finally delivered in Ireland](https://www.rte.ie/entertainment/2026/1019/1595980-kevin-bacon/)
 * [2026-10-19, 15:10:20](https://news.ycombinator.com/item?id=50153431) - [Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix](https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf)
 * [2026-10-19, 15:06:00](https://news.ycombinator.com/item?id=50153384) - [WFP stops provision to half a million people in Gaza over lack of funding](https://www.middleeasteye.net/news/world-food-programme-stops-funding-half-million-people-gaza-over-lack-funding)
