@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-19, 18:51:09](https://news.ycombinator.com/item?id=50156332) - [Towards Company World Models](https://www.beaconholdings.com/research/towards-company-world-models)
+* [2026-10-19, 18:42:32](https://news.ycombinator.com/item?id=50156206) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 * [2026-10-19, 17:58:54](https://news.ycombinator.com/item?id=50155647) - [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)
 * [2026-10-19, 17:27:11](https://news.ycombinator.com/item?id=50155245) - [Mercury 3: Diffusion at scale](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
 * [2026-10-19, 17:26:38](https://news.ycombinator.com/item?id=50155237) - [Ukraine carries out aerial drone evacuation of a wounded soldier](https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html)
@@ -8,7 +9,6 @@
 * [2026-10-19, 16:45:30](https://news.ycombinator.com/item?id=50154624) - [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
 * [2026-10-19, 16:39:09](https://news.ycombinator.com/item?id=50154540) - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
 * [2026-10-19, 16:37:10](https://news.ycombinator.com/item?id=50154518) - [I no longer care to work on any Ruby gems so I've archived all my repositories](https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository)
-* [2026-10-19, 16:09:10](https://news.ycombinator.com/item?id=50154147) - [Pentulive (Puppy Live) [video]](https://yle.fi/t/18-332106/fi)
 * [2026-10-19, 16:00:18](https://news.ycombinator.com/item?id=50154029) - [Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures](https://news.ycombinator.com/item?id=50154029)
 * [2026-10-19, 15:28:24](https://news.ycombinator.com/item?id=50153630) - [CERN and Mistral sign a statement of intent to establish a strategic partnership](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/)
 * [2026-10-19, 13:47:56](https://news.ycombinator.com/item?id=50152466) - [Maxwell: A new kind of model that sits between code and hardware](https://heymaxwell.ai/)
