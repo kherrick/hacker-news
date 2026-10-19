@@ -6,6 +6,7 @@
 
 * [2026-10-17, 23:31:48](https://news.ycombinator.com/item?id=50136198) - [Retired Penn professor arrested for blocking Uber Eats robot](https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l)
 * [2026-10-17, 23:26:35](https://news.ycombinator.com/item?id=50136150) - [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
+* [2026-10-17, 23:24:05](https://news.ycombinator.com/item?id=50136126) - [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
 * [2026-10-17, 23:08:30](https://news.ycombinator.com/item?id=50136017) - [Beyond Tetris: The Other Games of Alexey Pajitnov [video]](https://www.youtube.com/watch?v=QH_LPimUJMs)
 * [2026-10-17, 22:26:47](https://news.ycombinator.com/item?id=50135762) - [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/)
 * [2026-10-17, 21:37:07](https://news.ycombinator.com/item?id=50135379) - [JDK 28](https://openjdk.org/projects/jdk/28/)
