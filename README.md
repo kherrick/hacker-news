@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-19, 05:55:31](https://news.ycombinator.com/item?id=50148855) - [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)
 * [2026-10-19, 04:41:46](https://news.ycombinator.com/item?id=50148452) - [DeepSeek V4.1 Flash 1017 (Max)](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)
 * [2026-10-19, 04:40:18](https://news.ycombinator.com/item?id=50148441) - [Verisign .com Domain Name Registry Consumer Class Action](https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action)
 * [2026-10-19, 02:01:16](https://news.ycombinator.com/item?id=50147492) - [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
 * [2026-10-19, 01:55:03](https://news.ycombinator.com/item?id=50147455) - [Footage of the Flock search that a judge ruled was uncosntitutional](https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/)
 * [2026-10-19, 00:30:34](https://news.ycombinator.com/item?id=50146966) - [Sanity's Edge – A voice BBS from 1994](https://sanitys-edge.shouden.us)
 * [2026-10-18, 23:37:57](https://news.ycombinator.com/item?id=50146625) - [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
-* [2026-10-18, 23:37:54](https://news.ycombinator.com/item?id=50146624) - [How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?](https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base)
 * [2026-10-18, 21:36:10](https://news.ycombinator.com/item?id=50145715) - [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
 * [2026-10-18, 21:09:12](https://news.ycombinator.com/item?id=50145507) - [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
 * [2026-10-18, 20:48:14](https://news.ycombinator.com/item?id=50145337) - [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
