@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-10-19, 12:07:41",
+      "https://news.ycombinator.com/item?id=50151390"
+    ],
+    [
+      "Harness Engineering 101: The LLM is the brain, the harness is the body",
+      "https://github.com/IsuruMaduranga/harness-engineering-101"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 11:12:02",
       "https://news.ycombinator.com/item?id=50150935"
     ],
     [
       "ESA's Hera Will View Asteroid Scars from DART's Strike",
       "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 11:10:54",
+      "https://news.ycombinator.com/item?id=50150927"
+    ],
+    [
+      "Alternatives to Animal Testing Are Finally Taking Off",
+      "https://spectrum.ieee.org/alternatives-to-animal-testing"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-10-18, 12:11:13",
-      "https://news.ycombinator.com/item?id=50140383"
-    ],
-    [
-      "A new way to think about borrow checking (in reverse)",
-      "https://verdagon.dev/blog/reverse-borrow-checking"
-    ]
-  ],
-  [
-    [
       "2026-10-18, 01:38:08",
       "https://news.ycombinator.com/item?id=50136979"
     ],
@@ -247,16 +257,6 @@
     [
       "Gdynia and the Dream of a Maritime Poland",
       "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 18:07:44",
-      "https://news.ycombinator.com/item?id=50122058"
-    ],
-    [
-      "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
-      "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/"
     ]
   ],
   [
