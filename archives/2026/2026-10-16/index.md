@@ -88,3 +88,4 @@
 * [2026-10-16, 01:04:18](https://news.ycombinator.com/item?id=50112421) - [Turn your regular JavaScript code into a neural net](https://chenglou.me/handwired/)
 * [2026-10-16, 00:52:40](https://news.ycombinator.com/item?id=50112331) - [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
 * [2026-10-16, 00:52:35](https://news.ycombinator.com/item?id=50112330) - [RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
+* [2026-10-16, 00:33:14](https://news.ycombinator.com/item?id=50112204) - [HOL Light Tutorial](https://hol-light.github.io/tutorial/HTML/tutorial.html)

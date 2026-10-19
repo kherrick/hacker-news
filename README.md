@@ -25,7 +25,7 @@
 * [2026-10-17, 14:07:36](https://news.ycombinator.com/item?id=50131315) - [Rabbits were a medieval royal luxury in England until the Black Death](https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html)
 * [2026-10-16, 22:21:34](https://news.ycombinator.com/item?id=50125551) - [The DNS Museum](https://dns.museum)
 * [2026-10-16, 18:07:44](https://news.ycombinator.com/item?id=50122058) - [One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux](https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/)
-* [2026-10-16, 13:30:20](https://news.ycombinator.com/item?id=50118165) - [\"I'm on a war footing\": Terry Tao and the crisis in math](https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html)
+* [2026-10-16, 00:33:14](https://news.ycombinator.com/item?id=50112204) - [HOL Light Tutorial](https://hol-light.github.io/tutorial/HTML/tutorial.html)
 * [2026-10-15, 22:56:23](https://news.ycombinator.com/item?id=50111537) - [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448)
 * [2026-10-15, 20:09:26](https://news.ycombinator.com/item?id=50109546) - [Lant – The Forgotten Resource](https://sites.udel.edu/materialmatters/2018/04/11/lant-the-forgotten-resource/)
 * [2026-10-15, 18:42:57](https://news.ycombinator.com/item?id=50108297) - [How Postgres DELETE can actually scale](https://www.dbos.dev/blog/scaling-deletions-in-postgres)
