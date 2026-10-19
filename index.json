@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-19, 18:51:09",
+      "https://news.ycombinator.com/item?id=50156332"
+    ],
+    [
+      "Towards Company World Models",
+      "https://www.beaconholdings.com/research/towards-company-world-models"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 17:58:54",
+      "https://news.ycombinator.com/item?id=50155647"
+    ],
+    [
+      "Show HN: Open-source early-reading reader with phonics help",
+      "https://github.com/finereli/yarareads"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 17:27:11",
       "https://news.ycombinator.com/item?id=50155245"
     ],
@@ -77,16 +97,6 @@
     [
       "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
       "https://news.ycombinator.com/item?id=50154029"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 15:52:26",
-      "https://news.ycombinator.com/item?id=50153934"
-    ],
-    [
-      "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
-      "https://www.githubstatus.com/incidents/8tzbpcnl75jp"
     ]
   ],
   [
@@ -241,26 +251,6 @@
   ],
   [
     [
-      "2026-10-18, 23:37:57",
-      "https://news.ycombinator.com/item?id=50146625"
-    ],
-    [
-      "William Gibson and the trademarking of cyberspace",
-      "https://colo.to/cyberspace.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-18, 17:21:23",
-      "https://news.ycombinator.com/item?id=50143154"
-    ],
-    [
-      "What the heck is /pkg?",
-      "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg"
-    ]
-  ],
-  [
-    [
       "2026-10-17, 23:24:05",
       "https://news.ycombinator.com/item?id=50136126"
     ],
@@ -297,6 +287,16 @@
     [
       "Galois Finite Fields and the Advanced Encryption Standard (AES)",
       "https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-16, 17:53:05",
+      "https://news.ycombinator.com/item?id=50121834"
+    ],
+    [
+      "Credit where credit is due",
+      "https://thefloatingcontinent.com/blog/credit-is-due/"
     ]
   ]
 ]
