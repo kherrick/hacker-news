@@ -6,6 +6,7 @@
 
 * [2026-10-19, 18:51:09](https://news.ycombinator.com/item?id=50156332) - [Towards Company World Models](https://www.beaconholdings.com/research/towards-company-world-models)
 * [2026-10-19, 18:42:32](https://news.ycombinator.com/item?id=50156206) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
+* [2026-10-19, 18:36:00](https://news.ycombinator.com/item?id=50156132) - [Cloud of suspicion lifted from NIST curves](https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/)
 * [2026-10-19, 17:58:54](https://news.ycombinator.com/item?id=50155647) - [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)
 * [2026-10-19, 17:30:26](https://news.ycombinator.com/item?id=50155291) - [Europe EV sales rose 70.3% in September, 32.6% of market share](https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/)
 * [2026-10-19, 17:27:11](https://news.ycombinator.com/item?id=50155245) - [Inception \"Mercury 3\", 1000 tok/s diffusion LLM](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
