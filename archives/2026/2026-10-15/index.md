@@ -8,6 +8,7 @@
 * [2026-10-15, 23:23:51](https://news.ycombinator.com/item?id=50111752) - [Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]](https://www.youtube.com/watch?v=eF6bMSjPepM)
 * [2026-10-15, 23:22:53](https://news.ycombinator.com/item?id=50111742) - [BeBox is a Haiku application that emulates Be Inc.'s BeBox](https://github.com/johnrash/bebox)
 * [2026-10-15, 23:17:50](https://news.ycombinator.com/item?id=50111708) - [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
+* [2026-10-15, 22:56:23](https://news.ycombinator.com/item?id=50111537) - [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448)
 * [2026-10-15, 22:11:24](https://news.ycombinator.com/item?id=50111112) - [Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI](https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai)
 * [2026-10-15, 21:55:04](https://news.ycombinator.com/item?id=50110930) - [$50k First Letters Prize Awarded for PHerc 343](https://scrollprize.substack.com/p/50k-first-letters-prize-awarded-for)
 * [2026-10-15, 20:55:40](https://news.ycombinator.com/item?id=50110081) - [Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo](https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo)

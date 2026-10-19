@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-18](index.md)
 
+* [2026-10-18, 23:37:57](https://news.ycombinator.com/item?id=50146625) - [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
+* [2026-10-18, 22:48:07](https://news.ycombinator.com/item?id=50146286) - [How RC2's π table was made](https://khalidhamadeh.com/writing/rc2-pi-table)
 * [2026-10-18, 21:36:10](https://news.ycombinator.com/item?id=50145715) - [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
 * [2026-10-18, 21:24:13](https://news.ycombinator.com/item?id=50145628) - [Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux](https://github.com/omnipty-terminal/omnipty)
+* [2026-10-18, 21:09:12](https://news.ycombinator.com/item?id=50145507) - [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
 * [2026-10-18, 20:48:14](https://news.ycombinator.com/item?id=50145337) - [Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference](https://arxiv.org/abs/2610.18861)
 * [2026-10-18, 20:43:40](https://news.ycombinator.com/item?id=50145295) - [Netflix vmaf: Perceptual video quality assessment based on multi-method fusion](https://github.com/Netflix/vmaf)
 * [2026-10-18, 19:24:30](https://news.ycombinator.com/item?id=50144405) - [US threatens Europe over Starlink restrictions](https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa)
@@ -17,6 +20,7 @@
 * [2026-10-18, 18:15:10](https://news.ycombinator.com/item?id=50143755) - [Investing in the Public Benefit](https://www.anthropic.com/news/public-benefit-fund)
 * [2026-10-18, 17:56:59](https://news.ycombinator.com/item?id=50143536) - [PalmOS Lemmings by Aaron Ardiri](https://github.com/ardiri/palmos-lemmings)
 * [2026-10-18, 17:27:30](https://news.ycombinator.com/item?id=50143218) - [British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)
+* [2026-10-18, 17:21:23](https://news.ycombinator.com/item?id=50143154) - [What the heck is /pkg?](https://anderegg.ca/2026/10/18/what-the-heck-is-pkg)
 * [2026-10-18, 17:19:34](https://news.ycombinator.com/item?id=50143132) - [Mitos editor is a fork of Helix](https://mitos.computer/)
 * [2026-10-18, 16:56:56](https://news.ycombinator.com/item?id=50142866) - [Namecheap just seized and disabled all my domains](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/)
 * [2026-10-18, 16:32:00](https://news.ycombinator.com/item?id=50142573) - [Someone Behind the Software](https://karrisaarinen.com/posts/someone-behind-the-software/)
