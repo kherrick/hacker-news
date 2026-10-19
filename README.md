@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-19, 22:53:38](https://news.ycombinator.com/item?id=50159119) - [GridFTP: A Brief History of Fast File Transfer (2024)](https://www.globus.org/blog/gridftp-a-brief-history-of-fast-file-transfer)
 * [2026-10-19, 21:38:02](https://news.ycombinator.com/item?id=50158408) - [Drupal is now light-years ahead of its reputation](https://dri.es/state-of-drupal-presentation-september-2026)
 * [2026-10-19, 21:11:45](https://news.ycombinator.com/item?id=50158138) - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
 * [2026-10-19, 21:08:18](https://news.ycombinator.com/item?id=50158100) - [Putting Linux on my RTX Spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
@@ -16,7 +17,6 @@
 * [2026-10-19, 14:52:04](https://news.ycombinator.com/item?id=50153225) - [Agentic Monitoring](https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/)
 * [2026-10-19, 13:36:43](https://news.ycombinator.com/item?id=50152321) - [Plex vulnerabilities being exploited in the wild to drop a cryptominer](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html)
 * [2026-10-19, 13:35:34](https://news.ycombinator.com/item?id=50152307) - [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
-* [2026-10-19, 13:06:21](https://news.ycombinator.com/item?id=50151971) - [Honey, I shrunk the TV](https://cakehonolulu.github.io/honey-i-shrunk-the-tv/)
 * [2026-10-19, 11:24:34](https://news.ycombinator.com/item?id=50151036) - [Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)
 * [2026-10-19, 11:10:54](https://news.ycombinator.com/item?id=50150927) - [Alternatives to animal testing are finally taking off](https://spectrum.ieee.org/alternatives-to-animal-testing)
 * [2026-10-19, 10:53:39](https://news.ycombinator.com/item?id=50150809) - [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)

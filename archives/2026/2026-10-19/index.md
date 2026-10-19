@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 22:53:38](https://news.ycombinator.com/item?id=50159119) - [GridFTP: A Brief History of Fast File Transfer (2024)](https://www.globus.org/blog/gridftp-a-brief-history-of-fast-file-transfer)
 * [2026-10-19, 21:38:02](https://news.ycombinator.com/item?id=50158408) - [Drupal is now light-years ahead of its reputation](https://dri.es/state-of-drupal-presentation-september-2026)
 * [2026-10-19, 21:11:45](https://news.ycombinator.com/item?id=50158138) - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
 * [2026-10-19, 21:10:57](https://news.ycombinator.com/item?id=50158131) - [Diablo 2 Survivors](https://d2survivors.lol/)
