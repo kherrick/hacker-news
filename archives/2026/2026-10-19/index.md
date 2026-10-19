@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-19](index.md)
 
+* [2026-10-19, 17:21:33](https://news.ycombinator.com/item?id=50155172) - [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
 * [2026-10-19, 16:37:10](https://news.ycombinator.com/item?id=50154518) - [I no longer care to work on any Ruby gems so I've archived all my repositories](https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository)
 * [2026-10-19, 16:03:29](https://news.ycombinator.com/item?id=50154060) - [AI companies are coming for the plumbers](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning)
 * [2026-10-19, 16:00:18](https://news.ycombinator.com/item?id=50154029) - [Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures](https://news.ycombinator.com/item?id=50154029)

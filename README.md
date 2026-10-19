@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-19, 17:21:33](https://news.ycombinator.com/item?id=50155172) - [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
 * [2026-10-19, 16:00:18](https://news.ycombinator.com/item?id=50154029) - [Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures](https://news.ycombinator.com/item?id=50154029)
 * [2026-10-19, 15:52:26](https://news.ycombinator.com/item?id=50153934) - [Degraded availability for GitHub Actions, GitHub Pages and Webhooks](https://www.githubstatus.com/incidents/8tzbpcnl75jp)
 * [2026-10-19, 15:28:24](https://news.ycombinator.com/item?id=50153630) - [CERN and Mistral join forces to accelerate AI for science](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/)
@@ -21,7 +22,6 @@
 * [2026-10-18, 21:09:12](https://news.ycombinator.com/item?id=50145507) - [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
 * [2026-10-18, 20:48:14](https://news.ycombinator.com/item?id=50145337) - [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
 * [2026-10-18, 16:32:00](https://news.ycombinator.com/item?id=50142573) - [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
-* [2026-10-18, 01:38:08](https://news.ycombinator.com/item?id=50136979) - [Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky)
 * [2026-10-17, 23:26:35](https://news.ycombinator.com/item?id=50136150) - [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
 * [2026-10-17, 19:53:20](https://news.ycombinator.com/item?id=50134472) - [It's still OK to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 * [2026-10-17, 15:02:08](https://news.ycombinator.com/item?id=50131749) - [A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z](https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z)
