@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-10-20, 03:05:07",
+      "https://news.ycombinator.com/item?id=50160877"
+    ],
+    [
+      "Go will reject certificate chains containing eight distrusted SPKIs",
+      "https://github.com/golang/go/issues/82345"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 02:06:40",
       "https://news.ycombinator.com/item?id=50160494"
     ],
     [
       "OpenBSD 8.0",
       "https://www.openbsd.org/80.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 01:53:51",
+      "https://news.ycombinator.com/item?id=50160419"
+    ],
+    [
+      "OpenBSD 8.0: released Oct 20, 2026",
+      "https://marc.info/?l=openbsd-misc&m=179245849770356&w=2"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-10-19, 13:36:43",
-      "https://news.ycombinator.com/item?id=50152321"
-    ],
-    [
-      "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
-      "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html"
-    ]
-  ],
-  [
-    [
       "2026-10-19, 13:35:34",
       "https://news.ycombinator.com/item?id=50152307"
     ],
@@ -197,16 +207,6 @@
     [
       "Alternatives to animal testing are finally taking off",
       "https://spectrum.ieee.org/alternatives-to-animal-testing"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 10:53:39",
-      "https://news.ycombinator.com/item?id=50150809"
-    ],
-    [
-      "Let's Encrypt is adding two additional remote perspectives for domain validation",
-      "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166"
     ]
   ],
   [
