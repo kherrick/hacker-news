@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-20, 17:25:07](https://news.ycombinator.com/item?id=50169707) - [What Shall I Teach My Son?](https://stevekrouse.com/ends)
 * [2026-10-20, 16:40:24](https://news.ycombinator.com/item?id=50169053) - [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
 * [2026-10-20, 16:02:07](https://news.ycombinator.com/item?id=50168396) - [Voxtral 3](https://mistral.ai/news/voxtral-3/)
 * [2026-10-20, 15:48:26](https://news.ycombinator.com/item?id=50168190) - [Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest](https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop)
@@ -25,7 +26,6 @@
 * [2026-10-19, 14:52:33](https://news.ycombinator.com/item?id=50153229) - [One Manhattan power room took down FAA air traffic control in 1991](https://matthorn.io/posts/2026-10-18-33-thomas-street/)
 * [2026-10-19, 00:43:01](https://news.ycombinator.com/item?id=50147034) - ['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/)
 * [2026-10-18, 14:48:01](https://news.ycombinator.com/item?id=50141581) - [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
-* [2026-10-18, 11:32:38](https://news.ycombinator.com/item?id=50140111) - [Restoration of Retinal Regenerative Potential (2025)](https://www.nature.com/articles/s41467-025-58290-8)
 * [2026-10-18, 08:29:38](https://news.ycombinator.com/item?id=50139123) - [UI-Te-Rangiora](https://en.wikipedia.org/wiki/Ui-te-Rangiora)
 * [2026-10-18, 06:40:55](https://news.ycombinator.com/item?id=50138490) - [JAXA is about to perform a Phobos sample return mission](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon)
 * [2026-10-17, 15:55:43](https://news.ycombinator.com/item?id=50132198) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
