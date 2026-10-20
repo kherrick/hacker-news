@@ -17,6 +17,7 @@
 * [2026-10-19, 20:31:05](https://news.ycombinator.com/item?id=50157664) - [Germany's far-right AfD: half a million internal documents leaked](https://hexane.cc/)
 * [2026-10-19, 19:19:33](https://news.ycombinator.com/item?id=50156744) - [The End of Rationing](https://sanketsaurav.com/writing/end-of-rationing)
 * [2026-10-19, 19:05:53](https://news.ycombinator.com/item?id=50156561) - [My Neighbor, Me, and a Grand Principle](https://lastwordonnothing.com/2026/10/19/my-neighbor-me-and-a-grand-principle/)
+* [2026-10-19, 18:59:50](https://news.ycombinator.com/item?id=50156469) - [Show HN: RawLink – Building a VPN protocol from scratch](https://github.com/zolagonano/RawLink)
 * [2026-10-19, 18:51:09](https://news.ycombinator.com/item?id=50156332) - [Towards Company World Models](https://www.beaconholdings.com/research/towards-company-world-models)
 * [2026-10-19, 18:42:32](https://news.ycombinator.com/item?id=50156206) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 * [2026-10-19, 18:36:00](https://news.ycombinator.com/item?id=50156132) - [Cloud of suspicion lifted from NIST curves](https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/)
