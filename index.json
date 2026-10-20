@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-10-20, 15:14:14",
+      "https://news.ycombinator.com/item?id=50167657"
+    ],
+    [
+      "Show HN: Clerkenwell – A Handwritten Clojure Notebook",
+      "https://handwritten.danieljanus.pl/2026-10-20-clerkenwell.html"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 15:11:56",
       "https://news.ycombinator.com/item?id=50167617"
     ],
@@ -61,22 +71,22 @@
   ],
   [
     [
+      "2026-10-20, 15:05:53",
+      "https://news.ycombinator.com/item?id=50167533"
+    ],
+    [
+      "In-memory privacy shield to prevent context leaks in MCP tools",
+      "https://github.com/rohan-protocol/sdk"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 15:05:07",
       "https://news.ycombinator.com/item?id=50167524"
     ],
     [
       "Getting Banned from r/java",
       "https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 15:05:01",
-      "https://news.ycombinator.com/item?id=50167523"
-    ],
-    [
-      "Building full-firm knowledge graphs to dramatically speed up agents",
-      "https://lexifina.com/blog/building-full-firm-knowledge-graphs-to-dramatically-speed-up-agents"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Publish fake stats, get cited in LLMs",
       "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 12:43:05",
-      "https://news.ycombinator.com/item?id=50165484"
-    ],
-    [
-      "NixOS is making me less afraid",
-      "https://entropicthoughts.com/nixos-is-making-me-less-afraid"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-10-18, 08:29:38",
+      "https://news.ycombinator.com/item?id=50139123"
+    ],
+    [
+      "UI-Te-Rangiora",
+      "https://en.wikipedia.org/wiki/Ui-te-Rangiora"
+    ]
+  ],
+  [
+    [
       "2026-10-17, 21:31:44",
       "https://news.ycombinator.com/item?id=50135333"
     ],
     [
       "FingerWorks iGesture Pad (2005)",
       "https://uk.pcmag.com/first-looks/26975/fingerworks-igesture-pad"
-    ]
-  ],
-  [
-    [
-      "2026-10-17, 15:55:43",
-      "https://news.ycombinator.com/item?id=50132198"
-    ],
-    [
-      "Making a 88x31 button book using ImageMagick",
-      "https://k.sosnierz.me/08-11-24/"
     ]
   ]
 ]
