@@ -26,9 +26,9 @@
 * [2026-10-18, 14:48:01](https://news.ycombinator.com/item?id=50141581) - [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
 * [2026-10-18, 12:39:56](https://news.ycombinator.com/item?id=50140584) - [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)
 * [2026-10-18, 11:32:38](https://news.ycombinator.com/item?id=50140111) - [Restoration of Retinal Regenerative Potential (2025)](https://www.nature.com/articles/s41467-025-58290-8)
+* [2026-10-17, 21:31:44](https://news.ycombinator.com/item?id=50135333) - [FingerWorks iGesture Pad (2005)](https://uk.pcmag.com/first-looks/26975/fingerworks-igesture-pad)
 * [2026-10-17, 19:53:20](https://news.ycombinator.com/item?id=50134472) - [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 * [2026-10-17, 15:55:43](https://news.ycombinator.com/item?id=50132198) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
-* [2026-10-17, 14:21:49](https://news.ycombinator.com/item?id=50131436) - [Capturing 400 American Girls and Their Most Meaningful Objects](https://petapixel.com/2026/10/17/photographer-spends-six-years-capturing-400-american-girls-and-their-most-meaningful-objects/)
 * [2026-10-16, 16:42:48](https://news.ycombinator.com/item?id=50120748) - [There Are over 1M New York City Street Signs. Here's How They Are Made.](https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html)
 
 ## [Archives](archives/index.md)

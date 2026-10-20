@@ -10,6 +10,7 @@
 * [2026-10-17, 23:08:30](https://news.ycombinator.com/item?id=50136017) - [Beyond Tetris: The Other Games of Alexey Pajitnov [video]](https://www.youtube.com/watch?v=QH_LPimUJMs)
 * [2026-10-17, 22:26:47](https://news.ycombinator.com/item?id=50135762) - [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/)
 * [2026-10-17, 21:37:07](https://news.ycombinator.com/item?id=50135379) - [JDK 28](https://openjdk.org/projects/jdk/28/)
+* [2026-10-17, 21:31:44](https://news.ycombinator.com/item?id=50135333) - [FingerWorks iGesture Pad (2005)](https://uk.pcmag.com/first-looks/26975/fingerworks-igesture-pad)
 * [2026-10-17, 21:12:16](https://news.ycombinator.com/item?id=50135177) - [What If Video Games Came on VHS? One Modder Is Finding Out](https://gardinerbryant.com/what-if-video-games-came-on-vhs/)
 * [2026-10-17, 20:27:22](https://news.ycombinator.com/item?id=50134809) - [How Do Fungi Keep the Planet Healthy?](https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/)
 * [2026-10-17, 20:07:33](https://news.ycombinator.com/item?id=50134617) - [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
