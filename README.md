@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-20, 06:40:49](https://news.ycombinator.com/item?id=50162198) - [Vite+ an excellent toolchain for AI agent development](https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en)
 * [2026-10-20, 04:37:43](https://news.ycombinator.com/item?id=50161408) - [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/)
 * [2026-10-20, 03:05:07](https://news.ycombinator.com/item?id=50160877) - [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
 * [2026-10-20, 02:06:40](https://news.ycombinator.com/item?id=50160494) - [OpenBSD 8.0](https://www.openbsd.org/80.html)
@@ -13,6 +12,7 @@
 * [2026-10-19, 20:50:08](https://news.ycombinator.com/item?id=50157865) - [One Hash Bloom Filters](https://calabro.io/ohbf)
 * [2026-10-19, 16:39:09](https://news.ycombinator.com/item?id=50154540) - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
 * [2026-10-19, 16:16:46](https://news.ycombinator.com/item?id=50154244) - [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
+* [2026-10-19, 16:00:18](https://news.ycombinator.com/item?id=50154029) - [Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces](https://news.ycombinator.com/item?id=50154029)
 * [2026-10-19, 15:31:34](https://news.ycombinator.com/item?id=50153664) - [Ukraine claims first drone evacuation of wounded soldier](https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310)
 * [2026-10-19, 14:52:04](https://news.ycombinator.com/item?id=50153225) - [Agentic Monitoring](https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/)
 * [2026-10-19, 13:47:56](https://news.ycombinator.com/item?id=50152466) - [Maxwell: A new kind of model that sits between code and hardware](https://heymaxwell.ai/)
