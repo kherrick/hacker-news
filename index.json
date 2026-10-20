@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-10-20, 09:35:40",
-      "https://news.ycombinator.com/item?id=50163502"
-    ],
-    [
-      "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
-      "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/"
-    ]
-  ],
-  [
-    [
       "2026-10-20, 09:08:54",
       "https://news.ycombinator.com/item?id=50163277"
     ],
@@ -137,6 +127,16 @@
     [
       "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
       "https://bsd.network/@brynet/117407035545900963"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 20:50:08",
+      "https://news.ycombinator.com/item?id=50157865"
+    ],
+    [
+      "One Hash Bloom Filters",
+      "https://calabro.io/ohbf"
     ]
   ],
   [
