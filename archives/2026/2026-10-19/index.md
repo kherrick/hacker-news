@@ -45,6 +45,7 @@
 * [2026-10-19, 14:52:04](https://news.ycombinator.com/item?id=50153225) - [Agentic Monitoring](https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/)
 * [2026-10-19, 14:31:27](https://news.ycombinator.com/item?id=50152976) - [Detecting model weight tampering in GPU memory (Rome attacks)](https://stealthium.io/blog/hands-off-detecting-model-weight-tampering)
 * [2026-10-19, 14:31:11](https://news.ycombinator.com/item?id=50152970) - [Maybe There Was an Egg Cartel After All](https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411)
+* [2026-10-19, 14:23:55](https://news.ycombinator.com/item?id=50152886) - [Meta's GB{2,3}00 Cluster](https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/)
 * [2026-10-19, 14:23:17](https://news.ycombinator.com/item?id=50152877) - [A hacker broke into John Deere and SharkNinja with an army of AI agents](https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins)
 * [2026-10-19, 14:06:10](https://news.ycombinator.com/item?id=50152701) - [Beyond These Stars](https://store.steampowered.com/app/2295060/Beyond_These_Stars/)
 * [2026-10-19, 13:53:52](https://news.ycombinator.com/item?id=50152541) - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)
