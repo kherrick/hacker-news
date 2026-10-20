@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2026-10-19, 21:11:45",
+      "https://news.ycombinator.com/item?id=50158138"
+    ],
+    [
+      "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "https://bsd.network/@brynet/117407035545900963"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 16:39:09",
       "https://news.ycombinator.com/item?id=50154540"
     ],
@@ -177,16 +187,6 @@
     [
       "Wine ported to OpenBSD",
       "https://marc.info/?l=openbsd-ports&m=179236125692175"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 11:24:34",
-      "https://news.ycombinator.com/item?id=50151036"
-    ],
-    [
-      "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "https://news.ycombinator.com/item?id=50151036"
     ]
   ],
   [
