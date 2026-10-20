@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-10-20, 01:53:51",
+      "https://news.ycombinator.com/item?id=50160419"
+    ],
+    [
+      "OpenBSD 8.0: released Oct 20, 2026",
+      "https://marc.info/?l=openbsd-misc&m=179245849770356&w=2"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 01:34:58",
       "https://news.ycombinator.com/item?id=50160289"
     ],
     [
       "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
       "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 01:12:03",
+      "https://news.ycombinator.com/item?id=50160135"
+    ],
+    [
+      "Developing Taste",
+      "https://emilkowal.ski/ui/developing-taste"
     ]
   ],
   [
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2026-10-19, 10:53:39",
-      "https://news.ycombinator.com/item?id=50150809"
-    ],
-    [
-      "Let's Encrypt is adding two additional remote perspectives for domain validation",
-      "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 09:59:32",
-      "https://news.ycombinator.com/item?id=50150434"
-    ],
-    [
-      "Timestral: Mistral's time-series foundation models",
-      "https://mistral.ai/news/timestral/"
-    ]
-  ],
-  [
-    [
       "2026-10-19, 09:05:07",
       "https://news.ycombinator.com/item?id=50150089"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-10-17, 20:27:22",
+      "https://news.ycombinator.com/item?id=50134809"
+    ],
+    [
+      "How Do Fungi Keep the Planet Healthy?",
+      "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/"
+    ]
+  ],
+  [
+    [
       "2026-10-17, 19:53:20",
       "https://news.ycombinator.com/item?id=50134472"
     ],
@@ -287,16 +297,6 @@
     [
       "The fire retardant in the seafood chain",
       "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/"
-    ]
-  ],
-  [
-    [
-      "2026-10-16, 17:53:05",
-      "https://news.ycombinator.com/item?id=50121834"
-    ],
-    [
-      "Credit where credit is due",
-      "https://thefloatingcontinent.com/blog/credit-is-due/"
     ]
   ]
 ]
