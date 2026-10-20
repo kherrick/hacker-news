@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-20, 00:00:49](https://news.ycombinator.com/item?id=50159616) - [France's Supermarket Fridges Were Vulnerable Online for Months](https://ipinfo.io/blog/france-fridges-hack)
-* [2026-10-19, 23:40:15](https://news.ycombinator.com/item?id=50159464) - [Token-maxxing is dead, OpenRouter's token usage plateaus](https://openrouter.ai/rankings)
+* [2026-10-20, 00:53:52](https://news.ycombinator.com/item?id=50159993) - [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/)
+* [2026-10-20, 00:40:56](https://news.ycombinator.com/item?id=50159911) - [Vortex Code: one prompt, an AI software team that ships](https://spinozalabs.ai/news/introducing-vortex-code)
+* [2026-10-20, 00:00:49](https://news.ycombinator.com/item?id=50159616) - [France's supermarket fridges were vulnerable online for months](https://ipinfo.io/blog/france-fridges-hack)
 * [2026-10-19, 23:08:52](https://news.ycombinator.com/item?id=50159245) - [“bonsoir, Elliot”: How abliterated models can get you pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
 * [2026-10-19, 21:38:02](https://news.ycombinator.com/item?id=50158408) - [Drupal is now light-years ahead of its reputation](https://dri.es/state-of-drupal-presentation-september-2026)
 * [2026-10-19, 21:11:45](https://news.ycombinator.com/item?id=50158138) - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
@@ -22,7 +23,6 @@
 * [2026-10-19, 10:53:39](https://news.ycombinator.com/item?id=50150809) - [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
 * [2026-10-19, 09:59:32](https://news.ycombinator.com/item?id=50150434) - [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/)
 * [2026-10-19, 09:05:07](https://news.ycombinator.com/item?id=50150089) - [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
-* [2026-10-19, 01:56:39](https://news.ycombinator.com/item?id=50147462) - [Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas](https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/)
 * [2026-10-19, 01:18:02](https://news.ycombinator.com/item?id=50147233) - [Starcraft: Ashfall](https://starcraft-shooter-2026.pages.dev/)
 * [2026-10-18, 12:39:56](https://news.ycombinator.com/item?id=50140584) - [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)
 * [2026-10-18, 03:48:10](https://news.ycombinator.com/item?id=50137754) - [The ovary doesn't retire after menopause](https://news.northwestern.edu/stories/2026/10/the-ovary-doesnt-retire-after-menopause?fj=1&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08)

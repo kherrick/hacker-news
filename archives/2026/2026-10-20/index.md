@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 00:53:52](https://news.ycombinator.com/item?id=50159993) - [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/)
+* [2026-10-20, 00:40:56](https://news.ycombinator.com/item?id=50159911) - [Vortex Code: one prompt, an AI software team that ships](https://spinozalabs.ai/news/introducing-vortex-code)
 * [2026-10-20, 00:00:49](https://news.ycombinator.com/item?id=50159616) - [France's Supermarket Fridges Were Vulnerable Online for Months](https://ipinfo.io/blog/france-fridges-hack)
