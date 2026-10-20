@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-20, 21:18:07](https://news.ycombinator.com/item?id=50172809) - [Third US aircraft carrier, 10k troops head to Middle East](https://www.iranintl.com/en/202610207766)
 * [2026-10-20, 19:55:11](https://news.ycombinator.com/item?id=50171771) - [On AI writing](https://www.bolkunov.com/p/on-ai-writing)
-* [2026-10-20, 18:51:40](https://news.ycombinator.com/item?id=50170917) - [Academics have a duty to defend open knowledge systems like Wikipedia](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
 * [2026-10-20, 18:29:09](https://news.ycombinator.com/item?id=50170593) - [SimCity, but with Permits](https://permit.petercai.com/)
 * [2026-10-20, 17:48:29](https://news.ycombinator.com/item?id=50170021) - [Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design)
 * [2026-10-20, 17:25:07](https://news.ycombinator.com/item?id=50169707) - [What shall I teach my son?](https://stevekrouse.com/ends)
