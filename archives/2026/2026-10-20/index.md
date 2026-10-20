@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 14:23:38](https://news.ycombinator.com/item?id=50166918) - [The Byzantine Generals Problem: A visual explanation](https://gravitypersists.github.io/exploring-byzantine-generals-problem/)
+* [2026-10-20, 14:13:49](https://news.ycombinator.com/item?id=50166794) - [My Friend Bob Cringely](https://tyma.com/my-cringe-story/)
+* [2026-10-20, 13:39:24](https://news.ycombinator.com/item?id=50166257) - [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
+* [2026-10-20, 13:18:07](https://news.ycombinator.com/item?id=50165953) - [Tsrs: A Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
 * [2026-10-20, 13:06:22](https://news.ycombinator.com/item?id=50165801) - [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web)
 * [2026-10-20, 12:43:05](https://news.ycombinator.com/item?id=50165484) - [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
 * [2026-10-20, 12:22:28](https://news.ycombinator.com/item?id=50165276) - [Demographic \"Doomsday\" Misses the Mark](https://www.science.org/doi/10.1126/science.ael8752)
