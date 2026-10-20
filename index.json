@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-10-20, 01:53:51",
-      "https://news.ycombinator.com/item?id=50160419"
+      "2026-10-20, 02:06:40",
+      "https://news.ycombinator.com/item?id=50160494"
     ],
     [
-      "OpenBSD 8.0: released Oct 20, 2026",
-      "https://marc.info/?l=openbsd-misc&m=179245849770356&w=2"
+      "OpenBSD 8.0",
+      "https://www.openbsd.org/80.html"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-10-19, 14:52:04",
-      "https://news.ycombinator.com/item?id=50153225"
-    ],
-    [
-      "Agentic Monitoring",
-      "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/"
-    ]
-  ],
-  [
-    [
       "2026-10-19, 13:36:43",
       "https://news.ycombinator.com/item?id=50152321"
     ],
@@ -207,6 +197,16 @@
     [
       "Alternatives to animal testing are finally taking off",
       "https://spectrum.ieee.org/alternatives-to-animal-testing"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 10:53:39",
+      "https://news.ycombinator.com/item?id=50150809"
+    ],
+    [
+      "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166"
     ]
   ],
   [
