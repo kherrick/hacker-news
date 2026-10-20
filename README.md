@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-20, 01:34:58](https://news.ycombinator.com/item?id=50160289) - [Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD](https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd)
 * [2026-10-20, 00:53:52](https://news.ycombinator.com/item?id=50159993) - [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/)
 * [2026-10-20, 00:00:49](https://news.ycombinator.com/item?id=50159616) - [France's supermarket fridges were vulnerable online for months](https://ipinfo.io/blog/france-fridges-hack)
 * [2026-10-19, 23:22:18](https://news.ycombinator.com/item?id=50159341) - [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
@@ -9,7 +10,6 @@
 * [2026-10-19, 21:08:18](https://news.ycombinator.com/item?id=50158100) - [Putting Linux on my RTX Spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
 * [2026-10-19, 20:50:08](https://news.ycombinator.com/item?id=50157865) - [One Hash Bloom Filters](https://calabro.io/ohbf)
 * [2026-10-19, 19:19:33](https://news.ycombinator.com/item?id=50156744) - [The End of Rationing](https://sanketsaurav.com/writing/end-of-rationing)
-* [2026-10-19, 18:42:32](https://news.ycombinator.com/item?id=50156206) - [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 * [2026-10-19, 17:21:33](https://news.ycombinator.com/item?id=50155172) - [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
 * [2026-10-19, 16:45:30](https://news.ycombinator.com/item?id=50154624) - [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
 * [2026-10-19, 16:39:09](https://news.ycombinator.com/item?id=50154540) - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
