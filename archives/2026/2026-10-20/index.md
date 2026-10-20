@@ -35,6 +35,7 @@
 * [2026-10-20, 13:53:48](https://news.ycombinator.com/item?id=50166502) - [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
 * [2026-10-20, 13:39:24](https://news.ycombinator.com/item?id=50166257) - [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
 * [2026-10-20, 13:18:07](https://news.ycombinator.com/item?id=50165953) - [Tsrs: A Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
+* [2026-10-20, 13:14:39](https://news.ycombinator.com/item?id=50165904) - [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
 * [2026-10-20, 13:06:22](https://news.ycombinator.com/item?id=50165801) - [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web)
 * [2026-10-20, 12:43:05](https://news.ycombinator.com/item?id=50165484) - [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
 * [2026-10-20, 12:22:28](https://news.ycombinator.com/item?id=50165276) - [Demographic \"Doomsday\" Misses the Mark](https://www.science.org/doi/10.1126/science.ael8752)
