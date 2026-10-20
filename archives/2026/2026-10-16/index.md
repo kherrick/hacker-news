@@ -39,6 +39,7 @@
 * [2026-10-16, 17:08:55](https://news.ycombinator.com/item?id=50121188) - [Piramidal (YC W24) Is Hiring](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009)
 * [2026-10-16, 17:08:38](https://news.ycombinator.com/item?id=50121179) - [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/)
 * [2026-10-16, 16:57:49](https://news.ycombinator.com/item?id=50121004) - [/dev/null: social network for developers](https://dev-null.sh)
+* [2026-10-16, 16:42:48](https://news.ycombinator.com/item?id=50120748) - [There Are over 1M New York City Street Signs. Here's How They Are Made.](https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html)
 * [2026-10-16, 16:38:02](https://news.ycombinator.com/item?id=50120664) - [Desire to Move Permanently to U.S. at New Low](https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx)
 * [2026-10-16, 16:12:02](https://news.ycombinator.com/item?id=50120224) - [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 * [2026-10-16, 16:03:02](https://news.ycombinator.com/item?id=50120101) - [US Rep Announces Congressional Legislation to Protect Video Game Ownership](https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games)
