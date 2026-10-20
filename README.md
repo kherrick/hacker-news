@@ -23,11 +23,11 @@
 * [2026-10-19, 11:24:34](https://news.ycombinator.com/item?id=50151036) - [Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)
 * [2026-10-19, 09:05:07](https://news.ycombinator.com/item?id=50150089) - [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
 * [2026-10-19, 01:18:02](https://news.ycombinator.com/item?id=50147233) - [Starcraft: Ashfall](https://starcraft-shooter-2026.pages.dev/)
+* [2026-10-19, 00:43:01](https://news.ycombinator.com/item?id=50147034) - ['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/)
 * [2026-10-18, 14:48:01](https://news.ycombinator.com/item?id=50141581) - [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
 * [2026-10-18, 12:39:56](https://news.ycombinator.com/item?id=50140584) - [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)
 * [2026-10-18, 11:32:38](https://news.ycombinator.com/item?id=50140111) - [Restoration of Retinal Regenerative Potential](https://www.nature.com/articles/s41467-025-58290-8)
 * [2026-10-17, 23:24:05](https://news.ycombinator.com/item?id=50136126) - [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
-* [2026-10-17, 20:27:22](https://news.ycombinator.com/item?id=50134809) - [How Do Fungi Keep the Planet Healthy?](https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/)
 * [2026-10-17, 19:53:20](https://news.ycombinator.com/item?id=50134472) - [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 * [2026-10-17, 15:55:43](https://news.ycombinator.com/item?id=50132198) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
 
