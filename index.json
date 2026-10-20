@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-10-20, 17:25:07",
-      "https://news.ycombinator.com/item?id=50169707"
+      "2026-10-20, 17:43:11",
+      "https://news.ycombinator.com/item?id=50169955"
     ],
     [
-      "What Shall I Teach My Son?",
-      "https://stevekrouse.com/ends"
+      "Advanced coding in low-resource programming languages",
+      "https://openai.com/index/low-resource-programming-languages/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "IKEA – 3D Guide",
       "https://sael.net/flatpack/"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 15:19:19",
+      "https://news.ycombinator.com/item?id=50167732"
+    ],
+    [
+      "Why do we have so many meetings?",
+      "https://www.nber.org/papers/w35706"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=50167028"
     ],
     [
-      "Ofcom Concedes Defeat in the 4chan Case",
+      "Ofcom concedes defeat in 4chan case",
       "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/"
     ]
   ],
@@ -161,6 +171,26 @@
   ],
   [
     [
+      "2026-10-20, 12:43:05",
+      "https://news.ycombinator.com/item?id=50165484"
+    ],
+    [
+      "NixOS is making me less afraid",
+      "https://entropicthoughts.com/nixos-is-making-me-less-afraid"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 12:22:28",
+      "https://news.ycombinator.com/item?id=50165276"
+    ],
+    [
+      "Demographic \"doomsday\" misses the mark",
+      "https://www.science.org/doi/10.1126/science.ael8752"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 12:17:28",
       "https://news.ycombinator.com/item?id=50165208"
     ],
@@ -181,11 +211,21 @@
   ],
   [
     [
+      "2026-10-20, 10:26:02",
+      "https://news.ycombinator.com/item?id=50163961"
+    ],
+    [
+      "Google Cloud outage affects almost all banking and other operations in Europe",
+      "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 09:08:54",
       "https://news.ycombinator.com/item?id=50163277"
     ],
     [
-      "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "DeepInfer: High-performance inference framework for DeepSeek models",
       "https://github.com/deepseek-ai/DeepInfer"
     ]
   ],
@@ -197,26 +237,6 @@
     [
       "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
       "https://github.com/microg/GmsCore/wiki"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 02:06:40",
-      "https://news.ycombinator.com/item?id=50160494"
-    ],
-    [
-      "OpenBSD 8.0",
-      "https://www.openbsd.org/80.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 23:22:18",
-      "https://news.ycombinator.com/item?id=50159341"
-    ],
-    [
-      "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-10-18, 08:29:38",
-      "https://news.ycombinator.com/item?id=50139123"
-    ],
-    [
-      "UI-Te-Rangiora",
-      "https://en.wikipedia.org/wiki/Ui-te-Rangiora"
-    ]
-  ],
-  [
-    [
       "2026-10-18, 06:40:55",
       "https://news.ycombinator.com/item?id=50138490"
     ],
     [
       "JAXA is about to perform a Phobos sample return mission",
       "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon"
-    ]
-  ],
-  [
-    [
-      "2026-10-17, 15:55:43",
-      "https://news.ycombinator.com/item?id=50132198"
-    ],
-    [
-      "Making a 88x31 button book using ImageMagick",
-      "https://k.sosnierz.me/08-11-24/"
     ]
   ],
   [
