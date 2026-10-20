@@ -3,7 +3,6 @@
 * [2026-10-20, 10:26:02](https://news.ycombinator.com/item?id=50163961) - [Google cloud outage takes down banks](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)
 * [2026-10-20, 09:54:48](https://news.ycombinator.com/item?id=50163625) - [Revolut down as users report app not working](https://www.bbc.com/news/articles/cxdd8mm6qy4mo)
 * [2026-10-20, 09:08:54](https://news.ycombinator.com/item?id=50163277) - [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
-* [2026-10-20, 08:55:50](https://news.ycombinator.com/item?id=50163173) - [Fizzpoker – No-login Online Poker with friends](https://www.fizzpoker.com)
 * [2026-10-20, 08:51:31](https://news.ycombinator.com/item?id=50163142) - [There is no official XScreenSaver GitHub repository](https://github.com/xscreensaver-official/xscreensaver)
 * [2026-10-20, 06:37:07](https://news.ycombinator.com/item?id=50162177) - [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
 * [2026-10-20, 03:05:07](https://news.ycombinator.com/item?id=50160877) - [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
@@ -28,6 +27,7 @@
 * [2026-10-18, 12:39:56](https://news.ycombinator.com/item?id=50140584) - [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)
 * [2026-10-18, 11:32:38](https://news.ycombinator.com/item?id=50140111) - [Restoration of Retinal Regenerative Potential (2025)](https://www.nature.com/articles/s41467-025-58290-8)
 * [2026-10-17, 23:24:05](https://news.ycombinator.com/item?id=50136126) - [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
+* [2026-10-17, 20:27:22](https://news.ycombinator.com/item?id=50134809) - [How Do Fungi Keep the Planet Healthy?](https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/)
 * [2026-10-17, 19:53:20](https://news.ycombinator.com/item?id=50134472) - [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 * [2026-10-17, 15:55:43](https://news.ycombinator.com/item?id=50132198) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
 
