@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-20, 21:18:07](https://news.ycombinator.com/item?id=50172809) - [Third US aircraft carrier, 10k troops head to Middle East](https://www.iranintl.com/en/202610207766)
 * [2026-10-20, 19:55:11](https://news.ycombinator.com/item?id=50171771) - [On AI writing](https://www.bolkunov.com/p/on-ai-writing)
 * [2026-10-20, 18:29:09](https://news.ycombinator.com/item?id=50170593) - [SimCity, but with Permits](https://permit.petercai.com/)
 * [2026-10-20, 17:48:29](https://news.ycombinator.com/item?id=50170021) - [Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design)
@@ -27,6 +26,7 @@
 * [2026-10-19, 14:23:55](https://news.ycombinator.com/item?id=50152886) - [Meta's GB{2,3}00 Cluster](https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/)
 * [2026-10-19, 00:43:01](https://news.ycombinator.com/item?id=50147034) - ['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/)
 * [2026-10-18, 14:48:01](https://news.ycombinator.com/item?id=50141581) - [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
+* [2026-10-18, 10:25:07](https://news.ycombinator.com/item?id=50139728) - [Making Solar Panels with a Microwave [video]](https://www.youtube.com/watch?v=zcWkApGjyGM)
 * [2026-10-18, 06:40:55](https://news.ycombinator.com/item?id=50138490) - [JAXA is about to perform a Phobos sample return mission](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon)
 * [2026-10-17, 05:23:14](https://news.ycombinator.com/item?id=50128197) - [Archive of Our Own](https://archiveofourown.org/)
 * [2026-10-15, 19:09:34](https://news.ycombinator.com/item?id=50108717) - [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md)

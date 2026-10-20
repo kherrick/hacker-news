@@ -50,6 +50,7 @@
 * [2026-10-18, 11:15:37](https://news.ycombinator.com/item?id=50139998) - [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
 * [2026-10-18, 11:02:28](https://news.ycombinator.com/item?id=50139935) - [Kids are outsmarting social media bans. That's not a problem we need to solve](https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/)
 * [2026-10-18, 10:49:26](https://news.ycombinator.com/item?id=50139873) - [How employment is changing at Anthropic](https://www.anthropic.com/research/employment-at-anthropic)
+* [2026-10-18, 10:25:07](https://news.ycombinator.com/item?id=50139728) - [Making Solar Panels with a Microwave [video]](https://www.youtube.com/watch?v=zcWkApGjyGM)
 * [2026-10-18, 10:21:51](https://news.ycombinator.com/item?id=50139692) - [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
 * [2026-10-18, 10:14:42](https://news.ycombinator.com/item?id=50139658) - [It's time to talk about TEEs](https://alinush.github.io//tee)
 * [2026-10-18, 08:29:38](https://news.ycombinator.com/item?id=50139123) - [UI-Te-Rangiora](https://en.wikipedia.org/wiki/Ui-te-Rangiora)
