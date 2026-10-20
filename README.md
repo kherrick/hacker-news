@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-20, 14:49:33](https://news.ycombinator.com/item?id=50167286) - [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess)
+* [2026-10-20, 14:30:31](https://news.ycombinator.com/item?id=50167028) - [Ofcom Concedes Defeat in the 4chan Case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
 * [2026-10-20, 14:13:49](https://news.ycombinator.com/item?id=50166794) - [My Friend Bob Cringely](https://tyma.com/my-cringe-story/)
 * [2026-10-20, 13:58:33](https://news.ycombinator.com/item?id=50166579) - [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
 * [2026-10-20, 13:53:48](https://news.ycombinator.com/item?id=50166502) - [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
@@ -21,13 +23,11 @@
 * [2026-10-19, 15:31:34](https://news.ycombinator.com/item?id=50153664) - [Ukraine claims first drone evacuation of wounded soldier](https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310)
 * [2026-10-19, 14:52:33](https://news.ycombinator.com/item?id=50153229) - [One Manhattan power room took down FAA air traffic control in 1991](https://matthorn.io/posts/2026-10-18-33-thomas-street/)
 * [2026-10-19, 13:35:34](https://news.ycombinator.com/item?id=50152307) - [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
-* [2026-10-19, 09:05:07](https://news.ycombinator.com/item?id=50150089) - [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
 * [2026-10-19, 00:43:01](https://news.ycombinator.com/item?id=50147034) - ['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/)
 * [2026-10-18, 14:48:01](https://news.ycombinator.com/item?id=50141581) - [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
 * [2026-10-18, 12:39:56](https://news.ycombinator.com/item?id=50140584) - [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)
 * [2026-10-18, 11:32:38](https://news.ycombinator.com/item?id=50140111) - [Restoration of Retinal Regenerative Potential (2025)](https://www.nature.com/articles/s41467-025-58290-8)
 * [2026-10-17, 21:31:44](https://news.ycombinator.com/item?id=50135333) - [FingerWorks iGesture Pad (2005)](https://uk.pcmag.com/first-looks/26975/fingerworks-igesture-pad)
-* [2026-10-17, 19:53:20](https://news.ycombinator.com/item?id=50134472) - [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 * [2026-10-17, 15:55:43](https://news.ycombinator.com/item?id=50132198) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
 * [2026-10-16, 16:42:48](https://news.ycombinator.com/item?id=50120748) - [There Are over 1M New York City Street Signs. Here's How They Are Made.](https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html)
 
