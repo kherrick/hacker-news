@@ -1,14 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-20, 18:29:09](https://news.ycombinator.com/item?id=50170593) - [SimCity, but with Permits](https://permit.petercai.com/)
 * [2026-10-20, 17:43:11](https://news.ycombinator.com/item?id=50169955) - [Advanced coding in low-resource programming languages](https://openai.com/index/low-resource-programming-languages/)
-* [2026-10-20, 17:10:31](https://news.ycombinator.com/item?id=50169506) - [Benchmarking Bot Detection Systems Against Modern AI Agents in 2026](https://research.poh.org/bot-benchmarking-2026/)
 * [2026-10-20, 16:40:24](https://news.ycombinator.com/item?id=50169053) - [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
 * [2026-10-20, 16:02:07](https://news.ycombinator.com/item?id=50168396) - [Voxtral 3](https://mistral.ai/news/voxtral-3/)
-* [2026-10-20, 16:00:15](https://news.ycombinator.com/item?id=50168376) - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
 * [2026-10-20, 15:59:06](https://news.ycombinator.com/item?id=50168357) - [Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery](https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery)
 * [2026-10-20, 15:42:45](https://news.ycombinator.com/item?id=50168096) - [IKEA – 3D Guide](https://sael.net/flatpack/)
 * [2026-10-20, 15:19:19](https://news.ycombinator.com/item?id=50167732) - [Why do we have so many meetings?](https://www.nber.org/papers/w35706)
-* [2026-10-20, 15:11:56](https://news.ycombinator.com/item?id=50167617) - [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com)
 * [2026-10-20, 15:10:54](https://news.ycombinator.com/item?id=50167604) - [Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor)
 * [2026-10-20, 15:09:29](https://news.ycombinator.com/item?id=50167583) - [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583)
 * [2026-10-20, 15:06:08](https://news.ycombinator.com/item?id=50167536) - [Facebook Pages require paid subscription to post more than two links per month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
@@ -26,10 +24,12 @@
 * [2026-10-20, 10:26:02](https://news.ycombinator.com/item?id=50163961) - [Google Cloud outage affects almost all banking and other operations in Europe](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)
 * [2026-10-20, 09:08:54](https://news.ycombinator.com/item?id=50163277) - [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
 * [2026-10-20, 06:37:07](https://news.ycombinator.com/item?id=50162177) - [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
+* [2026-10-19, 19:05:53](https://news.ycombinator.com/item?id=50156561) - [My Neighbor, Me, and a Grand Principle](https://lastwordonnothing.com/2026/10/19/my-neighbor-me-and-a-grand-principle/)
 * [2026-10-18, 14:48:01](https://news.ycombinator.com/item?id=50141581) - [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
 * [2026-10-18, 06:40:55](https://news.ycombinator.com/item?id=50138490) - [JAXA is about to perform a Phobos sample return mission](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon)
 * [2026-10-17, 15:33:12](https://news.ycombinator.com/item?id=50131997) - [Triplet of 'ghostly' galaxies hints at what dark matter is and isn't](https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/)
 * [2026-10-17, 05:23:14](https://news.ycombinator.com/item?id=50128197) - [Archive of Our Own](https://archiveofourown.org/)
+* [2026-10-15, 19:09:34](https://news.ycombinator.com/item?id=50108717) - [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md)
 
 ## [Archives](archives/index.md)
 
