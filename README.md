@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-20, 09:54:48](https://news.ycombinator.com/item?id=50163625) - [Revolut down as users report app not working](https://www.bbc.com/news/articles/cxdd8mm6qy4mo)
 * [2026-10-20, 09:35:40](https://news.ycombinator.com/item?id=50163502) - [AfD Leak: What 421,179 Hacked Emails Show about the German Far Right](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/)
 * [2026-10-20, 09:30:31](https://news.ycombinator.com/item?id=50163462) - [UK Defence Startups Are Being Denied Banking Services Under ESG Rules](https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules)
 * [2026-10-20, 09:08:54](https://news.ycombinator.com/item?id=50163277) - [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
@@ -27,7 +28,6 @@
 * [2026-10-18, 12:39:56](https://news.ycombinator.com/item?id=50140584) - [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)
 * [2026-10-18, 11:32:38](https://news.ycombinator.com/item?id=50140111) - [Restoration of Retinal Regenerative Potential](https://www.nature.com/articles/s41467-025-58290-8)
 * [2026-10-17, 23:24:05](https://news.ycombinator.com/item?id=50136126) - [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
-* [2026-10-17, 20:27:22](https://news.ycombinator.com/item?id=50134809) - [How Do Fungi Keep the Planet Healthy?](https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/)
 * [2026-10-17, 19:53:20](https://news.ycombinator.com/item?id=50134472) - [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 * [2026-10-17, 15:55:43](https://news.ycombinator.com/item?id=50132198) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
 

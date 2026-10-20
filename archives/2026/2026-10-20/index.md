@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 09:54:48](https://news.ycombinator.com/item?id=50163625) - [Revolut down as users report app not working](https://www.bbc.com/news/articles/cxdd8mm6qy4mo)
 * [2026-10-20, 09:35:40](https://news.ycombinator.com/item?id=50163502) - [AfD Leak: What 421,179 Hacked Emails Show about the German Far Right](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/)
 * [2026-10-20, 09:30:31](https://news.ycombinator.com/item?id=50163462) - [UK Defence Startups Are Being Denied Banking Services Under ESG Rules](https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules)
 * [2026-10-20, 09:08:54](https://news.ycombinator.com/item?id=50163277) - [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
