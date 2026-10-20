@@ -18,6 +18,7 @@
 * [2026-10-20, 13:39:24](https://news.ycombinator.com/item?id=50166257) - [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
 * [2026-10-20, 13:18:07](https://news.ycombinator.com/item?id=50165953) - [Tsrs: A Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
 * [2026-10-20, 13:14:39](https://news.ycombinator.com/item?id=50165904) - [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
+* [2026-10-20, 13:06:22](https://news.ycombinator.com/item?id=50165801) - [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web)
 * [2026-10-20, 12:17:28](https://news.ycombinator.com/item?id=50165208) - [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
 * [2026-10-20, 12:00:32](https://news.ycombinator.com/item?id=50164991) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci)
 * [2026-10-20, 10:26:02](https://news.ycombinator.com/item?id=50163961) - [Google Cloud outage affects almost all banking and other operations in Europe](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)
@@ -28,7 +29,6 @@
 * [2026-10-18, 14:48:01](https://news.ycombinator.com/item?id=50141581) - [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
 * [2026-10-18, 10:25:07](https://news.ycombinator.com/item?id=50139728) - [Making Solar Panels with a Microwave [video]](https://www.youtube.com/watch?v=zcWkApGjyGM)
 * [2026-10-18, 06:40:55](https://news.ycombinator.com/item?id=50138490) - [JAXA is about to perform a Phobos sample return mission](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon)
-* [2026-10-17, 05:23:14](https://news.ycombinator.com/item?id=50128197) - [Archive of Our Own](https://archiveofourown.org/)
 * [2026-10-15, 19:09:34](https://news.ycombinator.com/item?id=50108717) - [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md)
 
 ## [Archives](archives/index.md)
