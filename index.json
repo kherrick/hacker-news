@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2026-10-19, 23:08:52",
-      "https://news.ycombinator.com/item?id=50159245"
-    ],
-    [
-      "“bonsoir, Elliot”: How abliterated models can get you pwned",
-      "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned"
-    ]
-  ],
-  [
-    [
       "2026-10-19, 22:32:37",
       "https://news.ycombinator.com/item?id=50158942"
     ],
@@ -107,16 +97,6 @@
     [
       "One Hash Bloom Filters",
       "https://calabro.io/ohbf"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 19:19:33",
-      "https://news.ycombinator.com/item?id=50156744"
-    ],
-    [
-      "The End of Rationing",
-      "https://sanketsaurav.com/writing/end-of-rationing"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2026-10-19, 13:36:43",
+      "https://news.ycombinator.com/item?id=50152321"
+    ],
+    [
+      "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 13:35:34",
       "https://news.ycombinator.com/item?id=50152307"
     ],
@@ -197,6 +187,16 @@
     [
       "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "https://news.ycombinator.com/item?id=50151036"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 10:53:39",
+      "https://news.ycombinator.com/item?id=50150809"
+    ],
+    [
+      "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=50135177"
     ],
     [
-      "What If Video Games Came on VHS? One Modder Is Finding Out",
+      "What if video games came on VHS? One modder is finding out",
       "https://gardinerbryant.com/what-if-video-games-came-on-vhs/"
     ]
   ],
