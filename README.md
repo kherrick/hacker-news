@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-20, 06:40:49](https://news.ycombinator.com/item?id=50162198) - [Vite+ an excellent toolchain for AI agent development](https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en)
 * [2026-10-20, 04:37:43](https://news.ycombinator.com/item?id=50161408) - [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/)
 * [2026-10-20, 03:05:07](https://news.ycombinator.com/item?id=50160877) - [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
 * [2026-10-20, 02:06:40](https://news.ycombinator.com/item?id=50160494) - [OpenBSD 8.0](https://www.openbsd.org/80.html)
@@ -14,7 +15,6 @@
 * [2026-10-19, 16:45:30](https://news.ycombinator.com/item?id=50154624) - [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
 * [2026-10-19, 16:39:09](https://news.ycombinator.com/item?id=50154540) - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
 * [2026-10-19, 16:16:46](https://news.ycombinator.com/item?id=50154244) - [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
-* [2026-10-19, 16:00:18](https://news.ycombinator.com/item?id=50154029) - [Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces](https://news.ycombinator.com/item?id=50154029)
 * [2026-10-19, 15:31:34](https://news.ycombinator.com/item?id=50153664) - [Ukraine claims first drone evacuation of wounded soldier](https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310)
 * [2026-10-19, 14:52:04](https://news.ycombinator.com/item?id=50153225) - [Agentic Monitoring](https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/)
 * [2026-10-19, 13:36:43](https://news.ycombinator.com/item?id=50152321) - [Plex vulnerabilities being exploited in the wild to drop a cryptominer](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html)
@@ -24,12 +24,12 @@
 * [2026-10-19, 01:18:02](https://news.ycombinator.com/item?id=50147233) - [Starcraft: Ashfall](https://starcraft-shooter-2026.pages.dev/)
 * [2026-10-18, 14:48:01](https://news.ycombinator.com/item?id=50141581) - [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
 * [2026-10-18, 12:39:56](https://news.ycombinator.com/item?id=50140584) - [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)
+* [2026-10-18, 11:32:38](https://news.ycombinator.com/item?id=50140111) - [Restoration of Retinal Regenerative Potential](https://www.nature.com/articles/s41467-025-58290-8)
 * [2026-10-18, 04:48:47](https://news.ycombinator.com/item?id=50138000) - [Refurb weekend II: Alpha Micro Eagle 300 and friends](http://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html)
 * [2026-10-17, 23:24:05](https://news.ycombinator.com/item?id=50136126) - [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
 * [2026-10-17, 21:12:16](https://news.ycombinator.com/item?id=50135177) - [Porting video games to VHS](https://gardinerbryant.com/what-if-video-games-came-on-vhs/)
 * [2026-10-17, 20:27:22](https://news.ycombinator.com/item?id=50134809) - [How Do Fungi Keep the Planet Healthy?](https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/)
 * [2026-10-17, 19:53:20](https://news.ycombinator.com/item?id=50134472) - [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
-* [2026-10-17, 19:37:54](https://news.ycombinator.com/item?id=50134359) - [The fire retardant in the seafood chain](https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/)
 
 ## [Archives](archives/index.md)
 

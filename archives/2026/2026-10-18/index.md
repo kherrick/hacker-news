@@ -45,6 +45,7 @@
 * [2026-10-18, 12:39:56](https://news.ycombinator.com/item?id=50140584) - [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)
 * [2026-10-18, 12:22:58](https://news.ycombinator.com/item?id=50140462) - [How Far Will AI Assistants Go for a Refund They Can't Get?](https://www.vals.ai/blogs/impossible-refund)
 * [2026-10-18, 12:11:13](https://news.ycombinator.com/item?id=50140383) - [A new way to think about borrow checking (in reverse)](https://verdagon.dev/blog/reverse-borrow-checking)
+* [2026-10-18, 11:32:38](https://news.ycombinator.com/item?id=50140111) - [Restoration of Retinal Regenerative Potential](https://www.nature.com/articles/s41467-025-58290-8)
 * [2026-10-18, 11:16:22](https://news.ycombinator.com/item?id=50140001) - [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)
 * [2026-10-18, 11:15:37](https://news.ycombinator.com/item?id=50139998) - [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
 * [2026-10-18, 11:02:28](https://news.ycombinator.com/item?id=50139935) - [Kids are outsmarting social media bans. That's not a problem we need to solve](https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/)
