@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-20, 16:59:16](https://news.ycombinator.com/item?id=50169336) - [Go Conventions That Clicked Too Late for an AI Engineer](https://towardsdev.com/10-go-conventions-that-clicked-too-late-for-an-ai-engineer-78319f2d538f?sk=5858de12ec208931b984d8f55436a7a2)
 * [2026-10-20, 16:40:24](https://news.ycombinator.com/item?id=50169053) - [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
 * [2026-10-20, 16:02:07](https://news.ycombinator.com/item?id=50168396) - [Voxtral 3](https://mistral.ai/news/voxtral-3/)
 * [2026-10-20, 15:48:26](https://news.ycombinator.com/item?id=50168190) - [Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest](https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop)
@@ -7,7 +8,6 @@
 * [2026-10-20, 15:11:56](https://news.ycombinator.com/item?id=50167617) - [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com)
 * [2026-10-20, 15:10:54](https://news.ycombinator.com/item?id=50167604) - [Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor)
 * [2026-10-20, 15:09:29](https://news.ycombinator.com/item?id=50167583) - [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583)
-* [2026-10-20, 15:07:38](https://news.ycombinator.com/item?id=50167560) - [How to Link Real-Time Live Streaming to Video-on-Demand](https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/)
 * [2026-10-20, 15:06:08](https://news.ycombinator.com/item?id=50167536) - [Facebook Pages require paid subscription to post more than two links per month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
 * [2026-10-20, 14:30:31](https://news.ycombinator.com/item?id=50167028) - [Ofcom Concedes Defeat in the 4chan Case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
 * [2026-10-20, 14:13:49](https://news.ycombinator.com/item?id=50166794) - [My Friend Bob Cringely](https://tyma.com/my-cringe-story/)
@@ -18,7 +18,7 @@
 * [2026-10-20, 13:06:22](https://news.ycombinator.com/item?id=50165801) - [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web)
 * [2026-10-20, 12:17:28](https://news.ycombinator.com/item?id=50165208) - [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
 * [2026-10-20, 12:00:32](https://news.ycombinator.com/item?id=50164991) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci)
-* [2026-10-20, 09:08:54](https://news.ycombinator.com/item?id=50163277) - [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
+* [2026-10-20, 09:08:54](https://news.ycombinator.com/item?id=50163277) - [DeepInfer: High-performance, large-scale inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
 * [2026-10-20, 06:37:07](https://news.ycombinator.com/item?id=50162177) - [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
 * [2026-10-20, 02:06:40](https://news.ycombinator.com/item?id=50160494) - [OpenBSD 8.0](https://www.openbsd.org/80.html)
 * [2026-10-19, 23:22:18](https://news.ycombinator.com/item?id=50159341) - [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
