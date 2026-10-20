@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
 * [2026-10-20, 15:19:19](https://news.ycombinator.com/item?id=50167732) - [Why do we have so many meetings?](https://www.nber.org/papers/w35706)
+* [2026-10-20, 15:14:14](https://news.ycombinator.com/item?id=50167657) - [Show HN: Clerkenwell – A Handwritten Clojure Notebook](https://handwritten.danieljanus.pl/2026-10-20-clerkenwell.html)
 * [2026-10-20, 15:11:56](https://news.ycombinator.com/item?id=50167617) - [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com)
 * [2026-10-20, 15:10:54](https://news.ycombinator.com/item?id=50167604) - [Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor)
 * [2026-10-20, 15:09:29](https://news.ycombinator.com/item?id=50167583) - [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583)
 * [2026-10-20, 15:07:38](https://news.ycombinator.com/item?id=50167560) - [How to Link Real-Time Live Streaming to Video-on-Demand](https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/)
 * [2026-10-20, 15:06:08](https://news.ycombinator.com/item?id=50167536) - [Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
+* [2026-10-20, 15:05:53](https://news.ycombinator.com/item?id=50167533) - [In-memory privacy shield to prevent context leaks in MCP tools](https://github.com/rohan-protocol/sdk)
 * [2026-10-20, 15:05:07](https://news.ycombinator.com/item?id=50167524) - [Getting Banned from r/java](https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/)
 * [2026-10-20, 15:05:01](https://news.ycombinator.com/item?id=50167523) - [Building full-firm knowledge graphs to dramatically speed up agents](https://lexifina.com/blog/building-full-firm-knowledge-graphs-to-dramatically-speed-up-agents)
 * [2026-10-20, 15:00:34](https://news.ycombinator.com/item?id=50167456) - [Show HN: Run Claude Code unattended inside a fence, under a dollar budget](https://github.com/metahumansworld/SIwithin)

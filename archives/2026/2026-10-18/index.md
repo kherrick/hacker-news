@@ -52,6 +52,7 @@
 * [2026-10-18, 10:49:26](https://news.ycombinator.com/item?id=50139873) - [How employment is changing at Anthropic](https://www.anthropic.com/research/employment-at-anthropic)
 * [2026-10-18, 10:21:51](https://news.ycombinator.com/item?id=50139692) - [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
 * [2026-10-18, 10:14:42](https://news.ycombinator.com/item?id=50139658) - [It's time to talk about TEEs](https://alinush.github.io//tee)
+* [2026-10-18, 08:29:38](https://news.ycombinator.com/item?id=50139123) - [UI-Te-Rangiora](https://en.wikipedia.org/wiki/Ui-te-Rangiora)
 * [2026-10-18, 08:19:53](https://news.ycombinator.com/item?id=50139067) - [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/)
 * [2026-10-18, 06:50:36](https://news.ycombinator.com/item?id=50138531) - [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
 * [2026-10-18, 06:36:48](https://news.ycombinator.com/item?id=50138462) - [A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One](https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c)

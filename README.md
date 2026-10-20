@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-20, 15:19:19](https://news.ycombinator.com/item?id=50167732) - [Why do we have so many meetings?](https://www.nber.org/papers/w35706)
+* [2026-10-20, 15:14:14](https://news.ycombinator.com/item?id=50167657) - [Show HN: Clerkenwell – A Handwritten Clojure Notebook](https://handwritten.danieljanus.pl/2026-10-20-clerkenwell.html)
 * [2026-10-20, 15:11:56](https://news.ycombinator.com/item?id=50167617) - [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com)
 * [2026-10-20, 15:10:54](https://news.ycombinator.com/item?id=50167604) - [Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor)
 * [2026-10-20, 15:09:29](https://news.ycombinator.com/item?id=50167583) - [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583)
 * [2026-10-20, 15:07:38](https://news.ycombinator.com/item?id=50167560) - [How to Link Real-Time Live Streaming to Video-on-Demand](https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/)
 * [2026-10-20, 15:06:08](https://news.ycombinator.com/item?id=50167536) - [Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
+* [2026-10-20, 15:05:53](https://news.ycombinator.com/item?id=50167533) - [In-memory privacy shield to prevent context leaks in MCP tools](https://github.com/rohan-protocol/sdk)
 * [2026-10-20, 15:05:07](https://news.ycombinator.com/item?id=50167524) - [Getting Banned from r/java](https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/)
-* [2026-10-20, 15:05:01](https://news.ycombinator.com/item?id=50167523) - [Building full-firm knowledge graphs to dramatically speed up agents](https://lexifina.com/blog/building-full-firm-knowledge-graphs-to-dramatically-speed-up-agents)
 * [2026-10-20, 15:00:34](https://news.ycombinator.com/item?id=50167456) - [Show HN: Run Claude Code unattended inside a fence, under a dollar budget](https://github.com/metahumansworld/SIwithin)
 * [2026-10-20, 14:49:33](https://news.ycombinator.com/item?id=50167286) - [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess)
 * [2026-10-20, 14:30:31](https://news.ycombinator.com/item?id=50167028) - [Ofcom Concedes Defeat in the 4chan Case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
@@ -17,7 +18,6 @@
 * [2026-10-20, 13:39:24](https://news.ycombinator.com/item?id=50166257) - [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
 * [2026-10-20, 13:18:07](https://news.ycombinator.com/item?id=50165953) - [Tsrs: A Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
 * [2026-10-20, 13:06:22](https://news.ycombinator.com/item?id=50165801) - [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web)
-* [2026-10-20, 12:43:05](https://news.ycombinator.com/item?id=50165484) - [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
 * [2026-10-20, 12:17:28](https://news.ycombinator.com/item?id=50165208) - [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
 * [2026-10-20, 12:00:32](https://news.ycombinator.com/item?id=50164991) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci)
 * [2026-10-20, 09:08:54](https://news.ycombinator.com/item?id=50163277) - [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
@@ -28,8 +28,8 @@
 * [2026-10-19, 14:52:33](https://news.ycombinator.com/item?id=50153229) - [One Manhattan power room took down FAA air traffic control in 1991](https://matthorn.io/posts/2026-10-18-33-thomas-street/)
 * [2026-10-19, 00:43:01](https://news.ycombinator.com/item?id=50147034) - ['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/)
 * [2026-10-18, 14:48:01](https://news.ycombinator.com/item?id=50141581) - [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
+* [2026-10-18, 08:29:38](https://news.ycombinator.com/item?id=50139123) - [UI-Te-Rangiora](https://en.wikipedia.org/wiki/Ui-te-Rangiora)
 * [2026-10-17, 21:31:44](https://news.ycombinator.com/item?id=50135333) - [FingerWorks iGesture Pad (2005)](https://uk.pcmag.com/first-looks/26975/fingerworks-igesture-pad)
-* [2026-10-17, 15:55:43](https://news.ycombinator.com/item?id=50132198) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
 
 ## [Archives](archives/index.md)
 
