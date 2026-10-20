@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-20, 15:09:29](https://news.ycombinator.com/item?id=50167583) - [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583)
+* [2026-10-20, 15:06:08](https://news.ycombinator.com/item?id=50167536) - [Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
 * [2026-10-20, 14:49:33](https://news.ycombinator.com/item?id=50167286) - [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess)
 * [2026-10-20, 14:30:31](https://news.ycombinator.com/item?id=50167028) - [Ofcom Concedes Defeat in the 4chan Case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
 * [2026-10-20, 14:13:49](https://news.ycombinator.com/item?id=50166794) - [My Friend Bob Cringely](https://tyma.com/my-cringe-story/)
@@ -20,9 +22,7 @@
 * [2026-10-19, 16:39:09](https://news.ycombinator.com/item?id=50154540) - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
 * [2026-10-19, 16:30:41](https://news.ycombinator.com/item?id=50154429) - [Spending 10 months building the most human-like chess bot](https://mbuffett.com/posts/most-human-chess-bot)
 * [2026-10-19, 16:16:46](https://news.ycombinator.com/item?id=50154244) - [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
-* [2026-10-19, 15:31:34](https://news.ycombinator.com/item?id=50153664) - [Ukraine claims first drone evacuation of wounded soldier](https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310)
 * [2026-10-19, 14:52:33](https://news.ycombinator.com/item?id=50153229) - [One Manhattan power room took down FAA air traffic control in 1991](https://matthorn.io/posts/2026-10-18-33-thomas-street/)
-* [2026-10-19, 13:35:34](https://news.ycombinator.com/item?id=50152307) - [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
 * [2026-10-19, 00:43:01](https://news.ycombinator.com/item?id=50147034) - ['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/)
 * [2026-10-18, 14:48:01](https://news.ycombinator.com/item?id=50141581) - [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
 * [2026-10-18, 12:39:56](https://news.ycombinator.com/item?id=50140584) - [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)

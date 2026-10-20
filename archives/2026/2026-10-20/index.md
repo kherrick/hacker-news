@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 15:09:29](https://news.ycombinator.com/item?id=50167583) - [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583)
+* [2026-10-20, 15:06:08](https://news.ycombinator.com/item?id=50167536) - [Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
 * [2026-10-20, 14:49:33](https://news.ycombinator.com/item?id=50167286) - [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess)
 * [2026-10-20, 14:30:31](https://news.ycombinator.com/item?id=50167028) - [Ofcom Concedes Defeat in the 4chan Case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
 * [2026-10-20, 14:23:38](https://news.ycombinator.com/item?id=50166918) - [The Byzantine Generals Problem: A visual explanation](https://gravitypersists.github.io/exploring-byzantine-generals-problem/)
