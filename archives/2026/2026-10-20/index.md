@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
 * [2026-10-20, 18:29:09](https://news.ycombinator.com/item?id=50170593) - [SimCity, but with Permits](https://permit.petercai.com/)
+* [2026-10-20, 17:48:29](https://news.ycombinator.com/item?id=50170021) - [Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design)
 * [2026-10-20, 17:43:11](https://news.ycombinator.com/item?id=50169955) - [Advanced coding in low-resource programming languages](https://openai.com/index/low-resource-programming-languages/)
 * [2026-10-20, 17:25:07](https://news.ycombinator.com/item?id=50169707) - [What Shall I Teach My Son?](https://stevekrouse.com/ends)
 * [2026-10-20, 17:10:31](https://news.ycombinator.com/item?id=50169506) - [Benchmarking Bot Detection Systems Against Modern AI Agents in 2026](https://research.poh.org/bot-benchmarking-2026/)
