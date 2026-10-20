@@ -129,6 +129,178 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="50167583">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=50167583"
+              >Launch HN: Respan (YC W24) – Open-source Rust AI gateway built
+              around plugins</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-20 @ 15:09:29</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50167583"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.respan.ai">https://www.respan.ai</a>). We are
+              building an open-source Rust AI gateway. It is a decoupled
+              gateway, so everything is a plugin, including different providers,
+              protocols (MCP, voice), modalities (images, videos), and gateway
+              features (fallbacks, PII redaction, smart routing).
+              <p>
+                Instead of packaging tons of providers and features into one
+                gateway, Respan provides a small core and public interfaces that
+                teams can use to assemble the AI infrastructure their
+                application needs. That way, users can build their own features
+                as additional plugins without having to change the gateway's
+                core.
+              </p>
+              <p>
+                Here’s a video demo:
+                <a href="https://www.youtube.com/watch?v=pVv2ibXiTXM"
+                  >https://www.youtube.com/watch?v=pVv2ibXiTXM</a
+                >
+              </p>
+              <p>
+                There are countless LLM gateways and most of them solve a common
+                problem: calling different providers from a single endpoint.
+                However, adding new features can become prohibitively difficult.
+                So developers can end up building another gateway to solve a
+                specific problem.
+              </p>
+              <p>
+                We've been building our gateway based on LiteLLM since 2024, and
+                now it's providing services for thousands of orgs. Each org
+                needs different API key settings, routes, and limits. To support
+                that, we kept wrapping LiteLLM, adding more features to it, and
+                at one stage, our wrapper code exceeded 100,000 lines.
+              </p>
+              <p>
+                This January, a routine LiteLLM upgrade caused intermittent
+                connection errors, and we had to roll back. We still haven't
+                figured out the cause, but since then, we no longer upgrade
+                LiteLLM directly and instead manually backport upstream fixes.
+                These experiences made us realize that continuing to patch
+                LiteLLM is not a sustainable long-term solution, and we had to
+                redesign the gateway ourselves.
+              </p>
+              <p>
+                While redesigning our gateway, we wanted to make it easier to
+                add features without breaking existing ones. Inspired by Nginx,
+                we think an AI gateway should have a really small core, only
+                responsible for dispatching events.
+              </p>
+              <p>
+                We believe that everything should be a plugin in our gateway,
+                including providers (OpenAI, Anthropic, Gemini), protocols
+                (chat, realtime voice, MCP), modalities (images, videos), and
+                gateway features for reliability and security (smart routing,
+                fallbacks, and PII redaction through example plugins). Beyond
+                that, we want developers to be able to easily extend the
+                gateway's capabilities by adding their own plugins, without
+                touching the core. Adding a provider, even your own, is dead
+                simple, because quirks are plugins too and there’s nothing
+                magical about them. A provider is a short file, Mistral’s is 22
+                lines, and each quirk, like Groq putting token usage in its own
+                field, gets its own test.
+              </p>
+              <p>
+                Respan Gateway does more than let you call Claude or Gemini
+                models from the OpenAI SDK. It handles tools, images, and
+                reasoning protocols automatically: an application based on the
+                OpenAI Realtime API can also use Gemini Live through the
+                gateway, though not every feature translates. A simple chat app
+                can use MCP tools configured in the gateway, without
+                implementing MCP itself.
+              </p>
+              <p>
+                We also parse requests into a shared structure. When the client
+                and provider use the same API, we preserve provider-specific
+                fields in their native format, even if our shared structure
+                doesn't have a field for them. That way, the gateway can write
+                them back instead of dropping them.
+              </p>
+              <p>Here’s how it works:</p>
+              <p>
+                An adapter hands each HTTP or WebSocket connection to the first
+                client format that recognizes it. The format exposes the request
+                as a two-way stream of typed input and output events. The core
+                runs plugins in registration order, allowing them to choose a
+                provider, filter or wrap either stream, make additional calls,
+                return a response, or refuse the request. A provider format then
+                opens the upstream connection.
+              </p>
+              <p>
+                If the client and provider use the same format and no plugin
+                changes the payload, the original bytes and protocol-specific
+                fields can pass through unchanged. When formats differ, they
+                translate through shared types for messages, tool calls,
+                results, streams, and usage. This stream model can represent
+                both one-shot HTTP requests and long-lived bidirectional
+                sessions.
+              </p>
+              <p>
+                The gateway is open source at
+                <a href="https://github.com/respanai/respan-gateway"
+                  >https://github.com/respanai/respan-gateway</a
+                >
+                under the MIT or Apache-2.0 license. You don't need to use
+                Respan's hosted platform and can run it directly on your local
+                machine. Build it from source, add your provider keys, and swap
+                the base URL in a supported client. You can keep using the API
+                your client already speaks. It's still pre-alpha.
+              </p>
+              <p>
+                We make money from our hosted platform (<a
+                  href="https://www.respan.ai/pricing"
+                  >https://www.respan.ai/pricing</a
+                >), which runs the gateway for you with native observability and
+                evals, along with unified billing.
+              </p>
+              <p>
+                If you’re building routing, tools, filtering, observability, or
+                security for agents, we'd love to see it as a plugin. PLUGINS.md
+                in the repo explains how to write one and links to the plugins
+                we’ve created so far. Turning that into an ecosystem is
+                basically our roadmap, and we welcome you to contribute your own
+                plugins. We'd love to answer any questions and hear your
+                feedback!
+              </p>
+              <p>
+                <a href="https://github.com/respanai/respan-gateway"
+                  >https://github.com/respanai/respan-gateway</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="50167536">
+          <h3>
+            <a
+              class="item"
+              href="https://mastodon.gamedev.place/@AshleyGullen/117473851565913919"
+              >Facebook now charging to post more than 2 links a month</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-20 @ 15:06:08</span
+              ><span class="points-container"
+                >Points: <span class="points">40</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50167536"
+                  >Comments</a
+                ><span class="descendants">: 15</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="50167286">
           <h3>
             <a class="item" href="https://github.com/KatrielMoses/voidaccess"
@@ -140,11 +312,11 @@
             <h4>
               <span>2026-10-20 @ 14:49:33</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50167286"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
             <div class="text">
@@ -174,11 +346,11 @@
             <h4>
               <span>2026-10-20 @ 14:30:31</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50167028"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -193,11 +365,11 @@
             <h4>
               <span>2026-10-20 @ 14:13:49</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50166794"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -212,11 +384,11 @@
             <h4>
               <span>2026-10-20 @ 13:58:33</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50166579"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -233,7 +405,7 @@
             <h4>
               <span>2026-10-20 @ 13:53:48</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50166502"
                   >Comments</a
@@ -252,11 +424,11 @@
             <h4>
               <span>2026-10-20 @ 13:39:24</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50166257"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -273,11 +445,11 @@
             <h4>
               <span>2026-10-20 @ 13:18:07</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50165953"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -294,11 +466,11 @@
             <h4>
               <span>2026-10-20 @ 13:06:22</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50165801"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -315,7 +487,7 @@
             <h4>
               <span>2026-10-20 @ 12:43:05</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50165484"
                   >Comments</a
@@ -336,11 +508,11 @@
             <h4>
               <span>2026-10-20 @ 12:17:28</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50165208"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 108</span></span
               >
             </h4>
           </section>
@@ -374,11 +546,11 @@
             <h4>
               <span>2026-10-20 @ 10:26:02</span
               ><span class="points-container"
-                >Points: <span class="points">188</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50163961"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -393,11 +565,11 @@
             <h4>
               <span>2026-10-20 @ 09:08:54</span
               ><span class="points-container"
-                >Points: <span class="points">1429</span></span
+                >Points: <span class="points">1485</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50163277"
                   >Comments</a
-                ><span class="descendants">: 505</span></span
+                ><span class="descendants">: 530</span></span
               >
             </h4>
           </section>
@@ -413,11 +585,11 @@
             <h4>
               <span>2026-10-20 @ 06:37:07</span
               ><span class="points-container"
-                >Points: <span class="points">253</span></span
+                >Points: <span class="points">257</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50162177"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -432,7 +604,7 @@
             <h4>
               <span>2026-10-20 @ 02:06:40</span
               ><span class="points-container"
-                >Points: <span class="points">411</span></span
+                >Points: <span class="points">414</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50160494"
                   >Comments</a
@@ -454,7 +626,7 @@
             <h4>
               <span>2026-10-19 @ 23:22:18</span
               ><span class="points-container"
-                >Points: <span class="points">645</span></span
+                >Points: <span class="points">652</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50159341"
                   >Comments</a
@@ -473,11 +645,11 @@
             <h4>
               <span>2026-10-19 @ 22:32:37</span
               ><span class="points-container"
-                >Points: <span class="points">333</span></span
+                >Points: <span class="points">339</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50158942"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -492,7 +664,7 @@
             <h4>
               <span>2026-10-19 @ 16:39:09</span
               ><span class="points-container"
-                >Points: <span class="points">501</span></span
+                >Points: <span class="points">504</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50154540"
                   >Comments</a
@@ -535,11 +707,11 @@
             <h4>
               <span>2026-10-19 @ 16:16:46</span
               ><span class="points-container"
-                >Points: <span class="points">455</span></span
+                >Points: <span class="points">462</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50154244"
                   >Comments</a
-                ><span class="descendants">: 373</span></span
+                ><span class="descendants">: 379</span></span
               >
             </h4>
             <div class="text">
@@ -548,27 +720,6 @@
                 >https://public-inspection.federalregister.gov/2026-21447.pdf</a
               >
             </div>
-          </section>
-        </section>
-        <section id="50153664">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310"
-              >Ukraine claims first drone evacuation of wounded soldier</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-19 @ 15:31:34</span
-              ><span class="points-container"
-                >Points: <span class="points">388</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50153664"
-                  >Comments</a
-                ><span class="descendants">: 291</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="50153229">
@@ -584,32 +735,11 @@
             <h4>
               <span>2026-10-19 @ 14:52:33</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50153229"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50152307">
-          <h3>
-            <a
-              class="item"
-              href="https://marc.info/?l=openbsd-ports&amp;m=179236125692175"
-              >Wine ported to OpenBSD</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-19 @ 13:35:34</span
-              ><span class="points-container"
-                >Points: <span class="points">601</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50152307"
-                  >Comments</a
-                ><span class="descendants">: 199</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -627,11 +757,11 @@
             <h4>
               <span>2026-10-19 @ 00:43:01</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50147034"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -646,7 +776,7 @@
             <h4>
               <span>2026-10-18 @ 14:48:01</span
               ><span class="points-container"
-                >Points: <span class="points">446</span></span
+                >Points: <span class="points">454</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50141581"
                   >Comments</a
@@ -665,7 +795,7 @@
             <h4>
               <span>2026-10-18 @ 12:39:56</span
               ><span class="points-container"
-                >Points: <span class="points">284</span></span
+                >Points: <span class="points">287</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50140584"
                   >Comments</a
@@ -686,7 +816,7 @@
             <h4>
               <span>2026-10-18 @ 11:32:38</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50140111"
                   >Comments</a
@@ -707,11 +837,11 @@
             <h4>
               <span>2026-10-17 @ 21:31:44</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50135333"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -726,7 +856,7 @@
             <h4>
               <span>2026-10-17 @ 15:55:43</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50132198"
                   >Comments</a
@@ -748,11 +878,11 @@
             <h4>
               <span>2026-10-16 @ 16:42:48</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50120748"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
