@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-20, 04:55:36](https://news.ycombinator.com/item?id=50161505) - [Americans Are Spending More Money to Drive Worse Cars](https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/)
 * [2026-10-20, 04:37:43](https://news.ycombinator.com/item?id=50161408) - [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/)
 * [2026-10-20, 03:05:07](https://news.ycombinator.com/item?id=50160877) - [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
 * [2026-10-20, 02:06:40](https://news.ycombinator.com/item?id=50160494) - [OpenBSD 8.0](https://www.openbsd.org/80.html)
@@ -15,6 +14,7 @@
 * [2026-10-19, 16:45:30](https://news.ycombinator.com/item?id=50154624) - [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
 * [2026-10-19, 16:39:09](https://news.ycombinator.com/item?id=50154540) - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
 * [2026-10-19, 16:16:46](https://news.ycombinator.com/item?id=50154244) - [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
+* [2026-10-19, 16:00:18](https://news.ycombinator.com/item?id=50154029) - [Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces](https://news.ycombinator.com/item?id=50154029)
 * [2026-10-19, 15:31:34](https://news.ycombinator.com/item?id=50153664) - [Ukraine claims first drone evacuation of wounded soldier](https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310)
 * [2026-10-19, 14:52:04](https://news.ycombinator.com/item?id=50153225) - [Agentic Monitoring](https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/)
 * [2026-10-19, 13:36:43](https://news.ycombinator.com/item?id=50152321) - [Plex vulnerabilities being exploited in the wild to drop a cryptominer](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html)
