@@ -12,7 +12,6 @@
 * [2026-10-19, 23:22:18](https://news.ycombinator.com/item?id=50159341) - [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
 * [2026-10-19, 23:08:52](https://news.ycombinator.com/item?id=50159245) - [How abliterated models can get you pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
 * [2026-10-19, 22:32:37](https://news.ycombinator.com/item?id=50158942) - [An ad-free Android TV](https://cretezy.com/2026/ad-free-android-tv)
-* [2026-10-19, 21:11:45](https://news.ycombinator.com/item?id=50158138) - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
 * [2026-10-19, 16:39:09](https://news.ycombinator.com/item?id=50154540) - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
 * [2026-10-19, 16:30:41](https://news.ycombinator.com/item?id=50154429) - [Spending 10 months building the most human-like chess bot](https://mbuffett.com/posts/most-human-chess-bot)
 * [2026-10-19, 16:16:46](https://news.ycombinator.com/item?id=50154244) - [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
@@ -29,6 +28,7 @@
 * [2026-10-17, 23:24:05](https://news.ycombinator.com/item?id=50136126) - [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
 * [2026-10-17, 19:53:20](https://news.ycombinator.com/item?id=50134472) - [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 * [2026-10-17, 15:55:43](https://news.ycombinator.com/item?id=50132198) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
+* [2026-10-17, 14:21:49](https://news.ycombinator.com/item?id=50131436) - [Capturing 400 American Girls and Their Most Meaningful Objects](https://petapixel.com/2026/10/17/photographer-spends-six-years-capturing-400-american-girls-and-their-most-meaningful-objects/)
 * [2026-10-16, 16:42:48](https://news.ycombinator.com/item?id=50120748) - [There Are over 1M New York City Street Signs. Here's How They Are Made.](https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html)
 
 ## [Archives](archives/index.md)
