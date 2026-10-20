@@ -64,6 +64,7 @@
 * [2026-10-17, 07:08:35](https://news.ycombinator.com/item?id=50128688) - [Most lookups are for things that don't exist](https://cristicretan.ro/articles/2026/10/16/most-lookups-are-for-things-that-dont-exist/)
 * [2026-10-17, 07:01:07](https://news.ycombinator.com/item?id=50128654) - [Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop](https://github.com/CLoaKY233/siltop)
 * [2026-10-17, 06:19:44](https://news.ycombinator.com/item?id=50128468) - [Why Math Dumped OpenAI](https://raymyers.org/post/math-dumped-openai/)
+* [2026-10-17, 05:23:14](https://news.ycombinator.com/item?id=50128197) - [Archive of Our Own](https://archiveofourown.org/)
 * [2026-10-17, 04:36:53](https://news.ycombinator.com/item?id=50127979) - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 * [2026-10-17, 04:08:27](https://news.ycombinator.com/item?id=50127839) - [\"In every study that considered the question\"](https://unsung.aresluna.org/in-every-study-that-considered-the-question/)
 * [2026-10-17, 03:47:50](https://news.ycombinator.com/item?id=50127732) - [DeepSeek v4.1 flash on OpenCode pretty good](https://github.com/aditauqir/shev)

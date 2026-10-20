@@ -24,12 +24,12 @@
 * [2026-10-19, 23:22:18](https://news.ycombinator.com/item?id=50159341) - [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
 * [2026-10-19, 16:16:46](https://news.ycombinator.com/item?id=50154244) - [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
 * [2026-10-19, 14:52:33](https://news.ycombinator.com/item?id=50153229) - [One Manhattan power room took down FAA air traffic control in 1991](https://matthorn.io/posts/2026-10-18-33-thomas-street/)
-* [2026-10-19, 00:43:01](https://news.ycombinator.com/item?id=50147034) - ['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/)
 * [2026-10-18, 14:48:01](https://news.ycombinator.com/item?id=50141581) - [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
 * [2026-10-18, 08:29:38](https://news.ycombinator.com/item?id=50139123) - [UI-Te-Rangiora](https://en.wikipedia.org/wiki/Ui-te-Rangiora)
 * [2026-10-18, 06:40:55](https://news.ycombinator.com/item?id=50138490) - [JAXA is about to perform a Phobos sample return mission](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon)
 * [2026-10-17, 15:55:43](https://news.ycombinator.com/item?id=50132198) - [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
 * [2026-10-17, 15:33:12](https://news.ycombinator.com/item?id=50131997) - [Triplet of 'ghostly' galaxies hints at what dark matter is and isn't](https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/)
+* [2026-10-17, 05:23:14](https://news.ycombinator.com/item?id=50128197) - [Archive of Our Own](https://archiveofourown.org/)
 
 ## [Archives](archives/index.md)
 
