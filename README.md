@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-20, 12:00:32](https://news.ycombinator.com/item?id=50164991) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci)
 * [2026-10-20, 10:26:02](https://news.ycombinator.com/item?id=50163961) - [Google cloud outage takes down banks](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)
 * [2026-10-20, 09:54:48](https://news.ycombinator.com/item?id=50163625) - [Revolut down as users report app not working](https://www.bbc.com/news/articles/cxdd8mm6qy4mo)
 * [2026-10-20, 09:08:54](https://news.ycombinator.com/item?id=50163277) - [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
@@ -12,7 +13,6 @@
 * [2026-10-19, 23:08:52](https://news.ycombinator.com/item?id=50159245) - [How abliterated models can get you pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
 * [2026-10-19, 22:32:37](https://news.ycombinator.com/item?id=50158942) - [An ad-free Android TV](https://cretezy.com/2026/ad-free-android-tv)
 * [2026-10-19, 21:11:45](https://news.ycombinator.com/item?id=50158138) - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
-* [2026-10-19, 20:50:08](https://news.ycombinator.com/item?id=50157865) - [One Hash Bloom Filters](https://calabro.io/ohbf)
 * [2026-10-19, 16:39:09](https://news.ycombinator.com/item?id=50154540) - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
 * [2026-10-19, 16:16:46](https://news.ycombinator.com/item?id=50154244) - [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
 * [2026-10-19, 15:31:34](https://news.ycombinator.com/item?id=50153664) - [Ukraine claims first drone evacuation of wounded soldier](https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310)
