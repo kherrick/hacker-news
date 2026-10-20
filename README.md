@@ -4,7 +4,6 @@
 * [2026-10-20, 04:37:43](https://news.ycombinator.com/item?id=50161408) - [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/)
 * [2026-10-20, 03:05:07](https://news.ycombinator.com/item?id=50160877) - [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
 * [2026-10-20, 02:06:40](https://news.ycombinator.com/item?id=50160494) - [OpenBSD 8.0](https://www.openbsd.org/80.html)
-* [2026-10-20, 01:12:03](https://news.ycombinator.com/item?id=50160135) - [Developing Taste](https://emilkowal.ski/ui/developing-taste)
 * [2026-10-20, 00:00:49](https://news.ycombinator.com/item?id=50159616) - [France's supermarket fridges were vulnerable online for months](https://ipinfo.io/blog/france-fridges-hack)
 * [2026-10-19, 23:22:18](https://news.ycombinator.com/item?id=50159341) - [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
 * [2026-10-19, 23:08:52](https://news.ycombinator.com/item?id=50159245) - [How abliterated models can get you pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
@@ -30,6 +29,7 @@
 * [2026-10-17, 21:12:16](https://news.ycombinator.com/item?id=50135177) - [Porting video games to VHS](https://gardinerbryant.com/what-if-video-games-came-on-vhs/)
 * [2026-10-17, 20:27:22](https://news.ycombinator.com/item?id=50134809) - [How Do Fungi Keep the Planet Healthy?](https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/)
 * [2026-10-17, 19:53:20](https://news.ycombinator.com/item?id=50134472) - [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
+* [2026-10-17, 19:37:54](https://news.ycombinator.com/item?id=50134359) - [The fire retardant in the seafood chain](https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/)
 
 ## [Archives](archives/index.md)
 
