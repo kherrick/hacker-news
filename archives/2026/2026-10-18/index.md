@@ -16,6 +16,7 @@
 * [2026-10-18, 19:24:30](https://news.ycombinator.com/item?id=50144405) - [US threatens Europe over Starlink restrictions](https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa)
 * [2026-10-18, 19:02:11](https://news.ycombinator.com/item?id=50144175) - [Personal software factories are a waste of time](https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/)
 * [2026-10-18, 18:59:09](https://news.ycombinator.com/item?id=50144144) - [Tiny Brutalism – Thanks to HN it's on Steam](https://store.steampowered.com/app/5426130/Tiny_Brutalism/)
+* [2026-10-18, 18:56:11](https://news.ycombinator.com/item?id=50144123) - [Silicon-photonics-enabled chip-based 3D printer (2024)](https://www.nature.com/articles/s41377-024-01478-2)
 * [2026-10-18, 18:48:04](https://news.ycombinator.com/item?id=50144066) - [Free Pascal Compiler Now Supports Dynamic Packages](https://www.getlazarus.org/dynamic/)
 * [2026-10-18, 18:40:16](https://news.ycombinator.com/item?id=50144005) - [HOA's are making the home crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
 * [2026-10-18, 18:26:40](https://news.ycombinator.com/item?id=50143876) - [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
