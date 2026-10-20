@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-20, 17:43:11](https://news.ycombinator.com/item?id=50169955) - [Advanced coding in low-resource programming languages](https://openai.com/index/low-resource-programming-languages/)
+* [2026-10-20, 17:10:31](https://news.ycombinator.com/item?id=50169506) - [Benchmarking Bot Detection Systems Against Modern AI Agents in 2026](https://research.poh.org/bot-benchmarking-2026/)
 * [2026-10-20, 16:40:24](https://news.ycombinator.com/item?id=50169053) - [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
 * [2026-10-20, 16:02:07](https://news.ycombinator.com/item?id=50168396) - [Voxtral 3](https://mistral.ai/news/voxtral-3/)
 * [2026-10-20, 16:00:15](https://news.ycombinator.com/item?id=50168376) - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
@@ -25,7 +26,6 @@
 * [2026-10-20, 10:26:02](https://news.ycombinator.com/item?id=50163961) - [Google Cloud outage affects almost all banking and other operations in Europe](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)
 * [2026-10-20, 09:08:54](https://news.ycombinator.com/item?id=50163277) - [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
 * [2026-10-20, 06:37:07](https://news.ycombinator.com/item?id=50162177) - [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
-* [2026-10-19, 16:16:46](https://news.ycombinator.com/item?id=50154244) - [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
 * [2026-10-18, 14:48:01](https://news.ycombinator.com/item?id=50141581) - [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
 * [2026-10-18, 06:40:55](https://news.ycombinator.com/item?id=50138490) - [JAXA is about to perform a Phobos sample return mission](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon)
 * [2026-10-17, 15:33:12](https://news.ycombinator.com/item?id=50131997) - [Triplet of 'ghostly' galaxies hints at what dark matter is and isn't](https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/)
