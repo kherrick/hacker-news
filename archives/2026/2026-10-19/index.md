@@ -45,6 +45,7 @@
 * [2026-10-19, 14:23:17](https://news.ycombinator.com/item?id=50152877) - [A hacker broke into John Deere and SharkNinja with an army of AI agents](https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins)
 * [2026-10-19, 14:06:10](https://news.ycombinator.com/item?id=50152701) - [Beyond These Stars](https://store.steampowered.com/app/2295060/Beyond_These_Stars/)
 * [2026-10-19, 13:53:52](https://news.ycombinator.com/item?id=50152541) - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)
+* [2026-10-19, 13:53:41](https://news.ycombinator.com/item?id=50152539) - [Why Is Speculative Decoding Fast?](https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/)
 * [2026-10-19, 13:47:56](https://news.ycombinator.com/item?id=50152466) - [Maxwell: A new kind of model that sits between code and hardware](https://heymaxwell.ai/)
 * [2026-10-19, 13:36:43](https://news.ycombinator.com/item?id=50152321) - [Plex vulnerabilities being exploited in the wild to drop a cryptominer](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html)
 * [2026-10-19, 13:35:34](https://news.ycombinator.com/item?id=50152307) - [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
