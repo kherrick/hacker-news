@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-10-20](index.md)
+
+* [2026-10-20, 00:00:49](https://news.ycombinator.com/item?id=50159616) - [France's Supermarket Fridges Were Vulnerable Online for Months](https://ipinfo.io/blog/france-fridges-hack)
