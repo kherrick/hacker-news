@@ -55,6 +55,7 @@
 * [2026-10-18, 08:29:38](https://news.ycombinator.com/item?id=50139123) - [UI-Te-Rangiora](https://en.wikipedia.org/wiki/Ui-te-Rangiora)
 * [2026-10-18, 08:19:53](https://news.ycombinator.com/item?id=50139067) - [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/)
 * [2026-10-18, 06:50:36](https://news.ycombinator.com/item?id=50138531) - [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
+* [2026-10-18, 06:40:55](https://news.ycombinator.com/item?id=50138490) - [JAXA is about to perform a Phobos sample return mission](https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon)
 * [2026-10-18, 06:36:48](https://news.ycombinator.com/item?id=50138462) - [A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One](https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c)
 * [2026-10-18, 05:27:58](https://news.ycombinator.com/item?id=50138156) - [The game industry is broken – can we fix it?](https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash)
 * [2026-10-18, 05:09:14](https://news.ycombinator.com/item?id=50138087) - [Matthew Prince on why Cloudflare offers a free version and always will](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
