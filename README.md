@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-20, 04:55:36](https://news.ycombinator.com/item?id=50161505) - [Americans Are Spending More Money to Drive Worse Cars](https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/)
+* [2026-10-20, 04:37:43](https://news.ycombinator.com/item?id=50161408) - [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/)
 * [2026-10-20, 04:02:26](https://news.ycombinator.com/item?id=50161207) - [U.S. Supreme Court to review 1868 federal ban on home distilling of liquor](https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/)
 * [2026-10-20, 03:05:07](https://news.ycombinator.com/item?id=50160877) - [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
 * [2026-10-20, 02:06:40](https://news.ycombinator.com/item?id=50160494) - [OpenBSD 8.0](https://www.openbsd.org/80.html)
@@ -7,6 +9,7 @@
 * [2026-10-20, 01:12:03](https://news.ycombinator.com/item?id=50160135) - [Developing Taste](https://emilkowal.ski/ui/developing-taste)
 * [2026-10-20, 00:00:49](https://news.ycombinator.com/item?id=50159616) - [France's supermarket fridges were vulnerable online for months](https://ipinfo.io/blog/france-fridges-hack)
 * [2026-10-19, 23:22:18](https://news.ycombinator.com/item?id=50159341) - [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
+* [2026-10-19, 23:08:52](https://news.ycombinator.com/item?id=50159245) - [How abliterated models can get you pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
 * [2026-10-19, 22:32:37](https://news.ycombinator.com/item?id=50158942) - [An ad-free Android TV](https://cretezy.com/2026/ad-free-android-tv)
 * [2026-10-19, 21:11:45](https://news.ycombinator.com/item?id=50158138) - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
 * [2026-10-19, 21:08:18](https://news.ycombinator.com/item?id=50158100) - [Putting Linux on my RTX Spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
@@ -16,7 +19,6 @@
 * [2026-10-19, 16:39:09](https://news.ycombinator.com/item?id=50154540) - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
 * [2026-10-19, 16:16:46](https://news.ycombinator.com/item?id=50154244) - [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
 * [2026-10-19, 15:31:34](https://news.ycombinator.com/item?id=50153664) - [Ukraine claims first drone evacuation of wounded soldier](https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310)
-* [2026-10-19, 14:52:04](https://news.ycombinator.com/item?id=50153225) - [Agentic Monitoring](https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/)
 * [2026-10-19, 13:35:34](https://news.ycombinator.com/item?id=50152307) - [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
 * [2026-10-19, 11:24:34](https://news.ycombinator.com/item?id=50151036) - [Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)
 * [2026-10-19, 09:05:07](https://news.ycombinator.com/item?id=50150089) - [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
@@ -28,8 +30,6 @@
 * [2026-10-17, 21:12:16](https://news.ycombinator.com/item?id=50135177) - [Porting video games to VHS](https://gardinerbryant.com/what-if-video-games-came-on-vhs/)
 * [2026-10-17, 20:27:22](https://news.ycombinator.com/item?id=50134809) - [How Do Fungi Keep the Planet Healthy?](https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/)
 * [2026-10-17, 19:53:20](https://news.ycombinator.com/item?id=50134472) - [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
-* [2026-10-17, 19:37:54](https://news.ycombinator.com/item?id=50134359) - [The fire retardant in the seafood chain](https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/)
-* [2026-10-17, 15:33:12](https://news.ycombinator.com/item?id=50131997) - [Triplet of 'Ghostly' Galaxies Hints at What Dark Matter Is – and Isn't](https://news.ycombinator.com/item?id=50131997)
 
 ## [Archives](archives/index.md)
 
