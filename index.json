@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-10-20, 18:29:09",
+      "https://news.ycombinator.com/item?id=50170593"
+    ],
+    [
+      "SimCity, but with Permits",
+      "https://permit.petercai.com/"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 17:43:11",
       "https://news.ycombinator.com/item?id=50169955"
     ],
     [
       "Advanced coding in low-resource programming languages",
       "https://openai.com/index/low-resource-programming-languages/"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 17:10:31",
-      "https://news.ycombinator.com/item?id=50169506"
-    ],
-    [
-      "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "https://research.poh.org/bot-benchmarking-2026/"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Voxtral 3",
       "https://mistral.ai/news/voxtral-3/"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 16:00:15",
-      "https://news.ycombinator.com/item?id=50168376"
-    ],
-    [
-      "Making a VGA Driver in SystemVerilog",
-      "https://lukaswerner.com/post/2026-10-20@bottom-up-vga"
     ]
   ],
   [
@@ -77,16 +67,6 @@
     [
       "Why do we have so many meetings?",
       "https://www.nber.org/papers/w35706"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 15:11:56",
-      "https://news.ycombinator.com/item?id=50167617"
-    ],
-    [
-      "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-      "https://jevcards.com"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2026-10-19, 19:05:53",
+      "https://news.ycombinator.com/item?id=50156561"
+    ],
+    [
+      "My Neighbor, Me, and a Grand Principle",
+      "https://lastwordonnothing.com/2026/10/19/my-neighbor-me-and-a-grand-principle/"
+    ]
+  ],
+  [
+    [
       "2026-10-18, 14:48:01",
       "https://news.ycombinator.com/item?id=50141581"
     ],
@@ -297,6 +287,16 @@
     [
       "Archive of Our Own",
       "https://archiveofourown.org/"
+    ]
+  ],
+  [
+    [
+      "2026-10-15, 19:09:34",
+      "https://news.ycombinator.com/item?id=50108717"
+    ],
+    [
+      "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md"
     ]
   ]
 ]
