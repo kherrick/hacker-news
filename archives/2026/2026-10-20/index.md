@@ -55,6 +55,7 @@
 * [2026-10-20, 04:55:36](https://news.ycombinator.com/item?id=50161505) - [Americans Are Spending More Money to Drive Worse Cars](https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/)
 * [2026-10-20, 04:37:43](https://news.ycombinator.com/item?id=50161408) - [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/)
 * [2026-10-20, 04:02:26](https://news.ycombinator.com/item?id=50161207) - [U.S. Supreme Court to review 1868 federal ban on home distilling of liquor](https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/)
+* [2026-10-20, 03:51:43](https://news.ycombinator.com/item?id=50161144) - [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/)
 * [2026-10-20, 03:05:07](https://news.ycombinator.com/item?id=50160877) - [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
 * [2026-10-20, 02:06:40](https://news.ycombinator.com/item?id=50160494) - [OpenBSD 8.0](https://www.openbsd.org/80.html)
 * [2026-10-20, 01:53:51](https://news.ycombinator.com/item?id=50160419) - [OpenBSD 8.0: released Oct 20, 2026](https://marc.info/?l=openbsd-misc&m=179245849770356&w=2)
