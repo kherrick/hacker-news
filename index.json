@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-20, 16:59:16",
+      "https://news.ycombinator.com/item?id=50169336"
+    ],
+    [
+      "Go Conventions That Clicked Too Late for an AI Engineer",
+      "https://towardsdev.com/10-go-conventions-that-clicked-too-late-for-an-ai-engineer-78319f2d538f?sk=5858de12ec208931b984d8f55436a7a2"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 16:40:24",
       "https://news.ycombinator.com/item?id=50169053"
     ],
@@ -67,16 +77,6 @@
     [
       "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
       "https://news.ycombinator.com/item?id=50167583"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 15:07:38",
-      "https://news.ycombinator.com/item?id=50167560"
-    ],
-    [
-      "How to Link Real-Time Live Streaming to Video-on-Demand",
-      "https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/"
     ]
   ],
   [
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=50163277"
     ],
     [
-      "DeepSeek just open-sourced its inference engine",
+      "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "https://github.com/deepseek-ai/DeepInfer"
     ]
   ],
