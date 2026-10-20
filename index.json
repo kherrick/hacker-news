@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-20, 12:22:28",
+      "https://news.ycombinator.com/item?id=50165276"
+    ],
+    [
+      "Demographic \"Doomsday\" Misses the Mark",
+      "https://www.science.org/doi/10.1126/science.ael8752"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 12:00:32",
       "https://news.ycombinator.com/item?id=50164991"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2026-10-20, 09:54:48",
-      "https://news.ycombinator.com/item?id=50163625"
-    ],
-    [
-      "Revolut down as users report app not working",
-      "https://www.bbc.com/news/articles/cxdd8mm6qy4mo"
-    ]
-  ],
-  [
-    [
       "2026-10-20, 09:08:54",
       "https://news.ycombinator.com/item?id=50163277"
     ],
@@ -41,32 +41,12 @@
   ],
   [
     [
-      "2026-10-20, 08:51:31",
-      "https://news.ycombinator.com/item?id=50163142"
-    ],
-    [
-      "There is no official XScreenSaver GitHub repository",
-      "https://github.com/xscreensaver-official/xscreensaver"
-    ]
-  ],
-  [
-    [
       "2026-10-20, 06:37:07",
       "https://news.ycombinator.com/item?id=50162177"
     ],
     [
       "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
       "https://github.com/microg/GmsCore/wiki"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 03:05:07",
-      "https://news.ycombinator.com/item?id=50160877"
-    ],
-    [
-      "Go will reject certificate chains containing eight distrusted SPKIs",
-      "https://github.com/golang/go/issues/82345"
     ]
   ],
   [
@@ -131,12 +111,32 @@
   ],
   [
     [
+      "2026-10-19, 20:50:08",
+      "https://news.ycombinator.com/item?id=50157865"
+    ],
+    [
+      "One Hash Bloom Filters",
+      "https://calabro.io/ohbf"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 16:39:09",
       "https://news.ycombinator.com/item?id=50154540"
     ],
     [
       "MiniMax M3.1 Flash",
       "https://www.minimax.io/blog/minimax-m31f"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 16:30:41",
+      "https://news.ycombinator.com/item?id=50154429"
+    ],
+    [
+      "Spending 10 months building the most human-like chess bot",
+      "https://mbuffett.com/posts/most-human-chess-bot"
     ]
   ],
   [
