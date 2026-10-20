@@ -11,6 +11,7 @@
 * [2026-10-17, 22:26:47](https://news.ycombinator.com/item?id=50135762) - [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/)
 * [2026-10-17, 21:37:07](https://news.ycombinator.com/item?id=50135379) - [JDK 28](https://openjdk.org/projects/jdk/28/)
 * [2026-10-17, 21:12:16](https://news.ycombinator.com/item?id=50135177) - [What If Video Games Came on VHS? One Modder Is Finding Out](https://gardinerbryant.com/what-if-video-games-came-on-vhs/)
+* [2026-10-17, 20:27:22](https://news.ycombinator.com/item?id=50134809) - [How Do Fungi Keep the Planet Healthy?](https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/)
 * [2026-10-17, 20:07:33](https://news.ycombinator.com/item?id=50134617) - [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
 * [2026-10-17, 19:53:20](https://news.ycombinator.com/item?id=50134472) - [It's still OK to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 * [2026-10-17, 19:37:54](https://news.ycombinator.com/item?id=50134359) - [The fire retardant in the seafood chain](https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/)

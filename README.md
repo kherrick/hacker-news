@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-20, 01:53:51](https://news.ycombinator.com/item?id=50160419) - [OpenBSD 8.0: released Oct 20, 2026](https://marc.info/?l=openbsd-misc&m=179245849770356&w=2)
 * [2026-10-20, 01:34:58](https://news.ycombinator.com/item?id=50160289) - [Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD](https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd)
+* [2026-10-20, 01:12:03](https://news.ycombinator.com/item?id=50160135) - [Developing Taste](https://emilkowal.ski/ui/developing-taste)
 * [2026-10-20, 00:53:52](https://news.ycombinator.com/item?id=50159993) - [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/)
 * [2026-10-20, 00:00:49](https://news.ycombinator.com/item?id=50159616) - [France's supermarket fridges were vulnerable online for months](https://ipinfo.io/blog/france-fridges-hack)
 * [2026-10-19, 23:22:18](https://news.ycombinator.com/item?id=50159341) - [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
@@ -19,17 +21,15 @@
 * [2026-10-19, 13:35:34](https://news.ycombinator.com/item?id=50152307) - [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
 * [2026-10-19, 11:24:34](https://news.ycombinator.com/item?id=50151036) - [Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)
 * [2026-10-19, 11:10:54](https://news.ycombinator.com/item?id=50150927) - [Alternatives to animal testing are finally taking off](https://spectrum.ieee.org/alternatives-to-animal-testing)
-* [2026-10-19, 10:53:39](https://news.ycombinator.com/item?id=50150809) - [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
-* [2026-10-19, 09:59:32](https://news.ycombinator.com/item?id=50150434) - [Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/)
 * [2026-10-19, 09:05:07](https://news.ycombinator.com/item?id=50150089) - [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
 * [2026-10-19, 01:18:02](https://news.ycombinator.com/item?id=50147233) - [Starcraft: Ashfall](https://starcraft-shooter-2026.pages.dev/)
 * [2026-10-18, 12:39:56](https://news.ycombinator.com/item?id=50140584) - [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)
 * [2026-10-18, 03:48:10](https://news.ycombinator.com/item?id=50137754) - [The ovary doesn't retire after menopause](https://news.northwestern.edu/stories/2026/10/the-ovary-doesnt-retire-after-menopause?fj=1&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08)
 * [2026-10-17, 23:24:05](https://news.ycombinator.com/item?id=50136126) - [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
 * [2026-10-17, 21:12:16](https://news.ycombinator.com/item?id=50135177) - [What If Video Games Came on VHS? One Modder Is Finding Out](https://gardinerbryant.com/what-if-video-games-came-on-vhs/)
+* [2026-10-17, 20:27:22](https://news.ycombinator.com/item?id=50134809) - [How Do Fungi Keep the Planet Healthy?](https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/)
 * [2026-10-17, 19:53:20](https://news.ycombinator.com/item?id=50134472) - [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 * [2026-10-17, 19:37:54](https://news.ycombinator.com/item?id=50134359) - [The fire retardant in the seafood chain](https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/)
-* [2026-10-16, 17:53:05](https://news.ycombinator.com/item?id=50121834) - [Credit where credit is due](https://thefloatingcontinent.com/blog/credit-is-due/)
 
 ## [Archives](archives/index.md)
 
