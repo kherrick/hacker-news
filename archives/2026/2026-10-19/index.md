@@ -31,6 +31,7 @@
 * [2026-10-19, 17:21:33](https://news.ycombinator.com/item?id=50155172) - [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
 * [2026-10-19, 17:16:31](https://news.ycombinator.com/item?id=50155099) - [Show HN: ULDA – Client-side encryption with a simple JavaScript API](https://demo.ulda.io/)
 * [2026-10-19, 16:45:30](https://news.ycombinator.com/item?id=50154624) - [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
+* [2026-10-19, 16:40:03](https://news.ycombinator.com/item?id=50154551) - [A train simulator game for console hackers](https://github.com/antoniovazquezaraujo/LeTrain)
 * [2026-10-19, 16:39:09](https://news.ycombinator.com/item?id=50154540) - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
 * [2026-10-19, 16:37:10](https://news.ycombinator.com/item?id=50154518) - [I no longer care to work on any Ruby gems so I've archived all my repositories](https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository)
 * [2026-10-19, 16:30:41](https://news.ycombinator.com/item?id=50154429) - [Spending 10 months building the most human-like chess bot](https://mbuffett.com/posts/most-human-chess-bot)
