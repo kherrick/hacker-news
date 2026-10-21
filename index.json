@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-21, 19:14:01",
+      "https://news.ycombinator.com/item?id=50186037"
+    ],
+    [
+      "Claude Duet",
+      "https://claude.com/product/claude-duet"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 19:01:12",
+      "https://news.ycombinator.com/item?id=50185869"
+    ],
+    [
+      "GitLab CVSS 10.0 Integer Overflow issue",
+      "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 18:45:04",
       "https://news.ycombinator.com/item?id=50185630"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-10-21, 12:50:33",
-      "https://news.ycombinator.com/item?id=50180039"
-    ],
-    [
-      "Show HN: Sumi.css – CSS Framework",
-      "https://github.com/vladocar/Sumi.css"
-    ]
-  ],
-  [
-    [
       "2026-10-21, 12:00:24",
       "https://news.ycombinator.com/item?id=50179455"
     ],
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2026-10-20, 00:14:03",
+      "https://news.ycombinator.com/item?id=50159726"
+    ],
+    [
+      "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 21:38:02",
       "https://news.ycombinator.com/item?id=50158408"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-10-19, 17:16:31",
-      "https://news.ycombinator.com/item?id=50155099"
-    ],
-    [
-      "Show HN: ULDA – Client-side encryption with a simple JavaScript API",
-      "https://demo.ulda.io/"
-    ]
-  ],
-  [
-    [
       "2026-10-19, 09:21:34",
       "https://news.ycombinator.com/item?id=50150214"
     ],
     [
       "Way to Play Super Mario 64: On Apple Vision Pro",
       "https://www.pagetable.com/303"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 08:35:44",
-      "https://news.ycombinator.com/item?id=50149861"
-    ],
-    [
-      "The Decoherence Trap",
-      "https://maevyn.codes/decoherence"
     ]
   ],
   [
