@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-10-21, 14:11:14",
+      "https://news.ycombinator.com/item?id=50181326"
+    ],
+    [
+      "Cloudflare deploys protections against php2shell vulnerability",
+      "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 14:03:43",
       "https://news.ycombinator.com/item?id=50181175"
     ],
@@ -47,6 +57,16 @@
     [
       "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 13:57:19",
+      "https://news.ycombinator.com/item?id=50181058"
+    ],
+    [
+      "PHP2Shell",
+      "https://www.php2shell.com"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-10-21, 02:04:15",
-      "https://news.ycombinator.com/item?id=50175185"
-    ],
-    [
-      "In Hilbert space, all things are quantumly possible",
-      "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/"
-    ]
-  ],
-  [
-    [
       "2026-10-21, 01:47:28",
       "https://news.ycombinator.com/item?id=50175070"
     ],
@@ -197,16 +207,6 @@
     [
       "Muse exposes users' personal and business secrets when they share conversations",
       "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 23:04:09",
-      "https://news.ycombinator.com/item?id=50173891"
-    ],
-    [
-      "The Other Epidemic: Trying to get off benzodiazepines",
-      "https://www.thebeliever.net/the-other-epidemic/"
     ]
   ],
   [
