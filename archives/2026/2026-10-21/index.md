@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 16:34:16](https://news.ycombinator.com/item?id=50183727) - [Rust off Rails: The opinionated web stack for the AI era](https://rustoffrails.org/)
 * [2026-10-21, 16:06:56](https://news.ycombinator.com/item?id=50183311) - [What I learned from six months of being stupid on purpose](https://wvez.org/blog/learning-to-be-stupid/)
 * [2026-10-21, 16:05:05](https://news.ycombinator.com/item?id=50183280) - [Your MCU Likely Escaped the eMudhra Intermediate CA Compromise](https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/)
+* [2026-10-21, 16:03:32](https://news.ycombinator.com/item?id=50183253) - [AI agent fixed the bug, but what else did it change?](https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/)
 * [2026-10-21, 15:48:56](https://news.ycombinator.com/item?id=50182987) - [PHP Foundation's Overview of CVE-2026-109618 and CVE-2026-109619](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 * [2026-10-21, 15:20:04](https://news.ycombinator.com/item?id=50182526) - [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
 * [2026-10-21, 14:56:57](https://news.ycombinator.com/item?id=50182130) - [Another day, another GitHub incident](https://www.githubstatus.com/incidents/nms1dpzmh9d9)
