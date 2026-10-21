@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
 * [2026-10-21, 05:05:37](https://news.ycombinator.com/item?id=50176301) - [Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273)
+* [2026-10-21, 05:05:19](https://news.ycombinator.com/item?id=50176298) - [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo)
 * [2026-10-21, 04:37:18](https://news.ycombinator.com/item?id=50176129) - [Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support](https://github.com/xamrayev/nexus-cli)
 * [2026-10-21, 04:26:56](https://news.ycombinator.com/item?id=50176077) - [Major PHP Vulnerability Leaked](https://jackalsyn.com/posts/php-up-2026.html)
+* [2026-10-21, 03:51:25](https://news.ycombinator.com/item?id=50175882) - [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
 * [2026-10-21, 02:04:15](https://news.ycombinator.com/item?id=50175185) - [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
 * [2026-10-21, 01:48:22](https://news.ycombinator.com/item?id=50175075) - [T3 Code starting move to GitCafe](https://git.cafe/pingdotgg/t3code)
 * [2026-10-21, 01:47:28](https://news.ycombinator.com/item?id=50175070) - [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
