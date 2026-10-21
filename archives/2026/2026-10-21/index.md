@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 17:29:33](https://news.ycombinator.com/item?id=50184586) - [EA is shutting down BioWare](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware)
 * [2026-10-21, 16:34:16](https://news.ycombinator.com/item?id=50183727) - [Rust off Rails: The opinionated web stack for the AI era](https://rustoffrails.org/)
 * [2026-10-21, 16:20:37](https://news.ycombinator.com/item?id=50183512) - [New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic](https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs)
+* [2026-10-21, 16:09:28](https://news.ycombinator.com/item?id=50183344) - [The bridge to agent-scale Git infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/)
 * [2026-10-21, 16:06:56](https://news.ycombinator.com/item?id=50183311) - [What I learned from six months of being stupid on purpose](https://wvez.org/blog/learning-to-be-stupid/)
 * [2026-10-21, 16:05:05](https://news.ycombinator.com/item?id=50183280) - [Your MCU Likely Escaped the eMudhra Intermediate CA Compromise](https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/)
 * [2026-10-21, 16:03:32](https://news.ycombinator.com/item?id=50183253) - [AI agent fixed the bug, but what else did it change?](https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/)
