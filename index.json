@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-10-20, 13:18:07",
-      "https://news.ycombinator.com/item?id=50165953"
-    ],
-    [
-      "Tsrs: A Port of TypeScript to Rust",
-      "https://blog.cloudflare.com/typescript-rust-port/"
-    ]
-  ],
-  [
-    [
       "2026-10-20, 12:18:02",
       "https://news.ycombinator.com/item?id=50165215"
     ],
@@ -237,6 +227,16 @@
     [
       "DeepInfer: High-performance inference framework for DeepSeek models",
       "https://github.com/deepseek-ai/DeepInfer"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 21:29:58",
+      "https://news.ycombinator.com/item?id=50158314"
+    ],
+    [
+      "Does Ruby on Rails still make sense?",
+      "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/"
     ]
   ],
   [
