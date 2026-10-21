@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=50185869"
     ],
     [
-      "GitLab CVSS 10.0 Integer Overflow issue",
+      "GitLab Remote Code Execution - Integer Overflow issue",
       "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/"
     ]
   ],
@@ -147,16 +147,6 @@
     [
       "Today's PHP security release, and how we're strengthening security",
       "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 15:46:43",
-      "https://news.ycombinator.com/item?id=50182960"
-    ],
-    [
-      "Show HN: I told people I'm a convicted felon after 20 years of hiding it",
-      "https://buford.bg/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Drupal is now light-years ahead of its reputation",
       "https://dri.es/state-of-drupal-presentation-september-2026"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 09:21:34",
+      "https://news.ycombinator.com/item?id=50150214"
+    ],
+    [
+      "Way to Play Super Mario 64: On Apple Vision Pro",
+      "https://www.pagetable.com/303"
     ]
   ]
 ]
