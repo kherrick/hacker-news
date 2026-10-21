@@ -61,6 +61,7 @@
 * [2026-10-19, 13:06:21](https://news.ycombinator.com/item?id=50151971) - [Honey, I shrunk the TV](https://cakehonolulu.github.io/honey-i-shrunk-the-tv/)
 * [2026-10-19, 13:00:47](https://news.ycombinator.com/item?id=50151928) - [Show HN: Qwen3-4B with the AI writing tics trained out](https://100toolkit.com/blog/deslop-model/)
 * [2026-10-19, 13:00:29](https://news.ycombinator.com/item?id=50151922) - [8 in 10 Americans oppose live-streaming execution](https://www.washingtonpost.com/national-security/2026/10/15/8-10-americans-oppose-live-streaming-execution-fort-hood-shooter-poll-shows/)
+* [2026-10-19, 12:47:42](https://news.ycombinator.com/item?id=50151771) - [Borrow Checking Zero-Cost Cyclic Mutability](https://antelang.org/blog/safe_cyclic_mutability/)
 * [2026-10-19, 12:07:41](https://news.ycombinator.com/item?id=50151390) - [Harness Engineering 101: The LLM is the brain, the harness is the body](https://github.com/IsuruMaduranga/harness-engineering-101)
 * [2026-10-19, 12:06:03](https://news.ycombinator.com/item?id=50151376) - [The obscure trust looming over Anthropic's IPO](https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink)
 * [2026-10-19, 11:28:45](https://news.ycombinator.com/item?id=50151059) - [Harness2 by Google Research – Recursive Agent Harnessing](https://github.com/google-research/harness2)
