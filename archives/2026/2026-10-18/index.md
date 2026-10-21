@@ -29,6 +29,7 @@
 * [2026-10-18, 16:56:56](https://news.ycombinator.com/item?id=50142866) - [Namecheap just seized and disabled all my domains](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/)
 * [2026-10-18, 16:32:00](https://news.ycombinator.com/item?id=50142573) - [Someone Behind the Software](https://karrisaarinen.com/posts/someone-behind-the-software/)
 * [2026-10-18, 16:20:27](https://news.ycombinator.com/item?id=50142449) - [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
+* [2026-10-18, 16:06:43](https://news.ycombinator.com/item?id=50142296) - [Trials and Tribulations of Native Lua Compilation](https://samyeyo.github.io/clx/blog.html)
 * [2026-10-18, 15:41:12](https://news.ycombinator.com/item?id=50142034) - [Campus deplatformings hit record high](https://expression.fire.org/p/campus-deplatformings-hit-record)
 * [2026-10-18, 15:26:06](https://news.ycombinator.com/item?id=50141909) - [macOS 15.8.2 Breaks OpenGL](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550)
 * [2026-10-18, 15:00:40](https://news.ycombinator.com/item?id=50141681) - [Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/)

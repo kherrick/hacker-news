@@ -23,13 +23,13 @@
 * [2026-10-21, 06:42:12](https://news.ycombinator.com/item?id=50176908) - [Launch HN: Alter (YC S25) – Access control for multi-user agents](https://alterauth.com/)
 * [2026-10-21, 01:47:28](https://news.ycombinator.com/item?id=50175070) - [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
 * [2026-10-21, 00:45:59](https://news.ycombinator.com/item?id=50174687) - [Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)
-* [2026-10-20, 21:05:16](https://news.ycombinator.com/item?id=50172660) - [The phenomena that brighten dawn and dusk (2016)](https://www.colorado.edu/asmagazine-archive/node/2039)
 * [2026-10-20, 06:20:54](https://news.ycombinator.com/item?id=50162044) - [Tiny possum and glider thought extinct for 6000 years found in remote West Papua](https://www.bbc.com/news/articles/cp814l80pw2o)
 * [2026-10-19, 21:38:02](https://news.ycombinator.com/item?id=50158408) - [Drupal is now light-years ahead of its reputation](https://dri.es/state-of-drupal-presentation-september-2026)
 * [2026-10-19, 18:05:53](https://news.ycombinator.com/item?id=50155751) - [C++ futures part 1: The mental model](https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/)
 * [2026-10-19, 17:16:31](https://news.ycombinator.com/item?id=50155099) - [Show HN: ULDA – Client-side encryption with a simple JavaScript API](https://demo.ulda.io/)
 * [2026-10-19, 09:21:34](https://news.ycombinator.com/item?id=50150214) - [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303)
 * [2026-10-19, 08:35:44](https://news.ycombinator.com/item?id=50149861) - [The Decoherence Trap](https://maevyn.codes/decoherence)
+* [2026-10-18, 16:06:43](https://news.ycombinator.com/item?id=50142296) - [Trials and Tribulations of Native Lua Compilation](https://samyeyo.github.io/clx/blog.html)
 
 ## [Archives](archives/index.md)
 
