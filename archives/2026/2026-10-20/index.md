@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-20](index.md)
 
+* [2026-10-20, 23:55:03](https://news.ycombinator.com/item?id=50174317) - [LabRobotBench v0.1: Benchmarking wet lab robotics](https://gamowlabs.com/lab-robot-bench-v0-1)
 * [2026-10-20, 23:04:09](https://news.ycombinator.com/item?id=50173891) - [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
 * [2026-10-20, 22:21:05](https://news.ycombinator.com/item?id=50173487) - [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 * [2026-10-20, 21:18:07](https://news.ycombinator.com/item?id=50172809) - [Third US aircraft carrier, 10k troops head to Middle East](https://www.iranintl.com/en/202610207766)
