@@ -29,6 +29,7 @@
 * [2026-10-19, 17:27:11](https://news.ycombinator.com/item?id=50155245) - [Inception \"Mercury 3\", 1000 tok/s diffusion LLM](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
 * [2026-10-19, 17:26:38](https://news.ycombinator.com/item?id=50155237) - [Ukraine carries out aerial drone evacuation of a wounded soldier](https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html)
 * [2026-10-19, 17:21:33](https://news.ycombinator.com/item?id=50155172) - [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
+* [2026-10-19, 17:16:31](https://news.ycombinator.com/item?id=50155099) - [Show HN: ULDA – Client-side encryption with a simple JavaScript API](https://demo.ulda.io/)
 * [2026-10-19, 16:45:30](https://news.ycombinator.com/item?id=50154624) - [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
 * [2026-10-19, 16:39:09](https://news.ycombinator.com/item?id=50154540) - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
 * [2026-10-19, 16:37:10](https://news.ycombinator.com/item?id=50154518) - [I no longer care to work on any Ruby gems so I've archived all my repositories](https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository)

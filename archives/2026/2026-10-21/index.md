@@ -22,6 +22,7 @@
 * [2026-10-21, 13:37:00](https://news.ycombinator.com/item?id=50180752) - [OpenAI: Using AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)
 * [2026-10-21, 13:22:31](https://news.ycombinator.com/item?id=50180518) - [Global warming will breach 1.5°C – but deep, fast cuts can still bring it back](https://news.un.org/en/story/2026/10/1168634)
 * [2026-10-21, 13:17:33](https://news.ycombinator.com/item?id=50180444) - [Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)
+* [2026-10-21, 12:53:11](https://news.ycombinator.com/item?id=50180079) - [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud/)
 * [2026-10-21, 12:50:33](https://news.ycombinator.com/item?id=50180039) - [Show HN: Sumi.css – CSS Framework](https://github.com/vladocar/Sumi.css)
 * [2026-10-21, 12:34:46](https://news.ycombinator.com/item?id=50179857) - [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/)
 * [2026-10-21, 12:31:28](https://news.ycombinator.com/item?id=50179828) - [Dutch National Cyber Security Center is Offline because it uses PHP](https://www.ncsc.nl/actueel)
