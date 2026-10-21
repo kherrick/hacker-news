@@ -6,6 +6,7 @@
 * [2026-10-21, 19:14:01](https://news.ycombinator.com/item?id=50186037) - [Claude Duet](https://claude.com/product/claude-duet)
 * [2026-10-21, 19:11:57](https://news.ycombinator.com/item?id=50186010) - [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
 * [2026-10-21, 19:01:12](https://news.ycombinator.com/item?id=50185869) - [GitLab CVSS 10.0 Integer Overflow issue](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
+* [2026-10-21, 18:57:52](https://news.ycombinator.com/item?id=50185814) - [Potential third critical PHP CVE](https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027)
 * [2026-10-21, 18:45:04](https://news.ycombinator.com/item?id=50185630) - [Canary Tokens](https://canarytokens.org/)
 * [2026-10-21, 18:29:54](https://news.ycombinator.com/item?id=50185438) - [Anthropic's Public Benefit Charter](https://www.anthropic.com/public-benefit-charter)
 * [2026-10-21, 17:45:13](https://news.ycombinator.com/item?id=50184820) - [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
@@ -25,11 +26,10 @@
 * [2026-10-21, 12:00:24](https://news.ycombinator.com/item?id=50179455) - [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)
 * [2026-10-21, 09:08:08](https://news.ycombinator.com/item?id=50177916) - [Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
 * [2026-10-21, 06:42:12](https://news.ycombinator.com/item?id=50176908) - [Launch HN: Alter (YC S25) – Access control for multi-user agents](https://alterauth.com/)
+* [2026-10-20, 14:08:33](https://news.ycombinator.com/item?id=50166706) - [A Place Among the Fiddlers](https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/)
 * [2026-10-20, 06:20:54](https://news.ycombinator.com/item?id=50162044) - [Tiny possum and glider thought extinct for 6000 years found in remote West Papua](https://www.bbc.com/news/articles/cp814l80pw2o)
 * [2026-10-20, 00:14:03](https://news.ycombinator.com/item?id=50159726) - [Why Windows 11 still ships with Windows 95's memory manager hidden inside it](https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/)
 * [2026-10-19, 21:38:02](https://news.ycombinator.com/item?id=50158408) - [Drupal is now light-years ahead of its reputation](https://dri.es/state-of-drupal-presentation-september-2026)
-* [2026-10-19, 18:05:53](https://news.ycombinator.com/item?id=50155751) - [C++ futures part 1: The mental model](https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/)
-* [2026-10-19, 09:21:34](https://news.ycombinator.com/item?id=50150214) - [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303)
 
 ## [Archives](archives/index.md)
 
