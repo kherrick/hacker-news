@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=50181175"
     ],
     [
-      "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
+      "Patch the Planet: global response coordination as agents uncover vulnerabilities",
       "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
     ]
   ],
@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2026-10-21, 13:50:05",
-      "https://news.ycombinator.com/item?id=50180943"
+      "2026-10-21, 14:00:26",
+      "https://news.ycombinator.com/item?id=50181114"
     ],
     [
-      "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
-      "https://www.php.net/index.php"
+      "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=50180873"
     ],
     [
-      "Updated PHP version released to GitHub",
+      "PHP 8.2.35",
       "https://github.com/php/php-src/releases/tag/php-8.2.35"
     ]
   ],
@@ -147,16 +147,6 @@
     [
       "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
       "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 03:36:43",
-      "https://news.ycombinator.com/item?id=50175779"
-    ],
-    [
-      "Using Claude to reduce the attack surface of code",
-      "https://www.anthropic.com/research/attack-surface-reduction"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Decoherence Trap",
       "https://maevyn.codes/decoherence"
+    ]
+  ],
+  [
+    [
+      "2026-10-18, 13:06:54",
+      "https://news.ycombinator.com/item?id=50140768"
+    ],
+    [
+      "A page looks innocent: the algorithms behind a typeset page",
+      "https://news.speedata.de/2026/10/18/anatomy-of-a-page/"
     ]
   ]
 ]
