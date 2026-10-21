@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-21, 13:22:31](https://news.ycombinator.com/item?id=50180518) - [Global warming will breach 1.5°C – but deep, fast cuts can still bring it back](https://news.un.org/en/story/2026/10/1168634)
 * [2026-10-21, 13:17:33](https://news.ycombinator.com/item?id=50180444) - [Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)
 * [2026-10-21, 12:34:46](https://news.ycombinator.com/item?id=50179857) - [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/)
 * [2026-10-21, 12:31:28](https://news.ycombinator.com/item?id=50179828) - [Dutch National Cyber Security Center is Offline because it uses PHP](https://www.ncsc.nl/actueel)
@@ -7,7 +8,6 @@
 * [2026-10-21, 12:00:24](https://news.ycombinator.com/item?id=50179455) - [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)
 * [2026-10-21, 10:14:43](https://news.ycombinator.com/item?id=50178455) - [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
 * [2026-10-21, 09:08:08](https://news.ycombinator.com/item?id=50177916) - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
-* [2026-10-21, 09:07:49](https://news.ycombinator.com/item?id=50177911) - [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)
 * [2026-10-21, 03:36:43](https://news.ycombinator.com/item?id=50175779) - [Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction)
 * [2026-10-21, 02:53:47](https://news.ycombinator.com/item?id=50175510) - [C# now beats Rust on WASM size](https://github.com/zion-sati/NetWasm)
 * [2026-10-21, 02:04:15](https://news.ycombinator.com/item?id=50175185) - [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
