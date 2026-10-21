@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 19:20:55](https://news.ycombinator.com/item?id=50186129) - [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
 * [2026-10-21, 19:14:01](https://news.ycombinator.com/item?id=50186037) - [Claude Duet](https://claude.com/product/claude-duet)
+* [2026-10-21, 19:11:57](https://news.ycombinator.com/item?id=50186010) - [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
 * [2026-10-21, 19:01:12](https://news.ycombinator.com/item?id=50185869) - [GitLab CVSS 10.0 Integer Overflow issue](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
 * [2026-10-21, 18:45:04](https://news.ycombinator.com/item?id=50185630) - [Canary Tokens](https://canarytokens.org/)
 * [2026-10-21, 18:31:15](https://news.ycombinator.com/item?id=50185455) - [Open Source Games](https://opensourcegames.dev/)
