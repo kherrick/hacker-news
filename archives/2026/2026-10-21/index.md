@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 14:08:40](https://news.ycombinator.com/item?id=50181265) - [Patch the Planet](https://patchtheplanet.org/)
 * [2026-10-21, 14:03:43](https://news.ycombinator.com/item?id=50181175) - [OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
+* [2026-10-21, 14:01:25](https://news.ycombinator.com/item?id=50181137) - [The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)
+* [2026-10-21, 14:01:22](https://news.ycombinator.com/item?id=50181136) - [DuckDB 2.0.0 LTS \"Cinnamon Teal\"](https://duckdb.org/2026/10/21/announcing-duckdb-200)
 * [2026-10-21, 13:50:05](https://news.ycombinator.com/item?id=50180943) - [PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out](https://www.php.net/index.php)
 * [2026-10-21, 13:45:33](https://news.ycombinator.com/item?id=50180873) - [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35)
 * [2026-10-21, 13:43:19](https://news.ycombinator.com/item?id=50180836) - [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce)
+* [2026-10-21, 13:37:00](https://news.ycombinator.com/item?id=50180752) - [OpenAI: Using AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)
 * [2026-10-21, 13:22:31](https://news.ycombinator.com/item?id=50180518) - [Global warming will breach 1.5°C – but deep, fast cuts can still bring it back](https://news.un.org/en/story/2026/10/1168634)
 * [2026-10-21, 13:17:33](https://news.ycombinator.com/item?id=50180444) - [Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)
 * [2026-10-21, 12:34:46](https://news.ycombinator.com/item?id=50179857) - [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/)
