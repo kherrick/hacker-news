@@ -80,6 +80,7 @@
 * [2026-10-19, 04:40:18](https://news.ycombinator.com/item?id=50148441) - [Verisign .com Domain Name Registry Consumer Class Action](https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action)
 * [2026-10-19, 04:32:07](https://news.ycombinator.com/item?id=50148396) - [Show HN: Strot – Compile an LLM's intent once, run decisions locally forever](https://github.com/strot-ai/Project-STROT)
 * [2026-10-19, 04:24:57](https://news.ycombinator.com/item?id=50148356) - [Show HN: Yila – A Codex for Scientific Research](https://yila.ai)
+* [2026-10-19, 02:48:11](https://news.ycombinator.com/item?id=50147799) - [ZX Spectrum Next Laptop](https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2)
 * [2026-10-19, 02:40:04](https://news.ycombinator.com/item?id=50147760) - [The Annotated VT100 Firmware (2022)](https://vt100.net/dec/vt100/rom/)
 * [2026-10-19, 02:01:16](https://news.ycombinator.com/item?id=50147492) - [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
 * [2026-10-19, 01:56:39](https://news.ycombinator.com/item?id=50147462) - [Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas](https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/)
