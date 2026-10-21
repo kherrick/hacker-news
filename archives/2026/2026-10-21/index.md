@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
 * [2026-10-21, 14:56:57](https://news.ycombinator.com/item?id=50182130) - [Another day, another GitHub incident](https://www.githubstatus.com/incidents/nms1dpzmh9d9)
+* [2026-10-21, 14:11:14](https://news.ycombinator.com/item?id=50181326) - [Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/)
 * [2026-10-21, 14:08:40](https://news.ycombinator.com/item?id=50181265) - [Patch the Planet](https://patchtheplanet.org/)
 * [2026-10-21, 14:03:43](https://news.ycombinator.com/item?id=50181175) - [OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
 * [2026-10-21, 14:01:25](https://news.ycombinator.com/item?id=50181137) - [The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)
 * [2026-10-21, 14:01:22](https://news.ycombinator.com/item?id=50181136) - [DuckDB 2.0.0 LTS \"Cinnamon Teal\"](https://duckdb.org/2026/10/21/announcing-duckdb-200)
 * [2026-10-21, 14:00:26](https://news.ycombinator.com/item?id=50181114) - [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
+* [2026-10-21, 13:57:19](https://news.ycombinator.com/item?id=50181058) - [PHP2Shell](https://www.php2shell.com)
 * [2026-10-21, 13:50:05](https://news.ycombinator.com/item?id=50180943) - [PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out](https://www.php.net/index.php)
 * [2026-10-21, 13:45:33](https://news.ycombinator.com/item?id=50180873) - [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35)
 * [2026-10-21, 13:43:19](https://news.ycombinator.com/item?id=50180836) - [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce)
