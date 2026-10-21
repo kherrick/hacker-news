@@ -3,7 +3,7 @@
 * [2026-10-21, 02:04:15](https://news.ycombinator.com/item?id=50175185) - [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
 * [2026-10-21, 01:47:28](https://news.ycombinator.com/item?id=50175070) - [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
 * [2026-10-21, 01:45:07](https://news.ycombinator.com/item?id=50175059) - [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
-* [2026-10-21, 01:44:34](https://news.ycombinator.com/item?id=50175057) - [Learning to live with Waymos](https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird)
+* [2026-10-20, 23:55:03](https://news.ycombinator.com/item?id=50174317) - [LabRobotBench v0.1: Benchmarking wet lab robotics](https://gamowlabs.com/lab-robot-bench-v0-1)
 * [2026-10-20, 23:04:09](https://news.ycombinator.com/item?id=50173891) - [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
 * [2026-10-20, 22:45:39](https://news.ycombinator.com/item?id=50173716) - [PingCap TiDB Leaks](https://fulcrumsec.vg/pingcap/)
 * [2026-10-20, 22:21:05](https://news.ycombinator.com/item?id=50173487) - [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
