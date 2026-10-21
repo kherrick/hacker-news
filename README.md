@@ -2,10 +2,10 @@
 
 * [2026-10-21, 21:12:59](https://news.ycombinator.com/item?id=50187708) - [AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days](https://github.com/amazonlinux/amazon-linux-2023/issues/1148)
 * [2026-10-21, 19:40:18](https://news.ycombinator.com/item?id=50186455) - [Claude Duet](https://claude.com/resources/articles/claude-duet)
-* [2026-10-21, 19:20:55](https://news.ycombinator.com/item?id=50186129) - [Mistral Large 4](https://mistral.ai/news/mistral-large-4/)
+* [2026-10-21, 19:14:21](https://news.ycombinator.com/item?id=50186043) - [Google staff resign in backlash over its AI contracts with military](https://www.bbc.com/news/articles/cmreyvepnv0po)
 * [2026-10-21, 19:14:01](https://news.ycombinator.com/item?id=50186037) - [Claude Duet](https://claude.com/product/claude-duet)
 * [2026-10-21, 19:11:57](https://news.ycombinator.com/item?id=50186010) - [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
-* [2026-10-21, 19:01:12](https://news.ycombinator.com/item?id=50185869) - [GitLab Remote Code Execution - Integer Overflow issue](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
+* [2026-10-21, 19:01:12](https://news.ycombinator.com/item?id=50185869) - [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
 * [2026-10-21, 18:57:52](https://news.ycombinator.com/item?id=50185814) - [Potential third critical PHP CVE](https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027)
 * [2026-10-21, 18:45:04](https://news.ycombinator.com/item?id=50185630) - [Canary Tokens](https://canarytokens.org/)
 * [2026-10-21, 17:45:13](https://news.ycombinator.com/item?id=50184820) - [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)

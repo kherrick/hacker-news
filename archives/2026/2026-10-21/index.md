@@ -12,6 +12,7 @@
 * [2026-10-21, 19:26:20](https://news.ycombinator.com/item?id=50186215) - [Meta hit with $25B penalty for deceiving users about privacy on Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)
 * [2026-10-21, 19:20:55](https://news.ycombinator.com/item?id=50186129) - [Mistral Large 4](https://mistral.ai/news/mistral-large-4/)
 * [2026-10-21, 19:20:55](https://news.ycombinator.com/item?id=50186129) - [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
+* [2026-10-21, 19:14:21](https://news.ycombinator.com/item?id=50186043) - [Google staff resign in backlash over its AI contracts with military](https://www.bbc.com/news/articles/cmreyvepnv0po)
 * [2026-10-21, 19:14:01](https://news.ycombinator.com/item?id=50186037) - [Claude Duet](https://claude.com/product/claude-duet)
 * [2026-10-21, 19:11:57](https://news.ycombinator.com/item?id=50186010) - [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
 * [2026-10-21, 19:01:12](https://news.ycombinator.com/item?id=50185869) - [GitLab CVSS 10.0 Integer Overflow issue](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
