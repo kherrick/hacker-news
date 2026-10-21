@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 17:45:13](https://news.ycombinator.com/item?id=50184820) - [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
+* [2026-10-21, 17:38:55](https://news.ycombinator.com/item?id=50184712) - [Texas data center boom could erase decades of progress on air quality](https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/)
 * [2026-10-21, 17:29:33](https://news.ycombinator.com/item?id=50184586) - [EA is shutting down BioWare](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware)
 * [2026-10-21, 16:34:16](https://news.ycombinator.com/item?id=50183727) - [Rust off Rails: The opinionated web stack for the AI era](https://rustoffrails.org/)
 * [2026-10-21, 16:20:37](https://news.ycombinator.com/item?id=50183512) - [New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic](https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs)
