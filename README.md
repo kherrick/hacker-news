@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-21, 14:56:57](https://news.ycombinator.com/item?id=50182130) - [Another day, another GitHub incident](https://www.githubstatus.com/incidents/nms1dpzmh9d9)
 * [2026-10-21, 14:03:43](https://news.ycombinator.com/item?id=50181175) - [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
 * [2026-10-21, 14:01:25](https://news.ycombinator.com/item?id=50181137) - [The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)
 * [2026-10-21, 14:01:22](https://news.ycombinator.com/item?id=50181136) - [DuckDB 2.0.0 LTS \"Cinnamon Teal\"](https://duckdb.org/2026/10/21/announcing-duckdb-200)
@@ -29,7 +30,6 @@
 * [2026-10-19, 11:43:35](https://news.ycombinator.com/item?id=50151175) - [The Lucrative World of Literary Scams](https://www.thedial.world/articles/news/ai-book-scams)
 * [2026-10-19, 09:21:34](https://news.ycombinator.com/item?id=50150214) - [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303)
 * [2026-10-19, 08:35:44](https://news.ycombinator.com/item?id=50149861) - [The Decoherence Trap](https://maevyn.codes/decoherence)
-* [2026-10-18, 13:06:54](https://news.ycombinator.com/item?id=50140768) - [A page looks innocent: the algorithms behind a typeset page](https://news.speedata.de/2026/10/18/anatomy-of-a-page/)
 
 ## [Archives](archives/index.md)
 

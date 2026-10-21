@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 14:56:57](https://news.ycombinator.com/item?id=50182130) - [Another day, another GitHub incident](https://www.githubstatus.com/incidents/nms1dpzmh9d9)
 * [2026-10-21, 14:08:40](https://news.ycombinator.com/item?id=50181265) - [Patch the Planet](https://patchtheplanet.org/)
 * [2026-10-21, 14:03:43](https://news.ycombinator.com/item?id=50181175) - [OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
 * [2026-10-21, 14:01:25](https://news.ycombinator.com/item?id=50181137) - [The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)
