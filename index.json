@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-10-21, 22:17:19",
+      "https://news.ycombinator.com/item?id=50188443"
+    ],
+    [
+      "Oracle Security Alert Advisory – CVE-2026-91403 (eMudhra cert revocation)",
+      "https://www.oracle.com/security-alerts/alert-cve-2026-91403.html"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 21:58:03",
       "https://news.ycombinator.com/item?id=50188228"
     ],
     [
-      "Railway Security(Compromise) Disclosure",
+      "Railway Security Disclosure",
       "https://blog.railway.com/p/security-disclosure-wednesday-october-21st"
     ]
   ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=50187708"
     ],
     [
-      "AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days",
-      "https://github.com/amazonlinux/amazon-linux-2023/issues/1148"
+      "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+      "https://aws.amazon.com/security/security-bulletins/2026-143-aws/"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 21:08:59",
+      "https://news.ycombinator.com/item?id=50187659"
+    ],
+    [
+      "CleanFrame: A quieter home screen for Samsung The Frame",
+      "https://github.com/nthnclrk/CleanFrame"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Claude Duet",
       "https://claude.com/resources/articles/claude-duet"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 19:14:21",
-      "https://news.ycombinator.com/item?id=50186043"
-    ],
-    [
-      "Google staff resign in backlash over its AI contracts with military",
-      "https://www.bbc.com/news/articles/cmreyvepnv0po"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "GitLab Critical Patch Release",
       "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 18:57:52",
-      "https://news.ycombinator.com/item?id=50185814"
-    ],
-    [
-      "Potential third critical PHP CVE",
-      "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "The bridge to agent-scale Git infrastructure",
       "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 16:05:05",
-      "https://news.ycombinator.com/item?id=50183280"
-    ],
-    [
-      "Your MCU likely escaped the eMudhra intermediate CA compromise",
-      "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2026-10-21, 06:42:12",
+      "https://news.ycombinator.com/item?id=50176908"
+    ],
+    [
+      "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "https://alterauth.com/"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 14:08:33",
       "https://news.ycombinator.com/item?id=50166706"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-10-19, 09:21:34",
-      "https://news.ycombinator.com/item?id=50150214"
+      "2026-10-19, 14:20:04",
+      "https://news.ycombinator.com/item?id=50152847"
     ],
     [
-      "Way to Play Super Mario 64: On Apple Vision Pro",
-      "https://www.pagetable.com/303"
+      "The Rise and Fall of the Plasma Screen",
+      "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen"
     ]
   ]
 ]
