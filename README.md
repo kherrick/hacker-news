@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-21, 09:08:08](https://news.ycombinator.com/item?id=50177916) - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+* [2026-10-21, 09:07:49](https://news.ycombinator.com/item?id=50177911) - [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)
 * [2026-10-21, 05:05:37](https://news.ycombinator.com/item?id=50176301) - [Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273)
 * [2026-10-21, 05:05:19](https://news.ycombinator.com/item?id=50176298) - [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo)
 * [2026-10-21, 03:51:25](https://news.ycombinator.com/item?id=50175882) - [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
@@ -19,7 +21,6 @@
 * [2026-10-20, 15:59:06](https://news.ycombinator.com/item?id=50168357) - [Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery](https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery)
 * [2026-10-20, 14:30:31](https://news.ycombinator.com/item?id=50167028) - [Ofcom concedes defeat in 4chan case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
 * [2026-10-20, 13:58:33](https://news.ycombinator.com/item?id=50166579) - [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/)
-* [2026-10-20, 13:18:07](https://news.ycombinator.com/item?id=50165953) - [Tsrs: A Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
 * [2026-10-20, 12:18:02](https://news.ycombinator.com/item?id=50165215) - [Four Years with Decker](https://beyondloom.com/blog/fouryearsdecker.html)
 * [2026-10-20, 12:17:28](https://news.ycombinator.com/item?id=50165208) - [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
 * [2026-10-20, 09:08:54](https://news.ycombinator.com/item?id=50163277) - [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
@@ -28,7 +29,6 @@
 * [2026-10-19, 08:35:44](https://news.ycombinator.com/item?id=50149861) - [The Decoherence Trap](https://maevyn.codes/decoherence)
 * [2026-10-19, 05:54:43](https://news.ycombinator.com/item?id=50148845) - [Composite objects and C++26 the std:polymorphic type](https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/)
 * [2026-10-19, 02:48:11](https://news.ycombinator.com/item?id=50147799) - [ZX Spectrum Next Laptop](https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2)
-* [2026-10-18, 17:40:56](https://news.ycombinator.com/item?id=50143360) - [To Make, or to Buy: The Economics of Decision Models](https://pncnmnp.github.io/blogs/economics-decision-models.html)
 * [2026-10-15, 19:09:34](https://news.ycombinator.com/item?id=50108717) - [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md)
 
 ## [Archives](archives/index.md)
