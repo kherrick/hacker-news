@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 05:17:15](https://news.ycombinator.com/item?id=50176351) - [Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%](https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead)
 * [2026-10-21, 05:05:37](https://news.ycombinator.com/item?id=50176301) - [Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273)
 * [2026-10-21, 05:05:19](https://news.ycombinator.com/item?id=50176298) - [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo)
 * [2026-10-21, 04:37:18](https://news.ycombinator.com/item?id=50176129) - [Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support](https://github.com/xamrayev/nexus-cli)
