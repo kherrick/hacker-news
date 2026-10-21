@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-21, 15:48:56](https://news.ycombinator.com/item?id=50182987) - [PHP Foundation's Overview of CVE-2026-109618 and CVE-2026-109619](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 * [2026-10-21, 15:20:04](https://news.ycombinator.com/item?id=50182526) - [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
 * [2026-10-21, 14:56:57](https://news.ycombinator.com/item?id=50182130) - [Delays for Pull Requests and Webhook deliveries](https://www.githubstatus.com/incidents/nms1dpzmh9d9)
 * [2026-10-21, 14:03:43](https://news.ycombinator.com/item?id=50181175) - [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
@@ -19,7 +20,6 @@
 * [2026-10-21, 10:14:43](https://news.ycombinator.com/item?id=50178455) - [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
 * [2026-10-21, 09:08:08](https://news.ycombinator.com/item?id=50177916) - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
 * [2026-10-21, 01:47:28](https://news.ycombinator.com/item?id=50175070) - [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
-* [2026-10-21, 01:45:07](https://news.ycombinator.com/item?id=50175059) - [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
 * [2026-10-21, 00:45:59](https://news.ycombinator.com/item?id=50174687) - [Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)
 * [2026-10-20, 23:04:09](https://news.ycombinator.com/item?id=50173891) - [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
 * [2026-10-20, 22:21:05](https://news.ycombinator.com/item?id=50173487) - [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)

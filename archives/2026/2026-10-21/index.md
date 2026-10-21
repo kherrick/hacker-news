@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 15:48:56](https://news.ycombinator.com/item?id=50182987) - [PHP Foundation's Overview of CVE-2026-109618 and CVE-2026-109619](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 * [2026-10-21, 15:20:04](https://news.ycombinator.com/item?id=50182526) - [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
 * [2026-10-21, 14:56:57](https://news.ycombinator.com/item?id=50182130) - [Another day, another GitHub incident](https://www.githubstatus.com/incidents/nms1dpzmh9d9)
 * [2026-10-21, 14:11:14](https://news.ycombinator.com/item?id=50181326) - [Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/)
