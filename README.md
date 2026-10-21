@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-21, 13:22:31](https://news.ycombinator.com/item?id=50180518) - [Global warming will breach 1.5°C – but deep, fast cuts can still bring it back](https://news.un.org/en/story/2026/10/1168634)
+* [2026-10-21, 13:50:05](https://news.ycombinator.com/item?id=50180943) - [PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out](https://www.php.net/index.php)
+* [2026-10-21, 13:45:33](https://news.ycombinator.com/item?id=50180873) - [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35)
 * [2026-10-21, 13:17:33](https://news.ycombinator.com/item?id=50180444) - [Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)
 * [2026-10-21, 12:34:46](https://news.ycombinator.com/item?id=50179857) - [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/)
 * [2026-10-21, 12:31:28](https://news.ycombinator.com/item?id=50179828) - [Dutch National Cyber Security Center is Offline because it uses PHP](https://www.ncsc.nl/actueel)
@@ -29,7 +30,6 @@
 * [2026-10-19, 08:35:44](https://news.ycombinator.com/item?id=50149861) - [The Decoherence Trap](https://maevyn.codes/decoherence)
 * [2026-10-19, 02:48:11](https://news.ycombinator.com/item?id=50147799) - [ZX Spectrum Next Laptop](https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2)
 * [2026-10-18, 13:06:54](https://news.ycombinator.com/item?id=50140768) - [A page looks innocent: the algorithms behind a typeset page](https://news.speedata.de/2026/10/18/anatomy-of-a-page/)
-* [2026-10-15, 19:09:34](https://news.ycombinator.com/item?id=50108717) - [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md)
 
 ## [Archives](archives/index.md)
 
