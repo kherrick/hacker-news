@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 20:04:57](https://news.ycombinator.com/item?id=50186842) - [CDC Ignored Request from States to Validate a New Measles Test](https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html)
 * [2026-10-21, 19:44:49](https://news.ycombinator.com/item?id=50186518) - [After automation: Solo founding will be the default](https://every.to/thesis-statements/julian-weisser)
+* [2026-10-21, 19:40:18](https://news.ycombinator.com/item?id=50186455) - [Claude Duet](https://claude.com/resources/articles/claude-duet)
 * [2026-10-21, 19:32:10](https://news.ycombinator.com/item?id=50186318) - [Plex laid off the whole player team](https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5)
+* [2026-10-21, 19:26:20](https://news.ycombinator.com/item?id=50186215) - [Meta hit with $25B penalty for deceiving users about privacy on Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)
 * [2026-10-21, 19:20:55](https://news.ycombinator.com/item?id=50186129) - [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
 * [2026-10-21, 19:14:01](https://news.ycombinator.com/item?id=50186037) - [Claude Duet](https://claude.com/product/claude-duet)
 * [2026-10-21, 19:11:57](https://news.ycombinator.com/item?id=50186010) - [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
