@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-10-21, 02:04:15",
+      "https://news.ycombinator.com/item?id=50175185"
+    ],
+    [
+      "In Hilbert space, all things are quantumly possible",
+      "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 01:48:22",
       "https://news.ycombinator.com/item?id=50175075"
     ],
     [
-      "T3 Code starting move to GitCafe",
+      "T3 Code now synced between GitHub and GitCafe",
       "https://git.cafe/pingdotgg/t3code"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 01:47:28",
+      "https://news.ycombinator.com/item?id=50175070"
+    ],
+    [
+      "The Future of CSS",
+      "https://www.joshwcomeau.com/css/interop-2027/"
     ]
   ],
   [
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=50170593"
     ],
     [
-      "SimCity, but with Permits",
+      "Show HN: SimCity, but with Permits",
       "https://permit.petercai.com/"
     ]
   ],
@@ -147,16 +167,6 @@
     [
       "IKEA – 3D Guide",
       "https://sael.net/flatpack/"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 15:09:29",
-      "https://news.ycombinator.com/item?id=50167583"
-    ],
-    [
-      "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "https://news.ycombinator.com/item?id=50167583"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Meta's GB{2,3}00 Cluster",
       "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 07:59:50",
-      "https://news.ycombinator.com/item?id=50149609"
-    ],
-    [
-      "Shipping a LaTeX Compiler Behind an Edge App",
-      "https://bhargav.dev/writing/shipping-a-latex-compiler-behind-an-edge-app"
     ]
   ],
   [
