@@ -2,7 +2,6 @@
 
 * [2026-10-21, 05:05:37](https://news.ycombinator.com/item?id=50176301) - [Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273)
 * [2026-10-21, 05:05:19](https://news.ycombinator.com/item?id=50176298) - [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo)
-* [2026-10-21, 04:37:18](https://news.ycombinator.com/item?id=50176129) - [Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support](https://github.com/xamrayev/nexus-cli)
 * [2026-10-21, 03:51:25](https://news.ycombinator.com/item?id=50175882) - [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
 * [2026-10-21, 03:36:43](https://news.ycombinator.com/item?id=50175779) - [Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction)
 * [2026-10-21, 02:53:47](https://news.ycombinator.com/item?id=50175510) - [C# now beats Rust on WASM size](https://github.com/zion-sati/NetWasm)
@@ -14,6 +13,7 @@
 * [2026-10-20, 22:21:05](https://news.ycombinator.com/item?id=50173487) - [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 * [2026-10-20, 20:15:50](https://news.ycombinator.com/item?id=50172041) - [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509)
 * [2026-10-20, 18:29:09](https://news.ycombinator.com/item?id=50170593) - [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
+* [2026-10-20, 17:43:11](https://news.ycombinator.com/item?id=50169955) - [Advanced coding in low-resource programming languages](https://openai.com/index/low-resource-programming-languages/)
 * [2026-10-20, 17:25:07](https://news.ycombinator.com/item?id=50169707) - [What shall I teach my son?](https://stevekrouse.com/ends)
 * [2026-10-20, 16:40:24](https://news.ycombinator.com/item?id=50169053) - [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
 * [2026-10-20, 16:02:07](https://news.ycombinator.com/item?id=50168396) - [Voxtral 3](https://mistral.ai/news/voxtral-3/)
