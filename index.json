@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=50181136"
     ],
     [
-      "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
+      "DuckDB 2.0.0 LTS “Cinnamon Teal”",
       "https://duckdb.org/2026/10/21/announcing-duckdb-200"
     ]
   ],
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2026-10-21, 12:53:11",
+      "https://news.ycombinator.com/item?id=50180079"
+    ],
+    [
+      "OpenAI models are coming to Google Cloud",
+      "https://openai.com/index/openai-models-google-cloud/"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 12:50:33",
       "https://news.ycombinator.com/item?id=50180039"
     ],
@@ -157,26 +167,6 @@
     [
       "LayerFS: The filesystem for AI coding agents",
       "https://layerfs.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 12:31:28",
-      "https://news.ycombinator.com/item?id=50179828"
-    ],
-    [
-      "Dutch National Cyber Security Center is Offline because it uses PHP",
-      "https://www.ncsc.nl/actueel"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 12:22:39",
-      "https://news.ycombinator.com/item?id=50179706"
-    ],
-    [
-      "Qwen3-Coder writes less secure code when told it's for a US persona",
-      "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities"
     ]
   ],
   [
@@ -241,16 +231,6 @@
   ],
   [
     [
-      "2026-10-20, 23:11:46",
-      "https://news.ycombinator.com/item?id=50173956"
-    ],
-    [
-      "Cities Across the World Sinking from Groundwater Depletion: It Can Be Reversed",
-      "https://cleantechnica.com/2026/10/20/cities-across-the-world-are-sinking-because-of-groundwater-depletion-but-the-process-can-be-reversed/"
-    ]
-  ],
-  [
-    [
       "2026-10-20, 06:20:54",
       "https://news.ycombinator.com/item?id=50162044"
     ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2026-10-19, 21:38:02",
+      "https://news.ycombinator.com/item?id=50158408"
+    ],
+    [
+      "Drupal is now light-years ahead of its reputation",
+      "https://dri.es/state-of-drupal-presentation-september-2026"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 18:05:53",
       "https://news.ycombinator.com/item?id=50155751"
     ],
     [
       "C++ futures part 1: The mental model",
       "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 17:16:31",
+      "https://news.ycombinator.com/item?id=50155099"
+    ],
+    [
+      "Show HN: ULDA – Client-side encryption with a simple JavaScript API",
+      "https://demo.ulda.io/"
     ]
   ],
   [
