@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-21, 14:08:40](https://news.ycombinator.com/item?id=50181265) - [Patch the Planet](https://patchtheplanet.org/)
-* [2026-10-21, 14:03:43](https://news.ycombinator.com/item?id=50181175) - [OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
+* [2026-10-21, 14:03:43](https://news.ycombinator.com/item?id=50181175) - [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
 * [2026-10-21, 14:01:25](https://news.ycombinator.com/item?id=50181137) - [The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)
 * [2026-10-21, 14:01:22](https://news.ycombinator.com/item?id=50181136) - [DuckDB 2.0.0 LTS \"Cinnamon Teal\"](https://duckdb.org/2026/10/21/announcing-duckdb-200)
-* [2026-10-21, 13:50:05](https://news.ycombinator.com/item?id=50180943) - [PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out](https://www.php.net/index.php)
-* [2026-10-21, 13:45:33](https://news.ycombinator.com/item?id=50180873) - [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35)
+* [2026-10-21, 14:00:26](https://news.ycombinator.com/item?id=50181114) - [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
+* [2026-10-21, 13:45:33](https://news.ycombinator.com/item?id=50180873) - [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
 * [2026-10-21, 13:43:19](https://news.ycombinator.com/item?id=50180836) - [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce)
 * [2026-10-21, 13:37:00](https://news.ycombinator.com/item?id=50180752) - [OpenAI: Using AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)
 * [2026-10-21, 13:17:33](https://news.ycombinator.com/item?id=50180444) - [Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)
@@ -15,7 +15,6 @@
 * [2026-10-21, 12:00:24](https://news.ycombinator.com/item?id=50179455) - [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)
 * [2026-10-21, 10:14:43](https://news.ycombinator.com/item?id=50178455) - [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
 * [2026-10-21, 09:08:08](https://news.ycombinator.com/item?id=50177916) - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
-* [2026-10-21, 03:36:43](https://news.ycombinator.com/item?id=50175779) - [Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction)
 * [2026-10-21, 02:04:15](https://news.ycombinator.com/item?id=50175185) - [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
 * [2026-10-21, 01:47:28](https://news.ycombinator.com/item?id=50175070) - [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
 * [2026-10-21, 01:45:07](https://news.ycombinator.com/item?id=50175059) - [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
@@ -30,6 +29,7 @@
 * [2026-10-19, 11:43:35](https://news.ycombinator.com/item?id=50151175) - [The Lucrative World of Literary Scams](https://www.thedial.world/articles/news/ai-book-scams)
 * [2026-10-19, 09:21:34](https://news.ycombinator.com/item?id=50150214) - [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303)
 * [2026-10-19, 08:35:44](https://news.ycombinator.com/item?id=50149861) - [The Decoherence Trap](https://maevyn.codes/decoherence)
+* [2026-10-18, 13:06:54](https://news.ycombinator.com/item?id=50140768) - [A page looks innocent: the algorithms behind a typeset page](https://news.speedata.de/2026/10/18/anatomy-of-a-page/)
 
 ## [Archives](archives/index.md)
 
