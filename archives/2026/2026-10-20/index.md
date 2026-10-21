@@ -62,6 +62,7 @@
 * [2026-10-20, 08:16:55](https://news.ycombinator.com/item?id=50162860) - [Everything is going wrong for Muhammad bin Salman](https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman)
 * [2026-10-20, 06:40:49](https://news.ycombinator.com/item?id=50162198) - [Vite+ an excellent toolchain for AI agent development](https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en)
 * [2026-10-20, 06:37:07](https://news.ycombinator.com/item?id=50162177) - [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
+* [2026-10-20, 06:20:54](https://news.ycombinator.com/item?id=50162044) - [Tiny possum and glider thought extinct for 6000 years found in remote West Papua](https://www.bbc.com/news/articles/cp814l80pw2o)
 * [2026-10-20, 04:55:36](https://news.ycombinator.com/item?id=50161505) - [Americans Are Spending More Money to Drive Worse Cars](https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/)
 * [2026-10-20, 04:37:43](https://news.ycombinator.com/item?id=50161408) - [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/)
 * [2026-10-20, 04:02:26](https://news.ycombinator.com/item?id=50161207) - [U.S. Supreme Court to review 1868 federal ban on home distilling of liquor](https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/)
