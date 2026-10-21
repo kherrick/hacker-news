@@ -10,6 +10,7 @@
 * [2026-10-19, 22:53:38](https://news.ycombinator.com/item?id=50159119) - [GridFTP: A Brief History of Fast File Transfer (2024)](https://www.globus.org/blog/gridftp-a-brief-history-of-fast-file-transfer)
 * [2026-10-19, 22:32:37](https://news.ycombinator.com/item?id=50158942) - [An ad-free Android TV](https://cretezy.com/2026/ad-free-android-tv)
 * [2026-10-19, 21:38:02](https://news.ycombinator.com/item?id=50158408) - [Drupal is now light-years ahead of its reputation](https://dri.es/state-of-drupal-presentation-september-2026)
+* [2026-10-19, 21:29:58](https://news.ycombinator.com/item?id=50158314) - [Does Ruby on Rails still make sense?](https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/)
 * [2026-10-19, 21:11:45](https://news.ycombinator.com/item?id=50158138) - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
 * [2026-10-19, 21:10:57](https://news.ycombinator.com/item?id=50158131) - [Diablo 2 Survivors](https://d2survivors.lol/)
 * [2026-10-19, 21:08:18](https://news.ycombinator.com/item?id=50158100) - [Putting Linux on my RTX spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
