@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-10-21, 05:05:37",
+      "https://news.ycombinator.com/item?id=50176301"
+    ],
+    [
+      "Pillowfort Is Closing",
+      "https://www.pillowfort.social/posts/8413273"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 04:37:18",
+      "https://news.ycombinator.com/item?id=50176129"
+    ],
+    [
+      "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+      "https://github.com/xamrayev/nexus-cli"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 04:26:56",
+      "https://news.ycombinator.com/item?id=50176077"
+    ],
+    [
+      "Major PHP Vulnerability Leaked",
+      "https://jackalsyn.com/posts/php-up-2026.html"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 02:04:15",
       "https://news.ycombinator.com/item?id=50175185"
     ],
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2026-10-20, 15:42:45",
-      "https://news.ycombinator.com/item?id=50168096"
-    ],
-    [
-      "IKEA – 3D Guide",
-      "https://sael.net/flatpack/"
-    ]
-  ],
-  [
-    [
       "2026-10-20, 14:30:31",
       "https://news.ycombinator.com/item?id=50167028"
     ],
     [
       "Ofcom concedes defeat in 4chan case",
       "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 14:13:49",
-      "https://news.ycombinator.com/item?id=50166794"
-    ],
-    [
-      "My Friend Bob Cringely",
-      "https://tyma.com/my-cringe-story/"
     ]
   ],
   [
@@ -191,22 +201,22 @@
   ],
   [
     [
-      "2026-10-20, 13:39:24",
-      "https://news.ycombinator.com/item?id=50166257"
-    ],
-    [
-      "How I got over 300 Tor exit nodes removed",
-      "https://kaba.cx/posts/20261020_Tor/"
-    ]
-  ],
-  [
-    [
       "2026-10-20, 13:18:07",
       "https://news.ycombinator.com/item?id=50165953"
     ],
     [
       "Tsrs: A Port of TypeScript to Rust",
       "https://blog.cloudflare.com/typescript-rust-port/"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 12:18:02",
+      "https://news.ycombinator.com/item?id=50165215"
+    ],
+    [
+      "Four Years with Decker",
+      "https://beyondloom.com/blog/fouryearsdecker.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "To Make, or to Buy: The Economics of Decision Models",
       "https://pncnmnp.github.io/blogs/economics-decision-models.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-18, 17:21:23",
-      "https://news.ycombinator.com/item?id=50143154"
-    ],
-    [
-      "What the heck is /pkg?",
-      "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg"
     ]
   ],
   [
