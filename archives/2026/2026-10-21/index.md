@@ -12,6 +12,7 @@
 * [2026-10-21, 04:26:56](https://news.ycombinator.com/item?id=50176077) - [Major PHP Vulnerability Leaked](https://jackalsyn.com/posts/php-up-2026.html)
 * [2026-10-21, 03:51:25](https://news.ycombinator.com/item?id=50175882) - [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
 * [2026-10-21, 03:36:43](https://news.ycombinator.com/item?id=50175779) - [Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction)
+* [2026-10-21, 02:53:47](https://news.ycombinator.com/item?id=50175510) - [C# now beats Rust on WASM size](https://github.com/zion-sati/NetWasm)
 * [2026-10-21, 02:04:15](https://news.ycombinator.com/item?id=50175185) - [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
 * [2026-10-21, 01:48:22](https://news.ycombinator.com/item?id=50175075) - [T3 Code starting move to GitCafe](https://git.cafe/pingdotgg/t3code)
 * [2026-10-21, 01:47:28](https://news.ycombinator.com/item?id=50175070) - [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
