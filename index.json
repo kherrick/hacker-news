@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-21, 22:17:19",
-      "https://news.ycombinator.com/item?id=50188443"
-    ],
-    [
-      "Oracle Security Alert Advisory – CVE-2026-91403 (eMudhra cert revocation)",
-      "https://www.oracle.com/security-alerts/alert-cve-2026-91403.html"
-    ]
-  ],
-  [
-    [
       "2026-10-21, 21:58:03",
       "https://news.ycombinator.com/item?id=50188228"
     ],
@@ -127,6 +117,16 @@
     [
       "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
       "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 16:09:28",
+      "https://news.ycombinator.com/item?id=50183344"
+    ],
+    [
+      "The bridge to agent-scale Git infrastructure",
+      "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
     ]
   ],
   [
