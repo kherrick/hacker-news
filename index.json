@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-10-21, 19:20:55",
+      "https://news.ycombinator.com/item?id=50186129"
+    ],
+    [
+      "Mistral Large 4",
+      "https://docs.mistral.ai/models/mistral-large-4-0"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 19:14:01",
       "https://news.ycombinator.com/item?id=50186037"
     ],
     [
       "Claude Duet",
       "https://claude.com/product/claude-duet"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 19:11:57",
+      "https://news.ycombinator.com/item?id=50186010"
+    ],
+    [
+      "Google's Rust Style Guide",
+      "https://google.github.io/styleguide/rustguide.html"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Anthropic's Public Benefit Charter",
       "https://www.anthropic.com/public-benefit-charter"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 18:27:54",
-      "https://news.ycombinator.com/item?id=50185403"
-    ],
-    [
-      "Corporate Linux",
-      "https://lpar.ATH0.com/posts/2026/10/corporate-linux/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Launch HN: Alter (YC S25) – Access control for multi-user agents",
       "https://alterauth.com/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 00:45:59",
-      "https://news.ycombinator.com/item?id=50174687"
-    ],
-    [
-      "Muse exposes users' personal and business secrets when they share conversations",
-      "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
     ]
   ],
   [
