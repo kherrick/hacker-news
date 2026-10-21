@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-21, 12:34:46",
+      "https://news.ycombinator.com/item?id=50179857"
+    ],
+    [
+      "LayerFS: The filesystem for AI coding agents",
+      "https://layerfs.ai/"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 12:31:28",
       "https://news.ycombinator.com/item?id=50179828"
     ],
@@ -17,6 +27,16 @@
     [
       "Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels",
       "https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 12:22:39",
+      "https://news.ycombinator.com/item?id=50179706"
+    ],
+    [
+      "Qwen3-Coder writes less secure code when told it's for a US persona",
+      "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities"
     ]
   ],
   [
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2026-10-20, 09:08:54",
-      "https://news.ycombinator.com/item?id=50163277"
-    ],
-    [
-      "DeepInfer: High-performance inference framework for DeepSeek models",
-      "https://github.com/deepseek-ai/DeepInfer"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 21:29:58",
-      "https://news.ycombinator.com/item?id=50158314"
-    ],
-    [
-      "Does Ruby on Rails still make sense?",
-      "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/"
-    ]
-  ],
-  [
-    [
       "2026-10-19, 12:13:36",
       "https://news.ycombinator.com/item?id=50151447"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-10-19, 05:54:43",
-      "https://news.ycombinator.com/item?id=50148845"
-    ],
-    [
-      "Composite objects and C++26 the std:polymorphic type",
-      "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/"
-    ]
-  ],
-  [
-    [
       "2026-10-19, 02:48:11",
       "https://news.ycombinator.com/item?id=50147799"
     ],
     [
       "ZX Spectrum Next Laptop",
       "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2"
+    ]
+  ],
+  [
+    [
+      "2026-10-18, 13:06:54",
+      "https://news.ycombinator.com/item?id=50140768"
+    ],
+    [
+      "A page looks innocent: the algorithms behind a typeset page",
+      "https://news.speedata.de/2026/10/18/anatomy-of-a-page/"
     ]
   ],
   [
