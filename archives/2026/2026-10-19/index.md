@@ -76,6 +76,7 @@
 * [2026-10-19, 07:59:50](https://news.ycombinator.com/item?id=50149609) - [Shipping a LaTeX Compiler Behind an Edge App](https://bhargav.dev/writing/shipping-a-latex-compiler-behind-an-edge-app)
 * [2026-10-19, 07:23:57](https://news.ycombinator.com/item?id=50149392) - [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
 * [2026-10-19, 05:55:31](https://news.ycombinator.com/item?id=50148855) - [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)
+* [2026-10-19, 05:54:43](https://news.ycombinator.com/item?id=50148845) - [Composite objects and C++26 the std:polymorphic type](https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/)
 * [2026-10-19, 05:11:24](https://news.ycombinator.com/item?id=50148601) - [Flatpak – An Insecurity Nightmare](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
 * [2026-10-19, 04:41:46](https://news.ycombinator.com/item?id=50148452) - [DeepSeek v4.1 Flash 1017 Scores 45 in Artificial Analysis](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)
 * [2026-10-19, 04:40:18](https://news.ycombinator.com/item?id=50148441) - [Verisign .com Domain Name Registry Consumer Class Action](https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action)
