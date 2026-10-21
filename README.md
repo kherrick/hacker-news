@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-21, 18:45:04](https://news.ycombinator.com/item?id=50185630) - [Canary Tokens](https://canarytokens.org/)
+* [2026-10-21, 18:31:15](https://news.ycombinator.com/item?id=50185455) - [Open Source Games](https://opensourcegames.dev/)
 * [2026-10-21, 18:29:54](https://news.ycombinator.com/item?id=50185438) - [Anthropic's Public Benefit Charter](https://www.anthropic.com/public-benefit-charter)
+* [2026-10-21, 18:27:54](https://news.ycombinator.com/item?id=50185403) - [Corporate Linux](https://lpar.ATH0.com/posts/2026/10/corporate-linux/)
 * [2026-10-21, 18:00:51](https://news.ycombinator.com/item?id=50185045) - [The compiler was supposed to end programming too](https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/)
 * [2026-10-21, 17:45:13](https://news.ycombinator.com/item?id=50184820) - [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
-* [2026-10-21, 17:38:55](https://news.ycombinator.com/item?id=50184712) - [Texas data center boom could erase decades of progress on air quality](https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/)
 * [2026-10-21, 17:29:33](https://news.ycombinator.com/item?id=50184586) - [EA is shutting down BioWare](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware)
-* [2026-10-21, 16:34:16](https://news.ycombinator.com/item?id=50183727) - [Rust off Rails: The opinionated web stack for the AI era](https://rustoffrails.org/)
 * [2026-10-21, 16:20:37](https://news.ycombinator.com/item?id=50183512) - [New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic](https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs)
 * [2026-10-21, 16:09:28](https://news.ycombinator.com/item?id=50183344) - [The bridge to agent-scale Git infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/)
 * [2026-10-21, 16:05:05](https://news.ycombinator.com/item?id=50183280) - [Your MCU Likely Escaped the eMudhra Intermediate CA Compromise](https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/)
@@ -28,7 +29,6 @@
 * [2026-10-19, 17:16:31](https://news.ycombinator.com/item?id=50155099) - [Show HN: ULDA – Client-side encryption with a simple JavaScript API](https://demo.ulda.io/)
 * [2026-10-19, 16:40:03](https://news.ycombinator.com/item?id=50154551) - [A train simulator game for console hackers](https://github.com/antoniovazquezaraujo/LeTrain)
 * [2026-10-19, 09:21:34](https://news.ycombinator.com/item?id=50150214) - [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303)
-* [2026-10-19, 08:35:44](https://news.ycombinator.com/item?id=50149861) - [The Decoherence Trap](https://maevyn.codes/decoherence)
 * [2026-10-18, 16:06:43](https://news.ycombinator.com/item?id=50142296) - [Trials and Tribulations of Native Lua Compilation](https://samyeyo.github.io/clx/blog.html)
 
 ## [Archives](archives/index.md)

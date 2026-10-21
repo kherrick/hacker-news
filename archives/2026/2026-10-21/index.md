@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 18:45:04](https://news.ycombinator.com/item?id=50185630) - [Canary Tokens](https://canarytokens.org/)
+* [2026-10-21, 18:31:15](https://news.ycombinator.com/item?id=50185455) - [Open Source Games](https://opensourcegames.dev/)
 * [2026-10-21, 18:29:54](https://news.ycombinator.com/item?id=50185438) - [Anthropic's Public Benefit Charter](https://www.anthropic.com/public-benefit-charter)
+* [2026-10-21, 18:27:54](https://news.ycombinator.com/item?id=50185403) - [Corporate Linux](https://lpar.ATH0.com/posts/2026/10/corporate-linux/)
 * [2026-10-21, 18:00:51](https://news.ycombinator.com/item?id=50185045) - [The compiler was supposed to end programming too](https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/)
 * [2026-10-21, 17:45:13](https://news.ycombinator.com/item?id=50184820) - [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
 * [2026-10-21, 17:38:55](https://news.ycombinator.com/item?id=50184712) - [Texas data center boom could erase decades of progress on air quality](https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/)
