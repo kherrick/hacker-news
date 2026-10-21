@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-21, 19:44:49](https://news.ycombinator.com/item?id=50186518) - [After automation: Solo founding will be the default](https://every.to/thesis-statements/julian-weisser)
+* [2026-10-21, 21:12:59](https://news.ycombinator.com/item?id=50187708) - [AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days](https://github.com/amazonlinux/amazon-linux-2023/issues/1148)
 * [2026-10-21, 19:40:18](https://news.ycombinator.com/item?id=50186455) - [Claude Duet](https://claude.com/resources/articles/claude-duet)
 * [2026-10-21, 19:26:20](https://news.ycombinator.com/item?id=50186215) - [Meta hit with $25B penalty for deceiving users about privacy on Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)
 * [2026-10-21, 19:20:55](https://news.ycombinator.com/item?id=50186129) - [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
@@ -24,9 +24,9 @@
 * [2026-10-21, 12:53:11](https://news.ycombinator.com/item?id=50180079) - [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud/)
 * [2026-10-21, 12:00:24](https://news.ycombinator.com/item?id=50179455) - [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)
 * [2026-10-21, 09:08:08](https://news.ycombinator.com/item?id=50177916) - [Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
-* [2026-10-21, 06:42:12](https://news.ycombinator.com/item?id=50176908) - [Launch HN: Alter (YC S25) – Access control for multi-user agents](https://alterauth.com/)
 * [2026-10-20, 14:08:33](https://news.ycombinator.com/item?id=50166706) - [A Place Among the Fiddlers](https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/)
 * [2026-10-20, 06:20:54](https://news.ycombinator.com/item?id=50162044) - [Tiny possum and glider thought extinct for 6000 years found in remote West Papua](https://www.bbc.com/news/articles/cp814l80pw2o)
+* [2026-10-20, 04:27:08](https://news.ycombinator.com/item?id=50161346) - [No More Icons in Every Menu by Default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
 * [2026-10-20, 00:14:03](https://news.ycombinator.com/item?id=50159726) - [Why Windows 11 still ships with Windows 95's memory manager hidden inside it](https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/)
 * [2026-10-19, 21:38:02](https://news.ycombinator.com/item?id=50158408) - [Drupal is now light-years ahead of its reputation](https://dri.es/state-of-drupal-presentation-september-2026)
 * [2026-10-19, 09:21:34](https://news.ycombinator.com/item?id=50150214) - [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303)

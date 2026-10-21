@@ -68,6 +68,7 @@
 * [2026-10-20, 06:20:54](https://news.ycombinator.com/item?id=50162044) - [Tiny possum and glider thought extinct for 6000 years found in remote West Papua](https://www.bbc.com/news/articles/cp814l80pw2o)
 * [2026-10-20, 04:55:36](https://news.ycombinator.com/item?id=50161505) - [Americans Are Spending More Money to Drive Worse Cars](https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/)
 * [2026-10-20, 04:37:43](https://news.ycombinator.com/item?id=50161408) - [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/)
+* [2026-10-20, 04:27:08](https://news.ycombinator.com/item?id=50161346) - [No More Icons in Every Menu by Default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
 * [2026-10-20, 04:02:26](https://news.ycombinator.com/item?id=50161207) - [U.S. Supreme Court to review 1868 federal ban on home distilling of liquor](https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/)
 * [2026-10-20, 03:51:43](https://news.ycombinator.com/item?id=50161144) - [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/)
 * [2026-10-20, 03:05:07](https://news.ycombinator.com/item?id=50160877) - [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
