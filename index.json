@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-21, 17:29:33",
+      "https://news.ycombinator.com/item?id=50184586"
+    ],
+    [
+      "EA is shutting down BioWare",
+      "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 16:34:16",
       "https://news.ycombinator.com/item?id=50183727"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2026-10-21, 16:09:28",
+      "https://news.ycombinator.com/item?id=50183344"
+    ],
+    [
+      "The bridge to agent-scale Git infrastructure",
+      "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 16:06:56",
       "https://news.ycombinator.com/item?id=50183311"
     ],
@@ -37,16 +57,6 @@
     [
       "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
       "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 16:03:32",
-      "https://news.ycombinator.com/item?id=50183253"
-    ],
-    [
-      "AI agent fixed the bug, but what else did it change?",
-      "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Launch HN: Alter (YC S25) – Access control for multi-user agents",
       "https://alterauth.com/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 01:45:07",
-      "https://news.ycombinator.com/item?id=50175059"
-    ],
-    [
-      "Good type against all odds",
-      "https://unsung.aresluna.org/good-type-against-all-odds/"
     ]
   ],
   [
