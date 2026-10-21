@@ -22,6 +22,7 @@
 * [2026-10-18, 18:26:40](https://news.ycombinator.com/item?id=50143876) - [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
 * [2026-10-18, 18:15:10](https://news.ycombinator.com/item?id=50143755) - [Investing in the Public Benefit](https://www.anthropic.com/news/public-benefit-fund)
 * [2026-10-18, 17:56:59](https://news.ycombinator.com/item?id=50143536) - [PalmOS Lemmings by Aaron Ardiri](https://github.com/ardiri/palmos-lemmings)
+* [2026-10-18, 17:40:56](https://news.ycombinator.com/item?id=50143360) - [To Make, or to Buy: The Economics of Decision Models](https://pncnmnp.github.io/blogs/economics-decision-models.html)
 * [2026-10-18, 17:27:30](https://news.ycombinator.com/item?id=50143218) - [British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)
 * [2026-10-18, 17:21:23](https://news.ycombinator.com/item?id=50143154) - [What the heck is /pkg?](https://anderegg.ca/2026/10/18/what-the-heck-is-pkg)
 * [2026-10-18, 17:19:34](https://news.ycombinator.com/item?id=50143132) - [Mitos editor is a fork of Helix](https://mitos.computer/)
