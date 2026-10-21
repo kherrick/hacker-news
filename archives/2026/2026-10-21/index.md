@@ -19,6 +19,7 @@
 * [2026-10-21, 16:05:05](https://news.ycombinator.com/item?id=50183280) - [Your MCU Likely Escaped the eMudhra Intermediate CA Compromise](https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/)
 * [2026-10-21, 16:03:32](https://news.ycombinator.com/item?id=50183253) - [AI agent fixed the bug, but what else did it change?](https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/)
 * [2026-10-21, 15:48:56](https://news.ycombinator.com/item?id=50182987) - [PHP Foundation's Overview of CVE-2026-109618 and CVE-2026-109619](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
+* [2026-10-21, 15:46:43](https://news.ycombinator.com/item?id=50182960) - [Show HN: I told people I'm a convicted felon after 20 years of hiding it](https://buford.bg/)
 * [2026-10-21, 15:20:04](https://news.ycombinator.com/item?id=50182526) - [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
 * [2026-10-21, 14:56:57](https://news.ycombinator.com/item?id=50182130) - [Another day, another GitHub incident](https://www.githubstatus.com/incidents/nms1dpzmh9d9)
 * [2026-10-21, 14:11:14](https://news.ycombinator.com/item?id=50181326) - [Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/)
