@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-21, 10:14:43](https://news.ycombinator.com/item?id=50178455) - [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
 * [2026-10-21, 09:08:08](https://news.ycombinator.com/item?id=50177916) - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
 * [2026-10-21, 09:07:49](https://news.ycombinator.com/item?id=50177911) - [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)
 * [2026-10-21, 05:05:37](https://news.ycombinator.com/item?id=50176301) - [Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273)
@@ -23,7 +24,6 @@
 * [2026-10-20, 12:18:02](https://news.ycombinator.com/item?id=50165215) - [Four Years with Decker](https://beyondloom.com/blog/fouryearsdecker.html)
 * [2026-10-20, 12:17:28](https://news.ycombinator.com/item?id=50165208) - [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
 * [2026-10-20, 09:08:54](https://news.ycombinator.com/item?id=50163277) - [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
-* [2026-10-19, 12:47:42](https://news.ycombinator.com/item?id=50151771) - [Borrow Checking Zero-Cost Cyclic Mutability](https://antelang.org/blog/safe_cyclic_mutability/)
 * [2026-10-19, 12:13:36](https://news.ycombinator.com/item?id=50151447) - [Bonanza of new dates rewrites the history of the Inca](https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca)
 * [2026-10-19, 09:21:34](https://news.ycombinator.com/item?id=50150214) - [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303)
 * [2026-10-19, 08:35:44](https://news.ycombinator.com/item?id=50149861) - [The Decoherence Trap](https://maevyn.codes/decoherence)
