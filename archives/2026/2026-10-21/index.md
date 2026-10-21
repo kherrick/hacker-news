@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 22:32:45](https://news.ycombinator.com/item?id=50188612) - [Qpack amplification attacks against HTTP/3 servers](https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers)
 * [2026-10-21, 22:17:19](https://news.ycombinator.com/item?id=50188443) - [Oracle Security Alert Advisory – CVE-2026-91403 (eMudhra cert revocation)](https://www.oracle.com/security-alerts/alert-cve-2026-91403.html)
 * [2026-10-21, 21:58:03](https://news.ycombinator.com/item?id=50188228) - [Railway Security(Compromise) Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 * [2026-10-21, 21:12:59](https://news.ycombinator.com/item?id=50187708) - [PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
