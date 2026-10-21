@@ -43,6 +43,7 @@
 * [2026-10-18, 13:45:25](https://news.ycombinator.com/item?id=50141053) - [Gen Z Is the First Generation Dumber Than Their Parents](https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/)
 * [2026-10-18, 13:41:06](https://news.ycombinator.com/item?id=50141024) - [The Electronic Disturbance Theater and Electronic Civil Disobedience](https://www.thing.net/~rdom/ecd/EDTECD.html)
 * [2026-10-18, 13:06:54](https://news.ycombinator.com/item?id=50140769) - [Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/)
+* [2026-10-18, 13:06:54](https://news.ycombinator.com/item?id=50140768) - [A page looks innocent: the algorithms behind a typeset page](https://news.speedata.de/2026/10/18/anatomy-of-a-page/)
 * [2026-10-18, 12:46:35](https://news.ycombinator.com/item?id=50140638) - [Germany's 17M Immigrants: Where They Come From](https://www.visualcapitalist.com/cp/where-germanys-immigrants-come-from/)
 * [2026-10-18, 12:39:56](https://news.ycombinator.com/item?id=50140584) - [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)
 * [2026-10-18, 12:22:58](https://news.ycombinator.com/item?id=50140462) - [How Far Will AI Assistants Go for a Refund They Can't Get?](https://www.vals.ai/blogs/impossible-refund)
