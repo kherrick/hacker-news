@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-21, 12:31:28](https://news.ycombinator.com/item?id=50179828) - [Dutch National Cyber Security Center is Offline because it uses PHP](https://www.ncsc.nl/actueel)
+* [2026-10-21, 12:23:41](https://news.ycombinator.com/item?id=50179719) - [Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels](https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels)
 * [2026-10-21, 12:00:24](https://news.ycombinator.com/item?id=50179455) - [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)
 * [2026-10-21, 10:14:43](https://news.ycombinator.com/item?id=50178455) - [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
 * [2026-10-21, 09:08:08](https://news.ycombinator.com/item?id=50177916) - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
@@ -17,9 +19,7 @@
 * [2026-10-20, 17:25:07](https://news.ycombinator.com/item?id=50169707) - [What shall I teach my son?](https://stevekrouse.com/ends)
 * [2026-10-20, 16:40:24](https://news.ycombinator.com/item?id=50169053) - [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
 * [2026-10-20, 16:02:07](https://news.ycombinator.com/item?id=50168396) - [Voxtral 3](https://mistral.ai/news/voxtral-3/)
-* [2026-10-20, 14:30:31](https://news.ycombinator.com/item?id=50167028) - [Ofcom concedes defeat in 4chan case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
 * [2026-10-20, 13:58:33](https://news.ycombinator.com/item?id=50166579) - [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/)
-* [2026-10-20, 12:18:02](https://news.ycombinator.com/item?id=50165215) - [Four Years with Decker](https://beyondloom.com/blog/fouryearsdecker.html)
 * [2026-10-20, 12:17:28](https://news.ycombinator.com/item?id=50165208) - [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
 * [2026-10-20, 09:08:54](https://news.ycombinator.com/item?id=50163277) - [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
 * [2026-10-19, 21:29:58](https://news.ycombinator.com/item?id=50158314) - [Does Ruby on Rails still make sense?](https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/)
