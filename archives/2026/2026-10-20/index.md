@@ -9,6 +9,7 @@
 * [2026-10-20, 22:21:05](https://news.ycombinator.com/item?id=50173487) - [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 * [2026-10-20, 21:18:07](https://news.ycombinator.com/item?id=50172809) - [Third US aircraft carrier, 10k troops head to Middle East](https://www.iranintl.com/en/202610207766)
 * [2026-10-20, 20:46:55](https://news.ycombinator.com/item?id=50172448) - [Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide](https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide)
+* [2026-10-20, 20:15:50](https://news.ycombinator.com/item?id=50172041) - [Upcoming Critical PHP Security Release](https://news-web.php.net/php.announce/509)
 * [2026-10-20, 19:55:11](https://news.ycombinator.com/item?id=50171771) - [On AI writing](https://www.bolkunov.com/p/on-ai-writing)
 * [2026-10-20, 18:51:40](https://news.ycombinator.com/item?id=50170917) - [Academics have a duty to defend open knowledge systems like Wikipedia](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
 * [2026-10-20, 18:29:09](https://news.ycombinator.com/item?id=50170593) - [SimCity, but with Permits](https://permit.petercai.com/)

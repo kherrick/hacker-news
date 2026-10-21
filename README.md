@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-21, 00:11:30](https://news.ycombinator.com/item?id=50174448) - [Microagi: Accelerating Embodied AGI](https://www.microagi.ai/)
+* [2026-10-21, 01:45:07](https://news.ycombinator.com/item?id=50175059) - [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
 * [2026-10-20, 23:04:09](https://news.ycombinator.com/item?id=50173891) - [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
 * [2026-10-20, 22:21:05](https://news.ycombinator.com/item?id=50173487) - [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+* [2026-10-20, 20:15:50](https://news.ycombinator.com/item?id=50172041) - [Upcoming Critical PHP Security Release](https://news-web.php.net/php.announce/509)
 * [2026-10-20, 18:51:40](https://news.ycombinator.com/item?id=50170917) - [Academics have a duty to defend open knowledge systems like Wikipedia](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
 * [2026-10-20, 18:29:09](https://news.ycombinator.com/item?id=50170593) - [SimCity, but with Permits](https://permit.petercai.com/)
 * [2026-10-20, 17:25:07](https://news.ycombinator.com/item?id=50169707) - [What shall I teach my son?](https://stevekrouse.com/ends)
@@ -12,7 +13,6 @@
 * [2026-10-20, 15:59:06](https://news.ycombinator.com/item?id=50168357) - [Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery](https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery)
 * [2026-10-20, 15:42:45](https://news.ycombinator.com/item?id=50168096) - [IKEA – 3D Guide](https://sael.net/flatpack/)
 * [2026-10-20, 15:09:29](https://news.ycombinator.com/item?id=50167583) - [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583)
-* [2026-10-20, 15:06:08](https://news.ycombinator.com/item?id=50167536) - [Facebook Pages require paid subscription to post more than two links per month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
 * [2026-10-20, 14:30:31](https://news.ycombinator.com/item?id=50167028) - [Ofcom concedes defeat in 4chan case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
 * [2026-10-20, 14:13:49](https://news.ycombinator.com/item?id=50166794) - [My Friend Bob Cringely](https://tyma.com/my-cringe-story/)
 * [2026-10-20, 13:58:33](https://news.ycombinator.com/item?id=50166579) - [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
