@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-21, 16:34:16",
+      "https://news.ycombinator.com/item?id=50183727"
+    ],
+    [
+      "Rust off Rails: The opinionated web stack for the AI era",
+      "https://rustoffrails.org/"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 16:06:56",
       "https://news.ycombinator.com/item?id=50183311"
     ],
@@ -17,6 +27,16 @@
     [
       "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
       "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 16:03:32",
+      "https://news.ycombinator.com/item?id=50183253"
+    ],
+    [
+      "AI agent fixed the bug, but what else did it change?",
+      "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-10-21, 13:17:33",
-      "https://news.ycombinator.com/item?id=50180444"
-    ],
-    [
-      "Most advice is right for the person giving it",
-      "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/"
-    ]
-  ],
-  [
-    [
       "2026-10-21, 12:53:11",
       "https://news.ycombinator.com/item?id=50180079"
     ],
@@ -157,16 +167,6 @@
     [
       "Show HN: Sumi.css – CSS Framework",
       "https://github.com/vladocar/Sumi.css"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 12:34:46",
-      "https://news.ycombinator.com/item?id=50179857"
-    ],
-    [
-      "LayerFS: The filesystem for AI coding agents",
-      "https://layerfs.ai/"
     ]
   ],
   [
