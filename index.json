@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=50182987"
     ],
     [
-      "PHP Foundation's Overview of CVE-2026-109618 and CVE-2026-109619",
+      "Today's PHP Security Release, and How We're Strengthening PHP Security",
       "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "Delays for Pull Requests and Webhook deliveries",
       "https://www.githubstatus.com/incidents/nms1dpzmh9d9"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 14:11:14",
+      "https://news.ycombinator.com/item?id=50181326"
+    ],
+    [
+      "Cloudflare deploys protections against php2shell vulnerability",
+      "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 13:57:19",
-      "https://news.ycombinator.com/item?id=50181058"
-    ],
-    [
-      "PHP2Shell",
-      "https://www.php2shell.com"
     ]
   ],
   [
@@ -191,12 +191,32 @@
   ],
   [
     [
+      "2026-10-21, 06:42:12",
+      "https://news.ycombinator.com/item?id=50176908"
+    ],
+    [
+      "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "https://alterauth.com/"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 01:47:28",
       "https://news.ycombinator.com/item?id=50175070"
     ],
     [
       "The Future of CSS",
       "https://www.joshwcomeau.com/css/interop-2027/"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 01:45:07",
+      "https://news.ycombinator.com/item?id=50175059"
+    ],
+    [
+      "Good type against all odds",
+      "https://unsung.aresluna.org/good-type-against-all-odds/"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2026-10-20, 20:15:50",
-      "https://news.ycombinator.com/item?id=50172041"
+      "2026-10-20, 06:20:54",
+      "https://news.ycombinator.com/item?id=50162044"
     ],
     [
-      "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-      "https://news-web.php.net/php.announce/509"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 18:29:09",
-      "https://news.ycombinator.com/item?id=50170593"
-    ],
-    [
-      "Show HN: SimCity, but with Permits",
-      "https://permit.petercai.com/"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 16:02:07",
-      "https://news.ycombinator.com/item?id=50168396"
-    ],
-    [
-      "Voxtral 3",
-      "https://mistral.ai/news/voxtral-3/"
+      "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "https://www.bbc.com/news/articles/cp814l80pw2o"
     ]
   ],
   [
