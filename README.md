@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-21, 22:17:19](https://news.ycombinator.com/item?id=50188443) - [Oracle Security Alert Advisory – CVE-2026-91403 (eMudhra cert revocation)](https://www.oracle.com/security-alerts/alert-cve-2026-91403.html)
 * [2026-10-21, 21:58:03](https://news.ycombinator.com/item?id=50188228) - [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 * [2026-10-21, 21:12:59](https://news.ycombinator.com/item?id=50187708) - [PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
 * [2026-10-21, 21:08:59](https://news.ycombinator.com/item?id=50187659) - [CleanFrame: A quieter home screen for Samsung The Frame](https://github.com/nthnclrk/CleanFrame)
@@ -13,6 +12,7 @@
 * [2026-10-21, 17:29:33](https://news.ycombinator.com/item?id=50184586) - [EA is shutting down BioWare](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware)
 * [2026-10-21, 16:44:53](https://news.ycombinator.com/item?id=50183892) - [Show HN: Omnara – Open-Source Alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara)
 * [2026-10-21, 16:20:37](https://news.ycombinator.com/item?id=50183512) - [New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic](https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs)
+* [2026-10-21, 16:09:28](https://news.ycombinator.com/item?id=50183344) - [The bridge to agent-scale Git infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/)
 * [2026-10-21, 15:48:56](https://news.ycombinator.com/item?id=50182987) - [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 * [2026-10-21, 15:20:04](https://news.ycombinator.com/item?id=50182526) - [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
 * [2026-10-21, 14:03:43](https://news.ycombinator.com/item?id=50181175) - [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
