@@ -75,18 +75,8 @@
       "https://news.ycombinator.com/item?id=50172041"
     ],
     [
-      "Upcoming Critical PHP Security Release",
+      "Upcoming critical PHP security release",
       "https://news-web.php.net/php.announce/509"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 18:51:40",
-      "https://news.ycombinator.com/item?id=50170917"
-    ],
-    [
-      "Academics have a duty to defend open knowledge systems like Wikipedia",
-      "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "Show HN: SimCity, but with Permits",
       "https://permit.petercai.com/"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 17:43:11",
+      "https://news.ycombinator.com/item?id=50169955"
+    ],
+    [
+      "Advanced coding in low-resource programming languages",
+      "https://openai.com/index/low-resource-programming-languages/"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=50168357"
     ],
     [
-      "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+      "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
       "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery"
     ]
   ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=50166579"
     ],
     [
-      "EMudhra Intermediate CA Compromise",
+      "eMudhra intermediate CA compromise",
       "https://emudhra.we-have-a-problem.com/"
     ]
   ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-10-19, 19:21:56",
-      "https://news.ycombinator.com/item?id=50156779"
+      "2026-10-19, 14:23:55",
+      "https://news.ycombinator.com/item?id=50152886"
     ],
     [
-      "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
-      "https://dovepass.com"
+      "Meta's GB{2,3}00 Cluster",
+      "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
     ]
   ],
   [
