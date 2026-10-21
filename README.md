@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-21, 19:44:49](https://news.ycombinator.com/item?id=50186518) - [After automation: Solo founding will be the default](https://every.to/thesis-statements/julian-weisser)
 * [2026-10-21, 19:32:10](https://news.ycombinator.com/item?id=50186318) - [Plex laid off the whole player team](https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5)
 * [2026-10-21, 19:20:55](https://news.ycombinator.com/item?id=50186129) - [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
 * [2026-10-21, 19:14:01](https://news.ycombinator.com/item?id=50186037) - [Claude Duet](https://claude.com/product/claude-duet)
@@ -29,7 +30,6 @@
 * [2026-10-19, 21:38:02](https://news.ycombinator.com/item?id=50158408) - [Drupal is now light-years ahead of its reputation](https://dri.es/state-of-drupal-presentation-september-2026)
 * [2026-10-19, 18:05:53](https://news.ycombinator.com/item?id=50155751) - [C++ futures part 1: The mental model](https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/)
 * [2026-10-19, 09:21:34](https://news.ycombinator.com/item?id=50150214) - [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303)
-* [2026-10-18, 16:06:43](https://news.ycombinator.com/item?id=50142296) - [Trials and Tribulations of Native Lua Compilation](https://samyeyo.github.io/clx/blog.html)
 
 ## [Archives](archives/index.md)
 
