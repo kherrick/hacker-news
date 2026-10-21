@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-10-21, 13:22:31",
-      "https://news.ycombinator.com/item?id=50180518"
+      "2026-10-21, 13:50:05",
+      "https://news.ycombinator.com/item?id=50180943"
     ],
     [
-      "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
-      "https://news.un.org/en/story/2026/10/1168634"
+      "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
+      "https://www.php.net/index.php"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 13:45:33",
+      "https://news.ycombinator.com/item?id=50180873"
+    ],
+    [
+      "Updated PHP version released to GitHub",
+      "https://github.com/php/php-src/releases/tag/php-8.2.35"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A page looks innocent: the algorithms behind a typeset page",
       "https://news.speedata.de/2026/10/18/anatomy-of-a-page/"
-    ]
-  ],
-  [
-    [
-      "2026-10-15, 19:09:34",
-      "https://news.ycombinator.com/item?id=50108717"
-    ],
-    [
-      "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md"
     ]
   ]
 ]
