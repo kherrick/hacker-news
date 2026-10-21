@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-10-21, 05:17:15",
-      "https://news.ycombinator.com/item?id=50176351"
+      "2026-10-21, 06:42:12",
+      "https://news.ycombinator.com/item?id=50176908"
     ],
     [
-      "Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%",
-      "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead"
+      "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "https://alterauth.com/"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "Setting Up SSH Keys on macOS with Touch ID",
       "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 03:36:43",
+      "https://news.ycombinator.com/item?id=50175779"
+    ],
+    [
+      "Using Claude to reduce the attack surface of code",
+      "https://www.anthropic.com/research/attack-surface-reduction"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Apple broke an essential presentation feature of iPads",
       "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 10:26:02",
-      "https://news.ycombinator.com/item?id=50163961"
-    ],
-    [
-      "Google Cloud outage affects almost all banking and other operations in Europe",
-      "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/"
     ]
   ],
   [
