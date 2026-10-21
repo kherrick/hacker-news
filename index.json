@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-21, 06:42:12",
-      "https://news.ycombinator.com/item?id=50176908"
-    ],
-    [
-      "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-      "https://alterauth.com/"
-    ]
-  ],
-  [
-    [
       "2026-10-21, 05:05:37",
       "https://news.ycombinator.com/item?id=50176301"
     ],
@@ -41,16 +31,6 @@
   ],
   [
     [
-      "2026-10-21, 04:26:56",
-      "https://news.ycombinator.com/item?id=50176077"
-    ],
-    [
-      "PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)",
-      "https://jackalsyn.com/posts/php-up-2026.html"
-    ]
-  ],
-  [
-    [
       "2026-10-21, 03:51:25",
       "https://news.ycombinator.com/item?id=50175882"
     ],
@@ -67,6 +47,16 @@
     [
       "Using Claude to reduce the attack surface of code",
       "https://www.anthropic.com/research/attack-surface-reduction"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 02:53:47",
+      "https://news.ycombinator.com/item?id=50175510"
+    ],
+    [
+      "C# now beats Rust on WASM size",
+      "https://github.com/zion-sati/NetWasm"
     ]
   ],
   [
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=50172041"
     ],
     [
-      "Upcoming critical PHP security release",
+      "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
       "https://news-web.php.net/php.announce/509"
     ]
   ],
@@ -147,6 +137,16 @@
     [
       "Show HN: SimCity, but with Permits",
       "https://permit.petercai.com/"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 17:43:11",
+      "https://news.ycombinator.com/item?id=50169955"
+    ],
+    [
+      "Advanced coding in low-resource programming languages",
+      "https://openai.com/index/low-resource-programming-languages/"
     ]
   ],
   [
