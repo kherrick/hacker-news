@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-21, 05:17:15",
+      "https://news.ycombinator.com/item?id=50176351"
+    ],
+    [
+      "Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%",
+      "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 05:05:37",
       "https://news.ycombinator.com/item?id=50176301"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=50176077"
     ],
     [
-      "Major PHP Vulnerability Leaked",
+      "PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)",
       "https://jackalsyn.com/posts/php-up-2026.html"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "The Other Epidemic: Trying to get off benzodiazepines",
       "https://www.thebeliever.net/the-other-epidemic/"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 22:45:39",
-      "https://news.ycombinator.com/item?id=50173716"
-    ],
-    [
-      "PingCap TiDB Leaks",
-      "https://fulcrumsec.vg/pingcap/"
     ]
   ],
   [
