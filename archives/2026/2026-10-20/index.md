@@ -77,4 +77,5 @@
 * [2026-10-20, 01:12:03](https://news.ycombinator.com/item?id=50160135) - [Developing Taste](https://emilkowal.ski/ui/developing-taste)
 * [2026-10-20, 00:53:52](https://news.ycombinator.com/item?id=50159993) - [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/)
 * [2026-10-20, 00:40:56](https://news.ycombinator.com/item?id=50159911) - [Vortex Code: one prompt, an AI software team that ships](https://spinozalabs.ai/news/introducing-vortex-code)
+* [2026-10-20, 00:14:03](https://news.ycombinator.com/item?id=50159726) - [Why Windows 11 still ships with Windows 95's memory manager hidden inside it](https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/)
 * [2026-10-20, 00:00:49](https://news.ycombinator.com/item?id=50159616) - [France's Supermarket Fridges Were Vulnerable Online for Months](https://ipinfo.io/blog/france-fridges-hack)
