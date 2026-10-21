@@ -66,6 +66,7 @@
 * [2026-10-19, 12:13:36](https://news.ycombinator.com/item?id=50151447) - [Bonanza of new dates rewrites the history of the Inca](https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca)
 * [2026-10-19, 12:07:41](https://news.ycombinator.com/item?id=50151390) - [Harness Engineering 101: The LLM is the brain, the harness is the body](https://github.com/IsuruMaduranga/harness-engineering-101)
 * [2026-10-19, 12:06:03](https://news.ycombinator.com/item?id=50151376) - [The obscure trust looming over Anthropic's IPO](https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink)
+* [2026-10-19, 11:43:35](https://news.ycombinator.com/item?id=50151175) - [The Lucrative World of Literary Scams](https://www.thedial.world/articles/news/ai-book-scams)
 * [2026-10-19, 11:28:45](https://news.ycombinator.com/item?id=50151059) - [Harness2 by Google Research – Recursive Agent Harnessing](https://github.com/google-research/harness2)
 * [2026-10-19, 11:24:34](https://news.ycombinator.com/item?id=50151036) - [Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)
 * [2026-10-19, 11:12:02](https://news.ycombinator.com/item?id=50150935) - [ESA's Hera Will View Asteroid Scars from DART's Strike](https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous)
