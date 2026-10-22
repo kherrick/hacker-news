@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 07:21:52](https://news.ycombinator.com/item?id=50192254) - [A Markdown File Should Just Open](https://joshuamorris.info/notes/2026/10/13/a-markdown-file-should-just-open/)
 * [2026-10-22, 05:23:11](https://news.ycombinator.com/item?id=50191507) - [OpenAI CLI](https://github.com/openai/openai-cli)
 * [2026-10-22, 03:47:37](https://news.ycombinator.com/item?id=50190959) - [I can't believe PowerShell is good](https://www.spacebar.news/powershell-is-actually-good/)
 * [2026-10-22, 02:30:52](https://news.ycombinator.com/item?id=50190455) - [The recently proposed O(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
