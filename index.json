@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-10-22, 18:44:36",
+      "https://news.ycombinator.com/item?id=50199389"
+    ],
+    [
+      "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "https://github.com/maxilevi/project-hedra/tree/pre-ai"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 18:32:57",
+      "https://news.ycombinator.com/item?id=50199290"
+    ],
+    [
+      "Show HN: UI micro interactions prompts for AI",
+      "https://www.typeui.sh/micro-interactions"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 18:28:26",
+      "https://news.ycombinator.com/item?id=50199232"
+    ],
+    [
+      "Award-Winning AI Literature",
+      "https://jamesyu.org/award-winning-ai-literature/"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 18:28:16",
+      "https://news.ycombinator.com/item?id=50199230"
+    ],
+    [
+      "AI and the Enclosure of the Scientific Commons",
+      "https://arxiv.org/abs/2610.27251"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 18:02:54",
       "https://news.ycombinator.com/item?id=50198940"
     ],
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-10-22, 11:50:36",
-      "https://news.ycombinator.com/item?id=50194070"
-    ],
-    [
-      "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
-      "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/"
-    ]
-  ],
-  [
-    [
       "2026-10-22, 09:31:18",
       "https://news.ycombinator.com/item?id=50193170"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2026-10-21, 19:14:01",
-      "https://news.ycombinator.com/item?id=50186037"
-    ],
-    [
-      "Claude Duet",
-      "https://claude.com/product/claude-duet"
-    ]
-  ],
-  [
-    [
       "2026-10-21, 13:04:25",
       "https://news.ycombinator.com/item?id=50180257"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-10-20, 11:24:10",
-      "https://news.ycombinator.com/item?id=50164611"
-    ],
-    [
-      "Templates for Woven Christmas Hearts",
-      "https://juleflet.dk/en/"
-    ]
-  ],
-  [
-    [
       "2026-10-19, 20:12:49",
       "https://news.ycombinator.com/item?id=50157456"
     ],
     [
       "Startup taps underwater volcano as energy source in \"proof point\" test",
       "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 20:02:03",
-      "https://news.ycombinator.com/item?id=50157316"
-    ],
-    [
-      "Eigenmoon: linear algebra puzzles by moonlight",
-      "https://eigenmoon.vercel.app/"
     ]
   ],
   [
