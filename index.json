@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-22, 11:50:36",
+      "https://news.ycombinator.com/item?id=50194070"
+    ],
+    [
+      "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 11:42:03",
+      "https://news.ycombinator.com/item?id=50194009"
+    ],
+    [
+      "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 11:12:37",
       "https://news.ycombinator.com/item?id=50193804"
     ],
@@ -77,16 +97,6 @@
     [
       "mitmproxy adds --emudhra option",
       "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 23:13:27",
-      "https://news.ycombinator.com/item?id=50188948"
-    ],
-    [
-      "There isn't an easy exploit for this PHP vulnerability",
-      "https://eliastaylor.com/noexploit/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Startup taps underwater volcano as energy source in \"proof point\" test",
       "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 20:02:03",
-      "https://news.ycombinator.com/item?id=50157316"
-    ],
-    [
-      "Eigenmoon: linear algebra puzzles by moonlight",
-      "https://eigenmoon.vercel.app/"
     ]
   ],
   [
