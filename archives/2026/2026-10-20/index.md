@@ -71,6 +71,7 @@
 * [2026-10-20, 04:55:36](https://news.ycombinator.com/item?id=50161505) - [Americans Are Spending More Money to Drive Worse Cars](https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/)
 * [2026-10-20, 04:37:43](https://news.ycombinator.com/item?id=50161408) - [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/)
 * [2026-10-20, 04:27:08](https://news.ycombinator.com/item?id=50161346) - [No More Icons in Every Menu by Default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
+* [2026-10-20, 04:16:10](https://news.ycombinator.com/item?id=50161283) - [ThinkPad I9990303 Error Catch-22](http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/)
 * [2026-10-20, 04:02:26](https://news.ycombinator.com/item?id=50161207) - [U.S. Supreme Court to review 1868 federal ban on home distilling of liquor](https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/)
 * [2026-10-20, 03:51:43](https://news.ycombinator.com/item?id=50161144) - [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/)
 * [2026-10-20, 03:25:47](https://news.ycombinator.com/item?id=50160988) - [Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages](https://www.jhiblog.org/2026/10/19/clockwork-metaphors/)
