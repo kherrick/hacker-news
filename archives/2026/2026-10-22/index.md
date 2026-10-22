@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 14:32:38](https://news.ycombinator.com/item?id=50195959) - [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
 * [2026-10-22, 14:08:12](https://news.ycombinator.com/item?id=50195543) - [What's Getting Pwned](https://pwn.watch/)
 * [2026-10-22, 13:33:39](https://news.ycombinator.com/item?id=50195110) - [eMudhra to Exit Global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
 * [2026-10-22, 13:20:13](https://news.ycombinator.com/item?id=50194938) - [Crystal 1.22.0 Is Released](https://crystal-lang.org/2026/10/12/1.22.0-released/)

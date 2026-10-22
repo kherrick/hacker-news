@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-22, 14:32:38](https://news.ycombinator.com/item?id=50195959) - [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
 * [2026-10-22, 14:08:12](https://news.ycombinator.com/item?id=50195543) - [What's Getting Pwned](https://pwn.watch/)
 * [2026-10-22, 13:33:39](https://news.ycombinator.com/item?id=50195110) - [eMudhra to Exit Global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
 * [2026-10-22, 13:20:13](https://news.ycombinator.com/item?id=50194938) - [Crystal 1.22.0 Is Released](https://crystal-lang.org/2026/10/12/1.22.0-released/)
-* [2026-10-22, 13:11:00](https://news.ycombinator.com/item?id=50194833) - [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html)
 * [2026-10-22, 13:09:33](https://news.ycombinator.com/item?id=50194824) - [SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/)
 * [2026-10-22, 12:40:04](https://news.ycombinator.com/item?id=50194522) - [The Last Museum: Semantic search across 5.8M artworks from major museums](https://lastmuseum.com/)
 * [2026-10-22, 11:50:36](https://news.ycombinator.com/item?id=50194070) - [Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/)
