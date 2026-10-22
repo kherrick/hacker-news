@@ -2,6 +2,7 @@
 
 * [2026-10-22, 03:47:37](https://news.ycombinator.com/item?id=50190959) - [I can't believe PowerShell is good](https://www.spacebar.news/powershell-is-actually-good/)
 * [2026-10-22, 02:30:52](https://news.ycombinator.com/item?id=50190455) - [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
+* [2026-10-22, 02:18:41](https://news.ycombinator.com/item?id=50190363) - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
 * [2026-10-22, 02:13:48](https://news.ycombinator.com/item?id=50190334) - [LLM agents play Pokemon showdown](https://olivergrabner.com/research/pokemon/)
 * [2026-10-21, 23:51:37](https://news.ycombinator.com/item?id=50189232) - [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
 * [2026-10-21, 23:13:27](https://news.ycombinator.com/item?id=50188948) - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
@@ -19,8 +20,7 @@
 * [2026-10-21, 14:00:26](https://news.ycombinator.com/item?id=50181114) - [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
 * [2026-10-21, 13:45:33](https://news.ycombinator.com/item?id=50180873) - [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
 * [2026-10-21, 12:53:11](https://news.ycombinator.com/item?id=50180079) - [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud/)
-* [2026-10-21, 09:08:08](https://news.ycombinator.com/item?id=50177916) - [Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
-* [2026-10-21, 06:42:12](https://news.ycombinator.com/item?id=50176908) - [Launch HN: Alter (YC S25) – Access control for multi-user agents](https://alterauth.com/)
+* [2026-10-21, 11:34:41](https://news.ycombinator.com/item?id=50179168) - [Show HN:Odd Orbit, live 3D globe of quakes, weather, satellites and UFO reports](https://oddorbit.app/)
 * [2026-10-21, 04:27:51](https://news.ycombinator.com/item?id=50176082) - [Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html)
 * [2026-10-20, 22:45:39](https://news.ycombinator.com/item?id=50173716) - [PingCap TiDB Leaks](https://fulcrumsec.vg/pingcap/)
 * [2026-10-20, 13:59:11](https://news.ycombinator.com/item?id=50166590) - [Beyond the &](https://lwn.net/Articles/1096028/)
