@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-22, 07:21:52",
+      "https://news.ycombinator.com/item?id=50192254"
+    ],
+    [
+      "A Markdown File Should Just Open",
+      "https://joshuamorris.info/notes/2026/10/13/a-markdown-file-should-just-open/"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 05:23:11",
       "https://news.ycombinator.com/item?id=50191507"
     ],
@@ -57,16 +67,6 @@
     [
       "There isn't an easy exploit for this PHP vulnerability",
       "https://eliastaylor.com/noexploit/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 22:33:08",
-      "https://news.ycombinator.com/item?id=50188614"
-    ],
-    [
-      "Postgres recovery_prefetch can cause outages",
-      "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/"
     ]
   ],
   [
