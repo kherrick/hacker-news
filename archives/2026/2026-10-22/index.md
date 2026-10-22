@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 09:31:18](https://news.ycombinator.com/item?id=50193170) - [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
 * [2026-10-22, 08:51:31](https://news.ycombinator.com/item?id=50192900) - [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
+* [2026-10-22, 08:46:58](https://news.ycombinator.com/item?id=50192868) - [Achieving AI-style reasoning without an LLM](https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/)
 * [2026-10-22, 08:09:22](https://news.ycombinator.com/item?id=50192585) - [Show HN: The fastest browser for AI agents to run browser automation](https://ego-lite.apposters.com)
 * [2026-10-22, 07:21:52](https://news.ycombinator.com/item?id=50192254) - [A Markdown File Should Just Open](https://joshuamorris.info/notes/2026/10/13/a-markdown-file-should-just-open/)
 * [2026-10-22, 05:23:11](https://news.ycombinator.com/item?id=50191507) - [OpenAI CLI](https://github.com/openai/openai-cli)
