@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-10-21, 13:45:33",
-      "https://news.ycombinator.com/item?id=50180873"
-    ],
-    [
-      "PHP 8.2.35",
-      "https://github.com/php/php-src/releases/tag/php-8.2.35"
-    ]
-  ],
-  [
-    [
       "2026-10-21, 12:53:11",
       "https://news.ycombinator.com/item?id=50180079"
     ],
@@ -297,6 +287,16 @@
     [
       "Code is clay now",
       "https://www.albertodenia.com/writing/code-is-clay-now"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 14:45:45",
+      "https://news.ycombinator.com/item?id=50153125"
+    ],
+    [
+      "I can't use generic lambdas at compile-time, now what?",
+      "https://blog.ganets.ky/ClangGenericLambdas/"
     ]
   ]
 ]
