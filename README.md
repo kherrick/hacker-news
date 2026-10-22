@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-22, 00:48:10](https://news.ycombinator.com/item?id=50189666) - [The era of speedball capitalism has dawned](https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned)
 * [2026-10-21, 23:57:41](https://news.ycombinator.com/item?id=50189278) - [When Do We Become the Person We Ought to Be?](https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought)
 * [2026-10-21, 23:51:37](https://news.ycombinator.com/item?id=50189232) - [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
 * [2026-10-21, 23:41:35](https://news.ycombinator.com/item?id=50189175) - [Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed](https://bloffy.co/en)
 * [2026-10-21, 23:38:32](https://news.ycombinator.com/item?id=50189150) - [Airbnb bans making guests do dishes and take out the trash](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)
 * [2026-10-21, 23:22:21](https://news.ycombinator.com/item?id=50189023) - [Κ = 0.003 for integer multiplication crossed](https://github.com/CrocSwap/integer-mult-bounds/pull/4441)
 * [2026-10-21, 23:13:27](https://news.ycombinator.com/item?id=50188948) - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
-* [2026-10-21, 22:32:45](https://news.ycombinator.com/item?id=50188612) - [Qpack amplification attacks against HTTP/3 servers](https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers)
 * [2026-10-21, 21:58:03](https://news.ycombinator.com/item?id=50188228) - [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 * [2026-10-21, 21:12:59](https://news.ycombinator.com/item?id=50187708) - [PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
 * [2026-10-21, 19:14:01](https://news.ycombinator.com/item?id=50186037) - [Claude Duet](https://claude.com/product/claude-duet)
