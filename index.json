@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2026-10-21, 13:45:33",
+      "https://news.ycombinator.com/item?id=50180873"
+    ],
+    [
+      "PHP 8.2.35",
+      "https://github.com/php/php-src/releases/tag/php-8.2.35"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 13:40:31",
       "https://news.ycombinator.com/item?id=50180799"
     ],
@@ -287,16 +297,6 @@
     [
       "Code is clay now",
       "https://www.albertodenia.com/writing/code-is-clay-now"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 14:25:57",
-      "https://news.ycombinator.com/item?id=50152912"
-    ],
-    [
-      "Show HN: Can you tell an AI's real 30-day memory from a fabricated one?",
-      "https://kairos-experiment.com/distinguish.html"
     ]
   ]
 ]
