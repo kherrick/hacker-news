@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 19:14:01](https://news.ycombinator.com/item?id=50199757) - [eMudhra logins can be bruteforced](https://mastodon.catgirl.cloud/@49016/117475976434068995)
 * [2026-10-22, 18:44:36](https://news.ycombinator.com/item?id=50199389) - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
 * [2026-10-22, 18:39:39](https://news.ycombinator.com/item?id=50199349) - [Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest](https://3d.camilleworld.com/play/)
 * [2026-10-22, 18:32:57](https://news.ycombinator.com/item?id=50199290) - [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
