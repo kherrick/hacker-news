@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-10-22, 02:13:48",
+      "https://news.ycombinator.com/item?id=50190334"
+    ],
+    [
+      "LLM Agents Play Pokemon Showdown",
+      "https://olivergrabner.com/research/pokemon/"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 00:48:10",
       "https://news.ycombinator.com/item?id=50189666"
     ],
     [
-      "The era of speedball capitalism has dawned",
+      "The era of speedball capitalism",
       "https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned"
     ]
   ],
@@ -65,18 +75,8 @@
       "https://news.ycombinator.com/item?id=50188228"
     ],
     [
-      "Railway Security Disclosure",
+      "Security Disclosure",
       "https://blog.railway.com/p/security-disclosure-wednesday-october-21st"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 21:12:59",
-      "https://news.ycombinator.com/item?id=50187708"
-    ],
-    [
-      "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-      "https://aws.amazon.com/security/security-bulletins/2026-143-aws/"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=50186010"
     ],
     [
-      "Google's Rust Style Guide",
+      "Rust Style Guide",
       "https://google.github.io/styleguide/rustguide.html"
     ]
   ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-10-21, 13:37:00",
-      "https://news.ycombinator.com/item?id=50180752"
-    ],
-    [
-      "Using thousands of AI agents to uncover new leads in biological data",
-      "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
-    ]
-  ],
-  [
-    [
       "2026-10-21, 12:53:11",
       "https://news.ycombinator.com/item?id=50180079"
     ],
@@ -227,6 +217,16 @@
     [
       "Launch HN: Alter (YC S25) – Access control for multi-user agents",
       "https://alterauth.com/"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 22:45:39",
+      "https://news.ycombinator.com/item?id=50173716"
+    ],
+    [
+      "PingCap TiDB Leaks",
+      "https://fulcrumsec.vg/pingcap/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=50161346"
     ],
     [
-      "No More Icons in Every Menu by Default",
+      "No more icons in every menu by default",
       "https://blog.jim-nielsen.com/2026/icons-in-every-menu/"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-10-19, 14:20:04",
-      "https://news.ycombinator.com/item?id=50152847"
+      "2026-10-19, 13:06:21",
+      "https://news.ycombinator.com/item?id=50151971"
     ],
     [
-      "The Rise and Fall of the Plasma Screen",
-      "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen"
+      "Honey, I shrunk the TV",
+      "https://cakehonolulu.github.io/honey-i-shrunk-the-tv/"
     ]
   ]
 ]
