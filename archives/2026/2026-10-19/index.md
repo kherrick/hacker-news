@@ -25,6 +25,7 @@
 * [2026-10-19, 18:36:00](https://news.ycombinator.com/item?id=50156132) - [Cloud of suspicion lifted from NIST curves](https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/)
 * [2026-10-19, 18:05:53](https://news.ycombinator.com/item?id=50155751) - [C++ futures part 1: The mental model](https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/)
 * [2026-10-19, 17:58:54](https://news.ycombinator.com/item?id=50155647) - [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)
+* [2026-10-19, 17:57:18](https://news.ycombinator.com/item?id=50155616) - [The Robot I Didn't Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)
 * [2026-10-19, 17:30:26](https://news.ycombinator.com/item?id=50155291) - [Europe EV sales rose 70.3% in September, 32.6% of market share](https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/)
 * [2026-10-19, 17:27:11](https://news.ycombinator.com/item?id=50155245) - [Inception \"Mercury 3\", 1000 tok/s diffusion LLM](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
 * [2026-10-19, 17:26:38](https://news.ycombinator.com/item?id=50155237) - [Ukraine carries out aerial drone evacuation of a wounded soldier](https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html)
