@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-10-22, 03:47:37",
-      "https://news.ycombinator.com/item?id=50190959"
-    ],
-    [
-      "I can't believe PowerShell is good",
-      "https://www.spacebar.news/powershell-is-actually-good/"
-    ]
-  ],
-  [
-    [
       "2026-10-22, 02:30:52",
       "https://news.ycombinator.com/item?id=50190455"
     ],
@@ -37,16 +27,6 @@
     [
       "WorldTUI: I trained a 360M model to pretend to be a terminal",
       "https://simedw.com/2026/10/21/world-model-terminal/"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 02:13:48",
-      "https://news.ycombinator.com/item?id=50190334"
-    ],
-    [
-      "LLM agents play Pokemon showdown",
-      "https://olivergrabner.com/research/pokemon/"
     ]
   ],
   [
@@ -121,6 +101,16 @@
   ],
   [
     [
+      "2026-10-21, 17:29:33",
+      "https://news.ycombinator.com/item?id=50184586"
+    ],
+    [
+      "EA is shutting down BioWare",
+      "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 16:44:53",
       "https://news.ycombinator.com/item?id=50183892"
     ],
@@ -177,6 +167,16 @@
     [
       "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 13:45:33",
+      "https://news.ycombinator.com/item?id=50180873"
+    ],
+    [
+      "PHP 8.2.35",
+      "https://github.com/php/php-src/releases/tag/php-8.2.35"
     ]
   ],
   [
