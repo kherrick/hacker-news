@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-22, 05:23:11",
+      "https://news.ycombinator.com/item?id=50191507"
+    ],
+    [
+      "OpenAI CLI",
+      "https://github.com/openai/openai-cli"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 03:47:37",
       "https://news.ycombinator.com/item?id=50190959"
     ],
@@ -167,16 +177,6 @@
     [
       "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 13:45:33",
-      "https://news.ycombinator.com/item?id=50180873"
-    ],
-    [
-      "PHP 8.2.35",
-      "https://github.com/php/php-src/releases/tag/php-8.2.35"
     ]
   ],
   [
