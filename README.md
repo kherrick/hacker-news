@@ -24,12 +24,12 @@
 * [2026-10-20, 13:59:11](https://news.ycombinator.com/item?id=50166590) - [Beyond the &](https://lwn.net/Articles/1096028/)
 * [2026-10-20, 06:20:54](https://news.ycombinator.com/item?id=50162044) - [Tiny possum and glider thought extinct for 6000 years found in remote West Papua](https://www.bbc.com/news/articles/cp814l80pw2o)
 * [2026-10-20, 04:27:08](https://news.ycombinator.com/item?id=50161346) - [No more icons in every menu by default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
-* [2026-10-20, 04:16:10](https://news.ycombinator.com/item?id=50161283) - [ThinkPad I9990303 Error Catch-22](http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/)
 * [2026-10-20, 01:26:53](https://news.ycombinator.com/item?id=50160241) - [What Is the Karakoram Anomaly?](https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real)
 * [2026-10-19, 20:12:49](https://news.ycombinator.com/item?id=50157456) - [Startup taps underwater volcano as energy source in \"proof point\" test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
+* [2026-10-19, 20:02:03](https://news.ycombinator.com/item?id=50157316) - [Eigenmoon: linear algebra puzzles by moonlight](https://eigenmoon.vercel.app/)
 * [2026-10-19, 17:57:18](https://news.ycombinator.com/item?id=50155616) - [The Robot I Didn't Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)
-* [2026-10-19, 16:06:22](https://news.ycombinator.com/item?id=50154100) - [Chain of Thought for Humans](https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/)
 * [2026-10-19, 15:19:45](https://news.ycombinator.com/item?id=50153531) - [Code is clay now](https://www.albertodenia.com/writing/code-is-clay-now)
+* [2026-10-19, 09:13:12](https://news.ycombinator.com/item?id=50150163) - [What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation)
 
 ## [Archives](archives/index.md)
 
