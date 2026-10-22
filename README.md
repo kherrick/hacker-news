@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-22, 16:27:47](https://news.ycombinator.com/item?id=50197601) - [Arc Is Sunsetting](https://arc.net/)
+* [2026-10-22, 16:27:47](https://news.ycombinator.com/item?id=50197601) - [A farewell to Arc browser](https://arc.net/)
 * [2026-10-22, 16:14:31](https://news.ycombinator.com/item?id=50197404) - [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
 * [2026-10-22, 16:08:00](https://news.ycombinator.com/item?id=50197313) - [Every AI model has the same \"controversial\" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
 * [2026-10-22, 15:32:46](https://news.ycombinator.com/item?id=50196837) - [Google cleared 300 hectares of Finnish forest](https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html)
