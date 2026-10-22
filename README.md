@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-22, 16:57:56](https://news.ycombinator.com/item?id=50198056) - [The public notebook of a Claude agent with a continuous life](https://intenex.github.io/personhood/)
 * [2026-10-22, 16:27:47](https://news.ycombinator.com/item?id=50197601) - [Arc Is Sunsetting](https://arc.net/)
 * [2026-10-22, 16:14:31](https://news.ycombinator.com/item?id=50197404) - [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
 * [2026-10-22, 16:08:00](https://news.ycombinator.com/item?id=50197313) - [Every AI model has the same \"controversial\" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
@@ -26,6 +25,7 @@
 * [2026-10-20, 04:27:08](https://news.ycombinator.com/item?id=50161346) - [No more icons in every menu by default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
 * [2026-10-19, 20:12:49](https://news.ycombinator.com/item?id=50157456) - [Startup taps underwater volcano as energy source in \"proof point\" test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
 * [2026-10-19, 20:02:03](https://news.ycombinator.com/item?id=50157316) - [Eigenmoon: linear algebra puzzles by moonlight](https://eigenmoon.vercel.app/)
+* [2026-10-19, 19:21:56](https://news.ycombinator.com/item?id=50156779) - [Show HN: Dovepass – can I legally fly a drone along this exact path in SF?](https://dovepass.com)
 * [2026-10-19, 16:09:10](https://news.ycombinator.com/item?id=50154147) - [Pentulive (Puppy Live) [video]](https://yle.fi/t/18-332106/fi)
 * [2026-10-19, 16:06:40](https://news.ycombinator.com/item?id=50154109) - [Dungeon Generation in the Gnomish Mines of NetHack](https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/)
 * [2026-10-19, 09:13:12](https://news.ycombinator.com/item?id=50150163) - [What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation)
