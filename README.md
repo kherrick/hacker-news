@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-22, 19:14:01](https://news.ycombinator.com/item?id=50199757) - [A complete bypass of eMudhra’s 1FA OTP login system](https://mastodon.catgirl.cloud/@49016/117475976434068995)
+* [2026-10-22, 21:38:32](https://news.ycombinator.com/item?id=50201414) - [Railpass](https://train.samismith.com/)
+* [2026-10-22, 21:03:55](https://news.ycombinator.com/item?id=50200997) - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)
 * [2026-10-22, 18:44:36](https://news.ycombinator.com/item?id=50199389) - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
 * [2026-10-22, 18:32:57](https://news.ycombinator.com/item?id=50199290) - [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
 * [2026-10-22, 18:28:26](https://news.ycombinator.com/item?id=50199232) - [Award-winning AI literature](https://jamesyu.org/award-winning-ai-literature/)
@@ -17,7 +18,7 @@
 * [2026-10-22, 14:08:12](https://news.ycombinator.com/item?id=50195543) - [What’s getting pwned right now](https://pwn.watch/)
 * [2026-10-22, 13:33:39](https://news.ycombinator.com/item?id=50195110) - [eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
 * [2026-10-22, 13:11:00](https://news.ycombinator.com/item?id=50194833) - [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html)
-* [2026-10-22, 12:40:04](https://news.ycombinator.com/item?id=50194522) - [The Last Museum: Semantic search across 5.8M artworks from major museums](https://lastmuseum.com/)
+* [2026-10-22, 13:03:14](https://news.ycombinator.com/item?id=50194762) - [Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress](https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/)
 * [2026-10-22, 11:42:03](https://news.ycombinator.com/item?id=50194009) - [Xbox wants you to pay 24 to 40 cents per hour to stream games you bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/)
 * [2026-10-22, 10:11:44](https://news.ycombinator.com/item?id=50193416) - [Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.](https://news.ycombinator.com/item?id=50193416)
 * [2026-10-22, 09:31:18](https://news.ycombinator.com/item?id=50193170) - [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
@@ -27,7 +28,6 @@
 * [2026-10-20, 21:32:23](https://news.ycombinator.com/item?id=50172984) - [Show HN: Turn regular JavaScript into a neural net](https://chenglou.me/handwired/)
 * [2026-10-20, 21:05:16](https://news.ycombinator.com/item?id=50172660) - [The phenomena that brighten dawn and dusk (2016)](https://www.colorado.edu/asmagazine-archive/node/2039)
 * [2026-10-20, 14:48:34](https://news.ycombinator.com/item?id=50167267) - [Solving the 1950 cipher meant to test life after death](https://creilly11235.github.io/wood-cryptogram-1950/)
-* [2026-10-19, 20:12:49](https://news.ycombinator.com/item?id=50157456) - [Startup taps underwater volcano as energy source in “proof point” test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
 * [2026-10-19, 16:06:40](https://news.ycombinator.com/item?id=50154109) - [Dungeon Generation in the Gnomish Mines of NetHack](https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/)
 * [2026-10-19, 09:13:12](https://news.ycombinator.com/item?id=50150163) - [What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 21:38:32](https://news.ycombinator.com/item?id=50201414) - [Railpass](https://train.samismith.com/)
+* [2026-10-22, 21:03:55](https://news.ycombinator.com/item?id=50200997) - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)
 * [2026-10-22, 20:59:38](https://news.ycombinator.com/item?id=50200947) - [Arc is being sunset on December 22, 2026](https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes)
 * [2026-10-22, 19:14:01](https://news.ycombinator.com/item?id=50199757) - [eMudhra logins can be bruteforced](https://mastodon.catgirl.cloud/@49016/117475976434068995)
 * [2026-10-22, 18:44:36](https://news.ycombinator.com/item?id=50199389) - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
@@ -30,6 +32,7 @@
 * [2026-10-22, 13:17:29](https://news.ycombinator.com/item?id=50194909) - [eMudhra to Exit Global SSL/TLS Certificate Business;](https://news.ycombinator.com/item?id=50194909)
 * [2026-10-22, 13:11:00](https://news.ycombinator.com/item?id=50194833) - [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html)
 * [2026-10-22, 13:09:33](https://news.ycombinator.com/item?id=50194824) - [SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/)
+* [2026-10-22, 13:03:14](https://news.ycombinator.com/item?id=50194762) - [Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress](https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/)
 * [2026-10-22, 12:40:04](https://news.ycombinator.com/item?id=50194522) - [The Last Museum: Semantic search across 5.8M artworks from major museums](https://lastmuseum.com/)
 * [2026-10-22, 11:50:36](https://news.ycombinator.com/item?id=50194070) - [Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/)
 * [2026-10-22, 11:42:03](https://news.ycombinator.com/item?id=50194009) - [Xbox wants you to pay 24 to 40 cents per hour to stream games you bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/)
