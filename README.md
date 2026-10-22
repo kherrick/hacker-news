@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-22, 15:32:46](https://news.ycombinator.com/item?id=50196837) - [Google cleared 300 hectares of Finnish forest](https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html)
+* [2026-10-22, 15:26:22](https://news.ycombinator.com/item?id=50196718) - [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
 * [2026-10-22, 14:32:38](https://news.ycombinator.com/item?id=50195959) - [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
 * [2026-10-22, 14:26:40](https://news.ycombinator.com/item?id=50195873) - [MPs moving to restrict gambling ads in Canada amid mounting harms](https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888)
 * [2026-10-22, 14:08:12](https://news.ycombinator.com/item?id=50195543) - [What's Getting Pwned](https://pwn.watch/)
@@ -22,7 +23,6 @@
 * [2026-10-21, 13:04:25](https://news.ycombinator.com/item?id=50180257) - [Show HN: Uberblok – an interactive museum of ZFS internals](https://uberblok.storagebits.workers.dev/)
 * [2026-10-21, 04:27:51](https://news.ycombinator.com/item?id=50176082) - [Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html)
 * [2026-10-20, 23:09:43](https://news.ycombinator.com/item?id=50173944) - [The painter behind Manhattan’s Gilded Age interiors](https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/)
-* [2026-10-20, 22:45:39](https://news.ycombinator.com/item?id=50173716) - [PingCap TiDB Leaks](https://fulcrumsec.vg/pingcap/)
 * [2026-10-20, 04:27:08](https://news.ycombinator.com/item?id=50161346) - [No more icons in every menu by default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
 * [2026-10-19, 20:12:49](https://news.ycombinator.com/item?id=50157456) - [Startup taps underwater volcano as energy source in \"proof point\" test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
 * [2026-10-19, 20:02:03](https://news.ycombinator.com/item?id=50157316) - [Eigenmoon: linear algebra puzzles by moonlight](https://eigenmoon.vercel.app/)
