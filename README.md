@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-21, 23:57:41](https://news.ycombinator.com/item?id=50189278) - [When Do We Become the Person We Ought to Be?](https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought)
 * [2026-10-21, 23:51:37](https://news.ycombinator.com/item?id=50189232) - [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
 * [2026-10-21, 23:38:32](https://news.ycombinator.com/item?id=50189150) - [Airbnb bans making guests do dishes and take out the trash](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)
 * [2026-10-21, 23:22:21](https://news.ycombinator.com/item?id=50189023) - [Κ = 0.003 for integer multiplication crossed](https://github.com/CrocSwap/integer-mult-bounds/pull/4441)
@@ -7,7 +8,6 @@
 * [2026-10-21, 22:32:45](https://news.ycombinator.com/item?id=50188612) - [Qpack amplification attacks against HTTP/3 servers](https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers)
 * [2026-10-21, 21:58:03](https://news.ycombinator.com/item?id=50188228) - [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 * [2026-10-21, 21:12:59](https://news.ycombinator.com/item?id=50187708) - [PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
-* [2026-10-21, 21:08:59](https://news.ycombinator.com/item?id=50187659) - [CleanFrame: A quieter home screen for Samsung The Frame](https://github.com/nthnclrk/CleanFrame)
 * [2026-10-21, 19:14:01](https://news.ycombinator.com/item?id=50186037) - [Claude Duet](https://claude.com/product/claude-duet)
 * [2026-10-21, 19:11:57](https://news.ycombinator.com/item?id=50186010) - [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
 * [2026-10-21, 19:01:12](https://news.ycombinator.com/item?id=50185869) - [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
@@ -27,7 +27,7 @@
 * [2026-10-20, 06:20:54](https://news.ycombinator.com/item?id=50162044) - [Tiny possum and glider thought extinct for 6000 years found in remote West Papua](https://www.bbc.com/news/articles/cp814l80pw2o)
 * [2026-10-20, 04:27:08](https://news.ycombinator.com/item?id=50161346) - [No More Icons in Every Menu by Default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
 * [2026-10-20, 00:14:03](https://news.ycombinator.com/item?id=50159726) - [Why Windows 11 still ships with Windows 95's memory manager hidden inside it](https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/)
-* [2026-10-19, 21:38:02](https://news.ycombinator.com/item?id=50158408) - [Drupal is now light-years ahead of its reputation](https://dri.es/state-of-drupal-presentation-september-2026)
+* [2026-10-19, 16:06:22](https://news.ycombinator.com/item?id=50154100) - [Chain of Thought for Humans](https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/)
 * [2026-10-19, 15:19:45](https://news.ycombinator.com/item?id=50153531) - [Code is clay now](https://www.albertodenia.com/writing/code-is-clay-now)
 * [2026-10-19, 14:20:04](https://news.ycombinator.com/item?id=50152847) - [The Rise and Fall of the Plasma Screen](https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen)
 
