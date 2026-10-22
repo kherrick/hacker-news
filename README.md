@@ -2,13 +2,11 @@
 
 * [2026-10-22, 21:38:32](https://news.ycombinator.com/item?id=50201414) - [Railpass](https://train.samismith.com/)
 * [2026-10-22, 21:24:41](https://news.ycombinator.com/item?id=50201259) - [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
-* [2026-10-22, 21:03:55](https://news.ycombinator.com/item?id=50200997) - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)
 * [2026-10-22, 18:44:36](https://news.ycombinator.com/item?id=50199389) - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
 * [2026-10-22, 18:32:57](https://news.ycombinator.com/item?id=50199290) - [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
 * [2026-10-22, 18:28:26](https://news.ycombinator.com/item?id=50199232) - [Award-winning AI literature](https://jamesyu.org/award-winning-ai-literature/)
 * [2026-10-22, 18:28:16](https://news.ycombinator.com/item?id=50199230) - [AI and the Enclosure of the Scientific Commons](https://arxiv.org/abs/2610.27251)
 * [2026-10-22, 18:02:54](https://news.ycombinator.com/item?id=50198940) - [AI analysis of CT scans finds 42.9% of patients have coronary inflammation](https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients)
-* [2026-10-22, 18:02:38](https://news.ycombinator.com/item?id=50198936) - [Show HN: agent-usage-guard – a Claude Code mod to protect your usage window](https://github.com/rbartoli/agent-usage-guard)
 * [2026-10-22, 17:44:06](https://news.ycombinator.com/item?id=50198675) - [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
 * [2026-10-22, 16:27:47](https://news.ycombinator.com/item?id=50197601) - [A farewell to Arc browser](https://arc.net/)
 * [2026-10-22, 16:16:45](https://news.ycombinator.com/item?id=50197450) - [Mini brain organoids ‘reading’ Braille key step towards biohybrid computing](https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence)
@@ -28,7 +26,9 @@
 * [2026-10-21, 13:04:25](https://news.ycombinator.com/item?id=50180257) - [Show HN: Uberblok – an interactive museum of ZFS internals](https://uberblok.storagebits.workers.dev/)
 * [2026-10-20, 21:32:23](https://news.ycombinator.com/item?id=50172984) - [Show HN: Turn regular JavaScript into a neural net](https://chenglou.me/handwired/)
 * [2026-10-20, 21:05:16](https://news.ycombinator.com/item?id=50172660) - [The phenomena that brighten dawn and dusk (2016)](https://www.colorado.edu/asmagazine-archive/node/2039)
+* [2026-10-19, 20:12:49](https://news.ycombinator.com/item?id=50157456) - [Startup taps underwater volcano as energy source in “proof point” test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
 * [2026-10-19, 16:06:40](https://news.ycombinator.com/item?id=50154109) - [Dungeon Generation in the Gnomish Mines of NetHack](https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/)
+* [2026-10-19, 10:35:14](https://news.ycombinator.com/item?id=50150681) - [Speeding up code review with `small-change`](https://lethain.com/small-changes/)
 * [2026-10-19, 09:13:12](https://news.ycombinator.com/item?id=50150163) - [What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation)
 
 ## [Archives](archives/index.md)

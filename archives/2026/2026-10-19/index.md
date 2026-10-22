@@ -85,6 +85,7 @@
 * [2026-10-19, 11:07:21](https://news.ycombinator.com/item?id=50150908) - [Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks](https://clipjury.com/guides/ai-tool-terms-changed-2026/)
 * [2026-10-19, 10:53:39](https://news.ycombinator.com/item?id=50150809) - [Let's Encrypt is adding two additional remote perspectives for domain validation](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
 * [2026-10-19, 10:45:14](https://news.ycombinator.com/item?id=50150750) - [Documents: Police officer gave her Flock login to her ICE agent husband](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816)
+* [2026-10-19, 10:35:14](https://news.ycombinator.com/item?id=50150681) - [Speeding up code review with `small-change`](https://lethain.com/small-changes/)
 * [2026-10-19, 09:59:32](https://news.ycombinator.com/item?id=50150434) - [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/)
 * [2026-10-19, 09:21:34](https://news.ycombinator.com/item?id=50150214) - [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303)
 * [2026-10-19, 09:13:12](https://news.ycombinator.com/item?id=50150163) - [What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation)
