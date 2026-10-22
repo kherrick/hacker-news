@@ -6,6 +6,7 @@
 
 * [2026-10-21, 23:57:41](https://news.ycombinator.com/item?id=50189278) - [When Do We Become the Person We Ought to Be?](https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought)
 * [2026-10-21, 23:51:37](https://news.ycombinator.com/item?id=50189232) - [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
+* [2026-10-21, 23:41:35](https://news.ycombinator.com/item?id=50189175) - [Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed](https://bloffy.co/en)
 * [2026-10-21, 23:38:32](https://news.ycombinator.com/item?id=50189150) - [Airbnb bans making guests do dishes and take out the trash](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)
 * [2026-10-21, 23:22:21](https://news.ycombinator.com/item?id=50189023) - [Κ = 0.003 for integer multiplication crossed](https://github.com/CrocSwap/integer-mult-bounds/pull/4441)
 * [2026-10-21, 23:13:27](https://news.ycombinator.com/item?id=50188948) - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
