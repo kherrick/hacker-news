@@ -17,7 +17,6 @@
 * [2026-10-21, 15:48:56](https://news.ycombinator.com/item?id=50182987) - [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 * [2026-10-21, 14:01:22](https://news.ycombinator.com/item?id=50181136) - [DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200)
 * [2026-10-21, 14:00:26](https://news.ycombinator.com/item?id=50181114) - [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
-* [2026-10-21, 13:45:33](https://news.ycombinator.com/item?id=50180873) - [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
 * [2026-10-21, 12:53:11](https://news.ycombinator.com/item?id=50180079) - [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud/)
 * [2026-10-21, 04:27:51](https://news.ycombinator.com/item?id=50176082) - [Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html)
 * [2026-10-20, 22:45:39](https://news.ycombinator.com/item?id=50173716) - [PingCap TiDB Leaks](https://fulcrumsec.vg/pingcap/)
@@ -30,6 +29,7 @@
 * [2026-10-19, 17:57:18](https://news.ycombinator.com/item?id=50155616) - [The Robot I Didn't Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)
 * [2026-10-19, 16:06:22](https://news.ycombinator.com/item?id=50154100) - [Chain of Thought for Humans](https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/)
 * [2026-10-19, 15:19:45](https://news.ycombinator.com/item?id=50153531) - [Code is clay now](https://www.albertodenia.com/writing/code-is-clay-now)
+* [2026-10-19, 14:45:45](https://news.ycombinator.com/item?id=50153125) - [I can't use generic lambdas at compile-time, now what?](https://blog.ganets.ky/ClangGenericLambdas/)
 
 ## [Archives](archives/index.md)
 
