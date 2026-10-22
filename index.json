@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-10-22, 08:09:22",
-      "https://news.ycombinator.com/item?id=50192585"
-    ],
-    [
-      "Show HN: The fastest browser for AI agents to run browser automation",
-      "https://ego-lite.apposters.com"
-    ]
-  ],
-  [
-    [
       "2026-10-22, 05:23:11",
       "https://news.ycombinator.com/item?id=50191507"
     ],
@@ -47,6 +37,16 @@
     [
       "WorldTUI: I trained a 360M model to pretend to be a terminal",
       "https://simedw.com/2026/10/21/world-model-terminal/"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 02:17:58",
+      "https://news.ycombinator.com/item?id=50190357"
+    ],
+    [
+      "Claude Now Works with Google Docs, Sheets, and Slides",
+      "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-10-19, 17:57:18",
+      "https://news.ycombinator.com/item?id=50155616"
+    ],
+    [
+      "The Robot I Didn't Expect to Build",
+      "https://spectrum.ieee.org/agility-robotics-digit-5-redesign"
+    ]
+  ],
+  [
+    [
       "2026-10-19, 16:06:22",
       "https://news.ycombinator.com/item?id=50154100"
     ],
@@ -287,16 +297,6 @@
     [
       "Code is clay now",
       "https://www.albertodenia.com/writing/code-is-clay-now"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 14:45:45",
-      "https://news.ycombinator.com/item?id=50153125"
-    ],
-    [
-      "I can't use generic lambdas at compile-time, now what?",
-      "https://blog.ganets.ky/ClangGenericLambdas/"
     ]
   ]
 ]
