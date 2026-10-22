@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-22, 02:30:52](https://news.ycombinator.com/item?id=50190455) - [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
-* [2026-10-22, 02:13:48](https://news.ycombinator.com/item?id=50190334) - [LLM Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/)
-* [2026-10-22, 01:52:03](https://news.ycombinator.com/item?id=50190168) - [Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552)
+* [2026-10-22, 02:13:48](https://news.ycombinator.com/item?id=50190334) - [LLM agents play Pokemon showdown](https://olivergrabner.com/research/pokemon/)
+* [2026-10-22, 01:52:03](https://news.ycombinator.com/item?id=50190168) - [Epic Games Inc v Apple Inc](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552)
 * [2026-10-21, 23:51:37](https://news.ycombinator.com/item?id=50189232) - [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
 * [2026-10-21, 23:13:27](https://news.ycombinator.com/item?id=50188948) - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
 * [2026-10-21, 22:33:08](https://news.ycombinator.com/item?id=50188614) - [Postgres recovery_prefetch can cause outages](https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/)
