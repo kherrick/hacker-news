@@ -17,6 +17,7 @@
 * [2026-10-19, 20:50:08](https://news.ycombinator.com/item?id=50157865) - [One Hash Bloom Filters](https://calabro.io/ohbf)
 * [2026-10-19, 20:31:05](https://news.ycombinator.com/item?id=50157664) - [Germany's far-right AfD: half a million internal documents leaked](https://hexane.cc/)
 * [2026-10-19, 20:12:49](https://news.ycombinator.com/item?id=50157456) - [Startup taps underwater volcano as energy source in \"proof point\" test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
+* [2026-10-19, 20:02:03](https://news.ycombinator.com/item?id=50157316) - [Eigenmoon: linear algebra puzzles by moonlight](https://eigenmoon.vercel.app/)
 * [2026-10-19, 19:21:56](https://news.ycombinator.com/item?id=50156779) - [Show HN: Dovepass – can I legally fly a drone along this exact path in SF?](https://dovepass.com)
 * [2026-10-19, 19:19:33](https://news.ycombinator.com/item?id=50156744) - [The End of Rationing](https://sanketsaurav.com/writing/end-of-rationing)
 * [2026-10-19, 19:05:53](https://news.ycombinator.com/item?id=50156561) - [My Neighbor, Me, and a Grand Principle](https://lastwordonnothing.com/2026/10/19/my-neighbor-me-and-a-grand-principle/)

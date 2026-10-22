@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-22, 11:12:37](https://news.ycombinator.com/item?id=50193804) - [Several Linux kernel vulnerabilities accidentally posted to public mailing list](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities)
 * [2026-10-22, 09:31:18](https://news.ycombinator.com/item?id=50193170) - [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
 * [2026-10-22, 08:51:31](https://news.ycombinator.com/item?id=50192900) - [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
-* [2026-10-22, 08:46:58](https://news.ycombinator.com/item?id=50192868) - [Achieving AI-style reasoning without an LLM](https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/)
 * [2026-10-22, 08:01:52](https://news.ycombinator.com/item?id=50192536) - [Jailbreaking the Switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
 * [2026-10-22, 05:23:11](https://news.ycombinator.com/item?id=50191507) - [OpenAI CLI](https://github.com/openai/openai-cli)
 * [2026-10-22, 02:30:52](https://news.ycombinator.com/item?id=50190455) - [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
@@ -26,10 +26,10 @@
 * [2026-10-20, 04:16:10](https://news.ycombinator.com/item?id=50161283) - [ThinkPad I9990303 Error Catch-22](http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/)
 * [2026-10-20, 01:26:53](https://news.ycombinator.com/item?id=50160241) - [What Is the Karakoram Anomaly?](https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real)
 * [2026-10-19, 20:12:49](https://news.ycombinator.com/item?id=50157456) - [Startup taps underwater volcano as energy source in \"proof point\" test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
+* [2026-10-19, 20:02:03](https://news.ycombinator.com/item?id=50157316) - [Eigenmoon: linear algebra puzzles by moonlight](https://eigenmoon.vercel.app/)
 * [2026-10-19, 17:57:18](https://news.ycombinator.com/item?id=50155616) - [The Robot I Didn't Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)
 * [2026-10-19, 16:06:22](https://news.ycombinator.com/item?id=50154100) - [Chain of Thought for Humans](https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/)
 * [2026-10-19, 15:19:45](https://news.ycombinator.com/item?id=50153531) - [Code is clay now](https://www.albertodenia.com/writing/code-is-clay-now)
-* [2026-10-19, 14:45:45](https://news.ycombinator.com/item?id=50153125) - [I can't use generic lambdas at compile-time, now what?](https://blog.ganets.ky/ClangGenericLambdas/)
 
 ## [Archives](archives/index.md)
 
