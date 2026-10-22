@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 22:54:43](https://news.ycombinator.com/item?id=50202217) - [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
 * [2026-10-22, 22:18:40](https://news.ycombinator.com/item?id=50201860) - [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool)
 * [2026-10-22, 21:38:32](https://news.ycombinator.com/item?id=50201414) - [Railpass](https://train.samismith.com/)
 * [2026-10-22, 21:24:41](https://news.ycombinator.com/item?id=50201259) - [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)

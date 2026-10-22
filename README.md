@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-22, 22:54:43](https://news.ycombinator.com/item?id=50202217) - [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
 * [2026-10-22, 22:18:40](https://news.ycombinator.com/item?id=50201860) - [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool)
 * [2026-10-22, 21:38:32](https://news.ycombinator.com/item?id=50201414) - [Railpass](https://train.samismith.com/)
 * [2026-10-22, 21:24:41](https://news.ycombinator.com/item?id=50201259) - [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
@@ -23,10 +24,9 @@
 * [2026-10-22, 09:31:18](https://news.ycombinator.com/item?id=50193170) - [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
 * [2026-10-22, 08:01:52](https://news.ycombinator.com/item?id=50192536) - [Jailbreaking the Switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
 * [2026-10-21, 13:04:25](https://news.ycombinator.com/item?id=50180257) - [Show HN: Uberblok – an interactive museum of ZFS internals](https://uberblok.storagebits.workers.dev/)
-* [2026-10-21, 01:03:39](https://news.ycombinator.com/item?id=50174813) - [Show HN: An icon for every city in North America](https://evans.bike/naicons)
-* [2026-10-20, 21:32:23](https://news.ycombinator.com/item?id=50172984) - [Show HN: Turn regular JavaScript into a neural net](https://chenglou.me/handwired/)
 * [2026-10-20, 21:05:16](https://news.ycombinator.com/item?id=50172660) - [The phenomena that brighten dawn and dusk (2016)](https://www.colorado.edu/asmagazine-archive/node/2039)
 * [2026-10-20, 14:00:07](https://news.ycombinator.com/item?id=50166604) - [How to Design Flowers](https://www.asimov.press/p/flowers)
+* [2026-10-19, 20:12:49](https://news.ycombinator.com/item?id=50157456) - [Startup taps underwater volcano as energy source in “proof point” test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
 * [2026-10-19, 16:06:40](https://news.ycombinator.com/item?id=50154109) - [Dungeon Generation in the Gnomish Mines of NetHack](https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/)
 * [2026-10-19, 10:35:14](https://news.ycombinator.com/item?id=50150681) - [Speeding up code review with `small-change`](https://lethain.com/small-changes/)
 * [2026-10-19, 09:13:12](https://news.ycombinator.com/item?id=50150163) - [What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation)
