@@ -13,6 +13,7 @@
 * [2026-10-18, 21:09:12](https://news.ycombinator.com/item?id=50145507) - [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
 * [2026-10-18, 20:48:14](https://news.ycombinator.com/item?id=50145337) - [Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference](https://arxiv.org/abs/2610.18861)
 * [2026-10-18, 20:43:40](https://news.ycombinator.com/item?id=50145295) - [Netflix vmaf: Perceptual video quality assessment based on multi-method fusion](https://github.com/Netflix/vmaf)
+* [2026-10-18, 19:50:11](https://news.ycombinator.com/item?id=50144727) - [VMMouse for NT 3.x: QEMU/VMware mouse integration driver](https://github.com/rhargreaves/vmmouse-nt3)
 * [2026-10-18, 19:24:30](https://news.ycombinator.com/item?id=50144405) - [US threatens Europe over Starlink restrictions](https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa)
 * [2026-10-18, 19:02:11](https://news.ycombinator.com/item?id=50144175) - [Personal software factories are a waste of time](https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/)
 * [2026-10-18, 18:59:09](https://news.ycombinator.com/item?id=50144144) - [Tiny Brutalism – Thanks to HN it's on Steam](https://store.steampowered.com/app/5426130/Tiny_Brutalism/)
