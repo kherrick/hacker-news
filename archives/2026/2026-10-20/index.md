@@ -6,6 +6,7 @@
 
 * [2026-10-20, 23:55:03](https://news.ycombinator.com/item?id=50174317) - [LabRobotBench v0.1: Benchmarking wet lab robotics](https://gamowlabs.com/lab-robot-bench-v0-1)
 * [2026-10-20, 23:11:46](https://news.ycombinator.com/item?id=50173956) - [Cities Across the World Sinking from Groundwater Depletion: It Can Be Reversed](https://cleantechnica.com/2026/10/20/cities-across-the-world-are-sinking-because-of-groundwater-depletion-but-the-process-can-be-reversed/)
+* [2026-10-20, 23:09:43](https://news.ycombinator.com/item?id=50173944) - [The painter behind Manhattan’s Gilded Age interiors](https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/)
 * [2026-10-20, 23:04:09](https://news.ycombinator.com/item?id=50173891) - [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
 * [2026-10-20, 22:45:39](https://news.ycombinator.com/item?id=50173716) - [PingCap TiDB Leaks](https://fulcrumsec.vg/pingcap/)
 * [2026-10-20, 22:21:05](https://news.ycombinator.com/item?id=50173487) - [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)

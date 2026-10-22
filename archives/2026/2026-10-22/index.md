@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 13:17:29](https://news.ycombinator.com/item?id=50194909) - [eMudhra to Exit Global SSL/TLS Certificate Business;](https://news.ycombinator.com/item?id=50194909)
+* [2026-10-22, 13:11:00](https://news.ycombinator.com/item?id=50194833) - [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html)
 * [2026-10-22, 11:50:36](https://news.ycombinator.com/item?id=50194070) - [Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/)
 * [2026-10-22, 11:42:03](https://news.ycombinator.com/item?id=50194009) - [Xbox wants you to pay 24 to 40 cents per hour to stream games you bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/)
 * [2026-10-22, 11:12:37](https://news.ycombinator.com/item?id=50193804) - [Several Linux kernel vulnerabilities accidentally posted to public mailing list](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities)
