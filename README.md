@@ -5,7 +5,7 @@
 * [2026-10-22, 14:32:38](https://news.ycombinator.com/item?id=50195959) - [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
 * [2026-10-22, 14:26:40](https://news.ycombinator.com/item?id=50195873) - [MPs moving to restrict gambling ads in Canada amid mounting harms](https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888)
 * [2026-10-22, 14:08:12](https://news.ycombinator.com/item?id=50195543) - [What's Getting Pwned](https://pwn.watch/)
-* [2026-10-22, 13:33:39](https://news.ycombinator.com/item?id=50195110) - [eMudhra to Exit Global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
+* [2026-10-22, 13:33:39](https://news.ycombinator.com/item?id=50195110) - [eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
 * [2026-10-22, 13:20:13](https://news.ycombinator.com/item?id=50194938) - [Crystal 1.22.0](https://crystal-lang.org/2026/10/12/1.22.0-released/)
 * [2026-10-22, 13:09:33](https://news.ycombinator.com/item?id=50194824) - [SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/)
 * [2026-10-22, 12:40:04](https://news.ycombinator.com/item?id=50194522) - [The Last Museum: Semantic search across 5.8M artworks from major museums](https://lastmuseum.com/)
@@ -26,8 +26,8 @@
 * [2026-10-20, 04:27:08](https://news.ycombinator.com/item?id=50161346) - [No more icons in every menu by default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
 * [2026-10-19, 20:12:49](https://news.ycombinator.com/item?id=50157456) - [Startup taps underwater volcano as energy source in \"proof point\" test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
 * [2026-10-19, 20:02:03](https://news.ycombinator.com/item?id=50157316) - [Eigenmoon: linear algebra puzzles by moonlight](https://eigenmoon.vercel.app/)
-* [2026-10-19, 17:57:18](https://news.ycombinator.com/item?id=50155616) - [The Robot I Didn't Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)
 * [2026-10-19, 16:09:10](https://news.ycombinator.com/item?id=50154147) - [Pentulive (Puppy Live) [video]](https://yle.fi/t/18-332106/fi)
+* [2026-10-19, 16:06:40](https://news.ycombinator.com/item?id=50154109) - [Dungeon Generation in the Gnomish Mines of NetHack](https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/)
 * [2026-10-19, 09:13:12](https://news.ycombinator.com/item?id=50150163) - [What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation)
 * [2026-10-18, 19:50:11](https://news.ycombinator.com/item?id=50144727) - [VMMouse for NT 3.x: QEMU/VMware mouse integration driver](https://github.com/rhargreaves/vmmouse-nt3)
 
