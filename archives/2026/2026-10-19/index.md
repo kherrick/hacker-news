@@ -49,6 +49,7 @@
 * [2026-10-19, 15:06:00](https://news.ycombinator.com/item?id=50153384) - [WFP stops provision to half a million people in Gaza over lack of funding](https://www.middleeasteye.net/news/world-food-programme-stops-funding-half-million-people-gaza-over-lack-funding)
 * [2026-10-19, 14:52:33](https://news.ycombinator.com/item?id=50153229) - [One Manhattan power room took down FAA air traffic control in 1991](https://matthorn.io/posts/2026-10-18-33-thomas-street/)
 * [2026-10-19, 14:52:04](https://news.ycombinator.com/item?id=50153225) - [Agentic Monitoring](https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/)
+* [2026-10-19, 14:45:45](https://news.ycombinator.com/item?id=50153125) - [I can't use generic lambdas at compile-time, now what?](https://blog.ganets.ky/ClangGenericLambdas/)
 * [2026-10-19, 14:31:27](https://news.ycombinator.com/item?id=50152976) - [Detecting model weight tampering in GPU memory (Rome attacks)](https://stealthium.io/blog/hands-off-detecting-model-weight-tampering)
 * [2026-10-19, 14:31:11](https://news.ycombinator.com/item?id=50152970) - [Maybe There Was an Egg Cartel After All](https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411)
 * [2026-10-19, 14:25:57](https://news.ycombinator.com/item?id=50152912) - [Show HN: Can you tell an AI's real 30-day memory from a fabricated one?](https://kairos-experiment.com/distinguish.html)

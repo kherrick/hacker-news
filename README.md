@@ -27,9 +27,9 @@
 * [2026-10-20, 06:20:54](https://news.ycombinator.com/item?id=50162044) - [Tiny possum and glider thought extinct for 6000 years found in remote West Papua](https://www.bbc.com/news/articles/cp814l80pw2o)
 * [2026-10-20, 04:27:08](https://news.ycombinator.com/item?id=50161346) - [No more icons in every menu by default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
 * [2026-10-20, 04:16:10](https://news.ycombinator.com/item?id=50161283) - [ThinkPad I9990303 Error Catch-22](http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/)
-* [2026-10-20, 03:25:47](https://news.ycombinator.com/item?id=50160988) - [Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages](https://www.jhiblog.org/2026/10/19/clockwork-metaphors/)
 * [2026-10-20, 01:26:53](https://news.ycombinator.com/item?id=50160241) - [What Is the Karakoram Anomaly?](https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real)
 * [2026-10-19, 16:06:22](https://news.ycombinator.com/item?id=50154100) - [Chain of Thought for Humans](https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/)
+* [2026-10-19, 14:45:45](https://news.ycombinator.com/item?id=50153125) - [I can't use generic lambdas at compile-time, now what?](https://blog.ganets.ky/ClangGenericLambdas/)
 
 ## [Archives](archives/index.md)
 
