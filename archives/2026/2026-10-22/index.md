@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 15:32:46](https://news.ycombinator.com/item?id=50196837) - [Google cleared 300 hectares of Finnish forest](https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html)
 * [2026-10-22, 14:32:38](https://news.ycombinator.com/item?id=50195959) - [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
 * [2026-10-22, 14:26:40](https://news.ycombinator.com/item?id=50195873) - [MPs moving to restrict gambling ads in Canada amid mounting harms](https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888)
 * [2026-10-22, 14:08:12](https://news.ycombinator.com/item?id=50195543) - [What's Getting Pwned](https://pwn.watch/)

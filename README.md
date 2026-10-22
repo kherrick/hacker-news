@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-22, 15:32:46](https://news.ycombinator.com/item?id=50196837) - [Google cleared 300 hectares of Finnish forest](https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html)
 * [2026-10-22, 14:32:38](https://news.ycombinator.com/item?id=50195959) - [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
 * [2026-10-22, 14:26:40](https://news.ycombinator.com/item?id=50195873) - [MPs moving to restrict gambling ads in Canada amid mounting harms](https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888)
 * [2026-10-22, 14:08:12](https://news.ycombinator.com/item?id=50195543) - [What's Getting Pwned](https://pwn.watch/)
@@ -11,7 +12,6 @@
 * [2026-10-22, 11:12:37](https://news.ycombinator.com/item?id=50193804) - [Several Linux kernel vulnerabilities accidentally posted to public mailing list](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities)
 * [2026-10-22, 09:31:18](https://news.ycombinator.com/item?id=50193170) - [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
 * [2026-10-22, 08:01:52](https://news.ycombinator.com/item?id=50192536) - [Jailbreaking the Switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/)
-* [2026-10-22, 05:23:11](https://news.ycombinator.com/item?id=50191507) - [OpenAI CLI](https://github.com/openai/openai-cli)
 * [2026-10-22, 02:30:52](https://news.ycombinator.com/item?id=50190455) - [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
 * [2026-10-22, 02:18:41](https://news.ycombinator.com/item?id=50190363) - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
 * [2026-10-21, 21:58:03](https://news.ycombinator.com/item?id=50188228) - [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
