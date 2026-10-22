@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 11:50:36](https://news.ycombinator.com/item?id=50194070) - [Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/)
+* [2026-10-22, 11:42:03](https://news.ycombinator.com/item?id=50194009) - [Xbox wants you to pay 24 to 40 cents per hour to stream games you bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/)
 * [2026-10-22, 11:12:37](https://news.ycombinator.com/item?id=50193804) - [Several Linux kernel vulnerabilities accidentally posted to public mailing list](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities)
 * [2026-10-22, 09:31:18](https://news.ycombinator.com/item?id=50193170) - [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
 * [2026-10-22, 08:51:31](https://news.ycombinator.com/item?id=50192900) - [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)

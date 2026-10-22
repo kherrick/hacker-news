@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-22, 11:50:36](https://news.ycombinator.com/item?id=50194070) - [Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/)
+* [2026-10-22, 11:42:03](https://news.ycombinator.com/item?id=50194009) - [Xbox wants you to pay 24 to 40 cents per hour to stream games you bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/)
 * [2026-10-22, 11:12:37](https://news.ycombinator.com/item?id=50193804) - [Several Linux kernel vulnerabilities accidentally posted to public mailing list](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities)
 * [2026-10-22, 09:31:18](https://news.ycombinator.com/item?id=50193170) - [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
 * [2026-10-22, 08:51:31](https://news.ycombinator.com/item?id=50192900) - [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
@@ -8,7 +10,6 @@
 * [2026-10-22, 02:30:52](https://news.ycombinator.com/item?id=50190455) - [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
 * [2026-10-22, 02:18:41](https://news.ycombinator.com/item?id=50190363) - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
 * [2026-10-21, 23:51:37](https://news.ycombinator.com/item?id=50189232) - [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
-* [2026-10-21, 23:13:27](https://news.ycombinator.com/item?id=50188948) - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
 * [2026-10-21, 21:58:03](https://news.ycombinator.com/item?id=50188228) - [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 * [2026-10-21, 19:14:01](https://news.ycombinator.com/item?id=50186037) - [Claude Duet](https://claude.com/product/claude-duet)
 * [2026-10-21, 19:11:57](https://news.ycombinator.com/item?id=50186010) - [Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
@@ -26,7 +27,6 @@
 * [2026-10-20, 04:16:10](https://news.ycombinator.com/item?id=50161283) - [ThinkPad I9990303 Error Catch-22](http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/)
 * [2026-10-20, 01:26:53](https://news.ycombinator.com/item?id=50160241) - [What Is the Karakoram Anomaly?](https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real)
 * [2026-10-19, 20:12:49](https://news.ycombinator.com/item?id=50157456) - [Startup taps underwater volcano as energy source in \"proof point\" test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
-* [2026-10-19, 20:02:03](https://news.ycombinator.com/item?id=50157316) - [Eigenmoon: linear algebra puzzles by moonlight](https://eigenmoon.vercel.app/)
 * [2026-10-19, 17:57:18](https://news.ycombinator.com/item?id=50155616) - [The Robot I Didn't Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)
 * [2026-10-19, 16:06:22](https://news.ycombinator.com/item?id=50154100) - [Chain of Thought for Humans](https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/)
 * [2026-10-19, 15:19:45](https://news.ycombinator.com/item?id=50153531) - [Code is clay now](https://www.albertodenia.com/writing/code-is-clay-now)
