@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 20:59:38](https://news.ycombinator.com/item?id=50200947) - [Arc is being sunset on December 22, 2026](https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes)
 * [2026-10-22, 19:14:01](https://news.ycombinator.com/item?id=50199757) - [eMudhra logins can be bruteforced](https://mastodon.catgirl.cloud/@49016/117475976434068995)
 * [2026-10-22, 18:44:36](https://news.ycombinator.com/item?id=50199389) - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
 * [2026-10-22, 18:39:39](https://news.ycombinator.com/item?id=50199349) - [Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest](https://3d.camilleworld.com/play/)
