@@ -129,6 +129,83 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="50201860">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/Coverage-Cat/consumer-agent-testing-tool"
+              >Show HN: CATT 0.2.1: Test agents/services against a
+              Muse/Instinct-alike, in CI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-22 @ 22:18:40</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50201860"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The problem: testing against these tools is hard! Agent memory +
+                account statefulness make reproducibility, in the ways required
+                for repeatable/reliable outcomes, between agents and the
+                APIs/MCPs they interact with very challenging.
+              </p>
+              <p>
+                The solution: CATT lets devs test their services against a
+                surrogate Muse or Instinct agent (not affiliated with either of
+                these companies). Testers define starting conditions, approvals,
+                and success conditions for their service's state. CATT then
+                records the full interaction (incl. tool calls, responses) so it
+                can diff what happened from what the agent reports. Runs can be
+                tested in local builds or via CI, with or without LLM backing.
+              </p>
+              <p>
+                CATT is designed to emulate the important parts of personal
+                assistant interactions. Its got:
+              </p>
+              <p>
+                - Tool calls and command-line tool access - Simulated approvals
+                for service actions - Outcomes tracking and comparison -
+                Optional MCP profile based on an unofficial Muse template
+              </p>
+              <p>
+                There are limitations to how much we know about different
+                assistant specific behaviors so the tool labels its assumptions
+                as `documented`, `unofficial`, `assumed` or `unknown` for
+                developer review. We'll do our best to keep the tool updated as
+                new insights about the internal workings of these assistants
+                come to light. It is an area of active research and interest, a
+                good example is this recent report on how Instinct uses Exa for
+                web search [0].
+              </p>
+              <p>
+                Are you building a connector or MCP? If yes, we'd like to hear
+                from you! Have you had assistants behave incoherently, use stale
+                information, or procalim success without evidence? What else
+                should we add tests for?
+              </p>
+              <p>
+                The best way to get started is...to point your coding assistant
+                at the repo and ask it to integrate the tool with your CI or
+                local testing pipeline!
+              </p>
+              <p>Hope it's helpful!</p>
+              <p>
+                [0]:
+                <a
+                  href="https://www.sunbeam.ai/thoughts/instinct-is-using-exa-for-web-search"
+                  >https://www.sunbeam.ai/thoughts/instinct-is-using-exa-for-we...</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="50201414">
           <h3>
             <a class="item" href="https://train.samismith.com/">Railpass</a>
@@ -137,11 +214,11 @@
             <h4>
               <span>2026-10-22 @ 21:38:32</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50201414"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -159,11 +236,11 @@
             <h4>
               <span>2026-10-22 @ 21:24:41</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50201259"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -181,11 +258,11 @@
             <h4>
               <span>2026-10-22 @ 18:44:36</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50199389"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -209,27 +286,6 @@
             </h4>
           </section>
         </section>
-        <section id="50199232">
-          <h3>
-            <a
-              class="item"
-              href="https://jamesyu.org/award-winning-ai-literature/"
-              >Award-winning AI literature</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-22 @ 18:28:26</span
-              ><span class="points-container"
-                >Points: <span class="points">56</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50199232"
-                  >Comments</a
-                ><span class="descendants">: 58</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="50199230">
           <h3>
             <a class="item" href="https://arxiv.org/abs/2610.27251"
@@ -240,7 +296,7 @@
             <h4>
               <span>2026-10-22 @ 18:28:16</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50199230"
                   >Comments</a
@@ -282,11 +338,11 @@
             <h4>
               <span>2026-10-22 @ 17:44:06</span
               ><span class="points-container"
-                >Points: <span class="points">252</span></span
+                >Points: <span class="points">257</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50198675"
                   >Comments</a
-                ><span class="descendants">: 131</span></span
+                ><span class="descendants">: 134</span></span
               >
             </h4>
           </section>
@@ -301,11 +357,11 @@
             <h4>
               <span>2026-10-22 @ 16:27:47</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">215</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50197601"
                   >Comments</a
-                ><span class="descendants">: 192</span></span
+                ><span class="descendants">: 195</span></span
               >
             </h4>
           </section>
@@ -342,11 +398,11 @@
             <h4>
               <span>2026-10-22 @ 16:14:31</span
               ><span class="points-container"
-                >Points: <span class="points">205</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50197404"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -363,11 +419,11 @@
             <h4>
               <span>2026-10-22 @ 16:08:00</span
               ><span class="points-container"
-                >Points: <span class="points">175</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50197313"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 195</span></span
               >
             </h4>
           </section>
@@ -377,14 +433,14 @@
             <a
               class="item"
               href="https://github.com/oosexgang/hackios-xnu-kernel"
-              >Show HN: Run full iOS 16.5 firmware on Android Devices</a
+              >Run full iOS 16.5 firmware on Android Devices</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-10-22 @ 15:26:22</span
               ><span class="points-container"
-                >Points: <span class="points">287</span></span
+                >Points: <span class="points">291</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50196718"
                   >Comments</a
@@ -408,11 +464,11 @@
             <h4>
               <span>2026-10-22 @ 14:32:38</span
               ><span class="points-container"
-                >Points: <span class="points">905</span></span
+                >Points: <span class="points">918</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50195959"
                   >Comments</a
-                ><span class="descendants">: 332</span></span
+                ><span class="descendants">: 336</span></span
               >
             </h4>
           </section>
@@ -427,7 +483,7 @@
             <h4>
               <span>2026-10-22 @ 14:08:12</span
               ><span class="points-container"
-                >Points: <span class="points">322</span></span
+                >Points: <span class="points">324</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50195543"
                   >Comments</a
@@ -448,11 +504,11 @@
             <h4>
               <span>2026-10-22 @ 13:33:39</span
               ><span class="points-container"
-                >Points: <span class="points">889</span></span
+                >Points: <span class="points">894</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50195110"
                   >Comments</a
-                ><span class="descendants">: 607</span></span
+                ><span class="descendants">: 609</span></span
               >
             </h4>
           </section>
@@ -470,11 +526,11 @@
             <h4>
               <span>2026-10-22 @ 13:11:00</span
               ><span class="points-container"
-                >Points: <span class="points">405</span></span
+                >Points: <span class="points">413</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50194833"
                   >Comments</a
-                ><span class="descendants">: 387</span></span
+                ><span class="descendants">: 404</span></span
               >
             </h4>
           </section>
@@ -492,11 +548,11 @@
             <h4>
               <span>2026-10-22 @ 13:03:14</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50194762"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
@@ -553,11 +609,11 @@
             <h4>
               <span>2026-10-22 @ 11:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50194009"
                   >Comments</a
-                ><span class="descendants">: 175</span></span
+                ><span class="descendants">: 179</span></span
               >
             </h4>
           </section>
@@ -572,11 +628,11 @@
             <h4>
               <span>2026-10-22 @ 10:11:44</span
               ><span class="points-container"
-                >Points: <span class="points">305</span></span
+                >Points: <span class="points">316</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50193416"
                   >Comments</a
-                ><span class="descendants">: 129</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
             <div class="text">
@@ -638,32 +694,11 @@
             <h4>
               <span>2026-10-22 @ 08:01:52</span
               ><span class="points-container"
-                >Points: <span class="points">676</span></span
+                >Points: <span class="points">682</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50192536"
                   >Comments</a
-                ><span class="descendants">: 237</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50190363">
-          <h3>
-            <a
-              class="item"
-              href="https://simedw.com/2026/10/21/world-model-terminal/"
-              >WorldTUI: I trained a 360M model to pretend to be a terminal</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-22 @ 02:18:41</span
-              ><span class="points-container"
-                >Points: <span class="points">489</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50190363"
-                  >Comments</a
-                ><span class="descendants">: 156</span></span
+                ><span class="descendants">: 239</span></span
               >
             </h4>
           </section>
@@ -704,6 +739,36 @@
                   >https://github.com/algotitanhq/uberblok</a
                 >
               </p>
+            </div>
+          </section>
+        </section>
+        <section id="50174813">
+          <h3>
+            <a class="item" href="https://evans.bike/naicons"
+              >Show HN: An icon for every city in North America</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-21 @ 01:03:39</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50174813"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              To my knowledge there is no icon pack for cities in NA below a
+              certain size. So I created one! An icon for every city in NA with
+              &amp;gt;100k population. 544 in total. Generated with Nano Banana
+              Pro. These cost me ~$70 to generate. Giving away for free! Some
+              exceptions are 1 city for each US state that didn't have a city
+              above 100k population such as Burlington Vermont. I also took
+              liberties with what icon was used such as Whale Tales for BTV.
+              Surprisingly, smaller cities have many competing landmarks and it
+              can be hard to choose! Feel free to contribute corrections.
             </div>
           </section>
         </section>
@@ -785,7 +850,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50154109"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -800,11 +865,11 @@
             <h4>
               <span>2026-10-19 @ 10:35:14</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50150681"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -821,7 +886,7 @@
             <h4>
               <span>2026-10-19 @ 09:13:12</span
               ><span class="points-container"
-                >Points: <span class="points">379</span></span
+                >Points: <span class="points">381</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50150163"
                   >Comments</a
