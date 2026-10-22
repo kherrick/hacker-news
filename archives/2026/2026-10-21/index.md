@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-21](index.md)
 
+* [2026-10-21, 23:51:37](https://news.ycombinator.com/item?id=50189232) - [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
+* [2026-10-21, 23:38:32](https://news.ycombinator.com/item?id=50189150) - [Airbnb bans making guests do dishes and take out the trash](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)
+* [2026-10-21, 23:22:21](https://news.ycombinator.com/item?id=50189023) - [Κ = 0.003 for integer multiplication crossed](https://github.com/CrocSwap/integer-mult-bounds/pull/4441)
+* [2026-10-21, 23:13:27](https://news.ycombinator.com/item?id=50188948) - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
 * [2026-10-21, 22:32:45](https://news.ycombinator.com/item?id=50188612) - [Qpack amplification attacks against HTTP/3 servers](https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers)
 * [2026-10-21, 22:17:19](https://news.ycombinator.com/item?id=50188443) - [Oracle Security Alert Advisory – CVE-2026-91403 (eMudhra cert revocation)](https://www.oracle.com/security-alerts/alert-cve-2026-91403.html)
 * [2026-10-21, 21:58:03](https://news.ycombinator.com/item?id=50188228) - [Railway Security(Compromise) Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
