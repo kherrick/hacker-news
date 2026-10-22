@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 16:57:56](https://news.ycombinator.com/item?id=50198056) - [The public notebook of a Claude agent with a continuous life](https://intenex.github.io/personhood/)
 * [2026-10-22, 16:27:47](https://news.ycombinator.com/item?id=50197601) - [Arc Is Sunsetting](https://arc.net/)
 * [2026-10-22, 16:22:31](https://news.ycombinator.com/item?id=50197533) - [Where Wealth Is Moving in America](https://thestatedtruth.com/?p=28732)
 * [2026-10-22, 16:14:31](https://news.ycombinator.com/item?id=50197404) - [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
+* [2026-10-22, 16:08:00](https://news.ycombinator.com/item?id=50197313) - [Every AI model has the same \"controversial\" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
 * [2026-10-22, 15:32:46](https://news.ycombinator.com/item?id=50196837) - [Google cleared 300 hectares of Finnish forest](https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html)
 * [2026-10-22, 15:26:22](https://news.ycombinator.com/item?id=50196718) - [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
 * [2026-10-22, 14:32:38](https://news.ycombinator.com/item?id=50195959) - [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
