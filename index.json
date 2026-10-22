@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=50198675"
     ],
     [
-      "Nvidia OpenShell",
+      "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "https://github.com/NVIDIA/OpenShell"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=50195543"
     ],
     [
-      "What's Getting Pwned",
+      "What’s getting pwned right now",
       "https://pwn.watch/"
     ]
   ],
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2026-10-22, 10:11:44",
+      "https://news.ycombinator.com/item?id=50193416"
+    ],
+    [
+      "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "https://news.ycombinator.com/item?id=50193416"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 09:31:18",
       "https://news.ycombinator.com/item?id=50193170"
     ],
@@ -207,16 +217,6 @@
     [
       "Jailbreaking the Switch 2",
       "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 02:30:52",
-      "https://news.ycombinator.com/item?id=50190455"
-    ],
-    [
-      "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf"
     ]
   ],
   [
