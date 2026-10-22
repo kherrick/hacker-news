@@ -58,6 +58,7 @@
 * [2026-10-20, 12:18:02](https://news.ycombinator.com/item?id=50165215) - [Four Years with Decker](https://beyondloom.com/blog/fouryearsdecker.html)
 * [2026-10-20, 12:17:28](https://news.ycombinator.com/item?id=50165208) - [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
 * [2026-10-20, 12:00:32](https://news.ycombinator.com/item?id=50164991) - [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci)
+* [2026-10-20, 11:24:10](https://news.ycombinator.com/item?id=50164611) - [Templates for Woven Christmas Hearts](https://juleflet.dk/en/)
 * [2026-10-20, 10:26:02](https://news.ycombinator.com/item?id=50163961) - [Google cloud outage takes down banks](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)
 * [2026-10-20, 09:54:48](https://news.ycombinator.com/item?id=50163625) - [Revolut down as users report app not working](https://www.bbc.com/news/articles/cxdd8mm6qy4mo)
 * [2026-10-20, 09:35:40](https://news.ycombinator.com/item?id=50163502) - [AfD Leak: What 421,179 Hacked Emails Show about the German Far Right](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/)
