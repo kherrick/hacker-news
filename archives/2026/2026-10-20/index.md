@@ -48,6 +48,7 @@
 * [2026-10-20, 14:23:38](https://news.ycombinator.com/item?id=50166918) - [The Byzantine Generals Problem: A visual explanation](https://gravitypersists.github.io/exploring-byzantine-generals-problem/)
 * [2026-10-20, 14:13:49](https://news.ycombinator.com/item?id=50166794) - [My Friend Bob Cringely](https://tyma.com/my-cringe-story/)
 * [2026-10-20, 14:08:33](https://news.ycombinator.com/item?id=50166706) - [A Place Among the Fiddlers](https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/)
+* [2026-10-20, 14:00:07](https://news.ycombinator.com/item?id=50166604) - [How to Design Flowers](https://www.asimov.press/p/flowers)
 * [2026-10-20, 13:59:11](https://news.ycombinator.com/item?id=50166590) - [Beyond the &](https://lwn.net/Articles/1096028/)
 * [2026-10-20, 13:58:33](https://news.ycombinator.com/item?id=50166579) - [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
 * [2026-10-20, 13:53:48](https://news.ycombinator.com/item?id=50166502) - [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)

@@ -26,9 +26,9 @@
 * [2026-10-21, 01:03:39](https://news.ycombinator.com/item?id=50174813) - [Show HN: An icon for every city in North America](https://evans.bike/naicons)
 * [2026-10-20, 21:32:23](https://news.ycombinator.com/item?id=50172984) - [Show HN: Turn regular JavaScript into a neural net](https://chenglou.me/handwired/)
 * [2026-10-20, 21:05:16](https://news.ycombinator.com/item?id=50172660) - [The phenomena that brighten dawn and dusk (2016)](https://www.colorado.edu/asmagazine-archive/node/2039)
+* [2026-10-20, 14:00:07](https://news.ycombinator.com/item?id=50166604) - [How to Design Flowers](https://www.asimov.press/p/flowers)
 * [2026-10-19, 20:12:49](https://news.ycombinator.com/item?id=50157456) - [Startup taps underwater volcano as energy source in “proof point” test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
 * [2026-10-19, 16:06:40](https://news.ycombinator.com/item?id=50154109) - [Dungeon Generation in the Gnomish Mines of NetHack](https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/)
-* [2026-10-19, 10:35:14](https://news.ycombinator.com/item?id=50150681) - [Speeding up code review with `small-change`](https://lethain.com/small-changes/)
 * [2026-10-19, 09:13:12](https://news.ycombinator.com/item?id=50150163) - [What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation)
 
 ## [Archives](archives/index.md)
