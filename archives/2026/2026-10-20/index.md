@@ -10,6 +10,7 @@
 * [2026-10-20, 23:04:09](https://news.ycombinator.com/item?id=50173891) - [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
 * [2026-10-20, 22:45:39](https://news.ycombinator.com/item?id=50173716) - [PingCap TiDB Leaks](https://fulcrumsec.vg/pingcap/)
 * [2026-10-20, 22:21:05](https://news.ycombinator.com/item?id=50173487) - [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+* [2026-10-20, 21:32:23](https://news.ycombinator.com/item?id=50172984) - [Show HN: Turn regular JavaScript into a neural net](https://chenglou.me/handwired/)
 * [2026-10-20, 21:18:07](https://news.ycombinator.com/item?id=50172809) - [Third US aircraft carrier, 10k troops head to Middle East](https://www.iranintl.com/en/202610207766)
 * [2026-10-20, 21:05:16](https://news.ycombinator.com/item?id=50172660) - [The phenomena that brighten dawn and dusk (2016)](https://www.colorado.edu/asmagazine-archive/node/2039)
 * [2026-10-20, 20:46:55](https://news.ycombinator.com/item?id=50172448) - [Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide](https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide)
