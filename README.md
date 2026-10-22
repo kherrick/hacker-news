@@ -8,7 +8,7 @@
 * [2026-10-21, 22:33:08](https://news.ycombinator.com/item?id=50188614) - [Postgres recovery_prefetch can cause outages](https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/)
 * [2026-10-21, 21:58:03](https://news.ycombinator.com/item?id=50188228) - [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 * [2026-10-21, 19:11:57](https://news.ycombinator.com/item?id=50186010) - [Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
-* [2026-10-21, 19:01:12](https://news.ycombinator.com/item?id=50185869) - [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
+* [2026-10-21, 19:01:12](https://news.ycombinator.com/item?id=50185869) - [GitLab critical patch release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
 * [2026-10-21, 17:45:13](https://news.ycombinator.com/item?id=50184820) - [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
 * [2026-10-21, 17:29:33](https://news.ycombinator.com/item?id=50184586) - [EA is shutting down BioWare](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware)
 * [2026-10-21, 16:44:53](https://news.ycombinator.com/item?id=50183892) - [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara)
