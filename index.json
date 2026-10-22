@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-22, 14:08:12",
+      "https://news.ycombinator.com/item?id=50195543"
+    ],
+    [
+      "What's Getting Pwned",
+      "https://pwn.watch/"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 13:33:39",
       "https://news.ycombinator.com/item?id=50195110"
     ],
@@ -37,6 +47,16 @@
     [
       "Woman faces six years in prison over Cash App account she never opened",
       "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 13:09:33",
+      "https://news.ycombinator.com/item?id=50194824"
+    ],
+    [
+      "SBD: We Have a Filesystem at Home",
+      "https://fly.io/blog/sprites-block-device/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-10-21, 17:45:13",
-      "https://news.ycombinator.com/item?id=50184820"
-    ],
-    [
-      "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html"
-    ]
-  ],
-  [
-    [
       "2026-10-21, 14:00:26",
       "https://news.ycombinator.com/item?id=50181114"
     ],
@@ -217,16 +227,6 @@
     [
       "PingCap TiDB Leaks",
       "https://fulcrumsec.vg/pingcap/"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 06:20:54",
-      "https://news.ycombinator.com/item?id=50162044"
-    ],
-    [
-      "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "https://www.bbc.com/news/articles/cp814l80pw2o"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-10-19, 15:19:45",
-      "https://news.ycombinator.com/item?id=50153531"
-    ],
-    [
-      "Code is clay now",
-      "https://www.albertodenia.com/writing/code-is-clay-now"
-    ]
-  ],
-  [
-    [
       "2026-10-19, 09:13:12",
       "https://news.ycombinator.com/item?id=50150163"
     ],
     [
       "What Is Gridifcation",
       "https://musicalform.substack.com/p/what-is-gridifcation"
+    ]
+  ],
+  [
+    [
+      "2026-10-18, 19:50:11",
+      "https://news.ycombinator.com/item?id=50144727"
+    ],
+    [
+      "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
+      "https://github.com/rhargreaves/vmmouse-nt3"
     ]
   ]
 ]
