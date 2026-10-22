@@ -27,6 +27,7 @@
 * [2026-10-20, 15:59:06](https://news.ycombinator.com/item?id=50168357) - [Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery](https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery)
 * [2026-10-20, 15:48:26](https://news.ycombinator.com/item?id=50168190) - [Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest](https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop)
 * [2026-10-20, 15:47:22](https://news.ycombinator.com/item?id=50168168) - [OpenDE: Play Deus Ex 1999 demo in the browser](https://opende.netlify.app)
+* [2026-10-20, 15:45:56](https://news.ycombinator.com/item?id=50168142) - [Show HN: AI-built browser games, collected in one place](https://playgroundarcade.com/)
 * [2026-10-20, 15:42:45](https://news.ycombinator.com/item?id=50168096) - [IKEA – 3D Guide](https://sael.net/flatpack/)
 * [2026-10-20, 15:19:19](https://news.ycombinator.com/item?id=50167732) - [Why do we have so many meetings?](https://www.nber.org/papers/w35706)
 * [2026-10-20, 15:14:14](https://news.ycombinator.com/item?id=50167657) - [Show HN: Clerkenwell – A Handwritten Clojure Notebook](https://handwritten.danieljanus.pl/2026-10-20-clerkenwell.html)
