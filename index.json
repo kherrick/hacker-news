@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-10-20, 03:25:47",
-      "https://news.ycombinator.com/item?id=50160988"
-    ],
-    [
-      "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
-      "https://www.jhiblog.org/2026/10/19/clockwork-metaphors/"
-    ]
-  ],
-  [
-    [
       "2026-10-20, 01:26:53",
       "https://news.ycombinator.com/item?id=50160241"
     ],
@@ -297,6 +287,16 @@
     [
       "Chain of Thought for Humans",
       "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 14:45:45",
+      "https://news.ycombinator.com/item?id=50153125"
+    ],
+    [
+      "I can't use generic lambdas at compile-time, now what?",
+      "https://blog.ganets.ky/ClangGenericLambdas/"
     ]
   ]
 ]
