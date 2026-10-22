@@ -23,13 +23,13 @@
 * [2026-10-21, 06:42:12](https://news.ycombinator.com/item?id=50176908) - [Launch HN: Alter (YC S25) – Access control for multi-user agents](https://alterauth.com/)
 * [2026-10-21, 04:27:51](https://news.ycombinator.com/item?id=50176082) - [Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html)
 * [2026-10-20, 22:45:39](https://news.ycombinator.com/item?id=50173716) - [PingCap TiDB Leaks](https://fulcrumsec.vg/pingcap/)
-* [2026-10-20, 15:45:56](https://news.ycombinator.com/item?id=50168142) - [Show HN: AI-built browser games, collected in one place](https://playgroundarcade.com/)
 * [2026-10-20, 13:59:11](https://news.ycombinator.com/item?id=50166590) - [Beyond the &](https://lwn.net/Articles/1096028/)
 * [2026-10-20, 06:20:54](https://news.ycombinator.com/item?id=50162044) - [Tiny possum and glider thought extinct for 6000 years found in remote West Papua](https://www.bbc.com/news/articles/cp814l80pw2o)
 * [2026-10-20, 04:27:08](https://news.ycombinator.com/item?id=50161346) - [No more icons in every menu by default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
 * [2026-10-20, 00:14:03](https://news.ycombinator.com/item?id=50159726) - [Why Windows 11 still ships with Windows 95's memory manager hidden inside it](https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/)
 * [2026-10-19, 16:06:22](https://news.ycombinator.com/item?id=50154100) - [Chain of Thought for Humans](https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/)
 * [2026-10-19, 15:19:45](https://news.ycombinator.com/item?id=50153531) - [Code is clay now](https://www.albertodenia.com/writing/code-is-clay-now)
+* [2026-10-19, 14:25:57](https://news.ycombinator.com/item?id=50152912) - [Show HN: Can you tell an AI's real 30-day memory from a fabricated one?](https://kairos-experiment.com/distinguish.html)
 
 ## [Archives](archives/index.md)
 
