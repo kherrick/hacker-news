@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-22](index.md)
 
+* [2026-10-22, 05:23:11](https://news.ycombinator.com/item?id=50191507) - [OpenAI CLI](https://github.com/openai/openai-cli)
 * [2026-10-22, 03:47:37](https://news.ycombinator.com/item?id=50190959) - [I can't believe PowerShell is good](https://www.spacebar.news/powershell-is-actually-good/)
 * [2026-10-22, 02:30:52](https://news.ycombinator.com/item?id=50190455) - [The recently proposed O(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
 * [2026-10-22, 02:18:41](https://news.ycombinator.com/item?id=50190363) - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)

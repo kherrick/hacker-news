@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-22, 05:23:11](https://news.ycombinator.com/item?id=50191507) - [OpenAI CLI](https://github.com/openai/openai-cli)
 * [2026-10-22, 03:47:37](https://news.ycombinator.com/item?id=50190959) - [I can't believe PowerShell is good](https://www.spacebar.news/powershell-is-actually-good/)
 * [2026-10-22, 02:30:52](https://news.ycombinator.com/item?id=50190455) - [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
 * [2026-10-22, 02:18:41](https://news.ycombinator.com/item?id=50190363) - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
@@ -17,7 +18,6 @@
 * [2026-10-21, 14:03:43](https://news.ycombinator.com/item?id=50181175) - [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
 * [2026-10-21, 14:01:22](https://news.ycombinator.com/item?id=50181136) - [DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200)
 * [2026-10-21, 14:00:26](https://news.ycombinator.com/item?id=50181114) - [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
-* [2026-10-21, 13:45:33](https://news.ycombinator.com/item?id=50180873) - [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
 * [2026-10-21, 12:53:11](https://news.ycombinator.com/item?id=50180079) - [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud/)
 * [2026-10-21, 06:42:12](https://news.ycombinator.com/item?id=50176908) - [Launch HN: Alter (YC S25) – Access control for multi-user agents](https://alterauth.com/)
 * [2026-10-21, 04:27:51](https://news.ycombinator.com/item?id=50176082) - [Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html)
