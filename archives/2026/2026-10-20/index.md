@@ -73,6 +73,7 @@
 * [2026-10-20, 04:27:08](https://news.ycombinator.com/item?id=50161346) - [No More Icons in Every Menu by Default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
 * [2026-10-20, 04:02:26](https://news.ycombinator.com/item?id=50161207) - [U.S. Supreme Court to review 1868 federal ban on home distilling of liquor](https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/)
 * [2026-10-20, 03:51:43](https://news.ycombinator.com/item?id=50161144) - [Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces](https://rouler.io/)
+* [2026-10-20, 03:25:47](https://news.ycombinator.com/item?id=50160988) - [Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages](https://www.jhiblog.org/2026/10/19/clockwork-metaphors/)
 * [2026-10-20, 03:05:07](https://news.ycombinator.com/item?id=50160877) - [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
 * [2026-10-20, 02:06:40](https://news.ycombinator.com/item?id=50160494) - [OpenBSD 8.0](https://www.openbsd.org/80.html)
 * [2026-10-20, 01:57:24](https://news.ycombinator.com/item?id=50160440) - [Ship Your Interpreter](https://www.basis.ai/blog/ship-your-interpreters/)
