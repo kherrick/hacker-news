@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-22, 02:30:52](https://news.ycombinator.com/item?id=50190455) - [The recently proposed O(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
+* [2026-10-22, 02:30:52](https://news.ycombinator.com/item?id=50190455) - [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
 * [2026-10-22, 02:13:48](https://news.ycombinator.com/item?id=50190334) - [LLM Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/)
 * [2026-10-22, 01:52:03](https://news.ycombinator.com/item?id=50190168) - [Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552)
 * [2026-10-21, 23:51:37](https://news.ycombinator.com/item?id=50189232) - [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
@@ -11,7 +11,7 @@
 * [2026-10-21, 19:01:12](https://news.ycombinator.com/item?id=50185869) - [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
 * [2026-10-21, 17:45:13](https://news.ycombinator.com/item?id=50184820) - [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
 * [2026-10-21, 17:29:33](https://news.ycombinator.com/item?id=50184586) - [EA is shutting down BioWare](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware)
-* [2026-10-21, 16:44:53](https://news.ycombinator.com/item?id=50183892) - [Show HN: Omnara – Open-Source Alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara)
+* [2026-10-21, 16:44:53](https://news.ycombinator.com/item?id=50183892) - [Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara)
 * [2026-10-21, 15:48:56](https://news.ycombinator.com/item?id=50182987) - [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 * [2026-10-21, 15:20:04](https://news.ycombinator.com/item?id=50182526) - [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
 * [2026-10-21, 14:03:43](https://news.ycombinator.com/item?id=50181175) - [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
