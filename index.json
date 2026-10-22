@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-22, 16:57:56",
+      "https://news.ycombinator.com/item?id=50198056"
+    ],
+    [
+      "The public notebook of a Claude agent with a continuous life",
+      "https://intenex.github.io/personhood/"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 16:27:47",
       "https://news.ycombinator.com/item?id=50197601"
     ],
@@ -17,6 +27,16 @@
     [
       "Getting ready to operate GNU Taler in Germany",
       "https://www.taler.net/en/news/2026-13.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 16:08:00",
+      "https://news.ycombinator.com/item?id=50197313"
+    ],
+    [
+      "Every AI model has the same \"controversial\" take on humans",
+      "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Crystal 1.22",
       "https://crystal-lang.org/2026/10/12/1.22.0-released/"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 13:09:33",
-      "https://news.ycombinator.com/item?id=50194824"
-    ],
-    [
-      "SBD: We Have a Filesystem at Home",
-      "https://fly.io/blog/sprites-block-device/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Show HN: Uberblok – an interactive museum of ZFS internals",
       "https://uberblok.storagebits.workers.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 04:27:51",
-      "https://news.ycombinator.com/item?id=50176082"
-    ],
-    [
-      "Using LLM for confidence scoring is a bad idea",
-      "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html"
     ]
   ],
   [
