@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-23, 18:24:54](https://news.ycombinator.com/item?id=50213337) - [Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line](https://artificialanalysis.ai/models/kimi-k3-1-pro)
 * [2026-10-23, 17:40:22](https://news.ycombinator.com/item?id=50212668) - [I turned my TV into a Game Boy Color with a Pokemon town as my home screen](https://twitter.com/robbietilton/status/2111936458923851923)
 * [2026-10-23, 17:28:36](https://news.ycombinator.com/item?id=50212507) - [Air Purifiers as White Noise Machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
 * [2026-10-23, 17:15:03](https://news.ycombinator.com/item?id=50212320) - [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/)
@@ -21,7 +22,6 @@
 * [2026-10-22, 23:45:56](https://news.ycombinator.com/item?id=50202681) - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 * [2026-10-22, 23:24:17](https://news.ycombinator.com/item?id=50202482) - [We have traits at home](https://www.axelmagn.com/blog/202610-zig-traits/)
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
-* [2026-10-22, 22:54:43](https://news.ycombinator.com/item?id=50202217) - [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
 * [2026-10-22, 22:43:19](https://news.ycombinator.com/item?id=50202114) - [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill)
 * [2026-10-22, 21:41:13](https://news.ycombinator.com/item?id=50201445) - [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images)
 * [2026-10-22, 21:03:55](https://news.ycombinator.com/item?id=50200997) - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)
