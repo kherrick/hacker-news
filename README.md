@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-23, 02:19:38](https://news.ycombinator.com/item?id=50203759) - [This I Believe](https://www.awakin.org/v2/read/view.php?tid=468)
 * [2026-10-23, 00:52:01](https://news.ycombinator.com/item?id=50203161) - [The foolishness of \"natural language programming\" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2026-10-22, 23:56:39](https://news.ycombinator.com/item?id=50202766) - [Mapping the Northern Sky](https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/)
 * [2026-10-22, 23:56:36](https://news.ycombinator.com/item?id=50202762) - [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
@@ -10,7 +11,6 @@
 * [2026-10-22, 18:44:36](https://news.ycombinator.com/item?id=50199389) - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
 * [2026-10-22, 18:28:16](https://news.ycombinator.com/item?id=50199230) - [AI and the Enclosure of the Scientific Commons](https://arxiv.org/abs/2610.27251)
 * [2026-10-22, 17:44:06](https://news.ycombinator.com/item?id=50198675) - [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
-* [2026-10-22, 16:27:47](https://news.ycombinator.com/item?id=50197601) - [A farewell to Arc browser](https://arc.net/)
 * [2026-10-22, 16:14:31](https://news.ycombinator.com/item?id=50197404) - [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
 * [2026-10-22, 16:08:00](https://news.ycombinator.com/item?id=50197313) - [Every AI model has the same \"controversial\" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
 * [2026-10-22, 15:26:22](https://news.ycombinator.com/item?id=50196718) - [Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
