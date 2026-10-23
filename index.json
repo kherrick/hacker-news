@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-10-23, 16:30:23",
-      "https://news.ycombinator.com/item?id=50211601"
+      "2026-10-23, 16:23:29",
+      "https://news.ycombinator.com/item?id=50211504"
     ],
     [
-      "eMudhra Login Bypass",
-      "https://mastodon.catgirl.cloud/@49016/117475921584308861"
+      "Total Historian",
+      "https://www.theideasletter.org/essay/total-historian/"
     ]
   ],
   [
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=50211474"
     ],
     [
-      "\"Today, we hacked what we'd set out to hack: the iPhone.\"",
+      "Today, we hacked what we'd set out to hack: the iPhone",
       "https://blog.calif.io/p/iphone"
     ]
   ],
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-10-23, 14:43:02",
+      "https://news.ycombinator.com/item?id=50209907"
+    ],
+    [
+      "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+      "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 13:41:10",
       "https://news.ycombinator.com/item?id=50208837"
     ],
@@ -77,16 +87,6 @@
     [
       "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
       "https://www.thisandthat.chat/enron/"
-    ]
-  ],
-  [
-    [
-      "2026-10-23, 11:04:53",
-      "https://news.ycombinator.com/item?id=50207115"
-    ],
-    [
-      "Is this the new cyber normal?",
-      "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-10-22, 23:56:36",
-      "https://news.ycombinator.com/item?id=50202762"
-    ],
-    [
-      "Jank – The native Clojure dialect with seamless C++ interop",
-      "https://jank-lang.org/"
-    ]
-  ],
-  [
-    [
       "2026-10-22, 23:45:56",
       "https://news.ycombinator.com/item?id=50202681"
     ],
@@ -167,6 +157,16 @@
     [
       "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "https://edjefferson.com/localwiki/"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 22:54:43",
+      "https://news.ycombinator.com/item?id=50202217"
+    ],
+    [
+      "LLMs are making formal software verification feasible at a much larger scale",
+      "https://www.anthropic.com/research/formal-verification"
     ]
   ],
   [
