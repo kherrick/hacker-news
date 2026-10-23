@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-23, 05:12:39](https://news.ycombinator.com/item?id=50204754) - [Move Slow and Fix Things](https://endler.dev/2024/move-slow-and-fix-things/)
 * [2026-10-23, 03:20:38](https://news.ycombinator.com/item?id=50204125) - [Median product \"lifespan\" has fallen from ~4y down to ~1.5y](https://news.ycombinator.com/item?id=50204125)
 * [2026-10-23, 02:19:38](https://news.ycombinator.com/item?id=50203759) - [This I Believe](https://www.awakin.org/v2/read/view.php?tid=468)
 * [2026-10-23, 00:52:01](https://news.ycombinator.com/item?id=50203161) - [The foolishness of \"natural language programming\" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2026-10-22, 23:56:39](https://news.ycombinator.com/item?id=50202766) - [Mapping the Northern Sky](https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/)
 * [2026-10-22, 23:56:36](https://news.ycombinator.com/item?id=50202762) - [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
 * [2026-10-22, 23:45:56](https://news.ycombinator.com/item?id=50202681) - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-* [2026-10-22, 23:45:16](https://news.ycombinator.com/item?id=50202671) - [AI compute is the new oil–and needs a new market](https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market)
 * [2026-10-22, 22:54:43](https://news.ycombinator.com/item?id=50202217) - [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
 * [2026-10-22, 21:38:32](https://news.ycombinator.com/item?id=50201414) - [Railpass](https://train.samismith.com/)
 * [2026-10-22, 18:44:36](https://news.ycombinator.com/item?id=50199389) - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
