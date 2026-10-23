@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 17:15:03](https://news.ycombinator.com/item?id=50212320) - [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/)
 * [2026-10-23, 17:12:51](https://news.ycombinator.com/item?id=50212281) - [Time Nuts](http://leapsecond.com/time-nuts.htm)
 * [2026-10-23, 17:10:27](https://news.ycombinator.com/item?id=50212246) - [Kimi K3.1 Pro](https://www.kimi.ai/blog/kimi-k3-1-pro)
 * [2026-10-23, 16:59:08](https://news.ycombinator.com/item?id=50212065) - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.com/code/docs/en/kimi-code/models.html)
+* [2026-10-23, 16:39:45](https://news.ycombinator.com/item?id=50211746) - [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
 * [2026-10-23, 16:38:35](https://news.ycombinator.com/item?id=50211729) - [The Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
 * [2026-10-23, 16:38:17](https://news.ycombinator.com/item?id=50211719) - [How Is Music Possible](https://www.henrikkarlsson.xyz/p/music)
 * [2026-10-23, 16:30:23](https://news.ycombinator.com/item?id=50211601) - [eMudhra Login Bypass](https://mastodon.catgirl.cloud/@49016/117475921584308861)
@@ -32,6 +34,7 @@
 * [2026-10-23, 09:21:00](https://news.ycombinator.com/item?id=50206361) - [The Rise and Fall of Jev](https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm)
 * [2026-10-23, 08:21:29](https://news.ycombinator.com/item?id=50205934) - [Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/)
 * [2026-10-23, 08:05:33](https://news.ycombinator.com/item?id=50205816) - [Remove pgrust: the entry is cheating](https://github.com/ClickHouse/ClickBench/pull/2165)
+* [2026-10-23, 06:54:52](https://news.ycombinator.com/item?id=50205320) - [Show HN: Swurf – Swipe through the real web](https://swurf.org/)
 * [2026-10-23, 06:41:11](https://news.ycombinator.com/item?id=50205229) - [The same AI request emits 8.5 times more CO2 in Texas than in Sweden](https://berget.ai/en/blog/per-request-co2-press-release)
 * [2026-10-23, 05:51:45](https://news.ycombinator.com/item?id=50204926) - [I Did This Without Your Knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)
 * [2026-10-23, 05:12:39](https://news.ycombinator.com/item?id=50204754) - [Move Slow and Fix Things](https://endler.dev/2024/move-slow-and-fix-things/)
