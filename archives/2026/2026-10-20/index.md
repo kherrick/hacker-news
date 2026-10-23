@@ -34,6 +34,7 @@
 * [2026-10-20, 15:47:22](https://news.ycombinator.com/item?id=50168168) - [OpenDE: Play Deus Ex 1999 demo in the browser](https://opende.netlify.app)
 * [2026-10-20, 15:45:56](https://news.ycombinator.com/item?id=50168142) - [Show HN: AI-built browser games, collected in one place](https://playgroundarcade.com/)
 * [2026-10-20, 15:42:45](https://news.ycombinator.com/item?id=50168096) - [IKEA – 3D Guide](https://sael.net/flatpack/)
+* [2026-10-20, 15:20:04](https://news.ycombinator.com/item?id=50167744) - [Hand-bent after 3D printing, Oberdoerfer and Krebs' Bend chair](https://www.designboom.com/design/hand-bent-3d-printing-oberdoerfer-krebs-digital-fabrication-bend-chair-ukurant-3daysofdesign/)
 * [2026-10-20, 15:19:19](https://news.ycombinator.com/item?id=50167732) - [Why do we have so many meetings?](https://www.nber.org/papers/w35706)
 * [2026-10-20, 15:14:14](https://news.ycombinator.com/item?id=50167657) - [Show HN: Clerkenwell – A Handwritten Clojure Notebook](https://handwritten.danieljanus.pl/2026-10-20-clerkenwell.html)
 * [2026-10-20, 15:11:56](https://news.ycombinator.com/item?id=50167617) - [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com)

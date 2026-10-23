@@ -27,9 +27,9 @@
 * [2026-10-22, 10:11:44](https://news.ycombinator.com/item?id=50193416) - [Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.](https://news.ycombinator.com/item?id=50193416)
 * [2026-10-22, 07:41:29](https://news.ycombinator.com/item?id=50192396) - [A lost Schrödinger manuscript reveals a twist in quantum physics](https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics)
 * [2026-10-22, 02:18:41](https://news.ycombinator.com/item?id=50190363) - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
-* [2026-10-21, 22:33:08](https://news.ycombinator.com/item?id=50188614) - [Postgres recovery_prefetch can cause outages](https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/)
 * [2026-10-21, 13:40:31](https://news.ycombinator.com/item?id=50180799) - [I reverse engineered a board game](https://wuemeli.com/blog/reversing-hitster-game/)
 * [2026-10-20, 16:27:56](https://news.ycombinator.com/item?id=50168850) - [Color Names](https://names.color.pizza)
+* [2026-10-20, 15:20:04](https://news.ycombinator.com/item?id=50167744) - [Hand-bent after 3D printing, Oberdoerfer and Krebs' Bend chair](https://www.designboom.com/design/hand-bent-3d-printing-oberdoerfer-krebs-digital-fabrication-bend-chair-ukurant-3daysofdesign/)
 
 ## [Archives](archives/index.md)
 
