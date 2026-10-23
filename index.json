@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-23, 16:21:50",
+      "https://news.ycombinator.com/item?id=50211474"
+    ],
+    [
+      "\"Today, we hacked what we'd set out to hack: the iPhone.\"",
+      "https://blog.calif.io/p/iphone"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 14:52:47",
       "https://news.ycombinator.com/item?id=50210075"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-10-22, 22:54:43",
-      "https://news.ycombinator.com/item?id=50202217"
-    ],
-    [
-      "LLMs are making formal software verification feasible at a much larger scale",
-      "https://www.anthropic.com/research/formal-verification"
-    ]
-  ],
-  [
-    [
       "2026-10-22, 21:41:13",
       "https://news.ycombinator.com/item?id=50201445"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-10-21, 13:40:31",
-      "https://news.ycombinator.com/item?id=50180799"
+      "2026-10-20, 17:10:05",
+      "https://news.ycombinator.com/item?id=50169499"
     ],
     [
-      "I reverse engineered a board game",
-      "https://wuemeli.com/blog/reversing-hitster-game/"
+      "The Real Kevin Bacon",
+      "https://pudding.cool/2026/10/kevin-bacon/"
     ]
   ]
 ]
