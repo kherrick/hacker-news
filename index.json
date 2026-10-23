@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2026-10-22, 22:16:48",
+      "https://news.ycombinator.com/item?id=50201842"
+    ],
+    [
+      "Rule 30: one black cell",
+      "https://www.wolframcollatzmahler.com/rule30/index.html"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 21:41:13",
       "https://news.ycombinator.com/item?id=50201445"
     ],
@@ -127,16 +137,6 @@
     [
       "The HTML-in-Canvas API origin trial",
       "https://developer.chrome.com/blog/html-in-canvas-origin-trial"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 18:44:36",
-      "https://news.ycombinator.com/item?id=50199389"
-    ],
-    [
-      "Hedra is a 3D open world game I wrote from scratch while in highschool",
-      "https://github.com/maxilevi/project-hedra/tree/pre-ai"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-10-21, 22:33:08",
-      "https://news.ycombinator.com/item?id=50188614"
+      "2026-10-21, 13:40:31",
+      "https://news.ycombinator.com/item?id=50180799"
     ],
     [
-      "Postgres recovery_prefetch can cause outages",
-      "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/"
+      "I reverse engineered a board game",
+      "https://wuemeli.com/blog/reversing-hitster-game/"
     ]
   ],
   [
