@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-10-21, 22:33:08",
+      "https://news.ycombinator.com/item?id=50188614"
+    ],
+    [
+      "Postgres recovery_prefetch can cause outages",
+      "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 13:04:25",
       "https://news.ycombinator.com/item?id=50180257"
     ],
@@ -277,16 +287,6 @@
     [
       "Dungeon Generation in the Gnomish Mines of NetHack",
       "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 10:35:14",
-      "https://news.ycombinator.com/item?id=50150681"
-    ],
-    [
-      "Speeding up code review with `small-change`",
-      "https://lethain.com/small-changes/"
     ]
   ],
   [
