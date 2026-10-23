@@ -129,6 +129,28 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="50215983">
+          <h3>
+            <a
+              class="item"
+              href="https://www.computerworld.com/article/4239858/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more.html"
+              >Google will pay people to use less electricity so its data
+              centers can use more</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-23 @ 22:03:40</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50215983"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="50215530">
           <h3>
             <a class="item" href="https://cve.0xosprey.com/">CVE Tracker</a>
@@ -137,11 +159,11 @@
             <h4>
               <span>2026-10-23 @ 21:21:47</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50215530"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -158,11 +180,11 @@
             <h4>
               <span>2026-10-23 @ 20:38:06</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50214994"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -179,7 +201,7 @@
             <h4>
               <span>2026-10-23 @ 20:37:12</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50214983"
                   >Comments</a
@@ -188,47 +210,69 @@
             </h4>
           </section>
         </section>
-        <section id="50214447">
+        <section id="50214373">
           <h3>
-            <a
-              class="item"
-              href="https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left"
-              >Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All
-              That's Left</a
+            <a class="item" href="https://corgi.computer/"
+              >Show HN: Corgi, a helpful {agent, terminal} multiplexer</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-10-23 @ 19:53:55</span
+              <span>2026-10-23 @ 19:46:38</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">4</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50214447"
+                ><a href="https://news.ycombinator.com/item?id=50214373"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="50214416">
-          <h3>
-            <a
-              class="item"
-              href="https://openai.com/index/securing-our-frontier-model-training-environment/"
-              >OpenAI: Securing our frontier model training environment</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-23 @ 19:50:56</span
-              ><span class="points-container"
-                >Points: <span class="points">51</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50214416"
-                  >Comments</a
-                ><span class="descendants">: 58</span></span
-              >
-            </h4>
+            <div class="text">
+              <p>
+                Inspired by Herdr, I've built an agent multiplexer that I've
+                been using as my daily driver for a few weeks now.
+              </p>
+              <p>
+                I think I improved on the concept in a few ways, focusing on the
+                ergonomics I always wished I had:
+              </p>
+              <p>
+                I show you what the agents are up to, along with a running feed
+                of their activity. There's also a simple shortcut (F1) to go to
+                the next unread agent.
+              </p>
+              <p>
+                I use multiple accounts, so I've added unified launcher for
+                Codex/Claude Code/Pi. Theres some careful ergonomics there: fast
+                search and resume over sessions, inline usage tracking etc.
+              </p>
+              <p>
+                Many small quality of life improvements to the terminal
+                experience: - Links can be copied with a click, so no need to
+                drag-select over many lines - cmd+v just pastes images (even on
+                SSH) - images have a thumbnail preview. - Built-in
+                CPU/Memory/GPU usage tracking, broken down by workspace
+              </p>
+              <p>
+                I assume you have access to cheap inference (Luna/Haiku/etc). It
+                just reuses the agents to organize things for you: what is this
+                http link? what is this worktree about? what is each agent
+                doing? It's small but it made my environment feel more cozy.
+              </p>
+              <p>
+                On a personal note, I've been on a frustrating sick leave for a
+                while now. I created Corgi to challenge myself, and see if I can
+                go back. The answer is more mixed than I had hoped, but I am
+                happy with the result and thankful for the experience.
+              </p>
+              <p>
+                I hope you like it! a few friends &amp; myself have been using
+                it for a few weeks and it's been pretty nice. There's still a
+                lot to improve and some rough edges, so feedback would be
+                greatly appreciated.
+              </p>
+              <p>Thank you :)</p>
+            </div>
           </section>
         </section>
         <section id="50214325">
@@ -242,11 +286,11 @@
             <h4>
               <span>2026-10-23 @ 19:42:01</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50214325"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -263,11 +307,11 @@
             <h4>
               <span>2026-10-23 @ 19:41:59</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50214323"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -285,11 +329,11 @@
             <h4>
               <span>2026-10-23 @ 19:34:15</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50214218"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -304,11 +348,11 @@
             <h4>
               <span>2026-10-23 @ 19:09:54</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50213925"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -323,11 +367,11 @@
             <h4>
               <span>2026-10-23 @ 19:00:04</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50213791"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -345,7 +389,7 @@
             <h4>
               <span>2026-10-23 @ 17:40:22</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50212668"
                   >Comments</a
@@ -366,11 +410,11 @@
             <h4>
               <span>2026-10-23 @ 17:15:03</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50212320"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -385,11 +429,11 @@
             <h4>
               <span>2026-10-23 @ 17:12:51</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50212281"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -406,7 +450,7 @@
             <h4>
               <span>2026-10-23 @ 17:02:24</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50212124"
                   >Comments</a
@@ -425,11 +469,11 @@
             <h4>
               <span>2026-10-23 @ 16:59:08</span
               ><span class="points-container"
-                >Points: <span class="points">621</span></span
+                >Points: <span class="points">629</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50212065"
                   >Comments</a
-                ><span class="descendants">: 385</span></span
+                ><span class="descendants">: 399</span></span
               >
             </h4>
             <div class="text">
@@ -459,11 +503,11 @@
             <h4>
               <span>2026-10-23 @ 16:39:45</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50211746"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -518,11 +562,11 @@
             <h4>
               <span>2026-10-23 @ 16:21:50</span
               ><span class="points-container"
-                >Points: <span class="points">677</span></span
+                >Points: <span class="points">680</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50211474"
                   >Comments</a
-                ><span class="descendants">: 450</span></span
+                ><span class="descendants">: 452</span></span
               >
             </h4>
           </section>
@@ -539,11 +583,11 @@
             <h4>
               <span>2026-10-23 @ 14:43:02</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50209907"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -558,11 +602,11 @@
             <h4>
               <span>2026-10-23 @ 12:28:47</span
               ><span class="points-container"
-                >Points: <span class="points">468</span></span
+                >Points: <span class="points">480</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50207910"
                   >Comments</a
-                ><span class="descendants">: 162</span></span
+                ><span class="descendants">: 167</span></span
               >
             </h4>
             <div class="text">
@@ -583,11 +627,11 @@
             <h4>
               <span>2026-10-23 @ 06:54:52</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50205320"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
             <div class="text">
@@ -639,7 +683,7 @@
             <h4>
               <span>2026-10-22 @ 23:54:28</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50202746"
                   >Comments</a
@@ -687,7 +731,7 @@
             <h4>
               <span>2026-10-22 @ 23:01:18</span
               ><span class="points-container"
-                >Points: <span class="points">1171</span></span
+                >Points: <span class="points">1177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50202285"
                   >Comments</a
@@ -708,46 +752,13 @@
             <h4>
               <span>2026-10-22 @ 22:43:19</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">278</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50202114"
                   >Comments</a
-                ><span class="descendants">: 134</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="50200997">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=50200997"
-              >Ask HN: If the models are so good, why doesn't OpenAI just start
-              100 companies?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-22 @ 21:03:55</span
-              ><span class="points-container"
-                >Points: <span class="points">584</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50200997"
-                  >Comments</a
-                ><span class="descendants">: 634</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Couldn't OpenAI or Anthropic make a lot more money by just
-                starting companies themselves that leverage the models and
-                building their own products?
-              </p>
-              <p>Is selling tokens really the best strategy?</p>
-              <p>
-                Especially with commodification and prices declining wouldn't
-                that indicate there is more money to be made on the
-                application-side of the models rather than the utility side
-              </p>
-            </div>
           </section>
         </section>
         <section id="50199684">
@@ -764,103 +775,49 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50199684"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="50195488">
+        <section id="50190363">
           <h3>
-            <a class="item" href="https://github.com/dsmurrell/onkey"
-              >Show HN: OnKey – I'm a bad singer, so I built an app to show
-              where I'm off-key</a
+            <a
+              class="item"
+              href="https://simedw.com/2026/10/21/world-model-terminal/"
+              >WorldTUI: I trained a 360M model to pretend to be a terminal</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-10-22 @ 14:04:44</span
+              <span>2026-10-22 @ 02:18:41</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">608</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50195488"
+                ><a href="https://news.ycombinator.com/item?id=50190363"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 182</span></span
               >
             </h4>
-            <div class="text">
-              <p>
-                I was pretty terrible at singing, now I’d say I’m bad but not
-                terrible. This is because I’ve been using a singing app (won’t
-                name it here) that scores me on my pitch and timing throughout
-                the song so that I can improve.
-              </p>
-              <p>
-                Lately however, the app I’ve been using has flooded their song
-                list with songs that aren’t originals. I didn’t like this at all
-                as for me, it’s easier to try to improve when you’re singing
-                along to the original.
-              </p>
-              <p>
-                So, I asked an agent (Claude Code) if it could write some code
-                to listen to Spotify and also listen to me and see if it could
-                detect both pitches and score me. It impressed me by writing
-                some Python and showing me my pitch in the terminal!
-              </p>
-              <p>
-                It couldn’t go all the way though and detect the singer’s pitch
-                in real time.
-              </p>
-              <p>
-                So I found the next best setup and built OnKey, a Mac app that
-                needs to listen to the song once (it doesn’t save it) and then
-                when it’s learnt the song (takes a couple of minutes), you can
-                sing along to the pitch track that it’s learnt. OnKey is free to
-                use and open source under the MIT license.
-              </p>
-              <p>
-                It can listen to Spotify, Apple Music, and YouTube playing in
-                your browser with the right permissions.
-              </p>
-              <p>
-                During the build I found that someone had done something similar
-                in Nightingale, but this requires a library of songs exported to
-                disk and who has this in 2026 (maybe some of you ;) - but we
-                need to help the normies too).
-              </p>
-              <p>
-                You can check out a demo video on the site of me singing
-                (warning given) here:
-                <a href="https://singonkey.app">https://singonkey.app</a>
-              </p>
-              <p>
-                The app sends out to find the song info (short Shazam
-                fingerprint, and looks up song details), lyrics (from LRCLIB),
-                and checks for updates.
-              </p>
-              <p>
-                The app never sends the music (it doesn’t save this to disk) and
-                your voice. Everything you’d expect to stay private does.
-              </p>
-              <p>It’s still weak in a few places:</p>
-              <p>
-                - when the song’s backing is noisy it’s hard to pick the pitch
-                track out
-              </p>
-              <p>- sometimes it gets a note an octave off</p>
-              <p>
-                - it’s limited to Apple Silicon Macs, M1 or later, and only
-                macOS 14.2 up because extra drivers aren’t required past this
-                point
-              </p>
-              <p>
-                - the scoring is built for beginners like me so it’s fairly easy
-                on you
-              </p>
-              <p>
-                Would love for people to try it out and let me know what works
-                and what doesn’t for them!
-              </p>
-            </div>
+          </section>
+        </section>
+        <section id="50179454">
+          <h3>
+            <a class="item" href="https://johnsnow.rtwilson.com/"
+              >John Snow Cholera Data</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-21 @ 12:00:21</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50179454"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="50177554">
@@ -875,11 +832,11 @@
             <h4>
               <span>2026-10-21 @ 08:17:35</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50177554"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -894,11 +851,11 @@
             <h4>
               <span>2026-10-20 @ 17:10:05</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50169499"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
