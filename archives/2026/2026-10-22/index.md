@@ -12,6 +12,7 @@
 * [2026-10-22, 23:24:17](https://news.ycombinator.com/item?id=50202482) - [We have traits at home](https://www.axelmagn.com/blog/202610-zig-traits/)
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
 * [2026-10-22, 22:54:43](https://news.ycombinator.com/item?id=50202217) - [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
+* [2026-10-22, 22:43:19](https://news.ycombinator.com/item?id=50202114) - [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill)
 * [2026-10-22, 22:18:40](https://news.ycombinator.com/item?id=50201860) - [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool)
 * [2026-10-22, 22:16:48](https://news.ycombinator.com/item?id=50201842) - [Rule 30: one black cell](https://www.wolframcollatzmahler.com/rule30/index.html)
 * [2026-10-22, 21:41:13](https://news.ycombinator.com/item?id=50201445) - [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images)
