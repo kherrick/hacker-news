@@ -16,6 +16,7 @@
 * [2026-10-22, 19:54:04](https://news.ycombinator.com/item?id=50200164) - [The HTML-in-Canvas API origin trial](https://developer.chrome.com/blog/html-in-canvas-origin-trial)
 * [2026-10-22, 18:44:36](https://news.ycombinator.com/item?id=50199389) - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
 * [2026-10-22, 17:44:06](https://news.ycombinator.com/item?id=50198675) - [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
+* [2026-10-22, 16:34:39](https://news.ycombinator.com/item?id=50197692) - [Objects, attributes, maps, oh my](https://bernsteinbear.com/blog/object-shapes/)
 * [2026-10-22, 16:14:31](https://news.ycombinator.com/item?id=50197404) - [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
 * [2026-10-22, 16:08:00](https://news.ycombinator.com/item?id=50197313) - [Every AI model has the same \"controversial\" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
 * [2026-10-22, 15:26:22](https://news.ycombinator.com/item?id=50196718) - [Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
@@ -29,7 +30,6 @@
 * [2026-10-22, 02:18:41](https://news.ycombinator.com/item?id=50190363) - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
 * [2026-10-21, 13:40:31](https://news.ycombinator.com/item?id=50180799) - [I reverse engineered a board game](https://wuemeli.com/blog/reversing-hitster-game/)
 * [2026-10-20, 16:27:56](https://news.ycombinator.com/item?id=50168850) - [Color Names](https://names.color.pizza)
-* [2026-10-20, 13:40:04](https://news.ycombinator.com/item?id=50166272) - [Why my Asus laptop kept rebooting after sleep and how to fix it](https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep)
 
 ## [Archives](archives/index.md)
 
