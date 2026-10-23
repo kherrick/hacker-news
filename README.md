@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-23, 22:18:49](https://news.ycombinator.com/item?id=50216142) - [German court calls Google aerial imagery 'spying'](https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/)
 * [2026-10-23, 21:21:47](https://news.ycombinator.com/item?id=50215530) - [CVE Tracker](https://cve.0xosprey.com/)
 * [2026-10-23, 20:38:06](https://news.ycombinator.com/item?id=50214994) - [No Source Code? No Problem](https://queue.acm.org/doi/10.1145/945131.945155)
 * [2026-10-23, 20:37:12](https://news.ycombinator.com/item?id=50214983) - [A whirlwind tour of systemd-nspawn containers](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
@@ -10,7 +11,6 @@
 * [2026-10-23, 19:34:15](https://news.ycombinator.com/item?id=50214218) - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
 * [2026-10-23, 19:09:54](https://news.ycombinator.com/item?id=50213925) - [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
 * [2026-10-23, 19:00:04](https://news.ycombinator.com/item?id=50213791) - [DNS: A Replacement for Finger](https://altchan.org/sh/42)
-* [2026-10-23, 18:54:01](https://news.ycombinator.com/item?id=50213717) - [Caffeine-like utility to keep you MacBook awake with its lid closed](https://github.com/clashman/caffeinate-plus)
 * [2026-10-23, 17:40:22](https://news.ycombinator.com/item?id=50212668) - [I turned my TV into a Game Boy Color with a Pokemon town as my home screen](https://twitter.com/robbietilton/status/2111936458923851923)
 * [2026-10-23, 17:28:36](https://news.ycombinator.com/item?id=50212507) - [Air Purifiers as White Noise Machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
 * [2026-10-23, 17:15:03](https://news.ycombinator.com/item?id=50212320) - [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/)
