@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-10-22, 23:56:39",
+      "https://news.ycombinator.com/item?id=50202766"
+    ],
+    [
+      "Mapping the Northern Sky",
+      "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 23:45:56",
+      "https://news.ycombinator.com/item?id=50202681"
+    ],
+    [
+      "Docker Is Weird",
+      "https://codeandcake.dev/posts/2026-10-22-docker-is-weird"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 23:45:16",
+      "https://news.ycombinator.com/item?id=50202671"
+    ],
+    [
+      "AI compute is the new oil–and needs a new market",
+      "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 22:54:43",
       "https://news.ycombinator.com/item?id=50202217"
     ],
     [
       "LLMs are making formal software verification feasible at a much larger scale",
       "https://www.anthropic.com/research/formal-verification"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 22:18:40",
-      "https://news.ycombinator.com/item?id=50201860"
-    ],
-    [
-      "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
-      "https://github.com/Coverage-Cat/consumer-agent-testing-tool"
     ]
   ],
   [
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2026-10-22, 18:32:57",
-      "https://news.ycombinator.com/item?id=50199290"
-    ],
-    [
-      "Show HN: UI micro interactions prompts for AI",
-      "https://www.typeui.sh/micro-interactions"
-    ]
-  ],
-  [
-    [
       "2026-10-22, 18:28:16",
       "https://news.ycombinator.com/item?id=50199230"
     ],
     [
       "AI and the Enclosure of the Scientific Commons",
       "https://arxiv.org/abs/2610.27251"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 18:02:54",
-      "https://news.ycombinator.com/item?id=50198940"
-    ],
-    [
-      "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-      "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "A farewell to Arc browser",
       "https://arc.net/"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 16:16:45",
-      "https://news.ycombinator.com/item?id=50197450"
-    ],
-    [
-      "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
-      "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence"
     ]
   ],
   [
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2026-10-22, 13:03:14",
-      "https://news.ycombinator.com/item?id=50194762"
+      "2026-10-22, 12:40:04",
+      "https://news.ycombinator.com/item?id=50194522"
     ],
     [
-      "Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
-      "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/"
+      "The Last Museum: Semantic search across 5.8M artworks from major museums",
+      "https://lastmuseum.com/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "The phenomena that brighten dawn and dusk (2016)",
       "https://www.colorado.edu/asmagazine-archive/node/2039"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 16:27:56",
+      "https://news.ycombinator.com/item?id=50168850"
+    ],
+    [
+      "Color Names",
+      "https://names.color.pizza"
     ]
   ],
   [
