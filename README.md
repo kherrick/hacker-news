@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-23, 21:21:47](https://news.ycombinator.com/item?id=50215530) - [CVE Tracker](https://cve.0xosprey.com/)
 * [2026-10-23, 20:38:06](https://news.ycombinator.com/item?id=50214994) - [No Source Code? No Problem](https://queue.acm.org/doi/10.1145/945131.945155)
 * [2026-10-23, 20:37:12](https://news.ycombinator.com/item?id=50214983) - [A whirlwind tour of systemd-nspawn containers](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
 * [2026-10-23, 19:53:55](https://news.ycombinator.com/item?id=50214447) - [Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left](https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left)
@@ -17,7 +18,6 @@
 * [2026-10-23, 16:39:45](https://news.ycombinator.com/item?id=50211746) - [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
 * [2026-10-23, 16:38:35](https://news.ycombinator.com/item?id=50211729) - [The Missed Opportunities of Sonic 06 (2025)](https://isaacmarovitz.com/posts/sonic-06/)
 * [2026-10-23, 16:38:17](https://news.ycombinator.com/item?id=50211719) - [How is music possible](https://www.henrikkarlsson.xyz/p/music)
-* [2026-10-23, 16:23:29](https://news.ycombinator.com/item?id=50211504) - [Total Historian](https://www.theideasletter.org/essay/total-historian/)
 * [2026-10-23, 16:21:50](https://news.ycombinator.com/item?id=50211474) - [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
 * [2026-10-23, 14:43:02](https://news.ycombinator.com/item?id=50209907) - [Gemma-4-26B-A4B with 39-69% less thinking at same accuracy](https://bottlecapai.com/post/thinkingcap-gemma-4-26b/)
 * [2026-10-23, 12:28:47](https://news.ycombinator.com/item?id=50207910) - [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
