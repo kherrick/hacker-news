@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-23, 20:05:30](https://news.ycombinator.com/item?id=50214568) - [Why Do AI Models Tell Left-Wing Voters to Support the Communist Party?](https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks)
+* [2026-10-23, 19:09:54](https://news.ycombinator.com/item?id=50213925) - [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
 * [2026-10-23, 18:24:54](https://news.ycombinator.com/item?id=50213337) - [Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line](https://artificialanalysis.ai/models/kimi-k3-1-pro)
 * [2026-10-23, 17:40:22](https://news.ycombinator.com/item?id=50212668) - [I turned my TV into a Game Boy Color with a Pokemon town as my home screen](https://twitter.com/robbietilton/status/2111936458923851923)
-* [2026-10-23, 17:28:36](https://news.ycombinator.com/item?id=50212507) - [Air Purifiers as White Noise Machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
 * [2026-10-23, 17:15:03](https://news.ycombinator.com/item?id=50212320) - [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/)
-* [2026-10-23, 17:13:27](https://news.ycombinator.com/item?id=50212292) - [Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)](https://drop7.dev)
 * [2026-10-23, 17:12:51](https://news.ycombinator.com/item?id=50212281) - [Time Nuts (2005)](http://leapsecond.com/time-nuts.htm)
 * [2026-10-23, 17:02:24](https://news.ycombinator.com/item?id=50212124) - [Animations for System Builders](https://brooker.co.za/blog/2026/10/23/animations.html)
 * [2026-10-23, 16:59:08](https://news.ycombinator.com/item?id=50212065) - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
@@ -20,7 +20,6 @@
 * [2026-10-23, 06:54:52](https://news.ycombinator.com/item?id=50205320) - [Show HN: Swurf – Swipe through the real web](https://swurf.org/)
 * [2026-10-23, 00:52:01](https://news.ycombinator.com/item?id=50203161) - [The foolishness of \"natural language programming\" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2026-10-22, 23:54:28](https://news.ycombinator.com/item?id=50202746) - [Show HN: Impossible Machines: declaratively program the physical world](https://www.impossiblemachines.xyz)
-* [2026-10-22, 23:45:56](https://news.ycombinator.com/item?id=50202681) - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 * [2026-10-22, 23:24:17](https://news.ycombinator.com/item?id=50202482) - [We have traits at home](https://www.axelmagn.com/blog/202610-zig-traits/)
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
 * [2026-10-22, 22:43:19](https://news.ycombinator.com/item?id=50202114) - [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill)
@@ -29,6 +28,7 @@
 * [2026-10-22, 19:08:09](https://news.ycombinator.com/item?id=50199684) - [LISP Comes of Age (1980)](https://microship.com/lisp-comes-of-age/)
 * [2026-10-22, 14:04:44](https://news.ycombinator.com/item?id=50195488) - [Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey)
 * [2026-10-22, 13:25:01](https://news.ycombinator.com/item?id=50195002) - [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092)
+* [2026-10-22, 02:18:41](https://news.ycombinator.com/item?id=50190363) - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
 * [2026-10-20, 17:10:05](https://news.ycombinator.com/item?id=50169499) - [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
 
 ## [Archives](archives/index.md)

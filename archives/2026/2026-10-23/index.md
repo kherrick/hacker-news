@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 20:05:30](https://news.ycombinator.com/item?id=50214568) - [Why Do AI Models Tell Left-Wing Voters to Support the Communist Party?](https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks)
+* [2026-10-23, 19:09:54](https://news.ycombinator.com/item?id=50213925) - [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
 * [2026-10-23, 18:24:54](https://news.ycombinator.com/item?id=50213337) - [Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line](https://artificialanalysis.ai/models/kimi-k3-1-pro)
 * [2026-10-23, 17:40:22](https://news.ycombinator.com/item?id=50212668) - [I turned my TV into a Game Boy Color with a Pokemon town as my home screen](https://twitter.com/robbietilton/status/2111936458923851923)
 * [2026-10-23, 17:28:36](https://news.ycombinator.com/item?id=50212507) - [Air Purifiers as White Noise Machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
