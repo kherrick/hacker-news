@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 13:41:10](https://news.ycombinator.com/item?id=50208837) - [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
 * [2026-10-23, 13:19:42](https://news.ycombinator.com/item?id=50208558) - [Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/?)
 * [2026-10-23, 13:02:23](https://news.ycombinator.com/item?id=50208343) - [Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter)
+* [2026-10-23, 12:56:38](https://news.ycombinator.com/item?id=50208258) - [Hacker leaks 281 GB of data from Germany's far-right AfD party](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd)
 * [2026-10-23, 12:42:44](https://news.ycombinator.com/item?id=50208099) - [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
 * [2026-10-23, 11:39:54](https://news.ycombinator.com/item?id=50207405) - [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)
 * [2026-10-23, 11:04:53](https://news.ycombinator.com/item?id=50207115) - [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/)
