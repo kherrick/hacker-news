@@ -71,6 +71,7 @@
 * [2026-10-20, 08:55:50](https://news.ycombinator.com/item?id=50163173) - [Fizzpoker – No-login Online Poker with friends](https://www.fizzpoker.com)
 * [2026-10-20, 08:51:31](https://news.ycombinator.com/item?id=50163142) - [There is no official XScreenSaver GitHub repository](https://github.com/xscreensaver-official/xscreensaver)
 * [2026-10-20, 08:16:55](https://news.ycombinator.com/item?id=50162860) - [Everything is going wrong for Muhammad bin Salman](https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman)
+* [2026-10-20, 07:15:12](https://news.ycombinator.com/item?id=50162431) - [The Secret Life of Circuits is now in stock everywhere](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now)
 * [2026-10-20, 06:40:49](https://news.ycombinator.com/item?id=50162198) - [Vite+ an excellent toolchain for AI agent development](https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en)
 * [2026-10-20, 06:37:07](https://news.ycombinator.com/item?id=50162177) - [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
 * [2026-10-20, 06:20:54](https://news.ycombinator.com/item?id=50162044) - [Tiny possum and glider thought extinct for 6000 years found in remote West Papua](https://www.bbc.com/news/articles/cp814l80pw2o)

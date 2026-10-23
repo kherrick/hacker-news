@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-10-23](index.md)
+
+* [2026-10-23, 00:52:01](https://news.ycombinator.com/item?id=50203161) - [The foolishness of \"natural language programming\" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
