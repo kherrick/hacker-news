@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-23, 13:19:42](https://news.ycombinator.com/item?id=50208558) - [Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/?)
+* [2026-10-23, 13:02:23](https://news.ycombinator.com/item?id=50208343) - [Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter)
 * [2026-10-23, 12:42:44](https://news.ycombinator.com/item?id=50208099) - [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
 * [2026-10-23, 11:39:54](https://news.ycombinator.com/item?id=50207405) - [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)
 * [2026-10-23, 11:04:53](https://news.ycombinator.com/item?id=50207115) - [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/)
@@ -14,7 +16,6 @@
 * [2026-10-22, 23:56:36](https://news.ycombinator.com/item?id=50202762) - [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
 * [2026-10-22, 23:45:56](https://news.ycombinator.com/item?id=50202681) - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
-* [2026-10-22, 22:54:43](https://news.ycombinator.com/item?id=50202217) - [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
 * [2026-10-22, 21:41:13](https://news.ycombinator.com/item?id=50201445) - [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images)
 * [2026-10-22, 21:03:55](https://news.ycombinator.com/item?id=50200997) - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)
 * [2026-10-22, 19:54:04](https://news.ycombinator.com/item?id=50200164) - [The HTML-in-Canvas API origin trial](https://developer.chrome.com/blog/html-in-canvas-origin-trial)
@@ -29,7 +30,6 @@
 * [2026-10-22, 10:11:44](https://news.ycombinator.com/item?id=50193416) - [Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.](https://news.ycombinator.com/item?id=50193416)
 * [2026-10-22, 02:18:41](https://news.ycombinator.com/item?id=50190363) - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
 * [2026-10-21, 13:40:31](https://news.ycombinator.com/item?id=50180799) - [I reverse engineered a board game](https://wuemeli.com/blog/reversing-hitster-game/)
-* [2026-10-20, 15:20:04](https://news.ycombinator.com/item?id=50167744) - [Hand-bent after 3D printing, Oberdoerfer and Krebs' Bend chair](https://www.designboom.com/design/hand-bent-3d-printing-oberdoerfer-krebs-digital-fabrication-bend-chair-ukurant-3daysofdesign/)
 
 ## [Archives](archives/index.md)
 
