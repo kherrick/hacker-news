@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 20:38:06](https://news.ycombinator.com/item?id=50214994) - [No Source Code? No Problem](https://queue.acm.org/doi/10.1145/945131.945155)
 * [2026-10-23, 20:37:12](https://news.ycombinator.com/item?id=50214983) - [A whirlwind tour of systemd-nspawn containers](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
 * [2026-10-23, 20:15:27](https://news.ycombinator.com/item?id=50214701) - [Kimi K3.1 Pro puts open-source AI a month behind the best](https://www.modelcompare.ai/blog/china-open-source-ai)
 * [2026-10-23, 20:05:30](https://news.ycombinator.com/item?id=50214568) - [Why Do AI Models Tell Left-Wing Voters to Support the Communist Party?](https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks)

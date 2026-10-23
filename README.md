@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-23, 20:38:06](https://news.ycombinator.com/item?id=50214994) - [No Source Code? No Problem](https://queue.acm.org/doi/10.1145/945131.945155)
 * [2026-10-23, 20:37:12](https://news.ycombinator.com/item?id=50214983) - [A whirlwind tour of systemd-nspawn containers](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
 * [2026-10-23, 19:53:55](https://news.ycombinator.com/item?id=50214447) - [Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left](https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left)
 * [2026-10-23, 19:50:56](https://news.ycombinator.com/item?id=50214416) - [OpenAI: Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment/)
@@ -19,7 +20,6 @@
 * [2026-10-23, 16:38:17](https://news.ycombinator.com/item?id=50211719) - [How is music possible](https://www.henrikkarlsson.xyz/p/music)
 * [2026-10-23, 16:23:29](https://news.ycombinator.com/item?id=50211504) - [Total Historian](https://www.theideasletter.org/essay/total-historian/)
 * [2026-10-23, 16:21:50](https://news.ycombinator.com/item?id=50211474) - [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
-* [2026-10-23, 14:43:02](https://news.ycombinator.com/item?id=50209907) - [Gemma-4-26B-A4B with 39-69% less thinking at same accuracy](https://bottlecapai.com/post/thinkingcap-gemma-4-26b/)
 * [2026-10-23, 12:28:47](https://news.ycombinator.com/item?id=50207910) - [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
 * [2026-10-23, 06:54:52](https://news.ycombinator.com/item?id=50205320) - [Show HN: Swurf – Swipe through the real web](https://swurf.org/)
 * [2026-10-22, 23:54:28](https://news.ycombinator.com/item?id=50202746) - [Show HN: Impossible Machines: declaratively program the physical world](https://www.impossiblemachines.xyz)
@@ -28,7 +28,7 @@
 * [2026-10-22, 21:03:55](https://news.ycombinator.com/item?id=50200997) - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)
 * [2026-10-22, 19:08:09](https://news.ycombinator.com/item?id=50199684) - [LISP Comes of Age (1980)](https://microship.com/lisp-comes-of-age/)
 * [2026-10-22, 14:04:44](https://news.ycombinator.com/item?id=50195488) - [Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey)
-* [2026-10-22, 13:25:01](https://news.ycombinator.com/item?id=50195002) - [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092)
+* [2026-10-21, 08:17:35](https://news.ycombinator.com/item?id=50177554) - [A Bicycle Journey Across Brazil to Find a Vanishing Savanna](https://e360.yale.edu/features/2026-film-contest-second-place-cerrado)
 * [2026-10-20, 17:10:05](https://news.ycombinator.com/item?id=50169499) - [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
 
 ## [Archives](archives/index.md)
