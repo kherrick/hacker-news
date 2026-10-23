@@ -13,7 +13,6 @@
 * [2026-10-23, 19:00:04](https://news.ycombinator.com/item?id=50213791) - [DNS: A Replacement for Finger](https://altchan.org/sh/42)
 * [2026-10-23, 17:40:22](https://news.ycombinator.com/item?id=50212668) - [I turned my TV into a Game Boy Color with a Pokemon town as my home screen](https://twitter.com/robbietilton/status/2111936458923851923)
 * [2026-10-23, 17:28:36](https://news.ycombinator.com/item?id=50212507) - [Air Purifiers as White Noise Machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
-* [2026-10-23, 17:15:03](https://news.ycombinator.com/item?id=50212320) - [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/)
 * [2026-10-23, 17:02:24](https://news.ycombinator.com/item?id=50212124) - [Animations for System Builders](https://brooker.co.za/blog/2026/10/23/animations.html)
 * [2026-10-23, 16:59:08](https://news.ycombinator.com/item?id=50212065) - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
 * [2026-10-23, 16:39:45](https://news.ycombinator.com/item?id=50211746) - [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
@@ -30,6 +29,7 @@
 * [2026-10-21, 12:00:21](https://news.ycombinator.com/item?id=50179454) - [John Snow Cholera Data](https://johnsnow.rtwilson.com/)
 * [2026-10-21, 08:17:35](https://news.ycombinator.com/item?id=50177554) - [A Bicycle Journey Across Brazil to Find a Vanishing Savanna](https://e360.yale.edu/features/2026-film-contest-second-place-cerrado)
 * [2026-10-20, 17:10:05](https://news.ycombinator.com/item?id=50169499) - [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
+* [2026-10-20, 15:41:28](https://news.ycombinator.com/item?id=50168075) - [Rise of collagen-eating microbes may help explain gaps in the fossil record](https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record)
 
 ## [Archives](archives/index.md)
 
