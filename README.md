@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-23, 16:21:50](https://news.ycombinator.com/item?id=50211474) - [\"Today, we hacked what we'd set out to hack: the iPhone.\"](https://blog.calif.io/p/iphone)
 * [2026-10-23, 14:52:47](https://news.ycombinator.com/item?id=50210075) - [Pentagon grants DHS permission to test heat ray weapon for use at border](https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon)
 * [2026-10-23, 14:52:08](https://news.ycombinator.com/item?id=50210067) - [eMudhra ignored Mozilla Root investigation deadline; blames social media](https://bugzilla.mozilla.org/show_bug.cgi?id=2083449)
 * [2026-10-23, 13:41:10](https://news.ycombinator.com/item?id=50208837) - [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
@@ -15,7 +16,6 @@
 * [2026-10-22, 23:56:36](https://news.ycombinator.com/item?id=50202762) - [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
 * [2026-10-22, 23:45:56](https://news.ycombinator.com/item?id=50202681) - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
-* [2026-10-22, 22:54:43](https://news.ycombinator.com/item?id=50202217) - [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
 * [2026-10-22, 21:41:13](https://news.ycombinator.com/item?id=50201445) - [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images)
 * [2026-10-22, 21:03:55](https://news.ycombinator.com/item?id=50200997) - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)
 * [2026-10-22, 19:54:04](https://news.ycombinator.com/item?id=50200164) - [The HTML-in-Canvas API origin trial](https://developer.chrome.com/blog/html-in-canvas-origin-trial)
@@ -29,7 +29,7 @@
 * [2026-10-22, 11:42:03](https://news.ycombinator.com/item?id=50194009) - [Xbox wants you to pay 24 to 40 cents per hour to stream games you bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/)
 * [2026-10-22, 10:11:44](https://news.ycombinator.com/item?id=50193416) - [Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry](https://news.ycombinator.com/item?id=50193416)
 * [2026-10-22, 02:18:41](https://news.ycombinator.com/item?id=50190363) - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
-* [2026-10-21, 13:40:31](https://news.ycombinator.com/item?id=50180799) - [I reverse engineered a board game](https://wuemeli.com/blog/reversing-hitster-game/)
+* [2026-10-20, 17:10:05](https://news.ycombinator.com/item?id=50169499) - [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
 
 ## [Archives](archives/index.md)
 

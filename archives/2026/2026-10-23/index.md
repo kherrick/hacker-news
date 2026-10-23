@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 16:21:50](https://news.ycombinator.com/item?id=50211474) - [\"Today, we hacked what we'd set out to hack: the iPhone.\"](https://blog.calif.io/p/iphone)
 * [2026-10-23, 14:52:47](https://news.ycombinator.com/item?id=50210075) - [Pentagon grants DHS permission to test heat ray weapon for use at border](https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon)
 * [2026-10-23, 14:52:08](https://news.ycombinator.com/item?id=50210067) - [eMudhra ignored Mozilla Root investigation deadline; blames social media](https://bugzilla.mozilla.org/show_bug.cgi?id=2083449)
 * [2026-10-23, 14:46:26](https://news.ycombinator.com/item?id=50209961) - [When the Term \"Heatwave\" Is No Longer Enough](https://coveringclimatenow.org/from-us-story/when-the-term-heatwave-is-no-longer-enough/)
