@@ -9,7 +9,7 @@
 * [2026-10-23, 11:04:53](https://news.ycombinator.com/item?id=50207115) - [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/)
 * [2026-10-23, 10:31:24](https://news.ycombinator.com/item?id=50206840) - [Job Loss and Cortisone Mania](https://tilschuenemann.de/job-loss-cortisone-mania)
 * [2026-10-23, 08:21:29](https://news.ycombinator.com/item?id=50205934) - [Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/)
-* [2026-10-23, 08:05:33](https://news.ycombinator.com/item?id=50205816) - [Remove pgrust: the entry is cheating](https://github.com/ClickHouse/ClickBench/pull/2165)
+* [2026-10-23, 08:05:33](https://news.ycombinator.com/item?id=50205816) - [Remove pgrust: the entry is cheating (per-query kernels and result caching)](https://github.com/ClickHouse/ClickBench/pull/2165)
 * [2026-10-23, 02:19:38](https://news.ycombinator.com/item?id=50203759) - [This I Believe (1952)](https://www.awakin.org/v2/read/view.php?tid=468)
 * [2026-10-23, 00:52:01](https://news.ycombinator.com/item?id=50203161) - [The foolishness of \"natural language programming\" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2026-10-22, 23:56:36](https://news.ycombinator.com/item?id=50202762) - [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
@@ -27,7 +27,7 @@
 * [2026-10-22, 14:04:44](https://news.ycombinator.com/item?id=50195488) - [Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey)
 * [2026-10-22, 13:25:01](https://news.ycombinator.com/item?id=50195002) - [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092)
 * [2026-10-22, 11:42:03](https://news.ycombinator.com/item?id=50194009) - [Xbox wants you to pay 24 to 40 cents per hour to stream games you bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/)
-* [2026-10-22, 10:11:44](https://news.ycombinator.com/item?id=50193416) - [Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.](https://news.ycombinator.com/item?id=50193416)
+* [2026-10-22, 10:11:44](https://news.ycombinator.com/item?id=50193416) - [Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry](https://news.ycombinator.com/item?id=50193416)
 * [2026-10-22, 02:18:41](https://news.ycombinator.com/item?id=50190363) - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
 * [2026-10-21, 13:40:31](https://news.ycombinator.com/item?id=50180799) - [I reverse engineered a board game](https://wuemeli.com/blog/reversing-hitster-game/)
 
