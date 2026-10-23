@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 14:52:47](https://news.ycombinator.com/item?id=50210075) - [Pentagon grants DHS permission to test heat ray weapon for use at border](https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon)
 * [2026-10-23, 14:52:08](https://news.ycombinator.com/item?id=50210067) - [eMudhra ignored Mozilla Root investigation deadline; blames social media](https://bugzilla.mozilla.org/show_bug.cgi?id=2083449)
 * [2026-10-23, 14:46:26](https://news.ycombinator.com/item?id=50209961) - [When the Term \"Heatwave\" Is No Longer Enough](https://coveringclimatenow.org/from-us-story/when-the-term-heatwave-is-no-longer-enough/)
 * [2026-10-23, 13:41:10](https://news.ycombinator.com/item?id=50208837) - [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
