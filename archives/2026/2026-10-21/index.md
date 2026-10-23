@@ -70,6 +70,7 @@
 * [2026-10-21, 12:23:41](https://news.ycombinator.com/item?id=50179719) - [Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels](https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels)
 * [2026-10-21, 12:22:39](https://news.ycombinator.com/item?id=50179706) - [Qwen3-Coder writes less secure code when told it's for a US persona](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities)
 * [2026-10-21, 12:00:24](https://news.ycombinator.com/item?id=50179455) - [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)
+* [2026-10-21, 12:00:21](https://news.ycombinator.com/item?id=50179454) - [John Snow Cholera Data](https://johnsnow.rtwilson.com/)
 * [2026-10-21, 11:34:41](https://news.ycombinator.com/item?id=50179168) - [Show HN:Odd Orbit, live 3D globe of quakes, weather, satellites and UFO reports](https://oddorbit.app/)
 * [2026-10-21, 10:14:43](https://news.ycombinator.com/item?id=50178455) - [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
 * [2026-10-21, 09:51:41](https://news.ycombinator.com/item?id=50178218) - [Show HN: Linkit – AI bookmark manager, 100% free and open source](https://github.com/blue-idea/linkit)
