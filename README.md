@@ -10,7 +10,7 @@
 * [2026-10-23, 16:59:08](https://news.ycombinator.com/item?id=50212065) - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
 * [2026-10-23, 16:39:45](https://news.ycombinator.com/item?id=50211746) - [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
 * [2026-10-23, 16:38:35](https://news.ycombinator.com/item?id=50211729) - [The Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
-* [2026-10-23, 16:38:17](https://news.ycombinator.com/item?id=50211719) - [How Is Music Possible](https://www.henrikkarlsson.xyz/p/music)
+* [2026-10-23, 16:38:17](https://news.ycombinator.com/item?id=50211719) - [How is music possible](https://www.henrikkarlsson.xyz/p/music)
 * [2026-10-23, 16:23:29](https://news.ycombinator.com/item?id=50211504) - [Total Historian](https://www.theideasletter.org/essay/total-historian/)
 * [2026-10-23, 16:21:50](https://news.ycombinator.com/item?id=50211474) - [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
 * [2026-10-23, 15:56:06](https://news.ycombinator.com/item?id=50211084) - [Reforming English Spelling](https://blog.oup.com/2026/10/reforming-english-spelling/)
