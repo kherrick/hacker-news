@@ -6,6 +6,7 @@
 
 * [2026-10-23, 17:40:22](https://news.ycombinator.com/item?id=50212668) - [I turned my TV into a Game Boy Color with a Pokemon town as my home screen](https://twitter.com/robbietilton/status/2111936458923851923)
 * [2026-10-23, 17:15:03](https://news.ycombinator.com/item?id=50212320) - [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/)
+* [2026-10-23, 17:13:27](https://news.ycombinator.com/item?id=50212292) - [Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)](https://drop7.dev)
 * [2026-10-23, 17:12:51](https://news.ycombinator.com/item?id=50212281) - [Time Nuts](http://leapsecond.com/time-nuts.htm)
 * [2026-10-23, 17:10:27](https://news.ycombinator.com/item?id=50212246) - [Kimi K3.1 Pro](https://www.kimi.ai/blog/kimi-k3-1-pro)
 * [2026-10-23, 16:59:46](https://news.ycombinator.com/item?id=50212079) - [AI Is Not a Tool](https://write.as/4tezac6y61b78)
@@ -27,6 +28,7 @@
 * [2026-10-23, 13:02:23](https://news.ycombinator.com/item?id=50208343) - [Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter)
 * [2026-10-23, 12:56:38](https://news.ycombinator.com/item?id=50208258) - [Hacker leaks 281 GB of data from Germany's far-right AfD party](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd)
 * [2026-10-23, 12:42:44](https://news.ycombinator.com/item?id=50208099) - [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+* [2026-10-23, 12:28:47](https://news.ycombinator.com/item?id=50207910) - [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
 * [2026-10-23, 12:02:53](https://news.ycombinator.com/item?id=50207620) - [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/)
 * [2026-10-23, 11:39:54](https://news.ycombinator.com/item?id=50207405) - [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)
 * [2026-10-23, 11:04:53](https://news.ycombinator.com/item?id=50207115) - [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/)

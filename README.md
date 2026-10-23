@@ -2,8 +2,8 @@
 
 * [2026-10-23, 17:40:22](https://news.ycombinator.com/item?id=50212668) - [I turned my TV into a Game Boy Color with a Pokemon town as my home screen](https://twitter.com/robbietilton/status/2111936458923851923)
 * [2026-10-23, 17:15:03](https://news.ycombinator.com/item?id=50212320) - [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/)
+* [2026-10-23, 17:13:27](https://news.ycombinator.com/item?id=50212292) - [Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)](https://drop7.dev)
 * [2026-10-23, 17:12:51](https://news.ycombinator.com/item?id=50212281) - [Time Nuts (2005)](http://leapsecond.com/time-nuts.htm)
-* [2026-10-23, 16:59:46](https://news.ycombinator.com/item?id=50212079) - [AI Is Not a Tool](https://write.as/4tezac6y61b78)
 * [2026-10-23, 16:59:08](https://news.ycombinator.com/item?id=50212065) - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
 * [2026-10-23, 16:39:45](https://news.ycombinator.com/item?id=50211746) - [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
 * [2026-10-23, 16:38:35](https://news.ycombinator.com/item?id=50211729) - [The Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
@@ -13,7 +13,7 @@
 * [2026-10-23, 14:52:47](https://news.ycombinator.com/item?id=50210075) - [Pentagon grants DHS permission to test heat ray weapon for use at border](https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon)
 * [2026-10-23, 14:44:50](https://news.ycombinator.com/item?id=50209939) - [An alignment assessment of the UK AISI cybertesting incident](https://www.anthropic.com/research/alignment-assessment-ukaisi)
 * [2026-10-23, 14:43:02](https://news.ycombinator.com/item?id=50209907) - [Gemma-4-26B-A4B with 39-69% less thinking at same accuracy](https://bottlecapai.com/post/thinkingcap-gemma-4-26b/)
-* [2026-10-23, 12:42:44](https://news.ycombinator.com/item?id=50208099) - [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+* [2026-10-23, 12:28:47](https://news.ycombinator.com/item?id=50207910) - [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
 * [2026-10-23, 10:31:24](https://news.ycombinator.com/item?id=50206840) - [Job loss and cortisone mania](https://tilschuenemann.de/job-loss-cortisone-mania)
 * [2026-10-23, 06:54:52](https://news.ycombinator.com/item?id=50205320) - [Show HN: Swurf – Swipe through the real web](https://swurf.org/)
 * [2026-10-23, 00:52:01](https://news.ycombinator.com/item?id=50203161) - [The foolishness of \"natural language programming\" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
