@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-23, 10:41:32](https://news.ycombinator.com/item?id=50206914) - [Dutch government had hacked into Jared Kushner's phone](https://twitter.com/jaredkushner/status/2113376217415958767)
 * [2026-10-23, 09:54:40](https://news.ycombinator.com/item?id=50206586) - [France needs to read my paper](https://wilsoniumite.com/2026/10/23/france-needs-to-read-my-paper/)
 * [2026-10-23, 09:21:00](https://news.ycombinator.com/item?id=50206361) - [The Rise and Fall of Jev](https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm)
 * [2026-10-23, 08:05:33](https://news.ycombinator.com/item?id=50205816) - [Remove pgrust: the entry is cheating](https://github.com/ClickHouse/ClickBench/pull/2165)
@@ -11,7 +12,6 @@
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
 * [2026-10-22, 22:54:43](https://news.ycombinator.com/item?id=50202217) - [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
 * [2026-10-22, 21:41:13](https://news.ycombinator.com/item?id=50201445) - [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images)
-* [2026-10-22, 21:38:32](https://news.ycombinator.com/item?id=50201414) - [Railpass](https://train.samismith.com/)
 * [2026-10-22, 21:03:55](https://news.ycombinator.com/item?id=50200997) - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)
 * [2026-10-22, 19:54:04](https://news.ycombinator.com/item?id=50200164) - [The HTML-in-Canvas API origin trial](https://developer.chrome.com/blog/html-in-canvas-origin-trial)
 * [2026-10-22, 18:44:36](https://news.ycombinator.com/item?id=50199389) - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
