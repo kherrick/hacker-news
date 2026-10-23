@@ -54,6 +54,7 @@
 * [2026-10-20, 13:59:11](https://news.ycombinator.com/item?id=50166590) - [Beyond the &](https://lwn.net/Articles/1096028/)
 * [2026-10-20, 13:58:33](https://news.ycombinator.com/item?id=50166579) - [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
 * [2026-10-20, 13:53:48](https://news.ycombinator.com/item?id=50166502) - [2026 is an exciting year for the Rust compiler (and me)](https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/)
+* [2026-10-20, 13:40:04](https://news.ycombinator.com/item?id=50166272) - [Why My Asus Laptop Kept Rebooting After Sleep and How to Fix It](https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep)
 * [2026-10-20, 13:39:24](https://news.ycombinator.com/item?id=50166257) - [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/)
 * [2026-10-20, 13:18:07](https://news.ycombinator.com/item?id=50165953) - [Tsrs: A Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
 * [2026-10-20, 13:14:39](https://news.ycombinator.com/item?id=50165904) - [Jepsen: Orkes Conductor 5.3.2](https://jepsen.io/analyses/orkes-conductor-5.3.2)
