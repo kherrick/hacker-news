@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-10-23, 14:46:26",
-      "https://news.ycombinator.com/item?id=50209961"
+      "2026-10-23, 14:52:08",
+      "https://news.ycombinator.com/item?id=50210067"
     ],
     [
-      "When the Term \"Heatwave\" Is No Longer Enough",
-      "https://coveringclimatenow.org/from-us-story/when-the-term-heatwave-is-no-longer-enough/"
+      "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+      "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Is this the new cyber normal?",
       "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/"
-    ]
-  ],
-  [
-    [
-      "2026-10-23, 10:58:52",
-      "https://news.ycombinator.com/item?id=50207050"
-    ],
-    [
-      "No Need for Retirement When Utopia Is Around the Corner",
-      "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "WorldTUI: I trained a 360M model to pretend to be a terminal",
       "https://simedw.com/2026/10/21/world-model-terminal/"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 13:40:31",
+      "https://news.ycombinator.com/item?id=50180799"
+    ],
+    [
+      "I reverse engineered a board game",
+      "https://wuemeli.com/blog/reversing-hitster-game/"
     ]
   ]
 ]
