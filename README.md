@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-23, 19:53:55](https://news.ycombinator.com/item?id=50214447) - [Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left](https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left)
 * [2026-10-23, 19:41:59](https://news.ycombinator.com/item?id=50214323) - [We are all living inside of an obscure sci-fi film from 1970](https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/)
 * [2026-10-23, 19:34:15](https://news.ycombinator.com/item?id=50214218) - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
 * [2026-10-23, 19:09:54](https://news.ycombinator.com/item?id=50213925) - [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
@@ -20,7 +21,6 @@
 * [2026-10-23, 10:31:24](https://news.ycombinator.com/item?id=50206840) - [Job loss and cortisone mania](https://tilschuenemann.de/job-loss-cortisone-mania)
 * [2026-10-23, 06:54:52](https://news.ycombinator.com/item?id=50205320) - [Show HN: Swurf – Swipe through the real web](https://swurf.org/)
 * [2026-10-22, 23:54:28](https://news.ycombinator.com/item?id=50202746) - [Show HN: Impossible Machines: declaratively program the physical world](https://www.impossiblemachines.xyz)
-* [2026-10-22, 23:24:17](https://news.ycombinator.com/item?id=50202482) - [We have traits at home](https://www.axelmagn.com/blog/202610-zig-traits/)
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
 * [2026-10-22, 22:43:19](https://news.ycombinator.com/item?id=50202114) - [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill)
 * [2026-10-22, 21:41:13](https://news.ycombinator.com/item?id=50201445) - [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images)

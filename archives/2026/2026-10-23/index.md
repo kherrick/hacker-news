@@ -6,6 +6,7 @@
 
 * [2026-10-23, 20:15:27](https://news.ycombinator.com/item?id=50214701) - [Kimi K3.1 Pro puts open-source AI a month behind the best](https://www.modelcompare.ai/blog/china-open-source-ai)
 * [2026-10-23, 20:05:30](https://news.ycombinator.com/item?id=50214568) - [Why Do AI Models Tell Left-Wing Voters to Support the Communist Party?](https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks)
+* [2026-10-23, 19:53:55](https://news.ycombinator.com/item?id=50214447) - [Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left](https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left)
 * [2026-10-23, 19:41:59](https://news.ycombinator.com/item?id=50214323) - [We are all living inside of an obscure sci-fi film from 1970](https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/)
 * [2026-10-23, 19:34:15](https://news.ycombinator.com/item?id=50214218) - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
 * [2026-10-23, 19:09:54](https://news.ycombinator.com/item?id=50213925) - [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
