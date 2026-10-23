@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 17:40:22](https://news.ycombinator.com/item?id=50212668) - [I turned my TV into a Game Boy Color with a Pokemon town as my home screen](https://twitter.com/robbietilton/status/2111936458923851923)
 * [2026-10-23, 17:15:03](https://news.ycombinator.com/item?id=50212320) - [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/)
 * [2026-10-23, 17:12:51](https://news.ycombinator.com/item?id=50212281) - [Time Nuts](http://leapsecond.com/time-nuts.htm)
 * [2026-10-23, 17:10:27](https://news.ycombinator.com/item?id=50212246) - [Kimi K3.1 Pro](https://www.kimi.ai/blog/kimi-k3-1-pro)
