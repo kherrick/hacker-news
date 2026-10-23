@@ -2,7 +2,7 @@
 
 * [2026-10-23, 09:54:40](https://news.ycombinator.com/item?id=50206586) - [France needs to read my paper](https://wilsoniumite.com/2026/10/23/france-needs-to-read-my-paper/)
 * [2026-10-23, 09:21:00](https://news.ycombinator.com/item?id=50206361) - [The Rise and Fall of Jev](https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm)
-* [2026-10-23, 05:51:45](https://news.ycombinator.com/item?id=50204926) - [I Did This Without Your Knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)
+* [2026-10-23, 08:05:33](https://news.ycombinator.com/item?id=50205816) - [Remove pgrust: the entry is cheating](https://github.com/ClickHouse/ClickBench/pull/2165)
 * [2026-10-23, 02:19:38](https://news.ycombinator.com/item?id=50203759) - [This I Believe (1952)](https://www.awakin.org/v2/read/view.php?tid=468)
 * [2026-10-23, 00:52:01](https://news.ycombinator.com/item?id=50203161) - [The foolishness of \"natural language programming\" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2026-10-23, 00:10:45](https://news.ycombinator.com/item?id=50202865) - [Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv)
