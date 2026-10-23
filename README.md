@@ -17,7 +17,7 @@
 * [2026-10-23, 16:59:08](https://news.ycombinator.com/item?id=50212065) - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
 * [2026-10-23, 16:39:45](https://news.ycombinator.com/item?id=50211746) - [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
 * [2026-10-23, 16:38:35](https://news.ycombinator.com/item?id=50211729) - [The Missed Opportunities of Sonic 06 (2025)](https://isaacmarovitz.com/posts/sonic-06/)
-* [2026-10-23, 16:38:17](https://news.ycombinator.com/item?id=50211719) - [How is music possible](https://www.henrikkarlsson.xyz/p/music)
+* [2026-10-23, 16:23:29](https://news.ycombinator.com/item?id=50211504) - [Total Historian](https://www.theideasletter.org/essay/total-historian/)
 * [2026-10-23, 16:21:50](https://news.ycombinator.com/item?id=50211474) - [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
 * [2026-10-23, 14:43:02](https://news.ycombinator.com/item?id=50209907) - [Gemma-4-26B-A4B with 39-69% less thinking at same accuracy](https://bottlecapai.com/post/thinkingcap-gemma-4-26b/)
 * [2026-10-23, 12:28:47](https://news.ycombinator.com/item?id=50207910) - [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
