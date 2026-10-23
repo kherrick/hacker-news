@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-23, 17:15:03",
+      "https://news.ycombinator.com/item?id=50212320"
+    ],
+    [
+      "Can we replace a $150k Looker with a bucket of HTML files?",
+      "https://david.lequin.dev/blog/bi-software-is-dead/"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 17:12:51",
       "https://news.ycombinator.com/item?id=50212281"
     ],
@@ -27,6 +37,16 @@
     [
       "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "https://www.kimi.com/code/docs/en/kimi-code/models.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-23, 16:39:45",
+      "https://news.ycombinator.com/item?id=50211746"
+    ],
+    [
+      "UUIDv7 doesn't have the properties you think it does",
+      "https://alexsci.com/blog/uuidv7-is-weird/"
     ]
   ],
   [
@@ -121,12 +141,12 @@
   ],
   [
     [
-      "2026-10-23, 02:19:38",
-      "https://news.ycombinator.com/item?id=50203759"
+      "2026-10-23, 06:54:52",
+      "https://news.ycombinator.com/item?id=50205320"
     ],
     [
-      "This I Believe (1952)",
-      "https://www.awakin.org/v2/read/view.php?tid=468"
+      "Show HN: Swurf – Swipe through the real web",
+      "https://swurf.org/"
     ]
   ],
   [
@@ -221,42 +241,22 @@
   ],
   [
     [
+      "2026-10-22, 19:08:09",
+      "https://news.ycombinator.com/item?id=50199684"
+    ],
+    [
+      "LISP Comes of Age (1980)",
+      "https://microship.com/lisp-comes-of-age/"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 17:44:06",
       "https://news.ycombinator.com/item?id=50198675"
     ],
     [
       "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "https://github.com/NVIDIA/OpenShell"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 16:14:31",
-      "https://news.ycombinator.com/item?id=50197404"
-    ],
-    [
-      "Getting ready to operate GNU Taler in Germany",
-      "https://www.taler.net/en/news/2026-13.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 16:08:00",
-      "https://news.ycombinator.com/item?id=50197313"
-    ],
-    [
-      "Every AI model has the same \"controversial\" take on humans",
-      "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 15:26:22",
-      "https://news.ycombinator.com/item?id=50196718"
-    ],
-    [
-      "Run full iOS 16.5 firmware on Android Devices",
-      "https://github.com/oosexgang/hackios-xnu-kernel"
     ]
   ],
   [
