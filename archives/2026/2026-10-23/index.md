@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
 * [2026-10-23, 17:40:22](https://news.ycombinator.com/item?id=50212668) - [I turned my TV into a Game Boy Color with a Pokemon town as my home screen](https://twitter.com/robbietilton/status/2111936458923851923)
+* [2026-10-23, 17:28:36](https://news.ycombinator.com/item?id=50212507) - [Air Purifiers as White Noise Machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
 * [2026-10-23, 17:15:03](https://news.ycombinator.com/item?id=50212320) - [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/)
 * [2026-10-23, 17:13:27](https://news.ycombinator.com/item?id=50212292) - [Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)](https://drop7.dev)
 * [2026-10-23, 17:12:51](https://news.ycombinator.com/item?id=50212281) - [Time Nuts](http://leapsecond.com/time-nuts.htm)
 * [2026-10-23, 17:10:27](https://news.ycombinator.com/item?id=50212246) - [Kimi K3.1 Pro](https://www.kimi.ai/blog/kimi-k3-1-pro)
+* [2026-10-23, 17:02:24](https://news.ycombinator.com/item?id=50212124) - [Animations for System Builders](https://brooker.co.za/blog/2026/10/23/animations.html)
 * [2026-10-23, 16:59:46](https://news.ycombinator.com/item?id=50212079) - [AI Is Not a Tool](https://write.as/4tezac6y61b78)
 * [2026-10-23, 16:59:08](https://news.ycombinator.com/item?id=50212065) - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.com/code/docs/en/kimi-code/models.html)
 * [2026-10-23, 16:59:08](https://news.ycombinator.com/item?id=50212065) - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
