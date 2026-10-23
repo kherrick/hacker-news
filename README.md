@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-23, 11:39:54](https://news.ycombinator.com/item?id=50207405) - [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)
 * [2026-10-23, 11:04:53](https://news.ycombinator.com/item?id=50207115) - [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/)
 * [2026-10-23, 10:41:32](https://news.ycombinator.com/item?id=50206914) - [Dutch government had hacked into Jared Kushner's phone](https://twitter.com/jaredkushner/status/2113376217415958767)
 * [2026-10-23, 10:31:24](https://news.ycombinator.com/item?id=50206840) - [Job Loss and Cortisone Mania](https://tilschuenemann.de/job-loss-cortisone-mania)
-* [2026-10-23, 09:21:00](https://news.ycombinator.com/item?id=50206361) - [The Rise and Fall of Jev](https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm)
 * [2026-10-23, 08:05:33](https://news.ycombinator.com/item?id=50205816) - [Remove pgrust: the entry is cheating](https://github.com/ClickHouse/ClickBench/pull/2165)
 * [2026-10-23, 02:19:38](https://news.ycombinator.com/item?id=50203759) - [This I Believe (1952)](https://www.awakin.org/v2/read/view.php?tid=468)
 * [2026-10-23, 00:52:01](https://news.ycombinator.com/item?id=50203161) - [The foolishness of \"natural language programming\" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)

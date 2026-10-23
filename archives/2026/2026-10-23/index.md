@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 11:39:54](https://news.ycombinator.com/item?id=50207405) - [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)
 * [2026-10-23, 11:04:53](https://news.ycombinator.com/item?id=50207115) - [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/)
 * [2026-10-23, 10:41:32](https://news.ycombinator.com/item?id=50206914) - [Dutch government had hacked into Jared Kushner's phone](https://twitter.com/jaredkushner/status/2113376217415958767)
 * [2026-10-23, 10:31:24](https://news.ycombinator.com/item?id=50206840) - [Job Loss and Cortisone Mania](https://tilschuenemann.de/job-loss-cortisone-mania)
