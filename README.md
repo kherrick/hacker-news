@@ -3,6 +3,7 @@
 * [2026-10-23, 06:41:11](https://news.ycombinator.com/item?id=50205229) - [The same AI request emits 8.5 times more CO2 in Texas than in Sweden](https://berget.ai/en/blog/per-request-co2-press-release)
 * [2026-10-23, 02:19:38](https://news.ycombinator.com/item?id=50203759) - [This I Believe (1952)](https://www.awakin.org/v2/read/view.php?tid=468)
 * [2026-10-23, 00:52:01](https://news.ycombinator.com/item?id=50203161) - [The foolishness of \"natural language programming\" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+* [2026-10-23, 00:10:45](https://news.ycombinator.com/item?id=50202865) - [Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv)
 * [2026-10-22, 23:56:36](https://news.ycombinator.com/item?id=50202762) - [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
 * [2026-10-22, 23:45:56](https://news.ycombinator.com/item?id=50202681) - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 * [2026-10-22, 23:24:17](https://news.ycombinator.com/item?id=50202482) - [We have traits at home](https://www.axelmagn.com/blog/202610-zig-traits/)
@@ -27,7 +28,6 @@
 * [2026-10-22, 07:41:29](https://news.ycombinator.com/item?id=50192396) - [A lost Schrödinger manuscript reveals a twist in quantum physics](https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics)
 * [2026-10-22, 02:18:41](https://news.ycombinator.com/item?id=50190363) - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
 * [2026-10-21, 22:33:08](https://news.ycombinator.com/item?id=50188614) - [Postgres recovery_prefetch can cause outages](https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/)
-* [2026-10-20, 22:24:23](https://news.ycombinator.com/item?id=50173516) - [Mortality Among People with Attention-Deficit/Hyperactivity Disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472)
 * [2026-10-20, 16:27:56](https://news.ycombinator.com/item?id=50168850) - [Color Names](https://names.color.pizza)
 * [2026-10-20, 13:40:04](https://news.ycombinator.com/item?id=50166272) - [Why my Asus laptop kept rebooting after sleep and how to fix it](https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep)
 
