@@ -24,6 +24,7 @@
 * [2026-10-20, 17:10:31](https://news.ycombinator.com/item?id=50169506) - [Benchmarking Bot Detection Systems Against Modern AI Agents in 2026](https://research.poh.org/bot-benchmarking-2026/)
 * [2026-10-20, 16:59:16](https://news.ycombinator.com/item?id=50169336) - [Go Conventions That Clicked Too Late for an AI Engineer](https://towardsdev.com/10-go-conventions-that-clicked-too-late-for-an-ai-engineer-78319f2d538f?sk=5858de12ec208931b984d8f55436a7a2)
 * [2026-10-20, 16:40:24](https://news.ycombinator.com/item?id=50169053) - [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
+* [2026-10-20, 16:27:56](https://news.ycombinator.com/item?id=50168850) - [Color Names](https://names.color.pizza)
 * [2026-10-20, 16:02:07](https://news.ycombinator.com/item?id=50168396) - [Voxtral 3](https://mistral.ai/news/voxtral-3/)
 * [2026-10-20, 16:00:15](https://news.ycombinator.com/item?id=50168376) - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
 * [2026-10-20, 15:59:06](https://news.ycombinator.com/item?id=50168357) - [Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery](https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery)
