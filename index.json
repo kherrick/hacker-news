@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-23, 22:03:40",
-      "https://news.ycombinator.com/item?id=50215983"
-    ],
-    [
-      "Google will pay people to use less electricity so its data centers can use more",
-      "https://www.computerworld.com/article/4239858/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more.html"
-    ]
-  ],
-  [
-    [
       "2026-10-23, 21:21:47",
       "https://news.ycombinator.com/item?id=50215530"
     ],
@@ -37,6 +27,16 @@
     [
       "A whirlwind tour of systemd-nspawn containers",
       "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/"
+    ]
+  ],
+  [
+    [
+      "2026-10-23, 19:50:56",
+      "https://news.ycombinator.com/item?id=50214416"
+    ],
+    [
+      "Securing our frontier model training environment",
+      "https://openai.com/index/securing-our-frontier-model-training-environment/"
     ]
   ],
   [
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2026-10-23, 17:28:36",
+      "https://news.ycombinator.com/item?id=50212507"
+    ],
+    [
+      "Air Purifiers as White Noise Machines",
+      "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 17:15:03",
       "https://news.ycombinator.com/item?id=50212320"
     ],
@@ -171,22 +181,22 @@
   ],
   [
     [
-      "2026-10-23, 16:23:29",
-      "https://news.ycombinator.com/item?id=50211504"
-    ],
-    [
-      "Total Historian",
-      "https://www.theideasletter.org/essay/total-historian/"
-    ]
-  ],
-  [
-    [
       "2026-10-23, 16:21:50",
       "https://news.ycombinator.com/item?id=50211474"
     ],
     [
       "Today, we hacked what we'd set out to hack: the iPhone",
       "https://blog.calif.io/p/iphone"
+    ]
+  ],
+  [
+    [
+      "2026-10-23, 15:56:06",
+      "https://news.ycombinator.com/item?id=50211084"
+    ],
+    [
+      "Reforming English Spelling",
+      "https://blog.oup.com/2026/10/reforming-english-spelling/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "LISP Comes of Age (1980)",
       "https://microship.com/lisp-comes-of-age/"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 02:18:41",
-      "https://news.ycombinator.com/item?id=50190363"
-    ],
-    [
-      "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "https://simedw.com/2026/10/21/world-model-terminal/"
     ]
   ],
   [
