@@ -1,26 +1,6 @@
 [
   [
     [
-      "2026-10-23, 05:12:39",
-      "https://news.ycombinator.com/item?id=50204754"
-    ],
-    [
-      "Move Slow and Fix Things",
-      "https://endler.dev/2024/move-slow-and-fix-things/"
-    ]
-  ],
-  [
-    [
-      "2026-10-23, 03:20:38",
-      "https://news.ycombinator.com/item?id=50204125"
-    ],
-    [
-      "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
-      "https://news.ycombinator.com/item?id=50204125"
-    ]
-  ],
-  [
-    [
       "2026-10-23, 02:19:38",
       "https://news.ycombinator.com/item?id=50203759"
     ],
@@ -91,22 +71,22 @@
   ],
   [
     [
+      "2026-10-22, 21:03:55",
+      "https://news.ycombinator.com/item?id=50200997"
+    ],
+    [
+      "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "https://news.ycombinator.com/item?id=50200997"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 18:44:36",
       "https://news.ycombinator.com/item?id=50199389"
     ],
     [
       "Hedra is a 3D open world game I wrote from scratch while in highschool",
       "https://github.com/maxilevi/project-hedra/tree/pre-ai"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 18:28:16",
-      "https://news.ycombinator.com/item?id=50199230"
-    ],
-    [
-      "AI and the Enclosure of the Scientific Commons",
-      "https://arxiv.org/abs/2610.27251"
     ]
   ],
   [
@@ -155,7 +135,7 @@
       "https://news.ycombinator.com/item?id=50195959"
     ],
     [
-      "Quad9 (DNS Resolver) to Exit France",
+      "Quad9 to exit France",
       "https://quad9.net/news/blog/au-revoir-france/"
     ]
   ],
@@ -167,16 +147,6 @@
     [
       "eMudhra to exit global SSL/TLS certificate business",
       "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 13:11:00",
-      "https://news.ycombinator.com/item?id=50194833"
-    ],
-    [
-      "Woman charged with computer fraud due to scam CashApp account being in her name",
-      "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/"
     ]
   ],
   [
@@ -221,6 +191,26 @@
   ],
   [
     [
+      "2026-10-22, 07:41:29",
+      "https://news.ycombinator.com/item?id=50192396"
+    ],
+    [
+      "A lost Schrödinger manuscript reveals a twist in quantum physics",
+      "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 02:18:41",
+      "https://news.ycombinator.com/item?id=50190363"
+    ],
+    [
+      "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "https://simedw.com/2026/10/21/world-model-terminal/"
+    ]
+  ],
+  [
+    [
       "2026-10-21, 22:33:08",
       "https://news.ycombinator.com/item?id=50188614"
     ],
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2026-10-20, 16:27:56",
+      "https://news.ycombinator.com/item?id=50168850"
+    ],
+    [
+      "Color Names",
+      "https://names.color.pizza"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 14:00:07",
       "https://news.ycombinator.com/item?id=50166604"
     ],
@@ -265,18 +265,8 @@
       "https://news.ycombinator.com/item?id=50166272"
     ],
     [
-      "Why My Asus Laptop Kept Rebooting After Sleep and How to Fix It",
+      "Why my Asus laptop kept rebooting after sleep and how to fix it",
       "https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 07:15:12",
-      "https://news.ycombinator.com/item?id=50162431"
-    ],
-    [
-      "The Secret Life of Circuits is now in stock everywhere",
-      "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now"
     ]
   ],
   [
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=50154109"
     ],
     [
-      "Dungeon Generation in the Gnomish Mines of NetHack",
+      "Dungeon generation in the Gnomish mines of NetHack",
       "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/"
+    ]
+  ],
+  [
+    [
+      "2026-10-19, 10:35:14",
+      "https://news.ycombinator.com/item?id=50150681"
+    ],
+    [
+      "Speeding up code review with `small-change`",
+      "https://lethain.com/small-changes/"
     ]
   ],
   [
