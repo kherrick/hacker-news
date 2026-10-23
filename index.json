@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2026-10-22, 23:56:39",
-      "https://news.ycombinator.com/item?id=50202766"
+      "2026-10-23, 00:10:45",
+      "https://news.ycombinator.com/item?id=50202865"
     ],
     [
-      "Mapping the Northern Sky",
-      "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/"
+      "Show HN: Making a smart TV dumb and then smart",
+      "https://github.com/anubhavmalhotra/r2d2-tv"
     ]
   ],
   [
@@ -51,12 +51,42 @@
   ],
   [
     [
+      "2026-10-22, 23:24:17",
+      "https://news.ycombinator.com/item?id=50202482"
+    ],
+    [
+      "We have traits at home",
+      "https://www.axelmagn.com/blog/202610-zig-traits/"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 23:01:18",
+      "https://news.ycombinator.com/item?id=50202285"
+    ],
+    [
+      "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "https://edjefferson.com/localwiki/"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 22:54:43",
       "https://news.ycombinator.com/item?id=50202217"
     ],
     [
       "LLMs are making formal software verification feasible at a much larger scale",
       "https://www.anthropic.com/research/formal-verification"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 22:16:48",
+      "https://news.ycombinator.com/item?id=50201842"
+    ],
+    [
+      "Rule 30: one black cell",
+      "https://www.wolframcollatzmahler.com/rule30/index.html"
     ]
   ],
   [
@@ -71,12 +101,22 @@
   ],
   [
     [
-      "2026-10-22, 21:03:55",
-      "https://news.ycombinator.com/item?id=50200997"
+      "2026-10-22, 19:54:04",
+      "https://news.ycombinator.com/item?id=50200164"
     ],
     [
-      "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "https://news.ycombinator.com/item?id=50200997"
+      "The HTML-in-Canvas API origin trial",
+      "https://developer.chrome.com/blog/html-in-canvas-origin-trial"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 19:08:09",
+      "https://news.ycombinator.com/item?id=50199684"
+    ],
+    [
+      "LISP Comes of Age (1980)",
+      "https://microship.com/lisp-comes-of-age/"
     ]
   ],
   [
@@ -141,12 +181,32 @@
   ],
   [
     [
+      "2026-10-22, 14:04:44",
+      "https://news.ycombinator.com/item?id=50195488"
+    ],
+    [
+      "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "https://github.com/dsmurrell/onkey"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 13:33:39",
       "https://news.ycombinator.com/item?id=50195110"
     ],
     [
       "eMudhra to exit global SSL/TLS certificate business",
       "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 13:25:01",
+      "https://news.ycombinator.com/item?id=50195002"
+    ],
+    [
+      "The alien space of science: Coherent but cognitively unavailable directions",
+      "https://arxiv.org/abs/2603.01092"
     ]
   ],
   [
@@ -167,26 +227,6 @@
     [
       "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
       "https://news.ycombinator.com/item?id=50193416"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 09:31:18",
-      "https://news.ycombinator.com/item?id=50193170"
-    ],
-    [
-      "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-      "https://globus.software/blog/2026/10/16/cutting-map-polygons/"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 08:01:52",
-      "https://news.ycombinator.com/item?id=50192536"
-    ],
-    [
-      "Jailbreaking the Switch 2",
-      "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"
     ]
   ],
   [
@@ -217,16 +257,6 @@
     [
       "Postgres recovery_prefetch can cause outages",
       "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 13:04:25",
-      "https://news.ycombinator.com/item?id=50180257"
-    ],
-    [
-      "Show HN: Uberblok – an interactive museum of ZFS internals",
-      "https://uberblok.storagebits.workers.dev/"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "Why my Asus laptop kept rebooting after sleep and how to fix it",
       "https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 16:06:40",
-      "https://news.ycombinator.com/item?id=50154109"
-    ],
-    [
-      "Dungeon generation in the Gnomish mines of NetHack",
-      "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 10:35:14",
-      "https://news.ycombinator.com/item?id=50150681"
-    ],
-    [
-      "Speeding up code review with `small-change`",
-      "https://lethain.com/small-changes/"
-    ]
-  ],
-  [
-    [
-      "2026-10-19, 09:13:12",
-      "https://news.ycombinator.com/item?id=50150163"
-    ],
-    [
-      "What Is Gridifcation",
-      "https://musicalform.substack.com/p/what-is-gridifcation"
     ]
   ]
 ]
