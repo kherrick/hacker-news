@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-23, 22:03:40",
+      "https://news.ycombinator.com/item?id=50215983"
+    ],
+    [
+      "Google will pay people to use less electricity so its data centers can use more",
+      "https://www.computerworld.com/article/4239858/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more.html"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 21:21:47",
       "https://news.ycombinator.com/item?id=50215530"
     ],
@@ -31,22 +41,12 @@
   ],
   [
     [
-      "2026-10-23, 19:53:55",
-      "https://news.ycombinator.com/item?id=50214447"
+      "2026-10-23, 19:46:38",
+      "https://news.ycombinator.com/item?id=50214373"
     ],
     [
-      "Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left",
-      "https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left"
-    ]
-  ],
-  [
-    [
-      "2026-10-23, 19:50:56",
-      "https://news.ycombinator.com/item?id=50214416"
-    ],
-    [
-      "OpenAI: Securing our frontier model training environment",
-      "https://openai.com/index/securing-our-frontier-model-training-environment/"
+      "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "https://corgi.computer/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-10-22, 21:03:55",
-      "https://news.ycombinator.com/item?id=50200997"
-    ],
-    [
-      "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "https://news.ycombinator.com/item?id=50200997"
-    ]
-  ],
-  [
-    [
       "2026-10-22, 19:08:09",
       "https://news.ycombinator.com/item?id=50199684"
     ],
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-10-22, 14:04:44",
-      "https://news.ycombinator.com/item?id=50195488"
+      "2026-10-22, 02:18:41",
+      "https://news.ycombinator.com/item?id=50190363"
     ],
     [
-      "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
-      "https://github.com/dsmurrell/onkey"
+      "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "https://simedw.com/2026/10/21/world-model-terminal/"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 12:00:21",
+      "https://news.ycombinator.com/item?id=50179454"
+    ],
+    [
+      "John Snow Cholera Data",
+      "https://johnsnow.rtwilson.com/"
     ]
   ],
   [
