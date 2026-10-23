@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
 * [2026-10-23, 06:41:11](https://news.ycombinator.com/item?id=50205229) - [The same AI request emits 8.5 times more CO2 in Texas than in Sweden](https://berget.ai/en/blog/per-request-co2-press-release)
+* [2026-10-23, 05:51:45](https://news.ycombinator.com/item?id=50204926) - [I Did This Without Your Knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)
 * [2026-10-23, 05:12:39](https://news.ycombinator.com/item?id=50204754) - [Move Slow and Fix Things](https://endler.dev/2024/move-slow-and-fix-things/)
 * [2026-10-23, 03:20:38](https://news.ycombinator.com/item?id=50204125) - [Median product \"lifespan\" has fallen from ~4y down to ~1.5y](https://news.ycombinator.com/item?id=50204125)
 * [2026-10-23, 02:19:38](https://news.ycombinator.com/item?id=50203759) - [This I Believe](https://www.awakin.org/v2/read/view.php?tid=468)
