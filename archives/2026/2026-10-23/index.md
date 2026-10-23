@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 17:12:51](https://news.ycombinator.com/item?id=50212281) - [Time Nuts](http://leapsecond.com/time-nuts.htm)
+* [2026-10-23, 16:59:08](https://news.ycombinator.com/item?id=50212065) - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.com/code/docs/en/kimi-code/models.html)
+* [2026-10-23, 16:38:35](https://news.ycombinator.com/item?id=50211729) - [The Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
 * [2026-10-23, 16:30:23](https://news.ycombinator.com/item?id=50211601) - [eMudhra Login Bypass](https://mastodon.catgirl.cloud/@49016/117475921584308861)
 * [2026-10-23, 16:23:29](https://news.ycombinator.com/item?id=50211504) - [Total Historian](https://www.theideasletter.org/essay/total-historian/)
 * [2026-10-23, 16:21:50](https://news.ycombinator.com/item?id=50211474) - [\"Today, we hacked what we'd set out to hack: the iPhone.\"](https://blog.calif.io/p/iphone)
