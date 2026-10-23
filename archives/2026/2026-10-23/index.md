@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-23](index.md)
 
+* [2026-10-23, 14:52:08](https://news.ycombinator.com/item?id=50210067) - [eMudhra ignored Mozilla Root investigation deadline; blames social media](https://bugzilla.mozilla.org/show_bug.cgi?id=2083449)
 * [2026-10-23, 14:46:26](https://news.ycombinator.com/item?id=50209961) - [When the Term \"Heatwave\" Is No Longer Enough](https://coveringclimatenow.org/from-us-story/when-the-term-heatwave-is-no-longer-enough/)
 * [2026-10-23, 13:41:10](https://news.ycombinator.com/item?id=50208837) - [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
 * [2026-10-23, 13:19:42](https://news.ycombinator.com/item?id=50208558) - [Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/?)
