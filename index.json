@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-10-24, 04:49:58",
+      "https://news.ycombinator.com/item?id=50218430"
+    ],
+    [
+      "OBS Studio 33",
+      "https://github.com/obsproject/obs-studio/releases/tag/33.0.0"
+    ]
+  ],
+  [
+    [
       "2026-10-24, 03:43:54",
       "https://news.ycombinator.com/item?id=50218195"
     ],
     [
       "How close can pure functional programming get to C?",
       "https://rtfeldman.com/fp-vs-c"
+    ]
+  ],
+  [
+    [
+      "2026-10-24, 03:32:47",
+      "https://news.ycombinator.com/item?id=50218141"
+    ],
+    [
+      "CowAgent – Open-Source Super AI Assistant",
+      "https://cowagent.ai/en/"
+    ]
+  ],
+  [
+    [
+      "2026-10-24, 02:43:43",
+      "https://news.ycombinator.com/item?id=50217946"
+    ],
+    [
+      "How Block Blast harvests its players for ad money",
+      "https://ayoships.com/breakdowns/block-blast"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2026-10-23, 20:37:12",
-      "https://news.ycombinator.com/item?id=50214983"
-    ],
-    [
-      "A whirlwind tour of systemd-nspawn containers (2025)",
-      "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/"
-    ]
-  ],
-  [
-    [
       "2026-10-23, 19:46:38",
       "https://news.ycombinator.com/item?id=50214373"
     ],
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2026-10-23, 19:00:04",
-      "https://news.ycombinator.com/item?id=50213791"
-    ],
-    [
-      "DNS: A Replacement for Finger",
-      "https://altchan.org/sh/42"
-    ]
-  ],
-  [
-    [
       "2026-10-23, 17:28:36",
       "https://news.ycombinator.com/item?id=50212507"
     ],
     [
       "Air Purifiers as White Noise Machines",
       "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines"
-    ]
-  ],
-  [
-    [
-      "2026-10-23, 17:02:24",
-      "https://news.ycombinator.com/item?id=50212124"
-    ],
-    [
-      "Animations for System Builders",
-      "https://brooker.co.za/blog/2026/10/23/animations.html"
     ]
   ],
   [
