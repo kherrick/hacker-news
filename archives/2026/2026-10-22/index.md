@@ -76,4 +76,5 @@
 * [2026-10-22, 02:17:58](https://news.ycombinator.com/item?id=50190357) - [Claude Now Works with Google Docs, Sheets, and Slides](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides)
 * [2026-10-22, 02:13:48](https://news.ycombinator.com/item?id=50190334) - [LLM Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/)
 * [2026-10-22, 01:52:03](https://news.ycombinator.com/item?id=50190168) - [Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552)
+* [2026-10-22, 01:28:27](https://news.ycombinator.com/item?id=50189981) - [Zac-OS-9: The classic Platinum desktop, reborn for modern PCs](https://sourceforge.net/projects/zac-os-9/)
 * [2026-10-22, 00:48:10](https://news.ycombinator.com/item?id=50189666) - [The era of speedball capitalism has dawned](https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned)

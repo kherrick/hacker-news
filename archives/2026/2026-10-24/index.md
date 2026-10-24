@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-24](index.md)
 
+* [2026-10-24, 18:31:48](https://news.ycombinator.com/item?id=50223844) - [Danish Government silently drops plan to dump MS Office](https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft)
+* [2026-10-24, 18:23:24](https://news.ycombinator.com/item?id=50223785) - [Dream-1](https://dreamlabs.ai/research/dream-1/)
+* [2026-10-24, 18:19:05](https://news.ycombinator.com/item?id=50223752) - [Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology](https://www.science.org/doi/10.1126/sciadv.aeh8870)
 * [2026-10-24, 17:13:57](https://news.ycombinator.com/item?id=50223201) - [Show HN: Argus- open source security platform to protect against agentic attacks](https://github.com/thomasunise/argus)
 * [2026-10-24, 16:47:19](https://news.ycombinator.com/item?id=50222976) - [Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs'](https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947)
 * [2026-10-24, 16:41:55](https://news.ycombinator.com/item?id=50222927) - [The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866)
