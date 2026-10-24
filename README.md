@@ -2,8 +2,8 @@
 
 * [2026-10-24, 01:53:10](https://news.ycombinator.com/item?id=50217683) - [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
 * [2026-10-24, 01:35:49](https://news.ycombinator.com/item?id=50217587) - [Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax](https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html)
+* [2026-10-24, 01:16:58](https://news.ycombinator.com/item?id=50217500) - [Twelve Years of Distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 * [2026-10-23, 23:30:17](https://news.ycombinator.com/item?id=50216791) - [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
-* [2026-10-23, 22:18:49](https://news.ycombinator.com/item?id=50216142) - [German court calls Google aerial imagery 'spying'](https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/)
 * [2026-10-23, 21:21:47](https://news.ycombinator.com/item?id=50215530) - [CVE Tracker](https://cve.0xosprey.com/)
 * [2026-10-23, 20:38:06](https://news.ycombinator.com/item?id=50214994) - [No Source Code? No Problem](https://queue.acm.org/doi/10.1145/945131.945155)
 * [2026-10-23, 20:37:12](https://news.ycombinator.com/item?id=50214983) - [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
