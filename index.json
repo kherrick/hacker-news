@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-10-22, 09:39:45",
-      "https://news.ycombinator.com/item?id=50193216"
-    ],
-    [
-      "Rails Is a JIT Compiler",
-      "https://railsatscale.com/2026-10-21-rails-is-a-jit-compiler/"
-    ]
-  ],
-  [
-    [
       "2026-10-22, 09:01:10",
       "https://news.ycombinator.com/item?id=50192975"
     ],
@@ -297,6 +287,16 @@
     [
       "Symbolic Learning in Python and Julia",
       "https://github.com/astroautomata/PySR"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 19:22:39",
+      "https://news.ycombinator.com/item?id=50171379"
+    ],
+    [
+      "A practical guide to AI image generation, from diffusion to agents",
+      "https://danielball.com/notes/ai_image_generation.html"
     ]
   ]
 ]
