@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-24, 17:13:57](https://news.ycombinator.com/item?id=50223201) - [Show HN: Argus- open source security platform to protect against agentic attacks](https://github.com/thomasunise/argus)
 * [2026-10-24, 16:47:19](https://news.ycombinator.com/item?id=50222976) - [Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs'](https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947)
 * [2026-10-24, 16:41:55](https://news.ycombinator.com/item?id=50222927) - [The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866)
 * [2026-10-24, 16:06:26](https://news.ycombinator.com/item?id=50222622) - [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)
@@ -30,6 +29,7 @@
 * [2026-10-21, 12:40:46](https://news.ycombinator.com/item?id=50179920) - [Cecilia Berdichevsky, Clementina expert (1961)](https://en.wikipedia.org/wiki/Cecilia_Berdichevsky)
 * [2026-10-20, 21:30:56](https://news.ycombinator.com/item?id=50172962) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 * [2026-10-20, 19:22:39](https://news.ycombinator.com/item?id=50171379) - [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)
+* [2026-10-20, 17:10:05](https://news.ycombinator.com/item?id=50169499) - [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
 
 ## [Archives](archives/index.md)
 
