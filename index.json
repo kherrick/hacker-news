@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-24, 04:42:10",
-      "https://news.ycombinator.com/item?id=50218404"
-    ],
-    [
-      "Elon Musk Acquires $1B Stake in CNN's Parent Company",
-      "https://symby.com/news?_cid=101605177&preferredLanguage=en"
-    ]
-  ],
-  [
-    [
       "2026-10-24, 03:43:54",
       "https://news.ycombinator.com/item?id=50218195"
     ],
@@ -77,6 +67,16 @@
     [
       "A whirlwind tour of systemd-nspawn containers (2025)",
       "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/"
+    ]
+  ],
+  [
+    [
+      "2026-10-23, 19:50:56",
+      "https://news.ycombinator.com/item?id=50214416"
+    ],
+    [
+      "Securing our frontier model training environment",
+      "https://openai.com/index/securing-our-frontier-model-training-environment/"
     ]
   ],
   [
