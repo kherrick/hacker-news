@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-24, 14:38:34](https://news.ycombinator.com/item?id=50221676) - [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/)
-* [2026-10-24, 13:09:28](https://news.ycombinator.com/item?id=50220913) - [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
 * [2026-10-24, 11:18:54](https://news.ycombinator.com/item?id=50220204) - [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
 * [2026-10-24, 10:51:35](https://news.ycombinator.com/item?id=50220042) - [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root)
 * [2026-10-24, 09:58:27](https://news.ycombinator.com/item?id=50219700) - [GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards](https://github.com/Zagitta/gpu-unlock)
@@ -26,6 +25,7 @@
 * [2026-10-21, 20:40:03](https://news.ycombinator.com/item?id=50187309) - [I built a neural network using DOOM games](https://github.com/mottopanikeiku/doomformer)
 * [2026-10-21, 19:40:01](https://news.ycombinator.com/item?id=50186450) - [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
 * [2026-10-21, 14:00:08](https://news.ycombinator.com/item?id=50181106) - [Appreciating the beauty of all your body's scars and scratches](https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/)
+* [2026-10-21, 13:04:07](https://news.ycombinator.com/item?id=50180251) - [Tiling Noise – Procedural GPU Patterns](https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/)
 * [2026-10-21, 05:48:12](https://news.ycombinator.com/item?id=50176544) - [C vs. C#: racing VLC's Gaussian blur](https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/)
 * [2026-10-20, 21:30:56](https://news.ycombinator.com/item?id=50172962) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 * [2026-10-20, 19:22:39](https://news.ycombinator.com/item?id=50171379) - [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)
