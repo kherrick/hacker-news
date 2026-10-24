@@ -15,6 +15,7 @@
 * [2026-10-24, 19:03:59](https://news.ycombinator.com/item?id=50224074) - [PHP Foundation 'under-funded' with one full-time staff member, director says](https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/)
 * [2026-10-24, 18:31:48](https://news.ycombinator.com/item?id=50223844) - [Danish Government silently drops plan to dump MS Office](https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft)
 * [2026-10-24, 18:23:24](https://news.ycombinator.com/item?id=50223785) - [Dream-1](https://dreamlabs.ai/research/dream-1/)
+* [2026-10-24, 18:22:14](https://news.ycombinator.com/item?id=50223777) - [Bbtree: Fastest Ordered Map](https://bbtree.xiangpeng.systems/post/)
 * [2026-10-24, 18:19:05](https://news.ycombinator.com/item?id=50223752) - [Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology](https://www.science.org/doi/10.1126/sciadv.aeh8870)
 * [2026-10-24, 18:04:57](https://news.ycombinator.com/item?id=50223647) - [Why is AI generated language so hard to understand?](https://arxiv.org/abs/2610.29162)
 * [2026-10-24, 17:13:57](https://news.ycombinator.com/item?id=50223201) - [Show HN: Argus- open source security platform to protect against agentic attacks](https://github.com/thomasunise/argus)
