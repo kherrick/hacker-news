@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-24, 22:55:26",
-      "https://news.ycombinator.com/item?id=50226261"
-    ],
-    [
-      "Free Software Is a Failure",
-      "http://www.paritybit.ca/blog/free-software-is-an-abject-failure/"
-    ]
-  ],
-  [
-    [
       "2026-10-24, 21:54:16",
       "https://news.ycombinator.com/item?id=50225748"
     ],
@@ -97,16 +87,6 @@
     [
       "The Goose Programming Language",
       "https://aardappel.github.io/goose/"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 18:23:24",
-      "https://news.ycombinator.com/item?id=50223785"
-    ],
-    [
-      "Dream-1",
-      "https://dreamlabs.ai/research/dream-1/"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2026-10-24, 03:43:54",
+      "https://news.ycombinator.com/item?id=50218195"
+    ],
+    [
+      "How close can pure functional programming get to C?",
+      "https://rtfeldman.com/fp-vs-c"
+    ]
+  ],
+  [
+    [
       "2026-10-24, 01:16:58",
       "https://news.ycombinator.com/item?id=50217500"
     ],
@@ -267,6 +257,16 @@
     [
       "Cecilia Berdichevsky, Clementina expert (1961)",
       "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 21:30:56",
+      "https://news.ycombinator.com/item?id=50172962"
+    ],
+    [
+      "Bringing uv and ty together",
+      "https://astral.sh/blog/uv-ty-integration"
     ]
   ],
   [
