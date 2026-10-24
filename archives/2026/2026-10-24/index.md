@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-24](index.md)
 
+* [2026-10-24, 22:55:26](https://news.ycombinator.com/item?id=50226261) - [Free Software Is a Failure](http://www.paritybit.ca/blog/free-software-is-an-abject-failure/)
+* [2026-10-24, 21:54:16](https://news.ycombinator.com/item?id=50225748) - [Argus – a free, open-source agentic security operations platform – MIT](https://thomasunise.com/argus)
 * [2026-10-24, 21:47:31](https://news.ycombinator.com/item?id=50225695) - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
 * [2026-10-24, 21:44:23](https://news.ycombinator.com/item?id=50225674) - [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
 * [2026-10-24, 21:42:47](https://news.ycombinator.com/item?id=50225663) - [The Importance of Limitations for Creativity and Learning](https://ratfactor.com/cards/limitations)

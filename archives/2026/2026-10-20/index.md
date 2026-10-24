@@ -17,6 +17,7 @@
 * [2026-10-20, 21:18:07](https://news.ycombinator.com/item?id=50172809) - [Third US aircraft carrier, 10k troops head to Middle East](https://www.iranintl.com/en/202610207766)
 * [2026-10-20, 21:05:16](https://news.ycombinator.com/item?id=50172660) - [The phenomena that brighten dawn and dusk (2016)](https://www.colorado.edu/asmagazine-archive/node/2039)
 * [2026-10-20, 20:46:55](https://news.ycombinator.com/item?id=50172448) - [Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide](https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide)
+* [2026-10-20, 20:45:52](https://news.ycombinator.com/item?id=50172432) - [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/)
 * [2026-10-20, 20:15:50](https://news.ycombinator.com/item?id=50172041) - [Upcoming Critical PHP Security Release](https://news-web.php.net/php.announce/509)
 * [2026-10-20, 20:07:35](https://news.ycombinator.com/item?id=50171936) - [Symbolic Learning in Python and Julia](https://github.com/astroautomata/PySR)
 * [2026-10-20, 19:55:11](https://news.ycombinator.com/item?id=50171771) - [On AI writing](https://www.bolkunov.com/p/on-ai-writing)
