@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-24](index.md)
 
+* [2026-10-24, 20:30:31](https://news.ycombinator.com/item?id=50224916) - [Steal My Bitcoin](https://stealmybitcoin.com/)
 * [2026-10-24, 19:47:19](https://news.ycombinator.com/item?id=50224463) - [No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
 * [2026-10-24, 19:43:27](https://news.ycombinator.com/item?id=50224422) - [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
 * [2026-10-24, 19:27:41](https://news.ycombinator.com/item?id=50224300) - [The Goose Programming Language](https://aardappel.github.io/goose/)
