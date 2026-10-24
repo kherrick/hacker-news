@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-23, 23:30:17",
+      "https://news.ycombinator.com/item?id=50216791"
+    ],
+    [
+      "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8"
+    ]
+  ],
+  [
+    [
       "2026-10-23, 22:18:49",
       "https://news.ycombinator.com/item?id=50216142"
     ],
@@ -67,16 +77,6 @@
     [
       "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
       "https://rune.build/blog/rune-1-3-release"
-    ]
-  ],
-  [
-    [
-      "2026-10-23, 19:41:59",
-      "https://news.ycombinator.com/item?id=50214323"
-    ],
-    [
-      "We are all living inside of an obscure sci-fi film from 1970",
-      "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-10-21, 12:00:21",
-      "https://news.ycombinator.com/item?id=50179454"
+      "2026-10-22, 02:18:41",
+      "https://news.ycombinator.com/item?id=50190363"
     ],
     [
-      "John Snow Cholera Data",
-      "https://johnsnow.rtwilson.com/"
+      "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "https://simedw.com/2026/10/21/world-model-terminal/"
     ]
   ],
   [
