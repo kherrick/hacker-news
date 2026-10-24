@@ -10,6 +10,7 @@
 * [2026-10-24, 03:32:47](https://news.ycombinator.com/item?id=50218141) - [CowAgent – Open-Source Super AI Assistant](https://cowagent.ai/en/)
 * [2026-10-24, 03:28:23](https://news.ycombinator.com/item?id=50218126) - [The Anger Machine (Joan Kirner Social Justice Oration 2026)](https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026)
 * [2026-10-24, 02:43:43](https://news.ycombinator.com/item?id=50217946) - [How Block Blast harvests its players for ad money](https://ayoships.com/breakdowns/block-blast)
+* [2026-10-24, 02:36:38](https://news.ycombinator.com/item?id=50217903) - [Apple Security Research Device](https://security.apple.com/research-device/)
 * [2026-10-24, 01:53:10](https://news.ycombinator.com/item?id=50217683) - [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
 * [2026-10-24, 01:37:28](https://news.ycombinator.com/item?id=50217600) - [Password, Please: Border Searches of Laptops, Phones Up 32% This Year](https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213)
 * [2026-10-24, 01:35:49](https://news.ycombinator.com/item?id=50217587) - [Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax](https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html)
