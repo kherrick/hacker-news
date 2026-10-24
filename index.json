@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-10-24, 21:44:23",
+      "https://news.ycombinator.com/item?id=50225674"
+    ],
+    [
+      "Small Programs and Languages",
+      "https://ratfactor.com/cards/pl-small"
+    ]
+  ],
+  [
+    [
+      "2026-10-24, 21:42:47",
+      "https://news.ycombinator.com/item?id=50225663"
+    ],
+    [
+      "The Importance of Limitations for Creativity and Learning",
+      "https://ratfactor.com/cards/limitations"
+    ]
+  ],
+  [
+    [
       "2026-10-24, 20:30:31",
       "https://news.ycombinator.com/item?id=50224916"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-10-23, 19:09:54",
-      "https://news.ycombinator.com/item?id=50213925"
-    ],
-    [
-      "Dessa: Conversation Model trained only on speech",
-      "https://block.xyz/dessa"
-    ]
-  ],
-  [
-    [
       "2026-10-22, 23:01:18",
       "https://news.ycombinator.com/item?id=50202285"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-10-21, 13:04:07",
-      "https://news.ycombinator.com/item?id=50180251"
-    ],
-    [
-      "Tiling Noise – Procedural GPU Patterns",
-      "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/"
-    ]
-  ],
-  [
-    [
       "2026-10-21, 12:40:46",
       "https://news.ycombinator.com/item?id=50179920"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-10-20, 19:22:39",
-      "https://news.ycombinator.com/item?id=50171379"
+      "2026-10-20, 16:00:15",
+      "https://news.ycombinator.com/item?id=50168376"
     ],
     [
-      "A practical guide to AI image generation, from diffusion to agents",
-      "https://danielball.com/notes/ai_image_generation.html"
+      "Making a VGA Driver in SystemVerilog",
+      "https://lukaswerner.com/post/2026-10-20@bottom-up-vga"
     ]
   ]
 ]
