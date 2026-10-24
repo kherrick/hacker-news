@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-24, 03:43:54](https://news.ycombinator.com/item?id=50218195) - [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
-* [2026-10-24, 02:43:43](https://news.ycombinator.com/item?id=50217946) - [How Block Blast harvests its players for ad money](https://ayoships.com/breakdowns/block-blast)
 * [2026-10-24, 01:53:10](https://news.ycombinator.com/item?id=50217683) - [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
+* [2026-10-24, 01:37:28](https://news.ycombinator.com/item?id=50217600) - [Password, Please: Border Searches of Laptops, Phones Up 32% This Year](https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213)
 * [2026-10-24, 01:16:58](https://news.ycombinator.com/item?id=50217500) - [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 * [2026-10-23, 23:30:17](https://news.ycombinator.com/item?id=50216791) - [Evolving Threat: http2shell is an RCE in Node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
 * [2026-10-23, 21:46:51](https://news.ycombinator.com/item?id=50215828) - [One Man's Pan Am 747 Replica [video]](https://www.youtube.com/watch?v=vAFwHGGfPz4)
