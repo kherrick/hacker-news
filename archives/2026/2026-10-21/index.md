@@ -71,6 +71,7 @@
 * [2026-10-21, 13:04:07](https://news.ycombinator.com/item?id=50180251) - [Tiling Noise – Procedural GPU Patterns](https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/)
 * [2026-10-21, 12:53:11](https://news.ycombinator.com/item?id=50180079) - [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud/)
 * [2026-10-21, 12:50:33](https://news.ycombinator.com/item?id=50180039) - [Show HN: Sumi.css – CSS Framework](https://github.com/vladocar/Sumi.css)
+* [2026-10-21, 12:40:46](https://news.ycombinator.com/item?id=50179920) - [Cecilia Berdichevsky, Clementina expert (1961)](https://en.wikipedia.org/wiki/Cecilia_Berdichevsky)
 * [2026-10-21, 12:34:46](https://news.ycombinator.com/item?id=50179857) - [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/)
 * [2026-10-21, 12:31:28](https://news.ycombinator.com/item?id=50179828) - [Dutch National Cyber Security Center is Offline because it uses PHP](https://www.ncsc.nl/actueel)
 * [2026-10-21, 12:23:41](https://news.ycombinator.com/item?id=50179719) - [Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels](https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels)

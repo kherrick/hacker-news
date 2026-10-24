@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-24](index.md)
 
+* [2026-10-24, 16:47:19](https://news.ycombinator.com/item?id=50222976) - [Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs'](https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947)
+* [2026-10-24, 16:41:55](https://news.ycombinator.com/item?id=50222927) - [The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866)
 * [2026-10-24, 16:06:26](https://news.ycombinator.com/item?id=50222622) - [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)
 * [2026-10-24, 15:57:17](https://news.ycombinator.com/item?id=50222525) - [Neural chip decodes interactions between brain regions](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)
 * [2026-10-24, 15:20:01](https://news.ycombinator.com/item?id=50222133) - [FreeDNS](https://freedns.afraid.org/)

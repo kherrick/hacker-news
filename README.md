@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-24, 16:47:19](https://news.ycombinator.com/item?id=50222976) - [Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs'](https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947)
+* [2026-10-24, 16:41:55](https://news.ycombinator.com/item?id=50222927) - [The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866)
 * [2026-10-24, 16:06:26](https://news.ycombinator.com/item?id=50222622) - [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)
 * [2026-10-24, 15:57:17](https://news.ycombinator.com/item?id=50222525) - [Neural chip decodes interactions between brain regions](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)
 * [2026-10-24, 15:20:01](https://news.ycombinator.com/item?id=50222133) - [FreeDNS](https://freedns.afraid.org/)
@@ -14,7 +16,6 @@
 * [2026-10-24, 02:36:38](https://news.ycombinator.com/item?id=50217903) - [Apple Security Research Device](https://security.apple.com/research-device/)
 * [2026-10-24, 01:16:58](https://news.ycombinator.com/item?id=50217500) - [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 * [2026-10-24, 01:15:14](https://news.ycombinator.com/item?id=50217495) - [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
-* [2026-10-23, 21:21:47](https://news.ycombinator.com/item?id=50215530) - [CVE Tracker](https://cve.0xosprey.com/)
 * [2026-10-23, 19:09:54](https://news.ycombinator.com/item?id=50213925) - [Dessa: Conversation Model trained only on speech](https://block.xyz/dessa)
 * [2026-10-23, 16:59:08](https://news.ycombinator.com/item?id=50212065) - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
 * [2026-10-23, 16:21:50](https://news.ycombinator.com/item?id=50211474) - [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
@@ -23,13 +24,12 @@
 * [2026-10-22, 14:07:48](https://news.ycombinator.com/item?id=50195535) - [Parsing EDIFACT in Python with syntax trees](https://github.com/AmadeusITGroup/Edison)
 * [2026-10-22, 12:40:56](https://news.ycombinator.com/item?id=50194536) - [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
 * [2026-10-22, 09:01:10](https://news.ycombinator.com/item?id=50192975) - [TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)
-* [2026-10-22, 04:41:58](https://news.ycombinator.com/item?id=50191250) - [The Chalk and the Airplane](https://unintendedconsequenc.es/chalk-and-the-airplane/)
 * [2026-10-21, 19:40:01](https://news.ycombinator.com/item?id=50186450) - [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
 * [2026-10-21, 14:00:08](https://news.ycombinator.com/item?id=50181106) - [Appreciating the beauty of all your body's scars and scratches](https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/)
 * [2026-10-21, 13:04:07](https://news.ycombinator.com/item?id=50180251) - [Tiling Noise – Procedural GPU Patterns](https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/)
+* [2026-10-21, 12:40:46](https://news.ycombinator.com/item?id=50179920) - [Cecilia Berdichevsky, Clementina expert (1961)](https://en.wikipedia.org/wiki/Cecilia_Berdichevsky)
 * [2026-10-20, 21:30:56](https://news.ycombinator.com/item?id=50172962) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 * [2026-10-20, 19:22:39](https://news.ycombinator.com/item?id=50171379) - [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)
-* [2026-10-20, 17:10:05](https://news.ycombinator.com/item?id=50169499) - [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
 
 ## [Archives](archives/index.md)
 
