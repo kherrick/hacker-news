@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-10-24, 09:53:26",
+      "https://news.ycombinator.com/item?id=50219666"
+    ],
+    [
+      "I Don't Understand Quantum Physics",
+      "https://www.southampton.ac.uk/~doug/quantum_physics/index.html"
+    ]
+  ],
+  [
+    [
       "2026-10-24, 08:08:42",
       "https://news.ycombinator.com/item?id=50219186"
     ],
     [
       "ThinkRail from JetBrains",
       "https://thinkrail.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-10-24, 08:06:39",
+      "https://news.ycombinator.com/item?id=50219177"
+    ],
+    [
+      "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
     ]
   ],
   [
@@ -141,26 +161,6 @@
   ],
   [
     [
-      "2026-10-23, 16:39:45",
-      "https://news.ycombinator.com/item?id=50211746"
-    ],
-    [
-      "UUIDv7: Timestamps aren’t time-ordered and other oddities",
-      "https://alexsci.com/blog/uuidv7-is-weird/"
-    ]
-  ],
-  [
-    [
-      "2026-10-23, 16:38:17",
-      "https://news.ycombinator.com/item?id=50211719"
-    ],
-    [
-      "How is music possible",
-      "https://www.henrikkarlsson.xyz/p/music"
-    ]
-  ],
-  [
-    [
       "2026-10-23, 16:21:50",
       "https://news.ycombinator.com/item?id=50211474"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-10-21, 18:49:51",
-      "https://news.ycombinator.com/item?id=50185715"
-    ],
-    [
-      "A Cocktail Party in the Street: An Interview with Alan Stillman (2010)",
-      "https://www.ediblegeography.com/a-cocktail-party-in-the-street-an-interview-with-alan-stillman/"
-    ]
-  ],
-  [
-    [
       "2026-10-21, 05:48:12",
       "https://news.ycombinator.com/item?id=50176544"
     ],
@@ -257,6 +247,16 @@
     [
       "The Best Monopoly Strategy, Tested on 300M Games [video]",
       "https://www.youtube.com/watch?v=S_2eVAaw1UM"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 22:25:00",
+      "https://news.ycombinator.com/item?id=50173520"
+    ],
+    [
+      "U-2 spy plane makes rare appearance in Bay Area flyover",
+      "https://www.sfgate.com/bayarea/article/government-spy-plane-49ers-22485781.php"
     ]
   ],
   [
