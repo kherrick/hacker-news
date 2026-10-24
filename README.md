@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-24, 11:18:54](https://news.ycombinator.com/item?id=50220204) - [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
+* [2026-10-24, 11:08:47](https://news.ycombinator.com/item?id=50220145) - [Node.js Vulnerability Blog](https://nodejs.org/en/blog/vulnerability)
 * [2026-10-24, 09:53:26](https://news.ycombinator.com/item?id=50219666) - [I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
 * [2026-10-24, 08:06:39](https://news.ycombinator.com/item?id=50219177) - [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
 * [2026-10-24, 05:49:57](https://news.ycombinator.com/item?id=50218633) - [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
@@ -29,7 +30,6 @@
 * [2026-10-20, 21:30:56](https://news.ycombinator.com/item?id=50172962) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 * [2026-10-20, 19:22:39](https://news.ycombinator.com/item?id=50171379) - [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)
 * [2026-10-20, 17:10:05](https://news.ycombinator.com/item?id=50169499) - [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
-* [2026-10-20, 15:41:28](https://news.ycombinator.com/item?id=50168075) - [Rise of collagen-eating microbes may help explain gaps in the fossil record](https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record)
 
 ## [Archives](archives/index.md)
 
