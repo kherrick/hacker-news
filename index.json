@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-10-24, 19:19:43",
+      "https://news.ycombinator.com/item?id=50224210"
+    ],
+    [
+      "SpeedCrunch 1.1",
+      "https://www.speedcrunch.org/"
+    ]
+  ],
+  [
+    [
       "2026-10-24, 19:06:55",
       "https://news.ycombinator.com/item?id=50224100"
     ],
@@ -201,22 +211,22 @@
   ],
   [
     [
-      "2026-10-23, 12:28:47",
-      "https://news.ycombinator.com/item?id=50207910"
-    ],
-    [
-      "Apple Music 404 Not Found",
-      "https://music.apple.com/this-url-doesnt-exist"
-    ]
-  ],
-  [
-    [
       "2026-10-22, 23:01:18",
       "https://news.ycombinator.com/item?id=50202285"
     ],
     [
       "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "https://edjefferson.com/localwiki/"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 09:39:45",
+      "https://news.ycombinator.com/item?id=50193216"
+    ],
+    [
+      "Rails Is a JIT Compiler",
+      "https://railsatscale.com/2026-10-21-rails-is-a-jit-compiler/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Symbolic Learning in Python and Julia",
       "https://github.com/astroautomata/PySR"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 19:22:39",
-      "https://news.ycombinator.com/item?id=50171379"
-    ],
-    [
-      "A practical guide to AI image generation, from diffusion to agents",
-      "https://danielball.com/notes/ai_image_generation.html"
     ]
   ]
 ]
