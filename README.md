@@ -19,7 +19,6 @@
 * [2026-10-23, 16:38:35](https://news.ycombinator.com/item?id=50211729) - [The Missed Opportunities of Sonic 06 (2025)](https://isaacmarovitz.com/posts/sonic-06/)
 * [2026-10-23, 16:21:50](https://news.ycombinator.com/item?id=50211474) - [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
 * [2026-10-23, 15:56:06](https://news.ycombinator.com/item?id=50211084) - [Reforming English Spelling](https://blog.oup.com/2026/10/reforming-english-spelling/)
-* [2026-10-23, 14:43:02](https://news.ycombinator.com/item?id=50209907) - [Gemma-4-26B-A4B with 39-69% less thinking at same accuracy](https://bottlecapai.com/post/thinkingcap-gemma-4-26b/)
 * [2026-10-23, 12:28:47](https://news.ycombinator.com/item?id=50207910) - [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
 * [2026-10-23, 06:54:52](https://news.ycombinator.com/item?id=50205320) - [Show HN: Swurf – Swipe through the real web](https://swurf.org/)
 * [2026-10-22, 23:54:28](https://news.ycombinator.com/item?id=50202746) - [Show HN: Impossible Machines: declaratively program the physical world](https://www.impossiblemachines.xyz)
@@ -28,6 +27,7 @@
 * [2026-10-22, 19:08:09](https://news.ycombinator.com/item?id=50199684) - [LISP Comes of Age (1980)](https://microship.com/lisp-comes-of-age/)
 * [2026-10-22, 02:18:41](https://news.ycombinator.com/item?id=50190363) - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
 * [2026-10-21, 08:17:35](https://news.ycombinator.com/item?id=50177554) - [A Bicycle Journey Across Brazil to Find a Vanishing Savanna](https://e360.yale.edu/features/2026-film-contest-second-place-cerrado)
+* [2026-10-20, 21:30:56](https://news.ycombinator.com/item?id=50172962) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 * [2026-10-20, 17:10:05](https://news.ycombinator.com/item?id=50169499) - [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
 * [2026-10-20, 15:41:28](https://news.ycombinator.com/item?id=50168075) - [Rise of collagen-eating microbes may help explain gaps in the fossil record](https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record)
 
