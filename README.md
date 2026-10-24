@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-24, 13:47:07](https://news.ycombinator.com/item?id=50221179) - [One Must Fall 2097 Remastered](https://github.com/Jared-woodruff/OMF-2097-Remastered/)
 * [2026-10-24, 13:09:28](https://news.ycombinator.com/item?id=50220913) - [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
 * [2026-10-24, 11:18:54](https://news.ycombinator.com/item?id=50220204) - [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
 * [2026-10-24, 10:51:35](https://news.ycombinator.com/item?id=50220042) - [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root)
@@ -20,7 +21,6 @@
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
 * [2026-10-22, 22:43:19](https://news.ycombinator.com/item?id=50202114) - [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill)
 * [2026-10-22, 12:40:56](https://news.ycombinator.com/item?id=50194536) - [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
-* [2026-10-22, 10:55:22](https://news.ycombinator.com/item?id=50193677) - [The Quake Fan who built the map editor everybody uses](https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses)
 * [2026-10-22, 09:01:10](https://news.ycombinator.com/item?id=50192975) - [TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)
 * [2026-10-22, 04:41:58](https://news.ycombinator.com/item?id=50191250) - [The Chalk and the Airplane](https://unintendedconsequenc.es/chalk-and-the-airplane/)
 * [2026-10-21, 19:40:01](https://news.ycombinator.com/item?id=50186450) - [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
