@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-24, 15:20:01](https://news.ycombinator.com/item?id=50222133) - [FreeDNS](https://freedns.afraid.org/)
 * [2026-10-24, 14:38:34](https://news.ycombinator.com/item?id=50221676) - [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/)
 * [2026-10-24, 11:18:54](https://news.ycombinator.com/item?id=50220204) - [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
 * [2026-10-24, 10:51:35](https://news.ycombinator.com/item?id=50220042) - [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root)
@@ -9,7 +10,6 @@
 * [2026-10-24, 05:49:57](https://news.ycombinator.com/item?id=50218633) - [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
 * [2026-10-24, 04:49:58](https://news.ycombinator.com/item?id=50218430) - [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
 * [2026-10-24, 03:43:54](https://news.ycombinator.com/item?id=50218195) - [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
-* [2026-10-24, 02:43:43](https://news.ycombinator.com/item?id=50217946) - [How Block Blast harvests its players for ad money](https://ayoships.com/breakdowns/block-blast)
 * [2026-10-24, 02:36:38](https://news.ycombinator.com/item?id=50217903) - [Apple Security Research Device](https://security.apple.com/research-device/)
 * [2026-10-24, 01:16:58](https://news.ycombinator.com/item?id=50217500) - [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 * [2026-10-24, 01:15:14](https://news.ycombinator.com/item?id=50217495) - [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
