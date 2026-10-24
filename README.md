@@ -10,7 +10,7 @@
 * [2026-10-23, 19:50:56](https://news.ycombinator.com/item?id=50214416) - [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment/)
 * [2026-10-23, 19:46:38](https://news.ycombinator.com/item?id=50214373) - [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/)
 * [2026-10-23, 19:42:01](https://news.ycombinator.com/item?id=50214325) - [Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501](https://rune.build/blog/rune-1-3-release)
-* [2026-10-23, 19:09:54](https://news.ycombinator.com/item?id=50213925) - [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
+* [2026-10-23, 19:09:54](https://news.ycombinator.com/item?id=50213925) - [Dessa: Conversation Model trained only on speech](https://block.xyz/dessa)
 * [2026-10-23, 19:00:04](https://news.ycombinator.com/item?id=50213791) - [DNS: A Replacement for Finger](https://altchan.org/sh/42)
 * [2026-10-23, 17:28:36](https://news.ycombinator.com/item?id=50212507) - [Air Purifiers as White Noise Machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
 * [2026-10-23, 17:02:24](https://news.ycombinator.com/item?id=50212124) - [Animations for System Builders](https://brooker.co.za/blog/2026/10/23/animations.html)
