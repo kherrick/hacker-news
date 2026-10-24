@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-10-24, 03:43:54",
+      "https://news.ycombinator.com/item?id=50218195"
+    ],
+    [
+      "How close can pure functional programming get to C?",
+      "https://rtfeldman.com/fp-vs-c"
+    ]
+  ],
+  [
+    [
       "2026-10-24, 01:53:10",
       "https://news.ycombinator.com/item?id=50217683"
     ],
@@ -67,16 +77,6 @@
     [
       "A whirlwind tour of systemd-nspawn containers (2025)",
       "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/"
-    ]
-  ],
-  [
-    [
-      "2026-10-23, 19:50:56",
-      "https://news.ycombinator.com/item?id=50214416"
-    ],
-    [
-      "Securing our frontier model training environment",
-      "https://openai.com/index/securing-our-frontier-model-training-environment/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-10-22, 23:54:28",
-      "https://news.ycombinator.com/item?id=50202746"
-    ],
-    [
-      "Show HN: Impossible Machines: declaratively program the physical world",
-      "https://www.impossiblemachines.xyz"
-    ]
-  ],
-  [
-    [
       "2026-10-22, 23:01:18",
       "https://news.ycombinator.com/item?id=50202285"
     ],
@@ -277,6 +267,16 @@
     [
       "Bringing uv and ty together",
       "https://astral.sh/blog/uv-ty-integration"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 19:22:39",
+      "https://news.ycombinator.com/item?id=50171379"
+    ],
+    [
+      "A practical guide to AI image generation, from diffusion to agents",
+      "https://danielball.com/notes/ai_image_generation.html"
     ]
   ],
   [
