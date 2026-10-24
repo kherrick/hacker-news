@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-10-24, 13:06:41",
+      "https://news.ycombinator.com/item?id=50220891"
+    ],
+    [
+      "I DO Understand Relativity",
+      "https://www.southampton.ac.uk/~doug/relativity/index.html"
+    ]
+  ],
+  [
+    [
       "2026-10-24, 10:51:35",
       "https://news.ycombinator.com/item?id=50220042"
     ],
@@ -87,16 +97,6 @@
     [
       "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
       "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 05:49:57",
-      "https://news.ycombinator.com/item?id=50218633"
-    ],
-    [
-      "Root shell on Samsung TV",
-      "https://twitter.com/log4j/status/2113014142600953868?s=46"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-10-20, 20:07:35",
+      "https://news.ycombinator.com/item?id=50171936"
+    ],
+    [
+      "Symbolic Learning in Python and Julia",
+      "https://github.com/astroautomata/PySR"
+    ]
+  ],
+  [
+    [
       "2026-10-20, 19:22:39",
       "https://news.ycombinator.com/item?id=50171379"
     ],
     [
       "A practical guide to AI image generation, from diffusion to agents",
       "https://danielball.com/notes/ai_image_generation.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 17:10:05",
-      "https://news.ycombinator.com/item?id=50169499"
-    ],
-    [
-      "The Real Kevin Bacon",
-      "https://pudding.cool/2026/10/kevin-bacon/"
     ]
   ]
 ]
