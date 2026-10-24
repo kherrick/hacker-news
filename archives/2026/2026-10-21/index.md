@@ -17,6 +17,7 @@
 * [2026-10-21, 21:12:59](https://news.ycombinator.com/item?id=50187708) - [PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
 * [2026-10-21, 21:12:59](https://news.ycombinator.com/item?id=50187708) - [AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days](https://github.com/amazonlinux/amazon-linux-2023/issues/1148)
 * [2026-10-21, 21:08:59](https://news.ycombinator.com/item?id=50187659) - [CleanFrame: A quieter home screen for Samsung The Frame](https://github.com/nthnclrk/CleanFrame)
+* [2026-10-21, 20:40:03](https://news.ycombinator.com/item?id=50187309) - [I built a neural network using DOOM games](https://github.com/mottopanikeiku/doomformer)
 * [2026-10-21, 20:04:57](https://news.ycombinator.com/item?id=50186842) - [CDC Ignored Request from States to Validate a New Measles Test](https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html)
 * [2026-10-21, 19:44:49](https://news.ycombinator.com/item?id=50186518) - [After automation: Solo founding will be the default](https://every.to/thesis-statements/julian-weisser)
 * [2026-10-21, 19:40:18](https://news.ycombinator.com/item?id=50186455) - [Claude Duet](https://claude.com/resources/articles/claude-duet)

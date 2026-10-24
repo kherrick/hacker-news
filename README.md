@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-24, 13:47:07](https://news.ycombinator.com/item?id=50221179) - [One Must Fall 2097 Remastered](https://github.com/Jared-woodruff/OMF-2097-Remastered/)
+* [2026-10-24, 14:38:34](https://news.ycombinator.com/item?id=50221676) - [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/)
 * [2026-10-24, 13:09:28](https://news.ycombinator.com/item?id=50220913) - [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
 * [2026-10-24, 11:18:54](https://news.ycombinator.com/item?id=50220204) - [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
 * [2026-10-24, 10:51:35](https://news.ycombinator.com/item?id=50220042) - [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root)
@@ -10,7 +10,6 @@
 * [2026-10-24, 05:49:57](https://news.ycombinator.com/item?id=50218633) - [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
 * [2026-10-24, 04:49:58](https://news.ycombinator.com/item?id=50218430) - [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
 * [2026-10-24, 03:43:54](https://news.ycombinator.com/item?id=50218195) - [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
-* [2026-10-24, 02:43:43](https://news.ycombinator.com/item?id=50217946) - [How Block Blast harvests its players for ad money](https://ayoships.com/breakdowns/block-blast)
 * [2026-10-24, 02:36:38](https://news.ycombinator.com/item?id=50217903) - [Apple Security Research Device](https://security.apple.com/research-device/)
 * [2026-10-24, 01:16:58](https://news.ycombinator.com/item?id=50217500) - [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 * [2026-10-24, 01:15:14](https://news.ycombinator.com/item?id=50217495) - [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
@@ -24,6 +23,7 @@
 * [2026-10-22, 12:40:56](https://news.ycombinator.com/item?id=50194536) - [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
 * [2026-10-22, 09:01:10](https://news.ycombinator.com/item?id=50192975) - [TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)
 * [2026-10-22, 04:41:58](https://news.ycombinator.com/item?id=50191250) - [The Chalk and the Airplane](https://unintendedconsequenc.es/chalk-and-the-airplane/)
+* [2026-10-21, 20:40:03](https://news.ycombinator.com/item?id=50187309) - [I built a neural network using DOOM games](https://github.com/mottopanikeiku/doomformer)
 * [2026-10-21, 19:40:01](https://news.ycombinator.com/item?id=50186450) - [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
 * [2026-10-21, 14:00:08](https://news.ycombinator.com/item?id=50181106) - [Appreciating the beauty of all your body's scars and scratches](https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/)
 * [2026-10-21, 05:48:12](https://news.ycombinator.com/item?id=50176544) - [C vs. C#: racing VLC's Gaussian blur](https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/)
