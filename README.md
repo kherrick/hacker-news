@@ -4,7 +4,7 @@
 * [2026-10-23, 22:18:49](https://news.ycombinator.com/item?id=50216142) - [German court calls Google aerial imagery 'spying'](https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/)
 * [2026-10-23, 21:21:47](https://news.ycombinator.com/item?id=50215530) - [CVE Tracker](https://cve.0xosprey.com/)
 * [2026-10-23, 20:38:06](https://news.ycombinator.com/item?id=50214994) - [No Source Code? No Problem](https://queue.acm.org/doi/10.1145/945131.945155)
-* [2026-10-23, 20:37:12](https://news.ycombinator.com/item?id=50214983) - [A whirlwind tour of systemd-nspawn containers](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
+* [2026-10-23, 20:37:12](https://news.ycombinator.com/item?id=50214983) - [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
 * [2026-10-23, 19:50:56](https://news.ycombinator.com/item?id=50214416) - [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment/)
 * [2026-10-23, 19:46:38](https://news.ycombinator.com/item?id=50214373) - [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/)
 * [2026-10-23, 19:42:01](https://news.ycombinator.com/item?id=50214325) - [Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501](https://rune.build/blog/rune-1-3-release)
