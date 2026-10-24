@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-10-24, 15:57:17",
+      "https://news.ycombinator.com/item?id=50222525"
+    ],
+    [
+      "Neural chip decodes interactions between brain regions",
+      "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/"
+    ]
+  ],
+  [
+    [
       "2026-10-24, 15:20:01",
       "https://news.ycombinator.com/item?id=50222133"
     ],
     [
       "FreeDNS",
       "https://freedns.afraid.org/"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 14:38:34",
-      "https://news.ycombinator.com/item?id=50221676"
-    ],
-    [
-      "Google illegally cut down 250K trees in Finland for data center",
-      "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
       "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 05:49:57",
-      "https://news.ycombinator.com/item?id=50218633"
-    ],
-    [
-      "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Canadians are running out of time to oppose Bill C-22",
       "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill"
+    ]
+  ],
+  [
+    [
+      "2026-10-22, 14:07:48",
+      "https://news.ycombinator.com/item?id=50195535"
+    ],
+    [
+      "Parsing EDIFACT in Python with syntax trees",
+      "https://github.com/AmadeusITGroup/Edison"
     ]
   ],
   [
