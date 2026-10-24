@@ -79,6 +79,7 @@
 * [2026-10-21, 08:43:25](https://news.ycombinator.com/item?id=50177734) - [Finland Buying a Million Landmines](https://yle.fi/a/74-20252139)
 * [2026-10-21, 08:17:35](https://news.ycombinator.com/item?id=50177554) - [A Bicycle Journey Across Brazil to Find a Vanishing Savanna](https://e360.yale.edu/features/2026-film-contest-second-place-cerrado)
 * [2026-10-21, 06:42:12](https://news.ycombinator.com/item?id=50176908) - [Launch HN: Alter (YC S25) – Access control for multi-user agents](https://alterauth.com/)
+* [2026-10-21, 05:48:12](https://news.ycombinator.com/item?id=50176544) - [C vs. C#: racing VLC's Gaussian blur](https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/)
 * [2026-10-21, 05:17:15](https://news.ycombinator.com/item?id=50176351) - [Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%](https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead)
 * [2026-10-21, 05:05:37](https://news.ycombinator.com/item?id=50176301) - [Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273)
 * [2026-10-21, 05:05:19](https://news.ycombinator.com/item?id=50176298) - [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo)
