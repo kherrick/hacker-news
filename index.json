@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-10-24, 13:47:07",
-      "https://news.ycombinator.com/item?id=50221179"
+      "2026-10-24, 14:38:34",
+      "https://news.ycombinator.com/item?id=50221676"
     ],
     [
-      "One Must Fall 2097 Remastered",
-      "https://github.com/Jared-woodruff/OMF-2097-Remastered/"
+      "Google illegally cut down 250K trees in Finland for data center",
+      "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "How close can pure functional programming get to C?",
       "https://rtfeldman.com/fp-vs-c"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 02:43:43",
-      "https://news.ycombinator.com/item?id=50217946"
-    ],
-    [
-      "How Block Blast harvests its players for ad money",
-      "https://ayoships.com/breakdowns/block-blast"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "The Chalk and the Airplane",
       "https://unintendedconsequenc.es/chalk-and-the-airplane/"
+    ]
+  ],
+  [
+    [
+      "2026-10-21, 20:40:03",
+      "https://news.ycombinator.com/item?id=50187309"
+    ],
+    [
+      "I built a neural network using DOOM games",
+      "https://github.com/mottopanikeiku/doomformer"
     ]
   ],
   [
