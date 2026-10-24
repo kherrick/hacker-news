@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-10-24](index.md)
 
+* [2026-10-24, 21:42:35](https://news.ycombinator.com/item?id=50225659) - [Forecasting Financial Markets with Timestral](https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/)
 * [2026-10-24, 20:30:31](https://news.ycombinator.com/item?id=50224916) - [Steal My Bitcoin](https://stealmybitcoin.com/)
 * [2026-10-24, 19:47:19](https://news.ycombinator.com/item?id=50224463) - [No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
 * [2026-10-24, 19:43:27](https://news.ycombinator.com/item?id=50224422) - [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
 * [2026-10-24, 19:27:41](https://news.ycombinator.com/item?id=50224300) - [The Goose Programming Language](https://aardappel.github.io/goose/)
 * [2026-10-24, 19:19:43](https://news.ycombinator.com/item?id=50224210) - [SpeedCrunch 1.1](https://www.speedcrunch.org/)
+* [2026-10-24, 19:06:55](https://news.ycombinator.com/item?id=50224100) - [The Goose Programming Language](https://aardappel.github.io/goose/)
 * [2026-10-24, 19:06:55](https://news.ycombinator.com/item?id=50224100) - [John Carmack on the Goose Language: multiple data stacks and relative references](https://twitter.com/ID_AA_Carmack/status/2113704269274636568)
 * [2026-10-24, 19:03:59](https://news.ycombinator.com/item?id=50224074) - [PHP Foundation 'under-funded' with one full-time staff member, director says](https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/)
 * [2026-10-24, 18:31:48](https://news.ycombinator.com/item?id=50223844) - [Danish Government silently drops plan to dump MS Office](https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft)
