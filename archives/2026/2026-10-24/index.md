@@ -16,3 +16,4 @@
 * [2026-10-24, 01:37:28](https://news.ycombinator.com/item?id=50217600) - [Password, Please: Border Searches of Laptops, Phones Up 32% This Year](https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213)
 * [2026-10-24, 01:35:49](https://news.ycombinator.com/item?id=50217587) - [Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax](https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html)
 * [2026-10-24, 01:16:58](https://news.ycombinator.com/item?id=50217500) - [Twelve Years of Distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+* [2026-10-24, 01:15:14](https://news.ycombinator.com/item?id=50217495) - [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
