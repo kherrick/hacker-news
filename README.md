@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-24, 21:47:31](https://news.ycombinator.com/item?id=50225695) - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
 * [2026-10-24, 20:30:31](https://news.ycombinator.com/item?id=50224916) - [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
 * [2026-10-24, 19:47:19](https://news.ycombinator.com/item?id=50224463) - [No signs of AI payoff outside the tech sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
 * [2026-10-24, 19:43:27](https://news.ycombinator.com/item?id=50224422) - [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
 * [2026-10-24, 19:19:43](https://news.ycombinator.com/item?id=50224210) - [SpeedCrunch 1.1](https://www.speedcrunch.org/)
 * [2026-10-24, 19:06:55](https://news.ycombinator.com/item?id=50224100) - [The Goose Programming Language](https://aardappel.github.io/goose/)
-* [2026-10-24, 19:03:59](https://news.ycombinator.com/item?id=50224074) - [PHP Foundation 'under-funded' with one full-time staff member, director says](https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/)
 * [2026-10-24, 18:23:24](https://news.ycombinator.com/item?id=50223785) - [Dream-1](https://dreamlabs.ai/research/dream-1/)
 * [2026-10-24, 18:22:14](https://news.ycombinator.com/item?id=50223777) - [Bbtree: Fastest Ordered Map](https://bbtree.xiangpeng.systems/post/)
 * [2026-10-24, 18:04:57](https://news.ycombinator.com/item?id=50223647) - [Why is AI generated language so hard to understand?](https://arxiv.org/abs/2610.29162)
