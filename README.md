@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-24, 20:30:31](https://news.ycombinator.com/item?id=50224916) - [Steal My Bitcoin](https://stealmybitcoin.com/)
+* [2026-10-24, 20:30:31](https://news.ycombinator.com/item?id=50224916) - [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
 * [2026-10-24, 19:47:19](https://news.ycombinator.com/item?id=50224463) - [No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
 * [2026-10-24, 19:43:27](https://news.ycombinator.com/item?id=50224422) - [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
 * [2026-10-24, 19:27:41](https://news.ycombinator.com/item?id=50224300) - [The Goose Programming Language](https://aardappel.github.io/goose/)
@@ -22,6 +22,7 @@
 * [2026-10-24, 03:43:54](https://news.ycombinator.com/item?id=50218195) - [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
 * [2026-10-24, 01:16:58](https://news.ycombinator.com/item?id=50217500) - [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
+* [2026-10-22, 12:46:40](https://news.ycombinator.com/item?id=50194602) - [Full Disk Encryption on Fedora with TPM2](https://www.apalrd.net/posts/2026/ent_luks/)
 * [2026-10-22, 09:01:10](https://news.ycombinator.com/item?id=50192975) - [TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)
 * [2026-10-22, 01:28:27](https://news.ycombinator.com/item?id=50189981) - [Zac-OS-9: The classic Platinum desktop, reborn for modern PCs](https://sourceforge.net/projects/zac-os-9/)
 * [2026-10-21, 19:40:01](https://news.ycombinator.com/item?id=50186450) - [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
@@ -29,7 +30,6 @@
 * [2026-10-21, 12:40:46](https://news.ycombinator.com/item?id=50179920) - [Cecilia Berdichevsky, Clementina expert (1961)](https://en.wikipedia.org/wiki/Cecilia_Berdichevsky)
 * [2026-10-20, 21:30:56](https://news.ycombinator.com/item?id=50172962) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 * [2026-10-20, 20:07:35](https://news.ycombinator.com/item?id=50171936) - [Symbolic Learning in Python and Julia](https://github.com/astroautomata/PySR)
-* [2026-10-20, 19:22:39](https://news.ycombinator.com/item?id=50171379) - [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)
 
 ## [Archives](archives/index.md)
 
