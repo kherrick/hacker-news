@@ -52,6 +52,7 @@
 * [2026-10-22, 13:11:00](https://news.ycombinator.com/item?id=50194833) - [Woman charged with computer fraud due to scam CashApp account being in her name](https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/)
 * [2026-10-22, 13:09:33](https://news.ycombinator.com/item?id=50194824) - [SBD: We Have a Filesystem at Home](https://fly.io/blog/sprites-block-device/)
 * [2026-10-22, 13:03:14](https://news.ycombinator.com/item?id=50194762) - [Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress](https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/)
+* [2026-10-22, 12:40:56](https://news.ycombinator.com/item?id=50194536) - [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
 * [2026-10-22, 12:40:04](https://news.ycombinator.com/item?id=50194522) - [The Last Museum: Semantic search across 5.8M artworks from major museums](https://lastmuseum.com/)
 * [2026-10-22, 11:50:36](https://news.ycombinator.com/item?id=50194070) - [Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/)
 * [2026-10-22, 11:42:03](https://news.ycombinator.com/item?id=50194009) - [Xbox wants you to pay 24 to 40 cents per hour to stream games you bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/)
