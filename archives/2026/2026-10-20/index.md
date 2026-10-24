@@ -18,6 +18,7 @@
 * [2026-10-20, 21:05:16](https://news.ycombinator.com/item?id=50172660) - [The phenomena that brighten dawn and dusk (2016)](https://www.colorado.edu/asmagazine-archive/node/2039)
 * [2026-10-20, 20:46:55](https://news.ycombinator.com/item?id=50172448) - [Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide](https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide)
 * [2026-10-20, 20:15:50](https://news.ycombinator.com/item?id=50172041) - [Upcoming Critical PHP Security Release](https://news-web.php.net/php.announce/509)
+* [2026-10-20, 20:07:35](https://news.ycombinator.com/item?id=50171936) - [Symbolic Learning in Python and Julia](https://github.com/astroautomata/PySR)
 * [2026-10-20, 19:55:11](https://news.ycombinator.com/item?id=50171771) - [On AI writing](https://www.bolkunov.com/p/on-ai-writing)
 * [2026-10-20, 19:22:39](https://news.ycombinator.com/item?id=50171379) - [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)
 * [2026-10-20, 18:51:40](https://news.ycombinator.com/item?id=50170917) - [Academics have a duty to defend open knowledge systems like Wikipedia](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)

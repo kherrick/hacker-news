@@ -14,6 +14,7 @@
 * [2026-10-24, 14:38:34](https://news.ycombinator.com/item?id=50221676) - [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/)
 * [2026-10-24, 13:47:07](https://news.ycombinator.com/item?id=50221179) - [One Must Fall 2097 Remastered](https://github.com/Jared-woodruff/OMF-2097-Remastered/)
 * [2026-10-24, 13:09:28](https://news.ycombinator.com/item?id=50220913) - [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
+* [2026-10-24, 13:06:41](https://news.ycombinator.com/item?id=50220891) - [I DO Understand Relativity](https://www.southampton.ac.uk/~doug/relativity/index.html)
 * [2026-10-24, 12:14:34](https://news.ycombinator.com/item?id=50220540) - [I can't believe we're still arguing over whether X is for jerks](https://lexontech.org/i-cant-believe-were-still-arguing-over-whether-x-is-for-jerks)
 * [2026-10-24, 11:18:54](https://news.ycombinator.com/item?id=50220204) - [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
 * [2026-10-24, 11:08:47](https://news.ycombinator.com/item?id=50220145) - [Node.js Vulnerability Blog](https://nodejs.org/en/blog/vulnerability)

@@ -5,11 +5,11 @@
 * [2026-10-24, 15:57:17](https://news.ycombinator.com/item?id=50222525) - [Neural chip decodes interactions between brain regions](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)
 * [2026-10-24, 15:35:17](https://news.ycombinator.com/item?id=50222283) - [Oai-math-revised: a community hub for revising OpenAI's math write-ups](https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/)
 * [2026-10-24, 15:20:01](https://news.ycombinator.com/item?id=50222133) - [FreeDNS](https://freedns.afraid.org/)
+* [2026-10-24, 13:06:41](https://news.ycombinator.com/item?id=50220891) - [I DO Understand Relativity](https://www.southampton.ac.uk/~doug/relativity/index.html)
 * [2026-10-24, 10:51:35](https://news.ycombinator.com/item?id=50220042) - [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root)
 * [2026-10-24, 09:58:27](https://news.ycombinator.com/item?id=50219700) - [GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards](https://github.com/Zagitta/gpu-unlock)
 * [2026-10-24, 09:53:26](https://news.ycombinator.com/item?id=50219666) - [I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
 * [2026-10-24, 08:06:39](https://news.ycombinator.com/item?id=50219177) - [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
-* [2026-10-24, 05:49:57](https://news.ycombinator.com/item?id=50218633) - [Root shell on Samsung TV](https://twitter.com/log4j/status/2113014142600953868?s=46)
 * [2026-10-24, 04:49:58](https://news.ycombinator.com/item?id=50218430) - [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
 * [2026-10-24, 03:43:54](https://news.ycombinator.com/item?id=50218195) - [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
 * [2026-10-24, 02:36:38](https://news.ycombinator.com/item?id=50217903) - [Apple Security Research Device](https://security.apple.com/research-device/)
@@ -28,8 +28,8 @@
 * [2026-10-21, 13:04:07](https://news.ycombinator.com/item?id=50180251) - [Tiling Noise – Procedural GPU Patterns](https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/)
 * [2026-10-21, 12:40:46](https://news.ycombinator.com/item?id=50179920) - [Cecilia Berdichevsky, Clementina expert (1961)](https://en.wikipedia.org/wiki/Cecilia_Berdichevsky)
 * [2026-10-20, 21:30:56](https://news.ycombinator.com/item?id=50172962) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
+* [2026-10-20, 20:07:35](https://news.ycombinator.com/item?id=50171936) - [Symbolic Learning in Python and Julia](https://github.com/astroautomata/PySR)
 * [2026-10-20, 19:22:39](https://news.ycombinator.com/item?id=50171379) - [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)
-* [2026-10-20, 17:10:05](https://news.ycombinator.com/item?id=50169499) - [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
 
 ## [Archives](archives/index.md)
 
