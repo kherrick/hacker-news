@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-24, 05:49:57](https://news.ycombinator.com/item?id=50218633) - [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
 * [2026-10-24, 04:49:58](https://news.ycombinator.com/item?id=50218430) - [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
 * [2026-10-24, 03:43:54](https://news.ycombinator.com/item?id=50218195) - [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
 * [2026-10-24, 02:43:43](https://news.ycombinator.com/item?id=50217946) - [How Block Blast harvests its players for ad money](https://ayoships.com/breakdowns/block-blast)
@@ -23,7 +24,6 @@
 * [2026-10-22, 10:55:22](https://news.ycombinator.com/item?id=50193677) - [The Quake Fan who built the map editor everybody uses](https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses)
 * [2026-10-21, 18:49:51](https://news.ycombinator.com/item?id=50185715) - [A Cocktail Party in the Street: An Interview with Alan Stillman (2010)](https://www.ediblegeography.com/a-cocktail-party-in-the-street-an-interview-with-alan-stillman/)
 * [2026-10-21, 15:19:28](https://news.ycombinator.com/item?id=50182510) - [The past, present, and future share a show floor at Pinball Expo 2026](https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/)
-* [2026-10-21, 08:17:35](https://news.ycombinator.com/item?id=50177554) - [A Bicycle Journey Across Brazil to Find a Vanishing Savanna](https://e360.yale.edu/features/2026-film-contest-second-place-cerrado)
 * [2026-10-21, 05:48:12](https://news.ycombinator.com/item?id=50176544) - [C vs. C#: racing VLC's Gaussian blur](https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/)
 * [2026-10-21, 03:30:11](https://news.ycombinator.com/item?id=50175732) - [The Best Monopoly Strategy, Tested on 300M Games [video]](https://www.youtube.com/watch?v=S_2eVAaw1UM)
 * [2026-10-20, 21:30:56](https://news.ycombinator.com/item?id=50172962) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)

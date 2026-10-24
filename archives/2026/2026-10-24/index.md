@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-24](index.md)
 
+* [2026-10-24, 05:49:57](https://news.ycombinator.com/item?id=50218633) - [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
 * [2026-10-24, 04:49:58](https://news.ycombinator.com/item?id=50218430) - [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
 * [2026-10-24, 04:42:10](https://news.ycombinator.com/item?id=50218404) - [Elon Musk Acquires $1B Stake in CNN's Parent Company](https://symby.com/news?_cid=101605177&preferredLanguage=en)
 * [2026-10-24, 03:43:54](https://news.ycombinator.com/item?id=50218195) - [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
