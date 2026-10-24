@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-24, 23:14:30](https://news.ycombinator.com/item?id=50226434) - [Google has officially turned these Nest thermostats back into dumb thermostats](https://www.makeuseof.com/google-nest-thermostats-unsupported/)
 * [2026-10-24, 23:11:54](https://news.ycombinator.com/item?id=50226419) - [America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
 * [2026-10-24, 21:54:16](https://news.ycombinator.com/item?id=50225748) - [Argus – a free, open-source agentic security operations platform – MIT](https://thomasunise.com/argus)
 * [2026-10-24, 21:47:31](https://news.ycombinator.com/item?id=50225695) - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
@@ -10,7 +11,6 @@
 * [2026-10-24, 19:43:27](https://news.ycombinator.com/item?id=50224422) - [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
 * [2026-10-24, 19:19:43](https://news.ycombinator.com/item?id=50224210) - [SpeedCrunch 1.1](https://www.speedcrunch.org/)
 * [2026-10-24, 19:06:55](https://news.ycombinator.com/item?id=50224100) - [The Goose Programming Language](https://aardappel.github.io/goose/)
-* [2026-10-24, 18:22:14](https://news.ycombinator.com/item?id=50223777) - [Bbtree: Fastest Ordered Map](https://bbtree.xiangpeng.systems/post/)
 * [2026-10-24, 16:41:55](https://news.ycombinator.com/item?id=50222927) - [The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866)
 * [2026-10-24, 16:06:26](https://news.ycombinator.com/item?id=50222622) - [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)
 * [2026-10-24, 15:57:17](https://news.ycombinator.com/item?id=50222525) - [Neural chip decodes interactions between brain regions](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)
