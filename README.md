@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-24, 04:42:10](https://news.ycombinator.com/item?id=50218404) - [Elon Musk Acquires $1B Stake in CNN's Parent Company](https://symby.com/news?_cid=101605177&preferredLanguage=en)
 * [2026-10-24, 03:43:54](https://news.ycombinator.com/item?id=50218195) - [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
 * [2026-10-24, 01:53:10](https://news.ycombinator.com/item?id=50217683) - [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
 * [2026-10-24, 01:16:58](https://news.ycombinator.com/item?id=50217500) - [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
@@ -8,6 +7,7 @@
 * [2026-10-23, 21:46:51](https://news.ycombinator.com/item?id=50215828) - [One Man's Pan Am 747 Replica [video]](https://www.youtube.com/watch?v=vAFwHGGfPz4)
 * [2026-10-23, 21:21:47](https://news.ycombinator.com/item?id=50215530) - [CVE Tracker](https://cve.0xosprey.com/)
 * [2026-10-23, 20:37:12](https://news.ycombinator.com/item?id=50214983) - [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
+* [2026-10-23, 19:50:56](https://news.ycombinator.com/item?id=50214416) - [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment/)
 * [2026-10-23, 19:46:38](https://news.ycombinator.com/item?id=50214373) - [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/)
 * [2026-10-23, 19:42:01](https://news.ycombinator.com/item?id=50214325) - [Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501](https://rune.build/blog/rune-1-3-release)
 * [2026-10-23, 19:09:54](https://news.ycombinator.com/item?id=50213925) - [Dessa: Conversation Model trained only on speech](https://block.xyz/dessa)
