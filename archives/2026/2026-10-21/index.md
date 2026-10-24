@@ -67,6 +67,7 @@
 * [2026-10-21, 13:22:31](https://news.ycombinator.com/item?id=50180518) - [Global warming will breach 1.5°C – but deep, fast cuts can still bring it back](https://news.un.org/en/story/2026/10/1168634)
 * [2026-10-21, 13:17:33](https://news.ycombinator.com/item?id=50180444) - [Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)
 * [2026-10-21, 13:04:25](https://news.ycombinator.com/item?id=50180257) - [Show HN: Uberblok – an interactive museum of ZFS internals](https://uberblok.storagebits.workers.dev/)
+* [2026-10-21, 13:04:07](https://news.ycombinator.com/item?id=50180251) - [Tiling Noise – Procedural GPU Patterns](https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/)
 * [2026-10-21, 12:53:11](https://news.ycombinator.com/item?id=50180079) - [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud/)
 * [2026-10-21, 12:50:33](https://news.ycombinator.com/item?id=50180039) - [Show HN: Sumi.css – CSS Framework](https://github.com/vladocar/Sumi.css)
 * [2026-10-21, 12:34:46](https://news.ycombinator.com/item?id=50179857) - [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/)
