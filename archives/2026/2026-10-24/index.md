@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-24](index.md)
 
+* [2026-10-24, 11:18:54](https://news.ycombinator.com/item?id=50220204) - [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
 * [2026-10-24, 11:08:47](https://news.ycombinator.com/item?id=50220145) - [Node.js Vulnerability Blog](https://nodejs.org/en/blog/vulnerability)
 * [2026-10-24, 09:53:26](https://news.ycombinator.com/item?id=50219666) - [I Don't Understand Quantum Physics](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
 * [2026-10-24, 08:08:42](https://news.ycombinator.com/item?id=50219186) - [ThinkRail from JetBrains](https://thinkrail.ai/)
