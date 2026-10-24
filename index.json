@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-24, 16:06:26",
+      "https://news.ycombinator.com/item?id=50222622"
+    ],
+    [
+      "Roku developer repositories moved from GitHub to GitLab",
+      "https://blog.roku.com/developer/gitlab-move"
+    ]
+  ],
+  [
+    [
       "2026-10-24, 15:57:17",
       "https://news.ycombinator.com/item?id=50222525"
     ],
@@ -67,6 +77,16 @@
     [
       "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
       "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
+    ]
+  ],
+  [
+    [
+      "2026-10-24, 05:49:57",
+      "https://news.ycombinator.com/item?id=50218633"
+    ],
+    [
+      "Root shell on Samsung TV",
+      "https://twitter.com/log4j/status/2113014142600953868?s=46"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-10-22, 22:43:19",
-      "https://news.ycombinator.com/item?id=50202114"
-    ],
-    [
-      "Canadians are running out of time to oppose Bill C-22",
-      "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill"
-    ]
-  ],
-  [
-    [
       "2026-10-22, 14:07:48",
       "https://news.ycombinator.com/item?id=50195535"
     ],
@@ -257,16 +267,6 @@
     [
       "Tiling Noise – Procedural GPU Patterns",
       "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/"
-    ]
-  ],
-  [
-    [
-      "2026-10-21, 05:48:12",
-      "https://news.ycombinator.com/item?id=50176544"
-    ],
-    [
-      "C vs. C#: racing VLC's Gaussian blur",
-      "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/"
     ]
   ],
   [
