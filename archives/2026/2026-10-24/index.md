@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-24](index.md)
 
+* [2026-10-24, 23:11:54](https://news.ycombinator.com/item?id=50226419) - [America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
 * [2026-10-24, 22:55:26](https://news.ycombinator.com/item?id=50226261) - [Free Software Is a Failure](http://www.paritybit.ca/blog/free-software-is-an-abject-failure/)
 * [2026-10-24, 21:54:16](https://news.ycombinator.com/item?id=50225748) - [Argus – a free, open-source agentic security operations platform – MIT](https://thomasunise.com/argus)
 * [2026-10-24, 21:47:31](https://news.ycombinator.com/item?id=50225695) - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
