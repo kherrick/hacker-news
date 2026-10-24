@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-24, 21:42:35",
+      "https://news.ycombinator.com/item?id=50225659"
+    ],
+    [
+      "Forecasting Financial Markets with Timestral",
+      "https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/"
+    ]
+  ],
+  [
+    [
       "2026-10-24, 20:30:31",
       "https://news.ycombinator.com/item?id=50224916"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=50224463"
     ],
     [
-      "No Signs of AI Payoff Outside the Tech Sector",
+      "No signs of AI payoff outside the tech sector",
       "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
       "https://missileer.watch"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 19:27:41",
-      "https://news.ycombinator.com/item?id=50224300"
-    ],
-    [
-      "The Goose Programming Language",
-      "https://aardappel.github.io/goose/"
     ]
   ],
   [
@@ -55,8 +55,8 @@
       "https://news.ycombinator.com/item?id=50224100"
     ],
     [
-      "John Carmack on the Goose Language: multiple data stacks and relative references",
-      "https://twitter.com/ID_AA_Carmack/status/2113704269274636568"
+      "The Goose Programming Language",
+      "https://aardappel.github.io/goose/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "PHP Foundation 'under-funded' with one full-time staff member, director says",
       "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 18:31:48",
-      "https://news.ycombinator.com/item?id=50223844"
-    ],
-    [
-      "Danish Government silently drops plan to dump MS Office",
-      "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2026-10-24, 04:49:58",
-      "https://news.ycombinator.com/item?id=50218430"
-    ],
-    [
-      "OBS Studio 33",
-      "https://github.com/obsproject/obs-studio/releases/tag/33.0.0"
-    ]
-  ],
-  [
-    [
       "2026-10-24, 03:43:54",
       "https://news.ycombinator.com/item?id=50218195"
     ],
@@ -207,6 +187,16 @@
     [
       "Twelve years of distributed SQLite",
       "https://philipotoole.com/twelve-years-of-distributed-sqlite/"
+    ]
+  ],
+  [
+    [
+      "2026-10-23, 19:09:54",
+      "https://news.ycombinator.com/item?id=50213925"
+    ],
+    [
+      "Dessa: Conversation Model trained only on speech",
+      "https://block.xyz/dessa"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Symbolic Learning in Python and Julia",
       "https://github.com/astroautomata/PySR"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 19:22:39",
+      "https://news.ycombinator.com/item?id=50171379"
+    ],
+    [
+      "A practical guide to AI image generation, from diffusion to agents",
+      "https://danielball.com/notes/ai_image_generation.html"
     ]
   ]
 ]
