@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-24, 19:06:55](https://news.ycombinator.com/item?id=50224100) - [John Carmack on the Goose Language: multiple data stacks and relative references](https://twitter.com/ID_AA_Carmack/status/2113704269274636568)
 * [2026-10-24, 19:03:59](https://news.ycombinator.com/item?id=50224074) - [PHP Foundation 'under-funded' with one full-time staff member, director says](https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/)
 * [2026-10-24, 18:31:48](https://news.ycombinator.com/item?id=50223844) - [Danish Government silently drops plan to dump MS Office](https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft)
 * [2026-10-24, 18:23:24](https://news.ycombinator.com/item?id=50223785) - [Dream-1](https://dreamlabs.ai/research/dream-1/)
@@ -16,7 +17,6 @@
 * [2026-10-24, 04:49:58](https://news.ycombinator.com/item?id=50218430) - [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
 * [2026-10-24, 03:43:54](https://news.ycombinator.com/item?id=50218195) - [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
 * [2026-10-24, 01:16:58](https://news.ycombinator.com/item?id=50217500) - [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
-* [2026-10-23, 19:09:54](https://news.ycombinator.com/item?id=50213925) - [Dessa: Conversation Model trained only on speech](https://block.xyz/dessa)
 * [2026-10-23, 16:59:08](https://news.ycombinator.com/item?id=50212065) - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
 * [2026-10-23, 16:21:50](https://news.ycombinator.com/item?id=50211474) - [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
 * [2026-10-23, 12:28:47](https://news.ycombinator.com/item?id=50207910) - [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
