@@ -26,6 +26,7 @@
 * [2026-10-22, 18:44:36](https://news.ycombinator.com/item?id=50199389) - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
 * [2026-10-22, 18:39:39](https://news.ycombinator.com/item?id=50199349) - [Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest](https://3d.camilleworld.com/play/)
 * [2026-10-22, 18:32:57](https://news.ycombinator.com/item?id=50199290) - [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
+* [2026-10-22, 18:30:56](https://news.ycombinator.com/item?id=50199265) - [Radio Days](https://oldster.substack.com/p/radio-days)
 * [2026-10-22, 18:28:26](https://news.ycombinator.com/item?id=50199232) - [Award-Winning AI Literature](https://jamesyu.org/award-winning-ai-literature/)
 * [2026-10-22, 18:28:16](https://news.ycombinator.com/item?id=50199230) - [AI and the Enclosure of the Scientific Commons](https://arxiv.org/abs/2610.27251)
 * [2026-10-22, 18:03:57](https://news.ycombinator.com/item?id=50198954) - [Monoidal computer I: Basic computability by string diagrams (2012)](https://arxiv.org/abs/1208.5205)
