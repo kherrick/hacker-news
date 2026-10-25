@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-25, 01:33:49](https://news.ycombinator.com/item?id=50227356) - [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 * [2026-10-24, 23:42:52](https://news.ycombinator.com/item?id=50226646) - [FindMyWeb: Apple Find My, reverse enginiered](https://codeberg.org/Misom/FindMyWeb)
 * [2026-10-24, 23:33:19](https://news.ycombinator.com/item?id=50226577) - [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
 * [2026-10-24, 23:11:54](https://news.ycombinator.com/item?id=50226419) - [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
@@ -26,7 +27,6 @@
 * [2026-10-21, 22:17:12](https://news.ycombinator.com/item?id=50188440) - [Reactive Optimizers: rewrite the optimizer's source code during training](https://xingjianbai.com/reactive-optimizers/)
 * [2026-10-21, 19:40:01](https://news.ycombinator.com/item?id=50186450) - [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
 * [2026-10-21, 19:30:52](https://news.ycombinator.com/item?id=50186289) - [A story of a Figma bug that wasn't a bug at all (2021)](https://aresluna.org/this-is-a-story-of-a-figma-bug/)
-* [2026-10-20, 21:30:56](https://news.ycombinator.com/item?id=50172962) - [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 * [2026-10-20, 20:45:52](https://news.ycombinator.com/item?id=50172432) - [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/)
 * [2026-10-20, 17:06:48](https://news.ycombinator.com/item?id=50169450) - [Social dynamics of toxic metal industry in medieval Europe](https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829)
 * [2026-10-20, 16:00:15](https://news.ycombinator.com/item?id=50168376) - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
