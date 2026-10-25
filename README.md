@@ -2,7 +2,6 @@
 
 * [2026-10-25, 03:56:01](https://news.ycombinator.com/item?id=50228167) - [Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H)
 * [2026-10-25, 03:05:53](https://news.ycombinator.com/item?id=50227892) - [Xbox Turns Down Netflix $500M Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
-* [2026-10-25, 02:50:32](https://news.ycombinator.com/item?id=50227814) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 * [2026-10-25, 02:18:35](https://news.ycombinator.com/item?id=50227639) - [Meta employees say Lula’s accounts restricted in Brazil election: Report](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report)
 * [2026-10-25, 01:33:49](https://news.ycombinator.com/item?id=50227356) - [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 * [2026-10-24, 23:33:19](https://news.ycombinator.com/item?id=50226577) - [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
@@ -26,6 +25,7 @@
 * [2026-10-22, 18:03:57](https://news.ycombinator.com/item?id=50198954) - [Monoidal computer I: Basic computability by string diagrams (2012)](https://arxiv.org/abs/1208.5205)
 * [2026-10-22, 13:20:04](https://news.ycombinator.com/item?id=50194935) - [In Rainbows](https://hitogata.neocities.org/Rainbows)
 * [2026-10-21, 22:17:12](https://news.ycombinator.com/item?id=50188440) - [Reactive Optimizers: rewrite the optimizer's source code during training](https://xingjianbai.com/reactive-optimizers/)
+* [2026-10-21, 19:40:01](https://news.ycombinator.com/item?id=50186450) - [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
 * [2026-10-21, 19:30:52](https://news.ycombinator.com/item?id=50186289) - [A story of a Figma bug that wasn't a bug at all (2021)](https://aresluna.org/this-is-a-story-of-a-figma-bug/)
 * [2026-10-21, 06:09:04](https://news.ycombinator.com/item?id=50176674) - [Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions](https://pragtical.dev/blog/pragtical-v3140-release)
 * [2026-10-20, 20:45:52](https://news.ycombinator.com/item?id=50172432) - [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/)
