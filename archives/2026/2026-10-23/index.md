@@ -69,4 +69,5 @@
 * [2026-10-23, 03:20:38](https://news.ycombinator.com/item?id=50204125) - [Median product \"lifespan\" has fallen from ~4y down to ~1.5y](https://news.ycombinator.com/item?id=50204125)
 * [2026-10-23, 02:19:38](https://news.ycombinator.com/item?id=50203759) - [This I Believe](https://www.awakin.org/v2/read/view.php?tid=468)
 * [2026-10-23, 00:52:01](https://news.ycombinator.com/item?id=50203161) - [The foolishness of \"natural language programming\" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+* [2026-10-23, 00:23:43](https://news.ycombinator.com/item?id=50202964) - [Cannabis legalisation and cardiovascular hospitalisations in the USA](https://bmjopen.bmj.com/content/16/10/e111050)
 * [2026-10-23, 00:10:45](https://news.ycombinator.com/item?id=50202865) - [Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv)
