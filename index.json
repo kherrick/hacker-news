@@ -211,12 +211,22 @@
   ],
   [
     [
-      "2026-10-24, 08:06:39",
-      "https://news.ycombinator.com/item?id=50219177"
+      "2026-10-24, 09:58:27",
+      "https://news.ycombinator.com/item?id=50219700"
     ],
     [
-      "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
-      "https://broccoli2shell.com/"
+      "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "https://github.com/Zagitta/gpu-unlock"
+    ]
+  ],
+  [
+    [
+      "2026-10-24, 09:53:26",
+      "https://news.ycombinator.com/item?id=50219666"
+    ],
+    [
+      "I don't understand quantum physics (2018)",
+      "https://www.southampton.ac.uk/~doug/quantum_physics/index.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "How Japanese Dried Bonito Is Made",
       "https://kottke.org/26/10/how-japanese-dried-bonito-is-made"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 03:06:36",
-      "https://news.ycombinator.com/item?id=50190686"
-    ],
-    [
-      "Flapping Airplanes",
-      "https://flappingairplanes.com/"
     ]
   ],
   [
