@@ -7,6 +7,7 @@
 * [2026-10-25, 09:04:13](https://news.ycombinator.com/item?id=50229599) - [Online censorship is crushing indie webcomics](https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463)
 * [2026-10-25, 09:00:40](https://news.ycombinator.com/item?id=50229587) - [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order)
 * [2026-10-25, 07:09:35](https://news.ycombinator.com/item?id=50229059) - [New Open-Source Cybersecurity Platform Uses AI Agents to Hunt Threats](https://medium.com/@ai_news/argus-might-be-one-of-the-most-impressive-open-source-cybersecurity-projects-released-this-year-118043bd0c8c)
+* [2026-10-25, 06:55:13](https://news.ycombinator.com/item?id=50228988) - [Not Palantir](https://notpalantir.eu/)
 * [2026-10-25, 03:56:01](https://news.ycombinator.com/item?id=50228167) - [Five Qwen3.8-27B models outperform Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H)
 * [2026-10-25, 03:05:53](https://news.ycombinator.com/item?id=50227892) - [Xbox Turns Down Netflix $500M Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
 * [2026-10-25, 02:50:32](https://news.ycombinator.com/item?id=50227814) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)

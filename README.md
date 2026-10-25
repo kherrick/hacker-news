@@ -2,6 +2,7 @@
 
 * [2026-10-25, 09:04:13](https://news.ycombinator.com/item?id=50229599) - [Online censorship is crushing indie webcomics](https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463)
 * [2026-10-25, 09:00:40](https://news.ycombinator.com/item?id=50229587) - [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order)
+* [2026-10-25, 06:55:13](https://news.ycombinator.com/item?id=50228988) - [Not Palantir](https://notpalantir.eu/)
 * [2026-10-25, 01:33:49](https://news.ycombinator.com/item?id=50227356) - [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 * [2026-10-24, 23:33:19](https://news.ycombinator.com/item?id=50226577) - [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
 * [2026-10-24, 23:11:54](https://news.ycombinator.com/item?id=50226419) - [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
@@ -19,7 +20,6 @@
 * [2026-10-24, 09:58:27](https://news.ycombinator.com/item?id=50219700) - [GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards](https://github.com/Zagitta/gpu-unlock)
 * [2026-10-24, 09:53:26](https://news.ycombinator.com/item?id=50219666) - [I don't understand quantum physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
 * [2026-10-24, 08:06:39](https://news.ycombinator.com/item?id=50219177) - [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
-* [2026-10-24, 03:43:54](https://news.ycombinator.com/item?id=50218195) - [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
 * [2026-10-22, 13:20:04](https://news.ycombinator.com/item?id=50194935) - [In Rainbows](https://hitogata.neocities.org/Rainbows)
 * [2026-10-22, 12:50:43](https://news.ycombinator.com/item?id=50194645) - [Rewriting a Commercial Engine in Jai](https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch)
