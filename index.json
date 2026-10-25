@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-10-25, 06:55:13",
+      "https://news.ycombinator.com/item?id=50228988"
+    ],
+    [
+      "Not Palantir",
+      "https://notpalantir.eu/"
+    ]
+  ],
+  [
+    [
       "2026-10-25, 01:33:49",
       "https://news.ycombinator.com/item?id=50227356"
     ],
@@ -187,16 +197,6 @@
     [
       "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
       "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 03:43:54",
-      "https://news.ycombinator.com/item?id=50218195"
-    ],
-    [
-      "How close can pure functional programming get to C?",
-      "https://rtfeldman.com/fp-vs-c"
     ]
   ],
   [
