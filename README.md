@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-25, 22:39:42](https://news.ycombinator.com/item?id=50236748) - [Proton Flock Camera Map](https://proton.me/flock-camera-map)
+* [2026-10-25, 22:02:33](https://news.ycombinator.com/item?id=50236455) - [Europe's summer heat wave killed more han 50k people in urban areas](https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas)
 * [2026-10-25, 21:11:31](https://news.ycombinator.com/item?id=50236102) - [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
 * [2026-10-25, 21:08:28](https://news.ycombinator.com/item?id=50236081) - [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
 * [2026-10-25, 20:32:31](https://news.ycombinator.com/item?id=50235780) - [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
@@ -8,7 +9,6 @@
 * [2026-10-25, 20:16:51](https://news.ycombinator.com/item?id=50235639) - [Focused Company Operating Principles](https://focused.io/operating-principles)
 * [2026-10-25, 19:40:27](https://news.ycombinator.com/item?id=50235316) - [Eunice is almost here](https://armincat.com/articles/eunice-is-almost-here)
 * [2026-10-25, 19:11:31](https://news.ycombinator.com/item?id=50235017) - [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
-* [2026-10-25, 19:10:36](https://news.ycombinator.com/item?id=50235010) - [Gheist campaign plants secret-dumping workflows using stolen GitHub tokens](https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles)
 * [2026-10-25, 18:58:14](https://news.ycombinator.com/item?id=50234879) - [Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/)
 * [2026-10-25, 18:23:54](https://news.ycombinator.com/item?id=50234474) - [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
 * [2026-10-25, 18:04:11](https://news.ycombinator.com/item?id=50234232) - [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
