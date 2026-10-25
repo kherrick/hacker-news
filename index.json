@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-25, 01:33:49",
+      "https://news.ycombinator.com/item?id=50227356"
+    ],
+    [
+      "Cerebras Deploys Trillion-Parameter AI Models",
+      "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
+    ]
+  ],
+  [
+    [
       "2026-10-24, 23:42:52",
       "https://news.ycombinator.com/item?id=50226646"
     ],
@@ -257,16 +267,6 @@
     [
       "A story of a Figma bug that wasn't a bug at all (2021)",
       "https://aresluna.org/this-is-a-story-of-a-figma-bug/"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 21:30:56",
-      "https://news.ycombinator.com/item?id=50172962"
-    ],
-    [
-      "Bringing uv and ty together",
-      "https://astral.sh/blog/uv-ty-integration"
     ]
   ],
   [
