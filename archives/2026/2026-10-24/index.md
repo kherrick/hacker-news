@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-24](index.md)
 
+* [2026-10-24, 23:42:52](https://news.ycombinator.com/item?id=50226646) - [FindMyWeb: Apple Find My, reverse enginiered](https://codeberg.org/Misom/FindMyWeb)
 * [2026-10-24, 23:33:19](https://news.ycombinator.com/item?id=50226577) - [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
 * [2026-10-24, 23:14:30](https://news.ycombinator.com/item?id=50226434) - [Google has officially turned these Nest thermostats back into dumb thermostats](https://www.makeuseof.com/google-nest-thermostats-unsupported/)
 * [2026-10-24, 23:11:54](https://news.ycombinator.com/item?id=50226419) - [America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
