@@ -48,6 +48,7 @@
 * [2026-10-22, 14:08:12](https://news.ycombinator.com/item?id=50195543) - [What's Getting Pwned](https://pwn.watch/)
 * [2026-10-22, 14:07:48](https://news.ycombinator.com/item?id=50195535) - [Parsing EDIFACT in Python with syntax trees](https://github.com/AmadeusITGroup/Edison)
 * [2026-10-22, 14:04:44](https://news.ycombinator.com/item?id=50195488) - [Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey)
+* [2026-10-22, 13:40:05](https://news.ycombinator.com/item?id=50195184) - [Bring Back the Cool Save File Screens](https://scabshack.lol/posts/bring-back-the-cool-save-file-screens)
 * [2026-10-22, 13:33:39](https://news.ycombinator.com/item?id=50195110) - [eMudhra to Exit Global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
 * [2026-10-22, 13:25:01](https://news.ycombinator.com/item?id=50195002) - [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092)
 * [2026-10-22, 13:20:13](https://news.ycombinator.com/item?id=50194938) - [Crystal 1.22.0 Is Released](https://crystal-lang.org/2026/10/12/1.22.0-released/)
