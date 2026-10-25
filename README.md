@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-25, 16:31:21](https://news.ycombinator.com/item?id=50233347) - [A Mathematician Reads the AI Future](https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/)
 * [2026-10-25, 16:28:26](https://news.ycombinator.com/item?id=50233304) - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
-* [2026-10-25, 15:12:10](https://news.ycombinator.com/item?id=50232407) - [Ask HN: Can we do something about this impending AI dystopia](https://news.ycombinator.com/item?id=50232407)
+* [2026-10-25, 16:22:25](https://news.ycombinator.com/item?id=50233238) - [Bentley's Kyiv deadlership among the strongest, despite the war](https://www.autonext.co/news/bentley-kyiv-among-the-world-s-best-dealerships-despite-the-war)
+* [2026-10-25, 15:34:44](https://news.ycombinator.com/item?id=50232682) - [Anthropic Wanted to Replace Engineers. Instead, They Shot Their Own Customers](https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace)
 * [2026-10-25, 15:05:39](https://news.ycombinator.com/item?id=50232312) - [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/)
 * [2026-10-25, 14:37:49](https://news.ycombinator.com/item?id=50232035) - [A few thoughts on intensity](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/)
 * [2026-10-25, 13:28:06](https://news.ycombinator.com/item?id=50231349) - [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
-* [2026-10-25, 13:11:22](https://news.ycombinator.com/item?id=50231189) - [Samsung TVs look for microphones in your house via Bluetooth and then spy events](https://twitter.com/freddier/status/2114042326758867453)
 * [2026-10-25, 12:37:54](https://news.ycombinator.com/item?id=50230917) - [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)
 * [2026-10-25, 11:09:12](https://news.ycombinator.com/item?id=50230384) - [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
 * [2026-10-25, 10:42:01](https://news.ycombinator.com/item?id=50230181) - [Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)
@@ -28,7 +29,6 @@
 * [2026-10-22, 11:31:03](https://news.ycombinator.com/item?id=50193936) - [How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made)
 * [2026-10-21, 19:40:01](https://news.ycombinator.com/item?id=50186450) - [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
 * [2026-10-20, 20:45:52](https://news.ycombinator.com/item?id=50172432) - [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/)
-* [2026-10-20, 17:06:48](https://news.ycombinator.com/item?id=50169450) - [Social dynamics of toxic metal industry in medieval Europe](https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829)
 * [2026-10-20, 15:05:34](https://news.ycombinator.com/item?id=50167528) - [Washing machines took decades to catch on](https://daily.jstor.org/why-washing-machines-took-decades-to-catch-on/)
 
 ## [Archives](archives/index.md)
