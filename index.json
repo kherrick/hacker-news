@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-10-25, 00:59:48",
+      "https://news.ycombinator.com/item?id=50227138"
+    ],
+    [
+      "Tailworm – Tailscale Vulnerabilities",
+      "https://tailworm.com/"
+    ]
+  ],
+  [
+    [
+      "2026-10-25, 00:58:57",
+      "https://news.ycombinator.com/item?id=50227131"
+    ],
+    [
+      "Ask HN: Why a Great Product Won't Succeed Without a Community",
+      "https://news.ycombinator.com/item?id=50227131"
+    ]
+  ],
+  [
+    [
+      "2026-10-24, 23:42:52",
+      "https://news.ycombinator.com/item?id=50226646"
+    ],
+    [
+      "FindMyWeb: Apple Find My, reverse enginiered",
+      "https://codeberg.org/Misom/FindMyWeb"
+    ]
+  ],
+  [
+    [
       "2026-10-24, 23:33:19",
       "https://news.ycombinator.com/item?id=50226577"
     ],
@@ -27,16 +57,6 @@
     [
       "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
       "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 21:54:16",
-      "https://news.ycombinator.com/item?id=50225748"
-    ],
-    [
-      "Argus – a free, open-source agentic security operations platform – MIT",
-      "https://thomasunise.com/argus"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-10-24, 15:35:17",
-      "https://news.ycombinator.com/item?id=50222283"
-    ],
-    [
-      "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/"
-    ]
-  ],
-  [
-    [
       "2026-10-24, 15:20:01",
       "https://news.ycombinator.com/item?id=50222133"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2026-10-22, 09:01:10",
-      "https://news.ycombinator.com/item?id=50192975"
+      "2026-10-21, 22:17:12",
+      "https://news.ycombinator.com/item?id=50188440"
     ],
     [
-      "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-      "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/"
+      "Reactive Optimizers: rewrite the optimizer's source code during training",
+      "https://xingjianbai.com/reactive-optimizers/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Physicists trap a single antimatter particle for a month",
       "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/"
-    ]
-  ],
-  [
-    [
-      "2026-10-20, 21:30:56",
-      "https://news.ycombinator.com/item?id=50172962"
-    ],
-    [
-      "Bringing uv and ty together",
-      "https://astral.sh/blog/uv-ty-integration"
     ]
   ],
   [
