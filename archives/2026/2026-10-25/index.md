@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
+* [2026-10-25, 14:05:03](https://news.ycombinator.com/item?id=50231722) - [R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai)
 * [2026-10-25, 13:28:06](https://news.ycombinator.com/item?id=50231349) - [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
 * [2026-10-25, 12:48:11](https://news.ycombinator.com/item?id=50231001) - [The Lego group reveals collaboration with Daft Punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk)
 * [2026-10-25, 12:43:52](https://news.ycombinator.com/item?id=50230965) - [Challenge Is Gone](https://blog.alxgsv.com/challenge-is-gone/)
