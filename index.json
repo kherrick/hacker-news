@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2026-10-21, 22:17:12",
-      "https://news.ycombinator.com/item?id=50188440"
-    ],
-    [
-      "Reactive Optimizers: rewrite the optimizer's source code during training",
-      "https://xingjianbai.com/reactive-optimizers/"
-    ]
-  ],
-  [
-    [
       "2026-10-21, 19:40:01",
       "https://news.ycombinator.com/item?id=50186450"
     ],
@@ -287,6 +277,16 @@
     [
       "I Built a Stereo Vision Board for Hardware Hackers",
       "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 19:22:39",
+      "https://news.ycombinator.com/item?id=50171379"
+    ],
+    [
+      "A practical guide to AI image generation, from diffusion to agents",
+      "https://danielball.com/notes/ai_image_generation.html"
     ]
   ],
   [
