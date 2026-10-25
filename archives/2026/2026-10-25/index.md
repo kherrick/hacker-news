@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
+* [2026-10-25, 16:28:26](https://news.ycombinator.com/item?id=50233304) - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
 * [2026-10-25, 15:05:39](https://news.ycombinator.com/item?id=50232312) - [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/)
 * [2026-10-25, 14:37:49](https://news.ycombinator.com/item?id=50232035) - [A Few Thoughts on Intensity](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/)
 * [2026-10-25, 14:05:03](https://news.ycombinator.com/item?id=50231722) - [R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai)
