@@ -10,6 +10,7 @@
 * [2026-10-25, 19:29:16](https://news.ycombinator.com/item?id=50235217) - [Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/)
 * [2026-10-25, 19:11:31](https://news.ycombinator.com/item?id=50235017) - [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
 * [2026-10-25, 19:10:36](https://news.ycombinator.com/item?id=50235010) - [Gheist campaign plants secret-dumping workflows using stolen GitHub tokens](https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles)
+* [2026-10-25, 18:58:14](https://news.ycombinator.com/item?id=50234879) - [Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/)
 * [2026-10-25, 18:24:20](https://news.ycombinator.com/item?id=50234480) - [I made a virtual pet fruit fly that Twitch chat can interact with](https://www.twitch.tv/flytwitcher)
 * [2026-10-25, 18:23:54](https://news.ycombinator.com/item?id=50234474) - [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
 * [2026-10-25, 18:11:38](https://news.ycombinator.com/item?id=50234329) - [All you need is Wide Events, not \"Metrics, Logs and Traces\"](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
