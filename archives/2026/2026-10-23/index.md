@@ -23,6 +23,7 @@
 * [2026-10-23, 19:01:56](https://news.ycombinator.com/item?id=50213826) - [Florida officer found dead man, impersonated him for years, renovated his home](https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844)
 * [2026-10-23, 19:00:04](https://news.ycombinator.com/item?id=50213791) - [DNS: A Replacement for Finger](https://altchan.org/sh/42)
 * [2026-10-23, 18:54:01](https://news.ycombinator.com/item?id=50213717) - [Caffeine-like utility to keep you MacBook awake with its lid closed](https://github.com/clashman/caffeinate-plus)
+* [2026-10-23, 18:46:00](https://news.ycombinator.com/item?id=50213610) - [Making the Buddha Head from Merv Whole Again](https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/)
 * [2026-10-23, 18:24:54](https://news.ycombinator.com/item?id=50213337) - [Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line](https://artificialanalysis.ai/models/kimi-k3-1-pro)
 * [2026-10-23, 17:40:22](https://news.ycombinator.com/item?id=50212668) - [I turned my TV into a Game Boy Color with a Pokemon town as my home screen](https://twitter.com/robbietilton/status/2111936458923851923)
 * [2026-10-23, 17:28:36](https://news.ycombinator.com/item?id=50212507) - [Air Purifiers as White Noise Machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
