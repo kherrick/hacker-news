@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-25, 19:40:27](https://news.ycombinator.com/item?id=50235316) - [Eunice is almost here (William Gibson, Agency)](https://armincat.com/articles/eunice-is-almost-here)
+* [2026-10-25, 20:27:09](https://news.ycombinator.com/item?id=50235738) - [What goes into making an animated film?](https://www.disneyanimation.com/process/)
+* [2026-10-25, 19:40:27](https://news.ycombinator.com/item?id=50235316) - [Eunice is almost here](https://armincat.com/articles/eunice-is-almost-here)
 * [2026-10-25, 19:29:16](https://news.ycombinator.com/item?id=50235217) - [Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/)
 * [2026-10-25, 19:11:31](https://news.ycombinator.com/item?id=50235017) - [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
 * [2026-10-25, 19:10:36](https://news.ycombinator.com/item?id=50235010) - [Gheist campaign plants secret-dumping workflows using stolen GitHub tokens](https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles)
@@ -26,7 +27,6 @@
 * [2026-10-24, 17:42:08](https://news.ycombinator.com/item?id=50223435) - [VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]](https://www.youtube.com/watch?v=46wxttvq9qY)
 * [2026-10-24, 05:49:57](https://news.ycombinator.com/item?id=50218633) - [Root shell on Samsung TV](https://twitter.com/log4j/status/2113014142600953868?s=46)
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
-* [2026-10-22, 16:16:01](https://news.ycombinator.com/item?id=50197434) - [Reverse engineer of PC-98 Touhou games retires](https://rec98.nmlgc.net/blog/2026-10-05)
 * [2026-10-22, 15:20:04](https://news.ycombinator.com/item?id=50196623) - [The U.S. Power Grid](https://nomagicpill.site/knowledge/powergrid.html)
 * [2026-10-22, 14:21:17](https://news.ycombinator.com/item?id=50195769) - [Recreate the Apollo Guidance Computer](https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/)
 * [2026-10-22, 11:31:03](https://news.ycombinator.com/item?id=50193936) - [How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made)
