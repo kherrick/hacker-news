@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
+* [2026-10-25, 11:09:12](https://news.ycombinator.com/item?id=50230384) - [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
 * [2026-10-25, 10:42:01](https://news.ycombinator.com/item?id=50230181) - [Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)
 * [2026-10-25, 09:56:49](https://news.ycombinator.com/item?id=50229861) - [France asked ISPs to prepare temporary DNS blocks for major social platforms](https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ)
 * [2026-10-25, 09:51:17](https://news.ycombinator.com/item?id=50229827) - [Nikon photography contest winner loses title after scientists spot signs of AI](https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html)
