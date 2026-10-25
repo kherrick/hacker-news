@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
+* [2026-10-25, 19:52:37](https://news.ycombinator.com/item?id=50235433) - [Why the Rich Are Getting Richer and the Poor Are Further Removed from Prosperity](https://lusopt2016.blogspot.com/2026/10/a-grande-divisao-porque-e-que-os-ricos.html)
 * [2026-10-25, 19:40:27](https://news.ycombinator.com/item?id=50235316) - [Eunice is almost here (William Gibson, Agency)](https://armincat.com/articles/eunice-is-almost-here)
 * [2026-10-25, 19:29:16](https://news.ycombinator.com/item?id=50235217) - [Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/)
 * [2026-10-25, 19:11:31](https://news.ycombinator.com/item?id=50235017) - [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)

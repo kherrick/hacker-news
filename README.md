@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-25, 19:52:37](https://news.ycombinator.com/item?id=50235433) - [Why the Rich Are Getting Richer and the Poor Are Further Removed from Prosperity](https://lusopt2016.blogspot.com/2026/10/a-grande-divisao-porque-e-que-os-ricos.html)
 * [2026-10-25, 19:40:27](https://news.ycombinator.com/item?id=50235316) - [Eunice is almost here (William Gibson, Agency)](https://armincat.com/articles/eunice-is-almost-here)
 * [2026-10-25, 19:29:16](https://news.ycombinator.com/item?id=50235217) - [Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/)
 * [2026-10-25, 19:11:31](https://news.ycombinator.com/item?id=50235017) - [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
@@ -8,7 +9,6 @@
 * [2026-10-25, 18:11:38](https://news.ycombinator.com/item?id=50234329) - [All you need is Wide Events, not \"Metrics, Logs and Traces\"](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
 * [2026-10-25, 18:04:11](https://news.ycombinator.com/item?id=50234232) - [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
 * [2026-10-25, 17:30:55](https://news.ycombinator.com/item?id=50233929) - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
-* [2026-10-25, 17:20:22](https://news.ycombinator.com/item?id=50233828) - [Scientists rediscover how to make ancient Roman colour-changing glass](https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass)
 * [2026-10-25, 17:15:38](https://news.ycombinator.com/item?id=50233779) - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
 * [2026-10-25, 17:15:16](https://news.ycombinator.com/item?id=50233775) - [Sabre Wulf Remastered](https://gp-64.com/swr/)
 * [2026-10-25, 16:40:37](https://news.ycombinator.com/item?id=50233438) - [UTS #39: Unicode Security Mechanisms](https://unicode.org/reports/tr39/)
