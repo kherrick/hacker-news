@@ -24,11 +24,11 @@
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
 * [2026-10-22, 13:20:04](https://news.ycombinator.com/item?id=50194935) - [In Rainbows](https://hitogata.neocities.org/Rainbows)
 * [2026-10-22, 11:31:03](https://news.ycombinator.com/item?id=50193936) - [How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made)
-* [2026-10-21, 22:17:12](https://news.ycombinator.com/item?id=50188440) - [Reactive Optimizers: rewrite the optimizer's source code during training](https://xingjianbai.com/reactive-optimizers/)
 * [2026-10-21, 19:40:01](https://news.ycombinator.com/item?id=50186450) - [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
 * [2026-10-21, 19:30:52](https://news.ycombinator.com/item?id=50186289) - [A story of a Figma bug that wasn't a bug at all (2021)](https://aresluna.org/this-is-a-story-of-a-figma-bug/)
 * [2026-10-21, 06:09:04](https://news.ycombinator.com/item?id=50176674) - [Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions](https://pragtical.dev/blog/pragtical-v3140-release)
 * [2026-10-20, 20:45:52](https://news.ycombinator.com/item?id=50172432) - [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/)
+* [2026-10-20, 19:22:39](https://news.ycombinator.com/item?id=50171379) - [A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)
 * [2026-10-20, 17:06:48](https://news.ycombinator.com/item?id=50169450) - [Social dynamics of toxic metal industry in medieval Europe](https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829)
 
 ## [Archives](archives/index.md)
