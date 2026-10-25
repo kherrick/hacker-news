@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
+* [2026-10-25, 17:15:16](https://news.ycombinator.com/item?id=50233775) - [Sabre Wulf Remastered](https://gp-64.com/swr/)
 * [2026-10-25, 16:31:21](https://news.ycombinator.com/item?id=50233347) - [A Mathematician Reads the AI Future](https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/)
 * [2026-10-25, 16:28:26](https://news.ycombinator.com/item?id=50233304) - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
 * [2026-10-25, 16:22:25](https://news.ycombinator.com/item?id=50233238) - [Bentley's Kyiv deadlership among the strongest, despite the war](https://www.autonext.co/news/bentley-kyiv-among-the-world-s-best-dealerships-despite-the-war)

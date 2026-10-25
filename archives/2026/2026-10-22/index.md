@@ -83,6 +83,7 @@
 * [2026-10-22, 05:23:11](https://news.ycombinator.com/item?id=50191507) - [OpenAI CLI](https://github.com/openai/openai-cli)
 * [2026-10-22, 04:41:58](https://news.ycombinator.com/item?id=50191250) - [The Chalk and the Airplane](https://unintendedconsequenc.es/chalk-and-the-airplane/)
 * [2026-10-22, 03:47:37](https://news.ycombinator.com/item?id=50190959) - [I can't believe PowerShell is good](https://www.spacebar.news/powershell-is-actually-good/)
+* [2026-10-22, 03:06:36](https://news.ycombinator.com/item?id=50190686) - [Flapping Airplanes](https://flappingairplanes.com/)
 * [2026-10-22, 02:30:52](https://news.ycombinator.com/item?id=50190455) - [The recently proposed O(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
 * [2026-10-22, 02:18:41](https://news.ycombinator.com/item?id=50190363) - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
 * [2026-10-22, 02:17:58](https://news.ycombinator.com/item?id=50190357) - [Claude Now Works with Google Docs, Sheets, and Slides](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides)
