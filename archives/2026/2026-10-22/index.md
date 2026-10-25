@@ -63,6 +63,7 @@
 * [2026-10-22, 12:40:04](https://news.ycombinator.com/item?id=50194522) - [The Last Museum: Semantic search across 5.8M artworks from major museums](https://lastmuseum.com/)
 * [2026-10-22, 12:00:04](https://news.ycombinator.com/item?id=50194157) - [Tablesample Picks Rows](https://boringsql.com/posts/tablesample/)
 * [2026-10-22, 11:50:36](https://news.ycombinator.com/item?id=50194070) - [Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/)
+* [2026-10-22, 11:45:29](https://news.ycombinator.com/item?id=50194029) - [Did it just build.. a clock?](https://theclock.online/)
 * [2026-10-22, 11:42:03](https://news.ycombinator.com/item?id=50194009) - [Xbox wants you to pay 24 to 40 cents per hour to stream games you bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/)
 * [2026-10-22, 11:31:03](https://news.ycombinator.com/item?id=50193936) - [How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made)
 * [2026-10-22, 11:12:37](https://news.ycombinator.com/item?id=50193804) - [Several Linux kernel vulnerabilities accidentally posted to public mailing list](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities)
