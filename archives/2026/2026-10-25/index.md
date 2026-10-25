@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
+* [2026-10-25, 18:04:11](https://news.ycombinator.com/item?id=50234232) - [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
+* [2026-10-25, 17:52:28](https://news.ycombinator.com/item?id=50234108) - [Ask HN: What is the main bottleneck facing Agentic AI today?](https://news.ycombinator.com/item?id=50234108)
 * [2026-10-25, 17:30:55](https://news.ycombinator.com/item?id=50233929) - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
 * [2026-10-25, 17:26:08](https://news.ycombinator.com/item?id=50233883) - [Fuck Nuance (2015)](https://crookedtimber.org/2015/08/31/fuck-nuance/)
 * [2026-10-25, 17:15:38](https://news.ycombinator.com/item?id=50233779) - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
@@ -37,6 +39,7 @@
 * [2026-10-25, 03:05:53](https://news.ycombinator.com/item?id=50227892) - [Xbox Turns Down Netflix $500M Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
 * [2026-10-25, 02:50:32](https://news.ycombinator.com/item?id=50227814) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 * [2026-10-25, 02:18:35](https://news.ycombinator.com/item?id=50227639) - [Meta employees say Lula’s accounts restricted in Brazil election: Report](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report)
+* [2026-10-25, 02:01:21](https://news.ycombinator.com/item?id=50227527) - [Show HN: ReVault – new secure archive format](https://news.ycombinator.com/item?id=50227527)
 * [2026-10-25, 01:40:01](https://news.ycombinator.com/item?id=50227403) - [\"Musk\" Documentary Pulled from Almost Every One of 472 Theaters After One Week](https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films)
 * [2026-10-25, 01:33:49](https://news.ycombinator.com/item?id=50227356) - [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 * [2026-10-25, 00:59:48](https://news.ycombinator.com/item?id=50227138) - [Tailworm – Tailscale Vulnerabilities](https://tailworm.com/)

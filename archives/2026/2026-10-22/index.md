@@ -45,6 +45,7 @@
 * [2026-10-22, 15:26:22](https://news.ycombinator.com/item?id=50196718) - [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
 * [2026-10-22, 14:32:38](https://news.ycombinator.com/item?id=50195959) - [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
 * [2026-10-22, 14:26:40](https://news.ycombinator.com/item?id=50195873) - [MPs moving to restrict gambling ads in Canada amid mounting harms](https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888)
+* [2026-10-22, 14:21:17](https://news.ycombinator.com/item?id=50195769) - [Recreate the Apollo Guidance Computer](https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/)
 * [2026-10-22, 14:08:12](https://news.ycombinator.com/item?id=50195543) - [What's Getting Pwned](https://pwn.watch/)
 * [2026-10-22, 14:07:48](https://news.ycombinator.com/item?id=50195535) - [Parsing EDIFACT in Python with syntax trees](https://github.com/AmadeusITGroup/Edison)
 * [2026-10-22, 14:04:44](https://news.ycombinator.com/item?id=50195488) - [Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey)
