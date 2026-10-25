@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
+* [2026-10-25, 17:30:55](https://news.ycombinator.com/item?id=50233929) - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
 * [2026-10-25, 17:15:16](https://news.ycombinator.com/item?id=50233775) - [Sabre Wulf Remastered](https://gp-64.com/swr/)
 * [2026-10-25, 16:31:21](https://news.ycombinator.com/item?id=50233347) - [A Mathematician Reads the AI Future](https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/)
 * [2026-10-25, 16:28:26](https://news.ycombinator.com/item?id=50233304) - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
