@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
 * [2026-10-25, 17:30:55](https://news.ycombinator.com/item?id=50233929) - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
+* [2026-10-25, 17:26:08](https://news.ycombinator.com/item?id=50233883) - [Fuck Nuance (2015)](https://crookedtimber.org/2015/08/31/fuck-nuance/)
+* [2026-10-25, 17:15:38](https://news.ycombinator.com/item?id=50233779) - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
 * [2026-10-25, 17:15:16](https://news.ycombinator.com/item?id=50233775) - [Sabre Wulf Remastered](https://gp-64.com/swr/)
 * [2026-10-25, 16:31:21](https://news.ycombinator.com/item?id=50233347) - [A Mathematician Reads the AI Future](https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/)
+* [2026-10-25, 16:29:46](https://news.ycombinator.com/item?id=50233325) - [Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents](https://github.com/socrates6969/jukebox-os)
 * [2026-10-25, 16:28:26](https://news.ycombinator.com/item?id=50233304) - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
 * [2026-10-25, 16:22:25](https://news.ycombinator.com/item?id=50233238) - [Bentley's Kyiv deadlership among the strongest, despite the war](https://www.autonext.co/news/bentley-kyiv-among-the-world-s-best-dealerships-despite-the-war)
 * [2026-10-25, 15:34:44](https://news.ycombinator.com/item?id=50232682) - [Anthropic Wanted to Replace Engineers. Instead, They Shot Their Own Customers](https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace)

@@ -1,8 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-25, 17:30:55](https://news.ycombinator.com/item?id=50233929) - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
+* [2026-10-25, 17:26:08](https://news.ycombinator.com/item?id=50233883) - [Fuck Nuance (2015)](https://crookedtimber.org/2015/08/31/fuck-nuance/)
+* [2026-10-25, 17:15:38](https://news.ycombinator.com/item?id=50233779) - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
 * [2026-10-25, 17:15:16](https://news.ycombinator.com/item?id=50233775) - [Sabre Wulf Remastered](https://gp-64.com/swr/)
 * [2026-10-25, 16:31:21](https://news.ycombinator.com/item?id=50233347) - [A Mathematician Reads the AI Future](https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/)
+* [2026-10-25, 16:29:46](https://news.ycombinator.com/item?id=50233325) - [Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents](https://github.com/socrates6969/jukebox-os)
+* [2026-10-25, 16:28:26](https://news.ycombinator.com/item?id=50233304) - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
 * [2026-10-25, 15:34:44](https://news.ycombinator.com/item?id=50232682) - [What Adobe v ArtCraft teaches us](https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace)
 * [2026-10-25, 15:05:39](https://news.ycombinator.com/item?id=50232312) - [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/)
 * [2026-10-25, 14:37:49](https://news.ycombinator.com/item?id=50232035) - [A few thoughts on intensity (2024)](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/)
@@ -14,12 +18,9 @@
 * [2026-10-24, 23:11:54](https://news.ycombinator.com/item?id=50226419) - [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
 * [2026-10-24, 21:47:31](https://news.ycombinator.com/item?id=50225695) - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
 * [2026-10-24, 21:44:23](https://news.ycombinator.com/item?id=50225674) - [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
-* [2026-10-24, 21:42:47](https://news.ycombinator.com/item?id=50225663) - [The Importance of Limitations for Creativity and Learning (2023)](https://ratfactor.com/cards/limitations)
 * [2026-10-24, 19:19:43](https://news.ycombinator.com/item?id=50224210) - [SpeedCrunch 1.1](https://www.speedcrunch.org/)
 * [2026-10-24, 19:06:55](https://news.ycombinator.com/item?id=50224100) - [The Goose Programming Language](https://aardappel.github.io/goose/)
 * [2026-10-24, 17:42:08](https://news.ycombinator.com/item?id=50223435) - [VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]](https://www.youtube.com/watch?v=46wxttvq9qY)
-* [2026-10-24, 15:57:17](https://news.ycombinator.com/item?id=50222525) - [Neural chip decodes interactions between brain regions](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)
-* [2026-10-24, 15:20:01](https://news.ycombinator.com/item?id=50222133) - [FreeDNS](https://freedns.afraid.org/)
 * [2026-10-24, 09:58:27](https://news.ycombinator.com/item?id=50219700) - [GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards](https://github.com/Zagitta/gpu-unlock)
 * [2026-10-24, 09:53:26](https://news.ycombinator.com/item?id=50219666) - [I don't understand quantum physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
 * [2026-10-24, 08:06:39](https://news.ycombinator.com/item?id=50219177) - [Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more](https://broccoli2shell.com/)
@@ -29,7 +30,6 @@
 * [2026-10-22, 13:40:05](https://news.ycombinator.com/item?id=50195184) - [Bring Back the Cool Save File Screens](https://scabshack.lol/posts/bring-back-the-cool-save-file-screens)
 * [2026-10-22, 11:31:03](https://news.ycombinator.com/item?id=50193936) - [How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made)
 * [2026-10-22, 03:06:36](https://news.ycombinator.com/item?id=50190686) - [Flapping Airplanes](https://flappingairplanes.com/)
-* [2026-10-20, 20:45:52](https://news.ycombinator.com/item?id=50172432) - [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/)
 
 ## [Archives](archives/index.md)
 
