@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-25, 10:42:01](https://news.ycombinator.com/item?id=50230181) - [Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)
 * [2026-10-25, 09:56:49](https://news.ycombinator.com/item?id=50229861) - [France asked ISPs to prepare temporary DNS blocks for major social platforms](https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ)
 * [2026-10-25, 09:04:13](https://news.ycombinator.com/item?id=50229599) - [Online censorship is crushing indie webcomics](https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463)
 * [2026-10-25, 09:00:40](https://news.ycombinator.com/item?id=50229587) - [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order)
@@ -9,7 +10,6 @@
 * [2026-10-24, 21:47:31](https://news.ycombinator.com/item?id=50225695) - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
 * [2026-10-24, 21:44:23](https://news.ycombinator.com/item?id=50225674) - [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
 * [2026-10-24, 21:42:47](https://news.ycombinator.com/item?id=50225663) - [The Importance of Limitations for Creativity and Learning (2023)](https://ratfactor.com/cards/limitations)
-* [2026-10-24, 20:30:31](https://news.ycombinator.com/item?id=50224916) - [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
 * [2026-10-24, 19:19:43](https://news.ycombinator.com/item?id=50224210) - [SpeedCrunch 1.1](https://www.speedcrunch.org/)
 * [2026-10-24, 19:06:55](https://news.ycombinator.com/item?id=50224100) - [The Goose Programming Language](https://aardappel.github.io/goose/)
 * [2026-10-24, 18:22:14](https://news.ycombinator.com/item?id=50223777) - [Bbtree: Fastest Ordered Map](https://bbtree.xiangpeng.systems/post/)
