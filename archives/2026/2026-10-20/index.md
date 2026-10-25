@@ -52,6 +52,7 @@
 * [2026-10-20, 15:07:38](https://news.ycombinator.com/item?id=50167560) - [How to Link Real-Time Live Streaming to Video-on-Demand](https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/)
 * [2026-10-20, 15:06:08](https://news.ycombinator.com/item?id=50167536) - [Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
 * [2026-10-20, 15:05:53](https://news.ycombinator.com/item?id=50167533) - [In-memory privacy shield to prevent context leaks in MCP tools](https://github.com/rohan-protocol/sdk)
+* [2026-10-20, 15:05:34](https://news.ycombinator.com/item?id=50167528) - [Why Washing Machines Took Decades to Catch On](https://daily.jstor.org/why-washing-machines-took-decades-to-catch-on/)
 * [2026-10-20, 15:05:07](https://news.ycombinator.com/item?id=50167524) - [Getting Banned from r/java](https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/)
 * [2026-10-20, 15:05:01](https://news.ycombinator.com/item?id=50167523) - [Building full-firm knowledge graphs to dramatically speed up agents](https://lexifina.com/blog/building-full-firm-knowledge-graphs-to-dramatically-speed-up-agents)
 * [2026-10-20, 15:00:34](https://news.ycombinator.com/item?id=50167456) - [Show HN: Run Claude Code unattended inside a fence, under a dollar budget](https://github.com/metahumansworld/SIwithin)

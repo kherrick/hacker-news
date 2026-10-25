@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-25, 14:05:03](https://news.ycombinator.com/item?id=50231722) - [R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai)
+* [2026-10-25, 15:05:39](https://news.ycombinator.com/item?id=50232312) - [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/)
 * [2026-10-25, 13:28:06](https://news.ycombinator.com/item?id=50231349) - [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
 * [2026-10-25, 12:48:11](https://news.ycombinator.com/item?id=50231001) - [The Lego group reveals collaboration with Daft Punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk)
 * [2026-10-25, 12:47:20](https://news.ycombinator.com/item?id=50230995) - [Imagine an AI future where being banned means you are now economically useless](https://twitter.com/boneGPT/status/2114035719853265264)
@@ -24,12 +24,12 @@
 * [2026-10-24, 08:06:39](https://news.ycombinator.com/item?id=50219177) - [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
 * [2026-10-22, 16:16:01](https://news.ycombinator.com/item?id=50197434) - [Reverse engineer of PC-98 Touhou games retires](https://rec98.nmlgc.net/blog/2026-10-05)
-* [2026-10-22, 11:45:29](https://news.ycombinator.com/item?id=50194029) - [Did it just build.. a clock?](https://theclock.online/)
 * [2026-10-22, 11:31:03](https://news.ycombinator.com/item?id=50193936) - [How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made)
 * [2026-10-21, 19:40:01](https://news.ycombinator.com/item?id=50186450) - [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
 * [2026-10-21, 19:30:52](https://news.ycombinator.com/item?id=50186289) - [A story of a Figma bug that wasn't a bug at all (2021)](https://aresluna.org/this-is-a-story-of-a-figma-bug/)
 * [2026-10-20, 20:45:52](https://news.ycombinator.com/item?id=50172432) - [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/)
 * [2026-10-20, 17:06:48](https://news.ycombinator.com/item?id=50169450) - [Social dynamics of toxic metal industry in medieval Europe](https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829)
+* [2026-10-20, 15:05:34](https://news.ycombinator.com/item?id=50167528) - [Why Washing Machines Took Decades to Catch On](https://daily.jstor.org/why-washing-machines-took-decades-to-catch-on/)
 
 ## [Archives](archives/index.md)
 
