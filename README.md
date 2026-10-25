@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-25, 01:40:01](https://news.ycombinator.com/item?id=50227403) - [\"Musk\" Documentary Pulled from Almost Every One of 472 Theaters After One Week](https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films)
 * [2026-10-24, 23:42:52](https://news.ycombinator.com/item?id=50226646) - [FindMyWeb: Apple Find My, reverse enginiered](https://codeberg.org/Misom/FindMyWeb)
 * [2026-10-24, 23:33:19](https://news.ycombinator.com/item?id=50226577) - [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
 * [2026-10-24, 23:14:30](https://news.ycombinator.com/item?id=50226434) - [Google has officially turned these Nest thermostats back into dumb thermostats](https://www.makeuseof.com/google-nest-thermostats-unsupported/)
@@ -22,7 +23,6 @@
 * [2026-10-24, 09:53:26](https://news.ycombinator.com/item?id=50219666) - [I don't understand quantum physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
 * [2026-10-24, 08:06:39](https://news.ycombinator.com/item?id=50219177) - [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
 * [2026-10-24, 03:43:54](https://news.ycombinator.com/item?id=50218195) - [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
-* [2026-10-24, 01:16:58](https://news.ycombinator.com/item?id=50217500) - [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
 * [2026-10-21, 22:17:12](https://news.ycombinator.com/item?id=50188440) - [Reactive Optimizers: rewrite the optimizer's source code during training](https://xingjianbai.com/reactive-optimizers/)
 * [2026-10-21, 19:40:01](https://news.ycombinator.com/item?id=50186450) - [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
