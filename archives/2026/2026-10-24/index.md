@@ -46,6 +46,7 @@
 * [2026-10-24, 09:53:26](https://news.ycombinator.com/item?id=50219666) - [I Don't Understand Quantum Physics](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
 * [2026-10-24, 08:08:42](https://news.ycombinator.com/item?id=50219186) - [ThinkRail from JetBrains](https://thinkrail.ai/)
 * [2026-10-24, 08:06:39](https://news.ycombinator.com/item?id=50219177) - [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
+* [2026-10-24, 08:06:39](https://news.ycombinator.com/item?id=50219177) - [Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more](https://broccoli2shell.com/)
 * [2026-10-24, 05:49:57](https://news.ycombinator.com/item?id=50218633) - [Root shell on Samsung TV](https://twitter.com/log4j/status/2113014142600953868?s=46)
 * [2026-10-24, 05:49:57](https://news.ycombinator.com/item?id=50218633) - [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
 * [2026-10-24, 04:49:58](https://news.ycombinator.com/item?id=50218430) - [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
