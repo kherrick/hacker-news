@@ -24,6 +24,7 @@
 * [2026-10-21, 19:40:18](https://news.ycombinator.com/item?id=50186455) - [Claude Duet](https://claude.com/resources/articles/claude-duet)
 * [2026-10-21, 19:40:01](https://news.ycombinator.com/item?id=50186450) - [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
 * [2026-10-21, 19:32:10](https://news.ycombinator.com/item?id=50186318) - [Plex laid off the whole player team](https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5)
+* [2026-10-21, 19:30:52](https://news.ycombinator.com/item?id=50186289) - [A story of a Figma bug that wasn't a bug at all (2021)](https://aresluna.org/this-is-a-story-of-a-figma-bug/)
 * [2026-10-21, 19:26:20](https://news.ycombinator.com/item?id=50186215) - [Meta hit with $25B penalty for deceiving users about privacy on Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)
 * [2026-10-21, 19:20:55](https://news.ycombinator.com/item?id=50186129) - [Mistral Large 4](https://mistral.ai/news/mistral-large-4/)
 * [2026-10-21, 19:20:55](https://news.ycombinator.com/item?id=50186129) - [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
