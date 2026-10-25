@@ -21,7 +21,6 @@
 * [2026-10-24, 09:53:26](https://news.ycombinator.com/item?id=50219666) - [I don't understand quantum physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
 * [2026-10-24, 08:06:39](https://news.ycombinator.com/item?id=50219177) - [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
 * [2026-10-22, 23:01:18](https://news.ycombinator.com/item?id=50202285) - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
-* [2026-10-22, 18:03:57](https://news.ycombinator.com/item?id=50198954) - [Monoidal computer I: Basic computability by string diagrams (2012)](https://arxiv.org/abs/1208.5205)
 * [2026-10-22, 13:20:04](https://news.ycombinator.com/item?id=50194935) - [In Rainbows](https://hitogata.neocities.org/Rainbows)
 * [2026-10-22, 10:44:52](https://news.ycombinator.com/item?id=50193612) - [Picasa Photo Viewer Rebuilt for Linux, Project Named Licasa](https://github.com/sanxchep/licasa)
 * [2026-10-21, 22:17:12](https://news.ycombinator.com/item?id=50188440) - [Reactive Optimizers: rewrite the optimizer's source code during training](https://xingjianbai.com/reactive-optimizers/)
@@ -30,6 +29,7 @@
 * [2026-10-21, 06:09:04](https://news.ycombinator.com/item?id=50176674) - [Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions](https://pragtical.dev/blog/pragtical-v3140-release)
 * [2026-10-20, 20:45:52](https://news.ycombinator.com/item?id=50172432) - [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/)
 * [2026-10-20, 17:06:48](https://news.ycombinator.com/item?id=50169450) - [Social dynamics of toxic metal industry in medieval Europe](https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829)
+* [2026-10-20, 16:00:15](https://news.ycombinator.com/item?id=50168376) - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
 
 ## [Archives](archives/index.md)
 
