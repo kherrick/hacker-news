@@ -28,6 +28,7 @@
 * [2026-10-22, 18:32:57](https://news.ycombinator.com/item?id=50199290) - [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
 * [2026-10-22, 18:28:26](https://news.ycombinator.com/item?id=50199232) - [Award-Winning AI Literature](https://jamesyu.org/award-winning-ai-literature/)
 * [2026-10-22, 18:28:16](https://news.ycombinator.com/item?id=50199230) - [AI and the Enclosure of the Scientific Commons](https://arxiv.org/abs/2610.27251)
+* [2026-10-22, 18:03:57](https://news.ycombinator.com/item?id=50198954) - [Monoidal computer I: Basic computability by string diagrams (2012)](https://arxiv.org/abs/1208.5205)
 * [2026-10-22, 18:02:54](https://news.ycombinator.com/item?id=50198940) - [AI analysis of CT scans finds 42.9% of patients have coronary inflammation](https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients)
 * [2026-10-22, 18:02:38](https://news.ycombinator.com/item?id=50198936) - [Show HN: agent-usage-guard – a Claude Code mod to protect your usage window](https://github.com/rbartoli/agent-usage-guard)
 * [2026-10-22, 17:44:06](https://news.ycombinator.com/item?id=50198675) - [Nvidia OpenShell](https://github.com/NVIDIA/OpenShell)
