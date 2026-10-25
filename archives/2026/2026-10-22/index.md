@@ -48,6 +48,7 @@
 * [2026-10-22, 13:33:39](https://news.ycombinator.com/item?id=50195110) - [eMudhra to Exit Global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
 * [2026-10-22, 13:25:01](https://news.ycombinator.com/item?id=50195002) - [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092)
 * [2026-10-22, 13:20:13](https://news.ycombinator.com/item?id=50194938) - [Crystal 1.22.0 Is Released](https://crystal-lang.org/2026/10/12/1.22.0-released/)
+* [2026-10-22, 13:20:04](https://news.ycombinator.com/item?id=50194935) - [In Rainbows](https://hitogata.neocities.org/Rainbows)
 * [2026-10-22, 13:17:29](https://news.ycombinator.com/item?id=50194909) - [eMudhra to Exit Global SSL/TLS Certificate Business;](https://news.ycombinator.com/item?id=50194909)
 * [2026-10-22, 13:11:00](https://news.ycombinator.com/item?id=50194833) - [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html)
 * [2026-10-22, 13:11:00](https://news.ycombinator.com/item?id=50194833) - [Woman charged with computer fraud due to scam CashApp account being in her name](https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/)
