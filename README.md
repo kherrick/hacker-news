@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-25, 03:56:01](https://news.ycombinator.com/item?id=50228167) - [Five Qwen3.8-27B models outperform Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H)
+* [2026-10-25, 03:56:01](https://news.ycombinator.com/item?id=50228167) - [Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H)
 * [2026-10-25, 03:05:53](https://news.ycombinator.com/item?id=50227892) - [Xbox Turns Down Netflix $500M Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
 * [2026-10-25, 02:50:32](https://news.ycombinator.com/item?id=50227814) - [Attention people who think UB is fine](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 * [2026-10-25, 02:18:35](https://news.ycombinator.com/item?id=50227639) - [Meta employees say Lula’s accounts restricted in Brazil election: Report](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report)
