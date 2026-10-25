@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-25, 12:48:11](https://news.ycombinator.com/item?id=50231001) - [The Lego group reveals collaboration with Daft Punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk)
+* [2026-10-25, 12:43:52](https://news.ycombinator.com/item?id=50230965) - [Challenge Is Gone](https://blog.alxgsv.com/challenge-is-gone/)
 * [2026-10-25, 12:37:54](https://news.ycombinator.com/item?id=50230917) - [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)
 * [2026-10-25, 11:09:12](https://news.ycombinator.com/item?id=50230384) - [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
 * [2026-10-25, 10:42:01](https://news.ycombinator.com/item?id=50230181) - [Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)
@@ -28,7 +29,6 @@
 * [2026-10-21, 19:40:01](https://news.ycombinator.com/item?id=50186450) - [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
 * [2026-10-21, 19:30:52](https://news.ycombinator.com/item?id=50186289) - [A story of a Figma bug that wasn't a bug at all (2021)](https://aresluna.org/this-is-a-story-of-a-figma-bug/)
 * [2026-10-20, 20:45:52](https://news.ycombinator.com/item?id=50172432) - [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/)
-* [2026-10-20, 17:42:13](https://news.ycombinator.com/item?id=50169939) - [XPS 16 Creator Edition Laptop](https://www.dell.com/en-us/shop/laptop-computers/spd/xps16dx16263)
 * [2026-10-20, 17:06:48](https://news.ycombinator.com/item?id=50169450) - [Social dynamics of toxic metal industry in medieval Europe](https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829)
 
 ## [Archives](archives/index.md)
