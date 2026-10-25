@@ -27,6 +27,7 @@
 * [2026-10-24, 18:22:14](https://news.ycombinator.com/item?id=50223777) - [Bbtree: Fastest Ordered Map](https://bbtree.xiangpeng.systems/post/)
 * [2026-10-24, 18:19:05](https://news.ycombinator.com/item?id=50223752) - [Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology](https://www.science.org/doi/10.1126/sciadv.aeh8870)
 * [2026-10-24, 18:04:57](https://news.ycombinator.com/item?id=50223647) - [Why is AI generated language so hard to understand?](https://arxiv.org/abs/2610.29162)
+* [2026-10-24, 17:42:08](https://news.ycombinator.com/item?id=50223435) - [VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]](https://www.youtube.com/watch?v=46wxttvq9qY)
 * [2026-10-24, 17:13:57](https://news.ycombinator.com/item?id=50223201) - [Show HN: Argus- open source security platform to protect against agentic attacks](https://github.com/thomasunise/argus)
 * [2026-10-24, 16:47:19](https://news.ycombinator.com/item?id=50222976) - [Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs'](https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947)
 * [2026-10-24, 16:41:55](https://news.ycombinator.com/item?id=50222927) - [The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866)
