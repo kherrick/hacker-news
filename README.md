@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-25, 22:49:06](https://news.ycombinator.com/item?id=50236828) - [Apollo says AI has delivered 'zero financial payoff' outside the tech industry](https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10)
 * [2026-10-25, 22:02:33](https://news.ycombinator.com/item?id=50236455) - [Europe's summer heat wave killed more han 50k people in urban areas](https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas)
 * [2026-10-25, 21:11:31](https://news.ycombinator.com/item?id=50236102) - [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
 * [2026-10-25, 21:08:28](https://news.ycombinator.com/item?id=50236081) - [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
@@ -26,6 +25,7 @@
 * [2026-10-24, 17:42:08](https://news.ycombinator.com/item?id=50223435) - [VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]](https://www.youtube.com/watch?v=46wxttvq9qY)
 * [2026-10-24, 05:49:57](https://news.ycombinator.com/item?id=50218633) - [Root shell on Samsung TV](https://twitter.com/log4j/status/2113014142600953868?s=46)
 * [2026-10-23, 18:46:00](https://news.ycombinator.com/item?id=50213610) - [Making the Buddha Head from Merv Whole Again](https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/)
+* [2026-10-23, 13:25:12](https://news.ycombinator.com/item?id=50208628) - [Reverse engineering a Beyblade launch tracker](https://blog.simone.computer/reverse-beyblade-launch-tracker)
 * [2026-10-22, 15:52:21](https://news.ycombinator.com/item?id=50197108) - [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
 * [2026-10-22, 15:20:04](https://news.ycombinator.com/item?id=50196623) - [The U.S. Power Grid](https://nomagicpill.site/knowledge/powergrid.html)
 * [2026-10-22, 14:21:17](https://news.ycombinator.com/item?id=50195769) - [Recreate the Apollo Guidance Computer](https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/)

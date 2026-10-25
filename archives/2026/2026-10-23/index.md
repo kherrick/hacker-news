@@ -48,6 +48,7 @@
 * [2026-10-23, 14:44:50](https://news.ycombinator.com/item?id=50209939) - [An alignment assessment of the UK AISI cybertesting incident](https://www.anthropic.com/research/alignment-assessment-ukaisi)
 * [2026-10-23, 14:43:02](https://news.ycombinator.com/item?id=50209907) - [Gemma-4-26B-A4B with 39-69% less thinking at same accuracy](https://bottlecapai.com/post/thinkingcap-gemma-4-26b/)
 * [2026-10-23, 13:41:10](https://news.ycombinator.com/item?id=50208837) - [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
+* [2026-10-23, 13:25:12](https://news.ycombinator.com/item?id=50208628) - [Reverse engineering a Beyblade launch tracker](https://blog.simone.computer/reverse-beyblade-launch-tracker)
 * [2026-10-23, 13:19:42](https://news.ycombinator.com/item?id=50208558) - [Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/?)
 * [2026-10-23, 13:02:23](https://news.ycombinator.com/item?id=50208343) - [Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter)
 * [2026-10-23, 12:56:38](https://news.ycombinator.com/item?id=50208258) - [Hacker leaks 281 GB of data from Germany's far-right AfD party](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd)
