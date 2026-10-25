@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-25, 18:24:20",
-      "https://news.ycombinator.com/item?id=50234480"
-    ],
-    [
-      "I made a virtual pet fruit fly that Twitch chat can interact with",
-      "https://www.twitch.tv/flytwitcher"
-    ]
-  ],
-  [
-    [
       "2026-10-25, 18:23:54",
       "https://news.ycombinator.com/item?id=50234474"
     ],
@@ -151,12 +141,32 @@
   ],
   [
     [
+      "2026-10-25, 02:01:21",
+      "https://news.ycombinator.com/item?id=50227527"
+    ],
+    [
+      "Show HN: ReVault – new secure archive format",
+      "https://news.ycombinator.com/item?id=50227527"
+    ]
+  ],
+  [
+    [
       "2026-10-25, 01:33:49",
       "https://news.ycombinator.com/item?id=50227356"
     ],
     [
       "Cerebras Deploys Trillion-Parameter AI Models",
       "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
+    ]
+  ],
+  [
+    [
+      "2026-10-25, 01:30:13",
+      "https://news.ycombinator.com/item?id=50227330"
+    ],
+    [
+      "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "https://huggingface.co/destined/hurston-1"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
       "https://www.youtube.com/watch?v=46wxttvq9qY"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 09:58:27",
-      "https://news.ycombinator.com/item?id=50219700"
-    ],
-    [
-      "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "https://github.com/Zagitta/gpu-unlock"
     ]
   ],
   [
