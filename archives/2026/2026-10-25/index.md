@@ -8,6 +8,7 @@
 * [2026-10-25, 13:28:06](https://news.ycombinator.com/item?id=50231349) - [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
 * [2026-10-25, 13:24:37](https://news.ycombinator.com/item?id=50231310) - [US inequality is getting worse in ways you might not expect](https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075)
 * [2026-10-25, 12:48:11](https://news.ycombinator.com/item?id=50231001) - [The Lego group reveals collaboration with Daft Punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk)
+* [2026-10-25, 12:47:20](https://news.ycombinator.com/item?id=50230995) - [Imagine an AI future where being banned means you are now economically useless](https://twitter.com/boneGPT/status/2114035719853265264)
 * [2026-10-25, 12:43:52](https://news.ycombinator.com/item?id=50230965) - [Challenge Is Gone](https://blog.alxgsv.com/challenge-is-gone/)
 * [2026-10-25, 12:37:54](https://news.ycombinator.com/item?id=50230917) - [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)
 * [2026-10-25, 11:09:12](https://news.ycombinator.com/item?id=50230384) - [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
