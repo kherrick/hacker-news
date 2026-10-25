@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
 * [2026-10-25, 21:11:31](https://news.ycombinator.com/item?id=50236102) - [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
+* [2026-10-25, 21:08:28](https://news.ycombinator.com/item?id=50236081) - [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
 * [2026-10-25, 20:32:31](https://news.ycombinator.com/item?id=50235780) - [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
 * [2026-10-25, 20:27:09](https://news.ycombinator.com/item?id=50235738) - [What goes into making an animated film?](https://www.disneyanimation.com/process/)
 * [2026-10-25, 20:16:51](https://news.ycombinator.com/item?id=50235639) - [Focused Company Operating Principles](https://focused.io/operating-principles)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-25, 21:11:31](https://news.ycombinator.com/item?id=50236102) - [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
+* [2026-10-25, 21:08:28](https://news.ycombinator.com/item?id=50236081) - [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
 * [2026-10-25, 20:32:31](https://news.ycombinator.com/item?id=50235780) - [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
 * [2026-10-25, 20:27:09](https://news.ycombinator.com/item?id=50235738) - [What goes into making an animated film?](https://www.disneyanimation.com/process/)
 * [2026-10-25, 20:16:51](https://news.ycombinator.com/item?id=50235639) - [Focused Company Operating Principles](https://focused.io/operating-principles)
@@ -17,7 +18,6 @@
 * [2026-10-25, 16:40:37](https://news.ycombinator.com/item?id=50233438) - [UTS #39: Unicode Security Mechanisms](https://unicode.org/reports/tr39/)
 * [2026-10-25, 16:28:26](https://news.ycombinator.com/item?id=50233304) - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
 * [2026-10-25, 16:27:12](https://news.ycombinator.com/item?id=50233294) - [JetBrains Thinkrail](https://github.com/JetBrains/thinkrail)
-* [2026-10-25, 15:05:39](https://news.ycombinator.com/item?id=50232312) - [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/)
 * [2026-10-25, 13:09:16](https://news.ycombinator.com/item?id=50231166) - [Active incident at Dreamhost forcing password reset](https://www.dreamhoststatus.com/)
 * [2026-10-25, 11:09:12](https://news.ycombinator.com/item?id=50230384) - [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
 * [2026-10-25, 01:33:49](https://news.ycombinator.com/item?id=50227356) - [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
