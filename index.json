@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-10-22, 18:03:57",
-      "https://news.ycombinator.com/item?id=50198954"
-    ],
-    [
-      "Monoidal computer I: Basic computability by string diagrams (2012)",
-      "https://arxiv.org/abs/1208.5205"
-    ]
-  ],
-  [
-    [
       "2026-10-22, 13:20:04",
       "https://news.ycombinator.com/item?id=50194935"
     ],
@@ -297,6 +287,16 @@
     [
       "Social dynamics of toxic metal industry in medieval Europe",
       "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829"
+    ]
+  ],
+  [
+    [
+      "2026-10-20, 16:00:15",
+      "https://news.ycombinator.com/item?id=50168376"
+    ],
+    [
+      "Making a VGA Driver in SystemVerilog",
+      "https://lukaswerner.com/post/2026-10-20@bottom-up-vga"
     ]
   ]
 ]
