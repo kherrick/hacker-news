@@ -35,6 +35,7 @@
 * [2026-10-21, 18:57:52](https://news.ycombinator.com/item?id=50185814) - [Potential third critical PHP CVE](https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027)
 * [2026-10-21, 18:49:51](https://news.ycombinator.com/item?id=50185715) - [A Cocktail Party in the Street: An Interview with Alan Stillman (2010)](https://www.ediblegeography.com/a-cocktail-party-in-the-street-an-interview-with-alan-stillman/)
 * [2026-10-21, 18:45:04](https://news.ycombinator.com/item?id=50185630) - [Canary Tokens](https://canarytokens.org/)
+* [2026-10-21, 18:37:48](https://news.ycombinator.com/item?id=50185534) - [Amazon's \"digital pacifier\" for toddlers](https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers)
 * [2026-10-21, 18:31:15](https://news.ycombinator.com/item?id=50185455) - [Open Source Games](https://opensourcegames.dev/)
 * [2026-10-21, 18:29:54](https://news.ycombinator.com/item?id=50185438) - [Anthropic's Public Benefit Charter](https://www.anthropic.com/public-benefit-charter)
 * [2026-10-21, 18:27:54](https://news.ycombinator.com/item?id=50185403) - [Corporate Linux](https://lpar.ATH0.com/posts/2026/10/corporate-linux/)
