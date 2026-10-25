@@ -6,6 +6,7 @@
 
 * [2026-10-25, 14:05:03](https://news.ycombinator.com/item?id=50231722) - [R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai)
 * [2026-10-25, 13:28:06](https://news.ycombinator.com/item?id=50231349) - [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
+* [2026-10-25, 13:24:37](https://news.ycombinator.com/item?id=50231310) - [US inequality is getting worse in ways you might not expect](https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075)
 * [2026-10-25, 12:48:11](https://news.ycombinator.com/item?id=50231001) - [The Lego group reveals collaboration with Daft Punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk)
 * [2026-10-25, 12:43:52](https://news.ycombinator.com/item?id=50230965) - [Challenge Is Gone](https://blog.alxgsv.com/challenge-is-gone/)
 * [2026-10-25, 12:37:54](https://news.ycombinator.com/item?id=50230917) - [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)

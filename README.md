@@ -2,6 +2,7 @@
 
 * [2026-10-25, 14:05:03](https://news.ycombinator.com/item?id=50231722) - [R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai)
 * [2026-10-25, 13:28:06](https://news.ycombinator.com/item?id=50231349) - [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
+* [2026-10-25, 13:24:37](https://news.ycombinator.com/item?id=50231310) - [US inequality is getting worse in ways you might not expect](https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075)
 * [2026-10-25, 12:48:11](https://news.ycombinator.com/item?id=50231001) - [The Lego group reveals collaboration with Daft Punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk)
 * [2026-10-25, 12:37:54](https://news.ycombinator.com/item?id=50230917) - [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)
 * [2026-10-25, 11:09:12](https://news.ycombinator.com/item?id=50230384) - [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
@@ -15,7 +16,6 @@
 * [2026-10-24, 21:42:47](https://news.ycombinator.com/item?id=50225663) - [The Importance of Limitations for Creativity and Learning (2023)](https://ratfactor.com/cards/limitations)
 * [2026-10-24, 19:19:43](https://news.ycombinator.com/item?id=50224210) - [SpeedCrunch 1.1](https://www.speedcrunch.org/)
 * [2026-10-24, 19:06:55](https://news.ycombinator.com/item?id=50224100) - [The Goose Programming Language](https://aardappel.github.io/goose/)
-* [2026-10-24, 16:41:55](https://news.ycombinator.com/item?id=50222927) - [The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866)
 * [2026-10-24, 15:57:17](https://news.ycombinator.com/item?id=50222525) - [Neural chip decodes interactions between brain regions](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)
 * [2026-10-24, 15:20:01](https://news.ycombinator.com/item?id=50222133) - [FreeDNS](https://freedns.afraid.org/)
 * [2026-10-24, 09:58:27](https://news.ycombinator.com/item?id=50219700) - [GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards](https://github.com/Zagitta/gpu-unlock)
