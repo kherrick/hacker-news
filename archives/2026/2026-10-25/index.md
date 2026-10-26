@@ -26,6 +26,7 @@
 * [2026-10-25, 18:11:38](https://news.ycombinator.com/item?id=50234329) - [All you need is Wide Events, not \"Metrics, Logs and Traces\"](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
 * [2026-10-25, 18:04:11](https://news.ycombinator.com/item?id=50234232) - [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
 * [2026-10-25, 17:52:28](https://news.ycombinator.com/item?id=50234108) - [Ask HN: What is the main bottleneck facing Agentic AI today?](https://news.ycombinator.com/item?id=50234108)
+* [2026-10-25, 17:43:20](https://news.ycombinator.com/item?id=50234028) - [Learning to Be Me (1990) [pdf]](https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf)
 * [2026-10-25, 17:30:55](https://news.ycombinator.com/item?id=50233929) - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
 * [2026-10-25, 17:26:08](https://news.ycombinator.com/item?id=50233883) - [Fuck Nuance (2015)](https://crookedtimber.org/2015/08/31/fuck-nuance/)
 * [2026-10-25, 17:20:22](https://news.ycombinator.com/item?id=50233828) - [Scientists rediscover how to make ancient Roman colour-changing glass](https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass)
