@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-26, 17:32:16](https://news.ycombinator.com/item?id=50247630) - [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
+* [2026-10-26, 17:25:30](https://news.ycombinator.com/item?id=50247493) - [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
 * [2026-10-26, 17:23:11](https://news.ycombinator.com/item?id=50247453) - [The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)
 * [2026-10-26, 16:35:44](https://news.ycombinator.com/item?id=50246658) - [Concerning behavior from a popular open-weight AI model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
 * [2026-10-26, 15:57:12](https://news.ycombinator.com/item?id=50245945) - [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
@@ -17,7 +18,6 @@
 * [2026-10-26, 03:31:11](https://news.ycombinator.com/item?id=50238763) - [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 * [2026-10-26, 03:29:05](https://news.ycombinator.com/item?id=50238739) - [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
 * [2026-10-26, 03:23:57](https://news.ycombinator.com/item?id=50238708) - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
-* [2026-10-25, 23:52:05](https://news.ycombinator.com/item?id=50237224) - [Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428)
 * [2026-10-25, 22:29:47](https://news.ycombinator.com/item?id=50236681) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
 * [2026-10-25, 18:23:54](https://news.ycombinator.com/item?id=50234474) - [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
 * [2026-10-25, 03:47:56](https://news.ycombinator.com/item?id=50228115) - [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)
