@@ -52,6 +52,7 @@
 * [2026-10-23, 14:44:50](https://news.ycombinator.com/item?id=50209939) - [An alignment assessment of the UK AISI cybertesting incident](https://www.anthropic.com/research/alignment-assessment-ukaisi)
 * [2026-10-23, 14:43:02](https://news.ycombinator.com/item?id=50209907) - [Gemma-4-26B-A4B with 39-69% less thinking at same accuracy](https://bottlecapai.com/post/thinkingcap-gemma-4-26b/)
 * [2026-10-23, 14:22:23](https://news.ycombinator.com/item?id=50209573) - [Colorfigures](https://april-zhu.com/colorfigures)
+* [2026-10-23, 14:20:15](https://news.ycombinator.com/item?id=50209525) - [Diamond Transistor](https://www.df.com/diamond-transistor)
 * [2026-10-23, 14:20:04](https://news.ycombinator.com/item?id=50209524) - [Reinventing the Pencil Sharpener [video]](https://www.youtube.com/watch?v=0Gi5Z51KdUE)
 * [2026-10-23, 14:07:42](https://news.ycombinator.com/item?id=50209278) - [Growing Trees](https://brashandplucky.com/2026/10/15/growing-trees.html)
 * [2026-10-23, 13:41:10](https://news.ycombinator.com/item?id=50208837) - [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
