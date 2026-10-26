@@ -20,6 +20,7 @@
 * [2026-10-23, 19:42:01](https://news.ycombinator.com/item?id=50214325) - [Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501](https://rune.build/blog/rune-1-3-release)
 * [2026-10-23, 19:41:59](https://news.ycombinator.com/item?id=50214323) - [We are all living inside of an obscure sci-fi film from 1970](https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/)
 * [2026-10-23, 19:34:15](https://news.ycombinator.com/item?id=50214218) - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
+* [2026-10-23, 19:15:57](https://news.ycombinator.com/item?id=50213990) - [Two Million Hornets](https://dark-mountain.net/two-million-hornets/)
 * [2026-10-23, 19:09:54](https://news.ycombinator.com/item?id=50213925) - [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
 * [2026-10-23, 19:01:56](https://news.ycombinator.com/item?id=50213826) - [Florida officer found dead man, impersonated him for years, renovated his home](https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844)
 * [2026-10-23, 19:00:04](https://news.ycombinator.com/item?id=50213791) - [DNS: A Replacement for Finger](https://altchan.org/sh/42)

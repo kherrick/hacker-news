@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-26, 08:46:09](https://news.ycombinator.com/item?id=50240922) - [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
-* [2026-10-26, 06:11:52](https://news.ycombinator.com/item?id=50239748) - [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
 * [2026-10-26, 03:31:11](https://news.ycombinator.com/item?id=50238763) - [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 * [2026-10-26, 03:29:05](https://news.ycombinator.com/item?id=50238739) - [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
 * [2026-10-26, 03:23:57](https://news.ycombinator.com/item?id=50238708) - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
@@ -24,6 +23,7 @@
 * [2026-10-25, 00:43:47](https://news.ycombinator.com/item?id=50227041) - [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems)
 * [2026-10-24, 21:47:31](https://news.ycombinator.com/item?id=50225695) - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
 * [2026-10-23, 22:04:55](https://news.ycombinator.com/item?id=50215997) - [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
+* [2026-10-23, 19:15:57](https://news.ycombinator.com/item?id=50213990) - [Two Million Hornets](https://dark-mountain.net/two-million-hornets/)
 * [2026-10-23, 18:46:00](https://news.ycombinator.com/item?id=50213610) - [Making the Buddha Head from Merv Whole Again](https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/)
 * [2026-10-23, 14:59:09](https://news.ycombinator.com/item?id=50210181) - [Superhuman Hardware Design Is the Easy Part](https://www.a16z.news/p/superhuman-hardware-design-is-the)
 * [2026-10-23, 14:07:42](https://news.ycombinator.com/item?id=50209278) - [Growing Trees](https://brashandplucky.com/2026/10/15/growing-trees.html)
