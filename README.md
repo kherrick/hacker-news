@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-26, 22:41:48](https://news.ycombinator.com/item?id=50252159) - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
 * [2026-10-26, 21:35:28](https://news.ycombinator.com/item?id=50251344) - [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 * [2026-10-26, 21:18:05](https://news.ycombinator.com/item?id=50251127) - [CorridorKey 2.0](https://corridorkey.com/)
 * [2026-10-26, 19:37:59](https://news.ycombinator.com/item?id=50249738) - [Magic state cultivation on a superconducting quantum processor](https://arxiv.org/abs/2512.13908)
@@ -10,7 +11,6 @@
 * [2026-10-26, 17:56:55](https://news.ycombinator.com/item?id=50248055) - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
 * [2026-10-26, 17:54:00](https://news.ycombinator.com/item?id=50248005) - [In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real](https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/)
 * [2026-10-26, 17:49:55](https://news.ycombinator.com/item?id=50247928) - [A Man from the Future: Why Johnny Can't Stop Abstracting](http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html)
-* [2026-10-26, 17:32:16](https://news.ycombinator.com/item?id=50247630) - [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
 * [2026-10-26, 17:25:30](https://news.ycombinator.com/item?id=50247493) - [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
 * [2026-10-26, 16:35:44](https://news.ycombinator.com/item?id=50246658) - [Concerning behavior from a popular open-weight AI model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
 * [2026-10-26, 16:12:29](https://news.ycombinator.com/item?id=50246238) - [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)
@@ -23,12 +23,12 @@
 * [2026-10-26, 08:46:09](https://news.ycombinator.com/item?id=50240922) - [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
 * [2026-10-25, 23:18:42](https://news.ycombinator.com/item?id=50237019) - [Show HN: Glider 4.0 Unofficial Web Edition (Mac game port)](https://dbohdan.github.io/glider/)
 * [2026-10-25, 22:29:47](https://news.ycombinator.com/item?id=50236681) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
-* [2026-10-24, 16:27:18](https://news.ycombinator.com/item?id=50222794) - [An incremental approach to JIT construction](https://dl.acm.org/doi/10.1145/3830440.3832304)
 * [2026-10-23, 22:04:55](https://news.ycombinator.com/item?id=50215997) - [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
 * [2026-10-23, 20:35:40](https://news.ycombinator.com/item?id=50214967) - [World Wars I and II Military Aviation Museum Collection](https://www.militaryaviationmuseum.org/our-collection/)
 * [2026-10-23, 18:38:13](https://news.ycombinator.com/item?id=50213502) - [Native Prometheus Integration with Nginx](https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/)
 * [2026-10-23, 17:46:33](https://news.ycombinator.com/item?id=50212764) - [Who killed the EV cert? A browser whodunit for Halloween](https://qwac.com/blog/who-killed-the-ev-cert)
 * [2026-10-23, 14:20:15](https://news.ycombinator.com/item?id=50209525) - [Diamond Transistor](https://www.df.com/diamond-transistor)
+* [2026-10-23, 05:01:30](https://news.ycombinator.com/item?id=50204697) - [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219)
 * [2026-10-22, 19:52:50](https://news.ycombinator.com/item?id=50200152) - [Blaise Pascal invented fixed route public transport (2024)](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
 
 ## [Archives](archives/index.md)
