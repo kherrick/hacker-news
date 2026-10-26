@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-26, 23:08:27](https://news.ycombinator.com/item?id=50252457) - [Just Imagining a Workout Can Make You Stronger](https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068)
 * [2026-10-26, 22:41:48](https://news.ycombinator.com/item?id=50252159) - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
 * [2026-10-26, 22:27:17](https://news.ycombinator.com/item?id=50252008) - [Is PHP Running on Your ColdFusion Server? How to Check, and Remove It](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
 * [2026-10-26, 21:59:15](https://news.ycombinator.com/item?id=50251661) - [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
@@ -24,7 +25,6 @@
 * [2026-10-25, 23:18:42](https://news.ycombinator.com/item?id=50237019) - [Show HN: Glider 4.0 Unofficial Web Edition (Mac game port)](https://dbohdan.github.io/glider/)
 * [2026-10-25, 22:29:47](https://news.ycombinator.com/item?id=50236681) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
 * [2026-10-23, 22:04:55](https://news.ycombinator.com/item?id=50215997) - [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
-* [2026-10-23, 20:35:40](https://news.ycombinator.com/item?id=50214967) - [World Wars I and II Military Aviation Museum Collection](https://www.militaryaviationmuseum.org/our-collection/)
 * [2026-10-23, 18:38:13](https://news.ycombinator.com/item?id=50213502) - [Native Prometheus Integration with Nginx](https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/)
 * [2026-10-23, 17:46:33](https://news.ycombinator.com/item?id=50212764) - [Who killed the EV cert? A browser whodunit for Halloween](https://qwac.com/blog/who-killed-the-ev-cert)
 * [2026-10-23, 14:20:15](https://news.ycombinator.com/item?id=50209525) - [Diamond Transistor](https://www.df.com/diamond-transistor)
