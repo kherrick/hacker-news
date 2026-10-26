@@ -68,3 +68,4 @@
 * [2026-10-25, 01:30:13](https://news.ycombinator.com/item?id=50227330) - [Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English](https://huggingface.co/destined/hurston-1)
 * [2026-10-25, 00:59:48](https://news.ycombinator.com/item?id=50227138) - [Tailworm – Tailscale Vulnerabilities](https://tailworm.com/)
 * [2026-10-25, 00:58:57](https://news.ycombinator.com/item?id=50227131) - [Ask HN: Why a Great Product Won't Succeed Without a Community](https://news.ycombinator.com/item?id=50227131)
+* [2026-10-25, 00:43:47](https://news.ycombinator.com/item?id=50227041) - [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems)

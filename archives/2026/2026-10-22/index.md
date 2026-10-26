@@ -19,6 +19,7 @@
 * [2026-10-22, 21:38:32](https://news.ycombinator.com/item?id=50201414) - [Railpass](https://train.samismith.com/)
 * [2026-10-22, 21:24:41](https://news.ycombinator.com/item?id=50201259) - [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
 * [2026-10-22, 21:03:55](https://news.ycombinator.com/item?id=50200997) - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)
+* [2026-10-22, 21:00:14](https://news.ycombinator.com/item?id=50200957) - [Iron Age salt-mining complex found beneath Hallstatt in Austria](https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/)
 * [2026-10-22, 20:59:38](https://news.ycombinator.com/item?id=50200947) - [Arc is being sunset on December 22, 2026](https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes)
 * [2026-10-22, 19:54:04](https://news.ycombinator.com/item?id=50200164) - [The HTML-in-Canvas API origin trial](https://developer.chrome.com/blog/html-in-canvas-origin-trial)
 * [2026-10-22, 19:14:01](https://news.ycombinator.com/item?id=50199757) - [eMudhra logins can be bruteforced](https://mastodon.catgirl.cloud/@49016/117475976434068995)
