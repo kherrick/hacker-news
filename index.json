@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-10-26, 00:31:07",
-      "https://news.ycombinator.com/item?id=50237485"
+      "2026-10-26, 01:23:24",
+      "https://news.ycombinator.com/item?id=50237896"
     ],
     [
-      "Lula wins election after final votes tallied",
-      "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/"
+      "iPhone Duo Teardown",
+      "https://www.ifixit.com/News/119895/iphone-duo-teardown"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 00:15:17",
+      "https://news.ycombinator.com/item?id=50237379"
+    ],
+    [
+      "Steal My Bitcoin CTF PoC",
+      "https://github.com/KillaBoi/StealMyBitcoin-PoC"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=50237224"
     ],
     [
-      "Attention Is Not What You Need",
+      "Attention Is Not What You Need (2025)",
       "https://arxiv.org/abs/2512.19428"
     ]
   ],
@@ -67,16 +77,6 @@
     [
       "What goes into making an animated film?",
       "https://www.disneyanimation.com/process/"
-    ]
-  ],
-  [
-    [
-      "2026-10-25, 20:16:51",
-      "https://news.ycombinator.com/item?id=50235639"
-    ],
-    [
-      "Focused Company Operating Principles",
-      "https://focused.io/operating-principles"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-10-25, 16:27:12",
-      "https://news.ycombinator.com/item?id=50233294"
-    ],
-    [
-      "JetBrains Thinkrail",
-      "https://github.com/JetBrains/thinkrail"
-    ]
-  ],
-  [
-    [
       "2026-10-25, 13:09:16",
       "https://news.ycombinator.com/item?id=50231166"
     ],
@@ -187,6 +177,16 @@
     [
       "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
       "https://huggingface.co/destined/hurston-1"
+    ]
+  ],
+  [
+    [
+      "2026-10-25, 00:43:47",
+      "https://news.ycombinator.com/item?id=50227041"
+    ],
+    [
+      "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "https://adrs.systems"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-10-22, 21:00:14",
+      "https://news.ycombinator.com/item?id=50200957"
+    ],
+    [
+      "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+      "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/"
+    ]
+  ],
+  [
+    [
       "2026-10-22, 18:25:40",
       "https://news.ycombinator.com/item?id=50199199"
     ],
@@ -257,16 +267,6 @@
     [
       "Overgrown, when plants invade your abandoned tabs",
       "https://charliegerard.dev/blog/overgrown-extension/"
-    ]
-  ],
-  [
-    [
-      "2026-10-22, 15:20:04",
-      "https://news.ycombinator.com/item?id=50196623"
-    ],
-    [
-      "The U.S. Power Grid",
-      "https://nomagicpill.site/knowledge/powergrid.html"
     ]
   ],
   [
