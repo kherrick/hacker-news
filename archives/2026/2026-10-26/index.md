@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
+* [2026-10-26, 17:23:11](https://news.ycombinator.com/item?id=50247453) - [The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)
 * [2026-10-26, 16:35:44](https://news.ycombinator.com/item?id=50246658) - [Concerning behavior from a popular open-weight AI model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
 * [2026-10-26, 15:57:12](https://news.ycombinator.com/item?id=50245945) - [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
 * [2026-10-26, 15:51:23](https://news.ycombinator.com/item?id=50245831) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
@@ -15,6 +16,7 @@
 * [2026-10-26, 14:50:21](https://news.ycombinator.com/item?id=50244735) - [Everything](https://github.com/HeyPuter/everything)
 * [2026-10-26, 14:42:24](https://news.ycombinator.com/item?id=50244583) - [Partyline: A group voice application for Reticulum, built on LXST](https://github.com/RFnexus/partyline)
 * [2026-10-26, 14:32:11](https://news.ycombinator.com/item?id=50244410) - [AmiJa, a cycle-exact Amiga emulator written in Java](https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/)
+* [2026-10-26, 14:24:56](https://news.ycombinator.com/item?id=50244265) - [KibernetykMono – A Geometric Monospace Typeface](https://pavlokilko.github.io/KibernetykMono/)
 * [2026-10-26, 14:17:51](https://news.ycombinator.com/item?id=50244144) - [Vegemite is not a human right](https://www.cnn.com/2026/10/26/australia/prisoner-vegemite-rejected-judge-scli-intl)
 * [2026-10-26, 13:54:44](https://news.ycombinator.com/item?id=50243762) - [DOJ says presidents should be able to sell secrets on eBay](https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/)
 * [2026-10-26, 13:47:33](https://news.ycombinator.com/item?id=50243646) - [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini)
