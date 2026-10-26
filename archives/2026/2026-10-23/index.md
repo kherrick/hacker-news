@@ -53,6 +53,7 @@
 * [2026-10-23, 14:43:02](https://news.ycombinator.com/item?id=50209907) - [Gemma-4-26B-A4B with 39-69% less thinking at same accuracy](https://bottlecapai.com/post/thinkingcap-gemma-4-26b/)
 * [2026-10-23, 14:07:42](https://news.ycombinator.com/item?id=50209278) - [Growing Trees](https://brashandplucky.com/2026/10/15/growing-trees.html)
 * [2026-10-23, 13:41:10](https://news.ycombinator.com/item?id=50208837) - [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
+* [2026-10-23, 13:35:42](https://news.ycombinator.com/item?id=50208763) - [Vazhaipoo Vadai – Banana Flower Recipe](https://www.vegrecipesofindia.com/banana-flower-vada-recipe/)
 * [2026-10-23, 13:25:12](https://news.ycombinator.com/item?id=50208628) - [Reverse engineering a Beyblade launch tracker](https://blog.simone.computer/reverse-beyblade-launch-tracker)
 * [2026-10-23, 13:19:42](https://news.ycombinator.com/item?id=50208558) - [Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/?)
 * [2026-10-23, 13:02:23](https://news.ycombinator.com/item?id=50208343) - [Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter)
