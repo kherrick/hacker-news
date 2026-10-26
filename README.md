@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-26, 06:11:52](https://news.ycombinator.com/item?id=50239748) - [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
 * [2026-10-26, 04:11:40](https://news.ycombinator.com/item?id=50239027) - [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism)
 * [2026-10-26, 03:31:11](https://news.ycombinator.com/item?id=50238763) - [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 * [2026-10-26, 03:29:05](https://news.ycombinator.com/item?id=50238739) - [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
@@ -24,7 +25,6 @@
 * [2026-10-24, 14:09:20](https://news.ycombinator.com/item?id=50221394) - [The Curse of Soldered RAM](https://blog.hardill.me.uk/2026/10/24/the-curse-of-soldered-ram/)
 * [2026-10-24, 05:49:57](https://news.ycombinator.com/item?id=50218633) - [Root shell on Samsung TV](https://twitter.com/log4j/status/2113014142600953868?s=46)
 * [2026-10-23, 18:46:00](https://news.ycombinator.com/item?id=50213610) - [Making the Buddha Head from Merv Whole Again](https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/)
-* [2026-10-23, 15:29:32](https://news.ycombinator.com/item?id=50210696) - [Who Cares Whether Academics Use AI to Write?](https://www.chronicle.com/article/who-cares-whether-academics-use-ai-to-write)
 * [2026-10-23, 14:07:42](https://news.ycombinator.com/item?id=50209278) - [Growing Trees](https://brashandplucky.com/2026/10/15/growing-trees.html)
 * [2026-10-22, 21:00:14](https://news.ycombinator.com/item?id=50200957) - [Iron Age salt-mining complex found beneath Hallstatt in Austria](https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/)
 * [2026-10-22, 18:25:40](https://news.ycombinator.com/item?id=50199199) - [Retired decorator's Pokémon cards sell for £1.5M](https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo)
