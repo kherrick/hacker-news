@@ -3,6 +3,7 @@
 * [2026-10-26, 21:35:28](https://news.ycombinator.com/item?id=50251344) - [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 * [2026-10-26, 21:18:05](https://news.ycombinator.com/item?id=50251127) - [CorridorKey 2.0](https://corridorkey.com/)
 * [2026-10-26, 21:05:15](https://news.ycombinator.com/item?id=50250937) - [Microsoft offers voluntary buyouts to a quarter of its workforce](https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce)
+* [2026-10-26, 19:52:05](https://news.ycombinator.com/item?id=50249947) - [Init – a Rust agent harness that recompiles and hot-swaps its own core mid-task](https://initlabs.si/)
 * [2026-10-26, 19:37:59](https://news.ycombinator.com/item?id=50249738) - [Magic state cultivation on a superconducting quantum processor](https://arxiv.org/abs/2512.13908)
 * [2026-10-26, 19:05:41](https://news.ycombinator.com/item?id=50249275) - [The EPA Is Quietly Killing Its Web Archive](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
 * [2026-10-26, 18:31:39](https://news.ycombinator.com/item?id=50248665) - [US designates helium as a critical material](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
@@ -27,7 +28,6 @@
 * [2026-10-23, 20:35:40](https://news.ycombinator.com/item?id=50214967) - [World Wars I and II Military Aviation Museum Collection](https://www.militaryaviationmuseum.org/our-collection/)
 * [2026-10-23, 18:38:13](https://news.ycombinator.com/item?id=50213502) - [Native Prometheus Integration with Nginx](https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/)
 * [2026-10-23, 17:46:33](https://news.ycombinator.com/item?id=50212764) - [Who killed the EV cert? A browser whodunit for Halloween](https://qwac.com/blog/who-killed-the-ev-cert)
-* [2026-10-23, 16:41:41](https://news.ycombinator.com/item?id=50211780) - [Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera](https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/)
 * [2026-10-23, 14:20:15](https://news.ycombinator.com/item?id=50209525) - [Diamond Transistor](https://www.df.com/diamond-transistor)
 * [2026-10-22, 19:52:50](https://news.ycombinator.com/item?id=50200152) - [Blaise Pascal invented fixed route public transport (2024)](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
 
