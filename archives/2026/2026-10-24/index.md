@@ -36,6 +36,7 @@
 * [2026-10-24, 15:35:17](https://news.ycombinator.com/item?id=50222283) - [Oai-math-revised: a community hub for revising OpenAI's math write-ups](https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/)
 * [2026-10-24, 15:20:01](https://news.ycombinator.com/item?id=50222133) - [FreeDNS](https://freedns.afraid.org/)
 * [2026-10-24, 14:38:34](https://news.ycombinator.com/item?id=50221676) - [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/)
+* [2026-10-24, 14:09:20](https://news.ycombinator.com/item?id=50221394) - [The Curse of Soldered RAM](https://blog.hardill.me.uk/2026/10/24/the-curse-of-soldered-ram/)
 * [2026-10-24, 13:47:07](https://news.ycombinator.com/item?id=50221179) - [One Must Fall 2097 Remastered](https://github.com/Jared-woodruff/OMF-2097-Remastered/)
 * [2026-10-24, 13:09:28](https://news.ycombinator.com/item?id=50220913) - [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
 * [2026-10-24, 13:06:41](https://news.ycombinator.com/item?id=50220891) - [I DO Understand Relativity](https://www.southampton.ac.uk/~doug/relativity/index.html)
