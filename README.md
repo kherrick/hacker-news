@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-26, 19:05:41](https://news.ycombinator.com/item?id=50249275) - [The EPA Is Quietly Killing Its Web Archive](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
+* [2026-10-26, 18:56:03](https://news.ycombinator.com/item?id=50249116) - [Skydance offers buyouts, orders return to office](https://variety.com/2026/film/news/skydance-voluntary-buyouts-layoffs-5-days-per-week-in-office-policy-1236931402/)
 * [2026-10-26, 18:31:39](https://news.ycombinator.com/item?id=50248665) - [US designates helium as a critical material](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
 * [2026-10-26, 18:14:49](https://news.ycombinator.com/item?id=50248371) - [Microsoft Announces Type Server Protocol, Extension of Language Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
 * [2026-10-26, 18:01:17](https://news.ycombinator.com/item?id=50248124) - [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)
@@ -19,7 +20,6 @@
 * [2026-10-26, 13:04:50](https://news.ycombinator.com/item?id=50242939) - [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
 * [2026-10-26, 12:59:48](https://news.ycombinator.com/item?id=50242870) - [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
 * [2026-10-26, 11:15:50](https://news.ycombinator.com/item?id=50241925) - [Pharo 14](https://pharo.org/news/2026-10-26-Pharo14Release.html)
-* [2026-10-26, 10:32:14](https://news.ycombinator.com/item?id=50241664) - [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
 * [2026-10-26, 08:46:09](https://news.ycombinator.com/item?id=50240922) - [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
 * [2026-10-25, 22:29:47](https://news.ycombinator.com/item?id=50236681) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
 * [2026-10-24, 16:27:18](https://news.ycombinator.com/item?id=50222794) - [An incremental approach to JIT construction](https://dl.acm.org/doi/10.1145/3830440.3832304)
