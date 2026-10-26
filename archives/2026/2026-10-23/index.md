@@ -28,6 +28,7 @@
 * [2026-10-23, 18:54:01](https://news.ycombinator.com/item?id=50213717) - [Caffeine-like utility to keep you MacBook awake with its lid closed](https://github.com/clashman/caffeinate-plus)
 * [2026-10-23, 18:46:00](https://news.ycombinator.com/item?id=50213610) - [Making the Buddha Head from Merv Whole Again](https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/)
 * [2026-10-23, 18:24:54](https://news.ycombinator.com/item?id=50213337) - [Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line](https://artificialanalysis.ai/models/kimi-k3-1-pro)
+* [2026-10-23, 17:46:33](https://news.ycombinator.com/item?id=50212764) - [Who killed the EV cert? A browser whodunit for Halloween](https://qwac.com/blog/who-killed-the-ev-cert)
 * [2026-10-23, 17:40:22](https://news.ycombinator.com/item?id=50212668) - [I turned my TV into a Game Boy Color with a Pokemon town as my home screen](https://twitter.com/robbietilton/status/2111936458923851923)
 * [2026-10-23, 17:28:36](https://news.ycombinator.com/item?id=50212507) - [Air Purifiers as White Noise Machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
 * [2026-10-23, 17:15:03](https://news.ycombinator.com/item?id=50212320) - [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/)
