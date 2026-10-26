@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-10-26, 22:27:17",
-      "https://news.ycombinator.com/item?id=50252008"
-    ],
-    [
-      "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
-      "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it"
-    ]
-  ],
-  [
-    [
       "2026-10-26, 21:59:15",
       "https://news.ycombinator.com/item?id=50251661"
     ],
@@ -237,6 +227,16 @@
     [
       "SIMD-accelerated computer vision on a $2 microcontroller",
       "https://shraiwi.com/blog/simd-fast-esp32s3/"
+    ]
+  ],
+  [
+    [
+      "2026-10-25, 12:53:47",
+      "https://news.ycombinator.com/item?id=50231041"
+    ],
+    [
+      "LISPy things you can do in 64K bytes of core",
+      "https://t3x.org/lisp64k/index.html"
     ]
   ],
   [
