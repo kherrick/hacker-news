@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
+* [2026-10-26, 03:23:57](https://news.ycombinator.com/item?id=50238708) - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+* [2026-10-26, 03:04:08](https://news.ycombinator.com/item?id=50238557) - [Brazil elections: Lula secures fourth term after dramatic comeback](https://www.bbc.com/news/articles/cmvg7p001qj9o)
+* [2026-10-26, 02:22:38](https://news.ycombinator.com/item?id=50238351) - [If AI displaces human workers, they will lose more than just pay](https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay)
 * [2026-10-26, 01:47:46](https://news.ycombinator.com/item?id=50238088) - [IBM CEO says open weight models are now irresistibly good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)
 * [2026-10-26, 01:23:24](https://news.ycombinator.com/item?id=50237896) - [iPhone Duo Teardown](https://www.ifixit.com/News/119895/iphone-duo-teardown)
 * [2026-10-26, 01:03:39](https://news.ycombinator.com/item?id=50237712) - [Removing Next.js Got My Blog to 100 on Every Lighthouse Category](https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category)
