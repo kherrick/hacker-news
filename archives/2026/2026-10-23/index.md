@@ -38,6 +38,7 @@
 * [2026-10-23, 16:59:46](https://news.ycombinator.com/item?id=50212079) - [AI Is Not a Tool](https://write.as/4tezac6y61b78)
 * [2026-10-23, 16:59:08](https://news.ycombinator.com/item?id=50212065) - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.com/code/docs/en/kimi-code/models.html)
 * [2026-10-23, 16:59:08](https://news.ycombinator.com/item?id=50212065) - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
+* [2026-10-23, 16:41:41](https://news.ycombinator.com/item?id=50211780) - [Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera](https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/)
 * [2026-10-23, 16:39:45](https://news.ycombinator.com/item?id=50211746) - [UUIDv7 doesn't have the properties you think it does](https://alexsci.com/blog/uuidv7-is-weird/)
 * [2026-10-23, 16:38:35](https://news.ycombinator.com/item?id=50211729) - [The Missed Opportunities of Sonic 06](https://isaacmarovitz.com/posts/sonic-06/)
 * [2026-10-23, 16:38:17](https://news.ycombinator.com/item?id=50211719) - [How Is Music Possible](https://www.henrikkarlsson.xyz/p/music)
