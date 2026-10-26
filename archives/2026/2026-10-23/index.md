@@ -12,6 +12,7 @@
 * [2026-10-23, 21:21:47](https://news.ycombinator.com/item?id=50215530) - [CVE Tracker](https://cve.0xosprey.com/)
 * [2026-10-23, 20:38:06](https://news.ycombinator.com/item?id=50214994) - [No Source Code? No Problem](https://queue.acm.org/doi/10.1145/945131.945155)
 * [2026-10-23, 20:37:12](https://news.ycombinator.com/item?id=50214983) - [A whirlwind tour of systemd-nspawn containers](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
+* [2026-10-23, 20:35:40](https://news.ycombinator.com/item?id=50214967) - [World Wars I and II Military Aviation Museum Collection](https://www.militaryaviationmuseum.org/our-collection/)
 * [2026-10-23, 20:15:27](https://news.ycombinator.com/item?id=50214701) - [Kimi K3.1 Pro puts open-source AI a month behind the best](https://www.modelcompare.ai/blog/china-open-source-ai)
 * [2026-10-23, 20:05:30](https://news.ycombinator.com/item?id=50214568) - [Why Do AI Models Tell Left-Wing Voters to Support the Communist Party?](https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks)
 * [2026-10-23, 19:53:55](https://news.ycombinator.com/item?id=50214447) - [Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left](https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left)
