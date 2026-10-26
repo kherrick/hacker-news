@@ -8,6 +8,7 @@
 * [2026-10-26, 18:31:39](https://news.ycombinator.com/item?id=50248665) - [US designates helium as a critical material – AP News](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
 * [2026-10-26, 18:14:49](https://news.ycombinator.com/item?id=50248371) - [Microsoft Announces Type Server Protocol, Extension of Language Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
 * [2026-10-26, 18:01:17](https://news.ycombinator.com/item?id=50248124) - [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)
+* [2026-10-26, 17:58:24](https://news.ycombinator.com/item?id=50248075) - [GPT 6.1 Terra](https://developers.openai.com/api/docs/models/gpt-6.1-terra)
 * [2026-10-26, 17:57:29](https://news.ycombinator.com/item?id=50248061) - [Meta Employees Denounce Interference in Brazilian Elections](https://www.panamericandispatch.org/p/meta-employees-denounce-interference)
 * [2026-10-26, 17:56:55](https://news.ycombinator.com/item?id=50248055) - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
 * [2026-10-26, 17:54:00](https://news.ycombinator.com/item?id=50248005) - [In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real](https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/)
