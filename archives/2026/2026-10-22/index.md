@@ -22,6 +22,7 @@
 * [2026-10-22, 21:00:14](https://news.ycombinator.com/item?id=50200957) - [Iron Age salt-mining complex found beneath Hallstatt in Austria](https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/)
 * [2026-10-22, 20:59:38](https://news.ycombinator.com/item?id=50200947) - [Arc is being sunset on December 22, 2026](https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes)
 * [2026-10-22, 19:54:04](https://news.ycombinator.com/item?id=50200164) - [The HTML-in-Canvas API origin trial](https://developer.chrome.com/blog/html-in-canvas-origin-trial)
+* [2026-10-22, 19:52:50](https://news.ycombinator.com/item?id=50200152) - [One of the Greatest Inventions in the History of Human Transport](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
 * [2026-10-22, 19:14:01](https://news.ycombinator.com/item?id=50199757) - [eMudhra logins can be bruteforced](https://mastodon.catgirl.cloud/@49016/117475976434068995)
 * [2026-10-22, 19:08:09](https://news.ycombinator.com/item?id=50199684) - [LISP Comes of Age (1980)](https://microship.com/lisp-comes-of-age/)
 * [2026-10-22, 18:44:36](https://news.ycombinator.com/item?id=50199389) - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
