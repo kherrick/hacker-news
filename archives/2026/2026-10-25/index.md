@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-25](index.md)
 
+* [2026-10-25, 23:27:30](https://news.ycombinator.com/item?id=50237078) - [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)
 * [2026-10-25, 22:49:06](https://news.ycombinator.com/item?id=50236828) - [Apollo says AI has delivered 'zero financial payoff' outside the tech industry](https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10)
 * [2026-10-25, 22:39:42](https://news.ycombinator.com/item?id=50236748) - [Proton Flock Camera Map](https://proton.me/flock-camera-map)
 * [2026-10-25, 22:02:33](https://news.ycombinator.com/item?id=50236455) - [Europe's summer heat wave killed more han 50k people in urban areas](https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas)
