@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
+* [2026-10-26, 16:35:44](https://news.ycombinator.com/item?id=50246658) - [Concerning behavior from a popular open-weight AI model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
 * [2026-10-26, 15:57:12](https://news.ycombinator.com/item?id=50245945) - [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
 * [2026-10-26, 15:51:23](https://news.ycombinator.com/item?id=50245831) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
 * [2026-10-26, 15:35:12](https://news.ycombinator.com/item?id=50245524) - [Microsoft offers mass buyouts for roughly a quarter of its workforce](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/)
