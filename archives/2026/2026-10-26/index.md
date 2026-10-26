@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
+* [2026-10-26, 14:17:51](https://news.ycombinator.com/item?id=50244144) - [Vegemite is not a human right](https://www.cnn.com/2026/10/26/australia/prisoner-vegemite-rejected-judge-scli-intl)
+* [2026-10-26, 13:47:33](https://news.ycombinator.com/item?id=50243646) - [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini)
+* [2026-10-26, 13:13:36](https://news.ycombinator.com/item?id=50243061) - [The new iPad mini](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/)
+* [2026-10-26, 13:04:50](https://news.ycombinator.com/item?id=50242939) - [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
+* [2026-10-26, 12:59:48](https://news.ycombinator.com/item?id=50242870) - [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
+* [2026-10-26, 12:58:27](https://news.ycombinator.com/item?id=50242843) - [Brown student maps the hidden global labor powering AI](https://www.brown.edu/news/2026-10-26/ai-data-workers)
+* [2026-10-26, 12:32:15](https://news.ycombinator.com/item?id=50242555) - [Writing Is Closer to Thought Than Code](https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code)
+* [2026-10-26, 11:15:50](https://news.ycombinator.com/item?id=50241925) - [Pharo 14](https://pharo.org/news/2026-10-26-Pharo14Release.html)
 * [2026-10-26, 11:15:43](https://news.ycombinator.com/item?id=50241924) - [Tasks as Code: Move Your Tickets into the Repository](https://typemill.net/knowledge-hub/tasks-as-code)
 * [2026-10-26, 10:32:14](https://news.ycombinator.com/item?id=50241664) - [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
 * [2026-10-26, 08:46:09](https://news.ycombinator.com/item?id=50240922) - [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
