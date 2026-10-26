@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-26, 21:35:28](https://news.ycombinator.com/item?id=50251344) - [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
+* [2026-10-26, 21:18:05](https://news.ycombinator.com/item?id=50251127) - [CorridorKey 2.0](https://corridorkey.com/)
 * [2026-10-26, 21:05:15](https://news.ycombinator.com/item?id=50250937) - [Microsoft offers voluntary buyouts to a quarter of its workforce](https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce)
 * [2026-10-26, 19:37:59](https://news.ycombinator.com/item?id=50249738) - [Magic state cultivation on a superconducting quantum processor](https://arxiv.org/abs/2512.13908)
 * [2026-10-26, 19:05:41](https://news.ycombinator.com/item?id=50249275) - [The EPA Is Quietly Killing Its Web Archive](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
@@ -22,7 +23,6 @@
 * [2026-10-26, 08:46:09](https://news.ycombinator.com/item?id=50240922) - [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
 * [2026-10-25, 23:18:42](https://news.ycombinator.com/item?id=50237019) - [Show HN: Glider 4.0 Unofficial Web Edition (Mac game port)](https://dbohdan.github.io/glider/)
 * [2026-10-25, 22:29:47](https://news.ycombinator.com/item?id=50236681) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
-* [2026-10-24, 16:27:18](https://news.ycombinator.com/item?id=50222794) - [An incremental approach to JIT construction](https://dl.acm.org/doi/10.1145/3830440.3832304)
 * [2026-10-23, 22:04:55](https://news.ycombinator.com/item?id=50215997) - [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
 * [2026-10-23, 20:35:40](https://news.ycombinator.com/item?id=50214967) - [World Wars I and II Military Aviation Museum Collection](https://www.militaryaviationmuseum.org/our-collection/)
 * [2026-10-23, 18:38:13](https://news.ycombinator.com/item?id=50213502) - [Native Prometheus Integration with Nginx](https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/)

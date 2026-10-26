@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
 * [2026-10-26, 21:35:28](https://news.ycombinator.com/item?id=50251344) - [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
+* [2026-10-26, 21:18:05](https://news.ycombinator.com/item?id=50251127) - [CorridorKey 2.0](https://corridorkey.com/)
 * [2026-10-26, 21:05:15](https://news.ycombinator.com/item?id=50250937) - [Microsoft offers voluntary buyouts to a quarter of its workforce](https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce)
 * [2026-10-26, 19:57:32](https://news.ycombinator.com/item?id=50250016) - [Somebody please stop the spam texts](https://notes.npilk.com/stop-the-spam-texts)
 * [2026-10-26, 19:37:59](https://news.ycombinator.com/item?id=50249738) - [Magic state cultivation on a superconducting quantum processor](https://arxiv.org/abs/2512.13908)
