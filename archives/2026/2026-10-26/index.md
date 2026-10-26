@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
 * [2026-10-26, 22:41:48](https://news.ycombinator.com/item?id=50252159) - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+* [2026-10-26, 22:27:17](https://news.ycombinator.com/item?id=50252008) - [Is PHP Running on Your ColdFusion Server? How to Check, and Remove It](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
+* [2026-10-26, 21:59:15](https://news.ycombinator.com/item?id=50251661) - [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
 * [2026-10-26, 21:35:28](https://news.ycombinator.com/item?id=50251344) - [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 * [2026-10-26, 21:18:05](https://news.ycombinator.com/item?id=50251127) - [CorridorKey 2.0](https://corridorkey.com/)
 * [2026-10-26, 21:05:15](https://news.ycombinator.com/item?id=50250937) - [Microsoft offers voluntary buyouts to a quarter of its workforce](https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce)
