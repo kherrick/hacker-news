@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-26, 22:41:48",
+      "https://news.ycombinator.com/item?id=50252159"
+    ],
+    [
+      "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
+    ]
+  ],
+  [
+    [
       "2026-10-26, 21:35:28",
       "https://news.ycombinator.com/item?id=50251344"
     ],
@@ -97,16 +107,6 @@
     [
       "A Man from the Future: Why Johnny Can't Stop Abstracting",
       "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-26, 17:32:16",
-      "https://news.ycombinator.com/item?id=50247630"
-    ],
-    [
-      "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
-      "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-10-24, 16:27:18",
-      "https://news.ycombinator.com/item?id=50222794"
-    ],
-    [
-      "An incremental approach to JIT construction",
-      "https://dl.acm.org/doi/10.1145/3830440.3832304"
-    ]
-  ],
-  [
-    [
       "2026-10-23, 22:04:55",
       "https://news.ycombinator.com/item?id=50215997"
     ],
@@ -287,6 +277,16 @@
     [
       "Diamond Transistor",
       "https://www.df.com/diamond-transistor"
+    ]
+  ],
+  [
+    [
+      "2026-10-23, 05:01:30",
+      "https://news.ycombinator.com/item?id=50204697"
+    ],
+    [
+      "A Printer Printing onto Paper",
+      "https://twitter.com/macrofying/status/2112904628509528219"
     ]
   ],
   [
