@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-26, 19:57:32](https://news.ycombinator.com/item?id=50250016) - [Somebody please stop the spam texts](https://notes.npilk.com/stop-the-spam-texts)
 * [2026-10-26, 19:05:41](https://news.ycombinator.com/item?id=50249275) - [The EPA Is Quietly Killing Its Web Archive](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
 * [2026-10-26, 18:56:03](https://news.ycombinator.com/item?id=50249116) - [Skydance offers buyouts, orders return to office](https://variety.com/2026/film/news/skydance-voluntary-buyouts-layoffs-5-days-per-week-in-office-policy-1236931402/)
 * [2026-10-26, 18:31:39](https://news.ycombinator.com/item?id=50248665) - [US designates helium as a critical material](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
 * [2026-10-26, 18:14:49](https://news.ycombinator.com/item?id=50248371) - [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
 * [2026-10-26, 18:01:17](https://news.ycombinator.com/item?id=50248124) - [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)
-* [2026-10-26, 17:58:24](https://news.ycombinator.com/item?id=50248075) - [GPT 6.1 Terra](https://developers.openai.com/api/docs/models/gpt-6.1-terra)
 * [2026-10-26, 17:56:55](https://news.ycombinator.com/item?id=50248055) - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
 * [2026-10-26, 17:54:00](https://news.ycombinator.com/item?id=50248005) - [In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real](https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/)
 * [2026-10-26, 17:49:55](https://news.ycombinator.com/item?id=50247928) - [A Man from the Future: Why Johnny Can't Stop Abstracting](http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html)
