@@ -6,6 +6,7 @@
 
 * [2026-10-23, 23:30:17](https://news.ycombinator.com/item?id=50216791) - [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
 * [2026-10-23, 22:18:49](https://news.ycombinator.com/item?id=50216142) - [German court calls Google aerial imagery 'spying'](https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/)
+* [2026-10-23, 22:04:55](https://news.ycombinator.com/item?id=50215997) - [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
 * [2026-10-23, 22:03:40](https://news.ycombinator.com/item?id=50215983) - [Google will pay people to use less electricity so its data centers can use more](https://www.computerworld.com/article/4239858/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more.html)
 * [2026-10-23, 21:46:51](https://news.ycombinator.com/item?id=50215828) - [One Man's Pan Am 747 Replica [video]](https://www.youtube.com/watch?v=vAFwHGGfPz4)
 * [2026-10-23, 21:21:47](https://news.ycombinator.com/item?id=50215530) - [CVE Tracker](https://cve.0xosprey.com/)
