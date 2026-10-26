@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
+* [2026-10-26, 08:46:09](https://news.ycombinator.com/item?id=50240922) - [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
 * [2026-10-26, 06:11:52](https://news.ycombinator.com/item?id=50239748) - [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
 * [2026-10-26, 04:14:35](https://news.ycombinator.com/item?id=50239041) - [Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management](https://proc-cli.com/)
 * [2026-10-26, 04:11:40](https://news.ycombinator.com/item?id=50239027) - [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism)
