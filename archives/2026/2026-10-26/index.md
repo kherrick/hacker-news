@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
+* [2026-10-26, 14:50:50](https://news.ycombinator.com/item?id=50244744) - [Peta releases video showing experiments on infant monkeys at Univ of Washington](https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video)
+* [2026-10-26, 14:42:24](https://news.ycombinator.com/item?id=50244583) - [Partyline: A group voice application for Reticulum, built on LXST](https://github.com/RFnexus/partyline)
+* [2026-10-26, 14:32:11](https://news.ycombinator.com/item?id=50244410) - [AmiJa, a cycle-exact Amiga emulator written in Java](https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/)
 * [2026-10-26, 14:17:51](https://news.ycombinator.com/item?id=50244144) - [Vegemite is not a human right](https://www.cnn.com/2026/10/26/australia/prisoner-vegemite-rejected-judge-scli-intl)
+* [2026-10-26, 13:54:44](https://news.ycombinator.com/item?id=50243762) - [DOJ says presidents should be able to sell secrets on eBay](https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/)
 * [2026-10-26, 13:47:33](https://news.ycombinator.com/item?id=50243646) - [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini)
 * [2026-10-26, 13:13:36](https://news.ycombinator.com/item?id=50243061) - [The new iPad mini](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/)
 * [2026-10-26, 13:04:50](https://news.ycombinator.com/item?id=50242939) - [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)

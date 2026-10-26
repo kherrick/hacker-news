@@ -41,6 +41,7 @@
 * [2026-10-24, 13:09:28](https://news.ycombinator.com/item?id=50220913) - [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
 * [2026-10-24, 13:06:41](https://news.ycombinator.com/item?id=50220891) - [I DO Understand Relativity](https://www.southampton.ac.uk/~doug/relativity/index.html)
 * [2026-10-24, 12:14:34](https://news.ycombinator.com/item?id=50220540) - [I can't believe we're still arguing over whether X is for jerks](https://lexontech.org/i-cant-believe-were-still-arguing-over-whether-x-is-for-jerks)
+* [2026-10-24, 11:40:52](https://news.ycombinator.com/item?id=50220331) - [PhysicsForums and the Dead Internet Theory (2025)](https://hallofdreams.org/posts/physicsforums/)
 * [2026-10-24, 11:18:54](https://news.ycombinator.com/item?id=50220204) - [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
 * [2026-10-24, 11:08:47](https://news.ycombinator.com/item?id=50220145) - [Node.js Vulnerability Blog](https://nodejs.org/en/blog/vulnerability)
 * [2026-10-24, 10:51:35](https://news.ycombinator.com/item?id=50220042) - [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root)
