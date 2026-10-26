@@ -2,7 +2,6 @@
 
 * [2026-10-26, 08:46:09](https://news.ycombinator.com/item?id=50240922) - [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
 * [2026-10-26, 06:11:52](https://news.ycombinator.com/item?id=50239748) - [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
-* [2026-10-26, 04:14:35](https://news.ycombinator.com/item?id=50239041) - [Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management](https://proc-cli.com/)
 * [2026-10-26, 03:31:11](https://news.ycombinator.com/item?id=50238763) - [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 * [2026-10-26, 03:29:05](https://news.ycombinator.com/item?id=50238739) - [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
 * [2026-10-26, 03:23:57](https://news.ycombinator.com/item?id=50238708) - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
@@ -18,6 +17,7 @@
 * [2026-10-25, 19:11:31](https://news.ycombinator.com/item?id=50235017) - [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
 * [2026-10-25, 18:58:14](https://news.ycombinator.com/item?id=50234879) - [Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/)
 * [2026-10-25, 18:23:54](https://news.ycombinator.com/item?id=50234474) - [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
+* [2026-10-25, 17:30:55](https://news.ycombinator.com/item?id=50233929) - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
 * [2026-10-25, 17:15:38](https://news.ycombinator.com/item?id=50233779) - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
 * [2026-10-25, 13:09:16](https://news.ycombinator.com/item?id=50231166) - [Active incident at Dreamhost forcing password reset](https://www.dreamhoststatus.com/)
 * [2026-10-25, 03:47:56](https://news.ycombinator.com/item?id=50228115) - [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)
