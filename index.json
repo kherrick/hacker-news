@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2026-10-26, 21:05:15",
-      "https://news.ycombinator.com/item?id=50250937"
-    ],
-    [
-      "Microsoft offers voluntary buyouts to a quarter of its workforce",
-      "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce"
-    ]
-  ],
-  [
-    [
-      "2026-10-26, 19:52:05",
-      "https://news.ycombinator.com/item?id=50249947"
-    ],
-    [
-      "Init – a Rust agent harness that recompiles and hot-swaps its own core mid-task",
-      "https://initlabs.si/"
-    ]
-  ],
-  [
-    [
       "2026-10-26, 19:37:59",
       "https://news.ycombinator.com/item?id=50249738"
     ],
@@ -117,6 +97,16 @@
     [
       "A Man from the Future: Why Johnny Can't Stop Abstracting",
       "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 17:32:16",
+      "https://news.ycombinator.com/item?id=50247630"
+    ],
+    [
+      "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+      "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "SIMD-accelerated computer vision on a $2 microcontroller",
       "https://shraiwi.com/blog/simd-fast-esp32s3/"
+    ]
+  ],
+  [
+    [
+      "2026-10-24, 16:27:18",
+      "https://news.ycombinator.com/item?id=50222794"
+    ],
+    [
+      "An incremental approach to JIT construction",
+      "https://dl.acm.org/doi/10.1145/3830440.3832304"
     ]
   ],
   [
