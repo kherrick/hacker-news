@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
+* [2026-10-26, 18:14:49](https://news.ycombinator.com/item?id=50248371) - [Microsoft Announces Type Server Protocol, Extension of Language Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
+* [2026-10-26, 18:01:17](https://news.ycombinator.com/item?id=50248124) - [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)
+* [2026-10-26, 17:57:29](https://news.ycombinator.com/item?id=50248061) - [Meta Employees Denounce Interference in Brazilian Elections](https://www.panamericandispatch.org/p/meta-employees-denounce-interference)
+* [2026-10-26, 17:56:55](https://news.ycombinator.com/item?id=50248055) - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
 * [2026-10-26, 17:32:16](https://news.ycombinator.com/item?id=50247630) - [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
+* [2026-10-26, 17:28:26](https://news.ycombinator.com/item?id=50247559) - [Should Police Wipe a Criminal's Cellphone Before Returning It?–U.S. vs. Stathas](https://blog.ericgoldman.org/archives/2026/10/should-police-wipe-a-criminals-cellphone-before-returning-it-u-s-v-stathas.htm)
 * [2026-10-26, 17:25:30](https://news.ycombinator.com/item?id=50247493) - [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
 * [2026-10-26, 17:23:11](https://news.ycombinator.com/item?id=50247453) - [The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)
 * [2026-10-26, 16:35:44](https://news.ycombinator.com/item?id=50246658) - [Concerning behavior from a popular open-weight AI model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
