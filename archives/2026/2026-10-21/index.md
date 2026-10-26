@@ -68,6 +68,7 @@
 * [2026-10-21, 13:43:19](https://news.ycombinator.com/item?id=50180836) - [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce)
 * [2026-10-21, 13:40:31](https://news.ycombinator.com/item?id=50180799) - [I reverse engineered a board game](https://wuemeli.com/blog/reversing-hitster-game/)
 * [2026-10-21, 13:37:00](https://news.ycombinator.com/item?id=50180752) - [OpenAI: Using AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data/)
+* [2026-10-21, 13:28:54](https://news.ycombinator.com/item?id=50180612) - [Chip Builder is a puzzle and strategy game that teaches you chip design](https://chipbuilder.org/)
 * [2026-10-21, 13:22:31](https://news.ycombinator.com/item?id=50180518) - [Global warming will breach 1.5°C – but deep, fast cuts can still bring it back](https://news.un.org/en/story/2026/10/1168634)
 * [2026-10-21, 13:17:33](https://news.ycombinator.com/item?id=50180444) - [Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)
 * [2026-10-21, 13:04:25](https://news.ycombinator.com/item?id=50180257) - [Show HN: Uberblok – an interactive museum of ZFS internals](https://uberblok.storagebits.workers.dev/)

@@ -17,7 +17,6 @@
 * [2026-10-25, 17:30:55](https://news.ycombinator.com/item?id=50233929) - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
 * [2026-10-25, 17:15:38](https://news.ycombinator.com/item?id=50233779) - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
 * [2026-10-25, 16:40:37](https://news.ycombinator.com/item?id=50233438) - [UTS #39: Unicode Security Mechanisms](https://unicode.org/reports/tr39/)
-* [2026-10-25, 16:28:26](https://news.ycombinator.com/item?id=50233304) - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
 * [2026-10-25, 16:27:12](https://news.ycombinator.com/item?id=50233294) - [JetBrains Thinkrail](https://github.com/JetBrains/thinkrail)
 * [2026-10-25, 13:09:16](https://news.ycombinator.com/item?id=50231166) - [Active incident at Dreamhost forcing password reset](https://www.dreamhoststatus.com/)
 * [2026-10-25, 01:30:13](https://news.ycombinator.com/item?id=50227330) - [Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English](https://huggingface.co/destined/hurston-1)
@@ -30,6 +29,7 @@
 * [2026-10-22, 15:52:21](https://news.ycombinator.com/item?id=50197108) - [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
 * [2026-10-22, 15:20:04](https://news.ycombinator.com/item?id=50196623) - [The U.S. Power Grid](https://nomagicpill.site/knowledge/powergrid.html)
 * [2026-10-21, 18:37:48](https://news.ycombinator.com/item?id=50185534) - [Amazon's \"digital pacifier\" for toddlers](https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers)
+* [2026-10-21, 13:28:54](https://news.ycombinator.com/item?id=50180612) - [Chip Builder is a puzzle and strategy game that teaches you chip design](https://chipbuilder.org/)
 
 ## [Archives](archives/index.md)
 
