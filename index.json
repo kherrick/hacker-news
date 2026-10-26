@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-26, 03:31:11",
+      "https://news.ycombinator.com/item?id=50238763"
+    ],
+    [
+      "Behind the scenes at the NeXT Computer office",
+      "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 03:29:05",
+      "https://news.ycombinator.com/item?id=50238739"
+    ],
+    [
+      "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "https://github.com/KrushnaVardhanReddy/PaperPilot"
+    ]
+  ],
+  [
+    [
       "2026-10-26, 03:23:57",
       "https://news.ycombinator.com/item?id=50238708"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2026-10-24, 05:49:57",
-      "https://news.ycombinator.com/item?id=50218633"
-    ],
-    [
-      "Root shell on Samsung TV",
-      "https://twitter.com/log4j/status/2113014142600953868?s=46"
-    ]
-  ],
-  [
-    [
       "2026-10-23, 18:46:00",
       "https://news.ycombinator.com/item?id=50213610"
     ],
     [
       "Making the Buddha Head from Merv Whole Again",
       "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/"
-    ]
-  ],
-  [
-    [
-      "2026-10-23, 13:25:12",
-      "https://news.ycombinator.com/item?id=50208628"
-    ],
-    [
-      "Reverse engineering a Beyblade launch tracker",
-      "https://blog.simone.computer/reverse-beyblade-launch-tracker"
     ]
   ],
   [
