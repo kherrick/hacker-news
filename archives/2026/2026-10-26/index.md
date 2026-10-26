@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
+* [2026-10-26, 03:51:10](https://news.ycombinator.com/item?id=50238884) - [US Wages Share of GDI at 75 Year Low](https://fred.stlouisfed.org/series/W270RE1A156NBEA)
 * [2026-10-26, 03:31:11](https://news.ycombinator.com/item?id=50238763) - [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 * [2026-10-26, 03:29:05](https://news.ycombinator.com/item?id=50238739) - [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
 * [2026-10-26, 03:23:57](https://news.ycombinator.com/item?id=50238708) - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+* [2026-10-26, 03:12:05](https://news.ycombinator.com/item?id=50238620) - [Microsoft Decision-1: 9B Qwen Model Launch Explained](https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/)
 * [2026-10-26, 03:04:08](https://news.ycombinator.com/item?id=50238557) - [Brazil elections: Lula secures fourth term after dramatic comeback](https://www.bbc.com/news/articles/cmvg7p001qj9o)
 * [2026-10-26, 02:22:38](https://news.ycombinator.com/item?id=50238351) - [If AI displaces human workers, they will lose more than just pay](https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay)
 * [2026-10-26, 01:47:46](https://news.ycombinator.com/item?id=50238088) - [IBM CEO says open weight models are now irresistibly good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)
