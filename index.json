@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-10-26, 21:18:05",
+      "https://news.ycombinator.com/item?id=50251127"
+    ],
+    [
+      "CorridorKey 2.0",
+      "https://corridorkey.com/"
+    ]
+  ],
+  [
+    [
       "2026-10-26, 21:05:15",
       "https://news.ycombinator.com/item?id=50250937"
     ],
@@ -217,16 +227,6 @@
     [
       "SIMD-accelerated computer vision on a $2 microcontroller",
       "https://shraiwi.com/blog/simd-fast-esp32s3/"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 16:27:18",
-      "https://news.ycombinator.com/item?id=50222794"
-    ],
-    [
-      "An incremental approach to JIT construction",
-      "https://dl.acm.org/doi/10.1145/3830440.3832304"
     ]
   ],
   [
