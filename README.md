@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-26, 06:11:52](https://news.ycombinator.com/item?id=50239748) - [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
-* [2026-10-26, 04:11:40](https://news.ycombinator.com/item?id=50239027) - [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism)
+* [2026-10-26, 04:14:35](https://news.ycombinator.com/item?id=50239041) - [Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management](https://proc-cli.com/)
 * [2026-10-26, 03:31:11](https://news.ycombinator.com/item?id=50238763) - [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 * [2026-10-26, 03:29:05](https://news.ycombinator.com/item?id=50238739) - [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
 * [2026-10-26, 03:23:57](https://news.ycombinator.com/item?id=50238708) - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
