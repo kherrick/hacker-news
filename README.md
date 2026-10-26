@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-26, 15:51:23](https://news.ycombinator.com/item?id=50245831) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
 * [2026-10-26, 15:35:12](https://news.ycombinator.com/item?id=50245524) - [Microsoft offers mass buyouts for roughly a quarter of its workforce](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/)
-* [2026-10-26, 15:26:17](https://news.ycombinator.com/item?id=50245385) - ['It's offensively cheap': Solar power is quietly becoming bigger than nuclear](https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear)
+* [2026-10-26, 15:22:59](https://news.ycombinator.com/item?id=50245322) - [NBA announces partnership with prediction markets Kalshi, Polymarket](https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/)
 * [2026-10-26, 15:11:59](https://news.ycombinator.com/item?id=50245138) - [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
 * [2026-10-26, 14:50:21](https://news.ycombinator.com/item?id=50244735) - [Everything](https://github.com/HeyPuter/everything)
 * [2026-10-26, 14:42:24](https://news.ycombinator.com/item?id=50244583) - [Partyline: A group voice application for Reticulum, built on LXST](https://github.com/RFnexus/partyline)
-* [2026-10-26, 14:32:11](https://news.ycombinator.com/item?id=50244410) - [AmiJa, a cycle-exact Amiga emulator written in Java](https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/)
 * [2026-10-26, 13:54:44](https://news.ycombinator.com/item?id=50243762) - [DOJ says presidents should be able to sell secrets on eBay](https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/)
 * [2026-10-26, 13:47:33](https://news.ycombinator.com/item?id=50243646) - [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini)
 * [2026-10-26, 13:13:36](https://news.ycombinator.com/item?id=50243061) - [The new iPad mini](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-26](index.md)
 
+* [2026-10-26, 15:51:23](https://news.ycombinator.com/item?id=50245831) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
 * [2026-10-26, 15:35:12](https://news.ycombinator.com/item?id=50245524) - [Microsoft offers mass buyouts for roughly a quarter of its workforce](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/)
 * [2026-10-26, 15:26:17](https://news.ycombinator.com/item?id=50245385) - ['It's offensively cheap': Solar power is quietly becoming bigger than nuclear](https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear)
+* [2026-10-26, 15:22:59](https://news.ycombinator.com/item?id=50245322) - [NBA announces partnership with prediction markets Kalshi, Polymarket](https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/)
 * [2026-10-26, 15:11:59](https://news.ycombinator.com/item?id=50245138) - [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
 * [2026-10-26, 14:50:50](https://news.ycombinator.com/item?id=50244744) - [Peta releases video showing experiments on infant monkeys at Univ of Washington](https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video)
 * [2026-10-26, 14:50:21](https://news.ycombinator.com/item?id=50244735) - [Everything](https://github.com/HeyPuter/everything)
