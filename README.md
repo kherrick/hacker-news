@@ -2,6 +2,7 @@
 
 * [2026-10-26, 01:47:46](https://news.ycombinator.com/item?id=50238088) - [IBM CEO says open weight models are now irresistibly good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)
 * [2026-10-26, 01:23:24](https://news.ycombinator.com/item?id=50237896) - [iPhone Duo Teardown](https://www.ifixit.com/News/119895/iphone-duo-teardown)
+* [2026-10-26, 01:03:39](https://news.ycombinator.com/item?id=50237712) - [Removing Next.js Got My Blog to 100 on Every Lighthouse Category](https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category)
 * [2026-10-26, 00:15:17](https://news.ycombinator.com/item?id=50237379) - [Steal My Bitcoin CTF PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
 * [2026-10-25, 23:52:05](https://news.ycombinator.com/item?id=50237224) - [Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428)
 * [2026-10-25, 23:27:30](https://news.ycombinator.com/item?id=50237078) - [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)
@@ -28,7 +29,6 @@
 * [2026-10-22, 21:00:14](https://news.ycombinator.com/item?id=50200957) - [Iron Age salt-mining complex found beneath Hallstatt in Austria](https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/)
 * [2026-10-22, 18:25:40](https://news.ycombinator.com/item?id=50199199) - [Retired decorator's Pokémon cards sell for £1.5M](https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo)
 * [2026-10-22, 15:52:21](https://news.ycombinator.com/item?id=50197108) - [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
-* [2026-10-22, 14:21:17](https://news.ycombinator.com/item?id=50195769) - [Recreate the Apollo Guidance Computer](https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/)
 * [2026-10-21, 18:37:48](https://news.ycombinator.com/item?id=50185534) - [Amazon's \"digital pacifier\" for toddlers](https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers)
 
 ## [Archives](archives/index.md)
