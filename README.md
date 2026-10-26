@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-26, 00:31:07](https://news.ycombinator.com/item?id=50237485) - [Lula wins election after final votes tallied](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
-* [2026-10-26, 00:23:29](https://news.ycombinator.com/item?id=50237426) - [Lula Wins Brazilian Election](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados)
+* [2026-10-25, 23:52:05](https://news.ycombinator.com/item?id=50237224) - [Attention Is Not What You Need](https://arxiv.org/abs/2512.19428)
 * [2026-10-25, 23:27:30](https://news.ycombinator.com/item?id=50237078) - [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)
 * [2026-10-25, 22:39:42](https://news.ycombinator.com/item?id=50236748) - [Proton Flock Camera Map](https://proton.me/flock-camera-map)
 * [2026-10-25, 21:11:31](https://news.ycombinator.com/item?id=50236102) - [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
