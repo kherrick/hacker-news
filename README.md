@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-26, 03:51:10](https://news.ycombinator.com/item?id=50238884) - [US Wages Share of GDI at 75 Year Low](https://fred.stlouisfed.org/series/W270RE1A156NBEA)
+* [2026-10-26, 04:14:35](https://news.ycombinator.com/item?id=50239041) - [Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management](https://proc-cli.com/)
 * [2026-10-26, 03:31:11](https://news.ycombinator.com/item?id=50238763) - [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 * [2026-10-26, 03:29:05](https://news.ycombinator.com/item?id=50238739) - [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
 * [2026-10-26, 03:23:57](https://news.ycombinator.com/item?id=50238708) - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
@@ -19,17 +19,17 @@
 * [2026-10-25, 18:58:14](https://news.ycombinator.com/item?id=50234879) - [Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/)
 * [2026-10-25, 18:23:54](https://news.ycombinator.com/item?id=50234474) - [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
 * [2026-10-25, 17:43:20](https://news.ycombinator.com/item?id=50234028) - [Learning to Be Me (1990) [pdf]](https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf)
-* [2026-10-25, 17:30:55](https://news.ycombinator.com/item?id=50233929) - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
 * [2026-10-25, 17:15:38](https://news.ycombinator.com/item?id=50233779) - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
 * [2026-10-25, 03:47:56](https://news.ycombinator.com/item?id=50228115) - [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)
 * [2026-10-25, 00:43:47](https://news.ycombinator.com/item?id=50227041) - [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems)
 * [2026-10-24, 21:47:31](https://news.ycombinator.com/item?id=50225695) - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
 * [2026-10-24, 06:03:30](https://news.ycombinator.com/item?id=50218693) - [The Fall of Scientific American](https://www.thenation.com/article/society/scientific-american-springer-nature-trump/)
 * [2026-10-23, 18:46:00](https://news.ycombinator.com/item?id=50213610) - [Making the Buddha Head from Merv Whole Again](https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/)
+* [2026-10-23, 15:29:32](https://news.ycombinator.com/item?id=50210696) - [Who Cares Whether Academics Use AI to Write?](https://www.chronicle.com/article/who-cares-whether-academics-use-ai-to-write)
 * [2026-10-22, 21:00:14](https://news.ycombinator.com/item?id=50200957) - [Iron Age salt-mining complex found beneath Hallstatt in Austria](https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/)
 * [2026-10-22, 18:25:40](https://news.ycombinator.com/item?id=50199199) - [Retired decorator's Pokémon cards sell for £1.5M](https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo)
 * [2026-10-22, 15:52:21](https://news.ycombinator.com/item?id=50197108) - [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
-* [2026-10-21, 18:37:48](https://news.ycombinator.com/item?id=50185534) - [Amazon's \"digital pacifier\" for toddlers](https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers)
+* [2026-10-21, 18:37:48](https://news.ycombinator.com/item?id=50185534) - [Amazon’s “digital pacifier” for toddlers](https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers)
 
 ## [Archives](archives/index.md)
 
