@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-26, 03:31:11](https://news.ycombinator.com/item?id=50238763) - [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
+* [2026-10-26, 03:29:05](https://news.ycombinator.com/item?id=50238739) - [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
 * [2026-10-26, 03:23:57](https://news.ycombinator.com/item?id=50238708) - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
 * [2026-10-26, 03:04:08](https://news.ycombinator.com/item?id=50238557) - [Brazil elections: Lula secures fourth term after dramatic comeback](https://www.bbc.com/news/articles/cmvg7p001qj9o)
 * [2026-10-26, 02:22:38](https://news.ycombinator.com/item?id=50238351) - [If AI displaces human workers, they will lose more than just pay](https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay)
@@ -23,9 +25,7 @@
 * [2026-10-25, 03:47:56](https://news.ycombinator.com/item?id=50228115) - [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)
 * [2026-10-25, 00:43:47](https://news.ycombinator.com/item?id=50227041) - [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems)
 * [2026-10-24, 21:47:31](https://news.ycombinator.com/item?id=50225695) - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
-* [2026-10-24, 05:49:57](https://news.ycombinator.com/item?id=50218633) - [Root shell on Samsung TV](https://twitter.com/log4j/status/2113014142600953868?s=46)
 * [2026-10-23, 18:46:00](https://news.ycombinator.com/item?id=50213610) - [Making the Buddha Head from Merv Whole Again](https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/)
-* [2026-10-23, 13:25:12](https://news.ycombinator.com/item?id=50208628) - [Reverse engineering a Beyblade launch tracker](https://blog.simone.computer/reverse-beyblade-launch-tracker)
 * [2026-10-22, 21:00:14](https://news.ycombinator.com/item?id=50200957) - [Iron Age salt-mining complex found beneath Hallstatt in Austria](https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/)
 * [2026-10-22, 18:25:40](https://news.ycombinator.com/item?id=50199199) - [Retired decorator's Pokémon cards sell for £1.5M](https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo)
 * [2026-10-22, 15:52:21](https://news.ycombinator.com/item?id=50197108) - [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
