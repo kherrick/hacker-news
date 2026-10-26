@@ -5,7 +5,6 @@
 * [2026-10-25, 23:27:30](https://news.ycombinator.com/item?id=50237078) - [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)
 * [2026-10-25, 22:39:42](https://news.ycombinator.com/item?id=50236748) - [Proton Flock Camera Map](https://proton.me/flock-camera-map)
 * [2026-10-25, 21:11:31](https://news.ycombinator.com/item?id=50236102) - [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
-* [2026-10-25, 21:08:28](https://news.ycombinator.com/item?id=50236081) - [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
 * [2026-10-25, 20:32:31](https://news.ycombinator.com/item?id=50235780) - [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
 * [2026-10-25, 20:27:09](https://news.ycombinator.com/item?id=50235738) - [What goes into making an animated film?](https://www.disneyanimation.com/process/)
 * [2026-10-25, 20:16:51](https://news.ycombinator.com/item?id=50235639) - [Focused Company Operating Principles](https://focused.io/operating-principles)
@@ -28,6 +27,7 @@
 * [2026-10-22, 18:25:40](https://news.ycombinator.com/item?id=50199199) - [Retired decorator's Pokémon cards sell for £1.5M](https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo)
 * [2026-10-22, 15:52:21](https://news.ycombinator.com/item?id=50197108) - [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
 * [2026-10-22, 15:20:04](https://news.ycombinator.com/item?id=50196623) - [The U.S. Power Grid](https://nomagicpill.site/knowledge/powergrid.html)
+* [2026-10-22, 14:21:17](https://news.ycombinator.com/item?id=50195769) - [Recreate the Apollo Guidance Computer](https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/)
 * [2026-10-21, 18:37:48](https://news.ycombinator.com/item?id=50185534) - [Amazon's \"digital pacifier\" for toddlers](https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers)
 * [2026-10-21, 13:28:54](https://news.ycombinator.com/item?id=50180612) - [Chip Builder is a puzzle and strategy game that teaches you chip design](https://chipbuilder.org/)
 
