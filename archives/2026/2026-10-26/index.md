@@ -8,6 +8,7 @@
 * [2026-10-26, 15:26:17](https://news.ycombinator.com/item?id=50245385) - ['It's offensively cheap': Solar power is quietly becoming bigger than nuclear](https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear)
 * [2026-10-26, 15:11:59](https://news.ycombinator.com/item?id=50245138) - [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
 * [2026-10-26, 14:50:50](https://news.ycombinator.com/item?id=50244744) - [Peta releases video showing experiments on infant monkeys at Univ of Washington](https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video)
+* [2026-10-26, 14:50:21](https://news.ycombinator.com/item?id=50244735) - [Everything](https://github.com/HeyPuter/everything)
 * [2026-10-26, 14:42:24](https://news.ycombinator.com/item?id=50244583) - [Partyline: A group voice application for Reticulum, built on LXST](https://github.com/RFnexus/partyline)
 * [2026-10-26, 14:32:11](https://news.ycombinator.com/item?id=50244410) - [AmiJa, a cycle-exact Amiga emulator written in Java](https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/)
 * [2026-10-26, 14:17:51](https://news.ycombinator.com/item?id=50244144) - [Vegemite is not a human right](https://www.cnn.com/2026/10/26/australia/prisoner-vegemite-rejected-judge-scli-intl)
