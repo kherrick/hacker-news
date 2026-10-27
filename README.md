@@ -29,7 +29,7 @@
 * [2026-10-25, 20:18:57](https://news.ycombinator.com/item?id=50235661) - [A Stackless Floodfill Automaton](https://t3x.org/files/floodfill.pdf)
 * [2026-10-25, 15:28:40](https://news.ycombinator.com/item?id=50232604) - [Microsoft and others tell crypto platform not to tokenize their stocks](https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368)
 * [2026-10-25, 14:45:13](https://news.ycombinator.com/item?id=50232101) - [OpenLDK: Bringing the Java World into Common Lisp](https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/)
-* [2026-10-23, 20:09:16](https://news.ycombinator.com/item?id=50214611) - [Analysis of ‘Demon Seed’ (2025)](https://mawrgorshin.com/2025/07/12/analysis-of-demon-seed/)
+* [2026-10-24, 19:04:42](https://news.ycombinator.com/item?id=50224079) - [An examination of lost firefly species of the US and Canada](https://journaloflostspecies.org/index.php/jls/article/view/37/33)
 
 ## [Archives](archives/index.md)
 
