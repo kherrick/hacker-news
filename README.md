@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-27, 03:09:07](https://news.ycombinator.com/item?id=50254300) - [Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze)
-* [2026-10-27, 02:15:10](https://news.ycombinator.com/item?id=50253939) - [I still teach OpenGL ES 3.0](https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html)
 * [2026-10-27, 01:15:04](https://news.ycombinator.com/item?id=50253529) - [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
 * [2026-10-26, 22:41:48](https://news.ycombinator.com/item?id=50252159) - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
 * [2026-10-26, 22:27:17](https://news.ycombinator.com/item?id=50252008) - [Is PHP Running on Your ColdFusion Server? How to Check, and Remove It](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
@@ -27,6 +26,7 @@
 * [2026-10-25, 00:07:19](https://news.ycombinator.com/item?id=50226808) - [Virtual and Real World Combine at LAN Party (1998)](https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html)
 * [2026-10-23, 18:38:13](https://news.ycombinator.com/item?id=50213502) - [Native Prometheus Integration with Nginx](https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/)
 * [2026-10-23, 18:12:13](https://news.ycombinator.com/item?id=50213147) - [In Context [video]](https://www.youtube.com/watch?v=P5eO7BNyJao)
+* [2026-10-23, 16:41:41](https://news.ycombinator.com/item?id=50211780) - [Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera](https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/)
 * [2026-10-23, 14:20:15](https://news.ycombinator.com/item?id=50209525) - [Diamond Transistor](https://www.df.com/diamond-transistor)
 * [2026-10-23, 05:01:30](https://news.ycombinator.com/item?id=50204697) - [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219)
 * [2026-10-22, 19:52:50](https://news.ycombinator.com/item?id=50200152) - [Blaise Pascal invented fixed route public transport (2024)](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
