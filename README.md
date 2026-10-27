@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-27, 19:11:31](https://news.ycombinator.com/item?id=50264228) - [US President says he will ban the term 'artificial intelligence'](https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/)
 * [2026-10-27, 18:44:17](https://news.ycombinator.com/item?id=50263854) - [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
 * [2026-10-27, 18:33:48](https://news.ycombinator.com/item?id=50263701) - [Three TLS Bugs in GoAhead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)
 * [2026-10-27, 17:04:50](https://news.ycombinator.com/item?id=50262229) - [Introducing LFM3: Every Modality for Specialized Intelligence](https://www.liquid.ai/blog/lfm3)
@@ -9,7 +10,7 @@
 * [2026-10-27, 16:27:29](https://news.ycombinator.com/item?id=50261623) - [Vicious Cycles: Theses on a philosophy of news](https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/)
 * [2026-10-27, 16:25:30](https://news.ycombinator.com/item?id=50261589) - [Amazon Is Gutting Its AI Division After Sustained Failure](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova)
 * [2026-10-27, 16:25:12](https://news.ycombinator.com/item?id=50261583) - [PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch](https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/)
-* [2026-10-27, 16:08:32](https://news.ycombinator.com/item?id=50261352) - [Apple introduces the new 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
+* [2026-10-27, 16:08:32](https://news.ycombinator.com/item?id=50261352) - [New 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
 * [2026-10-27, 16:06:01](https://news.ycombinator.com/item?id=50261319) - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
 * [2026-10-27, 15:28:26](https://news.ycombinator.com/item?id=50260814) - [Anthropic trained Claude on illegally obtained Stanford professors' books](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/)
 * [2026-10-27, 15:12:20](https://news.ycombinator.com/item?id=50260571) - [Show HN: Specification First Agentic Development Plugin and Prove](https://spec-first.dev/)
@@ -22,14 +23,13 @@
 * [2026-10-27, 11:30:35](https://news.ycombinator.com/item?id=50257548) - [Software may be getting worse, but it used to be horrible](https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/)
 * [2026-10-27, 11:17:57](https://news.ycombinator.com/item?id=50257419) - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 * [2026-10-27, 11:08:15](https://news.ycombinator.com/item?id=50257326) - [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
-* [2026-10-27, 10:23:21](https://news.ycombinator.com/item?id=50256952) - [Gforth 1.0](https://gforth.org/manual/1.0/NEWS.html)
 * [2026-10-27, 06:25:37](https://news.ycombinator.com/item?id=50255298) - [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
 * [2026-10-26, 15:05:04](https://news.ycombinator.com/item?id=50245014) - [Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
 * [2026-10-26, 06:54:33](https://news.ycombinator.com/item?id=50240041) - [Rosettes and Other Hidden Traces of Hamburg's Tram](https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/)
 * [2026-10-25, 20:18:57](https://news.ycombinator.com/item?id=50235661) - [A Stackless Floodfill Automaton](https://t3x.org/files/floodfill.pdf)
 * [2026-10-25, 15:28:40](https://news.ycombinator.com/item?id=50232604) - [Microsoft and others tell crypto platform not to tokenize their stocks](https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368)
 * [2026-10-25, 14:45:13](https://news.ycombinator.com/item?id=50232101) - [OpenLDK: Bringing the Java World into Common Lisp](https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/)
-* [2026-10-23, 20:09:16](https://news.ycombinator.com/item?id=50214611) - [Analysis of 'Demon Seed' – Infinite Ocean](https://mawrgorshin.com/2025/07/12/analysis-of-demon-seed/)
+* [2026-10-23, 20:09:16](https://news.ycombinator.com/item?id=50214611) - [Analysis of ‘Demon Seed’ (2025)](https://mawrgorshin.com/2025/07/12/analysis-of-demon-seed/)
 
 ## [Archives](archives/index.md)
 
