@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-27, 21:19:15",
+      "https://news.ycombinator.com/item?id=50265960"
+    ],
+    [
+      "One year of Dioxus fullstack in production: the good, the painful",
+      "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful"
+    ]
+  ],
+  [
+    [
       "2026-10-27, 20:50:42",
       "https://news.ycombinator.com/item?id=50265609"
     ],
@@ -17,6 +27,16 @@
     [
       "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
       "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/"
+    ]
+  ],
+  [
+    [
+      "2026-10-27, 20:36:38",
+      "https://news.ycombinator.com/item?id=50265413"
+    ],
+    [
+      "Hex Raises $100M",
+      "https://hex.tech/blog/hex-new-era/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Classification of Finite Simple Groups Formalized in Lean",
       "https://cfsg.axiommath.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-10-27, 16:27:29",
-      "https://news.ycombinator.com/item?id=50261623"
-    ],
-    [
-      "Vicious Cycles: Theses on a philosophy of news (2020)",
-      "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Rosettes and Other Hidden Traces of Hamburg's Tram",
       "https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/"
-    ]
-  ],
-  [
-    [
-      "2026-10-25, 20:18:57",
-      "https://news.ycombinator.com/item?id=50235661"
-    ],
-    [
-      "A Stackless Floodfill Automaton",
-      "https://t3x.org/files/floodfill.pdf"
     ]
   ],
   [
