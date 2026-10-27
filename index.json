@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-10-27, 19:11:31",
-      "https://news.ycombinator.com/item?id=50264228"
+      "2026-10-27, 19:55:21",
+      "https://news.ycombinator.com/item?id=50264857"
     ],
     [
-      "US President says he will ban the term 'artificial intelligence'",
-      "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/"
+      "Tailscale SSH: Investigation and remediation update",
+      "https://tailscale.com/ssh-investigation-update"
+    ]
+  ],
+  [
+    [
+      "2026-10-27, 19:55:06",
+      "https://news.ycombinator.com/item?id=50264853"
+    ],
+    [
+      "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "https://www.brangus.io/survival-llm"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Wikipedia's Cleanup of AI-Generated Content",
       "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
-    ]
-  ],
-  [
-    [
-      "2026-10-27, 10:23:21",
-      "https://news.ycombinator.com/item?id=50256952"
-    ],
-    [
-      "Gforth 1.0",
-      "https://gforth.org/manual/1.0/NEWS.html"
     ]
   ],
   [
