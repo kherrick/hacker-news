@@ -43,6 +43,7 @@
 * [2026-10-25, 16:22:25](https://news.ycombinator.com/item?id=50233238) - [Bentley's Kyiv deadlership among the strongest, despite the war](https://www.autonext.co/news/bentley-kyiv-among-the-world-s-best-dealerships-despite-the-war)
 * [2026-10-25, 15:34:44](https://news.ycombinator.com/item?id=50232682) - [Anthropic Wanted to Replace Engineers. Instead, They Shot Their Own Customers](https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace)
 * [2026-10-25, 15:12:10](https://news.ycombinator.com/item?id=50232407) - [Ask HN: Can we do something about this impending AI dystopia](https://news.ycombinator.com/item?id=50232407)
+* [2026-10-25, 15:06:15](https://news.ycombinator.com/item?id=50232322) - [Historical Telecommunications](https://retronetworking.org/)
 * [2026-10-25, 15:05:39](https://news.ycombinator.com/item?id=50232312) - [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/)
 * [2026-10-25, 14:37:49](https://news.ycombinator.com/item?id=50232035) - [A Few Thoughts on Intensity](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/)
 * [2026-10-25, 14:05:03](https://news.ycombinator.com/item?id=50231722) - [R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai)
