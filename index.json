@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-27, 03:09:07",
+      "https://news.ycombinator.com/item?id=50254300"
+    ],
+    [
+      "Incremental rust builds up to 92x faster than cargo/rustc",
+      "https://github.com/indexable-inc/blaze"
+    ]
+  ],
+  [
+    [
+      "2026-10-27, 02:15:10",
+      "https://news.ycombinator.com/item?id=50253939"
+    ],
+    [
+      "I still teach OpenGL ES 3.0",
+      "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html"
+    ]
+  ],
+  [
+    [
       "2026-10-27, 01:15:04",
       "https://news.ycombinator.com/item?id=50253529"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-10-26, 16:12:29",
-      "https://news.ycombinator.com/item?id=50246238"
-    ],
-    [
-      "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "https://github.com/FrigadeHQ/hob"
-    ]
-  ],
-  [
-    [
       "2026-10-26, 15:51:23",
       "https://news.ycombinator.com/item?id=50245831"
     ],
@@ -167,16 +177,6 @@
     [
       "Anthropic S-1",
       "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
-    ]
-  ],
-  [
-    [
-      "2026-10-26, 12:59:48",
-      "https://news.ycombinator.com/item?id=50242870"
-    ],
-    [
-      "Fixing Tool-Call Accuracy in vLLM",
-      "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-10-23, 16:41:41",
-      "https://news.ycombinator.com/item?id=50211780"
+      "2026-10-23, 18:12:13",
+      "https://news.ycombinator.com/item?id=50213147"
     ],
     [
-      "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
-      "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/"
+      "In Context [video]",
+      "https://www.youtube.com/watch?v=P5eO7BNyJao"
     ]
   ],
   [
