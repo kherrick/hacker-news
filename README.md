@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-27, 20:13:27](https://news.ycombinator.com/item?id=50265128) - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
 * [2026-10-27, 19:55:21](https://news.ycombinator.com/item?id=50264857) - [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
 * [2026-10-27, 19:55:06](https://news.ycombinator.com/item?id=50264853) - [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
 * [2026-10-27, 18:44:17](https://news.ycombinator.com/item?id=50263854) - [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
@@ -22,7 +23,6 @@
 * [2026-10-27, 13:02:02](https://news.ycombinator.com/item?id=50258538) - [New iMac with M6](https://www.apple.com/imac/)
 * [2026-10-27, 11:17:57](https://news.ycombinator.com/item?id=50257419) - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 * [2026-10-27, 11:08:15](https://news.ycombinator.com/item?id=50257326) - [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
-* [2026-10-27, 10:23:21](https://news.ycombinator.com/item?id=50256952) - [Gforth 1.0](https://gforth.org/manual/1.0/NEWS.html)
 * [2026-10-27, 06:25:37](https://news.ycombinator.com/item?id=50255298) - [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
 * [2026-10-26, 15:05:04](https://news.ycombinator.com/item?id=50245014) - [Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
 * [2026-10-26, 06:54:33](https://news.ycombinator.com/item?id=50240041) - [Rosettes and Other Hidden Traces of Hamburg's Tram](https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/)
