@@ -58,6 +58,7 @@
 * [2026-10-26, 07:50:17](https://news.ycombinator.com/item?id=50240465) - [How to grow a cacao tree at home](https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/)
 * [2026-10-26, 06:54:33](https://news.ycombinator.com/item?id=50240041) - [Rosettes and Other Hidden Traces of Hamburg's Tram](https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/)
 * [2026-10-26, 06:11:52](https://news.ycombinator.com/item?id=50239748) - [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
+* [2026-10-26, 04:41:15](https://news.ycombinator.com/item?id=50239214) - [SS United States to be sunk as largest artificial reef](https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november)
 * [2026-10-26, 04:14:35](https://news.ycombinator.com/item?id=50239041) - [Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management](https://proc-cli.com/)
 * [2026-10-26, 04:11:40](https://news.ycombinator.com/item?id=50239027) - [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism)
 * [2026-10-26, 03:51:10](https://news.ycombinator.com/item?id=50238884) - [US Wages Share of GDI at 75 Year Low](https://fred.stlouisfed.org/series/W270RE1A156NBEA)
