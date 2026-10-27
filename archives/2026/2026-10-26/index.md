@@ -45,6 +45,7 @@
 * [2026-10-26, 14:17:51](https://news.ycombinator.com/item?id=50244144) - [Vegemite is not a human right](https://www.cnn.com/2026/10/26/australia/prisoner-vegemite-rejected-judge-scli-intl)
 * [2026-10-26, 13:54:44](https://news.ycombinator.com/item?id=50243762) - [DOJ says presidents should be able to sell secrets on eBay](https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/)
 * [2026-10-26, 13:47:33](https://news.ycombinator.com/item?id=50243646) - [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini)
+* [2026-10-26, 13:20:04](https://news.ycombinator.com/item?id=50243153) - [Land Value Capture in Practice: Ethiopia's Urban Land Lease System](https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections)
 * [2026-10-26, 13:13:36](https://news.ycombinator.com/item?id=50243061) - [The new iPad mini](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/)
 * [2026-10-26, 13:04:50](https://news.ycombinator.com/item?id=50242939) - [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
 * [2026-10-26, 12:59:48](https://news.ycombinator.com/item?id=50242870) - [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
