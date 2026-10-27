@@ -26,7 +26,7 @@
 * [2026-10-25, 15:06:15](https://news.ycombinator.com/item?id=50232322) - [Historical Telecommunications](https://retronetworking.org/)
 * [2026-10-25, 12:53:47](https://news.ycombinator.com/item?id=50231041) - [LISPy things you can do in 64K bytes of core (2019)](https://t3x.org/lisp64k/index.html)
 * [2026-10-25, 00:07:19](https://news.ycombinator.com/item?id=50226808) - [Virtual and Real World Combine at LAN Party (1998)](https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html)
-* [2026-10-23, 18:12:13](https://news.ycombinator.com/item?id=50213147) - [In Context [video]](https://www.youtube.com/watch?v=P5eO7BNyJao)
+* [2026-10-23, 14:20:15](https://news.ycombinator.com/item?id=50209525) - [Diamond Transistor](https://www.df.com/diamond-transistor)
 * [2026-10-23, 05:01:30](https://news.ycombinator.com/item?id=50204697) - [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219)
 * [2026-10-22, 19:52:50](https://news.ycombinator.com/item?id=50200152) - [Blaise Pascal invented fixed route public transport (2024)](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
 * [2026-10-22, 14:23:32](https://news.ycombinator.com/item?id=50195812) - [Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes](https://lavik.dev/en/blog/300-redis-nodes-to-3-lavik-nodes/)
