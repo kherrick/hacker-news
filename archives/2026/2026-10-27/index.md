@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-27](index.md)
 
+* [2026-10-27, 22:31:15](https://news.ycombinator.com/item?id=50266780) - [Reviewers rarely talk about reliability. Owners bring it up twice as often](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
 * [2026-10-27, 21:19:15](https://news.ycombinator.com/item?id=50265960) - [One year of Dioxus fullstack in production: the good, the painful](https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful)
 * [2026-10-27, 20:50:42](https://news.ycombinator.com/item?id=50265609) - [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
 * [2026-10-27, 20:48:49](https://news.ycombinator.com/item?id=50265594) - [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
@@ -14,6 +15,7 @@
 * [2026-10-27, 19:11:31](https://news.ycombinator.com/item?id=50264228) - [US President says he will ban the term 'artificial intelligence'](https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/)
 * [2026-10-27, 18:44:17](https://news.ycombinator.com/item?id=50263854) - [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
 * [2026-10-27, 18:33:48](https://news.ycombinator.com/item?id=50263701) - [Three TLS Bugs in GoAhead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)
+* [2026-10-27, 17:48:15](https://news.ycombinator.com/item?id=50262982) - [Radio-tagged Monarch butterflies](https://blog.cwf-fcf.org/index.php/en/tiny-tracking-tags-for-big-monarch-journeys/)
 * [2026-10-27, 17:04:50](https://news.ycombinator.com/item?id=50262229) - [Introducing LFM3: Every Modality for Specialized Intelligence](https://www.liquid.ai/blog/lfm3)
 * [2026-10-27, 16:51:22](https://news.ycombinator.com/item?id=50261998) - [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [2026-10-27, 16:40:15](https://news.ycombinator.com/item?id=50261819) - [Police are using AI to pull over drivers for 'suspicious' behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
