@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-27, 03:09:07",
-      "https://news.ycombinator.com/item?id=50254300"
-    ],
-    [
-      "Incremental rust builds up to 92x faster than cargo/rustc",
-      "https://github.com/indexable-inc/blaze"
-    ]
-  ],
-  [
-    [
       "2026-10-27, 01:15:04",
       "https://news.ycombinator.com/item?id=50253529"
     ],
@@ -167,6 +157,16 @@
     [
       "Anthropic S-1",
       "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 12:59:48",
+      "https://news.ycombinator.com/item?id=50242870"
+    ],
+    [
+      "Fixing Tool-Call Accuracy in vLLM",
+      "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm"
     ]
   ],
   [
