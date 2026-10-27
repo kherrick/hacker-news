@@ -15,6 +15,7 @@
 * [2026-10-27, 16:51:22](https://news.ycombinator.com/item?id=50261998) - [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [2026-10-27, 16:29:02](https://news.ycombinator.com/item?id=50261647) - [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)
 * [2026-10-27, 16:25:30](https://news.ycombinator.com/item?id=50261589) - [Amazon Is Gutting Its AI Division After Sustained Failure](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova)
+* [2026-10-27, 16:25:12](https://news.ycombinator.com/item?id=50261583) - [PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch](https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/)
 * [2026-10-27, 16:08:32](https://news.ycombinator.com/item?id=50261352) - [New 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
 * [2026-10-27, 16:06:01](https://news.ycombinator.com/item?id=50261319) - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
 * [2026-10-27, 15:28:26](https://news.ycombinator.com/item?id=50260814) - [Anthropic trained Claude on illegally obtained Stanford professors' books](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/)
@@ -28,7 +29,6 @@
 * [2026-10-26, 06:54:33](https://news.ycombinator.com/item?id=50240041) - [Rosettes and Other Hidden Traces of Hamburg's Tram](https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/)
 * [2026-10-26, 04:41:15](https://news.ycombinator.com/item?id=50239214) - [SS United States to be sunk as largest artificial reef](https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november)
 * [2026-10-25, 21:07:38](https://news.ycombinator.com/item?id=50236073) - [Nvidia and Micron Make Up 34% of America's Earnings Boom](https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53)
-* [2026-10-25, 14:45:13](https://news.ycombinator.com/item?id=50232101) - [OpenLDK: Bringing the Java World into Common Lisp](https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/)
 * [2026-10-24, 19:04:42](https://news.ycombinator.com/item?id=50224079) - [An examination of lost firefly species of the US and Canada](https://journaloflostspecies.org/index.php/jls/article/view/37/33)
 
 ## [Archives](archives/index.md)
