@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-27, 03:09:07](https://news.ycombinator.com/item?id=50254300) - [Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze)
 * [2026-10-27, 01:15:04](https://news.ycombinator.com/item?id=50253529) - [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
 * [2026-10-26, 22:41:48](https://news.ycombinator.com/item?id=50252159) - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
 * [2026-10-26, 22:27:17](https://news.ycombinator.com/item?id=50252008) - [Is PHP Running on Your ColdFusion Server? How to Check, and Remove It](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
@@ -17,6 +16,7 @@
 * [2026-10-26, 15:11:59](https://news.ycombinator.com/item?id=50245138) - [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
 * [2026-10-26, 13:13:36](https://news.ycombinator.com/item?id=50243061) - [New iPad mini](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/)
 * [2026-10-26, 13:04:50](https://news.ycombinator.com/item?id=50242939) - [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
+* [2026-10-26, 12:59:48](https://news.ycombinator.com/item?id=50242870) - [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
 * [2026-10-26, 11:15:50](https://news.ycombinator.com/item?id=50241925) - [Pharo 14](https://pharo.org/news/2026-10-26-Pharo14Release.html)
 * [2026-10-26, 10:32:14](https://news.ycombinator.com/item?id=50241664) - [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
 * [2026-10-25, 22:29:47](https://news.ycombinator.com/item?id=50236681) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)
