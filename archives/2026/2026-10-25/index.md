@@ -74,3 +74,4 @@
 * [2026-10-25, 00:59:48](https://news.ycombinator.com/item?id=50227138) - [Tailworm – Tailscale Vulnerabilities](https://tailworm.com/)
 * [2026-10-25, 00:58:57](https://news.ycombinator.com/item?id=50227131) - [Ask HN: Why a Great Product Won't Succeed Without a Community](https://news.ycombinator.com/item?id=50227131)
 * [2026-10-25, 00:43:47](https://news.ycombinator.com/item?id=50227041) - [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems)
+* [2026-10-25, 00:07:19](https://news.ycombinator.com/item?id=50226808) - [Virtual and Real World Combine at LAN Party (1998)](https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html)
