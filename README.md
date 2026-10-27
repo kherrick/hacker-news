@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-27, 05:13:08](https://news.ycombinator.com/item?id=50254935) - [UK to charge universities $1,200 per international student](https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe)
 * [2026-10-27, 04:53:52](https://news.ycombinator.com/item?id=50254836) - [There are now 5 inference providers for abliterated DeepSeek](https://allmodels.io/llm/abliterated)
 * [2026-10-27, 02:15:10](https://news.ycombinator.com/item?id=50253939) - [I still teach OpenGL ES 3.0](https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html)
 * [2026-10-27, 01:15:04](https://news.ycombinator.com/item?id=50253529) - [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
@@ -26,7 +27,6 @@
 * [2026-10-25, 15:06:15](https://news.ycombinator.com/item?id=50232322) - [Historical Telecommunications](https://retronetworking.org/)
 * [2026-10-25, 12:53:47](https://news.ycombinator.com/item?id=50231041) - [LISPy things you can do in 64K bytes of core (2019)](https://t3x.org/lisp64k/index.html)
 * [2026-10-25, 00:07:19](https://news.ycombinator.com/item?id=50226808) - [Virtual and Real World Combine at LAN Party (1998)](https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html)
-* [2026-10-23, 14:20:15](https://news.ycombinator.com/item?id=50209525) - [Diamond Transistor](https://www.df.com/diamond-transistor)
 * [2026-10-23, 05:01:30](https://news.ycombinator.com/item?id=50204697) - [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219)
 * [2026-10-22, 19:52:50](https://news.ycombinator.com/item?id=50200152) - [Blaise Pascal invented fixed route public transport (2024)](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
 * [2026-10-22, 14:23:32](https://news.ycombinator.com/item?id=50195812) - [Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes](https://lavik.dev/en/blog/300-redis-nodes-to-3-lavik-nodes/)
