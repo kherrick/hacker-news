@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-27, 04:53:52](https://news.ycombinator.com/item?id=50254836) - [There are now 5 inference providers for abliterated DeepSeek](https://allmodels.io/llm/abliterated)
 * [2026-10-27, 02:15:10](https://news.ycombinator.com/item?id=50253939) - [I still teach OpenGL ES 3.0](https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html)
 * [2026-10-27, 01:15:04](https://news.ycombinator.com/item?id=50253529) - [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
 * [2026-10-26, 22:41:48](https://news.ycombinator.com/item?id=50252159) - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
@@ -17,7 +18,6 @@
 * [2026-10-26, 15:11:59](https://news.ycombinator.com/item?id=50245138) - [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
 * [2026-10-26, 13:13:36](https://news.ycombinator.com/item?id=50243061) - [New iPad mini](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/)
 * [2026-10-26, 13:04:50](https://news.ycombinator.com/item?id=50242939) - [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
-* [2026-10-26, 12:59:48](https://news.ycombinator.com/item?id=50242870) - [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
 * [2026-10-26, 11:15:50](https://news.ycombinator.com/item?id=50241925) - [Pharo 14](https://pharo.org/news/2026-10-26-Pharo14Release.html)
 * [2026-10-26, 10:32:14](https://news.ycombinator.com/item?id=50241664) - [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
 * [2026-10-26, 07:50:17](https://news.ycombinator.com/item?id=50240465) - [How to grow a cacao tree at home](https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/)
@@ -27,9 +27,9 @@
 * [2026-10-25, 12:53:47](https://news.ycombinator.com/item?id=50231041) - [LISPy things you can do in 64K bytes of core (2019)](https://t3x.org/lisp64k/index.html)
 * [2026-10-25, 00:07:19](https://news.ycombinator.com/item?id=50226808) - [Virtual and Real World Combine at LAN Party (1998)](https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html)
 * [2026-10-23, 18:12:13](https://news.ycombinator.com/item?id=50213147) - [In Context [video]](https://www.youtube.com/watch?v=P5eO7BNyJao)
-* [2026-10-23, 14:20:15](https://news.ycombinator.com/item?id=50209525) - [Diamond Transistor](https://www.df.com/diamond-transistor)
 * [2026-10-23, 05:01:30](https://news.ycombinator.com/item?id=50204697) - [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219)
 * [2026-10-22, 19:52:50](https://news.ycombinator.com/item?id=50200152) - [Blaise Pascal invented fixed route public transport (2024)](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
+* [2026-10-22, 14:23:32](https://news.ycombinator.com/item?id=50195812) - [Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes](https://lavik.dev/en/blog/300-redis-nodes-to-3-lavik-nodes/)
 
 ## [Archives](archives/index.md)
 

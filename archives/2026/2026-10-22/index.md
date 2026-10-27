@@ -50,6 +50,7 @@
 * [2026-10-22, 15:20:04](https://news.ycombinator.com/item?id=50196623) - [The U.S. Power Grid](https://nomagicpill.site/knowledge/powergrid.html)
 * [2026-10-22, 14:32:38](https://news.ycombinator.com/item?id=50195959) - [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
 * [2026-10-22, 14:26:40](https://news.ycombinator.com/item?id=50195873) - [MPs moving to restrict gambling ads in Canada amid mounting harms](https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888)
+* [2026-10-22, 14:23:32](https://news.ycombinator.com/item?id=50195812) - [Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes](https://lavik.dev/en/blog/300-redis-nodes-to-3-lavik-nodes/)
 * [2026-10-22, 14:21:17](https://news.ycombinator.com/item?id=50195769) - [Recreate the Apollo Guidance Computer](https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/)
 * [2026-10-22, 14:08:12](https://news.ycombinator.com/item?id=50195543) - [What's Getting Pwned](https://pwn.watch/)
 * [2026-10-22, 14:07:48](https://news.ycombinator.com/item?id=50195535) - [Parsing EDIFACT in Python with syntax trees](https://github.com/AmadeusITGroup/Edison)
