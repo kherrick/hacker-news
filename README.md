@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-27, 20:50:42](https://news.ycombinator.com/item?id=50265609) - [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
 * [2026-10-27, 20:13:27](https://news.ycombinator.com/item?id=50265128) - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
 * [2026-10-27, 19:55:21](https://news.ycombinator.com/item?id=50264857) - [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
 * [2026-10-27, 19:55:06](https://news.ycombinator.com/item?id=50264853) - [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
@@ -15,7 +16,6 @@
 * [2026-10-27, 16:08:32](https://news.ycombinator.com/item?id=50261352) - [New 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
 * [2026-10-27, 16:06:01](https://news.ycombinator.com/item?id=50261319) - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
 * [2026-10-27, 15:28:26](https://news.ycombinator.com/item?id=50260814) - [Anthropic trained Claude on illegally obtained Stanford professors' books](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/)
-* [2026-10-27, 15:12:20](https://news.ycombinator.com/item?id=50260571) - [Show HN: Specification First Agentic Development Plugin and Prove](https://spec-first.dev/)
 * [2026-10-27, 14:06:42](https://news.ycombinator.com/item?id=50259604) - [US Government is hiding a secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)
 * [2026-10-27, 13:52:12](https://news.ycombinator.com/item?id=50259343) - [PHP2Shell: Exploitation attempts and remediation trends](https://www.wiz.io/blog/php2shell-exploitation-so-far)
 * [2026-10-27, 13:23:22](https://news.ycombinator.com/item?id=50258868) - [Here be monsters: What do you still need to know when agents do the work?](https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work)

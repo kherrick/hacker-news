@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-27](index.md)
 
+* [2026-10-27, 20:50:42](https://news.ycombinator.com/item?id=50265609) - [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
 * [2026-10-27, 20:13:27](https://news.ycombinator.com/item?id=50265128) - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
 * [2026-10-27, 19:55:21](https://news.ycombinator.com/item?id=50264857) - [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
 * [2026-10-27, 19:55:06](https://news.ycombinator.com/item?id=50264853) - [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
