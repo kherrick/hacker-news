@@ -10,7 +10,7 @@
 * [2026-10-27, 18:44:17](https://news.ycombinator.com/item?id=50263854) - [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
 * [2026-10-27, 18:33:48](https://news.ycombinator.com/item?id=50263701) - [Three TLS Bugs in GoAhead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)
 * [2026-10-27, 17:04:50](https://news.ycombinator.com/item?id=50262229) - [Introducing LFM3: Every Modality for Specialized Intelligence](https://www.liquid.ai/blog/lfm3)
-* [2026-10-27, 16:51:22](https://news.ycombinator.com/item?id=50261998) - [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
+* [2026-10-27, 16:51:22](https://news.ycombinator.com/item?id=50261998) - [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [2026-10-27, 16:40:15](https://news.ycombinator.com/item?id=50261819) - [Police are using AI to pull over drivers for 'suspicious' behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
 * [2026-10-27, 16:29:02](https://news.ycombinator.com/item?id=50261647) - [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)
 * [2026-10-27, 16:25:30](https://news.ycombinator.com/item?id=50261589) - [Amazon Is Gutting Its AI Division After Sustained Failure](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova)
