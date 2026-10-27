@@ -13,6 +13,7 @@
 * [2026-10-25, 22:02:33](https://news.ycombinator.com/item?id=50236455) - [Europe's summer heat wave killed more han 50k people in urban areas](https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas)
 * [2026-10-25, 21:11:31](https://news.ycombinator.com/item?id=50236102) - [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
 * [2026-10-25, 21:08:28](https://news.ycombinator.com/item?id=50236081) - [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
+* [2026-10-25, 21:07:38](https://news.ycombinator.com/item?id=50236073) - [Nvidia and Micron Make Up 34% of America's Earnings Boom](https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53)
 * [2026-10-25, 20:32:31](https://news.ycombinator.com/item?id=50235780) - [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
 * [2026-10-25, 20:27:09](https://news.ycombinator.com/item?id=50235738) - [What goes into making an animated film?](https://www.disneyanimation.com/process/)
 * [2026-10-25, 20:18:57](https://news.ycombinator.com/item?id=50235661) - [A Stackless Floodfill Automaton](https://t3x.org/files/floodfill.pdf)
