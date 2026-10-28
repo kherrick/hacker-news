@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-28, 10:41:27](https://news.ycombinator.com/item?id=50271457) - [Barcelona unrest: how to fabricate a protest in the age of TikTok](https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263)
+* [2026-10-28, 09:43:44](https://news.ycombinator.com/item?id=50271088) - [Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/)
 * [2026-10-28, 08:48:21](https://news.ycombinator.com/item?id=50270764) - [Wealth Inequality in America drawn to scale](https://dreamagainusa.org/)
 * [2026-10-28, 01:47:50](https://news.ycombinator.com/item?id=50268380) - [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
 * [2026-10-27, 23:53:41](https://news.ycombinator.com/item?id=50267569) - [Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox)
@@ -11,7 +12,6 @@
 * [2026-10-27, 19:55:21](https://news.ycombinator.com/item?id=50264857) - [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
 * [2026-10-27, 19:55:06](https://news.ycombinator.com/item?id=50264853) - [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
 * [2026-10-27, 17:48:15](https://news.ycombinator.com/item?id=50262982) - [Radio-tagged Monarch butterflies](https://news.vt.edu/articles/2026/10/cmi-monarchs.html)
-* [2026-10-27, 17:04:50](https://news.ycombinator.com/item?id=50262229) - [Introducing LFM3: Every Modality for Specialized Intelligence](https://www.liquid.ai/blog/lfm3)
 * [2026-10-27, 16:51:22](https://news.ycombinator.com/item?id=50261998) - [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [2026-10-27, 16:29:02](https://news.ycombinator.com/item?id=50261647) - [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)
 * [2026-10-27, 16:08:32](https://news.ycombinator.com/item?id=50261352) - [New 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
