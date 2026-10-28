@@ -61,6 +61,7 @@
 * [2026-10-23, 14:20:15](https://news.ycombinator.com/item?id=50209525) - [Diamond Transistor](https://www.df.com/diamond-transistor)
 * [2026-10-23, 14:20:04](https://news.ycombinator.com/item?id=50209524) - [Reinventing the Pencil Sharpener [video]](https://www.youtube.com/watch?v=0Gi5Z51KdUE)
 * [2026-10-23, 14:07:42](https://news.ycombinator.com/item?id=50209278) - [Growing Trees](https://brashandplucky.com/2026/10/15/growing-trees.html)
+* [2026-10-23, 14:07:21](https://news.ycombinator.com/item?id=50209269) - [Gaussian Splats part 3: There's always a bigger scene](https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene)
 * [2026-10-23, 13:49:50](https://news.ycombinator.com/item?id=50208960) - [Start Doing Graph Theory](https://vertex.degree/)
 * [2026-10-23, 13:41:10](https://news.ycombinator.com/item?id=50208837) - [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
 * [2026-10-23, 13:35:42](https://news.ycombinator.com/item?id=50208763) - [Vazhaipoo Vadai – Banana Flower Recipe](https://www.vegrecipesofindia.com/banana-flower-vada-recipe/)
