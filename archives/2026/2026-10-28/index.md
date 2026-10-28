@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 14:02:20](https://news.ycombinator.com/item?id=50273731) - [The Agent SDK](https://cursor.com/blog/agent-sdk)
+* [2026-10-28, 13:56:21](https://news.ycombinator.com/item?id=50273623) - [Harvey raised 500M for legal AI, I built the same and open sourced it](https://github.com/thomasunise/casecite)
 * [2026-10-28, 13:41:30](https://news.ycombinator.com/item?id=50273396) - [Kentucky man becomes the first humanist granted religious exemption from AI](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
 * [2026-10-28, 13:28:32](https://news.ycombinator.com/item?id=50273201) - [Show HN: Nasscad – local-first 3D CAD for browser and Windows](https://www.nasscad.com/NASSCAD_V4_7_0.htm)
+* [2026-10-28, 13:27:24](https://news.ycombinator.com/item?id=50273192) - [Valve Responds to Developers Fearing AI Slop and Clones](https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones)
 * [2026-10-28, 13:25:11](https://news.ycombinator.com/item?id=50273171) - [Emacs Turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
 * [2026-10-28, 12:49:45](https://news.ycombinator.com/item?id=50272749) - [ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/)
 * [2026-10-28, 12:44:46](https://news.ycombinator.com/item?id=50272702) - [One dead LED killed a working TV](https://train-it.eu/blog/one-dead-led-killed-a-working-tv/)
