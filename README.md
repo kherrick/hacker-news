@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-28, 12:49:45](https://news.ycombinator.com/item?id=50272749) - [ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/)
 * [2026-10-28, 12:35:41](https://news.ycombinator.com/item?id=50272596) - [Two high-speed trains collide near Toledo, Spain](https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash)
 * [2026-10-28, 11:54:23](https://news.ycombinator.com/item?id=50272145) - [Amazon to buy satellite firm Globalstar in $11.57B deal](https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/)
 * [2026-10-28, 11:08:49](https://news.ycombinator.com/item?id=50271685) - [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
 * [2026-10-28, 11:03:40](https://news.ycombinator.com/item?id=50271640) - [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-28, 01:47:50](https://news.ycombinator.com/item?id=50268380) - [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
-* [2026-10-27, 23:53:41](https://news.ycombinator.com/item?id=50267569) - [Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox)
 * [2026-10-27, 20:50:42](https://news.ycombinator.com/item?id=50265609) - [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
 * [2026-10-27, 20:48:49](https://news.ycombinator.com/item?id=50265594) - [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
 * [2026-10-27, 20:35:09](https://news.ycombinator.com/item?id=50265393) - [Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)

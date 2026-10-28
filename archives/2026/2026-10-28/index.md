@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 12:49:45](https://news.ycombinator.com/item?id=50272749) - [ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/)
 * [2026-10-28, 12:44:46](https://news.ycombinator.com/item?id=50272702) - [One dead LED killed a working TV](https://train-it.eu/blog/one-dead-led-killed-a-working-tv/)
 * [2026-10-28, 12:35:41](https://news.ycombinator.com/item?id=50272596) - [Two high-speed trains collide near Toledo, Spain](https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash)
 * [2026-10-28, 11:54:23](https://news.ycombinator.com/item?id=50272145) - [Amazon to buy satellite firm Globalstar in $11.57B deal](https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/)
