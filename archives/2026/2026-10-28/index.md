@@ -5,3 +5,4 @@
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
 * [2026-10-28, 01:47:50](https://news.ycombinator.com/item?id=50268380) - [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code)
+* [2026-10-28, 00:35:33](https://news.ycombinator.com/item?id=50267890) - ['Forced out': HOA fees to rise to $2,500 a month](https://www.wsoctv.com/news/local/forced-out-hoa-fees-rise-7500-month/XCW2HIHUKNBMTNWVQSYXQZJCY4/)
