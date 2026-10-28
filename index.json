@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-10-28, 17:10:37",
+      "https://news.ycombinator.com/item?id=50276940"
+    ],
+    [
+      "MacBook Pro with Touch Enabled Proled XDR Display",
+      "https://www.apple.com/macbook-pro/proled-xdr-display/"
+    ]
+  ],
+  [
+    [
+      "2026-10-28, 17:07:09",
+      "https://news.ycombinator.com/item?id=50276883"
+    ],
+    [
+      "Show HN: SlideBySide – Present slides without sharing your screen",
+      "https://slidebyside.com/"
+    ]
+  ],
+  [
+    [
+      "2026-10-28, 17:01:23",
+      "https://news.ycombinator.com/item?id=50276792"
+    ],
+    [
+      "Gemini 4 Carbon",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    ]
+  ],
+  [
+    [
+      "2026-10-28, 17:00:24",
+      "https://news.ycombinator.com/item?id=50276779"
+    ],
+    [
+      "Converge (YC S23) Is Hiring a Founding Platform Engineer",
+      "https://www.runconverge.com/careers/founding-platform-engineer"
+    ]
+  ],
+  [
+    [
       "2026-10-28, 15:46:30",
       "https://news.ycombinator.com/item?id=50275626"
     ],
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=50275375"
     ],
     [
-      "26,400 live credentials found scanning 7.25M repos on China's Gitee",
+      "Scanning 7.25M Public Repositories on China's Largest Git Platform for Secrets",
       "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets"
     ]
   ],
@@ -37,16 +77,6 @@
     [
       "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
       "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 14:54:07",
-      "https://news.ycombinator.com/item?id=50274706"
-    ],
-    [
-      "Tesla Semi catches fire on I-880",
-      "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-10-28, 12:49:45",
-      "https://news.ycombinator.com/item?id=50272749"
-    ],
-    [
-      "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
-      "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/"
-    ]
-  ],
-  [
-    [
       "2026-10-28, 11:54:23",
       "https://news.ycombinator.com/item?id=50272145"
     ],
@@ -111,22 +131,22 @@
   ],
   [
     [
-      "2026-10-28, 11:08:49",
-      "https://news.ycombinator.com/item?id=50271685"
-    ],
-    [
-      "About the compromised eMudhra intermediate CAs",
-      "https://support.apple.com/en-us/149555"
-    ]
-  ],
-  [
-    [
       "2026-10-28, 11:03:40",
       "https://news.ycombinator.com/item?id=50271640"
     ],
     [
-      "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "Apple's git still trusts the compromised eMudhra certificates",
       "https://emudhra.we-have-a-problem.com/apple.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-28, 02:01:51",
+      "https://news.ycombinator.com/item?id=50268478"
+    ],
+    [
+      "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+      "https://arxiv.org/abs/2610.36341"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-10-27, 16:08:32",
-      "https://news.ycombinator.com/item?id=50261352"
-    ],
-    [
-      "New 14‑inch MacBook Pro with M6",
-      "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
-    ]
-  ],
-  [
-    [
       "2026-10-27, 16:06:01",
       "https://news.ycombinator.com/item?id=50261319"
     ],
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=50243060"
     ],
     [
-      "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
+      "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
       "https://www.circuithub.com/post/unveiling-the-grid"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "From confession to conspiracy: How the Wedgewood fake polls story spread",
       "https://www.cip.uw.edu/2026/10/23/from-confession-to-conspiracy-how-the-wedgewood-fake-polls-story-spread/"
-    ]
-  ],
-  [
-    [
-      "2026-10-24, 03:46:00",
-      "https://news.ycombinator.com/item?id=50218199"
-    ],
-    [
-      "The Colors of a Soap Film",
-      "https://aseemrb.me/blog/colors-of-a-soap-film/"
     ]
   ],
   [
