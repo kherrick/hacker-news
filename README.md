@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-28, 17:21:02](https://news.ycombinator.com/item?id=50277166) - [Mac Studio M5 Ultra 512GB Officially Released](https://www.apple.com/shop/buy-mac/mac-studio)
 * [2026-10-28, 17:10:37](https://news.ycombinator.com/item?id=50276940) - [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
 * [2026-10-28, 17:07:09](https://news.ycombinator.com/item?id=50276883) - [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
 * [2026-10-28, 17:01:23](https://news.ycombinator.com/item?id=50276792) - [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
@@ -25,7 +26,6 @@
 * [2026-10-25, 18:49:48](https://news.ycombinator.com/item?id=50234796) - [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
 * [2026-10-25, 18:00:04](https://news.ycombinator.com/item?id=50234183) - [Fine-tuned Qwen on my 16gb GPU to respond without the letter e](https://kevin-wu.ca/blog/qwn/)
 * [2026-10-25, 13:56:07](https://news.ycombinator.com/item?id=50231649) - [Regent's Ground-Effect Vehicle Reimagines Coastal Travel](https://spectrum.ieee.org/ground-effect-vehicle)
-* [2026-10-25, 01:39:51](https://news.ycombinator.com/item?id=50227400) - [MacOS Extensions Pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)
 * [2026-10-24, 18:17:57](https://news.ycombinator.com/item?id=50223739) - [Decompiling Fast Food Tycoon 2: Drawing the World](https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world)
 * [2026-10-24, 17:02:47](https://news.ycombinator.com/item?id=50223109) - [From confession to conspiracy: How the Wedgewood fake polls story spread](https://www.cip.uw.edu/2026/10/23/from-confession-to-conspiracy-how-the-wedgewood-fake-polls-story-spread/)
 * [2026-10-23, 14:07:21](https://news.ycombinator.com/item?id=50209269) - [Gaussian Splats part 3: There's always a bigger scene](https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene)
