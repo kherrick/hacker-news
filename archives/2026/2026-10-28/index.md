@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 20:11:55](https://news.ycombinator.com/item?id=50280197) - [Alphabet Announces Third Quarter 2026 Results [pdf]](https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf)
 * [2026-10-28, 19:15:07](https://news.ycombinator.com/item?id=50279308) - [Rising rates of colorectal cancer found in nearly all age groups](https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer)
 * [2026-10-28, 18:49:17](https://news.ycombinator.com/item?id=50278970) - [At least 68 killed in Spanish high-speed train crash](https://www.bbc.com/news/live/cv1j309d4g98t)
 * [2026-10-28, 18:34:51](https://news.ycombinator.com/item?id=50278754) - [Big Tech's thirst for water is sparking a global resistance](https://restofworld.org/2026/ai-datacenters-water-resistance-global/)
