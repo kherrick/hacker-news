@@ -11,6 +11,7 @@
 * [2026-10-26, 21:35:28](https://news.ycombinator.com/item?id=50251344) - [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 * [2026-10-26, 21:18:05](https://news.ycombinator.com/item?id=50251127) - [CorridorKey 2.0](https://corridorkey.com/)
 * [2026-10-26, 21:05:15](https://news.ycombinator.com/item?id=50250937) - [Microsoft offers voluntary buyouts to a quarter of its workforce](https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce)
+* [2026-10-26, 20:40:36](https://news.ycombinator.com/item?id=50250609) - [Image generation has come a long way since August 2022](https://www.hbrooks.com/writing/image-generation-has-come-a-long-way)
 * [2026-10-26, 19:57:32](https://news.ycombinator.com/item?id=50250016) - [Somebody please stop the spam texts](https://notes.npilk.com/stop-the-spam-texts)
 * [2026-10-26, 19:52:05](https://news.ycombinator.com/item?id=50249947) - [Init – a Rust agent harness that recompiles and hot-swaps its own core mid-task](https://initlabs.si/)
 * [2026-10-26, 19:47:58](https://news.ycombinator.com/item?id=50249883) - [What Happened to the Neanderthals?](https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html)
