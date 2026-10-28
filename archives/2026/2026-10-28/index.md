@@ -17,6 +17,7 @@
 * [2026-10-28, 17:01:23](https://news.ycombinator.com/item?id=50276792) - [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
 * [2026-10-28, 17:00:24](https://news.ycombinator.com/item?id=50276779) - [Converge (YC S23) Is Hiring a Founding Platform Engineer](https://www.runconverge.com/careers/founding-platform-engineer)
 * [2026-10-28, 16:02:07](https://news.ycombinator.com/item?id=50275890) - [Billionaires Spend 0.07% of Their Wealth to Avoid a 5% Tax](https://dsrupt.news/articles/billionaires-spend-0-07-of-their-wealth-to-avoid-a-5-tax-call-seventy-fold/)
+* [2026-10-28, 16:01:53](https://news.ycombinator.com/item?id=50275887) - [Meta censored the No Kings Instagram account during a nationwide campaign](https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram)
 * [2026-10-28, 15:46:30](https://news.ycombinator.com/item?id=50275626) - [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)
 * [2026-10-28, 15:31:59](https://news.ycombinator.com/item?id=50275375) - [26,400 live credentials found scanning 7.25M repos on China's Gitee](https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets)
 * [2026-10-28, 15:31:58](https://news.ycombinator.com/item?id=50275373) - [r/Seattle mods discover malware injection by archive.today, ban site](https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/)
