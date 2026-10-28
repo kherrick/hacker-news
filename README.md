@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-28, 09:35:21](https://news.ycombinator.com/item?id=50271032) - [Spain train crash: 'At least 10 dead' in high-speed collision](https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l)
+* [2026-10-28, 10:41:27](https://news.ycombinator.com/item?id=50271457) - [Barcelona unrest: how to fabricate a protest in the age of TikTok](https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263)
 * [2026-10-28, 08:48:21](https://news.ycombinator.com/item?id=50270764) - [Wealth Inequality in America drawn to scale](https://dreamagainusa.org/)
 * [2026-10-28, 01:47:50](https://news.ycombinator.com/item?id=50268380) - [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
 * [2026-10-27, 23:53:41](https://news.ycombinator.com/item?id=50267569) - [Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox)
-* [2026-10-27, 22:25:23](https://news.ycombinator.com/item?id=50266719) - [Hunger beats tenure: Advice for junior engineers](https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/)
 * [2026-10-27, 20:50:42](https://news.ycombinator.com/item?id=50265609) - [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
 * [2026-10-27, 20:48:49](https://news.ycombinator.com/item?id=50265594) - [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
 * [2026-10-27, 20:35:09](https://news.ycombinator.com/item?id=50265393) - [Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
@@ -30,6 +29,7 @@
 * [2026-10-24, 18:17:57](https://news.ycombinator.com/item?id=50223739) - [Decompiling Fast Food Tycoon 2: Drawing the World](https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world)
 * [2026-10-24, 08:30:32](https://news.ycombinator.com/item?id=50219275) - [A Love Letter to the Super Dimension Fortress](https://brennan.day/a-love-letter-to-the-super-dimension-fortress/)
 * [2026-10-23, 13:49:50](https://news.ycombinator.com/item?id=50208960) - [Start Doing Graph Theory](https://vertex.degree/)
+* [2026-10-23, 04:11:23](https://news.ycombinator.com/item?id=50204430) - [State of ARM Support for Puget Bench](https://www.pugetsystems.com/blog/2026/10/22/state-of-arm-support-for-puget-bench/)
 
 ## [Archives](archives/index.md)
 
