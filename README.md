@@ -18,7 +18,6 @@
 * [2026-10-27, 14:06:42](https://news.ycombinator.com/item?id=50259604) - [US Government is hiding a secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)
 * [2026-10-27, 13:02:02](https://news.ycombinator.com/item?id=50258538) - [New iMac with M6](https://www.apple.com/imac/)
 * [2026-10-27, 11:17:57](https://news.ycombinator.com/item?id=50257419) - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
-* [2026-10-26, 19:47:58](https://news.ycombinator.com/item?id=50249883) - [What Happened to the Neanderthals?](https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html)
 * [2026-10-26, 15:05:04](https://news.ycombinator.com/item?id=50245014) - [Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
 * [2026-10-26, 12:45:16](https://news.ycombinator.com/item?id=50242688) - [Jokes for the ZX81](https://spelk.press/gb/products/81-jokes-for-the-zx81)
 * [2026-10-26, 04:41:15](https://news.ycombinator.com/item?id=50239214) - [SS United States to be sunk as largest artificial reef](https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november)
@@ -29,6 +28,7 @@
 * [2026-10-24, 19:04:42](https://news.ycombinator.com/item?id=50224079) - [An examination of lost firefly species of the US and Canada](https://journaloflostspecies.org/index.php/jls/article/view/37/33)
 * [2026-10-24, 18:17:57](https://news.ycombinator.com/item?id=50223739) - [Decompiling Fast Food Tycoon 2: Drawing the World](https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world)
 * [2026-10-24, 08:30:32](https://news.ycombinator.com/item?id=50219275) - [A Love Letter to the Super Dimension Fortress](https://brennan.day/a-love-letter-to-the-super-dimension-fortress/)
+* [2026-10-23, 13:49:50](https://news.ycombinator.com/item?id=50208960) - [Start Doing Graph Theory](https://vertex.degree/)
 * [2026-10-23, 04:11:23](https://news.ycombinator.com/item?id=50204430) - [State of ARM Support for Puget Bench](https://www.pugetsystems.com/blog/2026/10/22/state-of-arm-support-for-puget-bench/)
 
 ## [Archives](archives/index.md)
