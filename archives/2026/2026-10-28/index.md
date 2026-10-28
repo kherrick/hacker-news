@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 18:49:17](https://news.ycombinator.com/item?id=50278970) - [At least 68 killed in Spanish high-speed train crash](https://www.bbc.com/news/live/cv1j309d4g98t)
 * [2026-10-28, 17:21:02](https://news.ycombinator.com/item?id=50277166) - [Mac Studio M5 Ultra 512GB Officially Released](https://www.apple.com/shop/buy-mac/mac-studio)
 * [2026-10-28, 17:13:29](https://news.ycombinator.com/item?id=50276998) - [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
 * [2026-10-28, 17:10:37](https://news.ycombinator.com/item?id=50276940) - [MacBook Pro with Touch Enabled Proled XDR Display](https://www.apple.com/macbook-pro/proled-xdr-display/)
