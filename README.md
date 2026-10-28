@@ -2,6 +2,7 @@
 
 * [2026-10-28, 22:34:30](https://news.ycombinator.com/item?id=50281902) - [Claude Code found 145K photos I deleted from my iPhone sitting in a hidden cache](https://twitter.com/coolerwave/status/2114088769112477849)
 * [2026-10-28, 21:19:30](https://news.ycombinator.com/item?id=50281044) - [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
+* [2026-10-28, 21:13:21](https://news.ycombinator.com/item?id=50280974) - [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
 * [2026-10-28, 21:03:24](https://news.ycombinator.com/item?id=50280864) - [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
 * [2026-10-28, 21:00:06](https://news.ycombinator.com/item?id=50280824) - [Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers)
 * [2026-10-28, 20:51:44](https://news.ycombinator.com/item?id=50280722) - [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
@@ -23,7 +24,6 @@
 * [2026-10-28, 13:25:11](https://news.ycombinator.com/item?id=50273171) - [Emacs Turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
 * [2026-10-28, 11:03:40](https://news.ycombinator.com/item?id=50271640) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)
-* [2026-10-26, 12:12:50](https://news.ycombinator.com/item?id=50242358) - [Rubber Duck I've Ever Had](https://blog.blockingqueue.com/the-best-rubber-duck-i-ve-ever-had)
 * [2026-10-26, 03:14:49](https://news.ycombinator.com/item?id=50238637) - [Oseberg Tapestry Fragments](https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments)
 * [2026-10-25, 13:56:07](https://news.ycombinator.com/item?id=50231649) - [Regent's Ground-Effect Vehicle Reimagines Coastal Travel](https://spectrum.ieee.org/ground-effect-vehicle)
 * [2026-10-24, 19:48:47](https://news.ycombinator.com/item?id=50224482) - [The Style Is Father of the Man](https://harpers.org/archive/2026/11/benjamin-kunkel-reviews-cormac-mccarthy-legacy-revisted/)
