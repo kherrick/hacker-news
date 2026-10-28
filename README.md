@@ -2,6 +2,7 @@
 
 * [2026-10-28, 19:15:07](https://news.ycombinator.com/item?id=50279308) - [Rising rates of colorectal cancer found in nearly all age groups](https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer)
 * [2026-10-28, 18:49:17](https://news.ycombinator.com/item?id=50278970) - [At least 68 killed in Spanish high-speed train crash](https://www.bbc.com/news/live/cv1j309d4g98t)
+* [2026-10-28, 17:45:24](https://news.ycombinator.com/item?id=50277755) - [Spiders Spin 'Silk Dope' into Nature's Toughest Material](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
 * [2026-10-28, 17:13:29](https://news.ycombinator.com/item?id=50276998) - [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
 * [2026-10-28, 17:10:37](https://news.ycombinator.com/item?id=50276940) - [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
 * [2026-10-28, 17:08:45](https://news.ycombinator.com/item?id=50276906) - [It's now official, tech is the new tobacco](https://cailinoconnor.substack.com/p/its-now-official-tech-is-the-new)
@@ -27,7 +28,6 @@
 * [2026-10-25, 18:49:48](https://news.ycombinator.com/item?id=50234796) - [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
 * [2026-10-25, 13:56:07](https://news.ycombinator.com/item?id=50231649) - [Regent's Ground-Effect Vehicle Reimagines Coastal Travel](https://spectrum.ieee.org/ground-effect-vehicle)
 * [2026-10-24, 18:17:57](https://news.ycombinator.com/item?id=50223739) - [Decompiling Fast Food Tycoon 2: Drawing the World](https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world)
-* [2026-10-24, 17:02:47](https://news.ycombinator.com/item?id=50223109) - [From confession to conspiracy: How the Wedgewood fake polls story spread](https://www.cip.uw.edu/2026/10/23/from-confession-to-conspiracy-how-the-wedgewood-fake-polls-story-spread/)
 * [2026-10-23, 14:07:21](https://news.ycombinator.com/item?id=50209269) - [Gaussian Splats part 3: There's always a bigger scene](https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene)
 * [2026-10-23, 13:49:50](https://news.ycombinator.com/item?id=50208960) - [Start Doing Graph Theory](https://vertex.degree/)
 
