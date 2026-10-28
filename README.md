@@ -11,6 +11,7 @@
 * [2026-10-27, 19:55:21](https://news.ycombinator.com/item?id=50264857) - [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
 * [2026-10-27, 19:55:06](https://news.ycombinator.com/item?id=50264853) - [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
 * [2026-10-27, 17:48:15](https://news.ycombinator.com/item?id=50262982) - [Radio-tagged Monarch butterflies](https://news.vt.edu/articles/2026/10/cmi-monarchs.html)
+* [2026-10-27, 17:04:50](https://news.ycombinator.com/item?id=50262229) - [Introducing LFM3: Every Modality for Specialized Intelligence](https://www.liquid.ai/blog/lfm3)
 * [2026-10-27, 16:51:22](https://news.ycombinator.com/item?id=50261998) - [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [2026-10-27, 16:29:02](https://news.ycombinator.com/item?id=50261647) - [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)
 * [2026-10-27, 16:08:32](https://news.ycombinator.com/item?id=50261352) - [New 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
@@ -29,7 +30,6 @@
 * [2026-10-24, 18:17:57](https://news.ycombinator.com/item?id=50223739) - [Decompiling Fast Food Tycoon 2: Drawing the World](https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world)
 * [2026-10-24, 08:30:32](https://news.ycombinator.com/item?id=50219275) - [A Love Letter to the Super Dimension Fortress](https://brennan.day/a-love-letter-to-the-super-dimension-fortress/)
 * [2026-10-23, 13:49:50](https://news.ycombinator.com/item?id=50208960) - [Start Doing Graph Theory](https://vertex.degree/)
-* [2026-10-23, 04:11:23](https://news.ycombinator.com/item?id=50204430) - [State of ARM Support for Puget Bench](https://www.pugetsystems.com/blog/2026/10/22/state-of-arm-support-for-puget-bench/)
 
 ## [Archives](archives/index.md)
 
