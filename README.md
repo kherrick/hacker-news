@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-28, 11:03:40](https://news.ycombinator.com/item?id=50271640) - [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-28, 10:41:27](https://news.ycombinator.com/item?id=50271457) - [Barcelona unrest: how to fabricate a protest in the age of TikTok](https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263)
 * [2026-10-28, 09:43:44](https://news.ycombinator.com/item?id=50271088) - [Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/)
-* [2026-10-28, 08:48:21](https://news.ycombinator.com/item?id=50270764) - [Wealth Inequality in America drawn to scale](https://dreamagainusa.org/)
 * [2026-10-28, 01:47:50](https://news.ycombinator.com/item?id=50268380) - [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
 * [2026-10-27, 23:53:41](https://news.ycombinator.com/item?id=50267569) - [Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox)
 * [2026-10-27, 20:50:42](https://news.ycombinator.com/item?id=50265609) - [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
@@ -19,7 +19,6 @@
 * [2026-10-27, 14:06:42](https://news.ycombinator.com/item?id=50259604) - [US Government is hiding a secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)
 * [2026-10-27, 13:02:02](https://news.ycombinator.com/item?id=50258538) - [New iMac with M6](https://www.apple.com/imac/)
 * [2026-10-27, 11:17:57](https://news.ycombinator.com/item?id=50257419) - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
-* [2026-10-26, 15:05:04](https://news.ycombinator.com/item?id=50245014) - [Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
 * [2026-10-26, 12:45:16](https://news.ycombinator.com/item?id=50242688) - [Jokes for the ZX81](https://spelk.press/gb/products/81-jokes-for-the-zx81)
 * [2026-10-26, 04:41:15](https://news.ycombinator.com/item?id=50239214) - [SS United States to be sunk as largest artificial reef](https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november)
 * [2026-10-26, 04:28:49](https://news.ycombinator.com/item?id=50239122) - [Closing the Sea: Lessons from Ancient Mediterranean Blockades](https://maritime-executive.com/editorials/closing-the-sea-lessons-from-ancient-mediterranean-blockades)
@@ -29,6 +28,7 @@
 * [2026-10-24, 19:04:42](https://news.ycombinator.com/item?id=50224079) - [An examination of lost firefly species of the US and Canada](https://journaloflostspecies.org/index.php/jls/article/view/37/33)
 * [2026-10-24, 18:17:57](https://news.ycombinator.com/item?id=50223739) - [Decompiling Fast Food Tycoon 2: Drawing the World](https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world)
 * [2026-10-24, 08:30:32](https://news.ycombinator.com/item?id=50219275) - [A Love Letter to the Super Dimension Fortress](https://brennan.day/a-love-letter-to-the-super-dimension-fortress/)
+* [2026-10-24, 03:46:00](https://news.ycombinator.com/item?id=50218199) - [The Colors of a Soap Film](https://aseemrb.me/blog/colors-of-a-soap-film/)
 * [2026-10-23, 13:49:50](https://news.ycombinator.com/item?id=50208960) - [Start Doing Graph Theory](https://vertex.degree/)
 
 ## [Archives](archives/index.md)
