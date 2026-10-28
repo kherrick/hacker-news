@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 15:31:59](https://news.ycombinator.com/item?id=50275375) - [26,400 live credentials found scanning 7.25M repos on China's Gitee](https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets)
+* [2026-10-28, 15:24:11](https://news.ycombinator.com/item?id=50275235) - [Amazon rainforest cut down to build highway for COP climate summit (2025)](https://www.bbc.com/news/articles/c9vy191rgn1o)
+* [2026-10-28, 14:54:07](https://news.ycombinator.com/item?id=50274706) - [Tesla Semi catches fire on I-880](https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/)
 * [2026-10-28, 14:38:22](https://news.ycombinator.com/item?id=50274409) - [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
 * [2026-10-28, 14:30:26](https://news.ycombinator.com/item?id=50274251) - [AlpineBSD](https://wiki.alpinebsd.org)
 * [2026-10-28, 14:24:20](https://news.ycombinator.com/item?id=50274139) - [An architectural comparison of Obsidian Canvas and Heptabase](https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase)
