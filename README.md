@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-28, 18:34:51](https://news.ycombinator.com/item?id=50278754) - [Big Tech's thirst for water is sparking a global resistance](https://restofworld.org/2026/ai-datacenters-water-resistance-global/)
 * [2026-10-28, 17:45:24](https://news.ycombinator.com/item?id=50277755) - [Spiders Spin 'Silk Dope' into Nature's Toughest Material](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
 * [2026-10-28, 17:13:29](https://news.ycombinator.com/item?id=50276998) - [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
 * [2026-10-28, 17:10:37](https://news.ycombinator.com/item?id=50276940) - [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
-* [2026-10-28, 17:08:45](https://news.ycombinator.com/item?id=50276906) - [It's now official, tech is the new tobacco](https://cailinoconnor.substack.com/p/its-now-official-tech-is-the-new)
 * [2026-10-28, 17:07:09](https://news.ycombinator.com/item?id=50276883) - [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
 * [2026-10-28, 17:01:23](https://news.ycombinator.com/item?id=50276792) - [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
 * [2026-10-28, 17:00:24](https://news.ycombinator.com/item?id=50276779) - [Converge (YC S23) Is Hiring a Founding Platform Engineer](https://www.runconverge.com/careers/founding-platform-engineer)
