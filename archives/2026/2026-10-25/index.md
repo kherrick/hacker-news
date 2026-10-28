@@ -32,6 +32,7 @@
 * [2026-10-25, 18:23:54](https://news.ycombinator.com/item?id=50234474) - [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
 * [2026-10-25, 18:11:38](https://news.ycombinator.com/item?id=50234329) - [All you need is Wide Events, not \"Metrics, Logs and Traces\"](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
 * [2026-10-25, 18:04:11](https://news.ycombinator.com/item?id=50234232) - [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
+* [2026-10-25, 18:00:04](https://news.ycombinator.com/item?id=50234183) - [Fine-tuned Qwen on my 16gb GPU to respond without the letter e](https://kevin-wu.ca/blog/qwn/)
 * [2026-10-25, 17:52:28](https://news.ycombinator.com/item?id=50234108) - [Ask HN: What is the main bottleneck facing Agentic AI today?](https://news.ycombinator.com/item?id=50234108)
 * [2026-10-25, 17:43:20](https://news.ycombinator.com/item?id=50234028) - [Learning to Be Me (1990) [pdf]](https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf)
 * [2026-10-25, 17:30:55](https://news.ycombinator.com/item?id=50233929) - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
