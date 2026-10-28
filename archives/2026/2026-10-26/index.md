@@ -55,6 +55,7 @@
 * [2026-10-26, 12:58:27](https://news.ycombinator.com/item?id=50242843) - [Brown student maps the hidden global labor powering AI](https://www.brown.edu/news/2026-10-26/ai-data-workers)
 * [2026-10-26, 12:45:16](https://news.ycombinator.com/item?id=50242688) - [81 Jokes for the ZX81](https://spelk.press/gb/products/81-jokes-for-the-zx81)
 * [2026-10-26, 12:32:15](https://news.ycombinator.com/item?id=50242555) - [Writing Is Closer to Thought Than Code](https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code)
+* [2026-10-26, 12:12:50](https://news.ycombinator.com/item?id=50242358) - [Rubber Duck I've Ever Had](https://blog.blockingqueue.com/the-best-rubber-duck-i-ve-ever-had)
 * [2026-10-26, 11:15:50](https://news.ycombinator.com/item?id=50241925) - [Pharo 14](https://pharo.org/news/2026-10-26-Pharo14Release.html)
 * [2026-10-26, 11:15:43](https://news.ycombinator.com/item?id=50241924) - [Tasks as Code: Move Your Tickets into the Repository](https://typemill.net/knowledge-hub/tasks-as-code)
 * [2026-10-26, 10:32:14](https://news.ycombinator.com/item?id=50241664) - [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
