@@ -7,6 +7,7 @@
 * [2026-10-25, 23:52:05](https://news.ycombinator.com/item?id=50237224) - [Attention Is Not What You Need](https://arxiv.org/abs/2512.19428)
 * [2026-10-25, 23:27:30](https://news.ycombinator.com/item?id=50237078) - [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)
 * [2026-10-25, 23:18:42](https://news.ycombinator.com/item?id=50237019) - [Show HN: Glider 4.0 Unofficial Web Edition (Mac game port)](https://dbohdan.github.io/glider/)
+* [2026-10-25, 23:18:18](https://news.ycombinator.com/item?id=50237014) - [Counting Sand Dunes in the Simpson Desert](https://www.fromtheroad.ford.com/img/en/articles/2026/simpson-desert-ranger-super-duty-counting-dunes)
 * [2026-10-25, 22:49:06](https://news.ycombinator.com/item?id=50236828) - [Apollo says AI has delivered 'zero financial payoff' outside the tech industry](https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10)
 * [2026-10-25, 22:46:27](https://news.ycombinator.com/item?id=50236807) - [Internet Security: We're Doomed](https://www.nationalreview.com/2026/10/were-doomed/)
 * [2026-10-25, 22:39:42](https://news.ycombinator.com/item?id=50236748) - [Proton Flock Camera Map](https://proton.me/flock-camera-map)
