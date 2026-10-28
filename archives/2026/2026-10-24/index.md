@@ -16,6 +16,7 @@
 * [2026-10-24, 21:42:47](https://news.ycombinator.com/item?id=50225663) - [The Importance of Limitations for Creativity and Learning](https://ratfactor.com/cards/limitations)
 * [2026-10-24, 21:42:35](https://news.ycombinator.com/item?id=50225659) - [Forecasting Financial Markets with Timestral](https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/)
 * [2026-10-24, 20:30:31](https://news.ycombinator.com/item?id=50224916) - [Steal My Bitcoin](https://stealmybitcoin.com/)
+* [2026-10-24, 19:48:47](https://news.ycombinator.com/item?id=50224482) - [The Style Is Father of the Man](https://harpers.org/archive/2026/11/benjamin-kunkel-reviews-cormac-mccarthy-legacy-revisted/)
 * [2026-10-24, 19:47:19](https://news.ycombinator.com/item?id=50224463) - [No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
 * [2026-10-24, 19:43:27](https://news.ycombinator.com/item?id=50224422) - [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
 * [2026-10-24, 19:27:41](https://news.ycombinator.com/item?id=50224300) - [The Goose Programming Language](https://aardappel.github.io/goose/)
