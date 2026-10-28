@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-28, 17:21:02](https://news.ycombinator.com/item?id=50277166) - [Mac Studio M5 Ultra 512GB Officially Released](https://www.apple.com/shop/buy-mac/mac-studio)
+* [2026-10-28, 17:13:29](https://news.ycombinator.com/item?id=50276998) - [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
 * [2026-10-28, 17:10:37](https://news.ycombinator.com/item?id=50276940) - [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
 * [2026-10-28, 17:07:09](https://news.ycombinator.com/item?id=50276883) - [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
 * [2026-10-28, 17:01:23](https://news.ycombinator.com/item?id=50276792) - [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
@@ -21,7 +22,6 @@
 * [2026-10-27, 20:35:09](https://news.ycombinator.com/item?id=50265393) - [Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
 * [2026-10-27, 19:55:21](https://news.ycombinator.com/item?id=50264857) - [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
 * [2026-10-27, 19:55:06](https://news.ycombinator.com/item?id=50264853) - [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
-* [2026-10-27, 16:51:22](https://news.ycombinator.com/item?id=50261998) - [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)
 * [2026-10-25, 18:49:48](https://news.ycombinator.com/item?id=50234796) - [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
 * [2026-10-25, 18:00:04](https://news.ycombinator.com/item?id=50234183) - [Fine-tuned Qwen on my 16gb GPU to respond without the letter e](https://kevin-wu.ca/blog/qwn/)
