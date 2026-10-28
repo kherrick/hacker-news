@@ -20,7 +20,6 @@
 * [2026-10-27, 16:06:01](https://news.ycombinator.com/item?id=50261319) - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
 * [2026-10-27, 15:28:26](https://news.ycombinator.com/item?id=50260814) - [Anthropic trained Claude on illegally obtained Stanford professors' books](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/)
 * [2026-10-27, 14:06:42](https://news.ycombinator.com/item?id=50259604) - [US Government is hiding a secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)
-* [2026-10-27, 13:23:22](https://news.ycombinator.com/item?id=50258868) - [Here be monsters: What do you still need to know when agents do the work?](https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work)
 * [2026-10-27, 13:02:02](https://news.ycombinator.com/item?id=50258538) - [New iMac with M6](https://www.apple.com/imac/)
 * [2026-10-27, 11:17:57](https://news.ycombinator.com/item?id=50257419) - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 * [2026-10-27, 11:08:15](https://news.ycombinator.com/item?id=50257326) - [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
@@ -29,6 +28,7 @@
 * [2026-10-26, 12:45:16](https://news.ycombinator.com/item?id=50242688) - [81 Jokes for the ZX81](https://spelk.press/gb/products/81-jokes-for-the-zx81)
 * [2026-10-26, 04:41:15](https://news.ycombinator.com/item?id=50239214) - [SS United States to be sunk as largest artificial reef](https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november)
 * [2026-10-25, 21:07:38](https://news.ycombinator.com/item?id=50236073) - [Nvidia and Micron Make Up 34% of America's Earnings Boom](https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53)
+* [2026-10-25, 18:49:48](https://news.ycombinator.com/item?id=50234796) - [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
 * [2026-10-24, 19:04:42](https://news.ycombinator.com/item?id=50224079) - [An examination of lost firefly species of the US and Canada](https://journaloflostspecies.org/index.php/jls/article/view/37/33)
 
 ## [Archives](archives/index.md)

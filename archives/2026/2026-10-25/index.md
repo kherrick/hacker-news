@@ -25,6 +25,7 @@
 * [2026-10-25, 19:11:31](https://news.ycombinator.com/item?id=50235017) - [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
 * [2026-10-25, 19:10:36](https://news.ycombinator.com/item?id=50235010) - [Gheist campaign plants secret-dumping workflows using stolen GitHub tokens](https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles)
 * [2026-10-25, 18:58:14](https://news.ycombinator.com/item?id=50234879) - [Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/)
+* [2026-10-25, 18:49:48](https://news.ycombinator.com/item?id=50234796) - [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
 * [2026-10-25, 18:43:01](https://news.ycombinator.com/item?id=50234707) - [APC says let there be light, with standards to speed up photonics manufacturing](https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950)
 * [2026-10-25, 18:24:20](https://news.ycombinator.com/item?id=50234480) - [I made a virtual pet fruit fly that Twitch chat can interact with](https://www.twitch.tv/flytwitcher)
 * [2026-10-25, 18:23:54](https://news.ycombinator.com/item?id=50234474) - [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
