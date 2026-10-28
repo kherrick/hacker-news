@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 12:44:46](https://news.ycombinator.com/item?id=50272702) - [One dead LED killed a working TV](https://train-it.eu/blog/one-dead-led-killed-a-working-tv/)
+* [2026-10-28, 12:35:41](https://news.ycombinator.com/item?id=50272596) - [Two high-speed trains collide near Toledo, Spain](https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash)
 * [2026-10-28, 11:54:23](https://news.ycombinator.com/item?id=50272145) - [Amazon to buy satellite firm Globalstar in $11.57B deal](https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/)
 * [2026-10-28, 11:08:49](https://news.ycombinator.com/item?id=50271685) - [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
 * [2026-10-28, 11:03:40](https://news.ycombinator.com/item?id=50271640) - [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
