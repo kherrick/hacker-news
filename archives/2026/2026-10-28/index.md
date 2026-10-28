@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 17:10:37](https://news.ycombinator.com/item?id=50276940) - [MacBook Pro with Touch Enabled Proled XDR Display](https://www.apple.com/macbook-pro/proled-xdr-display/)
+* [2026-10-28, 17:07:09](https://news.ycombinator.com/item?id=50276883) - [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
+* [2026-10-28, 17:01:23](https://news.ycombinator.com/item?id=50276792) - [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+* [2026-10-28, 17:00:24](https://news.ycombinator.com/item?id=50276779) - [Converge (YC S23) Is Hiring a Founding Platform Engineer](https://www.runconverge.com/careers/founding-platform-engineer)
 * [2026-10-28, 16:02:07](https://news.ycombinator.com/item?id=50275890) - [Billionaires Spend 0.07% of Their Wealth to Avoid a 5% Tax](https://dsrupt.news/articles/billionaires-spend-0-07-of-their-wealth-to-avoid-a-5-tax-call-seventy-fold/)
 * [2026-10-28, 15:46:30](https://news.ycombinator.com/item?id=50275626) - [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)
 * [2026-10-28, 15:31:59](https://news.ycombinator.com/item?id=50275375) - [26,400 live credentials found scanning 7.25M repos on China's Gitee](https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets)
@@ -35,5 +39,6 @@
 * [2026-10-28, 05:29:11](https://news.ycombinator.com/item?id=50269651) - [Artificial Analysis Intelligence Index v5.0](https://artificialanalysis.ai/methodology/intelligence-benchmarking)
 * [2026-10-28, 04:57:11](https://news.ycombinator.com/item?id=50269492) - [碁の国: Play Chess as Town Building](https://gonokuni.plpl.town/)
 * [2026-10-28, 03:06:22](https://news.ycombinator.com/item?id=50268868) - [Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5)
+* [2026-10-28, 02:01:51](https://news.ycombinator.com/item?id=50268478) - [Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)](https://arxiv.org/abs/2610.36341)
 * [2026-10-28, 01:47:50](https://news.ycombinator.com/item?id=50268380) - [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code)
 * [2026-10-28, 00:35:33](https://news.ycombinator.com/item?id=50267890) - ['Forced out': HOA fees to rise to $2,500 a month](https://www.wsoctv.com/news/local/forced-out-hoa-fees-rise-7500-month/XCW2HIHUKNBMTNWVQSYXQZJCY4/)
