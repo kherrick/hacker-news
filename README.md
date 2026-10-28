@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-28, 23:13:59](https://news.ycombinator.com/item?id=50282296) - [Google AI Search Refuses to Say Who Won the 2020 Election](https://karlbode.com/google-ai-search-refuses-to-say-who-won-the-2020-election/)
+* [2026-10-28, 22:53:27](https://news.ycombinator.com/item?id=50282094) - [Outrage after airport self-service checkout asks for 18% tip](https://www.the-independent.com/life-style/self-service-airport-tipping-culture-b3075115.html)
 * [2026-10-28, 21:19:30](https://news.ycombinator.com/item?id=50281044) - [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
 * [2026-10-28, 21:13:21](https://news.ycombinator.com/item?id=50280974) - [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
-* [2026-10-28, 21:03:24](https://news.ycombinator.com/item?id=50280864) - [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
 * [2026-10-28, 21:00:06](https://news.ycombinator.com/item?id=50280824) - [Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers)
 * [2026-10-28, 20:51:44](https://news.ycombinator.com/item?id=50280722) - [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
 * [2026-10-28, 20:46:52](https://news.ycombinator.com/item?id=50280662) - [Leak website releases data on DHS employees](https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/)
@@ -21,7 +22,6 @@
 * [2026-10-28, 14:02:20](https://news.ycombinator.com/item?id=50273731) - [The Agent SDK](https://cursor.com/blog/agent-sdk)
 * [2026-10-28, 13:41:30](https://news.ycombinator.com/item?id=50273396) - [Kentucky man becomes the first humanist granted religious exemption from AI](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
 * [2026-10-28, 13:25:11](https://news.ycombinator.com/item?id=50273171) - [Emacs Turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
-* [2026-10-28, 11:54:23](https://news.ycombinator.com/item?id=50272145) - [US agency approves Amazon Leo’s $11.5B acquisition of Globalstar](https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/)
 * [2026-10-28, 11:03:40](https://news.ycombinator.com/item?id=50271640) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-27, 16:51:22](https://news.ycombinator.com/item?id=50261998) - [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)
