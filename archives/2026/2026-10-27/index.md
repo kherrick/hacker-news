@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-27](index.md)
 
+* [2026-10-27, 23:46:21](https://news.ycombinator.com/item?id=50267494) - [Free daily JSON feed of Shanghai government subsidy notices](https://github.com/ZhongGheart/china-policy-data)
 * [2026-10-27, 22:31:15](https://news.ycombinator.com/item?id=50266780) - [Reviewers rarely talk about reliability. Owners bring it up twice as often](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
 * [2026-10-27, 22:23:37](https://news.ycombinator.com/item?id=50266701) - [Expanding our partnership with GSA to bring Claude to all levels of government](https://www.anthropic.com/news/expanding-partnership-gsa)
 * [2026-10-27, 21:19:15](https://news.ycombinator.com/item?id=50265960) - [One year of Dioxus fullstack in production: the good, the painful](https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful)
