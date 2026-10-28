@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-28, 16:02:07](https://news.ycombinator.com/item?id=50275890) - [Billionaires Spend 0.07% of Their Wealth to Avoid a 5% Tax](https://dsrupt.news/articles/billionaires-spend-0-07-of-their-wealth-to-avoid-a-5-tax-call-seventy-fold/)
+* [2026-10-28, 15:46:30](https://news.ycombinator.com/item?id=50275626) - [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)
 * [2026-10-28, 15:31:59](https://news.ycombinator.com/item?id=50275375) - [26,400 live credentials found scanning 7.25M repos on China's Gitee](https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets)
 * [2026-10-28, 15:24:11](https://news.ycombinator.com/item?id=50275235) - [Amazon rainforest cut down to build highway for COP climate summit (2025)](https://www.bbc.com/news/articles/c9vy191rgn1o)
 * [2026-10-28, 14:54:07](https://news.ycombinator.com/item?id=50274706) - [Tesla Semi catches fire on I-880](https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/)
@@ -20,9 +22,7 @@
 * [2026-10-27, 16:51:22](https://news.ycombinator.com/item?id=50261998) - [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [2026-10-27, 16:08:32](https://news.ycombinator.com/item?id=50261352) - [New 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
 * [2026-10-27, 16:06:01](https://news.ycombinator.com/item?id=50261319) - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
-* [2026-10-27, 13:02:02](https://news.ycombinator.com/item?id=50258538) - [New iMac with M6](https://www.apple.com/imac/)
 * [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen](https://www.circuithub.com/post/unveiling-the-grid)
-* [2026-10-26, 04:41:15](https://news.ycombinator.com/item?id=50239214) - [SS United States to be sunk as largest artificial reef](https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november)
 * [2026-10-25, 18:49:48](https://news.ycombinator.com/item?id=50234796) - [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
 * [2026-10-25, 01:39:51](https://news.ycombinator.com/item?id=50227400) - [MacOS Extensions Pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)
 * [2026-10-24, 18:17:57](https://news.ycombinator.com/item?id=50223739) - [Decompiling Fast Food Tycoon 2: Drawing the World](https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world)
