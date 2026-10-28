@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-28, 19:15:07](https://news.ycombinator.com/item?id=50279308) - [Rising rates of colorectal cancer found in nearly all age groups](https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer)
-* [2026-10-28, 18:49:17](https://news.ycombinator.com/item?id=50278970) - [At least 68 killed in Spanish high-speed train crash](https://www.bbc.com/news/live/cv1j309d4g98t)
 * [2026-10-28, 17:45:24](https://news.ycombinator.com/item?id=50277755) - [Spiders Spin 'Silk Dope' into Nature's Toughest Material](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
 * [2026-10-28, 17:13:29](https://news.ycombinator.com/item?id=50276998) - [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
 * [2026-10-28, 17:10:37](https://news.ycombinator.com/item?id=50276940) - [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
@@ -20,6 +18,7 @@
 * [2026-10-28, 11:03:40](https://news.ycombinator.com/item?id=50271640) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-28, 02:01:51](https://news.ycombinator.com/item?id=50268478) - [Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)](https://arxiv.org/abs/2610.36341)
 * [2026-10-28, 01:47:50](https://news.ycombinator.com/item?id=50268380) - [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
+* [2026-10-27, 20:50:42](https://news.ycombinator.com/item?id=50265609) - [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
 * [2026-10-27, 19:55:21](https://news.ycombinator.com/item?id=50264857) - [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
 * [2026-10-27, 19:55:06](https://news.ycombinator.com/item?id=50264853) - [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
 * [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)
@@ -27,6 +26,7 @@
 * [2026-10-25, 23:18:18](https://news.ycombinator.com/item?id=50237014) - [Counting Sand Dunes in the Simpson Desert](https://www.fromtheroad.ford.com/img/en/articles/2026/simpson-desert-ranger-super-duty-counting-dunes)
 * [2026-10-25, 18:49:48](https://news.ycombinator.com/item?id=50234796) - [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
 * [2026-10-25, 13:56:07](https://news.ycombinator.com/item?id=50231649) - [Regent's Ground-Effect Vehicle Reimagines Coastal Travel](https://spectrum.ieee.org/ground-effect-vehicle)
+* [2026-10-25, 01:39:51](https://news.ycombinator.com/item?id=50227400) - [MacOS Extensions Pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)
 * [2026-10-24, 18:17:57](https://news.ycombinator.com/item?id=50223739) - [Decompiling Fast Food Tycoon 2: Drawing the World](https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world)
 * [2026-10-23, 14:07:21](https://news.ycombinator.com/item?id=50209269) - [Gaussian Splats part 3: There's always a bigger scene](https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene)
 * [2026-10-23, 13:49:50](https://news.ycombinator.com/item?id=50208960) - [Start Doing Graph Theory](https://vertex.degree/)
