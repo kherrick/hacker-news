@@ -53,6 +53,7 @@
 * [2026-10-25, 14:45:13](https://news.ycombinator.com/item?id=50232101) - [OpenLDK: Bringing the Java World into Common Lisp](https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/)
 * [2026-10-25, 14:37:49](https://news.ycombinator.com/item?id=50232035) - [A Few Thoughts on Intensity](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/)
 * [2026-10-25, 14:05:03](https://news.ycombinator.com/item?id=50231722) - [R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai)
+* [2026-10-25, 13:56:07](https://news.ycombinator.com/item?id=50231649) - [Regent's Ground-Effect Vehicle Reimagines Coastal Travel](https://spectrum.ieee.org/ground-effect-vehicle)
 * [2026-10-25, 13:28:06](https://news.ycombinator.com/item?id=50231349) - [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
 * [2026-10-25, 13:24:37](https://news.ycombinator.com/item?id=50231310) - [US inequality is getting worse in ways you might not expect](https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075)
 * [2026-10-25, 13:11:22](https://news.ycombinator.com/item?id=50231189) - [Samsung TVs look for microphones in your house via Bluetooth and then spy events](https://twitter.com/freddier/status/2114042326758867453)
