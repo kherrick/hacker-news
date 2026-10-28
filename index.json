@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-28, 12:44:46",
-      "https://news.ycombinator.com/item?id=50272702"
-    ],
-    [
-      "One dead LED killed a working TV",
-      "https://train-it.eu/blog/one-dead-led-killed-a-working-tv/"
-    ]
-  ],
-  [
-    [
       "2026-10-28, 12:35:41",
       "https://news.ycombinator.com/item?id=50272596"
     ],
@@ -57,6 +47,16 @@
     [
       "Git for the US Code",
       "https://lexifina.com/blog/git-for-the-us-code"
+    ]
+  ],
+  [
+    [
+      "2026-10-27, 23:53:41",
+      "https://news.ycombinator.com/item?id=50267569"
+    ],
+    [
+      "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+      "https://github.com/maharmstone/moxnox"
     ]
   ],
   [
