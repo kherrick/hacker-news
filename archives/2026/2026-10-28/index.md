@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
 * [2026-10-28, 14:38:22](https://news.ycombinator.com/item?id=50274409) - [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
+* [2026-10-28, 14:30:26](https://news.ycombinator.com/item?id=50274251) - [AlpineBSD](https://wiki.alpinebsd.org)
 * [2026-10-28, 14:24:20](https://news.ycombinator.com/item?id=50274139) - [An architectural comparison of Obsidian Canvas and Heptabase](https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase)
 * [2026-10-28, 14:02:20](https://news.ycombinator.com/item?id=50273731) - [The Agent SDK](https://cursor.com/blog/agent-sdk)
 * [2026-10-28, 13:56:21](https://news.ycombinator.com/item?id=50273623) - [Harvey raised 500M for legal AI, I built the same and open sourced it](https://github.com/thomasunise/casecite)
