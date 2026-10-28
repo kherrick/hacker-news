@@ -8,6 +8,7 @@
 * [2026-10-28, 21:03:24](https://news.ycombinator.com/item?id=50280864) - [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
 * [2026-10-28, 21:00:06](https://news.ycombinator.com/item?id=50280824) - [Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers)
 * [2026-10-28, 20:51:44](https://news.ycombinator.com/item?id=50280722) - [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
+* [2026-10-28, 20:46:52](https://news.ycombinator.com/item?id=50280662) - [Leak website releases data on DHS employees](https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/)
 * [2026-10-28, 20:11:55](https://news.ycombinator.com/item?id=50280197) - [Alphabet Announces Third Quarter 2026 Results [pdf]](https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf)
 * [2026-10-28, 20:10:16](https://news.ycombinator.com/item?id=50280178) - [Google AI gets cagey when asked who won the 2020 elections](https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/)
 * [2026-10-28, 19:15:07](https://news.ycombinator.com/item?id=50279308) - [Rising rates of colorectal cancer found in nearly all age groups](https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer)
