@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-10-28, 09:35:21",
-      "https://news.ycombinator.com/item?id=50271032"
+      "2026-10-28, 10:41:27",
+      "https://news.ycombinator.com/item?id=50271457"
     ],
     [
-      "Spain train crash: 'At least 10 dead' in high-speed collision",
-      "https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l"
+      "Barcelona unrest: how to fabricate a protest in the age of TikTok",
+      "https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
       "https://github.com/maharmstone/moxnox"
-    ]
-  ],
-  [
-    [
-      "2026-10-27, 22:25:23",
-      "https://news.ycombinator.com/item?id=50266719"
-    ],
-    [
-      "Hunger beats tenure: Advice for junior engineers",
-      "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Start Doing Graph Theory",
       "https://vertex.degree/"
+    ]
+  ],
+  [
+    [
+      "2026-10-23, 04:11:23",
+      "https://news.ycombinator.com/item?id=50204430"
+    ],
+    [
+      "State of ARM Support for Puget Bench",
+      "https://www.pugetsystems.com/blog/2026/10/22/state-of-arm-support-for-puget-bench/"
     ]
   ]
 ]
