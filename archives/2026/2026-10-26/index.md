@@ -48,6 +48,7 @@
 * [2026-10-26, 13:47:33](https://news.ycombinator.com/item?id=50243646) - [OLED iPad Mini](https://www.apple.com/shop/buy-ipad/ipad-mini)
 * [2026-10-26, 13:20:04](https://news.ycombinator.com/item?id=50243153) - [Land Value Capture in Practice: Ethiopia's Urban Land Lease System](https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections)
 * [2026-10-26, 13:13:36](https://news.ycombinator.com/item?id=50243061) - [The new iPad mini](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/)
+* [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen](https://www.circuithub.com/post/unveiling-the-grid)
 * [2026-10-26, 13:04:50](https://news.ycombinator.com/item?id=50242939) - [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
 * [2026-10-26, 12:59:48](https://news.ycombinator.com/item?id=50242870) - [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
 * [2026-10-26, 12:58:27](https://news.ycombinator.com/item?id=50242843) - [Brown student maps the hidden global labor powering AI](https://www.brown.edu/news/2026-10-26/ai-data-workers)
