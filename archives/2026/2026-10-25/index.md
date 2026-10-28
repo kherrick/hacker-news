@@ -61,6 +61,7 @@
 * [2026-10-25, 12:47:20](https://news.ycombinator.com/item?id=50230995) - [Imagine an AI future where being banned means you are now economically useless](https://twitter.com/boneGPT/status/2114035719853265264)
 * [2026-10-25, 12:43:52](https://news.ycombinator.com/item?id=50230965) - [Challenge Is Gone](https://blog.alxgsv.com/challenge-is-gone/)
 * [2026-10-25, 12:37:54](https://news.ycombinator.com/item?id=50230917) - [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)
+* [2026-10-25, 12:35:37](https://news.ycombinator.com/item?id=50230896) - [Assembly Nights](https://ratfactor.com/assembly-nights)
 * [2026-10-25, 11:09:12](https://news.ycombinator.com/item?id=50230384) - [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
 * [2026-10-25, 10:42:01](https://news.ycombinator.com/item?id=50230181) - [Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)
 * [2026-10-25, 09:56:49](https://news.ycombinator.com/item?id=50229861) - [France asked ISPs to prepare temporary DNS blocks for major social platforms](https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ)

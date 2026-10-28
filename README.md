@@ -16,7 +16,6 @@
 * [2026-10-27, 17:04:50](https://news.ycombinator.com/item?id=50262229) - [Introducing LFM3: Every Modality for Specialized Intelligence](https://www.liquid.ai/blog/lfm3)
 * [2026-10-27, 16:51:22](https://news.ycombinator.com/item?id=50261998) - [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [2026-10-27, 16:29:02](https://news.ycombinator.com/item?id=50261647) - [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)
-* [2026-10-27, 16:25:30](https://news.ycombinator.com/item?id=50261589) - [Amazon Is Gutting Its AI Division After Sustained Failure](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova)
 * [2026-10-27, 16:08:32](https://news.ycombinator.com/item?id=50261352) - [New 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
 * [2026-10-27, 16:06:01](https://news.ycombinator.com/item?id=50261319) - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
 * [2026-10-27, 14:06:42](https://news.ycombinator.com/item?id=50259604) - [US Government is hiding a secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)
@@ -28,6 +27,7 @@
 * [2026-10-26, 04:41:15](https://news.ycombinator.com/item?id=50239214) - [SS United States to be sunk as largest artificial reef](https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november)
 * [2026-10-25, 21:07:38](https://news.ycombinator.com/item?id=50236073) - [Nvidia and Micron Make Up 34% of America's Earnings Boom](https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53)
 * [2026-10-25, 18:49:48](https://news.ycombinator.com/item?id=50234796) - [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
+* [2026-10-25, 12:35:37](https://news.ycombinator.com/item?id=50230896) - [Assembly Nights](https://ratfactor.com/assembly-nights)
 * [2026-10-24, 19:04:42](https://news.ycombinator.com/item?id=50224079) - [An examination of lost firefly species of the US and Canada](https://journaloflostspecies.org/index.php/jls/article/view/37/33)
 * [2026-10-24, 02:51:39](https://news.ycombinator.com/item?id=50217978) - [Tabletop Whale is an original science illustration blog](https://tabletopwhale.com)
 
