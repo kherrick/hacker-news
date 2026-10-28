@@ -4,6 +4,7 @@
 * [2026-10-27, 23:53:41](https://news.ycombinator.com/item?id=50267569) - [Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox)
 * [2026-10-27, 22:31:15](https://news.ycombinator.com/item?id=50266780) - [Reviewers rarely talk about reliability. Owners bring it up twice as often](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
 * [2026-10-27, 22:25:23](https://news.ycombinator.com/item?id=50266719) - [Hunger beats tenure: Advice for junior engineers](https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/)
+* [2026-10-27, 22:23:37](https://news.ycombinator.com/item?id=50266701) - [Expanding our partnership with GSA to bring Claude to all levels of government](https://www.anthropic.com/news/expanding-partnership-gsa)
 * [2026-10-27, 20:50:42](https://news.ycombinator.com/item?id=50265609) - [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
 * [2026-10-27, 20:48:49](https://news.ycombinator.com/item?id=50265594) - [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
 * [2026-10-27, 20:35:09](https://news.ycombinator.com/item?id=50265393) - [Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
@@ -29,7 +30,6 @@
 * [2026-10-25, 01:39:51](https://news.ycombinator.com/item?id=50227400) - [MacOS Extensions Pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)
 * [2026-10-24, 19:04:42](https://news.ycombinator.com/item?id=50224079) - [An examination of lost firefly species of the US and Canada](https://journaloflostspecies.org/index.php/jls/article/view/37/33)
 * [2026-10-24, 08:30:32](https://news.ycombinator.com/item?id=50219275) - [A Love Letter to the Super Dimension Fortress](https://brennan.day/a-love-letter-to-the-super-dimension-fortress/)
-* [2026-10-24, 02:51:39](https://news.ycombinator.com/item?id=50217978) - [Tabletop Whale is an original science illustration blog](https://tabletopwhale.com)
 
 ## [Archives](archives/index.md)
 
