@@ -84,6 +84,7 @@
 * [2026-10-23, 05:51:45](https://news.ycombinator.com/item?id=50204926) - [I Did This Without Your Knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)
 * [2026-10-23, 05:12:39](https://news.ycombinator.com/item?id=50204754) - [Move Slow and Fix Things](https://endler.dev/2024/move-slow-and-fix-things/)
 * [2026-10-23, 05:01:30](https://news.ycombinator.com/item?id=50204697) - [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219)
+* [2026-10-23, 04:11:23](https://news.ycombinator.com/item?id=50204430) - [State of ARM Support for Puget Bench](https://www.pugetsystems.com/blog/2026/10/22/state-of-arm-support-for-puget-bench/)
 * [2026-10-23, 03:20:38](https://news.ycombinator.com/item?id=50204125) - [Median product \"lifespan\" has fallen from ~4y down to ~1.5y](https://news.ycombinator.com/item?id=50204125)
 * [2026-10-23, 02:19:38](https://news.ycombinator.com/item?id=50203759) - [This I Believe](https://www.awakin.org/v2/read/view.php?tid=468)
 * [2026-10-23, 00:52:01](https://news.ycombinator.com/item?id=50203161) - [The foolishness of \"natural language programming\" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
