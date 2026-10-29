@@ -8,7 +8,7 @@
 * [2026-10-29, 17:48:17](https://news.ycombinator.com/item?id=50293115) - [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions)
 * [2026-10-29, 17:43:48](https://news.ycombinator.com/item?id=50293047) - [Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang](https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/)
 * [2026-10-29, 17:42:22](https://news.ycombinator.com/item?id=50293023) - [After 28 years walking across the globe, he's almost home](https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html)
-* [2026-10-29, 17:24:25](https://news.ycombinator.com/item?id=50292727) - [Duet is the future of chatbot interaction](https://fig.blue/posts/duet-is-the-future/)
+* [2026-10-29, 17:24:25](https://news.ycombinator.com/item?id=50292727) - [Claude Duet is the future of chatbot interaction](https://fig.blue/posts/duet-is-the-future/)
 * [2026-10-29, 16:56:54](https://news.ycombinator.com/item?id=50292233) - [Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468)
 * [2026-10-29, 16:42:17](https://news.ycombinator.com/item?id=50291945) - [Google Search is now less than half of Alphabet’s revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
 * [2026-10-29, 16:14:28](https://news.ycombinator.com/item?id=50291421) - [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
