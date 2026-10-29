@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-29, 18:17:06](https://news.ycombinator.com/item?id=50293546) - [Archive Of Our Own down for maintenance for 2 to 4 weeks](https://www.otwstatus.org/incidents/g12jnxck9g6h)
+* [2026-10-29, 18:06:22](https://news.ycombinator.com/item?id=50293361) - [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo)
 * [2026-10-29, 18:02:17](https://news.ycombinator.com/item?id=50293308) - [I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform](https://github.com/Ka1-S/LYNX-SHARE)
-* [2026-10-29, 17:42:30](https://news.ycombinator.com/item?id=50293025) - [AI Contributions to GHC](https://serokell.io/blog/ai-contributions-to-ghc)
+* [2026-10-29, 17:31:01](https://news.ycombinator.com/item?id=50292825) - [Thursday: A SerenityOS for Myself](https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself)
 * [2026-10-29, 16:56:54](https://news.ycombinator.com/item?id=50292233) - [Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468)
 * [2026-10-29, 16:42:17](https://news.ycombinator.com/item?id=50291945) - [Google Search is now less than half of Alphabet’s revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
 * [2026-10-29, 16:41:11](https://news.ycombinator.com/item?id=50291927) - [Toxic experts (2017)](https://nedbatchelder.com/blog/201711/toxic_experts)
@@ -26,7 +27,6 @@
 * [2026-10-28, 23:45:19](https://news.ycombinator.com/item?id=50282538) - [The first wired XR glasses powered by Android XR](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)
 * [2026-10-28, 18:29:25](https://news.ycombinator.com/item?id=50278645) - [noalloc: Tooling and libraries to enforce zero heap allocations in Golang](https://github.com/theconsensuslabs/noalloc)
 * [2026-10-27, 17:27:39](https://news.ycombinator.com/item?id=50262608) - [Blanets and Weird Worlds](https://www.antipope.org/charlie/blog-static/2026/10/bizarre-blanets-and-other-weir.html)
-* [2026-10-27, 16:25:45](https://news.ycombinator.com/item?id=50261595) - [Everything Rhymes with Porcelain](https://worksinprogress.co/issue/everything-rhymes-with-porcelain/)
 * [2026-10-26, 13:54:39](https://news.ycombinator.com/item?id=50243757) - [Getting debug access on a Brother printer over Telnet](https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/)
 * [2026-10-26, 12:27:44](https://news.ycombinator.com/item?id=50242509) - [Java's new AOT cache feature is in a rough state](https://xpipe.io/blog/java-aot-cache)
 * [2026-10-25, 16:05:56](https://news.ycombinator.com/item?id=50233059) - [If-then-else had to be invented (2020)](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md)
