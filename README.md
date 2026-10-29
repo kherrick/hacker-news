@@ -16,6 +16,7 @@
 * [2026-10-29, 00:25:45](https://news.ycombinator.com/item?id=50282838) - [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 * [2026-10-28, 23:45:46](https://news.ycombinator.com/item?id=50282544) - [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
 * [2026-10-28, 23:35:02](https://news.ycombinator.com/item?id=50282454) - [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)
+* [2026-10-28, 21:19:30](https://news.ycombinator.com/item?id=50281044) - [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
 * [2026-10-28, 21:13:21](https://news.ycombinator.com/item?id=50280974) - [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
 * [2026-10-28, 17:13:29](https://news.ycombinator.com/item?id=50276998) - [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
 * [2026-10-28, 17:01:23](https://news.ycombinator.com/item?id=50276792) - [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
@@ -27,7 +28,6 @@
 * [2026-10-26, 21:15:57](https://news.ycombinator.com/item?id=50251085) - [Muhammad Aqeel: Undo for Postgres, without losing the rest of your day](https://www.pgedge.com/blog/undo-for-postgres-without-losing-the-rest-of-your-day)
 * [2026-10-26, 13:54:39](https://news.ycombinator.com/item?id=50243757) - [Getting debug access on a Brother printer over Telnet](https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/)
 * [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)
-* [2026-10-26, 11:19:31](https://news.ycombinator.com/item?id=50241949) - [Treap (Cartesian Tree)](https://cp-algorithms.com/data_structures/treap.html)
 * [2026-10-26, 09:23:43](https://news.ycombinator.com/item?id=50241195) - [Requests, Please](https://morronel.github.io/requests_please/)
 * [2026-10-24, 13:17:59](https://news.ycombinator.com/item?id=50220975) - [Why birds can fly over Mount Everest (2020)](https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864)
 
