@@ -6,9 +6,11 @@
 
 * [2026-10-29, 19:47:38](https://news.ycombinator.com/item?id=50294770) - [Patrick Stewart Has Died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 * [2026-10-29, 19:41:39](https://news.ycombinator.com/item?id=50294702) - [Sir Patrick Stewart has died](https://twitter.com/sirpatstew/status/2115891266131300517)
+* [2026-10-29, 19:41:39](https://news.ycombinator.com/item?id=50294702) - [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 * [2026-10-29, 19:27:47](https://news.ycombinator.com/item?id=50294507) - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
 * [2026-10-29, 19:27:44](https://news.ycombinator.com/item?id=50294506) - [Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"](https://github.com/johncassil/dontallow)
 * [2026-10-29, 19:25:48](https://news.ycombinator.com/item?id=50294486) - [IgE disruptor for food allergy with Claude-enabled antibody design[pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
+* [2026-10-29, 19:24:36](https://news.ycombinator.com/item?id=50294473) - [Show HN: Typebook.lol read books by typing the letters only](https://typebook.lol/)
 * [2026-10-29, 18:40:09](https://news.ycombinator.com/item?id=50293879) - [Utah charges Kalshi and its CEO with illegally promoting online gambling](https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges)
 * [2026-10-29, 18:17:06](https://news.ycombinator.com/item?id=50293546) - [Archive Of Our Own down for maintenance for 2 to 4 weeks](https://www.otwstatus.org/incidents/g12jnxck9g6h)
 * [2026-10-29, 18:06:22](https://news.ycombinator.com/item?id=50293361) - [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo)
