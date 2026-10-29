@@ -36,6 +36,7 @@
 * [2026-10-25, 18:00:04](https://news.ycombinator.com/item?id=50234183) - [Fine-tuned Qwen on my 16gb GPU to respond without the letter e](https://kevin-wu.ca/blog/qwn/)
 * [2026-10-25, 17:52:28](https://news.ycombinator.com/item?id=50234108) - [Ask HN: What is the main bottleneck facing Agentic AI today?](https://news.ycombinator.com/item?id=50234108)
 * [2026-10-25, 17:43:20](https://news.ycombinator.com/item?id=50234028) - [Learning to Be Me (1990) [pdf]](https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf)
+* [2026-10-25, 17:33:02](https://news.ycombinator.com/item?id=50233948) - [How we made our MMDB files a 33% smaller](https://ipinfo.io/blog/how-made-mmdb-files-smaller)
 * [2026-10-25, 17:30:55](https://news.ycombinator.com/item?id=50233929) - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
 * [2026-10-25, 17:26:08](https://news.ycombinator.com/item?id=50233883) - [Fuck Nuance (2015)](https://crookedtimber.org/2015/08/31/fuck-nuance/)
 * [2026-10-25, 17:20:22](https://news.ycombinator.com/item?id=50233828) - [Scientists rediscover how to make ancient Roman colour-changing glass](https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass)

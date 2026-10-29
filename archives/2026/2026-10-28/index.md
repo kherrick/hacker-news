@@ -6,6 +6,7 @@
 
 * [2026-10-28, 23:58:20](https://news.ycombinator.com/item?id=50282650) - [Get Ready for Touch on Mac](https://developer.apple.com/touch-on-mac/)
 * [2026-10-28, 23:45:46](https://news.ycombinator.com/item?id=50282544) - [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
+* [2026-10-28, 23:45:19](https://news.ycombinator.com/item?id=50282538) - [The first wired XR glasses powered by Android XR](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)
 * [2026-10-28, 23:35:02](https://news.ycombinator.com/item?id=50282454) - [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)
 * [2026-10-28, 23:13:59](https://news.ycombinator.com/item?id=50282296) - [Google AI Search Refuses to Say Who Won the 2020 Election](https://karlbode.com/google-ai-search-refuses-to-say-who-won-the-2020-election/)
 * [2026-10-28, 22:53:27](https://news.ycombinator.com/item?id=50282094) - [Outrage after airport self-service checkout asks for 18% tip](https://www.the-independent.com/life-style/self-service-airport-tipping-culture-b3075115.html)
