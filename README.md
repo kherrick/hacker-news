@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-29, 03:01:57](https://news.ycombinator.com/item?id=50284089) - [Richest 0.1% (8M) produce more carbon pollution than 3.5B](https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing)
 * [2026-10-29, 01:40:52](https://news.ycombinator.com/item?id=50283488) - [Electronic fibers weave touchscreen into sleeve that survives machine washing](https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/)
 * [2026-10-29, 00:25:45](https://news.ycombinator.com/item?id=50282838) - [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 * [2026-10-28, 23:45:46](https://news.ycombinator.com/item?id=50282544) - [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
@@ -20,7 +21,6 @@
 * [2026-10-28, 14:38:22](https://news.ycombinator.com/item?id=50274409) - [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
 * [2026-10-28, 14:30:26](https://news.ycombinator.com/item?id=50274251) - [AlpineBSD](https://wiki.alpinebsd.org)
 * [2026-10-28, 14:02:20](https://news.ycombinator.com/item?id=50273731) - [The Agent SDK](https://cursor.com/blog/agent-sdk)
-* [2026-10-28, 13:41:30](https://news.ycombinator.com/item?id=50273396) - [Kentucky man becomes the first humanist granted religious exemption from AI](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
 * [2026-10-28, 13:25:11](https://news.ycombinator.com/item?id=50273171) - [Emacs Turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
 * [2026-10-28, 11:03:40](https://news.ycombinator.com/item?id=50271640) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-26, 20:40:36](https://news.ycombinator.com/item?id=50250609) - [Image generation has come a long way since August 2022](https://www.hbrooks.com/writing/image-generation-has-come-a-long-way)
