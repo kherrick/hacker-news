@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 12:31:09](https://news.ycombinator.com/item?id=50287898) - [Hackers expose the identities of more than 40k DHS employees](https://text.npr.org/nx-s1-6021497)
 * [2026-10-29, 12:19:00](https://news.ycombinator.com/item?id=50287775) - [If IPv4 Were Land](https://iptrust.co/blog/if-ipv4-were-land)
+* [2026-10-29, 12:03:14](https://news.ycombinator.com/item?id=50287638) - [DoorDash to Buy Instacart for $17B, Uniting 2 Delivery Giants](https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html)
+* [2026-10-29, 11:59:01](https://news.ycombinator.com/item?id=50287599) - [NetBSD adds a new beginner-friendly text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
+* [2026-10-29, 11:41:18](https://news.ycombinator.com/item?id=50287448) - [Google determines the names for bodies of water in Google Earth (2008)](https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html)
 * [2026-10-29, 11:29:49](https://news.ycombinator.com/item?id=50287359) - [An Urgent Message on Artificial Intelligence from the Kogui People](https://sonidoselva.com/perspectiva-kogui)
 * [2026-10-29, 11:15:59](https://news.ycombinator.com/item?id=50287255) - [Show HN: UK Farming Simulator](https://butterbean.farm/)
 * [2026-10-29, 10:44:49](https://news.ycombinator.com/item?id=50287001) - [The US added a record 20.2 GWh of battery storage in just 3 months](https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/)
+* [2026-10-29, 10:42:41](https://news.ycombinator.com/item?id=50286987) - [Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)
+* [2026-10-29, 10:08:04](https://news.ycombinator.com/item?id=50286738) - [I Used AI to Fake a Scientific Paper. Here's What Happened](https://spectrum.ieee.org/ai-generated-scientific-papers)
 * [2026-10-29, 08:55:08](https://news.ycombinator.com/item?id=50286197) - [Spain train crash: What we know after two trains crashed with dozens feared dead](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
 * [2026-10-29, 07:52:32](https://news.ycombinator.com/item?id=50285714) - [Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027](https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html)
 * [2026-10-29, 07:08:50](https://news.ycombinator.com/item?id=50285452) - [Zero click, silent, remote Android DoS](https://smsofdeath.com/)
