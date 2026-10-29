@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-29, 22:32:46](https://news.ycombinator.com/item?id=50297159) - [Open-weight AI models can exploit the patch gap](https://epoch.ai/publications/open-weight-models-patch-gap)
 * [2026-10-29, 22:26:38](https://news.ycombinator.com/item?id=50297089) - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
 * [2026-10-29, 22:14:23](https://news.ycombinator.com/item?id=50296947) - [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/)
 * [2026-10-29, 22:12:29](https://news.ycombinator.com/item?id=50296920) - [Should a medical diagnosis reshape the past? (2025)](https://chengela.substack.com/p/should-a-medical-diagnosis-reshape)
@@ -25,7 +26,6 @@
 * [2026-10-29, 14:13:21](https://news.ycombinator.com/item?id=50289418) - [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
 * [2026-10-29, 12:33:05](https://news.ycombinator.com/item?id=50287919) - [DoorDash to acquire Instacart](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)
 * [2026-10-29, 12:19:00](https://news.ycombinator.com/item?id=50287775) - [If IPv4 were land](https://iptrust.co/blog/if-ipv4-were-land)
-* [2026-10-29, 11:59:01](https://news.ycombinator.com/item?id=50287599) - [NetBSD adds a new text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
 * [2026-10-29, 10:42:41](https://news.ycombinator.com/item?id=50286987) - [Chained PHP2Shell exploit roots 25 servers, including US Government servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)
 * [2026-10-29, 08:55:08](https://news.ycombinator.com/item?id=50286197) - [What we know so far about Spain train crash](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
 * [2026-10-28, 18:30:53](https://news.ycombinator.com/item?id=50278678) - [Show HN: A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model)
