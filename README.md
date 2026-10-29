@@ -26,7 +26,7 @@
 * [2026-10-29, 10:42:41](https://news.ycombinator.com/item?id=50286987) - [Chained PHP2Shell exploit roots 25 servers, including US Government servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)
 * [2026-10-29, 08:55:08](https://news.ycombinator.com/item?id=50286197) - [What we know so far about Spain train crash](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
 * [2026-10-28, 18:30:53](https://news.ycombinator.com/item?id=50278678) - [Show HN: A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model)
-* [2026-10-28, 18:29:25](https://news.ycombinator.com/item?id=50278645) - [noalloc: Tooling and libraries to enforce zero heap allocations in Golang](https://github.com/theconsensuslabs/noalloc)
+* [2026-10-27, 19:21:00](https://news.ycombinator.com/item?id=50264368) - [Partitioning my digital life into security domains (2011)](https://blog.invisiblethings.org/2011/03/13/partitioning-my-digital-life-into.html)
 * [2026-10-27, 14:33:35](https://news.ycombinator.com/item?id=50260033) - [One reviewer per layer: splitting code review by the way code is read](https://djordjepuzic.com/blog/posts/2026-10-27-one-reviewer-per-layer/)
 * [2026-10-27, 05:59:07](https://news.ycombinator.com/item?id=50255161) - [Edit an SQLite database in your browser](https://editsqlite.com/)
 * [2026-10-26, 15:15:11](https://news.ycombinator.com/item?id=50245199) - [Scattered thoughts on how doing math feels these days](https://dynomight.net/math/)

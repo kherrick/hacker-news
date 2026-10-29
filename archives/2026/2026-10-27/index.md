@@ -17,6 +17,7 @@
 * [2026-10-27, 20:13:27](https://news.ycombinator.com/item?id=50265128) - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
 * [2026-10-27, 19:55:21](https://news.ycombinator.com/item?id=50264857) - [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
 * [2026-10-27, 19:55:06](https://news.ycombinator.com/item?id=50264853) - [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
+* [2026-10-27, 19:21:00](https://news.ycombinator.com/item?id=50264368) - [Partitioning my digital life into security domains (2011)](https://blog.invisiblethings.org/2011/03/13/partitioning-my-digital-life-into.html)
 * [2026-10-27, 19:11:31](https://news.ycombinator.com/item?id=50264228) - [US President says he will ban the term 'artificial intelligence'](https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/)
 * [2026-10-27, 18:44:17](https://news.ycombinator.com/item?id=50263854) - [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
 * [2026-10-27, 18:33:48](https://news.ycombinator.com/item?id=50263701) - [Three TLS Bugs in GoAhead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)
