@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-10-29, 06:24:56",
-      "https://news.ycombinator.com/item?id=50285177"
+      "2026-10-29, 07:08:50",
+      "https://news.ycombinator.com/item?id=50285452"
     ],
     [
-      "Bernstein – open-source governance layer for AI agents",
-      "https://bernstein.run"
+      "Zero click, silent, remote Android DoS",
+      "https://smsofdeath.com/"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 06:47:28",
+      "https://news.ycombinator.com/item?id=50285319"
+    ],
+    [
+      "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/"
     ]
   ],
   [
@@ -191,26 +201,6 @@
   ],
   [
     [
-      "2026-10-28, 14:02:20",
-      "https://news.ycombinator.com/item?id=50273731"
-    ],
-    [
-      "The Agent SDK",
-      "https://cursor.com/blog/agent-sdk"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 11:16:47",
-      "https://news.ycombinator.com/item?id=50271756"
-    ],
-    [
-      "TLP Is Not a Suggestion",
-      "https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion"
-    ]
-  ],
-  [
-    [
       "2026-10-28, 11:03:40",
       "https://news.ycombinator.com/item?id=50271640"
     ],
@@ -247,6 +237,16 @@
     [
       "Nixpkgs for the Front End Impaired",
       "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 13:54:39",
+      "https://news.ycombinator.com/item?id=50243757"
+    ],
+    [
+      "Getting debug access on a Brother printer over Telnet",
+      "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/"
     ]
   ],
   [
