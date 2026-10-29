@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 12:33:05](https://news.ycombinator.com/item?id=50287919) - [DoorDash to Acquire Instacart](https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx)
 * [2026-10-29, 12:31:09](https://news.ycombinator.com/item?id=50287898) - [Hackers expose the identities of more than 40k DHS employees](https://text.npr.org/nx-s1-6021497)
 * [2026-10-29, 12:19:00](https://news.ycombinator.com/item?id=50287775) - [If IPv4 Were Land](https://iptrust.co/blog/if-ipv4-were-land)
 * [2026-10-29, 12:03:14](https://news.ycombinator.com/item?id=50287638) - [DoorDash to Buy Instacart for $17B, Uniting 2 Delivery Giants](https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html)
