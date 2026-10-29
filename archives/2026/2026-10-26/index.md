@@ -40,6 +40,7 @@
 * [2026-10-26, 15:22:59](https://news.ycombinator.com/item?id=50245322) - [NBA announces partnership with prediction markets Kalshi, Polymarket](https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/)
 * [2026-10-26, 15:11:59](https://news.ycombinator.com/item?id=50245138) - [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
 * [2026-10-26, 15:05:04](https://news.ycombinator.com/item?id=50245014) - [Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
+* [2026-10-26, 15:00:05](https://news.ycombinator.com/item?id=50244929) - [Nixpkgs for the Front End Impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired)
 * [2026-10-26, 14:50:50](https://news.ycombinator.com/item?id=50244744) - [Peta releases video showing experiments on infant monkeys at Univ of Washington](https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video)
 * [2026-10-26, 14:50:21](https://news.ycombinator.com/item?id=50244735) - [Everything](https://github.com/HeyPuter/everything)
 * [2026-10-26, 14:42:24](https://news.ycombinator.com/item?id=50244583) - [Partyline: A group voice application for Reticulum, built on LXST](https://github.com/RFnexus/partyline)
