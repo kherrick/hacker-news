@@ -11,7 +11,7 @@
 * [2026-10-29, 15:56:32](https://news.ycombinator.com/item?id=50291116) - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
 * [2026-10-29, 15:53:03](https://news.ycombinator.com/item?id=50291054) - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
 * [2026-10-29, 15:45:05](https://news.ycombinator.com/item?id=50290912) - [Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler)
-* [2026-10-29, 15:30:22](https://news.ycombinator.com/item?id=50290668) - [Mexico has a growing fleet of new vehicles from Chinese brands](https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/)
+* [2026-10-29, 15:30:22](https://news.ycombinator.com/item?id=50290668) - [I went to Mexico to test-drive the cars Americans can’t buy](https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/)
 * [2026-10-29, 15:06:17](https://news.ycombinator.com/item?id=50290283) - [Zombie stats: Where the numbers AI quotes come from](https://trakkr.ai/trakkr-research/zombie-stats)
 * [2026-10-29, 14:57:55](https://news.ycombinator.com/item?id=50290177) - [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)
 * [2026-10-29, 14:22:53](https://news.ycombinator.com/item?id=50289590) - [Keplearn: Extract Equations from Data in Seconds](https://github.com/owls-on-wires/keplearn)
@@ -27,7 +27,7 @@
 * [2026-10-28, 23:45:19](https://news.ycombinator.com/item?id=50282538) - [The first wired XR glasses powered by Android XR](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)
 * [2026-10-28, 18:29:25](https://news.ycombinator.com/item?id=50278645) - [noalloc: Tooling and libraries to enforce zero heap allocations in Golang](https://github.com/theconsensuslabs/noalloc)
 * [2026-10-27, 17:27:39](https://news.ycombinator.com/item?id=50262608) - [Blanets and Weird Worlds](https://www.antipope.org/charlie/blog-static/2026/10/bizarre-blanets-and-other-weir.html)
-* [2026-10-26, 13:54:39](https://news.ycombinator.com/item?id=50243757) - [Getting debug access on a Brother printer over Telnet](https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/)
+* [2026-10-27, 16:25:45](https://news.ycombinator.com/item?id=50261595) - [Everything Rhymes with Porcelain](https://worksinprogress.co/issue/everything-rhymes-with-porcelain/)
 * [2026-10-26, 12:27:44](https://news.ycombinator.com/item?id=50242509) - [Java's new AOT cache feature is in a rough state](https://xpipe.io/blog/java-aot-cache)
 * [2026-10-25, 16:05:56](https://news.ycombinator.com/item?id=50233059) - [If-then-else had to be invented (2020)](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md)
 
