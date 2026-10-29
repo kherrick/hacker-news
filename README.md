@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-29, 01:40:52](https://news.ycombinator.com/item?id=50283488) - [Electronic fibers weave touchscreen into sleeve that survives machine washing](https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/)
 * [2026-10-29, 00:25:45](https://news.ycombinator.com/item?id=50282838) - [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 * [2026-10-28, 23:45:46](https://news.ycombinator.com/item?id=50282544) - [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
 * [2026-10-28, 23:45:19](https://news.ycombinator.com/item?id=50282538) - [The first wired XR glasses powered by Android XR](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)
@@ -25,11 +26,10 @@
 * [2026-10-26, 20:40:36](https://news.ycombinator.com/item?id=50250609) - [Image generation has come a long way since August 2022](https://www.hbrooks.com/writing/image-generation-has-come-a-long-way)
 * [2026-10-26, 15:00:05](https://news.ycombinator.com/item?id=50244929) - [Nixpkgs for the Front End Impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired)
 * [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)
+* [2026-10-26, 13:00:03](https://news.ycombinator.com/item?id=50242873) - [Human-enhanced tsunami hazard in large lakes](https://www.nature.com/articles/s41467-026-78272-8)
 * [2026-10-26, 03:14:49](https://news.ycombinator.com/item?id=50238637) - [Oseberg Tapestry Fragments](https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments)
 * [2026-10-25, 17:33:02](https://news.ycombinator.com/item?id=50233948) - [How we made our MMDB files a 33% smaller](https://ipinfo.io/blog/how-made-mmdb-files-smaller)
-* [2026-10-24, 13:17:59](https://news.ycombinator.com/item?id=50220975) - [Why Birds Can Fly over Mount Everest](https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864)
-* [2026-10-23, 14:07:21](https://news.ycombinator.com/item?id=50209269) - [Gaussian Splats part 3: There's always a bigger scene](https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene)
-* [2026-10-23, 13:49:50](https://news.ycombinator.com/item?id=50208960) - [Start Doing Graph Theory](https://vertex.degree/)
+* [2026-10-24, 13:17:59](https://news.ycombinator.com/item?id=50220975) - [Why birds can fly over Mount Everest (2020)](https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864)
 
 ## [Archives](archives/index.md)
 

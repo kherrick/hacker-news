@@ -53,6 +53,7 @@
 * [2026-10-26, 13:13:36](https://news.ycombinator.com/item?id=50243061) - [The new iPad mini](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/)
 * [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen](https://www.circuithub.com/post/unveiling-the-grid)
 * [2026-10-26, 13:04:50](https://news.ycombinator.com/item?id=50242939) - [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
+* [2026-10-26, 13:00:03](https://news.ycombinator.com/item?id=50242873) - [Human-enhanced tsunami hazard in large lakes](https://www.nature.com/articles/s41467-026-78272-8)
 * [2026-10-26, 12:59:48](https://news.ycombinator.com/item?id=50242870) - [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
 * [2026-10-26, 12:58:27](https://news.ycombinator.com/item?id=50242843) - [Brown student maps the hidden global labor powering AI](https://www.brown.edu/news/2026-10-26/ai-data-workers)
 * [2026-10-26, 12:45:16](https://news.ycombinator.com/item?id=50242688) - [81 Jokes for the ZX81](https://spelk.press/gb/products/81-jokes-for-the-zx81)
