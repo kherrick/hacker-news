@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-10-26, 21:15:57",
-      "https://news.ycombinator.com/item?id=50251085"
-    ],
-    [
-      "Muhammad Aqeel: Undo for Postgres, without losing the rest of your day",
-      "https://www.pgedge.com/blog/undo-for-postgres-without-losing-the-rest-of-your-day"
-    ]
-  ],
-  [
-    [
       "2026-10-26, 13:54:39",
       "https://news.ycombinator.com/item?id=50243757"
     ],
@@ -277,6 +267,16 @@
     [
       "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
       "https://www.circuithub.com/post/unveiling-the-grid"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 11:19:31",
+      "https://news.ycombinator.com/item?id=50241949"
+    ],
+    [
+      "Treap (Cartesian Tree)",
+      "https://cp-algorithms.com/data_structures/treap.html"
     ]
   ],
   [
