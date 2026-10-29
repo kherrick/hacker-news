@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-29, 10:44:49](https://news.ycombinator.com/item?id=50287001) - [The US added a record 20.2 GWh of battery storage in just 3 months](https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/)
+* [2026-10-29, 07:52:32](https://news.ycombinator.com/item?id=50285714) - [Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027](https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html)
 * [2026-10-29, 07:08:50](https://news.ycombinator.com/item?id=50285452) - [Zero click, silent, remote Android DoS](https://smsofdeath.com/)
 * [2026-10-29, 06:47:28](https://news.ycombinator.com/item?id=50285319) - [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
 * [2026-10-29, 03:33:42](https://news.ycombinator.com/item?id=50284255) - [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
@@ -18,7 +19,6 @@
 * [2026-10-28, 15:46:30](https://news.ycombinator.com/item?id=50275626) - [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)
 * [2026-10-28, 14:38:22](https://news.ycombinator.com/item?id=50274409) - [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
 * [2026-10-28, 14:30:26](https://news.ycombinator.com/item?id=50274251) - [AlpineBSD](https://wiki.alpinebsd.org)
-* [2026-10-28, 14:02:20](https://news.ycombinator.com/item?id=50273731) - [The Agent SDK](https://cursor.com/blog/agent-sdk)
 * [2026-10-28, 11:03:40](https://news.ycombinator.com/item?id=50271640) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-27, 14:12:59](https://news.ycombinator.com/item?id=50259697) - [MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark](https://dmux.github.io/minilake/)
 * [2026-10-27, 09:13:12](https://news.ycombinator.com/item?id=50256409) - [A new faster algorithm to compute 64-bit signed floor division](https://www.benjoffe.com/fast-floordiv)
