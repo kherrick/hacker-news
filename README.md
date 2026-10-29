@@ -27,8 +27,8 @@
 * [2026-10-26, 15:00:05](https://news.ycombinator.com/item?id=50244929) - [Nixpkgs for the Front End Impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired)
 * [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)
 * [2026-10-26, 13:00:03](https://news.ycombinator.com/item?id=50242873) - [Human-enhanced tsunami hazard in large lakes](https://www.nature.com/articles/s41467-026-78272-8)
-* [2026-10-26, 03:14:49](https://news.ycombinator.com/item?id=50238637) - [Oseberg Tapestry Fragments](https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments)
 * [2026-10-25, 17:33:02](https://news.ycombinator.com/item?id=50233948) - [How we made our MMDB files a 33% smaller](https://ipinfo.io/blog/how-made-mmdb-files-smaller)
+* [2026-10-25, 16:05:56](https://news.ycombinator.com/item?id=50233059) - [The 'else' keyword is probably a literal translation from German (2020)](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md)
 * [2026-10-24, 13:17:59](https://news.ycombinator.com/item?id=50220975) - [Why birds can fly over Mount Everest (2020)](https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864)
 
 ## [Archives](archives/index.md)
