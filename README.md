@@ -1,16 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-29, 20:35:18](https://news.ycombinator.com/item?id=50295503) - [Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20](https://www.scraping.club/p/tiktok-scraping-metadata)
 * [2026-10-29, 20:32:28](https://news.ycombinator.com/item?id=50295450) - [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
 * [2026-10-29, 19:41:39](https://news.ycombinator.com/item?id=50294702) - [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 * [2026-10-29, 19:27:47](https://news.ycombinator.com/item?id=50294507) - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
-* [2026-10-29, 19:27:44](https://news.ycombinator.com/item?id=50294506) - [Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"](https://github.com/johncassil/dontallow)
 * [2026-10-29, 19:25:48](https://news.ycombinator.com/item?id=50294486) - [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
 * [2026-10-29, 17:48:17](https://news.ycombinator.com/item?id=50293115) - [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions)
 * [2026-10-29, 17:43:48](https://news.ycombinator.com/item?id=50293047) - [Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang](https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/)
 * [2026-10-29, 17:42:22](https://news.ycombinator.com/item?id=50293023) - [After 28 years walking across the globe, he's almost home](https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html)
 * [2026-10-29, 17:24:25](https://news.ycombinator.com/item?id=50292727) - [Claude Duet is the future of chatbot interaction](https://fig.blue/posts/duet-is-the-future/)
 * [2026-10-29, 16:56:54](https://news.ycombinator.com/item?id=50292233) - [Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468)
-* [2026-10-29, 16:42:17](https://news.ycombinator.com/item?id=50291945) - [Google Search is now less than half of Alphabet’s revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
 * [2026-10-29, 16:14:28](https://news.ycombinator.com/item?id=50291421) - [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
 * [2026-10-29, 15:56:32](https://news.ycombinator.com/item?id=50291116) - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
 * [2026-10-29, 15:53:03](https://news.ycombinator.com/item?id=50291054) - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
@@ -30,6 +29,7 @@
 * [2026-10-27, 14:33:35](https://news.ycombinator.com/item?id=50260033) - [One reviewer per layer: splitting code review by the way code is read](https://djordjepuzic.com/blog/posts/2026-10-27-one-reviewer-per-layer/)
 * [2026-10-27, 05:59:07](https://news.ycombinator.com/item?id=50255161) - [Edit an SQLite database in your browser](https://editsqlite.com/)
 * [2026-10-26, 17:15:58](https://news.ycombinator.com/item?id=50247342) - [The tragedy of losing your Wikipedia page](https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/)
+* [2026-10-26, 15:15:11](https://news.ycombinator.com/item?id=50245199) - [Scattered thoughts on how doing math feels these days](https://dynomight.net/math/)
 
 ## [Archives](archives/index.md)
 

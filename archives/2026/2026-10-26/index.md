@@ -41,6 +41,7 @@
 * [2026-10-26, 15:35:12](https://news.ycombinator.com/item?id=50245524) - [Microsoft offers mass buyouts for roughly a quarter of its workforce](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/)
 * [2026-10-26, 15:26:17](https://news.ycombinator.com/item?id=50245385) - ['It's offensively cheap': Solar power is quietly becoming bigger than nuclear](https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear)
 * [2026-10-26, 15:22:59](https://news.ycombinator.com/item?id=50245322) - [NBA announces partnership with prediction markets Kalshi, Polymarket](https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/)
+* [2026-10-26, 15:15:11](https://news.ycombinator.com/item?id=50245199) - [Scattered thoughts on how doing math feels these days](https://dynomight.net/math/)
 * [2026-10-26, 15:11:59](https://news.ycombinator.com/item?id=50245138) - [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
 * [2026-10-26, 15:05:04](https://news.ycombinator.com/item?id=50245014) - [Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down](https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram)
 * [2026-10-26, 15:00:05](https://news.ycombinator.com/item?id=50244929) - [Nixpkgs for the Front End Impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired)
