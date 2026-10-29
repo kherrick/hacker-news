@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-29, 18:17:06",
-      "https://news.ycombinator.com/item?id=50293546"
-    ],
-    [
-      "Archive Of Our Own down for maintenance for 2 to 4 weeks",
-      "https://www.otwstatus.org/incidents/g12jnxck9g6h"
-    ]
-  ],
-  [
-    [
       "2026-10-29, 18:06:22",
       "https://news.ycombinator.com/item?id=50293361"
     ],
@@ -27,16 +17,6 @@
     [
       "I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform",
       "https://github.com/Ka1-S/LYNX-SHARE"
-    ]
-  ],
-  [
-    [
-      "2026-10-29, 17:31:01",
-      "https://news.ycombinator.com/item?id=50292825"
-    ],
-    [
-      "Thursday: A SerenityOS for Myself",
-      "https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2026-10-28, 20:51:44",
+      "https://news.ycombinator.com/item?id=50280722"
+    ],
+    [
+      "The case of the 9 bit AES key",
+      "https://v12.sh/blog/the-case-of-the-9bit-aes-key"
+    ]
+  ],
+  [
+    [
       "2026-10-28, 18:29:25",
       "https://news.ycombinator.com/item?id=50278645"
     ],
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-10-27, 16:25:45",
-      "https://news.ycombinator.com/item?id=50261595"
+      "2026-10-27, 05:59:07",
+      "https://news.ycombinator.com/item?id=50255161"
     ],
     [
-      "Everything Rhymes with Porcelain",
-      "https://worksinprogress.co/issue/everything-rhymes-with-porcelain/"
+      "Edit an SQLite database in your browser",
+      "https://editsqlite.com/"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 17:15:58",
+      "https://news.ycombinator.com/item?id=50247342"
+    ],
+    [
+      "The tragedy of losing your Wikipedia page",
+      "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/"
     ]
   ],
   [
