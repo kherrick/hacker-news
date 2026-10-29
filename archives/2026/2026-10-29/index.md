@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 16:56:54](https://news.ycombinator.com/item?id=50292233) - [Tomas Mikolov (creator of Word2Vec) receives the Medal of Merit](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468)
 * [2026-10-29, 16:42:17](https://news.ycombinator.com/item?id=50291945) - [For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
+* [2026-10-29, 16:41:11](https://news.ycombinator.com/item?id=50291927) - [Toxic Experts](https://nedbatchelder.com/blog/201711/toxic_experts)
 * [2026-10-29, 16:36:14](https://news.ycombinator.com/item?id=50291830) - [Are Stochastic Parrots Alive?](https://stefano.petrilli.xyz/are-stochastic-parrots-alive/)
 * [2026-10-29, 16:14:28](https://news.ycombinator.com/item?id=50291421) - [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
 * [2026-10-29, 15:56:32](https://news.ycombinator.com/item?id=50291116) - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
