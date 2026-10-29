@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-29, 20:35:18",
+      "https://news.ycombinator.com/item?id=50295503"
+    ],
+    [
+      "Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20",
+      "https://www.scraping.club/p/tiktok-scraping-metadata"
+    ]
+  ],
+  [
+    [
       "2026-10-29, 20:32:28",
       "https://news.ycombinator.com/item?id=50295450"
     ],
@@ -27,16 +37,6 @@
     [
       "The importance of communities around software",
       "https://lumi.codeberg.page/blog/software-community.html"
-    ]
-  ],
-  [
-    [
-      "2026-10-29, 19:27:44",
-      "https://news.ycombinator.com/item?id=50294506"
-    ],
-    [
-      "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-      "https://github.com/johncassil/dontallow"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
       "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468"
-    ]
-  ],
-  [
-    [
-      "2026-10-29, 16:42:17",
-      "https://news.ycombinator.com/item?id=50291945"
-    ],
-    [
-      "Google Search is now less than half of Alphabet’s revenue",
-      "https://www.kadoa.com/companies/insights/google-search-below-half"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The tragedy of losing your Wikipedia page",
       "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 15:15:11",
+      "https://news.ycombinator.com/item?id=50245199"
+    ],
+    [
+      "Scattered thoughts on how doing math feels these days",
+      "https://dynomight.net/math/"
     ]
   ]
 ]
