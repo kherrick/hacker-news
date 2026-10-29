@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-29, 22:32:46",
-      "https://news.ycombinator.com/item?id=50297159"
-    ],
-    [
-      "Open-weight AI models can exploit the patch gap",
-      "https://epoch.ai/publications/open-weight-models-patch-gap"
-    ]
-  ],
-  [
-    [
       "2026-10-29, 22:26:38",
       "https://news.ycombinator.com/item?id=50297089"
     ],
@@ -267,6 +257,16 @@
     [
       "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
       "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers"
+    ]
+  ],
+  [
+    [
+      "2026-10-28, 18:30:53",
+      "https://news.ycombinator.com/item?id=50278678"
+    ],
+    [
+      "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
+      "https://github.com/emmilco/us-tax-model"
     ]
   ],
   [
