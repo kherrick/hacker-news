@@ -20,6 +20,7 @@
 * [2026-10-28, 14:38:22](https://news.ycombinator.com/item?id=50274409) - [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
 * [2026-10-28, 14:30:26](https://news.ycombinator.com/item?id=50274251) - [AlpineBSD](https://wiki.alpinebsd.org)
 * [2026-10-28, 14:02:20](https://news.ycombinator.com/item?id=50273731) - [The Agent SDK](https://cursor.com/blog/agent-sdk)
+* [2026-10-28, 11:16:47](https://news.ycombinator.com/item?id=50271756) - [TLP Is Not a Suggestion](https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion)
 * [2026-10-28, 11:03:40](https://news.ycombinator.com/item?id=50271640) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-27, 09:13:12](https://news.ycombinator.com/item?id=50256409) - [A new faster algorithm to compute 64-bit signed floor division](https://www.benjoffe.com/fast-floordiv)
 * [2026-10-26, 21:24:18](https://news.ycombinator.com/item?id=50251200) - [OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)
@@ -28,7 +29,6 @@
 * [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)
 * [2026-10-26, 13:00:03](https://news.ycombinator.com/item?id=50242873) - [Human-enhanced tsunami hazard in large lakes](https://www.nature.com/articles/s41467-026-78272-8)
 * [2026-10-26, 11:19:31](https://news.ycombinator.com/item?id=50241949) - [Treap (Cartesian Tree)](https://cp-algorithms.com/data_structures/treap.html)
-* [2026-10-25, 16:05:56](https://news.ycombinator.com/item?id=50233059) - [The 'else' keyword is probably a literal translation from German (2020)](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md)
 * [2026-10-24, 13:17:59](https://news.ycombinator.com/item?id=50220975) - [Why birds can fly over Mount Everest (2020)](https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864)
 
 ## [Archives](archives/index.md)
