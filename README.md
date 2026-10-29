@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-29, 14:13:21](https://news.ycombinator.com/item?id=50289418) - [Mistral Large 4 (Le Chonk) is now Open Weight](https://mistral.ai/news/mistral-large-4-oss/)
 * [2026-10-29, 13:40:04](https://news.ycombinator.com/item?id=50288867) - [Read the letter the FBI sent MLK to try to convince him to kill himself (2014)](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)
 * [2026-10-29, 12:41:56](https://news.ycombinator.com/item?id=50288019) - [Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
 * [2026-10-29, 12:33:05](https://news.ycombinator.com/item?id=50287919) - [DoorDash to Acquire Instacart](https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx)
@@ -19,7 +20,6 @@
 * [2026-10-28, 23:35:02](https://news.ycombinator.com/item?id=50282454) - [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)
 * [2026-10-28, 21:13:21](https://news.ycombinator.com/item?id=50280974) - [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
 * [2026-10-28, 17:13:29](https://news.ycombinator.com/item?id=50276998) - [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
-* [2026-10-28, 17:01:23](https://news.ycombinator.com/item?id=50276792) - [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
 * [2026-10-28, 14:38:22](https://news.ycombinator.com/item?id=50274409) - [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
 * [2026-10-27, 14:12:59](https://news.ycombinator.com/item?id=50259697) - [MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark](https://dmux.github.io/minilake/)
 * [2026-10-27, 09:13:12](https://news.ycombinator.com/item?id=50256409) - [A new faster algorithm to compute 64-bit signed floor division](https://www.benjoffe.com/fast-floordiv)
