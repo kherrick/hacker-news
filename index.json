@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-10-28, 14:02:20",
-      "https://news.ycombinator.com/item?id=50273731"
-    ],
-    [
-      "The Agent SDK",
-      "https://cursor.com/blog/agent-sdk"
-    ]
-  ],
-  [
-    [
       "2026-10-28, 13:25:11",
       "https://news.ycombinator.com/item?id=50273171"
     ],
@@ -217,6 +207,16 @@
     [
       "Apple's git still trusts the compromised eMudhra certificates",
       "https://emudhra.we-have-a-problem.com/apple.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 21:24:18",
+      "https://news.ycombinator.com/item?id=50251200"
+    ],
+    [
+      "OpenAI's agents talked to each other through the CPU Cache",
+      "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/"
     ]
   ],
   [
