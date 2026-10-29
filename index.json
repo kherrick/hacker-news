@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-29, 16:56:54",
+      "https://news.ycombinator.com/item?id=50292233"
+    ],
+    [
+      "Tomas Mikolov (creator of Word2Vec) receives the Medal of Merit",
+      "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468"
+    ]
+  ],
+  [
+    [
       "2026-10-29, 16:42:17",
       "https://news.ycombinator.com/item?id=50291945"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2026-10-29, 16:36:14",
-      "https://news.ycombinator.com/item?id=50291830"
+      "2026-10-29, 16:41:11",
+      "https://news.ycombinator.com/item?id=50291927"
     ],
     [
-      "Are stochastic parrots alive?",
-      "https://stefano.petrilli.xyz/are-stochastic-parrots-alive/"
+      "Toxic Experts",
+      "https://nedbatchelder.com/blog/201711/toxic_experts"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2026-10-29, 13:40:04",
-      "https://news.ycombinator.com/item?id=50288867"
-    ],
-    [
-      "‘You Are Done’: The letter sent to King by the F.B.I (2014)",
-      "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html"
-    ]
-  ],
-  [
-    [
       "2026-10-29, 12:41:56",
       "https://news.ycombinator.com/item?id=50288019"
     ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=50287919"
     ],
     [
-      "DoorDash to Acquire Instacart",
+      "DoorDash to acquire Instacart",
       "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart"
     ]
   ],
@@ -147,6 +147,26 @@
     [
       "Hackers expose the identities of more than 40k DHS employees",
       "https://text.npr.org/nx-s1-6021497"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 12:19:00",
+      "https://news.ycombinator.com/item?id=50287775"
+    ],
+    [
+      "If IPv4 were land",
+      "https://iptrust.co/blog/if-ipv4-were-land"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 11:59:01",
+      "https://news.ycombinator.com/item?id=50287599"
+    ],
+    [
+      "NetBSD adds a new text editor called atto",
+      "https://mastodon.sdf.org/@netbsd/117518160563539748"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-10-28, 23:35:02",
-      "https://news.ycombinator.com/item?id=50282454"
-    ],
-    [
-      "StackOverflow now gets fewer than 1000 questions a month",
-      "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"
-    ]
-  ],
-  [
-    [
       "2026-10-28, 18:29:25",
       "https://news.ycombinator.com/item?id=50278645"
     ],
@@ -257,16 +267,6 @@
     [
       "Everything Rhymes with Porcelain",
       "https://worksinprogress.co/issue/everything-rhymes-with-porcelain/"
-    ]
-  ],
-  [
-    [
-      "2026-10-27, 14:12:59",
-      "https://news.ycombinator.com/item?id=50259697"
-    ],
-    [
-      "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
-      "https://dmux.github.io/minilake/"
     ]
   ],
   [
