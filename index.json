@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-10-29, 15:56:32",
+      "https://news.ycombinator.com/item?id=50291116"
+    ],
+    [
+      "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "https://news.ycombinator.com/item?id=50291116"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 15:53:03",
+      "https://news.ycombinator.com/item?id=50291054"
+    ],
+    [
+      "H.264 Is Magic",
+      "https://sidbala.com/h-264-is-magic/"
+    ]
+  ],
+  [
+    [
       "2026-10-29, 15:30:22",
       "https://news.ycombinator.com/item?id=50290668"
     ],
@@ -221,22 +241,22 @@
   ],
   [
     [
+      "2026-10-27, 16:09:50",
+      "https://news.ycombinator.com/item?id=50261373"
+    ],
+    [
+      "Two RTX 5090 hosts sharing a KV cache over Ethernet",
+      "https://viiwork.pulu.app/blog/kv-share-two-5090-hosts/"
+    ]
+  ],
+  [
+    [
       "2026-10-27, 14:12:59",
       "https://news.ycombinator.com/item?id=50259697"
     ],
     [
       "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
       "https://dmux.github.io/minilake/"
-    ]
-  ],
-  [
-    [
-      "2026-10-27, 09:13:12",
-      "https://news.ycombinator.com/item?id=50256409"
-    ],
-    [
-      "A new faster algorithm to compute 64-bit signed floor division",
-      "https://www.benjoffe.com/fast-floordiv"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-10-26, 13:13:31",
-      "https://news.ycombinator.com/item?id=50243060"
-    ],
-    [
-      "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-      "https://www.circuithub.com/post/unveiling-the-grid"
-    ]
-  ],
-  [
-    [
       "2026-10-26, 12:27:44",
       "https://news.ycombinator.com/item?id=50242509"
     ],
     [
       "Java's new AOT cache feature is in a rough state",
       "https://xpipe.io/blog/java-aot-cache"
-    ]
-  ],
-  [
-    [
-      "2026-10-26, 09:23:43",
-      "https://news.ycombinator.com/item?id=50241195"
-    ],
-    [
-      "Requests, Please",
-      "https://morronel.github.io/requests_please/"
     ]
   ]
 ]
