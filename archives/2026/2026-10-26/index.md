@@ -31,6 +31,7 @@
 * [2026-10-26, 17:32:16](https://news.ycombinator.com/item?id=50247630) - [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
 * [2026-10-26, 17:28:26](https://news.ycombinator.com/item?id=50247559) - [Should Police Wipe a Criminal's Cellphone Before Returning It?–U.S. vs. Stathas](https://blog.ericgoldman.org/archives/2026/10/should-police-wipe-a-criminals-cellphone-before-returning-it-u-s-v-stathas.htm)
 * [2026-10-26, 17:25:30](https://news.ycombinator.com/item?id=50247493) - [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
+* [2026-10-26, 17:23:42](https://news.ycombinator.com/item?id=50247465) - [Open Sound Connect – Control Sony Headphones from Your Mac](https://opensoundconnect.app)
 * [2026-10-26, 17:23:11](https://news.ycombinator.com/item?id=50247453) - [The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)
 * [2026-10-26, 17:15:58](https://news.ycombinator.com/item?id=50247342) - [The Tragedy of Losing Your Wikipedia Page](https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/)
 * [2026-10-26, 16:35:44](https://news.ycombinator.com/item?id=50246658) - [Concerning behavior from a popular open-weight AI model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
