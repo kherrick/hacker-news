@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-29, 19:41:39](https://news.ycombinator.com/item?id=50294702) - [Sir Patrick Stewart has died](https://twitter.com/sirpatstew/status/2115891266131300517)
 * [2026-10-29, 19:27:47](https://news.ycombinator.com/item?id=50294507) - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
 * [2026-10-29, 19:27:44](https://news.ycombinator.com/item?id=50294506) - [Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"](https://github.com/johncassil/dontallow)
-* [2026-10-29, 19:25:48](https://news.ycombinator.com/item?id=50294486) - [IgE disruptor for food allergy with Claude-enabled antibody design[pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
+* [2026-10-29, 19:25:48](https://news.ycombinator.com/item?id=50294486) - [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
 * [2026-10-29, 17:43:48](https://news.ycombinator.com/item?id=50293047) - [Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang](https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/)
 * [2026-10-29, 17:42:22](https://news.ycombinator.com/item?id=50293023) - [After 28 years walking across the globe, he's almost home](https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html)
+* [2026-10-29, 17:24:25](https://news.ycombinator.com/item?id=50292727) - [Duet is the future of chatbot interaction](https://fig.blue/posts/duet-is-the-future/)
 * [2026-10-29, 16:56:54](https://news.ycombinator.com/item?id=50292233) - [Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468)
 * [2026-10-29, 16:42:17](https://news.ycombinator.com/item?id=50291945) - [Google Search is now less than half of Alphabet’s revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
 * [2026-10-29, 16:41:11](https://news.ycombinator.com/item?id=50291927) - [Toxic experts (2017)](https://nedbatchelder.com/blog/201711/toxic_experts)
@@ -20,7 +22,6 @@
 * [2026-10-29, 12:33:05](https://news.ycombinator.com/item?id=50287919) - [DoorDash to acquire Instacart](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)
 * [2026-10-29, 12:19:00](https://news.ycombinator.com/item?id=50287775) - [If IPv4 were land](https://iptrust.co/blog/if-ipv4-were-land)
 * [2026-10-29, 11:59:01](https://news.ycombinator.com/item?id=50287599) - [NetBSD adds a new text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
-* [2026-10-29, 11:41:18](https://news.ycombinator.com/item?id=50287448) - [How Google determines the names for bodies of water in Google Earth (2008)](https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html)
 * [2026-10-29, 10:42:41](https://news.ycombinator.com/item?id=50286987) - [Chained PHP2Shell exploit roots 25 servers, including US Government servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)
 * [2026-10-29, 08:55:08](https://news.ycombinator.com/item?id=50286197) - [What we know so far about Spain train crash](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
 * [2026-10-29, 06:20:06](https://news.ycombinator.com/item?id=50285154) - [We won't \"just hang out\"](https://borretti.me/article/we-wont-just-hang-out)
@@ -29,7 +30,6 @@
 * [2026-10-27, 17:27:39](https://news.ycombinator.com/item?id=50262608) - [Blanets and Weird Worlds](https://www.antipope.org/charlie/blog-static/2026/10/bizarre-blanets-and-other-weir.html)
 * [2026-10-27, 05:59:07](https://news.ycombinator.com/item?id=50255161) - [Edit an SQLite database in your browser](https://editsqlite.com/)
 * [2026-10-26, 17:15:58](https://news.ycombinator.com/item?id=50247342) - [The tragedy of losing your Wikipedia page](https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/)
-* [2026-10-25, 16:05:56](https://news.ycombinator.com/item?id=50233059) - [If-then-else had to be invented (2020)](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md)
 
 ## [Archives](archives/index.md)
 
