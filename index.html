@@ -129,6 +129,189 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="50291116">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=50291116"
+              >Launch HN: Simantic (YC F26) – Firmware Simulation for AI
+              Agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-29 @ 15:56:32</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50291116"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://simantic.com">https://simantic.com</a>). We are
+              building the simulation layer that lets engineers and AI agents
+              test and validate firmware without hardware.
+              <p>
+                Before Simantic, we were ex-firmware engineers at companies like
+                Neuralink and Tesla. We’ve worked on some of the coolest
+                projects, like the Cybertruck and Roadster, back when they were
+                still early prototypes.
+              </p>
+              <p>
+                We started working on firmware back when ChatGPT didn’t exist
+                yet, but over the years, we saw how much of the engineering and
+                development work has been automated as the frontier models
+                improved to this point. In software, AI can run and test code
+                inside your computer in a matter of seconds. But as firmware
+                engineers, we didn’t have that luxury. An AI agent can write
+                firmware in seconds, but in order to test it, we had to flash a
+                physical board, then manually run tests using expensive and
+                clunky tools with software made over a decade ago.
+              </p>
+              <p>
+                To speed up the validation loop, we built the simulation layer
+                that lets AI agents test the firmware and make decisions based
+                on evidence, instead of waiting for the engineer to run tests
+                for them. We used to spend hours testing our firmware manually
+                on devboards, but now we use our own simulation to validate
+                firmware in seconds.
+              </p>
+              <p>
+                What we offer: - Virtual devboards you can program and run with
+                a single API call, without leaving your terminal. - An AI code
+                reviewer for firmware, that makes informed decisions based on
+                evidence, using our simulation as a verification engine. - A
+                CI/CD pipeline for your hardware projects that validates your
+                firmware against a simulated version of the microcontroller on
+                every commit.
+              </p>
+              <p>
+                Here is a demo of our simulation used in an AI code review
+                session:
+                <a href="https://www.youtube.com/watch?v=kBK1ZjGWWbQ"
+                  >https://www.youtube.com/watch?v=kBK1ZjGWWbQ</a
+                >
+              </p>
+              <p>
+                Our users are using Simantic for bare-metal and RTOS development
+                for applications like flight controllers, electric vehicles,
+                robotics, and satellites. For safety critical systems like
+                avionics and automotives, a robust simulation system is
+                incredibly important, because every change in the firmware puts
+                a human life at stake, especially for machines that cost
+                hundreds of thousands to millions of dollars.
+              </p>
+              <p>
+                We recently helped an early stage space startup building
+                satellites, to test their firmware on hardware that they don't
+                yet have. Even the development modules for those satellites
+                costs over $100k, and we helped them do that at just a hundredth
+                of the cost and time.
+              </p>
+              <p>
+                Early on in our journey, we established our idea to make better
+                simulation but didn’t have a clear idea of how we would do it,
+                we considered developing our software around open source
+                emulation frameworks like Renode (<a
+                  href="https://github.com/renode/renode"
+                  >https://github.com/renode/renode</a
+                >) and QEMU (<a href="https://www.qemu.org/"
+                  >https://www.qemu.org/</a
+                >), because they were tools already used within the firmware
+                industry. We built our MVP that was essentially a wrapper around
+                Renode, but we quickly realized there were a lot of limitations
+                to doing this.
+              </p>
+              <p>
+                1. We were bottlenecked by the development speed of Renode
+                themselves. We tried making contributions on Github to fix
+                issues we came across, but the speed in which we could merge our
+                features in was not fast enough for a startup like us trying to
+                move fast.
+              </p>
+              <p>
+                2. Renode is built using Dotnet, and it was proving itself to be
+                slower than we would have liked. Renode was released in 2017,
+                which was when all code was still being written by hand, so I
+                think it made sense looking back, but there were limitations
+                because of the language itself.
+              </p>
+              <p>
+                3. The open source tools were bloated, with features that we
+                would never use. Yes, there were a breadth of features, but we
+                had a lot of things we had to work around just because we
+                couldn’t remove or change them. Users were complaining about
+                simulation accuracy. Renode is an emulator at the core, but our
+                users, especially those who are building systems where timing
+                accuracy is crucial did not find the accuracy good enough to
+                validate their firmware.
+              </p>
+              <p>
+                Because of these issues, we made our own simulation engine from
+                scratch, fully written in Rust.
+              </p>
+              <p>
+                - Our simulation is focused on accuracy. Open source frameworks
+                often focus on expandability and developer experience, which
+                means there were a lot of tradeoffs made to prioritize a breadth
+                of models rather than going deep into a set of select models.
+              </p>
+              <p>
+                - We have our own hardware validation rigs running 24/7 to
+                ensure our simulation models are as close to real world hardware
+                as possible, and any gaps are detected and fixed as soon as we
+                can. It currently looks like devboards connected to a Saleae
+                Logic MSO and a SWD bus, controlled by a Linux PC, running
+                Claude 24/7 just finding these gaps.
+              </p>
+              <p>
+                Our cloud-hosted simulator is available to use right now! We
+                also provide a native binary with our developer plan licenses
+                that let you run your firmware on your machines locally without
+                any limitations.
+              </p>
+              <p>
+                Check it out at
+                <a href="https://simantic.com/cloud-sim"
+                  >https://simantic.com/cloud-sim</a
+                >, and you can start using our AI firmware reviewer bot in your
+                own Github repos here:
+                <a href="https://simantic.com/dashboard/simantic-bot"
+                  >https://simantic.com/dashboard/simantic-bot</a
+                >.
+              </p>
+              <p>
+                We currently have support for some models of the STM32F0, F4, H7
+                series MCUs, ESP32-S3/C3, and RP2040, but we’re constantly
+                working to release new models every week, and improve our
+                existing ones.
+              </p>
+              <p>
+                Thank you, and if you have any questions, feel free to send us
+                an email at founders@simantic.dev
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="50291054">
+          <h3>
+            <a class="item" href="https://sidbala.com/h-264-is-magic/"
+              >H.264 Is Magic</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-29 @ 15:53:03</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50291054"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="50290668">
           <h3>
             <a
@@ -142,11 +325,11 @@
             <h4>
               <span>2026-10-29 @ 15:30:22</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50290668"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -163,11 +346,11 @@
             <h4>
               <span>2026-10-29 @ 15:06:17</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50290283"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -182,11 +365,11 @@
             <h4>
               <span>2026-10-29 @ 14:57:41</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50290170"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -203,11 +386,11 @@
             <h4>
               <span>2026-10-29 @ 14:40:43</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50289859"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -222,7 +405,7 @@
             <h4>
               <span>2026-10-29 @ 14:22:53</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50289590"
                   >Comments</a
@@ -241,11 +424,11 @@
             <h4>
               <span>2026-10-29 @ 14:13:21</span
               ><span class="points-container"
-                >Points: <span class="points">431</span></span
+                >Points: <span class="points">454</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50289418"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -262,11 +445,11 @@
             <h4>
               <span>2026-10-29 @ 13:58:41</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50289162"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -284,13 +467,16 @@
             <h4>
               <span>2026-10-29 @ 13:40:04</span
               ><span class="points-container"
-                >Points: <span class="points">324</span></span
+                >Points: <span class="points">341</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50288867"
                   >Comments</a
-                ><span class="descendants">: 202</span></span
+                ><span class="descendants">: 227</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://archive.ph/Ykfga">https://archive.ph/Ykfga</a>
+            </div>
           </section>
         </section>
         <section id="50288019">
@@ -306,11 +492,11 @@
             <h4>
               <span>2026-10-29 @ 12:41:56</span
               ><span class="points-container"
-                >Points: <span class="points">258</span></span
+                >Points: <span class="points">264</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50288019"
                   >Comments</a
-                ><span class="descendants">: 198</span></span
+                ><span class="descendants">: 206</span></span
               >
             </h4>
           </section>
@@ -325,11 +511,11 @@
             <h4>
               <span>2026-10-29 @ 12:31:09</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50287898"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -346,11 +532,11 @@
             <h4>
               <span>2026-10-29 @ 11:59:01</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50287599"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -368,7 +554,7 @@
             <h4>
               <span>2026-10-29 @ 11:41:18</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50287448"
                   >Comments</a
@@ -390,11 +576,11 @@
             <h4>
               <span>2026-10-29 @ 10:44:49</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">219</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50287001"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
+                ><span class="descendants">: 141</span></span
               >
             </h4>
           </section>
@@ -412,11 +598,11 @@
             <h4>
               <span>2026-10-29 @ 10:42:41</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50286987"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -431,11 +617,11 @@
             <h4>
               <span>2026-10-29 @ 07:08:50</span
               ><span class="points-container"
-                >Points: <span class="points">250</span></span
+                >Points: <span class="points">252</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50285452"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 133</span></span
               >
             </h4>
           </section>
@@ -452,7 +638,7 @@
             <h4>
               <span>2026-10-29 @ 06:47:28</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50285319"
                   >Comments</a
@@ -472,11 +658,11 @@
             <h4>
               <span>2026-10-29 @ 00:25:45</span
               ><span class="points-container"
-                >Points: <span class="points">638</span></span
+                >Points: <span class="points">645</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50282838"
                   >Comments</a
-                ><span class="descendants">: 135</span></span
+                ><span class="descendants">: 136</span></span
               >
             </h4>
           </section>
@@ -494,7 +680,7 @@
             <h4>
               <span>2026-10-28 @ 23:45:46</span
               ><span class="points-container"
-                >Points: <span class="points">235</span></span
+                >Points: <span class="points">236</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50282544"
                   >Comments</a
@@ -515,11 +701,11 @@
             <h4>
               <span>2026-10-28 @ 23:35:02</span
               ><span class="points-container"
-                >Points: <span class="points">686</span></span
+                >Points: <span class="points">691</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50282454"
                   >Comments</a
-                ><span class="descendants">: 581</span></span
+                ><span class="descendants">: 586</span></span
               >
             </h4>
           </section>
@@ -534,7 +720,7 @@
             <h4>
               <span>2026-10-28 @ 21:13:21</span
               ><span class="points-container"
-                >Points: <span class="points">331</span></span
+                >Points: <span class="points">333</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50280974"
                   >Comments</a
@@ -553,11 +739,11 @@
             <h4>
               <span>2026-10-28 @ 17:13:29</span
               ><span class="points-container"
-                >Points: <span class="points">1473</span></span
+                >Points: <span class="points">1477</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50276998"
                   >Comments</a
-                ><span class="descendants">: 273</span></span
+                ><span class="descendants">: 274</span></span
               >
             </h4>
           </section>
@@ -574,11 +760,32 @@
             <h4>
               <span>2026-10-28 @ 14:38:22</span
               ><span class="points-container"
-                >Points: <span class="points">512</span></span
+                >Points: <span class="points">514</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50274409"
                   >Comments</a
                 ><span class="descendants">: 141</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50261373">
+          <h3>
+            <a
+              class="item"
+              href="https://viiwork.pulu.app/blog/kv-share-two-5090-hosts/"
+              >Two RTX 5090 hosts sharing a KV cache over Ethernet</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-10-27 @ 16:09:50</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50261373"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -594,30 +801,11 @@
             <h4>
               <span>2026-10-27 @ 14:12:59</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50259697"
                   >Comments</a
                 ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50256409">
-          <h3>
-            <a class="item" href="https://www.benjoffe.com/fast-floordiv"
-              >A new faster algorithm to compute 64-bit signed floor division</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-27 @ 09:13:12</span
-              ><span class="points-container"
-                >Points: <span class="points">135</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50256409"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -635,7 +823,7 @@
             <h4>
               <span>2026-10-27 @ 00:18:58</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50253100"
                   >Comments</a
@@ -656,11 +844,11 @@
             <h4>
               <span>2026-10-26 @ 21:24:18</span
               ><span class="points-container"
-                >Points: <span class="points">327</span></span
+                >Points: <span class="points">329</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50251200"
                   >Comments</a
-                ><span class="descendants">: 221</span></span
+                ><span class="descendants">: 225</span></span
               >
             </h4>
           </section>
@@ -681,29 +869,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50243757"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50243060">
-          <h3>
-            <a
-              class="item"
-              href="https://www.circuithub.com/post/unveiling-the-grid"
-              >The Grid, a factory-scale robot in Massachusetts that builds PCBs
-              on demand</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-26 @ 13:13:31</span
-              ><span class="points-container"
-                >Points: <span class="points">550</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50243060"
-                  >Comments</a
-                ><span class="descendants">: 245</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -718,30 +884,11 @@
             <h4>
               <span>2026-10-26 @ 12:27:44</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50242509"
                   >Comments</a
                 ><span class="descendants">: 16</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50241195">
-          <h3>
-            <a class="item" href="https://morronel.github.io/requests_please/"
-              >Requests, Please</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-10-26 @ 09:23:43</span
-              ><span class="points-container"
-                >Points: <span class="points">65</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50241195"
-                  >Comments</a
-                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
