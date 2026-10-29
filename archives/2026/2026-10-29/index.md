@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 21:40:28](https://news.ycombinator.com/item?id=50296486) - [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
+* [2026-10-29, 21:38:59](https://news.ycombinator.com/item?id=50296470) - [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+* [2026-10-29, 21:24:59](https://news.ycombinator.com/item?id=50296272) - [Over $5B drained from Binance in apparent hack](http://twitter.com/emmettgallic/status/2115916025774723210)
 * [2026-10-29, 20:59:55](https://news.ycombinator.com/item?id=50295868) - [Sylphide OS: a general-purpose OS for microcontroller-based computers](https://projects.freehackers.org/sylphide-os/)
 * [2026-10-29, 20:56:39](https://news.ycombinator.com/item?id=50295821) - [ElementaryUI – Swift, in the Browser](https://elementary.codes)
 * [2026-10-29, 20:35:18](https://news.ycombinator.com/item?id=50295503) - [Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20](https://www.scraping.club/p/tiktok-scraping-metadata)
