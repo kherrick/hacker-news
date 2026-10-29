@@ -29,6 +29,7 @@
 * [2026-10-27, 16:27:29](https://news.ycombinator.com/item?id=50261623) - [Vicious Cycles: Theses on a philosophy of news](https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/)
 * [2026-10-27, 16:25:30](https://news.ycombinator.com/item?id=50261589) - [Amazon Is Gutting Its AI Division After Sustained Failure](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova)
 * [2026-10-27, 16:25:12](https://news.ycombinator.com/item?id=50261583) - [PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch](https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/)
+* [2026-10-27, 16:09:50](https://news.ycombinator.com/item?id=50261373) - [Two RTX 5090 hosts sharing a KV cache over Ethernet](https://viiwork.pulu.app/blog/kv-share-two-5090-hosts/)
 * [2026-10-27, 16:08:32](https://news.ycombinator.com/item?id=50261352) - [Apple introduces the new 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
 * [2026-10-27, 16:06:01](https://news.ycombinator.com/item?id=50261319) - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
 * [2026-10-27, 15:28:26](https://news.ycombinator.com/item?id=50260814) - [Anthropic trained Claude on illegally obtained Stanford professors' books](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/)
