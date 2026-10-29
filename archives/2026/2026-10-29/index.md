@@ -8,6 +8,7 @@
 * [2026-10-29, 18:06:22](https://news.ycombinator.com/item?id=50293361) - [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo)
 * [2026-10-29, 18:02:17](https://news.ycombinator.com/item?id=50293308) - [I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform](https://github.com/Ka1-S/LYNX-SHARE)
 * [2026-10-29, 17:42:30](https://news.ycombinator.com/item?id=50293025) - [AI Contributions to GHC](https://serokell.io/blog/ai-contributions-to-ghc)
+* [2026-10-29, 17:42:22](https://news.ycombinator.com/item?id=50293023) - [After 28 years walking across the globe, he's almost home](https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html)
 * [2026-10-29, 17:31:01](https://news.ycombinator.com/item?id=50292825) - [Thursday: A SerenityOS for Myself](https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself)
 * [2026-10-29, 16:56:54](https://news.ycombinator.com/item?id=50292233) - [Tomas Mikolov (creator of Word2Vec) receives the Medal of Merit](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468)
 * [2026-10-29, 16:42:17](https://news.ycombinator.com/item?id=50291945) - [For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
