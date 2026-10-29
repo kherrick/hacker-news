@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 16:36:14](https://news.ycombinator.com/item?id=50291830) - [Are Stochastic Parrots Alive?](https://stefano.petrilli.xyz/are-stochastic-parrots-alive/)
 * [2026-10-29, 15:56:32](https://news.ycombinator.com/item?id=50291116) - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
 * [2026-10-29, 15:53:03](https://news.ycombinator.com/item?id=50291054) - [H.264 Is Magic](https://sidbala.com/h-264-is-magic/)
 * [2026-10-29, 15:45:05](https://news.ycombinator.com/item?id=50290912) - [Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler)
