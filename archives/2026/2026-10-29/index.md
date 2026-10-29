@@ -13,6 +13,7 @@
 * [2026-10-29, 18:17:06](https://news.ycombinator.com/item?id=50293546) - [Archive Of Our Own down for maintenance for 2 to 4 weeks](https://www.otwstatus.org/incidents/g12jnxck9g6h)
 * [2026-10-29, 18:06:22](https://news.ycombinator.com/item?id=50293361) - [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo)
 * [2026-10-29, 18:02:17](https://news.ycombinator.com/item?id=50293308) - [I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform](https://github.com/Ka1-S/LYNX-SHARE)
+* [2026-10-29, 17:48:17](https://news.ycombinator.com/item?id=50293115) - [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions)
 * [2026-10-29, 17:43:48](https://news.ycombinator.com/item?id=50293047) - [Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang](https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/)
 * [2026-10-29, 17:42:30](https://news.ycombinator.com/item?id=50293025) - [AI Contributions to GHC](https://serokell.io/blog/ai-contributions-to-ghc)
 * [2026-10-29, 17:42:22](https://news.ycombinator.com/item?id=50293023) - [After 28 years walking across the globe, he's almost home](https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html)
