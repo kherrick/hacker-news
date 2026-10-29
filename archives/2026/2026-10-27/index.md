@@ -27,6 +27,7 @@
 * [2026-10-27, 16:40:15](https://news.ycombinator.com/item?id=50261819) - [Police are using AI to pull over drivers for 'suspicious' behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
 * [2026-10-27, 16:29:02](https://news.ycombinator.com/item?id=50261647) - [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)
 * [2026-10-27, 16:27:29](https://news.ycombinator.com/item?id=50261623) - [Vicious Cycles: Theses on a philosophy of news](https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/)
+* [2026-10-27, 16:25:45](https://news.ycombinator.com/item?id=50261595) - [Everything Rhymes with Porcelain](https://worksinprogress.co/issue/everything-rhymes-with-porcelain/)
 * [2026-10-27, 16:25:30](https://news.ycombinator.com/item?id=50261589) - [Amazon Is Gutting Its AI Division After Sustained Failure](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova)
 * [2026-10-27, 16:25:12](https://news.ycombinator.com/item?id=50261583) - [PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch](https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/)
 * [2026-10-27, 16:09:50](https://news.ycombinator.com/item?id=50261373) - [Two RTX 5090 hosts sharing a KV cache over Ethernet](https://viiwork.pulu.app/blog/kv-share-two-5090-hosts/)
