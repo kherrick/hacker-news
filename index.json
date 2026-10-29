@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2026-10-28, 18:07:41",
+      "https://news.ycombinator.com/item?id=50278253"
+    ],
+    [
+      "Scaling Hierarchical Networks",
+      "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1"
+    ]
+  ],
+  [
+    [
       "2026-10-28, 17:45:24",
       "https://news.ycombinator.com/item?id=50277755"
     ],
@@ -217,16 +227,6 @@
     [
       "A new faster algorithm to compute 64-bit signed floor division",
       "https://www.benjoffe.com/fast-floordiv"
-    ]
-  ],
-  [
-    [
-      "2026-10-27, 00:25:08",
-      "https://news.ycombinator.com/item?id=50253150"
-    ],
-    [
-      "Show HN: Live speech-to-text on an ESP32-P4 microcontroller, no cloud",
-      "https://github.com/BoumedineBillal/esp32-pie-asr"
     ]
   ],
   [
