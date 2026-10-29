@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-10-29, 21:40:28",
+      "https://news.ycombinator.com/item?id=50296486"
+    ],
+    [
+      "We ran AI agent swarms in Minecraft and Mindustry",
+      "https://labs.ycombinator.com/projects/games/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 21:38:59",
+      "https://news.ycombinator.com/item?id=50296470"
+    ],
+    [
+      "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 21:24:59",
+      "https://news.ycombinator.com/item?id=50296272"
+    ],
+    [
+      "Over $5B drained from Binance in apparent hack",
+      "http://twitter.com/emmettgallic/status/2115916025774723210"
+    ]
+  ],
+  [
+    [
       "2026-10-29, 20:59:55",
       "https://news.ycombinator.com/item?id=50295868"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-10-29, 17:42:22",
-      "https://news.ycombinator.com/item?id=50293023"
-    ],
-    [
-      "After 28 years walking across the globe, he's almost home",
-      "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html"
-    ]
-  ],
-  [
-    [
       "2026-10-29, 17:24:25",
       "https://news.ycombinator.com/item?id=50292727"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-10-29, 14:22:53",
-      "https://news.ycombinator.com/item?id=50289590"
-    ],
-    [
-      "Keplearn: Extract Equations from Data in Seconds",
-      "https://github.com/owls-on-wires/keplearn"
-    ]
-  ],
-  [
-    [
       "2026-10-29, 14:13:21",
       "https://news.ycombinator.com/item?id=50289418"
     ],
@@ -257,16 +267,6 @@
     [
       "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
       "https://github.com/emmilco/us-tax-model"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 18:29:25",
-      "https://news.ycombinator.com/item?id=50278645"
-    ],
-    [
-      "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
-      "https://github.com/theconsensuslabs/noalloc"
     ]
   ],
   [
