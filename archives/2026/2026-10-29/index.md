@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 15:30:22](https://news.ycombinator.com/item?id=50290668) - [Mexico is a showroom for electric vehicles you can't buy in the U.S.](https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/)
+* [2026-10-29, 15:06:17](https://news.ycombinator.com/item?id=50290283) - [Only 40% of AI-cited statistics trace back to a study](https://trakkr.ai/trakkr-research/zombie-stats)
 * [2026-10-29, 14:57:41](https://news.ycombinator.com/item?id=50290170) - [Finland investigate Google over destruction of 250k trees](https://yle.fi/a/74-20254086)
 * [2026-10-29, 14:50:17](https://news.ycombinator.com/item?id=50290042) - [React.lazy, Suspense and the Hidden 300 ms Delay](https://tabwidgets.com/blog/react-lazy-suspense-delay)
 * [2026-10-29, 14:40:43](https://news.ycombinator.com/item?id=50289859) - [DoorDash is acquiring Instacart for $17B](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)
