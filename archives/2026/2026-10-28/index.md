@@ -22,6 +22,7 @@
 * [2026-10-28, 19:15:07](https://news.ycombinator.com/item?id=50279308) - [Rising rates of colorectal cancer found in nearly all age groups](https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer)
 * [2026-10-28, 18:49:17](https://news.ycombinator.com/item?id=50278970) - [At least 68 killed in Spanish high-speed train crash](https://www.bbc.com/news/live/cv1j309d4g98t)
 * [2026-10-28, 18:34:51](https://news.ycombinator.com/item?id=50278754) - [Big Tech's thirst for water is sparking a global resistance](https://restofworld.org/2026/ai-datacenters-water-resistance-global/)
+* [2026-10-28, 18:30:53](https://news.ycombinator.com/item?id=50278678) - [Show HN: A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model)
 * [2026-10-28, 18:29:25](https://news.ycombinator.com/item?id=50278645) - [noalloc: Tooling and libraries to enforce zero heap allocations in Golang](https://github.com/theconsensuslabs/noalloc)
 * [2026-10-28, 18:07:41](https://news.ycombinator.com/item?id=50278253) - [Scaling Hierarchical Networks](https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1)
 * [2026-10-28, 17:45:24](https://news.ycombinator.com/item?id=50277755) - [Spiders Spin 'Silk Dope' into Nature's Toughest Material](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
