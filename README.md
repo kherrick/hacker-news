@@ -14,7 +14,6 @@
 * [2026-10-29, 14:13:21](https://news.ycombinator.com/item?id=50289418) - [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
 * [2026-10-29, 12:41:56](https://news.ycombinator.com/item?id=50288019) - [Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
 * [2026-10-29, 12:33:05](https://news.ycombinator.com/item?id=50287919) - [DoorDash to acquire Instacart](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)
-* [2026-10-29, 12:31:09](https://news.ycombinator.com/item?id=50287898) - [Hackers expose the identities of more than 40k DHS employees](https://text.npr.org/nx-s1-6021497)
 * [2026-10-29, 12:19:00](https://news.ycombinator.com/item?id=50287775) - [If IPv4 were land](https://iptrust.co/blog/if-ipv4-were-land)
 * [2026-10-29, 11:59:01](https://news.ycombinator.com/item?id=50287599) - [NetBSD adds a new text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
 * [2026-10-29, 11:41:18](https://news.ycombinator.com/item?id=50287448) - [How Google determines the names for bodies of water in Google Earth](https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html)
@@ -30,6 +29,7 @@
 * [2026-10-27, 16:25:45](https://news.ycombinator.com/item?id=50261595) - [Everything Rhymes with Porcelain](https://worksinprogress.co/issue/everything-rhymes-with-porcelain/)
 * [2026-10-26, 13:54:39](https://news.ycombinator.com/item?id=50243757) - [Getting debug access on a Brother printer over Telnet](https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/)
 * [2026-10-26, 12:27:44](https://news.ycombinator.com/item?id=50242509) - [Java's new AOT cache feature is in a rough state](https://xpipe.io/blog/java-aot-cache)
+* [2026-10-25, 16:05:56](https://news.ycombinator.com/item?id=50233059) - [If-then-else had to be invented (2020)](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md)
 
 ## [Archives](archives/index.md)
 
