@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-29, 19:41:39](https://news.ycombinator.com/item?id=50294702) - [Sir Patrick Stewart has died](https://twitter.com/sirpatstew/status/2115891266131300517)
+* [2026-10-29, 19:47:38](https://news.ycombinator.com/item?id=50294770) - [Patrick Stewart Has Died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
+* [2026-10-29, 19:41:39](https://news.ycombinator.com/item?id=50294702) - [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 * [2026-10-29, 19:27:47](https://news.ycombinator.com/item?id=50294507) - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
 * [2026-10-29, 19:27:44](https://news.ycombinator.com/item?id=50294506) - [Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"](https://github.com/johncassil/dontallow)
 * [2026-10-29, 19:25:48](https://news.ycombinator.com/item?id=50294486) - [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
@@ -24,10 +25,9 @@
 * [2026-10-29, 11:59:01](https://news.ycombinator.com/item?id=50287599) - [NetBSD adds a new text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
 * [2026-10-29, 10:42:41](https://news.ycombinator.com/item?id=50286987) - [Chained PHP2Shell exploit roots 25 servers, including US Government servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)
 * [2026-10-29, 08:55:08](https://news.ycombinator.com/item?id=50286197) - [What we know so far about Spain train crash](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
-* [2026-10-29, 06:20:06](https://news.ycombinator.com/item?id=50285154) - [We won't \"just hang out\"](https://borretti.me/article/we-wont-just-hang-out)
 * [2026-10-28, 18:30:53](https://news.ycombinator.com/item?id=50278678) - [Show HN: A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model)
 * [2026-10-28, 18:29:25](https://news.ycombinator.com/item?id=50278645) - [noalloc: Tooling and libraries to enforce zero heap allocations in Golang](https://github.com/theconsensuslabs/noalloc)
-* [2026-10-27, 17:27:39](https://news.ycombinator.com/item?id=50262608) - [Blanets and Weird Worlds](https://www.antipope.org/charlie/blog-static/2026/10/bizarre-blanets-and-other-weir.html)
+* [2026-10-27, 14:33:35](https://news.ycombinator.com/item?id=50260033) - [One reviewer per layer: splitting code review by the way code is read](https://djordjepuzic.com/blog/posts/2026-10-27-one-reviewer-per-layer/)
 * [2026-10-27, 05:59:07](https://news.ycombinator.com/item?id=50255161) - [Edit an SQLite database in your browser](https://editsqlite.com/)
 * [2026-10-26, 17:15:58](https://news.ycombinator.com/item?id=50247342) - [The tragedy of losing your Wikipedia page](https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/)
 

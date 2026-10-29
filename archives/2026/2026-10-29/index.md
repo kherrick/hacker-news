@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 19:47:38](https://news.ycombinator.com/item?id=50294770) - [Patrick Stewart Has Died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 * [2026-10-29, 19:41:39](https://news.ycombinator.com/item?id=50294702) - [Sir Patrick Stewart has died](https://twitter.com/sirpatstew/status/2115891266131300517)
 * [2026-10-29, 19:27:47](https://news.ycombinator.com/item?id=50294507) - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
 * [2026-10-29, 19:27:44](https://news.ycombinator.com/item?id=50294506) - [Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"](https://github.com/johncassil/dontallow)

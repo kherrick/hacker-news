@@ -37,6 +37,7 @@
 * [2026-10-27, 15:28:26](https://news.ycombinator.com/item?id=50260814) - [Anthropic trained Claude on illegally obtained Stanford professors' books](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/)
 * [2026-10-27, 15:12:20](https://news.ycombinator.com/item?id=50260571) - [Show HN: Specification First Agentic Development Plugin and Prove](https://spec-first.dev/)
 * [2026-10-27, 15:09:27](https://news.ycombinator.com/item?id=50260526) - [A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies](https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497)
+* [2026-10-27, 14:33:35](https://news.ycombinator.com/item?id=50260033) - [One reviewer per layer: splitting code review by the way code is read](https://djordjepuzic.com/blog/posts/2026-10-27-one-reviewer-per-layer/)
 * [2026-10-27, 14:12:59](https://news.ycombinator.com/item?id=50259697) - [MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark](https://dmux.github.io/minilake/)
 * [2026-10-27, 14:06:42](https://news.ycombinator.com/item?id=50259604) - [US Government is hiding a secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)
 * [2026-10-27, 13:56:15](https://news.ycombinator.com/item?id=50259406) - [Is my data used for model training?](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training)
