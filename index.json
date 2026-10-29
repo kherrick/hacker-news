@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-10-29, 12:31:09",
+      "https://news.ycombinator.com/item?id=50287898"
+    ],
+    [
+      "Hackers expose the identities of more than 40k DHS employees",
+      "https://text.npr.org/nx-s1-6021497"
+    ]
+  ],
+  [
+    [
       "2026-10-29, 12:19:00",
       "https://news.ycombinator.com/item?id=50287775"
     ],
     [
       "If IPv4 Were Land",
       "https://iptrust.co/blog/if-ipv4-were-land"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 12:03:14",
+      "https://news.ycombinator.com/item?id=50287638"
+    ],
+    [
+      "DoorDash to Buy Instacart for $17B, Uniting 2 Delivery Giants",
+      "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 11:59:01",
+      "https://news.ycombinator.com/item?id=50287599"
+    ],
+    [
+      "NetBSD adds a new beginner-friendly text editor called atto",
+      "https://mastodon.sdf.org/@netbsd/117518160563539748"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 11:41:18",
+      "https://news.ycombinator.com/item?id=50287448"
+    ],
+    [
+      "Google determines the names for bodies of water in Google Earth (2008)",
+      "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html"
     ]
   ],
   [
@@ -37,6 +77,26 @@
     [
       "The US added a record 20.2 GWh of battery storage in just 3 months",
       "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 10:42:41",
+      "https://news.ycombinator.com/item?id=50286987"
+    ],
+    [
+      "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+      "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 10:08:04",
+      "https://news.ycombinator.com/item?id=50286738"
+    ],
+    [
+      "I Used AI to Fake a Scientific Paper. Here's What Happened",
+      "https://spectrum.ieee.org/ai-generated-scientific-papers"
     ]
   ],
   [
@@ -121,32 +181,12 @@
   ],
   [
     [
-      "2026-10-28, 21:00:06",
-      "https://news.ycombinator.com/item?id=50280824"
-    ],
-    [
-      "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
-      "https://nango.dev/careers"
-    ]
-  ],
-  [
-    [
       "2026-10-28, 17:13:29",
       "https://news.ycombinator.com/item?id=50276998"
     ],
     [
       "Why is this fingerprinting script creating bioweapons?",
       "https://nullpt.rs/fingerprinting-bioweapons"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 17:10:37",
-      "https://news.ycombinator.com/item?id=50276940"
-    ],
-    [
-      "MacBook Pro with PROLED XDR Display and Touch",
-      "https://www.apple.com/macbook-pro/proled-xdr-display/"
     ]
   ],
   [
@@ -167,26 +207,6 @@
     [
       "CNC Stone Carving",
       "https://carmelitegothic.com/cnc-stone-carving/"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 14:30:26",
-      "https://news.ycombinator.com/item?id=50274251"
-    ],
-    [
-      "AlpineBSD",
-      "https://wiki.alpinebsd.org"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 11:03:40",
-      "https://news.ycombinator.com/item?id=50271640"
-    ],
-    [
-      "Apple's git still trusts the compromised eMudhra certificates",
-      "https://emudhra.we-have-a-problem.com/apple.html"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-10-26, 15:00:05",
-      "https://news.ycombinator.com/item?id=50244929"
-    ],
-    [
-      "Nixpkgs for the Front End Impaired",
-      "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired"
-    ]
-  ],
-  [
-    [
       "2026-10-26, 13:54:39",
       "https://news.ycombinator.com/item?id=50243757"
     ],
@@ -257,16 +267,6 @@
     [
       "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
       "https://www.circuithub.com/post/unveiling-the-grid"
-    ]
-  ],
-  [
-    [
-      "2026-10-26, 13:00:03",
-      "https://news.ycombinator.com/item?id=50242873"
-    ],
-    [
-      "Human-enhanced tsunami hazard in large lakes",
-      "https://www.nature.com/articles/s41467-026-78272-8"
     ]
   ],
   [
