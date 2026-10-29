@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 03:33:42](https://news.ycombinator.com/item?id=50284255) - [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
 * [2026-10-29, 03:01:57](https://news.ycombinator.com/item?id=50284089) - [Richest 0.1% (8M) produce more carbon pollution than 3.5B](https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing)
 * [2026-10-29, 01:40:52](https://news.ycombinator.com/item?id=50283488) - [Electronic fibers weave touchscreen into sleeve that survives machine washing](https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/)
 * [2026-10-29, 00:30:37](https://news.ycombinator.com/item?id=50282865) - [MicroZig to Adopt Strict No LLM / No AI Policy](https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md)

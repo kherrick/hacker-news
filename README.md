@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-29, 03:33:42](https://news.ycombinator.com/item?id=50284255) - [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
 * [2026-10-29, 03:01:57](https://news.ycombinator.com/item?id=50284089) - [Richest 0.1% (8M) produce more carbon pollution than 3.5B](https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing)
 * [2026-10-29, 01:40:52](https://news.ycombinator.com/item?id=50283488) - [Electronic fibers weave touchscreen into sleeve that survives machine washing](https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/)
 * [2026-10-29, 00:25:45](https://news.ycombinator.com/item?id=50282838) - [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
@@ -15,7 +16,6 @@
 * [2026-10-28, 17:45:24](https://news.ycombinator.com/item?id=50277755) - [Spiders Spin 'Silk Dope' into Nature's Toughest Material](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
 * [2026-10-28, 17:13:29](https://news.ycombinator.com/item?id=50276998) - [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
 * [2026-10-28, 17:10:37](https://news.ycombinator.com/item?id=50276940) - [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
-* [2026-10-28, 17:07:09](https://news.ycombinator.com/item?id=50276883) - [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
 * [2026-10-28, 17:01:23](https://news.ycombinator.com/item?id=50276792) - [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
 * [2026-10-28, 15:46:30](https://news.ycombinator.com/item?id=50275626) - [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)
 * [2026-10-28, 14:38:22](https://news.ycombinator.com/item?id=50274409) - [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
