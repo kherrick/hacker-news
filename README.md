@@ -9,7 +9,6 @@
 * [2026-10-29, 12:41:56](https://news.ycombinator.com/item?id=50288019) - [Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
 * [2026-10-29, 12:33:05](https://news.ycombinator.com/item?id=50287919) - [DoorDash to Acquire Instacart](https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx)
 * [2026-10-29, 12:31:09](https://news.ycombinator.com/item?id=50287898) - [Hackers expose the identities of more than 40k DHS employees](https://text.npr.org/nx-s1-6021497)
-* [2026-10-29, 12:19:00](https://news.ycombinator.com/item?id=50287775) - [If IPv4 Were Land](https://iptrust.co/blog/if-ipv4-were-land)
 * [2026-10-29, 11:59:01](https://news.ycombinator.com/item?id=50287599) - [NetBSD adds a new beginner-friendly text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
 * [2026-10-29, 11:41:18](https://news.ycombinator.com/item?id=50287448) - [Google determines the names for bodies of water in Google Earth (2008)](https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html)
 * [2026-10-29, 10:44:49](https://news.ycombinator.com/item?id=50287001) - [The US added a record 20.2 GWh of battery storage in just 3 months](https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/)
@@ -28,6 +27,7 @@
 * [2026-10-26, 21:24:18](https://news.ycombinator.com/item?id=50251200) - [OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)
 * [2026-10-26, 17:23:42](https://news.ycombinator.com/item?id=50247465) - [Open Sound Connect – Control Sony Headphones from Your Mac](https://opensoundconnect.app)
 * [2026-10-26, 13:54:39](https://news.ycombinator.com/item?id=50243757) - [Getting debug access on a Brother printer over Telnet](https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/)
+* [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)
 * [2026-10-26, 12:27:44](https://news.ycombinator.com/item?id=50242509) - [Java's new AOT cache feature is in a rough state](https://xpipe.io/blog/java-aot-cache)
 * [2026-10-26, 09:23:43](https://news.ycombinator.com/item?id=50241195) - [Requests, Please](https://morronel.github.io/requests_please/)
 
