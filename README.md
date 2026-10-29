@@ -4,6 +4,7 @@
 * [2026-10-29, 22:26:38](https://news.ycombinator.com/item?id=50297089) - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
 * [2026-10-29, 22:14:23](https://news.ycombinator.com/item?id=50296947) - [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/)
 * [2026-10-29, 22:12:29](https://news.ycombinator.com/item?id=50296920) - [Should a medical diagnosis reshape the past? (2025)](https://chengela.substack.com/p/should-a-medical-diagnosis-reshape)
+* [2026-10-29, 21:48:35](https://news.ycombinator.com/item?id=50296585) - [El Niño Is Flooding California's Coasts with the Highest Tides to Come](https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574)
 * [2026-10-29, 21:40:28](https://news.ycombinator.com/item?id=50296486) - [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
 * [2026-10-29, 21:38:59](https://news.ycombinator.com/item?id=50296470) - [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 * [2026-10-29, 20:59:55](https://news.ycombinator.com/item?id=50295868) - [Sylphide OS: a general-purpose OS for microcontroller-based computers](https://projects.freehackers.org/sylphide-os/)
@@ -26,9 +27,8 @@
 * [2026-10-29, 12:33:05](https://news.ycombinator.com/item?id=50287919) - [DoorDash to acquire Instacart](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)
 * [2026-10-29, 12:19:00](https://news.ycombinator.com/item?id=50287775) - [If IPv4 were land](https://iptrust.co/blog/if-ipv4-were-land)
 * [2026-10-29, 10:42:41](https://news.ycombinator.com/item?id=50286987) - [Chained PHP2Shell exploit roots 25 servers, including US Government servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)
-* [2026-10-29, 08:55:08](https://news.ycombinator.com/item?id=50286197) - [What we know so far about Spain train crash](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
-* [2026-10-28, 18:30:53](https://news.ycombinator.com/item?id=50278678) - [Show HN: A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model)
 * [2026-10-27, 19:21:00](https://news.ycombinator.com/item?id=50264368) - [Partitioning my digital life into security domains (2011)](https://blog.invisiblethings.org/2011/03/13/partitioning-my-digital-life-into.html)
+* [2026-10-27, 19:00:50](https://news.ycombinator.com/item?id=50264087) - [Creating interactive data visualization with Flint-interactive](https://microsoft.github.io/flint-chart/#/interactions)
 * [2026-10-26, 15:15:11](https://news.ycombinator.com/item?id=50245199) - [Scattered thoughts on how doing math feels these days](https://dynomight.net/math/)
 
 ## [Archives](archives/index.md)
