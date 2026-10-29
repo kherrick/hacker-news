@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-29, 10:44:49",
+      "https://news.ycombinator.com/item?id=50287001"
+    ],
+    [
+      "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/"
+    ]
+  ],
+  [
+    [
       "2026-10-29, 08:55:08",
       "https://news.ycombinator.com/item?id=50286197"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-10-28, 17:45:24",
-      "https://news.ycombinator.com/item?id=50277755"
-    ],
-    [
-      "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-      "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/"
-    ]
-  ],
-  [
-    [
       "2026-10-28, 17:13:29",
       "https://news.ycombinator.com/item?id=50276998"
     ],
@@ -187,16 +187,6 @@
     [
       "AlpineBSD",
       "https://wiki.alpinebsd.org"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 14:02:20",
-      "https://news.ycombinator.com/item?id=50273731"
-    ],
-    [
-      "The Agent SDK",
-      "https://cursor.com/blog/agent-sdk"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Treap (Cartesian Tree)",
       "https://cp-algorithms.com/data_structures/treap.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 09:23:43",
+      "https://news.ycombinator.com/item?id=50241195"
+    ],
+    [
+      "Requests, Please",
+      "https://morronel.github.io/requests_please/"
     ]
   ],
   [
