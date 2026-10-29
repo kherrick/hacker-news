@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 22:26:38](https://news.ycombinator.com/item?id=50297089) - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
 * [2026-10-29, 22:14:23](https://news.ycombinator.com/item?id=50296947) - [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/)
 * [2026-10-29, 22:12:29](https://news.ycombinator.com/item?id=50296920) - [Should a medical diagnosis reshape the past? (2025)](https://chengela.substack.com/p/should-a-medical-diagnosis-reshape)
 * [2026-10-29, 22:11:08](https://news.ycombinator.com/item?id=50296905) - [Lighthouses, War and a Puffling](https://adcochrane.wordpress.com/2026/10/29/lighthouses-war-and-a-puffling-the-isle-of-may/)
