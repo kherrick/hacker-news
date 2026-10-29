@@ -54,6 +54,7 @@
 * [2026-10-28, 11:54:23](https://news.ycombinator.com/item?id=50272145) - [US agency approves Amazon Leo’s $11.5B acquisition of Globalstar](https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/)
 * [2026-10-28, 11:54:23](https://news.ycombinator.com/item?id=50272145) - [Amazon to buy satellite firm Globalstar in $11.57B deal](https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/)
 * [2026-10-28, 11:21:28](https://news.ycombinator.com/item?id=50271808) - [Tell HN: I'm going on strike this November](https://news.ycombinator.com/item?id=50271808)
+* [2026-10-28, 11:16:47](https://news.ycombinator.com/item?id=50271756) - [TLP Is Not a Suggestion](https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion)
 * [2026-10-28, 11:08:49](https://news.ycombinator.com/item?id=50271685) - [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
 * [2026-10-28, 11:03:40](https://news.ycombinator.com/item?id=50271640) - [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-28, 10:41:27](https://news.ycombinator.com/item?id=50271457) - [Barcelona unrest: how to fabricate a protest in the age of TikTok](https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263)
