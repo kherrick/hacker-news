@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-29, 16:36:14](https://news.ycombinator.com/item?id=50291830) - [Are Stochastic Parrots Alive?](https://stefano.petrilli.xyz/are-stochastic-parrots-alive/)
+* [2026-10-29, 16:42:17](https://news.ycombinator.com/item?id=50291945) - [For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
+* [2026-10-29, 16:36:14](https://news.ycombinator.com/item?id=50291830) - [Are stochastic parrots alive?](https://stefano.petrilli.xyz/are-stochastic-parrots-alive/)
+* [2026-10-29, 16:14:28](https://news.ycombinator.com/item?id=50291421) - [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
 * [2026-10-29, 15:56:32](https://news.ycombinator.com/item?id=50291116) - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
 * [2026-10-29, 15:53:03](https://news.ycombinator.com/item?id=50291054) - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
 * [2026-10-29, 15:45:05](https://news.ycombinator.com/item?id=50290912) - [Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler)
@@ -24,10 +26,8 @@
 * [2026-10-28, 18:29:25](https://news.ycombinator.com/item?id=50278645) - [noalloc: Tooling and libraries to enforce zero heap allocations in Golang](https://github.com/theconsensuslabs/noalloc)
 * [2026-10-28, 17:13:29](https://news.ycombinator.com/item?id=50276998) - [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
 * [2026-10-28, 15:04:30](https://news.ycombinator.com/item?id=50274893) - [Newly discovered Kerberos delegation abuse path](https://hunio.org/security/abusing-constrained-delegation-without-protocol-transition-against-spn-less-accounts/)
-* [2026-10-28, 14:38:22](https://news.ycombinator.com/item?id=50274409) - [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
 * [2026-10-27, 14:12:59](https://news.ycombinator.com/item?id=50259697) - [MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark](https://dmux.github.io/minilake/)
 * [2026-10-27, 00:18:58](https://news.ycombinator.com/item?id=50253100) - [Southern Africa's first known stenciled rock art found hiding in plain sight](https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html)
-* [2026-10-26, 21:24:18](https://news.ycombinator.com/item?id=50251200) - [OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)
 * [2026-10-26, 13:54:39](https://news.ycombinator.com/item?id=50243757) - [Getting debug access on a Brother printer over Telnet](https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/)
 * [2026-10-26, 12:27:44](https://news.ycombinator.com/item?id=50242509) - [Java's new AOT cache feature is in a rough state](https://xpipe.io/blog/java-aot-cache)
 
