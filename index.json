@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2026-10-28, 11:16:47",
-      "https://news.ycombinator.com/item?id=50271756"
-    ],
-    [
-      "TLP Is Not a Suggestion",
-      "https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion"
-    ]
-  ],
-  [
-    [
       "2026-10-28, 11:03:40",
       "https://news.ycombinator.com/item?id=50271640"
     ],
     [
       "Apple's git still trusts the compromised eMudhra certificates",
       "https://emudhra.we-have-a-problem.com/apple.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-27, 14:12:59",
+      "https://news.ycombinator.com/item?id=50259697"
+    ],
+    [
+      "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
+      "https://dmux.github.io/minilake/"
     ]
   ],
   [
