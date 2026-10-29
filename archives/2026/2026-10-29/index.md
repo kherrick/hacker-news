@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 20:59:55](https://news.ycombinator.com/item?id=50295868) - [Sylphide OS: a general-purpose OS for microcontroller-based computers](https://projects.freehackers.org/sylphide-os/)
 * [2026-10-29, 20:35:18](https://news.ycombinator.com/item?id=50295503) - [Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20](https://www.scraping.club/p/tiktok-scraping-metadata)
 * [2026-10-29, 20:32:28](https://news.ycombinator.com/item?id=50295450) - [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
 * [2026-10-29, 19:47:38](https://news.ycombinator.com/item?id=50294770) - [Patrick Stewart Has Died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)

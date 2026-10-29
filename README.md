@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-29, 20:59:55](https://news.ycombinator.com/item?id=50295868) - [Sylphide OS: a general-purpose OS for microcontroller-based computers](https://projects.freehackers.org/sylphide-os/)
 * [2026-10-29, 20:32:28](https://news.ycombinator.com/item?id=50295450) - [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
 * [2026-10-29, 19:41:39](https://news.ycombinator.com/item?id=50294702) - [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 * [2026-10-29, 19:27:47](https://news.ycombinator.com/item?id=50294507) - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
@@ -14,7 +15,6 @@
 * [2026-10-29, 15:56:32](https://news.ycombinator.com/item?id=50291116) - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
 * [2026-10-29, 15:53:03](https://news.ycombinator.com/item?id=50291054) - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
 * [2026-10-29, 15:45:05](https://news.ycombinator.com/item?id=50290912) - [Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler)
-* [2026-10-29, 15:30:22](https://news.ycombinator.com/item?id=50290668) - [I went to Mexico to test-drive the cars Americans can’t buy](https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/)
 * [2026-10-29, 15:06:17](https://news.ycombinator.com/item?id=50290283) - [Zombie stats: Where the numbers AI quotes come from](https://trakkr.ai/trakkr-research/zombie-stats)
 * [2026-10-29, 14:57:55](https://news.ycombinator.com/item?id=50290177) - [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)
 * [2026-10-29, 14:22:53](https://news.ycombinator.com/item?id=50289590) - [Keplearn: Extract Equations from Data in Seconds](https://github.com/owls-on-wires/keplearn)
