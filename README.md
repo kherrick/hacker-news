@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-29, 13:40:04](https://news.ycombinator.com/item?id=50288867) - [Read the letter the FBI sent MLK to try to convince him to kill himself (2014)](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)
 * [2026-10-29, 12:41:56](https://news.ycombinator.com/item?id=50288019) - [Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
 * [2026-10-29, 12:33:05](https://news.ycombinator.com/item?id=50287919) - [DoorDash to Acquire Instacart](https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx)
 * [2026-10-29, 12:31:09](https://news.ycombinator.com/item?id=50287898) - [Hackers expose the identities of more than 40k DHS employees](https://text.npr.org/nx-s1-6021497)
@@ -27,7 +28,6 @@
 * [2026-10-26, 21:24:18](https://news.ycombinator.com/item?id=50251200) - [OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)
 * [2026-10-26, 13:54:39](https://news.ycombinator.com/item?id=50243757) - [Getting debug access on a Brother printer over Telnet](https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/)
 * [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)
-* [2026-10-26, 11:19:31](https://news.ycombinator.com/item?id=50241949) - [Treap (Cartesian Tree)](https://cp-algorithms.com/data_structures/treap.html)
 * [2026-10-26, 09:23:43](https://news.ycombinator.com/item?id=50241195) - [Requests, Please](https://morronel.github.io/requests_please/)
 * [2026-10-24, 13:17:59](https://news.ycombinator.com/item?id=50220975) - [Why birds can fly over Mount Everest (2020)](https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864)
 
