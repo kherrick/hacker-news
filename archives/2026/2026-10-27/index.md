@@ -52,3 +52,4 @@
 * [2026-10-27, 02:15:10](https://news.ycombinator.com/item?id=50253939) - [I still teach OpenGL ES 3.0](https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html)
 * [2026-10-27, 01:15:04](https://news.ycombinator.com/item?id=50253529) - [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
 * [2026-10-27, 00:25:08](https://news.ycombinator.com/item?id=50253150) - [Show HN: Live speech-to-text on an ESP32-P4 microcontroller, no cloud](https://github.com/BoumedineBillal/esp32-pie-asr)
+* [2026-10-27, 00:18:58](https://news.ycombinator.com/item?id=50253100) - [Southern Africa's first known stenciled rock art found hiding in plain sight](https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html)
