@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-29, 03:44:12](https://news.ycombinator.com/item?id=50284329) - [The Milwaukee Brewers win the first World Series title in franchise history](https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series)
 * [2026-10-29, 03:33:42](https://news.ycombinator.com/item?id=50284255) - [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
 * [2026-10-29, 03:01:57](https://news.ycombinator.com/item?id=50284089) - [Richest 0.1% (8M) produce more carbon pollution than 3.5B](https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing)
 * [2026-10-29, 01:40:52](https://news.ycombinator.com/item?id=50283488) - [Electronic fibers weave touchscreen into sleeve that survives machine washing](https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/)
@@ -11,7 +12,6 @@
 * [2026-10-28, 21:13:21](https://news.ycombinator.com/item?id=50280974) - [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
 * [2026-10-28, 21:00:06](https://news.ycombinator.com/item?id=50280824) - [Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers)
 * [2026-10-28, 20:51:44](https://news.ycombinator.com/item?id=50280722) - [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
-* [2026-10-28, 20:46:52](https://news.ycombinator.com/item?id=50280662) - [Leak website releases data on DHS employees](https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/)
 * [2026-10-28, 18:07:41](https://news.ycombinator.com/item?id=50278253) - [Scaling Hierarchical Networks](https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1)
 * [2026-10-28, 17:45:24](https://news.ycombinator.com/item?id=50277755) - [Spiders Spin 'Silk Dope' into Nature's Toughest Material](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
 * [2026-10-28, 17:13:29](https://news.ycombinator.com/item?id=50276998) - [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
