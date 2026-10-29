@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-29, 16:36:14",
+      "https://news.ycombinator.com/item?id=50291830"
+    ],
+    [
+      "Are Stochastic Parrots Alive?",
+      "https://stefano.petrilli.xyz/are-stochastic-parrots-alive/"
+    ]
+  ],
+  [
+    [
       "2026-10-29, 15:56:32",
       "https://news.ycombinator.com/item?id=50291116"
     ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=50287448"
     ],
     [
-      "Google determines the names for bodies of water in Google Earth (2008)",
+      "How Google determines the names for bodies of water in Google Earth",
       "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
       "https://divagr.com/blog/qwenputer"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 23:45:46",
-      "https://news.ycombinator.com/item?id=50282544"
-    ],
-    [
-      "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html"
     ]
   ],
   [
