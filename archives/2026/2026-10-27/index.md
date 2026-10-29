@@ -49,6 +49,7 @@
 * [2026-10-27, 10:23:21](https://news.ycombinator.com/item?id=50256952) - [Gforth 1.0](https://gforth.org/manual/1.0/NEWS.html)
 * [2026-10-27, 09:13:12](https://news.ycombinator.com/item?id=50256409) - [A new faster algorithm to compute 64-bit signed floor division](https://www.benjoffe.com/fast-floordiv)
 * [2026-10-27, 06:25:37](https://news.ycombinator.com/item?id=50255298) - [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
+* [2026-10-27, 05:59:07](https://news.ycombinator.com/item?id=50255161) - [Edit an SQLite database in your browser](https://editsqlite.com/)
 * [2026-10-27, 05:13:08](https://news.ycombinator.com/item?id=50254935) - [UK to charge universities $1,200 per international student](https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe)
 * [2026-10-27, 04:53:52](https://news.ycombinator.com/item?id=50254836) - [There are now 5 inference providers for abliterated DeepSeek](https://allmodels.io/llm/abliterated)
 * [2026-10-27, 03:09:07](https://news.ycombinator.com/item?id=50254300) - [Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze)
