@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 14:57:41](https://news.ycombinator.com/item?id=50290170) - [Finland investigate Google over destruction of 250k trees](https://yle.fi/a/74-20254086)
+* [2026-10-29, 14:50:17](https://news.ycombinator.com/item?id=50290042) - [React.lazy, Suspense and the Hidden 300 ms Delay](https://tabwidgets.com/blog/react-lazy-suspense-delay)
 * [2026-10-29, 14:40:43](https://news.ycombinator.com/item?id=50289859) - [DoorDash is acquiring Instacart for $17B](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)
+* [2026-10-29, 14:22:53](https://news.ycombinator.com/item?id=50289590) - [Keplearn: Extract Equations from Data in Seconds](https://github.com/owls-on-wires/keplearn)
 * [2026-10-29, 14:13:21](https://news.ycombinator.com/item?id=50289418) - [Mistral Large 4 (Le Chonk) is now Open Weight](https://mistral.ai/news/mistral-large-4-oss/)
 * [2026-10-29, 13:40:04](https://news.ycombinator.com/item?id=50288867) - [Read the letter the FBI sent MLK to try to convince him to kill himself (2014)](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)
 * [2026-10-29, 12:41:56](https://news.ycombinator.com/item?id=50288019) - [Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
