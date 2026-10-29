@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 07:08:50](https://news.ycombinator.com/item?id=50285452) - [Zero click, silent, remote Android DoS](https://smsofdeath.com/)
+* [2026-10-29, 06:47:28](https://news.ycombinator.com/item?id=50285319) - [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
 * [2026-10-29, 06:24:56](https://news.ycombinator.com/item?id=50285177) - [Bernstein – open-source governance layer for AI agents](https://bernstein.run)
 * [2026-10-29, 06:20:06](https://news.ycombinator.com/item?id=50285154) - [We Won't \"Just Hang Out\"](https://borretti.me/article/we-wont-just-hang-out)
 * [2026-10-29, 03:48:05](https://news.ycombinator.com/item?id=50284342) - [Zillow to pay $212.5M to settle class action for real estate venture](https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/)
