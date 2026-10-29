@@ -25,9 +25,9 @@
 * [2026-10-27, 09:13:12](https://news.ycombinator.com/item?id=50256409) - [A new faster algorithm to compute 64-bit signed floor division](https://www.benjoffe.com/fast-floordiv)
 * [2026-10-27, 00:18:58](https://news.ycombinator.com/item?id=50253100) - [Southern Africa's first known stenciled rock art found hiding in plain sight](https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html)
 * [2026-10-26, 21:24:18](https://news.ycombinator.com/item?id=50251200) - [OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)
-* [2026-10-26, 21:15:57](https://news.ycombinator.com/item?id=50251085) - [Muhammad Aqeel: Undo for Postgres, without losing the rest of your day](https://www.pgedge.com/blog/undo-for-postgres-without-losing-the-rest-of-your-day)
 * [2026-10-26, 13:54:39](https://news.ycombinator.com/item?id=50243757) - [Getting debug access on a Brother printer over Telnet](https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/)
 * [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)
+* [2026-10-26, 11:19:31](https://news.ycombinator.com/item?id=50241949) - [Treap (Cartesian Tree)](https://cp-algorithms.com/data_structures/treap.html)
 * [2026-10-26, 09:23:43](https://news.ycombinator.com/item?id=50241195) - [Requests, Please](https://morronel.github.io/requests_please/)
 * [2026-10-24, 13:17:59](https://news.ycombinator.com/item?id=50220975) - [Why birds can fly over Mount Everest (2020)](https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864)
 
