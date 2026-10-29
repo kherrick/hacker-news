@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-29, 06:20:06](https://news.ycombinator.com/item?id=50285154) - [We Won't \"Just Hang Out\"](https://borretti.me/article/we-wont-just-hang-out)
 * [2026-10-29, 03:48:05](https://news.ycombinator.com/item?id=50284342) - [Zillow to pay $212.5M to settle class action for real estate venture](https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/)
 * [2026-10-29, 03:33:42](https://news.ycombinator.com/item?id=50284255) - [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
 * [2026-10-29, 00:25:45](https://news.ycombinator.com/item?id=50282838) - [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
@@ -18,7 +19,6 @@
 * [2026-10-28, 14:38:22](https://news.ycombinator.com/item?id=50274409) - [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
 * [2026-10-28, 14:30:26](https://news.ycombinator.com/item?id=50274251) - [AlpineBSD](https://wiki.alpinebsd.org)
 * [2026-10-28, 14:02:20](https://news.ycombinator.com/item?id=50273731) - [The Agent SDK](https://cursor.com/blog/agent-sdk)
-* [2026-10-28, 13:25:11](https://news.ycombinator.com/item?id=50273171) - [Emacs Turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
 * [2026-10-28, 11:16:47](https://news.ycombinator.com/item?id=50271756) - [TLP Is Not a Suggestion](https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion)
 * [2026-10-28, 11:03:40](https://news.ycombinator.com/item?id=50271640) - [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 * [2026-10-27, 09:13:12](https://news.ycombinator.com/item?id=50256409) - [A new faster algorithm to compute 64-bit signed floor division](https://www.benjoffe.com/fast-floordiv)
