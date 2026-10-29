@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-29, 14:40:43",
+      "https://news.ycombinator.com/item?id=50289859"
+    ],
+    [
+      "DoorDash is acquiring Instacart for $17B",
+      "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart"
+    ]
+  ],
+  [
+    [
       "2026-10-29, 14:13:21",
       "https://news.ycombinator.com/item?id=50289418"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-10-29, 03:33:42",
-      "https://news.ycombinator.com/item?id=50284255"
-    ],
-    [
-      "Claude Code regularly sends each background agent’s transcript to its model",
-      "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce"
-    ]
-  ],
-  [
-    [
       "2026-10-29, 00:25:45",
       "https://news.ycombinator.com/item?id=50282838"
     ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-10-28, 17:01:23",
-      "https://news.ycombinator.com/item?id=50276792"
-    ],
-    [
-      "Gemini 4 Carbon",
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
-    ]
-  ],
-  [
-    [
       "2026-10-28, 14:38:22",
       "https://news.ycombinator.com/item?id=50274409"
     ],
@@ -247,6 +237,16 @@
     [
       "OpenAI's agents talked to each other through the CPU Cache",
       "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 17:23:42",
+      "https://news.ycombinator.com/item?id=50247465"
+    ],
+    [
+      "Open Sound Connect – Control Sony Headphones from Your Mac",
+      "https://opensoundconnect.app"
     ]
   ],
   [
