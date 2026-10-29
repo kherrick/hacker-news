@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-10-29, 21:24:59",
-      "https://news.ycombinator.com/item?id=50296272"
-    ],
-    [
-      "Over $5B drained from Binance in apparent hack",
-      "http://twitter.com/emmettgallic/status/2115916025774723210"
-    ]
-  ],
-  [
-    [
       "2026-10-29, 20:59:55",
       "https://news.ycombinator.com/item?id=50295868"
     ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=50292727"
     ],
     [
-      "Claude Duet is the future of chatbot interaction",
+      "Claude Duet is the first personal-assistant-type harness that feels useful",
       "https://fig.blue/posts/duet-is-the-future/"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
       "https://github.com/emmilco/us-tax-model"
+    ]
+  ],
+  [
+    [
+      "2026-10-28, 18:29:25",
+      "https://news.ycombinator.com/item?id=50278645"
+    ],
+    [
+      "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
+      "https://github.com/theconsensuslabs/noalloc"
     ]
   ],
   [
