@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 20:32:28](https://news.ycombinator.com/item?id=50295450) - [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
 * [2026-10-29, 19:47:38](https://news.ycombinator.com/item?id=50294770) - [Patrick Stewart Has Died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 * [2026-10-29, 19:41:39](https://news.ycombinator.com/item?id=50294702) - [Sir Patrick Stewart has died](https://twitter.com/sirpatstew/status/2115891266131300517)
 * [2026-10-29, 19:41:39](https://news.ycombinator.com/item?id=50294702) - [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)

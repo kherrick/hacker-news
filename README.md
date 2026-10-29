@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-29, 20:32:28](https://news.ycombinator.com/item?id=50295450) - [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
 * [2026-10-29, 19:41:39](https://news.ycombinator.com/item?id=50294702) - [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 * [2026-10-29, 19:27:47](https://news.ycombinator.com/item?id=50294507) - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
 * [2026-10-29, 19:27:44](https://news.ycombinator.com/item?id=50294506) - [Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"](https://github.com/johncassil/dontallow)
@@ -29,7 +30,6 @@
 * [2026-10-27, 14:33:35](https://news.ycombinator.com/item?id=50260033) - [One reviewer per layer: splitting code review by the way code is read](https://djordjepuzic.com/blog/posts/2026-10-27-one-reviewer-per-layer/)
 * [2026-10-27, 05:59:07](https://news.ycombinator.com/item?id=50255161) - [Edit an SQLite database in your browser](https://editsqlite.com/)
 * [2026-10-26, 17:15:58](https://news.ycombinator.com/item?id=50247342) - [The tragedy of losing your Wikipedia page](https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/)
-* [2026-10-25, 16:05:56](https://news.ycombinator.com/item?id=50233059) - [If-then-else had to be invented (2020)](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md)
 
 ## [Archives](archives/index.md)
 
