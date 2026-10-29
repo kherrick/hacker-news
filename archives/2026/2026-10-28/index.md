@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-28](index.md)
 
+* [2026-10-28, 23:58:20](https://news.ycombinator.com/item?id=50282650) - [Get Ready for Touch on Mac](https://developer.apple.com/touch-on-mac/)
 * [2026-10-28, 23:45:46](https://news.ycombinator.com/item?id=50282544) - [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
+* [2026-10-28, 23:35:02](https://news.ycombinator.com/item?id=50282454) - [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)
 * [2026-10-28, 23:13:59](https://news.ycombinator.com/item?id=50282296) - [Google AI Search Refuses to Say Who Won the 2020 Election](https://karlbode.com/google-ai-search-refuses-to-say-who-won-the-2020-election/)
 * [2026-10-28, 22:53:27](https://news.ycombinator.com/item?id=50282094) - [Outrage after airport self-service checkout asks for 18% tip](https://www.the-independent.com/life-style/self-service-airport-tipping-culture-b3075115.html)
 * [2026-10-28, 22:34:30](https://news.ycombinator.com/item?id=50281902) - [Claude Code found 145K photos I deleted from my iPhone sitting in a hidden cache](https://twitter.com/coolerwave/status/2114088769112477849)
