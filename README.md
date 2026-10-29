@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-29, 06:24:56](https://news.ycombinator.com/item?id=50285177) - [Bernstein – open-source governance layer for AI agents](https://bernstein.run)
 * [2026-10-29, 06:20:06](https://news.ycombinator.com/item?id=50285154) - [We Won't \"Just Hang Out\"](https://borretti.me/article/we-wont-just-hang-out)
 * [2026-10-29, 03:48:05](https://news.ycombinator.com/item?id=50284342) - [Zillow to pay $212.5M to settle class action for real estate venture](https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/)
 * [2026-10-29, 03:33:42](https://news.ycombinator.com/item?id=50284255) - [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
@@ -27,7 +28,6 @@
 * [2026-10-26, 13:13:31](https://news.ycombinator.com/item?id=50243060) - [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)
 * [2026-10-26, 13:00:03](https://news.ycombinator.com/item?id=50242873) - [Human-enhanced tsunami hazard in large lakes](https://www.nature.com/articles/s41467-026-78272-8)
 * [2026-10-26, 11:19:31](https://news.ycombinator.com/item?id=50241949) - [Treap (Cartesian Tree)](https://cp-algorithms.com/data_structures/treap.html)
-* [2026-10-25, 17:33:02](https://news.ycombinator.com/item?id=50233948) - [How we made our MMDB files a 33% smaller](https://ipinfo.io/blog/how-made-mmdb-files-smaller)
 * [2026-10-25, 16:05:56](https://news.ycombinator.com/item?id=50233059) - [The 'else' keyword is probably a literal translation from German (2020)](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md)
 * [2026-10-24, 13:17:59](https://news.ycombinator.com/item?id=50220975) - [Why birds can fly over Mount Everest (2020)](https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864)
 
