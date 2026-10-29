@@ -65,6 +65,7 @@
 * [2026-10-26, 11:15:50](https://news.ycombinator.com/item?id=50241925) - [Pharo 14](https://pharo.org/news/2026-10-26-Pharo14Release.html)
 * [2026-10-26, 11:15:43](https://news.ycombinator.com/item?id=50241924) - [Tasks as Code: Move Your Tickets into the Repository](https://typemill.net/knowledge-hub/tasks-as-code)
 * [2026-10-26, 10:32:14](https://news.ycombinator.com/item?id=50241664) - [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
+* [2026-10-26, 09:23:43](https://news.ycombinator.com/item?id=50241195) - [Requests, Please](https://morronel.github.io/requests_please/)
 * [2026-10-26, 08:46:09](https://news.ycombinator.com/item?id=50240922) - [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
 * [2026-10-26, 07:50:17](https://news.ycombinator.com/item?id=50240465) - [How to grow a cacao tree at home](https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/)
 * [2026-10-26, 06:54:33](https://news.ycombinator.com/item?id=50240041) - [Rosettes and Other Hidden Traces of Hamburg's Tram](https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/)

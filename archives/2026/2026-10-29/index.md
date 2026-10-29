@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-29](index.md)
 
+* [2026-10-29, 10:44:49](https://news.ycombinator.com/item?id=50287001) - [The US added a record 20.2 GWh of battery storage in just 3 months](https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/)
 * [2026-10-29, 08:55:08](https://news.ycombinator.com/item?id=50286197) - [Spain train crash: What we know after two trains crashed with dozens feared dead](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
 * [2026-10-29, 07:52:32](https://news.ycombinator.com/item?id=50285714) - [Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027](https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html)
 * [2026-10-29, 07:08:50](https://news.ycombinator.com/item?id=50285452) - [Zero click, silent, remote Android DoS](https://smsofdeath.com/)
