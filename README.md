@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-29, 18:40:09](https://news.ycombinator.com/item?id=50293879) - [Utah charges Kalshi and its CEO with illegally promoting online gambling](https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges)
 * [2026-10-29, 17:42:30](https://news.ycombinator.com/item?id=50293025) - [AI Contributions to GHC](https://serokell.io/blog/ai-contributions-to-ghc)
 * [2026-10-29, 17:42:22](https://news.ycombinator.com/item?id=50293023) - [After 28 years walking across the globe, he's almost home](https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html)
 * [2026-10-29, 16:56:54](https://news.ycombinator.com/item?id=50292233) - [Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468)
@@ -20,7 +21,6 @@
 * [2026-10-29, 11:41:18](https://news.ycombinator.com/item?id=50287448) - [How Google determines the names for bodies of water in Google Earth (2008)](https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html)
 * [2026-10-29, 10:42:41](https://news.ycombinator.com/item?id=50286987) - [Chained PHP2Shell exploit roots 25 servers, including US Government servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)
 * [2026-10-29, 08:55:08](https://news.ycombinator.com/item?id=50286197) - [What we know so far about Spain train crash](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
-* [2026-10-29, 07:08:50](https://news.ycombinator.com/item?id=50285452) - [Zero click, silent, remote Android DoS](https://smsofdeath.com/)
 * [2026-10-29, 06:20:06](https://news.ycombinator.com/item?id=50285154) - [We won't \"just hang out\"](https://borretti.me/article/we-wont-just-hang-out)
 * [2026-10-28, 23:45:19](https://news.ycombinator.com/item?id=50282538) - [The first wired XR glasses powered by Android XR](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)
 * [2026-10-28, 20:51:44](https://news.ycombinator.com/item?id=50280722) - [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
