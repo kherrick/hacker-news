@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-30, 23:12:02](https://news.ycombinator.com/item?id=50311339) - [Federal Bureau of Prisons employees serve as election monitors at polling sites](https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says)
 * [2026-10-30, 22:10:12](https://news.ycombinator.com/item?id=50310796) - [France is getting download tax for content providers (€0.055/GB)](https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/)
 * [2026-10-30, 21:57:40](https://news.ycombinator.com/item?id=50310687) - [Linode Security Incident](https://status.linode.com/incidents/nt58zhx3pmgm)
-* [2026-10-30, 21:30:00](https://news.ycombinator.com/item?id=50310398) - [Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
+* [2026-10-30, 21:30:00](https://news.ycombinator.com/item?id=50310398) - [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
 * [2026-10-30, 21:17:23](https://news.ycombinator.com/item?id=50310258) - [AO3 Down for Maintenance](https://www.otwstatus.org)
 * [2026-10-30, 20:23:30](https://news.ycombinator.com/item?id=50309647) - [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
-* [2026-10-30, 20:08:52](https://news.ycombinator.com/item?id=50309470) - [An Arrogant Way of Killing (2016)](https://magazine.atavist.com/2016/an-arrogant-way-of-killing)
 * [2026-10-30, 19:55:10](https://news.ycombinator.com/item?id=50309314) - [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris)
 * [2026-10-30, 19:51:33](https://news.ycombinator.com/item?id=50309266) - [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
 * [2026-10-30, 19:30:09](https://news.ycombinator.com/item?id=50309029) - [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
@@ -23,13 +23,13 @@
 * [2026-10-30, 10:06:15](https://news.ycombinator.com/item?id=50301854) - [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
 * [2026-10-30, 09:49:02](https://news.ycombinator.com/item?id=50301717) - [How do you take a picture of a black hole?](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)
 * [2026-10-30, 07:09:12](https://news.ycombinator.com/item?id=50300683) - [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
-* [2026-10-30, 01:19:02](https://news.ycombinator.com/item?id=50298721) - [Tracks along the longest drive on another world](https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/)
 * [2026-10-29, 21:58:34](https://news.ycombinator.com/item?id=50296730) - [Building an AI-native engineering org](https://twitter.com/sgondala2/status/2115832070274723875)
 * [2026-10-29, 18:10:33](https://news.ycombinator.com/item?id=50293437) - [Turning a solar power system into its own backup](https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/)
 * [2026-10-28, 17:29:23](https://news.ycombinator.com/item?id=50277379) - [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
 * [2026-10-28, 12:24:25](https://news.ycombinator.com/item?id=50272479) - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
 * [2026-10-27, 18:42:55](https://news.ycombinator.com/item?id=50263837) - [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
 * [2026-10-27, 13:00:04](https://news.ycombinator.com/item?id=50258496) - [Tree-mounted machines connect to web app to let users knock on wood remotely](https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/)
+* [2026-10-26, 21:14:43](https://news.ycombinator.com/item?id=50251070) - [Why a program doesn't work when run from a batch file, but works when clicked](https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/)
 
 ## [Archives](archives/index.md)
 
