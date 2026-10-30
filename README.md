@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-30, 00:31:00](https://news.ycombinator.com/item?id=50298318) - [Cormac McCarthy's Library](https://cormacmccarthy.lib.utk.edu/)
 * [2026-10-29, 23:25:46](https://news.ycombinator.com/item?id=50297697) - [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
 * [2026-10-29, 22:26:38](https://news.ycombinator.com/item?id=50297089) - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
 * [2026-10-29, 22:14:23](https://news.ycombinator.com/item?id=50296947) - [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/)
@@ -26,7 +27,6 @@
 * [2026-10-29, 11:59:01](https://news.ycombinator.com/item?id=50287599) - [NetBSD adds a new text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
 * [2026-10-29, 10:42:41](https://news.ycombinator.com/item?id=50286987) - [Chained PHP2Shell exploit roots 25 servers, including US Government servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)
 * [2026-10-29, 08:55:08](https://news.ycombinator.com/item?id=50286197) - [What we know so far about Spain train crash](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
-* [2026-10-28, 18:30:53](https://news.ycombinator.com/item?id=50278678) - [Show HN: A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model)
 * [2026-10-27, 23:32:35](https://news.ycombinator.com/item?id=50267380) - [Historical Scientific Instruments](https://nealstephenson.substack.com/p/historical-scientific-instruments)
 * [2026-10-27, 19:21:00](https://news.ycombinator.com/item?id=50264368) - [Partitioning my digital life into security domains (2011)](https://blog.invisiblethings.org/2011/03/13/partitioning-my-digital-life-into.html)
 * [2026-10-26, 19:28:19](https://news.ycombinator.com/item?id=50249598) - [Iterating Backwards in C](https://www.davidpriver.com/Iterating-backwards-in-C.html)
