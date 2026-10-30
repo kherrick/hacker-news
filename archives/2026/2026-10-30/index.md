@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 07:00:35](https://news.ycombinator.com/item?id=50300643) - [Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe](https://www.workatastartup.com/jobs/98722)
 * [2026-10-30, 02:33:04](https://news.ycombinator.com/item?id=50299182) - [CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation](https://www.penligent.ai/hackinglabs/cve-2026-98432/)
 * [2026-10-30, 02:05:41](https://news.ycombinator.com/item?id=50299004) - [Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm)
 * [2026-10-30, 01:58:44](https://news.ycombinator.com/item?id=50298964) - [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754)
