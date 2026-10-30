@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 21:30:00](https://news.ycombinator.com/item?id=50310398) - [Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
+* [2026-10-30, 21:17:23](https://news.ycombinator.com/item?id=50310258) - [Archive of our own (AO3) hacked](https://www.otwstatus.org)
 * [2026-10-30, 21:07:43](https://news.ycombinator.com/item?id=50310148) - [The Shady Israeli Executive Running YouTube Music and the Hip Hop Industry](https://www.mintpressnews.com/lyor-cohen-the-shady-israeli-executive-running-youtube-music-the-global-hip-hop-industry/291276/)
 * [2026-10-30, 20:58:24](https://news.ycombinator.com/item?id=50310055) - [Show HN: Ultrafast Rust Based ADE](https://trypalomino.com/)
 * [2026-10-30, 20:23:30](https://news.ycombinator.com/item?id=50309647) - [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
