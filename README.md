@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-30, 20:58:24](https://news.ycombinator.com/item?id=50310055) - [Show HN: Ultrafast Rust Based ADE](https://trypalomino.com/)
 * [2026-10-30, 20:23:30](https://news.ycombinator.com/item?id=50309647) - [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
 * [2026-10-30, 20:18:18](https://news.ycombinator.com/item?id=50309573) - [Embraer's Atech aims to double in size by 2030 with drone traffic control](https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/)
 * [2026-10-30, 20:14:39](https://news.ycombinator.com/item?id=50309534) - [Product Managers aren't safe either](https://lucaskostka.com/posts/ai-challenges-more-than-devs)
@@ -30,6 +29,7 @@
 * [2026-10-28, 12:24:25](https://news.ycombinator.com/item?id=50272479) - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
 * [2026-10-27, 18:42:55](https://news.ycombinator.com/item?id=50263837) - [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
 * [2026-10-27, 13:00:04](https://news.ycombinator.com/item?id=50258496) - [Tree-mounted machines connect to web app to let users knock on wood remotely](https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/)
+* [2026-10-26, 21:14:43](https://news.ycombinator.com/item?id=50251070) - [Why a program doesn't work when run from a batch file, but works when clicked](https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/)
 
 ## [Archives](archives/index.md)
 
