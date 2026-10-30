@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 20:23:30](https://news.ycombinator.com/item?id=50309647) - [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
 * [2026-10-30, 20:18:18](https://news.ycombinator.com/item?id=50309573) - [Embraer's Atech aims to double in size by 2030 with drone traffic control](https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/)
 * [2026-10-30, 20:18:10](https://news.ycombinator.com/item?id=50309571) - [Programming at Light Speed: Building the Gravity Query Engine](https://pgrust.com/blog/programming-at-light-speed/)
+* [2026-10-30, 20:14:39](https://news.ycombinator.com/item?id=50309534) - [Product Managers aren't safe either](https://lucaskostka.com/posts/ai-challenges-more-than-devs)
 * [2026-10-30, 20:09:47](https://news.ycombinator.com/item?id=50309479) - [Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL](https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py)
 * [2026-10-30, 20:08:52](https://news.ycombinator.com/item?id=50309470) - [An Arrogant Way of Killing (2016)](https://magazine.atavist.com/2016/an-arrogant-way-of-killing)
 * [2026-10-30, 19:55:10](https://news.ycombinator.com/item?id=50309314) - [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris)
@@ -38,6 +40,7 @@
 * [2026-10-30, 15:27:16](https://news.ycombinator.com/item?id=50305279) - [Post-training 4B model with RL to fly Tesla Roadster 21% better than GPT-6 Astra](https://skypilot.ai/blog/flying-roadster-rl)
 * [2026-10-30, 15:26:58](https://news.ycombinator.com/item?id=50305272) - [ICE wants its mask back, and hired a company to ask](https://blog.flokinet.is/2026/10/29/ice-wants-its-mask-back-and-hired-a-company-to-ask/)
 * [2026-10-30, 15:23:41](https://news.ycombinator.com/item?id=50305225) - [Polymarket 1h halt after vendor compromise; affected users will be 'made whole'](https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405)
+* [2026-10-30, 15:23:11](https://news.ycombinator.com/item?id=50305218) - [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru)
 * [2026-10-30, 15:23:11](https://news.ycombinator.com/item?id=50305218) - [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/)
 * [2026-10-30, 15:10:31](https://news.ycombinator.com/item?id=50305025) - [Northflank Breached](https://status.northflank.com)
 * [2026-10-30, 14:35:01](https://news.ycombinator.com/item?id=50304520) - [Another Friday, another GitHub incident](https://www.githubstatus.com/incidents/nxy2l0ssxm10)
