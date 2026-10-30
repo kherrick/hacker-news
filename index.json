@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-30, 16:40:22",
+      "https://news.ycombinator.com/item?id=50306442"
+    ],
+    [
+      "A Working Nintendo in ~1GB of Qwen Weights",
+      "https://github.com/dbreunig/nesformer"
+    ]
+  ],
+  [
+    [
       "2026-10-30, 16:13:02",
       "https://news.ycombinator.com/item?id=50306008"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2026-10-30, 15:58:39",
+      "https://news.ycombinator.com/item?id=50305797"
+    ],
+    [
+      "Sam Altman Thinks You're Wasting DRAM",
+      "https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/"
+    ]
+  ],
+  [
+    [
       "2026-10-30, 15:52:18",
       "https://news.ycombinator.com/item?id=50305693"
     ],
     [
       "AI Isn't Replacing SREs. It's Deskilling Them",
       "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
+    ]
+  ],
+  [
+    [
+      "2026-10-30, 15:48:12",
+      "https://news.ycombinator.com/item?id=50305637"
+    ],
+    [
+      "Florilegium: Procedural Flowers in LaTeX",
+      "https://github.com/kevinraymond/florilegium"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=50305573"
     ],
     [
-      "The Federated Code Forge",
+      "The federated code forge",
       "https://tangled.org/blog/forge/"
     ]
   ],
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2026-10-29, 15:53:03",
-      "https://news.ycombinator.com/item?id=50291054"
-    ],
-    [
-      "H.264 Is Magic (2016)",
-      "https://sidbala.com/h-264-is-magic/"
-    ]
-  ],
-  [
-    [
-      "2026-10-29, 14:57:55",
-      "https://news.ycombinator.com/item?id=50290177"
-    ],
-    [
-      "LLM Voice",
-      "https://martinfowler.com/bliki/LLM-Voice.html"
-    ]
-  ],
-  [
-    [
       "2026-10-29, 14:13:21",
       "https://news.ycombinator.com/item?id=50289418"
     ],
@@ -217,16 +227,6 @@
     [
       "Finding Panics with Call Graph Analyzer",
       "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 13:38:04",
-      "https://news.ycombinator.com/item?id=50273340"
-    ],
-    [
-      "Artificial Analysis v5 and the benchmarker's dilemma",
-      "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers"
     ]
   ],
   [
