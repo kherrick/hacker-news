@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-10-29, 21:49:28",
-      "https://news.ycombinator.com/item?id=50296602"
-    ],
-    [
-      "Proton goes all in on using AI",
-      "https://convo.casa/@b/117525936178835007"
-    ]
-  ],
-  [
-    [
       "2026-10-29, 21:48:35",
       "https://news.ycombinator.com/item?id=50296585"
     ],
@@ -131,22 +121,22 @@
   ],
   [
     [
+      "2026-10-29, 17:48:17",
+      "https://news.ycombinator.com/item?id=50293115"
+    ],
+    [
+      "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+      "https://github.com/lonthq/overtone-captions"
+    ]
+  ],
+  [
+    [
       "2026-10-29, 17:43:48",
       "https://news.ycombinator.com/item?id=50293047"
     ],
     [
       "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
       "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/"
-    ]
-  ],
-  [
-    [
-      "2026-10-29, 17:24:25",
-      "https://news.ycombinator.com/item?id=50292727"
-    ],
-    [
-      "Claude Duet is the first personal-assistant-type harness that feels useful",
-      "https://fig.blue/posts/duet-is-the-future/"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2026-10-28, 18:30:53",
+      "https://news.ycombinator.com/item?id=50278678"
+    ],
+    [
+      "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
+      "https://github.com/emmilco/us-tax-model"
+    ]
+  ],
+  [
+    [
       "2026-10-27, 23:32:35",
       "https://news.ycombinator.com/item?id=50267380"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-10-26, 15:15:11",
-      "https://news.ycombinator.com/item?id=50245199"
+      "2026-10-26, 19:28:19",
+      "https://news.ycombinator.com/item?id=50249598"
     ],
     [
-      "Scattered thoughts on how doing math feels these days",
-      "https://dynomight.net/math/"
+      "Iterating Backwards in C",
+      "https://www.davidpriver.com/Iterating-backwards-in-C.html"
     ]
   ]
 ]
