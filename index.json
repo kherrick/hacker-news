@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-10-30, 12:50:01",
+      "https://news.ycombinator.com/item?id=50303172"
+    ],
+    [
+      "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+      "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/"
+    ]
+  ],
+  [
+    [
       "2026-10-30, 12:08:00",
       "https://news.ycombinator.com/item?id=50302814"
     ],
     [
       "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
       "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead"
+    ]
+  ],
+  [
+    [
+      "2026-10-30, 11:16:15",
+      "https://news.ycombinator.com/item?id=50302407"
+    ],
+    [
+      "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+      "https://www.youtube.com/watch?v=MENoB3Rex28"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-10-29, 22:26:38",
-      "https://news.ycombinator.com/item?id=50297089"
-    ],
-    [
-      "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "https://journal.animationstudies.org/article/id/66/"
-    ]
-  ],
-  [
-    [
       "2026-10-29, 22:12:29",
       "https://news.ycombinator.com/item?id=50296920"
     ],
@@ -187,26 +197,6 @@
     [
       "We're releasing the weights of Mistral Large 4",
       "https://mistral.ai/news/mistral-large-4-oss/"
-    ]
-  ],
-  [
-    [
-      "2026-10-29, 12:19:00",
-      "https://news.ycombinator.com/item?id=50287775"
-    ],
-    [
-      "If IPv4 were land",
-      "https://iptrust.co/blog/if-ipv4-were-land"
-    ]
-  ],
-  [
-    [
-      "2026-10-29, 08:55:08",
-      "https://news.ycombinator.com/item?id=50286197"
-    ],
-    [
-      "What we know so far about Spain train crash",
-      "https://www.bbc.com/news/articles/cm8xz7pkd0jjo"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Why a program doesn't work when run from a batch file, but works when clicked",
       "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 14:37:17",
+      "https://news.ycombinator.com/item?id=50244486"
+    ],
+    [
+      "Commodore 1600 VICmodem",
+      "https://dfarq.homeip.net/commodore-1600-vicmodem/"
     ]
   ]
 ]
