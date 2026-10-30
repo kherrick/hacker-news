@@ -21,7 +21,7 @@
 * [2026-10-30, 15:44:29](https://news.ycombinator.com/item?id=50305573) - [The federated code forge](https://tangled.org/blog/forge/)
 * [2026-10-30, 15:23:11](https://news.ycombinator.com/item?id=50305218) - [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru)
 * [2026-10-30, 15:10:31](https://news.ycombinator.com/item?id=50305025) - [Northflank Breached](https://status.northflank.com)
-* [2026-10-30, 14:08:20](https://news.ycombinator.com/item?id=50304122) - [Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code](https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts)
+* [2026-10-30, 14:08:20](https://news.ycombinator.com/item?id=50304122) - [Cisco gives engineer unlimited AI tokens to rewrite legacy code](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/)
 * [2026-10-30, 10:06:15](https://news.ycombinator.com/item?id=50301854) - [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
 * [2026-10-30, 09:49:02](https://news.ycombinator.com/item?id=50301717) - [How do you take a picture of a black hole?](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)
 * [2026-10-30, 07:09:12](https://news.ycombinator.com/item?id=50300683) - [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
