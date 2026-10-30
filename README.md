@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-30, 02:33:04](https://news.ycombinator.com/item?id=50299182) - [CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation](https://www.penligent.ai/hackinglabs/cve-2026-98432/)
 * [2026-10-30, 02:05:41](https://news.ycombinator.com/item?id=50299004) - [Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm)
 * [2026-10-30, 01:58:44](https://news.ycombinator.com/item?id=50298964) - [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754)
 * [2026-10-30, 00:42:41](https://news.ycombinator.com/item?id=50298436) - [Herdr has released native app](https://github.com/herdrdev/herdr-app)
@@ -15,7 +16,6 @@
 * [2026-10-29, 20:32:28](https://news.ycombinator.com/item?id=50295450) - [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
 * [2026-10-29, 19:41:39](https://news.ycombinator.com/item?id=50294702) - [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 * [2026-10-29, 19:27:44](https://news.ycombinator.com/item?id=50294506) - [Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"](https://github.com/johncassil/dontallow)
-* [2026-10-29, 19:25:48](https://news.ycombinator.com/item?id=50294486) - [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
 * [2026-10-29, 15:56:32](https://news.ycombinator.com/item?id=50291116) - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
 * [2026-10-29, 15:53:03](https://news.ycombinator.com/item?id=50291054) - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
 * [2026-10-29, 14:57:55](https://news.ycombinator.com/item?id=50290177) - [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)
