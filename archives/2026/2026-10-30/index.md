@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 23:33:55](https://news.ycombinator.com/item?id=50311537) - [Fair Use Benefits Everyone](https://openai.com/index/fair-use-benefits-everyone/)
 * [2026-10-30, 23:16:06](https://news.ycombinator.com/item?id=50311373) - [The United Kingdom is committing an act of strategic self harm](https://blog.rodmena.com/entry/event_horizon_machine_standards)
 * [2026-10-30, 23:12:02](https://news.ycombinator.com/item?id=50311339) - [Federal Bureau of Prisons employees serve as election monitors at polling sites](https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says)
+* [2026-10-30, 23:08:12](https://news.ycombinator.com/item?id=50311311) - [Anthropic to receive high 'junk' rating from credit agencies following IPO](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)
 * [2026-10-30, 22:10:12](https://news.ycombinator.com/item?id=50310796) - [France is getting download tax for content providers (€0.055/GB)](https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/)
 * [2026-10-30, 21:57:40](https://news.ycombinator.com/item?id=50310687) - [Linode Security Incident](https://status.linode.com/incidents/nt58zhx3pmgm)
 * [2026-10-30, 21:30:00](https://news.ycombinator.com/item?id=50310398) - [Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
