@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 15:52:18](https://news.ycombinator.com/item?id=50305693) - [AI Isn't Replacing SREs. It's Deskilling Them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
 * [2026-10-30, 15:46:42](https://news.ycombinator.com/item?id=50305601) - [Geist Serif](https://vercel.com/blog/introducing-geist-serif)
+* [2026-10-30, 15:39:05](https://news.ycombinator.com/item?id=50305480) - [Blockchain intelligence firms link North Korea to $6.3B hack on Binance](https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance)
 * [2026-10-30, 15:36:18](https://news.ycombinator.com/item?id=50305436) - [I didn't know I was lacking in Vitamin D until I collapsed at work](https://www.bbc.com/news/articles/cm78pxxe55v0o)
 * [2026-10-30, 15:29:08](https://news.ycombinator.com/item?id=50305309) - [$300k for a personalized cancer vaccine](https://rnafoundry.com)
 * [2026-10-30, 15:28:29](https://news.ycombinator.com/item?id=50305299) - [What SBF's Anthropic investment would be worth today](https://sbfindex.com/)
