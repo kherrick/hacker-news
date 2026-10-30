@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 14:27:44](https://news.ycombinator.com/item?id=50304419) - [Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It](https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no)
 * [2026-10-30, 14:18:34](https://news.ycombinator.com/item?id=50304280) - [Neal Stephenson on AI and What Comes Next [video]](https://www.youtube.com/watch?v=Ii-aeW5pHPQ)
 * [2026-10-30, 14:11:22](https://news.ycombinator.com/item?id=50304175) - [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/)
+* [2026-10-30, 14:08:20](https://news.ycombinator.com/item?id=50304122) - [Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code](https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts)
 * [2026-10-30, 14:00:07](https://news.ycombinator.com/item?id=50304006) - [Massie, Khanna, and Others Introduce the \"Epstein Files Transparency Act II\"](https://massie.house.gov/news/documentsingle.aspx?DocumentID=395849)
 * [2026-10-30, 13:43:48](https://news.ycombinator.com/item?id=50303791) - [Intel plunges 25%, triggers global chip rout on bleak outlook](https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/)
 * [2026-10-30, 13:40:29](https://news.ycombinator.com/item?id=50303751) - [Pompeii wardrobe found untouched since 79CE holds keepsakes, coins, and two mice](https://archaeologymag.com/2026/10/pompeii-wardrobe-found-untouched-since-79-ce/)
