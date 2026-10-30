@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-30, 12:50:01](https://news.ycombinator.com/item?id=50303172) - [The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
 * [2026-10-30, 12:08:00](https://news.ycombinator.com/item?id=50302814) - [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
+* [2026-10-30, 11:16:15](https://news.ycombinator.com/item?id=50302407) - [Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]](https://www.youtube.com/watch?v=MENoB3Rex28)
 * [2026-10-30, 11:05:53](https://news.ycombinator.com/item?id=50302334) - [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563)
 * [2026-10-30, 10:22:51](https://news.ycombinator.com/item?id=50301983) - [Anthropic hacked to deliver remote access trojan](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2)
 * [2026-10-30, 10:06:15](https://news.ycombinator.com/item?id=50301854) - [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
@@ -10,7 +12,6 @@
 * [2026-10-30, 00:42:41](https://news.ycombinator.com/item?id=50298436) - [Herdr has released native app](https://github.com/herdrdev/herdr-app)
 * [2026-10-30, 00:31:00](https://news.ycombinator.com/item?id=50298318) - [Cormac McCarthy's Library](https://cormacmccarthy.lib.utk.edu/)
 * [2026-10-29, 23:25:46](https://news.ycombinator.com/item?id=50297697) - [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
-* [2026-10-29, 22:26:38](https://news.ycombinator.com/item?id=50297089) - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
 * [2026-10-29, 22:12:29](https://news.ycombinator.com/item?id=50296920) - [Should a medical diagnosis reshape the past? (2025)](https://chengela.substack.com/p/should-a-medical-diagnosis-reshape)
 * [2026-10-29, 21:40:28](https://news.ycombinator.com/item?id=50296486) - [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
 * [2026-10-29, 21:38:59](https://news.ycombinator.com/item?id=50296470) - [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
@@ -19,8 +20,6 @@
 * [2026-10-29, 15:53:03](https://news.ycombinator.com/item?id=50291054) - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
 * [2026-10-29, 14:57:55](https://news.ycombinator.com/item?id=50290177) - [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)
 * [2026-10-29, 14:13:21](https://news.ycombinator.com/item?id=50289418) - [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
-* [2026-10-29, 12:19:00](https://news.ycombinator.com/item?id=50287775) - [If IPv4 were land](https://iptrust.co/blog/if-ipv4-were-land)
-* [2026-10-29, 08:55:08](https://news.ycombinator.com/item?id=50286197) - [What we know so far about Spain train crash](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
 * [2026-10-28, 13:48:26](https://news.ycombinator.com/item?id=50273504) - [Finding Panics with Call Graph Analyzer](https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/)
 * [2026-10-28, 13:38:04](https://news.ycombinator.com/item?id=50273340) - [Artificial Analysis v5 and the benchmarker's dilemma](https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers)
 * [2026-10-28, 13:20:05](https://news.ycombinator.com/item?id=50273104) - [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg)
@@ -30,6 +29,7 @@
 * [2026-10-27, 07:10:45](https://news.ycombinator.com/item?id=50255573) - [Python on My Wrist](https://tildeweb.nl/~michiel/python-on-my-wrist.html)
 * [2026-10-27, 06:33:16](https://news.ycombinator.com/item?id=50255343) - [Cuis: The Modern Smalltalk-80](https://cuis.st/)
 * [2026-10-26, 21:14:43](https://news.ycombinator.com/item?id=50251070) - [Why a program doesn't work when run from a batch file, but works when clicked](https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/)
+* [2026-10-26, 14:37:17](https://news.ycombinator.com/item?id=50244486) - [Commodore 1600 VICmodem](https://dfarq.homeip.net/commodore-1600-vicmodem/)
 
 ## [Archives](archives/index.md)
 
