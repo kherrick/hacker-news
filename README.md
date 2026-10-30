@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-30, 13:26:43](https://news.ycombinator.com/item?id=50303571) - [Just Noting That Your Candy Corn Is Made of Bug Secretions](https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/)
 * [2026-10-30, 12:50:01](https://news.ycombinator.com/item?id=50303172) - [The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
 * [2026-10-30, 12:08:00](https://news.ycombinator.com/item?id=50302814) - [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
 * [2026-10-30, 11:16:15](https://news.ycombinator.com/item?id=50302407) - [Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]](https://www.youtube.com/watch?v=MENoB3Rex28)
@@ -12,7 +13,6 @@
 * [2026-10-30, 00:42:41](https://news.ycombinator.com/item?id=50298436) - [Herdr has released native app](https://github.com/herdrdev/herdr-app)
 * [2026-10-30, 00:31:00](https://news.ycombinator.com/item?id=50298318) - [Cormac McCarthy's Library](https://cormacmccarthy.lib.utk.edu/)
 * [2026-10-29, 23:25:46](https://news.ycombinator.com/item?id=50297697) - [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
-* [2026-10-29, 22:12:29](https://news.ycombinator.com/item?id=50296920) - [Should a medical diagnosis reshape the past? (2025)](https://chengela.substack.com/p/should-a-medical-diagnosis-reshape)
 * [2026-10-29, 21:40:28](https://news.ycombinator.com/item?id=50296486) - [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
 * [2026-10-29, 21:38:59](https://news.ycombinator.com/item?id=50296470) - [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 * [2026-10-29, 20:32:28](https://news.ycombinator.com/item?id=50295450) - [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)

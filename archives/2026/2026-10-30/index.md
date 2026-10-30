@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 13:26:43](https://news.ycombinator.com/item?id=50303571) - [Just Noting That Your Candy Corn Is Made of Bug Secretions](https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/)
 * [2026-10-30, 12:50:01](https://news.ycombinator.com/item?id=50303172) - [The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
 * [2026-10-30, 12:08:00](https://news.ycombinator.com/item?id=50302814) - [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
 * [2026-10-30, 11:16:15](https://news.ycombinator.com/item?id=50302407) - [Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]](https://www.youtube.com/watch?v=MENoB3Rex28)
