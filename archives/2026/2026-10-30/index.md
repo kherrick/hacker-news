@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 14:18:34](https://news.ycombinator.com/item?id=50304280) - [Neal Stephenson on AI and What Comes Next [video]](https://www.youtube.com/watch?v=Ii-aeW5pHPQ)
 * [2026-10-30, 14:11:22](https://news.ycombinator.com/item?id=50304175) - [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/)
 * [2026-10-30, 14:00:07](https://news.ycombinator.com/item?id=50304006) - [Massie, Khanna, and Others Introduce the \"Epstein Files Transparency Act II\"](https://massie.house.gov/news/documentsingle.aspx?DocumentID=395849)
 * [2026-10-30, 13:43:48](https://news.ycombinator.com/item?id=50303791) - [Intel plunges 25%, triggers global chip rout on bleak outlook](https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/)
