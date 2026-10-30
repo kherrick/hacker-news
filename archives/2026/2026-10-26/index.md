@@ -12,6 +12,7 @@
 * [2026-10-26, 21:24:18](https://news.ycombinator.com/item?id=50251200) - [OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)
 * [2026-10-26, 21:18:05](https://news.ycombinator.com/item?id=50251127) - [CorridorKey 2.0](https://corridorkey.com/)
 * [2026-10-26, 21:15:57](https://news.ycombinator.com/item?id=50251085) - [Muhammad Aqeel: Undo for Postgres, without losing the rest of your day](https://www.pgedge.com/blog/undo-for-postgres-without-losing-the-rest-of-your-day)
+* [2026-10-26, 21:14:43](https://news.ycombinator.com/item?id=50251070) - [Why a program doesn't work when run from a batch file, but works when clicked](https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/)
 * [2026-10-26, 21:05:15](https://news.ycombinator.com/item?id=50250937) - [Microsoft offers voluntary buyouts to a quarter of its workforce](https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce)
 * [2026-10-26, 20:40:36](https://news.ycombinator.com/item?id=50250609) - [Image generation has come a long way since August 2022](https://www.hbrooks.com/writing/image-generation-has-come-a-long-way)
 * [2026-10-26, 19:57:32](https://news.ycombinator.com/item?id=50250016) - [Somebody please stop the spam texts](https://notes.npilk.com/stop-the-spam-texts)
