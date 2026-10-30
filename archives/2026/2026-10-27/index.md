@@ -24,6 +24,7 @@
 * [2026-10-27, 19:00:50](https://news.ycombinator.com/item?id=50264087) - [Creating interactive data visualization with Flint-interactive](https://microsoft.github.io/flint-chart/#/interactions)
 * [2026-10-27, 18:44:17](https://news.ycombinator.com/item?id=50263854) - [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
 * [2026-10-27, 18:33:48](https://news.ycombinator.com/item?id=50263701) - [Three TLS Bugs in GoAhead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)
+* [2026-10-27, 17:54:57](https://news.ycombinator.com/item?id=50263127) - [Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated](https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times)
 * [2026-10-27, 17:48:15](https://news.ycombinator.com/item?id=50262982) - [Radio-tagged Monarch butterflies](https://news.vt.edu/articles/2026/10/cmi-monarchs.html)
 * [2026-10-27, 17:48:15](https://news.ycombinator.com/item?id=50262982) - [Radio-tagged Monarch butterflies](https://blog.cwf-fcf.org/index.php/en/tiny-tracking-tags-for-big-monarch-journeys/)
 * [2026-10-27, 17:27:39](https://news.ycombinator.com/item?id=50262608) - [Blanets and Weird Worlds](https://www.antipope.org/charlie/blog-static/2026/10/bizarre-blanets-and-other-weir.html)
