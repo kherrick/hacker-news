@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2026-10-29, 22:11:08",
-      "https://news.ycombinator.com/item?id=50296905"
-    ],
-    [
-      "Lighthouses, War and a Puffling",
-      "https://adcochrane.wordpress.com/2026/10/29/lighthouses-war-and-a-puffling-the-isle-of-may/"
-    ]
-  ],
-  [
-    [
       "2026-10-29, 21:40:28",
       "https://news.ycombinator.com/item?id=50296486"
     ],
@@ -267,6 +257,16 @@
     [
       "Astroterm: A Planetarium for Your Terminal",
       "https://github.com/da-luce/astroterm"
+    ]
+  ],
+  [
+    [
+      "2026-10-28, 05:34:16",
+      "https://news.ycombinator.com/item?id=50269668"
+    ],
+    [
+      "Solving Postgres' Count Problem",
+      "https://www.paradedb.com/blog/opening-a-closed-tin-part-2"
     ]
   ],
   [
