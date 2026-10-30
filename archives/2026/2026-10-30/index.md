@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 16:40:22](https://news.ycombinator.com/item?id=50306442) - [A Working Nintendo in ~1GB of Qwen Weights](https://github.com/dbreunig/nesformer)
 * [2026-10-30, 16:13:02](https://news.ycombinator.com/item?id=50306008) - [US tech stocks see sharp falls over AI cost fears](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
+* [2026-10-30, 15:58:39](https://news.ycombinator.com/item?id=50305797) - [Sam Altman Thinks You're Wasting DRAM](https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/)
 * [2026-10-30, 15:52:18](https://news.ycombinator.com/item?id=50305693) - [AI Isn't Replacing SREs. It's Deskilling Them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
+* [2026-10-30, 15:48:12](https://news.ycombinator.com/item?id=50305637) - [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium)
 * [2026-10-30, 15:46:42](https://news.ycombinator.com/item?id=50305601) - [Geist Serif](https://vercel.com/blog/introducing-geist-serif)
 * [2026-10-30, 15:44:29](https://news.ycombinator.com/item?id=50305573) - [The Federated Code Forge](https://tangled.org/blog/forge/)
 * [2026-10-30, 15:39:05](https://news.ycombinator.com/item?id=50305480) - [Blockchain intelligence firms link North Korea to $6.3B hack on Binance](https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance)
