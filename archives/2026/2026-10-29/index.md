@@ -29,6 +29,7 @@
 * [2026-10-29, 19:24:36](https://news.ycombinator.com/item?id=50294473) - [Show HN: Typebook.lol read books by typing the letters only](https://typebook.lol/)
 * [2026-10-29, 18:40:09](https://news.ycombinator.com/item?id=50293879) - [Utah charges Kalshi and its CEO with illegally promoting online gambling](https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges)
 * [2026-10-29, 18:17:06](https://news.ycombinator.com/item?id=50293546) - [Archive Of Our Own down for maintenance for 2 to 4 weeks](https://www.otwstatus.org/incidents/g12jnxck9g6h)
+* [2026-10-29, 18:10:33](https://news.ycombinator.com/item?id=50293437) - [Turning a solar power system into its own backup](https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/)
 * [2026-10-29, 18:06:22](https://news.ycombinator.com/item?id=50293361) - [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo)
 * [2026-10-29, 18:02:17](https://news.ycombinator.com/item?id=50293308) - [I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform](https://github.com/Ka1-S/LYNX-SHARE)
 * [2026-10-29, 17:48:17](https://news.ycombinator.com/item?id=50293115) - [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions)
