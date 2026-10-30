@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2026-10-30, 14:18:34",
+      "https://news.ycombinator.com/item?id=50304280"
+    ],
+    [
+      "Neal Stephenson on AI and What Comes Next [video]",
+      "https://www.youtube.com/watch?v=Ii-aeW5pHPQ"
+    ]
+  ],
+  [
+    [
       "2026-10-30, 14:08:20",
       "https://news.ycombinator.com/item?id=50304122"
     ],
     [
       "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
       "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts"
-    ]
-  ],
-  [
-    [
-      "2026-10-30, 13:26:43",
-      "https://news.ycombinator.com/item?id=50303571"
-    ],
-    [
-      "Just Noting That Your Candy Corn Is Made of Bug Secretions",
-      "https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-10-27, 07:10:45",
-      "https://news.ycombinator.com/item?id=50255573"
-    ],
-    [
-      "Python on My Wrist",
-      "https://tildeweb.nl/~michiel/python-on-my-wrist.html"
-    ]
-  ],
-  [
-    [
       "2026-10-27, 06:33:16",
       "https://news.ycombinator.com/item?id=50255343"
     ],
@@ -287,6 +277,16 @@
     [
       "Why a program doesn't work when run from a batch file, but works when clicked",
       "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 16:28:06",
+      "https://news.ycombinator.com/item?id=50246538"
+    ],
+    [
+      "Compile-Time Dependent Types",
+      "https://thenumb.at/Syl-Intro/"
     ]
   ],
   [
