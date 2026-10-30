@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 17:57:35](https://news.ycombinator.com/item?id=50307723) - [GitHub Incident with Actions, Pages, and Webhooks](https://www.githubstatus.com/incidents/pwxsjgnvrk6b)
 * [2026-10-30, 17:29:58](https://news.ycombinator.com/item?id=50307260) - [US Army practices digging temporary battlefield graves](https://www.armytimes.com/news/your-army/2026/10/26/army-practices-digging-temporary-battlefield-graves/)
 * [2026-10-30, 17:27:25](https://news.ycombinator.com/item?id=50307219) - [Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f)
 * [2026-10-30, 17:25:15](https://news.ycombinator.com/item?id=50307190) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
