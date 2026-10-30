@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-30, 20:58:24",
-      "https://news.ycombinator.com/item?id=50310055"
-    ],
-    [
-      "Show HN: Ultrafast Rust Based ADE",
-      "https://trypalomino.com/"
-    ]
-  ],
-  [
-    [
       "2026-10-30, 20:23:30",
       "https://news.ycombinator.com/item?id=50309647"
     ],
@@ -297,6 +287,16 @@
     [
       "Tree-mounted machines connect to web app to let users knock on wood remotely",
       "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 21:14:43",
+      "https://news.ycombinator.com/item?id=50251070"
+    ],
+    [
+      "Why a program doesn't work when run from a batch file, but works when clicked",
+      "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/"
     ]
   ]
 ]
