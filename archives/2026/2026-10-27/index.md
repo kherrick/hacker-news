@@ -50,6 +50,7 @@
 * [2026-10-27, 13:52:12](https://news.ycombinator.com/item?id=50259343) - [PHP2Shell: Exploitation attempts and remediation trends](https://www.wiz.io/blog/php2shell-exploitation-so-far)
 * [2026-10-27, 13:23:22](https://news.ycombinator.com/item?id=50258868) - [Here be monsters: What do you still need to know when agents do the work?](https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work)
 * [2026-10-27, 13:02:02](https://news.ycombinator.com/item?id=50258538) - [New iMac with M6](https://www.apple.com/imac/)
+* [2026-10-27, 13:00:04](https://news.ycombinator.com/item?id=50258496) - [Tree-mounted machines connect to web app to let users knock on wood remotely](https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/)
 * [2026-10-27, 11:30:35](https://news.ycombinator.com/item?id=50257548) - [Software may be getting worse, but it used to be horrible](https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/)
 * [2026-10-27, 11:17:57](https://news.ycombinator.com/item?id=50257419) - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 * [2026-10-27, 11:08:15](https://news.ycombinator.com/item?id=50257326) - [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
