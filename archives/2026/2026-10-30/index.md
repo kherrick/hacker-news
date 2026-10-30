@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 20:58:24](https://news.ycombinator.com/item?id=50310055) - [Show HN: Ultrafast Rust Based ADE](https://trypalomino.com/)
 * [2026-10-30, 20:23:30](https://news.ycombinator.com/item?id=50309647) - [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
 * [2026-10-30, 20:18:18](https://news.ycombinator.com/item?id=50309573) - [Embraer's Atech aims to double in size by 2030 with drone traffic control](https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/)
 * [2026-10-30, 20:18:10](https://news.ycombinator.com/item?id=50309571) - [Programming at Light Speed: Building the Gravity Query Engine](https://pgrust.com/blog/programming-at-light-speed/)
