@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-10-30, 11:16:15",
-      "https://news.ycombinator.com/item?id=50302407"
-    ],
-    [
-      "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
-      "https://www.youtube.com/watch?v=MENoB3Rex28"
-    ]
-  ],
-  [
-    [
       "2026-10-30, 11:05:53",
       "https://news.ycombinator.com/item?id=50302334"
     ],
@@ -27,6 +17,16 @@
     [
       "Anthropic hacked to deliver remote access trojan",
       "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2"
+    ]
+  ],
+  [
+    [
+      "2026-10-30, 10:06:15",
+      "https://news.ycombinator.com/item?id=50301854"
+    ],
+    [
+      "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "https://www.binarysecurity.no/posts/2026/10/one-root-case"
     ]
   ],
   [
