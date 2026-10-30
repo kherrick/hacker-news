@@ -52,6 +52,7 @@
 * [2026-10-27, 11:08:15](https://news.ycombinator.com/item?id=50257326) - [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
 * [2026-10-27, 10:23:21](https://news.ycombinator.com/item?id=50256952) - [Gforth 1.0](https://gforth.org/manual/1.0/NEWS.html)
 * [2026-10-27, 09:13:12](https://news.ycombinator.com/item?id=50256409) - [A new faster algorithm to compute 64-bit signed floor division](https://www.benjoffe.com/fast-floordiv)
+* [2026-10-27, 07:10:45](https://news.ycombinator.com/item?id=50255573) - [Python on My Wrist](https://tildeweb.nl/~michiel/python-on-my-wrist.html)
 * [2026-10-27, 06:33:16](https://news.ycombinator.com/item?id=50255343) - [Cuis: The Modern Smalltalk-80](https://cuis.st/)
 * [2026-10-27, 06:25:37](https://news.ycombinator.com/item?id=50255298) - [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
 * [2026-10-27, 05:59:07](https://news.ycombinator.com/item?id=50255161) - [Edit an SQLite database in your browser](https://editsqlite.com/)
