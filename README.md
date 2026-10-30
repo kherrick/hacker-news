@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-30, 11:16:15](https://news.ycombinator.com/item?id=50302407) - [Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]](https://www.youtube.com/watch?v=MENoB3Rex28)
 * [2026-10-30, 11:05:53](https://news.ycombinator.com/item?id=50302334) - [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563)
 * [2026-10-30, 10:22:51](https://news.ycombinator.com/item?id=50301983) - [Anthropic hacked to deliver remote access trojan](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2)
+* [2026-10-30, 10:06:15](https://news.ycombinator.com/item?id=50301854) - [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
 * [2026-10-30, 09:49:02](https://news.ycombinator.com/item?id=50301717) - [How Do You Take a Picture of a Black Hole?](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)
 * [2026-10-30, 09:14:34](https://news.ycombinator.com/item?id=50301462) - [elect.horse](https://elect.horse/)
 * [2026-10-30, 07:00:35](https://news.ycombinator.com/item?id=50300643) - [Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe](https://www.workatastartup.com/jobs/98722)
