@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-30, 13:43:48](https://news.ycombinator.com/item?id=50303791) - [Intel plunges 25%, triggers global chip rout on bleak outlook](https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/)
+* [2026-10-30, 13:40:29](https://news.ycombinator.com/item?id=50303751) - [Pompeii wardrobe found untouched since 79CE holds keepsakes, coins, and two mice](https://archaeologymag.com/2026/10/pompeii-wardrobe-found-untouched-since-79-ce/)
 * [2026-10-30, 13:26:43](https://news.ycombinator.com/item?id=50303571) - [Just Noting That Your Candy Corn Is Made of Bug Secretions](https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/)
 * [2026-10-30, 12:50:01](https://news.ycombinator.com/item?id=50303172) - [The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
 * [2026-10-30, 12:08:00](https://news.ycombinator.com/item?id=50302814) - [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
@@ -24,9 +26,7 @@
 * [2026-10-28, 13:38:04](https://news.ycombinator.com/item?id=50273340) - [Artificial Analysis v5 and the benchmarker's dilemma](https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers)
 * [2026-10-28, 13:20:05](https://news.ycombinator.com/item?id=50273104) - [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg)
 * [2026-10-28, 08:29:55](https://news.ycombinator.com/item?id=50270651) - [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
-* [2026-10-27, 22:47:41](https://news.ycombinator.com/item?id=50266956) - [An illustrated online book on Hewlett-Packard equipment](https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/)
 * [2026-10-27, 17:54:57](https://news.ycombinator.com/item?id=50263127) - [Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated](https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times)
-* [2026-10-27, 07:10:45](https://news.ycombinator.com/item?id=50255573) - [Python on My Wrist](https://tildeweb.nl/~michiel/python-on-my-wrist.html)
 * [2026-10-27, 06:33:16](https://news.ycombinator.com/item?id=50255343) - [Cuis: The Modern Smalltalk-80](https://cuis.st/)
 * [2026-10-26, 21:14:43](https://news.ycombinator.com/item?id=50251070) - [Why a program doesn't work when run from a batch file, but works when clicked](https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/)
 * [2026-10-26, 14:37:17](https://news.ycombinator.com/item?id=50244486) - [Commodore 1600 VICmodem](https://dfarq.homeip.net/commodore-1600-vicmodem/)
