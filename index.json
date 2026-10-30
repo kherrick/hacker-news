@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-10-30, 14:18:34",
+      "https://news.ycombinator.com/item?id=50304280"
+    ],
+    [
+      "Neal Stephenson on AI and What Comes Next [video]",
+      "https://www.youtube.com/watch?v=Ii-aeW5pHPQ"
+    ]
+  ],
+  [
+    [
       "2026-10-30, 14:11:22",
       "https://news.ycombinator.com/item?id=50304175"
     ],
     [
       "Do At-Proto Users Know This Is Public?",
       "https://melaniekat.com/blog/public-on-pds/"
-    ]
-  ],
-  [
-    [
-      "2026-10-30, 14:00:07",
-      "https://news.ycombinator.com/item?id=50304006"
-    ],
-    [
-      "Massie, Khanna, and Others Introduce the \"Epstein Files Transparency Act II\"",
-      "https://massie.house.gov/news/documentsingle.aspx?DocumentID=395849"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2026-10-30, 10:22:51",
-      "https://news.ycombinator.com/item?id=50301983"
-    ],
-    [
-      "Claude Code VS Code extension with backdoor released on Cursor marketplace",
-      "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2"
-    ]
-  ],
-  [
-    [
       "2026-10-30, 10:06:15",
       "https://news.ycombinator.com/item?id=50301854"
     ],
@@ -107,6 +97,16 @@
     [
       "elect.horse",
       "https://elect.horse/"
+    ]
+  ],
+  [
+    [
+      "2026-10-30, 07:09:12",
+      "https://news.ycombinator.com/item?id=50300683"
+    ],
+    [
+      "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
     ]
   ],
   [
