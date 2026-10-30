@@ -2,8 +2,8 @@
 
 * [2026-10-30, 14:27:44](https://news.ycombinator.com/item?id=50304419) - [Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It](https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no)
 * [2026-10-30, 14:22:52](https://news.ycombinator.com/item?id=50304358) - [Anthropic Cracking Down on Video Game Rewrites](https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968)
+* [2026-10-30, 14:18:34](https://news.ycombinator.com/item?id=50304280) - [Neal Stephenson on AI and What Comes Next [video]](https://www.youtube.com/watch?v=Ii-aeW5pHPQ)
 * [2026-10-30, 14:08:20](https://news.ycombinator.com/item?id=50304122) - [Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code](https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts)
-* [2026-10-30, 13:26:43](https://news.ycombinator.com/item?id=50303571) - [Just Noting That Your Candy Corn Is Made of Bug Secretions](https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/)
 * [2026-10-30, 13:20:06](https://news.ycombinator.com/item?id=50303488) - [5-MeO-DMT sometimes cancels the Ebbinghaus illusion](https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus)
 * [2026-10-30, 12:50:01](https://news.ycombinator.com/item?id=50303172) - [The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
 * [2026-10-30, 12:08:00](https://news.ycombinator.com/item?id=50302814) - [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
@@ -26,9 +26,9 @@
 * [2026-10-28, 13:20:05](https://news.ycombinator.com/item?id=50273104) - [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg)
 * [2026-10-28, 08:29:55](https://news.ycombinator.com/item?id=50270651) - [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
 * [2026-10-27, 17:54:57](https://news.ycombinator.com/item?id=50263127) - [Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated](https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times)
-* [2026-10-27, 07:10:45](https://news.ycombinator.com/item?id=50255573) - [Python on My Wrist](https://tildeweb.nl/~michiel/python-on-my-wrist.html)
 * [2026-10-27, 06:33:16](https://news.ycombinator.com/item?id=50255343) - [Cuis: The Modern Smalltalk-80](https://cuis.st/)
 * [2026-10-26, 21:14:43](https://news.ycombinator.com/item?id=50251070) - [Why a program doesn't work when run from a batch file, but works when clicked](https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/)
+* [2026-10-26, 16:28:06](https://news.ycombinator.com/item?id=50246538) - [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
 * [2026-10-26, 14:37:17](https://news.ycombinator.com/item?id=50244486) - [Commodore 1600 VICmodem](https://dfarq.homeip.net/commodore-1600-vicmodem/)
 
 ## [Archives](archives/index.md)

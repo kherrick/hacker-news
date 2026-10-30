@@ -37,6 +37,7 @@
 * [2026-10-26, 17:23:11](https://news.ycombinator.com/item?id=50247453) - [The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)
 * [2026-10-26, 17:15:58](https://news.ycombinator.com/item?id=50247342) - [The Tragedy of Losing Your Wikipedia Page](https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/)
 * [2026-10-26, 16:35:44](https://news.ycombinator.com/item?id=50246658) - [Concerning behavior from a popular open-weight AI model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
+* [2026-10-26, 16:28:06](https://news.ycombinator.com/item?id=50246538) - [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
 * [2026-10-26, 16:12:29](https://news.ycombinator.com/item?id=50246238) - [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)
 * [2026-10-26, 15:57:12](https://news.ycombinator.com/item?id=50245945) - [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
 * [2026-10-26, 15:51:23](https://news.ycombinator.com/item?id=50245831) - [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
