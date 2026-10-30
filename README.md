@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-30, 09:17:43](https://news.ycombinator.com/item?id=50301479) - [Ask HN: Are you tired too in this AI era?](https://news.ycombinator.com/item?id=50301479)
+* [2026-10-30, 09:49:02](https://news.ycombinator.com/item?id=50301717) - [How Do You Take a Picture of a Black Hole?](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)
 * [2026-10-30, 09:00:41](https://news.ycombinator.com/item?id=50301373) - [I Returned My iPhone Duo](https://codakuma.com/i-returned-my-duo/)
 * [2026-10-30, 07:41:13](https://news.ycombinator.com/item?id=50300853) - ['Elite North Korean hackers' blamed for $6.3B Binance hack](https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates)
 * [2026-10-30, 07:00:35](https://news.ycombinator.com/item?id=50300643) - [Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe](https://www.workatastartup.com/jobs/98722)
