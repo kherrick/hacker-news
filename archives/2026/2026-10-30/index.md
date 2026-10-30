@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 10:22:51](https://news.ycombinator.com/item?id=50301983) - [Anthropic hacked to deliver remote access trojan](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2)
 * [2026-10-30, 09:49:02](https://news.ycombinator.com/item?id=50301717) - [How Do You Take a Picture of a Black Hole?](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)
 * [2026-10-30, 09:17:43](https://news.ycombinator.com/item?id=50301479) - [Ask HN: Are you tired too in this AI era?](https://news.ycombinator.com/item?id=50301479)
 * [2026-10-30, 09:14:34](https://news.ycombinator.com/item?id=50301462) - [elect.horse](https://elect.horse/)
