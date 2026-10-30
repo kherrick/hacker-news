@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-30, 18:50:25](https://news.ycombinator.com/item?id=50308471) - [What happened to 145 Nasdaq companies after the $1 warning letter](https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall)
 * [2026-10-30, 17:57:35](https://news.ycombinator.com/item?id=50307723) - [GitHub Incident with Actions, Pages, and Webhooks](https://www.githubstatus.com/incidents/pwxsjgnvrk6b)
 * [2026-10-30, 17:27:25](https://news.ycombinator.com/item?id=50307219) - [Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f)
 * [2026-10-30, 17:25:15](https://news.ycombinator.com/item?id=50307190) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
@@ -7,7 +8,6 @@
 * [2026-10-30, 16:40:22](https://news.ycombinator.com/item?id=50306442) - [A Working Nintendo in ~1GB of Qwen Weights](https://github.com/dbreunig/nesformer)
 * [2026-10-30, 15:52:18](https://news.ycombinator.com/item?id=50305693) - [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
 * [2026-10-30, 15:48:12](https://news.ycombinator.com/item?id=50305637) - [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium)
-* [2026-10-30, 15:46:42](https://news.ycombinator.com/item?id=50305601) - [Geist Serif](https://vercel.com/blog/introducing-geist-serif)
 * [2026-10-30, 15:44:29](https://news.ycombinator.com/item?id=50305573) - [The federated code forge](https://tangled.org/blog/forge/)
 * [2026-10-30, 15:39:05](https://news.ycombinator.com/item?id=50305480) - [Blockchain intelligence firms link North Korea to $6.3B hack on Binance](https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance)
 * [2026-10-30, 15:29:40](https://news.ycombinator.com/item?id=50305320) - [Show HN: I built a multiplayer game where you're an aerial fighter cat](https://catcopter.com)
