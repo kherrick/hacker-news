@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-10-30, 15:52:18",
+      "https://news.ycombinator.com/item?id=50305693"
+    ],
+    [
+      "AI Isn't Replacing SREs. It's Deskilling Them",
+      "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
+    ]
+  ],
+  [
+    [
       "2026-10-30, 15:46:42",
       "https://news.ycombinator.com/item?id=50305601"
     ],
     [
       "Geist Serif",
       "https://vercel.com/blog/introducing-geist-serif"
+    ]
+  ],
+  [
+    [
+      "2026-10-30, 15:39:05",
+      "https://news.ycombinator.com/item?id=50305480"
+    ],
+    [
+      "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
     ]
   ],
   [
@@ -21,22 +41,12 @@
   ],
   [
     [
-      "2026-10-30, 15:27:16",
-      "https://news.ycombinator.com/item?id=50305279"
+      "2026-10-30, 15:23:41",
+      "https://news.ycombinator.com/item?id=50305225"
     ],
     [
-      "Post-training 4B model with RL to fly Tesla Roadster 21% better than GPT-6 Astra",
-      "https://skypilot.ai/blog/flying-roadster-rl"
-    ]
-  ],
-  [
-    [
-      "2026-10-30, 15:26:58",
-      "https://news.ycombinator.com/item?id=50305272"
-    ],
-    [
-      "ICE wants its mask back, and hired a company to ask",
-      "https://blog.flokinet.is/2026/10/29/ice-wants-its-mask-back-and-hired-a-company-to-ask/"
+      "Polymarket 1h halt after vendor compromise; affected users will be 'made whole'",
+      "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2026-10-30, 13:20:06",
-      "https://news.ycombinator.com/item?id=50303488"
-    ],
-    [
-      "5-MeO-DMT sometimes cancels the Ebbinghaus illusion",
-      "https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus"
-    ]
-  ],
-  [
-    [
       "2026-10-30, 12:50:01",
       "https://news.ycombinator.com/item?id=50303172"
     ],
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-10-30, 09:14:34",
-      "https://news.ycombinator.com/item?id=50301462"
-    ],
-    [
-      "elect.horse",
-      "https://elect.horse/"
-    ]
-  ],
-  [
-    [
       "2026-10-30, 07:09:12",
       "https://news.ycombinator.com/item?id=50300683"
     ],
@@ -147,6 +137,16 @@
     [
       "Herdr has released native app",
       "https://github.com/herdrdev/herdr-app"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 23:25:46",
+      "https://news.ycombinator.com/item?id=50297697"
+    ],
+    [
+      "Show HN: I Turned DOOM into a Transformer",
+      "https://github.com/mottopanikeiku/doomformer"
     ]
   ],
   [
