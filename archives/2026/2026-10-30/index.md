@@ -9,6 +9,7 @@
 * [2026-10-30, 15:44:29](https://news.ycombinator.com/item?id=50305573) - [The Federated Code Forge](https://tangled.org/blog/forge/)
 * [2026-10-30, 15:39:05](https://news.ycombinator.com/item?id=50305480) - [Blockchain intelligence firms link North Korea to $6.3B hack on Binance](https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance)
 * [2026-10-30, 15:36:18](https://news.ycombinator.com/item?id=50305436) - [I didn't know I was lacking in Vitamin D until I collapsed at work](https://www.bbc.com/news/articles/cm78pxxe55v0o)
+* [2026-10-30, 15:29:40](https://news.ycombinator.com/item?id=50305320) - [Show HN: I built a multiplayer game where you're an aerial fighter cat](https://catcopter.com)
 * [2026-10-30, 15:29:08](https://news.ycombinator.com/item?id=50305309) - [$300k for a personalized cancer vaccine](https://rnafoundry.com)
 * [2026-10-30, 15:28:29](https://news.ycombinator.com/item?id=50305299) - [What SBF's Anthropic investment would be worth today](https://sbfindex.com/)
 * [2026-10-30, 15:27:16](https://news.ycombinator.com/item?id=50305279) - [Post-training 4B model with RL to fly Tesla Roadster 21% better than GPT-6 Astra](https://skypilot.ai/blog/flying-roadster-rl)
