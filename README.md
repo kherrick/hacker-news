@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-30, 19:05:22](https://news.ycombinator.com/item?id=50308697) - [Bunny CDN Security Incident](https://status.bunny.net/incidents/p6gf1by9kr7m)
+* [2026-10-30, 19:01:14](https://news.ycombinator.com/item?id=50308631) - [French digital tax may kill VideoLan non-profit](https://twitter.com/videolan/status/2116229135919919278)
 * [2026-10-30, 18:50:25](https://news.ycombinator.com/item?id=50308471) - [What happened to 145 Nasdaq companies after the $1 warning letter](https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall)
 * [2026-10-30, 17:57:35](https://news.ycombinator.com/item?id=50307723) - [GitHub Incident with Actions, Pages, and Webhooks](https://www.githubstatus.com/incidents/pwxsjgnvrk6b)
 * [2026-10-30, 17:27:25](https://news.ycombinator.com/item?id=50307219) - [Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f)
@@ -22,7 +23,6 @@
 * [2026-10-30, 07:00:35](https://news.ycombinator.com/item?id=50300643) - [Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe](https://www.workatastartup.com/jobs/98722)
 * [2026-10-30, 01:19:02](https://news.ycombinator.com/item?id=50298721) - [Tracks along the longest drive on another world](https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/)
 * [2026-10-29, 21:58:34](https://news.ycombinator.com/item?id=50296730) - [Building an AI-native engineering org](https://twitter.com/sgondala2/status/2115832070274723875)
-* [2026-10-28, 13:48:26](https://news.ycombinator.com/item?id=50273504) - [Finding Panics with Call Graph Analyzer](https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/)
 * [2026-10-28, 12:24:25](https://news.ycombinator.com/item?id=50272479) - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
 * [2026-10-28, 02:01:51](https://news.ycombinator.com/item?id=50268478) - [Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)](https://arxiv.org/abs/2610.36341)
 * [2026-10-27, 18:42:55](https://news.ycombinator.com/item?id=50263837) - [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
