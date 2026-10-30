@@ -60,6 +60,7 @@
 * [2026-10-28, 11:16:47](https://news.ycombinator.com/item?id=50271756) - [TLP Is Not a Suggestion](https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion)
 * [2026-10-28, 11:08:49](https://news.ycombinator.com/item?id=50271685) - [About the compromised eMudhra intermediate CAs](https://support.apple.com/en-us/149555)
 * [2026-10-28, 11:03:40](https://news.ycombinator.com/item?id=50271640) - [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
+* [2026-10-28, 10:49:06](https://news.ycombinator.com/item?id=50271521) - [Study: Schoolwide phone bans show no significant impact on mental health](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858)
 * [2026-10-28, 10:41:27](https://news.ycombinator.com/item?id=50271457) - [Barcelona unrest: how to fabricate a protest in the age of TikTok](https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263)
 * [2026-10-28, 10:35:31](https://news.ycombinator.com/item?id=50271411) - [Opus 5.5 causing an identity crisis is real](https://www.kondz.io/blog/opus-5-5-causing-identity-crisis-is-real/)
 * [2026-10-28, 09:43:44](https://news.ycombinator.com/item?id=50271088) - [Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/)
