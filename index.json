@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-10-30, 09:00:41",
-      "https://news.ycombinator.com/item?id=50301373"
-    ],
-    [
-      "I Returned My iPhone Duo",
-      "https://codakuma.com/i-returned-my-duo/"
-    ]
-  ],
-  [
-    [
       "2026-10-30, 07:41:13",
       "https://news.ycombinator.com/item?id=50300853"
     ],
@@ -57,16 +47,6 @@
     [
       "Herdr has released native app",
       "https://github.com/herdrdev/herdr-app"
-    ]
-  ],
-  [
-    [
-      "2026-10-30, 00:31:00",
-      "https://news.ycombinator.com/item?id=50298318"
-    ],
-    [
-      "Cormac McCarthy's Library",
-      "https://cormacmccarthy.lib.utk.edu/"
     ]
   ],
   [
@@ -157,6 +137,16 @@
     [
       "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
       "https://github.com/johncassil/dontallow"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 16:14:28",
+      "https://news.ycombinator.com/item?id=50291421"
+    ],
+    [
+      "16colo.rs – ANSI/ASCII art archive",
+      "https://16colo.rs/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Cuis: The Modern Smalltalk-80",
       "https://cuis.st/"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 21:14:43",
+      "https://news.ycombinator.com/item?id=50251070"
+    ],
+    [
+      "Why a program doesn't work when run from a batch file, but works when clicked",
+      "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/"
     ]
   ]
 ]
