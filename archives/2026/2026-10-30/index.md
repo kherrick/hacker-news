@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 18:31:56](https://news.ycombinator.com/item?id=50308240) - [French national assembly votes 0.055€/GB internet tax](https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html)
 * [2026-10-30, 17:57:35](https://news.ycombinator.com/item?id=50307723) - [GitHub Incident with Actions, Pages, and Webhooks](https://www.githubstatus.com/incidents/pwxsjgnvrk6b)
 * [2026-10-30, 17:29:58](https://news.ycombinator.com/item?id=50307260) - [US Army practices digging temporary battlefield graves](https://www.armytimes.com/news/your-army/2026/10/26/army-practices-digging-temporary-battlefield-graves/)
 * [2026-10-30, 17:27:25](https://news.ycombinator.com/item?id=50307219) - [Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f)
