@@ -2,7 +2,7 @@
 
 * [2026-10-30, 21:57:40](https://news.ycombinator.com/item?id=50310687) - [Linode Security Incident](https://status.linode.com/incidents/nt58zhx3pmgm)
 * [2026-10-30, 21:30:00](https://news.ycombinator.com/item?id=50310398) - [Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
-* [2026-10-30, 21:17:23](https://news.ycombinator.com/item?id=50310258) - [Archive of our own (AO3) hacked](https://www.otwstatus.org)
+* [2026-10-30, 21:17:23](https://news.ycombinator.com/item?id=50310258) - [AO3 Down for Maintenance](https://www.otwstatus.org)
 * [2026-10-30, 20:23:30](https://news.ycombinator.com/item?id=50309647) - [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
 * [2026-10-30, 20:18:18](https://news.ycombinator.com/item?id=50309573) - [Embraer's Atech aims to double in size by 2030 with drone traffic control](https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/)
 * [2026-10-30, 20:09:47](https://news.ycombinator.com/item?id=50309479) - [Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL](https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py)
