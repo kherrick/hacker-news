@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-30, 14:27:44](https://news.ycombinator.com/item?id=50304419) - [Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It](https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no)
+* [2026-10-30, 14:22:52](https://news.ycombinator.com/item?id=50304358) - [Anthropic Cracking Down on Video Game Rewrites](https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968)
 * [2026-10-30, 14:08:20](https://news.ycombinator.com/item?id=50304122) - [Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code](https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts)
 * [2026-10-30, 13:26:43](https://news.ycombinator.com/item?id=50303571) - [Just Noting That Your Candy Corn Is Made of Bug Secretions](https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/)
 * [2026-10-30, 13:20:06](https://news.ycombinator.com/item?id=50303488) - [5-MeO-DMT sometimes cancels the Ebbinghaus illusion](https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus)
 * [2026-10-30, 12:50:01](https://news.ycombinator.com/item?id=50303172) - [The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
-* [2026-10-30, 12:20:05](https://news.ycombinator.com/item?id=50302925) - [American views of higher ed decline, once again](https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/)
 * [2026-10-30, 12:08:00](https://news.ycombinator.com/item?id=50302814) - [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
 * [2026-10-30, 10:06:15](https://news.ycombinator.com/item?id=50301854) - [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
 * [2026-10-30, 09:14:34](https://news.ycombinator.com/item?id=50301462) - [elect.horse](https://elect.horse/)
