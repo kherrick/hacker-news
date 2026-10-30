@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-30, 00:42:41](https://news.ycombinator.com/item?id=50298436) - [Herdr has released native app](https://github.com/herdrdev/herdr-app)
 * [2026-10-30, 00:31:00](https://news.ycombinator.com/item?id=50298318) - [Cormac McCarthy's Library](https://cormacmccarthy.lib.utk.edu/)
 * [2026-10-29, 23:25:46](https://news.ycombinator.com/item?id=50297697) - [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
 * [2026-10-29, 22:26:38](https://news.ycombinator.com/item?id=50297089) - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
@@ -13,7 +14,6 @@
 * [2026-10-29, 19:41:39](https://news.ycombinator.com/item?id=50294702) - [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 * [2026-10-29, 19:27:44](https://news.ycombinator.com/item?id=50294506) - [Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"](https://github.com/johncassil/dontallow)
 * [2026-10-29, 19:25:48](https://news.ycombinator.com/item?id=50294486) - [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
-* [2026-10-29, 17:48:17](https://news.ycombinator.com/item?id=50293115) - [Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions)
 * [2026-10-29, 17:43:48](https://news.ycombinator.com/item?id=50293047) - [Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang](https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/)
 * [2026-10-29, 16:14:28](https://news.ycombinator.com/item?id=50291421) - [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
 * [2026-10-29, 15:56:32](https://news.ycombinator.com/item?id=50291116) - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
