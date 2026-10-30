@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-30, 23:12:02",
+      "https://news.ycombinator.com/item?id=50311339"
+    ],
+    [
+      "Federal Bureau of Prisons employees serve as election monitors at polling sites",
+      "https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says"
+    ]
+  ],
+  [
+    [
       "2026-10-30, 22:10:12",
       "https://news.ycombinator.com/item?id=50310796"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=50310398"
     ],
     [
-      "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
       "https://www.firezone.dev/blog/introducing-sanstun"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
       "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/"
-    ]
-  ],
-  [
-    [
-      "2026-10-30, 20:08:52",
-      "https://news.ycombinator.com/item?id=50309470"
-    ],
-    [
-      "An Arrogant Way of Killing (2016)",
-      "https://magazine.atavist.com/2016/an-arrogant-way-of-killing"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-10-30, 01:19:02",
-      "https://news.ycombinator.com/item?id=50298721"
-    ],
-    [
-      "Tracks along the longest drive on another world",
-      "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/"
-    ]
-  ],
-  [
-    [
       "2026-10-29, 21:58:34",
       "https://news.ycombinator.com/item?id=50296730"
     ],
@@ -297,6 +287,16 @@
     [
       "Tree-mounted machines connect to web app to let users knock on wood remotely",
       "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/"
+    ]
+  ],
+  [
+    [
+      "2026-10-26, 21:14:43",
+      "https://news.ycombinator.com/item?id=50251070"
+    ],
+    [
+      "Why a program doesn't work when run from a batch file, but works when clicked",
+      "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/"
     ]
   ]
 ]
