@@ -1,5 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-30, 20:18:18](https://news.ycombinator.com/item?id=50309573) - [Embraer's Atech aims to double in size by 2030 with drone traffic control](https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/)
+* [2026-10-30, 20:18:10](https://news.ycombinator.com/item?id=50309571) - [Programming at Light Speed: Building the Gravity Query Engine](https://pgrust.com/blog/programming-at-light-speed/)
+* [2026-10-30, 20:09:47](https://news.ycombinator.com/item?id=50309479) - [Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL](https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py)
+* [2026-10-30, 20:08:52](https://news.ycombinator.com/item?id=50309470) - [An Arrogant Way of Killing (2016)](https://magazine.atavist.com/2016/an-arrogant-way-of-killing)
+* [2026-10-30, 19:55:10](https://news.ycombinator.com/item?id=50309314) - [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris)
 * [2026-10-30, 19:51:33](https://news.ycombinator.com/item?id=50309266) - [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
 * [2026-10-30, 19:30:09](https://news.ycombinator.com/item?id=50309029) - [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
 * [2026-10-30, 19:26:39](https://news.ycombinator.com/item?id=50308986) - [A Pickpocket's Guide to New York](https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york)
@@ -16,7 +21,6 @@
 * [2026-10-30, 15:39:05](https://news.ycombinator.com/item?id=50305480) - [Blockchain intelligence firms link North Korea to $6.3B hack on Binance](https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance)
 * [2026-10-30, 15:29:40](https://news.ycombinator.com/item?id=50305320) - [Show HN: I built a multiplayer game where you're an aerial fighter cat](https://catcopter.com)
 * [2026-10-30, 15:10:31](https://news.ycombinator.com/item?id=50305025) - [Northflank Breached](https://status.northflank.com)
-* [2026-10-30, 12:50:01](https://news.ycombinator.com/item?id=50303172) - [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
 * [2026-10-30, 10:06:15](https://news.ycombinator.com/item?id=50301854) - [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
 * [2026-10-30, 09:49:02](https://news.ycombinator.com/item?id=50301717) - [How do you take a picture of a black hole?](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)
 * [2026-10-30, 07:09:12](https://news.ycombinator.com/item?id=50300683) - [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
@@ -24,12 +28,8 @@
 * [2026-10-30, 01:19:02](https://news.ycombinator.com/item?id=50298721) - [Tracks along the longest drive on another world](https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/)
 * [2026-10-29, 21:58:34](https://news.ycombinator.com/item?id=50296730) - [Building an AI-native engineering org](https://twitter.com/sgondala2/status/2115832070274723875)
 * [2026-10-28, 12:24:25](https://news.ycombinator.com/item?id=50272479) - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
-* [2026-10-28, 02:01:51](https://news.ycombinator.com/item?id=50268478) - [Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)](https://arxiv.org/abs/2610.36341)
 * [2026-10-27, 18:42:55](https://news.ycombinator.com/item?id=50263837) - [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
-* [2026-10-27, 17:54:57](https://news.ycombinator.com/item?id=50263127) - [Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated](https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times)
 * [2026-10-27, 13:00:04](https://news.ycombinator.com/item?id=50258496) - [Tree-mounted machines connect to web app to let users knock on wood remotely](https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/)
-* [2026-10-26, 21:14:43](https://news.ycombinator.com/item?id=50251070) - [Why a program doesn't work when run from a batch file, but works when clicked](https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/)
-* [2026-10-26, 16:28:06](https://news.ycombinator.com/item?id=50246538) - [Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)
 
 ## [Archives](archives/index.md)
 

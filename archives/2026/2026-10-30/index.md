@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 20:18:18](https://news.ycombinator.com/item?id=50309573) - [Embraer's Atech aims to double in size by 2030 with drone traffic control](https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/)
+* [2026-10-30, 20:18:10](https://news.ycombinator.com/item?id=50309571) - [Programming at Light Speed: Building the Gravity Query Engine](https://pgrust.com/blog/programming-at-light-speed/)
+* [2026-10-30, 20:09:47](https://news.ycombinator.com/item?id=50309479) - [Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL](https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py)
+* [2026-10-30, 20:08:52](https://news.ycombinator.com/item?id=50309470) - [An Arrogant Way of Killing (2016)](https://magazine.atavist.com/2016/an-arrogant-way-of-killing)
+* [2026-10-30, 19:55:10](https://news.ycombinator.com/item?id=50309314) - [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris)
 * [2026-10-30, 19:51:33](https://news.ycombinator.com/item?id=50309266) - [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
 * [2026-10-30, 19:30:09](https://news.ycombinator.com/item?id=50309029) - [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
 * [2026-10-30, 19:26:39](https://news.ycombinator.com/item?id=50308986) - [A Pickpocket's Guide to New York](https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york)
