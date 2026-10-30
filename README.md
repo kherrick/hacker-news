@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-30, 01:58:44](https://news.ycombinator.com/item?id=50298964) - [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754)
+* [2026-10-30, 01:22:38](https://news.ycombinator.com/item?id=50298738) - [Show HN: Arken – Passwordless auth middleware using secp256k1 keys](https://github.com/zacharybenson/arken-protocol)
 * [2026-10-30, 00:42:41](https://news.ycombinator.com/item?id=50298436) - [Herdr has released native app](https://github.com/herdrdev/herdr-app)
 * [2026-10-30, 00:31:00](https://news.ycombinator.com/item?id=50298318) - [Cormac McCarthy's Library](https://cormacmccarthy.lib.utk.edu/)
 * [2026-10-29, 23:25:46](https://news.ycombinator.com/item?id=50297697) - [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
@@ -23,7 +24,6 @@
 * [2026-10-29, 14:13:21](https://news.ycombinator.com/item?id=50289418) - [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
 * [2026-10-29, 12:33:05](https://news.ycombinator.com/item?id=50287919) - [DoorDash to acquire Instacart](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)
 * [2026-10-29, 12:19:00](https://news.ycombinator.com/item?id=50287775) - [If IPv4 were land](https://iptrust.co/blog/if-ipv4-were-land)
-* [2026-10-29, 11:59:01](https://news.ycombinator.com/item?id=50287599) - [NetBSD adds a new text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
 * [2026-10-29, 10:42:41](https://news.ycombinator.com/item?id=50286987) - [Chained PHP2Shell exploit roots 25 servers, including US Government servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)
 * [2026-10-29, 08:55:08](https://news.ycombinator.com/item?id=50286197) - [What we know so far about Spain train crash](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
 * [2026-10-28, 10:49:06](https://news.ycombinator.com/item?id=50271521) - [Study: Schoolwide phone bans show no significant impact on mental health](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858)
