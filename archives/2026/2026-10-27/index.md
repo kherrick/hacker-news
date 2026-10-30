@@ -23,6 +23,7 @@
 * [2026-10-27, 19:11:31](https://news.ycombinator.com/item?id=50264228) - [US President says he will ban the term 'artificial intelligence'](https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/)
 * [2026-10-27, 19:00:50](https://news.ycombinator.com/item?id=50264087) - [Creating interactive data visualization with Flint-interactive](https://microsoft.github.io/flint-chart/#/interactions)
 * [2026-10-27, 18:44:17](https://news.ycombinator.com/item?id=50263854) - [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
+* [2026-10-27, 18:42:55](https://news.ycombinator.com/item?id=50263837) - [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
 * [2026-10-27, 18:33:48](https://news.ycombinator.com/item?id=50263701) - [Three TLS Bugs in GoAhead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)
 * [2026-10-27, 17:54:57](https://news.ycombinator.com/item?id=50263127) - [Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated](https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times)
 * [2026-10-27, 17:48:15](https://news.ycombinator.com/item?id=50262982) - [Radio-tagged Monarch butterflies](https://news.vt.edu/articles/2026/10/cmi-monarchs.html)
