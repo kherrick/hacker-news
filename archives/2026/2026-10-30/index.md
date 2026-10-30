@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 17:29:58](https://news.ycombinator.com/item?id=50307260) - [US Army practices digging temporary battlefield graves](https://www.armytimes.com/news/your-army/2026/10/26/army-practices-digging-temporary-battlefield-graves/)
+* [2026-10-30, 17:27:25](https://news.ycombinator.com/item?id=50307219) - [Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f)
+* [2026-10-30, 17:25:15](https://news.ycombinator.com/item?id=50307190) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 * [2026-10-30, 17:24:45](https://news.ycombinator.com/item?id=50307183) - [Proton's CEO Cancels AI 'Re-Interviews'](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
 * [2026-10-30, 17:03:12](https://news.ycombinator.com/item?id=50306815) - [Show HN: Spinf-serve – inference server for bulk scoring and decisions](https://github.com/spinfinc/spinf-serve)
+* [2026-10-30, 17:00:44](https://news.ycombinator.com/item?id=50306776) - [Ask HN: What's it like working at Google nowadays? Core teams like Search, Ads?](https://news.ycombinator.com/item?id=50306776)
 * [2026-10-30, 16:40:22](https://news.ycombinator.com/item?id=50306442) - [A Working Nintendo in ~1GB of Qwen Weights](https://github.com/dbreunig/nesformer)
 * [2026-10-30, 16:13:02](https://news.ycombinator.com/item?id=50306008) - [US tech stocks see sharp falls over AI cost fears](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
 * [2026-10-30, 15:58:39](https://news.ycombinator.com/item?id=50305797) - [Sam Altman Thinks You're Wasting DRAM](https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/)
