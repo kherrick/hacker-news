@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 19:26:39](https://news.ycombinator.com/item?id=50308986) - [A Pickpocket's Guide to New York](https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york)
 * [2026-10-30, 19:05:22](https://news.ycombinator.com/item?id=50308697) - [Bunny CDN Security Incident](https://status.bunny.net/incidents/p6gf1by9kr7m)
 * [2026-10-30, 19:01:14](https://news.ycombinator.com/item?id=50308631) - [French digital tax may kill VideoLan non-profit](https://twitter.com/videolan/status/2116229135919919278)
 * [2026-10-30, 18:50:25](https://news.ycombinator.com/item?id=50308471) - [What happened to 145 Nasdaq companies after the $1 warning letter](https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall)
