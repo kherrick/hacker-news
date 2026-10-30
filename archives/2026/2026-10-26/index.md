@@ -18,6 +18,7 @@
 * [2026-10-26, 19:52:05](https://news.ycombinator.com/item?id=50249947) - [Init – a Rust agent harness that recompiles and hot-swaps its own core mid-task](https://initlabs.si/)
 * [2026-10-26, 19:47:58](https://news.ycombinator.com/item?id=50249883) - [What Happened to the Neanderthals?](https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html)
 * [2026-10-26, 19:37:59](https://news.ycombinator.com/item?id=50249738) - [Magic state cultivation on a superconducting quantum processor](https://arxiv.org/abs/2512.13908)
+* [2026-10-26, 19:28:19](https://news.ycombinator.com/item?id=50249598) - [Iterating Backwards in C](https://www.davidpriver.com/Iterating-backwards-in-C.html)
 * [2026-10-26, 19:05:41](https://news.ycombinator.com/item?id=50249275) - [The EPA Is Quietly Killing Its Web Archive](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
 * [2026-10-26, 18:56:03](https://news.ycombinator.com/item?id=50249116) - [Skydance offers buyouts, orders return to office](https://variety.com/2026/film/news/skydance-voluntary-buyouts-layoffs-5-days-per-week-in-office-policy-1236931402/)
 * [2026-10-26, 18:31:39](https://news.ycombinator.com/item?id=50248665) - [US designates helium as a critical material – AP News](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
