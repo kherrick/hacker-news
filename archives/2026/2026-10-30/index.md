@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 15:46:42](https://news.ycombinator.com/item?id=50305601) - [Geist Serif](https://vercel.com/blog/introducing-geist-serif)
+* [2026-10-30, 15:36:18](https://news.ycombinator.com/item?id=50305436) - [I didn't know I was lacking in Vitamin D until I collapsed at work](https://www.bbc.com/news/articles/cm78pxxe55v0o)
 * [2026-10-30, 15:29:08](https://news.ycombinator.com/item?id=50305309) - [$300k for a personalized cancer vaccine](https://rnafoundry.com)
 * [2026-10-30, 15:28:29](https://news.ycombinator.com/item?id=50305299) - [What SBF's Anthropic investment would be worth today](https://sbfindex.com/)
+* [2026-10-30, 15:27:16](https://news.ycombinator.com/item?id=50305279) - [Post-training 4B model with RL to fly Tesla Roadster 21% better than GPT-6 Astra](https://skypilot.ai/blog/flying-roadster-rl)
 * [2026-10-30, 15:26:58](https://news.ycombinator.com/item?id=50305272) - [ICE wants its mask back, and hired a company to ask](https://blog.flokinet.is/2026/10/29/ice-wants-its-mask-back-and-hired-a-company-to-ask/)
+* [2026-10-30, 15:23:41](https://news.ycombinator.com/item?id=50305225) - [Polymarket 1h halt after vendor compromise; affected users will be 'made whole'](https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405)
 * [2026-10-30, 15:10:31](https://news.ycombinator.com/item?id=50305025) - [Northflank Breached](https://status.northflank.com)
 * [2026-10-30, 14:27:44](https://news.ycombinator.com/item?id=50304419) - [Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It](https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no)
 * [2026-10-30, 14:22:52](https://news.ycombinator.com/item?id=50304358) - [Anthropic Cracking Down on Video Game Rewrites](https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968)
