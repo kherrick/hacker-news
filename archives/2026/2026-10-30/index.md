@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 14:11:22](https://news.ycombinator.com/item?id=50304175) - [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/)
 * [2026-10-30, 14:00:07](https://news.ycombinator.com/item?id=50304006) - [Massie, Khanna, and Others Introduce the \"Epstein Files Transparency Act II\"](https://massie.house.gov/news/documentsingle.aspx?DocumentID=395849)
 * [2026-10-30, 13:43:48](https://news.ycombinator.com/item?id=50303791) - [Intel plunges 25%, triggers global chip rout on bleak outlook](https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/)
 * [2026-10-30, 13:40:29](https://news.ycombinator.com/item?id=50303751) - [Pompeii wardrobe found untouched since 79CE holds keepsakes, coins, and two mice](https://archaeologymag.com/2026/10/pompeii-wardrobe-found-untouched-since-79-ce/)
 * [2026-10-30, 13:26:43](https://news.ycombinator.com/item?id=50303571) - [Just Noting That Your Candy Corn Is Made of Bug Secretions](https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/)
+* [2026-10-30, 13:20:06](https://news.ycombinator.com/item?id=50303488) - [5-MeO-DMT sometimes cancels the Ebbinghaus illusion](https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus)
 * [2026-10-30, 12:50:01](https://news.ycombinator.com/item?id=50303172) - [The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
 * [2026-10-30, 12:20:05](https://news.ycombinator.com/item?id=50302925) - [American views of higher ed decline, once again](https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/)
 * [2026-10-30, 12:08:00](https://news.ycombinator.com/item?id=50302814) - [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
