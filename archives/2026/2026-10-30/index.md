@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 17:24:45](https://news.ycombinator.com/item?id=50307183) - [Proton's CEO Cancels AI 'Re-Interviews'](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
 * [2026-10-30, 17:03:12](https://news.ycombinator.com/item?id=50306815) - [Show HN: Spinf-serve – inference server for bulk scoring and decisions](https://github.com/spinfinc/spinf-serve)
 * [2026-10-30, 16:40:22](https://news.ycombinator.com/item?id=50306442) - [A Working Nintendo in ~1GB of Qwen Weights](https://github.com/dbreunig/nesformer)
 * [2026-10-30, 16:13:02](https://news.ycombinator.com/item?id=50306008) - [US tech stocks see sharp falls over AI cost fears](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-30, 17:24:45](https://news.ycombinator.com/item?id=50307183) - [Proton's CEO Cancels AI 'Re-Interviews'](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
 * [2026-10-30, 17:03:12](https://news.ycombinator.com/item?id=50306815) - [Show HN: Spinf-serve – inference server for bulk scoring and decisions](https://github.com/spinfinc/spinf-serve)
 * [2026-10-30, 16:40:22](https://news.ycombinator.com/item?id=50306442) - [A Working Nintendo in ~1GB of Qwen Weights](https://github.com/dbreunig/nesformer)
 * [2026-10-30, 16:13:02](https://news.ycombinator.com/item?id=50306008) - [US tech stocks see sharp falls over AI cost fears](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
@@ -13,7 +14,6 @@
 * [2026-10-30, 15:10:31](https://news.ycombinator.com/item?id=50305025) - [Northflank Breached](https://status.northflank.com)
 * [2026-10-30, 14:27:44](https://news.ycombinator.com/item?id=50304419) - [Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It](https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no)
 * [2026-10-30, 12:50:01](https://news.ycombinator.com/item?id=50303172) - [The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
-* [2026-10-30, 12:08:00](https://news.ycombinator.com/item?id=50302814) - [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
 * [2026-10-30, 10:06:15](https://news.ycombinator.com/item?id=50301854) - [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
 * [2026-10-30, 07:09:12](https://news.ycombinator.com/item?id=50300683) - [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
 * [2026-10-30, 07:00:35](https://news.ycombinator.com/item?id=50300643) - [Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe](https://www.workatastartup.com/jobs/98722)
@@ -21,7 +21,7 @@
 * [2026-10-30, 00:42:41](https://news.ycombinator.com/item?id=50298436) - [Herdr has released native app](https://github.com/herdrdev/herdr-app)
 * [2026-10-29, 21:58:34](https://news.ycombinator.com/item?id=50296730) - [Building an AI-native engineering org](https://twitter.com/sgondala2/status/2115832070274723875)
 * [2026-10-29, 21:40:28](https://news.ycombinator.com/item?id=50296486) - [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
-* [2026-10-29, 21:38:59](https://news.ycombinator.com/item?id=50296470) - [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+* [2026-10-29, 14:13:21](https://news.ycombinator.com/item?id=50289418) - [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
 * [2026-10-28, 13:48:26](https://news.ycombinator.com/item?id=50273504) - [Finding Panics with Call Graph Analyzer](https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/)
 * [2026-10-28, 13:20:05](https://news.ycombinator.com/item?id=50273104) - [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg)
 * [2026-10-28, 07:33:24](https://news.ycombinator.com/item?id=50270284) - [Pell Puzzles Review](https://dles.gg/reviews/pell-puzzles)
