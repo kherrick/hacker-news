@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 16:13:02](https://news.ycombinator.com/item?id=50306008) - [US tech stocks see sharp falls over AI cost fears](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
 * [2026-10-30, 15:52:18](https://news.ycombinator.com/item?id=50305693) - [AI Isn't Replacing SREs. It's Deskilling Them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
 * [2026-10-30, 15:46:42](https://news.ycombinator.com/item?id=50305601) - [Geist Serif](https://vercel.com/blog/introducing-geist-serif)
 * [2026-10-30, 15:44:29](https://news.ycombinator.com/item?id=50305573) - [The Federated Code Forge](https://tangled.org/blog/forge/)
