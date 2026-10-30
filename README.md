@@ -15,6 +15,7 @@
 * [2026-10-29, 20:32:28](https://news.ycombinator.com/item?id=50295450) - [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
 * [2026-10-29, 19:41:39](https://news.ycombinator.com/item?id=50294702) - [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 * [2026-10-29, 19:27:44](https://news.ycombinator.com/item?id=50294506) - [Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"](https://github.com/johncassil/dontallow)
+* [2026-10-29, 16:14:28](https://news.ycombinator.com/item?id=50291421) - [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
 * [2026-10-29, 15:56:32](https://news.ycombinator.com/item?id=50291116) - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
 * [2026-10-29, 15:53:03](https://news.ycombinator.com/item?id=50291054) - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
 * [2026-10-29, 14:57:55](https://news.ycombinator.com/item?id=50290177) - [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)
@@ -29,7 +30,6 @@
 * [2026-10-27, 17:54:57](https://news.ycombinator.com/item?id=50263127) - [Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated](https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times)
 * [2026-10-27, 07:10:45](https://news.ycombinator.com/item?id=50255573) - [Python on My Wrist](https://tildeweb.nl/~michiel/python-on-my-wrist.html)
 * [2026-10-27, 06:33:16](https://news.ycombinator.com/item?id=50255343) - [Cuis: The Modern Smalltalk-80](https://cuis.st/)
-* [2026-10-26, 19:28:19](https://news.ycombinator.com/item?id=50249598) - [Iterating Backwards in C](https://www.davidpriver.com/Iterating-backwards-in-C.html)
 
 ## [Archives](archives/index.md)
 
