@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-31, 18:08:24](https://news.ycombinator.com/item?id=50318442) - [I post trained a model on Demoscenes](https://datavorous.com/writing/demoscener/)
+* [2026-10-31, 18:02:29](https://news.ycombinator.com/item?id=50318401) - [The Impact of Generative AI on Critical Thinking](https://dl.acm.org/doi/full/10.1145/3706598.3713778)
+* [2026-10-31, 17:59:41](https://news.ycombinator.com/item?id=50318376) - [William Nordhaus, Nobel-winning climate economist, dies at 85](https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale)
 * [2026-10-31, 17:37:22](https://news.ycombinator.com/item?id=50318189) - [UK Green party drops longstanding opposition to nuclear power](https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy)
+* [2026-10-31, 17:21:16](https://news.ycombinator.com/item?id=50318063) - [Amazon sends chills through its workforce with mixed message memo about AI use](https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804)
 * [2026-10-31, 17:16:04](https://news.ycombinator.com/item?id=50318018) - [Copyright Office is restoring copyright to something you have to work to get](https://pluralistic.net/2026/10/31/burn-berne/#unvictored)
 * [2026-10-31, 16:24:24](https://news.ycombinator.com/item?id=50317548) - [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/)
 * [2026-10-31, 16:22:26](https://news.ycombinator.com/item?id=50317534) - [Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)
@@ -17,8 +20,6 @@
 * [2026-10-31, 08:02:26](https://news.ycombinator.com/item?id=50314085) - [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
 * [2026-10-31, 06:16:36](https://news.ycombinator.com/item?id=50313661) - [Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
 * [2026-10-30, 17:25:15](https://news.ycombinator.com/item?id=50307190) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
-* [2026-10-30, 15:10:31](https://news.ycombinator.com/item?id=50305025) - [Northflank Breached](https://status.northflank.com)
-* [2026-10-30, 14:08:20](https://news.ycombinator.com/item?id=50304122) - [Cisco gives engineer unlimited AI tokens to rewrite legacy code](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/)
 * [2026-10-30, 12:50:01](https://news.ycombinator.com/item?id=50303172) - [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
 * [2026-10-30, 07:48:40](https://news.ycombinator.com/item?id=50300902) - [Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)
 * [2026-10-29, 21:56:31](https://news.ycombinator.com/item?id=50296700) - [Hunting 'Zombie Accounts' in Active Directory](https://www.fabian.fyi/2026/10/zombie-hunt.html)
@@ -27,7 +28,6 @@
 * [2026-10-28, 17:29:23](https://news.ycombinator.com/item?id=50277379) - [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
 * [2026-10-28, 14:27:12](https://news.ycombinator.com/item?id=50274186) - [Redox: Ring Buffers Project Summary](https://www.redox-os.org/news/nlnet-rb-summary/)
 * [2026-10-28, 09:38:07](https://news.ycombinator.com/item?id=50271052) - [Reading and writing are less symmetric than you (probably) think](https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/)
-* [2026-10-27, 18:42:55](https://news.ycombinator.com/item?id=50263837) - [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
 * [2026-10-27, 16:01:06](https://news.ycombinator.com/item?id=50261253) - [Simple circuits can create complex behaviors](https://aatishb.com/myriad/lets-build-a-brain/)
 * [2026-10-27, 15:24:36](https://news.ycombinator.com/item?id=50260753) - [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)
 
