@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-10-30, 15:23:11",
-      "https://news.ycombinator.com/item?id=50305218"
-    ],
-    [
-      "Show HN: Sketch Stadium – watch your agent play Pictionary",
-      "https://sketch.wakeshift.ai/games/q5ucru"
-    ]
-  ],
-  [
-    [
       "2026-10-30, 15:10:31",
       "https://news.ycombinator.com/item?id=50305025"
     ],
@@ -237,6 +227,16 @@
     [
       "Turning a solar power system into its own backup",
       "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 16:35:14",
+      "https://news.ycombinator.com/item?id=50291812"
+    ],
+    [
+      "Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
+      "https://github.com/arterialist/kube32"
     ]
   ],
   [
