@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
 * [2026-10-31, 23:08:12](https://news.ycombinator.com/item?id=50321130) - [When Electric Cars Were for Women](https://spectrum.ieee.org/early-electric-vehicles)
+* [2026-10-31, 22:46:12](https://news.ycombinator.com/item?id=50320995) - [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
 * [2026-10-31, 22:41:06](https://news.ycombinator.com/item?id=50320963) - [An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
 * [2026-10-31, 21:40:18](https://news.ycombinator.com/item?id=50320513) - [Spooky C++](https://www.nablag.com/spooky_cpp)
 * [2026-10-31, 21:07:58](https://news.ycombinator.com/item?id=50320255) - [Anthropic takes steps to block Claude from reverse-engineering video games](https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering)
@@ -54,6 +55,7 @@
 * [2026-10-31, 08:02:26](https://news.ycombinator.com/item?id=50314085) - [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
 * [2026-10-31, 06:16:36](https://news.ycombinator.com/item?id=50313661) - [Digital Minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
 * [2026-10-31, 05:44:01](https://news.ycombinator.com/item?id=50313508) - [Tools Hacker News keeps asking for](https://stillunbuilt.shiptiffin.app/)
+* [2026-10-31, 03:54:00](https://news.ycombinator.com/item?id=50313051) - [First response from the Project Suncatcher prototype satellite](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/)
 * [2026-10-31, 03:22:44](https://news.ycombinator.com/item?id=50312922) - [OpenAI raises less than half of $30B target](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5)
 * [2026-10-31, 02:46:36](https://news.ycombinator.com/item?id=50312756) - [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
 * [2026-10-31, 02:42:02](https://news.ycombinator.com/item?id=50312739) - [Flock camera searches fell 95% after a dispatcher's misconduct was caught](https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e)
