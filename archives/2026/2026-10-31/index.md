@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 21:07:58](https://news.ycombinator.com/item?id=50320255) - [Anthropic takes steps to block Claude from reverse-engineering video games](https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering)
 * [2026-10-31, 20:56:12](https://news.ycombinator.com/item?id=50320137) - [Distributed Proofreaders](https://www.pgdp.net/c/)
 * [2026-10-31, 20:46:39](https://news.ycombinator.com/item?id=50320028) - [With 86% of the words, you might understand only 38% of an anime's lines](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood)
 * [2026-10-31, 20:43:41](https://news.ycombinator.com/item?id=50320003) - [Common Desktop Environment available now as open-source](https://sourceforge.net/projects/cdesktopenv/)
