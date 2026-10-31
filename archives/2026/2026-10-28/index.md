@@ -81,6 +81,7 @@
 * [2026-10-28, 05:34:16](https://news.ycombinator.com/item?id=50269668) - [Solving Postgres' Count Problem](https://www.paradedb.com/blog/opening-a-closed-tin-part-2)
 * [2026-10-28, 05:29:11](https://news.ycombinator.com/item?id=50269651) - [Artificial Analysis Intelligence Index v5.0](https://artificialanalysis.ai/methodology/intelligence-benchmarking)
 * [2026-10-28, 04:57:11](https://news.ycombinator.com/item?id=50269492) - [碁の国: Play Chess as Town Building](https://gonokuni.plpl.town/)
+* [2026-10-28, 03:31:07](https://news.ycombinator.com/item?id=50269045) - [Sneezecount (2018)](https://sneezecount.joyfeed.com)
 * [2026-10-28, 03:06:22](https://news.ycombinator.com/item?id=50268868) - [Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5)
 * [2026-10-28, 02:01:51](https://news.ycombinator.com/item?id=50268478) - [Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)](https://arxiv.org/abs/2610.36341)
 * [2026-10-28, 01:47:50](https://news.ycombinator.com/item?id=50268380) - [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code)

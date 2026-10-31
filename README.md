@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-31, 08:43:32](https://news.ycombinator.com/item?id=50314243) - [How long do you need to hold down the power button to turn off a PC?](https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/)
 * [2026-10-31, 08:02:26](https://news.ycombinator.com/item?id=50314085) - [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
 * [2026-10-31, 06:16:36](https://news.ycombinator.com/item?id=50313661) - [Digital Minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
 * [2026-10-31, 02:46:36](https://news.ycombinator.com/item?id=50312756) - [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
@@ -28,6 +27,7 @@
 * [2026-10-28, 16:30:38](https://news.ycombinator.com/item?id=50276355) - [Trapped in the Technologist Factory](https://ideolalia.com/essays/trapped-in-the-technologist-factory.html)
 * [2026-10-28, 15:04:12](https://news.ycombinator.com/item?id=50274885) - [Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death](https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397)
 * [2026-10-28, 12:24:25](https://news.ycombinator.com/item?id=50272479) - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
+* [2026-10-28, 03:31:07](https://news.ycombinator.com/item?id=50269045) - [Sneezecount (2018)](https://sneezecount.joyfeed.com)
 * [2026-10-27, 18:42:55](https://news.ycombinator.com/item?id=50263837) - [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
 * [2026-10-27, 15:24:36](https://news.ycombinator.com/item?id=50260753) - [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)
 
