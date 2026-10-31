@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-31, 22:41:06](https://news.ycombinator.com/item?id=50320963) - [An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
 * [2026-10-31, 20:56:12](https://news.ycombinator.com/item?id=50320137) - [Distributed Proofreaders](https://www.pgdp.net/c/)
 * [2026-10-31, 20:46:39](https://news.ycombinator.com/item?id=50320028) - [With 86% of the words, you might understand only 38% of an anime's lines](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood)
 * [2026-10-31, 20:02:06](https://news.ycombinator.com/item?id=50319563) - [Surviving \"The Graduate\"](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate)
@@ -26,7 +27,6 @@
 * [2026-10-30, 03:33:53](https://news.ycombinator.com/item?id=50299578) - [Rhind Mathematical Papyrus](https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus)
 * [2026-10-29, 22:24:56](https://news.ycombinator.com/item?id=50297068) - [Much Ado About None: Sentinel Values in Python](https://florianwilhelm.info/2026/10/sentinel_values/)
 * [2026-10-29, 18:33:40](https://news.ycombinator.com/item?id=50293806) - [Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference](https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/)
-* [2026-10-29, 15:29:48](https://news.ycombinator.com/item?id=50290652) - [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](https://thedataexchange.media/leo-de-moura-lean-aws/)
 * [2026-10-28, 14:27:12](https://news.ycombinator.com/item?id=50274186) - [Redox: Ring Buffers Project Summary](https://www.redox-os.org/news/nlnet-rb-summary/)
 * [2026-10-28, 09:38:07](https://news.ycombinator.com/item?id=50271052) - [Reading and writing are less symmetric than you (probably) think](https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/)
 * [2026-10-27, 16:01:06](https://news.ycombinator.com/item?id=50261253) - [Simple circuits can create complex behaviors](https://aatishb.com/myriad/lets-build-a-brain/)
