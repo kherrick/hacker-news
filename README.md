@@ -4,7 +4,7 @@
 * [2026-10-31, 18:02:29](https://news.ycombinator.com/item?id=50318401) - [The Impact of Generative AI on Critical Thinking](https://dl.acm.org/doi/full/10.1145/3706598.3713778)
 * [2026-10-31, 17:59:41](https://news.ycombinator.com/item?id=50318376) - [William Nordhaus, Nobel-winning climate economist, dies at 85](https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale)
 * [2026-10-31, 17:37:22](https://news.ycombinator.com/item?id=50318189) - [UK Green party drops longstanding opposition to nuclear power](https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy)
-* [2026-10-31, 17:21:16](https://news.ycombinator.com/item?id=50318063) - [Amazon sends chills through its workforce with mixed message memo about AI use](https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804)
+* [2026-10-31, 17:36:05](https://news.ycombinator.com/item?id=50318182) - [Hackers hijack Egypt highway billboard and Malaysian screens to show porn](https://www.cairoreport.org/p/egypt-brazil-iraq-billboard-hack)
 * [2026-10-31, 17:16:04](https://news.ycombinator.com/item?id=50318018) - [Copyright Office is restoring copyright to something you have to work to get](https://pluralistic.net/2026/10/31/burn-berne/#unvictored)
 * [2026-10-31, 16:24:24](https://news.ycombinator.com/item?id=50317548) - [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/)
 * [2026-10-31, 16:22:26](https://news.ycombinator.com/item?id=50317534) - [Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)
