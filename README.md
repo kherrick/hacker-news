@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-30, 23:51:24](https://news.ycombinator.com/item?id=50311686) - [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
+* [2026-10-30, 23:48:50](https://news.ycombinator.com/item?id=50311670) - [Be a Loser](https://makemeacto.cc/be-a-loser/)
 * [2026-10-30, 23:08:12](https://news.ycombinator.com/item?id=50311311) - [Anthropic to receive high 'junk' rating from credit agencies following IPO](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)
 * [2026-10-30, 21:57:40](https://news.ycombinator.com/item?id=50310687) - [Linode Security Incident](https://status.linode.com/incidents/nt58zhx3pmgm)
 * [2026-10-30, 21:30:00](https://news.ycombinator.com/item?id=50310398) - [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
@@ -29,7 +30,6 @@
 * [2026-10-28, 12:24:25](https://news.ycombinator.com/item?id=50272479) - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
 * [2026-10-27, 18:42:55](https://news.ycombinator.com/item?id=50263837) - [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
 * [2026-10-27, 13:00:04](https://news.ycombinator.com/item?id=50258496) - [Tree-mounted machines connect to web app to let users knock on wood remotely](https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/)
-* [2026-10-26, 21:14:43](https://news.ycombinator.com/item?id=50251070) - [Why a program doesn't work when run from a batch file, but works when clicked](https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/)
 
 ## [Archives](archives/index.md)
 
