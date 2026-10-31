@@ -2,12 +2,12 @@
 
 * [2026-10-31, 18:08:24](https://news.ycombinator.com/item?id=50318442) - [I post trained a model on Demoscenes](https://datavorous.com/writing/demoscener/)
 * [2026-10-31, 17:37:22](https://news.ycombinator.com/item?id=50318189) - [UK Green party drops longstanding opposition to nuclear power](https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy)
+* [2026-10-31, 17:16:04](https://news.ycombinator.com/item?id=50318018) - [Copyright Office is restoring copyright to something you have to work to get](https://pluralistic.net/2026/10/31/burn-berne/#unvictored)
 * [2026-10-31, 16:24:24](https://news.ycombinator.com/item?id=50317548) - [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/)
 * [2026-10-31, 16:22:26](https://news.ycombinator.com/item?id=50317534) - [Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)
 * [2026-10-31, 16:16:20](https://news.ycombinator.com/item?id=50317484) - [A/SIDE – Private photo sharing and encrypted messages](https://a-side.social/)
 * [2026-10-31, 16:09:55](https://news.ycombinator.com/item?id=50317429) - [What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)
 * [2026-10-31, 16:00:48](https://news.ycombinator.com/item?id=50317363) - [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
-* [2026-10-31, 15:56:41](https://news.ycombinator.com/item?id=50317331) - [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem)
 * [2026-10-31, 14:29:03](https://news.ycombinator.com/item?id=50316531) - [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
 * [2026-10-31, 13:39:52](https://news.ycombinator.com/item?id=50316100) - [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
 * [2026-10-31, 11:54:59](https://news.ycombinator.com/item?id=50315226) - [Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)
