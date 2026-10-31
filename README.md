@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-31, 12:32:10](https://news.ycombinator.com/item?id=50315574) - [Why Anthropic's Filing Crushed Tech Stocks](https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech)
+* [2026-10-31, 11:54:59](https://news.ycombinator.com/item?id=50315226) - [Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)
 * [2026-10-31, 11:02:14](https://news.ycombinator.com/item?id=50314872) - [Shiny Object Syndrome](https://en.wikipedia.org/wiki/Shiny_object_syndrome)
 * [2026-10-31, 10:30:11](https://news.ycombinator.com/item?id=50314699) - [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
 * [2026-10-31, 10:23:41](https://news.ycombinator.com/item?id=50314666) - [Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
@@ -11,7 +12,6 @@
 * [2026-10-30, 23:51:24](https://news.ycombinator.com/item?id=50311686) - [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
 * [2026-10-30, 19:55:10](https://news.ycombinator.com/item?id=50309314) - [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris)
 * [2026-10-30, 19:51:33](https://news.ycombinator.com/item?id=50309266) - [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
-* [2026-10-30, 19:30:09](https://news.ycombinator.com/item?id=50309029) - [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
 * [2026-10-30, 17:25:15](https://news.ycombinator.com/item?id=50307190) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 * [2026-10-30, 16:40:22](https://news.ycombinator.com/item?id=50306442) - [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)
 * [2026-10-30, 15:48:12](https://news.ycombinator.com/item?id=50305637) - [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium)
@@ -26,9 +26,9 @@
 * [2026-10-29, 13:53:33](https://news.ycombinator.com/item?id=50289081) - [Brief History of PDP Computers](https://entropicthoughts.com/history-of-pdp-computers)
 * [2026-10-28, 17:29:23](https://news.ycombinator.com/item?id=50277379) - [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
 * [2026-10-28, 16:48:23](https://news.ycombinator.com/item?id=50276613) - [Double Buffering with Cloudflare Queues](https://bellone.com/technical/double-buffering-with-cloudflare-queues)
-* [2026-10-28, 16:30:38](https://news.ycombinator.com/item?id=50276355) - [Trapped in the Technologist Factory](https://ideolalia.com/essays/trapped-in-the-technologist-factory.html)
 * [2026-10-28, 15:04:12](https://news.ycombinator.com/item?id=50274885) - [Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death](https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397)
 * [2026-10-27, 18:42:55](https://news.ycombinator.com/item?id=50263837) - [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
+* [2026-10-27, 16:01:06](https://news.ycombinator.com/item?id=50261253) - [Simple circuits can create complex behaviors](https://aatishb.com/myriad/lets-build-a-brain/)
 * [2026-10-27, 15:24:36](https://news.ycombinator.com/item?id=50260753) - [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)
 
 ## [Archives](archives/index.md)
