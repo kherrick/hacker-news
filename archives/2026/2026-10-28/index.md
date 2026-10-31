@@ -74,6 +74,7 @@
 * [2026-10-28, 10:41:27](https://news.ycombinator.com/item?id=50271457) - [Barcelona unrest: how to fabricate a protest in the age of TikTok](https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263)
 * [2026-10-28, 10:35:31](https://news.ycombinator.com/item?id=50271411) - [Opus 5.5 causing an identity crisis is real](https://www.kondz.io/blog/opus-5-5-causing-identity-crisis-is-real/)
 * [2026-10-28, 09:43:44](https://news.ycombinator.com/item?id=50271088) - [Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/)
+* [2026-10-28, 09:38:07](https://news.ycombinator.com/item?id=50271052) - [Reading and writing are less symmetric than you (probably) think](https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/)
 * [2026-10-28, 09:35:21](https://news.ycombinator.com/item?id=50271032) - [Spain train crash: 'At least 10 dead' in high-speed collision](https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l)
 * [2026-10-28, 08:48:21](https://news.ycombinator.com/item?id=50270764) - [Wealth Inequality in America drawn to scale](https://dreamagainusa.org/)
 * [2026-10-28, 08:29:55](https://news.ycombinator.com/item?id=50270651) - [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
