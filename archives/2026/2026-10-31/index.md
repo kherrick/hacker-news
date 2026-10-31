@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
 * [2026-10-31, 13:25:10](https://news.ycombinator.com/item?id=50315990) - [AI startup hacks Anthropic, gains access to employee details, internal messages](https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26)
+* [2026-10-31, 12:57:31](https://news.ycombinator.com/item?id=50315776) - [Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?](https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account)
 * [2026-10-31, 12:32:10](https://news.ycombinator.com/item?id=50315574) - [Why Anthropic's Filing Crushed Tech Stocks](https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech)
 * [2026-10-31, 11:54:59](https://news.ycombinator.com/item?id=50315226) - [Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)
 * [2026-10-31, 11:28:46](https://news.ycombinator.com/item?id=50315047) - [French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026)
