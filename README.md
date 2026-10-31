@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-31, 11:02:14](https://news.ycombinator.com/item?id=50314872) - [Shiny Object Syndrome](https://en.wikipedia.org/wiki/Shiny_object_syndrome)
 * [2026-10-31, 10:23:41](https://news.ycombinator.com/item?id=50314666) - [Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
 * [2026-10-31, 10:21:30](https://news.ycombinator.com/item?id=50314654) - [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
 * [2026-10-31, 08:43:32](https://news.ycombinator.com/item?id=50314243) - [How long do you need to hold down the power button to turn off a PC?](https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/)
@@ -25,7 +26,6 @@
 * [2026-10-29, 13:53:33](https://news.ycombinator.com/item?id=50289081) - [Brief History of PDP Computers](https://entropicthoughts.com/history-of-pdp-computers)
 * [2026-10-28, 17:29:23](https://news.ycombinator.com/item?id=50277379) - [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
 * [2026-10-28, 16:48:23](https://news.ycombinator.com/item?id=50276613) - [Double Buffering with Cloudflare Queues](https://bellone.com/technical/double-buffering-with-cloudflare-queues)
-* [2026-10-28, 16:30:38](https://news.ycombinator.com/item?id=50276355) - [Trapped in the Technologist Factory](https://ideolalia.com/essays/trapped-in-the-technologist-factory.html)
 * [2026-10-28, 15:04:12](https://news.ycombinator.com/item?id=50274885) - [Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death](https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397)
 * [2026-10-28, 03:31:07](https://news.ycombinator.com/item?id=50269045) - [Sneezecount (2018)](https://sneezecount.joyfeed.com)
 * [2026-10-27, 18:42:55](https://news.ycombinator.com/item?id=50263837) - [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
