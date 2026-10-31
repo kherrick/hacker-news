@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-10-30, 09:49:02",
-      "https://news.ycombinator.com/item?id=50301717"
-    ],
-    [
-      "How do you take a picture of a black hole?",
-      "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/"
-    ]
-  ],
-  [
-    [
       "2026-10-30, 07:09:12",
       "https://news.ycombinator.com/item?id=50300683"
     ],
@@ -257,6 +247,16 @@
     [
       "Cloudflare Turnstile solver library (no headless browser required)",
       "https://github.com/chris124567/cfsolve"
+    ]
+  ],
+  [
+    [
+      "2026-10-28, 16:48:23",
+      "https://news.ycombinator.com/item?id=50276613"
+    ],
+    [
+      "Double Buffering with Cloudflare Queues",
+      "https://bellone.com/technical/double-buffering-with-cloudflare-queues"
     ]
   ],
   [
