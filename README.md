@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-31, 14:00:12](https://news.ycombinator.com/item?id=50316275) - [MoneyPouch – self hosted expense tracker](https://demo.moneypouch.app/session/new)
 * [2026-10-31, 13:25:10](https://news.ycombinator.com/item?id=50315990) - [AI startup hacks Anthropic, gains access to employee details, internal messages](https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26)
 * [2026-10-31, 12:57:31](https://news.ycombinator.com/item?id=50315776) - [Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?](https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account)
-* [2026-10-31, 12:32:10](https://news.ycombinator.com/item?id=50315574) - [Why Anthropic's Filing Crushed Tech Stocks](https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech)
 * [2026-10-31, 11:54:59](https://news.ycombinator.com/item?id=50315226) - [Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)
 * [2026-10-31, 11:02:14](https://news.ycombinator.com/item?id=50314872) - [Shiny Object Syndrome](https://en.wikipedia.org/wiki/Shiny_object_syndrome)
 * [2026-10-31, 10:30:11](https://news.ycombinator.com/item?id=50314699) - [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
@@ -11,7 +11,7 @@
 * [2026-10-31, 08:02:26](https://news.ycombinator.com/item?id=50314085) - [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
 * [2026-10-31, 06:16:36](https://news.ycombinator.com/item?id=50313661) - [Digital Minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
 * [2026-10-31, 02:46:36](https://news.ycombinator.com/item?id=50312756) - [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
-* [2026-10-30, 19:55:10](https://news.ycombinator.com/item?id=50309314) - [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris)
+* [2026-10-30, 23:51:24](https://news.ycombinator.com/item?id=50311686) - [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
 * [2026-10-30, 19:51:33](https://news.ycombinator.com/item?id=50309266) - [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
 * [2026-10-30, 17:25:15](https://news.ycombinator.com/item?id=50307190) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 * [2026-10-30, 16:40:22](https://news.ycombinator.com/item?id=50306442) - [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)
