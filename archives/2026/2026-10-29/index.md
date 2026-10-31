@@ -56,6 +56,7 @@
 * [2026-10-29, 14:22:53](https://news.ycombinator.com/item?id=50289590) - [Keplearn: Extract Equations from Data in Seconds](https://github.com/owls-on-wires/keplearn)
 * [2026-10-29, 14:13:21](https://news.ycombinator.com/item?id=50289418) - [Mistral Large 4 (Le Chonk) is now Open Weight](https://mistral.ai/news/mistral-large-4-oss/)
 * [2026-10-29, 13:58:41](https://news.ycombinator.com/item?id=50289162) - [Why are good developers so wary of agentic development?](https://martinfowler.com/rachels-ramblings/good-devs-wary.html)
+* [2026-10-29, 13:53:33](https://news.ycombinator.com/item?id=50289081) - [Brief History of PDP Computers](https://entropicthoughts.com/history-of-pdp-computers)
 * [2026-10-29, 13:40:04](https://news.ycombinator.com/item?id=50288867) - [‘You Are Done’: The letter sent to King by the F.B.I (2014)](https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html)
 * [2026-10-29, 13:40:04](https://news.ycombinator.com/item?id=50288867) - [Read the letter the FBI sent MLK to try to convince him to kill himself (2014)](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)
 * [2026-10-29, 12:41:56](https://news.ycombinator.com/item?id=50288019) - [Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
