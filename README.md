@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-31, 03:22:44](https://news.ycombinator.com/item?id=50312922) - [OpenAI raises less than half of $30B target](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5)
 * [2026-10-31, 02:46:36](https://news.ycombinator.com/item?id=50312756) - [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
 * [2026-10-31, 02:42:02](https://news.ycombinator.com/item?id=50312739) - [Flock camera searches fell 95% after a dispatcher's misconduct was caught](https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e)
 * [2026-10-30, 23:51:24](https://news.ycombinator.com/item?id=50311686) - [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
 * [2026-10-30, 21:30:00](https://news.ycombinator.com/item?id=50310398) - [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
-* [2026-10-30, 21:17:23](https://news.ycombinator.com/item?id=50310258) - [AO3 Down for Maintenance](https://www.otwstatus.org)
 * [2026-10-30, 20:23:30](https://news.ycombinator.com/item?id=50309647) - [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
 * [2026-10-30, 19:55:10](https://news.ycombinator.com/item?id=50309314) - [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris)
 * [2026-10-30, 19:51:33](https://news.ycombinator.com/item?id=50309266) - [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
