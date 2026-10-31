@@ -79,6 +79,7 @@
 * [2026-10-30, 09:17:43](https://news.ycombinator.com/item?id=50301479) - [Ask HN: Are you tired too in this AI era?](https://news.ycombinator.com/item?id=50301479)
 * [2026-10-30, 09:14:34](https://news.ycombinator.com/item?id=50301462) - [elect.horse](https://elect.horse/)
 * [2026-10-30, 09:00:41](https://news.ycombinator.com/item?id=50301373) - [I Returned My iPhone Duo](https://codakuma.com/i-returned-my-duo/)
+* [2026-10-30, 08:30:03](https://news.ycombinator.com/item?id=50301178) - [5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet](https://oqtadrive.org/10.other/5-years/)
 * [2026-10-30, 07:48:40](https://news.ycombinator.com/item?id=50300902) - [Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)
 * [2026-10-30, 07:41:13](https://news.ycombinator.com/item?id=50300853) - ['Elite North Korean hackers' blamed for $6.3B Binance hack](https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates)
 * [2026-10-30, 07:09:12](https://news.ycombinator.com/item?id=50300683) - [Official Claude Code extension compromise](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
