@@ -4,7 +4,7 @@
 * [2026-10-31, 14:29:03](https://news.ycombinator.com/item?id=50316531) - [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
 * [2026-10-31, 11:54:59](https://news.ycombinator.com/item?id=50315226) - [Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)
 * [2026-10-31, 10:30:11](https://news.ycombinator.com/item?id=50314699) - [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
-* [2026-10-31, 10:23:41](https://news.ycombinator.com/item?id=50314666) - [Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
+* [2026-10-31, 10:23:41](https://news.ycombinator.com/item?id=50314666) - [Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
 * [2026-10-31, 10:21:30](https://news.ycombinator.com/item?id=50314654) - [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
 * [2026-10-31, 08:02:26](https://news.ycombinator.com/item?id=50314085) - [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
 * [2026-10-31, 06:16:36](https://news.ycombinator.com/item?id=50313661) - [Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
