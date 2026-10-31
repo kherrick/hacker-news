@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 16:24:24](https://news.ycombinator.com/item?id=50317548) - [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/)
 * [2026-10-31, 16:22:26](https://news.ycombinator.com/item?id=50317534) - [Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)
 * [2026-10-31, 16:16:20](https://news.ycombinator.com/item?id=50317484) - [A/SIDE – Private photo sharing and encrypted messages](https://a-side.social/)
 * [2026-10-31, 16:09:55](https://news.ycombinator.com/item?id=50317429) - [What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)

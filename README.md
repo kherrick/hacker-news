@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-31, 16:24:24](https://news.ycombinator.com/item?id=50317548) - [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/)
 * [2026-10-31, 16:22:26](https://news.ycombinator.com/item?id=50317534) - [Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)
 * [2026-10-31, 16:16:20](https://news.ycombinator.com/item?id=50317484) - [A/SIDE – Private photo sharing and encrypted messages](https://a-side.social/)
 * [2026-10-31, 16:09:55](https://news.ycombinator.com/item?id=50317429) - [What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)
@@ -22,7 +23,6 @@
 * [2026-10-30, 12:50:01](https://news.ycombinator.com/item?id=50303172) - [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
 * [2026-10-30, 07:48:40](https://news.ycombinator.com/item?id=50300902) - [Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)
 * [2026-10-30, 07:09:12](https://news.ycombinator.com/item?id=50300683) - [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
-* [2026-10-30, 05:24:51](https://news.ycombinator.com/item?id=50300151) - [Keeping the Bonfires Lit](https://www.historytoday.com/archive/out-margins/keeping-bonfires-lit)
 * [2026-10-29, 21:56:31](https://news.ycombinator.com/item?id=50296700) - [Hunting 'Zombie Accounts' in Active Directory](https://www.fabian.fyi/2026/10/zombie-hunt.html)
 * [2026-10-29, 15:29:48](https://news.ycombinator.com/item?id=50290652) - [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](https://thedataexchange.media/leo-de-moura-lean-aws/)
 * [2026-10-28, 17:29:23](https://news.ycombinator.com/item?id=50277379) - [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
