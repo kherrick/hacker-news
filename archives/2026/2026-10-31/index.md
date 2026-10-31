@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 19:07:36](https://news.ycombinator.com/item?id=50319061) - [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
+* [2026-10-31, 18:50:34](https://news.ycombinator.com/item?id=50318871) - [GPT-5.6 Sol can beat Factorio on peaceful mode](https://ryanmadden.net/gpt-56-beats-factorio/)
+* [2026-10-31, 18:45:22](https://news.ycombinator.com/item?id=50318812) - [Shaun Thomas: Burnt Toast](https://www.pgedge.com/blog/burnt-toast)
+* [2026-10-31, 18:38:16](https://news.ycombinator.com/item?id=50318720) - [It's the Memory Latency, Stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/)
 * [2026-10-31, 18:08:24](https://news.ycombinator.com/item?id=50318442) - [I post trained a model on Demoscenes](https://datavorous.com/writing/demoscener/)
 * [2026-10-31, 18:03:03](https://news.ycombinator.com/item?id=50318407) - [A City Canceled Flock's Contract. Flock Ignored It. Police Chief Unplugged Them](https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras)
 * [2026-10-31, 18:02:29](https://news.ycombinator.com/item?id=50318401) - [The Impact of Generative AI on Critical Thinking](https://dl.acm.org/doi/full/10.1145/3706598.3713778)
