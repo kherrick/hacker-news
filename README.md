@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-31, 16:22:26](https://news.ycombinator.com/item?id=50317534) - [Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)
+* [2026-10-31, 16:16:20](https://news.ycombinator.com/item?id=50317484) - [A/SIDE – Private photo sharing and encrypted messages](https://a-side.social/)
 * [2026-10-31, 16:09:55](https://news.ycombinator.com/item?id=50317429) - [What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)
 * [2026-10-31, 16:00:48](https://news.ycombinator.com/item?id=50317363) - [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
 * [2026-10-31, 14:57:33](https://news.ycombinator.com/item?id=50316760) - [Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'](https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/)
@@ -16,7 +17,6 @@
 * [2026-10-30, 17:25:15](https://news.ycombinator.com/item?id=50307190) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 * [2026-10-30, 16:40:22](https://news.ycombinator.com/item?id=50306442) - [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)
 * [2026-10-30, 15:48:12](https://news.ycombinator.com/item?id=50305637) - [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium)
-* [2026-10-30, 15:44:29](https://news.ycombinator.com/item?id=50305573) - [The federated code forge](https://tangled.org/blog/forge/)
 * [2026-10-30, 15:10:31](https://news.ycombinator.com/item?id=50305025) - [Northflank Breached](https://status.northflank.com)
 * [2026-10-30, 14:08:20](https://news.ycombinator.com/item?id=50304122) - [Cisco gives engineer unlimited AI tokens to rewrite legacy code](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/)
 * [2026-10-30, 12:50:01](https://news.ycombinator.com/item?id=50303172) - [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
