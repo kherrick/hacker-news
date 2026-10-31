@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 19:18:48](https://news.ycombinator.com/item?id=50319169) - [Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)](https://epoyraz.github.io/nes-contra-us/)
 * [2026-10-31, 19:16:30](https://news.ycombinator.com/item?id=50319143) - [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
 * [2026-10-31, 19:07:36](https://news.ycombinator.com/item?id=50319061) - [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
 * [2026-10-31, 18:50:34](https://news.ycombinator.com/item?id=50318871) - [GPT-5.6 Sol can beat Factorio on peaceful mode](https://ryanmadden.net/gpt-56-beats-factorio/)
