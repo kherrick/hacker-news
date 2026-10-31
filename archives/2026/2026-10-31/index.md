@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 20:43:41](https://news.ycombinator.com/item?id=50320003) - [Common Desktop Environment available now as open-source](https://sourceforge.net/projects/cdesktopenv/)
 * [2026-10-31, 20:32:17](https://news.ycombinator.com/item?id=50319873) - [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/)
 * [2026-10-31, 19:56:53](https://news.ycombinator.com/item?id=50319510) - [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
 * [2026-10-31, 19:18:48](https://news.ycombinator.com/item?id=50319169) - [Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)](https://epoyraz.github.io/nes-contra-us/)
