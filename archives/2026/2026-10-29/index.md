@@ -52,6 +52,7 @@
 * [2026-10-29, 14:57:55](https://news.ycombinator.com/item?id=50290177) - [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)
 * [2026-10-29, 14:57:41](https://news.ycombinator.com/item?id=50290170) - [Finland investigate Google over destruction of 250k trees](https://yle.fi/a/74-20254086)
 * [2026-10-29, 14:50:17](https://news.ycombinator.com/item?id=50290042) - [React.lazy, Suspense and the Hidden 300 ms Delay](https://tabwidgets.com/blog/react-lazy-suspense-delay)
+* [2026-10-29, 14:47:34](https://news.ycombinator.com/item?id=50289991) - [Configure a UPS on Linux with NUT](https://linuxjunkies.org/guides/configure-a-ups-with-nut)
 * [2026-10-29, 14:40:43](https://news.ycombinator.com/item?id=50289859) - [DoorDash is acquiring Instacart for $17B](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)
 * [2026-10-29, 14:22:53](https://news.ycombinator.com/item?id=50289590) - [Keplearn: Extract Equations from Data in Seconds](https://github.com/owls-on-wires/keplearn)
 * [2026-10-29, 14:13:21](https://news.ycombinator.com/item?id=50289418) - [Mistral Large 4 (Le Chonk) is now Open Weight](https://mistral.ai/news/mistral-large-4-oss/)
