@@ -2,7 +2,6 @@
 
 * [2026-10-31, 20:56:12](https://news.ycombinator.com/item?id=50320137) - [Distributed Proofreaders](https://www.pgdp.net/c/)
 * [2026-10-31, 20:46:39](https://news.ycombinator.com/item?id=50320028) - [With 86% of the words, you might understand only 38% of an anime's lines](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood)
-* [2026-10-31, 20:43:41](https://news.ycombinator.com/item?id=50320003) - [Common Desktop Environment available now as open-source](https://sourceforge.net/projects/cdesktopenv/)
 * [2026-10-31, 20:02:06](https://news.ycombinator.com/item?id=50319563) - [Surviving \"The Graduate\"](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate)
 * [2026-10-31, 19:56:53](https://news.ycombinator.com/item?id=50319510) - [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
 * [2026-10-31, 19:39:19](https://news.ycombinator.com/item?id=50319358) - [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088)
@@ -13,6 +12,7 @@
 * [2026-10-31, 18:38:16](https://news.ycombinator.com/item?id=50318720) - [It's the Memory Latency, Stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/)
 * [2026-10-31, 18:08:24](https://news.ycombinator.com/item?id=50318442) - [I post trained a model on Demoscenes](https://datavorous.com/writing/demoscener/)
 * [2026-10-31, 17:59:41](https://news.ycombinator.com/item?id=50318376) - [William Nordhaus has died](https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale)
+* [2026-10-31, 16:00:48](https://news.ycombinator.com/item?id=50317363) - [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
 * [2026-10-31, 15:56:41](https://news.ycombinator.com/item?id=50317331) - [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem)
 * [2026-10-31, 14:29:03](https://news.ycombinator.com/item?id=50316531) - [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
 * [2026-10-31, 13:39:52](https://news.ycombinator.com/item?id=50316100) - [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
