@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-31, 18:03:03](https://news.ycombinator.com/item?id=50318407) - [A City Canceled Flock's Contract. Flock Ignored It. Police Chief Unplugged Them](https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras)
 * [2026-10-31, 17:37:22](https://news.ycombinator.com/item?id=50318189) - [UK Green party drops longstanding opposition to nuclear power](https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy)
 * [2026-10-31, 16:24:24](https://news.ycombinator.com/item?id=50317548) - [Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/)
 * [2026-10-31, 16:22:26](https://news.ycombinator.com/item?id=50317534) - [Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)
@@ -18,6 +17,7 @@
 * [2026-10-31, 02:46:36](https://news.ycombinator.com/item?id=50312756) - [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
 * [2026-10-30, 19:51:33](https://news.ycombinator.com/item?id=50309266) - [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
 * [2026-10-30, 17:25:15](https://news.ycombinator.com/item?id=50307190) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+* [2026-10-30, 15:48:12](https://news.ycombinator.com/item?id=50305637) - [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium)
 * [2026-10-30, 15:10:31](https://news.ycombinator.com/item?id=50305025) - [Northflank Breached](https://status.northflank.com)
 * [2026-10-30, 14:08:20](https://news.ycombinator.com/item?id=50304122) - [Cisco gives engineer unlimited AI tokens to rewrite legacy code](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/)
 * [2026-10-30, 12:50:01](https://news.ycombinator.com/item?id=50303172) - [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
