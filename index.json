@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-10-31, 19:07:36",
+      "https://news.ycombinator.com/item?id=50319061"
+    ],
+    [
+      "The Duty of a Scholar",
+      "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html"
+    ]
+  ],
+  [
+    [
+      "2026-10-31, 18:50:34",
+      "https://news.ycombinator.com/item?id=50318871"
+    ],
+    [
+      "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "https://ryanmadden.net/gpt-56-beats-factorio/"
+    ]
+  ],
+  [
+    [
+      "2026-10-31, 18:45:22",
+      "https://news.ycombinator.com/item?id=50318812"
+    ],
+    [
+      "Shaun Thomas: Burnt Toast",
+      "https://www.pgedge.com/blog/burnt-toast"
+    ]
+  ],
+  [
+    [
+      "2026-10-31, 18:38:16",
+      "https://news.ycombinator.com/item?id=50318720"
+    ],
+    [
+      "It's the Memory Latency, Stupid",
+      "https://pivotlake.io/blog/its-the-memory-latency-stupid/"
+    ]
+  ],
+  [
+    [
       "2026-10-31, 18:08:24",
       "https://news.ycombinator.com/item?id=50318442"
     ],
@@ -71,26 +111,6 @@
   ],
   [
     [
-      "2026-10-31, 16:22:26",
-      "https://news.ycombinator.com/item?id=50317534"
-    ],
-    [
-      "Enlightenment 0.28 Released with Many Improvements",
-      "https://www.phoronix.com/news/Enlightenment-0.28"
-    ]
-  ],
-  [
-    [
-      "2026-10-31, 16:16:20",
-      "https://news.ycombinator.com/item?id=50317484"
-    ],
-    [
-      "A/SIDE – Private photo sharing and encrypted messages",
-      "https://a-side.social/"
-    ]
-  ],
-  [
-    [
       "2026-10-31, 16:09:55",
       "https://news.ycombinator.com/item?id=50317429"
     ],
@@ -127,16 +147,6 @@
     [
       "Jepsen: ParticleDB 1.1.4",
       "https://jepsen.io/analyses/particledb-1.1.4"
-    ]
-  ],
-  [
-    [
-      "2026-10-31, 11:54:59",
-      "https://news.ycombinator.com/item?id=50315226"
-    ],
-    [
-      "Prospero: A new coding harness for a more civilized age",
-      "https://nullprogram.com/blog/2026/10/31/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
       "https://thedataexchange.media/leo-de-moura-lean-aws/"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 17:29:23",
-      "https://news.ycombinator.com/item?id=50277379"
-    ],
-    [
-      "Cloudflare Turnstile solver library (no headless browser required)",
-      "https://github.com/chris124567/cfsolve"
     ]
   ],
   [
