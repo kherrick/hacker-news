@@ -21,7 +21,6 @@
 * [2026-10-29, 21:58:34](https://news.ycombinator.com/item?id=50296730) - [Building an AI-native engineering org](https://twitter.com/sgondala2/status/2115832070274723875)
 * [2026-10-29, 18:10:33](https://news.ycombinator.com/item?id=50293437) - [Turning a solar power system into its own backup](https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/)
 * [2026-10-29, 14:47:34](https://news.ycombinator.com/item?id=50289991) - [Configure a UPS on Linux with NUT](https://linuxjunkies.org/guides/configure-a-ups-with-nut)
-* [2026-10-29, 14:13:21](https://news.ycombinator.com/item?id=50289418) - [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
 * [2026-10-29, 13:53:33](https://news.ycombinator.com/item?id=50289081) - [Brief History of PDP Computers](https://entropicthoughts.com/history-of-pdp-computers)
 * [2026-10-28, 17:29:23](https://news.ycombinator.com/item?id=50277379) - [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
 * [2026-10-28, 16:48:23](https://news.ycombinator.com/item?id=50276613) - [Double Buffering with Cloudflare Queues](https://bellone.com/technical/double-buffering-with-cloudflare-queues)
@@ -29,6 +28,7 @@
 * [2026-10-28, 15:04:12](https://news.ycombinator.com/item?id=50274885) - [Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death](https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397)
 * [2026-10-28, 12:24:25](https://news.ycombinator.com/item?id=50272479) - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
 * [2026-10-27, 18:42:55](https://news.ycombinator.com/item?id=50263837) - [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
+* [2026-10-27, 13:06:34](https://news.ycombinator.com/item?id=50258605) - [Show HN: Samosa – Linter for Math Derivations](https://samosa-math.vercel.app)
 * [2026-10-27, 13:00:04](https://news.ycombinator.com/item?id=50258496) - [Tree-mounted machines connect to web app to let users knock on wood remotely](https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/)
 
 ## [Archives](archives/index.md)
