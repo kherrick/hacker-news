@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 23:08:12](https://news.ycombinator.com/item?id=50321130) - [When Electric Cars Were for Women](https://spectrum.ieee.org/early-electric-vehicles)
 * [2026-10-31, 22:41:06](https://news.ycombinator.com/item?id=50320963) - [An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+* [2026-10-31, 21:40:18](https://news.ycombinator.com/item?id=50320513) - [Spooky C++](https://www.nablag.com/spooky_cpp)
 * [2026-10-31, 21:07:58](https://news.ycombinator.com/item?id=50320255) - [Anthropic takes steps to block Claude from reverse-engineering video games](https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering)
 * [2026-10-31, 20:56:12](https://news.ycombinator.com/item?id=50320137) - [Distributed Proofreaders](https://www.pgdp.net/c/)
 * [2026-10-31, 20:46:39](https://news.ycombinator.com/item?id=50320028) - [With 86% of the words, you might understand only 38% of an anime's lines](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood)
