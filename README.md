@@ -2,6 +2,7 @@
 
 * [2026-10-31, 20:43:41](https://news.ycombinator.com/item?id=50320003) - [Common Desktop Environment available now as open-source](https://sourceforge.net/projects/cdesktopenv/)
 * [2026-10-31, 19:56:53](https://news.ycombinator.com/item?id=50319510) - [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+* [2026-10-31, 19:39:19](https://news.ycombinator.com/item?id=50319358) - [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088)
 * [2026-10-31, 19:18:48](https://news.ycombinator.com/item?id=50319169) - [Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)](https://epoyraz.github.io/nes-contra-us/)
 * [2026-10-31, 19:16:30](https://news.ycombinator.com/item?id=50319143) - [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
 * [2026-10-31, 19:07:36](https://news.ycombinator.com/item?id=50319061) - [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
@@ -10,7 +11,6 @@
 * [2026-10-31, 18:08:24](https://news.ycombinator.com/item?id=50318442) - [I post trained a model on Demoscenes](https://datavorous.com/writing/demoscener/)
 * [2026-10-31, 18:02:29](https://news.ycombinator.com/item?id=50318401) - [The Impact of Generative AI on Critical Thinking: Self-Reported (2025)](https://dl.acm.org/doi/full/10.1145/3706598.3713778)
 * [2026-10-31, 17:59:41](https://news.ycombinator.com/item?id=50318376) - [William Nordhaus has died](https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale)
-* [2026-10-31, 16:09:55](https://news.ycombinator.com/item?id=50317429) - [What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)
 * [2026-10-31, 16:00:48](https://news.ycombinator.com/item?id=50317363) - [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
 * [2026-10-31, 15:56:41](https://news.ycombinator.com/item?id=50317331) - [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem)
 * [2026-10-31, 14:29:03](https://news.ycombinator.com/item?id=50316531) - [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
