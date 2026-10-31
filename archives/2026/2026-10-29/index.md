@@ -42,6 +42,7 @@
 * [2026-10-29, 16:42:17](https://news.ycombinator.com/item?id=50291945) - [For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
 * [2026-10-29, 16:41:11](https://news.ycombinator.com/item?id=50291927) - [Toxic Experts](https://nedbatchelder.com/blog/201711/toxic_experts)
 * [2026-10-29, 16:36:14](https://news.ycombinator.com/item?id=50291830) - [Are Stochastic Parrots Alive?](https://stefano.petrilli.xyz/are-stochastic-parrots-alive/)
+* [2026-10-29, 16:35:14](https://news.ycombinator.com/item?id=50291812) - [Show HN: I rebuilt Kubernetes for ESP32 microcontrollers](https://github.com/arterialist/kube32)
 * [2026-10-29, 16:14:28](https://news.ycombinator.com/item?id=50291421) - [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
 * [2026-10-29, 15:56:32](https://news.ycombinator.com/item?id=50291116) - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
 * [2026-10-29, 15:53:03](https://news.ycombinator.com/item?id=50291054) - [H.264 Is Magic](https://sidbala.com/h-264-is-magic/)
