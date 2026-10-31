@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-10-31, 08:02:26",
+      "https://news.ycombinator.com/item?id=50314085"
+    ],
+    [
+      "Switch Lowering in GCC",
+      "https://xoranth.net/gcc-switch/"
+    ]
+  ],
+  [
+    [
       "2026-10-31, 02:46:36",
       "https://news.ycombinator.com/item?id=50312756"
     ],
@@ -187,16 +197,6 @@
     [
       "Turning a solar power system into its own backup",
       "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/"
-    ]
-  ],
-  [
-    [
-      "2026-10-29, 14:47:34",
-      "https://news.ycombinator.com/item?id=50289991"
-    ],
-    [
-      "Configure a UPS on Linux with NUT",
-      "https://linuxjunkies.org/guides/configure-a-ups-with-nut"
     ]
   ],
   [
