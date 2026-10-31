@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-10-31, 20:56:12",
+      "https://news.ycombinator.com/item?id=50320137"
+    ],
+    [
+      "Distributed Proofreaders",
+      "https://www.pgdp.net/c/"
+    ]
+  ],
+  [
+    [
+      "2026-10-31, 20:46:39",
+      "https://news.ycombinator.com/item?id=50320028"
+    ],
+    [
+      "With 86% of the words, you might understand only 38% of an anime's lines",
+      "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood"
+    ]
+  ],
+  [
+    [
       "2026-10-31, 20:43:41",
       "https://news.ycombinator.com/item?id=50320003"
     ],
     [
       "Common Desktop Environment available now as open-source",
       "https://sourceforge.net/projects/cdesktopenv/"
+    ]
+  ],
+  [
+    [
+      "2026-10-31, 20:02:06",
+      "https://news.ycombinator.com/item?id=50319563"
+    ],
+    [
+      "Surviving \"The Graduate\"",
+      "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate"
     ]
   ],
   [
@@ -91,32 +121,12 @@
   ],
   [
     [
-      "2026-10-31, 18:02:29",
-      "https://news.ycombinator.com/item?id=50318401"
-    ],
-    [
-      "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "https://dl.acm.org/doi/full/10.1145/3706598.3713778"
-    ]
-  ],
-  [
-    [
       "2026-10-31, 17:59:41",
       "https://news.ycombinator.com/item?id=50318376"
     ],
     [
       "William Nordhaus has died",
       "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale"
-    ]
-  ],
-  [
-    [
-      "2026-10-31, 16:00:48",
-      "https://news.ycombinator.com/item?id=50317363"
-    ],
-    [
-      "Casio Watches of the 1980s",
-      "https://www.casio.com/us/watches/50th/Heritage/1980s/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Simple circuits can create complex behaviors",
       "https://aatishb.com/myriad/lets-build-a-brain/"
-    ]
-  ],
-  [
-    [
-      "2026-10-27, 15:24:36",
-      "https://news.ycombinator.com/item?id=50260753"
-    ],
-    [
-      "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-      "https://zebra.rodeo/en/blog/marelleo/"
     ]
   ]
 ]
