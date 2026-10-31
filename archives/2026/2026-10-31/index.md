@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 20:32:17](https://news.ycombinator.com/item?id=50319873) - [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/)
 * [2026-10-31, 19:56:53](https://news.ycombinator.com/item?id=50319510) - [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
 * [2026-10-31, 19:18:48](https://news.ycombinator.com/item?id=50319169) - [Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)](https://epoyraz.github.io/nes-contra-us/)
 * [2026-10-31, 19:16:30](https://news.ycombinator.com/item?id=50319143) - [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
