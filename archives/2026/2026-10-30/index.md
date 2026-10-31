@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-30](index.md)
 
+* [2026-10-30, 23:51:24](https://news.ycombinator.com/item?id=50311686) - [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
 * [2026-10-30, 23:33:55](https://news.ycombinator.com/item?id=50311537) - [Fair Use Benefits Everyone](https://openai.com/index/fair-use-benefits-everyone/)
 * [2026-10-30, 23:16:06](https://news.ycombinator.com/item?id=50311373) - [The United Kingdom is committing an act of strategic self harm](https://blog.rodmena.com/entry/event_horizon_machine_standards)
 * [2026-10-30, 23:12:02](https://news.ycombinator.com/item?id=50311339) - [Federal Bureau of Prisons employees serve as election monitors at polling sites](https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says)
