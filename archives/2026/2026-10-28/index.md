@@ -35,6 +35,7 @@
 * [2026-10-28, 17:07:09](https://news.ycombinator.com/item?id=50276883) - [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
 * [2026-10-28, 17:01:23](https://news.ycombinator.com/item?id=50276792) - [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
 * [2026-10-28, 17:00:24](https://news.ycombinator.com/item?id=50276779) - [Converge (YC S23) Is Hiring a Founding Platform Engineer](https://www.runconverge.com/careers/founding-platform-engineer)
+* [2026-10-28, 16:48:23](https://news.ycombinator.com/item?id=50276613) - [Double Buffering with Cloudflare Queues](https://bellone.com/technical/double-buffering-with-cloudflare-queues)
 * [2026-10-28, 16:30:38](https://news.ycombinator.com/item?id=50276355) - [Trapped in the Technologist Factory](https://ideolalia.com/essays/trapped-in-the-technologist-factory.html)
 * [2026-10-28, 16:02:07](https://news.ycombinator.com/item?id=50275890) - [Billionaires Spend 0.07% of Their Wealth to Avoid a 5% Tax](https://dsrupt.news/articles/billionaires-spend-0-07-of-their-wealth-to-avoid-a-5-tax-call-seventy-fold/)
 * [2026-10-28, 16:01:53](https://news.ycombinator.com/item?id=50275887) - [Meta censored the No Kings Instagram account during a nationwide campaign](https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram)
