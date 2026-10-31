@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-31, 01:06:23](https://news.ycombinator.com/item?id=50312221) - [Do At-Proto Users Know This Is Public?](https://melaniekat.com/blog/public-on-pds/)
 * [2026-10-30, 23:51:24](https://news.ycombinator.com/item?id=50311686) - [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
 * [2026-10-30, 21:57:40](https://news.ycombinator.com/item?id=50310687) - [Linode Security Incident](https://status.linode.com/incidents/nt58zhx3pmgm)
 * [2026-10-30, 21:30:00](https://news.ycombinator.com/item?id=50310398) - [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
@@ -16,6 +15,7 @@
 * [2026-10-30, 15:52:18](https://news.ycombinator.com/item?id=50305693) - [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
 * [2026-10-30, 15:48:12](https://news.ycombinator.com/item?id=50305637) - [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium)
 * [2026-10-30, 15:44:29](https://news.ycombinator.com/item?id=50305573) - [The federated code forge](https://tangled.org/blog/forge/)
+* [2026-10-30, 15:23:11](https://news.ycombinator.com/item?id=50305218) - [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru)
 * [2026-10-30, 15:10:31](https://news.ycombinator.com/item?id=50305025) - [Northflank Breached](https://status.northflank.com)
 * [2026-10-30, 14:08:20](https://news.ycombinator.com/item?id=50304122) - [Cisco gives engineer unlimited AI tokens to rewrite legacy code](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/)
 * [2026-10-30, 12:50:01](https://news.ycombinator.com/item?id=50303172) - [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
