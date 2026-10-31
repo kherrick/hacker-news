@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-31, 05:44:01](https://news.ycombinator.com/item?id=50313508) - [Tools Hacker News keeps asking for](https://stillunbuilt.shiptiffin.app/)
 * [2026-10-31, 03:22:44](https://news.ycombinator.com/item?id=50312922) - [OpenAI raises less than half of $30B target](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5)
 * [2026-10-31, 02:46:36](https://news.ycombinator.com/item?id=50312756) - [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
 * [2026-10-31, 02:42:02](https://news.ycombinator.com/item?id=50312739) - [Flock camera searches fell 95% after a dispatcher's misconduct was caught](https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e)
@@ -11,7 +12,6 @@
 * [2026-10-30, 19:30:09](https://news.ycombinator.com/item?id=50309029) - [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
 * [2026-10-30, 17:25:15](https://news.ycombinator.com/item?id=50307190) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 * [2026-10-30, 16:40:22](https://news.ycombinator.com/item?id=50306442) - [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)
-* [2026-10-30, 15:52:18](https://news.ycombinator.com/item?id=50305693) - [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
 * [2026-10-30, 15:48:12](https://news.ycombinator.com/item?id=50305637) - [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium)
 * [2026-10-30, 15:44:29](https://news.ycombinator.com/item?id=50305573) - [The federated code forge](https://tangled.org/blog/forge/)
 * [2026-10-30, 15:10:31](https://news.ycombinator.com/item?id=50305025) - [Northflank Breached](https://status.northflank.com)
