@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-31, 23:40:50](https://news.ycombinator.com/item?id=50321351) - [Inverse Zitron: An Investment Strategy](https://chalmovsky.com/posts/inverse-zitron)
 * [2026-10-31, 23:08:12](https://news.ycombinator.com/item?id=50321130) - [When Electric Cars Were for Women](https://spectrum.ieee.org/early-electric-vehicles)
 * [2026-10-31, 22:46:12](https://news.ycombinator.com/item?id=50320995) - [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
-* [2026-10-31, 22:41:06](https://news.ycombinator.com/item?id=50320963) - [An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+* [2026-10-31, 22:41:06](https://news.ycombinator.com/item?id=50320963) - [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
 * [2026-10-31, 20:56:12](https://news.ycombinator.com/item?id=50320137) - [Distributed Proofreaders](https://www.pgdp.net/c/)
 * [2026-10-31, 20:46:39](https://news.ycombinator.com/item?id=50320028) - [With 86% of the words, you might understand only 38% of an anime's lines](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood)
 * [2026-10-31, 20:02:06](https://news.ycombinator.com/item?id=50319563) - [Surviving \"The Graduate\"](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate)
@@ -13,6 +12,7 @@
 * [2026-10-31, 19:16:30](https://news.ycombinator.com/item?id=50319143) - [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
 * [2026-10-31, 19:07:36](https://news.ycombinator.com/item?id=50319061) - [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
 * [2026-10-31, 18:38:16](https://news.ycombinator.com/item?id=50318720) - [It's the Memory Latency, Stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/)
+* [2026-10-31, 18:08:24](https://news.ycombinator.com/item?id=50318442) - [I post trained a model on Demoscenes](https://datavorous.com/writing/demoscener/)
 * [2026-10-31, 17:59:41](https://news.ycombinator.com/item?id=50318376) - [William Nordhaus has died](https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale)
 * [2026-10-31, 13:39:52](https://news.ycombinator.com/item?id=50316100) - [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
 * [2026-10-31, 12:58:29](https://news.ycombinator.com/item?id=50315782) - [Show HN: A language model that lives in a boot sector](https://github.com/kerlenton/bootgpt)
