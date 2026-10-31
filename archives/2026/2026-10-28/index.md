@@ -45,6 +45,7 @@
 * [2026-10-28, 15:24:11](https://news.ycombinator.com/item?id=50275235) - [Amazon rainforest cut down to build highway for COP climate summit (2025)](https://www.bbc.com/news/articles/c9vy191rgn1o)
 * [2026-10-28, 15:17:53](https://news.ycombinator.com/item?id=50275128) - [Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)
 * [2026-10-28, 15:04:30](https://news.ycombinator.com/item?id=50274893) - [Newly discovered Kerberos delegation abuse path](https://hunio.org/security/abusing-constrained-delegation-without-protocol-transition-against-spn-less-accounts/)
+* [2026-10-28, 15:04:12](https://news.ycombinator.com/item?id=50274885) - [Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death](https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397)
 * [2026-10-28, 14:54:07](https://news.ycombinator.com/item?id=50274706) - [Tesla Semi catches fire on I-880](https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/)
 * [2026-10-28, 14:45:58](https://news.ycombinator.com/item?id=50274547) - [Keep the changelog, avoid the conflicts](https://devenv.sh/blog/2026/10/28/keep-the-changelog-avoid-the-conflicts/)
 * [2026-10-28, 14:38:22](https://news.ycombinator.com/item?id=50274409) - [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
