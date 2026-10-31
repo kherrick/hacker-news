@@ -36,6 +36,7 @@
 * [2026-10-29, 17:43:48](https://news.ycombinator.com/item?id=50293047) - [Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang](https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/)
 * [2026-10-29, 17:42:30](https://news.ycombinator.com/item?id=50293025) - [AI Contributions to GHC](https://serokell.io/blog/ai-contributions-to-ghc)
 * [2026-10-29, 17:42:22](https://news.ycombinator.com/item?id=50293023) - [After 28 years walking across the globe, he's almost home](https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html)
+* [2026-10-29, 17:35:57](https://news.ycombinator.com/item?id=50292931) - [What's on That Access Port?](https://danielmangum.com/posts/whats-on-that-access-port/)
 * [2026-10-29, 17:31:01](https://news.ycombinator.com/item?id=50292825) - [Thursday: A SerenityOS for Myself](https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself)
 * [2026-10-29, 17:24:25](https://news.ycombinator.com/item?id=50292727) - [Duet is the future of chatbot interaction](https://fig.blue/posts/duet-is-the-future/)
 * [2026-10-29, 16:56:54](https://news.ycombinator.com/item?id=50292233) - [Tomas Mikolov (creator of Word2Vec) receives the Medal of Merit](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468)
