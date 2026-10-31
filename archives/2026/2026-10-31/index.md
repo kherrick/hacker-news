@@ -12,6 +12,7 @@
 * [2026-10-31, 14:29:03](https://news.ycombinator.com/item?id=50316531) - [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
 * [2026-10-31, 14:00:12](https://news.ycombinator.com/item?id=50316275) - [MoneyPouch – self hosted expense tracker](https://demo.moneypouch.app/session/new)
 * [2026-10-31, 13:39:57](https://news.ycombinator.com/item?id=50316103) - [Retired professor arrested for blocking delivery robot. Will do it again](https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec)
+* [2026-10-31, 13:39:52](https://news.ycombinator.com/item?id=50316100) - [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4)
 * [2026-10-31, 13:25:10](https://news.ycombinator.com/item?id=50315990) - [AI startup hacks Anthropic, gains access to employee details, internal messages](https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26)
 * [2026-10-31, 12:57:31](https://news.ycombinator.com/item?id=50315776) - [Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?](https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account)
 * [2026-10-31, 12:32:10](https://news.ycombinator.com/item?id=50315574) - [Why Anthropic's Filing Crushed Tech Stocks](https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech)
