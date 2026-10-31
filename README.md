@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-31, 08:02:26](https://news.ycombinator.com/item?id=50314085) - [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
 * [2026-10-31, 02:46:36](https://news.ycombinator.com/item?id=50312756) - [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
 * [2026-10-30, 23:51:24](https://news.ycombinator.com/item?id=50311686) - [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
 * [2026-10-30, 21:30:00](https://news.ycombinator.com/item?id=50310398) - [Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
@@ -19,7 +20,6 @@
 * [2026-10-30, 07:09:12](https://news.ycombinator.com/item?id=50300683) - [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
 * [2026-10-29, 21:58:34](https://news.ycombinator.com/item?id=50296730) - [Building an AI-native engineering org](https://twitter.com/sgondala2/status/2115832070274723875)
 * [2026-10-29, 18:10:33](https://news.ycombinator.com/item?id=50293437) - [Turning a solar power system into its own backup](https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/)
-* [2026-10-29, 14:47:34](https://news.ycombinator.com/item?id=50289991) - [Configure a UPS on Linux with NUT](https://linuxjunkies.org/guides/configure-a-ups-with-nut)
 * [2026-10-29, 13:53:33](https://news.ycombinator.com/item?id=50289081) - [Brief History of PDP Computers](https://entropicthoughts.com/history-of-pdp-computers)
 * [2026-10-28, 17:29:23](https://news.ycombinator.com/item?id=50277379) - [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
 * [2026-10-28, 16:48:23](https://news.ycombinator.com/item?id=50276613) - [Double Buffering with Cloudflare Queues](https://bellone.com/technical/double-buffering-with-cloudflare-queues)
