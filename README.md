@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-10-31, 05:44:01](https://news.ycombinator.com/item?id=50313508) - [Tools Hacker News keeps asking for](https://stillunbuilt.shiptiffin.app/)
 * [2026-10-31, 02:46:36](https://news.ycombinator.com/item?id=50312756) - [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
 * [2026-10-30, 23:51:24](https://news.ycombinator.com/item?id=50311686) - [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
 * [2026-10-30, 21:30:00](https://news.ycombinator.com/item?id=50310398) - [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
@@ -23,6 +22,7 @@
 * [2026-10-29, 18:10:33](https://news.ycombinator.com/item?id=50293437) - [Turning a solar power system into its own backup](https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/)
 * [2026-10-29, 14:47:34](https://news.ycombinator.com/item?id=50289991) - [Configure a UPS on Linux with NUT](https://linuxjunkies.org/guides/configure-a-ups-with-nut)
 * [2026-10-29, 13:53:33](https://news.ycombinator.com/item?id=50289081) - [Brief History of PDP Computers](https://entropicthoughts.com/history-of-pdp-computers)
+* [2026-10-28, 17:34:59](https://news.ycombinator.com/item?id=50277518) - [Wonderful Weather: Floods and Foreboding in 17th-Century Britain](https://publicdomainreview.org/essay/wonderful-weather/)
 * [2026-10-28, 17:29:23](https://news.ycombinator.com/item?id=50277379) - [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
 * [2026-10-28, 16:48:23](https://news.ycombinator.com/item?id=50276613) - [Double Buffering with Cloudflare Queues](https://bellone.com/technical/double-buffering-with-cloudflare-queues)
 * [2026-10-28, 16:30:38](https://news.ycombinator.com/item?id=50276355) - [Trapped in the Technologist Factory](https://ideolalia.com/essays/trapped-in-the-technologist-factory.html)
