@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2026-10-30, 15:52:18",
-      "https://news.ycombinator.com/item?id=50305693"
-    ],
-    [
-      "AI isn't replacing SREs, it's deskilling them",
-      "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
-    ]
-  ],
-  [
-    [
       "2026-10-30, 15:48:12",
       "https://news.ycombinator.com/item?id=50305637"
     ],
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2026-10-30, 09:49:02",
-      "https://news.ycombinator.com/item?id=50301717"
-    ],
-    [
-      "How do you take a picture of a black hole?",
-      "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/"
-    ]
-  ],
-  [
-    [
       "2026-10-30, 07:09:12",
       "https://news.ycombinator.com/item?id=50300683"
     ],
@@ -197,6 +177,16 @@
     [
       "Turning a solar power system into its own backup",
       "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/"
+    ]
+  ],
+  [
+    [
+      "2026-10-29, 16:35:14",
+      "https://news.ycombinator.com/item?id=50291812"
+    ],
+    [
+      "Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
+      "https://github.com/arterialist/kube32"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Breaking the open web won't stop the bad bots",
       "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/"
+    ]
+  ],
+  [
+    [
+      "2026-10-27, 15:24:36",
+      "https://news.ycombinator.com/item?id=50260753"
+    ],
+    [
+      "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "https://zebra.rodeo/en/blog/marelleo/"
     ]
   ],
   [
