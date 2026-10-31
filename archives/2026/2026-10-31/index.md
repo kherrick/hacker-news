@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 23:40:50](https://news.ycombinator.com/item?id=50321351) - [Inverse Zitron: An Investment Strategy](https://chalmovsky.com/posts/inverse-zitron)
 * [2026-10-31, 23:08:12](https://news.ycombinator.com/item?id=50321130) - [When Electric Cars Were for Women](https://spectrum.ieee.org/early-electric-vehicles)
 * [2026-10-31, 22:46:12](https://news.ycombinator.com/item?id=50320995) - [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
 * [2026-10-31, 22:41:06](https://news.ycombinator.com/item?id=50320963) - [An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
