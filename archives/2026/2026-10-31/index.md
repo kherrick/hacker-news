@@ -11,6 +11,7 @@
 * [2026-10-31, 16:16:20](https://news.ycombinator.com/item?id=50317484) - [A/SIDE – Private photo sharing and encrypted messages](https://a-side.social/)
 * [2026-10-31, 16:09:55](https://news.ycombinator.com/item?id=50317429) - [What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)
 * [2026-10-31, 16:00:48](https://news.ycombinator.com/item?id=50317363) - [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
+* [2026-10-31, 15:56:41](https://news.ycombinator.com/item?id=50317331) - [Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem)
 * [2026-10-31, 14:57:33](https://news.ycombinator.com/item?id=50316760) - [Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'](https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/)
 * [2026-10-31, 14:29:03](https://news.ycombinator.com/item?id=50316531) - [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
 * [2026-10-31, 14:00:12](https://news.ycombinator.com/item?id=50316275) - [MoneyPouch – self hosted expense tracker](https://demo.moneypouch.app/session/new)
