@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-10-31, 14:57:33](https://news.ycombinator.com/item?id=50316760) - [Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'](https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/)
+* [2026-10-31, 14:29:03](https://news.ycombinator.com/item?id=50316531) - [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
 * [2026-10-31, 11:54:59](https://news.ycombinator.com/item?id=50315226) - [Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)
 * [2026-10-31, 10:30:11](https://news.ycombinator.com/item?id=50314699) - [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
 * [2026-10-31, 10:23:41](https://news.ycombinator.com/item?id=50314666) - [Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
@@ -24,7 +25,6 @@
 * [2026-10-29, 21:56:31](https://news.ycombinator.com/item?id=50296700) - [Hunting 'Zombie Accounts' in Active Directory](https://www.fabian.fyi/2026/10/zombie-hunt.html)
 * [2026-10-29, 15:29:48](https://news.ycombinator.com/item?id=50290652) - [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](https://thedataexchange.media/leo-de-moura-lean-aws/)
 * [2026-10-28, 17:29:23](https://news.ycombinator.com/item?id=50277379) - [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
-* [2026-10-28, 16:30:38](https://news.ycombinator.com/item?id=50276355) - [Trapped in the Technologist Factory](https://ideolalia.com/essays/trapped-in-the-technologist-factory.html)
 * [2026-10-28, 15:04:12](https://news.ycombinator.com/item?id=50274885) - [Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death](https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397)
 * [2026-10-28, 09:38:07](https://news.ycombinator.com/item?id=50271052) - [Reading and writing are less symmetric than you (probably) think](https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/)
 * [2026-10-27, 18:42:55](https://news.ycombinator.com/item?id=50263837) - [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
