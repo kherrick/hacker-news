@@ -11,7 +11,6 @@
 * [2026-10-30, 19:30:09](https://news.ycombinator.com/item?id=50309029) - [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
 * [2026-10-30, 19:26:39](https://news.ycombinator.com/item?id=50308986) - [A Pickpocket's Guide to New York](https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york)
 * [2026-10-30, 19:05:22](https://news.ycombinator.com/item?id=50308697) - [Bunny CDN Security Incident](https://status.bunny.net/incidents/p6gf1by9kr7m)
-* [2026-10-30, 17:57:35](https://news.ycombinator.com/item?id=50307723) - [GitHub Incident with Actions, Pages, and Webhooks](https://www.githubstatus.com/incidents/pwxsjgnvrk6b)
 * [2026-10-30, 17:25:15](https://news.ycombinator.com/item?id=50307190) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 * [2026-10-30, 16:40:22](https://news.ycombinator.com/item?id=50306442) - [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)
 * [2026-10-30, 15:52:18](https://news.ycombinator.com/item?id=50305693) - [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
@@ -30,6 +29,7 @@
 * [2026-10-28, 12:24:25](https://news.ycombinator.com/item?id=50272479) - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
 * [2026-10-27, 18:42:55](https://news.ycombinator.com/item?id=50263837) - [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
 * [2026-10-27, 13:00:04](https://news.ycombinator.com/item?id=50258496) - [Tree-mounted machines connect to web app to let users knock on wood remotely](https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/)
+* [2026-10-26, 21:14:43](https://news.ycombinator.com/item?id=50251070) - [Why a program doesn't work when run from a batch file, but works when clicked](https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/)
 
 ## [Archives](archives/index.md)
 
