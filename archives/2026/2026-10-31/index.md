@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 16:00:48](https://news.ycombinator.com/item?id=50317363) - [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)
 * [2026-10-31, 14:57:33](https://news.ycombinator.com/item?id=50316760) - [Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'](https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/)
 * [2026-10-31, 14:29:03](https://news.ycombinator.com/item?id=50316531) - [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
 * [2026-10-31, 14:00:12](https://news.ycombinator.com/item?id=50316275) - [MoneyPouch – self hosted expense tracker](https://demo.moneypouch.app/session/new)
