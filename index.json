@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2026-10-30, 09:49:02",
+      "https://news.ycombinator.com/item?id=50301717"
+    ],
+    [
+      "How do you take a picture of a black hole?",
+      "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/"
+    ]
+  ],
+  [
+    [
       "2026-10-30, 07:09:12",
       "https://news.ycombinator.com/item?id=50300683"
     ],
@@ -177,16 +187,6 @@
     [
       "Turning a solar power system into its own backup",
       "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/"
-    ]
-  ],
-  [
-    [
-      "2026-10-29, 16:35:14",
-      "https://news.ycombinator.com/item?id=50291812"
-    ],
-    [
-      "Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
-      "https://github.com/arterialist/kube32"
     ]
   ],
   [
