@@ -48,6 +48,7 @@
 * [2026-10-29, 15:53:03](https://news.ycombinator.com/item?id=50291054) - [H.264 Is Magic](https://sidbala.com/h-264-is-magic/)
 * [2026-10-29, 15:45:05](https://news.ycombinator.com/item?id=50290912) - [Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler)
 * [2026-10-29, 15:30:22](https://news.ycombinator.com/item?id=50290668) - [Mexico is a showroom for electric vehicles you can't buy in the U.S.](https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/)
+* [2026-10-29, 15:29:48](https://news.ycombinator.com/item?id=50290652) - [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](https://thedataexchange.media/leo-de-moura-lean-aws/)
 * [2026-10-29, 15:06:17](https://news.ycombinator.com/item?id=50290283) - [Only 40% of AI-cited statistics trace back to a study](https://trakkr.ai/trakkr-research/zombie-stats)
 * [2026-10-29, 14:57:55](https://news.ycombinator.com/item?id=50290177) - [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)
 * [2026-10-29, 14:57:41](https://news.ycombinator.com/item?id=50290170) - [Finland investigate Google over destruction of 250k trees](https://yle.fi/a/74-20254086)
