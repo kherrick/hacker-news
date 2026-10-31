@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
+* [2026-10-31, 14:57:33](https://news.ycombinator.com/item?id=50316760) - [Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'](https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/)
 * [2026-10-31, 14:00:12](https://news.ycombinator.com/item?id=50316275) - [MoneyPouch – self hosted expense tracker](https://demo.moneypouch.app/session/new)
 * [2026-10-31, 13:39:57](https://news.ycombinator.com/item?id=50316103) - [Retired professor arrested for blocking delivery robot. Will do it again](https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec)
 * [2026-10-31, 13:25:10](https://news.ycombinator.com/item?id=50315990) - [AI startup hacks Anthropic, gains access to employee details, internal messages](https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26)

@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-31, 14:57:33](https://news.ycombinator.com/item?id=50316760) - [Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'](https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/)
 * [2026-10-31, 13:39:57](https://news.ycombinator.com/item?id=50316103) - [Retired professor arrested for blocking delivery robot. Will do it again](https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec)
-* [2026-10-31, 12:57:31](https://news.ycombinator.com/item?id=50315776) - [Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?](https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account)
 * [2026-10-31, 11:54:59](https://news.ycombinator.com/item?id=50315226) - [Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)
 * [2026-10-31, 10:30:11](https://news.ycombinator.com/item?id=50314699) - [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
 * [2026-10-31, 10:23:41](https://news.ycombinator.com/item?id=50314666) - [Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
