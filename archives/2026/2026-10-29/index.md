@@ -29,6 +29,7 @@
 * [2026-10-29, 19:25:48](https://news.ycombinator.com/item?id=50294486) - [IgE disruptor for food allergy with Claude-enabled antibody design[pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
 * [2026-10-29, 19:24:36](https://news.ycombinator.com/item?id=50294473) - [Show HN: Typebook.lol read books by typing the letters only](https://typebook.lol/)
 * [2026-10-29, 18:40:09](https://news.ycombinator.com/item?id=50293879) - [Utah charges Kalshi and its CEO with illegally promoting online gambling](https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges)
+* [2026-10-29, 18:33:40](https://news.ycombinator.com/item?id=50293806) - [Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference](https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/)
 * [2026-10-29, 18:17:06](https://news.ycombinator.com/item?id=50293546) - [Archive Of Our Own down for maintenance for 2 to 4 weeks](https://www.otwstatus.org/incidents/g12jnxck9g6h)
 * [2026-10-29, 18:10:33](https://news.ycombinator.com/item?id=50293437) - [Turning a solar power system into its own backup](https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/)
 * [2026-10-29, 18:06:22](https://news.ycombinator.com/item?id=50293361) - [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo)
