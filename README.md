@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-10-31, 19:56:53](https://news.ycombinator.com/item?id=50319510) - [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
 * [2026-10-31, 19:18:48](https://news.ycombinator.com/item?id=50319169) - [Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)](https://epoyraz.github.io/nes-contra-us/)
 * [2026-10-31, 19:16:30](https://news.ycombinator.com/item?id=50319143) - [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
 * [2026-10-31, 19:07:36](https://news.ycombinator.com/item?id=50319061) - [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
@@ -21,7 +22,6 @@
 * [2026-10-31, 10:21:30](https://news.ycombinator.com/item?id=50314654) - [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
 * [2026-10-31, 08:02:26](https://news.ycombinator.com/item?id=50314085) - [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
 * [2026-10-31, 06:16:36](https://news.ycombinator.com/item?id=50313661) - [Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
-* [2026-10-30, 17:25:15](https://news.ycombinator.com/item?id=50307190) - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 * [2026-10-30, 07:48:40](https://news.ycombinator.com/item?id=50300902) - [Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)
 * [2026-10-29, 22:24:56](https://news.ycombinator.com/item?id=50297068) - [Much Ado About None: Sentinel Values in Python](https://florianwilhelm.info/2026/10/sentinel_values/)
 * [2026-10-29, 18:33:40](https://news.ycombinator.com/item?id=50293806) - [Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference](https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/)
