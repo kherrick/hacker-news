@@ -22,6 +22,7 @@
 * [2026-10-31, 19:39:19](https://news.ycombinator.com/item?id=50319358) - [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088)
 * [2026-10-31, 19:18:48](https://news.ycombinator.com/item?id=50319169) - [Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)](https://epoyraz.github.io/nes-contra-us/)
 * [2026-10-31, 19:16:30](https://news.ycombinator.com/item?id=50319143) - [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
+* [2026-10-31, 19:13:34](https://news.ycombinator.com/item?id=50319110) - [Electrification Could Cut Global Energy Use in Half](https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/)
 * [2026-10-31, 19:07:36](https://news.ycombinator.com/item?id=50319061) - [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
 * [2026-10-31, 18:50:34](https://news.ycombinator.com/item?id=50318871) - [GPT-5.6 Sol can beat Factorio on peaceful mode](https://ryanmadden.net/gpt-56-beats-factorio/)
 * [2026-10-31, 18:45:22](https://news.ycombinator.com/item?id=50318812) - [Shaun Thomas: Burnt Toast](https://www.pgedge.com/blog/burnt-toast)
