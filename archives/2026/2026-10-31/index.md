@@ -65,6 +65,7 @@
 * [2026-10-31, 08:02:26](https://news.ycombinator.com/item?id=50314085) - [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
 * [2026-10-31, 06:16:36](https://news.ycombinator.com/item?id=50313661) - [Digital Minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
 * [2026-10-31, 05:44:01](https://news.ycombinator.com/item?id=50313508) - [Tools Hacker News keeps asking for](https://stillunbuilt.shiptiffin.app/)
+* [2026-10-31, 04:31:06](https://news.ycombinator.com/item?id=50313227) - [Parchment Paper History: How We Got Paper Perfect for Baking (2019)](https://tedium.co/2019/11/21/nonstick-parchment-paper-history/)
 * [2026-10-31, 03:54:00](https://news.ycombinator.com/item?id=50313051) - [First response from the Project Suncatcher prototype satellite](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/)
 * [2026-10-31, 03:22:44](https://news.ycombinator.com/item?id=50312922) - [OpenAI raises less than half of $30B target](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5)
 * [2026-10-31, 02:46:36](https://news.ycombinator.com/item?id=50312756) - [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)

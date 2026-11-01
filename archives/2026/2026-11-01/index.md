@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-11-01](index.md)
 
+* [2026-11-01, 18:53:55](https://news.ycombinator.com/item?id=50328488) - [It wasn't AI that flipped Proton's charge](https://blog.raed.dev/posts/proton-loser-thinking/)
+* [2026-11-01, 18:53:46](https://news.ycombinator.com/item?id=50328487) - [Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare](https://nurse.org/news/uber-for-nursing-gig-apps-report/)
+* [2026-11-01, 18:51:29](https://news.ycombinator.com/item?id=50328462) - [US Jobs Pickup May Keep Fed on Track to Hike Rates Again](https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again)
+* [2026-11-01, 18:28:42](https://news.ycombinator.com/item?id=50328251) - [Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
+* [2026-11-01, 17:28:16](https://news.ycombinator.com/item?id=50327650) - [Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism)
+* [2026-11-01, 16:46:33](https://news.ycombinator.com/item?id=50327266) - [Frontier Airlines Likely Breached](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)
+* [2026-11-01, 16:23:26](https://news.ycombinator.com/item?id=50327058) - [Seoul Viosys begins production of rare-earth-free white light emitter](https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml)
 * [2026-11-01, 16:23:26](https://news.ycombinator.com/item?id=50327058) - [Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs](https://www.ajupress.com/view/20261028171670308)
 * [2026-11-01, 15:58:28](https://news.ycombinator.com/item?id=50326821) - [Show HN: HackerBooks – HackerTube, but for books recommended on HN](https://hackerbooks.org)
 * [2026-11-01, 15:45:10](https://news.ycombinator.com/item?id=50326727) - [Anthropic's Mythos-class model allegedly leaked on Hugging Face](https://news.ycombinator.com/item?id=50326727)
