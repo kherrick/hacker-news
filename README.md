@@ -7,7 +7,6 @@
 * [2026-10-31, 22:46:12](https://news.ycombinator.com/item?id=50320995) - [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
 * [2026-10-31, 22:41:06](https://news.ycombinator.com/item?id=50320963) - [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
 * [2026-10-31, 21:50:13](https://news.ycombinator.com/item?id=50320599) - [AI text watermarking and quality loss](https://blog.keyvan.net/p/ai-text-watermarking-and-quality)
-* [2026-10-31, 20:46:39](https://news.ycombinator.com/item?id=50320028) - [With 86% of the words, you might understand only 38% of an anime's lines](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood)
 * [2026-10-31, 20:02:06](https://news.ycombinator.com/item?id=50319563) - [Surviving \"The Graduate\"](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate)
 * [2026-10-31, 19:56:53](https://news.ycombinator.com/item?id=50319510) - [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
 * [2026-10-31, 19:39:19](https://news.ycombinator.com/item?id=50319358) - [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088)
@@ -28,6 +27,7 @@
 * [2026-10-30, 11:50:24](https://news.ycombinator.com/item?id=50302686) - [Decode kernel panic from QR Code photo](https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546)
 * [2026-10-30, 09:49:40](https://news.ycombinator.com/item?id=50301723) - [Sculpture re-creates odd optical effects of famed Lycurgus Cup](https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/)
 * [2026-10-29, 22:24:56](https://news.ycombinator.com/item?id=50297068) - [Much Ado About None: Sentinel Values in Python](https://florianwilhelm.info/2026/10/sentinel_values/)
+* [2026-10-29, 05:10:00](https://news.ycombinator.com/item?id=50284789) - [Edgar Allan Poe, Quintessential American Writer](https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html)
 * [2026-10-28, 09:38:07](https://news.ycombinator.com/item?id=50271052) - [Reading and writing are less symmetric than you (probably) think](https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/)
 * [2026-10-27, 16:01:06](https://news.ycombinator.com/item?id=50261253) - [Simple circuits can create complex behaviors](https://aatishb.com/myriad/lets-build-a-brain/)
 
