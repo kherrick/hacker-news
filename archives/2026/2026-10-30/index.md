@@ -56,6 +56,7 @@
 * [2026-10-30, 15:23:11](https://news.ycombinator.com/item?id=50305218) - [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/games/q5ucru)
 * [2026-10-30, 15:23:11](https://news.ycombinator.com/item?id=50305218) - [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/)
 * [2026-10-30, 15:10:31](https://news.ycombinator.com/item?id=50305025) - [Northflank Breached](https://status.northflank.com)
+* [2026-10-30, 14:46:16](https://news.ycombinator.com/item?id=50304718) - [A 1580 Map Shows Why Data Visualization Is Never Neutral](https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/)
 * [2026-10-30, 14:35:01](https://news.ycombinator.com/item?id=50304520) - [Another Friday, another GitHub incident](https://www.githubstatus.com/incidents/nxy2l0ssxm10)
 * [2026-10-30, 14:27:44](https://news.ycombinator.com/item?id=50304419) - [Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It](https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no)
 * [2026-10-30, 14:22:52](https://news.ycombinator.com/item?id=50304358) - [Anthropic Cracking Down on Video Game Rewrites](https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968)
