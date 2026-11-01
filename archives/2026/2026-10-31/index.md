@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-10-31](index.md)
 
 * [2026-10-31, 23:55:21](https://news.ycombinator.com/item?id=50321436) - [Constructing a Quine from Kleene's Second Recursion Theorem](https://emarzion.github.io/KSRT/)
+* [2026-10-31, 23:43:29](https://news.ycombinator.com/item?id=50321373) - [Work Requirements for Trick-or-Treaters](https://morewrong.lol/?post=work-requirements-trick-or-treaters)
 * [2026-10-31, 23:40:50](https://news.ycombinator.com/item?id=50321351) - [Inverse Zitron: An Investment Strategy](https://chalmovsky.com/posts/inverse-zitron)
 * [2026-10-31, 23:08:12](https://news.ycombinator.com/item?id=50321130) - [When Electric Cars Were for Women](https://spectrum.ieee.org/early-electric-vehicles)
 * [2026-10-31, 22:54:55](https://news.ycombinator.com/item?id=50321048) - [Altoids Project](https://uvdn7.github.io/altoids-project/)
