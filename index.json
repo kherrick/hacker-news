@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-11-01, 02:15:59",
-      "https://news.ycombinator.com/item?id=50322155"
+      "2026-11-01, 09:15:26",
+      "https://news.ycombinator.com/item?id=50323848"
     ],
     [
-      "Hermantown approves controversial Google Data Center during late night meeting",
-      "https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting"
+      "OpenIDEA: The IDE you know, rebuilt in Rust",
+      "https://github.com/l0ng-ai/openidea"
+    ]
+  ],
+  [
+    [
+      "2026-11-01, 06:29:49",
+      "https://news.ycombinator.com/item?id=50323187"
+    ],
+    [
+      "Pac-Man's Siren Call",
+      "https://unsung.aresluna.org/pac-mans-siren-call/"
+    ]
+  ],
+  [
+    [
+      "2026-11-01, 06:06:19",
+      "https://news.ycombinator.com/item?id=50323088"
+    ],
+    [
+      "The AI cost of JavaScript frameworks",
+      "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
+    ]
+  ],
+  [
+    [
+      "2026-11-01, 02:19:53",
+      "https://news.ycombinator.com/item?id=50322173"
+    ],
+    [
+      "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/"
+    ]
+  ],
+  [
+    [
+      "2026-11-01, 01:46:29",
+      "https://news.ycombinator.com/item?id=50322022"
+    ],
+    [
+      "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "https://arxiv.org/abs/2409.02292"
     ]
   ],
   [
@@ -17,26 +57,6 @@
     [
       "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
       "https://bbrouter.com/bbrouter/ben-eater-sap-1"
-    ]
-  ],
-  [
-    [
-      "2026-10-31, 23:55:21",
-      "https://news.ycombinator.com/item?id=50321436"
-    ],
-    [
-      "Constructing a Quine from Kleene's Second Recursion Theorem",
-      "https://emarzion.github.io/KSRT/"
-    ]
-  ],
-  [
-    [
-      "2026-10-31, 23:08:12",
-      "https://news.ycombinator.com/item?id=50321130"
-    ],
-    [
-      "When electric cars were for women",
-      "https://spectrum.ieee.org/early-electric-vehicles"
     ]
   ],
   [
@@ -71,12 +91,12 @@
   ],
   [
     [
-      "2026-10-31, 21:50:13",
-      "https://news.ycombinator.com/item?id=50320599"
+      "2026-10-31, 21:49:07",
+      "https://news.ycombinator.com/item?id=50320588"
     ],
     [
-      "AI text watermarking and quality loss",
-      "https://blog.keyvan.net/p/ai-text-watermarking-and-quality"
+      "ChatGPT and Codex usage limits merging",
+      "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Anthropic blocks users for anything touching training larger models",
       "https://twitter.com/jiahaoshao1/status/2116475922190922088"
-    ]
-  ],
-  [
-    [
-      "2026-10-31, 19:18:48",
-      "https://news.ycombinator.com/item?id=50319169"
-    ],
-    [
-      "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-      "https://epoyraz.github.io/nes-contra-us/"
     ]
   ],
   [
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2026-10-31, 17:59:41",
-      "https://news.ycombinator.com/item?id=50318376"
-    ],
-    [
-      "William Nordhaus has died",
-      "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale"
-    ]
-  ],
-  [
-    [
       "2026-10-31, 13:39:52",
       "https://news.ycombinator.com/item?id=50316100"
     ],
     [
       "Jepsen: ParticleDB 1.1.4",
       "https://jepsen.io/analyses/particledb-1.1.4"
-    ]
-  ],
-  [
-    [
-      "2026-10-31, 12:58:29",
-      "https://news.ycombinator.com/item?id=50315782"
-    ],
-    [
-      "Show HN: A language model that lives in a boot sector",
-      "https://github.com/kerlenton/bootgpt"
     ]
   ],
   [
@@ -201,22 +191,32 @@
   ],
   [
     [
-      "2026-10-31, 10:21:30",
-      "https://news.ycombinator.com/item?id=50314654"
-    ],
-    [
-      "Serbia just elected the world's brainiest parliament",
-      "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament"
-    ]
-  ],
-  [
-    [
       "2026-10-30, 22:41:03",
       "https://news.ycombinator.com/item?id=50311045"
     ],
     [
       "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
       "https://maketecheasier.com/arecibo-zinc-creep-collapse/"
+    ]
+  ],
+  [
+    [
+      "2026-10-30, 20:55:56",
+      "https://news.ycombinator.com/item?id=50310038"
+    ],
+    [
+      "Understanding Email Encryption",
+      "https://www.fastmail.com/blog/email-encryption/"
+    ]
+  ],
+  [
+    [
+      "2026-10-30, 19:52:56",
+      "https://news.ycombinator.com/item?id=50309279"
+    ],
+    [
+      "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+      "http://thales.mit.edu/bush/index.php/4801-2/"
     ]
   ],
   [
@@ -231,42 +231,42 @@
   ],
   [
     [
-      "2026-10-30, 11:50:24",
-      "https://news.ycombinator.com/item?id=50302686"
+      "2026-10-30, 13:58:42",
+      "https://news.ycombinator.com/item?id=50303984"
     ],
     [
-      "Decode kernel panic from QR Code photo",
-      "https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546"
+      "Running a bootstrapped SaaS for 20 years with my brother",
+      "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/"
     ]
   ],
   [
     [
-      "2026-10-30, 09:49:40",
-      "https://news.ycombinator.com/item?id=50301723"
+      "2026-10-29, 15:22:41",
+      "https://news.ycombinator.com/item?id=50290533"
     ],
     [
-      "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-      "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/"
+      "Show HN: Point your camera at a landscape to learn about its geology",
+      "https://outcrop.rocks/"
     ]
   ],
   [
     [
-      "2026-10-29, 22:24:56",
-      "https://news.ycombinator.com/item?id=50297068"
+      "2026-10-29, 15:20:04",
+      "https://news.ycombinator.com/item?id=50290480"
     ],
     [
-      "Much Ado About None: Sentinel Values in Python",
-      "https://florianwilhelm.info/2026/10/sentinel_values/"
+      "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+      "https://www.youtube.com/watch?v=gQRmSlcTq9c"
     ]
   ],
   [
     [
-      "2026-10-29, 15:29:48",
-      "https://news.ycombinator.com/item?id=50290652"
+      "2026-10-29, 14:30:25",
+      "https://news.ycombinator.com/item?id=50289711"
     ],
     [
-      "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-      "https://thedataexchange.media/leo-de-moura-lean-aws/"
+      "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
+      "https://dl.acm.org/doi/10.1145/857076.857077"
     ]
   ],
   [
