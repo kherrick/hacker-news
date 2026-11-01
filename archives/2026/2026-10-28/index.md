@@ -19,6 +19,7 @@
 * [2026-10-28, 20:46:52](https://news.ycombinator.com/item?id=50280662) - [Leak website releases data on DHS employees](https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/)
 * [2026-10-28, 20:11:55](https://news.ycombinator.com/item?id=50280197) - [Alphabet Announces Third Quarter 2026 Results [pdf]](https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf)
 * [2026-10-28, 20:10:16](https://news.ycombinator.com/item?id=50280178) - [Google AI gets cagey when asked who won the 2020 elections](https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/)
+* [2026-10-28, 20:06:27](https://news.ycombinator.com/item?id=50280131) - [Radiation Map of the World](https://radiaverse.com/)
 * [2026-10-28, 19:15:07](https://news.ycombinator.com/item?id=50279308) - [Rising rates of colorectal cancer found in nearly all age groups](https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer)
 * [2026-10-28, 18:49:17](https://news.ycombinator.com/item?id=50278970) - [At least 68 killed in Spanish high-speed train crash](https://www.bbc.com/news/live/cv1j309d4g98t)
 * [2026-10-28, 18:34:51](https://news.ycombinator.com/item?id=50278754) - [Big Tech's thirst for water is sparking a global resistance](https://restofworld.org/2026/ai-datacenters-water-resistance-global/)
