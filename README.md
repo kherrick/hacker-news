@@ -26,8 +26,8 @@
 * [2026-10-30, 22:41:03](https://news.ycombinator.com/item?id=50311045) - [Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020](https://maketecheasier.com/arecibo-zinc-creep-collapse/)
 * [2026-10-30, 11:50:24](https://news.ycombinator.com/item?id=50302686) - [Decode kernel panic from QR Code photo](https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546)
 * [2026-10-30, 09:49:40](https://news.ycombinator.com/item?id=50301723) - [Sculpture re-creates odd optical effects of famed Lycurgus Cup](https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/)
+* [2026-10-30, 03:33:53](https://news.ycombinator.com/item?id=50299578) - [Rhind Mathematical Papyrus](https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus)
 * [2026-10-29, 22:24:56](https://news.ycombinator.com/item?id=50297068) - [Much Ado About None: Sentinel Values in Python](https://florianwilhelm.info/2026/10/sentinel_values/)
-* [2026-10-28, 14:27:12](https://news.ycombinator.com/item?id=50274186) - [Redox: Ring Buffers Project Summary](https://www.redox-os.org/news/nlnet-rb-summary/)
 * [2026-10-28, 09:38:07](https://news.ycombinator.com/item?id=50271052) - [Reading and writing are less symmetric than you (probably) think](https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/)
 * [2026-10-27, 16:01:06](https://news.ycombinator.com/item?id=50261253) - [Simple circuits can create complex behaviors](https://aatishb.com/myriad/lets-build-a-brain/)
 
