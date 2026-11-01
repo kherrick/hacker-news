@@ -2,7 +2,6 @@
 
 * [2026-11-01, 00:10:30](https://news.ycombinator.com/item?id=50321522) - [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1)
 * [2026-10-31, 23:55:21](https://news.ycombinator.com/item?id=50321436) - [Constructing a Quine from Kleene's Second Recursion Theorem](https://emarzion.github.io/KSRT/)
-* [2026-10-31, 23:43:29](https://news.ycombinator.com/item?id=50321373) - [Work Requirements for Trick-or-Treaters](https://morewrong.lol/?post=work-requirements-trick-or-treaters)
 * [2026-10-31, 23:08:12](https://news.ycombinator.com/item?id=50321130) - [When electric cars were for women](https://spectrum.ieee.org/early-electric-vehicles)
 * [2026-10-31, 22:54:55](https://news.ycombinator.com/item?id=50321048) - [Altoids Project](https://uvdn7.github.io/altoids-project/)
 * [2026-10-31, 22:46:12](https://news.ycombinator.com/item?id=50320995) - [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
@@ -22,6 +21,7 @@
 * [2026-10-31, 12:58:29](https://news.ycombinator.com/item?id=50315782) - [Show HN: A language model that lives in a boot sector](https://github.com/kerlenton/bootgpt)
 * [2026-10-31, 10:30:11](https://news.ycombinator.com/item?id=50314699) - [Do the math: How we took over ChatGPT accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
 * [2026-10-31, 10:23:41](https://news.ycombinator.com/item?id=50314666) - [Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
+* [2026-10-31, 10:21:30](https://news.ycombinator.com/item?id=50314654) - [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
 * [2026-10-31, 08:02:26](https://news.ycombinator.com/item?id=50314085) - [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
 * [2026-10-31, 03:54:00](https://news.ycombinator.com/item?id=50313051) - [First response from the Project Suncatcher prototype satellite](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/)
 * [2026-10-30, 22:41:03](https://news.ycombinator.com/item?id=50311045) - [Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020](https://maketecheasier.com/arecibo-zinc-creep-collapse/)
