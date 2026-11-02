@@ -6,6 +6,7 @@
 
 * [2026-11-01, 23:20:31](https://news.ycombinator.com/item?id=50330939) - [U.S. workers took home their smallest share of capital since at least 1947](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/)
 * [2026-11-01, 22:10:45](https://news.ycombinator.com/item?id=50330456) - [AI delivers 'zero financial payoff' to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+* [2026-11-01, 21:22:28](https://news.ycombinator.com/item?id=50330033) - [When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP](https://arxiv.org/abs/2610.40269)
 * [2026-11-01, 19:35:27](https://news.ycombinator.com/item?id=50328896) - [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
 * [2026-11-01, 18:53:55](https://news.ycombinator.com/item?id=50328488) - [It wasn't AI that flipped Proton's charge](https://blog.raed.dev/posts/proton-loser-thinking/)
 * [2026-11-01, 18:53:46](https://news.ycombinator.com/item?id=50328487) - [Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare](https://nurse.org/news/uber-for-nursing-gig-apps-report/)
