@@ -1,32 +1,32 @@
 [
   [
     [
-      "2026-11-01, 18:53:55",
-      "https://news.ycombinator.com/item?id=50328488"
+      "2026-11-01, 23:20:31",
+      "https://news.ycombinator.com/item?id=50330939"
     ],
     [
-      "It wasn't AI that flipped Proton's charge",
-      "https://blog.raed.dev/posts/proton-loser-thinking/"
+      "U.S. workers took home their smallest share of capital since at least 1947",
+      "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/"
     ]
   ],
   [
     [
-      "2026-11-01, 18:53:46",
-      "https://news.ycombinator.com/item?id=50328487"
+      "2026-11-01, 22:10:45",
+      "https://news.ycombinator.com/item?id=50330456"
     ],
     [
-      "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
-      "https://nurse.org/news/uber-for-nursing-gig-apps-report/"
+      "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
     ]
   ],
   [
     [
-      "2026-11-01, 18:51:29",
-      "https://news.ycombinator.com/item?id=50328462"
+      "2026-11-01, 19:35:27",
+      "https://news.ycombinator.com/item?id=50328896"
     ],
     [
-      "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
-      "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again"
+      "Ask HN: Which TV do you recommend for privacy?",
+      "https://news.ycombinator.com/item?id=50328896"
     ]
   ],
   [
@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2026-11-01, 15:33:49",
+      "https://news.ycombinator.com/item?id=50326609"
+    ],
+    [
+      "Landline phones will switch off across Britland in 100 days, no extensions",
+      "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673"
+    ]
+  ],
+  [
+    [
       "2026-11-01, 14:34:43",
       "https://news.ycombinator.com/item?id=50326099"
     ],
@@ -121,42 +131,22 @@
   ],
   [
     [
+      "2026-11-01, 10:44:20",
+      "https://news.ycombinator.com/item?id=50324371"
+    ],
+    [
+      "Domain hacks with unusual Unicode characters (2018)",
+      "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/"
+    ]
+  ],
+  [
+    [
       "2026-11-01, 06:06:19",
       "https://news.ycombinator.com/item?id=50323088"
     ],
     [
       "The AI cost of JavaScript frameworks",
       "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
-    ]
-  ],
-  [
-    [
-      "2026-11-01, 02:19:53",
-      "https://news.ycombinator.com/item?id=50322173"
-    ],
-    [
-      "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/"
-    ]
-  ],
-  [
-    [
-      "2026-11-01, 01:46:29",
-      "https://news.ycombinator.com/item?id=50322022"
-    ],
-    [
-      "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "https://arxiv.org/abs/2409.02292"
-    ]
-  ],
-  [
-    [
-      "2026-10-31, 22:46:12",
-      "https://news.ycombinator.com/item?id=50320995"
-    ],
-    [
-      "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"
     ]
   ],
   [
@@ -191,12 +181,12 @@
   ],
   [
     [
-      "2026-10-31, 19:16:30",
-      "https://news.ycombinator.com/item?id=50319143"
+      "2026-10-31, 17:29:39",
+      "https://news.ycombinator.com/item?id=50318129"
     ],
     [
-      "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
+      "The She-Wolves of Jülich",
+      "https://www.historytoday.com/archive/history-matters/she-wolves-julich"
     ]
   ],
   [
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=50310038"
     ],
     [
-      "Understanding Email Encryption",
+      "Understanding Email Encryption (2025)",
       "https://www.fastmail.com/blog/email-encryption/"
     ]
   ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2026-10-30, 13:58:42",
-      "https://news.ycombinator.com/item?id=50303984"
+      "2026-10-30, 12:40:08",
+      "https://news.ycombinator.com/item?id=50303088"
     ],
     [
-      "Running a bootstrapped SaaS for 20 years with my brother",
-      "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/"
+      "Keeping Up Appearances – The women taking over the funeral industry",
+      "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Nibnib: Image compression with extreme decompression speed",
       "https://github.com/raphlinus/nibnib"
+    ]
+  ],
+  [
+    [
+      "2026-10-30, 03:06:52",
+      "https://news.ycombinator.com/item?id=50299427"
+    ],
+    [
+      "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "https://www.sciencedaily.com/releases/2026/10/261025073051.htm"
     ]
   ],
   [
