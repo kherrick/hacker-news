@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-01](index.md)
 
+* [2026-11-01, 23:20:31](https://news.ycombinator.com/item?id=50330939) - [U.S. workers took home their smallest share of capital since at least 1947](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/)
+* [2026-11-01, 22:10:45](https://news.ycombinator.com/item?id=50330456) - [AI delivers 'zero financial payoff' to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+* [2026-11-01, 19:35:27](https://news.ycombinator.com/item?id=50328896) - [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
 * [2026-11-01, 18:53:55](https://news.ycombinator.com/item?id=50328488) - [It wasn't AI that flipped Proton's charge](https://blog.raed.dev/posts/proton-loser-thinking/)
 * [2026-11-01, 18:53:46](https://news.ycombinator.com/item?id=50328487) - [Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare](https://nurse.org/news/uber-for-nursing-gig-apps-report/)
 * [2026-11-01, 18:51:29](https://news.ycombinator.com/item?id=50328462) - [US Jobs Pickup May Keep Fed on Track to Hike Rates Again](https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again)
@@ -24,6 +27,7 @@
 * [2026-11-01, 13:02:30](https://news.ycombinator.com/item?id=50325253) - [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff)
 * [2026-11-01, 10:47:58](https://news.ycombinator.com/item?id=50324388) - [Restrooms along the Norwegian Scenic Routes](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/)
 * [2026-11-01, 10:44:20](https://news.ycombinator.com/item?id=50324371) - [Domain hacks with unusual Unicode characters (2018)](https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/)
+* [2026-11-01, 10:44:20](https://news.ycombinator.com/item?id=50324371) - [Domain hacks with unusual Unicode characters (2018)](https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/)
 * [2026-11-01, 09:15:26](https://news.ycombinator.com/item?id=50323848) - [OpenIDEA: The IDE you know, rebuilt in Rust](https://github.com/l0ng-ai/openidea)
 * [2026-11-01, 06:29:49](https://news.ycombinator.com/item?id=50323187) - [Pac-Man's Siren Call](https://unsung.aresluna.org/pac-mans-siren-call/)
 * [2026-11-01, 06:06:19](https://news.ycombinator.com/item?id=50323088) - [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
