@@ -1,12 +1,172 @@
 [
   [
     [
-      "2026-11-02, 05:06:30",
-      "https://news.ycombinator.com/item?id=50333339"
+      "2026-11-02, 16:02:26",
+      "https://news.ycombinator.com/item?id=50338747"
     ],
     [
-      "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-      "https://wikihack.netlify.app"
+      "Why we're moving our warehouse off DuckDB",
+      "https://posthog.com/blog/moving-off-duckdb"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 15:35:40",
+      "https://news.ycombinator.com/item?id=50338265"
+    ],
+    [
+      "Please Let the Internet Die. It's Time to Start Over",
+      "https://www.wired.com/story/let-the-internet-die/"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 15:01:15",
+      "https://news.ycombinator.com/item?id=50337725"
+    ],
+    [
+      "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+      "https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 15:00:26",
+      "https://news.ycombinator.com/item?id=50337716"
+    ],
+    [
+      "LongCat-2.5: Native Multimodality for Agentic Tasks",
+      "https://longcat.ai/blog/longcat-2.5/"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 14:53:44",
+      "https://news.ycombinator.com/item?id=50337635"
+    ],
+    [
+      "Napping characteristics and incident dementia",
+      "https://academic.oup.com/biomedgerontology/article/81/10/glag208/8769491?login=false"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 14:52:00",
+      "https://news.ycombinator.com/item?id=50337608"
+    ],
+    [
+      "WTF Ubuntu?",
+      "https://chalmovsky.com/posts/wtf-ubuntu"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 14:47:28",
+      "https://news.ycombinator.com/item?id=50337558"
+    ],
+    [
+      "We halved DNS build delay and cut memory use by 85%",
+      "https://blog.cloudflare.com/dns-targeted-zone-builds/"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 14:44:02",
+      "https://news.ycombinator.com/item?id=50337503"
+    ],
+    [
+      "GPT-Rosalind-6 System Card Addendum",
+      "https://deploymentsafety.openai.com/gpt-rosalind-6"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 14:38:45",
+      "https://news.ycombinator.com/item?id=50337439"
+    ],
+    [
+      "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+      "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 13:25:35",
+      "https://news.ycombinator.com/item?id=50336518"
+    ],
+    [
+      "If you love a website, back it up",
+      "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 12:50:59",
+      "https://news.ycombinator.com/item?id=50336138"
+    ],
+    [
+      "Last night an AI agent performed brain surgery on a mouse",
+      "https://twitter.com/OcanaSantero/status/2115442964574908902"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 11:55:48",
+      "https://news.ycombinator.com/item?id=50335659"
+    ],
+    [
+      "Never Complain, Never Explain",
+      "https://en.wikipedia.org/wiki/Never_complain,_never_explain"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 11:50:13",
+      "https://news.ycombinator.com/item?id=50335615"
+    ],
+    [
+      "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 09:29:16",
+      "https://news.ycombinator.com/item?id=50334704"
+    ],
+    [
+      "Show HN: I've updated my Linux System Call website and API",
+      "https://syscall.sh/"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 08:07:20",
+      "https://news.ycombinator.com/item?id=50334240"
+    ],
+    [
+      "Wir müssen wissen – wir werden wissen",
+      "https://remy.wang/blog/hilbert.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 07:27:28",
+      "https://news.ycombinator.com/item?id=50334038"
+    ],
+    [
+      "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 06:39:42",
+      "https://news.ycombinator.com/item?id=50333774"
+    ],
+    [
+      "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+      "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/"
     ]
   ],
   [
@@ -17,16 +177,6 @@
     [
       "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
       "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 01:47:07",
-      "https://news.ycombinator.com/item?id=50332086"
-    ],
-    [
-      "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture"
     ]
   ],
   [
@@ -51,42 +201,12 @@
   ],
   [
     [
-      "2026-11-02, 00:17:27",
-      "https://news.ycombinator.com/item?id=50331402"
-    ],
-    [
-      "OccupySaaS",
-      "https://occupysaas.com/"
-    ]
-  ],
-  [
-    [
       "2026-11-01, 19:35:27",
       "https://news.ycombinator.com/item?id=50328896"
     ],
     [
       "Ask HN: Which TV do you recommend for privacy?",
       "https://news.ycombinator.com/item?id=50328896"
-    ]
-  ],
-  [
-    [
-      "2026-11-01, 18:28:42",
-      "https://news.ycombinator.com/item?id=50328251"
-    ],
-    [
-      "Mathematics has changed. Let's act like it",
-      "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/"
-    ]
-  ],
-  [
-    [
-      "2026-11-01, 16:23:26",
-      "https://news.ycombinator.com/item?id=50327058"
-    ],
-    [
-      "Seoul Viosys begins production of rare-earth-free white light emitter",
-      "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml"
     ]
   ],
   [
@@ -101,72 +221,12 @@
   ],
   [
     [
-      "2026-11-01, 14:34:43",
-      "https://news.ycombinator.com/item?id=50326099"
-    ],
-    [
-      "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-      "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/"
-    ]
-  ],
-  [
-    [
-      "2026-11-01, 13:51:41",
-      "https://news.ycombinator.com/item?id=50325694"
-    ],
-    [
-      "Novellas with Groff",
-      "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-01, 13:24:49",
-      "https://news.ycombinator.com/item?id=50325454"
-    ],
-    [
-      "Proving and improving the Platonic Representation Hypothesis with JEPAs",
-      "https://arxiv.org/abs/2610.39302"
-    ]
-  ],
-  [
-    [
-      "2026-11-01, 13:02:30",
-      "https://news.ycombinator.com/item?id=50325253"
-    ],
-    [
-      "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-      "https://github.com/ivankovic/omnidiff"
-    ]
-  ],
-  [
-    [
-      "2026-11-01, 10:44:20",
-      "https://news.ycombinator.com/item?id=50324371"
-    ],
-    [
-      "Domain hacks with unusual Unicode characters (2018)",
-      "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/"
-    ]
-  ],
-  [
-    [
       "2026-11-01, 06:06:19",
       "https://news.ycombinator.com/item?id=50323088"
     ],
     [
       "The AI cost of JavaScript frameworks",
       "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
-    ]
-  ],
-  [
-    [
-      "2026-10-31, 20:21:55",
-      "https://news.ycombinator.com/item?id=50319749"
-    ],
-    [
-      "Bidirectional charging during grid outages",
-      "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages"
     ]
   ],
   [
@@ -181,42 +241,12 @@
   ],
   [
     [
-      "2026-10-31, 17:29:39",
-      "https://news.ycombinator.com/item?id=50318129"
-    ],
-    [
-      "The She-Wolves of Jülich",
-      "https://www.historytoday.com/archive/history-matters/she-wolves-julich"
-    ]
-  ],
-  [
-    [
       "2026-10-31, 11:53:47",
       "https://news.ycombinator.com/item?id=50315217"
     ],
     [
       "Mystery of 60-Second Fluctuations in Power Grids Solved",
       "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved"
-    ]
-  ],
-  [
-    [
-      "2026-10-31, 10:14:08",
-      "https://news.ycombinator.com/item?id=50314617"
-    ],
-    [
-      "One-minute frequency disturbances from synchronization in power systems",
-      "https://www.nature.com/articles/s41560-026-02144-0"
-    ]
-  ],
-  [
-    [
-      "2026-10-31, 09:49:42",
-      "https://news.ycombinator.com/item?id=50314508"
-    ],
-    [
-      "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
-      "https://kevs3d.co.uk/phoria2/"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2026-10-30, 12:40:08",
-      "https://news.ycombinator.com/item?id=50303088"
-    ],
-    [
-      "Keeping Up Appearances – The women taking over the funeral industry",
-      "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/"
-    ]
-  ],
-  [
-    [
       "2026-10-30, 04:17:06",
       "https://news.ycombinator.com/item?id=50299811"
     ],
@@ -267,26 +287,6 @@
     [
       "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
       "https://www.sciencedaily.com/releases/2026/10/261025073051.htm"
-    ]
-  ],
-  [
-    [
-      "2026-10-29, 15:22:41",
-      "https://news.ycombinator.com/item?id=50290533"
-    ],
-    [
-      "Show HN: Point your camera at a landscape to learn about its geology",
-      "https://outcrop.rocks/"
-    ]
-  ],
-  [
-    [
-      "2026-10-28, 20:06:27",
-      "https://news.ycombinator.com/item?id=50280131"
-    ],
-    [
-      "Radiation Map of the World",
-      "https://radiaverse.com/"
     ]
   ],
   [
