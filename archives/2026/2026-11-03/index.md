@@ -4,6 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-11-03](index.md)
 
+* [2026-11-03, 21:51:06](https://news.ycombinator.com/item?id=50358702) - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+* [2026-11-03, 21:40:53](https://news.ycombinator.com/item?id=50358582) - [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
+* [2026-11-03, 21:39:05](https://news.ycombinator.com/item?id=50358562) - [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
+* [2026-11-03, 21:26:44](https://news.ycombinator.com/item?id=50358422) - [US tech giants' hidden AI debt swells 90% to $3.2T in 6 months](https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months)
+* [2026-11-03, 21:16:48](https://news.ycombinator.com/item?id=50358314) - [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)
+* [2026-11-03, 20:07:41](https://news.ycombinator.com/item?id=50357457) - [Pratt parsing is a black box](https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/)
+* [2026-11-03, 19:32:13](https://news.ycombinator.com/item?id=50356994) - [Preparing for the Flipper One Kickstarter and opening pre-orders](https://flipper.net/pages/flipper-one)
+* [2026-11-03, 19:27:53](https://news.ycombinator.com/item?id=50356944) - [macOS 27 does not support CoreStorage volumes](https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/)
+* [2026-11-03, 19:25:18](https://news.ycombinator.com/item?id=50356913) - [Introduction to Programming in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html)
+* [2026-11-03, 18:11:11](https://news.ycombinator.com/item?id=50355767) - [How I use AI (Oct 2026)](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
 * [2026-11-03, 17:55:26](https://news.ycombinator.com/item?id=50355504) - [Google researchers demand freedom to tell the world what they know about AI](https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/)
 * [2026-11-03, 17:46:58](https://news.ycombinator.com/item?id=50355365) - [How to write comparison content that doesn't age like milk](https://posthog.com/blog/comparison-content-guide)
 * [2026-11-03, 17:40:00](https://news.ycombinator.com/item?id=50355251) - [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)
@@ -33,5 +43,6 @@
 * [2026-11-03, 02:58:44](https://news.ycombinator.com/item?id=50347464) - [Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities](https://arxiv.org/abs/2608.25820)
 * [2026-11-03, 01:53:34](https://news.ycombinator.com/item?id=50346981) - [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
 * [2026-11-03, 01:33:43](https://news.ycombinator.com/item?id=50346849) - [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+* [2026-11-03, 01:18:09](https://news.ycombinator.com/item?id=50346755) - [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org)
 * [2026-11-03, 00:09:36](https://news.ycombinator.com/item?id=50346164) - [Ask HN: Does anyone have a contact with Cleveland-area Ham club?](https://news.ycombinator.com/item?id=50346164)
 * [2026-11-03, 00:08:53](https://news.ycombinator.com/item?id=50346153) - [Intel stock collapse worsens as $3.5T chip rout spreads](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
