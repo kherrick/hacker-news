@@ -1,12 +1,82 @@
 [
   [
     [
-      "2026-11-02, 22:33:20",
-      "https://news.ycombinator.com/item?id=50344958"
+      "2026-11-03, 03:28:26",
+      "https://news.ycombinator.com/item?id=50347683"
     ],
     [
-      "Anthropic's growth just flattened",
-      "https://www.regenerator1.com/p/anthropics-growth-just-flattened"
+      "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)",
+      "https://www.keepingup.com/benchmarks/net-worth/age-30-33"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 02:58:44",
+      "https://news.ycombinator.com/item?id=50347464"
+    ],
+    [
+      "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+      "https://arxiv.org/abs/2608.25820"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 01:53:34",
+      "https://news.ycombinator.com/item?id=50346981"
+    ],
+    [
+      "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "https://hackertimes.ca/"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 01:33:43",
+      "https://news.ycombinator.com/item?id=50346849"
+    ],
+    [
+      "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 00:09:36",
+      "https://news.ycombinator.com/item?id=50346164"
+    ],
+    [
+      "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
+      "https://news.ycombinator.com/item?id=50346164"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 00:08:53",
+      "https://news.ycombinator.com/item?id=50346153"
+    ],
+    [
+      "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 23:47:56",
+      "https://news.ycombinator.com/item?id=50345924"
+    ],
+    [
+      "Scaling Git at OpenAI",
+      "https://openai.com/index/scaling-git-at-openai/"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 23:30:59",
+      "https://news.ycombinator.com/item?id=50345712"
+    ],
+    [
+      "WorkOS reports security breach",
+      "https://news.ycombinator.com/item?id=50345712"
     ]
   ],
   [
@@ -21,12 +91,12 @@
   ],
   [
     [
-      "2026-11-02, 22:13:42",
-      "https://news.ycombinator.com/item?id=50344670"
+      "2026-11-02, 22:30:13",
+      "https://news.ycombinator.com/item?id=50344912"
     ],
     [
-      "Apple reports fourth quarter results",
-      "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/"
+      "V100 SXM2 pinout and NVLink reference",
+      "https://github.com/pigeon-labs-stack/v100-sxm2-reference"
     ]
   ],
   [
@@ -37,36 +107,6 @@
     [
       "SLAC researchers find proof of altermagnetism, a new magnetic phase",
       "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 21:38:49",
-      "https://news.ycombinator.com/item?id=50344181"
-    ],
-    [
-      "BYD sold more EVs last month than the US did all quarter",
-      "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 21:37:00",
-      "https://news.ycombinator.com/item?id=50344158"
-    ],
-    [
-      "The Ford Privacy Promise: You're in Control of Your Data",
-      "https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 19:27:37",
-      "https://news.ycombinator.com/item?id=50342284"
-    ],
-    [
-      "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
     ]
   ],
   [
@@ -87,16 +127,6 @@
     [
       "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
       "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 18:30:58",
-      "https://news.ycombinator.com/item?id=50341334"
-    ],
-    [
-      "Agentic backdoors via pretraining poisoning",
-      "https://arxiv.org/abs/2610.37741"
     ]
   ],
   [
@@ -127,16 +157,6 @@
     [
       "Skill to Create Product Videos",
       "https://github.com/aaitor/skill-video-studio"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 17:47:59",
-      "https://news.ycombinator.com/item?id=50340629"
-    ],
-    [
-      "Making Peace with the Projective Plane",
-      "https://www.johndcook.com/blog/2026/11/02/projective-plane/"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2026-11-02, 15:00:26",
-      "https://news.ycombinator.com/item?id=50337716"
-    ],
-    [
-      "LongCat-2.5: Native Multimodality for Agentic Tasks",
-      "https://longcat.ai/blog/longcat-2.5/"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 14:56:21",
-      "https://news.ycombinator.com/item?id=50337661"
-    ],
-    [
-      "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
-      "https://retrogamecoders.com/c64-basic-dungeon-part11/"
-    ]
-  ],
-  [
-    [
       "2026-11-02, 14:52:00",
       "https://news.ycombinator.com/item?id=50337608"
     ],
@@ -271,32 +271,32 @@
   ],
   [
     [
-      "2026-11-02, 09:29:16",
-      "https://news.ycombinator.com/item?id=50334704"
+      "2026-11-01, 06:13:30",
+      "https://news.ycombinator.com/item?id=50323123"
     ],
     [
-      "Show HN: I've updated my Linux System Call website and API",
-      "https://syscall.sh/"
+      "Resisting Cognitive Surrender",
+      "https://knlb.dev/essays/surrender"
     ]
   ],
   [
     [
-      "2026-11-01, 21:22:28",
-      "https://news.ycombinator.com/item?id=50330033"
+      "2026-11-01, 01:29:51",
+      "https://news.ycombinator.com/item?id=50321939"
     ],
     [
-      "When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP",
-      "https://arxiv.org/abs/2610.40269"
+      "WiCi: Connecting GPUs over WiFi",
+      "https://wici.ai"
     ]
   ],
   [
     [
-      "2026-10-31, 18:26:43",
-      "https://news.ycombinator.com/item?id=50318615"
+      "2026-10-31, 18:50:43",
+      "https://news.ycombinator.com/item?id=50318874"
     ],
     [
-      "A Conversation with Paul Masurel, Creator of Tantivy",
-      "https://www.paradedb.com/blog/tantivy-interview"
+      "Trademarks and Symbols, Volume 2: Symbolical Designs (1973)",
+      "https://www.symbools.com/kuwayama-trademarks-symbols-vol-2/"
     ]
   ]
 ]
