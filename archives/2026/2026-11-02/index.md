@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-11-02](index.md)
 
+* [2026-11-02, 23:47:56](https://news.ycombinator.com/item?id=50345924) - [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
+* [2026-11-02, 23:30:59](https://news.ycombinator.com/item?id=50345712) - [WorkOS reports security breach](https://news.ycombinator.com/item?id=50345712)
 * [2026-11-02, 22:33:20](https://news.ycombinator.com/item?id=50344958) - [Anthropic's growth just flattened](https://www.regenerator1.com/p/anthropics-growth-just-flattened)
 * [2026-11-02, 22:30:47](https://news.ycombinator.com/item?id=50344919) - [The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
+* [2026-11-02, 22:30:13](https://news.ycombinator.com/item?id=50344912) - [V100 SXM2 pinout and NVLink reference](https://github.com/pigeon-labs-stack/v100-sxm2-reference)
 * [2026-11-02, 22:13:42](https://news.ycombinator.com/item?id=50344670) - [Apple reports fourth quarter results](https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/)
 * [2026-11-02, 21:42:25](https://news.ycombinator.com/item?id=50344224) - [SLAC researchers find proof of altermagnetism, a new magnetic phase](https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase)
 * [2026-11-02, 21:38:49](https://news.ycombinator.com/item?id=50344181) - [BYD sold more EVs last month than the US did all quarter](https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/)

@@ -27,6 +27,7 @@
 * [2026-10-31, 19:16:30](https://news.ycombinator.com/item?id=50319143) - [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
 * [2026-10-31, 19:13:34](https://news.ycombinator.com/item?id=50319110) - [Electrification Could Cut Global Energy Use in Half](https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/)
 * [2026-10-31, 19:07:36](https://news.ycombinator.com/item?id=50319061) - [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
+* [2026-10-31, 18:50:43](https://news.ycombinator.com/item?id=50318874) - [Trademarks and Symbols, Volume 2: Symbolical Designs (1973)](https://www.symbools.com/kuwayama-trademarks-symbols-vol-2/)
 * [2026-10-31, 18:50:34](https://news.ycombinator.com/item?id=50318871) - [GPT-5.6 Sol can beat Factorio on peaceful mode](https://ryanmadden.net/gpt-56-beats-factorio/)
 * [2026-10-31, 18:45:22](https://news.ycombinator.com/item?id=50318812) - [Shaun Thomas: Burnt Toast](https://www.pgedge.com/blog/burnt-toast)
 * [2026-10-31, 18:38:16](https://news.ycombinator.com/item?id=50318720) - [It's the Memory Latency, Stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/)
