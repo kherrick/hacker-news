@@ -1,22 +1,102 @@
 [
   [
     [
-      "2026-11-03, 17:55:26",
-      "https://news.ycombinator.com/item?id=50355504"
+      "2026-11-03, 21:51:06",
+      "https://news.ycombinator.com/item?id=50358702"
     ],
     [
-      "Google researchers demand freedom to tell the world what they know about AI",
-      "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/"
+      "The Internals of PostgreSQL",
+      "https://www.interdb.jp/pg/index.html"
     ]
   ],
   [
     [
-      "2026-11-03, 17:46:58",
-      "https://news.ycombinator.com/item?id=50355365"
+      "2026-11-03, 21:40:53",
+      "https://news.ycombinator.com/item?id=50358582"
     ],
     [
-      "How to write comparison content that doesn't age like milk",
-      "https://posthog.com/blog/comparison-content-guide"
+      "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "https://arxiv.org/abs/2605.29713"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 21:39:05",
+      "https://news.ycombinator.com/item?id=50358562"
+    ],
+    [
+      "Safari introduces Adaptive Dark Mode in 27.3",
+      "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 21:26:44",
+      "https://news.ycombinator.com/item?id=50358422"
+    ],
+    [
+      "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 21:16:48",
+      "https://news.ycombinator.com/item?id=50358314"
+    ],
+    [
+      "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "https://github.com/finic-ai/kairos"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 20:07:41",
+      "https://news.ycombinator.com/item?id=50357457"
+    ],
+    [
+      "Pratt parsing is a black box",
+      "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 19:32:13",
+      "https://news.ycombinator.com/item?id=50356994"
+    ],
+    [
+      "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "https://flipper.net/pages/flipper-one"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 19:27:53",
+      "https://news.ycombinator.com/item?id=50356944"
+    ],
+    [
+      "macOS 27 does not support CoreStorage volumes",
+      "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 19:25:18",
+      "https://news.ycombinator.com/item?id=50356913"
+    ],
+    [
+      "Introduction to Programming in ATS",
+      "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 18:11:11",
+      "https://news.ycombinator.com/item?id=50355767"
+    ],
+    [
+      "How I use AI (Oct 2026)",
+      "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/"
     ]
   ],
   [
@@ -81,52 +161,12 @@
   ],
   [
     [
-      "2026-11-03, 15:41:52",
-      "https://news.ycombinator.com/item?id=50353386"
-    ],
-    [
-      "Show HN: HackerChurn – which SaaS tools HN wants to cancel",
-      "https://hissingkitty.com/hacker-churn"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 15:41:46",
-      "https://news.ycombinator.com/item?id=50353383"
-    ],
-    [
-      "Bear turns 10, and it still feels like day one",
-      "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 15:38:04",
-      "https://news.ycombinator.com/item?id=50353335"
-    ],
-    [
-      "Study estimates 75% of NFL players who died over 15-year span had CTE",
-      "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975"
-    ]
-  ],
-  [
-    [
       "2026-11-03, 15:29:15",
       "https://news.ycombinator.com/item?id=50353229"
     ],
     [
       "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
       "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 15:25:47",
-      "https://news.ycombinator.com/item?id=50353192"
-    ],
-    [
-      "Google will turn off search for schools that reject AI",
-      "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
     ]
   ],
   [
@@ -141,42 +181,12 @@
   ],
   [
     [
-      "2026-11-03, 14:54:30",
-      "https://news.ycombinator.com/item?id=50352767"
-    ],
-    [
-      "Handles are the better pointers (2018)",
-      "https://floooh.github.io/2018/06/17/handles-vs-pointers.html"
-    ]
-  ],
-  [
-    [
       "2026-11-03, 14:53:42",
       "https://news.ycombinator.com/item?id=50352758"
     ],
     [
       "Mac at Any Scale",
       "https://namespace.so/blog/mac-at-any-scale"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 14:53:41",
-      "https://news.ycombinator.com/item?id=50352757"
-    ],
-    [
-      "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "https://news.ycombinator.com/item?id=50352757"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 14:41:02",
-      "https://news.ycombinator.com/item?id=50352577"
-    ],
-    [
-      "Practice speaking Japanese with real YouTube videos, graded line by line",
-      "https://jivx.com/yt"
     ]
   ],
   [
@@ -201,12 +211,22 @@
   ],
   [
     [
-      "2026-11-03, 07:04:50",
-      "https://news.ycombinator.com/item?id=50348962"
+      "2026-11-03, 01:18:09",
+      "https://news.ycombinator.com/item?id=50346755"
     ],
     [
-      "Nvidia – open-source auto-ontology",
-      "https://github.com/NVIDIA/auto-ontology"
+      "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "https://hackertv.org"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 20:08:33",
+      "https://news.ycombinator.com/item?id=50342931"
+    ],
+    [
+      "Union Types and Option Types (2025)",
+      "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html"
     ]
   ],
   [
@@ -231,6 +251,16 @@
   ],
   [
     [
+      "2026-11-02, 15:40:04",
+      "https://news.ycombinator.com/item?id=50338334"
+    ],
+    [
+      "Curiosity Traps",
+      "https://www.autodidacts.io/curiosity-traps/"
+    ]
+  ],
+  [
+    [
       "2026-11-02, 14:02:42",
       "https://news.ycombinator.com/item?id=50336918"
     ],
@@ -241,62 +271,32 @@
   ],
   [
     [
-      "2026-11-02, 12:46:28",
-      "https://news.ycombinator.com/item?id=50336097"
-    ],
-    [
-      "Exploring the Legacy of Image Club Graphics",
-      "https://blog.somnolescent.net/2026/02/exploring-the-legacy-of-image-club-graphics/"
-    ]
-  ],
-  [
-    [
       "2026-11-02, 08:29:40",
       "https://news.ycombinator.com/item?id=50334363"
     ],
     [
-      "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables",
+      "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
       "https://www.mattkeeter.com/projects/antimony/3/"
     ]
   ],
   [
     [
-      "2026-11-02, 05:05:11",
-      "https://news.ycombinator.com/item?id=50333332"
+      "2026-11-02, 04:31:20",
+      "https://news.ycombinator.com/item?id=50333131"
     ],
     [
-      "Why Don't We Live in an Art Nouveau World?",
-      "https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world"
+      "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/"
     ]
   ],
   [
     [
-      "2026-11-02, 02:21:07",
-      "https://news.ycombinator.com/item?id=50332342"
+      "2026-11-01, 04:05:23",
+      "https://news.ycombinator.com/item?id=50322603"
     ],
     [
-      "Katamari Damacy but it's The Met collection",
-      "https://katamari.vaguespac.es/"
-    ]
-  ],
-  [
-    [
-      "2026-11-01, 15:27:44",
-      "https://news.ycombinator.com/item?id=50326545"
-    ],
-    [
-      "Embedding boolean circuits in a neural network",
-      "https://edwardbenson.com/2026/10/embedding-boolean-circuits-in-a-neural-network"
-    ]
-  ],
-  [
-    [
-      "2026-11-01, 00:25:04",
-      "https://news.ycombinator.com/item?id=50321605"
-    ],
-    [
-      "Toit v2.0.0",
-      "https://toit.io/blog/toit-v2-0-0/"
+      "We're Training a Figma-Fluent Editing Model",
+      "https://www.figma.com/blog/training-a-figma-fluent-editing-model/"
     ]
   ]
 ]
