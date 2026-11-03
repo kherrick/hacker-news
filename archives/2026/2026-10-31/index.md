@@ -11,6 +11,7 @@
 * [2026-10-31, 22:54:55](https://news.ycombinator.com/item?id=50321048) - [Altoids Project](https://uvdn7.github.io/altoids-project/)
 * [2026-10-31, 22:46:12](https://news.ycombinator.com/item?id=50320995) - [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
 * [2026-10-31, 22:41:06](https://news.ycombinator.com/item?id=50320963) - [An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+* [2026-10-31, 22:31:49](https://news.ycombinator.com/item?id=50320904) - [Efficient algorithms, the Exponential Time Hypothesis, and losing the plot](https://www.argmin.net/p/galactus-the-devourer)
 * [2026-10-31, 21:50:13](https://news.ycombinator.com/item?id=50320599) - [AI text watermarking and quality loss](https://blog.keyvan.net/p/ai-text-watermarking-and-quality)
 * [2026-10-31, 21:49:07](https://news.ycombinator.com/item?id=50320588) - [ChatGPT and Codex usage limits merging](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits)
 * [2026-10-31, 21:40:18](https://news.ycombinator.com/item?id=50320513) - [Spooky C++](https://www.nablag.com/spooky_cpp)

@@ -20,6 +20,7 @@
 * [2026-11-01, 15:45:10](https://news.ycombinator.com/item?id=50326727) - [Anthropic's Mythos-class model allegedly leaked on Hugging Face](https://news.ycombinator.com/item?id=50326727)
 * [2026-11-01, 15:33:49](https://news.ycombinator.com/item?id=50326609) - [Landline phones will switch off across Britland in 100 days, no extensions](https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673)
 * [2026-11-01, 15:26:06](https://news.ycombinator.com/item?id=50326530) - [Enlightenment 0.28.0 Release](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0)
+* [2026-11-01, 14:52:05](https://news.ycombinator.com/item?id=50326246) - [Shrinking NixOS RAM footprint and resource requirements to the bare minimum](https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum)
 * [2026-11-01, 14:36:13](https://news.ycombinator.com/item?id=50326118) - [Police chief unplugs Flock cameras after company ignores contract cancellation](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)
 * [2026-11-01, 14:34:43](https://news.ycombinator.com/item?id=50326099) - [Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/)
 * [2026-11-01, 13:51:41](https://news.ycombinator.com/item?id=50325694) - [Novellas with Groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
@@ -37,4 +38,5 @@
 * [2026-11-01, 02:15:59](https://news.ycombinator.com/item?id=50322155) - [Hermantown approves controversial Google Data Center during late night meeting](https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting)
 * [2026-11-01, 01:46:29](https://news.ycombinator.com/item?id=50322022) - [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](https://arxiv.org/abs/2409.02292)
 * [2026-11-01, 01:29:51](https://news.ycombinator.com/item?id=50321939) - [WiCi: Connecting GPUs over WiFi](https://wici.ai)
+* [2026-11-01, 00:25:04](https://news.ycombinator.com/item?id=50321605) - [Toit v2.0.0](https://toit.io/blog/toit-v2-0-0/)
 * [2026-11-01, 00:10:30](https://news.ycombinator.com/item?id=50321522) - [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1)
