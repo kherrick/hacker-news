@@ -35,6 +35,7 @@
 * [2026-11-02, 16:01:37](https://news.ycombinator.com/item?id=50338728) - [Ask HN: Who is hiring? (November 2026)](https://news.ycombinator.com/item?id=50338728)
 * [2026-11-02, 15:40:04](https://news.ycombinator.com/item?id=50338334) - [Curiosity Traps](https://www.autodidacts.io/curiosity-traps/)
 * [2026-11-02, 15:35:40](https://news.ycombinator.com/item?id=50338265) - [Please Let the Internet Die. It's Time to Start Over](https://www.wired.com/story/let-the-internet-die/)
+* [2026-11-02, 15:18:49](https://news.ycombinator.com/item?id=50337980) - [Killing what can't be handled – putting a spaghetti demon to eternal rest](https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/)
 * [2026-11-02, 15:01:15](https://news.ycombinator.com/item?id=50337725) - [Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)](https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1)
 * [2026-11-02, 15:00:26](https://news.ycombinator.com/item?id=50337716) - [LongCat-2.5: Native Multimodality for Agentic Tasks](https://longcat.ai/blog/longcat-2.5/)
 * [2026-11-02, 14:56:21](https://news.ycombinator.com/item?id=50337661) - [C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)](https://retrogamecoders.com/c64-basic-dungeon-part11/)
