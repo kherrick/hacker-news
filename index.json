@@ -1,6 +1,126 @@
 [
   [
     [
+      "2026-11-04, 11:02:23",
+      "https://news.ycombinator.com/item?id=50363861"
+    ],
+    [
+      "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
+      "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 10:43:51",
+      "https://news.ycombinator.com/item?id=50363717"
+    ],
+    [
+      "Told to reboot a server, it destroyed systemd, destroyed containers, ran random",
+      "https://github.com/openai/codex/issues/59060"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 10:23:34",
+      "https://news.ycombinator.com/item?id=50363554"
+    ],
+    [
+      "Geoffrey Hinton: it might turn out we were better off without AI",
+      "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 10:10:27",
+      "https://news.ycombinator.com/item?id=50363461"
+    ],
+    [
+      "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "https://news.ycombinator.com/item?id=50363461"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 10:00:06",
+      "https://news.ycombinator.com/item?id=50363378"
+    ],
+    [
+      "Incident with Pull Requests, Git Operations and Issues",
+      "https://www.githubstatus.com/incidents/smtdswd1h2w4"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 09:01:58",
+      "https://news.ycombinator.com/item?id=50363019"
+    ],
+    [
+      "Verification Is Not Knowledge: Science needs more than answers",
+      "https://blog.cosmos-institute.org/p/verification-is-not-knowledge"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 08:58:03",
+      "https://news.ycombinator.com/item?id=50362993"
+    ],
+    [
+      "Milkman – The Better Alternative to Postman",
+      "https://milkman.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 08:57:10",
+      "https://news.ycombinator.com/item?id=50362980"
+    ],
+    [
+      "Kitty 0.50",
+      "https://sw.kovidgoyal.net/kitty/changelog/#"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 08:46:29",
+      "https://news.ycombinator.com/item?id=50362905"
+    ],
+    [
+      "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 07:37:30",
+      "https://news.ycombinator.com/item?id=50362466"
+    ],
+    [
+      "The lost malloc()",
+      "https://napcakes.nekoweb.org/posts/malloc/"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 03:40:50",
+      "https://news.ycombinator.com/item?id=50361268"
+    ],
+    [
+      "Jelly Sheet",
+      "https://mrdoob.github.io/codevember-2026/01/"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 03:20:13",
+      "https://news.ycombinator.com/item?id=50361154"
+    ],
+    [
+      "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients"
+    ]
+  ],
+  [
+    [
       "2026-11-04, 03:11:27",
       "https://news.ycombinator.com/item?id=50361107"
     ],
@@ -71,46 +191,6 @@
   ],
   [
     [
-      "2026-11-03, 21:16:48",
-      "https://news.ycombinator.com/item?id=50358314"
-    ],
-    [
-      "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-      "https://github.com/finic-ai/kairos"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 20:49:11",
-      "https://news.ycombinator.com/item?id=50357973"
-    ],
-    [
-      "The Pnyx and the Agora (2016)",
-      "https://www.readingdesign.org/the-pnyx-and-the-agora"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 20:07:41",
-      "https://news.ycombinator.com/item?id=50357457"
-    ],
-    [
-      "Pratt parsing is a black box",
-      "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 19:25:18",
-      "https://news.ycombinator.com/item?id=50356913"
-    ],
-    [
-      "Introduction to Programming in ATS",
-      "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html"
-    ]
-  ],
-  [
-    [
       "2026-11-03, 18:11:11",
       "https://news.ycombinator.com/item?id=50355767"
     ],
@@ -141,16 +221,6 @@
   ],
   [
     [
-      "2026-11-03, 17:00:53",
-      "https://news.ycombinator.com/item?id=50354582"
-    ],
-    [
-      "Ashby (YC W19) Is Hiring EMs",
-      "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn"
-    ]
-  ],
-  [
-    [
       "2026-11-03, 16:47:29",
       "https://news.ycombinator.com/item?id=50354358"
     ],
@@ -171,42 +241,12 @@
   ],
   [
     [
-      "2026-11-03, 12:58:43",
-      "https://news.ycombinator.com/item?id=50351463"
-    ],
-    [
-      "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
-    ]
-  ],
-  [
-    [
       "2026-11-03, 12:40:06",
       "https://news.ycombinator.com/item?id=50351298"
     ],
     [
       "Why Clip Art Was Everywhere Until It Wasn't [video]",
       "https://www.youtube.com/watch?v=XfLlpxE6AYM"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 12:21:17",
-      "https://news.ycombinator.com/item?id=50351111"
-    ],
-    [
-      "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "https://honnibal.dev/blog/astra-read-write-misleading"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 07:56:21",
-      "https://news.ycombinator.com/item?id=50349276"
-    ],
-    [
-      "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-      "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html"
     ]
   ],
   [
@@ -221,52 +261,12 @@
   ],
   [
     [
-      "2026-11-02, 20:08:33",
-      "https://news.ycombinator.com/item?id=50342931"
-    ],
-    [
-      "Union Types and Option Types (2025)",
-      "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 19:18:46",
-      "https://news.ycombinator.com/item?id=50342119"
-    ],
-    [
-      "Writing seen in PHerc. 306B, for the first time in 2000 years",
-      "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the"
-    ]
-  ],
-  [
-    [
       "2026-11-02, 16:29:19",
       "https://news.ycombinator.com/item?id=50339288"
     ],
     [
       "Jailbreaking my car's navigation system just so I can change the time",
       "https://blog.nns.ee/2026/11/02/renault-hack/"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 15:40:04",
-      "https://news.ycombinator.com/item?id=50338334"
-    ],
-    [
-      "Curiosity Traps",
-      "https://www.autodidacts.io/curiosity-traps/"
-    ]
-  ],
-  [
-    [
-      "2026-11-02, 15:18:49",
-      "https://news.ycombinator.com/item?id=50337980"
-    ],
-    [
-      "Killing what can't be handled – putting a spaghetti demon to eternal rest",
-      "https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/"
     ]
   ],
   [
