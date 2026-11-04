@@ -31,6 +31,7 @@
 * [2026-11-02, 16:34:36](https://news.ycombinator.com/item?id=50339397) - [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)
 * [2026-11-02, 16:29:19](https://news.ycombinator.com/item?id=50339288) - [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
 * [2026-11-02, 16:25:26](https://news.ycombinator.com/item?id=50339221) - [Show HN: Warsaw in voxels – An interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/)
+* [2026-11-02, 16:23:37](https://news.ycombinator.com/item?id=50339183) - [Show HN: The DNA of DOOM – How code structure survives across 44 ports](https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/)
 * [2026-11-02, 16:02:26](https://news.ycombinator.com/item?id=50338747) - [Why we're moving our warehouse off DuckDB](https://posthog.com/blog/moving-off-duckdb)
 * [2026-11-02, 16:01:37](https://news.ycombinator.com/item?id=50338728) - [Ask HN: Who is hiring? (November 2026)](https://news.ycombinator.com/item?id=50338728)
 * [2026-11-02, 15:40:04](https://news.ycombinator.com/item?id=50338334) - [Curiosity Traps](https://www.autodidacts.io/curiosity-traps/)
