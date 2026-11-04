@@ -4,6 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-11-04](index.md)
 
+* [2026-11-04, 11:02:23](https://news.ycombinator.com/item?id=50363861) - [RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb](https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb)
+* [2026-11-04, 10:43:51](https://news.ycombinator.com/item?id=50363717) - [Told to reboot a server, it destroyed systemd, destroyed containers, ran random](https://github.com/openai/codex/issues/59060)
+* [2026-11-04, 10:23:34](https://news.ycombinator.com/item?id=50363554) - [Geoffrey Hinton: it might turn out we were better off without AI](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
+* [2026-11-04, 10:10:27](https://news.ycombinator.com/item?id=50363461) - [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461)
+* [2026-11-04, 10:00:06](https://news.ycombinator.com/item?id=50363378) - [Incident with Pull Requests, Git Operations and Issues](https://www.githubstatus.com/incidents/smtdswd1h2w4)
+* [2026-11-04, 09:01:58](https://news.ycombinator.com/item?id=50363019) - [Verification Is Not Knowledge: Science needs more than answers](https://blog.cosmos-institute.org/p/verification-is-not-knowledge)
+* [2026-11-04, 08:58:03](https://news.ycombinator.com/item?id=50362993) - [Milkman – The Better Alternative to Postman](https://milkman.dev/)
+* [2026-11-04, 08:57:10](https://news.ycombinator.com/item?id=50362980) - [Kitty 0.50](https://sw.kovidgoyal.net/kitty/changelog/#)
+* [2026-11-04, 08:46:29](https://news.ycombinator.com/item?id=50362905) - [Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
+* [2026-11-04, 07:37:30](https://news.ycombinator.com/item?id=50362466) - [The lost malloc()](https://napcakes.nekoweb.org/posts/malloc/)
+* [2026-11-04, 03:40:50](https://news.ycombinator.com/item?id=50361268) - [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
+* [2026-11-04, 03:20:13](https://news.ycombinator.com/item?id=50361154) - [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
 * [2026-11-04, 03:11:27](https://news.ycombinator.com/item?id=50361107) - [Arrows to arrows, categories to queries (2025)](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
 * [2026-11-04, 01:40:42](https://news.ycombinator.com/item?id=50360573) - [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today)
 * [2026-11-04, 00:33:22](https://news.ycombinator.com/item?id=50360164) - [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
