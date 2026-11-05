@@ -35,6 +35,7 @@
 * [2026-11-04, 15:20:49](https://news.ycombinator.com/item?id=50366853) - [A wave of plastic-free coffee pods and machines](https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free)
 * [2026-11-04, 15:04:14](https://news.ycombinator.com/item?id=50366575) - [Debian apt security update (man-in-the-middle)](https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=)
 * [2026-11-04, 15:01:44](https://news.ycombinator.com/item?id=50366522) - [Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/)
+* [2026-11-04, 14:58:52](https://news.ycombinator.com/item?id=50366465) - [TScert: A Sound Core for TypeScript](https://github.com/cristianoc/TScert)
 * [2026-11-04, 14:37:22](https://news.ycombinator.com/item?id=50366117) - [Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117)
 * [2026-11-04, 14:11:26](https://news.ycombinator.com/item?id=50365780) - [Tencent Hy4](https://hy.tencent.ai/research/hy4)
 * [2026-11-04, 14:09:55](https://news.ycombinator.com/item?id=50365755) - [North Korean fake job interview led to $6.3B Binance heist](https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398)
