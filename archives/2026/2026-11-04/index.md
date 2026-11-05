@@ -23,6 +23,7 @@
 * [2026-11-04, 17:31:53](https://news.ycombinator.com/item?id=50368804) - [Launch HN: Kino AI (YC S23) – AI media manager and video editor](https://news.ycombinator.com/item?id=50368804)
 * [2026-11-04, 17:17:46](https://news.ycombinator.com/item?id=50368626) - [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)
 * [2026-11-04, 17:01:44](https://news.ycombinator.com/item?id=50368439) - [An end to buggy web apps](https://replay.io/blog/an-end-to-buggy-web-apps)
+* [2026-11-04, 16:45:11](https://news.ycombinator.com/item?id=50368208) - [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k)
 * [2026-11-04, 16:11:33](https://news.ycombinator.com/item?id=50367653) - ['It's just vape, nail, charity shops': Can anything save UK high street?](https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham)
 * [2026-11-04, 15:38:34](https://news.ycombinator.com/item?id=50367125) - [AMD expects to outsell Intel in Q4 for the first time in history](https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections)
 * [2026-11-04, 15:30:57](https://news.ycombinator.com/item?id=50367004) - [Letting users trust their own MCP clients, without opening a phishing hole](https://streamvessel.com/blog/mcp-trusted-redirect-uris)

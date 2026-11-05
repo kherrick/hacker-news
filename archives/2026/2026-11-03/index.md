@@ -42,6 +42,7 @@
 * [2026-11-03, 12:21:17](https://news.ycombinator.com/item?id=50351111) - [The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading)
 * [2026-11-03, 11:32:43](https://news.ycombinator.com/item?id=50350693) - [Sam Altman's Case Against Your RAM Is Efficient. That's the Problem](https://www.techdirt.com/2026/11/02/sam-altmans-case-against-your-ram-is-efficient-thats-the-problem/)
 * [2026-11-03, 09:53:59](https://news.ycombinator.com/item?id=50350004) - [Revolut moves to self-hosted GLM](https://twitter.com/guilleflorvs/status/2117379073785696395)
+* [2026-11-03, 08:59:31](https://news.ycombinator.com/item?id=50349667) - [The Lisp curse, now coming to your ecosystem](https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html)
 * [2026-11-03, 07:56:21](https://news.ycombinator.com/item?id=50349276) - [Could a modern chess engine on a Pentium have defeated Kasparov in 1996?](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html)
 * [2026-11-03, 07:39:05](https://news.ycombinator.com/item?id=50349165) - [Future Maintenance of Mbed TLS](https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/)
 * [2026-11-03, 07:36:47](https://news.ycombinator.com/item?id=50349155) - [uBlock Origin filter to block autoplay videos in TechCrunch](https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html)
