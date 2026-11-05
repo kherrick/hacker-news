@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-11-05, 00:18:18",
+      "https://news.ycombinator.com/item?id=50373308"
+    ],
+    [
+      "Starfall – Affordable, routine access to microgravity",
+      "https://www.spacex.com/starfall"
+    ]
+  ],
+  [
+    [
       "2026-11-04, 23:35:44",
       "https://news.ycombinator.com/item?id=50372945"
     ],
     [
-      "Introducing Images 2.6",
+      "Images 2.6",
       "https://openai.com/index/introducing-images-2-6/"
     ]
   ],
@@ -15,28 +25,8 @@
       "https://news.ycombinator.com/item?id=50372929"
     ],
     [
-      "Local privilege escalation vulnerabilities in Linux",
+      "A thousand fewer paths to root",
       "https://openai.com/index/a-thousand-fewer-paths-to-root/"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 23:01:19",
-      "https://news.ycombinator.com/item?id=50372660"
-    ],
-    [
-      "Successful People (2013)",
-      "https://blog.samaltman.com/successful-people"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 22:26:24",
-      "https://news.ycombinator.com/item?id=50372360"
-    ],
-    [
-      "Less Popular Than Coal",
-      "https://www.argmin.net/p/less-popular-than-coal"
     ]
   ],
   [
@@ -57,16 +47,6 @@
     [
       "Residential proxies detected on White House network",
       "https://layer3intel.com/blog/residential-proxies-white-house-network"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 20:31:30",
-      "https://news.ycombinator.com/item?id=50371090"
-    ],
-    [
-      "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
-      "https://github.com/gauge-sh/gauge-cli"
     ]
   ],
   [
@@ -111,16 +91,6 @@
   ],
   [
     [
-      "2026-11-04, 18:40:54",
-      "https://news.ycombinator.com/item?id=50369754"
-    ],
-    [
-      "Have I befriended a murderer?",
-      "https://longreads.com/2026/11/03/murder-friendship-doubt/"
-    ]
-  ],
-  [
-    [
       "2026-11-04, 18:22:40",
       "https://news.ycombinator.com/item?id=50369503"
     ],
@@ -161,6 +131,16 @@
   ],
   [
     [
+      "2026-11-04, 16:11:33",
+      "https://news.ycombinator.com/item?id=50367653"
+    ],
+    [
+      "'It's just vape, nail, charity shops': Can anything save UK high street?",
+      "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham"
+    ]
+  ],
+  [
+    [
       "2026-11-04, 15:38:34",
       "https://news.ycombinator.com/item?id=50367125"
     ],
@@ -177,16 +157,6 @@
     [
       "Kimi K3.1 Pro model weights are out",
       "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 15:25:33",
-      "https://news.ycombinator.com/item?id=50366929"
-    ],
-    [
-      "Show HN: I built a tool that prices a pre-built PC part by part",
-      "https://pcdealcheck.com/"
     ]
   ],
   [
@@ -251,32 +221,12 @@
   ],
   [
     [
-      "2026-11-04, 10:00:06",
-      "https://news.ycombinator.com/item?id=50363378"
+      "2026-11-04, 09:57:43",
+      "https://news.ycombinator.com/item?id=50363353"
     ],
     [
-      "Incident with Pull Requests, Git Operations and Issues",
-      "https://www.githubstatus.com/incidents/smtdswd1h2w4"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 09:01:58",
-      "https://news.ycombinator.com/item?id=50363019"
-    ],
-    [
-      "Verification Is Not Knowledge: Science needs more than answers",
-      "https://blog.cosmos-institute.org/p/verification-is-not-knowledge"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 08:46:29",
-      "https://news.ycombinator.com/item?id=50362905"
-    ],
-    [
-      "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+      "11 Nanoseconds per Word: Over-Optimizing Anagrams",
+      "https://wiredream.com/anagram-fun/"
     ]
   ],
   [
@@ -291,12 +241,62 @@
   ],
   [
     [
+      "2026-11-03, 02:52:50",
+      "https://news.ycombinator.com/item?id=50347425"
+    ],
+    [
+      "Ask HN: What cryptography book do you recommend for reading with 10 year olds?",
+      "https://news.ycombinator.com/item?id=50347425"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 19:23:48",
+      "https://news.ycombinator.com/item?id=50342219"
+    ],
+    [
+      "PageScribe: Handwriting and offline dictionary audio for KOReader",
+      "https://aspireai.kiranadimatyam.com/builds/pagescribe/"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 19:13:55",
+      "https://news.ycombinator.com/item?id=50342031"
+    ],
+    [
+      "Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs",
+      "https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 18:45:54",
+      "https://news.ycombinator.com/item?id=50341576"
+    ],
+    [
+      "Spreading Liquid with Three.js",
+      "https://mofu-dev.com/en/blog/fluid-foundation/"
+    ]
+  ],
+  [
+    [
       "2026-11-02, 16:23:37",
       "https://news.ycombinator.com/item?id=50339183"
     ],
     [
       "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
       "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/"
+    ]
+  ],
+  [
+    [
+      "2026-11-02, 15:48:45",
+      "https://news.ycombinator.com/item?id=50338474"
+    ],
+    [
+      "Basically no one is using AI agents for their DoorDash orders",
+      "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/"
     ]
   ]
 ]
