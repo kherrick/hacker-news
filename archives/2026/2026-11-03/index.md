@@ -47,6 +47,7 @@
 * [2026-11-03, 03:28:26](https://news.ycombinator.com/item?id=50347683) - [Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)](https://www.keepingup.com/benchmarks/net-worth/age-30-33)
 * [2026-11-03, 03:10:04](https://news.ycombinator.com/item?id=50347552) - [Show HN: I built a little browser game to practice Vim commands](https://hjkl.duy.run)
 * [2026-11-03, 02:58:44](https://news.ycombinator.com/item?id=50347464) - [Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities](https://arxiv.org/abs/2608.25820)
+* [2026-11-03, 02:52:50](https://news.ycombinator.com/item?id=50347425) - [Ask HN: What cryptography book do you recommend for reading with 10 year olds?](https://news.ycombinator.com/item?id=50347425)
 * [2026-11-03, 01:53:34](https://news.ycombinator.com/item?id=50346981) - [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
 * [2026-11-03, 01:33:43](https://news.ycombinator.com/item?id=50346849) - [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 * [2026-11-03, 01:18:09](https://news.ycombinator.com/item?id=50346755) - [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org)
