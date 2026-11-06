@@ -30,6 +30,7 @@
 * [2026-11-05, 14:44:20](https://news.ycombinator.com/item?id=50379704) - [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
 * [2026-11-05, 14:34:18](https://news.ycombinator.com/item?id=50379576) - [September in Servo: <progress>, rounded rectangles, and more](https://servo.org/blog/2026/11/05/september-in-servo/)
 * [2026-11-05, 14:08:35](https://news.ycombinator.com/item?id=50379249) - [MCP Explained](https://mcp-explained.com/)
+* [2026-11-05, 14:06:31](https://news.ycombinator.com/item?id=50379221) - [Show HN: Waymark – A workflow engine that compiles jobs instead of replaying](https://github.com/piercefreeman/waymark)
 * [2026-11-05, 13:40:52](https://news.ycombinator.com/item?id=50378942) - [I wish tech companies knew more about me](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me)
 * [2026-11-05, 13:07:29](https://news.ycombinator.com/item?id=50378643) - [Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM](https://firenook.dev/)
 * [2026-11-05, 13:05:28](https://news.ycombinator.com/item?id=50378625) - [Discord is ditching Electron and its new app uses less RAM](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
