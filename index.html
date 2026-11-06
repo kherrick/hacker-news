@@ -129,17 +129,630 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="50383963">
+          <h3>
+            <a
+              class="item"
+              href="https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/"
+              >Tencent Launches Hy4, One of the Leading Open-Source AI Models</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 20:21:43</span
+              ><span class="points-container"
+                >Points: <span class="points">75</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50383963"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50383740">
+          <h3>
+            <a class="item" href="https://kagi.com/changelog"
+              >Kagi Search for Everyone</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 20:03:34</span
+              ><span class="points-container"
+                >Points: <span class="points">491</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50383740"
+                  >Comments</a
+                ><span class="descendants">: 241</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50383739">
+          <h3>
+            <a
+              class="item"
+              href="https://www.salon.com/2026/11/05/goodbye-from-salon/"
+              >Goodbye from Salon</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 20:03:29</span
+              ><span class="points-container"
+                >Points: <span class="points">403</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50383739"
+                  >Comments</a
+                ><span class="descendants">: 147</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50383163">
+          <h3>
+            <a
+              class="item"
+              href="https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed"
+              >Hungary: Communist-era files released, up to 60k former agents
+              revealed</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 19:16:34</span
+              ><span class="points-container"
+                >Points: <span class="points">147</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50383163"
+                  >Comments</a
+                ><span class="descendants">: 32</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50383057">
+          <h3>
+            <a
+              class="item"
+              href="https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/"
+              >The Hackintosh Reborn</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 19:08:22</span
+              ><span class="points-container"
+                >Points: <span class="points">190</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50383057"
+                  >Comments</a
+                ><span class="descendants">: 90</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50381687">
+          <h3>
+            <a class="item" href="https://github.com/rivet-dev/rivet"
+              >Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 17:17:42</span
+              ><span class="points-container"
+                >Points: <span class="points">73</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50381687"
+                  >Comments</a
+                ><span class="descendants">: 40</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://rivet.dev">https://rivet.dev</a>) – a fast,
+              high-density, and scalable orchestrator for agentic workloads
+              using the actor model. Rather than running a heavyweight sandbox
+              per agent, each agent gets a lightweight actor backed by S3.
+              <p>
+                Actors provide a long-lived process for long agent turns,
+                in-memory state for context, a WebSocket server for multiplayer,
+                durable SQLite storage backed by S3, and hibernation when idle.
+              </p>
+              <p>
+                It's a similar model to Cloudflare Durable Objects, but it’s
+                open source and self-hostable.
+              </p>
+              <p>
+                Here’s a video walkthrough:
+                <a href="https://www.youtube.com/watch?v=3Ev6I7DOV9c"
+                  >https://www.youtube.com/watch?v=3Ev6I7DOV9c</a
+                >
+              </p>
+              <p>
+                When we went through YC in 2023, we were building infrastructure
+                for multiplayer games like Diep and Krunker. This involved
+                heavily optimizing high-throughput matchmaking, real-time player
+                messages, and blitz scaling. Through that process, we spent a
+                lot of time on workloads where Postgres couldn't keep up with
+                our throughput. We started out by hacking together Lua scripts
+                on top of Redis, but this became too cumbersome to maintain and
+                upgrade. This led us to extend our game server orchestrator to
+                support what we call Rivet Actors today: many lightweight
+                workers with in-memory state and durable storage. By using
+                actors, we were able to serve tens of millions of monthly active
+                users.
+              </p>
+              <p>
+                As agents grew in popularity, it became clear that running
+                agents in sandboxes is inefficient. Sandboxes are expensive,
+                mostly idle, and slow to start. Developers started using actors
+                because they are far more memory efficient (72 KB baseline for
+                actors vs 512 MB for a minimal sandbox) and fast to start (4.9
+                ms p99 for actors vs 1.7 s p99 for sandboxes).
+              </p>
+              <p>
+                For example, Amp is using Rivet to orchestrate multiplayer
+                agents. They originally tried to build on Cloudflare Durable
+                Objects, but couldn’t launch because of the platform’s
+                limitations and unresponsive support. They migrated to Rivet
+                Actors in a weekend and deploy on-prem. Rivet’s flexible
+                architecture lets them adapt it to their own use cases without
+                being constrained by a framework or the memory, storage, and
+                runtime limits of Cloudflare Durable Objects.
+              </p>
+              <p>
+                Under the hood, Rivet is backed by S3 while maintaining SSD
+                speeds.
+              </p>
+              <p>
+                Why S3? Previously, Rivet ran on FoundationDB. However, we were
+                surprised to find that companies are storing orders of magnitude
+                more data on Rivet Actors than in Postgres, such as large
+                session transcripts, agent artifacts, and full POSIX
+                filesystems. As their data grew, they had to start paying for
+                SSDs that sat mostly idle with old transcripts. This led us to
+                double down on S3 as our primary storage medium without
+                sacrificing performance. This choice means that data stored on
+                Rivet is 10× cheaper than on EBS gp3 while maintaining SSD
+                speeds.
+              </p>
+              <p>
+                It’s not as simple as writing data straight to S3. Lots of PUTs
+                for tiny blobs of data are slow and expensive. Instead, we use
+                an SSD tier to optimize speed and cost:
+              </p>
+              <p>
+                When you write data to an actor’s SQLite database, the write is
+                acknowledged once SSDs in 2 of 3 availability zones have it.
+                Then, the data is batched to S3 in the background. This means
+                that S3 is never on the write path, which lowers latency and
+                cost. When reading data or waking an actor, Rivet reads from
+                SSDs if already cached and falls back to S3 if not. SSD caches
+                can be tuned to meet your needs, giving you configurable tiered
+                storage for your actors.
+              </p>
+              <p>
+                This architecture lets Rivet provide 1.07 ms durable writes (3
+                AZ, p99), 1.36 ms reads (p99), and 138 ms reads from object
+                storage (p99).
+              </p>
+              <p>
+                We’ve spent a lot of time making sure that Rivet can run
+                wherever you need it. Self-hosting requires deploying a single
+                Rust binary with S3 as the only dependency, Rivet Cloud lets you
+                deploy dedicated clusters on AWS or GCP in any region, and BYOC
+                lets us deploy Rivet to your VPC without having to operate it
+                yourself. Rivet also runs identically in local dev as in
+                production, since Rivet is a lightweight binary that runs
+                anywhere
+              </p>
+              <p>
+                Rivet Actors can be written in TypeScript or Rust. Out of the
+                box, they support agents (Pi Durable), workflows, real-time,
+                multiplayer, running AI-generated code, Durable Streams, and
+                integrations with tools like Vercel’s Eve and Turso. See all of
+                our available guides, or point your agent at them:
+                <a href="https://rivet.dev/docs/#guides"
+                  >https://rivet.dev/docs/#guides</a
+                >
+              </p>
+              <p>
+                Try it out now, by reading our quickstart guides (<a
+                  href="https://rivet.dev/docs/"
+                  >https://rivet.dev/docs/</a
+                >) or ask your agent: “Run npx skills add rivet-dev/skills, then
+                build a multiplayer chat agent and run it locally.”
+              </p>
+              <p>
+                We’d love to get feedback on your experience with Rivet! We’re
+                deeply invested in making Rivet an easy-to-self-host, flexible,
+                and efficient way to run agentic workloads.
+              </p>
+              <p>
+                GitHub:
+                <a href="https://github.com/rivet-dev/rivet"
+                  >https://github.com/rivet-dev/rivet</a
+                >
+              </p>
+              <p>
+                Architecture:
+                <a href="https://rivet.dev/docs/architecture/"
+                  >https://rivet.dev/docs/architecture/</a
+                >
+              </p>
+              <p>
+                Benchmarks:
+                <a href="https://rivet.dev/docs/benchmarking/"
+                  >https://rivet.dev/docs/benchmarking/</a
+                >
+              </p>
+              <p>
+                Self-hosting:
+                <a href="https://rivet.dev/docs/deploy/self-host/"
+                  >https://rivet.dev/docs/deploy/self-host/</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="50381623">
+          <h3>
+            <a
+              class="item"
+              href="https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
+              >Nasdaq plummets 4% into correction territory</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 17:11:15</span
+              ><span class="points-container"
+                >Points: <span class="points">195</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50381623"
+                  >Comments</a
+                ><span class="descendants">: 152</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50381512">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/bild-ai/jobs"
+              >Bild AI (YC W25) Is Hiring Founding Product Engineers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 17:01:23</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50381383">
+          <h3>
+            <a class="item" href="https://github.com/saragordic/window-sweaters"
+              >Window Sweaters</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 16:50:14</span
+              ><span class="points-container"
+                >Points: <span class="points">236</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50381383"
+                  >Comments</a
+                ><span class="descendants">: 78</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50381033">
+          <h3>
+            <a
+              class="item"
+              href="https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf"
+              >My psychophysics as a bilateral cochlear implant user</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 16:21:12</span
+              ><span class="points-container"
+                >Points: <span class="points">158</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50381033"
+                  >Comments</a
+                ><span class="descendants">: 67</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50380979">
+          <h3>
+            <a
+              class="item"
+              href="https://axiommath.ai/research/the-stacks-project-formalized/"
+              >The Stacks Project, Formalized in Lean</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 16:16:59</span
+              ><span class="points-container"
+                >Points: <span class="points">67</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50380979"
+                  >Comments</a
+                ><span class="descendants">: 18</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50380810">
+          <h3>
+            <a
+              class="item"
+              href="https://motorolanews.com/motorola-signature-27-2/"
+              >Motorola Signature 27 with GrapheneOS support</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 16:01:34</span
+              ><span class="points-container"
+                >Points: <span class="points">395</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50380810"
+                  >Comments</a
+                ><span class="descendants">: 295</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50380704">
+          <h3>
+            <a class="item" href="https://github.com/AGGIB/Stroq"
+              >Show HN: Stroq – a local audit of what your coding agent did and
+              why</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 15:54:41</span
+              ><span class="points-container"
+                >Points: <span class="points">69</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50380704"
+                  >Comments</a
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50380658">
+          <h3>
+            <a
+              class="item"
+              href="https://kadhar.dev/blog/multi-agent-systems-from-scratch"
+              >Building a Multi-Agent System from Scratch: Architecture
+              Patterns</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 15:51:57</span
+              ><span class="points-container"
+                >Points: <span class="points">73</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50380658"
+                  >Comments</a
+                ><span class="descendants">: 29</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50380268">
+          <h3>
+            <a class="item" href="https://nullprogram.com/blog/2026/11/05/"
+              >We can do better than line-buffered output</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 15:25:22</span
+              ><span class="points-container"
+                >Points: <span class="points">91</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50380268"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50380170">
+          <h3>
+            <a class="item" href="https://nordstjernen.org/"
+              >Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C
+              and Rust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 15:17:31</span
+              ><span class="points-container"
+                >Points: <span class="points">49</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50380170"
+                  >Comments</a
+                ><span class="descendants">: 30</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50379704">
+          <h3>
+            <a
+              class="item"
+              href="https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
+              >Alpine Linux Security Advisory: OpenSSH-server password
+              authentication bypass</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 14:44:20</span
+              ><span class="points-container"
+                >Points: <span class="points">577</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50379704"
+                  >Comments</a
+                ><span class="descendants">: 123</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50379576">
+          <h3>
+            <a
+              class="item"
+              href="https://servo.org/blog/2026/11/05/september-in-servo/"
+              >September in Servo: , rounded rectangles, and more</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 14:34:18</span
+              ><span class="points-container"
+                >Points: <span class="points">182</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50379576"
+                  >Comments</a
+                ><span class="descendants">: 45</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50379249">
+          <h3>
+            <a class="item" href="https://mcp-explained.com/">MCP Explained</a>
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 14:08:35</span
+              ><span class="points-container"
+                >Points: <span class="points">238</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50379249"
+                  >Comments</a
+                ><span class="descendants">: 111</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50378942">
+          <h3>
+            <a
+              class="item"
+              href="https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me"
+              >I wish tech companies knew more about me</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 13:40:52</span
+              ><span class="points-container"
+                >Points: <span class="points">292</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50378942"
+                  >Comments</a
+                ><span class="descendants">: 259</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50378625">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"
+              >Discord is ditching Electron and its new app uses less RAM</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 13:05:28</span
+              ><span class="points-container"
+                >Points: <span class="points">381</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50378625"
+                  >Comments</a
+                ><span class="descendants">: 331</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50378571">
+          <h3>
+            <a
+              class="item"
+              href="https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/"
+              >Download your favourite YouTube videos</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 13:00:11</span
+              ><span class="points-container"
+                >Points: <span class="points">270</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50378571"
+                  >Comments</a
+                ><span class="descendants">: 123</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50378508">
+          <h3>
+            <a
+              class="item"
+              href="https://phoboslab.org/log/2026/11/n64-ulc-codec"
+              >Obscure audio codec is a perfect fit for the N64</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-05 @ 12:51:48</span
+              ><span class="points-container"
+                >Points: <span class="points">187</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50378508"
+                  >Comments</a
+                ><span class="descendants">: 22</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="50378228">
-          <h3><a class="item" href="https://sshhole.com">Sshole</a></h3>
+          <h3><a class="item" href="https://sshhole.com">sshole</a></h3>
           <section>
             <h4>
               <span>2026-11-05 @ 12:19:02</span
               ><span class="points-container"
-                >Points: <span class="points">1959</span></span
+                >Points: <span class="points">2291</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50378228"
                   >Comments</a
-                ><span class="descendants">: 506</span></span
+                ><span class="descendants">: 568</span></span
               >
             </h4>
           </section>
@@ -156,54 +769,11 @@
             <h4>
               <span>2026-11-05 @ 11:40:30</span
               ><span class="points-container"
-                >Points: <span class="points">212</span></span
+                >Points: <span class="points">237</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50377976"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50377821">
-          <h3>
-            <a
-              class="item"
-              href="https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/"
-              >Awesome repositories are no longer awesome</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-05 @ 11:16:51</span
-              ><span class="points-container"
-                >Points: <span class="points">257</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50377821"
-                  >Comments</a
-                ><span class="descendants">: 113</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50377221">
-          <h3>
-            <a
-              class="item"
-              href="https://hachyderm.io/@damienmiller/117563026759098135"
-              >OpenSSH 10.6p2 has been released with a workaround for a critical
-              vulnerability</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-05 @ 09:46:17</span
-              ><span class="points-container"
-                >Points: <span class="points">169</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50377221"
-                  >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -220,11 +790,11 @@
             <h4>
               <span>2026-11-05 @ 09:29:12</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50377078"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -241,49 +811,11 @@
             <h4>
               <span>2026-11-05 @ 07:44:30</span
               ><span class="points-container"
-                >Points: <span class="points">228</span></span
+                >Points: <span class="points">291</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50376313"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50375691">
-          <h3>
-            <a class="item" href="https://jaytholen.net/teengamedev/"
-              >Being a kid making games in the early 2000s</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-05 @ 05:53:53</span
-              ><span class="points-container"
-                >Points: <span class="points">116</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50375691"
-                  >Comments</a
-                ><span class="descendants">: 47</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50375653">
-          <h3>
-            <a class="item" href="https://www.altera.com/newsroom/agilex-2x"
-              >Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-05 @ 05:47:14</span
-              ><span class="points-container"
-                >Points: <span class="points">57</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50375653"
-                  >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 152</span></span
               >
             </h4>
           </section>
@@ -298,486 +830,102 @@
             <h4>
               <span>2026-11-05 @ 04:54:10</span
               ><span class="points-container"
-                >Points: <span class="points">371</span></span
+                >Points: <span class="points">383</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50375354"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="50372945">
+        <section id="50368208">
           <h3>
-            <a
-              class="item"
-              href="https://openai.com/index/introducing-images-2-6/"
-              >Images 2.6</a
+            <a class="item" href="https://www.linum.ai/field-notes/pjit-21k"
+              >Show HN: A decent text-to-image model trained for ~$20K (Apache
+              2.0 Weights)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-11-04 @ 23:35:44</span
+              <span>2026-11-04 @ 16:45:11</span
               ><span class="points-container"
-                >Points: <span class="points">374</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50372945"
+                ><a href="https://news.ycombinator.com/item?id=50368208"
                   >Comments</a
-                ><span class="descendants">: 232</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50372929">
-          <h3>
-            <a
-              class="item"
-              href="https://openai.com/index/a-thousand-fewer-paths-to-root/"
-              >A thousand fewer paths to root</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-04 @ 23:33:14</span
-              ><span class="points-container"
-                >Points: <span class="points">464</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50372929"
-                  >Comments</a
-                ><span class="descendants">: 344</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50372164">
-          <h3>
-            <a class="item" href="https://icode4.coffee/?p=1746"
-              >Hacking the Xbox 360 Hypervisor Part 3: Bad Update
-              Improvements</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-04 @ 22:01:49</span
-              ><span class="points-container"
-                >Points: <span class="points">136</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50372164"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50371246">
-          <h3>
-            <a
-              class="item"
-              href="https://layer3intel.com/blog/residential-proxies-white-house-network"
-              >Residential proxies detected on White House network</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-04 @ 20:45:18</span
-              ><span class="points-container"
-                >Points: <span class="points">1239</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50371246"
-                  >Comments</a
-                ><span class="descendants">: 419</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/"
-                >https://krebsonsecurity.com/2026/11/want-to-rent-an-internet...</a
-              >
-            </div>
-          </section>
-        </section>
-        <section id="50370654">
-          <h3>
-            <a
-              class="item"
-              href="https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
-              >Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB
-              at 548GB/s</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-04 @ 19:55:14</span
-              ><span class="points-container"
-                >Points: <span class="points">168</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50370654"
-                  >Comments</a
-                ><span class="descendants">: 63</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50370610">
-          <h3>
-            <a
-              class="item"
-              href="https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/"
-              >Insects don't swarm at LED lights</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-04 @ 19:50:23</span
-              ><span class="points-container"
-                >Points: <span class="points">304</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50370610"
-                  >Comments</a
-                ><span class="descendants">: 158</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50369925">
-          <h3>
-            <a class="item" href="https://www.ricursive.com/ripple"
-              >Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-04 @ 18:53:29</span
-              ><span class="points-container"
-                >Points: <span class="points">329</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50369925"
-                  >Comments</a
-                ><span class="descendants">: 120</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50369895">
-          <h3>
-            <a class="item" href="https://fireflyk64.github.io/wcmulti/"
-              >Show HN: After a decade of reversing, I got co-op working in DOS
-              Wing Commander</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-04 @ 18:51:27</span
-              ><span class="points-container"
-                >Points: <span class="points">244</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50369895"
-                  >Comments</a
-                ><span class="descendants">: 34</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50369503">
-          <h3>
-            <a class="item" href="https://www.conductor.build/announcement"
-              >Conductor is joining Meta</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-04 @ 18:22:40</span
-              ><span class="points-container"
-                >Points: <span class="points">208</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50369503"
-                  >Comments</a
-                ><span class="descendants">: 216</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50369106">
-          <h3>
-            <a class="item" href="https://go.dev/blog/jsonv2"
-              >A new Go API for JSON</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-04 @ 17:52:11</span
-              ><span class="points-container"
-                >Points: <span class="points">384</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50369106"
-                  >Comments</a
-                ><span class="descendants">: 193</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50368626">
-          <h3>
-            <a
-              class="item"
-              href="https://www.anthropic.com/research/provable-inference"
-              >Progress on provable inference for large language models</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-04 @ 17:17:46</span
-              ><span class="points-container"
-                >Points: <span class="points">235</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50368626"
-                  >Comments</a
-                ><span class="descendants">: 121</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50366999">
-          <h3>
-            <a
-              class="item"
-              href="https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
-              >Kimi K3.1 Pro model weights are out</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-04 @ 15:30:30</span
-              ><span class="points-container"
-                >Points: <span class="points">616</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50366999"
-                  >Comments</a
-                ><span class="descendants">: 181</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50366522">
-          <h3>
-            <a
-              class="item"
-              href="https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/"
-              >Guerrilla bike lanes: San Francisco makes illicit infrastructure
-              permanent (2016)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-04 @ 15:01:44</span
-              ><span class="points-container"
-                >Points: <span class="points">335</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50366522"
-                  >Comments</a
-                ><span class="descendants">: 273</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50366465">
-          <h3>
-            <a class="item" href="https://github.com/cristianoc/TScert"
-              >TScert: A Sound Core for TypeScript</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-04 @ 14:58:52</span
-              ><span class="points-container"
-                >Points: <span class="points">25</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50366465"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50366117">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=50366117"
-              >Ask HN: What's your current AI agentic setup?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-04 @ 14:37:22</span
-              ><span class="points-container"
-                >Points: <span class="points">492</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50366117"
-                  >Comments</a
-                ><span class="descendants">: 604</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
               <p>
-                1) What AI subscriptions are you personally paying for? (Claude,
-                ChatGPT/Codex, Cursor, etc)
-              </p>
-              <p>- Which tiers?</p>
-              <p>
-                - Have you purchased multiple subscriptions from the same
-                provider (eg two Claude accounts)?
+                Video models today are too slow/expensive and lack sufficient
+                controls. Creativity is an iterative process. You make, you
+                tweak, you get better. In our opinion, they're not usable yet
+                for storytelling.
               </p>
               <p>
-                2) Are you using models outside (or instead) of those
-                subscriptions? For example, pay-as-you-go APIs, OpenRouter, or
-                locally hosted models.
-              </p>
-              <p>- Which models and providers?</p>
-              <p>
-                3) What coding harnesses and interfaces are you using? Are you
-                sticking with the default CLIs or IDE integrations, or using
-                alternatives like OpenCode, Pi, Aider, Muse Code, or
-                custom-built harnesses?
-              </p>
-              <p>- What made you switch harnesses (if you switched)?</p>
-              <p>4) Are you using any agent orchestration or swarm tools?</p>
-              <p>
-                - For example, Munder Difflin, Gas Town, Ruflo, or something
-                custom.
+                When we set out to build Linum v3 (our next video model) earlier
+                this year, the primary goal was to bring the cost envelope of
+                inference down significantly. If our model is fast and cheap,
+                it's the first step (of many) towards useful creative tools.
               </p>
               <p>
-                5) Are you using broader agent platforms like OpenClaw / Hermes
-                Agent / Grok bot / Dots / Muse?
+                Typically, you see "latent diffusion models". A VAE (Variational
+                Autoencoder) compresses the input data into a smaller "latent
+                space" and the diffusion model learns how to generate within
+                this subspace.
               </p>
-              <p>- If you are using them, what are your main use cases?</p>
-              <p>-----</p>
               <p>
-                I know my workflow has differed significantly from a year ago,
-                and so it would be interesting to capture a snapshot today of
-                what people are using and why.
+                Over the past few months, we've been publishing our work on
+                efficient pixel-space diffusion models. These throw away the
+                VAE, having the diffusion model learn a latent-space optimized
+                for its exact task.
+              </p>
+              <p>
+                This serves 3 purposes: 1) Simplify Architecture (no 2-stage
+                model training) 2) Faster Convergence (11x faster convergence
+                vs. our latent diffusion counterpart) 3) Cheaper Inference (4x
+                more aggressive token reduction in attention context-windows,
+                without significant loss in quality)
+              </p>
+              <p>
+                This past month we were pressure testing our latest architecture
+                (Pyramid-JiT) by training a text-to-image model longer than the
+                typical one-off experiment. Specifically, we trained it for
+                ~$20K on 660M samples.
+              </p>
+              <p>
+                We were surprised by the quality of results, so we thought we'd
+                release it as open weights for the community (Apache 2.0). The
+                research itself is already public, on our website.
+              </p>
+              <p>
+                For us, it's a big stepping stone towards cheaper video models,
+                since pretty much all video models start as image models. We
+                like to say these models have to learn nouns before they learn
+                verbs.
               </p>
             </div>
           </section>
         </section>
-        <section id="50364336">
+        <section id="50349667">
           <h3>
             <a
               class="item"
-              href="https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
-              >AI is forcing us to pay off 40 years of technical debt</a
+              href="https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html"
+              >The Lisp curse, now coming to your ecosystem</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-11-04 @ 11:52:17</span
+              <span>2026-11-03 @ 08:59:31</span
               ><span class="points-container"
-                >Points: <span class="points">1252</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50364336"
+                ><a href="https://news.ycombinator.com/item?id=50349667"
                   >Comments</a
-                ><span class="descendants">: 732</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50352846">
-          <h3>
-            <a
-              class="item"
-              href="https://leancrew.com/all-this/2026/10/textedit-vs-pages/"
-              >TextEdit vs. Pages</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-03 @ 15:00:09</span
-              ><span class="points-container"
-                >Points: <span class="points">81</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50352846"
-                  >Comments</a
-                ><span class="descendants">: 60</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50349165">
-          <h3>
-            <a
-              class="item"
-              href="https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/"
-              >Future Maintenance of Mbed TLS</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-03 @ 07:39:05</span
-              ><span class="points-container"
-                >Points: <span class="points">68</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50349165"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50343293">
-          <h3>
-            <a
-              class="item"
-              href="https://www.aha.io/engineering/articles/moment-of-ruby-an-argument-for-nothing"
-              >Moment of Ruby: An Argument for Nothing</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-02 @ 20:32:57</span
-              ><span class="points-container"
-                >Points: <span class="points">70</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50343293"
-                  >Comments</a
-                ><span class="descendants">: 15</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50341576">
-          <h3>
-            <a
-              class="item"
-              href="https://mofu-dev.com/en/blog/fluid-foundation/"
-              >Spreading Liquid with Three.js</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-02 @ 18:45:54</span
-              ><span class="points-container"
-                >Points: <span class="points">218</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50341576"
-                  >Comments</a
-                ><span class="descendants">: 29</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50340195">
-          <h3>
-            <a class="item" href="https://ziglang.org/devlog/2026/#2026-10-24"
-              >Partial Operator Precedence</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-02 @ 17:22:20</span
-              ><span class="points-container"
-                >Points: <span class="points">98</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50340195"
-                  >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
           </section>
