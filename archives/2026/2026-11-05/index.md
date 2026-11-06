@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-11-05](index.md)
 
+* [2026-11-05, 23:32:36](https://news.ycombinator.com/item?id=50386104) - [Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data](https://www.fgc.org.br/comunicado)
+* [2026-11-05, 23:09:57](https://news.ycombinator.com/item?id=50385870) - [Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue](https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html)
+* [2026-11-05, 22:17:15](https://news.ycombinator.com/item?id=50385272) - [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
+* [2026-11-05, 20:43:42](https://news.ycombinator.com/item?id=50384233) - [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
 * [2026-11-05, 20:21:43](https://news.ycombinator.com/item?id=50383963) - [Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)
+* [2026-11-05, 20:03:34](https://news.ycombinator.com/item?id=50383740) - [Search for everyone](https://kagi.com/changelog#11820)
 * [2026-11-05, 20:03:34](https://news.ycombinator.com/item?id=50383740) - [Kagi Search for Everyone](https://kagi.com/changelog)
 * [2026-11-05, 20:03:29](https://news.ycombinator.com/item?id=50383739) - [Goodbye from Salon](https://www.salon.com/2026/11/05/goodbye-from-salon/)
+* [2026-11-05, 19:27:52](https://news.ycombinator.com/item?id=50383294) - [Introducing Pangram Image 1.0](https://www.pangram.com/blog/introducing-pangram-image-1-0)
 * [2026-11-05, 19:16:34](https://news.ycombinator.com/item?id=50383163) - [Hungary: Communist-era files released, up to 60k former agents revealed](https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed)
 * [2026-11-05, 19:08:22](https://news.ycombinator.com/item?id=50383057) - [The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/)
 * [2026-11-05, 17:17:42](https://news.ycombinator.com/item?id=50381687) - [Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](https://github.com/rivet-dev/rivet)
@@ -24,6 +30,7 @@
 * [2026-11-05, 14:34:18](https://news.ycombinator.com/item?id=50379576) - [September in Servo: <progress>, rounded rectangles, and more](https://servo.org/blog/2026/11/05/september-in-servo/)
 * [2026-11-05, 14:08:35](https://news.ycombinator.com/item?id=50379249) - [MCP Explained](https://mcp-explained.com/)
 * [2026-11-05, 13:40:52](https://news.ycombinator.com/item?id=50378942) - [I wish tech companies knew more about me](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me)
+* [2026-11-05, 13:07:29](https://news.ycombinator.com/item?id=50378643) - [Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM](https://firenook.dev/)
 * [2026-11-05, 13:05:28](https://news.ycombinator.com/item?id=50378625) - [Discord is ditching Electron and its new app uses less RAM](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
 * [2026-11-05, 13:00:11](https://news.ycombinator.com/item?id=50378571) - [Download your favourite YouTube videos](https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/)
 * [2026-11-05, 12:51:48](https://news.ycombinator.com/item?id=50378508) - [Obscure audio codec is a perfect fit for the N64](https://phoboslab.org/log/2026/11/n64-ulc-codec)
