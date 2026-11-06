@@ -1,22 +1,102 @@
 [
   [
     [
+      "2026-11-06, 07:22:04",
+      "https://news.ycombinator.com/item?id=50389222"
+    ],
+    [
+      "Britain to make salary disclosure in job ads mandatory",
+      "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 07:00:18",
+      "https://news.ycombinator.com/item?id=50389074"
+    ],
+    [
+      "Budget offers $50B jolt to help Canada double its electricity grid",
+      "https://www.cbc.ca/news/politics/electricity-budget-new-money-9.7410949"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 06:06:33",
+      "https://news.ycombinator.com/item?id=50388752"
+    ],
+    [
+      "Hugging Face's CEO Says His P(Doom) Is 'Close to Zero'",
+      "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 05:19:04",
+      "https://news.ycombinator.com/item?id=50388513"
+    ],
+    [
+      "I struggle to believe that AI R&D is ingenious",
+      "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 04:17:49",
+      "https://news.ycombinator.com/item?id=50388122"
+    ],
+    [
+      "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 03:27:14",
+      "https://news.ycombinator.com/item?id=50387796"
+    ],
+    [
+      "Pwn.college",
+      "https://pwn.college/"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 03:16:26",
+      "https://news.ycombinator.com/item?id=50387738"
+    ],
+    [
+      "Nvidia Kubernetes Engine (NVKE)",
+      "https://github.com/dsx-ai-factory/nvke"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 02:49:56",
+      "https://news.ycombinator.com/item?id=50387546"
+    ],
+    [
+      "Closed AI models dominate the price-performance frontier",
+      "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 00:54:15",
+      "https://news.ycombinator.com/item?id=50386789"
+    ],
+    [
+      "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+      "https://github.com/matthewmrichter/mooftcp"
+    ]
+  ],
+  [
+    [
       "2026-11-06, 00:00:24",
       "https://news.ycombinator.com/item?id=50386338"
     ],
     [
       "Inkling 2 Small",
       "https://thinkingmachines.ai/news/inkling-2-small/"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 23:32:36",
-      "https://news.ycombinator.com/item?id=50386104"
-    ],
-    [
-      "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
-      "https://www.fgc.org.br/comunicado"
     ]
   ],
   [
@@ -51,16 +131,6 @@
   ],
   [
     [
-      "2026-11-05, 20:21:43",
-      "https://news.ycombinator.com/item?id=50383963"
-    ],
-    [
-      "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-      "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/"
-    ]
-  ],
-  [
-    [
       "2026-11-05, 20:03:34",
       "https://news.ycombinator.com/item?id=50383740"
     ],
@@ -85,18 +155,8 @@
       "https://news.ycombinator.com/item?id=50383294"
     ],
     [
-      "Introducing Pangram Image 1.0",
+      "Pangram Image 1.0",
       "https://www.pangram.com/blog/introducing-pangram-image-1-0"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 19:16:34",
-      "https://news.ycombinator.com/item?id=50383163"
-    ],
-    [
-      "Hungary: Communist-era files released, up to 60k former agents revealed",
-      "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed"
     ]
   ],
   [
@@ -121,32 +181,12 @@
   ],
   [
     [
-      "2026-11-05, 17:01:23",
-      "https://news.ycombinator.com/item?id=50381512"
-    ],
-    [
-      "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "https://www.ycombinator.com/companies/bild-ai/jobs"
-    ]
-  ],
-  [
-    [
       "2026-11-05, 16:50:14",
       "https://news.ycombinator.com/item?id=50381383"
     ],
     [
       "Window Sweaters",
       "https://github.com/saragordic/window-sweaters"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 16:21:12",
-      "https://news.ycombinator.com/item?id=50381033"
-    ],
-    [
-      "My psychophysics as a bilateral cochlear implant user",
-      "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf"
     ]
   ],
   [
@@ -167,26 +207,6 @@
     [
       "Motorola Signature 27 with GrapheneOS support",
       "https://motorolanews.com/motorola-signature-27-2/"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 15:54:41",
-      "https://news.ycombinator.com/item?id=50380704"
-    ],
-    [
-      "Show HN: Stroq – a local audit of what your coding agent did and why",
-      "https://github.com/AGGIB/Stroq"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 14:44:20",
-      "https://news.ycombinator.com/item?id=50379704"
-    ],
-    [
-      "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-11-05, 11:40:30",
-      "https://news.ycombinator.com/item?id=50377976"
-    ],
-    [
-      "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "https://www.openssh.org/releasenotes.html#10.6p2"
-    ]
-  ],
-  [
-    [
       "2026-11-05, 09:29:12",
       "https://news.ycombinator.com/item?id=50377078"
     ],
     [
       "Baidu released ERNIE 5.5 Flash Base",
       "https://ernie.baidu.com/release/ernie-5-5-flash-base/"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 07:44:30",
-      "https://news.ycombinator.com/item?id=50376313"
-    ],
-    [
-      "GPT-6 Astra covertly underperforms on safety research",
-      "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
     ]
   ],
   [
