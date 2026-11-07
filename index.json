@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-11-07, 21:47:47",
+      "https://news.ycombinator.com/item?id=50408350"
+    ],
+    [
+      "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+      "https://eyesrhythm.com/"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 21:11:05",
+      "https://news.ycombinator.com/item?id=50408104"
+    ],
+    [
+      "Shadow of the Sun",
+      "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 21:08:35",
+      "https://news.ycombinator.com/item?id=50408082"
+    ],
+    [
+      "Show HN: Where Were We",
+      "https://wherewerewe.app/"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 20:45:32",
+      "https://news.ycombinator.com/item?id=50407882"
+    ],
+    [
+      "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 18:12:12",
+      "https://news.ycombinator.com/item?id=50406670"
+    ],
+    [
+      "What I run on my $10 USD OpenStick homelab",
+      "https://blog.bosscher.ch/posts/openstick/"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 18:02:17",
+      "https://news.ycombinator.com/item?id=50406563"
+    ],
+    [
+      "The end of Microsoft Research's AI Frontiers group",
+      "https://hunch.net/?p=13764006"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 17:54:56",
+      "https://news.ycombinator.com/item?id=50406502"
+    ],
+    [
+      "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
+      "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 17:30:49",
+      "https://news.ycombinator.com/item?id=50406319"
+    ],
+    [
+      "Five memorable books about programming (2008)",
+      "https://prog21.dadgum.com/19.html"
+    ]
+  ],
+  [
+    [
       "2026-11-07, 17:27:30",
       "https://news.ycombinator.com/item?id=50406292"
     ],
@@ -11,11 +91,21 @@
   ],
   [
     [
+      "2026-11-07, 17:19:00",
+      "https://news.ycombinator.com/item?id=50406222"
+    ],
+    [
+      "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "https://maxxbench.unlap.ai/research/why-maxxbench/"
+    ]
+  ],
+  [
+    [
       "2026-11-07, 17:06:36",
       "https://news.ycombinator.com/item?id=50406111"
     ],
     [
-      "Apple Keyboard has a blacklist of phrases you can't swipe",
+      "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
       "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
     ]
   ],
@@ -25,8 +115,18 @@
       "https://news.ycombinator.com/item?id=50405789"
     ],
     [
-      "How Long Can Life Wait?",
+      "How long can life wait?",
       "https://mceglowski.substack.com/p/how-long-can-life-wait"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 16:21:36",
+      "https://news.ycombinator.com/item?id=50405782"
+    ],
+    [
+      "Every processor die anyone has photographed and given away",
+      "https://sheets.works/data-viz/cpu-dies"
     ]
   ],
   [
@@ -41,6 +141,16 @@
   ],
   [
     [
+      "2026-11-07, 16:05:45",
+      "https://news.ycombinator.com/item?id=50405674"
+    ],
+    [
+      "Terry Pratchett's Study",
+      "https://www.sussi.dk/terry-pratchetts-study"
+    ]
+  ],
+  [
+    [
       "2026-11-07, 15:16:01",
       "https://news.ycombinator.com/item?id=50405263"
     ],
@@ -51,32 +161,22 @@
   ],
   [
     [
-      "2026-11-07, 15:14:40",
-      "https://news.ycombinator.com/item?id=50405250"
-    ],
-    [
-      "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
-      "https://news.ycombinator.com/item?id=50405250"
-    ]
-  ],
-  [
-    [
-      "2026-11-07, 14:18:45",
-      "https://news.ycombinator.com/item?id=50404747"
-    ],
-    [
-      "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]",
-      "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf"
-    ]
-  ],
-  [
-    [
       "2026-11-07, 14:00:20",
       "https://news.ycombinator.com/item?id=50404599"
     ],
     [
       "The $8 Linux Computer (2022)",
       "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 11:11:15",
+      "https://news.ycombinator.com/item?id=50403507"
+    ],
+    [
+      "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/"
     ]
   ],
   [
@@ -111,12 +211,22 @@
   ],
   [
     [
-      "2026-11-07, 06:39:04",
-      "https://news.ycombinator.com/item?id=50402212"
+      "2026-11-07, 05:20:18",
+      "https://news.ycombinator.com/item?id=50401867"
     ],
     [
-      "The Components of Agent Memory",
-      "https://www.anthropic.com/research/components-of-agent-memory"
+      "Asahi Linux Progress Linux 7.3",
+      "https://asahilinux.org/2026/11/progress-report-7-3/"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 04:54:36",
+      "https://news.ycombinator.com/item?id=50401740"
+    ],
+    [
+      "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals"
     ]
   ],
   [
@@ -131,82 +241,52 @@
   ],
   [
     [
-      "2026-11-06, 19:48:51",
-      "https://news.ycombinator.com/item?id=50397429"
+      "2026-11-06, 18:13:35",
+      "https://news.ycombinator.com/item?id=50396064"
     ],
     [
-      "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "https://hightouch.com/blog/llm-judges-identity-resolution"
+      "We know 15k websites are infected. how do we tell them?",
+      "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/"
     ]
   ],
   [
     [
-      "2026-11-06, 19:33:38",
-      "https://news.ycombinator.com/item?id=50397219"
+      "2026-11-05, 15:22:18",
+      "https://news.ycombinator.com/item?id=50380246"
     ],
     [
-      "Firecracker VM Escape: PwnEscape Part 2",
-      "https://pwn.ai/blog/firecracker-escape"
+      "Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming",
+      "https://cowboystatedaily.com/2026/11/04/yes-you-can-pass-a-nuclear-missile-driving-on-interstate-80-through-wyoming/"
     ]
   ],
   [
     [
-      "2026-11-06, 17:12:05",
-      "https://news.ycombinator.com/item?id=50395183"
+      "2026-11-05, 15:15:32",
+      "https://news.ycombinator.com/item?id=50380134"
     ],
     [
-      "Notes on San Marino",
-      "https://mattlakeman.org/2026/11/05/notes-on-san-marino/"
+      "Show HN: Green tests are not proof – verifier for C/C++ and firmware fixes",
+      "https://unfix.dev/"
     ]
   ],
   [
     [
-      "2026-11-06, 04:00:28",
-      "https://news.ycombinator.com/item?id=50388001"
+      "2026-11-05, 10:52:04",
+      "https://news.ycombinator.com/item?id=50377661"
     ],
     [
-      "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/"
+      "Uranium cubes reveal why the German nuclear project failed",
+      "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/"
     ]
   ],
   [
     [
-      "2026-11-05, 10:45:28",
-      "https://news.ycombinator.com/item?id=50377613"
+      "2026-11-04, 20:05:56",
+      "https://news.ycombinator.com/item?id=50370787"
     ],
     [
-      "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
-      "https://github.com/hyphatech/spindle"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 00:44:16",
-      "https://news.ycombinator.com/item?id=50373513"
-    ],
-    [
-      "The great butter and cheese fire of 1991",
-      "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 18:06:14",
-      "https://news.ycombinator.com/item?id=50369283"
-    ],
-    [
-      "8088 Domination Post-Mortem",
-      "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 05:22:43",
-      "https://news.ycombinator.com/item?id=50361765"
-    ],
-    [
-      "PostgreSQL Internals [pdf] (2023)",
-      "https://edu.postgrespro.com/postgresql_internals-14_en.pdf"
+      "The typo generation is damaging literature",
+      "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature"
     ]
   ],
   [
@@ -217,86 +297,6 @@
     [
       "Text.js: Build full-stack React apps that render inside console.log",
       "https://textjs.org/"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 04:09:48",
-      "https://news.ycombinator.com/item?id=50361417"
-    ],
-    [
-      "Building the NBC News Big Board",
-      "https://ejfox.com/projects/nbc-big-board"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 02:19:16",
-      "https://news.ycombinator.com/item?id=50360810"
-    ],
-    [
-      "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-      "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 20:58:40",
-      "https://news.ycombinator.com/item?id=50358094"
-    ],
-    [
-      "Tasfer: a text editor drawn on a 2D canvas",
-      "https://www.hamza.se/blog/tasfer"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 20:31:26",
-      "https://news.ycombinator.com/item?id=50357763"
-    ],
-    [
-      "Optimising the Rail Cube",
-      "https://owenlacey.dev/railcube-optimisation/post"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 18:27:27",
-      "https://news.ycombinator.com/item?id=50356037"
-    ],
-    [
-      "ToothPaste",
-      "https://brisk4t.github.io/blog/toothpaste/"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 17:11:32",
-      "https://news.ycombinator.com/item?id=50354763"
-    ],
-    [
-      "ZeBridge – PostgreSQL replicas on devices, synchronized over NATS",
-      "https://github.com/ndrean/ZeBridge"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 14:56:30",
-      "https://news.ycombinator.com/item?id=50352791"
-    ],
-    [
-      "British Library Legal deposit and web archiving",
-      "https://www.bl.uk/services/legal-deposit/web-archiving"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 14:49:42",
-      "https://news.ycombinator.com/item?id=50352701"
-    ],
-    [
-      "The Flash C Compiler",
-      "https://blog.adafruit.com/2026/10/31/flash-c-compiler/"
     ]
   ]
 ]
