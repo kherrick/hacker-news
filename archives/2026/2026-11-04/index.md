@@ -11,6 +11,7 @@
 * [2026-11-04, 22:01:49](https://news.ycombinator.com/item?id=50372164) - [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)
 * [2026-11-04, 20:45:18](https://news.ycombinator.com/item?id=50371246) - [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
 * [2026-11-04, 20:31:30](https://news.ycombinator.com/item?id=50371090) - [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli)
+* [2026-11-04, 20:05:56](https://news.ycombinator.com/item?id=50370787) - [The typo generation is damaging literature](https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature)
 * [2026-11-04, 19:55:14](https://news.ycombinator.com/item?id=50370654) - [Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra)
 * [2026-11-04, 19:50:23](https://news.ycombinator.com/item?id=50370610) - [Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)
 * [2026-11-04, 19:45:32](https://news.ycombinator.com/item?id=50370551) - [Project Sync: The journey to sample-perfect audio/video sync with WebCodecs](https://mediabunny.dev/blog/project-sync)
