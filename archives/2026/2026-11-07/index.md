@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-11-07](index.md)
 
+* [2026-11-07, 17:27:30](https://news.ycombinator.com/item?id=50406292) - [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
+* [2026-11-07, 17:06:36](https://news.ycombinator.com/item?id=50406111) - [Apple Keyboard has a blacklist of phrases you can't swipe](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
+* [2026-11-07, 16:22:59](https://news.ycombinator.com/item?id=50405789) - [How Long Can Life Wait?](https://mceglowski.substack.com/p/how-long-can-life-wait)
+* [2026-11-07, 16:06:27](https://news.ycombinator.com/item?id=50405678) - [They don't make 'em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
+* [2026-11-07, 15:16:01](https://news.ycombinator.com/item?id=50405263) - [Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8](https://github.com/Video-Rebirth/hyperflow-h3-flash)
+* [2026-11-07, 15:14:40](https://news.ycombinator.com/item?id=50405250) - [Ask HN: How did you convince family and friends to join your XMPP/Matrix server?](https://news.ycombinator.com/item?id=50405250)
+* [2026-11-07, 14:18:45](https://news.ycombinator.com/item?id=50404747) - [The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]](https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf)
+* [2026-11-07, 14:00:20](https://news.ycombinator.com/item?id=50404599) - [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
 * [2026-11-07, 11:11:15](https://news.ycombinator.com/item?id=50403507) - [Every Windows 11 app should kill Electron, and Discord just showed why](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/)
 * [2026-11-07, 10:15:26](https://news.ycombinator.com/item?id=50403214) - [Upload Your RAM](https://uploadyourram.org)
 * [2026-11-07, 09:46:03](https://news.ycombinator.com/item?id=50403097) - [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
