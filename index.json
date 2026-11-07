@@ -1,22 +1,82 @@
 [
   [
     [
-      "2026-11-07, 11:11:15",
-      "https://news.ycombinator.com/item?id=50403507"
+      "2026-11-07, 17:27:30",
+      "https://news.ycombinator.com/item?id=50406292"
     ],
     [
-      "Every Windows 11 app should kill Electron, and Discord just showed why",
-      "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/"
+      "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "https://github.com/hedgerow-dev/coldframe"
     ]
   ],
   [
     [
-      "2026-11-07, 10:15:26",
-      "https://news.ycombinator.com/item?id=50403214"
+      "2026-11-07, 17:06:36",
+      "https://news.ycombinator.com/item?id=50406111"
     ],
     [
-      "Upload Your RAM",
-      "https://uploadyourram.org"
+      "Apple Keyboard has a blacklist of phrases you can't swipe",
+      "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 16:22:59",
+      "https://news.ycombinator.com/item?id=50405789"
+    ],
+    [
+      "How Long Can Life Wait?",
+      "https://mceglowski.substack.com/p/how-long-can-life-wait"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 16:06:27",
+      "https://news.ycombinator.com/item?id=50405678"
+    ],
+    [
+      "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "https://kevinboone.me/tpwin.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 15:16:01",
+      "https://news.ycombinator.com/item?id=50405263"
+    ],
+    [
+      "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "https://github.com/Video-Rebirth/hyperflow-h3-flash"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 15:14:40",
+      "https://news.ycombinator.com/item?id=50405250"
+    ],
+    [
+      "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+      "https://news.ycombinator.com/item?id=50405250"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 14:18:45",
+      "https://news.ycombinator.com/item?id=50404747"
+    ],
+    [
+      "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]",
+      "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 14:00:20",
+      "https://news.ycombinator.com/item?id=50404599"
+    ],
+    [
+      "The $8 Linux Computer (2022)",
+      "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html"
     ]
   ],
   [
@@ -41,16 +101,6 @@
   ],
   [
     [
-      "2026-11-07, 09:38:26",
-      "https://news.ycombinator.com/item?id=50403063"
-    ],
-    [
-      "Port 0: The Port That Does Not Exist",
-      "https://acid.vegas/blog/the-port-that-does-not-exist/"
-    ]
-  ],
-  [
-    [
       "2026-11-07, 09:36:36",
       "https://news.ycombinator.com/item?id=50403052"
     ],
@@ -71,42 +121,12 @@
   ],
   [
     [
-      "2026-11-07, 04:54:36",
-      "https://news.ycombinator.com/item?id=50401740"
-    ],
-    [
-      "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-      "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 23:37:19",
-      "https://news.ycombinator.com/item?id=50399991"
-    ],
-    [
-      "RealPage rent-pricing case wraps with nearly $360M to renters",
-      "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/"
-    ]
-  ],
-  [
-    [
       "2026-11-06, 23:30:52",
       "https://news.ycombinator.com/item?id=50399933"
     ],
     [
       "Libghostty 1.0",
       "https://mitchellh.com/writing/libghostty-1-0"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 20:09:14",
-      "https://news.ycombinator.com/item?id=50397711"
-    ],
-    [
-      "Google has acquired Crusoe's data center site in southeast Wyoming",
-      "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update"
     ]
   ],
   [
@@ -131,82 +151,12 @@
   ],
   [
     [
-      "2026-11-06, 19:24:21",
-      "https://news.ycombinator.com/item?id=50397099"
-    ],
-    [
-      "GitHub's new Git storage architecture",
-      "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 19:19:27",
-      "https://news.ycombinator.com/item?id=50397017"
-    ],
-    [
-      "Restaurant Delivery Payment-Skimming Campaign",
-      "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 17:30:22",
-      "https://news.ycombinator.com/item?id=50395450"
-    ],
-    [
-      "Devvm.dev: One VM for every project",
-      "https://devvm.dev/"
-    ]
-  ],
-  [
-    [
       "2026-11-06, 17:12:05",
       "https://news.ycombinator.com/item?id=50395183"
     ],
     [
       "Notes on San Marino",
       "https://mattlakeman.org/2026/11/05/notes-on-san-marino/"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 16:50:29",
-      "https://news.ycombinator.com/item?id=50394855"
-    ],
-    [
-      "First steps in bare-metal programming using UEFI",
-      "https://kevinboone.me/efitest_index.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 13:35:27",
-      "https://news.ycombinator.com/item?id=50392118"
-    ],
-    [
-      "Gemini Omni 1.2 Flash",
-      "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 12:13:51",
-      "https://news.ycombinator.com/item?id=50391456"
-    ],
-    [
-      "Tesla to wind down Cybertruck production",
-      "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 08:18:36",
-      "https://news.ycombinator.com/item?id=50389570"
-    ],
-    [
-      "Chomsky and the two cultures of statistical learning (2011)",
-      "https://www.norvig.com/chomsky.html"
     ]
   ],
   [
@@ -255,8 +205,28 @@
       "https://news.ycombinator.com/item?id=50361765"
     ],
     [
-      "PostgreSQL Internals [pdf]",
+      "PostgreSQL Internals [pdf] (2023)",
       "https://edu.postgrespro.com/postgresql_internals-14_en.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 04:59:36",
+      "https://news.ycombinator.com/item?id=50361657"
+    ],
+    [
+      "Text.js: Build full-stack React apps that render inside console.log",
+      "https://textjs.org/"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 04:09:48",
+      "https://news.ycombinator.com/item?id=50361417"
+    ],
+    [
+      "Building the NBC News Big Board",
+      "https://ejfox.com/projects/nbc-big-board"
     ]
   ],
   [
@@ -271,6 +241,26 @@
   ],
   [
     [
+      "2026-11-03, 20:58:40",
+      "https://news.ycombinator.com/item?id=50358094"
+    ],
+    [
+      "Tasfer: a text editor drawn on a 2D canvas",
+      "https://www.hamza.se/blog/tasfer"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 20:31:26",
+      "https://news.ycombinator.com/item?id=50357763"
+    ],
+    [
+      "Optimising the Rail Cube",
+      "https://owenlacey.dev/railcube-optimisation/post"
+    ]
+  ],
+  [
+    [
       "2026-11-03, 18:27:27",
       "https://news.ycombinator.com/item?id=50356037"
     ],
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2026-11-03, 16:30:23",
-      "https://news.ycombinator.com/item?id=50354097"
+      "2026-11-03, 17:11:32",
+      "https://news.ycombinator.com/item?id=50354763"
     ],
     [
-      "Can GROUP BY still be optimized after all these years?",
-      "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/"
+      "ZeBridge – PostgreSQL replicas on devices, synchronized over NATS",
+      "https://github.com/ndrean/ZeBridge"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 14:56:30",
+      "https://news.ycombinator.com/item?id=50352791"
+    ],
+    [
+      "British Library Legal deposit and web archiving",
+      "https://www.bl.uk/services/legal-deposit/web-archiving"
     ]
   ],
   [
