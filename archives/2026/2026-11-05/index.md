@@ -7,6 +7,7 @@
 * [2026-11-05, 23:32:36](https://news.ycombinator.com/item?id=50386104) - [Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data](https://www.fgc.org.br/comunicado)
 * [2026-11-05, 23:09:57](https://news.ycombinator.com/item?id=50385870) - [Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue](https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html)
 * [2026-11-05, 22:17:15](https://news.ycombinator.com/item?id=50385272) - [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
+* [2026-11-05, 20:46:26](https://news.ycombinator.com/item?id=50384263) - [What do the next 4000 emoji look like?](https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look)
 * [2026-11-05, 20:43:42](https://news.ycombinator.com/item?id=50384233) - [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
 * [2026-11-05, 20:21:43](https://news.ycombinator.com/item?id=50383963) - [Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)
 * [2026-11-05, 20:03:34](https://news.ycombinator.com/item?id=50383740) - [Search for everyone](https://kagi.com/changelog#11820)

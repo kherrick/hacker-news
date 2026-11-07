@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-11-06](index.md)
 
+* [2026-11-06, 23:37:19](https://news.ycombinator.com/item?id=50399991) - [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/)
 * [2026-11-06, 23:30:52](https://news.ycombinator.com/item?id=50399933) - [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
 * [2026-11-06, 23:03:55](https://news.ycombinator.com/item?id=50399695) - [Outbound SIP calling is now available to all organizations](https://developers.openai.com/api/docs/guides/voice-sip)
+* [2026-11-06, 23:00:46](https://news.ycombinator.com/item?id=50399657) - [Sodium-ion batteries approach cost parity with LFP](https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/)
 * [2026-11-06, 23:00:46](https://news.ycombinator.com/item?id=50399657) - [CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life](https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/)
 * [2026-11-06, 22:50:43](https://news.ycombinator.com/item?id=50399569) - [ChatGPT silently passes data between connectors and the bounty wants an ID card](https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053)
 * [2026-11-06, 20:28:24](https://news.ycombinator.com/item?id=50398010) - [SketchAgentBench – evaluate LLMs on 3D spatial reasoning](https://sketchagent.dev/)
@@ -24,6 +26,7 @@
 * [2026-11-06, 18:03:33](https://news.ycombinator.com/item?id=50395919) - [Memorilla: Latent Semantic Memory for LLMs](https://arxiv.org/abs/2610.21375)
 * [2026-11-06, 17:59:59](https://news.ycombinator.com/item?id=50395869) - [Size-It-Up (Game)](https://magnitudle.com/size-it-up)
 * [2026-11-06, 17:30:22](https://news.ycombinator.com/item?id=50395450) - [Devvm.dev: One VM for every project](https://devvm.dev/)
+* [2026-11-06, 17:12:05](https://news.ycombinator.com/item?id=50395183) - [Notes on San Marino](https://mattlakeman.org/2026/11/05/notes-on-san-marino/)
 * [2026-11-06, 17:03:33](https://news.ycombinator.com/item?id=50395043) - [UpCodes (YC S17) is hiring SDR's to sell AI compliance software](https://up.codes/careers?utm_source=HN)
 * [2026-11-06, 16:59:40](https://news.ycombinator.com/item?id=50394977) - [PyLings: Solve Exercises and Learn Python](https://github.com/thesayfulla/pylings)
 * [2026-11-06, 16:54:36](https://news.ycombinator.com/item?id=50394906) - [Anthropic IPO buyers see valuation as low as $1.1T](https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout)
