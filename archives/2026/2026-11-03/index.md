@@ -17,6 +17,7 @@
 * [2026-11-03, 19:25:18](https://news.ycombinator.com/item?id=50356913) - [Introduction to Programming in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html)
 * [2026-11-03, 19:16:23](https://news.ycombinator.com/item?id=50356791) - [Is Curiosity Good for Us?](https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us)
 * [2026-11-03, 19:12:17](https://news.ycombinator.com/item?id=50356722) - [Panthera: Ampere's CPU Performance Model](https://github.com/AmpereComputing/panthera)
+* [2026-11-03, 18:27:27](https://news.ycombinator.com/item?id=50356037) - [ToothPaste](https://brisk4t.github.io/blog/toothpaste/)
 * [2026-11-03, 18:11:11](https://news.ycombinator.com/item?id=50355767) - [How I use AI (Oct 2026)](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
 * [2026-11-03, 17:55:26](https://news.ycombinator.com/item?id=50355504) - [Google researchers demand freedom to tell the world what they know about AI](https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/)
 * [2026-11-03, 17:46:58](https://news.ycombinator.com/item?id=50355365) - [How to write comparison content that doesn't age like milk](https://posthog.com/blog/comparison-content-guide)
