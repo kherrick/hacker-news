@@ -129,41 +129,247 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="50403507">
+        <section id="50406292">
           <h3>
-            <a
-              class="item"
-              href="https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/"
-              >Every Windows 11 app should kill Electron, and Discord just
-              showed why</a
+            <a class="item" href="https://github.com/hedgerow-dev/coldframe"
+              >Show HN: Coldframe, a honeypot that poses as a supermarket fridge
+              controller</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-11-07 @ 11:11:15</span
+              <span>2026-11-07 @ 17:27:30</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50403507"
+                ><a href="https://news.ycombinator.com/item?id=50406292"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 32</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                To learn more about this I built a honeypot that resembled
+                perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces.
+                Both of them are recognized on Shodan as real ones (an not as
+                honeypots). It’s one Python file using only the standard
+                library, and it builds on eppser/danfoss-ak-sm-decoy and public
+                research by Synacktiv, Claroty and Ironhackers.
+              </p>
+              <p>Things that were fun to get right:</p>
+              <p>
+                - Matching real units. I used Shodan records of real devices to
+                match header order, page titles, certificate fields and TLS
+                versions. The Danfoss persona sends nginx headers in the same
+                order as a real AK-SM 800A. The Dixell persona sends no Server
+                header and pads its page to exactly 8,202 bytes.
+              </p>
+              <p>
+                - Recognising exploit attempts. It recognises CVE-2025-41450,
+                the Danfoss “code of the day” login bypass, and records whether
+                the submitted code is correct for today. It also tags attempts
+                targeting three other Danfoss CVEs and the XWEB vulnerabilities.
+              </p>
+              <p>
+                - Letting them in. Default logins open a fake store dashboard
+                with defrost buttons, so you see the second move, not just the
+                first. Nothing behind it is real.
+              </p>
+              <p>
+                Two instances have been live for a day. So far they’ve only seen
+                generic scanners and Shodan’s crawler, which is called
+                refrigerator.census.shodan.io.
+              </p>
+              <p>
+                Feedback welcome, especially from anyone who has seen these
+                devices in the field!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="50406111">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
+              >Apple Keyboard has a blacklist of phrases you can't swipe</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-07 @ 17:06:36</span
+              ><span class="points-container"
+                >Points: <span class="points">241</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50406111"
+                  >Comments</a
+                ><span class="descendants">: 154</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="50403214">
+        <section id="50405789">
           <h3>
-            <a class="item" href="https://uploadyourram.org">Upload Your RAM</a>
+            <a
+              class="item"
+              href="https://mceglowski.substack.com/p/how-long-can-life-wait"
+              >How Long Can Life Wait?</a
+            >
           </h3>
           <section>
             <h4>
-              <span>2026-11-07 @ 10:15:26</span
+              <span>2026-11-07 @ 16:22:59</span
               ><span class="points-container"
-                >Points: <span class="points">250</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50403214"
+                ><a href="https://news.ycombinator.com/item?id=50405789"
                   >Comments</a
-                ><span class="descendants">: 239</span></span
+                ><span class="descendants">: 54</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50405678">
+          <h3>
+            <a class="item" href="https://kevinboone.me/tpwin.html"
+              >They don't make 'em like that any more: Borland Turbo Pascal 7</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-07 @ 16:06:27</span
+              ><span class="points-container"
+                >Points: <span class="points">169</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50405678"
+                  >Comments</a
+                ><span class="descendants">: 93</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50405263">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/Video-Rebirth/hyperflow-h3-flash"
+              >Show HN: We compressed a 31B video+audio diffusion model to 14B,
+              6 steps, INT8</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-07 @ 15:16:01</span
+              ><span class="points-container"
+                >Points: <span class="points">46</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50405263"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50405250">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=50405250"
+              >Ask HN: How did you convince family and friends to join your
+              XMPP/Matrix server?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-07 @ 15:14:40</span
+              ><span class="points-container"
+                >Points: <span class="points">67</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50405250"
+                  >Comments</a
+                ><span class="descendants">: 62</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Whenever XMPP or Matrix threads pop up on HN, several commenters
+                casually mention their "friends and family XMPP (or Matrix)
+                server."
+              </p>
+              <p>
+                How did you convince friends and family to move away from
+                SMS/WhatsApp and replace it with a niche messaging app?
+              </p>
+              <p>
+                My family and friends aren't hardcore nerdy, but they're more
+                tech-savvy than average. Their needs in messaging are mainly
+                pragmatic: they want ease of use, reliability, and fun features.
+                They don't care that much about privacy, decentralization, or
+                extensibility (though I care about those things a lot).
+              </p>
+              <p>
+                I've been experimenting with self-hosting XMPP and Matrix
+                servers and clients in the past week, and the UX is even worse
+                than I expected. It seems like all the clients either imitate
+                Slack, imitate Discord, or imitate hot garbage. I haven't seen
+                any that try to be a simple, friendly replacement for SMS. I'm a
+                software developer who uses computers all day, and I find the UX
+                for most of the clients incredibly hard to use.
+              </p>
+              <p>
+                The only angle I could see to pitch XMPP/Matrix to people for
+                non-philosophical reasons are that there's a more consistent
+                experience across iOS/Android. The biggest shortcoming I think
+                is visible to regular users is that there's feature degradation
+                and missing information when iOS users have SMS conversations
+                with Android users, especially in group chats.
+              </p>
+              <p>
+                For people who have successfully won family and friends to XMPP
+                or Matrix, what was your pitch? What do you recommend others do
+                to make XMPP or Matrix an attractive experience for a regular
+                person?
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="50404747">
+          <h3>
+            <a
+              class="item"
+              href="https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf"
+              >The Gordon Gekko Effect: The Role of Culture in the Financial
+              Industry [pdf]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-07 @ 14:18:45</span
+              ><span class="points-container"
+                >Points: <span class="points">48</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50404747"
+                  >Comments</a
+                ><span class="descendants">: 29</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50404599">
+          <h3>
+            <a
+              class="item"
+              href="http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html"
+              >The $8 Linux Computer (2022)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-07 @ 14:00:20</span
+              ><span class="points-container"
+                >Points: <span class="points">178</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50404599"
+                  >Comments</a
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -181,11 +387,11 @@
             <h4>
               <span>2026-11-07 @ 09:46:03</span
               ><span class="points-container"
-                >Points: <span class="points">435</span></span
+                >Points: <span class="points">525</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50403097"
                   >Comments</a
-                ><span class="descendants">: 249</span></span
+                ><span class="descendants">: 312</span></span
               >
             </h4>
           </section>
@@ -202,32 +408,11 @@
             <h4>
               <span>2026-11-07 @ 09:39:06</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">209</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50403066"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50403063">
-          <h3>
-            <a
-              class="item"
-              href="https://acid.vegas/blog/the-port-that-does-not-exist/"
-              >Port 0: The Port That Does Not Exist</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-07 @ 09:38:26</span
-              ><span class="points-container"
-                >Points: <span class="points">44</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50403063"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -242,11 +427,11 @@
             <h4>
               <span>2026-11-07 @ 09:36:36</span
               ><span class="points-container"
-                >Points: <span class="points">549</span></span
+                >Points: <span class="points">702</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50403052"
                   >Comments</a
-                ><span class="descendants">: 167</span></span
+                ><span class="descendants">: 202</span></span
               >
             </h4>
           </section>
@@ -263,54 +448,11 @@
             <h4>
               <span>2026-11-07 @ 06:39:04</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50402212"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50401740">
-          <h3>
-            <a
-              class="item"
-              href="https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals"
-              >A barbarian tribe's mythic origin story is true, ancient DNA
-              reveals</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-07 @ 04:54:36</span
-              ><span class="points-container"
-                >Points: <span class="points">172</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50401740"
-                  >Comments</a
-                ><span class="descendants">: 151</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50399991">
-          <h3>
-            <a
-              class="item"
-              href="https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/"
-              >RealPage rent-pricing case wraps with nearly $360M to renters</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-06 @ 23:37:19</span
-              ><span class="points-container"
-                >Points: <span class="points">170</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50399991"
-                  >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -325,33 +467,11 @@
             <h4>
               <span>2026-11-06 @ 23:30:52</span
               ><span class="points-container"
-                >Points: <span class="points">937</span></span
+                >Points: <span class="points">987</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50399933"
                   >Comments</a
-                ><span class="descendants">: 156</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50397711">
-          <h3>
-            <a
-              class="item"
-              href="https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update"
-              >Google has acquired Crusoe's data center site in southeast
-              Wyoming</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-06 @ 20:09:14</span
-              ><span class="points-container"
-                >Points: <span class="points">100</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50397711"
-                  >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 173</span></span
               >
             </h4>
           </section>
@@ -369,11 +489,11 @@
             <h4>
               <span>2026-11-06 @ 19:48:51</span
               ><span class="points-container"
-                >Points: <span class="points">552</span></span
+                >Points: <span class="points">568</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50397429"
                   >Comments</a
-                ><span class="descendants">: 136</span></span
+                ><span class="descendants">: 143</span></span
               >
             </h4>
           </section>
@@ -388,72 +508,11 @@
             <h4>
               <span>2026-11-06 @ 19:33:38</span
               ><span class="points-container"
-                >Points: <span class="points">274</span></span
+                >Points: <span class="points">277</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50397219"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50397099">
-          <h3>
-            <a
-              class="item"
-              href="https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
-              >GitHub's new Git storage architecture</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-06 @ 19:24:21</span
-              ><span class="points-container"
-                >Points: <span class="points">206</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50397099"
-                  >Comments</a
-                ><span class="descendants">: 57</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50397017">
-          <h3>
-            <a
-              class="item"
-              href="https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming"
-              >Restaurant Delivery Payment-Skimming Campaign</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-06 @ 19:19:27</span
-              ><span class="points-container"
-                >Points: <span class="points">162</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50397017"
-                  >Comments</a
-                ><span class="descendants">: 93</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50395450">
-          <h3>
-            <a class="item" href="https://devvm.dev/"
-              >Devvm.dev: One VM for every project</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-06 @ 17:30:22</span
-              ><span class="points-container"
-                >Points: <span class="points">177</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50395450"
-                  >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -470,91 +529,11 @@
             <h4>
               <span>2026-11-06 @ 17:12:05</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50395183"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50394855">
-          <h3>
-            <a class="item" href="https://kevinboone.me/efitest_index.html"
-              >First steps in bare-metal programming using UEFI</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-06 @ 16:50:29</span
-              ><span class="points-container"
-                >Points: <span class="points">246</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50394855"
-                  >Comments</a
-                ><span class="descendants">: 50</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50392118">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
-              >Gemini Omni 1.2 Flash</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-06 @ 13:35:27</span
-              ><span class="points-container"
-                >Points: <span class="points">355</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50392118"
-                  >Comments</a
-                ><span class="descendants">: 246</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50391456">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817"
-              >Tesla to wind down Cybertruck production</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-06 @ 12:13:51</span
-              ><span class="points-container"
-                >Points: <span class="points">1115</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50391456"
-                  >Comments</a
-                ><span class="descendants">: 1981</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50389570">
-          <h3>
-            <a class="item" href="https://www.norvig.com/chomsky.html"
-              >Chomsky and the two cultures of statistical learning (2011)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-06 @ 08:18:36</span
-              ><span class="points-container"
-                >Points: <span class="points">139</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50389570"
-                  >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -572,11 +551,11 @@
             <h4>
               <span>2026-11-06 @ 04:00:28</span
               ><span class="points-container"
-                >Points: <span class="points">387</span></span
+                >Points: <span class="points">402</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50388001"
                   >Comments</a
-                ><span class="descendants">: 318</span></span
+                ><span class="descendants">: 324</span></span
               >
             </h4>
           </section>
@@ -592,7 +571,7 @@
             <h4>
               <span>2026-11-05 @ 10:45:28</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50377613"
                   >Comments</a
@@ -638,11 +617,11 @@
             <h4>
               <span>2026-11-05 @ 00:44:16</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50373513"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -659,11 +638,11 @@
             <h4>
               <span>2026-11-04 @ 18:06:14</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50369283"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -673,18 +652,57 @@
             <a
               class="item"
               href="https://edu.postgrespro.com/postgresql_internals-14_en.pdf"
-              >PostgreSQL Internals [pdf]</a
+              >PostgreSQL Internals [pdf] (2023)</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-11-04 @ 05:22:43</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50361765"
                   >Comments</a
                 ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50361657">
+          <h3>
+            <a class="item" href="https://textjs.org/"
+              >Text.js: Build full-stack React apps that render inside
+              console.log</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-04 @ 04:59:36</span
+              ><span class="points-container"
+                >Points: <span class="points">71</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50361657"
+                  >Comments</a
+                ><span class="descendants">: 40</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50361417">
+          <h3>
+            <a class="item" href="https://ejfox.com/projects/nbc-big-board"
+              >Building the NBC News Big Board</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-04 @ 04:09:48</span
+              ><span class="points-container"
+                >Points: <span class="points">55</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50361417"
+                  >Comments</a
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -702,11 +720,51 @@
             <h4>
               <span>2026-11-04 @ 02:19:16</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50360810"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50358094">
+          <h3>
+            <a class="item" href="https://www.hamza.se/blog/tasfer"
+              >Tasfer: a text editor drawn on a 2D canvas</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-03 @ 20:58:40</span
+              ><span class="points-container"
+                >Points: <span class="points">51</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50358094"
+                  >Comments</a
+                ><span class="descendants">: 23</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50357763">
+          <h3>
+            <a
+              class="item"
+              href="https://owenlacey.dev/railcube-optimisation/post"
+              >Optimising the Rail Cube</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-03 @ 20:31:26</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50357763"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -721,32 +779,52 @@
             <h4>
               <span>2026-11-03 @ 18:27:27</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50356037"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="50354097">
+        <section id="50354763">
           <h3>
-            <a
-              class="item"
-              href="https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/"
-              >Can GROUP BY still be optimized after all these years?</a
+            <a class="item" href="https://github.com/ndrean/ZeBridge"
+              >ZeBridge – PostgreSQL replicas on devices, synchronized over
+              NATS</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-11-03 @ 16:30:23</span
+              <span>2026-11-03 @ 17:11:32</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50354097"
+                ><a href="https://news.ycombinator.com/item?id=50354763"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50352791">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bl.uk/services/legal-deposit/web-archiving"
+              >British Library Legal deposit and web archiving</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-03 @ 14:56:30</span
+              ><span class="points-container"
+                >Points: <span class="points">56</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50352791"
+                  >Comments</a
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -763,11 +841,11 @@
             <h4>
               <span>2026-11-03 @ 14:49:42</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50352701"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
