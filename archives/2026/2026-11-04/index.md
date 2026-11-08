@@ -8,6 +8,7 @@
 * [2026-11-04, 23:33:14](https://news.ycombinator.com/item?id=50372929) - [Local privilege escalation vulnerabilities in Linux](https://openai.com/index/a-thousand-fewer-paths-to-root/)
 * [2026-11-04, 23:23:08](https://news.ycombinator.com/item?id=50372838) - [Edward Hopper's Iconic Painting, \"Nighthawks](https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/)
 * [2026-11-04, 23:01:19](https://news.ycombinator.com/item?id=50372660) - [Successful People (2013)](https://blog.samaltman.com/successful-people)
+* [2026-11-04, 22:30:54](https://news.ycombinator.com/item?id=50372396) - [Everything should be a random number generator](https://en.cppreference.com/cpp/numeric/random)
 * [2026-11-04, 22:26:24](https://news.ycombinator.com/item?id=50372360) - [Less Popular Than Coal](https://www.argmin.net/p/less-popular-than-coal)
 * [2026-11-04, 22:01:49](https://news.ycombinator.com/item?id=50372164) - [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)
 * [2026-11-04, 20:53:54](https://news.ycombinator.com/item?id=50371360) - [New typeface using intricate designs from Shakespeare's First Folio (2023)](https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323)
