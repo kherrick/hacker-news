@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-11-07, 23:15:34",
+      "https://news.ycombinator.com/item?id=50408961"
+    ],
+    [
+      "Commodore PET – The Worlds First Personal Computer",
+      "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 23:09:40",
+      "https://news.ycombinator.com/item?id=50408931"
+    ],
+    [
+      "GitHub New pull request overview page in public preview",
+      "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 22:45:39",
+      "https://news.ycombinator.com/item?id=50408750"
+    ],
+    [
+      "IRA Velinsky – Commodore's Industrial Designer",
+      "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 22:38:58",
+      "https://news.ycombinator.com/item?id=50408713"
+    ],
+    [
+      "Making any integer with four 2s (2025)",
+      "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/"
+    ]
+  ],
+  [
+    [
       "2026-11-07, 21:47:47",
       "https://news.ycombinator.com/item?id=50408350"
     ],
@@ -15,18 +55,8 @@
       "https://news.ycombinator.com/item?id=50408104"
     ],
     [
-      "Shadow of the Sun",
+      "Shadow of the Sun (2021)",
       "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/"
-    ]
-  ],
-  [
-    [
-      "2026-11-07, 21:08:35",
-      "https://news.ycombinator.com/item?id=50408082"
-    ],
-    [
-      "Show HN: Where Were We",
-      "https://wherewerewe.app/"
     ]
   ],
   [
@@ -115,7 +145,7 @@
       "https://news.ycombinator.com/item?id=50405789"
     ],
     [
-      "How long can life wait?",
+      "How Long Can Life Wait?",
       "https://mceglowski.substack.com/p/how-long-can-life-wait"
     ]
   ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-11-07, 16:06:27",
-      "https://news.ycombinator.com/item?id=50405678"
-    ],
-    [
-      "They don't make 'em like that any more: Borland Turbo Pascal 7",
-      "https://kevinboone.me/tpwin.html"
-    ]
-  ],
-  [
-    [
       "2026-11-07, 16:05:45",
       "https://news.ycombinator.com/item?id=50405674"
     ],
@@ -151,12 +171,12 @@
   ],
   [
     [
-      "2026-11-07, 15:16:01",
-      "https://news.ycombinator.com/item?id=50405263"
+      "2026-11-07, 15:06:54",
+      "https://news.ycombinator.com/item?id=50405172"
     ],
     [
-      "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-      "https://github.com/Video-Rebirth/hyperflow-h3-flash"
+      "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
+      "https://www.retrosongbird.com/"
     ]
   ],
   [
@@ -231,46 +251,6 @@
   ],
   [
     [
-      "2026-11-06, 23:30:52",
-      "https://news.ycombinator.com/item?id=50399933"
-    ],
-    [
-      "Libghostty 1.0",
-      "https://mitchellh.com/writing/libghostty-1-0"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 18:13:35",
-      "https://news.ycombinator.com/item?id=50396064"
-    ],
-    [
-      "We know 15k websites are infected. how do we tell them?",
-      "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 15:22:18",
-      "https://news.ycombinator.com/item?id=50380246"
-    ],
-    [
-      "Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming",
-      "https://cowboystatedaily.com/2026/11/04/yes-you-can-pass-a-nuclear-missile-driving-on-interstate-80-through-wyoming/"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 15:15:32",
-      "https://news.ycombinator.com/item?id=50380134"
-    ],
-    [
-      "Show HN: Green tests are not proof – verifier for C/C++ and firmware fixes",
-      "https://unfix.dev/"
-    ]
-  ],
-  [
-    [
       "2026-11-05, 10:52:04",
       "https://news.ycombinator.com/item?id=50377661"
     ],
@@ -281,22 +261,42 @@
   ],
   [
     [
-      "2026-11-04, 20:05:56",
-      "https://news.ycombinator.com/item?id=50370787"
-    ],
-    [
-      "The typo generation is damaging literature",
-      "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature"
-    ]
-  ],
-  [
-    [
       "2026-11-04, 04:59:36",
       "https://news.ycombinator.com/item?id=50361657"
     ],
     [
       "Text.js: Build full-stack React apps that render inside console.log",
       "https://textjs.org/"
+    ]
+  ],
+  [
+    [
+      "2026-11-04, 03:30:28",
+      "https://news.ycombinator.com/item?id=50361212"
+    ],
+    [
+      "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
+      "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 21:18:48",
+      "https://news.ycombinator.com/item?id=50358337"
+    ],
+    [
+      "Turning Every Radio into a Radar",
+      "https://tiaminetworks.com/turning-every-radio-into-a-radar/"
+    ]
+  ],
+  [
+    [
+      "2026-11-03, 13:20:09",
+      "https://news.ycombinator.com/item?id=50351640"
+    ],
+    [
+      "Shipping 103,802 Dots in 82 KB",
+      "https://layers.engineering/shipping-103-802-dots-in-82-kb-b4f7d3a89779"
     ]
   ]
 ]
