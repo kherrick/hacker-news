@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-08, 22:36:03",
+      "https://news.ycombinator.com/item?id=50418182"
+    ],
+    [
+      "Chimera Vocal Synth",
+      "https://chimera-vocal-synth.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2026-11-08, 22:20:09",
       "https://news.ycombinator.com/item?id=50418016"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2026-11-08, 17:32:55",
-      "https://news.ycombinator.com/item?id=50415281"
-    ],
-    [
-      "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-      "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/"
-    ]
-  ],
-  [
-    [
       "2026-11-08, 17:16:07",
       "https://news.ycombinator.com/item?id=50415135"
     ],
@@ -157,16 +157,6 @@
     [
       "How to prove equations using diagrams, part 1",
       "https://www.epatters.org/post/e-graphs-1/"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 10:56:43",
-      "https://news.ycombinator.com/item?id=50412152"
-    ],
-    [
-      "Petered",
-      "https://aworkinglibrary.com/writing/petered"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 10:58:29",
+      "https://news.ycombinator.com/item?id=50390799"
+    ],
+    [
+      "Designing Rust APIs around KEM, AEAD and key derivation workflows",
+      "https://github.com/lecodev-26/nexus-q"
     ]
   ],
   [
