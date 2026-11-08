@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-11-08, 04:14:12",
+      "https://news.ycombinator.com/item?id=50410359"
+    ],
+    [
+      "Kirlian Photography: Building Your Own Equipment",
+      "https://imagesco.com/articles/kirlian/kirlian-photography.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 03:47:19",
+      "https://news.ycombinator.com/item?id=50410249"
+    ],
+    [
+      "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+      "https://github.com/dmunozv04/isponsorblocktv"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 03:11:48",
+      "https://news.ycombinator.com/item?id=50410107"
+    ],
+    [
+      "Goodbye Claude, Hello Pi",
+      "https://caleb.software/posts/claude-to-pi.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 02:02:38",
+      "https://news.ycombinator.com/item?id=50409856"
+    ],
+    [
+      "Consumer brain wave headsets threaten privacy",
+      "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 02:02:27",
+      "https://news.ycombinator.com/item?id=50409855"
+    ],
+    [
+      "ZapFast: A fast, native WhatsApp client in Rust and egui",
+      "https://github.com/crmne/zapfast"
+    ]
+  ],
+  [
+    [
       "2026-11-07, 23:15:34",
       "https://news.ycombinator.com/item?id=50408961"
     ],
@@ -37,26 +87,6 @@
     [
       "Making any integer with four 2s (2025)",
       "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/"
-    ]
-  ],
-  [
-    [
-      "2026-11-07, 21:47:47",
-      "https://news.ycombinator.com/item?id=50408350"
-    ],
-    [
-      "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-      "https://eyesrhythm.com/"
-    ]
-  ],
-  [
-    [
-      "2026-11-07, 21:11:05",
-      "https://news.ycombinator.com/item?id=50408104"
-    ],
-    [
-      "Shadow of the Sun (2021)",
-      "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/"
     ]
   ],
   [
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2026-11-07, 16:22:59",
-      "https://news.ycombinator.com/item?id=50405789"
-    ],
-    [
-      "How Long Can Life Wait?",
-      "https://mceglowski.substack.com/p/how-long-can-life-wait"
-    ]
-  ],
-  [
-    [
       "2026-11-07, 16:21:36",
       "https://news.ycombinator.com/item?id=50405782"
     ],
     [
       "Every processor die anyone has photographed and given away",
       "https://sheets.works/data-viz/cpu-dies"
-    ]
-  ],
-  [
-    [
-      "2026-11-07, 16:05:45",
-      "https://news.ycombinator.com/item?id=50405674"
-    ],
-    [
-      "Terry Pratchett's Study",
-      "https://www.sussi.dk/terry-pratchetts-study"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2026-11-05, 13:23:40",
+      "https://news.ycombinator.com/item?id=50378792"
+    ],
+    [
+      "Sailing Solo Around Britain",
+      "https://sites.google.com/view/sailing-solo-around-britain/leisure-27-dark-star"
+    ]
+  ],
+  [
+    [
       "2026-11-05, 10:52:04",
       "https://news.ycombinator.com/item?id=50377661"
     ],
@@ -261,42 +281,22 @@
   ],
   [
     [
-      "2026-11-04, 04:59:36",
-      "https://news.ycombinator.com/item?id=50361657"
-    ],
-    [
-      "Text.js: Build full-stack React apps that render inside console.log",
-      "https://textjs.org/"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 03:30:28",
-      "https://news.ycombinator.com/item?id=50361212"
-    ],
-    [
-      "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
-      "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane"
-    ]
-  ],
-  [
-    [
       "2026-11-03, 21:18:48",
       "https://news.ycombinator.com/item?id=50358337"
     ],
     [
-      "Turning Every Radio into a Radar",
+      "Turning every radio into a radar",
       "https://tiaminetworks.com/turning-every-radio-into-a-radar/"
     ]
   ],
   [
     [
-      "2026-11-03, 13:20:09",
-      "https://news.ycombinator.com/item?id=50351640"
+      "2026-11-03, 13:50:19",
+      "https://news.ycombinator.com/item?id=50351954"
     ],
     [
-      "Shipping 103,802 Dots in 82 KB",
-      "https://layers.engineering/shipping-103-802-dots-in-82-kb-b4f7d3a89779"
+      "Amsterdam School",
+      "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html"
     ]
   ]
 ]
