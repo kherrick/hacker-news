@@ -26,6 +26,7 @@
 * [2026-11-04, 17:52:11](https://news.ycombinator.com/item?id=50369106) - [A New Go API for JSON](https://go.dev/blog/jsonv2)
 * [2026-11-04, 17:31:53](https://news.ycombinator.com/item?id=50368804) - [Launch HN: Kino AI (YC S23) – AI media manager and video editor](https://news.ycombinator.com/item?id=50368804)
 * [2026-11-04, 17:17:46](https://news.ycombinator.com/item?id=50368626) - [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)
+* [2026-11-04, 17:05:07](https://news.ycombinator.com/item?id=50368481) - [Declarative Dragging](https://declarative-dragging.github.io/)
 * [2026-11-04, 17:01:44](https://news.ycombinator.com/item?id=50368439) - [An end to buggy web apps](https://replay.io/blog/an-end-to-buggy-web-apps)
 * [2026-11-04, 16:51:22](https://news.ycombinator.com/item?id=50368291) - [Annie Ernaux still feels like an outsider](https://www.vulture.com/article/annie-ernaux-interview-french-protests-nobel-prize.html)
 * [2026-11-04, 16:45:11](https://news.ycombinator.com/item?id=50368208) - [Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k)
