@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-08](index.md)
 
+* [2026-11-08, 22:20:09](https://news.ycombinator.com/item?id=50418016) - [Nvidia CEO Jensen Huang's letter to staff about affair](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company)
 * [2026-11-08, 21:20:20](https://news.ycombinator.com/item?id=50417407) - [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)
 * [2026-11-08, 20:26:43](https://news.ycombinator.com/item?id=50416801) - [Nvidia Board of Directors Is Investigating Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
 * [2026-11-08, 19:49:46](https://news.ycombinator.com/item?id=50416471) - [Starship Flight 15 on 11/13 plans to catch both booster and ship](https://www.spacex.com/launches/starship-flight-15)

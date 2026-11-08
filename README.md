@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-08, 22:20:09](https://news.ycombinator.com/item?id=50418016) - [Nvidia CEO Jensen Huang's letter to staff about affair](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company)
 * [2026-11-08, 21:20:20](https://news.ycombinator.com/item?id=50417407) - [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)
 * [2026-11-08, 20:26:43](https://news.ycombinator.com/item?id=50416801) - [Nvidia Board of Directors Is Investigating Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
 * [2026-11-08, 19:49:46](https://news.ycombinator.com/item?id=50416471) - [Starship Flight 15 on 11/13 plans to catch both booster and ship](https://www.spacex.com/launches/starship-flight-15)
@@ -28,7 +29,6 @@
 * [2026-11-04, 15:23:16](https://news.ycombinator.com/item?id=50366902) - [Clj.rs – a Clojure dialect implemented in Rust](https://clj.rs/)
 * [2026-11-04, 15:18:59](https://news.ycombinator.com/item?id=50366821) - [Porting Android 16 to my blind mother's keypad phone](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
 * [2026-11-04, 08:54:27](https://news.ycombinator.com/item?id=50362963) - [Show HN: Vegetable Gardening for Engineers](https://jrcpl.us/contrib/2020/gardening-for-engineers/)
-* [2026-11-03, 20:58:40](https://news.ycombinator.com/item?id=50358094) - [Tasfer: a text editor drawn on a 2D canvas](https://www.hamza.se/blog/tasfer)
 * [2026-11-03, 16:10:37](https://news.ycombinator.com/item?id=50353814) - [The History of Djgpp](https://www.delorie.com/djgpp/history.html)
 
 ## [Archives](archives/index.md)
