@@ -48,6 +48,7 @@
 * [2026-11-03, 14:49:42](https://news.ycombinator.com/item?id=50352701) - [The Flash C Compiler](https://blog.adafruit.com/2026/10/31/flash-c-compiler/)
 * [2026-11-03, 14:45:47](https://news.ycombinator.com/item?id=50352641) - [There is no posttraining data commons](https://openathena.ai/blog/there-is-no-posttraining-data-commons/)
 * [2026-11-03, 14:41:02](https://news.ycombinator.com/item?id=50352577) - [Practice speaking Japanese with real YouTube videos, graded line by line](https://jivx.com/yt)
+* [2026-11-03, 14:37:17](https://news.ycombinator.com/item?id=50352518) - [Quadrillion-parameter transformers and how to train them](https://qlabs.sh/research/parameters)
 * [2026-11-03, 13:50:19](https://news.ycombinator.com/item?id=50351954) - [Amsterdam School](https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html)
 * [2026-11-03, 13:20:09](https://news.ycombinator.com/item?id=50351640) - [Shipping 103,802 Dots in 82 KB](https://layers.engineering/shipping-103-802-dots-in-82-kb-b4f7d3a89779)
 * [2026-11-03, 12:58:43](https://news.ycombinator.com/item?id=50351463) - [Microsoft fixes a Windows 11 annoyance as PC revenue declines](https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/)

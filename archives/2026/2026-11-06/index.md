@@ -60,5 +60,6 @@
 * [2026-11-06, 03:27:14](https://news.ycombinator.com/item?id=50387796) - [Pwn.college](https://pwn.college/)
 * [2026-11-06, 03:16:26](https://news.ycombinator.com/item?id=50387738) - [Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke)
 * [2026-11-06, 02:49:56](https://news.ycombinator.com/item?id=50387546) - [Closed AI models dominate the price-performance frontier](https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/)
+* [2026-11-06, 02:27:08](https://news.ycombinator.com/item?id=50387381) - [Earliest evidence of cannabis use found in ancient Siberian tomb](https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl)
 * [2026-11-06, 00:54:15](https://news.ycombinator.com/item?id=50386789) - [MoofTCP – A modern replacement for MacTCP on 68k Macs](https://github.com/matthewmrichter/mooftcp)
 * [2026-11-06, 00:00:24](https://news.ycombinator.com/item?id=50386338) - [Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/)
