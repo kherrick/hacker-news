@@ -62,6 +62,7 @@
 * [2026-11-04, 04:59:36](https://news.ycombinator.com/item?id=50361657) - [Text.js: Build full-stack React apps that render inside console.log](https://textjs.org/)
 * [2026-11-04, 04:09:48](https://news.ycombinator.com/item?id=50361417) - [Building the NBC News Big Board](https://ejfox.com/projects/nbc-big-board)
 * [2026-11-04, 03:40:50](https://news.ycombinator.com/item?id=50361268) - [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
+* [2026-11-04, 03:30:28](https://news.ycombinator.com/item?id=50361212) - [Study solved a 150-year-old mystery into the identity of the extinct giant crane](https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane)
 * [2026-11-04, 03:20:13](https://news.ycombinator.com/item?id=50361154) - [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
 * [2026-11-04, 03:11:27](https://news.ycombinator.com/item?id=50361107) - [Arrows to arrows, categories to queries (2025)](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
 * [2026-11-04, 02:19:16](https://news.ycombinator.com/item?id=50360810) - [Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE](https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/)

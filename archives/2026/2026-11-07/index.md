@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-11-07](index.md)
 
+* [2026-11-07, 23:15:34](https://news.ycombinator.com/item?id=50408961) - [Commodore PET – The Worlds First Personal Computer](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/)
+* [2026-11-07, 23:09:40](https://news.ycombinator.com/item?id=50408931) - [GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)
+* [2026-11-07, 22:45:39](https://news.ycombinator.com/item?id=50408750) - [IRA Velinsky – Commodore's Industrial Designer](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/)
+* [2026-11-07, 22:38:58](https://news.ycombinator.com/item?id=50408713) - [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
 * [2026-11-07, 21:47:47](https://news.ycombinator.com/item?id=50408350) - [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/)
 * [2026-11-07, 21:11:05](https://news.ycombinator.com/item?id=50408104) - [Shadow of the Sun](https://mattlakeman.org/2021/07/27/shadow-of-the-sun/)
 * [2026-11-07, 21:08:35](https://news.ycombinator.com/item?id=50408082) - [Show HN: Where Were We](https://wherewerewe.app/)
@@ -21,6 +25,7 @@
 * [2026-11-07, 16:05:45](https://news.ycombinator.com/item?id=50405674) - [Terry Pratchett's Study](https://www.sussi.dk/terry-pratchetts-study)
 * [2026-11-07, 15:16:01](https://news.ycombinator.com/item?id=50405263) - [Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8](https://github.com/Video-Rebirth/hyperflow-h3-flash)
 * [2026-11-07, 15:14:40](https://news.ycombinator.com/item?id=50405250) - [Ask HN: How did you convince family and friends to join your XMPP/Matrix server?](https://news.ycombinator.com/item?id=50405250)
+* [2026-11-07, 15:06:54](https://news.ycombinator.com/item?id=50405172) - [Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack](https://www.retrosongbird.com/)
 * [2026-11-07, 14:18:45](https://news.ycombinator.com/item?id=50404747) - [The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]](https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf)
 * [2026-11-07, 14:00:20](https://news.ycombinator.com/item?id=50404599) - [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
 * [2026-11-07, 11:11:15](https://news.ycombinator.com/item?id=50403507) - [Every Windows 11 app should kill Electron, and Discord just showed why](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/)
