@@ -2,6 +2,7 @@
 
 * [2026-11-08, 20:26:43](https://news.ycombinator.com/item?id=50416801) - [Nvidia Board of Directors Is Investigating Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
 * [2026-11-08, 19:49:46](https://news.ycombinator.com/item?id=50416471) - [Starship Flight 15 on 11/13 plans to catch both booster and ship](https://www.spacex.com/launches/starship-flight-15)
+* [2026-11-08, 19:48:32](https://news.ycombinator.com/item?id=50416456) - [The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough)
 * [2026-11-08, 19:37:42](https://news.ycombinator.com/item?id=50416363) - [How I Fight AI Brain Fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
 * [2026-11-08, 19:20:32](https://news.ycombinator.com/item?id=50416158) - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
 * [2026-11-08, 19:08:51](https://news.ycombinator.com/item?id=50416053) - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
@@ -25,7 +26,6 @@
 * [2026-11-07, 14:18:45](https://news.ycombinator.com/item?id=50404747) - [The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]](https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf)
 * [2026-11-06, 09:05:18](https://news.ycombinator.com/item?id=50389923) - [The Reconstruction of Torn Documents](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/)
 * [2026-11-04, 23:23:08](https://news.ycombinator.com/item?id=50372838) - [Edward Hopper's Iconic Painting, \"Nighthawks](https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/)
-* [2026-11-04, 22:30:54](https://news.ycombinator.com/item?id=50372396) - [Everything should be a random number generator](https://en.cppreference.com/cpp/numeric/random)
 * [2026-11-04, 17:05:07](https://news.ycombinator.com/item?id=50368481) - [Declarative Dragging](https://declarative-dragging.github.io/)
 * [2026-11-04, 15:23:16](https://news.ycombinator.com/item?id=50366902) - [Clj.rs – a Clojure dialect implemented in Rust](https://clj.rs/)
 * [2026-11-04, 15:18:59](https://news.ycombinator.com/item?id=50366821) - [Porting Android 16 to my blind mother's keypad phone](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
