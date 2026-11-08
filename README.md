@@ -23,13 +23,13 @@
 * [2026-11-08, 03:11:48](https://news.ycombinator.com/item?id=50410107) - [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html)
 * [2026-11-07, 20:45:32](https://news.ycombinator.com/item?id=50407882) - [Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
 * [2026-11-07, 18:12:12](https://news.ycombinator.com/item?id=50406670) - [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
-* [2026-11-07, 14:18:45](https://news.ycombinator.com/item?id=50404747) - [The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]](https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf)
 * [2026-11-06, 09:05:18](https://news.ycombinator.com/item?id=50389923) - [The Reconstruction of Torn Documents](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/)
 * [2026-11-04, 23:23:08](https://news.ycombinator.com/item?id=50372838) - [Edward Hopper's Iconic Painting, \"Nighthawks](https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/)
 * [2026-11-04, 17:05:07](https://news.ycombinator.com/item?id=50368481) - [Declarative Dragging](https://declarative-dragging.github.io/)
 * [2026-11-04, 15:23:16](https://news.ycombinator.com/item?id=50366902) - [Clj.rs – a Clojure dialect implemented in Rust](https://clj.rs/)
 * [2026-11-04, 15:18:59](https://news.ycombinator.com/item?id=50366821) - [Porting Android 16 to my blind mother's keypad phone](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
 * [2026-11-04, 08:54:27](https://news.ycombinator.com/item?id=50362963) - [Show HN: Vegetable Gardening for Engineers](https://jrcpl.us/contrib/2020/gardening-for-engineers/)
+* [2026-11-03, 20:58:40](https://news.ycombinator.com/item?id=50358094) - [Tasfer: a text editor drawn on a 2D canvas](https://www.hamza.se/blog/tasfer)
 
 ## [Archives](archives/index.md)
 
