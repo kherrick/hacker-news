@@ -34,6 +34,7 @@
 * [2026-11-03, 16:43:54](https://news.ycombinator.com/item?id=50354308) - [The Ubuntu 26.04 Rust sudo is not compatible with standard sudo](https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible)
 * [2026-11-03, 16:40:02](https://news.ycombinator.com/item?id=50354250) - [USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance](https://arxiv.org/abs/2611.02618)
 * [2026-11-03, 16:30:23](https://news.ycombinator.com/item?id=50354097) - [Can GROUP BY still be optimized after all these years?](https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/)
+* [2026-11-03, 16:10:37](https://news.ycombinator.com/item?id=50353814) - [The History of Djgpp](https://www.delorie.com/djgpp/history.html)
 * [2026-11-03, 15:41:52](https://news.ycombinator.com/item?id=50353386) - [Show HN: HackerChurn – which SaaS tools HN wants to cancel](https://hissingkitty.com/hacker-churn)
 * [2026-11-03, 15:41:46](https://news.ycombinator.com/item?id=50353383) - [Bear turns 10, and it still feels like day one](https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/)
 * [2026-11-03, 15:38:04](https://news.ycombinator.com/item?id=50353335) - [Study estimates 75% of NFL players who died over 15-year span had CTE](https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-08, 21:20:20](https://news.ycombinator.com/item?id=50417407) - [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)
 * [2026-11-08, 20:26:43](https://news.ycombinator.com/item?id=50416801) - [Nvidia Board of Directors Is Investigating Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
 * [2026-11-08, 19:49:46](https://news.ycombinator.com/item?id=50416471) - [Starship Flight 15 on 11/13 plans to catch both booster and ship](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-08, 19:48:32](https://news.ycombinator.com/item?id=50416456) - [The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough)
@@ -7,7 +8,6 @@
 * [2026-11-08, 19:20:32](https://news.ycombinator.com/item?id=50416158) - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
 * [2026-11-08, 19:08:51](https://news.ycombinator.com/item?id=50416053) - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
 * [2026-11-08, 19:04:07](https://news.ycombinator.com/item?id=50416014) - [Playing with the STM32MP2](https://serd.es/2026/11/08/playing-with-stm32mp2.html)
-* [2026-11-08, 18:43:07](https://news.ycombinator.com/item?id=50415817) - [Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
 * [2026-11-08, 18:33:50](https://news.ycombinator.com/item?id=50415750) - [Playing Zork 1 on a CP/M emulator on Linux (2021)](https://kevinboone.me/cpmzork.html)
 * [2026-11-08, 18:16:07](https://news.ycombinator.com/item?id=50415628) - [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
 * [2026-11-08, 17:32:55](https://news.ycombinator.com/item?id=50415281) - [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
@@ -16,7 +16,6 @@
 * [2026-11-08, 17:09:55](https://news.ycombinator.com/item?id=50415078) - [A field guide to CAPTCHA types and how they break](https://github.com/vsmutok/FuckCaptcha)
 * [2026-11-08, 14:42:38](https://news.ycombinator.com/item?id=50413769) - [I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/)
 * [2026-11-08, 12:51:38](https://news.ycombinator.com/item?id=50412830) - [How to prove equations using diagrams, part 1](https://www.epatters.org/post/e-graphs-1/)
-* [2026-11-08, 10:56:43](https://news.ycombinator.com/item?id=50412152) - [Petered](https://aworkinglibrary.com/writing/petered)
 * [2026-11-08, 10:42:15](https://news.ycombinator.com/item?id=50412072) - [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
 * [2026-11-08, 10:41:52](https://news.ycombinator.com/item?id=50412067) - [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
 * [2026-11-08, 10:22:04](https://news.ycombinator.com/item?id=50411961) - [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
@@ -30,6 +29,7 @@
 * [2026-11-04, 15:23:16](https://news.ycombinator.com/item?id=50366902) - [Clj.rs – a Clojure dialect implemented in Rust](https://clj.rs/)
 * [2026-11-04, 15:18:59](https://news.ycombinator.com/item?id=50366821) - [Porting Android 16 to my blind mother's keypad phone](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
 * [2026-11-04, 08:54:27](https://news.ycombinator.com/item?id=50362963) - [Show HN: Vegetable Gardening for Engineers](https://jrcpl.us/contrib/2020/gardening-for-engineers/)
+* [2026-11-03, 16:10:37](https://news.ycombinator.com/item?id=50353814) - [The History of Djgpp](https://www.delorie.com/djgpp/history.html)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-08](index.md)
 
+* [2026-11-08, 21:20:20](https://news.ycombinator.com/item?id=50417407) - [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)
 * [2026-11-08, 20:26:43](https://news.ycombinator.com/item?id=50416801) - [Nvidia Board of Directors Is Investigating Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
 * [2026-11-08, 19:49:46](https://news.ycombinator.com/item?id=50416471) - [Starship Flight 15 on 11/13 plans to catch both booster and ship](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-08, 19:48:32](https://news.ycombinator.com/item?id=50416456) - [The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough)
