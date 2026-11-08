@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-11-08, 18:16:07",
+      "https://news.ycombinator.com/item?id=50415628"
+    ],
+    [
+      "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 17:32:55",
+      "https://news.ycombinator.com/item?id=50415281"
+    ],
+    [
+      "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+      "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 17:16:07",
+      "https://news.ycombinator.com/item?id=50415135"
+    ],
+    [
+      "A Little Snitch for Windows",
+      "https://packethound.app/"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 17:09:55",
+      "https://news.ycombinator.com/item?id=50415078"
+    ],
+    [
+      "A field guide to CAPTCHA types and how they break",
+      "https://github.com/vsmutok/FuckCaptcha"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 15:57:37",
+      "https://news.ycombinator.com/item?id=50414331"
+    ],
+    [
+      "UK House of Lords to propose mandatory CSAM detection software on smartphones",
+      "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 14:42:38",
+      "https://news.ycombinator.com/item?id=50413769"
+    ],
+    [
+      "I'm not a fan of Deno's security model (2024)",
+      "https://goldstein.lol/posts/deno-security/"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 12:51:38",
+      "https://news.ycombinator.com/item?id=50412830"
+    ],
+    [
+      "How to prove equations using diagrams, part 1",
+      "https://www.epatters.org/post/e-graphs-1/"
+    ]
+  ],
+  [
+    [
       "2026-11-08, 11:23:28",
       "https://news.ycombinator.com/item?id=50412318"
     ],
@@ -15,7 +85,7 @@
       "https://news.ycombinator.com/item?id=50412152"
     ],
     [
-      "Petered (what happens after the Peter Principle)",
+      "Petered",
       "https://aworkinglibrary.com/writing/petered"
     ]
   ],
@@ -35,7 +105,7 @@
       "https://news.ycombinator.com/item?id=50412067"
     ],
     [
-      "Writing as a Thinking Tool",
+      "Writing as a thinking tool",
       "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html"
     ]
   ],
@@ -61,62 +131,12 @@
   ],
   [
     [
-      "2026-11-08, 07:09:02",
-      "https://news.ycombinator.com/item?id=50411083"
-    ],
-    [
-      "WaveDudeNext 2D Wave Simulator",
-      "https://github.com/graealex/WaveDudeNext"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 04:14:12",
-      "https://news.ycombinator.com/item?id=50410359"
-    ],
-    [
-      "Kirlian Photography: Building Your Own Equipment",
-      "https://imagesco.com/articles/kirlian/kirlian-photography.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 03:47:19",
-      "https://news.ycombinator.com/item?id=50410249"
-    ],
-    [
-      "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
-      "https://github.com/dmunozv04/isponsorblocktv"
-    ]
-  ],
-  [
-    [
       "2026-11-08, 03:11:48",
       "https://news.ycombinator.com/item?id=50410107"
     ],
     [
-      "Goodbye Claude, Hello Pi",
+      "Goodbye Claude, hello Pi",
       "https://caleb.software/posts/claude-to-pi.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 02:02:38",
-      "https://news.ycombinator.com/item?id=50409856"
-    ],
-    [
-      "Consumer brain wave headsets threaten privacy",
-      "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F"
-    ]
-  ],
-  [
-    [
-      "2026-11-07, 23:09:40",
-      "https://news.ycombinator.com/item?id=50408931"
-    ],
-    [
-      "GitHub New pull request overview page in public preview",
-      "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/"
     ]
   ],
   [
@@ -151,32 +171,22 @@
   ],
   [
     [
-      "2026-11-07, 18:02:17",
-      "https://news.ycombinator.com/item?id=50406563"
-    ],
-    [
-      "The end of Microsoft Research's AI Frontiers group",
-      "https://hunch.net/?p=13764006"
-    ]
-  ],
-  [
-    [
-      "2026-11-07, 17:27:30",
-      "https://news.ycombinator.com/item?id=50406292"
-    ],
-    [
-      "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "https://github.com/hedgerow-dev/coldframe"
-    ]
-  ],
-  [
-    [
       "2026-11-07, 17:19:00",
       "https://news.ycombinator.com/item?id=50406222"
     ],
     [
       "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
       "https://maxxbench.unlap.ai/research/why-maxxbench/"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 14:18:45",
+      "https://news.ycombinator.com/item?id=50404747"
+    ],
+    [
+      "The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]",
+      "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf"
     ]
   ],
   [
@@ -201,22 +211,12 @@
   ],
   [
     [
-      "2026-11-07, 09:36:36",
-      "https://news.ycombinator.com/item?id=50403052"
+      "2026-11-06, 09:05:18",
+      "https://news.ycombinator.com/item?id=50389923"
     ],
     [
-      "Need for Speed Underground 2 online in the browser",
-      "https://nfsu2.xyz/"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 02:27:08",
-      "https://news.ycombinator.com/item?id=50387381"
-    ],
-    [
-      "Earliest evidence of cannabis use found in ancient Siberian tomb",
-      "https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl"
+      "The Reconstruction of Torn Documents",
+      "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-11-03, 14:37:17",
-      "https://news.ycombinator.com/item?id=50352518"
+      "2026-11-04, 08:54:27",
+      "https://news.ycombinator.com/item?id=50362963"
     ],
     [
-      "Quadrillion-parameter transformers and how to train them",
-      "https://qlabs.sh/research/parameters"
+      "Show HN: Vegetable Gardening for Engineers",
+      "https://jrcpl.us/contrib/2020/gardening-for-engineers/"
     ]
   ],
   [
     [
-      "2026-11-03, 13:50:19",
-      "https://news.ycombinator.com/item?id=50351954"
+      "2026-11-03, 20:58:40",
+      "https://news.ycombinator.com/item?id=50358094"
     ],
     [
-      "Amsterdam School",
-      "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html"
+      "Tasfer: a text editor drawn on a 2D canvas",
+      "https://www.hamza.se/blog/tasfer"
     ]
   ]
 ]
