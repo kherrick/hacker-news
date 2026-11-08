@@ -10,6 +10,7 @@
 * [2026-11-08, 18:33:50](https://news.ycombinator.com/item?id=50415750) - [Playing Zork 1 on a CP/M emulator on Linux (2021)](https://kevinboone.me/cpmzork.html)
 * [2026-11-08, 18:16:07](https://news.ycombinator.com/item?id=50415628) - [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
 * [2026-11-08, 17:32:55](https://news.ycombinator.com/item?id=50415281) - [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
+* [2026-11-08, 17:20:29](https://news.ycombinator.com/item?id=50415172) - [RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/)
 * [2026-11-08, 17:16:07](https://news.ycombinator.com/item?id=50415135) - [A Little Snitch for Windows](https://packethound.app/)
 * [2026-11-08, 17:09:55](https://news.ycombinator.com/item?id=50415078) - [A field guide to CAPTCHA types and how they break](https://github.com/vsmutok/FuckCaptcha)
 * [2026-11-08, 15:57:37](https://news.ycombinator.com/item?id=50414331) - [UK House of Lords to propose mandatory CSAM detection software on smartphones](https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign)
