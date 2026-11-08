@@ -46,6 +46,7 @@
 * [2026-11-06, 10:21:15](https://news.ycombinator.com/item?id=50390525) - [Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)](https://jhr.pensoft.net/articles.php?id=9096)
 * [2026-11-06, 09:27:12](https://news.ycombinator.com/item?id=50390124) - [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
 * [2026-11-06, 09:13:30](https://news.ycombinator.com/item?id=50389990) - [AI for scientific discovery: How researchers use Claude](https://www.anthropic.com/research/how-researchers-use-claude)
+* [2026-11-06, 09:05:18](https://news.ycombinator.com/item?id=50389923) - [The Reconstruction of Torn Documents](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/)
 * [2026-11-06, 08:18:36](https://news.ycombinator.com/item?id=50389570) - [Chomsky and the Two Cultures of Statistical Learning](https://www.norvig.com/chomsky.html)
 * [2026-11-06, 07:55:48](https://news.ycombinator.com/item?id=50389420) - [Multiplayer tanks that demolish real buildings from OpenStreetMap](https://worldstrike.fun/)
 * [2026-11-06, 07:47:38](https://news.ycombinator.com/item?id=50389370) - [Kugelblitz – Mac-Native Google Earth Alternative](https://apps.metaebene.me/en/kugelblitz)

@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-11-08](index.md)
 
+* [2026-11-08, 18:16:07](https://news.ycombinator.com/item?id=50415628) - [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
+* [2026-11-08, 17:32:55](https://news.ycombinator.com/item?id=50415281) - [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
+* [2026-11-08, 17:16:07](https://news.ycombinator.com/item?id=50415135) - [A Little Snitch for Windows](https://packethound.app/)
+* [2026-11-08, 17:09:55](https://news.ycombinator.com/item?id=50415078) - [A field guide to CAPTCHA types and how they break](https://github.com/vsmutok/FuckCaptcha)
+* [2026-11-08, 15:57:37](https://news.ycombinator.com/item?id=50414331) - [UK House of Lords to propose mandatory CSAM detection software on smartphones](https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign)
+* [2026-11-08, 14:42:38](https://news.ycombinator.com/item?id=50413769) - [I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/)
+* [2026-11-08, 12:51:38](https://news.ycombinator.com/item?id=50412830) - [How to prove equations using diagrams, part 1](https://www.epatters.org/post/e-graphs-1/)
 * [2026-11-08, 11:23:28](https://news.ycombinator.com/item?id=50412318) - [Person of Interest](https://krthr.co/person-of-interest/)
 * [2026-11-08, 10:56:43](https://news.ycombinator.com/item?id=50412152) - [Petered (what happens after the Peter Principle)](https://aworkinglibrary.com/writing/petered)
 * [2026-11-08, 10:42:15](https://news.ycombinator.com/item?id=50412072) - [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)

@@ -59,6 +59,7 @@
 * [2026-11-04, 09:01:58](https://news.ycombinator.com/item?id=50363019) - [Verification Is Not Knowledge: Science needs more than answers](https://blog.cosmos-institute.org/p/verification-is-not-knowledge)
 * [2026-11-04, 08:58:03](https://news.ycombinator.com/item?id=50362993) - [Milkman – The Better Alternative to Postman](https://milkman.dev/)
 * [2026-11-04, 08:57:10](https://news.ycombinator.com/item?id=50362980) - [Kitty 0.50](https://sw.kovidgoyal.net/kitty/changelog/#)
+* [2026-11-04, 08:54:27](https://news.ycombinator.com/item?id=50362963) - [Show HN: Vegetable Gardening for Engineers](https://jrcpl.us/contrib/2020/gardening-for-engineers/)
 * [2026-11-04, 08:46:29](https://news.ycombinator.com/item?id=50362905) - [Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
 * [2026-11-04, 07:37:30](https://news.ycombinator.com/item?id=50362466) - [The lost malloc()](https://napcakes.nekoweb.org/posts/malloc/)
 * [2026-11-04, 05:22:43](https://news.ycombinator.com/item?id=50361765) - [PostgreSQL Internals [pdf]](https://edu.postgrespro.com/postgresql_internals-14_en.pdf)
