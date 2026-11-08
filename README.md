@@ -6,6 +6,7 @@
 * [2026-11-08, 19:37:42](https://news.ycombinator.com/item?id=50416363) - [How I Fight AI Brain Fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
 * [2026-11-08, 19:20:32](https://news.ycombinator.com/item?id=50416158) - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
 * [2026-11-08, 19:08:51](https://news.ycombinator.com/item?id=50416053) - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
+* [2026-11-08, 19:04:07](https://news.ycombinator.com/item?id=50416014) - [Playing with the STM32MP2](https://serd.es/2026/11/08/playing-with-stm32mp2.html)
 * [2026-11-08, 18:43:07](https://news.ycombinator.com/item?id=50415817) - [Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
 * [2026-11-08, 18:33:50](https://news.ycombinator.com/item?id=50415750) - [Playing Zork 1 on a CP/M emulator on Linux (2021)](https://kevinboone.me/cpmzork.html)
 * [2026-11-08, 18:16:07](https://news.ycombinator.com/item?id=50415628) - [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
@@ -29,7 +30,6 @@
 * [2026-11-04, 15:23:16](https://news.ycombinator.com/item?id=50366902) - [Clj.rs – a Clojure dialect implemented in Rust](https://clj.rs/)
 * [2026-11-04, 15:18:59](https://news.ycombinator.com/item?id=50366821) - [Porting Android 16 to my blind mother's keypad phone](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
 * [2026-11-04, 08:54:27](https://news.ycombinator.com/item?id=50362963) - [Show HN: Vegetable Gardening for Engineers](https://jrcpl.us/contrib/2020/gardening-for-engineers/)
-* [2026-11-03, 20:58:40](https://news.ycombinator.com/item?id=50358094) - [Tasfer: a text editor drawn on a 2D canvas](https://www.hamza.se/blog/tasfer)
 
 ## [Archives](archives/index.md)
 
