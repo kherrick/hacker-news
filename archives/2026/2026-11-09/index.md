@@ -8,6 +8,7 @@
 * [2026-11-09, 09:50:03](https://news.ycombinator.com/item?id=50423371) - [Ask HN: Do you still enjoy coding in C++?](https://news.ycombinator.com/item?id=50423371)
 * [2026-11-09, 08:17:49](https://news.ycombinator.com/item?id=50422628) - [ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)
 * [2026-11-09, 07:31:14](https://news.ycombinator.com/item?id=50422254) - [PixelOS](https://pixelos.net/)
+* [2026-11-09, 07:21:33](https://news.ycombinator.com/item?id=50422181) - [370 Books in 20 months: South African author defends her use of AI](https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai)
 * [2026-11-09, 07:20:37](https://news.ycombinator.com/item?id=50422168) - [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
 * [2026-11-09, 07:04:25](https://news.ycombinator.com/item?id=50422069) - [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
 * [2026-11-09, 06:55:38](https://news.ycombinator.com/item?id=50422001) - [Being a meat proxy for AI should be grounds for getting people fired](https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired)
