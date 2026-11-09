@@ -33,6 +33,7 @@
 * [2026-11-06, 16:50:29](https://news.ycombinator.com/item?id=50394855) - [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html)
 * [2026-11-06, 16:31:32](https://news.ycombinator.com/item?id=50394569) - [Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web](https://github.com/anomalyco/rune)
 * [2026-11-06, 15:44:36](https://news.ycombinator.com/item?id=50393758) - [Deus Ex](https://www.filfre.net/2026/11/deus-ex/)
+* [2026-11-06, 15:25:42](https://news.ycombinator.com/item?id=50393482) - [Turning the HEIC decoder into a SHA-256 computer](https://www.irisc2.com/blog/heic-hashquine)
 * [2026-11-06, 15:03:24](https://news.ycombinator.com/item?id=50393183) - [FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control](https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air)
 * [2026-11-06, 15:01:38](https://news.ycombinator.com/item?id=50393154) - [RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd](https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/)
 * [2026-11-06, 14:58:33](https://news.ycombinator.com/item?id=50393105) - [Ask HN: What in the world is taking Ubuntu so long?](https://news.ycombinator.com/item?id=50393105)
