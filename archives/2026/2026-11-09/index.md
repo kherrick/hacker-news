@@ -26,6 +26,7 @@
 * [2026-11-09, 15:23:57](https://news.ycombinator.com/item?id=50426899) - [Crypto foundation demanded employees endorse suicide pledge](https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/)
 * [2026-11-09, 15:18:19](https://news.ycombinator.com/item?id=50426831) - [Pigshell: Unix the Web](http://pigshell.com/v/0.6.4/)
 * [2026-11-09, 15:07:23](https://news.ycombinator.com/item?id=50426681) - [On Being an Engineer in 2026](https://twitter.com/shaharglazner/status/2119796029256032278)
+* [2026-11-09, 15:01:48](https://news.ycombinator.com/item?id=50426593) - [Show HN: My daily word puzzle Jointter revisited](https://news.ycombinator.com/item?id=50426593)
 * [2026-11-09, 15:01:03](https://news.ycombinator.com/item?id=50426582) - [I Saw Your HN Comment](https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/)
 * [2026-11-09, 14:34:00](https://news.ycombinator.com/item?id=50426207) - [Zebkit – Chromium's engine as a library you link, not a runtime you live in](https://github.com/ikey4u/zebkit)
 * [2026-11-09, 14:31:39](https://news.ycombinator.com/item?id=50426175) - [Magenta solar panels may be agrivoltaics' cleverest trick yet](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)
