@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-09, 15:23:57](https://news.ycombinator.com/item?id=50426899) - [Crypto foundation demanded employees endorse suicide pledge](https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/)
 * [2026-11-09, 14:34:00](https://news.ycombinator.com/item?id=50426207) - [Zebkit – Chromium as an embeddable library](https://github.com/ikey4u/zebkit)
-* [2026-11-09, 13:27:01](https://news.ycombinator.com/item?id=50425303) - [Children of Men: The Future Is a Mirror for the Present](https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/)
 * [2026-11-09, 12:30:20](https://news.ycombinator.com/item?id=50424704) - [Humans will never again create a project like Wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)
 * [2026-11-09, 12:19:22](https://news.ycombinator.com/item?id=50424581) - [Fold Epic Paper Airplanes](https://www.foldableflight.com)
 * [2026-11-09, 11:31:05](https://news.ycombinator.com/item?id=50424157) - [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
