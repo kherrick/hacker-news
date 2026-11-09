@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-09, 05:30:11",
+      "https://news.ycombinator.com/item?id=50421426"
+    ],
+    [
+      "Apple capped engineers at a $200 daily AI budget",
+      "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 03:51:10",
       "https://news.ycombinator.com/item?id=50420857"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-11-08, 14:42:38",
-      "https://news.ycombinator.com/item?id=50413769"
-    ],
-    [
-      "I'm not a fan of Deno's security model (2024)",
-      "https://goldstein.lol/posts/deno-security/"
-    ]
-  ],
-  [
-    [
       "2026-11-08, 10:42:15",
       "https://news.ycombinator.com/item?id=50412072"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-11-04, 21:34:49",
+      "https://news.ycombinator.com/item?id=50371886"
+    ],
+    [
+      "Show HN: My compact, bio inspired distributed edge detection algorithm",
+      "https://github.com/RenderBear/haci"
+    ]
+  ],
+  [
+    [
       "2026-11-04, 17:05:07",
       "https://news.ycombinator.com/item?id=50368481"
     ],
     [
       "Declarative Dragging",
       "https://declarative-dragging.github.io/"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 08:54:27",
-      "https://news.ycombinator.com/item?id=50362963"
-    ],
-    [
-      "Show HN: Vegetable Gardening for Engineers",
-      "https://jrcpl.us/contrib/2020/gardening-for-engineers/"
     ]
   ]
 ]
