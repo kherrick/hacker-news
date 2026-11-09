@@ -56,6 +56,7 @@
 * [2026-11-06, 07:40:35](https://news.ycombinator.com/item?id=50389333) - [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)
 * [2026-11-06, 07:28:39](https://news.ycombinator.com/item?id=50389260) - [Hardcoded credentials and other issues in Tata Motors App](https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537)
 * [2026-11-06, 07:22:04](https://news.ycombinator.com/item?id=50389222) - [Britain to make salary disclosure in job ads mandatory](https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/)
+* [2026-11-06, 07:03:16](https://news.ycombinator.com/item?id=50389093) - [Active Benchmarking](https://www.brendangregg.com/activebenchmarking.html)
 * [2026-11-06, 07:00:18](https://news.ycombinator.com/item?id=50389074) - [Budget offers $50B jolt to help Canada double its electricity grid](https://www.cbc.ca/news/politics/electricity-budget-new-money-9.7410949)
 * [2026-11-06, 06:06:33](https://news.ycombinator.com/item?id=50388752) - [Hugging Face's CEO Says His P(Doom) Is 'Close to Zero'](https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/)
 * [2026-11-06, 05:19:04](https://news.ycombinator.com/item?id=50388513) - [I struggle to believe that AI R&D is ingenious](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL)
