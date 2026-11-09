@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
 * [2026-11-09, 19:35:16](https://news.ycombinator.com/item?id=50430621) - [CUI – Native UI components for C](https://yappologistic.github.io/CUI/)
+* [2026-11-09, 19:33:09](https://news.ycombinator.com/item?id=50430585) - [Iran was behind cyber-attack on French supermarket freezers, Paris says](https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges)
 * [2026-11-09, 18:56:29](https://news.ycombinator.com/item?id=50429906) - [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 * [2026-11-09, 18:50:56](https://news.ycombinator.com/item?id=50429812) - [Show HN: Someone Was Here – Find out who used your Mac while you were away](https://someonewashere.app/)
 * [2026-11-09, 18:45:43](https://news.ycombinator.com/item?id=50429734) - [E-means: 10x faster k-means at equal loss](https://e-means.github.io/)
