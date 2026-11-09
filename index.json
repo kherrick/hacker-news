@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-11-09, 17:36:20",
+      "https://news.ycombinator.com/item?id=50428724"
+    ],
+    [
+      "Going back two years on Hacker News is like entering another, better universe",
+      "https://news.ycombinator.com/front?day=2024-11-08"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 17:00:06",
       "https://news.ycombinator.com/item?id=50428266"
     ],
@@ -27,16 +37,6 @@
     [
       "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
       "https://news.ycombinator.com/item?id=50427934"
-    ]
-  ],
-  [
-    [
-      "2026-11-09, 16:01:45",
-      "https://news.ycombinator.com/item?id=50427378"
-    ],
-    [
-      "Castration extends life span, but in a surprising way, mouse study suggests",
-      "https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2026-11-09, 07:04:25",
+      "https://news.ycombinator.com/item?id=50422069"
+    ],
+    [
+      "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "https://twitter.com/shanemelaugh/status/2119192075505893695"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 00:10:50",
       "https://news.ycombinator.com/item?id=50419215"
     ],
@@ -191,22 +201,22 @@
   ],
   [
     [
-      "2026-11-08, 22:36:03",
-      "https://news.ycombinator.com/item?id=50418182"
-    ],
-    [
-      "Chimera Vocal Synth",
-      "https://chimera-vocal-synth.vercel.app/"
-    ]
-  ],
-  [
-    [
       "2026-11-08, 22:35:35",
       "https://news.ycombinator.com/item?id=50418176"
     ],
     [
       "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
       "https://ketchup3d.github.io/app/"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 19:49:46",
+      "https://news.ycombinator.com/item?id=50416471"
+    ],
+    [
+      "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+      "https://www.spacex.com/launches/starship-flight-15"
     ]
   ],
   [
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2026-11-06, 15:25:42",
+      "https://news.ycombinator.com/item?id=50393482"
+    ],
+    [
+      "Turning the HEIC decoder into a SHA-256 computer",
+      "https://www.irisc2.com/blog/heic-hashquine"
+    ]
+  ],
+  [
+    [
       "2026-11-06, 07:03:16",
       "https://news.ycombinator.com/item?id=50389093"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-11-06, 04:46:23",
-      "https://news.ycombinator.com/item?id=50388335"
-    ],
-    [
-      "How Australia played the first music on a computer",
-      "https://www.pearcey.org.au/heritage/csirac/how-australia-played-the-worlds-first-music-on-a-computer/"
-    ]
-  ],
-  [
-    [
       "2026-11-05, 09:32:50",
       "https://news.ycombinator.com/item?id=50377111"
     ],
     [
       "Pointer Provenance in Rust vs. C++: Pointers Are Not Just Glorified Ints",
       "https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 17:05:07",
-      "https://news.ycombinator.com/item?id=50368481"
-    ],
-    [
-      "Declarative Dragging",
-      "https://declarative-dragging.github.io/"
     ]
   ]
 ]
