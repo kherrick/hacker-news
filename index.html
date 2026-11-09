@@ -147,6 +147,118 @@
             </h4>
           </section>
         </section>
+        <section id="50427934">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=50427934"
+              >Show HN: DBDelve – Open-Source DB Client Made with Rust and
+              GPUI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-09 @ 16:36:38</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50427934"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                For my workflow I’ve always looked for performance, especially
+                since some time ago I had a really outdated machine and any kind
+                of bloat was really noticeable, I remember using DBeaver and it
+                just crashing on me multiple times, I also had to use postGIS
+                which just made it worse. I migrated all my essential dev tools
+                to use the ones with performance in mind (Zed, Ghostty etc) but
+                the only thing that was missing was DB Client. The main choices
+                everyone has are DBeaver which is a memory hog and an overkill
+                for most of the tasks imo. The other options like Datagrid,
+                Beekeeper, TablePlus are either electron based so bloated and
+                memory hogs or paid and closed-source.
+              </p>
+              <p>
+                DBDelve 0.3.6 against DBeaver 25.3.1 on the same Postgres table,
+                median of 5 runs each (2026-10-11, M1 Pro, 32 GB). Times are
+                from the action to the rows rendered.
+              </p>
+              <p></p>
+              <pre><code>                            DBDelve   DBeaver
+  Launch                    1.1 s     5.2 s
+  Idle memory               133 MB    606 MB
+  1,000-row query           0.21 s    1.96 s
+  1M rows, time             56 s      208 s
+  1M rows, memory [1]       4.9 GB    17 GB
+</code></pre>
+              [1] The whole 1M-row, 100-column table pulled into memory on
+              purpose, with the row limit off. Not a normal use case; DBeaver's
+              heap limit had to be raised manually for the benchmark.
+              <p>
+                Scrolling perf with 1 million rows loaded with 100 columns each:
+                <a href="https://youtu.be/V2MOhJYFqIE"
+                  >https://youtu.be/V2MOhJYFqIE</a
+                >
+              </p>
+              <p>
+                It has most of the features most devs would need for 90% of
+                their workflow plus some more I thought would be a nice touch:
+                Readonly, read-write and Full Access modes Glass themes (If
+                you’re into them, I am) Keyboard focused with every keybinding
+                customizable Organization of connections into projects
+              </p>
+              <p>
+                Me and some other folks have been daily driving it for more than
+                a month now and most good feedback comes on it having a really
+                simple UI to navigate, very stable for its age and the
+                performance of course. I’m also sharing here because those
+                people tell me this has potential to grow so I’m trying my hand
+                at distributing it.
+              </p>
+              <p>
+                Just want to give a huge shoutout here to the Zed team for GPUI,
+                it's a breeze to work with if you just get through them not
+                updating the crate officially on crates.io but the community has
+                found the solutions for it, you just have to dig deep for it. It
+                performs extremely well and just the HTML-like structure of it,
+                makes it easy to understand for someone from a web dev
+                background and agents are very good at writing it too. GPUI
+                component also solves a lot of problems with having a good
+                component library we can use. I think for anyone starting a GPUI
+                project now, GPUI-kit makes a lot of sense, it just bundles
+                GPUI, GPUI-component together and has some optimizations adding
+                retained mode which is experimental but could provide a lot of
+                benefit, so think all things considered it should be the default
+                way.
+              </p>
+              <p>
+                The major optimization I did was just lowering the memory
+                overhead by using packed rows which reduced the memory usage by
+                40% on large datasets (8.1GB to 4.9GB on a 4GB table loaded in
+                app), everything else came bundled in with Rust and GPUI mostly
+                or they just made it very easy.
+              </p>
+              <p>
+                Limitations: It's not signed and notarized, identity
+                verification from apple's side has been a nightmare but it
+                should be signed soon. Don’t expect feature parity with more
+                mature clients for now, the general direction of this right now
+                is the zed way of adding features in but after making sure the
+                core workflows are done with a high quality.
+              </p>
+              <p>
+                Do give it a try, you can import your connections from dbeaver
+                and tableplus.
+              </p>
+              <p>
+                <a href="https://github.com/ShayanAbbas1/dbdelve"
+                  >https://github.com/ShayanAbbas1/dbdelve</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="50427378">
           <h3>
             <a
@@ -160,11 +272,11 @@
             <h4>
               <span>2026-11-09 @ 16:01:45</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50427378"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -182,11 +294,11 @@
             <h4>
               <span>2026-11-09 @ 16:00:45</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50427362"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -204,11 +316,11 @@
             <h4>
               <span>2026-11-09 @ 15:39:01</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50427085"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -223,11 +335,11 @@
             <h4>
               <span>2026-11-09 @ 15:18:19</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50426831"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -244,11 +356,11 @@
             <h4>
               <span>2026-11-09 @ 15:01:03</span
               ><span class="points-container"
-                >Points: <span class="points">264</span></span
+                >Points: <span class="points">278</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50426582"
                   >Comments</a
-                ><span class="descendants">: 193</span></span
+                ><span class="descendants">: 206</span></span
               >
             </h4>
           </section>
@@ -263,11 +375,11 @@
             <h4>
               <span>2026-11-09 @ 14:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50426207"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -284,11 +396,11 @@
             <h4>
               <span>2026-11-09 @ 14:31:39</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50426175"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -305,11 +417,11 @@
             <h4>
               <span>2026-11-09 @ 12:30:20</span
               ><span class="points-container"
-                >Points: <span class="points">420</span></span
+                >Points: <span class="points">422</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50424704"
                   >Comments</a
-                ><span class="descendants">: 355</span></span
+                ><span class="descendants">: 358</span></span
               >
             </h4>
           </section>
@@ -324,7 +436,7 @@
             <h4>
               <span>2026-11-09 @ 12:19:22</span
               ><span class="points-container"
-                >Points: <span class="points">497</span></span
+                >Points: <span class="points">506</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50424581"
                   >Comments</a
@@ -345,11 +457,11 @@
             <h4>
               <span>2026-11-09 @ 11:31:05</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50424157"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -371,29 +483,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50423569"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50423151">
-          <h3>
-            <a
-              class="item"
-              href="https://leosmith.wtf/blog/not-so-secure-boot.html"
-              >Borrowing a Microsoft-signed shim to abuse Secure Boot on
-              corporate hardware</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-09 @ 09:22:30</span
-              ><span class="points-container"
-                >Points: <span class="points">37</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50423151"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -408,7 +498,7 @@
             <h4>
               <span>2026-11-09 @ 08:17:49</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50422628"
                   >Comments</a
@@ -438,11 +528,11 @@
             <h4>
               <span>2026-11-09 @ 07:20:37</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50422168"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -458,11 +548,11 @@
             <h4>
               <span>2026-11-09 @ 04:43:12</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50421155"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
             <div class="text">
@@ -489,11 +579,11 @@
             <h4>
               <span>2026-11-09 @ 00:10:50</span
               ><span class="points-container"
-                >Points: <span class="points">562</span></span
+                >Points: <span class="points">566</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50419215"
                   >Comments</a
-                ><span class="descendants">: 302</span></span
+                ><span class="descendants">: 306</span></span
               >
             </h4>
           </section>
@@ -510,11 +600,11 @@
             <h4>
               <span>2026-11-08 @ 23:44:36</span
               ><span class="points-container"
-                >Points: <span class="points">494</span></span
+                >Points: <span class="points">499</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50418975"
                   >Comments</a
-                ><span class="descendants">: 846</span></span
+                ><span class="descendants">: 853</span></span
               >
             </h4>
           </section>
@@ -529,7 +619,7 @@
             <h4>
               <span>2026-11-08 @ 22:36:03</span
               ><span class="points-container"
-                >Points: <span class="points">312</span></span
+                >Points: <span class="points">313</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50418182"
                   >Comments</a
@@ -549,11 +639,11 @@
             <h4>
               <span>2026-11-08 @ 22:35:35</span
               ><span class="points-container"
-                >Points: <span class="points">687</span></span
+                >Points: <span class="points">688</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50418176"
                   >Comments</a
-                ><span class="descendants">: 200</span></span
+                ><span class="descendants">: 203</span></span
               >
             </h4>
           </section>
@@ -570,7 +660,7 @@
             <h4>
               <span>2026-11-08 @ 19:20:32</span
               ><span class="points-container"
-                >Points: <span class="points">509</span></span
+                >Points: <span class="points">512</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50416158"
                   >Comments</a
@@ -591,7 +681,7 @@
             <h4>
               <span>2026-11-07 @ 17:34:07</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50406348"
                   >Comments</a
@@ -610,7 +700,7 @@
             <h4>
               <span>2026-11-07 @ 17:06:18</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50406107"
                   >Comments</a
@@ -632,11 +722,11 @@
             <h4>
               <span>2026-11-07 @ 16:51:17</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50405979"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -654,11 +744,11 @@
             <h4>
               <span>2026-11-07 @ 05:27:34</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50401910"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -675,7 +765,7 @@
             <h4>
               <span>2026-11-06 @ 07:03:16</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50389093"
                   >Comments</a
@@ -718,7 +808,7 @@
             <h4>
               <span>2026-11-05 @ 09:32:50</span
               ><span class="points-container"
-                >Points: <span class="points">4</span></span
+                >Points: <span class="points">5</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50377111"
                   >Comments</a
@@ -739,7 +829,7 @@
             <h4>
               <span>2026-11-05 @ 01:15:15</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50373768"
                   >Comments</a
@@ -758,7 +848,7 @@
             <h4>
               <span>2026-11-04 @ 17:05:07</span
               ><span class="points-container"
-                >Points: <span class="points">705</span></span
+                >Points: <span class="points">711</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50368481"
                   >Comments</a
