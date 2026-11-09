@@ -39,6 +39,7 @@
 * [2026-11-06, 14:57:16](https://news.ycombinator.com/item?id=50393089) - [Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)](https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/)
 * [2026-11-06, 14:13:09](https://news.ycombinator.com/item?id=50392499) - [University libraries are being swarmed by AI bots, putting public access at risk](https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287)
 * [2026-11-06, 13:57:20](https://news.ycombinator.com/item?id=50392348) - [How octopuses squeeze through too small gaps](https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps)
+* [2026-11-06, 13:48:35](https://news.ycombinator.com/item?id=50392256) - [Nvidia was in 1 in 11 startup rounds over $100M last year](https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/)
 * [2026-11-06, 13:35:27](https://news.ycombinator.com/item?id=50392118) - [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
 * [2026-11-06, 12:13:51](https://news.ycombinator.com/item?id=50391456) - [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
 * [2026-11-06, 12:00:42](https://news.ycombinator.com/item?id=50391342) - [Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers](https://www.ycombinator.com/companies/mbodi-ai/jobs)
