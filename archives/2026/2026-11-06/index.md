@@ -59,6 +59,7 @@
 * [2026-11-06, 07:00:18](https://news.ycombinator.com/item?id=50389074) - [Budget offers $50B jolt to help Canada double its electricity grid](https://www.cbc.ca/news/politics/electricity-budget-new-money-9.7410949)
 * [2026-11-06, 06:06:33](https://news.ycombinator.com/item?id=50388752) - [Hugging Face's CEO Says His P(Doom) Is 'Close to Zero'](https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/)
 * [2026-11-06, 05:19:04](https://news.ycombinator.com/item?id=50388513) - [I struggle to believe that AI R&D is ingenious](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL)
+* [2026-11-06, 04:46:23](https://news.ycombinator.com/item?id=50388335) - [How Australia played the first music on a computer](https://www.pearcey.org.au/heritage/csirac/how-australia-played-the-worlds-first-music-on-a-computer/)
 * [2026-11-06, 04:17:49](https://news.ycombinator.com/item?id=50388122) - [From Linux to Wikipedia: How Volunteers Build the Internet](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)
 * [2026-11-06, 04:00:28](https://news.ycombinator.com/item?id=50388001) - [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
 * [2026-11-06, 03:27:14](https://news.ycombinator.com/item?id=50387796) - [Pwn.college](https://pwn.college/)

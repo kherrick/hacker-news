@@ -11,7 +11,6 @@
 * [2026-11-09, 07:20:37](https://news.ycombinator.com/item?id=50422168) - [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
 * [2026-11-09, 07:04:25](https://news.ycombinator.com/item?id=50422069) - [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
 * [2026-11-09, 04:43:12](https://news.ycombinator.com/item?id=50421155) - [Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)
-* [2026-11-09, 03:15:17](https://news.ycombinator.com/item?id=50420599) - [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
 * [2026-11-09, 00:10:50](https://news.ycombinator.com/item?id=50419215) - [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
 * [2026-11-08, 23:44:36](https://news.ycombinator.com/item?id=50418975) - [I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
 * [2026-11-08, 22:36:03](https://news.ycombinator.com/item?id=50418182) - [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
@@ -28,6 +27,7 @@
 * [2026-11-07, 16:51:17](https://news.ycombinator.com/item?id=50405979) - [Burying the Evidence: nine out of every 10 time capsules go missing](https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/)
 * [2026-11-07, 13:35:16](https://news.ycombinator.com/item?id=50404428) - [Ur-Nammu Founder of the Sumerian Renaissance](https://www.worldhistory.org/Ur-Nammu/)
 * [2026-11-06, 13:48:35](https://news.ycombinator.com/item?id=50392256) - [Nvidia was in 1 in 11 startup rounds over $100M last year](https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/)
+* [2026-11-06, 04:46:23](https://news.ycombinator.com/item?id=50388335) - [How Australia played the first music on a computer](https://www.pearcey.org.au/heritage/csirac/how-australia-played-the-worlds-first-music-on-a-computer/)
 * [2026-11-05, 01:15:15](https://news.ycombinator.com/item?id=50373768) - [Quasi-Logarithmic Kitchen Timer](https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer)
 * [2026-11-04, 17:05:07](https://news.ycombinator.com/item?id=50368481) - [Declarative Dragging](https://declarative-dragging.github.io/)
 
