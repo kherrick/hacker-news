@@ -3,6 +3,7 @@
 * [2026-11-09, 18:56:29](https://news.ycombinator.com/item?id=50429906) - [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 * [2026-11-09, 18:39:22](https://news.ycombinator.com/item?id=50429636) - [Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)
 * [2026-11-09, 18:33:58](https://news.ycombinator.com/item?id=50429545) - [DeepX claims inference up to 100B parameters at less than 5 W](https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/)
+* [2026-11-09, 18:28:00](https://news.ycombinator.com/item?id=50429477) - [Nuance Labs](https://app.nuancelabs.ai/try)
 * [2026-11-09, 18:27:58](https://news.ycombinator.com/item?id=50429475) - [Too many men suffering in silence, national health report finds (Canada)](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
 * [2026-11-09, 18:25:01](https://news.ycombinator.com/item?id=50429430) - [Infineon marks innovation milestone with 300mm power silicon carbide wafer](https://www.infineon.com/press-release/2026/infpr202611-028)
 * [2026-11-09, 17:58:46](https://news.ycombinator.com/item?id=50429024) - [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember)
@@ -28,7 +29,6 @@
 * [2026-11-08, 19:49:46](https://news.ycombinator.com/item?id=50416471) - [Starship Flight 15 on 11/13 plans to catch both booster and ship](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-08, 19:48:32](https://news.ycombinator.com/item?id=50416456) - [The Web Is More Than Enough](https://ftrain.com/aboard-the-web-is-more-than-enough)
 * [2026-11-08, 15:12:07](https://news.ycombinator.com/item?id=50413970) - [Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals](https://github.com/sshah03/recalc)
-* [2026-11-07, 17:34:07](https://news.ycombinator.com/item?id=50406348) - [Isn't It Time for AVIF Everywhere?](https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html)
 * [2026-11-05, 23:48:04](https://news.ycombinator.com/item?id=50386246) - [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
 
 ## [Archives](archives/index.md)
