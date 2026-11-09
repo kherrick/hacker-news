@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-11-09, 04:11:56",
-      "https://news.ycombinator.com/item?id=50420983"
-    ],
-    [
-      "I Resist Generative \"AI\"",
-      "https://estherweidauer.com/articles/why-resist-generative-ai.html"
-    ]
-  ],
-  [
-    [
       "2026-11-09, 03:51:10",
       "https://news.ycombinator.com/item?id=50420857"
     ],
@@ -227,6 +217,16 @@
     [
       "Goodbye Claude, hello Pi",
       "https://caleb.software/posts/claude-to-pi.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 20:45:32",
+      "https://news.ycombinator.com/item?id=50407882"
+    ],
+    [
+      "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
     ]
   ],
   [
