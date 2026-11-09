@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-09, 16:10:07](https://news.ycombinator.com/item?id=50427486) - [Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html)
+* [2026-11-09, 17:00:06](https://news.ycombinator.com/item?id=50428266) - [Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling](https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer)
 * [2026-11-09, 16:01:45](https://news.ycombinator.com/item?id=50427378) - [Castration extends life span, but in a surprising way, mouse study suggests](https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests)
 * [2026-11-09, 16:00:45](https://news.ycombinator.com/item?id=50427362) - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
 * [2026-11-09, 15:39:01](https://news.ycombinator.com/item?id=50427085) - [The same H100 costs $2.69 or $12.29 an hour depending where you rent it](https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing)
@@ -21,13 +21,13 @@
 * [2026-11-08, 22:36:03](https://news.ycombinator.com/item?id=50418182) - [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
 * [2026-11-08, 22:35:35](https://news.ycombinator.com/item?id=50418176) - [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
 * [2026-11-08, 19:20:32](https://news.ycombinator.com/item?id=50416158) - [Outlook.com is rejecting email from domains without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
-* [2026-11-08, 19:08:51](https://news.ycombinator.com/item?id=50416053) - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
 * [2026-11-07, 17:34:07](https://news.ycombinator.com/item?id=50406348) - [Isn't It Time for AVIF Everywhere?](https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html)
 * [2026-11-07, 17:06:18](https://news.ycombinator.com/item?id=50406107) - [Psalm 7 release: PHP security&static analysis software](https://psalm.dev/articles/psalm-7)
 * [2026-11-07, 16:51:17](https://news.ycombinator.com/item?id=50405979) - [Burying the Evidence: nine out of every 10 time capsules go missing](https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/)
 * [2026-11-07, 05:27:34](https://news.ycombinator.com/item?id=50401910) - [He Was a Suspect in the Yogurt Shop Murders for Thirty Years. He Can't Forget](https://www.texasmonthly.com/true-crime/the-yogurt-shop-killer-who-wasnt/)
 * [2026-11-06, 07:03:16](https://news.ycombinator.com/item?id=50389093) - [Active Benchmarking](https://www.brendangregg.com/activebenchmarking.html)
 * [2026-11-06, 04:46:23](https://news.ycombinator.com/item?id=50388335) - [How Australia played the first music on a computer](https://www.pearcey.org.au/heritage/csirac/how-australia-played-the-worlds-first-music-on-a-computer/)
+* [2026-11-05, 09:32:50](https://news.ycombinator.com/item?id=50377111) - [Pointer Provenance in Rust vs. C++: Pointers Are Not Just Glorified Ints](https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/)
 * [2026-11-05, 01:15:15](https://news.ycombinator.com/item?id=50373768) - [Quasi-Logarithmic Kitchen Timer](https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer)
 * [2026-11-04, 17:05:07](https://news.ycombinator.com/item?id=50368481) - [Declarative Dragging](https://declarative-dragging.github.io/)
 

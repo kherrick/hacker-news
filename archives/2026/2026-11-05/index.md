@@ -49,6 +49,7 @@
 * [2026-11-05, 10:52:04](https://news.ycombinator.com/item?id=50377661) - [Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/)
 * [2026-11-05, 10:45:28](https://news.ycombinator.com/item?id=50377613) - [Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5](https://github.com/hyphatech/spindle)
 * [2026-11-05, 09:46:17](https://news.ycombinator.com/item?id=50377221) - [OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability](https://hachyderm.io/@damienmiller/117563026759098135)
+* [2026-11-05, 09:32:50](https://news.ycombinator.com/item?id=50377111) - [Pointer Provenance in Rust vs. C++: Pointers Are Not Just Glorified Ints](https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/)
 * [2026-11-05, 09:29:12](https://news.ycombinator.com/item?id=50377078) - [Baidu released ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
 * [2026-11-05, 07:44:30](https://news.ycombinator.com/item?id=50376313) - [GPT-6 Astra covertly underperforms on safety research](https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/)
 * [2026-11-05, 05:53:53](https://news.ycombinator.com/item?id=50375691) - [Being a kid making games in the early 2000s](https://jaytholen.net/teengamedev/)
