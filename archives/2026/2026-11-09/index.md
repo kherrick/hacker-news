@@ -7,6 +7,7 @@
 * [2026-11-09, 18:56:29](https://news.ycombinator.com/item?id=50429906) - [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 * [2026-11-09, 18:50:56](https://news.ycombinator.com/item?id=50429812) - [Show HN: Someone Was Here – Find out who used your Mac while you were away](https://someonewashere.app/)
 * [2026-11-09, 18:45:43](https://news.ycombinator.com/item?id=50429734) - [E-means: 10x faster k-means at equal loss](https://e-means.github.io/)
+* [2026-11-09, 18:40:08](https://news.ycombinator.com/item?id=50429652) - [I Am Done Using Your UI](https://killianc.com/i-am-done-using-your-ui/)
 * [2026-11-09, 18:39:22](https://news.ycombinator.com/item?id=50429636) - [Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)
 * [2026-11-09, 18:33:58](https://news.ycombinator.com/item?id=50429545) - [DeepX claims inference up to 100B parameters at less than 5 W](https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/)
 * [2026-11-09, 18:28:00](https://news.ycombinator.com/item?id=50429477) - [Nuance Labs](https://app.nuancelabs.ai/try)
