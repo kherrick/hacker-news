@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
+* [2026-11-09, 20:04:55](https://news.ycombinator.com/item?id=50431144) - [November 2026 Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)
 * [2026-11-09, 19:58:59](https://news.ycombinator.com/item?id=50431058) - [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
 * [2026-11-09, 19:35:16](https://news.ycombinator.com/item?id=50430621) - [CUI – Native UI components for C](https://yappologistic.github.io/CUI/)
 * [2026-11-09, 19:33:09](https://news.ycombinator.com/item?id=50430585) - [Iran was behind cyber-attack on French supermarket freezers, Paris says](https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges)
@@ -16,6 +17,7 @@
 * [2026-11-09, 18:28:00](https://news.ycombinator.com/item?id=50429477) - [Nuance Labs](https://app.nuancelabs.ai/try)
 * [2026-11-09, 18:27:58](https://news.ycombinator.com/item?id=50429475) - [Too many men suffering in silence, national health report finds (Canada)](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
 * [2026-11-09, 18:25:01](https://news.ycombinator.com/item?id=50429430) - [Infineon marks innovation milestone with 300mm power silicon carbide wafer](https://www.infineon.com/press-release/2026/infpr202611-028)
+* [2026-11-09, 18:24:38](https://news.ycombinator.com/item?id=50429426) - [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
 * [2026-11-09, 17:59:05](https://news.ycombinator.com/item?id=50429031) - [Show HN: Write GitHub Actions in any language: Loopt](https://github.com/preloopdev/loopt)
 * [2026-11-09, 17:58:46](https://news.ycombinator.com/item?id=50429024) - [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember)
 * [2026-11-09, 17:51:31](https://news.ycombinator.com/item?id=50428907) - [Show HN: Every satellite that passed over any place this week, and its photos](https://www.watched.earth)
