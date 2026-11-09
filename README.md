@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-09, 03:15:17](https://news.ycombinator.com/item?id=50420599) - [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
+* [2026-11-09, 02:46:21](https://news.ycombinator.com/item?id=50420383) - [A Bit about Email](https://maurycyz.com/misc/email/)
 * [2026-11-09, 01:58:21](https://news.ycombinator.com/item?id=50420035) - [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
 * [2026-11-09, 00:10:50](https://news.ycombinator.com/item?id=50419215) - [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
 * [2026-11-08, 23:28:01](https://news.ycombinator.com/item?id=50418818) - [Herb Sutter: When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf)
@@ -11,7 +13,6 @@
 * [2026-11-08, 19:20:32](https://news.ycombinator.com/item?id=50416158) - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
 * [2026-11-08, 19:08:51](https://news.ycombinator.com/item?id=50416053) - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
 * [2026-11-08, 19:04:07](https://news.ycombinator.com/item?id=50416014) - [Playing with the STM32MP2](https://serd.es/2026/11/08/playing-with-stm32mp2.html)
-* [2026-11-08, 18:33:50](https://news.ycombinator.com/item?id=50415750) - [Playing Zork 1 on a CP/M emulator on Linux (2021)](https://kevinboone.me/cpmzork.html)
 * [2026-11-08, 18:16:07](https://news.ycombinator.com/item?id=50415628) - [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
 * [2026-11-08, 17:16:07](https://news.ycombinator.com/item?id=50415135) - [A Little Snitch for Windows](https://packethound.app/)
 * [2026-11-08, 14:42:38](https://news.ycombinator.com/item?id=50413769) - [I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/)
@@ -26,7 +27,6 @@
 * [2026-11-07, 05:16:31](https://news.ycombinator.com/item?id=50401844) - [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform)
 * [2026-11-04, 23:23:08](https://news.ycombinator.com/item?id=50372838) - [Edward Hopper's Iconic Painting, \"Nighthawks](https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/)
 * [2026-11-04, 17:05:07](https://news.ycombinator.com/item?id=50368481) - [Declarative Dragging](https://declarative-dragging.github.io/)
-* [2026-11-04, 15:18:59](https://news.ycombinator.com/item?id=50366821) - [Porting Android 16 to my blind mother's keypad phone](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
 * [2026-11-04, 08:54:27](https://news.ycombinator.com/item?id=50362963) - [Show HN: Vegetable Gardening for Engineers](https://jrcpl.us/contrib/2020/gardening-for-engineers/)
 * [2026-11-04, 01:07:46](https://news.ycombinator.com/item?id=50360369) - [Taco: The Tensor Algebra Compiler](http://tensor-compiler.org/)
 * [2026-11-03, 16:10:37](https://news.ycombinator.com/item?id=50353814) - [The History of Djgpp (1998)](https://www.delorie.com/djgpp/history.html)
