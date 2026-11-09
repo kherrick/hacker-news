@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
+* [2026-11-09, 16:10:07](https://news.ycombinator.com/item?id=50427486) - [Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html)
 * [2026-11-09, 16:01:45](https://news.ycombinator.com/item?id=50427378) - [Castration extends life span, but in a surprising way, mouse study suggests](https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests)
 * [2026-11-09, 16:00:45](https://news.ycombinator.com/item?id=50427362) - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
 * [2026-11-09, 15:39:01](https://news.ycombinator.com/item?id=50427085) - [The same H100 costs $2.69 or $12.29 an hour depending where you rent it](https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-09, 16:10:07](https://news.ycombinator.com/item?id=50427486) - [Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html)
 * [2026-11-09, 16:01:45](https://news.ycombinator.com/item?id=50427378) - [Castration extends life span, but in a surprising way, mouse study suggests](https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests)
 * [2026-11-09, 16:00:45](https://news.ycombinator.com/item?id=50427362) - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
 * [2026-11-09, 15:39:01](https://news.ycombinator.com/item?id=50427085) - [The same H100 costs $2.69 or $12.29 an hour depending where you rent it](https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing)
@@ -18,7 +19,6 @@
 * [2026-11-08, 23:44:36](https://news.ycombinator.com/item?id=50418975) - [I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
 * [2026-11-08, 22:36:03](https://news.ycombinator.com/item?id=50418182) - [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
 * [2026-11-08, 22:35:35](https://news.ycombinator.com/item?id=50418176) - [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
-* [2026-11-08, 22:20:09](https://news.ycombinator.com/item?id=50418016) - [Nvidia CEO Jensen Huang's letter to staff about affair](https://nvidianews.nvidia.com/news/a-message-to-our-company)
 * [2026-11-08, 21:20:20](https://news.ycombinator.com/item?id=50417407) - [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)
 * [2026-11-08, 19:20:32](https://news.ycombinator.com/item?id=50416158) - [Outlook.com is rejecting email from domains without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
 * [2026-11-08, 19:08:51](https://news.ycombinator.com/item?id=50416053) - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
