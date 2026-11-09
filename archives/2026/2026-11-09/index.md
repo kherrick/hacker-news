@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
+* [2026-11-09, 17:42:55](https://news.ycombinator.com/item?id=50428801) - [When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/)
 * [2026-11-09, 17:00:06](https://news.ycombinator.com/item?id=50428266) - [Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling](https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer)
 * [2026-11-09, 16:36:38](https://news.ycombinator.com/item?id=50427934) - [Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI](https://news.ycombinator.com/item?id=50427934)
 * [2026-11-09, 16:10:07](https://news.ycombinator.com/item?id=50427486) - [Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html)
