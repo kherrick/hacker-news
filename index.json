@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=50416158"
     ],
     [
-      "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "Outlook.com is rejecting email from domains without DMARC",
       "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc"
     ]
   ],
@@ -221,12 +221,32 @@
   ],
   [
     [
+      "2026-11-07, 20:45:32",
+      "https://news.ycombinator.com/item?id=50407882"
+    ],
+    [
+      "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+    ]
+  ],
+  [
+    [
       "2026-11-07, 14:51:40",
       "https://news.ycombinator.com/item?id=50405043"
     ],
     [
       "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
       "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-07, 13:35:16",
+      "https://news.ycombinator.com/item?id=50404428"
+    ],
+    [
+      "Ur-Nammu Founder of the Sumerian Renaissance",
+      "https://www.worldhistory.org/Ur-Nammu/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Show HN: Vegetable Gardening for Engineers",
       "https://jrcpl.us/contrib/2020/gardening-for-engineers/"
-    ]
-  ],
-  [
-    [
-      "2026-11-04, 01:07:46",
-      "https://news.ycombinator.com/item?id=50360369"
-    ],
-    [
-      "Taco: The Tensor Algebra Compiler",
-      "http://tensor-compiler.org/"
-    ]
-  ],
-  [
-    [
-      "2026-11-03, 16:10:37",
-      "https://news.ycombinator.com/item?id=50353814"
-    ],
-    [
-      "The History of Djgpp (1998)",
-      "https://www.delorie.com/djgpp/history.html"
     ]
   ]
 ]
