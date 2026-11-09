@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-09, 10:11:47](https://news.ycombinator.com/item?id=50423569) - [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
-* [2026-11-09, 09:50:03](https://news.ycombinator.com/item?id=50423371) - [Ask HN: Do you still enjoy coding in C++?](https://news.ycombinator.com/item?id=50423371)
 * [2026-11-09, 08:17:49](https://news.ycombinator.com/item?id=50422628) - [ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)
 * [2026-11-09, 07:21:33](https://news.ycombinator.com/item?id=50422181) - [370 Books in 20 months: South African author defends her use of AI](https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai)
 * [2026-11-09, 07:20:37](https://news.ycombinator.com/item?id=50422168) - [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
@@ -12,6 +11,7 @@
 * [2026-11-09, 01:58:21](https://news.ycombinator.com/item?id=50420035) - [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
 * [2026-11-09, 00:10:50](https://news.ycombinator.com/item?id=50419215) - [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
 * [2026-11-08, 23:44:36](https://news.ycombinator.com/item?id=50418975) - [I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
+* [2026-11-08, 23:28:01](https://news.ycombinator.com/item?id=50418818) - [When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf)
 * [2026-11-08, 22:36:03](https://news.ycombinator.com/item?id=50418182) - [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
 * [2026-11-08, 22:35:35](https://news.ycombinator.com/item?id=50418176) - [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
 * [2026-11-08, 22:20:09](https://news.ycombinator.com/item?id=50418016) - [Nvidia CEO Jensen Huang's letter to staff about affair](https://nvidianews.nvidia.com/news/a-message-to-our-company)
