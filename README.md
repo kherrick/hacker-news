@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-09, 12:30:20](https://news.ycombinator.com/item?id=50424704) - [Humans will never again create a project like Wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)
 * [2026-11-09, 12:19:22](https://news.ycombinator.com/item?id=50424581) - [Fold Epic Paper Airplanes](https://www.foldableflight.com)
 * [2026-11-09, 11:55:14](https://news.ycombinator.com/item?id=50424366) - [Try Gleam](https://nchagnet.eu/blog/you-should-try-gleam)
 * [2026-11-09, 11:36:55](https://news.ycombinator.com/item?id=50424199) - [Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here](https://github.com/samir-sarwar/samir-vllm)
@@ -11,7 +12,6 @@
 * [2026-11-09, 07:04:25](https://news.ycombinator.com/item?id=50422069) - [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
 * [2026-11-09, 04:43:12](https://news.ycombinator.com/item?id=50421155) - [Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)
 * [2026-11-09, 03:15:17](https://news.ycombinator.com/item?id=50420599) - [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
-* [2026-11-09, 01:58:21](https://news.ycombinator.com/item?id=50420035) - [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
 * [2026-11-09, 00:10:50](https://news.ycombinator.com/item?id=50419215) - [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
 * [2026-11-08, 23:44:36](https://news.ycombinator.com/item?id=50418975) - [I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
 * [2026-11-08, 22:36:03](https://news.ycombinator.com/item?id=50418182) - [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
