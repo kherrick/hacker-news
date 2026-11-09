@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-09, 14:34:00",
+      "https://news.ycombinator.com/item?id=50426207"
+    ],
+    [
+      "Zebkit – Chromium's engine as a library you link, not a runtime you live in",
+      "https://github.com/ikey4u/zebkit"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 13:27:01",
       "https://news.ycombinator.com/item?id=50425303"
     ],
@@ -207,16 +217,6 @@
     [
       "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
       "https://github.com/synchopate/llama-modchip"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 03:11:48",
-      "https://news.ycombinator.com/item?id=50410107"
-    ],
-    [
-      "Goodbye Claude, hello Pi",
-      "https://caleb.software/posts/claude-to-pi.html"
     ]
   ],
   [
