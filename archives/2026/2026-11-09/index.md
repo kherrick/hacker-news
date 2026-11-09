@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
+* [2026-11-09, 22:50:35](https://news.ycombinator.com/item?id=50433438) - [Jensen Huang Scandal Sparks Speculation–Jensen's Wife Could Get Half](https://www.forbes.com/sites/alisondurkee/2026/11/09/jensen-huang-scandal-sparks-divorce-speculation-billionaires-wife-could-get-half-his-155-biliion-fortune/)
 * [2026-11-09, 22:19:12](https://news.ycombinator.com/item?id=50433079) - [A year after the 100% AI mandate nobody understands our code](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)
 * [2026-11-09, 21:56:57](https://news.ycombinator.com/item?id=50432831) - [TPUs](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
 * [2026-11-09, 21:07:26](https://news.ycombinator.com/item?id=50432147) - [Supply chain attack on Qubole customers](https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack)

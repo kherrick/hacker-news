@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-09, 22:50:35](https://news.ycombinator.com/item?id=50433438) - [Jensen Huang Scandal Sparks Speculation–Jensen's Wife Could Get Half](https://www.forbes.com/sites/alisondurkee/2026/11/09/jensen-huang-scandal-sparks-divorce-speculation-billionaires-wife-could-get-half-his-155-biliion-fortune/)
 * [2026-11-09, 21:56:57](https://news.ycombinator.com/item?id=50432831) - [TPUs](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
 * [2026-11-09, 20:04:55](https://news.ycombinator.com/item?id=50431144) - [Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)
 * [2026-11-09, 19:58:59](https://news.ycombinator.com/item?id=50431058) - [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
@@ -20,7 +21,6 @@
 * [2026-11-09, 16:36:38](https://news.ycombinator.com/item?id=50427934) - [Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI](https://news.ycombinator.com/item?id=50427934)
 * [2026-11-09, 16:00:45](https://news.ycombinator.com/item?id=50427362) - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
 * [2026-11-09, 15:18:19](https://news.ycombinator.com/item?id=50426831) - [Pigshell: Unix the Web](http://pigshell.com/v/0.6.4/)
-* [2026-11-09, 14:34:00](https://news.ycombinator.com/item?id=50426207) - [Zebkit – Chromium as an embeddable library](https://github.com/ikey4u/zebkit)
 * [2026-11-09, 14:31:39](https://news.ycombinator.com/item?id=50426175) - [Magenta solar panels may be agrivoltaics' cleverest trick yet](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)
 * [2026-11-09, 12:19:22](https://news.ycombinator.com/item?id=50424581) - [Fold Epic Paper Airplanes](https://www.foldableflight.com)
 * [2026-11-09, 11:31:05](https://news.ycombinator.com/item?id=50424157) - [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
