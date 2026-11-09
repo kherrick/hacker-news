@@ -30,6 +30,7 @@
 * [2026-11-07, 14:51:40](https://news.ycombinator.com/item?id=50405043) - [Air holes turn silicon wafers into flat UV focusing mirrors for compact optics](https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html)
 * [2026-11-07, 14:18:45](https://news.ycombinator.com/item?id=50404747) - [The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]](https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf)
 * [2026-11-07, 14:00:20](https://news.ycombinator.com/item?id=50404599) - [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
+* [2026-11-07, 13:35:16](https://news.ycombinator.com/item?id=50404428) - [Ur-Nammu Founder of the Sumerian Renaissance](https://www.worldhistory.org/Ur-Nammu/)
 * [2026-11-07, 11:11:15](https://news.ycombinator.com/item?id=50403507) - [Every Windows 11 app should kill Electron, and Discord just showed why](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/)
 * [2026-11-07, 10:15:26](https://news.ycombinator.com/item?id=50403214) - [Upload Your RAM](https://uploadyourram.org)
 * [2026-11-07, 10:01:48](https://news.ycombinator.com/item?id=50403153) - [Ask HN: How do you manage your AI agents' context across clients and projects?](https://news.ycombinator.com/item?id=50403153)
