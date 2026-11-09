@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-09, 08:17:49](https://news.ycombinator.com/item?id=50422628) - [ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)
 * [2026-11-09, 07:31:14](https://news.ycombinator.com/item?id=50422254) - [PixelOS](https://pixelos.net/)
 * [2026-11-09, 07:20:37](https://news.ycombinator.com/item?id=50422168) - [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
 * [2026-11-09, 07:04:25](https://news.ycombinator.com/item?id=50422069) - [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
-* [2026-11-09, 06:40:44](https://news.ycombinator.com/item?id=50421899) - [WindyMaps – Free offline maps, 1h/1km weather and route trip planner](https://windymapy.com)
 * [2026-11-09, 04:43:12](https://news.ycombinator.com/item?id=50421155) - [Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)
 * [2026-11-09, 03:51:10](https://news.ycombinator.com/item?id=50420857) - [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
 * [2026-11-09, 03:15:17](https://news.ycombinator.com/item?id=50420599) - [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)

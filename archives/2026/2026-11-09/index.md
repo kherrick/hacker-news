@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
+* [2026-11-09, 08:17:49](https://news.ycombinator.com/item?id=50422628) - [ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)
 * [2026-11-09, 07:31:14](https://news.ycombinator.com/item?id=50422254) - [PixelOS](https://pixelos.net/)
 * [2026-11-09, 07:20:37](https://news.ycombinator.com/item?id=50422168) - [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
 * [2026-11-09, 07:04:25](https://news.ycombinator.com/item?id=50422069) - [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
