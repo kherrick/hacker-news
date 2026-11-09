@@ -41,11 +41,21 @@
   ],
   [
     [
+      "2026-11-08, 23:44:36",
+      "https://news.ycombinator.com/item?id=50418975"
+    ],
+    [
+      "I'm not convinced the AI bubble exists",
+      "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
+    ]
+  ],
+  [
+    [
       "2026-11-08, 23:28:01",
       "https://news.ycombinator.com/item?id=50418818"
     ],
     [
-      "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+      "When a language's creator and its owners strongly disagree [pdf]",
       "https://isocpp.org/files/papers/P4454R0.pdf"
     ]
   ],
@@ -67,6 +77,16 @@
     [
       "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
       "https://ketchup3d.github.io/app/"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 22:20:09",
+      "https://news.ycombinator.com/item?id=50418016"
+    ],
+    [
+      "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "https://nvidianews.nvidia.com/news/a-message-to-our-company"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-11-08, 17:16:07",
-      "https://news.ycombinator.com/item?id=50415135"
-    ],
-    [
-      "A Little Snitch for Windows",
-      "https://packethound.app/"
-    ]
-  ],
-  [
-    [
       "2026-11-08, 14:42:38",
       "https://news.ycombinator.com/item?id=50413769"
     ],
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2026-11-07, 22:24:30",
-      "https://news.ycombinator.com/item?id=50408630"
-    ],
-    [
-      "Are big problems more difficult to solve?",
-      "https://paulitaylor.com/2026/09/11/are-big-problems-really-more-difficult-to-solve/"
-    ]
-  ],
-  [
-    [
-      "2026-11-07, 20:45:32",
-      "https://news.ycombinator.com/item?id=50407882"
-    ],
-    [
-      "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
-    ]
-  ],
-  [
-    [
       "2026-11-07, 14:51:40",
       "https://news.ycombinator.com/item?id=50405043"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
       "https://github.com/rkaehn/uniform"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 11:01:12",
+      "https://news.ycombinator.com/item?id=50390822"
+    ],
+    [
+      "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
+      "https://blue-continuum.com/branching-beyond-leonardo"
     ]
   ],
   [
