@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2026-11-08, 20:26:43",
-      "https://news.ycombinator.com/item?id=50416801"
-    ],
-    [
-      "Nvidia Board of Directors Is Investigating Jensen Huang",
-      "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
-    ]
-  ],
-  [
-    [
       "2026-11-08, 19:48:32",
       "https://news.ycombinator.com/item?id=50416456"
     ],
@@ -157,6 +147,16 @@
     [
       "I'm not a fan of Deno's security model (2024)",
       "https://goldstein.lol/posts/deno-security/"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 10:42:15",
+      "https://news.ycombinator.com/item?id=50412072"
+    ],
+    [
+      "JIT bitmap text rendering for microcontrollers",
+      "https://linebender.org/blog/jit-bitmap-text/"
     ]
   ],
   [
