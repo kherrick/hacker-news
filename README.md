@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-09, 05:30:11](https://news.ycombinator.com/item?id=50421426) - [Apple capped engineers at a $200 daily AI budget](https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1)
 * [2026-11-09, 03:51:10](https://news.ycombinator.com/item?id=50420857) - [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
 * [2026-11-09, 03:15:17](https://news.ycombinator.com/item?id=50420599) - [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
 * [2026-11-09, 02:46:21](https://news.ycombinator.com/item?id=50420383) - [A Bit about Email](https://maurycyz.com/misc/email/)
@@ -17,7 +18,6 @@
 * [2026-11-08, 19:08:51](https://news.ycombinator.com/item?id=50416053) - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
 * [2026-11-08, 19:04:07](https://news.ycombinator.com/item?id=50416014) - [Playing with the STM32MP2](https://serd.es/2026/11/08/playing-with-stm32mp2.html)
 * [2026-11-08, 18:16:07](https://news.ycombinator.com/item?id=50415628) - [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
-* [2026-11-08, 14:42:38](https://news.ycombinator.com/item?id=50413769) - [I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/)
 * [2026-11-08, 10:42:15](https://news.ycombinator.com/item?id=50412072) - [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
 * [2026-11-08, 10:41:52](https://news.ycombinator.com/item?id=50412067) - [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
 * [2026-11-08, 10:22:04](https://news.ycombinator.com/item?id=50411961) - [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
@@ -28,8 +28,8 @@
 * [2026-11-07, 10:01:48](https://news.ycombinator.com/item?id=50403153) - [Ask HN: How do you manage your AI agents' context across clients and projects?](https://news.ycombinator.com/item?id=50403153)
 * [2026-11-07, 05:16:31](https://news.ycombinator.com/item?id=50401844) - [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform)
 * [2026-11-06, 11:01:12](https://news.ycombinator.com/item?id=50390822) - [Branching Beyond Leonardo: The Evolution of Tree Architecture Theory](https://blue-continuum.com/branching-beyond-leonardo)
+* [2026-11-04, 21:34:49](https://news.ycombinator.com/item?id=50371886) - [Show HN: My compact, bio inspired distributed edge detection algorithm](https://github.com/RenderBear/haci)
 * [2026-11-04, 17:05:07](https://news.ycombinator.com/item?id=50368481) - [Declarative Dragging](https://declarative-dragging.github.io/)
-* [2026-11-04, 08:54:27](https://news.ycombinator.com/item?id=50362963) - [Show HN: Vegetable Gardening for Engineers](https://jrcpl.us/contrib/2020/gardening-for-engineers/)
 
 ## [Archives](archives/index.md)
 

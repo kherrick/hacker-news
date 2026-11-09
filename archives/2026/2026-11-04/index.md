@@ -11,6 +11,7 @@
 * [2026-11-04, 22:30:54](https://news.ycombinator.com/item?id=50372396) - [Everything should be a random number generator](https://en.cppreference.com/cpp/numeric/random)
 * [2026-11-04, 22:26:24](https://news.ycombinator.com/item?id=50372360) - [Less Popular Than Coal](https://www.argmin.net/p/less-popular-than-coal)
 * [2026-11-04, 22:01:49](https://news.ycombinator.com/item?id=50372164) - [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)
+* [2026-11-04, 21:34:49](https://news.ycombinator.com/item?id=50371886) - [Show HN: My compact, bio inspired distributed edge detection algorithm](https://github.com/RenderBear/haci)
 * [2026-11-04, 20:53:54](https://news.ycombinator.com/item?id=50371360) - [New typeface using intricate designs from Shakespeare's First Folio (2023)](https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323)
 * [2026-11-04, 20:45:18](https://news.ycombinator.com/item?id=50371246) - [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
 * [2026-11-04, 20:31:30](https://news.ycombinator.com/item?id=50371090) - [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli)

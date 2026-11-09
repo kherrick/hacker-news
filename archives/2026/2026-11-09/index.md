@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
+* [2026-11-09, 05:30:11](https://news.ycombinator.com/item?id=50421426) - [Apple capped engineers at a $200 daily AI budget](https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1)
 * [2026-11-09, 04:11:56](https://news.ycombinator.com/item?id=50420983) - [I Resist Generative \"AI\"](https://estherweidauer.com/articles/why-resist-generative-ai.html)
 * [2026-11-09, 03:51:10](https://news.ycombinator.com/item?id=50420857) - [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
 * [2026-11-09, 03:15:17](https://news.ycombinator.com/item?id=50420599) - [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
