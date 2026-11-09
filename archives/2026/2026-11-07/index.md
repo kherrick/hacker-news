@@ -50,5 +50,6 @@
 * [2026-11-07, 05:16:31](https://news.ycombinator.com/item?id=50401844) - [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform)
 * [2026-11-07, 04:54:36](https://news.ycombinator.com/item?id=50401740) - [A barbarian tribe's mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)
 * [2026-11-07, 03:40:34](https://news.ycombinator.com/item?id=50401414) - [Lighting the Skies](https://computer.rip/2026-10-25-searchlights.html)
+* [2026-11-07, 03:29:39](https://news.ycombinator.com/item?id=50401369) - [Magnets and Rare Earths](https://robodienst.com/learning-paths/magnets-and-rare-earths)
 * [2026-11-07, 02:20:06](https://news.ycombinator.com/item?id=50401029) - [The AI sell-off compared to well-known stock market crashes](https://www.kadoa.com/companies/insights/ai-selloff-perspective)
 * [2026-11-07, 01:05:16](https://news.ycombinator.com/item?id=50400597) - [I toured Unitree's factory. I'm more bullish on the West](https://josef.cn/blog/unitree)
