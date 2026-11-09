@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-09, 14:34:00](https://news.ycombinator.com/item?id=50426207) - [Zebkit – Chromium's engine as a library you link, not a runtime you live in](https://github.com/ikey4u/zebkit)
 * [2026-11-09, 13:27:01](https://news.ycombinator.com/item?id=50425303) - [Children of Men: The Future Is a Mirror for the Present](https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/)
 * [2026-11-09, 12:30:20](https://news.ycombinator.com/item?id=50424704) - [Humans will never again create a project like Wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)
 * [2026-11-09, 12:19:22](https://news.ycombinator.com/item?id=50424581) - [Fold Epic Paper Airplanes](https://www.foldableflight.com)
@@ -21,7 +22,6 @@
 * [2026-11-08, 18:16:07](https://news.ycombinator.com/item?id=50415628) - [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
 * [2026-11-08, 10:41:52](https://news.ycombinator.com/item?id=50412067) - [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
 * [2026-11-08, 10:22:04](https://news.ycombinator.com/item?id=50411961) - [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
-* [2026-11-08, 03:11:48](https://news.ycombinator.com/item?id=50410107) - [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html)
 * [2026-11-07, 21:28:57](https://news.ycombinator.com/item?id=50408235) - [The French Cake Cooked on a Spit (2018) [video]](https://www.youtube.com/watch?v=havcACdx0Y0)
 * [2026-11-07, 17:06:18](https://news.ycombinator.com/item?id=50406107) - [Psalm 7 release: PHP security&static analysis software](https://psalm.dev/articles/psalm-7)
 * [2026-11-07, 16:51:17](https://news.ycombinator.com/item?id=50405979) - [Burying the Evidence: nine out of every 10 time capsules go missing](https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/)
