@@ -43,6 +43,7 @@
 * [2026-11-06, 12:13:51](https://news.ycombinator.com/item?id=50391456) - [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
 * [2026-11-06, 12:00:42](https://news.ycombinator.com/item?id=50391342) - [Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers](https://www.ycombinator.com/companies/mbodi-ai/jobs)
 * [2026-11-06, 11:40:06](https://news.ycombinator.com/item?id=50391145) - [We've built an open-source feature flag server for 11 years](https://github.com/Unleash/unleash)
+* [2026-11-06, 11:01:12](https://news.ycombinator.com/item?id=50390822) - [Branching Beyond Leonardo: The Evolution of Tree Architecture Theory](https://blue-continuum.com/branching-beyond-leonardo)
 * [2026-11-06, 10:58:29](https://news.ycombinator.com/item?id=50390799) - [Designing Rust APIs around KEM, AEAD and key derivation workflows](https://github.com/lecodev-26/nexus-q)
 * [2026-11-06, 10:21:15](https://news.ycombinator.com/item?id=50390525) - [Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)](https://jhr.pensoft.net/articles.php?id=9096)
 * [2026-11-06, 09:27:12](https://news.ycombinator.com/item?id=50390124) - [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
