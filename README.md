@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-09, 04:11:56](https://news.ycombinator.com/item?id=50420983) - [I Resist Generative \"AI\"](https://estherweidauer.com/articles/why-resist-generative-ai.html)
 * [2026-11-09, 03:51:10](https://news.ycombinator.com/item?id=50420857) - [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
 * [2026-11-09, 03:15:17](https://news.ycombinator.com/item?id=50420599) - [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
 * [2026-11-09, 02:46:21](https://news.ycombinator.com/item?id=50420383) - [A Bit about Email](https://maurycyz.com/misc/email/)
@@ -22,7 +23,6 @@
 * [2026-11-08, 10:41:52](https://news.ycombinator.com/item?id=50412067) - [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
 * [2026-11-08, 10:22:04](https://news.ycombinator.com/item?id=50411961) - [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
 * [2026-11-08, 03:11:48](https://news.ycombinator.com/item?id=50410107) - [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html)
-* [2026-11-07, 20:45:32](https://news.ycombinator.com/item?id=50407882) - [Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
 * [2026-11-07, 14:51:40](https://news.ycombinator.com/item?id=50405043) - [Air holes turn silicon wafers into flat UV focusing mirrors for compact optics](https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html)
 * [2026-11-07, 13:35:16](https://news.ycombinator.com/item?id=50404428) - [Ur-Nammu Founder of the Sumerian Renaissance](https://www.worldhistory.org/Ur-Nammu/)
 * [2026-11-07, 10:01:48](https://news.ycombinator.com/item?id=50403153) - [Ask HN: How do you manage your AI agents' context across clients and projects?](https://news.ycombinator.com/item?id=50403153)
