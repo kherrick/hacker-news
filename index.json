@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-09, 17:42:55",
+      "https://news.ycombinator.com/item?id=50428801"
+    ],
+    [
+      "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+      "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 17:00:06",
       "https://news.ycombinator.com/item?id=50428266"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=50426582"
     ],
     [
-      "I Saw Your HN Comment",
+      "I saw your HN comment",
       "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/"
     ]
   ],
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2026-11-09, 12:30:20",
-      "https://news.ycombinator.com/item?id=50424704"
+      "2026-11-09, 13:27:01",
+      "https://news.ycombinator.com/item?id=50425303"
     ],
     [
-      "Humans will never again create a project like Wikipedia",
-      "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia"
+      "Children of Men: The future is a mirror for the present",
+      "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/"
     ]
   ],
   [
@@ -117,6 +127,16 @@
     [
       "Fold Epic Paper Airplanes",
       "https://www.foldableflight.com"
+    ]
+  ],
+  [
+    [
+      "2026-11-09, 11:55:14",
+      "https://news.ycombinator.com/item?id=50424366"
+    ],
+    [
+      "Try Gleam",
+      "https://nchagnet.eu/blog/you-should-try-gleam"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "Fun things to do with your VM/370 CE machine – Fun with big computers",
       "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/"
-    ]
-  ],
-  [
-    [
-      "2026-11-09, 08:17:49",
-      "https://news.ycombinator.com/item?id=50422628"
-    ],
-    [
-      "ChatGPT Desktop forwards your SSH agent to remote machines",
-      "https://news.ycombinator.com/item?id=50422628"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Pointer Provenance in Rust vs. C++: Pointers Are Not Just Glorified Ints",
       "https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 01:15:15",
-      "https://news.ycombinator.com/item?id=50373768"
-    ],
-    [
-      "Quasi-Logarithmic Kitchen Timer",
-      "https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer"
     ]
   ],
   [
