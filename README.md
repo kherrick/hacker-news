@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-09, 21:56:57](https://news.ycombinator.com/item?id=50432831) - [TPUs](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
 * [2026-11-09, 21:07:26](https://news.ycombinator.com/item?id=50432147) - [Supply chain attack on Qubole customers](https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack)
 * [2026-11-09, 20:04:55](https://news.ycombinator.com/item?id=50431144) - [Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)
 * [2026-11-09, 19:58:59](https://news.ycombinator.com/item?id=50431058) - [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
@@ -25,7 +26,6 @@
 * [2026-11-09, 12:19:22](https://news.ycombinator.com/item?id=50424581) - [Fold Epic Paper Airplanes](https://www.foldableflight.com)
 * [2026-11-09, 11:31:05](https://news.ycombinator.com/item?id=50424157) - [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
 * [2026-11-09, 07:04:25](https://news.ycombinator.com/item?id=50422069) - [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
-* [2026-11-08, 15:12:07](https://news.ycombinator.com/item?id=50413970) - [Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals](https://github.com/sshah03/recalc)
 * [2026-11-08, 08:52:33](https://news.ycombinator.com/item?id=50411515) - [Deuterium's Impact on OLED Displays (2024)](https://www.oled-info.com/deuteriums-impact-oled-displays)
 * [2026-11-07, 15:17:31](https://news.ycombinator.com/item?id=50405274) - [An ode to livelyness analysis; SSA to registers](https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/)
 * [2026-11-06, 15:59:12](https://news.ycombinator.com/item?id=50394017) - [Possible 19th-century castaway camp found on Isla de los Estados](https://phys.org/news/2026-11-archaeologists-uncover-19th-century-castaway.html)
