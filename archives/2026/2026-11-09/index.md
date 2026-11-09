@@ -14,6 +14,7 @@
 * [2026-11-09, 10:23:02](https://news.ycombinator.com/item?id=50423662) - [Electric cars are about to overtake petrol in the UK, data shows](https://electrek.co/2026/11/05/uk-ev-sales-october-2026-electric-cars-overtake-petrol/)
 * [2026-11-09, 10:11:47](https://news.ycombinator.com/item?id=50423569) - [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
 * [2026-11-09, 09:50:03](https://news.ycombinator.com/item?id=50423371) - [Ask HN: Do you still enjoy coding in C++?](https://news.ycombinator.com/item?id=50423371)
+* [2026-11-09, 09:22:30](https://news.ycombinator.com/item?id=50423151) - [Borrowing a Microsoft-signed shim to abuse Secure Boot on corporate hardware](https://leosmith.wtf/blog/not-so-secure-boot.html)
 * [2026-11-09, 08:17:49](https://news.ycombinator.com/item?id=50422628) - [ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)
 * [2026-11-09, 07:31:14](https://news.ycombinator.com/item?id=50422254) - [PixelOS](https://pixelos.net/)
 * [2026-11-09, 07:21:33](https://news.ycombinator.com/item?id=50422181) - [370 Books in 20 months: South African author defends her use of AI](https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai)
