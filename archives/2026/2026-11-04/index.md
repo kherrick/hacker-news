@@ -74,4 +74,5 @@
 * [2026-11-04, 03:11:27](https://news.ycombinator.com/item?id=50361107) - [Arrows to arrows, categories to queries (2025)](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
 * [2026-11-04, 02:19:16](https://news.ycombinator.com/item?id=50360810) - [Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE](https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/)
 * [2026-11-04, 01:40:42](https://news.ycombinator.com/item?id=50360573) - [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today)
+* [2026-11-04, 01:07:46](https://news.ycombinator.com/item?id=50360369) - [Taco: The Tensor Algebra Compiler](http://tensor-compiler.org/)
 * [2026-11-04, 00:33:22](https://news.ycombinator.com/item?id=50360164) - [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)

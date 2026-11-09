@@ -23,12 +23,12 @@
 * [2026-11-08, 03:11:48](https://news.ycombinator.com/item?id=50410107) - [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html)
 * [2026-11-07, 20:45:32](https://news.ycombinator.com/item?id=50407882) - [Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
 * [2026-11-07, 14:51:40](https://news.ycombinator.com/item?id=50405043) - [Air holes turn silicon wafers into flat UV focusing mirrors for compact optics](https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html)
-* [2026-11-06, 09:05:18](https://news.ycombinator.com/item?id=50389923) - [The Reconstruction of Torn Documents](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/)
 * [2026-11-05, 21:25:29](https://news.ycombinator.com/item?id=50384664) - [The Kekulé Problem – Cormac McCarthy](https://nautil.us/the-kekul-problem-236574)
 * [2026-11-04, 23:23:08](https://news.ycombinator.com/item?id=50372838) - [Edward Hopper's Iconic Painting, \"Nighthawks](https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/)
 * [2026-11-04, 17:05:07](https://news.ycombinator.com/item?id=50368481) - [Declarative Dragging](https://declarative-dragging.github.io/)
 * [2026-11-04, 15:18:59](https://news.ycombinator.com/item?id=50366821) - [Porting Android 16 to my blind mother's keypad phone](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
 * [2026-11-04, 08:54:27](https://news.ycombinator.com/item?id=50362963) - [Show HN: Vegetable Gardening for Engineers](https://jrcpl.us/contrib/2020/gardening-for-engineers/)
+* [2026-11-04, 01:07:46](https://news.ycombinator.com/item?id=50360369) - [Taco: The Tensor Algebra Compiler](http://tensor-compiler.org/)
 * [2026-11-03, 16:10:37](https://news.ycombinator.com/item?id=50353814) - [The History of Djgpp (1998)](https://www.delorie.com/djgpp/history.html)
 
 ## [Archives](archives/index.md)
