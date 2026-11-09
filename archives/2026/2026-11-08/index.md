@@ -28,6 +28,7 @@
 * [2026-11-08, 17:09:55](https://news.ycombinator.com/item?id=50415078) - [A field guide to CAPTCHA types and how they break](https://github.com/vsmutok/FuckCaptcha)
 * [2026-11-08, 15:57:37](https://news.ycombinator.com/item?id=50414331) - [UK House of Lords to propose mandatory CSAM detection software on smartphones](https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign)
 * [2026-11-08, 14:42:38](https://news.ycombinator.com/item?id=50413769) - [I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/)
+* [2026-11-08, 14:06:18](https://news.ycombinator.com/item?id=50413487) - [The Learjet Repo Man (2009)](https://www.salon.com/2009/06/06/lear_jet_repo_man/)
 * [2026-11-08, 12:51:38](https://news.ycombinator.com/item?id=50412830) - [How to prove equations using diagrams, part 1](https://www.epatters.org/post/e-graphs-1/)
 * [2026-11-08, 11:23:28](https://news.ycombinator.com/item?id=50412318) - [Person of Interest](https://krthr.co/person-of-interest/)
 * [2026-11-08, 10:56:43](https://news.ycombinator.com/item?id=50412152) - [Petered (what happens after the Peter Principle)](https://aworkinglibrary.com/writing/petered)
