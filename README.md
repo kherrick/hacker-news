@@ -3,7 +3,7 @@
 * [2026-11-09, 12:30:20](https://news.ycombinator.com/item?id=50424704) - [Humans will never again create a project like Wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)
 * [2026-11-09, 12:19:22](https://news.ycombinator.com/item?id=50424581) - [Fold Epic Paper Airplanes](https://www.foldableflight.com)
 * [2026-11-09, 11:55:14](https://news.ycombinator.com/item?id=50424366) - [Try Gleam](https://nchagnet.eu/blog/you-should-try-gleam)
-* [2026-11-09, 11:36:55](https://news.ycombinator.com/item?id=50424199) - [Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here](https://github.com/samir-sarwar/samir-vllm)
+* [2026-11-09, 11:36:55](https://news.ycombinator.com/item?id=50424199) - [6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here](https://github.com/samir-sarwar/samir-vllm)
 * [2026-11-09, 11:31:05](https://news.ycombinator.com/item?id=50424157) - [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
 * [2026-11-09, 11:30:27](https://news.ycombinator.com/item?id=50424147) - [Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering](https://zenodo.org/records/23682548)
 * [2026-11-09, 10:11:47](https://news.ycombinator.com/item?id=50423569) - [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
