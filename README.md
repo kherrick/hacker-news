@@ -23,12 +23,12 @@
 * [2026-11-08, 10:41:52](https://news.ycombinator.com/item?id=50412067) - [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
 * [2026-11-08, 10:22:04](https://news.ycombinator.com/item?id=50411961) - [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
 * [2026-11-08, 03:11:48](https://news.ycombinator.com/item?id=50410107) - [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html)
+* [2026-11-07, 21:28:57](https://news.ycombinator.com/item?id=50408235) - [The French Cake Cooked on a Spit (2018) [video]](https://www.youtube.com/watch?v=havcACdx0Y0)
 * [2026-11-07, 17:06:18](https://news.ycombinator.com/item?id=50406107) - [Psalm 7 release: PHP security&static analysis software](https://psalm.dev/articles/psalm-7)
 * [2026-11-07, 13:35:16](https://news.ycombinator.com/item?id=50404428) - [Ur-Nammu Founder of the Sumerian Renaissance](https://www.worldhistory.org/Ur-Nammu/)
 * [2026-11-07, 05:16:31](https://news.ycombinator.com/item?id=50401844) - [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform)
 * [2026-11-06, 11:01:12](https://news.ycombinator.com/item?id=50390822) - [Branching Beyond Leonardo: The Evolution of Tree Architecture Theory](https://blue-continuum.com/branching-beyond-leonardo)
 * [2026-11-05, 01:15:15](https://news.ycombinator.com/item?id=50373768) - [Quasi-Logarithmic Kitchen Timer](https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer)
-* [2026-11-04, 21:34:49](https://news.ycombinator.com/item?id=50371886) - [Show HN: My compact, bio inspired distributed edge detection algorithm](https://github.com/RenderBear/haci)
 * [2026-11-04, 17:05:07](https://news.ycombinator.com/item?id=50368481) - [Declarative Dragging](https://declarative-dragging.github.io/)
 
 ## [Archives](archives/index.md)
