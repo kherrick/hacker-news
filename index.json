@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=50426207"
     ],
     [
-      "Zebkit – Chromium's engine as a library you link, not a runtime you live in",
+      "Zebkit – Chromium as an embeddable library",
       "https://github.com/ikey4u/zebkit"
     ]
   ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-11-08, 18:16:07",
-      "https://news.ycombinator.com/item?id=50415628"
-    ],
-    [
-      "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
-    ]
-  ],
-  [
-    [
       "2026-11-08, 10:41:52",
       "https://news.ycombinator.com/item?id=50412067"
     ],
@@ -267,6 +257,16 @@
     [
       "He Was a Suspect in the Yogurt Shop Murders for Thirty Years. He Can't Forget",
       "https://www.texasmonthly.com/true-crime/the-yogurt-shop-killer-who-wasnt/"
+    ]
+  ],
+  [
+    [
+      "2026-11-06, 07:03:16",
+      "https://news.ycombinator.com/item?id=50389093"
+    ],
+    [
+      "Active Benchmarking",
+      "https://www.brendangregg.com/activebenchmarking.html"
     ]
   ],
   [
