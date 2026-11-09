@@ -27,8 +27,8 @@
 * [2026-11-09, 03:15:17](https://news.ycombinator.com/item?id=50420599) - [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
 * [2026-11-08, 19:49:46](https://news.ycombinator.com/item?id=50416471) - [Starship Flight 15 on 11/13 plans to catch both booster and ship](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-08, 19:48:32](https://news.ycombinator.com/item?id=50416456) - [The Web Is More Than Enough](https://ftrain.com/aboard-the-web-is-more-than-enough)
+* [2026-11-08, 14:06:18](https://news.ycombinator.com/item?id=50413487) - [The Learjet Repo Man (2009)](https://www.salon.com/2009/06/06/lear_jet_repo_man/)
 * [2026-11-07, 17:34:07](https://news.ycombinator.com/item?id=50406348) - [Isn't It Time for AVIF Everywhere?](https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html)
-* [2026-11-06, 07:03:16](https://news.ycombinator.com/item?id=50389093) - [Active Benchmarking](https://www.brendangregg.com/activebenchmarking.html)
 * [2026-11-05, 09:32:50](https://news.ycombinator.com/item?id=50377111) - [Pointer Provenance in Rust vs. C++: Pointers Are Not Just Glorified Ints](https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/)
 
 ## [Archives](archives/index.md)
