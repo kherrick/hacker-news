@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
+* [2026-11-09, 18:39:22](https://news.ycombinator.com/item?id=50429636) - [Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)
+* [2026-11-09, 18:27:58](https://news.ycombinator.com/item?id=50429475) - [Too many men suffering in silence, national health report finds (Canada)](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
+* [2026-11-09, 18:25:01](https://news.ycombinator.com/item?id=50429430) - [Infineon marks innovation milestone with 300mm power silicon carbide wafer](https://www.infineon.com/press-release/2026/infpr202611-028)
+* [2026-11-09, 17:59:05](https://news.ycombinator.com/item?id=50429031) - [Show HN: Write GitHub Actions in any language: Loopt](https://github.com/preloopdev/loopt)
 * [2026-11-09, 17:58:46](https://news.ycombinator.com/item?id=50429024) - [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember)
+* [2026-11-09, 17:51:31](https://news.ycombinator.com/item?id=50428907) - [Show HN: Every satellite that passed over any place this week, and its photos](https://www.watched.earth)
 * [2026-11-09, 17:42:55](https://news.ycombinator.com/item?id=50428801) - [When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/)
 * [2026-11-09, 17:36:20](https://news.ycombinator.com/item?id=50428724) - [Going back two years on Hacker News is like entering another, better universe](https://news.ycombinator.com/front?day=2024-11-08)
 * [2026-11-09, 17:00:06](https://news.ycombinator.com/item?id=50428266) - [Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling](https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer)
