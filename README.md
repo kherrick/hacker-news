@@ -2,6 +2,7 @@
 
 * [2026-11-09, 20:04:55](https://news.ycombinator.com/item?id=50431144) - [Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)
 * [2026-11-09, 19:58:59](https://news.ycombinator.com/item?id=50431058) - [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
+* [2026-11-09, 19:55:53](https://news.ycombinator.com/item?id=50430991) - [Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)](https://parkgraph.com/parking-app-fees)
 * [2026-11-09, 19:35:16](https://news.ycombinator.com/item?id=50430621) - [CUI – Native UI components for C](https://yappologistic.github.io/CUI/)
 * [2026-11-09, 18:56:29](https://news.ycombinator.com/item?id=50429906) - [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 * [2026-11-09, 18:50:56](https://news.ycombinator.com/item?id=50429812) - [Show HN: Someone Was Here – Find out who used your Mac while you were away](https://someonewashere.app/)
@@ -25,7 +26,6 @@
 * [2026-11-09, 11:55:14](https://news.ycombinator.com/item?id=50424366) - [Try Gleam](https://nchagnet.eu/blog/you-should-try-gleam)
 * [2026-11-09, 11:31:05](https://news.ycombinator.com/item?id=50424157) - [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
 * [2026-11-09, 07:04:25](https://news.ycombinator.com/item?id=50422069) - [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
-* [2026-11-08, 19:48:32](https://news.ycombinator.com/item?id=50416456) - [The Web Is More Than Enough](https://ftrain.com/aboard-the-web-is-more-than-enough)
 * [2026-11-08, 15:12:07](https://news.ycombinator.com/item?id=50413970) - [Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals](https://github.com/sshah03/recalc)
 * [2026-11-08, 08:52:33](https://news.ycombinator.com/item?id=50411515) - [Deuterium's Impact on OLED Displays (2024)](https://www.oled-info.com/deuteriums-impact-oled-displays)
 * [2026-11-07, 15:17:31](https://news.ycombinator.com/item?id=50405274) - [An ode to livelyness analysis; SSA to registers](https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/)
