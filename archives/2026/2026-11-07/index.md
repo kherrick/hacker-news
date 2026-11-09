@@ -43,6 +43,7 @@
 * [2026-11-07, 09:36:36](https://news.ycombinator.com/item?id=50403052) - [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
 * [2026-11-07, 07:26:19](https://news.ycombinator.com/item?id=50402428) - [SultanC – an Arabic-first systems programming language](https://github.com/sultan-language/sultanc)
 * [2026-11-07, 06:39:04](https://news.ycombinator.com/item?id=50402212) - [The Components of Agent Memory](https://www.anthropic.com/research/components-of-agent-memory)
+* [2026-11-07, 05:27:34](https://news.ycombinator.com/item?id=50401910) - [He Was a Suspect in the Yogurt Shop Murders for Thirty Years. He Can't Forget](https://www.texasmonthly.com/true-crime/the-yogurt-shop-killer-who-wasnt/)
 * [2026-11-07, 05:20:18](https://news.ycombinator.com/item?id=50401867) - [Asahi Linux Progress Linux 7.3](https://asahilinux.org/2026/11/progress-report-7-3/)
 * [2026-11-07, 05:16:31](https://news.ycombinator.com/item?id=50401844) - [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform)
 * [2026-11-07, 04:54:36](https://news.ycombinator.com/item?id=50401740) - [A barbarian tribe's mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)

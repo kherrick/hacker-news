@@ -26,7 +26,7 @@
 * [2026-11-07, 17:06:18](https://news.ycombinator.com/item?id=50406107) - [Psalm 7 release: PHP security&static analysis software](https://psalm.dev/articles/psalm-7)
 * [2026-11-07, 16:51:17](https://news.ycombinator.com/item?id=50405979) - [Burying the Evidence: nine out of every 10 time capsules go missing](https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/)
 * [2026-11-07, 13:35:16](https://news.ycombinator.com/item?id=50404428) - [Ur-Nammu Founder of the Sumerian Renaissance](https://www.worldhistory.org/Ur-Nammu/)
-* [2026-11-06, 13:48:35](https://news.ycombinator.com/item?id=50392256) - [Nvidia was in 1 in 11 startup rounds over $100M last year](https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/)
+* [2026-11-07, 05:27:34](https://news.ycombinator.com/item?id=50401910) - [He Was a Suspect in the Yogurt Shop Murders for Thirty Years. He Can't Forget](https://www.texasmonthly.com/true-crime/the-yogurt-shop-killer-who-wasnt/)
 * [2026-11-06, 04:46:23](https://news.ycombinator.com/item?id=50388335) - [How Australia played the first music on a computer](https://www.pearcey.org.au/heritage/csirac/how-australia-played-the-worlds-first-music-on-a-computer/)
 * [2026-11-05, 01:15:15](https://news.ycombinator.com/item?id=50373768) - [Quasi-Logarithmic Kitchen Timer](https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer)
 * [2026-11-04, 17:05:07](https://news.ycombinator.com/item?id=50368481) - [Declarative Dragging](https://declarative-dragging.github.io/)
