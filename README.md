@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-09, 10:11:47](https://news.ycombinator.com/item?id=50423569) - [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
+* [2026-11-09, 09:50:03](https://news.ycombinator.com/item?id=50423371) - [Ask HN: Do you still enjoy coding in C++?](https://news.ycombinator.com/item?id=50423371)
 * [2026-11-09, 08:17:49](https://news.ycombinator.com/item?id=50422628) - [ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)
 * [2026-11-09, 07:31:14](https://news.ycombinator.com/item?id=50422254) - [PixelOS](https://pixelos.net/)
 * [2026-11-09, 07:20:37](https://news.ycombinator.com/item?id=50422168) - [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
@@ -22,12 +24,10 @@
 * [2026-11-08, 18:16:07](https://news.ycombinator.com/item?id=50415628) - [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
 * [2026-11-08, 10:41:52](https://news.ycombinator.com/item?id=50412067) - [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
 * [2026-11-08, 10:22:04](https://news.ycombinator.com/item?id=50411961) - [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
-* [2026-11-08, 03:11:48](https://news.ycombinator.com/item?id=50410107) - [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html)
 * [2026-11-07, 21:28:57](https://news.ycombinator.com/item?id=50408235) - [The French Cake Cooked on a Spit (2018) [video]](https://www.youtube.com/watch?v=havcACdx0Y0)
 * [2026-11-07, 17:06:18](https://news.ycombinator.com/item?id=50406107) - [Psalm 7 release: PHP security&static analysis software](https://psalm.dev/articles/psalm-7)
 * [2026-11-07, 13:35:16](https://news.ycombinator.com/item?id=50404428) - [Ur-Nammu Founder of the Sumerian Renaissance](https://www.worldhistory.org/Ur-Nammu/)
 * [2026-11-07, 05:16:31](https://news.ycombinator.com/item?id=50401844) - [Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform)
-* [2026-11-06, 11:01:12](https://news.ycombinator.com/item?id=50390822) - [Branching Beyond Leonardo: The Evolution of Tree Architecture Theory](https://blue-continuum.com/branching-beyond-leonardo)
 * [2026-11-05, 01:15:15](https://news.ycombinator.com/item?id=50373768) - [Quasi-Logarithmic Kitchen Timer](https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer)
 * [2026-11-04, 17:05:07](https://news.ycombinator.com/item?id=50368481) - [Declarative Dragging](https://declarative-dragging.github.io/)
 
