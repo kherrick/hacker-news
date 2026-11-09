@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-09, 12:20:45](https://news.ycombinator.com/item?id=50424604) - [Nvidia's China Problem [pdf]](https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf)
 * [2026-11-09, 12:19:22](https://news.ycombinator.com/item?id=50424581) - [Fold Epic Paper Airplanes](https://www.foldableflight.com)
 * [2026-11-09, 11:55:14](https://news.ycombinator.com/item?id=50424366) - [Try Gleam](https://nchagnet.eu/blog/you-should-try-gleam)
+* [2026-11-09, 11:30:27](https://news.ycombinator.com/item?id=50424147) - [Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering](https://zenodo.org/records/23682548)
 * [2026-11-09, 10:11:47](https://news.ycombinator.com/item?id=50423569) - [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
 * [2026-11-09, 08:17:49](https://news.ycombinator.com/item?id=50422628) - [ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)
 * [2026-11-09, 07:20:37](https://news.ycombinator.com/item?id=50422168) - [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)

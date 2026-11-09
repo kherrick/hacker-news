@@ -7,6 +7,7 @@
 * [2026-11-09, 12:20:45](https://news.ycombinator.com/item?id=50424604) - [Nvidia's China Problem [pdf]](https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf)
 * [2026-11-09, 12:19:22](https://news.ycombinator.com/item?id=50424581) - [Fold Epic Paper Airplanes](https://www.foldableflight.com)
 * [2026-11-09, 11:55:14](https://news.ycombinator.com/item?id=50424366) - [Try Gleam](https://nchagnet.eu/blog/you-should-try-gleam)
+* [2026-11-09, 11:30:27](https://news.ycombinator.com/item?id=50424147) - [Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering](https://zenodo.org/records/23682548)
 * [2026-11-09, 10:23:02](https://news.ycombinator.com/item?id=50423662) - [Electric cars are about to overtake petrol in the UK, data shows](https://electrek.co/2026/11/05/uk-ev-sales-october-2026-electric-cars-overtake-petrol/)
 * [2026-11-09, 10:11:47](https://news.ycombinator.com/item?id=50423569) - [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
 * [2026-11-09, 09:50:03](https://news.ycombinator.com/item?id=50423371) - [Ask HN: Do you still enjoy coding in C++?](https://news.ycombinator.com/item?id=50423371)
