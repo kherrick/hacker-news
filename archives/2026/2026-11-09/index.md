@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
+* [2026-11-09, 06:55:38](https://news.ycombinator.com/item?id=50422001) - [Being a meat proxy for AI should be grounds for getting people fired](https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired)
 * [2026-11-09, 05:30:11](https://news.ycombinator.com/item?id=50421426) - [Apple capped engineers at a $200 daily AI budget](https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1)
 * [2026-11-09, 04:43:12](https://news.ycombinator.com/item?id=50421155) - [Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)
 * [2026-11-09, 04:11:56](https://news.ycombinator.com/item?id=50420983) - [I Resist Generative \"AI\"](https://estherweidauer.com/articles/why-resist-generative-ai.html)
