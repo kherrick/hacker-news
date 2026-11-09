@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-09, 00:10:50](https://news.ycombinator.com/item?id=50419215) - [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
 * [2026-11-08, 23:28:01](https://news.ycombinator.com/item?id=50418818) - [Herb Sutter: When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf)
 * [2026-11-08, 22:36:03](https://news.ycombinator.com/item?id=50418182) - [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
 * [2026-11-08, 22:35:35](https://news.ycombinator.com/item?id=50418176) - [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
@@ -17,7 +18,6 @@
 * [2026-11-08, 17:16:07](https://news.ycombinator.com/item?id=50415135) - [A Little Snitch for Windows](https://packethound.app/)
 * [2026-11-08, 14:42:38](https://news.ycombinator.com/item?id=50413769) - [I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/)
 * [2026-11-08, 12:51:38](https://news.ycombinator.com/item?id=50412830) - [How to prove equations using diagrams, part 1](https://www.epatters.org/post/e-graphs-1/)
-* [2026-11-08, 10:42:15](https://news.ycombinator.com/item?id=50412072) - [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
 * [2026-11-08, 10:41:52](https://news.ycombinator.com/item?id=50412067) - [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
 * [2026-11-08, 10:22:04](https://news.ycombinator.com/item?id=50411961) - [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
 * [2026-11-08, 08:40:23](https://news.ycombinator.com/item?id=50411467) - [Agent memory needs its OpenTelemetry moment](https://www.lorekit.io/blog/open-agent-memory-format)
