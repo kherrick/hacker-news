@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-05](index.md)
 
+* [2026-11-05, 23:48:04](https://news.ycombinator.com/item?id=50386246) - [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
 * [2026-11-05, 23:32:36](https://news.ycombinator.com/item?id=50386104) - [Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data](https://www.fgc.org.br/comunicado)
 * [2026-11-05, 23:09:57](https://news.ycombinator.com/item?id=50385870) - [Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue](https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html)
 * [2026-11-05, 22:17:15](https://news.ycombinator.com/item?id=50385272) - [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)

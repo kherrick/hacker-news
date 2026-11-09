@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-09, 18:56:29](https://news.ycombinator.com/item?id=50429906) - [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 * [2026-11-09, 18:39:22](https://news.ycombinator.com/item?id=50429636) - [Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)
 * [2026-11-09, 18:33:58](https://news.ycombinator.com/item?id=50429545) - [DeepX claims inference up to 100B parameters at less than 5 W](https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/)
 * [2026-11-09, 18:27:58](https://news.ycombinator.com/item?id=50429475) - [Too many men suffering in silence, national health report finds (Canada)](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
 * [2026-11-09, 18:25:01](https://news.ycombinator.com/item?id=50429430) - [Infineon marks innovation milestone with 300mm power silicon carbide wafer](https://www.infineon.com/press-release/2026/infpr202611-028)
-* [2026-11-09, 17:59:05](https://news.ycombinator.com/item?id=50429031) - [Show HN: Write GitHub Actions in any language: Loopt](https://github.com/preloopdev/loopt)
 * [2026-11-09, 17:58:46](https://news.ycombinator.com/item?id=50429024) - [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember)
 * [2026-11-09, 17:51:31](https://news.ycombinator.com/item?id=50428907) - [Show HN: Every satellite that passed over any place this week, and its photos](https://www.watched.earth)
 * [2026-11-09, 17:42:55](https://news.ycombinator.com/item?id=50428801) - [When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/)
@@ -12,7 +12,6 @@
 * [2026-11-09, 17:00:06](https://news.ycombinator.com/item?id=50428266) - [Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling](https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer)
 * [2026-11-09, 16:36:38](https://news.ycombinator.com/item?id=50427934) - [Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI](https://news.ycombinator.com/item?id=50427934)
 * [2026-11-09, 16:00:45](https://news.ycombinator.com/item?id=50427362) - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
-* [2026-11-09, 15:39:01](https://news.ycombinator.com/item?id=50427085) - [The same H100 costs $2.69 or $12.29 an hour depending where you rent it](https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing)
 * [2026-11-09, 15:23:57](https://news.ycombinator.com/item?id=50426899) - [Cryptocurrency lawsuit: Ethereum Foundation required \"suicide pledge\"](https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/)
 * [2026-11-09, 15:18:19](https://news.ycombinator.com/item?id=50426831) - [Pigshell: Unix the Web](http://pigshell.com/v/0.6.4/)
 * [2026-11-09, 15:01:03](https://news.ycombinator.com/item?id=50426582) - [I saw your HN comment](https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/)
@@ -26,10 +25,11 @@
 * [2026-11-09, 07:20:37](https://news.ycombinator.com/item?id=50422168) - [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
 * [2026-11-09, 07:04:25](https://news.ycombinator.com/item?id=50422069) - [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
 * [2026-11-09, 03:15:17](https://news.ycombinator.com/item?id=50420599) - [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
-* [2026-11-08, 19:49:46](https://news.ycombinator.com/item?id=50416471) - [Starship Flight 15 on 11/13 plans to catch both booster and ship](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-08, 19:48:32](https://news.ycombinator.com/item?id=50416456) - [The Web Is More Than Enough](https://ftrain.com/aboard-the-web-is-more-than-enough)
 * [2026-11-08, 15:12:07](https://news.ycombinator.com/item?id=50413970) - [Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals](https://github.com/sshah03/recalc)
 * [2026-11-07, 17:34:07](https://news.ycombinator.com/item?id=50406348) - [Isn't It Time for AVIF Everywhere?](https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html)
+* [2026-11-06, 15:25:42](https://news.ycombinator.com/item?id=50393482) - [Turning the HEIC decoder into a SHA-256 computer](https://www.irisc2.com/blog/heic-hashquine)
+* [2026-11-05, 23:48:04](https://news.ycombinator.com/item?id=50386246) - [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
 
 ## [Archives](archives/index.md)
 
