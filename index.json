@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-09, 21:56:57",
+      "https://news.ycombinator.com/item?id=50432831"
+    ],
+    [
+      "TPUs",
+      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+    ]
+  ],
+  [
+    [
       "2026-11-09, 21:07:26",
       "https://news.ycombinator.com/item?id=50432147"
     ],
@@ -247,16 +257,6 @@
     [
       "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
       "https://twitter.com/shanemelaugh/status/2119192075505893695"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 15:12:07",
-      "https://news.ycombinator.com/item?id=50413970"
-    ],
-    [
-      "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
-      "https://github.com/sshah03/recalc"
     ]
   ],
   [
