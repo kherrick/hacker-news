@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-09, 19:35:16](https://news.ycombinator.com/item?id=50430621) - [CUI – Native UI components for C](https://yappologistic.github.io/CUI/)
 * [2026-11-09, 18:56:29](https://news.ycombinator.com/item?id=50429906) - [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 * [2026-11-09, 18:50:56](https://news.ycombinator.com/item?id=50429812) - [Show HN: Someone Was Here – Find out who used your Mac while you were away](https://someonewashere.app/)
 * [2026-11-09, 18:45:43](https://news.ycombinator.com/item?id=50429734) - [E-means: 10x faster k-means at equal loss](https://e-means.github.io/)
@@ -27,7 +28,6 @@
 * [2026-11-09, 11:31:05](https://news.ycombinator.com/item?id=50424157) - [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
 * [2026-11-09, 07:04:25](https://news.ycombinator.com/item?id=50422069) - [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
 * [2026-11-09, 03:15:17](https://news.ycombinator.com/item?id=50420599) - [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
-* [2026-11-08, 19:48:32](https://news.ycombinator.com/item?id=50416456) - [The Web Is More Than Enough](https://ftrain.com/aboard-the-web-is-more-than-enough)
 * [2026-11-08, 15:12:07](https://news.ycombinator.com/item?id=50413970) - [Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals](https://github.com/sshah03/recalc)
 * [2026-11-05, 23:48:04](https://news.ycombinator.com/item?id=50386246) - [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
 
