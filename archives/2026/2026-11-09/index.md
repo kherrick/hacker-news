@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
+* [2026-11-09, 21:07:26](https://news.ycombinator.com/item?id=50432147) - [Supply chain attack on Qubole customers](https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack)
 * [2026-11-09, 20:04:55](https://news.ycombinator.com/item?id=50431144) - [November 2026 Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)
 * [2026-11-09, 19:58:59](https://news.ycombinator.com/item?id=50431058) - [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
 * [2026-11-09, 19:55:53](https://news.ycombinator.com/item?id=50430991) - [Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)](https://parkgraph.com/parking-app-fees)
 * [2026-11-09, 19:35:16](https://news.ycombinator.com/item?id=50430621) - [CUI – Native UI components for C](https://yappologistic.github.io/CUI/)
 * [2026-11-09, 19:33:09](https://news.ycombinator.com/item?id=50430585) - [Iran was behind cyber-attack on French supermarket freezers, Paris says](https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges)
+* [2026-11-09, 19:12:16](https://news.ycombinator.com/item?id=50430176) - [Claude Fable 5.2 launch offers](https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers)
 * [2026-11-09, 18:56:29](https://news.ycombinator.com/item?id=50429906) - [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 * [2026-11-09, 18:50:56](https://news.ycombinator.com/item?id=50429812) - [Show HN: Someone Was Here – Find out who used your Mac while you were away](https://someonewashere.app/)
 * [2026-11-09, 18:45:43](https://news.ycombinator.com/item?id=50429734) - [E-means: 10x faster k-means at equal loss](https://e-means.github.io/)
