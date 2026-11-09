@@ -54,5 +54,6 @@
 * [2026-11-05, 05:53:53](https://news.ycombinator.com/item?id=50375691) - [Being a kid making games in the early 2000s](https://jaytholen.net/teengamedev/)
 * [2026-11-05, 05:47:14](https://news.ycombinator.com/item?id=50375653) - [Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio](https://www.altera.com/newsroom/agilex-2x)
 * [2026-11-05, 04:54:10](https://news.ycombinator.com/item?id=50375354) - [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
+* [2026-11-05, 01:15:15](https://news.ycombinator.com/item?id=50373768) - [Quasi-Logarithmic Kitchen Timer](https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer)
 * [2026-11-05, 00:44:16](https://news.ycombinator.com/item?id=50373513) - [The great butter and cheese fire of 1991](https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/)
 * [2026-11-05, 00:18:18](https://news.ycombinator.com/item?id=50373308) - [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)
