@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-10, 03:20:06](https://news.ycombinator.com/item?id=50435660) - [CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)
 * [2026-11-10, 00:10:46](https://news.ycombinator.com/item?id=50434310) - [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
 * [2026-11-10, 00:07:17](https://news.ycombinator.com/item?id=50434264) - [Horible public key tricks](https://maurycyz.com/projects/badcert/)
 * [2026-11-09, 23:08:13](https://news.ycombinator.com/item?id=50433659) - [Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
@@ -14,7 +15,6 @@
 * [2026-11-09, 18:39:22](https://news.ycombinator.com/item?id=50429636) - [Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)
 * [2026-11-09, 18:25:01](https://news.ycombinator.com/item?id=50429430) - [The first 300-millimeter power silicon carbide (SiC) wafer](https://www.infineon.com/press-release/2026/infpr202611-028)
 * [2026-11-09, 18:24:38](https://news.ycombinator.com/item?id=50429426) - [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
-* [2026-11-09, 18:05:44](https://news.ycombinator.com/item?id=50429144) - [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer)
 * [2026-11-09, 18:01:10](https://news.ycombinator.com/item?id=50429068) - [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 * [2026-11-09, 17:58:46](https://news.ycombinator.com/item?id=50429024) - [Muse Ember: Our smallest, most efficient model](https://research.meta.ai/blog/muse-ember)
 * [2026-11-09, 17:51:31](https://news.ycombinator.com/item?id=50428907) - [Show HN: Every satellite that passed over any place this week, and its photos](https://www.watched.earth)
