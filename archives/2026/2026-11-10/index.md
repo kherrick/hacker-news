@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
+* [2026-11-10, 06:14:51](https://news.ycombinator.com/item?id=50436706) - [ClickHouse Acquires Xata](https://xata.io/blog/xata-is-joining-clickhouse)
 * [2026-11-10, 06:01:08](https://news.ycombinator.com/item?id=50436640) - [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
 * [2026-11-10, 05:52:38](https://news.ycombinator.com/item?id=50436587) - [Mathematicians Are Like Luddites](https://alok.blog/luddite/)
 * [2026-11-10, 05:24:45](https://news.ycombinator.com/item?id=50436410) - [Your TV can see through walls](https://maurycyz.com/projects/fading/)

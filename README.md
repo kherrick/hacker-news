@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-10, 06:14:51](https://news.ycombinator.com/item?id=50436706) - [ClickHouse Acquires Xata](https://xata.io/blog/xata-is-joining-clickhouse)
 * [2026-11-10, 06:01:08](https://news.ycombinator.com/item?id=50436640) - [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
 * [2026-11-10, 05:24:45](https://news.ycombinator.com/item?id=50436410) - [Your TV can see through walls](https://maurycyz.com/projects/fading/)
 * [2026-11-10, 03:59:39](https://news.ycombinator.com/item?id=50435898) - [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
@@ -28,7 +29,6 @@
 * [2026-11-08, 07:15:32](https://news.ycombinator.com/item?id=50411106) - [Never Gonna Print You Up](https://dixken.de/blog/never-gonna-print-you-up)
 * [2026-11-07, 17:34:07](https://news.ycombinator.com/item?id=50406348) - [Time for AVIF everywhere?](https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html)
 * [2026-11-07, 15:57:29](https://news.ycombinator.com/item?id=50405611) - [A failed experiment in laptop cooling](https://kevinboone.me/failed_cooling.html)
-* [2026-11-07, 15:17:31](https://news.ycombinator.com/item?id=50405274) - [An ode to livelyness analysis; SSA to registers](https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/)
 * [2026-11-05, 23:48:04](https://news.ycombinator.com/item?id=50386246) - [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
 
 ## [Archives](archives/index.md)
