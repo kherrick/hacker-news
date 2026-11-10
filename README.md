@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-10, 06:01:08](https://news.ycombinator.com/item?id=50436640) - [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
+* [2026-11-10, 05:52:38](https://news.ycombinator.com/item?id=50436587) - [Mathematicians Are Like Luddites](https://alok.blog/luddite/)
 * [2026-11-10, 05:24:45](https://news.ycombinator.com/item?id=50436410) - [Your TV can see through walls](https://maurycyz.com/projects/fading/)
 * [2026-11-10, 03:59:39](https://news.ycombinator.com/item?id=50435898) - [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
 * [2026-11-10, 03:20:06](https://news.ycombinator.com/item?id=50435660) - [CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)
@@ -13,7 +14,6 @@
 * [2026-11-09, 20:04:55](https://news.ycombinator.com/item?id=50431144) - [Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far](https://artificialanalysis.ai/models/claude-fable-5-2)
 * [2026-11-09, 19:58:59](https://news.ycombinator.com/item?id=50431058) - [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
 * [2026-11-09, 19:55:53](https://news.ycombinator.com/item?id=50430991) - [Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)](https://parkgraph.com/parking-app-fees)
-* [2026-11-09, 18:50:56](https://news.ycombinator.com/item?id=50429812) - [Show HN: Someone Was Here – Find out who used your Mac while you were away](https://someonewashere.app/)
 * [2026-11-09, 18:45:43](https://news.ycombinator.com/item?id=50429734) - [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/)
 * [2026-11-09, 18:39:22](https://news.ycombinator.com/item?id=50429636) - [Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)
 * [2026-11-09, 18:25:01](https://news.ycombinator.com/item?id=50429430) - [The first 300-millimeter power silicon carbide (SiC) wafer](https://www.infineon.com/press-release/2026/infpr202611-028)
@@ -27,7 +27,7 @@
 * [2026-11-09, 12:19:22](https://news.ycombinator.com/item?id=50424581) - [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com)
 * [2026-11-08, 07:15:32](https://news.ycombinator.com/item?id=50411106) - [Never Gonna Print You Up](https://dixken.de/blog/never-gonna-print-you-up)
 * [2026-11-07, 17:34:07](https://news.ycombinator.com/item?id=50406348) - [Time for AVIF everywhere?](https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html)
-* [2026-11-07, 16:44:04](https://news.ycombinator.com/item?id=50405922) - [They Can Barely Drive, They're Flying Planes: The Surprising Rise of Teen Pilots](https://www.wsj.com/business/airlines/they-can-barely-drive-but-theyre-flying-planes-the-surprising-rise-of-teen-pilots-28446f72)
+* [2026-11-07, 15:57:29](https://news.ycombinator.com/item?id=50405611) - [A failed experiment in laptop cooling](https://kevinboone.me/failed_cooling.html)
 * [2026-11-07, 15:17:31](https://news.ycombinator.com/item?id=50405274) - [An ode to livelyness analysis; SSA to registers](https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/)
 * [2026-11-05, 23:48:04](https://news.ycombinator.com/item?id=50386246) - [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
 

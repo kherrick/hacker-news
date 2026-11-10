@@ -29,6 +29,7 @@
 * [2026-11-07, 16:21:36](https://news.ycombinator.com/item?id=50405782) - [Every processor die anyone has photographed and given away](https://sheets.works/data-viz/cpu-dies)
 * [2026-11-07, 16:06:27](https://news.ycombinator.com/item?id=50405678) - [They don't make 'em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
 * [2026-11-07, 16:05:45](https://news.ycombinator.com/item?id=50405674) - [Terry Pratchett's Study](https://www.sussi.dk/terry-pratchetts-study)
+* [2026-11-07, 15:57:29](https://news.ycombinator.com/item?id=50405611) - [A failed experiment in laptop cooling](https://kevinboone.me/failed_cooling.html)
 * [2026-11-07, 15:17:31](https://news.ycombinator.com/item?id=50405274) - [An ode to livelyness analysis; SSA to registers](https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/)
 * [2026-11-07, 15:16:01](https://news.ycombinator.com/item?id=50405263) - [Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8](https://github.com/Video-Rebirth/hyperflow-h3-flash)
 * [2026-11-07, 15:14:40](https://news.ycombinator.com/item?id=50405250) - [Ask HN: How did you convince family and friends to join your XMPP/Matrix server?](https://news.ycombinator.com/item?id=50405250)
