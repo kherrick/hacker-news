@@ -43,6 +43,7 @@
 * [2026-11-08, 07:15:32](https://news.ycombinator.com/item?id=50411106) - [Never Gonna Print You Up](https://dixken.de/blog/never-gonna-print-you-up)
 * [2026-11-08, 07:09:02](https://news.ycombinator.com/item?id=50411083) - [WaveDudeNext 2D Wave Simulator](https://github.com/graealex/WaveDudeNext)
 * [2026-11-08, 04:14:12](https://news.ycombinator.com/item?id=50410359) - [Kirlian Photography: Building Your Own Equipment](https://imagesco.com/articles/kirlian/kirlian-photography.html)
+* [2026-11-08, 04:07:21](https://news.ycombinator.com/item?id=50410329) - [Simon Winchester, Author of 'The Professor and the Madman,' Has Died](https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html)
 * [2026-11-08, 03:47:19](https://news.ycombinator.com/item?id=50410249) - [ISponsorBlockTV: SponsorBlock client for all YouTube TV clients](https://github.com/dmunozv04/isponsorblocktv)
 * [2026-11-08, 03:11:48](https://news.ycombinator.com/item?id=50410107) - [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
 * [2026-11-08, 02:02:38](https://news.ycombinator.com/item?id=50409856) - [Consumer brain wave headsets threaten privacy](https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F)

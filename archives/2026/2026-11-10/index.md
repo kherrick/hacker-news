@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
+* [2026-11-10, 12:49:32](https://news.ycombinator.com/item?id=50439616) - [Anthropic to Seek $1.3T Valuation in IPO](https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669)
 * [2026-11-10, 12:11:12](https://news.ycombinator.com/item?id=50439193) - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
 * [2026-11-10, 11:51:19](https://news.ycombinator.com/item?id=50439000) - [Show HN: A 15 MB self-hosted Netflix and Spotify for your media server](https://github.com/HolyArrs/HolyArrs)
 * [2026-11-10, 10:47:18](https://news.ycombinator.com/item?id=50438480) - [What Constant Surveillance Is Doing to Children](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)

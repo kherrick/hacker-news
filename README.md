@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-10, 12:49:32](https://news.ycombinator.com/item?id=50439616) - [Anthropic to Seek $1.3T Valuation in IPO](https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669)
 * [2026-11-10, 12:11:12](https://news.ycombinator.com/item?id=50439193) - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
 * [2026-11-10, 11:51:19](https://news.ycombinator.com/item?id=50439000) - [Show HN: A 15 MB self-hosted Netflix and Spotify for your media server](https://github.com/HolyArrs/HolyArrs)
 * [2026-11-10, 10:47:18](https://news.ycombinator.com/item?id=50438480) - [What Constant Surveillance Is Doing to Children](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)
@@ -19,15 +20,14 @@
 * [2026-11-09, 18:25:01](https://news.ycombinator.com/item?id=50429430) - [The first 300-millimeter power silicon carbide (SiC) wafer](https://www.infineon.com/press-release/2026/infpr202611-028)
 * [2026-11-09, 18:24:38](https://news.ycombinator.com/item?id=50429426) - [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
 * [2026-11-09, 18:01:10](https://news.ycombinator.com/item?id=50429068) - [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
-* [2026-11-09, 17:58:46](https://news.ycombinator.com/item?id=50429024) - [Muse Ember: Our smallest, most efficient model](https://research.meta.ai/blog/muse-ember)
 * [2026-11-09, 17:51:31](https://news.ycombinator.com/item?id=50428907) - [Show HN: Every satellite that passed over any place this week, and its photos](https://www.watched.earth)
 * [2026-11-09, 16:00:45](https://news.ycombinator.com/item?id=50427362) - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
 * [2026-11-09, 15:07:23](https://news.ycombinator.com/item?id=50426681) - [On Being an Engineer in 2026](https://twitter.com/shaharglazner/status/2119796029256032278)
 * [2026-11-09, 14:31:39](https://news.ycombinator.com/item?id=50426175) - [Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)
 * [2026-11-09, 12:19:22](https://news.ycombinator.com/item?id=50424581) - [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com)
 * [2026-11-08, 15:31:52](https://news.ycombinator.com/item?id=50414117) - [Show HN: Ghanaian street games you can play in the browser](https://www.ghanastreetgames.com/)
+* [2026-11-08, 04:07:21](https://news.ycombinator.com/item?id=50410329) - [Simon Winchester, Author of 'The Professor and the Madman,' Has Died](https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html)
 * [2026-11-07, 21:45:50](https://news.ycombinator.com/item?id=50408336) - [Billion Watts in the Speaker [video]](https://www.youtube.com/watch?v=PHOcTXYaMfg)
-* [2026-11-07, 17:34:07](https://news.ycombinator.com/item?id=50406348) - [Time for AVIF everywhere?](https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html)
 * [2026-11-06, 14:31:22](https://news.ycombinator.com/item?id=50392733) - [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
 * [2026-11-05, 23:48:04](https://news.ycombinator.com/item?id=50386246) - [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
 
