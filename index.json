@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-10, 16:37:44",
+      "https://news.ycombinator.com/item?id=50442736"
+    ],
+    [
+      ".name Grandfathered",
+      "https://neil.fraser.name/news/2026/11/10/"
+    ]
+  ],
+  [
+    [
       "2026-11-10, 16:34:45",
       "https://news.ycombinator.com/item?id=50442691"
     ],
@@ -97,6 +107,16 @@
     [
       "Let over Lambda–50 Years of Lisp (2008)",
       "https://letoverlambda.com/"
+    ]
+  ],
+  [
+    [
+      "2026-11-10, 12:20:07",
+      "https://news.ycombinator.com/item?id=50439284"
+    ],
+    [
+      "What's new in the .NET 11 runtime",
+      "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-11-07, 21:45:50",
-      "https://news.ycombinator.com/item?id=50408336"
-    ],
-    [
-      "Billion Watts in the Speaker [video]",
-      "https://www.youtube.com/watch?v=PHOcTXYaMfg"
-    ]
-  ],
-  [
-    [
       "2026-11-06, 14:31:22",
       "https://news.ycombinator.com/item?id=50392733"
     ],
     [
       "How hard is it to check for whitespace?",
       "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace"
-    ]
-  ],
-  [
-    [
-      "2026-11-06, 14:15:36",
-      "https://news.ycombinator.com/item?id=50392528"
-    ],
-    [
-      "Building an OOO RISC-V CPU from scratch",
-      "https://prawns.dev/blogs/specula"
     ]
   ]
 ]
