@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-09](index.md)
 
 * [2026-11-09, 23:40:54](https://news.ycombinator.com/item?id=50433978) - [Tracking the Harm of DOGE Cuts](https://www.clasp.org/doge-tracker/)
+* [2026-11-09, 23:09:15](https://news.ycombinator.com/item?id=50433669) - [AI Bubble Tracker](https://endtime-instruments.org/ai-bubble-tracker/)
 * [2026-11-09, 23:08:13](https://news.ycombinator.com/item?id=50433659) - [Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
 * [2026-11-09, 22:59:13](https://news.ycombinator.com/item?id=50433541) - [Exact – a new cross platform UI framework by the Expo team](https://github.com/expo/exact)
 * [2026-11-09, 22:50:35](https://news.ycombinator.com/item?id=50433438) - [Jensen Huang Scandal Sparks Speculation–Jensen's Wife Could Get Half](https://www.forbes.com/sites/alisondurkee/2026/11/09/jensen-huang-scandal-sparks-divorce-speculation-billionaires-wife-could-get-half-his-155-biliion-fortune/)

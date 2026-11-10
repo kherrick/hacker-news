@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-10, 00:07:17](https://news.ycombinator.com/item?id=50434264) - [Horible public key tricks](https://maurycyz.com/projects/badcert/)
+* [2026-11-09, 23:09:15](https://news.ycombinator.com/item?id=50433669) - [AI Bubble Tracker](https://endtime-instruments.org/ai-bubble-tracker/)
 * [2026-11-09, 23:08:13](https://news.ycombinator.com/item?id=50433659) - [Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
 * [2026-11-09, 22:59:13](https://news.ycombinator.com/item?id=50433541) - [Exact – a new cross platform UI framework by the Expo team](https://github.com/expo/exact)
 * [2026-11-09, 22:19:12](https://news.ycombinator.com/item?id=50433079) - [A year after the 100% AI mandate nobody understands our code](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)
@@ -28,7 +29,6 @@
 * [2026-11-08, 07:15:32](https://news.ycombinator.com/item?id=50411106) - [Never Gonna Print You Up](https://dixken.de/blog/never-gonna-print-you-up)
 * [2026-11-08, 00:38:37](https://news.ycombinator.com/item?id=50409444) - [A renowned scientist, a deadly snakebite, and a diary that documented it (2025)](https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/)
 * [2026-11-07, 15:17:31](https://news.ycombinator.com/item?id=50405274) - [An ode to livelyness analysis; SSA to registers](https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/)
-* [2026-11-06, 15:59:12](https://news.ycombinator.com/item?id=50394017) - [Possible 19th-century castaway camp found on Isla de los Estados](https://phys.org/news/2026-11-archaeologists-uncover-19th-century-castaway.html)
 * [2026-11-05, 23:48:04](https://news.ycombinator.com/item?id=50386246) - [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
 
 ## [Archives](archives/index.md)
