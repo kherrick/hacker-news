@@ -45,3 +45,4 @@
 * [2026-11-08, 03:11:48](https://news.ycombinator.com/item?id=50410107) - [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
 * [2026-11-08, 02:02:38](https://news.ycombinator.com/item?id=50409856) - [Consumer brain wave headsets threaten privacy](https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F)
 * [2026-11-08, 02:02:27](https://news.ycombinator.com/item?id=50409855) - [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)
+* [2026-11-08, 00:38:37](https://news.ycombinator.com/item?id=50409444) - [A renowned scientist, a deadly snakebite, and a diary that documented it all](https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/)
