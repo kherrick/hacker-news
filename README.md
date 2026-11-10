@@ -5,7 +5,7 @@
 * [2026-11-09, 23:08:13](https://news.ycombinator.com/item?id=50433659) - [Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
 * [2026-11-09, 22:59:13](https://news.ycombinator.com/item?id=50433541) - [Exact – a new cross platform UI framework by the Expo team](https://github.com/expo/exact)
 * [2026-11-09, 21:56:57](https://news.ycombinator.com/item?id=50432831) - [TPU 8tx and TPU 8i Max](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
-* [2026-11-09, 20:04:55](https://news.ycombinator.com/item?id=50431144) - [Claude Fable 5.2 scores 65 on artificial analysis, highest so far](https://artificialanalysis.ai/models/claude-fable-5-2)
+* [2026-11-09, 20:04:55](https://news.ycombinator.com/item?id=50431144) - [Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far](https://artificialanalysis.ai/models/claude-fable-5-2)
 * [2026-11-09, 19:58:59](https://news.ycombinator.com/item?id=50431058) - [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
 * [2026-11-09, 19:55:53](https://news.ycombinator.com/item?id=50430991) - [Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)](https://parkgraph.com/parking-app-fees)
 * [2026-11-09, 19:35:16](https://news.ycombinator.com/item?id=50430621) - [CUI – Native UI components for C](https://yappologistic.github.io/CUI/)
