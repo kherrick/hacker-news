@@ -8,6 +8,7 @@
 * [2026-11-10, 18:01:15](https://news.ycombinator.com/item?id=50443812) - [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)
 * [2026-11-10, 17:55:07](https://news.ycombinator.com/item?id=50443716) - [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data)
 * [2026-11-10, 17:55:07](https://news.ycombinator.com/item?id=50443714) - [An Open Field Guide to Inference Engineering](https://docs.modelplane.ai/guides/inference-guide)
+* [2026-11-10, 17:44:44](https://news.ycombinator.com/item?id=50443587) - [Life on Claude Nine](https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html)
 * [2026-11-10, 17:31:14](https://news.ycombinator.com/item?id=50443427) - [Val Town is winding down](https://blog.val.town/winding-down)
 * [2026-11-10, 17:02:32](https://news.ycombinator.com/item?id=50443090) - [AMD's Zen 6 Family: Feeding the Beast](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast)
 * [2026-11-10, 16:37:44](https://news.ycombinator.com/item?id=50442736) - [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
@@ -28,7 +29,6 @@
 * [2026-11-09, 10:23:30](https://news.ycombinator.com/item?id=50423664) - [Variable-width Bézier curves (2025)](https://luthert.web.illinois.edu/blog/posts/775.html)
 * [2026-11-08, 12:07:17](https://news.ycombinator.com/item?id=50412554) - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
 * [2026-11-07, 14:42:49](https://news.ycombinator.com/item?id=50404969) - [The planet Vulcan: a cautionary tale](https://kevinboone.me/vulcan.html)
-* [2026-11-07, 12:44:29](https://news.ycombinator.com/item?id=50404079) - [Twelve things you could build on a live index of internet radio](https://tuneping.com/notes/twelve-things-to-build-on-a-live-radio-index/)
 * [2026-11-05, 18:17:51](https://news.ycombinator.com/item?id=50382401) - [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 
 ## [Archives](archives/index.md)

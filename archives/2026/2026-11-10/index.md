@@ -13,6 +13,7 @@
 * [2026-11-10, 18:01:15](https://news.ycombinator.com/item?id=50443812) - [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)
 * [2026-11-10, 17:55:07](https://news.ycombinator.com/item?id=50443716) - [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data)
 * [2026-11-10, 17:55:07](https://news.ycombinator.com/item?id=50443714) - [An Open Field Guide to Inference Engineering](https://docs.modelplane.ai/guides/inference-guide)
+* [2026-11-10, 17:44:44](https://news.ycombinator.com/item?id=50443587) - [Life on Claude Nine](https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html)
 * [2026-11-10, 17:31:14](https://news.ycombinator.com/item?id=50443427) - [Val Town is winding down](https://blog.val.town/winding-down)
 * [2026-11-10, 17:02:32](https://news.ycombinator.com/item?id=50443090) - [AMD's Zen 6 Family: Feeding the Beast](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast)
 * [2026-11-10, 16:37:44](https://news.ycombinator.com/item?id=50442736) - [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
