@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-10, 19:25:14](https://news.ycombinator.com/item?id=50445013) - [What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)
+* [2026-11-10, 19:03:54](https://news.ycombinator.com/item?id=50444684) - [A comprehensive study of how fingerprintable users are](https://fingerprinting.study/)
 * [2026-11-10, 18:22:32](https://news.ycombinator.com/item?id=50444129) - [Starlink Mini 2](https://starlink.com/mini-2)
-* [2026-11-10, 18:02:54](https://news.ycombinator.com/item?id=50443838) - [Work at the Frontier: AI's effect on freelance work](https://openai.com/index/ai-effect-on-freelance-work)
 * [2026-11-10, 18:02:02](https://news.ycombinator.com/item?id=50443824) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
 * [2026-11-10, 18:01:15](https://news.ycombinator.com/item?id=50443812) - [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)
 * [2026-11-10, 17:55:07](https://news.ycombinator.com/item?id=50443716) - [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data)
@@ -9,7 +10,6 @@
 * [2026-11-10, 17:31:14](https://news.ycombinator.com/item?id=50443427) - [Val Town is winding down](https://blog.val.town/winding-down)
 * [2026-11-10, 17:02:32](https://news.ycombinator.com/item?id=50443090) - [AMD's Zen 6 Family: Feeding the Beast](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast)
 * [2026-11-10, 16:37:44](https://news.ycombinator.com/item?id=50442736) - [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
-* [2026-11-10, 16:34:45](https://news.ycombinator.com/item?id=50442691) - [Tailscale's DNS IPv6 spells out \"Tailscale\"](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
 * [2026-11-10, 16:15:43](https://news.ycombinator.com/item?id=50442426) - [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
 * [2026-11-10, 15:25:20](https://news.ycombinator.com/item?id=50441707) - [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
 * [2026-11-10, 15:12:16](https://news.ycombinator.com/item?id=50441518) - [Show HN: Valencia, Spain in Sim City/Isometric View](https://tinyvalencia.com/)

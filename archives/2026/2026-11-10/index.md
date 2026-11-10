@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
+* [2026-11-10, 19:25:14](https://news.ycombinator.com/item?id=50445013) - [What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)
+* [2026-11-10, 19:03:54](https://news.ycombinator.com/item?id=50444684) - [A comprehensive study of how fingerprintable users are](https://fingerprinting.study/)
 * [2026-11-10, 18:22:32](https://news.ycombinator.com/item?id=50444129) - [Starlink Mini 2](https://starlink.com/mini-2)
 * [2026-11-10, 18:02:54](https://news.ycombinator.com/item?id=50443838) - [Work at the Frontier: AI's effect on freelance work](https://openai.com/index/ai-effect-on-freelance-work)
 * [2026-11-10, 18:02:02](https://news.ycombinator.com/item?id=50443824) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
