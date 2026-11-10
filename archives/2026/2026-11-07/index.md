@@ -38,6 +38,7 @@
 * [2026-11-07, 15:14:40](https://news.ycombinator.com/item?id=50405250) - [Ask HN: How did you convince family and friends to join your XMPP/Matrix server?](https://news.ycombinator.com/item?id=50405250)
 * [2026-11-07, 15:06:54](https://news.ycombinator.com/item?id=50405172) - [Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack](https://www.retrosongbird.com/)
 * [2026-11-07, 14:51:40](https://news.ycombinator.com/item?id=50405043) - [Air holes turn silicon wafers into flat UV focusing mirrors for compact optics](https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html)
+* [2026-11-07, 14:42:49](https://news.ycombinator.com/item?id=50404969) - [The planet Vulcan: a cautionary tale](https://kevinboone.me/vulcan.html)
 * [2026-11-07, 14:18:45](https://news.ycombinator.com/item?id=50404747) - [The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]](https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf)
 * [2026-11-07, 14:00:20](https://news.ycombinator.com/item?id=50404599) - [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
 * [2026-11-07, 13:35:16](https://news.ycombinator.com/item?id=50404428) - [Ur-Nammu Founder of the Sumerian Renaissance](https://www.worldhistory.org/Ur-Nammu/)
