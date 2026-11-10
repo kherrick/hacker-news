@@ -46,6 +46,7 @@
 * [2026-11-05, 13:00:11](https://news.ycombinator.com/item?id=50378571) - [Download your favourite YouTube videos](https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/)
 * [2026-11-05, 12:51:48](https://news.ycombinator.com/item?id=50378508) - [Obscure audio codec is a perfect fit for the N64](https://phoboslab.org/log/2026/11/n64-ulc-codec)
 * [2026-11-05, 12:19:02](https://news.ycombinator.com/item?id=50378228) - [Sshole](https://sshhole.com)
+* [2026-11-05, 12:00:05](https://news.ycombinator.com/item?id=50378118) - [How Many People Work from Home?](https://nicholasdecker.substack.com/p/how-many-people-work-from-home)
 * [2026-11-05, 11:40:30](https://news.ycombinator.com/item?id=50377976) - [OpenSSH 10.6p2 Critical workaround for alpine without PAM](https://www.openssh.org/releasenotes.html#10.6p2)
 * [2026-11-05, 11:16:51](https://news.ycombinator.com/item?id=50377821) - [Awesome repositories are no longer awesome](https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/)
 * [2026-11-05, 10:52:04](https://news.ycombinator.com/item?id=50377661) - [Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/)
