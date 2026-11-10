@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
 * [2026-11-10, 15:00:39](https://news.ycombinator.com/item?id=50441338) - [The Hardest Tarball?](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
+* [2026-11-10, 14:41:36](https://news.ycombinator.com/item?id=50441074) - [The Death Knell of Digital Search](https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search)
 * [2026-11-10, 14:12:59](https://news.ycombinator.com/item?id=50440668) - [The U.S. Is Driving Away Young Scientists](https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html)
+* [2026-11-10, 14:11:54](https://news.ycombinator.com/item?id=50440657) - [Wake me up when AI can...](https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html)
 * [2026-11-10, 13:51:51](https://news.ycombinator.com/item?id=50440359) - [Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM](https://neuracryption.com/research)
 * [2026-11-10, 13:10:25](https://news.ycombinator.com/item?id=50439805) - [Don't buy AR glasses](https://blog.yaros.ae/dont-buy-ar-glasses/)
 * [2026-11-10, 12:58:04](https://news.ycombinator.com/item?id=50439695) - [Ableton Live 13](https://www.ableton.com/en/live/)
