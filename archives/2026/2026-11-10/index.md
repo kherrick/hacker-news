@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
+* [2026-11-10, 16:34:45](https://news.ycombinator.com/item?id=50442691) - [Tailscale's DNS IPv6 spells out \"Tailscale\"](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
 * [2026-11-10, 16:15:43](https://news.ycombinator.com/item?id=50442426) - [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
 * [2026-11-10, 16:07:15](https://news.ycombinator.com/item?id=50442303) - [Gemini 4 Carbon is now available](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
 * [2026-11-10, 16:01:27](https://news.ycombinator.com/item?id=50442225) - [.NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)

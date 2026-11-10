@@ -1,16 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-10, 16:34:45](https://news.ycombinator.com/item?id=50442691) - [Tailscale's DNS IPv6 spells out \"Tailscale\"](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
 * [2026-11-10, 16:15:43](https://news.ycombinator.com/item?id=50442426) - [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
 * [2026-11-10, 16:07:15](https://news.ycombinator.com/item?id=50442303) - [Gemini 4 Carbon is now available](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
 * [2026-11-10, 16:01:27](https://news.ycombinator.com/item?id=50442225) - [.NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)
 * [2026-11-10, 15:59:34](https://news.ycombinator.com/item?id=50442202) - [Palantir hires a former Democratic senator as it faces scrutiny in new Congress](https://text.npr.org/nx-s1-6029641)
+* [2026-11-10, 15:25:20](https://news.ycombinator.com/item?id=50441707) - [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
 * [2026-11-10, 15:12:16](https://news.ycombinator.com/item?id=50441518) - [Show HN: Valencia, Spain in Sim City/Isometric View](https://tinyvalencia.com/)
 * [2026-11-10, 15:00:39](https://news.ycombinator.com/item?id=50441338) - [The Hardest Tarball?](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
 * [2026-11-10, 14:41:36](https://news.ycombinator.com/item?id=50441074) - [The Death Knell of Digital Search](https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search)
 * [2026-11-10, 12:35:27](https://news.ycombinator.com/item?id=50439448) - [Let over Lambda–50 Years of Lisp (2008)](https://letoverlambda.com/)
 * [2026-11-10, 12:11:12](https://news.ycombinator.com/item?id=50439193) - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
-* [2026-11-10, 11:51:19](https://news.ycombinator.com/item?id=50439000) - [Show HN: A 15 MB self-hosted Netflix and Spotify for your media server](https://github.com/HolyArrs/HolyArrs)
-* [2026-11-10, 10:32:36](https://news.ycombinator.com/item?id=50438377) - ['C:\\> FORMAT C:' – relax, it's just a screen saver](https://fakedos.com/)
 * [2026-11-10, 09:04:39](https://news.ycombinator.com/item?id=50437790) - [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)
 * [2026-11-10, 07:19:38](https://news.ycombinator.com/item?id=50437106) - [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
 * [2026-11-10, 06:01:08](https://news.ycombinator.com/item?id=50436640) - [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
@@ -29,7 +29,7 @@
 * [2026-11-08, 04:07:21](https://news.ycombinator.com/item?id=50410329) - [Simon Winchester, Author of 'The Professor and the Madman,' Has Died](https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html)
 * [2026-11-07, 21:45:50](https://news.ycombinator.com/item?id=50408336) - [Billion Watts in the Speaker [video]](https://www.youtube.com/watch?v=PHOcTXYaMfg)
 * [2026-11-06, 14:31:22](https://news.ycombinator.com/item?id=50392733) - [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
-* [2026-11-06, 14:15:36](https://news.ycombinator.com/item?id=50392528) - [Building an Order RISC-V CPU from scratch](https://prawns.dev/blogs/specula)
+* [2026-11-06, 14:15:36](https://news.ycombinator.com/item?id=50392528) - [Building an OOO RISC-V CPU from scratch](https://prawns.dev/blogs/specula)
 
 ## [Archives](archives/index.md)
 
