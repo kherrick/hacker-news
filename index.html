@@ -129,6 +129,145 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="50443838">
+          <h3>
+            <a
+              class="item"
+              href="https://openai.com/index/ai-effect-on-freelance-work"
+              >Work at the Frontier: AI's effect on freelance work</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-10 @ 18:02:54</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50443838"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50443824">
+          <h3>
+            <a
+              class="item"
+              href="https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/"
+              >Synaptics patent claims stop work on DisplayLink drivers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-10 @ 18:02:02</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50443824"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50443812">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/GoogleChrome/modern-web-guidance"
+              >Show HN: Get your coding agent off ~2019 JavaScript, onto modern
+              web primitives</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-10 @ 18:01:15</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50443812"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Models know about some of these by name, but consistently won't
+                default to using the platform-native solution and instead prefer
+                the incumbent &lt;div&gt;+JS based pattern. We started an effort
+                in Chrome to supplement coding agents with this key domain
+                knowledge and we're shipping our 1.0 today, in collaboration
+                with Firefox, MDN, and Edge.
+              </p>
+              <p>
+                200+ guides (~1.7MB) of curated, hand-crafted implementation
+                best-practices from web experts, updated as the web evolves.
+                (Open source, obv, so.. we'll welcome your bikeshedding ;)
+                Readable versions here: [1]
+              </p>
+              <p>
+                I've spent the last 9 months obsessing over how to ship this as
+                an agent skill + (Agentic RAG) CLI without blowing up your
+                context window. (Or cedeing activation mechanics to MCP dynamic
+                tool search). The skill description is minmaxed for activating
+                on relevant frontend tasks. The RAG work I'm pretty proud of…
+                originally a 500mb native stack down to a ~7MB pure-JS package,
+                ~10ms search on your CPU.
+              </p>
+              <p>
+                We just introduced a deterministic 'legacy-scan' (trained on 30k
+                github repos) to identify old 'n dusted patterns that your agent
+                can modernize. (92% avg precision on held-out repos.)
+              </p>
+              <p>
+                People make a lot of claims about what coding agents are
+                good/bad at. We wanted receipts, so we invested heavily in eval
+                infra [2] to help us hill-climb, but also to identify when
+                knowledge is common enough we can prune our guides. (Ofc, some
+                of the things we thought AI didn't know turned out to be wrong
+                :) We run codex/claude/agy against 200 tasks without the skill
+                and then with.. In total ~1,700 playwright/AST-based assertions.
+                Agents go from 55% pass unguided to 92% guided.
+              </p>
+              <p>Try it out:</p>
+              <p></p>
+              <pre><code>    DISABLE_TELEMETRY=1 npx modern-web-guidance@latest install
+    DISABLE_TELEMETRY=1 npx modern-web-guidance@latest search "animate dialog modal"
+    DISABLE_TELEMETRY=1 npx modern-web-guidance@latest legacy-scan ./src
+</code></pre>
+              If you spot something wrong or weird, give us a holler!
+              <p>
+                Longer write-up on the 1.0:
+                <a
+                  href="https://developer.chrome.com/blog/modern-web-guidance-v1"
+                  >https://developer.chrome.com/blog/modern-web-guidance-v1</a
+                >
+              </p>
+              <p>---</p>
+              <p>
+                0:
+                <a href="https://news.ycombinator.com/item?id=50416456"
+                  >https://news.ycombinator.com/item?id=50416456</a
+                >
+              </p>
+              <p>
+                1:
+                <a
+                  href="https://developer.chrome.com/docs/modern-web-guidance/guides"
+                  >https://developer.chrome.com/docs/modern-web-guidance/guides</a
+                >
+              </p>
+              <p>
+                2:
+                <a
+                  href="https://googlechrome.github.io/modern-web-guidance-src/"
+                  >https://googlechrome.github.io/modern-web-guidance-src/</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="50443427">
           <h3>
             <a class="item" href="https://blog.val.town/winding-down"
@@ -139,7 +278,7 @@
             <h4>
               <span>2026-11-10 @ 17:31:14</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50443427"
                   >Comments</a
@@ -160,11 +299,11 @@
             <h4>
               <span>2026-11-10 @ 17:02:32</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50443090"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -179,11 +318,11 @@
             <h4>
               <span>2026-11-10 @ 16:37:44</span
               ><span class="points-container"
-                >Points: <span class="points">272</span></span
+                >Points: <span class="points">290</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50442736"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -200,7 +339,7 @@
             <h4>
               <span>2026-11-10 @ 16:34:45</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50442691"
                   >Comments</a
@@ -221,11 +360,11 @@
             <h4>
               <span>2026-11-10 @ 16:15:43</span
               ><span class="points-container"
-                >Points: <span class="points">247</span></span
+                >Points: <span class="points">256</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50442426"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -242,11 +381,11 @@
             <h4>
               <span>2026-11-10 @ 15:25:20</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50441707"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -261,11 +400,11 @@
             <h4>
               <span>2026-11-10 @ 15:12:16</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50441518"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -282,7 +421,7 @@
             <h4>
               <span>2026-11-10 @ 15:00:39</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50441338"
                   >Comments</a
@@ -303,7 +442,7 @@
             <h4>
               <span>2026-11-10 @ 14:41:36</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50441074"
                   >Comments</a
@@ -322,30 +461,11 @@
             <h4>
               <span>2026-11-10 @ 12:58:04</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50439695"
                   >Comments</a
-                ><span class="descendants">: 207</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50439448">
-          <h3>
-            <a class="item" href="https://letoverlambda.com/"
-              >Let over Lambda–50 Years of Lisp (2008)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-10 @ 12:35:27</span
-              ><span class="points-container"
-                >Points: <span class="points">59</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50439448"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 211</span></span
               >
             </h4>
           </section>
@@ -362,11 +482,11 @@
             <h4>
               <span>2026-11-10 @ 12:20:07</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">142</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50439284"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
             <div class="text">
@@ -389,7 +509,7 @@
             <h4>
               <span>2026-11-10 @ 12:11:12</span
               ><span class="points-container"
-                >Points: <span class="points">471</span></span
+                >Points: <span class="points">472</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50439193"
                   >Comments</a
@@ -410,11 +530,11 @@
             <h4>
               <span>2026-11-10 @ 10:47:18</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50438480"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
             <div class="text">
@@ -438,11 +558,11 @@
             <h4>
               <span>2026-11-10 @ 10:25:58</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50438318"
                   >Comments</a
-                ><span class="descendants">: 200</span></span
+                ><span class="descendants">: 204</span></span
               >
             </h4>
           </section>
@@ -457,7 +577,7 @@
             <h4>
               <span>2026-11-10 @ 09:04:39</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50437790"
                   >Comments</a
@@ -478,7 +598,7 @@
             <h4>
               <span>2026-11-10 @ 08:59:41</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50437752"
                   >Comments</a
@@ -504,7 +624,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50437242"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -522,11 +642,11 @@
             <h4>
               <span>2026-11-10 @ 06:01:08</span
               ><span class="points-container"
-                >Points: <span class="points">622</span></span
+                >Points: <span class="points">624</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50436640"
                   >Comments</a
-                ><span class="descendants">: 217</span></span
+                ><span class="descendants">: 218</span></span
               >
             </h4>
           </section>
@@ -541,11 +661,11 @@
             <h4>
               <span>2026-11-09 @ 22:30:41</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50433216"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -564,7 +684,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50431058"
                   >Comments</a
-                ><span class="descendants">: 372</span></span
+                ><span class="descendants">: 373</span></span
               >
             </h4>
           </section>
@@ -581,7 +701,7 @@
             <h4>
               <span>2026-11-09 @ 18:01:10</span
               ><span class="points-container"
-                >Points: <span class="points">837</span></span
+                >Points: <span class="points">841</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50429068"
                   >Comments</a
@@ -602,7 +722,7 @@
             <h4>
               <span>2026-11-09 @ 14:40:42</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50426294"
                   >Comments</a
@@ -611,21 +731,23 @@
             </h4>
           </section>
         </section>
-        <section id="50414117">
+        <section id="50423664">
           <h3>
-            <a class="item" href="https://www.ghanastreetgames.com/"
-              >Show HN: Ghanaian street games you can play in the browser</a
+            <a
+              class="item"
+              href="https://luthert.web.illinois.edu/blog/posts/775.html"
+              >Variable-width Bézier curves (2025)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-11-08 @ 15:31:52</span
+              <span>2026-11-09 @ 10:23:30</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50414117"
+                ><a href="https://news.ycombinator.com/item?id=50423664"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -640,7 +762,7 @@
             <h4>
               <span>2026-11-08 @ 12:07:17</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50412554"
                   >Comments</a
@@ -659,33 +781,11 @@
             <h4>
               <span>2026-11-08 @ 11:25:24</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50412324"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50410329">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html"
-              >Simon Winchester, Author of 'The Professor and the Madman,' Has
-              Died</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-08 @ 04:07:21</span
-              ><span class="points-container"
-                >Points: <span class="points">61</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50410329"
-                  >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -700,30 +800,11 @@
             <h4>
               <span>2026-11-07 @ 21:45:50</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50408336"
                   >Comments</a
                 ><span class="descendants">: 46</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50405611">
-          <h3>
-            <a class="item" href="https://kevinboone.me/failed_cooling.html"
-              >A failed experiment in laptop cooling (2025)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-07 @ 15:57:29</span
-              ><span class="points-container"
-                >Points: <span class="points">43</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50405611"
-                  >Comments</a
-                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -740,11 +821,11 @@
             <h4>
               <span>2026-11-05 @ 18:17:51</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50382401"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
             <div class="text">
