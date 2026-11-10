@@ -29,6 +29,7 @@
 * [2026-11-07, 16:44:04](https://news.ycombinator.com/item?id=50405922) - [They Can Barely Drive, They're Flying Planes: The Surprising Rise of Teen Pilots](https://www.wsj.com/business/airlines/they-can-barely-drive-but-theyre-flying-planes-the-surprising-rise-of-teen-pilots-28446f72)
 * [2026-11-07, 16:22:59](https://news.ycombinator.com/item?id=50405789) - [How Long Can Life Wait?](https://mceglowski.substack.com/p/how-long-can-life-wait)
 * [2026-11-07, 16:21:36](https://news.ycombinator.com/item?id=50405782) - [Every processor die anyone has photographed and given away](https://sheets.works/data-viz/cpu-dies)
+* [2026-11-07, 16:07:04](https://news.ycombinator.com/item?id=50405682) - [Echoloc: A minimalist echolocation horror videogame](https://level102.itch.io/echoloc)
 * [2026-11-07, 16:06:27](https://news.ycombinator.com/item?id=50405678) - [They don't make 'em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
 * [2026-11-07, 16:05:45](https://news.ycombinator.com/item?id=50405674) - [Terry Pratchett's Study](https://www.sussi.dk/terry-pratchetts-study)
 * [2026-11-07, 15:57:29](https://news.ycombinator.com/item?id=50405611) - [A failed experiment in laptop cooling](https://kevinboone.me/failed_cooling.html)
