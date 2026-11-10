@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-10, 10:47:18](https://news.ycombinator.com/item?id=50438480) - [What Constant Surveillance Is Doing to Children](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)
-* [2026-11-10, 10:40:51](https://news.ycombinator.com/item?id=50438429) - [Meet the Sad Wives of AI](https://www.wired.com/story/meet-the-sad-wives-of-ai/)
 * [2026-11-10, 10:25:58](https://news.ycombinator.com/item?id=50438318) - [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
 * [2026-11-10, 09:04:39](https://news.ycombinator.com/item?id=50437790) - [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)
 * [2026-11-10, 08:59:41](https://news.ycombinator.com/item?id=50437752) - [Fossil CO2 emissions decrease by 0.4% in 2026](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/)
@@ -22,6 +21,7 @@
 * [2026-11-09, 17:58:46](https://news.ycombinator.com/item?id=50429024) - [Muse Ember: Our smallest, most efficient model](https://research.meta.ai/blog/muse-ember)
 * [2026-11-09, 17:51:31](https://news.ycombinator.com/item?id=50428907) - [Show HN: Every satellite that passed over any place this week, and its photos](https://www.watched.earth)
 * [2026-11-09, 16:00:45](https://news.ycombinator.com/item?id=50427362) - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+* [2026-11-09, 15:07:23](https://news.ycombinator.com/item?id=50426681) - [On Being an Engineer in 2026](https://twitter.com/shaharglazner/status/2119796029256032278)
 * [2026-11-09, 14:31:39](https://news.ycombinator.com/item?id=50426175) - [Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)
 * [2026-11-09, 12:19:22](https://news.ycombinator.com/item?id=50424581) - [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com)
 * [2026-11-08, 07:15:32](https://news.ycombinator.com/item?id=50411106) - [Never Gonna Print You Up](https://dixken.de/blog/never-gonna-print-you-up)
