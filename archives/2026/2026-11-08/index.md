@@ -34,6 +34,7 @@
 * [2026-11-08, 14:06:18](https://news.ycombinator.com/item?id=50413487) - [The Learjet Repo Man (2009)](https://www.salon.com/2009/06/06/lear_jet_repo_man/)
 * [2026-11-08, 12:51:38](https://news.ycombinator.com/item?id=50412830) - [How to prove equations using diagrams, part 1](https://www.epatters.org/post/e-graphs-1/)
 * [2026-11-08, 12:07:17](https://news.ycombinator.com/item?id=50412554) - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
+* [2026-11-08, 11:25:24](https://news.ycombinator.com/item?id=50412324) - [PHP2Shell Deep Dive](https://djad04.github.io/php2shell-deep-dive/)
 * [2026-11-08, 11:23:28](https://news.ycombinator.com/item?id=50412318) - [Person of Interest](https://krthr.co/person-of-interest/)
 * [2026-11-08, 10:56:43](https://news.ycombinator.com/item?id=50412152) - [Petered (what happens after the Peter Principle)](https://aworkinglibrary.com/writing/petered)
 * [2026-11-08, 10:42:15](https://news.ycombinator.com/item?id=50412072) - [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
