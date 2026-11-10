@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-10, 18:22:32](https://news.ycombinator.com/item?id=50444129) - [Starlink Mini 2](https://starlink.com/mini-2)
 * [2026-11-10, 18:02:54](https://news.ycombinator.com/item?id=50443838) - [Work at the Frontier: AI's effect on freelance work](https://openai.com/index/ai-effect-on-freelance-work)
 * [2026-11-10, 18:02:02](https://news.ycombinator.com/item?id=50443824) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
 * [2026-11-10, 18:01:15](https://news.ycombinator.com/item?id=50443812) - [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)
@@ -13,7 +14,6 @@
 * [2026-11-10, 15:00:39](https://news.ycombinator.com/item?id=50441338) - [The Hardest Tarball?](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
 * [2026-11-10, 14:41:36](https://news.ycombinator.com/item?id=50441074) - [The death knell of digital search](https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search)
 * [2026-11-10, 12:58:04](https://news.ycombinator.com/item?id=50439695) - [Ableton Live 13](https://www.ableton.com/en/live/)
-* [2026-11-10, 12:35:27](https://news.ycombinator.com/item?id=50439448) - [Let over Lambda–50 Years of Lisp (2008)](https://letoverlambda.com/)
 * [2026-11-10, 12:20:07](https://news.ycombinator.com/item?id=50439284) - [What's new in the .NET 11 runtime](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime)
 * [2026-11-10, 12:11:12](https://news.ycombinator.com/item?id=50439193) - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
 * [2026-11-10, 10:47:18](https://news.ycombinator.com/item?id=50438480) - [What constant surveillance is doing to children and parents](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)
