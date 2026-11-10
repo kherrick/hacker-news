@@ -44,6 +44,7 @@
 * [2026-11-08, 08:40:23](https://news.ycombinator.com/item?id=50411467) - [Agent memory needs its OpenTelemetry moment](https://www.lorekit.io/blog/open-agent-memory-format)
 * [2026-11-08, 07:15:32](https://news.ycombinator.com/item?id=50411106) - [Never Gonna Print You Up](https://dixken.de/blog/never-gonna-print-you-up)
 * [2026-11-08, 07:09:02](https://news.ycombinator.com/item?id=50411083) - [WaveDudeNext 2D Wave Simulator](https://github.com/graealex/WaveDudeNext)
+* [2026-11-08, 05:20:56](https://news.ycombinator.com/item?id=50410621) - [What It Costs to Run 4 Apps on My Own Servers](https://akashrajpurohit.com/blog/what-it-costs-to-run-4-apps-on-my-own-servers/)
 * [2026-11-08, 04:14:12](https://news.ycombinator.com/item?id=50410359) - [Kirlian Photography: Building Your Own Equipment](https://imagesco.com/articles/kirlian/kirlian-photography.html)
 * [2026-11-08, 04:07:21](https://news.ycombinator.com/item?id=50410329) - [Simon Winchester, Author of 'The Professor and the Madman,' Has Died](https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html)
 * [2026-11-08, 03:47:19](https://news.ycombinator.com/item?id=50410249) - [ISponsorBlockTV: SponsorBlock client for all YouTube TV clients](https://github.com/dmunozv04/isponsorblocktv)

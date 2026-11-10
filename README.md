@@ -23,11 +23,11 @@
 * [2026-11-10, 12:11:12](https://news.ycombinator.com/item?id=50439193) - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
 * [2026-11-10, 10:47:18](https://news.ycombinator.com/item?id=50438480) - [What constant surveillance is doing to children and parents](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)
 * [2026-11-10, 10:25:58](https://news.ycombinator.com/item?id=50438318) - [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
-* [2026-11-10, 09:04:39](https://news.ycombinator.com/item?id=50437790) - [Queens Public Library under ransomware attack](https://connect.queenslibrary.org/)
 * [2026-11-10, 07:40:52](https://news.ycombinator.com/item?id=50437242) - [M John Harrison becomes first science fiction author to win the Booker](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
 * [2026-11-10, 06:01:08](https://news.ycombinator.com/item?id=50436640) - [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
 * [2026-11-09, 22:30:41](https://news.ycombinator.com/item?id=50433216) - [Process Explorer for macOS](https://github.com/microsoft/Procexp-Mac)
 * [2026-11-08, 12:07:17](https://news.ycombinator.com/item?id=50412554) - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
+* [2026-11-08, 05:20:56](https://news.ycombinator.com/item?id=50410621) - [What It Costs to Run 4 Apps on My Own Servers](https://akashrajpurohit.com/blog/what-it-costs-to-run-4-apps-on-my-own-servers/)
 * [2026-11-07, 14:42:49](https://news.ycombinator.com/item?id=50404969) - [The planet Vulcan: a cautionary tale](https://kevinboone.me/vulcan.html)
 * [2026-11-05, 18:17:51](https://news.ycombinator.com/item?id=50382401) - [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 
