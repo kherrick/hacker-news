@@ -49,6 +49,7 @@
 * [2026-11-09, 15:01:03](https://news.ycombinator.com/item?id=50426582) - [I Saw Your HN Comment](https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/)
 * [2026-11-09, 14:34:00](https://news.ycombinator.com/item?id=50426207) - [Zebkit – Chromium's engine as a library you link, not a runtime you live in](https://github.com/ikey4u/zebkit)
 * [2026-11-09, 14:31:39](https://news.ycombinator.com/item?id=50426175) - [Magenta solar panels may be agrivoltaics' cleverest trick yet](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)
+* [2026-11-09, 14:09:02](https://news.ycombinator.com/item?id=50425847) - [The Race to Build a \"Find My\" for AI Chips](https://spectrum.ieee.org/find-my-ai-chip)
 * [2026-11-09, 13:27:01](https://news.ycombinator.com/item?id=50425303) - [Children of Men: The Future Is a Mirror for the Present](https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/)
 * [2026-11-09, 12:30:20](https://news.ycombinator.com/item?id=50424704) - [Humans will never again create a project like Wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)
 * [2026-11-09, 12:20:45](https://news.ycombinator.com/item?id=50424604) - [Nvidia's China Problem [pdf]](https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf)

@@ -20,16 +20,16 @@
 * [2026-11-09, 17:51:31](https://news.ycombinator.com/item?id=50428907) - [Show HN: Every satellite that passed over any place this week, and its photos](https://www.watched.earth)
 * [2026-11-09, 17:00:06](https://news.ycombinator.com/item?id=50428266) - [Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling](https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer)
 * [2026-11-09, 16:00:45](https://news.ycombinator.com/item?id=50427362) - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+* [2026-11-09, 15:07:23](https://news.ycombinator.com/item?id=50426681) - [On Being an Engineer in 2026](https://twitter.com/shaharglazner/status/2119796029256032278)
 * [2026-11-09, 14:31:39](https://news.ycombinator.com/item?id=50426175) - [Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)
+* [2026-11-09, 14:09:02](https://news.ycombinator.com/item?id=50425847) - [The Race to Build a \"Find My\" for AI Chips](https://spectrum.ieee.org/find-my-ai-chip)
 * [2026-11-09, 12:19:22](https://news.ycombinator.com/item?id=50424581) - [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com)
 * [2026-11-09, 11:31:05](https://news.ycombinator.com/item?id=50424157) - [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
 * [2026-11-08, 08:52:33](https://news.ycombinator.com/item?id=50411515) - [Deuterium's Impact on OLED Displays (2024)](https://www.oled-info.com/deuteriums-impact-oled-displays)
 * [2026-11-08, 07:15:32](https://news.ycombinator.com/item?id=50411106) - [Never Gonna Print You Up](https://dixken.de/blog/never-gonna-print-you-up)
 * [2026-11-08, 00:38:37](https://news.ycombinator.com/item?id=50409444) - [A renowned scientist, a deadly snakebite, and a diary that documented it (2025)](https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/)
 * [2026-11-07, 15:17:31](https://news.ycombinator.com/item?id=50405274) - [An ode to livelyness analysis; SSA to registers](https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/)
-* [2026-11-07, 03:29:39](https://news.ycombinator.com/item?id=50401369) - [Magnets and Rare Earths](https://robodienst.com/learning-paths/magnets-and-rare-earths)
 * [2026-11-05, 23:48:04](https://news.ycombinator.com/item?id=50386246) - [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
-* [2026-11-05, 19:01:11](https://news.ycombinator.com/item?id=50382974) - [An Aggregate Is a Function, Not a Sum](https://alnovis.io/blog/aggregate-is-a-function)
 
 ## [Archives](archives/index.md)
 
