@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
+* [2026-11-10, 14:12:59](https://news.ycombinator.com/item?id=50440668) - [The U.S. Is Driving Away Young Scientists](https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html)
 * [2026-11-10, 13:51:51](https://news.ycombinator.com/item?id=50440359) - [Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM](https://neuracryption.com/research)
 * [2026-11-10, 13:10:25](https://news.ycombinator.com/item?id=50439805) - [Don't buy AR glasses](https://blog.yaros.ae/dont-buy-ar-glasses/)
 * [2026-11-10, 12:58:04](https://news.ycombinator.com/item?id=50439695) - [Ableton Live 13](https://www.ableton.com/en/live/)
