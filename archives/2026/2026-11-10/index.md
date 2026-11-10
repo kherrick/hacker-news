@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
 * [2026-11-10, 19:25:14](https://news.ycombinator.com/item?id=50445013) - [What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)
+* [2026-11-10, 19:14:38](https://news.ycombinator.com/item?id=50444850) - [Saltline: First-person shooter built by Fable 5.2](https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp)
 * [2026-11-10, 19:03:54](https://news.ycombinator.com/item?id=50444684) - [A comprehensive study of how fingerprintable users are](https://fingerprinting.study/)
 * [2026-11-10, 18:22:32](https://news.ycombinator.com/item?id=50444129) - [Starlink Mini 2](https://starlink.com/mini-2)
 * [2026-11-10, 18:02:54](https://news.ycombinator.com/item?id=50443838) - [Work at the Frontier: AI's effect on freelance work](https://openai.com/index/ai-effect-on-freelance-work)
