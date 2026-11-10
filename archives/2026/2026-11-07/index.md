@@ -17,6 +17,7 @@
 * [2026-11-07, 18:12:12](https://news.ycombinator.com/item?id=50406670) - [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
 * [2026-11-07, 18:02:17](https://news.ycombinator.com/item?id=50406563) - [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)
 * [2026-11-07, 17:54:56](https://news.ycombinator.com/item?id=50406502) - [GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)](https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor)
+* [2026-11-07, 17:52:16](https://news.ycombinator.com/item?id=50406482) - [China drafts lifetime ID codes for every robot it makes, not just humanoids](https://asia-tech-news.ghost.io/china-drafts-lifetime-id-codes-for-every-robot-it-makes-not-just-humanoids/)
 * [2026-11-07, 17:34:07](https://news.ycombinator.com/item?id=50406348) - [Isn't It Time for AVIF Everywhere?](https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html)
 * [2026-11-07, 17:30:49](https://news.ycombinator.com/item?id=50406319) - [Five memorable books about programming (2008)](https://prog21.dadgum.com/19.html)
 * [2026-11-07, 17:27:30](https://news.ycombinator.com/item?id=50406292) - [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
