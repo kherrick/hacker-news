@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-10, 00:07:17](https://news.ycombinator.com/item?id=50434264) - [Horible Public Key Tricks](https://maurycyz.com/projects/badcert/)
 * [2026-11-09, 23:08:13](https://news.ycombinator.com/item?id=50433659) - [Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
 * [2026-11-09, 22:59:13](https://news.ycombinator.com/item?id=50433541) - [Exact – a new cross platform UI framework by the Expo team](https://github.com/expo/exact)
 * [2026-11-09, 22:19:12](https://news.ycombinator.com/item?id=50433079) - [A year after the 100% AI mandate nobody understands our code](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)
@@ -12,7 +13,6 @@
 * [2026-11-09, 18:50:56](https://news.ycombinator.com/item?id=50429812) - [Show HN: Someone Was Here – Find out who used your Mac while you were away](https://someonewashere.app/)
 * [2026-11-09, 18:45:43](https://news.ycombinator.com/item?id=50429734) - [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/)
 * [2026-11-09, 18:39:22](https://news.ycombinator.com/item?id=50429636) - [Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)
-* [2026-11-09, 18:33:58](https://news.ycombinator.com/item?id=50429545) - [DeepX claims inference up to 100B parameters at less than 5 W](https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/)
 * [2026-11-09, 18:25:01](https://news.ycombinator.com/item?id=50429430) - [Infineon marks innovation milestone with 300mm power silicon carbide wafer](https://www.infineon.com/press-release/2026/infpr202611-028)
 * [2026-11-09, 18:24:38](https://news.ycombinator.com/item?id=50429426) - [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
 * [2026-11-09, 18:05:44](https://news.ycombinator.com/item?id=50429144) - [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer)
@@ -25,7 +25,7 @@
 * [2026-11-09, 11:31:05](https://news.ycombinator.com/item?id=50424157) - [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
 * [2026-11-09, 07:04:25](https://news.ycombinator.com/item?id=50422069) - [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
 * [2026-11-08, 08:52:33](https://news.ycombinator.com/item?id=50411515) - [Deuterium's Impact on OLED Displays (2024)](https://www.oled-info.com/deuteriums-impact-oled-displays)
-* [2026-11-08, 00:38:37](https://news.ycombinator.com/item?id=50409444) - [A renowned scientist, a deadly snakebite, and a diary that documented it all](https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/)
+* [2026-11-08, 00:38:37](https://news.ycombinator.com/item?id=50409444) - [A renowned scientist, a deadly snakebite, and a diary that documented it (2025)](https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/)
 * [2026-11-07, 15:17:31](https://news.ycombinator.com/item?id=50405274) - [An ode to livelyness analysis; SSA to registers](https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/)
 * [2026-11-07, 03:29:39](https://news.ycombinator.com/item?id=50401369) - [Magnets and Rare Earths](https://robodienst.com/learning-paths/magnets-and-rare-earths)
 * [2026-11-06, 15:59:12](https://news.ycombinator.com/item?id=50394017) - [Possible 19th-century castaway camp found on Isla de los Estados](https://phys.org/news/2026-11-archaeologists-uncover-19th-century-castaway.html)
