@@ -4,7 +4,6 @@
 * [2026-11-10, 16:07:15](https://news.ycombinator.com/item?id=50442303) - [Gemini 4 Carbon is now available](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
 * [2026-11-10, 16:01:27](https://news.ycombinator.com/item?id=50442225) - [.NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)
 * [2026-11-10, 15:59:34](https://news.ycombinator.com/item?id=50442202) - [Palantir hires a former Democratic senator as it faces scrutiny in new Congress](https://text.npr.org/nx-s1-6029641)
-* [2026-11-10, 15:25:20](https://news.ycombinator.com/item?id=50441707) - [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
 * [2026-11-10, 15:12:16](https://news.ycombinator.com/item?id=50441518) - [Show HN: Valencia, Spain in Sim City/Isometric View](https://tinyvalencia.com/)
 * [2026-11-10, 15:00:39](https://news.ycombinator.com/item?id=50441338) - [The Hardest Tarball?](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
 * [2026-11-10, 14:41:36](https://news.ycombinator.com/item?id=50441074) - [The Death Knell of Digital Search](https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search)
@@ -28,6 +27,7 @@
 * [2026-11-08, 12:07:17](https://news.ycombinator.com/item?id=50412554) - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
 * [2026-11-08, 11:25:24](https://news.ycombinator.com/item?id=50412324) - [PHP2Shell Deep Dive](https://djad04.github.io/php2shell-deep-dive/)
 * [2026-11-08, 04:07:21](https://news.ycombinator.com/item?id=50410329) - [Simon Winchester, Author of 'The Professor and the Madman,' Has Died](https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html)
+* [2026-11-07, 21:45:50](https://news.ycombinator.com/item?id=50408336) - [Billion Watts in the Speaker [video]](https://www.youtube.com/watch?v=PHOcTXYaMfg)
 * [2026-11-06, 14:31:22](https://news.ycombinator.com/item?id=50392733) - [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
 * [2026-11-06, 14:15:36](https://news.ycombinator.com/item?id=50392528) - [Building an Order RISC-V CPU from scratch](https://prawns.dev/blogs/specula)
 
