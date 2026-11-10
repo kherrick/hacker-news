@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-10, 00:07:17](https://news.ycombinator.com/item?id=50434264) - [Horible Public Key Tricks](https://maurycyz.com/projects/badcert/)
+* [2026-11-10, 00:07:17](https://news.ycombinator.com/item?id=50434264) - [Horible public key tricks](https://maurycyz.com/projects/badcert/)
 * [2026-11-09, 23:08:13](https://news.ycombinator.com/item?id=50433659) - [Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
 * [2026-11-09, 22:59:13](https://news.ycombinator.com/item?id=50433541) - [Exact – a new cross platform UI framework by the Expo team](https://github.com/expo/exact)
 * [2026-11-09, 22:19:12](https://news.ycombinator.com/item?id=50433079) - [A year after the 100% AI mandate nobody understands our code](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)
