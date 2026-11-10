@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-10, 06:14:51",
+      "https://news.ycombinator.com/item?id=50436706"
+    ],
+    [
+      "ClickHouse Acquires Xata",
+      "https://xata.io/blog/xata-is-joining-clickhouse"
+    ]
+  ],
+  [
+    [
       "2026-11-10, 06:01:08",
       "https://news.ycombinator.com/item?id=50436640"
     ],
@@ -277,16 +287,6 @@
     [
       "A failed experiment in laptop cooling",
       "https://kevinboone.me/failed_cooling.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-07, 15:17:31",
-      "https://news.ycombinator.com/item?id=50405274"
-    ],
-    [
-      "An ode to livelyness analysis; SSA to registers",
-      "https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/"
     ]
   ],
   [
