@@ -6,6 +6,7 @@
 
 * [2026-11-10, 16:07:15](https://news.ycombinator.com/item?id=50442303) - [Gemini 4 Carbon is now available](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
 * [2026-11-10, 16:01:27](https://news.ycombinator.com/item?id=50442225) - [.NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)
+* [2026-11-10, 15:59:34](https://news.ycombinator.com/item?id=50442202) - [Palantir hires a former Democratic senator as it faces scrutiny in new Congress](https://text.npr.org/nx-s1-6029641)
 * [2026-11-10, 15:25:20](https://news.ycombinator.com/item?id=50441707) - [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
 * [2026-11-10, 15:00:39](https://news.ycombinator.com/item?id=50441338) - [The Hardest Tarball?](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
 * [2026-11-10, 14:41:36](https://news.ycombinator.com/item?id=50441074) - [The Death Knell of Digital Search](https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search)
