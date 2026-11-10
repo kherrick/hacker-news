@@ -20,6 +20,7 @@
 * [2026-11-05, 19:08:22](https://news.ycombinator.com/item?id=50383057) - [The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/)
 * [2026-11-05, 19:01:11](https://news.ycombinator.com/item?id=50382974) - [An Aggregate Is a Function, Not a Sum](https://alnovis.io/blog/aggregate-is-a-function)
 * [2026-11-05, 18:59:37](https://news.ycombinator.com/item?id=50382958) - [Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)](https://www.laphamsquarterly.org/roundtable/zero-hour)
+* [2026-11-05, 18:17:51](https://news.ycombinator.com/item?id=50382401) - [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 * [2026-11-05, 17:17:42](https://news.ycombinator.com/item?id=50381687) - [Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](https://github.com/rivet-dev/rivet)
 * [2026-11-05, 17:11:15](https://news.ycombinator.com/item?id=50381623) - [Nasdaq plummets 4% into correction territory](https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html)
 * [2026-11-05, 17:01:23](https://news.ycombinator.com/item?id=50381512) - [Bild AI (YC W25) Is Hiring Founding Product Engineers](https://www.ycombinator.com/companies/bild-ai/jobs)
