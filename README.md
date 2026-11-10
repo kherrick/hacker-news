@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-10, 12:11:12](https://news.ycombinator.com/item?id=50439193) - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
+* [2026-11-10, 11:51:19](https://news.ycombinator.com/item?id=50439000) - [Show HN: A 15 MB self-hosted Netflix and Spotify for your media server](https://github.com/HolyArrs/HolyArrs)
 * [2026-11-10, 10:47:18](https://news.ycombinator.com/item?id=50438480) - [What Constant Surveillance Is Doing to Children](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)
 * [2026-11-10, 10:32:36](https://news.ycombinator.com/item?id=50438377) - ['C:\\> FORMAT C:' – relax, it's just a screen saver](https://fakedos.com/)
-* [2026-11-10, 10:25:58](https://news.ycombinator.com/item?id=50438318) - [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
 * [2026-11-10, 09:04:39](https://news.ycombinator.com/item?id=50437790) - [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)
 * [2026-11-10, 08:59:41](https://news.ycombinator.com/item?id=50437752) - [Fossil CO2 emissions decrease by 0.4% in 2026](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/)
 * [2026-11-10, 07:19:38](https://news.ycombinator.com/item?id=50437106) - [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
