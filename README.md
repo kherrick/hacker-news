@@ -12,6 +12,7 @@
 * [2026-11-10, 00:10:46](https://news.ycombinator.com/item?id=50434310) - [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
 * [2026-11-10, 00:07:17](https://news.ycombinator.com/item?id=50434264) - [Horible public key tricks](https://maurycyz.com/projects/badcert/)
 * [2026-11-09, 23:08:13](https://news.ycombinator.com/item?id=50433659) - [Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
+* [2026-11-09, 20:04:55](https://news.ycombinator.com/item?id=50431144) - [Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far](https://artificialanalysis.ai/models/claude-fable-5-2)
 * [2026-11-09, 19:58:59](https://news.ycombinator.com/item?id=50431058) - [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
 * [2026-11-09, 18:45:43](https://news.ycombinator.com/item?id=50429734) - [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/)
 * [2026-11-09, 18:39:22](https://news.ycombinator.com/item?id=50429636) - [Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)
@@ -27,7 +28,6 @@
 * [2026-11-08, 07:15:32](https://news.ycombinator.com/item?id=50411106) - [Never Gonna Print You Up](https://dixken.de/blog/never-gonna-print-you-up)
 * [2026-11-07, 21:45:50](https://news.ycombinator.com/item?id=50408336) - [Billion Watts in the Speaker [video]](https://www.youtube.com/watch?v=PHOcTXYaMfg)
 * [2026-11-07, 17:34:07](https://news.ycombinator.com/item?id=50406348) - [Time for AVIF everywhere?](https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html)
-* [2026-11-07, 15:57:29](https://news.ycombinator.com/item?id=50405611) - [A failed experiment in laptop cooling](https://kevinboone.me/failed_cooling.html)
 * [2026-11-06, 14:31:22](https://news.ycombinator.com/item?id=50392733) - [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
 * [2026-11-05, 23:48:04](https://news.ycombinator.com/item?id=50386246) - [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
 
