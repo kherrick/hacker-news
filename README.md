@@ -26,9 +26,9 @@
 * [2026-11-09, 14:31:39](https://news.ycombinator.com/item?id=50426175) - [Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)
 * [2026-11-09, 12:19:22](https://news.ycombinator.com/item?id=50424581) - [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com)
 * [2026-11-08, 07:15:32](https://news.ycombinator.com/item?id=50411106) - [Never Gonna Print You Up](https://dixken.de/blog/never-gonna-print-you-up)
-* [2026-11-07, 17:52:16](https://news.ycombinator.com/item?id=50406482) - [China drafts lifetime ID codes for every robot it makes, not just humanoids](https://asia-tech-news.ghost.io/china-drafts-lifetime-id-codes-for-every-robot-it-makes-not-just-humanoids/)
 * [2026-11-07, 17:34:07](https://news.ycombinator.com/item?id=50406348) - [Time for AVIF everywhere?](https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html)
 * [2026-11-07, 15:57:29](https://news.ycombinator.com/item?id=50405611) - [A failed experiment in laptop cooling](https://kevinboone.me/failed_cooling.html)
+* [2026-11-06, 14:31:22](https://news.ycombinator.com/item?id=50392733) - [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
 * [2026-11-05, 23:48:04](https://news.ycombinator.com/item?id=50386246) - [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
 
 ## [Archives](archives/index.md)
