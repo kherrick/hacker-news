@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
+* [2026-11-10, 03:59:39](https://news.ycombinator.com/item?id=50435898) - [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
 * [2026-11-10, 03:20:06](https://news.ycombinator.com/item?id=50435660) - [CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)
 * [2026-11-10, 01:56:48](https://news.ycombinator.com/item?id=50435105) - [Formalizing CPython](https://broyojo.com/python-formalization/)
 * [2026-11-10, 00:10:46](https://news.ycombinator.com/item?id=50434310) - [Locating the Source of a Mysterious Beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
