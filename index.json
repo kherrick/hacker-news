@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-10, 16:34:45",
+      "https://news.ycombinator.com/item?id=50442691"
+    ],
+    [
+      "Tailscale's DNS IPv6 spells out \"Tailscale\"",
+      "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/"
+    ]
+  ],
+  [
+    [
       "2026-11-10, 16:15:43",
       "https://news.ycombinator.com/item?id=50442426"
     ],
@@ -37,6 +47,16 @@
     [
       "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
       "https://text.npr.org/nx-s1-6029641"
+    ]
+  ],
+  [
+    [
+      "2026-11-10, 15:25:20",
+      "https://news.ycombinator.com/item?id=50441707"
+    ],
+    [
+      "Smart home devices should work without the internet",
+      "https://docodethatmatters.com/home-automation-overnight-success/"
     ]
   ],
   [
@@ -87,26 +107,6 @@
     [
       "AlphaProof Code",
       "https://deepmind.google/blog/introducing-alphaproof-code/"
-    ]
-  ],
-  [
-    [
-      "2026-11-10, 11:51:19",
-      "https://news.ycombinator.com/item?id=50439000"
-    ],
-    [
-      "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
-      "https://github.com/HolyArrs/HolyArrs"
-    ]
-  ],
-  [
-    [
-      "2026-11-10, 10:32:36",
-      "https://news.ycombinator.com/item?id=50438377"
-    ],
-    [
-      "'C:\\> FORMAT C:' – relax, it's just a screen saver",
-      "https://fakedos.com/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=50392528"
     ],
     [
-      "Building an Order RISC-V CPU from scratch",
+      "Building an OOO RISC-V CPU from scratch",
       "https://prawns.dev/blogs/specula"
     ]
   ]
