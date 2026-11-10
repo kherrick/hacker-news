@@ -3,7 +3,7 @@
 * [2026-11-10, 14:12:59](https://news.ycombinator.com/item?id=50440668) - [The U.S. Is Driving Away Young Scientists](https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html)
 * [2026-11-10, 13:10:25](https://news.ycombinator.com/item?id=50439805) - [Don't buy AR glasses](https://blog.yaros.ae/dont-buy-ar-glasses/)
 * [2026-11-10, 12:58:04](https://news.ycombinator.com/item?id=50439695) - [Ableton Live 13](https://www.ableton.com/en/live/)
-* [2026-11-10, 12:35:27](https://news.ycombinator.com/item?id=50439448) - [Let over Lambda–50 Years of Lisp](https://letoverlambda.com/)
+* [2026-11-10, 12:35:27](https://news.ycombinator.com/item?id=50439448) - [Let over Lambda–50 Years of Lisp (2008)](https://letoverlambda.com/)
 * [2026-11-10, 12:20:07](https://news.ycombinator.com/item?id=50439284) - [What's new in the .NET 11 runtime](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime)
 * [2026-11-10, 12:11:12](https://news.ycombinator.com/item?id=50439193) - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
 * [2026-11-10, 11:51:19](https://news.ycombinator.com/item?id=50439000) - [Show HN: A 15 MB self-hosted Netflix and Spotify for your media server](https://github.com/HolyArrs/HolyArrs)
