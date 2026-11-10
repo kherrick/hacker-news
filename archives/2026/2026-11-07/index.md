@@ -22,6 +22,7 @@
 * [2026-11-07, 17:34:07](https://news.ycombinator.com/item?id=50406348) - [Isn't It Time for AVIF Everywhere?](https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html)
 * [2026-11-07, 17:30:49](https://news.ycombinator.com/item?id=50406319) - [Five memorable books about programming (2008)](https://prog21.dadgum.com/19.html)
 * [2026-11-07, 17:27:30](https://news.ycombinator.com/item?id=50406292) - [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
+* [2026-11-07, 17:19:02](https://news.ycombinator.com/item?id=50406224) - [Hacking the meta ray-ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
 * [2026-11-07, 17:19:00](https://news.ycombinator.com/item?id=50406222) - [MaxxBench – \"Nice DeepSWE score. But is it true?\"](https://maxxbench.unlap.ai/research/why-maxxbench/)
 * [2026-11-07, 17:06:36](https://news.ycombinator.com/item?id=50406111) - [Apple Keyboard has a blacklist of phrases you can't swipe](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
 * [2026-11-07, 17:06:18](https://news.ycombinator.com/item?id=50406107) - [Psalm 7 release: PHP security&static analysis software](https://psalm.dev/articles/psalm-7)
