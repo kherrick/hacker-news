@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=50431144"
     ],
     [
-      "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "Claude Fable 5.2 scores 65 on artificial analysis, highest so far",
       "https://artificialanalysis.ai/models/claude-fable-5-2"
     ]
   ],
@@ -87,16 +87,6 @@
     [
       "CUI – Native UI components for C",
       "https://yappologistic.github.io/CUI/"
-    ]
-  ],
-  [
-    [
-      "2026-11-09, 18:56:29",
-      "https://news.ycombinator.com/item?id=50429906"
-    ],
-    [
-      "Claude Fable 5.2 and Mythos 5.2",
-      "https://www.anthropic.com/claude-fable-and-mythos-5-2"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
       "https://github.com/Dodaios/ste80-humanizer"
+    ]
+  ],
+  [
+    [
+      "2026-11-09, 18:01:10",
+      "https://news.ycombinator.com/item?id=50429068"
+    ],
+    [
+      "Claude Fable 5.2 and Mythos 5.2",
+      "https://www.anthropic.com/claude-fable-and-mythos-5-2"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-11-09, 07:04:25",
-      "https://news.ycombinator.com/item?id=50422069"
-    ],
-    [
-      "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-      "https://twitter.com/shanemelaugh/status/2119192075505893695"
-    ]
-  ],
-  [
-    [
       "2026-11-08, 08:52:33",
       "https://news.ycombinator.com/item?id=50411515"
     ],
@@ -297,6 +287,16 @@
     [
       "A primer on GPUs and kernel optimization",
       "https://www.nabo.dev/blogs/kernel-primer"
+    ]
+  ],
+  [
+    [
+      "2026-11-05, 19:01:11",
+      "https://news.ycombinator.com/item?id=50382974"
+    ],
+    [
+      "An Aggregate Is a Function, Not a Sum",
+      "https://alnovis.io/blog/aggregate-is-a-function"
     ]
   ]
 ]
