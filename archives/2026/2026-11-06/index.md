@@ -40,6 +40,7 @@
 * [2026-11-06, 14:58:33](https://news.ycombinator.com/item?id=50393105) - [Ask HN: What in the world is taking Ubuntu so long?](https://news.ycombinator.com/item?id=50393105)
 * [2026-11-06, 14:57:16](https://news.ycombinator.com/item?id=50393089) - [Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)](https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/)
 * [2026-11-06, 14:31:22](https://news.ycombinator.com/item?id=50392733) - [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
+* [2026-11-06, 14:15:36](https://news.ycombinator.com/item?id=50392528) - [Building an Order RISC-V CPU from scratch](https://prawns.dev/blogs/specula)
 * [2026-11-06, 14:13:09](https://news.ycombinator.com/item?id=50392499) - [University libraries are being swarmed by AI bots, putting public access at risk](https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287)
 * [2026-11-06, 13:57:20](https://news.ycombinator.com/item?id=50392348) - [How octopuses squeeze through too small gaps](https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps)
 * [2026-11-06, 13:48:35](https://news.ycombinator.com/item?id=50392256) - [Nvidia was in 1 in 11 startup rounds over $100M last year](https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/)
