@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
 * [2026-11-10, 21:42:50](https://news.ycombinator.com/item?id=50446714) - [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)
+* [2026-11-10, 21:25:03](https://news.ycombinator.com/item?id=50446520) - [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
 * [2026-11-10, 20:58:44](https://news.ycombinator.com/item?id=50446246) - [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html)
 * [2026-11-10, 20:56:16](https://news.ycombinator.com/item?id=50446219) - [Sherman Anti-Trust Act (1890](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
 * [2026-11-10, 19:50:46](https://news.ycombinator.com/item?id=50445401) - [Toyota brand Scion is back and it's going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)

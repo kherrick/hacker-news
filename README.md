@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-10, 21:42:50](https://news.ycombinator.com/item?id=50446714) - [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)
+* [2026-11-10, 21:25:03](https://news.ycombinator.com/item?id=50446520) - [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
 * [2026-11-10, 20:58:44](https://news.ycombinator.com/item?id=50446246) - [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html)
 * [2026-11-10, 20:56:16](https://news.ycombinator.com/item?id=50446219) - [Sherman Anti-Trust Act (1890](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
 * [2026-11-10, 19:50:46](https://news.ycombinator.com/item?id=50445401) - [Toyota brand Scion is back and it's going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
@@ -17,7 +18,6 @@
 * [2026-11-10, 16:15:43](https://news.ycombinator.com/item?id=50442426) - [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
 * [2026-11-10, 15:25:20](https://news.ycombinator.com/item?id=50441707) - [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
 * [2026-11-10, 15:12:16](https://news.ycombinator.com/item?id=50441518) - [Show HN: Valencia, Spain in Sim City/Isometric View](https://tinyvalencia.com/)
-* [2026-11-10, 15:00:39](https://news.ycombinator.com/item?id=50441338) - [The Hardest Tarball?](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
 * [2026-11-10, 12:58:04](https://news.ycombinator.com/item?id=50439695) - [Ableton Live 13](https://www.ableton.com/en/live/)
 * [2026-11-10, 12:20:07](https://news.ycombinator.com/item?id=50439284) - [What's new in the .NET 11 runtime](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime)
 * [2026-11-10, 12:11:12](https://news.ycombinator.com/item?id=50439193) - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
@@ -26,8 +26,8 @@
 * [2026-11-10, 09:04:39](https://news.ycombinator.com/item?id=50437790) - [Queens Public Library under ransomware attack](https://connect.queenslibrary.org/)
 * [2026-11-10, 07:40:52](https://news.ycombinator.com/item?id=50437242) - [M John Harrison becomes first science fiction author to win the Booker](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
 * [2026-11-09, 22:30:41](https://news.ycombinator.com/item?id=50433216) - [Process Explorer for macOS](https://github.com/microsoft/Procexp-Mac)
-* [2026-11-09, 14:40:42](https://news.ycombinator.com/item?id=50426294) - [Taking another shot at the cheap IP camera, part 2](https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/)
 * [2026-11-08, 12:07:17](https://news.ycombinator.com/item?id=50412554) - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
+* [2026-11-08, 11:04:04](https://news.ycombinator.com/item?id=50412209) - [Stable URLs for 42,000 Huts and Peaks](https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html)
 * [2026-11-07, 14:42:49](https://news.ycombinator.com/item?id=50404969) - [The planet Vulcan: a cautionary tale](https://kevinboone.me/vulcan.html)
 * [2026-11-05, 18:17:51](https://news.ycombinator.com/item?id=50382401) - [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 

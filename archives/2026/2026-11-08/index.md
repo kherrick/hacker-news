@@ -36,6 +36,7 @@
 * [2026-11-08, 12:07:17](https://news.ycombinator.com/item?id=50412554) - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
 * [2026-11-08, 11:25:24](https://news.ycombinator.com/item?id=50412324) - [PHP2Shell Deep Dive](https://djad04.github.io/php2shell-deep-dive/)
 * [2026-11-08, 11:23:28](https://news.ycombinator.com/item?id=50412318) - [Person of Interest](https://krthr.co/person-of-interest/)
+* [2026-11-08, 11:04:04](https://news.ycombinator.com/item?id=50412209) - [Stable URLs for 42,000 Huts and Peaks](https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html)
 * [2026-11-08, 10:56:43](https://news.ycombinator.com/item?id=50412152) - [Petered (what happens after the Peter Principle)](https://aworkinglibrary.com/writing/petered)
 * [2026-11-08, 10:42:15](https://news.ycombinator.com/item?id=50412072) - [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
 * [2026-11-08, 10:41:52](https://news.ycombinator.com/item?id=50412067) - [Writing as a Thinking Tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
