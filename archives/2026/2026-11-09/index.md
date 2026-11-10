@@ -61,6 +61,7 @@
 * [2026-11-09, 11:36:55](https://news.ycombinator.com/item?id=50424199) - [Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here](https://github.com/samir-sarwar/samir-vllm)
 * [2026-11-09, 11:31:05](https://news.ycombinator.com/item?id=50424157) - [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
 * [2026-11-09, 11:30:27](https://news.ycombinator.com/item?id=50424147) - [Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering](https://zenodo.org/records/23682548)
+* [2026-11-09, 10:23:30](https://news.ycombinator.com/item?id=50423664) - [Variable-width Bézier curves (2025)](https://luthert.web.illinois.edu/blog/posts/775.html)
 * [2026-11-09, 10:23:02](https://news.ycombinator.com/item?id=50423662) - [Electric cars are about to overtake petrol in the UK, data shows](https://electrek.co/2026/11/05/uk-ev-sales-october-2026-electric-cars-overtake-petrol/)
 * [2026-11-09, 10:11:47](https://news.ycombinator.com/item?id=50423569) - [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
 * [2026-11-09, 09:50:03](https://news.ycombinator.com/item?id=50423371) - [Ask HN: Do you still enjoy coding in C++?](https://news.ycombinator.com/item?id=50423371)
