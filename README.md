@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-10, 20:58:44](https://news.ycombinator.com/item?id=50446246) - [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html)
+* [2026-11-10, 20:56:16](https://news.ycombinator.com/item?id=50446219) - [Sherman Anti-Trust Act (1890](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
 * [2026-11-10, 19:25:14](https://news.ycombinator.com/item?id=50445013) - [What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)
-* [2026-11-10, 19:14:38](https://news.ycombinator.com/item?id=50444850) - [Saltline: First-person shooter built by Fable 5.2](https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp)
 * [2026-11-10, 19:03:54](https://news.ycombinator.com/item?id=50444684) - [A comprehensive study of how fingerprintable users are](https://fingerprinting.study/)
 * [2026-11-10, 18:22:32](https://news.ycombinator.com/item?id=50444129) - [Starlink Mini 2](https://starlink.com/mini-2)
 * [2026-11-10, 18:02:02](https://news.ycombinator.com/item?id=50443824) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
@@ -26,7 +27,6 @@
 * [2026-11-10, 06:01:08](https://news.ycombinator.com/item?id=50436640) - [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
 * [2026-11-09, 22:30:41](https://news.ycombinator.com/item?id=50433216) - [Process Explorer for macOS](https://github.com/microsoft/Procexp-Mac)
 * [2026-11-09, 14:40:42](https://news.ycombinator.com/item?id=50426294) - [Taking another shot at the cheap IP camera, part 2](https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/)
-* [2026-11-09, 10:23:30](https://news.ycombinator.com/item?id=50423664) - [Variable-width Bézier curves (2025)](https://luthert.web.illinois.edu/blog/posts/775.html)
 * [2026-11-08, 12:07:17](https://news.ycombinator.com/item?id=50412554) - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
 * [2026-11-07, 14:42:49](https://news.ycombinator.com/item?id=50404969) - [The planet Vulcan: a cautionary tale](https://kevinboone.me/vulcan.html)
 * [2026-11-05, 18:17:51](https://news.ycombinator.com/item?id=50382401) - [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
