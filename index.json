@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-10, 17:02:32",
+      "https://news.ycombinator.com/item?id=50443090"
+    ],
+    [
+      "AMD's Zen 6 Family: Feeding the Beast",
+      "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast"
+    ]
+  ],
+  [
+    [
       "2026-11-10, 16:37:44",
       "https://news.ycombinator.com/item?id=50442736"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-11-09, 16:00:45",
-      "https://news.ycombinator.com/item?id=50427362"
-    ],
-    [
-      "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
-    ]
-  ],
-  [
-    [
       "2026-11-09, 14:40:42",
       "https://news.ycombinator.com/item?id=50426294"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-11-06, 14:31:22",
-      "https://news.ycombinator.com/item?id=50392733"
+      "2026-11-05, 18:17:51",
+      "https://news.ycombinator.com/item?id=50382401"
     ],
     [
-      "How hard is it to check for whitespace?",
-      "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace"
+      "I deleted all my SSH keys",
+      "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/"
     ]
   ]
 ]
