@@ -25,9 +25,9 @@
 * [2026-11-09, 11:31:05](https://news.ycombinator.com/item?id=50424157) - [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
 * [2026-11-09, 07:04:25](https://news.ycombinator.com/item?id=50422069) - [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
 * [2026-11-08, 08:52:33](https://news.ycombinator.com/item?id=50411515) - [Deuterium's Impact on OLED Displays (2024)](https://www.oled-info.com/deuteriums-impact-oled-displays)
+* [2026-11-08, 07:15:32](https://news.ycombinator.com/item?id=50411106) - [Never Gonna Print You Up](https://dixken.de/blog/never-gonna-print-you-up)
 * [2026-11-08, 00:38:37](https://news.ycombinator.com/item?id=50409444) - [A renowned scientist, a deadly snakebite, and a diary that documented it (2025)](https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/)
 * [2026-11-07, 15:17:31](https://news.ycombinator.com/item?id=50405274) - [An ode to livelyness analysis; SSA to registers](https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/)
-* [2026-11-07, 03:29:39](https://news.ycombinator.com/item?id=50401369) - [Magnets and Rare Earths](https://robodienst.com/learning-paths/magnets-and-rare-earths)
 * [2026-11-06, 15:59:12](https://news.ycombinator.com/item?id=50394017) - [Possible 19th-century castaway camp found on Isla de los Estados](https://phys.org/news/2026-11-archaeologists-uncover-19th-century-castaway.html)
 * [2026-11-05, 23:48:04](https://news.ycombinator.com/item?id=50386246) - [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
 
