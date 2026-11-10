@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-11-10, 16:07:15",
+      "https://news.ycombinator.com/item?id=50442303"
+    ],
+    [
+      "Gemini 4 Carbon is now available",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+    ]
+  ],
+  [
+    [
+      "2026-11-10, 16:01:27",
+      "https://news.ycombinator.com/item?id=50442225"
+    ],
+    [
+      ".NET 11",
+      "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/"
+    ]
+  ],
+  [
+    [
+      "2026-11-10, 15:25:20",
+      "https://news.ycombinator.com/item?id=50441707"
+    ],
+    [
+      "Smart home devices should work without the internet",
+      "https://docodethatmatters.com/home-automation-overnight-success/"
+    ]
+  ],
+  [
+    [
       "2026-11-10, 15:00:39",
       "https://news.ycombinator.com/item?id=50441338"
     ],
@@ -37,16 +67,6 @@
     [
       "Let over Lambda–50 Years of Lisp (2008)",
       "https://letoverlambda.com/"
-    ]
-  ],
-  [
-    [
-      "2026-11-10, 12:20:07",
-      "https://news.ycombinator.com/item?id=50439284"
-    ],
-    [
-      "What's new in the .NET 11 runtime",
-      "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-11-10, 06:14:51",
-      "https://news.ycombinator.com/item?id=50436706"
-    ],
-    [
-      "ClickHouse Acquires Xata",
-      "https://xata.io/blog/xata-is-joining-clickhouse"
-    ]
-  ],
-  [
-    [
       "2026-11-10, 06:01:08",
       "https://news.ycombinator.com/item?id=50436640"
     ],
@@ -127,16 +137,6 @@
     [
       "Your TV can see through walls (2025)",
       "https://maurycyz.com/projects/fading/"
-    ]
-  ],
-  [
-    [
-      "2026-11-10, 03:59:39",
-      "https://news.ycombinator.com/item?id=50435898"
-    ],
-    [
-      "Ultorg: The User Interface for Relational Databases",
-      "https://www.ultorg.com/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-11-09, 14:31:39",
-      "https://news.ycombinator.com/item?id=50426175"
-    ],
-    [
-      "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/"
-    ]
-  ],
-  [
-    [
       "2026-11-09, 12:19:22",
       "https://news.ycombinator.com/item?id=50424581"
     ],
@@ -257,6 +247,16 @@
     [
       "NetBSD 11 desktop on a Raspberry Pi 4",
       "https://neongd.com/articles/netbsd11-rpi4.gmi"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 11:25:24",
+      "https://news.ycombinator.com/item?id=50412324"
+    ],
+    [
+      "PHP2Shell Deep Dive",
+      "https://djad04.github.io/php2shell-deep-dive/"
     ]
   ],
   [
