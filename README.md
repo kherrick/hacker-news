@@ -26,10 +26,10 @@
 * [2026-11-09, 14:31:39](https://news.ycombinator.com/item?id=50426175) - [Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)
 * [2026-11-09, 12:19:22](https://news.ycombinator.com/item?id=50424581) - [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com)
 * [2026-11-08, 15:31:52](https://news.ycombinator.com/item?id=50414117) - [Show HN: Ghanaian street games you can play in the browser](https://www.ghanastreetgames.com/)
+* [2026-11-08, 12:07:17](https://news.ycombinator.com/item?id=50412554) - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
 * [2026-11-08, 04:07:21](https://news.ycombinator.com/item?id=50410329) - [Simon Winchester, Author of 'The Professor and the Madman,' Has Died](https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html)
 * [2026-11-07, 21:45:50](https://news.ycombinator.com/item?id=50408336) - [Billion Watts in the Speaker [video]](https://www.youtube.com/watch?v=PHOcTXYaMfg)
 * [2026-11-06, 14:31:22](https://news.ycombinator.com/item?id=50392733) - [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
-* [2026-11-05, 23:48:04](https://news.ycombinator.com/item?id=50386246) - [A primer on GPUs and kernel optimization](https://www.nabo.dev/blogs/kernel-primer)
 
 ## [Archives](archives/index.md)
 
