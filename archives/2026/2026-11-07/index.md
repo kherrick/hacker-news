@@ -24,6 +24,7 @@
 * [2026-11-07, 17:06:36](https://news.ycombinator.com/item?id=50406111) - [Apple Keyboard has a blacklist of phrases you can't swipe](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
 * [2026-11-07, 17:06:18](https://news.ycombinator.com/item?id=50406107) - [Psalm 7 release: PHP security&static analysis software](https://psalm.dev/articles/psalm-7)
 * [2026-11-07, 16:51:17](https://news.ycombinator.com/item?id=50405979) - [Burying the Evidence: nine out of every 10 time capsules go missing](https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/)
+* [2026-11-07, 16:44:04](https://news.ycombinator.com/item?id=50405922) - [They Can Barely Drive, They're Flying Planes: The Surprising Rise of Teen Pilots](https://www.wsj.com/business/airlines/they-can-barely-drive-but-theyre-flying-planes-the-surprising-rise-of-teen-pilots-28446f72)
 * [2026-11-07, 16:22:59](https://news.ycombinator.com/item?id=50405789) - [How Long Can Life Wait?](https://mceglowski.substack.com/p/how-long-can-life-wait)
 * [2026-11-07, 16:21:36](https://news.ycombinator.com/item?id=50405782) - [Every processor die anyone has photographed and given away](https://sheets.works/data-viz/cpu-dies)
 * [2026-11-07, 16:06:27](https://news.ycombinator.com/item?id=50405678) - [They don't make 'em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
