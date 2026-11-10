@@ -10,6 +10,7 @@
 * [2026-11-07, 22:38:58](https://news.ycombinator.com/item?id=50408713) - [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
 * [2026-11-07, 22:24:30](https://news.ycombinator.com/item?id=50408630) - [Are big problems more difficult to solve?](https://paulitaylor.com/2026/09/11/are-big-problems-really-more-difficult-to-solve/)
 * [2026-11-07, 21:47:47](https://news.ycombinator.com/item?id=50408350) - [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/)
+* [2026-11-07, 21:45:50](https://news.ycombinator.com/item?id=50408336) - [Billion Watts in the Speaker [video]](https://www.youtube.com/watch?v=PHOcTXYaMfg)
 * [2026-11-07, 21:28:57](https://news.ycombinator.com/item?id=50408235) - [The French Cake Cooked on a Spit (2018) [video]](https://www.youtube.com/watch?v=havcACdx0Y0)
 * [2026-11-07, 21:11:05](https://news.ycombinator.com/item?id=50408104) - [Shadow of the Sun](https://mattlakeman.org/2021/07/27/shadow-of-the-sun/)
 * [2026-11-07, 21:08:35](https://news.ycombinator.com/item?id=50408082) - [Show HN: Where Were We](https://wherewerewe.app/)
