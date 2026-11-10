@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-11-08, 12:07:17",
+      "https://news.ycombinator.com/item?id=50412554"
+    ],
+    [
+      "NetBSD 11 desktop on a Raspberry Pi 4",
+      "https://neongd.com/articles/netbsd11-rpi4.gmi"
+    ]
+  ],
+  [
+    [
       "2026-11-08, 04:07:21",
       "https://news.ycombinator.com/item?id=50410329"
     ],
@@ -287,16 +297,6 @@
     [
       "How hard is it to check for whitespace?",
       "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace"
-    ]
-  ],
-  [
-    [
-      "2026-11-05, 23:48:04",
-      "https://news.ycombinator.com/item?id=50386246"
-    ],
-    [
-      "A primer on GPUs and kernel optimization",
-      "https://www.nabo.dev/blogs/kernel-primer"
     ]
   ]
 ]
