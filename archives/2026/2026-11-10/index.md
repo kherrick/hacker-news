@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-10](index.md)
 
+* [2026-11-10, 10:40:51](https://news.ycombinator.com/item?id=50438429) - [Meet the Sad Wives of AI](https://www.wired.com/story/meet-the-sad-wives-of-ai/)
 * [2026-11-10, 09:04:39](https://news.ycombinator.com/item?id=50437790) - [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)
 * [2026-11-10, 07:40:52](https://news.ycombinator.com/item?id=50437242) - [M John Harrison becomes first science fiction author to win the Booker prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
 * [2026-11-10, 07:19:38](https://news.ycombinator.com/item?id=50437106) - [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)

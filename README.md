@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-10, 10:40:51](https://news.ycombinator.com/item?id=50438429) - [Meet the Sad Wives of AI](https://www.wired.com/story/meet-the-sad-wives-of-ai/)
 * [2026-11-10, 09:04:39](https://news.ycombinator.com/item?id=50437790) - [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)
 * [2026-11-10, 07:40:52](https://news.ycombinator.com/item?id=50437242) - [M John Harrison becomes first science fiction author to win the Booker prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
 * [2026-11-10, 07:19:38](https://news.ycombinator.com/item?id=50437106) - [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
-* [2026-11-10, 07:03:48](https://news.ycombinator.com/item?id=50437004) - [S.t.a.l.k.e.r. Call of Pripyat in WASM and WebGPU](https://stalker-online.xyz/)
 * [2026-11-10, 06:14:51](https://news.ycombinator.com/item?id=50436706) - [ClickHouse Acquires Xata](https://xata.io/blog/xata-is-joining-clickhouse)
 * [2026-11-10, 06:01:08](https://news.ycombinator.com/item?id=50436640) - [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
 * [2026-11-10, 05:24:45](https://news.ycombinator.com/item?id=50436410) - [Your TV can see through walls](https://maurycyz.com/projects/fading/)
