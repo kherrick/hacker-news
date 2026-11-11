@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-11, 11:17:06](https://news.ycombinator.com/item?id=50452074) - [The Zig project is going nowhere](https://bytecode.news/posts/2026/10/the-zig-project-is-going-nowhere)
+* [2026-11-11, 12:00:35](https://news.ycombinator.com/item?id=50452404) - [Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco](https://news.ycombinator.com/item?id=50452404)
+* [2026-11-11, 10:48:40](https://news.ycombinator.com/item?id=50451903) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
 * [2026-11-11, 05:25:54](https://news.ycombinator.com/item?id=50450007) - [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
 * [2026-11-11, 04:56:47](https://news.ycombinator.com/item?id=50449891) - [Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)
 * [2026-11-11, 04:28:57](https://news.ycombinator.com/item?id=50449748) - [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
@@ -19,7 +20,6 @@
 * [2026-11-10, 17:02:32](https://news.ycombinator.com/item?id=50443090) - [AMD's Zen 6 Family: Feeding the Beast](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast)
 * [2026-11-10, 16:37:44](https://news.ycombinator.com/item?id=50442736) - [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
 * [2026-11-10, 15:25:20](https://news.ycombinator.com/item?id=50441707) - [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
-* [2026-11-10, 12:58:04](https://news.ycombinator.com/item?id=50439695) - [Ableton Live 13](https://www.ableton.com/en/live/)
 * [2026-11-10, 12:11:12](https://news.ycombinator.com/item?id=50439193) - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
 * [2026-11-10, 10:25:58](https://news.ycombinator.com/item?id=50438318) - [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
 * [2026-11-09, 22:30:41](https://news.ycombinator.com/item?id=50433216) - [Process Explorer for macOS](https://github.com/microsoft/Procexp-Mac)
