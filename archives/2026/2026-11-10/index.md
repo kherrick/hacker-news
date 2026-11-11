@@ -52,6 +52,7 @@
 * [2026-11-10, 10:40:51](https://news.ycombinator.com/item?id=50438429) - [Meet the Sad Wives of AI](https://www.wired.com/story/meet-the-sad-wives-of-ai/)
 * [2026-11-10, 10:32:36](https://news.ycombinator.com/item?id=50438377) - ['C:\\> FORMAT C:' – relax, it's just a screen saver](https://fakedos.com/)
 * [2026-11-10, 10:25:58](https://news.ycombinator.com/item?id=50438318) - [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
+* [2026-11-10, 10:12:39](https://news.ycombinator.com/item?id=50438213) - [The Afterlife of the Berlin Wall](https://www.historytoday.com/miscellanies/afterlife-berlin-wall)
 * [2026-11-10, 09:04:39](https://news.ycombinator.com/item?id=50437790) - [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)
 * [2026-11-10, 08:59:41](https://news.ycombinator.com/item?id=50437752) - [Fossil CO2 emissions decrease by 0.4% in 2026](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/)
 * [2026-11-10, 07:40:52](https://news.ycombinator.com/item?id=50437242) - [M John Harrison becomes first science fiction author to win the Booker prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
