@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 17:11:56](https://news.ycombinator.com/item?id=50455811) - [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://news.ycombinator.com/item?id=50455811)
+* [2026-11-11, 16:57:45](https://news.ycombinator.com/item?id=50455633) - [Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)
 * [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
 * [2026-11-11, 16:35:38](https://news.ycombinator.com/item?id=50455358) - [Reddit Migration's Impact on Lemmy (2023)](https://www.jmis.org/archive/view_article?pid=jmis-10-4-333)
 * [2026-11-11, 16:33:28](https://news.ycombinator.com/item?id=50455332) - [Why aren't we shipping faster now?](https://cabird.com/talks/shipping-faster/)
@@ -11,6 +13,7 @@
 * [2026-11-11, 16:00:50](https://news.ycombinator.com/item?id=50454951) - [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)
 * [2026-11-11, 15:50:02](https://news.ycombinator.com/item?id=50454823) - [The Computer Graphics Book of Knowledge](https://www.cs.cmu.edu/~ph/nyit/masson/history.htm)
 * [2026-11-11, 15:33:06](https://news.ycombinator.com/item?id=50454625) - [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)
+* [2026-11-11, 15:12:55](https://news.ycombinator.com/item?id=50454395) - [100x Developers](https://jcarreras.es/posts/100x-developers/)
 * [2026-11-11, 14:21:27](https://news.ycombinator.com/item?id=50453763) - [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
 * [2026-11-11, 14:10:46](https://news.ycombinator.com/item?id=50453637) - [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
 * [2026-11-11, 14:02:11](https://news.ycombinator.com/item?id=50453555) - [Apple is killing its Support Community forum next week](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down)
