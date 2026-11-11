@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 18:28:31](https://news.ycombinator.com/item?id=50456740) - [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
 * [2026-11-11, 18:21:38](https://news.ycombinator.com/item?id=50456631) - [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)
 * [2026-11-11, 17:11:56](https://news.ycombinator.com/item?id=50455811) - [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://pomerado.ai/)
 * [2026-11-11, 17:11:56](https://news.ycombinator.com/item?id=50455811) - [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://news.ycombinator.com/item?id=50455811)
