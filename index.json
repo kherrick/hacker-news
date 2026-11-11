@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-11-10, 23:41:41",
+      "https://news.ycombinator.com/item?id=50447900"
+    ],
+    [
+      "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+      "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md"
+    ]
+  ],
+  [
+    [
       "2026-11-10, 22:17:56",
       "https://news.ycombinator.com/item?id=50447074"
     ],
     [
-      "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+      "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
       "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=50445401"
     ],
     [
-      "Toyota brand Scion is back and it's going to sell a kei truck in America",
+      "Scion is back and is going to sell a kei truck in America",
       "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
     ]
   ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-11-10, 09:04:39",
-      "https://news.ycombinator.com/item?id=50437790"
-    ],
-    [
-      "Queens Public Library under ransomware attack",
-      "https://connect.queenslibrary.org/"
-    ]
-  ],
-  [
-    [
       "2026-11-10, 07:40:52",
       "https://news.ycombinator.com/item?id=50437242"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-11-08, 12:07:17",
-      "https://news.ycombinator.com/item?id=50412554"
-    ],
-    [
-      "NetBSD 11 desktop on a Raspberry Pi 4",
-      "https://neongd.com/articles/netbsd11-rpi4.gmi"
-    ]
-  ],
-  [
-    [
       "2026-11-08, 11:04:04",
       "https://news.ycombinator.com/item?id=50412209"
     ],
     [
       "Stable URLs for 42,000 Huts and Peaks",
       "https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 05:13:25",
+      "https://news.ycombinator.com/item?id=50410587"
+    ],
+    [
+      "Pinot Noir: inside the criminal gangs making fake wine",
+      "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine"
     ]
   ],
   [
