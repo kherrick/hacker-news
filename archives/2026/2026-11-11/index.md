@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 08:51:45](https://news.ycombinator.com/item?id=50451102) - [OSS projects banning AI-generated contributions](https://osssaysno.com)
 * [2026-11-11, 05:25:54](https://news.ycombinator.com/item?id=50450007) - [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
 * [2026-11-11, 04:56:47](https://news.ycombinator.com/item?id=50449891) - [Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)
 * [2026-11-11, 04:28:57](https://news.ycombinator.com/item?id=50449748) - [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
