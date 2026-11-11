@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+* [2026-11-11, 16:05:18](https://news.ycombinator.com/item?id=50454995) - [The hardest notes to find on the guitar fretboard](https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard)
 * [2026-11-11, 14:21:27](https://news.ycombinator.com/item?id=50453763) - [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
 * [2026-11-11, 14:10:46](https://news.ycombinator.com/item?id=50453637) - [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
 * [2026-11-11, 14:02:11](https://news.ycombinator.com/item?id=50453555) - [Apple is killing its Support Community forum next week](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down)
@@ -26,9 +28,7 @@
 * [2026-11-10, 19:50:46](https://news.ycombinator.com/item?id=50445401) - [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
 * [2026-11-10, 18:22:32](https://news.ycombinator.com/item?id=50444129) - [Starlink Mini 2](https://starlink.com/mini-2)
 * [2026-11-10, 18:02:02](https://news.ycombinator.com/item?id=50443824) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
-* [2026-11-10, 04:10:36](https://news.ycombinator.com/item?id=50435962) - [Make this forward pass as fast as possible](https://ianbarber.blog/2026/11/09/make-this-forward-pass-as-fast-as-possible/)
 * [2026-11-10, 00:11:09](https://news.ycombinator.com/item?id=50434313) - [Welcome to Ed and Sam's great adventure](https://www.hintz.org/trip/)
-* [2026-11-09, 15:41:35](https://news.ycombinator.com/item?id=50427107) - [Why I wrote the BEAM book (2025)](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2026-11-08, 20:10:06](https://news.ycombinator.com/item?id=50416640) - [Peer-to-peer WebRTC connections with built-in signaling and discovery](https://github.com/lukks/like-webrtc)
 
 ## [Archives](archives/index.md)
