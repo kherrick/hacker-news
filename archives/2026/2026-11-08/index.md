@@ -29,6 +29,7 @@
 * [2026-11-08, 16:30:04](https://news.ycombinator.com/item?id=50414657) - [A Compendium of Abandoned Greenhouses](https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/)
 * [2026-11-08, 15:57:37](https://news.ycombinator.com/item?id=50414331) - [UK House of Lords to propose mandatory CSAM detection software on smartphones](https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign)
 * [2026-11-08, 15:31:52](https://news.ycombinator.com/item?id=50414117) - [Show HN: Ghanaian street games you can play in the browser](https://www.ghanastreetgames.com/)
+* [2026-11-08, 15:16:37](https://news.ycombinator.com/item?id=50414004) - [\"Jumping genes\" helped ants evolve after the extinction of the dinosaurs](https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08)
 * [2026-11-08, 15:12:07](https://news.ycombinator.com/item?id=50413970) - [Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals](https://github.com/sshah03/recalc)
 * [2026-11-08, 15:00:42](https://news.ycombinator.com/item?id=50413885) - [Drones built to look like birds evaded detection at Air Force tech exercise](https://taskandpurpose.com/news/drone-mimicking-bird-test/)
 * [2026-11-08, 14:42:38](https://news.ycombinator.com/item?id=50413769) - [I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/)

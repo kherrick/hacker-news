@@ -11,7 +11,6 @@
 * [2026-11-10, 21:25:03](https://news.ycombinator.com/item?id=50446520) - [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
 * [2026-11-10, 20:58:44](https://news.ycombinator.com/item?id=50446246) - [Six Math Essentials](https://teorth.github.io/tao-web/six-math-essentials.html)
 * [2026-11-10, 19:50:46](https://news.ycombinator.com/item?id=50445401) - [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
-* [2026-11-10, 19:25:14](https://news.ycombinator.com/item?id=50445013) - [What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)
 * [2026-11-10, 19:03:54](https://news.ycombinator.com/item?id=50444684) - [A comprehensive study of how fingerprintable users are](https://fingerprinting.study/)
 * [2026-11-10, 18:22:32](https://news.ycombinator.com/item?id=50444129) - [Starlink Mini 2](https://starlink.com/mini-2)
 * [2026-11-10, 18:02:02](https://news.ycombinator.com/item?id=50443824) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
@@ -29,6 +28,7 @@
 * [2026-11-09, 18:10:30](https://news.ycombinator.com/item?id=50429210) - [A ZIP-style Prolog VM for trilog](https://github.com/no382001/zipc)
 * [2026-11-09, 15:41:35](https://news.ycombinator.com/item?id=50427107) - [Why I wrote the BEAM book (2025)](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2026-11-08, 16:30:04](https://news.ycombinator.com/item?id=50414657) - [A Compendium of Abandoned Greenhouses](https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/)
+* [2026-11-08, 15:16:37](https://news.ycombinator.com/item?id=50414004) - [\"Jumping genes\" helped ants evolve after the extinction of the dinosaurs](https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08)
 * [2026-11-07, 17:19:02](https://news.ycombinator.com/item?id=50406224) - [Hacking the Meta Ray-Ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
 
 ## [Archives](archives/index.md)
