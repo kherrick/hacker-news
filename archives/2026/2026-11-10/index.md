@@ -60,6 +60,7 @@
 * [2026-11-10, 07:40:52](https://news.ycombinator.com/item?id=50437242) - [M John Harrison becomes first science fiction author to win the Booker prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
 * [2026-11-10, 07:19:38](https://news.ycombinator.com/item?id=50437106) - [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
 * [2026-11-10, 07:03:48](https://news.ycombinator.com/item?id=50437004) - [S.t.a.l.k.e.r. Call of Pripyat in WASM and WebGPU](https://stalker-online.xyz/)
+* [2026-11-10, 06:28:15](https://news.ycombinator.com/item?id=50436788) - [A C++ Quicksort Faster Than std:sort](https://tiki.li/blog/about_blqsort)
 * [2026-11-10, 06:14:51](https://news.ycombinator.com/item?id=50436706) - [ClickHouse Acquires Xata](https://xata.io/blog/xata-is-joining-clickhouse)
 * [2026-11-10, 06:01:08](https://news.ycombinator.com/item?id=50436640) - [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
 * [2026-11-10, 05:52:38](https://news.ycombinator.com/item?id=50436587) - [Mathematicians Are Like Luddites](https://alok.blog/luddite/)
