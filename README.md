@@ -2,6 +2,7 @@
 
 * [2026-11-10, 23:41:41](https://news.ycombinator.com/item?id=50447900) - [The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)](https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md)
 * [2026-11-10, 22:17:56](https://news.ycombinator.com/item?id=50447074) - [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
+* [2026-11-10, 22:14:03](https://news.ycombinator.com/item?id=50447036) - [$30M Raised to Redo the CPU](https://tendrils.co/blog/2026-11-10/30m-raised)
 * [2026-11-10, 21:42:50](https://news.ycombinator.com/item?id=50446714) - [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)
 * [2026-11-10, 21:25:03](https://news.ycombinator.com/item?id=50446520) - [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
 * [2026-11-10, 20:58:44](https://news.ycombinator.com/item?id=50446246) - [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html)
@@ -9,9 +10,9 @@
 * [2026-11-10, 19:50:46](https://news.ycombinator.com/item?id=50445401) - [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
 * [2026-11-10, 19:25:14](https://news.ycombinator.com/item?id=50445013) - [What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)
 * [2026-11-10, 19:03:54](https://news.ycombinator.com/item?id=50444684) - [A comprehensive study of how fingerprintable users are](https://fingerprinting.study/)
+* [2026-11-10, 18:22:32](https://news.ycombinator.com/item?id=50444129) - [Starlink Mini 2](https://starlink.com/mini-2)
 * [2026-11-10, 18:02:02](https://news.ycombinator.com/item?id=50443824) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
 * [2026-11-10, 18:01:15](https://news.ycombinator.com/item?id=50443812) - [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)
-* [2026-11-10, 17:55:07](https://news.ycombinator.com/item?id=50443716) - [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data)
 * [2026-11-10, 17:55:07](https://news.ycombinator.com/item?id=50443714) - [An Open Field Guide to Inference Engineering](https://docs.modelplane.ai/guides/inference-guide)
 * [2026-11-10, 17:31:14](https://news.ycombinator.com/item?id=50443427) - [Val Town is winding down](https://blog.val.town/winding-down)
 * [2026-11-10, 17:02:32](https://news.ycombinator.com/item?id=50443090) - [AMD's Zen 6 Family: Feeding the Beast](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast)
@@ -29,7 +30,6 @@
 * [2026-11-08, 11:04:04](https://news.ycombinator.com/item?id=50412209) - [Stable URLs for 42,000 Huts and Peaks](https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html)
 * [2026-11-08, 05:13:25](https://news.ycombinator.com/item?id=50410587) - [Pinot Noir: inside the criminal gangs making fake wine](https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine)
 * [2026-11-07, 17:19:02](https://news.ycombinator.com/item?id=50406224) - [Hacking the meta ray-ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
-* [2026-11-07, 14:42:49](https://news.ycombinator.com/item?id=50404969) - [The planet Vulcan: a cautionary tale](https://kevinboone.me/vulcan.html)
 
 ## [Archives](archives/index.md)
 
