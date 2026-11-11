@@ -26,6 +26,7 @@
 * [2026-11-08, 17:20:29](https://news.ycombinator.com/item?id=50415172) - [RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/)
 * [2026-11-08, 17:16:07](https://news.ycombinator.com/item?id=50415135) - [A Little Snitch for Windows](https://packethound.app/)
 * [2026-11-08, 17:09:55](https://news.ycombinator.com/item?id=50415078) - [A field guide to CAPTCHA types and how they break](https://github.com/vsmutok/FuckCaptcha)
+* [2026-11-08, 16:30:04](https://news.ycombinator.com/item?id=50414657) - [A Compendium of Abandoned Greenhouses](https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/)
 * [2026-11-08, 15:57:37](https://news.ycombinator.com/item?id=50414331) - [UK House of Lords to propose mandatory CSAM detection software on smartphones](https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign)
 * [2026-11-08, 15:31:52](https://news.ycombinator.com/item?id=50414117) - [Show HN: Ghanaian street games you can play in the browser](https://www.ghanastreetgames.com/)
 * [2026-11-08, 15:12:07](https://news.ycombinator.com/item?id=50413970) - [Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals](https://github.com/sshah03/recalc)
