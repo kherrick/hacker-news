@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-11-10, 14:49:46",
-      "https://news.ycombinator.com/item?id=50441181"
-    ],
-    [
-      "A Brain Teaser of an Obituary",
-      "https://www.nytimes.com/2026/11/10/obituaries/steve-selvin-dead.html"
-    ]
-  ],
-  [
-    [
       "2026-11-09, 15:44:59",
       "https://news.ycombinator.com/item?id=50427153"
     ],
@@ -297,6 +287,16 @@
     [
       "Peer-to-peer WebRTC connections with built-in signaling and discovery",
       "https://github.com/lukks/like-webrtc"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 13:40:08",
+      "https://news.ycombinator.com/item?id=50413266"
+    ],
+    [
+      "Show HN: Micron – Oberon with the Power of C",
+      "https://github.com/rochus-keller/Micron"
     ]
   ]
 ]
