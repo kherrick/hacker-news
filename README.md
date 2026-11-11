@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-11, 20:54:37](https://news.ycombinator.com/item?id=50458532) - [GitHub Incident with Webhooks, Actions, etc.](https://www.githubstatus.com/incidents/dvy0t3mvh1lg)
+* [2026-11-11, 20:45:50](https://news.ycombinator.com/item?id=50458434) - [Tools for exploring the souls of large language models](https://oshea00.github.io/posts/tinygpt-visualizer/)
 * [2026-11-11, 20:26:32](https://news.ycombinator.com/item?id=50458208) - [Emacs in the Age of Magic](https://commandlinesystems.com/magic.txt)
 * [2026-11-11, 20:23:57](https://news.ycombinator.com/item?id=50458166) - [Huawei releases MACaQ, its internal quantizer for local inference](https://github.com/huawei-csl/MACaQ)
 * [2026-11-11, 20:05:29](https://news.ycombinator.com/item?id=50457939) - [Why are we still working this hard?](https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/)
@@ -20,7 +21,6 @@
 * [2026-11-11, 14:21:27](https://news.ycombinator.com/item?id=50453763) - [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
 * [2026-11-11, 14:10:46](https://news.ycombinator.com/item?id=50453637) - [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
 * [2026-11-11, 13:39:29](https://news.ycombinator.com/item?id=50453288) - [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
-* [2026-11-11, 13:34:24](https://news.ycombinator.com/item?id=50453229) - [Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim)
 * [2026-11-11, 12:30:17](https://news.ycombinator.com/item?id=50452655) - [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
 * [2026-11-11, 12:29:48](https://news.ycombinator.com/item?id=50452652) - [We need more goat sacrifices](https://www.experimental-history.com/p/we-need-more-goat-sacrifices)
 * [2026-11-11, 12:05:22](https://news.ycombinator.com/item?id=50452455) - [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
@@ -28,8 +28,8 @@
 * [2026-11-11, 10:48:40](https://news.ycombinator.com/item?id=50451903) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
 * [2026-11-11, 07:03:17](https://news.ycombinator.com/item?id=50450488) - [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [2026-11-11, 03:26:51](https://news.ycombinator.com/item?id=50449440) - [The Apple Support Community will permanently close on November 20, 2026](https://discussions.apple.com/welcome)
-* [2026-11-10, 17:16:09](https://news.ycombinator.com/item?id=50443264) - [TimeNet: Open-source data infrastructure for Temporal Foundation Models](https://github.com/OpenTSLM/TimeNet)
 * [2026-11-10, 10:41:26](https://news.ycombinator.com/item?id=50438435) - [The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico](https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation)
+* [2026-11-09, 22:15:13](https://news.ycombinator.com/item?id=50433042) - [Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding](https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding)
 
 ## [Archives](archives/index.md)
 

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
 * [2026-11-11, 20:54:37](https://news.ycombinator.com/item?id=50458532) - [GitHub Incident with Webhooks, Actions, etc.](https://www.githubstatus.com/incidents/dvy0t3mvh1lg)
+* [2026-11-11, 20:45:50](https://news.ycombinator.com/item?id=50458434) - [Tools for exploring the souls of large language models](https://oshea00.github.io/posts/tinygpt-visualizer/)
 * [2026-11-11, 20:26:32](https://news.ycombinator.com/item?id=50458208) - [Emacs in the Age of Magic](https://commandlinesystems.com/magic.txt)
 * [2026-11-11, 20:23:57](https://news.ycombinator.com/item?id=50458166) - [Huawei releases MACaQ, its internal quantizer for local inference](https://github.com/huawei-csl/MACaQ)
 * [2026-11-11, 20:05:29](https://news.ycombinator.com/item?id=50457939) - [Why are we still working this hard?](https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/)

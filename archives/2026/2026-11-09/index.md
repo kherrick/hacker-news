@@ -12,6 +12,7 @@
 * [2026-11-09, 22:30:41](https://news.ycombinator.com/item?id=50433216) - [Process Explorer for macOS](https://github.com/microsoft/Procexp-Mac)
 * [2026-11-09, 22:23:00](https://news.ycombinator.com/item?id=50433129) - [I did a meditation and it sort of changed my personality?](https://www.benkuhn.net/meditation/)
 * [2026-11-09, 22:19:12](https://news.ycombinator.com/item?id=50433079) - [A year after the 100% AI mandate nobody understands our code](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)
+* [2026-11-09, 22:15:13](https://news.ycombinator.com/item?id=50433042) - [Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding](https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding)
 * [2026-11-09, 21:56:57](https://news.ycombinator.com/item?id=50432831) - [TPUs](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
 * [2026-11-09, 21:40:51](https://news.ycombinator.com/item?id=50432637) - [Ergodic Literature](https://en.wikipedia.org/wiki/Ergodic_literature)
 * [2026-11-09, 21:07:26](https://news.ycombinator.com/item?id=50432147) - [Supply chain attack on Qubole customers](https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack)
