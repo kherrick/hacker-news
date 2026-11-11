@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 23:02:38](https://news.ycombinator.com/item?id=50460154) - [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
 * [2026-11-11, 22:36:35](https://news.ycombinator.com/item?id=50459776) - [Nvidia prepares to fire CEO Jensen Huang, WSJ reports](https://twitter.com/watcherguru/status/2120645607866188008)
 * [2026-11-11, 22:34:23](https://news.ycombinator.com/item?id=50459745) - [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2026-11-11, 22:31:06](https://news.ycombinator.com/item?id=50459703) - [Nvidia Is Preparing to Oust Nvidia CEO Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
