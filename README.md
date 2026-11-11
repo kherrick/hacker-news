@@ -29,7 +29,7 @@
 * [2026-11-09, 15:41:35](https://news.ycombinator.com/item?id=50427107) - [Why I wrote the BEAM book (2025)](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2026-11-08, 05:13:25](https://news.ycombinator.com/item?id=50410587) - [Pinot Noir: inside the criminal gangs making fake wine](https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine)
 * [2026-11-08, 04:07:21](https://news.ycombinator.com/item?id=50410329) - [Simon Winchester has died](https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html)
-* [2026-11-07, 17:19:02](https://news.ycombinator.com/item?id=50406224) - [Hacking the meta ray-ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
+* [2026-11-07, 17:19:02](https://news.ycombinator.com/item?id=50406224) - [Hacking the Meta Ray-Ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
 
 ## [Archives](archives/index.md)
 
