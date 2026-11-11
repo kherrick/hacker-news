@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 22:03:58](https://news.ycombinator.com/item?id=50459321) - [Jensen Huang Said to Have Had Relationship with Nvidia Executive](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html)
 * [2026-11-11, 21:24:35](https://news.ycombinator.com/item?id=50458900) - [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
 * [2026-11-11, 21:10:35](https://news.ycombinator.com/item?id=50458710) - [Play GTA5 on Browser](https://playgta5.com/)
 * [2026-11-11, 20:54:37](https://news.ycombinator.com/item?id=50458532) - [GitHub Incident with Webhooks, Actions, etc.](https://www.githubstatus.com/incidents/dvy0t3mvh1lg)
