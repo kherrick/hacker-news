@@ -3,7 +3,6 @@
 * [2026-11-11, 22:34:23](https://news.ycombinator.com/item?id=50459745) - [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2026-11-11, 22:31:06](https://news.ycombinator.com/item?id=50459703) - [Nvidia Is Preparing to Oust Nvidia CEO Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
 * [2026-11-11, 22:16:41](https://news.ycombinator.com/item?id=50459485) - [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
-* [2026-11-11, 22:03:58](https://news.ycombinator.com/item?id=50459321) - [Jensen Huang Said to Have Had Relationship with Nvidia Executive](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html)
 * [2026-11-11, 21:24:35](https://news.ycombinator.com/item?id=50458900) - [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
 * [2026-11-11, 21:10:35](https://news.ycombinator.com/item?id=50458710) - [Play GTA5 on Browser](https://playgta5.com/)
 * [2026-11-11, 20:54:37](https://news.ycombinator.com/item?id=50458532) - [GitHub Incident with Webhooks, Actions, etc.](https://www.githubstatus.com/incidents/dvy0t3mvh1lg)
@@ -28,6 +27,7 @@
 * [2026-11-11, 10:48:40](https://news.ycombinator.com/item?id=50451903) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
 * [2026-11-11, 07:03:17](https://news.ycombinator.com/item?id=50450488) - [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [2026-11-11, 03:26:51](https://news.ycombinator.com/item?id=50449440) - [The Apple Support Community will permanently close on November 20, 2026](https://discussions.apple.com/welcome)
+* [2026-11-10, 10:41:26](https://news.ycombinator.com/item?id=50438435) - [The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico](https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation)
 * [2026-11-09, 22:15:13](https://news.ycombinator.com/item?id=50433042) - [Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding](https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding)
 * [2026-11-08, 19:37:42](https://news.ycombinator.com/item?id=50416365) - [Optimizing Reference Deletions in Git](https://nayak.im/posts/optimizing-reference-deletion/)
 
