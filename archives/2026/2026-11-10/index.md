@@ -51,6 +51,7 @@
 * [2026-11-10, 11:51:19](https://news.ycombinator.com/item?id=50439000) - [Show HN: A 15 MB self-hosted Netflix and Spotify for your media server](https://github.com/HolyArrs/HolyArrs)
 * [2026-11-10, 11:38:57](https://news.ycombinator.com/item?id=50438891) - [Anthropic launches roadshow for proposed initial public offering](https://www.anthropic.com/news/roadshow-launch)
 * [2026-11-10, 10:47:18](https://news.ycombinator.com/item?id=50438480) - [What Constant Surveillance Is Doing to Children](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)
+* [2026-11-10, 10:41:26](https://news.ycombinator.com/item?id=50438435) - [The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico](https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation)
 * [2026-11-10, 10:40:51](https://news.ycombinator.com/item?id=50438429) - [Meet the Sad Wives of AI](https://www.wired.com/story/meet-the-sad-wives-of-ai/)
 * [2026-11-10, 10:32:36](https://news.ycombinator.com/item?id=50438377) - ['C:\\> FORMAT C:' – relax, it's just a screen saver](https://fakedos.com/)
 * [2026-11-10, 10:25:58](https://news.ycombinator.com/item?id=50438318) - [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
