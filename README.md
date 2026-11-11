@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-11, 22:34:23](https://news.ycombinator.com/item?id=50459745) - [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
+* [2026-11-11, 22:31:06](https://news.ycombinator.com/item?id=50459703) - [Nvidia Is Preparing to Oust Nvidia CEO Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
 * [2026-11-11, 22:16:41](https://news.ycombinator.com/item?id=50459485) - [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
 * [2026-11-11, 22:03:58](https://news.ycombinator.com/item?id=50459321) - [Jensen Huang Said to Have Had Relationship with Nvidia Executive](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html)
 * [2026-11-11, 21:24:35](https://news.ycombinator.com/item?id=50458900) - [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
@@ -11,7 +13,6 @@
 * [2026-11-11, 19:47:59](https://news.ycombinator.com/item?id=50457669) - [IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality](https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027)
 * [2026-11-11, 19:45:10](https://news.ycombinator.com/item?id=50457618) - [The Utah Teapot](https://graphics.cs.utah.edu/teapot/)
 * [2026-11-11, 19:12:16](https://news.ycombinator.com/item?id=50457230) - [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)
-* [2026-11-11, 19:06:43](https://news.ycombinator.com/item?id=50457164) - [Retirement Savings Are Fueling the AI Bubble](https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/)
 * [2026-11-11, 18:32:42](https://news.ycombinator.com/item?id=50456791) - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
 * [2026-11-11, 18:21:38](https://news.ycombinator.com/item?id=50456631) - [AWS emulator](https://github.com/aws/aws-emulator)
 * [2026-11-11, 17:11:56](https://news.ycombinator.com/item?id=50455811) - [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://news.ycombinator.com/item?id=50455811)
@@ -27,7 +28,6 @@
 * [2026-11-11, 10:48:40](https://news.ycombinator.com/item?id=50451903) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
 * [2026-11-11, 07:03:17](https://news.ycombinator.com/item?id=50450488) - [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [2026-11-11, 03:26:51](https://news.ycombinator.com/item?id=50449440) - [The Apple Support Community will permanently close on November 20, 2026](https://discussions.apple.com/welcome)
-* [2026-11-10, 10:41:26](https://news.ycombinator.com/item?id=50438435) - [The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico](https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation)
 * [2026-11-09, 22:15:13](https://news.ycombinator.com/item?id=50433042) - [Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding](https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding)
 * [2026-11-08, 19:37:42](https://news.ycombinator.com/item?id=50416365) - [Optimizing Reference Deletions in Git](https://nayak.im/posts/optimizing-reference-deletion/)
 
