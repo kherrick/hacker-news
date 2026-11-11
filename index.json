@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2026-11-11, 11:39:15",
+      "https://news.ycombinator.com/item?id=50452230"
+    ],
+    [
+      "Show HN: ThingStudio, Node-RED style programming for microcontrollers",
+      "https://thingstudio.net/"
+    ]
+  ],
+  [
+    [
       "2026-11-11, 11:38:43",
       "https://news.ycombinator.com/item?id=50452224"
     ],
@@ -137,16 +147,6 @@
     [
       "A great old-timey game-programming hack (2013)",
       "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-10, 22:17:56",
-      "https://news.ycombinator.com/item?id=50447074"
-    ],
-    [
-      "Tracking Anthropic-discovered vulnerabilities",
-      "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-11-10, 12:11:12",
-      "https://news.ycombinator.com/item?id=50439193"
-    ],
-    [
-      "AlphaProof Code",
-      "https://deepmind.google/blog/introducing-alphaproof-code/"
-    ]
-  ],
-  [
-    [
       "2026-11-10, 12:00:08",
       "https://news.ycombinator.com/item?id=50439088"
     ],
@@ -287,6 +277,16 @@
     [
       "Why I wrote the BEAM book (2025)",
       "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 20:10:06",
+      "https://news.ycombinator.com/item?id=50416640"
+    ],
+    [
+      "Peer-to-peer WebRTC connections with built-in signaling and discovery",
+      "https://github.com/lukks/like-webrtc"
     ]
   ],
   [
