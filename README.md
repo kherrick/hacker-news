@@ -27,9 +27,9 @@
 * [2026-11-11, 04:28:57](https://news.ycombinator.com/item?id=50449748) - [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
 * [2026-11-11, 02:23:25](https://news.ycombinator.com/item?id=50449080) - [Hooked on Tuna](https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428)
 * [2026-11-10, 21:25:03](https://news.ycombinator.com/item?id=50446520) - [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
-* [2026-11-10, 14:49:46](https://news.ycombinator.com/item?id=50441181) - [A Brain Teaser of an Obituary](https://www.nytimes.com/2026/11/10/obituaries/steve-selvin-dead.html)
 * [2026-11-09, 15:44:59](https://news.ycombinator.com/item?id=50427153) - [Show HN: 3D to 2D, point clouds flattening (geometry images)](https://github.com/Neighborhood-Grid/flatpoints)
 * [2026-11-08, 20:10:06](https://news.ycombinator.com/item?id=50416640) - [Peer-to-peer WebRTC connections with built-in signaling and discovery](https://github.com/lukks/like-webrtc)
+* [2026-11-08, 13:40:08](https://news.ycombinator.com/item?id=50413266) - [Show HN: Micron – Oberon with the Power of C](https://github.com/rochus-keller/Micron)
 
 ## [Archives](archives/index.md)
 

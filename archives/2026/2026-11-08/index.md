@@ -35,6 +35,7 @@
 * [2026-11-08, 15:00:42](https://news.ycombinator.com/item?id=50413885) - [Drones built to look like birds evaded detection at Air Force tech exercise](https://taskandpurpose.com/news/drone-mimicking-bird-test/)
 * [2026-11-08, 14:42:38](https://news.ycombinator.com/item?id=50413769) - [I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/)
 * [2026-11-08, 14:06:18](https://news.ycombinator.com/item?id=50413487) - [The Learjet Repo Man (2009)](https://www.salon.com/2009/06/06/lear_jet_repo_man/)
+* [2026-11-08, 13:40:08](https://news.ycombinator.com/item?id=50413266) - [Show HN: Micron – Oberon with the Power of C](https://github.com/rochus-keller/Micron)
 * [2026-11-08, 12:51:38](https://news.ycombinator.com/item?id=50412830) - [How to prove equations using diagrams, part 1](https://www.epatters.org/post/e-graphs-1/)
 * [2026-11-08, 12:07:17](https://news.ycombinator.com/item?id=50412554) - [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
 * [2026-11-08, 11:25:24](https://news.ycombinator.com/item?id=50412324) - [PHP2Shell Deep Dive](https://djad04.github.io/php2shell-deep-dive/)
