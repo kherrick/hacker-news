@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-11, 04:28:57](https://news.ycombinator.com/item?id=50449748) - [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
 * [2026-11-11, 02:57:08](https://news.ycombinator.com/item?id=50449275) - [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
 * [2026-11-11, 02:23:25](https://news.ycombinator.com/item?id=50449080) - [Hooked on Tuna](https://blue-continuum.com/hooked-on-tuna)
 * [2026-11-11, 01:56:31](https://news.ycombinator.com/item?id=50448921) - [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
@@ -29,7 +30,6 @@
 * [2026-11-08, 05:13:25](https://news.ycombinator.com/item?id=50410587) - [Pinot Noir: inside the criminal gangs making fake wine](https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine)
 * [2026-11-08, 04:07:21](https://news.ycombinator.com/item?id=50410329) - [Simon Winchester has died](https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html)
 * [2026-11-07, 17:19:02](https://news.ycombinator.com/item?id=50406224) - [Hacking the Meta Ray-Ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
-* [2026-11-07, 03:40:34](https://news.ycombinator.com/item?id=50401414) - [Lighting the Skies](https://computer.rip/2026-10-25-searchlights.html)
 
 ## [Archives](archives/index.md)
 
