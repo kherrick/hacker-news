@@ -7,6 +7,7 @@
 * [2026-11-11, 19:12:16](https://news.ycombinator.com/item?id=50457230) - [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)
 * [2026-11-11, 19:09:53](https://news.ycombinator.com/item?id=50457197) - [Jensen Huang Must Resign](https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign)
 * [2026-11-11, 19:06:43](https://news.ycombinator.com/item?id=50457164) - [Retirement Savings Are Fueling the AI Bubble](https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/)
+* [2026-11-11, 18:32:42](https://news.ycombinator.com/item?id=50456791) - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
 * [2026-11-11, 18:28:31](https://news.ycombinator.com/item?id=50456740) - [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
 * [2026-11-11, 18:21:38](https://news.ycombinator.com/item?id=50456631) - [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)
 * [2026-11-11, 17:30:47](https://news.ycombinator.com/item?id=50456010) - [The Power and Legacy of Virginia Tech's Mac-Based Supercomputers](https://512pixels.net/2026/11/va-tech-system-x-system-g/)

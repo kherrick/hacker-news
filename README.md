@@ -2,6 +2,7 @@
 
 * [2026-11-11, 19:12:16](https://news.ycombinator.com/item?id=50457230) - [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)
 * [2026-11-11, 19:06:43](https://news.ycombinator.com/item?id=50457164) - [Retirement Savings Are Fueling the AI Bubble](https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/)
+* [2026-11-11, 18:32:42](https://news.ycombinator.com/item?id=50456791) - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
 * [2026-11-11, 18:28:31](https://news.ycombinator.com/item?id=50456740) - [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
 * [2026-11-11, 18:21:38](https://news.ycombinator.com/item?id=50456631) - [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)
 * [2026-11-11, 17:30:47](https://news.ycombinator.com/item?id=50456010) - [The Power and Legacy of Virginia Tech's Mac-Based Supercomputers](https://512pixels.net/2026/11/va-tech-system-x-system-g/)
@@ -9,7 +10,6 @@
 * [2026-11-11, 16:57:45](https://news.ycombinator.com/item?id=50455633) - [Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)
 * [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
 * [2026-11-11, 16:33:28](https://news.ycombinator.com/item?id=50455332) - [AI, activity, and outcomes in software engineering](https://cabird.com/talks/shipping-faster/)
-* [2026-11-11, 16:08:14](https://news.ycombinator.com/item?id=50455031) - [Multiple remote code execution vulnerabilities in danfoss sm-800A](https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a)
 * [2026-11-11, 16:00:50](https://news.ycombinator.com/item?id=50454951) - [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)
 * [2026-11-11, 15:50:02](https://news.ycombinator.com/item?id=50454823) - [The Computer Graphics Book of Knowledge](https://www.cs.cmu.edu/~ph/nyit/masson/history.htm)
 * [2026-11-11, 15:33:06](https://news.ycombinator.com/item?id=50454625) - [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)
@@ -28,7 +28,7 @@
 * [2026-11-11, 07:03:17](https://news.ycombinator.com/item?id=50450488) - [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [2026-11-10, 17:16:09](https://news.ycombinator.com/item?id=50443264) - [TimeNet: Open-source data infrastructure for Temporal Foundation Models](https://github.com/OpenTSLM/TimeNet)
 * [2026-11-10, 10:41:26](https://news.ycombinator.com/item?id=50438435) - [The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico](https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation)
-* [2026-11-08, 20:10:06](https://news.ycombinator.com/item?id=50416640) - [Peer-to-peer WebRTC connections with built-in signaling and discovery](https://github.com/lukks/like-webrtc)
+* [2026-11-10, 06:28:15](https://news.ycombinator.com/item?id=50436788) - [A C++ Quicksort Faster Than std:sort](https://tiki.li/blog/about_blqsort)
 * [2026-11-08, 13:40:08](https://news.ycombinator.com/item?id=50413266) - [Show HN: Micron – Oberon with the Power of C](https://github.com/rochus-keller/Micron)
 
 ## [Archives](archives/index.md)
