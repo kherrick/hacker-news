@@ -5,7 +5,11 @@
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
 * [2026-11-11, 14:21:27](https://news.ycombinator.com/item?id=50453763) - [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
+* [2026-11-11, 14:10:46](https://news.ycombinator.com/item?id=50453637) - [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
+* [2026-11-11, 14:02:11](https://news.ycombinator.com/item?id=50453555) - [Apple is killing its Support Community forum next week](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down)
 * [2026-11-11, 13:56:05](https://news.ycombinator.com/item?id=50453474) - [I asked every TV manufacturer 17 questions about how they spy on you](https://www.theverge.com/tech/1012372/tv-privacy-acr-questions)
+* [2026-11-11, 13:34:24](https://news.ycombinator.com/item?id=50453229) - [Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim)
+* [2026-11-11, 13:19:45](https://news.ycombinator.com/item?id=50453080) - [EventSourcingDB 1.3.0 Is Available](https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available)
 * [2026-11-11, 12:44:06](https://news.ycombinator.com/item?id=50452742) - [Open research, stronger privacy: Making Firefox users harder to fingerprint](https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/)
 * [2026-11-11, 12:30:17](https://news.ycombinator.com/item?id=50452655) - [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
 * [2026-11-11, 12:29:48](https://news.ycombinator.com/item?id=50452652) - [We need more goat sacrifices](https://www.experimental-history.com/p/we-need-more-goat-sacrifices)
