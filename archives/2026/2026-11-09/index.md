@@ -48,6 +48,7 @@
 * [2026-11-09, 15:39:01](https://news.ycombinator.com/item?id=50427085) - [The same H100 costs $2.69 or $12.29 an hour depending where you rent it](https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing)
 * [2026-11-09, 15:23:57](https://news.ycombinator.com/item?id=50426899) - [Crypto foundation demanded employees endorse suicide pledge](https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/)
 * [2026-11-09, 15:18:19](https://news.ycombinator.com/item?id=50426831) - [Pigshell: Unix the Web](http://pigshell.com/v/0.6.4/)
+* [2026-11-09, 15:13:07](https://news.ycombinator.com/item?id=50426754) - [The Assyrian Dictionary of the Oriental Institute of the University of Chicago](https://isac.uchicago.edu/publications/search)
 * [2026-11-09, 15:07:23](https://news.ycombinator.com/item?id=50426681) - [On Being an Engineer in 2026](https://twitter.com/shaharglazner/status/2119796029256032278)
 * [2026-11-09, 15:01:48](https://news.ycombinator.com/item?id=50426593) - [Show HN: My daily word puzzle Jointter revisited](https://news.ycombinator.com/item?id=50426593)
 * [2026-11-09, 15:01:03](https://news.ycombinator.com/item?id=50426582) - [I Saw Your HN Comment](https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/)
