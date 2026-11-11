@@ -2,6 +2,7 @@
 
 * [2026-11-11, 18:28:31](https://news.ycombinator.com/item?id=50456740) - [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
 * [2026-11-11, 18:21:38](https://news.ycombinator.com/item?id=50456631) - [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)
+* [2026-11-11, 17:30:47](https://news.ycombinator.com/item?id=50456010) - [The Power and Legacy of Virginia Tech's Mac-Based Supercomputers](https://512pixels.net/2026/11/va-tech-system-x-system-g/)
 * [2026-11-11, 17:11:56](https://news.ycombinator.com/item?id=50455811) - [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://pomerado.ai/)
 * [2026-11-11, 16:57:45](https://news.ycombinator.com/item?id=50455633) - [Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)
 * [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
@@ -28,7 +29,6 @@
 * [2026-11-11, 04:28:57](https://news.ycombinator.com/item?id=50449748) - [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
 * [2026-11-10, 17:16:09](https://news.ycombinator.com/item?id=50443264) - [TimeNet: Open-source data infrastructure for Temporal Foundation Models](https://github.com/OpenTSLM/TimeNet)
 * [2026-11-10, 06:28:15](https://news.ycombinator.com/item?id=50436788) - [A C++ Quicksort Faster Than std:sort](https://tiki.li/blog/about_blqsort)
-* [2026-11-08, 20:10:06](https://news.ycombinator.com/item?id=50416640) - [Peer-to-peer WebRTC connections with built-in signaling and discovery](https://github.com/lukks/like-webrtc)
 * [2026-11-08, 13:40:08](https://news.ycombinator.com/item?id=50413266) - [Show HN: Micron – Oberon with the Power of C](https://github.com/rochus-keller/Micron)
 
 ## [Archives](archives/index.md)
