@@ -26,8 +26,8 @@
 * [2026-11-10, 12:11:12](https://news.ycombinator.com/item?id=50439193) - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
 * [2026-11-10, 10:25:58](https://news.ycombinator.com/item?id=50438318) - [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
 * [2026-11-09, 22:30:41](https://news.ycombinator.com/item?id=50433216) - [Process Explorer for macOS](https://github.com/microsoft/Procexp-Mac)
+* [2026-11-09, 18:10:30](https://news.ycombinator.com/item?id=50429210) - [A ZIP-style Prolog VM for trilog](https://github.com/no382001/zipc)
 * [2026-11-09, 15:41:35](https://news.ycombinator.com/item?id=50427107) - [Why I wrote the BEAM book (2025)](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
-* [2026-11-09, 03:12:52](https://news.ycombinator.com/item?id=50420579) - [Unremarkable things we made in 2026](https://www.neilchen.co/blog/things2026)
 * [2026-11-08, 16:30:04](https://news.ycombinator.com/item?id=50414657) - [A Compendium of Abandoned Greenhouses](https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/)
 * [2026-11-07, 17:19:02](https://news.ycombinator.com/item?id=50406224) - [Hacking the Meta Ray-Ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
 

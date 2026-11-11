@@ -32,6 +32,7 @@
 * [2026-11-09, 18:27:58](https://news.ycombinator.com/item?id=50429475) - [Too many men suffering in silence, national health report finds (Canada)](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
 * [2026-11-09, 18:25:01](https://news.ycombinator.com/item?id=50429430) - [Infineon marks innovation milestone with 300mm power silicon carbide wafer](https://www.infineon.com/press-release/2026/infpr202611-028)
 * [2026-11-09, 18:24:38](https://news.ycombinator.com/item?id=50429426) - [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
+* [2026-11-09, 18:10:30](https://news.ycombinator.com/item?id=50429210) - [A ZIP-style Prolog VM for trilog](https://github.com/no382001/zipc)
 * [2026-11-09, 18:05:44](https://news.ycombinator.com/item?id=50429144) - [Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer)
 * [2026-11-09, 18:01:10](https://news.ycombinator.com/item?id=50429068) - [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 * [2026-11-09, 17:59:05](https://news.ycombinator.com/item?id=50429031) - [Show HN: Write GitHub Actions in any language: Loopt](https://github.com/preloopdev/loopt)
