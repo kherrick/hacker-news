@@ -9,6 +9,7 @@
 * [2026-11-11, 12:05:22](https://news.ycombinator.com/item?id=50452455) - [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
 * [2026-11-11, 12:00:35](https://news.ycombinator.com/item?id=50452404) - [Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco](https://news.ycombinator.com/item?id=50452404)
 * [2026-11-11, 11:17:06](https://news.ycombinator.com/item?id=50452074) - [The Zig project is going nowhere](https://bytecode.news/posts/2026/10/the-zig-project-is-going-nowhere)
+* [2026-11-11, 11:02:46](https://news.ycombinator.com/item?id=50451985) - [The Housing Market Is Nuts](https://nuts.logical.li/)
 * [2026-11-11, 10:48:40](https://news.ycombinator.com/item?id=50451903) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
 * [2026-11-11, 08:51:45](https://news.ycombinator.com/item?id=50451102) - [OSS projects banning AI-generated contributions](https://osssaysno.com)
 * [2026-11-11, 05:25:54](https://news.ycombinator.com/item?id=50450007) - [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
