@@ -69,6 +69,7 @@
 * [2026-11-10, 04:10:36](https://news.ycombinator.com/item?id=50435962) - [Make this forward pass as fast as possible](https://ianbarber.blog/2026/11/09/make-this-forward-pass-as-fast-as-possible/)
 * [2026-11-10, 03:59:39](https://news.ycombinator.com/item?id=50435898) - [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
 * [2026-11-10, 03:20:06](https://news.ycombinator.com/item?id=50435660) - [CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)
+* [2026-11-10, 02:12:48](https://news.ycombinator.com/item?id=50435240) - [A Brief History of Sierra Online (2017)](https://retrofreakreviews.com/2017/01/30/sierra-retrospective/)
 * [2026-11-10, 01:56:48](https://news.ycombinator.com/item?id=50435105) - [Formalizing CPython](https://broyojo.com/python-formalization/)
 * [2026-11-10, 00:11:09](https://news.ycombinator.com/item?id=50434313) - [Welcome to Ed and Sam's great adventure](https://www.hintz.org/trip/)
 * [2026-11-10, 00:10:46](https://news.ycombinator.com/item?id=50434310) - [Locating the Source of a Mysterious Beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
