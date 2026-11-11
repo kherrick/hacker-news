@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-11-11, 20:45:50",
+      "https://news.ycombinator.com/item?id=50458434"
+    ],
+    [
+      "Tools for exploring the souls of large language models",
+      "https://oshea00.github.io/posts/tinygpt-visualizer/"
+    ]
+  ],
+  [
+    [
       "2026-11-11, 20:26:32",
       "https://news.ycombinator.com/item?id=50458208"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-11-11, 13:34:24",
-      "https://news.ycombinator.com/item?id=50453229"
-    ],
-    [
-      "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
-      "https://github.com/0xdeadf1sh/AssemblyForNeovim"
-    ]
-  ],
-  [
-    [
       "2026-11-11, 12:30:17",
       "https://news.ycombinator.com/item?id=50452655"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-11-10, 17:16:09",
-      "https://news.ycombinator.com/item?id=50443264"
-    ],
-    [
-      "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
-      "https://github.com/OpenTSLM/TimeNet"
-    ]
-  ],
-  [
-    [
       "2026-11-10, 10:41:26",
       "https://news.ycombinator.com/item?id=50438435"
     ],
     [
       "The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico",
       "https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation"
+    ]
+  ],
+  [
+    [
+      "2026-11-09, 22:15:13",
+      "https://news.ycombinator.com/item?id=50433042"
+    ],
+    [
+      "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
+      "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding"
     ]
   ]
 ]
