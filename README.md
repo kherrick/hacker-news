@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+* [2026-11-11, 16:35:38](https://news.ycombinator.com/item?id=50455358) - [Reddit Migration's Impact on Lemmy (2023)](https://www.jmis.org/archive/view_article?pid=jmis-10-4-333)
 * [2026-11-11, 16:33:28](https://news.ycombinator.com/item?id=50455332) - [Why aren't we shipping faster now?](https://cabird.com/talks/shipping-faster/)
 * [2026-11-11, 16:05:18](https://news.ycombinator.com/item?id=50454995) - [The hardest notes to find on the guitar fretboard](https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard)
 * [2026-11-11, 16:00:50](https://news.ycombinator.com/item?id=50454951) - [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)
@@ -18,7 +19,6 @@
 * [2026-11-11, 12:29:48](https://news.ycombinator.com/item?id=50452652) - [We need more goat sacrifices](https://www.experimental-history.com/p/we-need-more-goat-sacrifices)
 * [2026-11-11, 12:09:49](https://news.ycombinator.com/item?id=50452496) - [Next-Level Benchmarking Overfitting – Thomas Neumann](http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html)
 * [2026-11-11, 12:05:22](https://news.ycombinator.com/item?id=50452455) - [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
-* [2026-11-11, 12:00:45](https://news.ycombinator.com/item?id=50452407) - [In Defense of Giving a Shit](https://www.possibilityspace.org/blog/posts/in-defence-of-giving-a-shit/)
 * [2026-11-11, 12:00:35](https://news.ycombinator.com/item?id=50452404) - [Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco](https://news.ycombinator.com/item?id=50452404)
 * [2026-11-11, 11:38:43](https://news.ycombinator.com/item?id=50452224) - [Physically Controllable Relighting of Photographs](https://yaksoy.github.io/PhysicalRelighting/)
 * [2026-11-11, 10:48:40](https://news.ycombinator.com/item?id=50451903) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)

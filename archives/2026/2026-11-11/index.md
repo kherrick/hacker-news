@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
 * [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+* [2026-11-11, 16:35:38](https://news.ycombinator.com/item?id=50455358) - [Reddit Migration's Impact on Lemmy (2023)](https://www.jmis.org/archive/view_article?pid=jmis-10-4-333)
 * [2026-11-11, 16:33:28](https://news.ycombinator.com/item?id=50455332) - [Why aren't we shipping faster now?](https://cabird.com/talks/shipping-faster/)
 * [2026-11-11, 16:05:18](https://news.ycombinator.com/item?id=50454995) - [The hardest notes to find on the guitar fretboard](https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard)
 * [2026-11-11, 16:00:50](https://news.ycombinator.com/item?id=50454951) - [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)
