@@ -27,9 +27,9 @@
 * [2026-11-11, 12:00:35](https://news.ycombinator.com/item?id=50452404) - [Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco](https://news.ycombinator.com/item?id=50452404)
 * [2026-11-11, 10:48:40](https://news.ycombinator.com/item?id=50451903) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
 * [2026-11-11, 07:03:17](https://news.ycombinator.com/item?id=50450488) - [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
+* [2026-11-11, 03:26:51](https://news.ycombinator.com/item?id=50449440) - [The Apple Support Community will permanently close on November 20, 2026](https://discussions.apple.com/welcome)
 * [2026-11-10, 17:16:09](https://news.ycombinator.com/item?id=50443264) - [TimeNet: Open-source data infrastructure for Temporal Foundation Models](https://github.com/OpenTSLM/TimeNet)
 * [2026-11-10, 10:41:26](https://news.ycombinator.com/item?id=50438435) - [The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico](https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation)
-* [2026-11-08, 13:40:08](https://news.ycombinator.com/item?id=50413266) - [Show HN: Micron – Oberon with the Power of C](https://github.com/rochus-keller/Micron)
 
 ## [Archives](archives/index.md)
 
