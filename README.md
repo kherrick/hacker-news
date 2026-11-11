@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-11, 00:15:33](https://news.ycombinator.com/item?id=50448174) - [AI is an information gateway. Audiences still don't want it making their news](https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/)
 * [2026-11-10, 23:41:41](https://news.ycombinator.com/item?id=50447900) - [The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)](https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md)
 * [2026-11-10, 22:17:56](https://news.ycombinator.com/item?id=50447074) - [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
 * [2026-11-10, 22:14:03](https://news.ycombinator.com/item?id=50447036) - [$30M Raised to Redo the CPU](https://tendrils.co/blog/2026-11-10/30m-raised)
@@ -26,7 +27,6 @@
 * [2026-11-10, 10:25:58](https://news.ycombinator.com/item?id=50438318) - [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
 * [2026-11-09, 22:30:41](https://news.ycombinator.com/item?id=50433216) - [Process Explorer for macOS](https://github.com/microsoft/Procexp-Mac)
 * [2026-11-09, 21:40:51](https://news.ycombinator.com/item?id=50432637) - [Ergodic Literature](https://en.wikipedia.org/wiki/Ergodic_literature)
-* [2026-11-08, 11:04:04](https://news.ycombinator.com/item?id=50412209) - [Stable URLs for 42,000 Huts and Peaks](https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html)
 * [2026-11-08, 05:13:25](https://news.ycombinator.com/item?id=50410587) - [Pinot Noir: inside the criminal gangs making fake wine](https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine)
 * [2026-11-08, 04:07:21](https://news.ycombinator.com/item?id=50410329) - [Simon Winchester has died](https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html)
 * [2026-11-07, 17:19:02](https://news.ycombinator.com/item?id=50406224) - [Hacking the meta ray-ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
