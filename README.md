@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-11, 01:56:31](https://news.ycombinator.com/item?id=50448921) - [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
 * [2026-11-11, 00:37:05](https://news.ycombinator.com/item?id=50448340) - [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/)
 * [2026-11-11, 00:15:33](https://news.ycombinator.com/item?id=50448174) - [AI is an information gateway. Audiences still don't want it making their news](https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/)
 * [2026-11-10, 23:41:41](https://news.ycombinator.com/item?id=50447900) - [The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)](https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md)
@@ -17,7 +18,6 @@
 * [2026-11-10, 17:31:14](https://news.ycombinator.com/item?id=50443427) - [Val Town is winding down](https://blog.val.town/winding-down)
 * [2026-11-10, 17:02:32](https://news.ycombinator.com/item?id=50443090) - [AMD's Zen 6 Family: Feeding the Beast](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast)
 * [2026-11-10, 16:37:44](https://news.ycombinator.com/item?id=50442736) - [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
-* [2026-11-10, 16:15:43](https://news.ycombinator.com/item?id=50442426) - [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
 * [2026-11-10, 15:25:20](https://news.ycombinator.com/item?id=50441707) - [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
 * [2026-11-10, 15:12:16](https://news.ycombinator.com/item?id=50441518) - [Show HN: Valencia, Spain in Sim City/Isometric View](https://tinyvalencia.com/)
 * [2026-11-10, 15:01:19](https://news.ycombinator.com/item?id=50441350) - [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com)
