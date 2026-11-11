@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-11, 02:23:25",
+      "https://news.ycombinator.com/item?id=50449080"
+    ],
+    [
+      "Hooked on Tuna",
+      "https://blue-continuum.com/hooked-on-tuna"
+    ]
+  ],
+  [
+    [
       "2026-11-11, 01:56:31",
       "https://news.ycombinator.com/item?id=50448921"
     ],
@@ -27,16 +37,6 @@
     [
       "AI is an information gateway. Audiences still don't want it making their news",
       "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/"
-    ]
-  ],
-  [
-    [
-      "2026-11-10, 23:41:41",
-      "https://news.ycombinator.com/item?id=50447900"
-    ],
-    [
-      "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
-      "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2026-11-10, 16:15:43",
+      "https://news.ycombinator.com/item?id=50442426"
+    ],
+    [
+      "Blender 5.3 released with Gaussian Splat support",
+      "https://www.blender.org/download/releases/5-3/"
+    ]
+  ],
+  [
+    [
       "2026-11-10, 15:25:20",
       "https://news.ycombinator.com/item?id=50441707"
     ],
@@ -257,16 +267,6 @@
     [
       "Process Explorer for macOS",
       "https://github.com/microsoft/Procexp-Mac"
-    ]
-  ],
-  [
-    [
-      "2026-11-09, 15:41:35",
-      "https://news.ycombinator.com/item?id=50427107"
-    ],
-    [
-      "Why I wrote the BEAM book (2025)",
-      "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/"
     ]
   ],
   [
