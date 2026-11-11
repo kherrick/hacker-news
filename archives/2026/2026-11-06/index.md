@@ -39,6 +39,7 @@
 * [2026-11-06, 15:01:38](https://news.ycombinator.com/item?id=50393154) - [RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd](https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/)
 * [2026-11-06, 14:58:33](https://news.ycombinator.com/item?id=50393105) - [Ask HN: What in the world is taking Ubuntu so long?](https://news.ycombinator.com/item?id=50393105)
 * [2026-11-06, 14:57:16](https://news.ycombinator.com/item?id=50393089) - [Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)](https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/)
+* [2026-11-06, 14:56:07](https://news.ycombinator.com/item?id=50393070) - [Why Amstrad chose the 3\" drives](https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/)
 * [2026-11-06, 14:31:22](https://news.ycombinator.com/item?id=50392733) - [How hard is it to check for whitespace?](https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace)
 * [2026-11-06, 14:15:36](https://news.ycombinator.com/item?id=50392528) - [Building an Order RISC-V CPU from scratch](https://prawns.dev/blogs/specula)
 * [2026-11-06, 14:13:09](https://news.ycombinator.com/item?id=50392499) - [University libraries are being swarmed by AI bots, putting public access at risk](https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287)

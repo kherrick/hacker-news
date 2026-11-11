@@ -5,7 +5,6 @@
 * [2026-11-11, 04:56:47](https://news.ycombinator.com/item?id=50449891) - [Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)
 * [2026-11-11, 04:28:57](https://news.ycombinator.com/item?id=50449748) - [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
 * [2026-11-11, 02:57:08](https://news.ycombinator.com/item?id=50449275) - [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
-* [2026-11-11, 02:23:25](https://news.ycombinator.com/item?id=50449080) - [Hooked on Tuna](https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428)
 * [2026-11-11, 01:56:31](https://news.ycombinator.com/item?id=50448921) - [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
 * [2026-11-11, 00:37:05](https://news.ycombinator.com/item?id=50448340) - [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/)
 * [2026-11-10, 22:17:56](https://news.ycombinator.com/item?id=50447074) - [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
@@ -30,6 +29,7 @@
 * [2026-11-08, 16:30:04](https://news.ycombinator.com/item?id=50414657) - [A Compendium of Abandoned Greenhouses](https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/)
 * [2026-11-08, 15:16:37](https://news.ycombinator.com/item?id=50414004) - [\"Jumping genes\" helped ants evolve after the extinction of the dinosaurs](https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08)
 * [2026-11-07, 17:19:02](https://news.ycombinator.com/item?id=50406224) - [Hacking the Meta Ray-Ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
+* [2026-11-06, 14:56:07](https://news.ycombinator.com/item?id=50393070) - [Why Amstrad chose the 3\" drives](https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/)
 
 ## [Archives](archives/index.md)
 
