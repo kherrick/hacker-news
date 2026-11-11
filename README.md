@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-11, 05:25:54](https://news.ycombinator.com/item?id=50450007) - [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
+* [2026-11-11, 04:56:47](https://news.ycombinator.com/item?id=50449891) - [Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)
 * [2026-11-11, 04:28:57](https://news.ycombinator.com/item?id=50449748) - [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
 * [2026-11-11, 02:57:08](https://news.ycombinator.com/item?id=50449275) - [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
 * [2026-11-11, 02:23:25](https://news.ycombinator.com/item?id=50449080) - [Hooked on Tuna](https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428)
@@ -11,7 +12,6 @@
 * [2026-11-10, 21:25:03](https://news.ycombinator.com/item?id=50446520) - [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
 * [2026-11-10, 20:58:44](https://news.ycombinator.com/item?id=50446246) - [Six Math Essentials](https://teorth.github.io/tao-web/six-math-essentials.html)
 * [2026-11-10, 19:50:46](https://news.ycombinator.com/item?id=50445401) - [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
-* [2026-11-10, 19:03:54](https://news.ycombinator.com/item?id=50444684) - [A comprehensive study of how fingerprintable users are](https://fingerprinting.study/)
 * [2026-11-10, 18:22:32](https://news.ycombinator.com/item?id=50444129) - [Starlink Mini 2](https://starlink.com/mini-2)
 * [2026-11-10, 18:02:02](https://news.ycombinator.com/item?id=50443824) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
 * [2026-11-10, 18:01:15](https://news.ycombinator.com/item?id=50443812) - [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)
