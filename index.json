@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-11-11, 20:54:37",
+      "https://news.ycombinator.com/item?id=50458532"
+    ],
+    [
+      "GitHub Incident with Webhooks, Actions, etc.",
+      "https://www.githubstatus.com/incidents/dvy0t3mvh1lg"
+    ]
+  ],
+  [
+    [
+      "2026-11-11, 20:26:32",
+      "https://news.ycombinator.com/item?id=50458208"
+    ],
+    [
+      "Emacs in the Age of Magic",
+      "https://commandlinesystems.com/magic.txt"
+    ]
+  ],
+  [
+    [
+      "2026-11-11, 20:23:57",
+      "https://news.ycombinator.com/item?id=50458166"
+    ],
+    [
+      "Huawei releases MACaQ, its internal quantizer for local inference",
+      "https://github.com/huawei-csl/MACaQ"
+    ]
+  ],
+  [
+    [
       "2026-11-11, 20:05:29",
       "https://news.ycombinator.com/item?id=50457939"
     ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2026-11-11, 17:30:47",
-      "https://news.ycombinator.com/item?id=50456010"
-    ],
-    [
-      "The Power and Legacy of Virginia Tech's Mac-Based Supercomputers",
-      "https://512pixels.net/2026/11/va-tech-system-x-system-g/"
-    ]
-  ],
-  [
-    [
       "2026-11-11, 17:11:56",
       "https://news.ycombinator.com/item?id=50455811"
     ],
@@ -117,16 +137,6 @@
     [
       "AI, activity, and outcomes in software engineering",
       "https://cabird.com/talks/shipping-faster/"
-    ]
-  ],
-  [
-    [
-      "2026-11-11, 16:00:50",
-      "https://news.ycombinator.com/item?id=50454951"
-    ],
-    [
-      "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-      "https://github.com/klad-app/klad"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico",
       "https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation"
-    ]
-  ],
-  [
-    [
-      "2026-11-10, 06:28:15",
-      "https://news.ycombinator.com/item?id=50436788"
-    ],
-    [
-      "A C++ Quicksort Faster Than std:sort",
-      "https://tiki.li/blog/about_blqsort"
     ]
   ],
   [
