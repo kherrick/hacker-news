@@ -24,6 +24,7 @@
 * [2026-11-10, 17:55:07](https://news.ycombinator.com/item?id=50443714) - [An Open Field Guide to Inference Engineering](https://docs.modelplane.ai/guides/inference-guide)
 * [2026-11-10, 17:44:44](https://news.ycombinator.com/item?id=50443587) - [Life on Claude Nine](https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html)
 * [2026-11-10, 17:31:14](https://news.ycombinator.com/item?id=50443427) - [Val Town is winding down](https://blog.val.town/winding-down)
+* [2026-11-10, 17:16:09](https://news.ycombinator.com/item?id=50443264) - [TimeNet: Open-source data infrastructure for Temporal Foundation Models](https://github.com/OpenTSLM/TimeNet)
 * [2026-11-10, 17:02:32](https://news.ycombinator.com/item?id=50443090) - [AMD's Zen 6 Family: Feeding the Beast](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast)
 * [2026-11-10, 16:37:44](https://news.ycombinator.com/item?id=50442736) - [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
 * [2026-11-10, 16:34:45](https://news.ycombinator.com/item?id=50442691) - [Tailscale's DNS IPv6 spells out \"Tailscale\"](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)

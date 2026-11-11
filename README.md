@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-11, 17:11:56](https://news.ycombinator.com/item?id=50455811) - [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://news.ycombinator.com/item?id=50455811)
+* [2026-11-11, 17:11:56](https://news.ycombinator.com/item?id=50455811) - [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://pomerado.ai/)
 * [2026-11-11, 16:57:45](https://news.ycombinator.com/item?id=50455633) - [Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)
 * [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
 * [2026-11-11, 16:35:38](https://news.ycombinator.com/item?id=50455358) - [Reddit Migration's Impact on Lemmy (2023)](https://www.jmis.org/archive/view_article?pid=jmis-10-4-333)
@@ -19,7 +19,6 @@
 * [2026-11-11, 13:19:45](https://news.ycombinator.com/item?id=50453080) - [EventSourcingDB 1.3.0 Is Available](https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available)
 * [2026-11-11, 12:30:17](https://news.ycombinator.com/item?id=50452655) - [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
 * [2026-11-11, 12:29:48](https://news.ycombinator.com/item?id=50452652) - [We need more goat sacrifices](https://www.experimental-history.com/p/we-need-more-goat-sacrifices)
-* [2026-11-11, 12:09:49](https://news.ycombinator.com/item?id=50452496) - [Next-Level Benchmarking Overfitting – Thomas Neumann](http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html)
 * [2026-11-11, 12:05:22](https://news.ycombinator.com/item?id=50452455) - [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
 * [2026-11-11, 12:00:35](https://news.ycombinator.com/item?id=50452404) - [Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco](https://news.ycombinator.com/item?id=50452404)
 * [2026-11-11, 10:48:40](https://news.ycombinator.com/item?id=50451903) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
@@ -27,6 +26,7 @@
 * [2026-11-11, 04:28:57](https://news.ycombinator.com/item?id=50449748) - [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
 * [2026-11-11, 02:23:25](https://news.ycombinator.com/item?id=50449080) - [Hooked on Tuna](https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428)
 * [2026-11-10, 21:25:03](https://news.ycombinator.com/item?id=50446520) - [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
+* [2026-11-10, 17:16:09](https://news.ycombinator.com/item?id=50443264) - [TimeNet: Open-source data infrastructure for Temporal Foundation Models](https://github.com/OpenTSLM/TimeNet)
 * [2026-11-09, 15:44:59](https://news.ycombinator.com/item?id=50427153) - [Show HN: 3D to 2D, point clouds flattening (geometry images)](https://github.com/Neighborhood-Grid/flatpoints)
 * [2026-11-08, 20:10:06](https://news.ycombinator.com/item?id=50416640) - [Peer-to-peer WebRTC connections with built-in signaling and discovery](https://github.com/lukks/like-webrtc)
 * [2026-11-08, 13:40:08](https://news.ycombinator.com/item?id=50413266) - [Show HN: Micron – Oberon with the Power of C](https://github.com/rochus-keller/Micron)
