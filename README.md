@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-11, 13:56:05](https://news.ycombinator.com/item?id=50453474) - [I asked every TV manufacturer 17 questions about how they spy on you](https://www.theverge.com/tech/1012372/tv-privacy-acr-questions)
+* [2026-11-11, 12:44:06](https://news.ycombinator.com/item?id=50452742) - [Open research, stronger privacy: Making Firefox users harder to fingerprint](https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/)
 * [2026-11-11, 12:30:17](https://news.ycombinator.com/item?id=50452655) - [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
 * [2026-11-11, 12:29:48](https://news.ycombinator.com/item?id=50452652) - [We need more goat sacrifices](https://www.experimental-history.com/p/we-need-more-goat-sacrifices)
 * [2026-11-11, 12:09:49](https://news.ycombinator.com/item?id=50452496) - [Next-Level Benchmarking Overfitting – Thomas Neumann](http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html)
@@ -27,8 +29,6 @@
 * [2026-11-10, 12:00:08](https://news.ycombinator.com/item?id=50439088) - [Small-Grid Wraparound Cellular Automata](https://justismills.substack.com/p/small-grid-wraparound-cellular-automata)
 * [2026-11-10, 04:10:36](https://news.ycombinator.com/item?id=50435962) - [Make this forward pass as fast as possible](https://ianbarber.blog/2026/11/09/make-this-forward-pass-as-fast-as-possible/)
 * [2026-11-09, 15:41:35](https://news.ycombinator.com/item?id=50427107) - [Why I wrote the BEAM book (2025)](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
-* [2026-11-08, 16:30:04](https://news.ycombinator.com/item?id=50414657) - [A Compendium of Abandoned Greenhouses](https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/)
-* [2026-11-07, 17:19:02](https://news.ycombinator.com/item?id=50406224) - [Hacking the Meta Ray-Ban smartglasses](https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/)
 * [2026-11-06, 14:56:07](https://news.ycombinator.com/item?id=50393070) - [Why Amstrad chose the 3\" drives](https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/)
 
 ## [Archives](archives/index.md)
