@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-11, 18:28:31",
+      "https://news.ycombinator.com/item?id=50456740"
+    ],
+    [
+      "AWS Emulator and the engineer's job when agents write the code",
+      "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html"
+    ]
+  ],
+  [
+    [
       "2026-11-11, 18:21:38",
       "https://news.ycombinator.com/item?id=50456631"
     ],
@@ -277,16 +287,6 @@
     [
       "Show HN: 3D to 2D, point clouds flattening (geometry images)",
       "https://github.com/Neighborhood-Grid/flatpoints"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 20:10:06",
-      "https://news.ycombinator.com/item?id=50416640"
-    ],
-    [
-      "Peer-to-peer WebRTC connections with built-in signaling and discovery",
-      "https://github.com/lukks/like-webrtc"
     ]
   ],
   [
