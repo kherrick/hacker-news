@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-11, 00:37:05](https://news.ycombinator.com/item?id=50448340) - [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/)
 * [2026-11-11, 00:15:33](https://news.ycombinator.com/item?id=50448174) - [AI is an information gateway. Audiences still don't want it making their news](https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/)
 * [2026-11-10, 23:41:41](https://news.ycombinator.com/item?id=50447900) - [The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)](https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md)
 * [2026-11-10, 22:17:56](https://news.ycombinator.com/item?id=50447074) - [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
 * [2026-11-10, 22:14:03](https://news.ycombinator.com/item?id=50447036) - [$30M Raised to Redo the CPU](https://tendrils.co/blog/2026-11-10/30m-raised)
-* [2026-11-10, 21:42:50](https://news.ycombinator.com/item?id=50446714) - [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)
 * [2026-11-10, 20:58:44](https://news.ycombinator.com/item?id=50446246) - [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html)
 * [2026-11-10, 20:56:16](https://news.ycombinator.com/item?id=50446219) - [Sherman Anti-Trust Act (1890)](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
 * [2026-11-10, 19:50:46](https://news.ycombinator.com/item?id=50445401) - [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
