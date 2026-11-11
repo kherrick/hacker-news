@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-11, 02:57:08](https://news.ycombinator.com/item?id=50449275) - [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
 * [2026-11-11, 02:23:25](https://news.ycombinator.com/item?id=50449080) - [Hooked on Tuna](https://blue-continuum.com/hooked-on-tuna)
 * [2026-11-11, 01:56:31](https://news.ycombinator.com/item?id=50448921) - [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
 * [2026-11-11, 00:37:05](https://news.ycombinator.com/item?id=50448340) - [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/)
@@ -20,7 +21,6 @@
 * [2026-11-10, 16:37:44](https://news.ycombinator.com/item?id=50442736) - [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
 * [2026-11-10, 15:25:20](https://news.ycombinator.com/item?id=50441707) - [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
 * [2026-11-10, 15:12:16](https://news.ycombinator.com/item?id=50441518) - [Show HN: Valencia, Spain in Sim City/Isometric View](https://tinyvalencia.com/)
-* [2026-11-10, 15:01:19](https://news.ycombinator.com/item?id=50441350) - [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com)
 * [2026-11-10, 12:58:04](https://news.ycombinator.com/item?id=50439695) - [Ableton Live 13](https://www.ableton.com/en/live/)
 * [2026-11-10, 12:20:07](https://news.ycombinator.com/item?id=50439284) - [What's new in the .NET 11 runtime](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime)
 * [2026-11-10, 12:11:12](https://news.ycombinator.com/item?id=50439193) - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
