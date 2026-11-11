@@ -16,6 +16,7 @@
 * [2026-11-08, 20:10:06](https://news.ycombinator.com/item?id=50416640) - [Peer-to-peer WebRTC connections with built-in signaling and discovery](https://github.com/lukks/like-webrtc)
 * [2026-11-08, 19:49:46](https://news.ycombinator.com/item?id=50416471) - [Starship Flight 15 on 11/13 plans to catch both booster and ship](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-08, 19:48:32](https://news.ycombinator.com/item?id=50416456) - [The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough)
+* [2026-11-08, 19:37:42](https://news.ycombinator.com/item?id=50416365) - [Optimizing Reference Deletions in Git](https://nayak.im/posts/optimizing-reference-deletion/)
 * [2026-11-08, 19:37:42](https://news.ycombinator.com/item?id=50416363) - [How I Fight AI Brain Fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
 * [2026-11-08, 19:20:32](https://news.ycombinator.com/item?id=50416158) - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
 * [2026-11-08, 19:08:51](https://news.ycombinator.com/item?id=50416053) - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)

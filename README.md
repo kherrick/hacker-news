@@ -22,7 +22,6 @@
 * [2026-11-11, 14:10:46](https://news.ycombinator.com/item?id=50453637) - [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
 * [2026-11-11, 13:39:29](https://news.ycombinator.com/item?id=50453288) - [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
 * [2026-11-11, 12:30:17](https://news.ycombinator.com/item?id=50452655) - [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
-* [2026-11-11, 12:29:48](https://news.ycombinator.com/item?id=50452652) - [We need more goat sacrifices](https://www.experimental-history.com/p/we-need-more-goat-sacrifices)
 * [2026-11-11, 12:05:22](https://news.ycombinator.com/item?id=50452455) - [My AI agents found an unmapped Maya site](https://pietromiotti.com/latest/maya-site)
 * [2026-11-11, 12:00:35](https://news.ycombinator.com/item?id=50452404) - [Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco](https://news.ycombinator.com/item?id=50452404)
 * [2026-11-11, 10:48:40](https://news.ycombinator.com/item?id=50451903) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
@@ -30,6 +29,7 @@
 * [2026-11-11, 03:26:51](https://news.ycombinator.com/item?id=50449440) - [The Apple Support Community will permanently close on November 20, 2026](https://discussions.apple.com/welcome)
 * [2026-11-10, 10:41:26](https://news.ycombinator.com/item?id=50438435) - [The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico](https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation)
 * [2026-11-09, 22:15:13](https://news.ycombinator.com/item?id=50433042) - [Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding](https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding)
+* [2026-11-08, 19:37:42](https://news.ycombinator.com/item?id=50416365) - [Optimizing Reference Deletions in Git](https://nayak.im/posts/optimizing-reference-deletion/)
 
 ## [Archives](archives/index.md)
 
