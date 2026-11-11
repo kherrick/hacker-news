@@ -61,6 +61,7 @@
 * [2026-11-10, 06:01:08](https://news.ycombinator.com/item?id=50436640) - [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
 * [2026-11-10, 05:52:38](https://news.ycombinator.com/item?id=50436587) - [Mathematicians Are Like Luddites](https://alok.blog/luddite/)
 * [2026-11-10, 05:24:45](https://news.ycombinator.com/item?id=50436410) - [Your TV can see through walls](https://maurycyz.com/projects/fading/)
+* [2026-11-10, 04:10:36](https://news.ycombinator.com/item?id=50435962) - [Make this forward pass as fast as possible](https://ianbarber.blog/2026/11/09/make-this-forward-pass-as-fast-as-possible/)
 * [2026-11-10, 03:59:39](https://news.ycombinator.com/item?id=50435898) - [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
 * [2026-11-10, 03:20:06](https://news.ycombinator.com/item?id=50435660) - [CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)
 * [2026-11-10, 01:56:48](https://news.ycombinator.com/item?id=50435105) - [Formalizing CPython](https://broyojo.com/python-formalization/)
