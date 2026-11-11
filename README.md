@@ -6,6 +6,7 @@
 * [2026-11-11, 13:56:05](https://news.ycombinator.com/item?id=50453474) - [I asked every TV manufacturer 17 questions about how they spy on you](https://www.theverge.com/tech/1012372/tv-privacy-acr-questions)
 * [2026-11-11, 13:39:29](https://news.ycombinator.com/item?id=50453288) - [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
 * [2026-11-11, 13:34:24](https://news.ycombinator.com/item?id=50453229) - [Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim)
+* [2026-11-11, 13:29:46](https://news.ycombinator.com/item?id=50453171) - [Attention to Mamba: A Recipe for Cross-Architecture Distillation](https://machinelearning.apple.com/research/attention-mamba-distillation)
 * [2026-11-11, 13:19:45](https://news.ycombinator.com/item?id=50453080) - [EventSourcingDB 1.3.0 Is Available](https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available)
 * [2026-11-11, 12:44:06](https://news.ycombinator.com/item?id=50452742) - [Open research, stronger privacy: Making Firefox users harder to fingerprint](https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/)
 * [2026-11-11, 12:30:17](https://news.ycombinator.com/item?id=50452655) - [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
@@ -29,7 +30,6 @@
 * [2026-11-10, 04:10:36](https://news.ycombinator.com/item?id=50435962) - [Make this forward pass as fast as possible](https://ianbarber.blog/2026/11/09/make-this-forward-pass-as-fast-as-possible/)
 * [2026-11-09, 15:41:35](https://news.ycombinator.com/item?id=50427107) - [Why I wrote the BEAM book (2025)](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2026-11-08, 20:10:06](https://news.ycombinator.com/item?id=50416640) - [Peer-to-peer WebRTC connections with built-in signaling and discovery](https://github.com/lukks/like-webrtc)
-* [2026-11-06, 14:56:07](https://news.ycombinator.com/item?id=50393070) - [Why Amstrad chose the 3\" drives](https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/)
 
 ## [Archives](archives/index.md)
 
