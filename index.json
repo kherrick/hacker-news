@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-11-11, 19:45:10",
+      "https://news.ycombinator.com/item?id=50457618"
+    ],
+    [
+      "The Utah Teapot",
+      "https://graphics.cs.utah.edu/teapot/"
+    ]
+  ],
+  [
+    [
       "2026-11-11, 19:12:16",
       "https://news.ycombinator.com/item?id=50457230"
     ],
@@ -197,16 +207,6 @@
     [
       "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
       "https://github.com/0xdeadf1sh/AssemblyForNeovim"
-    ]
-  ],
-  [
-    [
-      "2026-11-11, 13:29:46",
-      "https://news.ycombinator.com/item?id=50453171"
-    ],
-    [
-      "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-      "https://machinelearning.apple.com/research/attention-mamba-distillation"
     ]
   ],
   [
