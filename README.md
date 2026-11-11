@@ -2,7 +2,6 @@
 
 * [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
 * [2026-11-11, 16:35:38](https://news.ycombinator.com/item?id=50455358) - [Reddit Migration's Impact on Lemmy (2023)](https://www.jmis.org/archive/view_article?pid=jmis-10-4-333)
-* [2026-11-11, 16:33:28](https://news.ycombinator.com/item?id=50455332) - [Why aren't we shipping faster now?](https://cabird.com/talks/shipping-faster/)
 * [2026-11-11, 16:05:18](https://news.ycombinator.com/item?id=50454995) - [The hardest notes to find on the guitar fretboard](https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard)
 * [2026-11-11, 16:00:50](https://news.ycombinator.com/item?id=50454951) - [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)
 * [2026-11-11, 15:50:02](https://news.ycombinator.com/item?id=50454823) - [The Computer Graphics Book of Knowledge](https://www.cs.cmu.edu/~ph/nyit/masson/history.htm)
@@ -29,6 +28,7 @@
 * [2026-11-10, 19:50:46](https://news.ycombinator.com/item?id=50445401) - [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
 * [2026-11-10, 14:49:46](https://news.ycombinator.com/item?id=50441181) - [A Brain Teaser of an Obituary](https://www.nytimes.com/2026/11/10/obituaries/steve-selvin-dead.html)
 * [2026-11-10, 00:11:09](https://news.ycombinator.com/item?id=50434313) - [Welcome to Ed and Sam's great adventure](https://www.hintz.org/trip/)
+* [2026-11-09, 15:44:59](https://news.ycombinator.com/item?id=50427153) - [Show HN: 3D to 2D, point clouds flattening (geometry images)](https://github.com/Neighborhood-Grid/flatpoints)
 * [2026-11-08, 20:10:06](https://news.ycombinator.com/item?id=50416640) - [Peer-to-peer WebRTC connections with built-in signaling and discovery](https://github.com/lukks/like-webrtc)
 
 ## [Archives](archives/index.md)
