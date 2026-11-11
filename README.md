@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-11, 19:12:16](https://news.ycombinator.com/item?id=50457230) - [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)
 * [2026-11-11, 18:28:31](https://news.ycombinator.com/item?id=50456740) - [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
 * [2026-11-11, 18:21:38](https://news.ycombinator.com/item?id=50456631) - [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)
 * [2026-11-11, 17:30:47](https://news.ycombinator.com/item?id=50456010) - [The Power and Legacy of Virginia Tech's Mac-Based Supercomputers](https://512pixels.net/2026/11/va-tech-system-x-system-g/)
@@ -19,7 +20,6 @@
 * [2026-11-11, 13:39:29](https://news.ycombinator.com/item?id=50453288) - [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
 * [2026-11-11, 13:34:24](https://news.ycombinator.com/item?id=50453229) - [Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim)
 * [2026-11-11, 13:29:46](https://news.ycombinator.com/item?id=50453171) - [Attention to Mamba: A Recipe for Cross-Architecture Distillation](https://machinelearning.apple.com/research/attention-mamba-distillation)
-* [2026-11-11, 13:19:45](https://news.ycombinator.com/item?id=50453080) - [EventSourcingDB 1.3.0 Is Available](https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available)
 * [2026-11-11, 12:30:17](https://news.ycombinator.com/item?id=50452655) - [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
 * [2026-11-11, 12:29:48](https://news.ycombinator.com/item?id=50452652) - [We need more goat sacrifices](https://www.experimental-history.com/p/we-need-more-goat-sacrifices)
 * [2026-11-11, 12:05:22](https://news.ycombinator.com/item?id=50452455) - [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
