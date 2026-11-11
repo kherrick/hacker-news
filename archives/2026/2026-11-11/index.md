@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
+* [2026-11-11, 20:05:29](https://news.ycombinator.com/item?id=50457939) - [Why are we still working this hard?](https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/)
+* [2026-11-11, 19:47:59](https://news.ycombinator.com/item?id=50457669) - [IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality](https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027)
 * [2026-11-11, 19:12:16](https://news.ycombinator.com/item?id=50457230) - [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)
 * [2026-11-11, 19:09:53](https://news.ycombinator.com/item?id=50457197) - [Jensen Huang Must Resign](https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign)
 * [2026-11-11, 19:06:43](https://news.ycombinator.com/item?id=50457164) - [Retirement Savings Are Fueling the AI Bubble](https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/)

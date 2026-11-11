@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-11, 20:05:29](https://news.ycombinator.com/item?id=50457939) - [Why are we still working this hard?](https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/)
+* [2026-11-11, 19:47:59](https://news.ycombinator.com/item?id=50457669) - [IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality](https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027)
 * [2026-11-11, 19:12:16](https://news.ycombinator.com/item?id=50457230) - [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)
 * [2026-11-11, 19:06:43](https://news.ycombinator.com/item?id=50457164) - [Retirement Savings Are Fueling the AI Bubble](https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/)
 * [2026-11-11, 18:32:42](https://news.ycombinator.com/item?id=50456791) - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
@@ -15,8 +17,6 @@
 * [2026-11-11, 15:33:06](https://news.ycombinator.com/item?id=50454625) - [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)
 * [2026-11-11, 14:21:27](https://news.ycombinator.com/item?id=50453763) - [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
 * [2026-11-11, 14:10:46](https://news.ycombinator.com/item?id=50453637) - [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
-* [2026-11-11, 14:02:11](https://news.ycombinator.com/item?id=50453555) - [Apple is killing its Support Community forum next week](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down)
-* [2026-11-11, 13:56:05](https://news.ycombinator.com/item?id=50453474) - [I asked every TV manufacturer 17 questions about how they spy on you](https://www.theverge.com/tech/1012372/tv-privacy-acr-questions)
 * [2026-11-11, 13:39:29](https://news.ycombinator.com/item?id=50453288) - [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
 * [2026-11-11, 13:34:24](https://news.ycombinator.com/item?id=50453229) - [Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim)
 * [2026-11-11, 13:29:46](https://news.ycombinator.com/item?id=50453171) - [Attention to Mamba: A Recipe for Cross-Architecture Distillation](https://machinelearning.apple.com/research/attention-mamba-distillation)
