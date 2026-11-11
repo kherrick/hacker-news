@@ -45,6 +45,7 @@
 * [2026-11-10, 12:35:27](https://news.ycombinator.com/item?id=50439448) - [Let over Lambda–50 Years of Lisp](https://letoverlambda.com/)
 * [2026-11-10, 12:20:07](https://news.ycombinator.com/item?id=50439284) - [What's new in the .NET 11 runtime](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime)
 * [2026-11-10, 12:11:12](https://news.ycombinator.com/item?id=50439193) - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
+* [2026-11-10, 12:00:08](https://news.ycombinator.com/item?id=50439088) - [Small-Grid Wraparound Cellular Automata](https://justismills.substack.com/p/small-grid-wraparound-cellular-automata)
 * [2026-11-10, 11:51:19](https://news.ycombinator.com/item?id=50439000) - [Show HN: A 15 MB self-hosted Netflix and Spotify for your media server](https://github.com/HolyArrs/HolyArrs)
 * [2026-11-10, 11:38:57](https://news.ycombinator.com/item?id=50438891) - [Anthropic launches roadshow for proposed initial public offering](https://www.anthropic.com/news/roadshow-launch)
 * [2026-11-10, 10:47:18](https://news.ycombinator.com/item?id=50438480) - [What Constant Surveillance Is Doing to Children](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)
