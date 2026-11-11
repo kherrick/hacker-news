@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-11, 23:22:29](https://news.ycombinator.com/item?id=50460398) - [Modern Web Guidance 1.0: The web platform expertise your coding agent is missing](https://developer.chrome.com/blog/modern-web-guidance-v1)
 * [2026-11-11, 23:02:38](https://news.ycombinator.com/item?id=50460154) - [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
 * [2026-11-11, 22:36:35](https://news.ycombinator.com/item?id=50459776) - [Nvidia prepares to fire CEO Jensen Huang, WSJ reports](https://twitter.com/watcherguru/status/2120645607866188008)
 * [2026-11-11, 22:34:23](https://news.ycombinator.com/item?id=50459745) - [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
-* [2026-11-11, 22:31:06](https://news.ycombinator.com/item?id=50459703) - [Nvidia Is Preparing to Oust Nvidia CEO Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
 * [2026-11-11, 22:16:41](https://news.ycombinator.com/item?id=50459485) - [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
 * [2026-11-11, 21:24:35](https://news.ycombinator.com/item?id=50458900) - [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
 * [2026-11-11, 20:45:50](https://news.ycombinator.com/item?id=50458434) - [Tools for exploring the souls of large language models](https://oshea00.github.io/posts/tinygpt-visualizer/)
