@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2026-11-11](index.md)
 
 * [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+* [2026-11-11, 16:33:28](https://news.ycombinator.com/item?id=50455332) - [Why aren't we shipping faster now?](https://cabird.com/talks/shipping-faster/)
 * [2026-11-11, 16:05:18](https://news.ycombinator.com/item?id=50454995) - [The hardest notes to find on the guitar fretboard](https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard)
+* [2026-11-11, 16:00:50](https://news.ycombinator.com/item?id=50454951) - [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)
+* [2026-11-11, 15:50:02](https://news.ycombinator.com/item?id=50454823) - [The Computer Graphics Book of Knowledge](https://www.cs.cmu.edu/~ph/nyit/masson/history.htm)
 * [2026-11-11, 14:21:27](https://news.ycombinator.com/item?id=50453763) - [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
 * [2026-11-11, 14:10:46](https://news.ycombinator.com/item?id=50453637) - [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
 * [2026-11-11, 14:02:11](https://news.ycombinator.com/item?id=50453555) - [Apple is killing its Support Community forum next week](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down)
