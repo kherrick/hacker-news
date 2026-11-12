@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-11, 23:02:38](https://news.ycombinator.com/item?id=50460154) - [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
-* [2026-11-11, 22:34:23](https://news.ycombinator.com/item?id=50459745) - [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
+* [2026-11-11, 22:34:23](https://news.ycombinator.com/item?id=50459745) - [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2026-11-11, 22:31:06](https://news.ycombinator.com/item?id=50459703) - [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
 * [2026-11-11, 22:16:41](https://news.ycombinator.com/item?id=50459485) - [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
 * [2026-11-11, 22:03:58](https://news.ycombinator.com/item?id=50459321) - [Jensen Huang said to have had relationship with executive who reports to him](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html)
