@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-12, 16:29:13](https://news.ycombinator.com/item?id=50469994) - [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
 * [2026-11-12, 15:35:54](https://news.ycombinator.com/item?id=50469123) - [Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in](https://getvale.org)
 * [2026-11-12, 15:30:01](https://news.ycombinator.com/item?id=50469007) - [Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games](https://fable52.games)
 * [2026-11-12, 15:25:52](https://news.ycombinator.com/item?id=50468944) - [ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ)
 * [2026-11-12, 15:23:10](https://news.ycombinator.com/item?id=50468888) - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
 * [2026-11-12, 15:14:52](https://news.ycombinator.com/item?id=50468720) - [Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux](https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/)
-* [2026-11-12, 15:13:06](https://news.ycombinator.com/item?id=50468687) - [Roadside investigations of psyllids, ants and eucs](https://bencology.bearblog.dev/eucalypt-psyllids-meat-ants/)
 * [2026-11-12, 14:30:38](https://news.ycombinator.com/item?id=50467869) - [Running web sites makes me not want to](https://lowkey.party/running-web-sites-makes-me-not-want-to)
 * [2026-11-12, 14:25:23](https://news.ycombinator.com/item?id=50467763) - [PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released](https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/)
 * [2026-11-12, 14:18:49](https://news.ycombinator.com/item?id=50467618) - [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
