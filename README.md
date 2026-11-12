@@ -17,9 +17,8 @@
 * [2026-11-12, 02:11:11](https://news.ycombinator.com/item?id=50462177) - [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 * [2026-11-11, 22:34:23](https://news.ycombinator.com/item?id=50459745) - [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2026-11-11, 22:31:06](https://news.ycombinator.com/item?id=50459703) - [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
-* [2026-11-11, 22:16:41](https://news.ycombinator.com/item?id=50459485) - [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
 * [2026-11-11, 21:24:35](https://news.ycombinator.com/item?id=50458900) - [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
-* [2026-11-11, 20:26:32](https://news.ycombinator.com/item?id=50458208) - [Emacs in the Age of Magic](https://commandlinesystems.com/magic.txt)
+* [2026-11-11, 19:22:09](https://news.ycombinator.com/item?id=50457344) - [Pulling the Lever in a Subway Problem](https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem)
 * [2026-11-11, 18:32:42](https://news.ycombinator.com/item?id=50456791) - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
 * [2026-11-11, 18:21:38](https://news.ycombinator.com/item?id=50456631) - [AWS emulator](https://github.com/aws/aws-emulator)
 * [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
@@ -30,6 +29,7 @@
 * [2026-11-09, 20:54:02](https://news.ycombinator.com/item?id=50431971) - [Making a €40 USB-C hub work as a Nintendo Switch 2 dock](http://blog.nozomi.space/posts/sw2_dock/)
 * [2026-11-09, 13:02:44](https://news.ycombinator.com/item?id=50425017) - [A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)
 * [2026-11-08, 17:45:08](https://news.ycombinator.com/item?id=50415379) - [Show HN: Build a PC in 3D in the Browser](https://www.buildcores.com)
+* [2026-11-07, 16:58:23](https://news.ycombinator.com/item?id=50406043) - [The largest open-source DLE collection](https://github.com/trizoza/dles/blob/main/assets/daily-games/DLES.md)
 
 ## [Archives](archives/index.md)
 
