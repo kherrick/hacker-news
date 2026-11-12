@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2026-11-12, 14:25:23",
-      "https://news.ycombinator.com/item?id=50467763"
-    ],
-    [
-      "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
-      "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/"
-    ]
-  ],
-  [
-    [
       "2026-11-12, 14:18:49",
       "https://news.ycombinator.com/item?id=50467618"
     ],
@@ -227,6 +217,16 @@
     [
       "AWS emulator",
       "https://github.com/aws/aws-emulator"
+    ]
+  ],
+  [
+    [
+      "2026-11-11, 16:38:44",
+      "https://news.ycombinator.com/item?id=50455394"
+    ],
+    [
+      "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
     ]
   ],
   [
