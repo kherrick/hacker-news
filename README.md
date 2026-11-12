@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-12, 10:37:47](https://news.ycombinator.com/item?id=50465395) - [Code Smells of Desperation (2023)](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 * [2026-11-12, 10:28:26](https://news.ycombinator.com/item?id=50465352) - [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity)
 * [2026-11-12, 05:49:34](https://news.ycombinator.com/item?id=50463540) - [I'm Working on a FOSS Linux Pinbal Simulation Engine](https://www.getlazarus.org/forums/topic/17/)
 * [2026-11-12, 04:32:31](https://news.ycombinator.com/item?id=50463103) - [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
@@ -27,7 +28,6 @@
 * [2026-11-09, 20:54:02](https://news.ycombinator.com/item?id=50431971) - [Making a €40 USB-C hub work as a Nintendo Switch 2 dock](http://blog.nozomi.space/posts/sw2_dock/)
 * [2026-11-09, 17:27:24](https://news.ycombinator.com/item?id=50428619) - [Did Life Begin in an RNA World?](https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/)
 * [2026-11-09, 13:02:44](https://news.ycombinator.com/item?id=50425017) - [A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)
-* [2026-11-09, 03:57:57](https://news.ycombinator.com/item?id=50420905) - [Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)](https://publicdomainreview.org/collection/marian-wawrzeniecki/)
 * [2026-11-08, 20:04:36](https://news.ycombinator.com/item?id=50416606) - [Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)](https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s)
 * [2026-11-08, 17:19:06](https://news.ycombinator.com/item?id=50415162) - [I gave an agent a lakehouse and control of my garden](https://jatorre.github.io/garden/)
 
