@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-11-11, 12:30:17",
-      "https://news.ycombinator.com/item?id=50452655"
-    ],
-    [
-      "Can a Linear Program Do Weight-Space Programming?",
-      "https://nathan.rs/posts/weight-space-lp/"
-    ]
-  ],
-  [
-    [
       "2026-11-11, 12:05:22",
       "https://news.ycombinator.com/item?id=50452455"
     ],
@@ -277,6 +267,16 @@
     [
       "Did Life Begin in an RNA World?",
       "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/"
+    ]
+  ],
+  [
+    [
+      "2026-11-09, 13:02:44",
+      "https://news.ycombinator.com/item?id=50425017"
+    ],
+    [
+      "A live tree of systemd jobs on the boot console",
+      "https://codeberg.org/wvhulle/bootvine"
     ]
   ],
   [
