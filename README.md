@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-12, 17:19:39](https://news.ycombinator.com/item?id=50470762) - [Paths in Pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
 * [2026-11-12, 16:59:26](https://news.ycombinator.com/item?id=50470445) - [AWS Lambda Web Functions keep billing memory ~7 minutes after the last request](https://www.easel.sh/blog/lambda-web-functions-idle-memory)
 * [2026-11-12, 16:29:13](https://news.ycombinator.com/item?id=50469994) - [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
-* [2026-11-12, 15:35:54](https://news.ycombinator.com/item?id=50469123) - [Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in](https://getvale.org)
 * [2026-11-12, 15:30:01](https://news.ycombinator.com/item?id=50469007) - [Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games](https://fable52.games)
 * [2026-11-12, 15:25:52](https://news.ycombinator.com/item?id=50468944) - [ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ)
 * [2026-11-12, 15:23:10](https://news.ycombinator.com/item?id=50468888) - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
@@ -23,11 +23,11 @@
 * [2026-11-11, 19:22:09](https://news.ycombinator.com/item?id=50457344) - [Pulling the Lever in a Subway Problem](https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem)
 * [2026-11-11, 18:21:38](https://news.ycombinator.com/item?id=50456631) - [AWS emulator](https://github.com/aws/aws-emulator)
 * [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
-* [2026-11-11, 07:03:17](https://news.ycombinator.com/item?id=50450488) - [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [2026-11-10, 19:42:44](https://news.ycombinator.com/item?id=50445279) - [Research taste in history: the importance of learning Babylonian math](https://resobscura.substack.com/p/research-taste-in-history-the-importance)
 * [2026-11-10, 10:18:22](https://news.ycombinator.com/item?id=50438261) - [Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)
 * [2026-11-10, 05:18:42](https://news.ycombinator.com/item?id=50436363) - [Decoding REXPaint Files in Odin](https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/)
 * [2026-11-09, 20:54:02](https://news.ycombinator.com/item?id=50431971) - [Making a €40 USB-C hub work as a Nintendo Switch 2 dock](http://blog.nozomi.space/posts/sw2_dock/)
+* [2026-11-09, 20:11:02](https://news.ycombinator.com/item?id=50431237) - [Creating Worlds: Runes and Spells Prototype](https://www.fractalkitty.com/creating-worlds-runes-and-spells/)
 * [2026-11-09, 13:02:44](https://news.ycombinator.com/item?id=50425017) - [A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)
 * [2026-11-08, 17:45:08](https://news.ycombinator.com/item?id=50415379) - [Show HN: Build a PC in 3D in the Browser](https://www.buildcores.com)
 
