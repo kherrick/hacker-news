@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2026-11-12, 16:59:26",
+      "https://news.ycombinator.com/item?id=50470445"
+    ],
+    [
+      "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+      "https://www.easel.sh/blog/lambda-web-functions-idle-memory"
+    ]
+  ],
+  [
+    [
       "2026-11-12, 16:29:13",
       "https://news.ycombinator.com/item?id=50469994"
     ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=50465352"
     ],
     [
-      "Why Writing Correct Software Is Hard",
+      "Writing correct software is hard (2016)",
       "https://pron.github.io/posts/correctness-and-complexity"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Safety in Algae Home Experiments",
       "https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments"
-    ]
-  ],
-  [
-    [
-      "2026-11-10, 10:18:22",
-      "https://news.ycombinator.com/item?id=50438261"
-    ],
-    [
-      "Socratic Tutor",
-      "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md"
     ]
   ],
   [
