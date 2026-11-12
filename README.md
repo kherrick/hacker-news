@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-12, 20:20:41](https://news.ycombinator.com/item?id=50473606) - [Microsoft Status: \"We are re-routing the protocols\"](https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821)
 * [2026-11-12, 19:53:54](https://news.ycombinator.com/item?id=50473231) - [Data centers need power – lower income, rural residents pay the price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price)
 * [2026-11-12, 19:06:23](https://news.ycombinator.com/item?id=50472505) - [Distributed Ray Tracer](https://ray.hatchet.run)
 * [2026-11-12, 19:05:33](https://news.ycombinator.com/item?id=50472490) - [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
@@ -16,7 +17,6 @@
 * [2026-11-12, 16:29:13](https://news.ycombinator.com/item?id=50469994) - [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
 * [2026-11-12, 15:25:52](https://news.ycombinator.com/item?id=50468944) - [ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ)
 * [2026-11-12, 15:23:10](https://news.ycombinator.com/item?id=50468888) - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
-* [2026-11-12, 15:14:52](https://news.ycombinator.com/item?id=50468720) - [Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux](https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/)
 * [2026-11-12, 14:18:49](https://news.ycombinator.com/item?id=50467618) - [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
 * [2026-11-12, 14:12:37](https://news.ycombinator.com/item?id=50467460) - [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
 * [2026-11-12, 14:11:58](https://news.ycombinator.com/item?id=50467439) - [Libreagi – Save OSS Models](https://libreagi.com/)

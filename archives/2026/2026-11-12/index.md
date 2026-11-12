@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-12](index.md)
 
+* [2026-11-12, 20:20:41](https://news.ycombinator.com/item?id=50473606) - [Microsoft Status: \"We are re-routing the protocols\"](https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821)
 * [2026-11-12, 19:53:54](https://news.ycombinator.com/item?id=50473231) - [Data centers need power – lower income, rural residents pay the price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price)
 * [2026-11-12, 19:51:33](https://news.ycombinator.com/item?id=50473190) - [Former Nvidia CEO Huang had a relationship with a second employee, sources say](https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/)
 * [2026-11-12, 19:06:23](https://news.ycombinator.com/item?id=50472505) - [Distributed Ray Tracer](https://ray.hatchet.run)
