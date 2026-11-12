@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-12](index.md)
 
+* [2026-11-12, 18:01:48](https://news.ycombinator.com/item?id=50471431) - [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
+* [2026-11-12, 17:51:23](https://news.ycombinator.com/item?id=50471281) - [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)
 * [2026-11-12, 17:32:49](https://news.ycombinator.com/item?id=50470975) - [AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up](https://blog.cip.org/p/ai-models-know-what-women-peace-and)
 * [2026-11-12, 17:19:39](https://news.ycombinator.com/item?id=50470762) - [Paths in Pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
 * [2026-11-12, 16:59:26](https://news.ycombinator.com/item?id=50470445) - [AWS Lambda Web Functions keep billing memory ~7 minutes after the last request](https://www.easel.sh/blog/lambda-web-functions-idle-memory)
@@ -27,6 +29,7 @@
 * [2026-11-12, 13:56:11](https://news.ycombinator.com/item?id=50467132) - [Jensen Huang resigns as Nvidia CEO immediately](https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/)
 * [2026-11-12, 13:52:48](https://news.ycombinator.com/item?id=50467092) - [Jensen Huang resigning effective immediately](https://www.stocktitan.net/news/NVDA/nvidia-announces-ceo-03al5m45ne1p.html)
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
+* [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
 * [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)
 * [2026-11-12, 10:46:20](https://news.ycombinator.com/item?id=50465453) - [Researchers discover rare star system that emits radio signals every 8 minutes](https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/)
 * [2026-11-12, 10:37:47](https://news.ycombinator.com/item?id=50465395) - [Code Smells of Desperation (2023)](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
