@@ -49,6 +49,7 @@
 * [2026-11-10, 12:11:12](https://news.ycombinator.com/item?id=50439193) - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
 * [2026-11-10, 12:00:08](https://news.ycombinator.com/item?id=50439088) - [Small-Grid Wraparound Cellular Automata](https://justismills.substack.com/p/small-grid-wraparound-cellular-automata)
 * [2026-11-10, 11:51:19](https://news.ycombinator.com/item?id=50439000) - [Show HN: A 15 MB self-hosted Netflix and Spotify for your media server](https://github.com/HolyArrs/HolyArrs)
+* [2026-11-10, 11:46:09](https://news.ycombinator.com/item?id=50438958) - [Legocam: My Lego webcam from 2000, working on a modern Mac](https://blog.benjamin.ie/legocam)
 * [2026-11-10, 11:38:57](https://news.ycombinator.com/item?id=50438891) - [Anthropic launches roadshow for proposed initial public offering](https://www.anthropic.com/news/roadshow-launch)
 * [2026-11-10, 10:47:18](https://news.ycombinator.com/item?id=50438480) - [What Constant Surveillance Is Doing to Children](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)
 * [2026-11-10, 10:41:26](https://news.ycombinator.com/item?id=50438435) - [The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico](https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation)
