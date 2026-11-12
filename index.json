@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-12, 16:59:26",
+      "https://news.ycombinator.com/item?id=50470445"
+    ],
+    [
+      "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+      "https://www.easel.sh/blog/lambda-web-functions-idle-memory"
+    ]
+  ],
+  [
+    [
       "2026-11-12, 16:29:13",
       "https://news.ycombinator.com/item?id=50469994"
     ],
@@ -197,16 +207,6 @@
     [
       "Pulling the Lever in a Subway Problem",
       "https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem"
-    ]
-  ],
-  [
-    [
-      "2026-11-11, 18:32:42",
-      "https://news.ycombinator.com/item?id=50456791"
-    ],
-    [
-      "Gemini Decisions API",
-      "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
     ]
   ],
   [
