@@ -25,6 +25,7 @@
 * [2026-11-08, 18:43:07](https://news.ycombinator.com/item?id=50415817) - [Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
 * [2026-11-08, 18:33:50](https://news.ycombinator.com/item?id=50415750) - [Playing Zork 1 on a CP/M emulator on Linux (2021)](https://kevinboone.me/cpmzork.html)
 * [2026-11-08, 18:16:07](https://news.ycombinator.com/item?id=50415628) - [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
+* [2026-11-08, 17:45:08](https://news.ycombinator.com/item?id=50415379) - [Show HN: Build a PC in 3D in the Browser](https://www.buildcores.com)
 * [2026-11-08, 17:32:55](https://news.ycombinator.com/item?id=50415281) - [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
 * [2026-11-08, 17:20:29](https://news.ycombinator.com/item?id=50415172) - [RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/)
 * [2026-11-08, 17:19:06](https://news.ycombinator.com/item?id=50415162) - [I gave an agent a lakehouse and control of my garden](https://jatorre.github.io/garden/)

@@ -4,7 +4,6 @@
 * [2026-11-12, 10:46:20](https://news.ycombinator.com/item?id=50465453) - [Researchers discover rare star system that emits radio signals every 8 minutes](https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/)
 * [2026-11-12, 10:28:26](https://news.ycombinator.com/item?id=50465352) - [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity)
 * [2026-11-12, 05:49:34](https://news.ycombinator.com/item?id=50463540) - [I'm Working on a FOSS Linux Pinbal Simulation Engine](https://www.getlazarus.org/forums/topic/17/)
-* [2026-11-12, 02:36:48](https://news.ycombinator.com/item?id=50462375) - [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
 * [2026-11-12, 02:11:11](https://news.ycombinator.com/item?id=50462177) - [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 * [2026-11-11, 23:02:38](https://news.ycombinator.com/item?id=50460154) - [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
 * [2026-11-11, 22:34:23](https://news.ycombinator.com/item?id=50459745) - [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
@@ -30,6 +29,7 @@
 * [2026-11-09, 17:27:24](https://news.ycombinator.com/item?id=50428619) - [Did Life Begin in an RNA World?](https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/)
 * [2026-11-09, 13:02:44](https://news.ycombinator.com/item?id=50425017) - [A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)
 * [2026-11-08, 20:04:36](https://news.ycombinator.com/item?id=50416606) - [Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)](https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s)
+* [2026-11-08, 17:45:08](https://news.ycombinator.com/item?id=50415379) - [Show HN: Build a PC in 3D in the Browser](https://www.buildcores.com)
 
 ## [Archives](archives/index.md)
 
