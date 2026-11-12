@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-12](index.md)
 
+* [2026-11-12, 18:17:13](https://news.ycombinator.com/item?id=50471668) - [Ask HN: Microsoft/Azure Outage?](https://news.ycombinator.com/item?id=50471668)
 * [2026-11-12, 18:01:48](https://news.ycombinator.com/item?id=50471431) - [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
+* [2026-11-12, 18:01:37](https://news.ycombinator.com/item?id=50471428) - [Gemini 4 Hydrogen](https://deepmind.google/models/model-cards/gemini-4-hydrogen/)
 * [2026-11-12, 17:51:23](https://news.ycombinator.com/item?id=50471281) - [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)
 * [2026-11-12, 17:32:49](https://news.ycombinator.com/item?id=50470975) - [AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up](https://blog.cip.org/p/ai-models-know-what-women-peace-and)
 * [2026-11-12, 17:19:39](https://news.ycombinator.com/item?id=50470762) - [Paths in Pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)

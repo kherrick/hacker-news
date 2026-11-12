@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-12, 18:17:13](https://news.ycombinator.com/item?id=50471668) - [Ask HN: Microsoft/Azure Outage?](https://news.ycombinator.com/item?id=50471668)
 * [2026-11-12, 18:01:48](https://news.ycombinator.com/item?id=50471431) - [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
+* [2026-11-12, 18:01:37](https://news.ycombinator.com/item?id=50471428) - [Gemini 4 Hydrogen](https://deepmind.google/models/model-cards/gemini-4-hydrogen/)
 * [2026-11-12, 17:51:23](https://news.ycombinator.com/item?id=50471281) - [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)
-* [2026-11-12, 17:32:49](https://news.ycombinator.com/item?id=50470975) - [AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up](https://blog.cip.org/p/ai-models-know-what-women-peace-and)
 * [2026-11-12, 17:19:39](https://news.ycombinator.com/item?id=50470762) - [Paths in Pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
 * [2026-11-12, 16:59:26](https://news.ycombinator.com/item?id=50470445) - [AWS Lambda Web Functions keep billing memory ~7 minutes after the last request](https://www.easel.sh/blog/lambda-web-functions-idle-memory)
 * [2026-11-12, 16:29:13](https://news.ycombinator.com/item?id=50469994) - [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
@@ -22,7 +23,6 @@
 * [2026-11-12, 02:11:11](https://news.ycombinator.com/item?id=50462177) - [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 * [2026-11-11, 22:34:23](https://news.ycombinator.com/item?id=50459745) - [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2026-11-11, 19:22:09](https://news.ycombinator.com/item?id=50457344) - [Pulling the Lever in a Subway Problem](https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem)
-* [2026-11-11, 18:32:42](https://news.ycombinator.com/item?id=50456791) - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
 * [2026-11-10, 19:42:44](https://news.ycombinator.com/item?id=50445279) - [Research taste in history: the importance of learning Babylonian math](https://resobscura.substack.com/p/research-taste-in-history-the-importance)
 * [2026-11-10, 10:18:22](https://news.ycombinator.com/item?id=50438261) - [Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)
 * [2026-11-10, 05:18:42](https://news.ycombinator.com/item?id=50436363) - [Decoding REXPaint Files in Odin](https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/)
