@@ -18,7 +18,6 @@
 * [2026-11-11, 16:57:45](https://news.ycombinator.com/item?id=50455633) - [Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)
 * [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
 * [2026-11-11, 15:33:06](https://news.ycombinator.com/item?id=50454625) - [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)
-* [2026-11-11, 14:10:46](https://news.ycombinator.com/item?id=50453637) - [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
 * [2026-11-11, 13:39:29](https://news.ycombinator.com/item?id=50453288) - [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
 * [2026-11-11, 12:30:17](https://news.ycombinator.com/item?id=50452655) - [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
 * [2026-11-11, 12:05:22](https://news.ycombinator.com/item?id=50452455) - [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site)
@@ -29,6 +28,7 @@
 * [2026-11-09, 17:27:24](https://news.ycombinator.com/item?id=50428619) - [Did Life Begin in an RNA World?](https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/)
 * [2026-11-09, 13:02:44](https://news.ycombinator.com/item?id=50425017) - [A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)
 * [2026-11-09, 03:57:57](https://news.ycombinator.com/item?id=50420905) - [Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)](https://publicdomainreview.org/collection/marian-wawrzeniecki/)
+* [2026-11-08, 20:04:36](https://news.ycombinator.com/item?id=50416606) - [Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)](https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s)
 * [2026-11-08, 17:19:06](https://news.ycombinator.com/item?id=50415162) - [I gave an agent a lakehouse and control of my garden](https://jatorre.github.io/garden/)
 
 ## [Archives](archives/index.md)

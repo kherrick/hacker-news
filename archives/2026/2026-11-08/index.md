@@ -14,6 +14,7 @@
 * [2026-11-08, 21:20:20](https://news.ycombinator.com/item?id=50417407) - [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)
 * [2026-11-08, 20:26:43](https://news.ycombinator.com/item?id=50416801) - [Nvidia Board of Directors Is Investigating Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
 * [2026-11-08, 20:10:06](https://news.ycombinator.com/item?id=50416640) - [Peer-to-peer WebRTC connections with built-in signaling and discovery](https://github.com/lukks/like-webrtc)
+* [2026-11-08, 20:04:36](https://news.ycombinator.com/item?id=50416606) - [Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)](https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s)
 * [2026-11-08, 19:49:46](https://news.ycombinator.com/item?id=50416471) - [Starship Flight 15 on 11/13 plans to catch both booster and ship](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-08, 19:48:32](https://news.ycombinator.com/item?id=50416456) - [The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough)
 * [2026-11-08, 19:37:42](https://news.ycombinator.com/item?id=50416365) - [Optimizing Reference Deletions in Git](https://nayak.im/posts/optimizing-reference-deletion/)
