@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-11-12, 02:36:48",
-      "https://news.ycombinator.com/item?id=50462375"
-    ],
-    [
-      "Lean Grimoire",
-      "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/"
-    ]
-  ],
-  [
-    [
       "2026-11-12, 02:11:11",
       "https://news.ycombinator.com/item?id=50462177"
     ],
@@ -127,6 +117,16 @@
     [
       "Emacs in the Age of Magic",
       "https://commandlinesystems.com/magic.txt"
+    ]
+  ],
+  [
+    [
+      "2026-11-11, 20:23:57",
+      "https://news.ycombinator.com/item?id=50458166"
+    ],
+    [
+      "Huawei releases MACaQ, its internal quantizer for local inference",
+      "https://github.com/huawei-csl/MACaQ"
     ]
   ],
   [
