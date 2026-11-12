@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-11-12, 18:22:22",
+      "https://news.ycombinator.com/item?id=50471761"
+    ],
+    [
+      "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/"
+    ]
+  ],
+  [
+    [
       "2026-11-12, 18:20:48",
       "https://news.ycombinator.com/item?id=50471731"
     ],
@@ -237,16 +247,6 @@
     [
       "Why Writing Correct Software Is Hard",
       "https://pron.github.io/posts/correctness-and-complexity"
-    ]
-  ],
-  [
-    [
-      "2026-11-12, 02:11:11",
-      "https://news.ycombinator.com/item?id=50462177"
-    ],
-    [
-      "Critical RCE Vulnerability in Apache HTTP Server",
-      "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
     ]
   ],
   [
