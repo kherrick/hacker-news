@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-12, 05:49:34](https://news.ycombinator.com/item?id=50463540) - [I'm Working on a FOSS Linux Pinbal Simulation Engine](https://www.getlazarus.org/forums/topic/17/)
 * [2026-11-12, 04:32:31](https://news.ycombinator.com/item?id=50463103) - [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
 * [2026-11-12, 03:18:13](https://news.ycombinator.com/item?id=50462613) - [Bad ideas that aren't bad anymore](https://devonestes.com/bad-ideas-that-arent-bad-anymore)
 * [2026-11-12, 02:36:48](https://news.ycombinator.com/item?id=50462375) - [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
@@ -22,13 +23,12 @@
 * [2026-11-11, 13:39:29](https://news.ycombinator.com/item?id=50453288) - [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
 * [2026-11-11, 12:30:17](https://news.ycombinator.com/item?id=50452655) - [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
 * [2026-11-11, 12:05:22](https://news.ycombinator.com/item?id=50452455) - [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site)
-* [2026-11-11, 10:48:40](https://news.ycombinator.com/item?id=50451903) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
 * [2026-11-11, 07:03:17](https://news.ycombinator.com/item?id=50450488) - [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [2026-11-10, 03:29:55](https://news.ycombinator.com/item?id=50435712) - [Stingray Fish Laser](https://www.stingray.no/en/technology/)
 * [2026-11-10, 02:12:48](https://news.ycombinator.com/item?id=50435240) - [A Brief History of Sierra Online (2017)](https://retrofreakreviews.com/2017/01/30/sierra-retrospective/)
 * [2026-11-09, 17:27:24](https://news.ycombinator.com/item?id=50428619) - [Did Life Begin in an RNA World?](https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/)
 * [2026-11-09, 03:57:57](https://news.ycombinator.com/item?id=50420905) - [Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)](https://publicdomainreview.org/collection/marian-wawrzeniecki/)
-* [2026-11-08, 14:06:18](https://news.ycombinator.com/item?id=50413487) - [The Learjet Repo Man (2009)](https://www.salon.com/2009/06/06/lear_jet_repo_man/)
+* [2026-11-08, 17:19:06](https://news.ycombinator.com/item?id=50415162) - [I gave an agent a lakehouse and control of my garden](https://jatorre.github.io/garden/)
 * [2026-11-08, 12:34:04](https://news.ycombinator.com/item?id=50412715) - [How to make a CNC plasma cutter with high-frequency start](https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html)
 
 ## [Archives](archives/index.md)

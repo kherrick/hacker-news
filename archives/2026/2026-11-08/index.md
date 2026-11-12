@@ -26,6 +26,7 @@
 * [2026-11-08, 18:16:07](https://news.ycombinator.com/item?id=50415628) - [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
 * [2026-11-08, 17:32:55](https://news.ycombinator.com/item?id=50415281) - [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
 * [2026-11-08, 17:20:29](https://news.ycombinator.com/item?id=50415172) - [RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/)
+* [2026-11-08, 17:19:06](https://news.ycombinator.com/item?id=50415162) - [I gave an agent a lakehouse and control of my garden](https://jatorre.github.io/garden/)
 * [2026-11-08, 17:16:07](https://news.ycombinator.com/item?id=50415135) - [A Little Snitch for Windows](https://packethound.app/)
 * [2026-11-08, 17:09:55](https://news.ycombinator.com/item?id=50415078) - [A field guide to CAPTCHA types and how they break](https://github.com/vsmutok/FuckCaptcha)
 * [2026-11-08, 16:30:04](https://news.ycombinator.com/item?id=50414657) - [A Compendium of Abandoned Greenhouses](https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/)
