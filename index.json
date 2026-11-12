@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-11-12, 20:20:41",
+      "https://news.ycombinator.com/item?id=50473606"
+    ],
+    [
+      "Microsoft Status: \"We are re-routing the protocols\"",
+      "https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821"
+    ]
+  ],
+  [
+    [
       "2026-11-12, 19:53:54",
       "https://news.ycombinator.com/item?id=50473231"
     ],
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2026-11-11, 19:22:09",
-      "https://news.ycombinator.com/item?id=50457344"
+      "2026-11-10, 12:20:06",
+      "https://news.ycombinator.com/item?id=50439283"
     ],
     [
-      "Pulling the Lever in a Subway Problem",
-      "https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem"
+      "Safety in Algae Home Experiments",
+      "https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Socratic Tutor",
       "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md"
-    ]
-  ],
-  [
-    [
-      "2026-11-09, 13:02:44",
-      "https://news.ycombinator.com/item?id=50425017"
-    ],
-    [
-      "A live tree of systemd jobs on the boot console",
-      "https://codeberg.org/wvhulle/bootvine"
     ]
   ]
 ]
