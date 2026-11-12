@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-12](index.md)
 
+* [2026-11-12, 21:56:11](https://news.ycombinator.com/item?id=50474883) - [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
 * [2026-11-12, 21:13:26](https://news.ycombinator.com/item?id=50474361) - [Foundation Models Framework (macOS)](https://developer.apple.com/foundation-models-framework/)
 * [2026-11-12, 21:09:49](https://news.ycombinator.com/item?id=50474311) - [AI is turning Apple's app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
 * [2026-11-12, 20:20:41](https://news.ycombinator.com/item?id=50473606) - [Microsoft Status: \"We are re-routing the protocols\"](https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821)

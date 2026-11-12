@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-12, 21:13:26](https://news.ycombinator.com/item?id=50474361) - [Foundation Models Framework (macOS)](https://developer.apple.com/foundation-models-framework/)
+* [2026-11-12, 21:56:11](https://news.ycombinator.com/item?id=50474883) - [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
+* [2026-11-12, 21:13:26](https://news.ycombinator.com/item?id=50474361) - [Foundation Models framework](https://developer.apple.com/foundation-models-framework/)
 * [2026-11-12, 21:09:49](https://news.ycombinator.com/item?id=50474311) - [AI is turning Apple's app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
 * [2026-11-12, 19:53:54](https://news.ycombinator.com/item?id=50473231) - [Data centers need power – lower income, rural residents pay the price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price)
 * [2026-11-12, 19:06:23](https://news.ycombinator.com/item?id=50472505) - [Distributed Ray Tracer](https://ray.hatchet.run)
@@ -14,7 +15,6 @@
 * [2026-11-12, 18:01:48](https://news.ycombinator.com/item?id=50471431) - [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
 * [2026-11-12, 17:51:23](https://news.ycombinator.com/item?id=50471281) - [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)
 * [2026-11-12, 17:02:42](https://news.ycombinator.com/item?id=50470488) - [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
-* [2026-11-12, 16:59:26](https://news.ycombinator.com/item?id=50470445) - [AWS Lambda Web Functions keep billing memory ~7 minutes after the last request](https://www.easel.sh/blog/lambda-web-functions-idle-memory)
 * [2026-11-12, 16:29:13](https://news.ycombinator.com/item?id=50469994) - [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
 * [2026-11-12, 15:25:52](https://news.ycombinator.com/item?id=50468944) - [ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ)
 * [2026-11-12, 15:23:10](https://news.ycombinator.com/item?id=50468888) - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
