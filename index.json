@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-12, 20:20:41",
+      "https://news.ycombinator.com/item?id=50473606"
+    ],
+    [
+      "Microsoft Status: \"We are re-routing the protocols\"",
+      "https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821"
+    ]
+  ],
+  [
+    [
       "2026-11-12, 19:53:54",
       "https://news.ycombinator.com/item?id=50473231"
     ],
@@ -157,16 +167,6 @@
     [
       "I'm making LLMs work on small and old devices",
       "https://github.com/hyperionaidev/smolmaxxing/"
-    ]
-  ],
-  [
-    [
-      "2026-11-12, 15:14:52",
-      "https://news.ycombinator.com/item?id=50468720"
-    ],
-    [
-      "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-      "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/"
     ]
   ],
   [
