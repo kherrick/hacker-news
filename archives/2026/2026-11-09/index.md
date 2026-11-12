@@ -76,6 +76,7 @@
 * [2026-11-09, 09:22:30](https://news.ycombinator.com/item?id=50423151) - [Borrowing a Microsoft-signed shim to abuse Secure Boot on corporate hardware](https://leosmith.wtf/blog/not-so-secure-boot.html)
 * [2026-11-09, 08:17:49](https://news.ycombinator.com/item?id=50422628) - [ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)
 * [2026-11-09, 07:31:14](https://news.ycombinator.com/item?id=50422254) - [PixelOS](https://pixelos.net/)
+* [2026-11-09, 07:26:45](https://news.ycombinator.com/item?id=50422216) - [Making the Iron Giant Live](https://animationobsessive.substack.com/p/making-the-iron-giant-live)
 * [2026-11-09, 07:21:33](https://news.ycombinator.com/item?id=50422181) - [370 Books in 20 months: South African author defends her use of AI](https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai)
 * [2026-11-09, 07:20:37](https://news.ycombinator.com/item?id=50422168) - [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
 * [2026-11-09, 07:04:25](https://news.ycombinator.com/item?id=50422069) - [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)

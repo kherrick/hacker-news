@@ -24,11 +24,11 @@
 * [2026-11-11, 13:39:29](https://news.ycombinator.com/item?id=50453288) - [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
 * [2026-11-11, 12:30:17](https://news.ycombinator.com/item?id=50452655) - [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
 * [2026-11-11, 12:05:22](https://news.ycombinator.com/item?id=50452455) - [My AI agents found an unmapped Maya site](https://pietromiotti.com/latest/maya-site)
-* [2026-11-11, 12:00:35](https://news.ycombinator.com/item?id=50452404) - [Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco](https://news.ycombinator.com/item?id=50452404)
 * [2026-11-11, 07:03:17](https://news.ycombinator.com/item?id=50450488) - [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [2026-11-11, 03:26:51](https://news.ycombinator.com/item?id=50449440) - [The Apple Support Community will permanently close on November 20, 2026](https://discussions.apple.com/welcome)
 * [2026-11-10, 02:12:48](https://news.ycombinator.com/item?id=50435240) - [A Brief History of Sierra Online (2017)](https://retrofreakreviews.com/2017/01/30/sierra-retrospective/)
 * [2026-11-09, 22:15:13](https://news.ycombinator.com/item?id=50433042) - [Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding](https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding)
+* [2026-11-09, 07:26:45](https://news.ycombinator.com/item?id=50422216) - [Making the Iron Giant Live](https://animationobsessive.substack.com/p/making-the-iron-giant-live)
 * [2026-11-08, 19:37:42](https://news.ycombinator.com/item?id=50416365) - [Optimizing Reference Deletions in Git](https://nayak.im/posts/optimizing-reference-deletion/)
 
 ## [Archives](archives/index.md)
