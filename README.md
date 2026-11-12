@@ -5,7 +5,6 @@
 * [2026-11-12, 18:17:13](https://news.ycombinator.com/item?id=50471668) - [Ask HN: Microsoft/Azure Outage?](https://news.ycombinator.com/item?id=50471668)
 * [2026-11-12, 18:15:48](https://news.ycombinator.com/item?id=50471650) - [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md)
 * [2026-11-12, 18:01:48](https://news.ycombinator.com/item?id=50471431) - [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
-* [2026-11-12, 18:01:37](https://news.ycombinator.com/item?id=50471428) - [Gemini 4 Hydrogen](https://deepmind.google/models/model-cards/gemini-4-hydrogen/)
 * [2026-11-12, 17:51:23](https://news.ycombinator.com/item?id=50471281) - [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)
 * [2026-11-12, 17:19:39](https://news.ycombinator.com/item?id=50470762) - [Paths in Pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
 * [2026-11-12, 16:59:26](https://news.ycombinator.com/item?id=50470445) - [AWS Lambda Web Functions keep billing memory ~7 minutes after the last request](https://www.easel.sh/blog/lambda-web-functions-idle-memory)
@@ -28,6 +27,7 @@
 * [2026-11-11, 19:22:09](https://news.ycombinator.com/item?id=50457344) - [Pulling the Lever in a Subway Problem](https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem)
 * [2026-11-10, 10:18:22](https://news.ycombinator.com/item?id=50438261) - [Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)
 * [2026-11-10, 05:18:42](https://news.ycombinator.com/item?id=50436363) - [Decoding REXPaint Files in Odin](https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/)
+* [2026-11-09, 20:54:02](https://news.ycombinator.com/item?id=50431971) - [Making a €40 USB-C hub work as a Nintendo Switch 2 dock](http://blog.nozomi.space/posts/sw2_dock/)
 * [2026-11-09, 20:11:02](https://news.ycombinator.com/item?id=50431237) - [Creating Worlds: Runes and Spells Prototype](https://www.fractalkitty.com/creating-worlds-runes-and-spells/)
 * [2026-11-09, 13:02:44](https://news.ycombinator.com/item?id=50425017) - [A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)
 
