@@ -6,7 +6,6 @@
 * [2026-11-11, 22:16:41](https://news.ycombinator.com/item?id=50459485) - [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
 * [2026-11-11, 22:03:58](https://news.ycombinator.com/item?id=50459321) - [Jensen Huang said to have had relationship with executive who reports to him](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html)
 * [2026-11-11, 21:24:35](https://news.ycombinator.com/item?id=50458900) - [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
-* [2026-11-11, 20:45:50](https://news.ycombinator.com/item?id=50458434) - [Tools for exploring the souls of large language models](https://oshea00.github.io/posts/tinygpt-visualizer/)
 * [2026-11-11, 20:26:32](https://news.ycombinator.com/item?id=50458208) - [Emacs in the Age of Magic](https://commandlinesystems.com/magic.txt)
 * [2026-11-11, 20:23:57](https://news.ycombinator.com/item?id=50458166) - [Huawei releases MACaQ, its internal quantizer for local inference](https://github.com/huawei-csl/MACaQ)
 * [2026-11-11, 19:47:59](https://news.ycombinator.com/item?id=50457669) - [IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality](https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027)
@@ -30,6 +29,7 @@
 * [2026-11-09, 22:15:13](https://news.ycombinator.com/item?id=50433042) - [Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding](https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding)
 * [2026-11-09, 07:26:45](https://news.ycombinator.com/item?id=50422216) - [Making the Iron Giant Live](https://animationobsessive.substack.com/p/making-the-iron-giant-live)
 * [2026-11-08, 19:37:42](https://news.ycombinator.com/item?id=50416365) - [Optimizing Reference Deletions in Git](https://nayak.im/posts/optimizing-reference-deletion/)
+* [2026-11-08, 12:34:04](https://news.ycombinator.com/item?id=50412715) - [How to make a CNC plasma cutter with high-frequency start](https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html)
 
 ## [Archives](archives/index.md)
 
