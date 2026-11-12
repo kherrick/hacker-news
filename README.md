@@ -20,6 +20,7 @@
 * [2026-11-12, 14:18:49](https://news.ycombinator.com/item?id=50467618) - [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
 * [2026-11-12, 14:12:37](https://news.ycombinator.com/item?id=50467460) - [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
 * [2026-11-12, 14:11:58](https://news.ycombinator.com/item?id=50467439) - [Libreagi – Save OSS Models](https://libreagi.com/)
+* [2026-11-12, 14:06:03](https://news.ycombinator.com/item?id=50467305) - [Electric ship batteries promise compact, cooler power](https://spectrum.ieee.org/electric-ship-batteries)
 * [2026-11-12, 14:05:28](https://news.ycombinator.com/item?id=50467297) - [Our software engineering interviews are changing a little](https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/)
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
 * [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)
@@ -28,7 +29,6 @@
 * [2026-11-11, 22:18:37](https://news.ycombinator.com/item?id=50459508) - [Words of warning about radiocarbon dating medieval human bones](https://www.nature.com/articles/s40494-026-02958-x)
 * [2026-11-11, 21:20:01](https://news.ycombinator.com/item?id=50458849) - [Relax: JIT compiler for Rust to reduce build times](https://makepad.github.io/relax/)
 * [2026-11-10, 10:18:22](https://news.ycombinator.com/item?id=50438261) - [Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)
-* [2026-11-09, 20:11:02](https://news.ycombinator.com/item?id=50431237) - [Creating Worlds: Runes and Spells Prototype](https://www.fractalkitty.com/creating-worlds-runes-and-spells/)
 * [2026-11-09, 13:02:44](https://news.ycombinator.com/item?id=50425017) - [A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)
 
 ## [Archives](archives/index.md)
