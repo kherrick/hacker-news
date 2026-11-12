@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-12, 19:53:54](https://news.ycombinator.com/item?id=50473231) - [Data centers need power – lower income, rural residents pay the price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price)
+* [2026-11-12, 19:51:33](https://news.ycombinator.com/item?id=50473190) - [Former Nvidia CEO Huang had a relationship with a second employee, sources say](https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/)
 * [2026-11-12, 19:05:33](https://news.ycombinator.com/item?id=50472490) - [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
 * [2026-11-12, 18:52:01](https://news.ycombinator.com/item?id=50472260) - [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
 * [2026-11-12, 18:24:06](https://news.ycombinator.com/item?id=50471793) - [Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)
@@ -11,7 +12,6 @@
 * [2026-11-12, 18:14:18](https://news.ycombinator.com/item?id=50471621) - [Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company](https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html)
 * [2026-11-12, 18:01:48](https://news.ycombinator.com/item?id=50471431) - [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
 * [2026-11-12, 17:51:23](https://news.ycombinator.com/item?id=50471281) - [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)
-* [2026-11-12, 17:19:39](https://news.ycombinator.com/item?id=50470762) - [Paths in Pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
 * [2026-11-12, 17:02:42](https://news.ycombinator.com/item?id=50470488) - [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
 * [2026-11-12, 16:59:26](https://news.ycombinator.com/item?id=50470445) - [AWS Lambda Web Functions keep billing memory ~7 minutes after the last request](https://www.easel.sh/blog/lambda-web-functions-idle-memory)
 * [2026-11-12, 16:29:13](https://news.ycombinator.com/item?id=50469994) - [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
