@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-11-12, 18:24:06",
+      "https://news.ycombinator.com/item?id=50471793"
+    ],
+    [
+      "Rust 1.100.0",
+      "https://github.com/rust-lang/rust/releases/tag/1.100.0"
+    ]
+  ],
+  [
+    [
+      "2026-11-12, 18:20:48",
+      "https://news.ycombinator.com/item?id=50471731"
+    ],
+    [
+      "Outlook is down, and so is Microsoft's status page",
+      "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/"
+    ]
+  ],
+  [
+    [
       "2026-11-12, 18:17:13",
       "https://news.ycombinator.com/item?id=50471668"
     ],
     [
       "Ask HN: Microsoft/Azure Outage?",
       "https://news.ycombinator.com/item?id=50471668"
+    ]
+  ],
+  [
+    [
+      "2026-11-12, 18:15:48",
+      "https://news.ycombinator.com/item?id=50471650"
+    ],
+    [
+      "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "https://github.com/Parcha-ai/agentrun/blob/main/README.md"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2026-11-12, 14:30:38",
-      "https://news.ycombinator.com/item?id=50467869"
-    ],
-    [
-      "Running web sites makes me not want to",
-      "https://lowkey.party/running-web-sites-makes-me-not-want-to"
-    ]
-  ],
-  [
-    [
       "2026-11-12, 14:18:49",
       "https://news.ycombinator.com/item?id=50467618"
     ],
@@ -157,6 +177,16 @@
     [
       "Electric Ship Batteries Promise Compact, Cooler Power",
       "https://spectrum.ieee.org/electric-ship-batteries"
+    ]
+  ],
+  [
+    [
+      "2026-11-12, 14:05:28",
+      "https://news.ycombinator.com/item?id=50467297"
+    ],
+    [
+      "Our software engineering interviews are changing a little",
+      "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2026-11-10, 19:42:44",
-      "https://news.ycombinator.com/item?id=50445279"
-    ],
-    [
-      "Research taste in history: the importance of learning Babylonian math",
-      "https://resobscura.substack.com/p/research-taste-in-history-the-importance"
-    ]
-  ],
-  [
-    [
       "2026-11-10, 10:18:22",
       "https://news.ycombinator.com/item?id=50438261"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-11-09, 20:54:02",
-      "https://news.ycombinator.com/item?id=50431971"
-    ],
-    [
-      "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
-      "http://blog.nozomi.space/posts/sw2_dock/"
-    ]
-  ],
-  [
-    [
       "2026-11-09, 20:11:02",
       "https://news.ycombinator.com/item?id=50431237"
     ],
@@ -287,16 +297,6 @@
     [
       "A live tree of systemd jobs on the boot console",
       "https://codeberg.org/wvhulle/bootvine"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 17:45:08",
-      "https://news.ycombinator.com/item?id=50415379"
-    ],
-    [
-      "Show HN: Build a PC in 3D in the Browser",
-      "https://www.buildcores.com"
     ]
   ]
 ]
