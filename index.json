@@ -81,12 +81,12 @@
   ],
   [
     [
-      "2026-11-12, 18:17:13",
-      "https://news.ycombinator.com/item?id=50471668"
+      "2026-11-12, 18:20:48",
+      "https://news.ycombinator.com/item?id=50471731"
     ],
     [
-      "Ask HN: Microsoft/Azure Outage?",
-      "https://news.ycombinator.com/item?id=50471668"
+      "Outlook is down, and so is Microsoft's status page",
+      "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
       "https://github.com/simpsoka/zigzag"
-    ]
-  ],
-  [
-    [
-      "2026-11-12, 16:59:26",
-      "https://news.ycombinator.com/item?id=50470445"
-    ],
-    [
-      "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-      "https://www.easel.sh/blog/lambda-web-functions-idle-memory"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Socratic Tutor",
       "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md"
+    ]
+  ],
+  [
+    [
+      "2026-11-09, 13:02:44",
+      "https://news.ycombinator.com/item?id=50425017"
+    ],
+    [
+      "A live tree of systemd jobs on the boot console",
+      "https://codeberg.org/wvhulle/bootvine"
     ]
   ]
 ]
