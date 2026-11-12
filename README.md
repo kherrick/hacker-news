@@ -2,7 +2,6 @@
 
 * [2026-11-12, 02:36:48](https://news.ycombinator.com/item?id=50462375) - [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
 * [2026-11-12, 02:11:11](https://news.ycombinator.com/item?id=50462177) - [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
-* [2026-11-11, 23:22:29](https://news.ycombinator.com/item?id=50460398) - [Modern Web Guidance 1.0: The web platform expertise your coding agent is missing](https://developer.chrome.com/blog/modern-web-guidance-v1)
 * [2026-11-11, 23:02:38](https://news.ycombinator.com/item?id=50460154) - [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
 * [2026-11-11, 22:34:23](https://news.ycombinator.com/item?id=50459745) - [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2026-11-11, 22:31:06](https://news.ycombinator.com/item?id=50459703) - [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
@@ -18,6 +17,7 @@
 * [2026-11-11, 17:11:56](https://news.ycombinator.com/item?id=50455811) - [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://news.ycombinator.com/item?id=50455811)
 * [2026-11-11, 16:57:45](https://news.ycombinator.com/item?id=50455633) - [Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)
 * [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+* [2026-11-11, 16:05:18](https://news.ycombinator.com/item?id=50454995) - [The hardest notes to find on the guitar](https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard)
 * [2026-11-11, 15:33:06](https://news.ycombinator.com/item?id=50454625) - [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)
 * [2026-11-11, 14:10:46](https://news.ycombinator.com/item?id=50453637) - [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
 * [2026-11-11, 13:39:29](https://news.ycombinator.com/item?id=50453288) - [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
