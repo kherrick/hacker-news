@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-12, 06:52:48](https://news.ycombinator.com/item?id=50463899) - [Humble Bundle just killed most of their security through vibecoding](https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/)
-* [2026-11-12, 06:41:23](https://news.ycombinator.com/item?id=50463813) - [Europe has been living beyond its means. Now the bills are due](https://economist.com/europe/2026/11/10/europe-has-been-living-beyond-its-means-now-the-bills-are-due)
 * [2026-11-12, 05:49:34](https://news.ycombinator.com/item?id=50463540) - [I'm Working on a FOSS Linux Pinbal Simulation Engine](https://www.getlazarus.org/forums/topic/17/)
 * [2026-11-12, 04:32:31](https://news.ycombinator.com/item?id=50463103) - [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
 * [2026-11-12, 03:18:13](https://news.ycombinator.com/item?id=50462613) - [Bad ideas that aren't bad anymore](https://devonestes.com/bad-ideas-that-arent-bad-anymore)
@@ -24,6 +23,7 @@
 * [2026-11-11, 15:33:06](https://news.ycombinator.com/item?id=50454625) - [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)
 * [2026-11-11, 13:39:29](https://news.ycombinator.com/item?id=50453288) - [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
 * [2026-11-11, 12:05:22](https://news.ycombinator.com/item?id=50452455) - [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site)
+* [2026-11-11, 10:48:40](https://news.ycombinator.com/item?id=50451903) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
 * [2026-11-11, 07:03:17](https://news.ycombinator.com/item?id=50450488) - [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [2026-11-10, 10:18:22](https://news.ycombinator.com/item?id=50438261) - [Jane Street: Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)
 * [2026-11-10, 03:29:55](https://news.ycombinator.com/item?id=50435712) - [Stingray Fish Laser](https://www.stingray.no/en/technology/)
