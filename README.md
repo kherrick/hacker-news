@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-12, 14:25:23](https://news.ycombinator.com/item?id=50467763) - [PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released](https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/)
 * [2026-11-12, 14:18:49](https://news.ycombinator.com/item?id=50467618) - [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
 * [2026-11-12, 14:12:37](https://news.ycombinator.com/item?id=50467460) - [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
 * [2026-11-12, 14:11:58](https://news.ycombinator.com/item?id=50467439) - [Libreagi – Save OSS Models](https://libreagi.com/)
@@ -28,7 +29,6 @@
 * [2026-11-10, 10:18:22](https://news.ycombinator.com/item?id=50438261) - [Jane Street: Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)
 * [2026-11-09, 20:54:02](https://news.ycombinator.com/item?id=50431971) - [Making a €40 USB-C hub work as a Nintendo Switch 2 dock](http://blog.nozomi.space/posts/sw2_dock/)
 * [2026-11-09, 13:02:44](https://news.ycombinator.com/item?id=50425017) - [A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)
-* [2026-11-08, 20:04:36](https://news.ycombinator.com/item?id=50416606) - [Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)](https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s)
 * [2026-11-08, 17:45:08](https://news.ycombinator.com/item?id=50415379) - [Show HN: Build a PC in 3D in the Browser](https://www.buildcores.com)
 
 ## [Archives](archives/index.md)
