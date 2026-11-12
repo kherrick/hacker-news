@@ -2,7 +2,6 @@
 
 * [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)
 * [2026-11-12, 10:46:20](https://news.ycombinator.com/item?id=50465453) - [Researchers discover rare star system that emits radio signals every 8 minutes](https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/)
-* [2026-11-12, 10:37:47](https://news.ycombinator.com/item?id=50465395) - [Code Smells of Desperation (2023)](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 * [2026-11-12, 10:28:26](https://news.ycombinator.com/item?id=50465352) - [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity)
 * [2026-11-12, 05:49:34](https://news.ycombinator.com/item?id=50463540) - [I'm Working on a FOSS Linux Pinbal Simulation Engine](https://www.getlazarus.org/forums/topic/17/)
 * [2026-11-12, 02:11:11](https://news.ycombinator.com/item?id=50462177) - [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
@@ -21,6 +20,7 @@
 * [2026-11-11, 15:33:06](https://news.ycombinator.com/item?id=50454625) - [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)
 * [2026-11-11, 13:39:29](https://news.ycombinator.com/item?id=50453288) - [Hyper-realistic sand with WebGL2](https://av.github.io/safe-sand/)
 * [2026-11-11, 12:05:22](https://news.ycombinator.com/item?id=50452455) - [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site)
+* [2026-11-11, 10:48:40](https://news.ycombinator.com/item?id=50451903) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
 * [2026-11-11, 07:03:17](https://news.ycombinator.com/item?id=50450488) - [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [2026-11-10, 15:01:19](https://news.ycombinator.com/item?id=50441350) - [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com)
 * [2026-11-10, 11:46:09](https://news.ycombinator.com/item?id=50438958) - [Legocam: My Lego webcam from 2000, working on a modern Mac](https://blog.benjamin.ie/legocam)
