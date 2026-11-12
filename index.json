@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-12, 10:28:26",
+      "https://news.ycombinator.com/item?id=50465352"
+    ],
+    [
+      "Why Writing Correct Software Is Hard",
+      "https://pron.github.io/posts/correctness-and-complexity"
+    ]
+  ],
+  [
+    [
       "2026-11-12, 05:49:34",
       "https://news.ycombinator.com/item?id=50463540"
     ],
@@ -187,16 +197,6 @@
     [
       "Hyper-Realistic Sand with WebGL2",
       "https://av.github.io/safe-sand/"
-    ]
-  ],
-  [
-    [
-      "2026-11-11, 12:30:17",
-      "https://news.ycombinator.com/item?id=50452655"
-    ],
-    [
-      "Can a Linear Program Do Weight-Space Programming?",
-      "https://nathan.rs/posts/weight-space-lp/"
     ]
   ],
   [
