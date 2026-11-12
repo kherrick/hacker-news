@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-11-12, 21:56:11",
+      "https://news.ycombinator.com/item?id=50474883"
+    ],
+    [
+      "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "https://unemploymentlabs.com/checkpoint-forensics"
+    ]
+  ],
+  [
+    [
       "2026-11-12, 21:13:26",
       "https://news.ycombinator.com/item?id=50474361"
     ],
     [
-      "Foundation Models Framework (macOS)",
+      "Foundation Models framework",
       "https://developer.apple.com/foundation-models-framework/"
     ]
   ],
@@ -137,16 +147,6 @@
     [
       "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
       "https://github.com/simpsoka/zigzag"
-    ]
-  ],
-  [
-    [
-      "2026-11-12, 16:59:26",
-      "https://news.ycombinator.com/item?id=50470445"
-    ],
-    [
-      "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-      "https://www.easel.sh/blog/lambda-web-functions-idle-memory"
     ]
   ],
   [
