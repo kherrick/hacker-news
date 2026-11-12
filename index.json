@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-11-12, 21:09:49",
+      "https://news.ycombinator.com/item?id=50474311"
+    ],
+    [
+      "AI is turning Apple's app review process into a nightmare for synth developers",
+      "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+    ]
+  ],
+  [
+    [
       "2026-11-12, 19:53:54",
       "https://news.ycombinator.com/item?id=50473231"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-11-12, 16:59:26",
-      "https://news.ycombinator.com/item?id=50470445"
-    ],
-    [
-      "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-      "https://www.easel.sh/blog/lambda-web-functions-idle-memory"
-    ]
-  ],
-  [
-    [
       "2026-11-12, 16:29:13",
       "https://news.ycombinator.com/item?id=50469994"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=50465352"
     ],
     [
-      "Writing correct software is hard (2016)",
+      "Why writing correct software is hard and why math (alone) won’t help us (2016)",
       "https://pron.github.io/posts/correctness-and-complexity"
     ]
   ],
