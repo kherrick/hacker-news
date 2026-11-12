@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-12, 04:32:31](https://news.ycombinator.com/item?id=50463103) - [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
 * [2026-11-12, 02:36:48](https://news.ycombinator.com/item?id=50462375) - [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
 * [2026-11-12, 02:11:11](https://news.ycombinator.com/item?id=50462177) - [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 * [2026-11-11, 23:02:38](https://news.ycombinator.com/item?id=50460154) - [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
@@ -14,7 +15,6 @@
 * [2026-11-11, 19:12:16](https://news.ycombinator.com/item?id=50457230) - [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)
 * [2026-11-11, 18:32:42](https://news.ycombinator.com/item?id=50456791) - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
 * [2026-11-11, 18:21:38](https://news.ycombinator.com/item?id=50456631) - [AWS emulator](https://github.com/aws/aws-emulator)
-* [2026-11-11, 17:11:56](https://news.ycombinator.com/item?id=50455811) - [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://news.ycombinator.com/item?id=50455811)
 * [2026-11-11, 16:57:45](https://news.ycombinator.com/item?id=50455633) - [Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)
 * [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
 * [2026-11-11, 15:33:06](https://news.ycombinator.com/item?id=50454625) - [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)
