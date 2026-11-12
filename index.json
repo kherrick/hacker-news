@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-12, 02:11:11",
+      "https://news.ycombinator.com/item?id=50462177"
+    ],
+    [
+      "Critical RCE Vulnerability in Apache HTTP Server",
+      "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
+    ]
+  ],
+  [
+    [
       "2026-11-11, 23:02:38",
       "https://news.ycombinator.com/item?id=50460154"
     ],
@@ -147,16 +157,6 @@
     [
       "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
       "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
-    ]
-  ],
-  [
-    [
-      "2026-11-11, 16:05:18",
-      "https://news.ycombinator.com/item?id=50454995"
-    ],
-    [
-      "The hardest notes to find on the guitar",
-      "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard"
     ]
   ],
   [
