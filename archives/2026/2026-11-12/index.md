@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2026-11-12](index.md)
 
+* [2026-11-12, 02:36:48](https://news.ycombinator.com/item?id=50462375) - [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
 * [2026-11-12, 02:11:11](https://news.ycombinator.com/item?id=50462177) - [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)

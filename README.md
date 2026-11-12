@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-12, 02:36:48](https://news.ycombinator.com/item?id=50462375) - [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
 * [2026-11-12, 02:11:11](https://news.ycombinator.com/item?id=50462177) - [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 * [2026-11-11, 23:02:38](https://news.ycombinator.com/item?id=50460154) - [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
 * [2026-11-11, 22:34:23](https://news.ycombinator.com/item?id=50459745) - [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
@@ -27,7 +28,6 @@
 * [2026-11-10, 02:12:48](https://news.ycombinator.com/item?id=50435240) - [A Brief History of Sierra Online (2017)](https://retrofreakreviews.com/2017/01/30/sierra-retrospective/)
 * [2026-11-09, 22:15:13](https://news.ycombinator.com/item?id=50433042) - [Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding](https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding)
 * [2026-11-09, 17:27:24](https://news.ycombinator.com/item?id=50428619) - [Did Life Begin in an RNA World?](https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/)
-* [2026-11-09, 07:26:45](https://news.ycombinator.com/item?id=50422216) - [Making the Iron Giant Live](https://animationobsessive.substack.com/p/making-the-iron-giant-live)
 * [2026-11-08, 19:37:42](https://news.ycombinator.com/item?id=50416365) - [Optimizing Reference Deletions in Git](https://nayak.im/posts/optimizing-reference-deletion/)
 * [2026-11-08, 12:34:04](https://news.ycombinator.com/item?id=50412715) - [How to make a CNC plasma cutter with high-frequency start](https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html)
 
