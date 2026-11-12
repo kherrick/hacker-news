@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-12, 16:59:26](https://news.ycombinator.com/item?id=50470445) - [AWS Lambda Web Functions keep billing memory ~7 minutes after the last request](https://www.easel.sh/blog/lambda-web-functions-idle-memory)
 * [2026-11-12, 16:29:13](https://news.ycombinator.com/item?id=50469994) - [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
 * [2026-11-12, 15:35:54](https://news.ycombinator.com/item?id=50469123) - [Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in](https://getvale.org)
 * [2026-11-12, 15:30:01](https://news.ycombinator.com/item?id=50469007) - [Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games](https://fable52.games)
@@ -20,7 +21,6 @@
 * [2026-11-12, 02:11:11](https://news.ycombinator.com/item?id=50462177) - [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 * [2026-11-11, 22:34:23](https://news.ycombinator.com/item?id=50459745) - [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
 * [2026-11-11, 19:22:09](https://news.ycombinator.com/item?id=50457344) - [Pulling the Lever in a Subway Problem](https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem)
-* [2026-11-11, 18:32:42](https://news.ycombinator.com/item?id=50456791) - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
 * [2026-11-11, 18:21:38](https://news.ycombinator.com/item?id=50456631) - [AWS emulator](https://github.com/aws/aws-emulator)
 * [2026-11-11, 16:38:44](https://news.ycombinator.com/item?id=50455394) - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
 * [2026-11-11, 07:03:17](https://news.ycombinator.com/item?id=50450488) - [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
