@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-12, 04:32:31](https://news.ycombinator.com/item?id=50463103) - [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
+* [2026-11-12, 02:53:22](https://news.ycombinator.com/item?id=50462469) - [Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS](https://github.com/DaleFranks/ramasite)
 * [2026-11-12, 02:36:48](https://news.ycombinator.com/item?id=50462375) - [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
 * [2026-11-12, 02:11:11](https://news.ycombinator.com/item?id=50462177) - [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 * [2026-11-11, 23:02:38](https://news.ycombinator.com/item?id=50460154) - [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
@@ -26,7 +27,6 @@
 * [2026-11-11, 07:03:17](https://news.ycombinator.com/item?id=50450488) - [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [2026-11-10, 03:29:55](https://news.ycombinator.com/item?id=50435712) - [Stingray Fish Laser](https://www.stingray.no/en/technology/)
 * [2026-11-10, 02:12:48](https://news.ycombinator.com/item?id=50435240) - [A Brief History of Sierra Online (2017)](https://retrofreakreviews.com/2017/01/30/sierra-retrospective/)
-* [2026-11-09, 22:15:13](https://news.ycombinator.com/item?id=50433042) - [Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding](https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding)
 * [2026-11-09, 17:27:24](https://news.ycombinator.com/item?id=50428619) - [Did Life Begin in an RNA World?](https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/)
 * [2026-11-08, 14:06:18](https://news.ycombinator.com/item?id=50413487) - [The Learjet Repo Man (2009)](https://www.salon.com/2009/06/06/lear_jet_repo_man/)
 * [2026-11-08, 12:34:04](https://news.ycombinator.com/item?id=50412715) - [How to make a CNC plasma cutter with high-frequency start](https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html)
