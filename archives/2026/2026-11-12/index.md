@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-12](index.md)
 
+* [2026-11-12, 13:56:38](https://news.ycombinator.com/item?id=50467139) - [Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal](https://www.bbc.co.uk/news/live/c6zjry11v8w1t)
+* [2026-11-12, 13:56:11](https://news.ycombinator.com/item?id=50467132) - [Jensen Huang resigns as Nvidia CEO immediately](https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/)
+* [2026-11-12, 13:52:48](https://news.ycombinator.com/item?id=50467092) - [Jensen Huang resigning effective immediately](https://www.stocktitan.net/news/NVDA/nvidia-announces-ceo-03al5m45ne1p.html)
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
 * [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)
 * [2026-11-12, 10:46:20](https://news.ycombinator.com/item?id=50465453) - [Researchers discover rare star system that emits radio signals every 8 minutes](https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/)
