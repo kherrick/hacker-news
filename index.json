@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-11-12, 19:06:23",
+      "https://news.ycombinator.com/item?id=50472505"
+    ],
+    [
+      "Distributed Ray Tracer",
+      "https://ray.hatchet.run"
+    ]
+  ],
+  [
+    [
       "2026-11-12, 19:05:33",
       "https://news.ycombinator.com/item?id=50472490"
     ],
@@ -47,16 +57,6 @@
     [
       "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
       "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/"
-    ]
-  ],
-  [
-    [
-      "2026-11-12, 18:20:48",
-      "https://news.ycombinator.com/item?id=50471731"
-    ],
-    [
-      "Outlook is down, and so is Microsoft's status page",
-      "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2026-11-12, 16:52:31",
-      "https://news.ycombinator.com/item?id=50470343"
-    ],
-    [
-      "Show HN: Apron Chat Protocol",
-      "https://apron.chat/"
-    ]
-  ],
-  [
-    [
       "2026-11-12, 16:29:13",
       "https://news.ycombinator.com/item?id=50469994"
     ],
@@ -167,6 +157,16 @@
     [
       "I'm making LLMs work on small and old devices",
       "https://github.com/hyperionaidev/smolmaxxing/"
+    ]
+  ],
+  [
+    [
+      "2026-11-12, 15:14:52",
+      "https://news.ycombinator.com/item?id=50468720"
+    ],
+    [
+      "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+      "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/"
     ]
   ],
   [
