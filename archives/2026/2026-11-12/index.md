@@ -6,6 +6,7 @@
 
 * [2026-11-12, 14:18:49](https://news.ycombinator.com/item?id=50467618) - [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
 * [2026-11-12, 14:12:37](https://news.ycombinator.com/item?id=50467460) - [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
+* [2026-11-12, 14:11:58](https://news.ycombinator.com/item?id=50467439) - [Libreagi – Save OSS Models](https://libreagi.com/)
 * [2026-11-12, 14:06:03](https://news.ycombinator.com/item?id=50467305) - [Electric Ship Batteries Promise Compact, Cooler Power](https://spectrum.ieee.org/electric-ship-batteries)
 * [2026-11-12, 14:05:28](https://news.ycombinator.com/item?id=50467297) - [Jane Street – Our software engineering interviews are changing (a little)](https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/)
 * [2026-11-12, 14:00:54](https://news.ycombinator.com/item?id=50467191) - [Nvidia CEO Jensen Huang resigns after reports of extramarital relationships](https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402)
