@@ -26,6 +26,7 @@
 * [2026-11-11, 18:32:42](https://news.ycombinator.com/item?id=50456791) - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
 * [2026-11-11, 18:28:31](https://news.ycombinator.com/item?id=50456740) - [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
 * [2026-11-11, 18:21:38](https://news.ycombinator.com/item?id=50456631) - [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)
+* [2026-11-11, 17:53:29](https://news.ycombinator.com/item?id=50456279) - [The Lost World of Aquaterra](https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/)
 * [2026-11-11, 17:30:47](https://news.ycombinator.com/item?id=50456010) - [The Power and Legacy of Virginia Tech's Mac-Based Supercomputers](https://512pixels.net/2026/11/va-tech-system-x-system-g/)
 * [2026-11-11, 17:11:56](https://news.ycombinator.com/item?id=50455811) - [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://pomerado.ai/)
 * [2026-11-11, 17:11:56](https://news.ycombinator.com/item?id=50455811) - [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://news.ycombinator.com/item?id=50455811)
