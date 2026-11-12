@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-12, 06:52:48](https://news.ycombinator.com/item?id=50463899) - [Humble Bundle just killed most of their security through vibecoding](https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/)
+* [2026-11-12, 06:41:23](https://news.ycombinator.com/item?id=50463813) - [Europe has been living beyond its means. Now the bills are due](https://economist.com/europe/2026/11/10/europe-has-been-living-beyond-its-means-now-the-bills-are-due)
 * [2026-11-12, 05:49:34](https://news.ycombinator.com/item?id=50463540) - [I'm Working on a FOSS Linux Pinbal Simulation Engine](https://www.getlazarus.org/forums/topic/17/)
 * [2026-11-12, 04:32:31](https://news.ycombinator.com/item?id=50463103) - [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
 * [2026-11-12, 03:18:13](https://news.ycombinator.com/item?id=50462613) - [Bad ideas that aren't bad anymore](https://devonestes.com/bad-ideas-that-arent-bad-anymore)
@@ -29,7 +30,6 @@
 * [2026-11-09, 17:27:24](https://news.ycombinator.com/item?id=50428619) - [Did Life Begin in an RNA World?](https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/)
 * [2026-11-09, 03:57:57](https://news.ycombinator.com/item?id=50420905) - [Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)](https://publicdomainreview.org/collection/marian-wawrzeniecki/)
 * [2026-11-08, 17:19:06](https://news.ycombinator.com/item?id=50415162) - [I gave an agent a lakehouse and control of my garden](https://jatorre.github.io/garden/)
-* [2026-11-08, 12:34:04](https://news.ycombinator.com/item?id=50412715) - [How to make a CNC plasma cutter with high-frequency start](https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html)
 
 ## [Archives](archives/index.md)
 
