@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-11-12](index.md)
 
+* [2026-11-12, 18:24:06](https://news.ycombinator.com/item?id=50471793) - [Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)
+* [2026-11-12, 18:20:48](https://news.ycombinator.com/item?id=50471731) - [Outlook is down, and so is Microsoft's status page](https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/)
 * [2026-11-12, 18:17:13](https://news.ycombinator.com/item?id=50471668) - [Ask HN: Microsoft/Azure Outage?](https://news.ycombinator.com/item?id=50471668)
+* [2026-11-12, 18:15:48](https://news.ycombinator.com/item?id=50471650) - [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md)
 * [2026-11-12, 18:01:48](https://news.ycombinator.com/item?id=50471431) - [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
 * [2026-11-12, 18:01:37](https://news.ycombinator.com/item?id=50471428) - [Gemini 4 Hydrogen](https://deepmind.google/models/model-cards/gemini-4-hydrogen/)
 * [2026-11-12, 17:51:23](https://news.ycombinator.com/item?id=50471281) - [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)
