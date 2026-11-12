@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-12](index.md)
 
+* [2026-11-12, 19:05:33](https://news.ycombinator.com/item?id=50472490) - [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
+* [2026-11-12, 18:56:11](https://news.ycombinator.com/item?id=50472323) - [Apify Security Incident](https://status.apify.com/incidents/sxd1dj5j6749)
 * [2026-11-12, 18:52:01](https://news.ycombinator.com/item?id=50472260) - [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
 * [2026-11-12, 18:24:06](https://news.ycombinator.com/item?id=50471793) - [Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)
 * [2026-11-12, 18:22:22](https://news.ycombinator.com/item?id=50471761) - [22-Year-Old PostgreSQL Bug Turned into Remote Code Execution](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-12, 19:05:33](https://news.ycombinator.com/item?id=50472490) - [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
+* [2026-11-12, 18:56:11](https://news.ycombinator.com/item?id=50472323) - [Apify Security Incident](https://status.apify.com/incidents/sxd1dj5j6749)
 * [2026-11-12, 18:52:01](https://news.ycombinator.com/item?id=50472260) - [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
 * [2026-11-12, 18:24:06](https://news.ycombinator.com/item?id=50471793) - [Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)
 * [2026-11-12, 18:22:22](https://news.ycombinator.com/item?id=50471761) - [22-Year-Old PostgreSQL Bug Turned into Remote Code Execution](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/)
@@ -23,11 +25,9 @@
 * [2026-11-12, 14:05:28](https://news.ycombinator.com/item?id=50467297) - [Our software engineering interviews are changing a little](https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/)
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
 * [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)
-* [2026-11-12, 10:46:20](https://news.ycombinator.com/item?id=50465453) - [Researchers discover rare star system that emits radio signals every 8 minutes](https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/)
 * [2026-11-12, 10:28:26](https://news.ycombinator.com/item?id=50465352) - [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity)
 * [2026-11-11, 21:20:01](https://news.ycombinator.com/item?id=50458849) - [Relax: JIT compiler for Rust to reduce build times](https://makepad.github.io/relax/)
 * [2026-11-10, 10:18:22](https://news.ycombinator.com/item?id=50438261) - [Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)
-* [2026-11-10, 05:18:42](https://news.ycombinator.com/item?id=50436363) - [Decoding REXPaint Files in Odin](https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/)
 * [2026-11-09, 20:11:02](https://news.ycombinator.com/item?id=50431237) - [Creating Worlds: Runes and Spells Prototype](https://www.fractalkitty.com/creating-worlds-runes-and-spells/)
 * [2026-11-09, 13:02:44](https://news.ycombinator.com/item?id=50425017) - [A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)
 
