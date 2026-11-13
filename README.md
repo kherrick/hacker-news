@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 14:28:32](https://news.ycombinator.com/item?id=50484006) - [The 42-Year Journey to Bring 'Neuromancer' to the Screen](https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/)
 * [2026-11-13, 14:19:50](https://news.ycombinator.com/item?id=50483875) - [Mercedes-Benz to halt 'all future investments' in Germany](https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7)
 * [2026-11-13, 14:01:13](https://news.ycombinator.com/item?id=50483611) - [Why Zig over C for Systems Programming](https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/)
 * [2026-11-13, 13:55:32](https://news.ycombinator.com/item?id=50483546) - [Building collapses in Brooklyn with 8 people dead so far](https://www.nytimes.com/live/2026/11/12/nyregion/building-collapse-nyc-brooklyn)
 * [2026-11-13, 13:54:49](https://news.ycombinator.com/item?id=50483533) - [US test reactor cleared for operations](https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations)
 * [2026-11-13, 13:51:27](https://news.ycombinator.com/item?id=50483480) - [Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims](https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest)
-* [2026-11-13, 13:45:06](https://news.ycombinator.com/item?id=50483391) - [The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]](https://www.youtube.com/watch?v=YYU_geUwQoA)
 * [2026-11-13, 12:17:52](https://news.ycombinator.com/item?id=50482455) - [Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy](https://github.com/Christ10-8/reflota)
 * [2026-11-13, 12:10:24](https://news.ycombinator.com/item?id=50482379) - [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
 * [2026-11-13, 11:13:46](https://news.ycombinator.com/item?id=50481870) - [AI Is Destroying the Trust Between Writers and Readers](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)
