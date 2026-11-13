@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 14:19:50](https://news.ycombinator.com/item?id=50483875) - [Mercedes-Benz to halt 'all future investments' in Germany](https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7)
+* [2026-11-13, 14:01:13](https://news.ycombinator.com/item?id=50483611) - [Why Zig over C for Systems Programming](https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/)
 * [2026-11-13, 13:55:32](https://news.ycombinator.com/item?id=50483546) - [Building collapses in Brooklyn with 8 people dead so far](https://www.nytimes.com/live/2026/11/12/nyregion/building-collapse-nyc-brooklyn)
 * [2026-11-13, 13:54:49](https://news.ycombinator.com/item?id=50483533) - [US test reactor cleared for operations](https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations)
 * [2026-11-13, 13:51:27](https://news.ycombinator.com/item?id=50483480) - [Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims](https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest)
@@ -28,8 +30,6 @@
 * [2026-11-12, 14:18:49](https://news.ycombinator.com/item?id=50467618) - [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
 * [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)
-* [2026-11-11, 23:09:27](https://news.ycombinator.com/item?id=50460263) - [Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp](https://github.com/jjba23/sift)
-* [2026-11-11, 21:20:01](https://news.ycombinator.com/item?id=50458849) - [Relax: JIT compiler for Rust to reduce build times](https://makepad.github.io/relax/)
 
 ## [Archives](archives/index.md)
 
