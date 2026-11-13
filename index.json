@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=50486258"
     ],
     [
-      "Apify Was Hacked",
+      "Apify Security Incident",
       "https://status.apify.com/incidents/sxd1dj5j6749"
     ]
   ],
@@ -57,16 +57,6 @@
     [
       "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
       "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 15:29:10",
-      "https://news.ycombinator.com/item?id=50484960"
-    ],
-    [
-      "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "https://text.npr.org/nx-s1-6029408"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
       "https://github.com/simpsoka/zigzag"
+    ]
+  ],
+  [
+    [
+      "2026-11-12, 15:23:10",
+      "https://news.ycombinator.com/item?id=50468888"
+    ],
+    [
+      "I'm making LLMs work on small and old devices",
+      "https://github.com/hyperionaidev/smolmaxxing/"
     ]
   ],
   [
