@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 05:13:30](https://news.ycombinator.com/item?id=50478635) - [Scientists claim the universe is twice as old as believed](https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/)
 * [2026-11-13, 05:10:27](https://news.ycombinator.com/item?id=50478622) - [The average cost for a new vehicle in the U.S. hits a record high: over $51,000](https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high)
 * [2026-11-13, 04:58:53](https://news.ycombinator.com/item?id=50478543) - [Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A](https://github.com/pharma2a/pharma2a)
 * [2026-11-13, 04:54:53](https://news.ycombinator.com/item?id=50478515) - [IceWM](https://ice-wm.org/)
@@ -19,7 +20,6 @@
 * [2026-11-12, 18:22:22](https://news.ycombinator.com/item?id=50471761) - [Turning a 22-year-old Postgres type-confusion primitive into RCE](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/)
 * [2026-11-12, 18:20:48](https://news.ycombinator.com/item?id=50471731) - [Service degradation on Microsoft 365](https://status.cloud.microsoft/)
 * [2026-11-12, 18:01:48](https://news.ycombinator.com/item?id=50471431) - [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
-* [2026-11-12, 17:51:23](https://news.ycombinator.com/item?id=50471281) - [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)
 * [2026-11-12, 17:02:42](https://news.ycombinator.com/item?id=50470488) - [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
 * [2026-11-12, 15:23:10](https://news.ycombinator.com/item?id=50468888) - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
 * [2026-11-12, 14:18:49](https://news.ycombinator.com/item?id=50467618) - [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)

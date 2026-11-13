@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 05:13:30](https://news.ycombinator.com/item?id=50478635) - [Scientists claim the universe is twice as old as believed](https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/)
 * [2026-11-13, 05:10:27](https://news.ycombinator.com/item?id=50478622) - [The average cost for a new vehicle in the U.S. hits a record high: over $51,000](https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high)
 * [2026-11-13, 04:58:53](https://news.ycombinator.com/item?id=50478543) - [Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A](https://github.com/pharma2a/pharma2a)
 * [2026-11-13, 04:54:53](https://news.ycombinator.com/item?id=50478515) - [IceWM](https://ice-wm.org/)
