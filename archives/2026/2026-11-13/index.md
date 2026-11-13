@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 21:08:49](https://news.ycombinator.com/item?id=50489678) - [FAA issues nationwide ground stop due to \"extraordinary circumstances\"](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
 * [2026-11-13, 21:01:11](https://news.ycombinator.com/item?id=50489589) - [Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth](https://atg.science/careers)
 * [2026-11-13, 20:20:30](https://news.ycombinator.com/item?id=50489083) - [Big tech is here to let us down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down)
 * [2026-11-13, 19:58:42](https://news.ycombinator.com/item?id=50488835) - [Live-migration support in FreeBSD and bhyve coming](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)

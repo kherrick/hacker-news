@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 21:08:49](https://news.ycombinator.com/item?id=50489678) - [FAA issues nationwide ground stop due to \"extraordinary circumstances\"](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
 * [2026-11-13, 21:01:11](https://news.ycombinator.com/item?id=50489589) - [Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth](https://atg.science/careers)
 * [2026-11-13, 20:20:30](https://news.ycombinator.com/item?id=50489083) - [Big tech is here to let us down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down)
 * [2026-11-13, 19:58:42](https://news.ycombinator.com/item?id=50488835) - [Live-migration support in FreeBSD and bhyve coming](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
@@ -22,7 +23,6 @@
 * [2026-11-13, 17:09:58](https://news.ycombinator.com/item?id=50486482) - [LibreOffice actually works 365 days a year](https://twitter.com/LibreOffice/status/2121205272479998268)
 * [2026-11-13, 16:55:59](https://news.ycombinator.com/item?id=50486258) - [Apify Security Incident](https://status.apify.com/incidents/sxd1dj5j6749)
 * [2026-11-13, 15:52:04](https://news.ycombinator.com/item?id=50485295) - [Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers](https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e)
-* [2026-11-13, 15:29:10](https://news.ycombinator.com/item?id=50484960) - [Why is Google cutting off Search from AI-free schools? Here are some theories](https://text.npr.org/nx-s1-6029408)
 * [2026-11-13, 15:08:07](https://news.ycombinator.com/item?id=50484650) - [Minnesota guitarist's \"palmfrets\" invention strikes a new chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)
 * [2026-11-13, 14:43:12](https://news.ycombinator.com/item?id=50484235) - [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
 * [2026-11-13, 14:28:40](https://news.ycombinator.com/item?id=50484007) - [Lonewolf 0.3 – A standalone XMPP server written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
