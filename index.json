@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2026-11-13, 10:20:09",
-      "https://news.ycombinator.com/item?id=50481220"
-    ],
-    [
-      "Claude Is Down",
-      "https://status.claude.com/history"
-    ]
-  ],
-  [
-    [
       "2026-11-13, 10:18:13",
       "https://news.ycombinator.com/item?id=50481187"
     ],
@@ -287,6 +277,16 @@
     [
       "Anthropic IPO",
       "https://ipo.anthropic.com/us/"
+    ]
+  ],
+  [
+    [
+      "2026-11-11, 23:09:27",
+      "https://news.ycombinator.com/item?id=50460263"
+    ],
+    [
+      "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+      "https://github.com/jjba23/sift"
     ]
   ],
   [
