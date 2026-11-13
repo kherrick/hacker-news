@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 20:20:30](https://news.ycombinator.com/item?id=50489083) - [Big tech is here to let us down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down)
 * [2026-11-13, 19:51:56](https://news.ycombinator.com/item?id=50488769) - [No AI Slop: A Manifesto](https://www.slopmanifesto.com/)
 * [2026-11-13, 19:41:09](https://news.ycombinator.com/item?id=50488664) - [Someone's Impersonating This Blog](https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/)
 * [2026-11-13, 19:27:15](https://news.ycombinator.com/item?id=50488490) - [Technology as a Search Problem](https://www.construction-physics.com/p/technology-as-a-search-problem)
@@ -26,7 +27,6 @@
 * [2026-11-13, 14:28:40](https://news.ycombinator.com/item?id=50484007) - [Lonewolf 0.3 – A standalone XMPP server written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
 * [2026-11-13, 14:25:46](https://news.ycombinator.com/item?id=50483959) - [CERN Built the Large Hadron Collider's Next-Gen Magnets](https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets)
 * [2026-11-13, 12:10:24](https://news.ycombinator.com/item?id=50482379) - [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
-* [2026-11-13, 11:13:46](https://news.ycombinator.com/item?id=50481870) - [AI is destroying the trust between writers and readers](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)
 * [2026-11-13, 10:18:13](https://news.ycombinator.com/item?id=50481187) - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
 * [2026-11-13, 04:54:53](https://news.ycombinator.com/item?id=50478515) - [IceWM](https://ice-wm.org/)
 * [2026-11-12, 22:03:09](https://news.ycombinator.com/item?id=50474959) - [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
