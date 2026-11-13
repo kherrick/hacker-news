@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
 * [2026-11-13, 13:55:32](https://news.ycombinator.com/item?id=50483546) - [Building collapses in Brooklyn with 8 people dead so far](https://www.nytimes.com/live/2026/11/12/nyregion/building-collapse-nyc-brooklyn)
+* [2026-11-13, 13:54:49](https://news.ycombinator.com/item?id=50483533) - [US test reactor cleared for operations](https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations)
 * [2026-11-13, 13:51:27](https://news.ycombinator.com/item?id=50483480) - [Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims](https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest)
+* [2026-11-13, 13:45:06](https://news.ycombinator.com/item?id=50483391) - [The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]](https://www.youtube.com/watch?v=YYU_geUwQoA)
 * [2026-11-13, 13:08:48](https://news.ycombinator.com/item?id=50482992) - [Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory](https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/)
 * [2026-11-13, 12:17:52](https://news.ycombinator.com/item?id=50482455) - [Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy](https://github.com/Christ10-8/reflota)
 * [2026-11-13, 12:10:24](https://news.ycombinator.com/item?id=50482379) - [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)

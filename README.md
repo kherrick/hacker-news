@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-13, 13:55:32](https://news.ycombinator.com/item?id=50483546) - [Building collapses in Brooklyn with 8 people dead so far](https://www.nytimes.com/live/2026/11/12/nyregion/building-collapse-nyc-brooklyn)
+* [2026-11-13, 13:54:49](https://news.ycombinator.com/item?id=50483533) - [US test reactor cleared for operations](https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations)
 * [2026-11-13, 13:51:27](https://news.ycombinator.com/item?id=50483480) - [Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims](https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest)
+* [2026-11-13, 13:45:06](https://news.ycombinator.com/item?id=50483391) - [The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]](https://www.youtube.com/watch?v=YYU_geUwQoA)
 * [2026-11-13, 12:17:52](https://news.ycombinator.com/item?id=50482455) - [Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy](https://github.com/Christ10-8/reflota)
 * [2026-11-13, 12:10:24](https://news.ycombinator.com/item?id=50482379) - [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
 * [2026-11-13, 11:13:46](https://news.ycombinator.com/item?id=50481870) - [AI Is Destroying the Trust Between Writers and Readers](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)
@@ -25,10 +27,8 @@
 * [2026-11-12, 17:02:42](https://news.ycombinator.com/item?id=50470488) - [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
 * [2026-11-12, 15:23:10](https://news.ycombinator.com/item?id=50468888) - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
 * [2026-11-12, 14:18:49](https://news.ycombinator.com/item?id=50467618) - [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
-* [2026-11-12, 14:12:37](https://news.ycombinator.com/item?id=50467460) - [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
 * [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)
-* [2026-11-11, 23:09:27](https://news.ycombinator.com/item?id=50460263) - [Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp](https://github.com/jjba23/sift)
 * [2026-11-11, 21:20:01](https://news.ycombinator.com/item?id=50458849) - [Relax: JIT compiler for Rust to reduce build times](https://makepad.github.io/relax/)
 
 ## [Archives](archives/index.md)
