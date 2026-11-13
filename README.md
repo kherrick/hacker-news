@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 17:55:28](https://news.ycombinator.com/item?id=50487185) - [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa)
 * [2026-11-13, 17:30:10](https://news.ycombinator.com/item?id=50486748) - [AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths)
 * [2026-11-13, 17:10:33](https://news.ycombinator.com/item?id=50486489) - [Arm boss Rene Haas approached in Nvidia CEO search](https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926)
 * [2026-11-13, 17:09:58](https://news.ycombinator.com/item?id=50486482) - [\"LibreOffice works 365 days a year. Just saying.\"](https://twitter.com/LibreOffice/status/2121205272479998268)
@@ -28,7 +29,6 @@
 * [2026-11-12, 18:39:05](https://news.ycombinator.com/item?id=50472038) - [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 * [2026-11-12, 18:20:48](https://news.ycombinator.com/item?id=50471731) - [Service degradation on Microsoft 365](https://status.cloud.microsoft/)
 * [2026-11-12, 17:02:42](https://news.ycombinator.com/item?id=50470488) - [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
-* [2026-11-12, 15:23:10](https://news.ycombinator.com/item?id=50468888) - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
 
 ## [Archives](archives/index.md)
