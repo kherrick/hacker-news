@@ -7,6 +7,7 @@
 * [2026-11-12, 23:19:53](https://news.ycombinator.com/item?id=50475829) - [Richard A. Posner has died](https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge)
 * [2026-11-12, 23:08:31](https://news.ycombinator.com/item?id=50475735) - [Why You Should Expect an AI Crash](https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash)
 * [2026-11-12, 23:06:17](https://news.ycombinator.com/item?id=50475713) - [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
+* [2026-11-12, 22:47:24](https://news.ycombinator.com/item?id=50475505) - [Outlook Down, Microsoft Teams and Office may be impacted](https://status.cloud.microsoft/m365/referrer=serviceStatusRedirect)
 * [2026-11-12, 21:56:11](https://news.ycombinator.com/item?id=50474883) - [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
 * [2026-11-12, 21:13:26](https://news.ycombinator.com/item?id=50474361) - [Foundation Models Framework (macOS)](https://developer.apple.com/foundation-models-framework/)
 * [2026-11-12, 21:09:49](https://news.ycombinator.com/item?id=50474311) - [AI is turning Apple's app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
