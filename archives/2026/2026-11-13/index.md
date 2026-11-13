@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 15:43:09](https://news.ycombinator.com/item?id=50485166) - [Comparing Jensen to Steve Jobs Is Stupid](https://jonaserthal.com/blog/jobs-and-jensen/)
+* [2026-11-13, 15:08:07](https://news.ycombinator.com/item?id=50484650) - [Palmfrets, Minnesota guitarist's invention, strikes a new chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)
+* [2026-11-13, 14:58:07](https://news.ycombinator.com/item?id=50484496) - [EU Digital Identity Wallet rollout: every EU state on one board](https://myid.ie/business/eu-digital-wallet-tracker/)
 * [2026-11-13, 14:53:56](https://news.ycombinator.com/item?id=50484426) - [Ask HN: Can anyone name anything new that AI has done?](https://news.ycombinator.com/item?id=50484426)
 * [2026-11-13, 14:53:32](https://news.ycombinator.com/item?id=50484421) - [U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years](https://news.ycombinator.com/item?id=50484421)
 * [2026-11-13, 14:43:12](https://news.ycombinator.com/item?id=50484235) - [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)

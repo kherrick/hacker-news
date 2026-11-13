@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 15:43:09](https://news.ycombinator.com/item?id=50485166) - [Comparing Jensen to Steve Jobs Is Stupid](https://jonaserthal.com/blog/jobs-and-jensen/)
+* [2026-11-13, 15:08:07](https://news.ycombinator.com/item?id=50484650) - [Palmfrets, Minnesota guitarist's invention, strikes a new chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)
+* [2026-11-13, 14:58:07](https://news.ycombinator.com/item?id=50484496) - [EU Digital Identity Wallet rollout: every EU state on one board](https://myid.ie/business/eu-digital-wallet-tracker/)
 * [2026-11-13, 14:53:32](https://news.ycombinator.com/item?id=50484421) - [U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years](https://news.ycombinator.com/item?id=50484421)
 * [2026-11-13, 14:43:12](https://news.ycombinator.com/item?id=50484235) - [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
 * [2026-11-13, 14:28:40](https://news.ycombinator.com/item?id=50484007) - [Lonewolf 0.3 – A standalone XMPP server written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
@@ -22,14 +25,11 @@
 * [2026-11-12, 19:05:33](https://news.ycombinator.com/item?id=50472490) - [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
 * [2026-11-12, 18:52:01](https://news.ycombinator.com/item?id=50472260) - [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
 * [2026-11-12, 18:39:05](https://news.ycombinator.com/item?id=50472038) - [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
-* [2026-11-12, 18:22:22](https://news.ycombinator.com/item?id=50471761) - [Turning a 22-year-old Postgres type-confusion primitive into RCE](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/)
 * [2026-11-12, 18:20:48](https://news.ycombinator.com/item?id=50471731) - [Service degradation on Microsoft 365](https://status.cloud.microsoft/)
-* [2026-11-12, 18:15:48](https://news.ycombinator.com/item?id=50471650) - [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md)
 * [2026-11-12, 17:02:42](https://news.ycombinator.com/item?id=50470488) - [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
 * [2026-11-12, 15:23:10](https://news.ycombinator.com/item?id=50468888) - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
 * [2026-11-12, 14:18:49](https://news.ycombinator.com/item?id=50467618) - [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
-* [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)
 
 ## [Archives](archives/index.md)
 
