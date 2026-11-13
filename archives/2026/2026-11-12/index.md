@@ -12,6 +12,7 @@
 * [2026-11-12, 21:13:26](https://news.ycombinator.com/item?id=50474361) - [Foundation Models Framework (macOS)](https://developer.apple.com/foundation-models-framework/)
 * [2026-11-12, 21:09:49](https://news.ycombinator.com/item?id=50474311) - [AI is turning Apple's app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
 * [2026-11-12, 20:53:04](https://news.ycombinator.com/item?id=50474106) - [Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay](https://github.com/cerulion-inc/cerulion)
+* [2026-11-12, 20:37:55](https://news.ycombinator.com/item?id=50473888) - [Announcement: Conductor Is Back](https://twitter.com/charlieholtz/status/2120973052024598620)
 * [2026-11-12, 20:20:41](https://news.ycombinator.com/item?id=50473606) - [Microsoft Status: \"We are re-routing the protocols\"](https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821)
 * [2026-11-12, 19:53:54](https://news.ycombinator.com/item?id=50473231) - [Data centers need power – lower income, rural residents pay the price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price)
 * [2026-11-12, 19:51:33](https://news.ycombinator.com/item?id=50473190) - [Former Nvidia CEO Huang had a relationship with a second employee, sources say](https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/)
