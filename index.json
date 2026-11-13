@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-13, 04:58:53",
+      "https://news.ycombinator.com/item?id=50478543"
+    ],
+    [
+      "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+      "https://github.com/pharma2a/pharma2a"
+    ]
+  ],
+  [
+    [
       "2026-11-13, 04:54:53",
       "https://news.ycombinator.com/item?id=50478515"
     ],
@@ -287,16 +297,6 @@
     [
       "Relax: JIT compiler for Rust to reduce build times",
       "https://makepad.github.io/relax/"
-    ]
-  ],
-  [
-    [
-      "2026-11-11, 15:40:05",
-      "https://news.ycombinator.com/item?id=50454700"
-    ],
-    [
-      "Before Pixels: Speed-Minder",
-      "https://unsung.aresluna.org/before-pixels-speed-minder/"
     ]
   ]
 ]
