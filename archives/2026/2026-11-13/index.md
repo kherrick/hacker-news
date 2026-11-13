@@ -9,6 +9,7 @@
 * [2026-11-13, 07:55:49](https://news.ycombinator.com/item?id=50479876) - [The Netherlands Is Dismantling the International Criminal Court](https://rightsforum.org/en/diplomatic-sources-the-netherlands-is-negotiating-the-dismantling-of-the-international-criminal-court/)
 * [2026-11-13, 07:39:55](https://news.ycombinator.com/item?id=50479721) - [TSMC Hacked](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm)
 * [2026-11-13, 06:18:23](https://news.ycombinator.com/item?id=50479098) - [Global Microsoft Outage](https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk)
+* [2026-11-13, 06:12:02](https://news.ycombinator.com/item?id=50479045) - [Microsoft says attempts to fix global outage not going 'as expected'](https://www.bbc.com/news/live/cq5y10ge3dp3t)
 * [2026-11-13, 05:13:30](https://news.ycombinator.com/item?id=50478635) - [Scientists claim the universe is twice as old as believed](https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/)
 * [2026-11-13, 05:10:27](https://news.ycombinator.com/item?id=50478622) - [The average cost for a new vehicle in the U.S. hits a record high: over $51,000](https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high)
 * [2026-11-13, 05:08:23](https://news.ycombinator.com/item?id=50478609) - [Microsoft Outlook/365 still down after 12 hours](https://twitter.com/MSFT365Status/status/2121079061774491735)
