@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-11-13, 18:33:35",
+      "https://news.ycombinator.com/item?id=50487762"
+    ],
+    [
+      "Models can now transmit viruses in weight-space",
+      "https://www.alphaxiv.org/abs/2611.weight-space-misfolding"
+    ]
+  ],
+  [
+    [
+      "2026-11-13, 18:23:49",
+      "https://news.ycombinator.com/item?id=50487605"
+    ],
+    [
+      "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve"
+    ]
+  ],
+  [
+    [
       "2026-11-13, 18:18:37",
       "https://news.ycombinator.com/item?id=50487522"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2026-11-13, 17:10:33",
-      "https://news.ycombinator.com/item?id=50486489"
-    ],
-    [
-      "Arm boss Rene Haas approached in Nvidia CEO search",
-      "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926"
-    ]
-  ],
-  [
-    [
       "2026-11-13, 17:09:58",
       "https://news.ycombinator.com/item?id=50486482"
     ],
@@ -127,6 +137,16 @@
     [
       "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
       "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e"
+    ]
+  ],
+  [
+    [
+      "2026-11-13, 15:29:10",
+      "https://news.ycombinator.com/item?id=50484960"
+    ],
+    [
+      "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "https://text.npr.org/nx-s1-6029408"
     ]
   ],
   [
@@ -185,7 +205,7 @@
       "https://news.ycombinator.com/item?id=50481870"
     ],
     [
-      "AI Is Destroying the Trust Between Writers and Readers",
+      "AI is destroying the trust between writers and readers",
       "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
     ]
   ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2026-11-12, 19:51:33",
-      "https://news.ycombinator.com/item?id=50473190"
-    ],
-    [
-      "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/"
-    ]
-  ],
-  [
-    [
       "2026-11-12, 18:39:05",
       "https://news.ycombinator.com/item?id=50472038"
     ],
@@ -287,16 +297,6 @@
     [
       "Jensen Huang resigns",
       "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
-    ]
-  ],
-  [
-    [
-      "2026-11-11, 10:55:46",
-      "https://news.ycombinator.com/item?id=50451943"
-    ],
-    [
-      "Show HN: Log every LLM call with tokens, cost, latency, and time to first token",
-      "https://github.com/garritfra/llmtee"
     ]
   ]
 ]
