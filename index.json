@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-13, 10:20:09",
+      "https://news.ycombinator.com/item?id=50481220"
+    ],
+    [
+      "Claude Is Down",
+      "https://status.claude.com/history"
+    ]
+  ],
+  [
+    [
+      "2026-11-13, 10:18:13",
+      "https://news.ycombinator.com/item?id=50481187"
+    ],
+    [
+      "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "https://status.claude.com/incidents/nn11wk485zfn"
+    ]
+  ],
+  [
+    [
       "2026-11-13, 09:08:18",
       "https://news.ycombinator.com/item?id=50480480"
     ],
@@ -27,16 +47,6 @@
     [
       "Global Microsoft Outage",
       "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 06:12:02",
-      "https://news.ycombinator.com/item?id=50479045"
-    ],
-    [
-      "Microsoft says attempts to fix global outage not going 'as expected'",
-      "https://www.bbc.com/news/live/cq5y10ge3dp3t"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Jensen Huang resigns",
       "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
-    ]
-  ],
-  [
-    [
-      "2026-11-12, 12:51:38",
-      "https://news.ycombinator.com/item?id=50466410"
-    ],
-    [
-      "Adapting CPython for Yk",
-      "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html"
     ]
   ],
   [
