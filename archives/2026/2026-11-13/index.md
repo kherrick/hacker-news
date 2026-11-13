@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 19:51:56](https://news.ycombinator.com/item?id=50488769) - [No AI Slop: A Manifesto](https://www.slopmanifesto.com/)
 * [2026-11-13, 19:41:09](https://news.ycombinator.com/item?id=50488664) - [Someone's Impersonating This Blog](https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/)
+* [2026-11-13, 19:27:15](https://news.ycombinator.com/item?id=50488490) - [Technology as a Search Problem](https://www.construction-physics.com/p/technology-as-a-search-problem)
+* [2026-11-13, 19:25:21](https://news.ycombinator.com/item?id=50488470) - [Found: A protein that drives ageing without unleashing inflammation](https://www.nature.com/articles/d41586-026-03638-3)
 * [2026-11-13, 19:24:47](https://news.ycombinator.com/item?id=50488464) - [Perplexity Decider v1.3: Training, eval, and use cases](https://www.perplexity.ai/hub/blog/perplexity-decider)
 * [2026-11-13, 19:14:02](https://news.ycombinator.com/item?id=50488325) - [FM-1 Workbench](https://open.m-vave.com/fm1-workbench)
 * [2026-11-13, 18:40:44](https://news.ycombinator.com/item?id=50487864) - [$11.4M in Nvidia hardware vanishes during shipment from CA to TX](https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas)
