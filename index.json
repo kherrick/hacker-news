@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2026-11-13, 17:10:33",
-      "https://news.ycombinator.com/item?id=50486489"
+      "2026-11-13, 17:13:01",
+      "https://news.ycombinator.com/item?id=50486521"
     ],
     [
-      "Arm boss Rene Haas approached in Nvidia CEO search",
-      "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926"
+      "Concurrent Shell Command Queues",
+      "https://emmer.dev/blog/concurrent-shell-command-queues/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "\"LibreOffice works 365 days a year. Just saying.\"",
       "https://twitter.com/LibreOffice/status/2121205272479998268"
+    ]
+  ],
+  [
+    [
+      "2026-11-13, 17:09:52",
+      "https://news.ycombinator.com/item?id=50486480"
+    ],
+    [
+      "Gnomon. Git for Postgres data, built for agents",
+      "https://github.com/bitsinfra/gnomon"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
       "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 15:08:44",
-      "https://news.ycombinator.com/item?id=50484658"
-    ],
-    [
-      "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-      "https://www.youtube.com/watch?v=IRK8h67ol7Q"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-11-13, 13:54:49",
-      "https://news.ycombinator.com/item?id=50483533"
-    ],
-    [
-      "US test reactor cleared for operations",
-      "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations"
-    ]
-  ],
-  [
-    [
       "2026-11-13, 12:10:24",
       "https://news.ycombinator.com/item?id=50482379"
     ],
@@ -187,6 +177,16 @@
     [
       "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
       "https://status.claude.com/incidents/nn11wk485zfn"
+    ]
+  ],
+  [
+    [
+      "2026-11-13, 07:26:49",
+      "https://news.ycombinator.com/item?id=50479612"
+    ],
+    [
+      "Show HN: Pac-Man, but you're the ghost",
+      "https://garritfra.github.io/pac-hunt/"
     ]
   ],
   [
