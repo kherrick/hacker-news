@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-13, 01:43:57](https://news.ycombinator.com/item?id=50477031) - [Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job](https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html)
 * [2026-11-13, 00:38:41](https://news.ycombinator.com/item?id=50476586) - [Chicago schools to Google – we'd rather lose Search than be forced to accept AI](https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html)
 * [2026-11-12, 23:06:17](https://news.ycombinator.com/item?id=50475713) - [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
 * [2026-11-12, 21:56:11](https://news.ycombinator.com/item?id=50474883) - [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
@@ -17,6 +16,7 @@
 * [2026-11-12, 18:01:48](https://news.ycombinator.com/item?id=50471431) - [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
 * [2026-11-12, 17:51:23](https://news.ycombinator.com/item?id=50471281) - [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)
 * [2026-11-12, 17:02:42](https://news.ycombinator.com/item?id=50470488) - [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
+* [2026-11-12, 15:25:52](https://news.ycombinator.com/item?id=50468944) - [ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ)
 * [2026-11-12, 15:23:10](https://news.ycombinator.com/item?id=50468888) - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
 * [2026-11-12, 14:18:49](https://news.ycombinator.com/item?id=50467618) - [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
 * [2026-11-12, 14:12:37](https://news.ycombinator.com/item?id=50467460) - [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
