@@ -65,6 +65,7 @@
 * [2026-11-11, 11:38:43](https://news.ycombinator.com/item?id=50452224) - [Physically Controllable Relighting of Photographs](https://yaksoy.github.io/PhysicalRelighting/)
 * [2026-11-11, 11:17:06](https://news.ycombinator.com/item?id=50452074) - [The Zig project is going nowhere](https://bytecode.news/posts/2026/10/the-zig-project-is-going-nowhere)
 * [2026-11-11, 11:02:46](https://news.ycombinator.com/item?id=50451985) - [The Housing Market Is Nuts](https://nuts.logical.li/)
+* [2026-11-11, 10:55:46](https://news.ycombinator.com/item?id=50451943) - [Show HN: Log every LLM call with tokens, cost, latency, and time to first token](https://github.com/garritfra/llmtee)
 * [2026-11-11, 10:48:40](https://news.ycombinator.com/item?id=50451903) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
 * [2026-11-11, 08:51:45](https://news.ycombinator.com/item?id=50451102) - [OSS projects banning AI-generated contributions](https://osssaysno.com)
 * [2026-11-11, 07:03:17](https://news.ycombinator.com/item?id=50450488) - [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)

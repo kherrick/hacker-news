@@ -18,7 +18,6 @@
 * [2026-11-13, 12:10:24](https://news.ycombinator.com/item?id=50482379) - [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
 * [2026-11-13, 11:13:46](https://news.ycombinator.com/item?id=50481870) - [AI Is Destroying the Trust Between Writers and Readers](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)
 * [2026-11-13, 10:18:13](https://news.ycombinator.com/item?id=50481187) - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
-* [2026-11-13, 07:26:49](https://news.ycombinator.com/item?id=50479612) - [Show HN: Pac-Man, but you're the ghost](https://garritfra.github.io/pac-hunt/)
 * [2026-11-13, 04:54:53](https://news.ycombinator.com/item?id=50478515) - [IceWM](https://ice-wm.org/)
 * [2026-11-13, 03:14:59](https://news.ycombinator.com/item?id=50477714) - [Switcher (2004)](https://folklore.org/Switcher.html)
 * [2026-11-13, 03:08:08](https://news.ycombinator.com/item?id=50477649) - [Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)
@@ -30,6 +29,7 @@
 * [2026-11-12, 18:39:05](https://news.ycombinator.com/item?id=50472038) - [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 * [2026-11-12, 17:02:42](https://news.ycombinator.com/item?id=50470488) - [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
+* [2026-11-11, 10:55:46](https://news.ycombinator.com/item?id=50451943) - [Show HN: Log every LLM call with tokens, cost, latency, and time to first token](https://github.com/garritfra/llmtee)
 
 ## [Archives](archives/index.md)
 
