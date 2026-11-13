@@ -13,6 +13,7 @@
 * [2026-11-13, 21:50:25](https://news.ycombinator.com/item?id=50490383) - [US Radar Service Outage](https://www.weather.gov/afc/radaroutage)
 * [2026-11-13, 21:08:49](https://news.ycombinator.com/item?id=50489678) - [FAA issues nationwide ground stop due to \"extraordinary circumstances\"](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
 * [2026-11-13, 21:06:52](https://news.ycombinator.com/item?id=50489652) - [All US airports are currently ground stopped](https://twitter.com/flightradar24/status/2121347654714077605)
+* [2026-11-13, 21:05:53](https://news.ycombinator.com/item?id=50489641) - [FAA issues national ground stop](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
 * [2026-11-13, 21:05:53](https://news.ycombinator.com/item?id=50489641) - [FAA Issues National Ground Stop](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111)
 * [2026-11-13, 21:01:11](https://news.ycombinator.com/item?id=50489589) - [Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth](https://atg.science/careers)
 * [2026-11-13, 20:20:30](https://news.ycombinator.com/item?id=50489083) - [Big tech is here to let us down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down)
