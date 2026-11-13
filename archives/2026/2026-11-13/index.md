@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 21:01:11](https://news.ycombinator.com/item?id=50489589) - [Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth](https://atg.science/careers)
 * [2026-11-13, 20:20:30](https://news.ycombinator.com/item?id=50489083) - [Big tech is here to let us down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down)
+* [2026-11-13, 19:58:42](https://news.ycombinator.com/item?id=50488835) - [Live-migration support in FreeBSD and bhyve coming](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
 * [2026-11-13, 19:51:56](https://news.ycombinator.com/item?id=50488769) - [No AI Slop: A Manifesto](https://www.slopmanifesto.com/)
 * [2026-11-13, 19:41:09](https://news.ycombinator.com/item?id=50488664) - [Someone's Impersonating This Blog](https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/)
 * [2026-11-13, 19:27:15](https://news.ycombinator.com/item?id=50488490) - [Technology as a Search Problem](https://www.construction-physics.com/p/technology-as-a-search-problem)

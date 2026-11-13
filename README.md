@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 21:01:11](https://news.ycombinator.com/item?id=50489589) - [Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth](https://atg.science/careers)
 * [2026-11-13, 20:20:30](https://news.ycombinator.com/item?id=50489083) - [Big tech is here to let us down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down)
+* [2026-11-13, 19:58:42](https://news.ycombinator.com/item?id=50488835) - [Live-migration support in FreeBSD and bhyve coming](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
 * [2026-11-13, 19:51:56](https://news.ycombinator.com/item?id=50488769) - [No AI Slop: A Manifesto](https://www.slopmanifesto.com/)
 * [2026-11-13, 19:41:09](https://news.ycombinator.com/item?id=50488664) - [Someone's Impersonating This Blog](https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/)
 * [2026-11-13, 19:27:15](https://news.ycombinator.com/item?id=50488490) - [Technology as a Search Problem](https://www.construction-physics.com/p/technology-as-a-search-problem)
@@ -19,7 +21,6 @@
 * [2026-11-13, 17:13:01](https://news.ycombinator.com/item?id=50486521) - [Concurrent Shell Command Queues](https://emmer.dev/blog/concurrent-shell-command-queues/)
 * [2026-11-13, 17:09:58](https://news.ycombinator.com/item?id=50486482) - [LibreOffice actually works 365 days a year](https://twitter.com/LibreOffice/status/2121205272479998268)
 * [2026-11-13, 16:55:59](https://news.ycombinator.com/item?id=50486258) - [Apify Security Incident](https://status.apify.com/incidents/sxd1dj5j6749)
-* [2026-11-13, 16:50:22](https://news.ycombinator.com/item?id=50486178) - [North Korean hackers used fake video calls in $400M crypto hack, says FBI](https://www.bbc.com/news/articles/cqdj1ellpd70o)
 * [2026-11-13, 15:52:04](https://news.ycombinator.com/item?id=50485295) - [Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers](https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e)
 * [2026-11-13, 15:29:10](https://news.ycombinator.com/item?id=50484960) - [Why is Google cutting off Search from AI-free schools? Here are some theories](https://text.npr.org/nx-s1-6029408)
 * [2026-11-13, 15:08:07](https://news.ycombinator.com/item?id=50484650) - [Minnesota guitarist's \"palmfrets\" invention strikes a new chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)
@@ -28,7 +29,6 @@
 * [2026-11-13, 14:25:46](https://news.ycombinator.com/item?id=50483959) - [CERN Built the Large Hadron Collider's Next-Gen Magnets](https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets)
 * [2026-11-13, 12:10:24](https://news.ycombinator.com/item?id=50482379) - [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
 * [2026-11-13, 10:18:13](https://news.ycombinator.com/item?id=50481187) - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
-* [2026-11-13, 04:54:53](https://news.ycombinator.com/item?id=50478515) - [IceWM](https://ice-wm.org/)
 * [2026-11-12, 22:03:09](https://news.ycombinator.com/item?id=50474959) - [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
 
 ## [Archives](archives/index.md)
