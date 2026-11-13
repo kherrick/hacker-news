@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-13, 22:39:15",
+      "https://news.ycombinator.com/item?id=50491097"
+    ],
+    [
+      "Claude Meetings",
+      "https://claude.com/resources/articles/claude-meetings"
+    ]
+  ],
+  [
+    [
+      "2026-11-13, 22:30:10",
+      "https://news.ycombinator.com/item?id=50490967"
+    ],
+    [
+      "Home Assistant: the password is not the key – token secrets in cleartext",
+      "https://seclists.org/fulldisclosure/2026/Nov/34"
+    ]
+  ],
+  [
+    [
       "2026-11-13, 22:16:11",
       "https://news.ycombinator.com/item?id=50490778"
     ],
@@ -87,16 +107,6 @@
     [
       "No AI Slop: A Manifesto",
       "https://www.slopmanifesto.com/"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 19:41:09",
-      "https://news.ycombinator.com/item?id=50488664"
-    ],
-    [
-      "Someone's Impersonating This Blog",
-      "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
       "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 17:13:01",
-      "https://news.ycombinator.com/item?id=50486521"
-    ],
-    [
-      "Concurrent Shell Command Queues",
-      "https://emmer.dev/blog/concurrent-shell-command-queues/"
     ]
   ],
   [
