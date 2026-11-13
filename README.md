@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-12, 23:19:53](https://news.ycombinator.com/item?id=50475829) - [Richard Posner has died](https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge)
 * [2026-11-12, 23:06:17](https://news.ycombinator.com/item?id=50475713) - [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
 * [2026-11-12, 22:47:24](https://news.ycombinator.com/item?id=50475505) - [Outlook Down, Microsoft Teams and Office may be impacted](https://status.cloud.microsoft/m365/referrer=serviceStatusRedirect)
 * [2026-11-12, 21:56:11](https://news.ycombinator.com/item?id=50474883) - [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
@@ -20,6 +19,7 @@
 * [2026-11-12, 15:23:10](https://news.ycombinator.com/item?id=50468888) - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
 * [2026-11-12, 14:18:49](https://news.ycombinator.com/item?id=50467618) - [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
 * [2026-11-12, 14:12:37](https://news.ycombinator.com/item?id=50467460) - [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
+* [2026-11-12, 14:11:58](https://news.ycombinator.com/item?id=50467439) - [Libreagi – Save OSS Models](https://libreagi.com/)
 * [2026-11-12, 14:05:28](https://news.ycombinator.com/item?id=50467297) - [Our software engineering interviews are changing a little](https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/)
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
 * [2026-11-12, 12:51:38](https://news.ycombinator.com/item?id=50466410) - [Adapting CPython for Yk](https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html)
