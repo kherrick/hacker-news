@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-11-13, 14:53:56",
-      "https://news.ycombinator.com/item?id=50484426"
-    ],
-    [
-      "Ask HN: Can anyone name anything new that AI has done?",
-      "https://news.ycombinator.com/item?id=50484426"
-    ]
-  ],
-  [
-    [
       "2026-11-13, 14:53:32",
       "https://news.ycombinator.com/item?id=50484421"
     ],
@@ -27,16 +17,6 @@
     [
       "A technical vision for the Haskell ecosystem",
       "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 14:34:13",
-      "https://news.ycombinator.com/item?id=50484110"
-    ],
-    [
-      "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
-      "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2026-11-12, 18:15:48",
+      "https://news.ycombinator.com/item?id=50471650"
+    ],
+    [
+      "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "https://github.com/Parcha-ai/agentrun/blob/main/README.md"
+    ]
+  ],
+  [
+    [
       "2026-11-12, 17:02:42",
       "https://news.ycombinator.com/item?id=50470488"
     ],
@@ -297,6 +287,16 @@
     [
       "Jensen Huang resigns",
       "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
+    ]
+  ],
+  [
+    [
+      "2026-11-12, 11:46:41",
+      "https://news.ycombinator.com/item?id=50465829"
+    ],
+    [
+      "Anthropic IPO",
+      "https://ipo.anthropic.com/us/"
     ]
   ]
 ]
