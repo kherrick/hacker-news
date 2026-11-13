@@ -10,6 +10,7 @@
 * [2026-11-13, 04:54:53](https://news.ycombinator.com/item?id=50478515) - [IceWM](https://ice-wm.org/)
 * [2026-11-13, 03:47:15](https://news.ycombinator.com/item?id=50477993) - [Show HN: I built a Rick and Morty explainer video generator](https://usediorama.com/rick-and-morty)
 * [2026-11-13, 03:14:59](https://news.ycombinator.com/item?id=50477714) - [Don't argue with me. $100k is fair, and you know it](https://folklore.org/Switcher.html)
+* [2026-11-13, 03:13:43](https://news.ycombinator.com/item?id=50477704) - [Anthropic carelessly killed a Claude Code feature users built on, no warning](https://github.com/anthropics/claude-code/issues/109446)
 * [2026-11-13, 03:08:08](https://news.ycombinator.com/item?id=50477649) - [Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)
 * [2026-11-13, 02:28:15](https://news.ycombinator.com/item?id=50477331) - [Africa's solar revolution is vast and speedy](https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy)
 * [2026-11-13, 02:16:24](https://news.ycombinator.com/item?id=50477231) - [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
