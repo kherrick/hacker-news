@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 07:55:49](https://news.ycombinator.com/item?id=50479876) - [The Netherlands Is Dismantling the International Criminal Court](https://rightsforum.org/en/diplomatic-sources-the-netherlands-is-negotiating-the-dismantling-of-the-international-criminal-court/)
 * [2026-11-13, 06:18:23](https://news.ycombinator.com/item?id=50479098) - [Global Microsoft Outage](https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk)
 * [2026-11-13, 05:13:30](https://news.ycombinator.com/item?id=50478635) - [Scientists claim the universe is twice as old as believed](https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/)
-* [2026-11-13, 05:10:27](https://news.ycombinator.com/item?id=50478622) - [The average cost for a new vehicle in the U.S. hits a record high: over $51,000](https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high)
 * [2026-11-13, 05:08:23](https://news.ycombinator.com/item?id=50478609) - [Microsoft Outlook/365 still down after 12 hours](https://twitter.com/MSFT365Status/status/2121079061774491735)
 * [2026-11-13, 04:54:53](https://news.ycombinator.com/item?id=50478515) - [IceWM](https://ice-wm.org/)
 * [2026-11-13, 03:14:59](https://news.ycombinator.com/item?id=50477714) - [Switcher (2004)](https://folklore.org/Switcher.html)
