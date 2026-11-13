@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 18:40:37](https://news.ycombinator.com/item?id=50487861) - [6-11X speedup running Qwen3.6 on my RTX 4090, full repo.](https://github.com/me-farza/lightreason/tree/main)
+* [2026-11-13, 18:18:37](https://news.ycombinator.com/item?id=50487522) - [It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad](https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/)
 * [2026-11-13, 17:58:37](https://news.ycombinator.com/item?id=50487228) - [Show HN: Isometric SF – A pixel-art map of the SF Bay Area](https://isometricsf.com/)
 * [2026-11-13, 17:55:28](https://news.ycombinator.com/item?id=50487185) - [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa)
 * [2026-11-13, 17:55:23](https://news.ycombinator.com/item?id=50487184) - [OpenAI disbands its robotics team as its general models start running robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 18:40:37](https://news.ycombinator.com/item?id=50487861) - [6-11X speedup running Qwen3.6 on my RTX 4090, full repo.](https://github.com/me-farza/lightreason/tree/main)
+* [2026-11-13, 18:18:37](https://news.ycombinator.com/item?id=50487522) - [It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad](https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/)
 * [2026-11-13, 17:58:37](https://news.ycombinator.com/item?id=50487228) - [Show HN: Isometric SF – A pixel-art map of the SF Bay Area](https://isometricsf.com/)
 * [2026-11-13, 17:55:28](https://news.ycombinator.com/item?id=50487185) - [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa)
 * [2026-11-13, 17:55:23](https://news.ycombinator.com/item?id=50487184) - [OpenAI disbands its robotics team as its general models start running robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/)
@@ -11,7 +13,6 @@
 * [2026-11-13, 16:55:59](https://news.ycombinator.com/item?id=50486258) - [Apify Security Incident](https://status.apify.com/incidents/sxd1dj5j6749)
 * [2026-11-13, 16:50:22](https://news.ycombinator.com/item?id=50486178) - [North Korean hackers used fake video calls in $400M crypto hack, says FBI](https://www.bbc.com/news/articles/cqdj1ellpd70o)
 * [2026-11-13, 15:52:04](https://news.ycombinator.com/item?id=50485295) - [Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers](https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e)
-* [2026-11-13, 15:08:07](https://news.ycombinator.com/item?id=50484650) - [Palmfrets, Minnesota guitarist's invention, strikes a new chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)
 * [2026-11-13, 14:43:12](https://news.ycombinator.com/item?id=50484235) - [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
 * [2026-11-13, 14:28:40](https://news.ycombinator.com/item?id=50484007) - [Lonewolf 0.3 – A standalone XMPP server written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
 * [2026-11-13, 14:25:46](https://news.ycombinator.com/item?id=50483959) - [CERN Built the Large Hadron Collider's Next-Gen Magnets](https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets)
@@ -25,7 +26,6 @@
 * [2026-11-13, 00:02:34](https://news.ycombinator.com/item?id=50476257) - [US Intel isn't sure if Alice Huang spied on Nvidia for China](https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia)
 * [2026-11-12, 22:03:09](https://news.ycombinator.com/item?id=50474959) - [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
 * [2026-11-12, 19:51:33](https://news.ycombinator.com/item?id=50473190) - [Former Nvidia CEO Huang had a relationship with a second employee, sources say](https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/)
-* [2026-11-12, 18:52:01](https://news.ycombinator.com/item?id=50472260) - [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
 * [2026-11-12, 18:39:05](https://news.ycombinator.com/item?id=50472038) - [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
 * [2026-11-12, 17:02:42](https://news.ycombinator.com/item?id=50470488) - [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
