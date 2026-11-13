@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 22:39:15](https://news.ycombinator.com/item?id=50491097) - [Claude Meetings](https://claude.com/resources/articles/claude-meetings)
+* [2026-11-13, 22:30:10](https://news.ycombinator.com/item?id=50490967) - [Home Assistant: the password is not the key – token secrets in cleartext](https://seclists.org/fulldisclosure/2026/Nov/34)
 * [2026-11-13, 22:16:11](https://news.ycombinator.com/item?id=50490778) - [National Weather Service reports nationwide radar website outage amid FAA stop](https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage)
 * [2026-11-13, 22:04:24](https://news.ycombinator.com/item?id=50490593) - [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
 * [2026-11-13, 21:50:25](https://news.ycombinator.com/item?id=50490383) - [US Radar Service Outage](https://www.weather.gov/afc/radaroutage)
