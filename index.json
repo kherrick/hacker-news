@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-13, 14:19:50",
+      "https://news.ycombinator.com/item?id=50483875"
+    ],
+    [
+      "Mercedes-Benz to halt 'all future investments' in Germany",
+      "https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7"
+    ]
+  ],
+  [
+    [
+      "2026-11-13, 14:01:13",
+      "https://news.ycombinator.com/item?id=50483611"
+    ],
+    [
+      "Why Zig over C for Systems Programming",
+      "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/"
+    ]
+  ],
+  [
+    [
       "2026-11-13, 13:55:32",
       "https://news.ycombinator.com/item?id=50483546"
     ],
@@ -277,26 +297,6 @@
     [
       "Anthropic IPO",
       "https://ipo.anthropic.com/us/"
-    ]
-  ],
-  [
-    [
-      "2026-11-11, 23:09:27",
-      "https://news.ycombinator.com/item?id=50460263"
-    ],
-    [
-      "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
-      "https://github.com/jjba23/sift"
-    ]
-  ],
-  [
-    [
-      "2026-11-11, 21:20:01",
-      "https://news.ycombinator.com/item?id=50458849"
-    ],
-    [
-      "Relax: JIT compiler for Rust to reduce build times",
-      "https://makepad.github.io/relax/"
     ]
   ]
 ]
