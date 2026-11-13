@@ -141,11 +141,11 @@
             <h4>
               <span>2026-11-12 @ 23:06:17</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50475713"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -163,11 +163,11 @@
             <h4>
               <span>2026-11-12 @ 21:56:11</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50474883"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -184,7 +184,7 @@
             <h4>
               <span>2026-11-12 @ 21:13:26</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50474361"
                   >Comments</a
@@ -206,143 +206,34 @@
             <h4>
               <span>2026-11-12 @ 21:09:49</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50474311"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="50474106">
+        <section id="50473888">
           <h3>
-            <a class="item" href="https://github.com/cerulion-inc/cerulion"
-              >Show HN: Cerulion – ROS 2-compatible robotics runtime with
-              multi-process replay</a
+            <a
+              class="item"
+              href="https://twitter.com/charlieholtz/status/2120973052024598620"
+              >Announcement: Conductor Is Back</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-11-12 @ 20:53:04</span
+              <span>2026-11-12 @ 20:37:55</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50474106"
+                ><a href="https://news.ycombinator.com/item?id=50473888"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
-            <div class="text">
-              <a href="https://github.com/cerulion-inc/cerulion"
-                >https://github.com/cerulion-inc/cerulion</a
-              >
-              <p>
-                I worked on off-road autonomy during my PhD at MIT, and we kept
-                running into inter-process latency in ROS (2 lidars and 6
-                cameras). Loaned messages need POD types, which nukes standard,
-                vendor-agnostic Image/PointCloud2. We ended up running some hot
-                paths in a brittle single process, which made debugging a
-                nightmare. I'm sure you've seen the heisenbugs ROS-based stacks
-                can produce, with no way to easily reproduce the consumption
-                order or interleaving of callbacks. Valuable data of runtime
-                failures on the robot was hard to use effectively without
-                deterministic reproducibility.
-              </p>
-              <p>
-                This is what we fix. Cerulion bags record per-input reads and
-                scheduler traces alongside message content in standard MCAPs.
-                <i>cerulion bag play --resim all --verify</i> re-executes node
-                code on the recorded schedule and compares each byte for exact
-                matches or within defined tolerances. Exit 0 is a match, 1 shows
-                the first topic/frame that diverges, 6 shows schedule divergence
-                and <i>--report</i> gives an optional CI verdict. Eligible ROS2
-                processes can replay deterministically as well.
-              </p>
-              <p>Here's the data loop:</p>
-              <p>
-                1. Run: Dependency-ordered level-based DAG scheduler with
-                periodic/data/sync triggers, I/O deadlines, backpressure, and
-                automatic profiling for process partitioning. Each node by
-                default free-runs in its own process while preserving
-                deterministic replay. Live runs pause/resume, and UMWAIT/WFE
-                parks idle consumers on CPUs that support it. Wall-clock reads
-                and runtime thread spawns in user code rejected at compile time
-                by macros.
-              </p>
-              <p>
-                ROS 2 is supported with rmw_cerulion for Foxy, Humble, Jazzy and
-                Lyrical, that lets you run ROS2 nodes/launch files unmodified in
-                the same graph as native Cerulion nodes. LD_PRELOAD gives ROS2
-                code shared memory loans through std::vector/std::string.
-                <i>cerulion ros2 attach</i> folds in already-running ROS2
-                robots, and <i>cerulion ros2 run/launch</i> lets you run
-                existing ROS2 workspaces on Cerulion without any additional
-                setup (with an optional automatic migrate suggested that
-                rewrites C++ publish sites).
-              </p>
-              <p>
-                2. Move: iceoryx2 shared memory with no serialization, no
-                payload copy and no payload-sized allocation, including for
-                variable-length messages like sensor_msgs/Image and PointCloud2.
-                Round trip latency for a 1MiB sensor_msgs/Image between two
-                processes is 4.08µs p50, with a tight tail of 7.38µs p99 (under
-                2x p50), <i>with recording on</i>. This is default Cerulion,
-                against 10.95 ms for default ROS 2 Jazzy. Cerulion's p50 and p99
-                stay flat from 64B to 16 MiB.
-              </p>
-              <p>
-                3. Capture: With this round-trip latency, there are no
-                tradeoffs, not for process isolation and not for bagging. We can
-                afford always-on or event-based logging. Flashback is our robot
-                dashcam: keeps ~30s of all logs and message contents in memory
-                and saves it automatically on process crashes, topic stalls or
-                declared incidents/manual triggers.
-              </p>
-              <p>
-                4. Reach: A free account lets you pair robots and desks, letting
-                all your devices find each other with no config, IP addresses or
-                discovery chatter. Pubsub is authenticated and on-demand, with
-                signed grants that the robot verifies offline. We use Iroh to
-                hole-punch or relay over WAN, and mDNS over LAN to transmit data
-                using QUIC. Remote topics mirror into local shared memory, and
-                each device has a single network gateway.
-              </p>
-              <p>
-                5. Diagnose: <i>cerulion doctor</i> scans for compile/run-time
-                issues (better than Windows Troubleshooter I promise) and
-                suggests fixes. Hindsight is an early access MCP to let agents
-                analyze your bags.
-              </p>
-              <p>
-                To get started: go to the repo, install Cerulion with the curl
-                one-liner, and paste the prompt in Claude Code/Codex:
-                <a
-                  href="https://github.com/cerulion-inc/cerulion#quickstart-run-record-and-verify"
-                  >https://github.com/cerulion-inc/cerulion#quickstart-run-reco...</a
-                >. Or shift your own gears, it's all in the repo that you should
-                star!
-              </p>
-              <p>
-                The CLI needs a free account, which we use to make device
-                pairing as easy as AirDrop USED to be ;) Everything runs on
-                Linux (x86_64/ARM64), macOS and Android (JNI), with more
-                platforms coming.
-              </p>
-              <p>
-                We'd love to hear your feedback! If you run ROS 2 on a real
-                robot, point this at your stack and tell us what breaks.
-              </p>
-              <p>
-                Docs:
-                <a href="https://docs.cerulion.com"
-                  >https://docs.cerulion.com</a
-                >
-              </p>
-              <p>
-                Site: <a href="https://cerulion.com">https://cerulion.com</a>
-              </p>
-            </div>
           </section>
         </section>
         <section id="50472505">
@@ -403,11 +294,11 @@
             <h4>
               <span>2026-11-12 @ 19:05:33</span
               ><span class="points-container"
-                >Points: <span class="points">196</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50472490"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
@@ -424,7 +315,7 @@
             <h4>
               <span>2026-11-12 @ 18:52:01</span
               ><span class="points-container"
-                >Points: <span class="points">294</span></span
+                >Points: <span class="points">298</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50472260"
                   >Comments</a
@@ -445,7 +336,7 @@
             <h4>
               <span>2026-11-12 @ 18:39:05</span
               ><span class="points-container"
-                >Points: <span class="points">409</span></span
+                >Points: <span class="points">416</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50472038"
                   >Comments</a
@@ -466,7 +357,7 @@
             <h4>
               <span>2026-11-12 @ 18:22:22</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50471761"
                   >Comments</a
@@ -485,11 +376,11 @@
             <h4>
               <span>2026-11-12 @ 18:20:48</span
               ><span class="points-container"
-                >Points: <span class="points">486</span></span
+                >Points: <span class="points">498</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50471731"
                   >Comments</a
-                ><span class="descendants">: 454</span></span
+                ><span class="descendants">: 461</span></span
               >
             </h4>
             <div class="text">
@@ -572,7 +463,7 @@
             <h4>
               <span>2026-11-12 @ 18:01:48</span
               ><span class="points-container"
-                >Points: <span class="points">458</span></span
+                >Points: <span class="points">462</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50471431"
                   >Comments</a
@@ -750,11 +641,11 @@
             <h4>
               <span>2026-11-12 @ 17:02:42</span
               ><span class="points-container"
-                >Points: <span class="points">327</span></span
+                >Points: <span class="points">334</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50470488"
                   >Comments</a
-                ><span class="descendants">: 131</span></span
+                ><span class="descendants">: 137</span></span
               >
             </h4>
             <div class="text">
@@ -797,7 +688,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50468888"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -815,11 +706,11 @@
             <h4>
               <span>2026-11-12 @ 14:18:49</span
               ><span class="points-container"
-                >Points: <span class="points">237</span></span
+                >Points: <span class="points">238</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50467618"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -855,7 +746,7 @@
             <h4>
               <span>2026-11-12 @ 14:11:58</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50467439"
                   >Comments</a
@@ -876,7 +767,7 @@
             <h4>
               <span>2026-11-12 @ 14:05:28</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50467297"
                   >Comments</a
@@ -897,11 +788,11 @@
             <h4>
               <span>2026-11-12 @ 13:52:29</span
               ><span class="points-container"
-                >Points: <span class="points">2918</span></span
+                >Points: <span class="points">2936</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50467087"
                   >Comments</a
-                ><span class="descendants">: 2761</span></span
+                ><span class="descendants">: 2785</span></span
               >
             </h4>
             <div class="text">
@@ -959,11 +850,11 @@
             <h4>
               <span>2026-11-12 @ 11:46:41</span
               ><span class="points-container"
-                >Points: <span class="points">814</span></span
+                >Points: <span class="points">818</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50465829"
                   >Comments</a
-                ><span class="descendants">: 803</span></span
+                ><span class="descendants">: 805</span></span
               >
             </h4>
           </section>
@@ -973,8 +864,8 @@
             <a
               class="item"
               href="https://pron.github.io/posts/correctness-and-complexity"
-              >Why writing correct software is hard and why math (alone) won’t
-              help us (2016)</a
+              >Writing correct software is hard and math alone won’t help us
+              (2016)</a
             >
           </h3>
           <section>
@@ -985,7 +876,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50465352"
                   >Comments</a
-                ><span class="descendants">: 167</span></span
+                ><span class="descendants">: 168</span></span
               >
             </h4>
           </section>
@@ -1002,7 +893,7 @@
             <h4>
               <span>2026-11-11 @ 22:18:37</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50459508"
                   >Comments</a
@@ -1021,11 +912,11 @@
             <h4>
               <span>2026-11-11 @ 21:20:01</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50458849"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -1042,7 +933,7 @@
             <h4>
               <span>2026-11-11 @ 15:40:05</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50454700"
                   >Comments</a
@@ -1063,7 +954,7 @@
             <h4>
               <span>2026-11-10 @ 12:20:06</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50439283"
                   >Comments</a
