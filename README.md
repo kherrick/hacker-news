@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 01:43:57](https://news.ycombinator.com/item?id=50477031) - [Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job](https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html)
 * [2026-11-13, 00:38:41](https://news.ycombinator.com/item?id=50476586) - [Chicago schools to Google – we'd rather lose Search than be forced to accept AI](https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html)
 * [2026-11-12, 23:06:17](https://news.ycombinator.com/item?id=50475713) - [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
 * [2026-11-12, 21:56:11](https://news.ycombinator.com/item?id=50474883) - [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
@@ -16,7 +17,6 @@
 * [2026-11-12, 18:01:48](https://news.ycombinator.com/item?id=50471431) - [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
 * [2026-11-12, 17:51:23](https://news.ycombinator.com/item?id=50471281) - [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)
 * [2026-11-12, 17:02:42](https://news.ycombinator.com/item?id=50470488) - [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
-* [2026-11-12, 15:25:52](https://news.ycombinator.com/item?id=50468944) - [ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ)
 * [2026-11-12, 15:23:10](https://news.ycombinator.com/item?id=50468888) - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
 * [2026-11-12, 14:18:49](https://news.ycombinator.com/item?id=50467618) - [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
 * [2026-11-12, 14:12:37](https://news.ycombinator.com/item?id=50467460) - [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
@@ -25,11 +25,11 @@
 * [2026-11-12, 12:51:38](https://news.ycombinator.com/item?id=50466410) - [Adapting CPython for Yk](https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html)
 * [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)
 * [2026-11-12, 10:28:26](https://news.ycombinator.com/item?id=50465352) - [Writing correct software is hard and math alone won’t help us (2016)](https://pron.github.io/posts/correctness-and-complexity)
+* [2026-11-11, 23:09:27](https://news.ycombinator.com/item?id=50460263) - [Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp](https://github.com/jjba23/sift)
 * [2026-11-11, 22:18:37](https://news.ycombinator.com/item?id=50459508) - [Words of warning about radiocarbon dating medieval human bones](https://www.nature.com/articles/s40494-026-02958-x)
 * [2026-11-11, 21:20:01](https://news.ycombinator.com/item?id=50458849) - [Relax: JIT compiler for Rust to reduce build times](https://makepad.github.io/relax/)
 * [2026-11-11, 15:40:05](https://news.ycombinator.com/item?id=50454700) - [Before Pixels: Speed-Minder](https://unsung.aresluna.org/before-pixels-speed-minder/)
 * [2026-11-10, 12:20:06](https://news.ycombinator.com/item?id=50439283) - [Safety in Algae Home Experiments](https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments)
-* [2026-11-10, 07:28:08](https://news.ycombinator.com/item?id=50437175) - [Fortune Telling and Speculative Design](https://maggieappleton.com/fortune-telling)
 
 ## [Archives](archives/index.md)
 
