@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-13, 23:06:40](https://news.ycombinator.com/item?id=50491423) - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
 * [2026-11-13, 22:46:53](https://news.ycombinator.com/item?id=50491209) - [US National Weather Service reports nationwide internet, communications issues](https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/)
+* [2026-11-13, 22:39:15](https://news.ycombinator.com/item?id=50491097) - [Claude Meetings](https://claude.com/resources/articles/claude-meetings)
 * [2026-11-13, 22:04:24](https://news.ycombinator.com/item?id=50490593) - [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
 * [2026-11-13, 21:08:49](https://news.ycombinator.com/item?id=50489678) - [FAA issues nationwide ground stop due to \"extraordinary circumstances\"](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
 * [2026-11-13, 21:06:52](https://news.ycombinator.com/item?id=50489652) - [All US airports are currently ground stopped](https://twitter.com/flightradar24/status/2121347654714077605)
