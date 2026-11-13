@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-12, 23:19:53](https://news.ycombinator.com/item?id=50475829) - [Richard A. Posner has died](https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge)
+* [2026-11-12, 23:19:53](https://news.ycombinator.com/item?id=50475829) - [Richard Posner has died](https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge)
 * [2026-11-12, 23:06:17](https://news.ycombinator.com/item?id=50475713) - [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
 * [2026-11-12, 22:47:24](https://news.ycombinator.com/item?id=50475505) - [Outlook Down, Microsoft Teams and Office may be impacted](https://status.cloud.microsoft/m365/referrer=serviceStatusRedirect)
 * [2026-11-12, 21:56:11](https://news.ycombinator.com/item?id=50474883) - [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
 * [2026-11-12, 21:13:26](https://news.ycombinator.com/item?id=50474361) - [Foundation Models framework](https://developer.apple.com/foundation-models-framework/)
 * [2026-11-12, 21:09:49](https://news.ycombinator.com/item?id=50474311) - [AI is turning Apple's app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
-* [2026-11-12, 20:53:04](https://news.ycombinator.com/item?id=50474106) - [Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay](https://github.com/cerulion-inc/cerulion)
 * [2026-11-12, 19:06:23](https://news.ycombinator.com/item?id=50472505) - [Distributed Ray Tracer](https://ray.hatchet.run)
 * [2026-11-12, 19:05:33](https://news.ycombinator.com/item?id=50472490) - [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
 * [2026-11-12, 18:52:01](https://news.ycombinator.com/item?id=50472260) - [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
@@ -30,6 +29,7 @@
 * [2026-11-11, 21:20:01](https://news.ycombinator.com/item?id=50458849) - [Relax: JIT compiler for Rust to reduce build times](https://makepad.github.io/relax/)
 * [2026-11-11, 15:40:05](https://news.ycombinator.com/item?id=50454700) - [Before Pixels: Speed-Minder](https://unsung.aresluna.org/before-pixels-speed-minder/)
 * [2026-11-10, 12:20:06](https://news.ycombinator.com/item?id=50439283) - [Safety in Algae Home Experiments](https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments)
+* [2026-11-10, 07:28:08](https://news.ycombinator.com/item?id=50437175) - [Fortune Telling and Speculative Design](https://maggieappleton.com/fortune-telling)
 
 ## [Archives](archives/index.md)
 

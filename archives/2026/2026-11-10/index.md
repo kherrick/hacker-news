@@ -63,6 +63,7 @@
 * [2026-11-10, 08:59:41](https://news.ycombinator.com/item?id=50437752) - [Fossil CO2 emissions decrease by 0.4% in 2026](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/)
 * [2026-11-10, 08:20:17](https://news.ycombinator.com/item?id=50437505) - [Beyond the compiler: Making IBM i run modified native code](https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/)
 * [2026-11-10, 07:40:52](https://news.ycombinator.com/item?id=50437242) - [M John Harrison becomes first science fiction author to win the Booker prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
+* [2026-11-10, 07:28:08](https://news.ycombinator.com/item?id=50437175) - [Fortune Telling and Speculative Design](https://maggieappleton.com/fortune-telling)
 * [2026-11-10, 07:19:38](https://news.ycombinator.com/item?id=50437106) - [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
 * [2026-11-10, 07:03:48](https://news.ycombinator.com/item?id=50437004) - [S.t.a.l.k.e.r. Call of Pripyat in WASM and WebGPU](https://stalker-online.xyz/)
 * [2026-11-10, 06:28:15](https://news.ycombinator.com/item?id=50436788) - [A C++ Quicksort Faster Than std:sort](https://tiki.li/blog/about_blqsort)
