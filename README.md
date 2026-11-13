@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 09:08:18](https://news.ycombinator.com/item?id=50480480) - [The Dawn of the Data Intelligence Engineer](https://motherduck.com/blog/the-data-intelligence-engineer/)
+* [2026-11-13, 07:39:55](https://news.ycombinator.com/item?id=50479721) - [TSMC Hacked](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm)
 * [2026-11-13, 06:18:23](https://news.ycombinator.com/item?id=50479098) - [Global Microsoft Outage](https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk)
-* [2026-11-13, 05:13:30](https://news.ycombinator.com/item?id=50478635) - [Scientists claim the universe is twice as old as believed](https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/)
 * [2026-11-13, 05:08:23](https://news.ycombinator.com/item?id=50478609) - [Microsoft Outlook/365 still down after 12 hours](https://twitter.com/MSFT365Status/status/2121079061774491735)
 * [2026-11-13, 04:54:53](https://news.ycombinator.com/item?id=50478515) - [IceWM](https://ice-wm.org/)
 * [2026-11-13, 03:14:59](https://news.ycombinator.com/item?id=50477714) - [Switcher (2004)](https://folklore.org/Switcher.html)
@@ -24,7 +25,6 @@
 * [2026-11-12, 15:23:10](https://news.ycombinator.com/item?id=50468888) - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
 * [2026-11-12, 14:18:49](https://news.ycombinator.com/item?id=50467618) - [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
 * [2026-11-12, 14:12:37](https://news.ycombinator.com/item?id=50467460) - [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
-* [2026-11-12, 14:05:28](https://news.ycombinator.com/item?id=50467297) - [Our software engineering interviews are changing a little](https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/)
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
 * [2026-11-12, 12:51:38](https://news.ycombinator.com/item?id=50466410) - [Adapting CPython for Yk](https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html)
 * [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)

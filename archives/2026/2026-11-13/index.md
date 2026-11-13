@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 09:08:18](https://news.ycombinator.com/item?id=50480480) - [The Dawn of the Data Intelligence Engineer](https://motherduck.com/blog/the-data-intelligence-engineer/)
 * [2026-11-13, 08:33:21](https://news.ycombinator.com/item?id=50480194) - [People Vote for Anti-Immigration Parties Because They Don't Like Immigration](https://www.popularbydesign.org/p/people-vote-for-anti-immigration)
 * [2026-11-13, 07:55:49](https://news.ycombinator.com/item?id=50479876) - [The Netherlands Is Dismantling the International Criminal Court](https://rightsforum.org/en/diplomatic-sources-the-netherlands-is-negotiating-the-dismantling-of-the-international-criminal-court/)
+* [2026-11-13, 07:39:55](https://news.ycombinator.com/item?id=50479721) - [TSMC Hacked](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm)
 * [2026-11-13, 06:18:23](https://news.ycombinator.com/item?id=50479098) - [Global Microsoft Outage](https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk)
 * [2026-11-13, 05:13:30](https://news.ycombinator.com/item?id=50478635) - [Scientists claim the universe is twice as old as believed](https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/)
 * [2026-11-13, 05:10:27](https://news.ycombinator.com/item?id=50478622) - [The average cost for a new vehicle in the U.S. hits a record high: over $51,000](https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high)
