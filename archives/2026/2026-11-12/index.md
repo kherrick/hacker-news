@@ -10,6 +10,7 @@
 * [2026-11-12, 23:06:17](https://news.ycombinator.com/item?id=50475713) - [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
 * [2026-11-12, 22:47:24](https://news.ycombinator.com/item?id=50475505) - [Outlook Down, Microsoft Teams and Office may be impacted](https://status.cloud.microsoft/m365/referrer=serviceStatusRedirect)
 * [2026-11-12, 21:56:11](https://news.ycombinator.com/item?id=50474883) - [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
+* [2026-11-12, 21:30:57](https://news.ycombinator.com/item?id=50474586) - [Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech](https://github.com/KoljaB/RealtimeVAD)
 * [2026-11-12, 21:13:26](https://news.ycombinator.com/item?id=50474361) - [Foundation Models Framework (macOS)](https://developer.apple.com/foundation-models-framework/)
 * [2026-11-12, 21:09:49](https://news.ycombinator.com/item?id=50474311) - [AI is turning Apple's app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
 * [2026-11-12, 20:53:04](https://news.ycombinator.com/item?id=50474106) - [Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay](https://github.com/cerulion-inc/cerulion)
