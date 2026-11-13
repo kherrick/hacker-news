@@ -2,6 +2,7 @@
 
 * [2026-11-13, 02:28:15](https://news.ycombinator.com/item?id=50477331) - [Africa's solar revolution is vast and speedy](https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy)
 * [2026-11-13, 02:16:24](https://news.ycombinator.com/item?id=50477231) - [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
+* [2026-11-13, 02:04:39](https://news.ycombinator.com/item?id=50477155) - [NYC Council passes ban on 'surveillance pricing'](https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-pricing-that-relies-on-personal-data)
 * [2026-11-12, 23:44:19](https://news.ycombinator.com/item?id=50476069) - [Adding RSA Support to swift-nio-ssh](https://lograker.app/blog/swift-nio-ssh-rsa-support)
 * [2026-11-12, 23:06:17](https://news.ycombinator.com/item?id=50475713) - [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
 * [2026-11-12, 21:56:11](https://news.ycombinator.com/item?id=50474883) - [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
@@ -26,7 +27,6 @@
 * [2026-11-12, 12:51:38](https://news.ycombinator.com/item?id=50466410) - [Adapting CPython for Yk](https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html)
 * [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)
 * [2026-11-11, 23:09:27](https://news.ycombinator.com/item?id=50460263) - [Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp](https://github.com/jjba23/sift)
-* [2026-11-11, 22:18:37](https://news.ycombinator.com/item?id=50459508) - [Words of warning about radiocarbon dating medieval human bones](https://www.nature.com/articles/s40494-026-02958-x)
 * [2026-11-11, 21:20:01](https://news.ycombinator.com/item?id=50458849) - [Relax: JIT compiler for Rust to reduce build times](https://makepad.github.io/relax/)
 * [2026-11-11, 15:40:05](https://news.ycombinator.com/item?id=50454700) - [Before Pixels: Speed-Minder](https://unsung.aresluna.org/before-pixels-speed-minder/)
 * [2026-11-10, 12:20:06](https://news.ycombinator.com/item?id=50439283) - [Safety in Algae Home Experiments](https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments)
