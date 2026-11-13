@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-11-13, 10:28:36",
+      "https://news.ycombinator.com/item?id=50481354"
+    ],
+    [
+      "Llama.cpp: 6.5x faster prompt processing on Arm with a NEON kernel",
+      "https://github.com/hardwiredagent/silicon-forge-arm-neon-study"
+    ]
+  ],
+  [
+    [
       "2026-11-13, 10:20:09",
       "https://news.ycombinator.com/item?id=50481220"
     ],
@@ -207,16 +217,6 @@
     [
       "Show HN: AgentRun – open-source, Self-improving Managed Agents",
       "https://github.com/Parcha-ai/agentrun/blob/main/README.md"
-    ]
-  ],
-  [
-    [
-      "2026-11-12, 18:01:48",
-      "https://news.ycombinator.com/item?id=50471431"
-    ],
-    [
-      "Gemini 4 Hydrogen",
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
     ]
   ],
   [
