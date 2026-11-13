@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 14:34:13](https://news.ycombinator.com/item?id=50484110) - [Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical](https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11)
 * [2026-11-13, 14:28:32](https://news.ycombinator.com/item?id=50484006) - [The 42-Year Journey to Bring 'Neuromancer' to the Screen](https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/)
 * [2026-11-13, 14:19:50](https://news.ycombinator.com/item?id=50483875) - [Mercedes-Benz to halt 'all future investments' in Germany](https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7)
 * [2026-11-13, 14:01:13](https://news.ycombinator.com/item?id=50483611) - [Why Zig over C for Systems Programming](https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/)

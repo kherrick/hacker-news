@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 14:34:13](https://news.ycombinator.com/item?id=50484110) - [Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical](https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11)
 * [2026-11-13, 14:28:32](https://news.ycombinator.com/item?id=50484006) - [The 42-Year Journey to Bring 'Neuromancer' to the Screen](https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/)
 * [2026-11-13, 14:19:50](https://news.ycombinator.com/item?id=50483875) - [Mercedes-Benz to halt 'all future investments' in Germany](https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7)
 * [2026-11-13, 14:01:13](https://news.ycombinator.com/item?id=50483611) - [Why Zig over C for Systems Programming](https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/)
-* [2026-11-13, 13:55:32](https://news.ycombinator.com/item?id=50483546) - [Building collapses in Brooklyn with 8 people dead so far](https://www.nytimes.com/live/2026/11/12/nyregion/building-collapse-nyc-brooklyn)
 * [2026-11-13, 13:54:49](https://news.ycombinator.com/item?id=50483533) - [US test reactor cleared for operations](https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations)
 * [2026-11-13, 13:51:27](https://news.ycombinator.com/item?id=50483480) - [Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims](https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest)
 * [2026-11-13, 12:17:52](https://news.ycombinator.com/item?id=50482455) - [Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy](https://github.com/Christ10-8/reflota)
