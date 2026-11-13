@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-11-12, 22:47:24",
+      "https://news.ycombinator.com/item?id=50475505"
+    ],
+    [
+      "Outlook Down, Microsoft Teams and Office may be impacted",
+      "https://status.cloud.microsoft/m365/referrer=serviceStatusRedirect"
+    ]
+  ],
+  [
+    [
       "2026-11-12, 21:56:11",
       "https://news.ycombinator.com/item?id=50474883"
     ],
@@ -287,16 +297,6 @@
     [
       "Safety in Algae Home Experiments",
       "https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments"
-    ]
-  ],
-  [
-    [
-      "2026-11-09, 13:02:44",
-      "https://news.ycombinator.com/item?id=50425017"
-    ],
-    [
-      "A live tree of systemd jobs on the boot console",
-      "https://codeberg.org/wvhulle/bootvine"
     ]
   ]
 ]
