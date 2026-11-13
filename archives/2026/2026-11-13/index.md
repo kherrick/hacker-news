@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 13:51:27](https://news.ycombinator.com/item?id=50483480) - [Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims](https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest)
 * [2026-11-13, 13:08:48](https://news.ycombinator.com/item?id=50482992) - [Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory](https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/)
 * [2026-11-13, 12:17:52](https://news.ycombinator.com/item?id=50482455) - [Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy](https://github.com/Christ10-8/reflota)
 * [2026-11-13, 12:10:24](https://news.ycombinator.com/item?id=50482379) - [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
 * [2026-11-13, 11:34:25](https://news.ycombinator.com/item?id=50482045) - [Europe's electric car sales jump 49% as global EV sales grow](https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/)
+* [2026-11-13, 11:13:46](https://news.ycombinator.com/item?id=50481870) - [AI Is Destroying the Trust Between Writers and Readers](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)
 * [2026-11-13, 10:28:36](https://news.ycombinator.com/item?id=50481354) - [Llama.cpp: 6.5x faster prompt processing on Arm with a NEON kernel](https://github.com/hardwiredagent/silicon-forge-arm-neon-study)
 * [2026-11-13, 10:20:09](https://news.ycombinator.com/item?id=50481220) - [Claude Is Down](https://status.claude.com/history)
 * [2026-11-13, 10:18:13](https://news.ycombinator.com/item?id=50481187) - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)

@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-13, 13:08:48](https://news.ycombinator.com/item?id=50482992) - [Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory](https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/)
+* [2026-11-13, 13:51:27](https://news.ycombinator.com/item?id=50483480) - [Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims](https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest)
 * [2026-11-13, 12:17:52](https://news.ycombinator.com/item?id=50482455) - [Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy](https://github.com/Christ10-8/reflota)
 * [2026-11-13, 12:10:24](https://news.ycombinator.com/item?id=50482379) - [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
+* [2026-11-13, 11:13:46](https://news.ycombinator.com/item?id=50481870) - [AI Is Destroying the Trust Between Writers and Readers](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)
 * [2026-11-13, 10:20:09](https://news.ycombinator.com/item?id=50481220) - [Claude Is Down](https://status.claude.com/history)
 * [2026-11-13, 10:18:13](https://news.ycombinator.com/item?id=50481187) - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
-* [2026-11-13, 09:27:05](https://news.ycombinator.com/item?id=50480659) - [Is there a 'right amount' of AI?](https://coyotetracks.org/blog/right-amount-of-ai/)
 * [2026-11-13, 09:08:18](https://news.ycombinator.com/item?id=50480480) - [The Dawn of the Data Intelligence Engineer](https://motherduck.com/blog/the-data-intelligence-engineer/)
 * [2026-11-13, 06:18:23](https://news.ycombinator.com/item?id=50479098) - [Global Microsoft Outage](https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk)
 * [2026-11-13, 05:08:23](https://news.ycombinator.com/item?id=50478609) - [Microsoft Outlook/365 still down after 12 hours](https://twitter.com/MSFT365Status/status/2121079061774491735)
