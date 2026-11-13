@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 23:06:40](https://news.ycombinator.com/item?id=50491423) - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
 * [2026-11-13, 22:39:15](https://news.ycombinator.com/item?id=50491097) - [Claude Meetings](https://claude.com/resources/articles/claude-meetings)
 * [2026-11-13, 22:30:10](https://news.ycombinator.com/item?id=50490967) - [Home Assistant: the password is not the key – token secrets in cleartext](https://seclists.org/fulldisclosure/2026/Nov/34)
 * [2026-11-13, 22:16:11](https://news.ycombinator.com/item?id=50490778) - [National Weather Service reports nationwide radar website outage amid FAA stop](https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage)
