@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 15:52:04](https://news.ycombinator.com/item?id=50485295) - [Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers](https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e)
+* [2026-11-13, 15:08:44](https://news.ycombinator.com/item?id=50484658) - [Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]](https://www.youtube.com/watch?v=IRK8h67ol7Q)
 * [2026-11-13, 15:08:07](https://news.ycombinator.com/item?id=50484650) - [Palmfrets, Minnesota guitarist's invention, strikes a new chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)
 * [2026-11-13, 14:58:07](https://news.ycombinator.com/item?id=50484496) - [EU Digital Identity Wallet rollout: every EU state on one board](https://myid.ie/business/eu-digital-wallet-tracker/)
 * [2026-11-13, 14:53:32](https://news.ycombinator.com/item?id=50484421) - [U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years](https://news.ycombinator.com/item?id=50484421)
@@ -9,7 +11,6 @@
 * [2026-11-13, 14:11:56](https://news.ycombinator.com/item?id=50483759) - [US university students tell surveillance cameras to Flock off](https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts)
 * [2026-11-13, 14:01:13](https://news.ycombinator.com/item?id=50483611) - [Why Zig over C for Systems Programming](https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/)
 * [2026-11-13, 13:54:49](https://news.ycombinator.com/item?id=50483533) - [US test reactor cleared for operations](https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations)
-* [2026-11-13, 13:51:27](https://news.ycombinator.com/item?id=50483480) - [Eli Lilly CEO pushes back on Dario Amodei's medical claims](https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest)
 * [2026-11-13, 12:10:24](https://news.ycombinator.com/item?id=50482379) - [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
 * [2026-11-13, 11:13:46](https://news.ycombinator.com/item?id=50481870) - [AI Is Destroying the Trust Between Writers and Readers](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)
 * [2026-11-13, 10:18:13](https://news.ycombinator.com/item?id=50481187) - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
@@ -24,7 +25,6 @@
 * [2026-11-12, 19:05:33](https://news.ycombinator.com/item?id=50472490) - [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
 * [2026-11-12, 18:52:01](https://news.ycombinator.com/item?id=50472260) - [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
 * [2026-11-12, 18:39:05](https://news.ycombinator.com/item?id=50472038) - [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
-* [2026-11-12, 18:22:22](https://news.ycombinator.com/item?id=50471761) - [Turning a 22-year-old Postgres type-confusion primitive into RCE](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/)
 * [2026-11-12, 18:20:48](https://news.ycombinator.com/item?id=50471731) - [Service degradation on Microsoft 365](https://status.cloud.microsoft/)
 * [2026-11-12, 17:02:42](https://news.ycombinator.com/item?id=50470488) - [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
 * [2026-11-12, 15:23:10](https://news.ycombinator.com/item?id=50468888) - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)

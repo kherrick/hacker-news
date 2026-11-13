@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 15:52:04](https://news.ycombinator.com/item?id=50485295) - [Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers](https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e)
 * [2026-11-13, 15:43:09](https://news.ycombinator.com/item?id=50485166) - [Comparing Jensen to Steve Jobs Is Stupid](https://jonaserthal.com/blog/jobs-and-jensen/)
+* [2026-11-13, 15:08:44](https://news.ycombinator.com/item?id=50484658) - [Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]](https://www.youtube.com/watch?v=IRK8h67ol7Q)
 * [2026-11-13, 15:08:07](https://news.ycombinator.com/item?id=50484650) - [Palmfrets, Minnesota guitarist's invention, strikes a new chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)
 * [2026-11-13, 14:58:07](https://news.ycombinator.com/item?id=50484496) - [EU Digital Identity Wallet rollout: every EU state on one board](https://myid.ie/business/eu-digital-wallet-tracker/)
 * [2026-11-13, 14:53:56](https://news.ycombinator.com/item?id=50484426) - [Ask HN: Can anyone name anything new that AI has done?](https://news.ycombinator.com/item?id=50484426)
