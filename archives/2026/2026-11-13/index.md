@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 10:20:09](https://news.ycombinator.com/item?id=50481220) - [Claude Is Down](https://status.claude.com/history)
+* [2026-11-13, 10:18:13](https://news.ycombinator.com/item?id=50481187) - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
 * [2026-11-13, 09:08:18](https://news.ycombinator.com/item?id=50480480) - [The Dawn of the Data Intelligence Engineer](https://motherduck.com/blog/the-data-intelligence-engineer/)
 * [2026-11-13, 08:33:21](https://news.ycombinator.com/item?id=50480194) - [People Vote for Anti-Immigration Parties Because They Don't Like Immigration](https://www.popularbydesign.org/p/people-vote-for-anti-immigration)
 * [2026-11-13, 07:55:49](https://news.ycombinator.com/item?id=50479876) - [The Netherlands Is Dismantling the International Criminal Court](https://rightsforum.org/en/diplomatic-sources-the-netherlands-is-negotiating-the-dismantling-of-the-international-criminal-court/)
