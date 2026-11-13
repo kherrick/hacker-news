@@ -21,6 +21,7 @@
 * [2026-11-13, 17:55:28](https://news.ycombinator.com/item?id=50487185) - [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa)
 * [2026-11-13, 17:55:23](https://news.ycombinator.com/item?id=50487184) - [OpenAI disbands its robotics team as its general models start running robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/)
 * [2026-11-13, 17:30:10](https://news.ycombinator.com/item?id=50486748) - [AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths)
+* [2026-11-13, 17:13:01](https://news.ycombinator.com/item?id=50486521) - [Concurrent Shell Command Queues](https://emmer.dev/blog/concurrent-shell-command-queues/)
 * [2026-11-13, 17:09:58](https://news.ycombinator.com/item?id=50486482) - [LibreOffice actually works 365 days a year](https://twitter.com/LibreOffice/status/2121205272479998268)
 * [2026-11-13, 16:55:59](https://news.ycombinator.com/item?id=50486258) - [Apify Security Incident](https://status.apify.com/incidents/sxd1dj5j6749)
 * [2026-11-13, 15:08:07](https://news.ycombinator.com/item?id=50484650) - [Minnesota guitarist's \"palmfrets\" invention strikes a new chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)
@@ -28,7 +29,6 @@
 * [2026-11-13, 14:28:40](https://news.ycombinator.com/item?id=50484007) - [Lonewolf 0.3 – A standalone XMPP server written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
 * [2026-11-13, 14:25:46](https://news.ycombinator.com/item?id=50483959) - [CERN Built the Large Hadron Collider's Next-Gen Magnets](https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets)
 * [2026-11-13, 12:10:24](https://news.ycombinator.com/item?id=50482379) - [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
-* [2026-11-13, 10:18:13](https://news.ycombinator.com/item?id=50481187) - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
 * [2026-11-12, 22:03:09](https://news.ycombinator.com/item?id=50474959) - [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
 
 ## [Archives](archives/index.md)
