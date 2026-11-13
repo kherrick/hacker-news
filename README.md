@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 04:58:53](https://news.ycombinator.com/item?id=50478543) - [Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A](https://github.com/pharma2a/pharma2a)
 * [2026-11-13, 04:54:53](https://news.ycombinator.com/item?id=50478515) - [IceWM](https://ice-wm.org/)
 * [2026-11-13, 03:14:59](https://news.ycombinator.com/item?id=50477714) - [Switcher (2004)](https://folklore.org/Switcher.html)
 * [2026-11-13, 03:08:08](https://news.ycombinator.com/item?id=50477649) - [Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)
@@ -29,7 +30,6 @@
 * [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)
 * [2026-11-11, 23:09:27](https://news.ycombinator.com/item?id=50460263) - [Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp](https://github.com/jjba23/sift)
 * [2026-11-11, 21:20:01](https://news.ycombinator.com/item?id=50458849) - [Relax: JIT compiler for Rust to reduce build times](https://makepad.github.io/relax/)
-* [2026-11-11, 15:40:05](https://news.ycombinator.com/item?id=50454700) - [Before Pixels: Speed-Minder](https://unsung.aresluna.org/before-pixels-speed-minder/)
 
 ## [Archives](archives/index.md)
 

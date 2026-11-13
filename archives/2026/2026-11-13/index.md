@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 04:58:53](https://news.ycombinator.com/item?id=50478543) - [Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A](https://github.com/pharma2a/pharma2a)
 * [2026-11-13, 04:54:53](https://news.ycombinator.com/item?id=50478515) - [IceWM](https://ice-wm.org/)
 * [2026-11-13, 03:47:15](https://news.ycombinator.com/item?id=50477993) - [Show HN: I built a Rick and Morty explainer video generator](https://usediorama.com/rick-and-morty)
 * [2026-11-13, 03:14:59](https://news.ycombinator.com/item?id=50477714) - [Don't argue with me. $100k is fair, and you know it](https://folklore.org/Switcher.html)
