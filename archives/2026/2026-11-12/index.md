@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-12](index.md)
 
+* [2026-11-12, 23:44:19](https://news.ycombinator.com/item?id=50476069) - [Adding RSA Support to swift-nio-ssh](https://lograker.app/blog/swift-nio-ssh-rsa-support)
 * [2026-11-12, 23:19:53](https://news.ycombinator.com/item?id=50475829) - [Richard A. Posner has died](https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge)
 * [2026-11-12, 23:08:31](https://news.ycombinator.com/item?id=50475735) - [Why You Should Expect an AI Crash](https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash)
 * [2026-11-12, 23:06:17](https://news.ycombinator.com/item?id=50475713) - [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
