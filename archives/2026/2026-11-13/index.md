@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
 * [2026-11-13, 18:40:37](https://news.ycombinator.com/item?id=50487861) - [6-11X speedup running Qwen3.6 on my RTX 4090, full repo.](https://github.com/me-farza/lightreason/tree/main)
+* [2026-11-13, 18:39:42](https://news.ycombinator.com/item?id=50487854) - [The avalanche that hit math is coming for AI development](https://www.dwarkesh.com/p/rsi)
 * [2026-11-13, 18:33:35](https://news.ycombinator.com/item?id=50487762) - [Models can now transmit viruses in weight-space](https://www.alphaxiv.org/abs/2611.weight-space-misfolding)
 * [2026-11-13, 18:23:49](https://news.ycombinator.com/item?id=50487605) - [Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve)
 * [2026-11-13, 18:18:37](https://news.ycombinator.com/item?id=50487522) - [It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad](https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/)
