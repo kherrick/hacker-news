@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-13, 19:41:09](https://news.ycombinator.com/item?id=50488664) - [Someone's Impersonating This Blog](https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/)
 * [2026-11-13, 19:24:47](https://news.ycombinator.com/item?id=50488464) - [Perplexity Decider v1.3: Training, eval, and use cases](https://www.perplexity.ai/hub/blog/perplexity-decider)
 * [2026-11-13, 19:14:02](https://news.ycombinator.com/item?id=50488325) - [FM-1 Workbench](https://open.m-vave.com/fm1-workbench)
+* [2026-11-13, 18:40:44](https://news.ycombinator.com/item?id=50487864) - [$11.4M in Nvidia hardware vanishes during shipment from CA to TX](https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas)
 * [2026-11-13, 18:39:42](https://news.ycombinator.com/item?id=50487854) - [The avalanche that hit math is coming for AI development](https://www.dwarkesh.com/p/rsi)
 * [2026-11-13, 18:33:35](https://news.ycombinator.com/item?id=50487762) - [Models can now transmit viruses in weight-space](https://www.alphaxiv.org/abs/2611.weight-space-misfolding)
+* [2026-11-13, 18:29:16](https://news.ycombinator.com/item?id=50487688) - [Microsoft outage gives customers a crash course in dependence on Redmond](https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805)
 * [2026-11-13, 18:23:49](https://news.ycombinator.com/item?id=50487605) - [Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve)
 * [2026-11-13, 18:18:37](https://news.ycombinator.com/item?id=50487522) - [It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad](https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/)
 * [2026-11-13, 17:58:37](https://news.ycombinator.com/item?id=50487228) - [Show HN: Isometric SF – A pixel-art map of the SF Bay Area](https://isometricsf.com/)
@@ -20,7 +23,6 @@
 * [2026-11-13, 14:43:12](https://news.ycombinator.com/item?id=50484235) - [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
 * [2026-11-13, 14:28:40](https://news.ycombinator.com/item?id=50484007) - [Lonewolf 0.3 – A standalone XMPP server written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
 * [2026-11-13, 14:25:46](https://news.ycombinator.com/item?id=50483959) - [CERN Built the Large Hadron Collider's Next-Gen Magnets](https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets)
-* [2026-11-13, 14:01:13](https://news.ycombinator.com/item?id=50483611) - [Why Zig over C for Systems Programming](https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/)
 * [2026-11-13, 12:10:24](https://news.ycombinator.com/item?id=50482379) - [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
 * [2026-11-13, 10:18:13](https://news.ycombinator.com/item?id=50481187) - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
 * [2026-11-13, 04:54:53](https://news.ycombinator.com/item?id=50478515) - [IceWM](https://ice-wm.org/)
@@ -28,8 +30,6 @@
 * [2026-11-13, 03:08:08](https://news.ycombinator.com/item?id=50477649) - [Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)
 * [2026-11-12, 22:03:09](https://news.ycombinator.com/item?id=50474959) - [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
 * [2026-11-12, 18:39:05](https://news.ycombinator.com/item?id=50472038) - [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
-* [2026-11-12, 17:02:42](https://news.ycombinator.com/item?id=50470488) - [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
-* [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
 
 ## [Archives](archives/index.md)
 
