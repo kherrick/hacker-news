@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-13](index.md)
 
+* [2026-11-13, 16:50:22](https://news.ycombinator.com/item?id=50486178) - [North Korean hackers used fake video calls in $400M crypto hack, says FBI](https://www.bbc.com/news/articles/cqdj1ellpd70o)
 * [2026-11-13, 15:52:04](https://news.ycombinator.com/item?id=50485295) - [Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers](https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e)
 * [2026-11-13, 15:43:09](https://news.ycombinator.com/item?id=50485166) - [Comparing Jensen to Steve Jobs Is Stupid](https://jonaserthal.com/blog/jobs-and-jensen/)
 * [2026-11-13, 15:29:10](https://news.ycombinator.com/item?id=50484960) - [Why is Google cutting off Search from AI-free schools? Here are some theories](https://text.npr.org/nx-s1-6029408)
