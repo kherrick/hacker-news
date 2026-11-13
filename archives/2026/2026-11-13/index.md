@@ -6,6 +6,7 @@
 
 * [2026-11-13, 17:10:33](https://news.ycombinator.com/item?id=50486489) - [Arm boss Rene Haas approached in Nvidia CEO search](https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926)
 * [2026-11-13, 17:09:58](https://news.ycombinator.com/item?id=50486482) - [\"LibreOffice works 365 days a year. Just saying.\"](https://twitter.com/LibreOffice/status/2121205272479998268)
+* [2026-11-13, 16:55:59](https://news.ycombinator.com/item?id=50486258) - [Apify Was Hacked](https://status.apify.com/incidents/sxd1dj5j6749)
 * [2026-11-13, 16:50:22](https://news.ycombinator.com/item?id=50486178) - [North Korean hackers used fake video calls in $400M crypto hack, says FBI](https://www.bbc.com/news/articles/cqdj1ellpd70o)
 * [2026-11-13, 15:52:04](https://news.ycombinator.com/item?id=50485295) - [Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers](https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e)
 * [2026-11-13, 15:43:09](https://news.ycombinator.com/item?id=50485166) - [Comparing Jensen to Steve Jobs Is Stupid](https://jonaserthal.com/blog/jobs-and-jensen/)
@@ -19,6 +20,7 @@
 * [2026-11-13, 14:34:13](https://news.ycombinator.com/item?id=50484110) - [Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical](https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11)
 * [2026-11-13, 14:28:40](https://news.ycombinator.com/item?id=50484007) - [Lonewolf 0.3 – A standalone XMPP server written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
 * [2026-11-13, 14:28:32](https://news.ycombinator.com/item?id=50484006) - [The 42-Year Journey to Bring 'Neuromancer' to the Screen](https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/)
+* [2026-11-13, 14:25:46](https://news.ycombinator.com/item?id=50483959) - [CERN Built the Large Hadron Collider's Next-Gen Magnets](https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets)
 * [2026-11-13, 14:19:50](https://news.ycombinator.com/item?id=50483875) - [Mercedes-Benz to halt 'all future investments' in Germany](https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7)
 * [2026-11-13, 14:11:56](https://news.ycombinator.com/item?id=50483759) - [US university students tell surveillance cameras to Flock off](https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts)
 * [2026-11-13, 14:01:13](https://news.ycombinator.com/item?id=50483611) - [Why Zig over C for Systems Programming](https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/)
