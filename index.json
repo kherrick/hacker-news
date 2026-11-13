@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-11-13, 18:29:16",
-      "https://news.ycombinator.com/item?id=50487688"
-    ],
-    [
-      "Microsoft outage gives customers a crash course in dependence on Redmond",
-      "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805"
-    ]
-  ],
-  [
-    [
       "2026-11-13, 18:23:49",
       "https://news.ycombinator.com/item?id=50487605"
     ],
@@ -227,6 +217,16 @@
     [
       "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
       "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+    ]
+  ],
+  [
+    [
+      "2026-11-13, 17:13:01",
+      "https://news.ycombinator.com/item?id=50486521"
+    ],
+    [
+      "Concurrent Shell Command Queues",
+      "https://emmer.dev/blog/concurrent-shell-command-queues/"
     ]
   ],
   [
