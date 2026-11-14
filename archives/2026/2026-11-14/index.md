@@ -16,6 +16,7 @@
 * [2026-11-14, 01:09:52](https://news.ycombinator.com/item?id=50492450) - [Hawaii DOT: All West Coast flights halted by SpaceX debris after FAA ground stop](https://www.hawaiinewsnow.com/2026/11/14/dot-all-west-coast-flights-halted-by-spacex-debris-after-faa-ground-stop/)
 * [2026-11-14, 00:52:29](https://news.ycombinator.com/item?id=50492315) - [Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026)
 * [2026-11-14, 00:44:58](https://news.ycombinator.com/item?id=50492269) - [Show HN: Light control for MacBook charger status light (open-source)](https://github.com/Getterbetter/ember/releases/tag/v1.0.1)
+* [2026-11-14, 00:28:11](https://news.ycombinator.com/item?id=50492141) - [Anthropic upgrades Claude Code Projects to run parallel AI workers](https://claude.com/resources/articles/projects-redesigned)
 * [2026-11-14, 00:28:11](https://news.ycombinator.com/item?id=50492141) - [Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free](https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free)
 * [2026-11-14, 00:21:26](https://news.ycombinator.com/item?id=50492098) - [Philip Roth and David Remnick Getting Personal](https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick)
 * [2026-11-14, 00:06:04](https://news.ycombinator.com/item?id=50491980) - [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)
