@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-14, 02:02:42",
+      "https://news.ycombinator.com/item?id=50492860"
+    ],
+    [
+      "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+      "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks"
+    ]
+  ],
+  [
+    [
       "2026-11-14, 01:30:01",
       "https://news.ycombinator.com/item?id=50492601"
     ],
@@ -267,16 +277,6 @@
     [
       "A technical vision for the Haskell ecosystem",
       "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 14:28:40",
-      "https://news.ycombinator.com/item?id=50484007"
-    ],
-    [
-      "Lonewolf 0.3 – A standalone XMPP server written in Rust",
-      "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0"
     ]
   ],
   [
