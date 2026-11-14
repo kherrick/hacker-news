@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-14, 17:58:58](https://news.ycombinator.com/item?id=50499188) - [The VHDL standard's float package gets sqrt(2) wrong](https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg)
 * [2026-11-14, 17:45:19](https://news.ycombinator.com/item?id=50499038) - [A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
 * [2026-11-14, 17:43:10](https://news.ycombinator.com/item?id=50499017) - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
 * [2026-11-14, 17:35:33](https://news.ycombinator.com/item?id=50498945) - [Will We Put Data Centers in Space?](https://www.forethought.org/research/will-we-really-put-data-centers-in-space)
@@ -26,7 +27,6 @@
 * [2026-11-13, 05:12:56](https://news.ycombinator.com/item?id=50478632) - [Let's Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
 * [2026-11-12, 14:36:55](https://news.ycombinator.com/item?id=50467987) - [C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules](https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/)
 * [2026-11-12, 14:04:27](https://news.ycombinator.com/item?id=50467278) - [Testing a Trash Can Faraday Cage](https://www.jefftk.com/p/testing-a-trash-can-faraday-cage)
-* [2026-11-12, 12:00:06](https://news.ycombinator.com/item?id=50465926) - [Bilingualism and Denaskuleco](https://pgadey.ca/notes/bilingualism-and-denaskuleco/)
 * [2026-11-10, 15:07:28](https://news.ycombinator.com/item?id=50441444) - [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/)
 * [2026-11-10, 14:16:05](https://news.ycombinator.com/item?id=50440709) - [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
 * [2026-11-08, 19:03:48](https://news.ycombinator.com/item?id=50416011) - [Reverse engineering a vintage diode-transistor logic chip](https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html)
