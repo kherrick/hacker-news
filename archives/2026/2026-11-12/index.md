@@ -25,6 +25,7 @@
 * [2026-11-12, 18:56:11](https://news.ycombinator.com/item?id=50472323) - [Apify Security Incident](https://status.apify.com/incidents/sxd1dj5j6749)
 * [2026-11-12, 18:52:01](https://news.ycombinator.com/item?id=50472260) - [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
 * [2026-11-12, 18:39:05](https://news.ycombinator.com/item?id=50472038) - [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
+* [2026-11-12, 18:28:06](https://news.ycombinator.com/item?id=50471874) - ['Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)](https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/)
 * [2026-11-12, 18:24:06](https://news.ycombinator.com/item?id=50471793) - [Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)
 * [2026-11-12, 18:22:22](https://news.ycombinator.com/item?id=50471761) - [22-Year-Old PostgreSQL Bug Turned into Remote Code Execution](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/)
 * [2026-11-12, 18:20:48](https://news.ycombinator.com/item?id=50471731) - [Service degradation on Microsoft 365](https://status.cloud.microsoft/)
