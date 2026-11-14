@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
+* [2026-11-14, 15:40:52](https://news.ycombinator.com/item?id=50497892) - [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
 * [2026-11-14, 14:09:25](https://news.ycombinator.com/item?id=50497155) - [Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/)
 * [2026-11-14, 14:08:12](https://news.ycombinator.com/item?id=50497147) - [Show HN: Agweb – a browser for agents that stays out of your way](https://github.com/paul-nameless/agweb)
 * [2026-11-14, 14:06:56](https://news.ycombinator.com/item?id=50497141) - [Show HN: Lampka – a Windows PDF reader whose dark mode keeps figures in colour](https://lampka.app/)
