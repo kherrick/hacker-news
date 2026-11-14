@@ -2,6 +2,7 @@
 
 * [2026-11-14, 17:45:19](https://news.ycombinator.com/item?id=50499038) - [A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
 * [2026-11-14, 17:43:10](https://news.ycombinator.com/item?id=50499017) - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
+* [2026-11-14, 17:35:33](https://news.ycombinator.com/item?id=50498945) - [Will We Put Data Centers in Space?](https://www.forethought.org/research/will-we-really-put-data-centers-in-space)
 * [2026-11-14, 16:01:04](https://news.ycombinator.com/item?id=50498073) - [How to Create Your Own Decentralized Messenger Protocol](https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol)
 * [2026-11-14, 16:00:14](https://news.ycombinator.com/item?id=50498063) - [Italy fines Meta €805M over photo privacy](https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/)
 * [2026-11-14, 15:41:20](https://news.ycombinator.com/item?id=50497900) - [Formalizing US Tax Code (Using Lean)](https://lexifina.com/blog/formalizing-the-us-tax-code)
@@ -22,7 +23,6 @@
 * [2026-11-14, 00:06:04](https://news.ycombinator.com/item?id=50491980) - [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)
 * [2026-11-13, 23:48:59](https://news.ycombinator.com/item?id=50491830) - [What happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/)
 * [2026-11-13, 23:06:40](https://news.ycombinator.com/item?id=50491423) - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
-* [2026-11-13, 21:05:53](https://news.ycombinator.com/item?id=50489641) - [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
 * [2026-11-13, 05:12:56](https://news.ycombinator.com/item?id=50478632) - [Let's Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
 * [2026-11-12, 14:36:55](https://news.ycombinator.com/item?id=50467987) - [C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules](https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/)
 * [2026-11-12, 14:04:27](https://news.ycombinator.com/item?id=50467278) - [Testing a Trash Can Faraday Cage](https://www.jefftk.com/p/testing-a-trash-can-faraday-cage)
