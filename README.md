@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-14, 21:22:24](https://news.ycombinator.com/item?id=50500963) - [SpaceX Catches the Starship to end Flight 15](https://x.com/i/broadcasts/2brajgZlOKRMka)
 * [2026-11-14, 19:23:40](https://news.ycombinator.com/item?id=50499945) - [Dartmouth (Guarini) will not admit math PhD cohort this year](https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year)
 * [2026-11-14, 18:56:47](https://news.ycombinator.com/item?id=50499723) - [LinkedIn, Monster take down over 1000 fake job postings after CBC investigation](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379)
 * [2026-11-14, 17:48:20](https://news.ycombinator.com/item?id=50499083) - [US IRS free online tax filing open source repo (2025)](https://github.com/IRS-Public/direct-file)
@@ -24,7 +25,6 @@
 * [2026-11-14, 04:23:30](https://news.ycombinator.com/item?id=50493904) - [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
 * [2026-11-13, 05:12:56](https://news.ycombinator.com/item?id=50478632) - [Let's Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
 * [2026-11-12, 18:28:06](https://news.ycombinator.com/item?id=50471874) - ['Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)](https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/)
-* [2026-11-12, 14:36:55](https://news.ycombinator.com/item?id=50467987) - [C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules](https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/)
 * [2026-11-12, 14:04:27](https://news.ycombinator.com/item?id=50467278) - [Testing a Trash Can Faraday Cage](https://www.jefftk.com/p/testing-a-trash-can-faraday-cage)
 * [2026-11-11, 14:32:09](https://news.ycombinator.com/item?id=50453901) - [Seagate's new hybrid drive raises some old questions](https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/)
 * [2026-11-10, 15:07:28](https://news.ycombinator.com/item?id=50441444) - [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/)
