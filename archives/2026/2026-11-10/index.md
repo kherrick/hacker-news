@@ -14,6 +14,7 @@
 * [2026-11-10, 19:50:46](https://news.ycombinator.com/item?id=50445401) - [Toyota brand Scion is back and it's going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
 * [2026-11-10, 19:42:44](https://news.ycombinator.com/item?id=50445279) - [Research taste in history: the importance of learning Babylonian math](https://resobscura.substack.com/p/research-taste-in-history-the-importance)
 * [2026-11-10, 19:25:14](https://news.ycombinator.com/item?id=50445013) - [What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)
+* [2026-11-10, 19:17:16](https://news.ycombinator.com/item?id=50444891) - [Write your own kernel optimiser](https://blog.csongor.co.uk/cachet-grids-and-tiles/)
 * [2026-11-10, 19:14:38](https://news.ycombinator.com/item?id=50444850) - [Saltline: First-person shooter built by Fable 5.2](https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp)
 * [2026-11-10, 19:07:53](https://news.ycombinator.com/item?id=50444761) - [Show HN: I have trained 15 blood glucose forecasting models on my own data](https://github.com/0xdeadf1sh/T1DMAI)
 * [2026-11-10, 19:03:54](https://news.ycombinator.com/item?id=50444684) - [A comprehensive study of how fingerprintable users are](https://fingerprinting.study/)
