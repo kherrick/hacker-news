@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
+* [2026-11-14, 16:10:57](https://news.ycombinator.com/item?id=50498151) - [The Cloud Is Just Someone Else's Computer – They Let It Burn](https://soargram.io/content/369523282)
+* [2026-11-14, 16:00:14](https://news.ycombinator.com/item?id=50498063) - [Italy fines Meta €805M over photo privacy](https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/)
 * [2026-11-14, 15:41:20](https://news.ycombinator.com/item?id=50497900) - [Formalizing US Tax Code (Using Lean)](https://lexifina.com/blog/formalizing-the-us-tax-code)
 * [2026-11-14, 15:40:52](https://news.ycombinator.com/item?id=50497892) - [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
 * [2026-11-14, 14:15:06](https://news.ycombinator.com/item?id=50497196) - [Vercel should fork and maintain Deno](https://news.ycombinator.com/item?id=50497196)

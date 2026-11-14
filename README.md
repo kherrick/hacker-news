@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-14, 16:10:57](https://news.ycombinator.com/item?id=50498151) - [The Cloud Is Just Someone Else's Computer – They Let It Burn](https://soargram.io/content/369523282)
+* [2026-11-14, 16:00:14](https://news.ycombinator.com/item?id=50498063) - [Italy fines Meta €805M over photo privacy](https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/)
 * [2026-11-14, 15:41:20](https://news.ycombinator.com/item?id=50497900) - [Formalizing US Tax Code (Using Lean)](https://lexifina.com/blog/formalizing-the-us-tax-code)
 * [2026-11-14, 15:40:52](https://news.ycombinator.com/item?id=50497892) - [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
 * [2026-11-14, 14:09:25](https://news.ycombinator.com/item?id=50497155) - [Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/)
@@ -18,10 +20,8 @@
 * [2026-11-13, 23:48:59](https://news.ycombinator.com/item?id=50491830) - [What happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/)
 * [2026-11-13, 23:17:39](https://news.ycombinator.com/item?id=50491545) - [Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop](https://grounds.top/)
 * [2026-11-13, 23:06:40](https://news.ycombinator.com/item?id=50491423) - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
-* [2026-11-13, 23:04:30](https://news.ycombinator.com/item?id=50491400) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player/)
 * [2026-11-13, 21:05:53](https://news.ycombinator.com/item?id=50489641) - [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
 * [2026-11-13, 19:25:21](https://news.ycombinator.com/item?id=50488470) - [Found: A protein that drives ageing without unleashing inflammation](https://www.nature.com/articles/d41586-026-03638-3)
-* [2026-11-13, 19:14:02](https://news.ycombinator.com/item?id=50488325) - [FM-1 Workbench](https://open.m-vave.com/fm1-workbench)
 * [2026-11-13, 15:08:44](https://news.ycombinator.com/item?id=50484658) - [Jonathan Blow – If AI solved coding, why is my software still the same? [video]](https://www.youtube.com/watch?v=IRK8h67ol7Q)
 * [2026-11-13, 05:12:56](https://news.ycombinator.com/item?id=50478632) - [Let's Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
 * [2026-11-12, 14:36:55](https://news.ycombinator.com/item?id=50467987) - [C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules](https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/)
