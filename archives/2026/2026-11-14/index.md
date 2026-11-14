@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
+* [2026-11-14, 22:51:44](https://news.ycombinator.com/item?id=50501844) - [L3Harris Statement on the Nov. 13 Ground Stop](https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop)
 * [2026-11-14, 22:26:30](https://news.ycombinator.com/item?id=50501631) - [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
 * [2026-11-14, 22:22:49](https://news.ycombinator.com/item?id=50501594) - [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
 * [2026-11-14, 22:13:06](https://news.ycombinator.com/item?id=50501515) - [Mullvad VPN – Privacy is for the people](https://mullvad.net/en)
