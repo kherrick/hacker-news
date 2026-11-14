@@ -39,6 +39,7 @@
 * [2026-11-10, 15:00:39](https://news.ycombinator.com/item?id=50441338) - [The Hardest Tarball?](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
 * [2026-11-10, 14:49:46](https://news.ycombinator.com/item?id=50441181) - [A Brain Teaser of an Obituary](https://www.nytimes.com/2026/11/10/obituaries/steve-selvin-dead.html)
 * [2026-11-10, 14:41:36](https://news.ycombinator.com/item?id=50441074) - [The Death Knell of Digital Search](https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search)
+* [2026-11-10, 14:16:05](https://news.ycombinator.com/item?id=50440709) - [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
 * [2026-11-10, 14:12:59](https://news.ycombinator.com/item?id=50440668) - [The U.S. Is Driving Away Young Scientists](https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html)
 * [2026-11-10, 14:11:54](https://news.ycombinator.com/item?id=50440657) - [Wake me up when AI can...](https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html)
 * [2026-11-10, 13:51:51](https://news.ycombinator.com/item?id=50440359) - [Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM](https://neuracryption.com/research)
