@@ -22,7 +22,7 @@
 * [2026-11-13, 15:08:44](https://news.ycombinator.com/item?id=50484658) - [Jonathan Blow – If AI solved coding, why is my software still the same? [video]](https://www.youtube.com/watch?v=IRK8h67ol7Q)
 * [2026-11-13, 15:08:07](https://news.ycombinator.com/item?id=50484650) - [Minnesota guitarist's \"palmfrets\" invention strikes a new chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)
 * [2026-11-13, 14:43:12](https://news.ycombinator.com/item?id=50484235) - [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
-* [2026-11-13, 14:28:40](https://news.ycombinator.com/item?id=50484007) - [Lonewolf 0.3 – A standalone XMPP server written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
+* [2026-11-13, 05:12:56](https://news.ycombinator.com/item?id=50478632) - [Let's Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
 * [2026-11-12, 22:03:09](https://news.ycombinator.com/item?id=50474959) - [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
 * [2026-11-12, 12:14:20](https://news.ycombinator.com/item?id=50466069) - [The curious case of the north-east arrow](https://arsh.zip/posts/north-east-arrow/)
 * [2026-11-12, 04:08:33](https://news.ycombinator.com/item?id=50462975) - [The Other Nefertiti (2015)](https://alloversky.com/puzzlepieces/the-other-nefertiti)
