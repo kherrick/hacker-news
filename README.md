@@ -5,7 +5,6 @@
 * [2026-11-14, 02:21:36](https://news.ycombinator.com/item?id=50492993) - [Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
 * [2026-11-14, 02:02:42](https://news.ycombinator.com/item?id=50492860) - [Elephants found to be increasingly isolated leading to fractured social networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)
 * [2026-11-14, 00:52:29](https://news.ycombinator.com/item?id=50492315) - [Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026)
-* [2026-11-14, 00:28:11](https://news.ycombinator.com/item?id=50492141) - [Anthropic upgrades Claude Code Projects to run parallel AI workers](https://claude.com/resources/articles/projects-redesigned)
 * [2026-11-14, 00:21:26](https://news.ycombinator.com/item?id=50492098) - [Philip Roth and David Remnick getting personal (2001)](https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick)
 * [2026-11-14, 00:06:04](https://news.ycombinator.com/item?id=50491980) - [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)
 * [2026-11-13, 23:48:59](https://news.ycombinator.com/item?id=50491830) - [What Happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/)
@@ -30,6 +29,7 @@
 * [2026-11-13, 15:08:07](https://news.ycombinator.com/item?id=50484650) - [Minnesota guitarist's \"palmfrets\" invention strikes a new chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)
 * [2026-11-13, 14:43:12](https://news.ycombinator.com/item?id=50484235) - [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
 * [2026-11-12, 22:03:09](https://news.ycombinator.com/item?id=50474959) - [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
+* [2026-11-12, 04:08:33](https://news.ycombinator.com/item?id=50462975) - [The Other Nefertiti(2015)](https://alloversky.com/puzzlepieces/the-other-nefertiti)
 
 ## [Archives](archives/index.md)
 
