@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2026-11-13, 21:01:11",
+      "https://news.ycombinator.com/item?id=50489589"
+    ],
+    [
+      "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "https://atg.science/careers"
+    ]
+  ],
+  [
+    [
       "2026-11-13, 19:58:42",
       "https://news.ycombinator.com/item?id=50488835"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-11-13, 17:30:10",
-      "https://news.ycombinator.com/item?id=50486748"
-    ],
-    [
-      "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
-    ]
-  ],
-  [
-    [
       "2026-11-13, 15:08:44",
       "https://news.ycombinator.com/item?id=50484658"
     ],
@@ -247,16 +247,6 @@
     [
       "A technical vision for the Haskell ecosystem",
       "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 14:28:40",
-      "https://news.ycombinator.com/item?id=50484007"
-    ],
-    [
-      "Lonewolf 0.3 – A standalone XMPP server written in Rust",
-      "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: I have trained 15 blood glucose forecasting models on my own data",
       "https://github.com/0xdeadf1sh/T1DMAI"
+    ]
+  ],
+  [
+    [
+      "2026-11-10, 14:16:05",
+      "https://news.ycombinator.com/item?id=50440709"
+    ],
+    [
+      "Why get an expensive Pi when I have an old phone?",
+      "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/"
     ]
   ]
 ]
