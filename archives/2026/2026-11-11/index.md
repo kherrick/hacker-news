@@ -53,6 +53,7 @@
 * [2026-11-11, 13:34:24](https://news.ycombinator.com/item?id=50453229) - [Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim)
 * [2026-11-11, 13:29:46](https://news.ycombinator.com/item?id=50453171) - [Attention to Mamba: A Recipe for Cross-Architecture Distillation](https://machinelearning.apple.com/research/attention-mamba-distillation)
 * [2026-11-11, 13:19:45](https://news.ycombinator.com/item?id=50453080) - [EventSourcingDB 1.3.0 Is Available](https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available)
+* [2026-11-11, 13:11:48](https://news.ycombinator.com/item?id=50452998) - [Easy-Lang: Evangel Quiwa's Programming Language](https://github.com/jjuliano/easy-lang)
 * [2026-11-11, 12:44:06](https://news.ycombinator.com/item?id=50452742) - [Open research, stronger privacy: Making Firefox users harder to fingerprint](https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/)
 * [2026-11-11, 12:30:17](https://news.ycombinator.com/item?id=50452655) - [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
 * [2026-11-11, 12:29:48](https://news.ycombinator.com/item?id=50452652) - [We need more goat sacrifices](https://www.experimental-history.com/p/we-need-more-goat-sacrifices)
