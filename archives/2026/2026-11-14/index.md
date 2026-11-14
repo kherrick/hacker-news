@@ -8,6 +8,7 @@
 * [2026-11-14, 02:52:59](https://news.ycombinator.com/item?id=50493251) - [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 * [2026-11-14, 02:28:29](https://news.ycombinator.com/item?id=50493062) - [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
 * [2026-11-14, 02:21:36](https://news.ycombinator.com/item?id=50492993) - [Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
+* [2026-11-14, 02:15:41](https://news.ycombinator.com/item?id=50492950) - [Security Agencies Worldwide Found to Use Ad-Based Surveillance System](https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/)
 * [2026-11-14, 02:02:42](https://news.ycombinator.com/item?id=50492860) - [Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)
 * [2026-11-14, 01:47:30](https://news.ycombinator.com/item?id=50492727) - [GigChain Keys – a free, open-source MainStage alternative](https://github.com/xDarkzx/GigChain-Keys)
 * [2026-11-14, 01:30:01](https://news.ycombinator.com/item?id=50492601) - [FAA lifted National Ground Stop at 0119Z](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5)
