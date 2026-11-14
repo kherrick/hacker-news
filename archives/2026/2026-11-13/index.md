@@ -6,6 +6,7 @@
 
 * [2026-11-13, 23:48:59](https://news.ycombinator.com/item?id=50491830) - [What Happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/)
 * [2026-11-13, 23:40:12](https://news.ycombinator.com/item?id=50491753) - [Doc-foundry – AI writes Security detection rules, then proves they work](https://github.com/mjha-arya/DOC-foundry)
+* [2026-11-13, 23:17:39](https://news.ycombinator.com/item?id=50491545) - [Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop](https://grounds.top/)
 * [2026-11-13, 23:06:40](https://news.ycombinator.com/item?id=50491423) - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
 * [2026-11-13, 23:04:30](https://news.ycombinator.com/item?id=50491400) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player/)
 * [2026-11-13, 22:54:47](https://news.ycombinator.com/item?id=50491295) - [Lying to Zed to get its remote server running on FreeBSD](https://hayzam.com/blog/03-lying-to-zeds-remote-editor/)
