@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-14, 22:13:06](https://news.ycombinator.com/item?id=50501515) - [Mullvad VPN – Privacy is for the people](https://mullvad.net/en)
 * [2026-11-14, 21:22:24](https://news.ycombinator.com/item?id=50500963) - [SpaceX Catches the Starship to end Flight 15](https://x.com/i/broadcasts/2brajgZlOKRMka)
 * [2026-11-14, 19:23:40](https://news.ycombinator.com/item?id=50499945) - [Dartmouth (Guarini) will not admit math PhD cohort this year](https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year)
 * [2026-11-14, 18:56:47](https://news.ycombinator.com/item?id=50499723) - [LinkedIn, Monster take down over 1000 fake job postings after CBC investigation](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379)
@@ -9,6 +8,7 @@
 * [2026-11-14, 17:43:10](https://news.ycombinator.com/item?id=50499017) - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
 * [2026-11-14, 17:35:33](https://news.ycombinator.com/item?id=50498945) - [Will we put data centers in space?](https://www.forethought.org/research/will-we-really-put-data-centers-in-space)
 * [2026-11-14, 16:29:05](https://news.ycombinator.com/item?id=50498295) - [Creating a self booting ZIP archive](https://goliath32.com/blog/ziphead.html)
+* [2026-11-14, 16:01:04](https://news.ycombinator.com/item?id=50498073) - [How to Create Your Own Decentralized Messenger Protocol](https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol)
 * [2026-11-14, 15:40:52](https://news.ycombinator.com/item?id=50497892) - [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
 * [2026-11-14, 15:04:15](https://news.ycombinator.com/item?id=50497589) - [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)
 * [2026-11-14, 14:44:28](https://news.ycombinator.com/item?id=50497416) - [Demystifying phone unlocking tools: A technical overview](https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/)
