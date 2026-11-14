@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-11-14, 06:56:42",
-      "https://news.ycombinator.com/item?id=50494696"
-    ],
-    [
-      "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-      "https://news.ycombinator.com/item?id=50494696"
-    ]
-  ],
-  [
-    [
       "2026-11-14, 04:23:30",
       "https://news.ycombinator.com/item?id=50493904"
     ],
@@ -297,6 +287,16 @@
     [
       "Extending LLDB to Debug Applications That Span CPUs and GPUs",
       "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/"
+    ]
+  ],
+  [
+    [
+      "2026-11-10, 19:07:53",
+      "https://news.ycombinator.com/item?id=50444761"
+    ],
+    [
+      "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "https://github.com/0xdeadf1sh/T1DMAI"
     ]
   ]
 ]
