@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-14, 02:56:22](https://news.ycombinator.com/item?id=50493275) - [Microsoft 365 Crawls Back to Life After a 24-Hour Outage](https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/)
 * [2026-11-14, 02:52:59](https://news.ycombinator.com/item?id=50493251) - [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 * [2026-11-14, 02:28:29](https://news.ycombinator.com/item?id=50493062) - [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
 * [2026-11-14, 02:21:36](https://news.ycombinator.com/item?id=50492993) - [Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
@@ -15,6 +14,7 @@
 * [2026-11-13, 23:17:39](https://news.ycombinator.com/item?id=50491545) - [Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop](https://grounds.top/)
 * [2026-11-13, 23:06:40](https://news.ycombinator.com/item?id=50491423) - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
 * [2026-11-13, 23:04:30](https://news.ycombinator.com/item?id=50491400) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player/)
+* [2026-11-13, 22:54:47](https://news.ycombinator.com/item?id=50491295) - [Lying to Zed to get its remote server running on FreeBSD](https://hayzam.com/blog/03-lying-to-zeds-remote-editor/)
 * [2026-11-13, 22:04:24](https://news.ycombinator.com/item?id=50490593) - [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
 * [2026-11-13, 21:05:53](https://news.ycombinator.com/item?id=50489641) - [FAA issues national ground stop](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
 * [2026-11-13, 21:01:11](https://news.ycombinator.com/item?id=50489589) - [Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth](https://atg.science/careers)
