@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-14, 00:52:29](https://news.ycombinator.com/item?id=50492315) - [Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026)
 * [2026-11-13, 23:48:59](https://news.ycombinator.com/item?id=50491830) - [What Happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/)
 * [2026-11-13, 23:40:12](https://news.ycombinator.com/item?id=50491753) - [Doc-foundry – AI writes Security detection rules, then proves they work](https://github.com/mjha-arya/DOC-foundry)
 * [2026-11-13, 23:17:39](https://news.ycombinator.com/item?id=50491545) - [Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop](https://grounds.top/)
@@ -17,7 +18,6 @@
 * [2026-11-13, 19:14:02](https://news.ycombinator.com/item?id=50488325) - [FM-1 Workbench](https://open.m-vave.com/fm1-workbench)
 * [2026-11-13, 18:40:44](https://news.ycombinator.com/item?id=50487864) - [$11.4M in Nvidia hardware vanishes during shipment from CA to TX](https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas)
 * [2026-11-13, 18:33:35](https://news.ycombinator.com/item?id=50487762) - [Weight Space Misfolding](https://www.alphaxiv.org/abs/2611.weight-space-misfolding)
-* [2026-11-13, 18:29:16](https://news.ycombinator.com/item?id=50487688) - [Microsoft outage gives customers a crash course in dependence on Redmond](https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805)
 * [2026-11-13, 18:23:49](https://news.ycombinator.com/item?id=50487605) - [Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve)
 * [2026-11-13, 18:18:37](https://news.ycombinator.com/item?id=50487522) - [It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad](https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/)
 * [2026-11-13, 17:58:37](https://news.ycombinator.com/item?id=50487228) - [Show HN: Isometric SF – A pixel-art map of the SF Bay Area](https://isometricsf.com/)
