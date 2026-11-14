@@ -6,6 +6,7 @@
 
 * [2026-11-14, 19:17:45](https://news.ycombinator.com/item?id=50499895) - [Silicon Valley claims to know the future. So why'd it get the midterms so wrong?](https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/)
 * [2026-11-14, 18:56:47](https://news.ycombinator.com/item?id=50499723) - [LinkedIn, Monster take down over 1000 fake job postings after CBC investigation](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379)
+* [2026-11-14, 18:55:12](https://news.ycombinator.com/item?id=50499712) - [A reimagined OS with no folders and no apps](https://www.mercuryos.com/)
 * [2026-11-14, 17:58:58](https://news.ycombinator.com/item?id=50499188) - [The VHDL standard's float package gets sqrt(2) wrong](https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg)
 * [2026-11-14, 17:51:13](https://news.ycombinator.com/item?id=50499114) - [Claude asked to renumber pages deletes professor's syllabus, year of notes](https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits)
 * [2026-11-14, 17:48:20](https://news.ycombinator.com/item?id=50499083) - [US IRS free online tax filing open source repo](https://github.com/IRS-Public/direct-file)
