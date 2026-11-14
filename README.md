@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-14, 18:56:47](https://news.ycombinator.com/item?id=50499723) - [LinkedIn, Monster take down over 1000 fake job postings after CBC investigation](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379)
-* [2026-11-14, 18:55:12](https://news.ycombinator.com/item?id=50499712) - [A reimagined OS with no folders and no apps](https://www.mercuryos.com/)
 * [2026-11-14, 17:48:20](https://news.ycombinator.com/item?id=50499083) - [US IRS free online tax filing open source repo](https://github.com/IRS-Public/direct-file)
 * [2026-11-14, 17:45:35](https://news.ycombinator.com/item?id=50499041) - [The 'europoors' rants reflect an American insecurity](https://davekeating.substack.com/p/the-europoors-rants-reflect-an-american)
 * [2026-11-14, 17:45:19](https://news.ycombinator.com/item?id=50499038) - [A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
@@ -21,6 +20,7 @@
 * [2026-11-14, 13:31:06](https://news.ycombinator.com/item?id=50496885) - [A visual explanation of reinforcement learning](https://aatishb.com/myriad/how-brains-learn/)
 * [2026-11-14, 13:20:43](https://news.ycombinator.com/item?id=50496811) - [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
 * [2026-11-14, 12:45:45](https://news.ycombinator.com/item?id=50496602) - [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again)
+* [2026-11-14, 11:13:17](https://news.ycombinator.com/item?id=50496051) - [Project Zero will disclose vulnerabilities 90 days after reporting](https://projectzero.google/2026/11/disclosure-policy.html)
 * [2026-11-14, 04:23:30](https://news.ycombinator.com/item?id=50493904) - [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
 * [2026-11-13, 05:12:56](https://news.ycombinator.com/item?id=50478632) - [Let's Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
 * [2026-11-12, 14:36:55](https://news.ycombinator.com/item?id=50467987) - [C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules](https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/)
