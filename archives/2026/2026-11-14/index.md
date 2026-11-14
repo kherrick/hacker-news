@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
+* [2026-11-14, 17:45:19](https://news.ycombinator.com/item?id=50499038) - [A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
 * [2026-11-14, 17:43:10](https://news.ycombinator.com/item?id=50499017) - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
 * [2026-11-14, 16:10:57](https://news.ycombinator.com/item?id=50498151) - [The Cloud Is Just Someone Else's Computer – They Let It Burn](https://soargram.io/content/369523282)
 * [2026-11-14, 16:01:04](https://news.ycombinator.com/item?id=50498073) - [How to Create Your Own Decentralized Messenger Protocol](https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol)
