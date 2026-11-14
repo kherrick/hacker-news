@@ -13,6 +13,7 @@
 * [2026-11-14, 13:48:06](https://news.ycombinator.com/item?id=50497009) - [Italy fines Meta $887M over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/)
 * [2026-11-14, 13:43:28](https://news.ycombinator.com/item?id=50496976) - [KDE: The Documentary on Free Software [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
 * [2026-11-14, 13:36:17](https://news.ycombinator.com/item?id=50496921) - [The Claude Delusion](https://www.netmeister.org/blog/claude-delusion.html)
+* [2026-11-14, 13:31:06](https://news.ycombinator.com/item?id=50496885) - [A visual explanation of reinforcement learning](https://aatishb.com/myriad/how-brains-learn/)
 * [2026-11-14, 13:20:43](https://news.ycombinator.com/item?id=50496811) - [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
 * [2026-11-14, 12:45:45](https://news.ycombinator.com/item?id=50496602) - [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again)
 * [2026-11-14, 06:59:46](https://news.ycombinator.com/item?id=50494711) - [Why a NAT VPS can cost $1: the economics of an IPv4 address](https://natbox.io/blog/why-a-nat-vps-can-cost-1-dollar)
