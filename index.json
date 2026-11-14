@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-11-13, 18:40:44",
-      "https://news.ycombinator.com/item?id=50487864"
-    ],
-    [
-      "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-      "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas"
-    ]
-  ],
-  [
-    [
       "2026-11-13, 18:23:49",
       "https://news.ycombinator.com/item?id=50487605"
     ],
@@ -247,6 +237,16 @@
     [
       "A technical vision for the Haskell ecosystem",
       "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078"
+    ]
+  ],
+  [
+    [
+      "2026-11-13, 14:28:40",
+      "https://news.ycombinator.com/item?id=50484007"
+    ],
+    [
+      "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+      "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0"
     ]
   ],
   [
