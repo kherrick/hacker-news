@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
 * [2026-11-14, 17:58:58](https://news.ycombinator.com/item?id=50499188) - [The VHDL standard's float package gets sqrt(2) wrong](https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg)
+* [2026-11-14, 17:51:13](https://news.ycombinator.com/item?id=50499114) - [Claude asked to renumber pages deletes professor's syllabus, year of notes](https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits)
 * [2026-11-14, 17:45:19](https://news.ycombinator.com/item?id=50499038) - [A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
 * [2026-11-14, 17:43:10](https://news.ycombinator.com/item?id=50499017) - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
 * [2026-11-14, 17:35:33](https://news.ycombinator.com/item?id=50498945) - [Will We Put Data Centers in Space?](https://www.forethought.org/research/will-we-really-put-data-centers-in-space)

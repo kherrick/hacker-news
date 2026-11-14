@@ -46,6 +46,7 @@
 * [2026-11-11, 15:40:05](https://news.ycombinator.com/item?id=50454700) - [Before Pixels: Speed-Minder](https://unsung.aresluna.org/before-pixels-speed-minder/)
 * [2026-11-11, 15:33:06](https://news.ycombinator.com/item?id=50454625) - [Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)
 * [2026-11-11, 15:12:55](https://news.ycombinator.com/item?id=50454395) - [100x Developers](https://jcarreras.es/posts/100x-developers/)
+* [2026-11-11, 14:32:09](https://news.ycombinator.com/item?id=50453901) - [Seagate's new hybrid drive raises some old questions](https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/)
 * [2026-11-11, 14:21:27](https://news.ycombinator.com/item?id=50453763) - [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
 * [2026-11-11, 14:10:46](https://news.ycombinator.com/item?id=50453637) - [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
 * [2026-11-11, 14:02:11](https://news.ycombinator.com/item?id=50453555) - [Apple is killing its Support Community forum next week](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down)
