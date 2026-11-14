@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-14, 06:56:42](https://news.ycombinator.com/item?id=50494696) - [Ask HN: What are the most useful, concrete AI skills to independently learn?](https://news.ycombinator.com/item?id=50494696)
 * [2026-11-14, 04:23:30](https://news.ycombinator.com/item?id=50493904) - [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
 * [2026-11-14, 02:52:59](https://news.ycombinator.com/item?id=50493251) - [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 * [2026-11-14, 02:28:29](https://news.ycombinator.com/item?id=50493062) - [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
@@ -13,7 +14,6 @@
 * [2026-11-13, 23:04:30](https://news.ycombinator.com/item?id=50491400) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player/)
 * [2026-11-13, 22:04:24](https://news.ycombinator.com/item?id=50490593) - [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
 * [2026-11-13, 21:05:53](https://news.ycombinator.com/item?id=50489641) - [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
-* [2026-11-13, 21:01:11](https://news.ycombinator.com/item?id=50489589) - [Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth](https://atg.science/careers)
 * [2026-11-13, 19:58:42](https://news.ycombinator.com/item?id=50488835) - [Live-migration support in FreeBSD and bhyve coming](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
 * [2026-11-13, 19:25:21](https://news.ycombinator.com/item?id=50488470) - [Found: A protein that drives ageing without unleashing inflammation](https://www.nature.com/articles/d41586-026-03638-3)
 * [2026-11-13, 19:24:47](https://news.ycombinator.com/item?id=50488464) - [Perplexity Decider v1.3: Training, eval, and use cases](https://www.perplexity.ai/hub/blog/perplexity-decider)
