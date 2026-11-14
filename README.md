@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-14, 04:59:21](https://news.ycombinator.com/item?id=50494109) - [Road Trip at the Borderland](https://longreads.com/2026/10/29/family-road-trip-china-north-korea/)
+* [2026-11-14, 04:23:30](https://news.ycombinator.com/item?id=50493904) - [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
 * [2026-11-14, 02:52:59](https://news.ycombinator.com/item?id=50493251) - [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 * [2026-11-14, 02:28:29](https://news.ycombinator.com/item?id=50493062) - [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
 * [2026-11-14, 02:21:36](https://news.ycombinator.com/item?id=50492993) - [Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
@@ -20,7 +20,6 @@
 * [2026-11-13, 19:25:21](https://news.ycombinator.com/item?id=50488470) - [Found: A protein that drives ageing without unleashing inflammation](https://www.nature.com/articles/d41586-026-03638-3)
 * [2026-11-13, 19:24:47](https://news.ycombinator.com/item?id=50488464) - [Perplexity Decider v1.3: Training, eval, and use cases](https://www.perplexity.ai/hub/blog/perplexity-decider)
 * [2026-11-13, 19:14:02](https://news.ycombinator.com/item?id=50488325) - [FM-1 Workbench](https://open.m-vave.com/fm1-workbench)
-* [2026-11-13, 18:23:49](https://news.ycombinator.com/item?id=50487605) - [Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve)
 * [2026-11-13, 17:58:37](https://news.ycombinator.com/item?id=50487228) - [Show HN: Isometric SF – A pixel-art map of the SF Bay Area](https://isometricsf.com/)
 * [2026-11-13, 17:55:28](https://news.ycombinator.com/item?id=50487185) - [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa)
 * [2026-11-13, 15:08:44](https://news.ycombinator.com/item?id=50484658) - [Jonathan Blow – If AI solved coding, why is my software still the same? [video]](https://www.youtube.com/watch?v=IRK8h67ol7Q)
@@ -30,6 +29,7 @@
 * [2026-11-12, 13:46:53](https://news.ycombinator.com/item?id=50467010) - [Cabo Pulmo, John Steinbeck, and the village that wouldn't give up](https://blue-continuum.com/the-village-that-gave-back-its-sea)
 * [2026-11-12, 04:08:33](https://news.ycombinator.com/item?id=50462975) - [The Other Nefertiti (2015)](https://alloversky.com/puzzlepieces/the-other-nefertiti)
 * [2026-11-11, 13:11:48](https://news.ycombinator.com/item?id=50452998) - [Easy-Lang: Evangel Quiwa's Programming Language](https://github.com/jjuliano/easy-lang)
+* [2026-11-11, 00:48:14](https://news.ycombinator.com/item?id=50448432) - [Extending LLDB to Debug Applications That Span CPUs and GPUs](https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/)
 
 ## [Archives](archives/index.md)
 
