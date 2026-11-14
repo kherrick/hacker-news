@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-11-14, 19:17:45",
-      "https://news.ycombinator.com/item?id=50499895"
-    ],
-    [
-      "Silicon Valley claims to know the future. So why'd it get the midterms so wrong?",
-      "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/"
-    ]
-  ],
-  [
-    [
       "2026-11-14, 18:56:47",
       "https://news.ycombinator.com/item?id=50499723"
     ],
@@ -21,22 +11,22 @@
   ],
   [
     [
-      "2026-11-14, 17:58:58",
-      "https://news.ycombinator.com/item?id=50499188"
-    ],
-    [
-      "The VHDL standard's float package gets sqrt(2) wrong",
-      "https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg"
-    ]
-  ],
-  [
-    [
       "2026-11-14, 17:48:20",
       "https://news.ycombinator.com/item?id=50499083"
     ],
     [
       "US IRS free online tax filing open source repo",
       "https://github.com/IRS-Public/direct-file"
+    ]
+  ],
+  [
+    [
+      "2026-11-14, 17:45:35",
+      "https://news.ycombinator.com/item?id=50499041"
+    ],
+    [
+      "The 'europoors' rants reflect an American insecurity",
+      "https://davekeating.substack.com/p/the-europoors-rants-reflect-an-american"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
       "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again"
+    ]
+  ],
+  [
+    [
+      "2026-11-14, 11:13:17",
+      "https://news.ycombinator.com/item?id=50496051"
+    ],
+    [
+      "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "https://projectzero.google/2026/11/disclosure-policy.html"
     ]
   ],
   [
