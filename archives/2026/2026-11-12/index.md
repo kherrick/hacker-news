@@ -61,6 +61,7 @@
 * [2026-11-12, 13:52:48](https://news.ycombinator.com/item?id=50467092) - [Jensen Huang resigning effective immediately](https://www.stocktitan.net/news/NVDA/nvidia-announces-ceo-03al5m45ne1p.html)
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
+* [2026-11-12, 13:46:53](https://news.ycombinator.com/item?id=50467010) - [Cabo Pulmo, John Steinbeck, and the village that wouldn't give up](https://blue-continuum.com/the-village-that-gave-back-its-sea)
 * [2026-11-12, 12:51:38](https://news.ycombinator.com/item?id=50466410) - [Adapting CPython for Yk](https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html)
 * [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)
 * [2026-11-12, 10:46:20](https://news.ycombinator.com/item?id=50465453) - [Researchers discover rare star system that emits radio signals every 8 minutes](https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/)

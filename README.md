@@ -14,7 +14,6 @@
 * [2026-11-13, 23:06:40](https://news.ycombinator.com/item?id=50491423) - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
 * [2026-11-13, 23:04:30](https://news.ycombinator.com/item?id=50491400) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player/)
 * [2026-11-13, 22:04:24](https://news.ycombinator.com/item?id=50490593) - [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
-* [2026-11-13, 21:06:52](https://news.ycombinator.com/item?id=50489652) - [All US airports are currently ground stopped](https://twitter.com/flightradar24/status/2121347654714077605)
 * [2026-11-13, 21:05:53](https://news.ycombinator.com/item?id=50489641) - [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
 * [2026-11-13, 21:01:11](https://news.ycombinator.com/item?id=50489589) - [Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth](https://atg.science/careers)
 * [2026-11-13, 19:58:42](https://news.ycombinator.com/item?id=50488835) - [Live-migration support in FreeBSD and bhyve coming](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
@@ -29,7 +28,8 @@
 * [2026-11-13, 15:08:07](https://news.ycombinator.com/item?id=50484650) - [Minnesota guitarist's \"palmfrets\" invention strikes a new chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)
 * [2026-11-13, 14:43:12](https://news.ycombinator.com/item?id=50484235) - [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
 * [2026-11-12, 22:03:09](https://news.ycombinator.com/item?id=50474959) - [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
-* [2026-11-12, 04:08:33](https://news.ycombinator.com/item?id=50462975) - [The Other Nefertiti(2015)](https://alloversky.com/puzzlepieces/the-other-nefertiti)
+* [2026-11-12, 13:46:53](https://news.ycombinator.com/item?id=50467010) - [Cabo Pulmo, John Steinbeck, and the village that wouldn't give up](https://blue-continuum.com/the-village-that-gave-back-its-sea)
+* [2026-11-12, 04:08:33](https://news.ycombinator.com/item?id=50462975) - [The Other Nefertiti (2015)](https://alloversky.com/puzzlepieces/the-other-nefertiti)
 
 ## [Archives](archives/index.md)
 
