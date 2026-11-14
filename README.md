@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-14, 12:45:45](https://news.ycombinator.com/item?id=50496602) - [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again)
 * [2026-11-14, 04:23:30](https://news.ycombinator.com/item?id=50493904) - [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
 * [2026-11-14, 02:52:59](https://news.ycombinator.com/item?id=50493251) - [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 * [2026-11-14, 02:28:29](https://news.ycombinator.com/item?id=50493062) - [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
@@ -25,7 +26,6 @@
 * [2026-11-13, 05:12:56](https://news.ycombinator.com/item?id=50478632) - [Let's Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
 * [2026-11-12, 22:03:09](https://news.ycombinator.com/item?id=50474959) - [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
 * [2026-11-12, 12:14:20](https://news.ycombinator.com/item?id=50466069) - [The curious case of the north-east arrow](https://arsh.zip/posts/north-east-arrow/)
-* [2026-11-12, 04:08:33](https://news.ycombinator.com/item?id=50462975) - [The Other Nefertiti (2015)](https://alloversky.com/puzzlepieces/the-other-nefertiti)
 * [2026-11-11, 15:47:43](https://news.ycombinator.com/item?id=50454791) - [Service Crew Discovers Rare Yellow Burbot in Oswego Harbor](https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor)
 * [2026-11-11, 00:48:14](https://news.ycombinator.com/item?id=50448432) - [Extending LLDB to Debug Applications That Span CPUs and GPUs](https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/)
 * [2026-11-10, 19:07:53](https://news.ycombinator.com/item?id=50444761) - [Show HN: I have trained 15 blood glucose forecasting models on my own data](https://github.com/0xdeadf1sh/T1DMAI)
