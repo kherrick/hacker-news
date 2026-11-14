@@ -35,6 +35,7 @@
 * [2026-11-10, 15:59:34](https://news.ycombinator.com/item?id=50442202) - [Palantir hires a former Democratic senator as it faces scrutiny in new Congress](https://text.npr.org/nx-s1-6029641)
 * [2026-11-10, 15:25:20](https://news.ycombinator.com/item?id=50441707) - [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
 * [2026-11-10, 15:12:16](https://news.ycombinator.com/item?id=50441518) - [Show HN: Valencia, Spain in Sim City/Isometric View](https://tinyvalencia.com/)
+* [2026-11-10, 15:07:28](https://news.ycombinator.com/item?id=50441444) - [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/)
 * [2026-11-10, 15:01:19](https://news.ycombinator.com/item?id=50441350) - [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com)
 * [2026-11-10, 15:00:39](https://news.ycombinator.com/item?id=50441338) - [The Hardest Tarball?](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
 * [2026-11-10, 14:49:46](https://news.ycombinator.com/item?id=50441181) - [A Brain Teaser of an Obituary](https://www.nytimes.com/2026/11/10/obituaries/steve-selvin-dead.html)
