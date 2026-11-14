@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
+* [2026-11-14, 02:02:42](https://news.ycombinator.com/item?id=50492860) - [Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)
 * [2026-11-14, 01:30:01](https://news.ycombinator.com/item?id=50492601) - [FAA lifted National Ground Stop at 0119Z](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5)
 * [2026-11-14, 01:15:10](https://news.ycombinator.com/item?id=50492488) - [FIRE says US to end efforts to curb App,s FB groups reporting on ICE activity](https://www.reuters.com/legal/litigation/free-speech-nonprofit-says-us-end-efforts-curb-facebook-group-app-reporting-ice-2026-11-14/)
 * [2026-11-14, 01:10:22](https://news.ycombinator.com/item?id=50492456) - [Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks](https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html)
