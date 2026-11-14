@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2026-11-14, 15:41:20",
-      "https://news.ycombinator.com/item?id=50497900"
-    ],
-    [
-      "Formalizing US Tax Code (Using Lean)",
-      "https://lexifina.com/blog/formalizing-the-us-tax-code"
-    ]
-  ],
-  [
-    [
       "2026-11-14, 15:40:52",
       "https://news.ycombinator.com/item?id=50497892"
     ],
@@ -127,6 +117,16 @@
     [
       "Demystifying phone unlocking tools: A technical overview",
       "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/"
+    ]
+  ],
+  [
+    [
+      "2026-11-14, 14:08:12",
+      "https://news.ycombinator.com/item?id=50497147"
+    ],
+    [
+      "Show HN: Agweb – a browser for agents that stays out of your way",
+      "https://github.com/paul-nameless/agweb"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-11-12, 14:04:27",
-      "https://news.ycombinator.com/item?id=50467278"
+      "2026-11-12, 14:36:55",
+      "https://news.ycombinator.com/item?id=50467987"
     ],
     [
-      "Testing a Trash Can Faraday Cage",
-      "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage"
+      "C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules",
+      "https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/"
     ]
   ],
   [
