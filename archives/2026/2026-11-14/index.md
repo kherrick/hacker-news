@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
+* [2026-11-14, 02:56:22](https://news.ycombinator.com/item?id=50493275) - [Microsoft 365 Crawls Back to Life After a 24-Hour Outage](https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/)
 * [2026-11-14, 02:52:59](https://news.ycombinator.com/item?id=50493251) - [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 * [2026-11-14, 02:28:29](https://news.ycombinator.com/item?id=50493062) - [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
 * [2026-11-14, 02:21:36](https://news.ycombinator.com/item?id=50492993) - [Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
@@ -16,5 +17,6 @@
 * [2026-11-14, 00:52:29](https://news.ycombinator.com/item?id=50492315) - [Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026)
 * [2026-11-14, 00:44:58](https://news.ycombinator.com/item?id=50492269) - [Show HN: Light control for MacBook charger status light (open-source)](https://github.com/Getterbetter/ember/releases/tag/v1.0.1)
 * [2026-11-14, 00:28:11](https://news.ycombinator.com/item?id=50492141) - [Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free](https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free)
+* [2026-11-14, 00:21:26](https://news.ycombinator.com/item?id=50492098) - [Philip Roth and David Remnick Getting Personal](https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick)
 * [2026-11-14, 00:06:04](https://news.ycombinator.com/item?id=50491980) - [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)
 * [2026-11-14, 00:00:59](https://news.ycombinator.com/item?id=50491944) - [First Strike](https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html)
