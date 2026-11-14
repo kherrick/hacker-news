@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
+* [2026-11-14, 19:23:40](https://news.ycombinator.com/item?id=50499945) - [Dartmouth (Guarini) will not admit math PhD cohort this year](https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year)
 * [2026-11-14, 19:17:45](https://news.ycombinator.com/item?id=50499895) - [Silicon Valley claims to know the future. So why'd it get the midterms so wrong?](https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/)
 * [2026-11-14, 18:56:47](https://news.ycombinator.com/item?id=50499723) - [LinkedIn, Monster take down over 1000 fake job postings after CBC investigation](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379)
 * [2026-11-14, 18:55:12](https://news.ycombinator.com/item?id=50499712) - [A reimagined OS with no folders and no apps](https://www.mercuryos.com/)

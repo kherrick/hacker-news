@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-14, 19:23:40](https://news.ycombinator.com/item?id=50499945) - [Dartmouth (Guarini) will not admit math PhD cohort this year](https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year)
 * [2026-11-14, 18:56:47](https://news.ycombinator.com/item?id=50499723) - [LinkedIn, Monster take down over 1000 fake job postings after CBC investigation](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379)
 * [2026-11-14, 17:48:20](https://news.ycombinator.com/item?id=50499083) - [US IRS free online tax filing open source repo (2025)](https://github.com/IRS-Public/direct-file)
 * [2026-11-14, 17:45:19](https://news.ycombinator.com/item?id=50499038) - [A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
@@ -12,7 +13,6 @@
 * [2026-11-14, 15:04:15](https://news.ycombinator.com/item?id=50497589) - [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)
 * [2026-11-14, 14:44:28](https://news.ycombinator.com/item?id=50497416) - [Demystifying phone unlocking tools: A technical overview](https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/)
 * [2026-11-14, 14:09:25](https://news.ycombinator.com/item?id=50497155) - [Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/)
-* [2026-11-14, 14:08:12](https://news.ycombinator.com/item?id=50497147) - [Show HN: Agweb – a browser for agents that stays out of your way](https://github.com/paul-nameless/agweb)
 * [2026-11-14, 14:06:34](https://news.ycombinator.com/item?id=50497137) - [Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)](https://github.com/FURSOY/fursoy-cpu)
 * [2026-11-14, 14:05:54](https://news.ycombinator.com/item?id=50497132) - [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)
 * [2026-11-14, 13:48:06](https://news.ycombinator.com/item?id=50497009) - [Italy fines Meta $887M over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/)
