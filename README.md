@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-14, 03:11:44](https://news.ycombinator.com/item?id=50493383) - [Quahuru: An original dice strategy board game](https://quahuru.com)
 * [2026-11-14, 02:52:59](https://news.ycombinator.com/item?id=50493251) - [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 * [2026-11-14, 02:28:29](https://news.ycombinator.com/item?id=50493062) - [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
 * [2026-11-14, 02:21:36](https://news.ycombinator.com/item?id=50492993) - [Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
@@ -13,7 +14,6 @@
 * [2026-11-13, 23:06:40](https://news.ycombinator.com/item?id=50491423) - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
 * [2026-11-13, 23:04:30](https://news.ycombinator.com/item?id=50491400) - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player/)
 * [2026-11-13, 22:04:24](https://news.ycombinator.com/item?id=50490593) - [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
-* [2026-11-13, 21:06:52](https://news.ycombinator.com/item?id=50489652) - [All US airports are currently ground stopped](https://twitter.com/flightradar24/status/2121347654714077605)
 * [2026-11-13, 21:05:53](https://news.ycombinator.com/item?id=50489641) - [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
 * [2026-11-13, 21:01:11](https://news.ycombinator.com/item?id=50489589) - [Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth](https://atg.science/careers)
 * [2026-11-13, 19:58:42](https://news.ycombinator.com/item?id=50488835) - [Live-migration support in FreeBSD and bhyve coming](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
