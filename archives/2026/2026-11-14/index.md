@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
+* [2026-11-14, 04:59:21](https://news.ycombinator.com/item?id=50494109) - [Road Trip at the Borderland](https://longreads.com/2026/10/29/family-road-trip-china-north-korea/)
 * [2026-11-14, 03:58:32](https://news.ycombinator.com/item?id=50493731) - [Run Cloudflare Workers Anywhere](https://openorange.dev/)
 * [2026-11-14, 03:11:44](https://news.ycombinator.com/item?id=50493383) - [Quahuru: An original dice strategy board game](https://quahuru.com)
 * [2026-11-14, 02:56:22](https://news.ycombinator.com/item?id=50493275) - [Microsoft 365 Crawls Back to Life After a 24-Hour Outage](https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/)
