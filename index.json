@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-11-13, 19:14:02",
-      "https://news.ycombinator.com/item?id=50488325"
-    ],
-    [
-      "FM-1 Workbench",
-      "https://open.m-vave.com/fm1-workbench"
-    ]
-  ],
-  [
-    [
       "2026-11-13, 05:12:56",
       "https://news.ycombinator.com/item?id=50478632"
     ],
@@ -297,6 +287,16 @@
     [
       "Why get an expensive Pi when I have an old phone?",
       "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/"
+    ]
+  ],
+  [
+    [
+      "2026-11-08, 19:03:48",
+      "https://news.ycombinator.com/item?id=50416011"
+    ],
+    [
+      "Reverse engineering a vintage diode-transistor logic chip",
+      "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html"
     ]
   ]
 ]
