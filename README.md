@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-14, 02:52:59](https://news.ycombinator.com/item?id=50493251) - [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 * [2026-11-14, 02:28:29](https://news.ycombinator.com/item?id=50493062) - [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
 * [2026-11-14, 02:02:42](https://news.ycombinator.com/item?id=50492860) - [Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)
-* [2026-11-14, 01:47:30](https://news.ycombinator.com/item?id=50492727) - [GigChain Keys – a free, open-source MainStage alternative](https://github.com/xDarkzx/GigChain-Keys)
 * [2026-11-14, 01:30:01](https://news.ycombinator.com/item?id=50492601) - [FAA lifted National Ground Stop at 0119Z](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5)
 * [2026-11-14, 01:10:22](https://news.ycombinator.com/item?id=50492456) - [Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks](https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html)
 * [2026-11-14, 00:52:29](https://news.ycombinator.com/item?id=50492315) - [Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026)

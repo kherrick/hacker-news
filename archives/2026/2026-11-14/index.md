@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
+* [2026-11-14, 02:52:59](https://news.ycombinator.com/item?id=50493251) - [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 * [2026-11-14, 02:28:29](https://news.ycombinator.com/item?id=50493062) - [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
 * [2026-11-14, 02:21:36](https://news.ycombinator.com/item?id=50492993) - [Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
 * [2026-11-14, 02:02:42](https://news.ycombinator.com/item?id=50492860) - [Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)
