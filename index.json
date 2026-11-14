@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-14, 01:30:01",
+      "https://news.ycombinator.com/item?id=50492601"
+    ],
+    [
+      "FAA lifted National Ground Stop at 0119Z",
+      "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5"
+    ]
+  ],
+  [
+    [
+      "2026-11-14, 01:15:10",
+      "https://news.ycombinator.com/item?id=50492488"
+    ],
+    [
+      "FIRE says US to end efforts to curb App,s FB groups reporting on ICE activity",
+      "https://www.reuters.com/legal/litigation/free-speech-nonprofit-says-us-end-efforts-curb-facebook-group-app-reporting-ice-2026-11-14/"
+    ]
+  ],
+  [
+    [
       "2026-11-14, 01:10:22",
       "https://news.ycombinator.com/item?id=50492456"
     ],
@@ -257,26 +277,6 @@
     [
       "A technical vision for the Haskell ecosystem",
       "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 14:28:40",
-      "https://news.ycombinator.com/item?id=50484007"
-    ],
-    [
-      "Lonewolf 0.3 – A standalone XMPP server written in Rust",
-      "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 14:25:46",
-      "https://news.ycombinator.com/item?id=50483959"
-    ],
-    [
-      "CERN Built the Large Hadron Collider's Next-Gen Magnets",
-      "https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets"
     ]
   ],
   [
