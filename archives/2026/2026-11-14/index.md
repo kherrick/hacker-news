@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
+* [2026-11-14, 22:13:06](https://news.ycombinator.com/item?id=50501515) - [Mullvad VPN – Privacy is for the people](https://mullvad.net/en)
 * [2026-11-14, 21:22:24](https://news.ycombinator.com/item?id=50500963) - [SpaceX Catches the Starship to end Flight 15](https://x.com/i/broadcasts/2brajgZlOKRMka)
 * [2026-11-14, 19:23:40](https://news.ycombinator.com/item?id=50499945) - [Dartmouth (Guarini) will not admit math PhD cohort this year](https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year)
 * [2026-11-14, 19:17:45](https://news.ycombinator.com/item?id=50499895) - [Silicon Valley claims to know the future. So why'd it get the midterms so wrong?](https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/)
