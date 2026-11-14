@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-14, 15:40:52](https://news.ycombinator.com/item?id=50497892) - [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
+* [2026-11-14, 14:15:06](https://news.ycombinator.com/item?id=50497196) - [Vercel should fork and maintain Deno](https://news.ycombinator.com/item?id=50497196)
 * [2026-11-14, 14:09:25](https://news.ycombinator.com/item?id=50497155) - [Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/)
 * [2026-11-14, 14:08:12](https://news.ycombinator.com/item?id=50497147) - [Show HN: Agweb – a browser for agents that stays out of your way](https://github.com/paul-nameless/agweb)
 * [2026-11-14, 14:06:34](https://news.ycombinator.com/item?id=50497137) - [Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)](https://github.com/FURSOY/fursoy-cpu)
@@ -26,7 +27,6 @@
 * [2026-11-13, 05:12:56](https://news.ycombinator.com/item?id=50478632) - [Let's Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
 * [2026-11-12, 14:04:27](https://news.ycombinator.com/item?id=50467278) - [Testing a Trash Can Faraday Cage](https://www.jefftk.com/p/testing-a-trash-can-faraday-cage)
 * [2026-11-12, 12:00:06](https://news.ycombinator.com/item?id=50465926) - [Bilingualism and Denaskuleco](https://pgadey.ca/notes/bilingualism-and-denaskuleco/)
-* [2026-11-11, 15:47:43](https://news.ycombinator.com/item?id=50454791) - [Service Crew Discovers Rare Yellow Burbot in Oswego Harbor](https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor)
 * [2026-11-10, 19:07:53](https://news.ycombinator.com/item?id=50444761) - [Show HN: I have trained 15 blood glucose forecasting models on my own data](https://github.com/0xdeadf1sh/T1DMAI)
 * [2026-11-10, 15:07:28](https://news.ycombinator.com/item?id=50441444) - [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/)
 * [2026-11-10, 14:16:05](https://news.ycombinator.com/item?id=50440709) - [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
