@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-14](index.md)
 
+* [2026-11-14, 06:59:46](https://news.ycombinator.com/item?id=50494711) - [Why a NAT VPS can cost $1: the economics of an IPv4 address](https://natbox.io/blog/why-a-nat-vps-can-cost-1-dollar)
 * [2026-11-14, 06:56:42](https://news.ycombinator.com/item?id=50494696) - [Ask HN: What are the most useful, concrete AI skills to independently learn?](https://news.ycombinator.com/item?id=50494696)
 * [2026-11-14, 04:59:21](https://news.ycombinator.com/item?id=50494109) - [Road Trip at the Borderland](https://longreads.com/2026/10/29/family-road-trip-china-north-korea/)
 * [2026-11-14, 04:23:30](https://news.ycombinator.com/item?id=50493904) - [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
