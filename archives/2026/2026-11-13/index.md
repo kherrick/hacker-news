@@ -78,6 +78,7 @@
 * [2026-11-13, 10:28:36](https://news.ycombinator.com/item?id=50481354) - [Llama.cpp: 6.5x faster prompt processing on Arm with a NEON kernel](https://github.com/hardwiredagent/silicon-forge-arm-neon-study)
 * [2026-11-13, 10:20:09](https://news.ycombinator.com/item?id=50481220) - [Claude Is Down](https://status.claude.com/history)
 * [2026-11-13, 10:18:13](https://news.ycombinator.com/item?id=50481187) - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
+* [2026-11-13, 10:04:37](https://news.ycombinator.com/item?id=50481056) - [Strictly monotonic timestamps and gapless sequences in Rust](https://tsoracle.rs/)
 * [2026-11-13, 09:27:05](https://news.ycombinator.com/item?id=50480659) - [Is there a 'right amount' of AI?](https://coyotetracks.org/blog/right-amount-of-ai/)
 * [2026-11-13, 09:08:18](https://news.ycombinator.com/item?id=50480480) - [The Dawn of the Data Intelligence Engineer](https://motherduck.com/blog/the-data-intelligence-engineer/)
 * [2026-11-13, 08:33:21](https://news.ycombinator.com/item?id=50480194) - [People Vote for Anti-Immigration Parties Because They Don't Like Immigration](https://www.popularbydesign.org/p/people-vote-for-anti-immigration)
