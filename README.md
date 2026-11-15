@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-15, 09:06:43](https://news.ycombinator.com/item?id=50505271) - [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)
+* [2026-11-15, 07:08:50](https://news.ycombinator.com/item?id=50504718) - [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists)
 * [2026-11-15, 05:29:54](https://news.ycombinator.com/item?id=50504277) - [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/)
 * [2026-11-15, 04:40:41](https://news.ycombinator.com/item?id=50504077) - [Kiri – The Modern Container Runtime](https://runkiri.com/)
 * [2026-11-15, 04:39:25](https://news.ycombinator.com/item?id=50504072) - [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
@@ -23,7 +24,6 @@
 * [2026-11-13, 11:55:19](https://news.ycombinator.com/item?id=50482222) - [The Evolving Story of How Chemistry Became Biology](https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/)
 * [2026-11-13, 10:04:37](https://news.ycombinator.com/item?id=50481056) - [Strictly monotonic timestamps and gapless sequences in Rust](https://tsoracle.rs/)
 * [2026-11-13, 05:22:08](https://news.ycombinator.com/item?id=50478701) - [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/)
-* [2026-11-12, 23:04:23](https://news.ycombinator.com/item?id=50475692) - [Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt](https://boldentrance.com/astro-spiral-the-greatest-car-stunt/)
 * [2026-11-12, 21:27:01](https://news.ycombinator.com/item?id=50474529) - [Handwritten 200-year-old dismissal notice found on roof tile](https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o)
 * [2026-11-11, 17:06:08](https://news.ycombinator.com/item?id=50455732) - [Oxford Molecular Motors](https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor)
 * [2026-11-11, 11:11:22](https://news.ycombinator.com/item?id=50452037) - [Open-Source HF Communications for Remote Communities and Experimenters](https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/)
