@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-15, 03:33:41](https://news.ycombinator.com/item?id=50503731) - [Osint Case Studies](https://osintsearch.org/blog/osint-case-studies)
 * [2026-11-15, 03:05:54](https://news.ycombinator.com/item?id=50503588) - [The Single Router in Southern Arkansas That Ground Air Travel to a Halt](https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c)
 * [2026-11-15, 02:00:54](https://news.ycombinator.com/item?id=50503255) - [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)
 * [2026-11-15, 00:56:45](https://news.ycombinator.com/item?id=50502839) - [Show HN: A custom font based on the Jamaican flag alphabet](https://bobbiec.github.io/jamaican-font.html)
@@ -16,7 +17,6 @@
 * [2026-11-14, 14:05:54](https://news.ycombinator.com/item?id=50497132) - [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)
 * [2026-11-14, 13:43:28](https://news.ycombinator.com/item?id=50496976) - [KDE: The documentary [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
 * [2026-11-14, 13:20:43](https://news.ycombinator.com/item?id=50496811) - [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
-* [2026-11-14, 12:45:45](https://news.ycombinator.com/item?id=50496602) - [Tech companies are trying to shift the concept of privacy again](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again)
 * [2026-11-14, 11:13:17](https://news.ycombinator.com/item?id=50496051) - [Project Zero will disclose vulnerabilities 90 days after reporting](https://projectzero.google/2026/11/disclosure-policy.html)
 * [2026-11-13, 17:37:32](https://news.ycombinator.com/item?id=50486880) - [One Man's Quest to Create the Perfect Whiskey Glass](https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html)
 * [2026-11-13, 13:47:42](https://news.ycombinator.com/item?id=50483431) - [500 Lines or Less A 3D Modeller](https://aosabook.org/en/500L/a-3d-modeller.html)
