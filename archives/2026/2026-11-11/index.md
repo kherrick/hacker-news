@@ -69,6 +69,7 @@
 * [2026-11-11, 11:39:15](https://news.ycombinator.com/item?id=50452230) - [Show HN: ThingStudio, Node-RED style programming for microcontrollers](https://thingstudio.net/)
 * [2026-11-11, 11:38:43](https://news.ycombinator.com/item?id=50452224) - [Physically Controllable Relighting of Photographs](https://yaksoy.github.io/PhysicalRelighting/)
 * [2026-11-11, 11:17:06](https://news.ycombinator.com/item?id=50452074) - [The Zig project is going nowhere](https://bytecode.news/posts/2026/10/the-zig-project-is-going-nowhere)
+* [2026-11-11, 11:11:22](https://news.ycombinator.com/item?id=50452037) - [Open-Source HF Communications for Remote Communities and Experimenters](https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/)
 * [2026-11-11, 11:02:46](https://news.ycombinator.com/item?id=50451985) - [The Housing Market Is Nuts](https://nuts.logical.li/)
 * [2026-11-11, 10:55:46](https://news.ycombinator.com/item?id=50451943) - [Show HN: Log every LLM call with tokens, cost, latency, and time to first token](https://github.com/garritfra/llmtee)
 * [2026-11-11, 10:48:40](https://news.ycombinator.com/item?id=50451903) - [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
