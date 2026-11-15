@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-15, 19:46:02",
+      "https://news.ycombinator.com/item?id=50510005"
+    ],
+    [
+      "Do House members' stock trades beat the market? A test of 8,900 trades",
+      "https://arkanumdata.com/research/house-trades"
+    ]
+  ],
+  [
+    [
       "2026-11-15, 19:39:46",
       "https://news.ycombinator.com/item?id=50509953"
     ],
@@ -77,16 +87,6 @@
     [
       "All AI-generated code should be Open Source",
       "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
-    ]
-  ],
-  [
-    [
-      "2026-11-15, 13:50:51",
-      "https://news.ycombinator.com/item?id=50506940"
-    ],
-    [
-      "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-      "https://github.com/db-branch/db-branch"
     ]
   ],
   [
