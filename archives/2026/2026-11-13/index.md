@@ -71,6 +71,7 @@
 * [2026-11-13, 13:47:42](https://news.ycombinator.com/item?id=50483431) - [500 Lines or Less A 3D Modeller](https://aosabook.org/en/500L/a-3d-modeller.html)
 * [2026-11-13, 13:45:06](https://news.ycombinator.com/item?id=50483391) - [The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]](https://www.youtube.com/watch?v=YYU_geUwQoA)
 * [2026-11-13, 13:08:48](https://news.ycombinator.com/item?id=50482992) - [Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory](https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/)
+* [2026-11-13, 12:42:42](https://news.ycombinator.com/item?id=50482702) - [A DrRacket style editor for Clojure with some Lisp Machine inspired features](https://jonquil.b12n.app/)
 * [2026-11-13, 12:17:52](https://news.ycombinator.com/item?id=50482455) - [Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy](https://github.com/Christ10-8/reflota)
 * [2026-11-13, 12:10:24](https://news.ycombinator.com/item?id=50482379) - [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
 * [2026-11-13, 12:00:18](https://news.ycombinator.com/item?id=50482279) - [Show HN: Carton Clock – A working pendulum clock made from empty drink cartons](https://www.niklasroy.com/carton-clock/)
