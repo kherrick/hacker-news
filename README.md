@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-15, 18:36:40](https://news.ycombinator.com/item?id=50509416) - [Eclipse Mosquitto – An open source MQTT broker](https://github.com/eclipse-mosquitto/mosquitto)
 * [2026-11-15, 18:23:21](https://news.ycombinator.com/item?id=50509308) - [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
 * [2026-11-15, 17:53:31](https://news.ycombinator.com/item?id=50509023) - ['Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html)
 * [2026-11-15, 15:21:21](https://news.ycombinator.com/item?id=50507553) - [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
@@ -12,7 +13,6 @@
 * [2026-11-15, 12:14:06](https://news.ycombinator.com/item?id=50506376) - [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)
 * [2026-11-15, 11:40:51](https://news.ycombinator.com/item?id=50506180) - [Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business](https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html)
 * [2026-11-15, 09:06:43](https://news.ycombinator.com/item?id=50505271) - [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)
-* [2026-11-15, 02:41:25](https://news.ycombinator.com/item?id=50503465) - [My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
 * [2026-11-15, 01:18:36](https://news.ycombinator.com/item?id=50502988) - [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)
 * [2026-11-14, 22:56:09](https://news.ycombinator.com/item?id=50501887) - [The Telephone Changed the World](https://lithub.com/how-the-telephone-changed-the-world/)
 * [2026-11-14, 22:22:49](https://news.ycombinator.com/item?id=50501594) - [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
