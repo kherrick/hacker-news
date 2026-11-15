@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-15, 05:29:54",
+      "https://news.ycombinator.com/item?id=50504277"
+    ],
+    [
+      "Disk encryption on NetBSD – achieving secrecy",
+      "https://netbsd.org/~nia/disk-encrypt/"
+    ]
+  ],
+  [
+    [
       "2026-11-15, 04:39:25",
       "https://news.ycombinator.com/item?id=50504072"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-11-12, 18:28:06",
-      "https://news.ycombinator.com/item?id=50471874"
-    ],
-    [
-      "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-      "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/"
-    ]
-  ],
-  [
-    [
       "2026-11-12, 14:04:27",
       "https://news.ycombinator.com/item?id=50467278"
     ],
@@ -247,6 +247,16 @@
     [
       "Seagate's new hybrid drive raises some old questions",
       "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/"
+    ]
+  ],
+  [
+    [
+      "2026-11-11, 11:11:22",
+      "https://news.ycombinator.com/item?id=50452037"
+    ],
+    [
+      "Open-Source HF Communications for Remote Communities and Experimenters",
+      "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Why get an expensive Pi when I have an old phone?",
       "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 19:03:48",
-      "https://news.ycombinator.com/item?id=50416011"
-    ],
-    [
-      "Reverse engineering a vintage diode-transistor logic chip",
-      "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html"
     ]
   ]
 ]
