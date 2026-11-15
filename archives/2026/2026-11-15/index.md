@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 23:00:11](https://news.ycombinator.com/item?id=50511806) - [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
+* [2026-11-15, 22:26:33](https://news.ycombinator.com/item?id=50511505) - [The Hofmann Wobble: Wikipedia and the problem of historical memory](https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/)
 * [2026-11-15, 22:11:43](https://news.ycombinator.com/item?id=50511395) - [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
 * [2026-11-15, 21:38:11](https://news.ycombinator.com/item?id=50511072) - [Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites](https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/)
 * [2026-11-15, 21:10:39](https://news.ycombinator.com/item?id=50510799) - [Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)
