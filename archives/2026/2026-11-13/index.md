@@ -77,6 +77,7 @@
 * [2026-11-13, 11:34:25](https://news.ycombinator.com/item?id=50482045) - [Europe's electric car sales jump 49% as global EV sales grow](https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/)
 * [2026-11-13, 11:13:46](https://news.ycombinator.com/item?id=50481870) - [AI Is Destroying the Trust Between Writers and Readers](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)
 * [2026-11-13, 10:28:36](https://news.ycombinator.com/item?id=50481354) - [Llama.cpp: 6.5x faster prompt processing on Arm with a NEON kernel](https://github.com/hardwiredagent/silicon-forge-arm-neon-study)
+* [2026-11-13, 10:26:01](https://news.ycombinator.com/item?id=50481321) - [What thousands of conversations look like inside a language model](https://operator0x.com/field-notes/qwen-conversation-state-space/)
 * [2026-11-13, 10:20:09](https://news.ycombinator.com/item?id=50481220) - [Claude Is Down](https://status.claude.com/history)
 * [2026-11-13, 10:18:13](https://news.ycombinator.com/item?id=50481187) - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
 * [2026-11-13, 10:04:37](https://news.ycombinator.com/item?id=50481056) - [Strictly monotonic timestamps and gapless sequences in Rust](https://tsoracle.rs/)
