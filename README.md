@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-15, 17:53:31](https://news.ycombinator.com/item?id=50509023) - ['Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html)
 * [2026-11-15, 15:21:21](https://news.ycombinator.com/item?id=50507553) - [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
 * [2026-11-15, 14:46:58](https://news.ycombinator.com/item?id=50507303) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 * [2026-11-15, 14:31:52](https://news.ycombinator.com/item?id=50507206) - [The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)](https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/)
@@ -18,7 +19,6 @@
 * [2026-11-14, 21:22:24](https://news.ycombinator.com/item?id=50500963) - [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-14, 17:45:19](https://news.ycombinator.com/item?id=50499038) - [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
 * [2026-11-14, 17:43:10](https://news.ycombinator.com/item?id=50499017) - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
-* [2026-11-14, 15:40:52](https://news.ycombinator.com/item?id=50497892) - [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
 * [2026-11-13, 14:42:57](https://news.ycombinator.com/item?id=50484234) - [Semicircle Packing](https://rorz.io/writing/semicircle-packing)
 * [2026-11-13, 12:00:18](https://news.ycombinator.com/item?id=50482279) - [Show HN: Carton Clock – A working pendulum clock made from empty drink cartons](https://www.niklasroy.com/carton-clock/)
 * [2026-11-13, 11:55:19](https://news.ycombinator.com/item?id=50482222) - [The Evolving Story of How Chemistry Became Biology](https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/)
