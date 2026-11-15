@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-15, 21:38:11](https://news.ycombinator.com/item?id=50511072) - [Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites](https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/)
 * [2026-11-15, 21:10:39](https://news.ycombinator.com/item?id=50510799) - [Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)
 * [2026-11-15, 20:37:28](https://news.ycombinator.com/item?id=50510442) - [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)
 * [2026-11-15, 20:20:05](https://news.ycombinator.com/item?id=50510296) - [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
-* [2026-11-15, 20:08:16](https://news.ycombinator.com/item?id=50510198) - [Sell Your Game Outside Steam: Keys, Downloads and Direct Sales](https://permitcore.dev/blog/sell-game-outside-steam)
 * [2026-11-15, 19:46:02](https://news.ycombinator.com/item?id=50510005) - [Do House members' stock trades beat the market? A test of 8,900 trades](https://arkanumdata.com/research/house-trades)
 * [2026-11-15, 19:42:13](https://news.ycombinator.com/item?id=50509972) - [Handwriting, as a Font](https://ductus.sorenblank.com)
 * [2026-11-15, 19:26:22](https://news.ycombinator.com/item?id=50509837) - [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)
