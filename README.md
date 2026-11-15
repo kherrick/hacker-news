@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-15, 04:40:41](https://news.ycombinator.com/item?id=50504077) - [Kiri – The Modern Container Runtime](https://runkiri.com/)
 * [2026-11-15, 04:39:25](https://news.ycombinator.com/item?id=50504072) - [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
 * [2026-11-15, 04:09:11](https://news.ycombinator.com/item?id=50503930) - [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)
 * [2026-11-15, 02:41:25](https://news.ycombinator.com/item?id=50503465) - [My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
 * [2026-11-15, 02:00:54](https://news.ycombinator.com/item?id=50503255) - [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)
 * [2026-11-15, 01:18:36](https://news.ycombinator.com/item?id=50502988) - [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)
 * [2026-11-15, 00:56:45](https://news.ycombinator.com/item?id=50502839) - [Show HN: A custom font based on the Jamaican flag alphabet](https://bobbiec.github.io/jamaican-font.html)
-* [2026-11-14, 22:26:30](https://news.ycombinator.com/item?id=50501631) - [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
 * [2026-11-14, 22:22:49](https://news.ycombinator.com/item?id=50501594) - [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
 * [2026-11-14, 21:22:24](https://news.ycombinator.com/item?id=50500963) - [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-14, 17:45:19](https://news.ycombinator.com/item?id=50499038) - [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
