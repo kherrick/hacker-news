@@ -13,6 +13,7 @@
 * [2026-11-15, 14:46:58](https://news.ycombinator.com/item?id=50507303) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 * [2026-11-15, 14:36:28](https://news.ycombinator.com/item?id=50507231) - [GPU says 35% busy. Busy doing what?](https://tensward.com/blog/gpu-busy-doing-what)
 * [2026-11-15, 14:31:52](https://news.ycombinator.com/item?id=50507206) - [The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)](https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/)
+* [2026-11-15, 13:50:51](https://news.ycombinator.com/item?id=50506940) - [Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS](https://github.com/db-branch/db-branch)
 * [2026-11-15, 13:44:16](https://news.ycombinator.com/item?id=50506894) - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2026-11-15, 13:15:22](https://news.ycombinator.com/item?id=50506719) - [The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
 * [2026-11-15, 12:51:47](https://news.ycombinator.com/item?id=50506588) - [A NES emulator written in Odin](https://lucypero.com/lucynes.html)
