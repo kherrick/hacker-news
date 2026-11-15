@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 15:18:06](https://news.ycombinator.com/item?id=50507517) - [A Human Reads the Anthropic IPO Filing](https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html)
 * [2026-11-15, 14:46:58](https://news.ycombinator.com/item?id=50507303) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 * [2026-11-15, 14:36:28](https://news.ycombinator.com/item?id=50507231) - [GPU says 35% busy. Busy doing what?](https://tensward.com/blog/gpu-busy-doing-what)
 * [2026-11-15, 14:31:52](https://news.ycombinator.com/item?id=50507206) - [The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)](https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/)
