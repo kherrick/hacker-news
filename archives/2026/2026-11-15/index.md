@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 16:16:26](https://news.ycombinator.com/item?id=50508076) - [What Picasso taught me about building AI Agents](https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/)
 * [2026-11-15, 15:45:42](https://news.ycombinator.com/item?id=50507791) - ['Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story](https://www.commondreams.org/news/duffy-ground-stop-explanation)
 * [2026-11-15, 15:37:52](https://news.ycombinator.com/item?id=50507722) - [Show HN: A tiny macOS app that turns off the MacBook display [free license]](https://blackoutapp.io/)
 * [2026-11-15, 15:21:21](https://news.ycombinator.com/item?id=50507553) - [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
