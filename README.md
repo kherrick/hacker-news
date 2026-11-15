@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-15, 18:23:21](https://news.ycombinator.com/item?id=50509308) - [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
 * [2026-11-15, 17:53:31](https://news.ycombinator.com/item?id=50509023) - ['Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html)
 * [2026-11-15, 15:21:21](https://news.ycombinator.com/item?id=50507553) - [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
 * [2026-11-15, 14:46:58](https://news.ycombinator.com/item?id=50507303) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
@@ -21,7 +22,6 @@
 * [2026-11-14, 17:43:10](https://news.ycombinator.com/item?id=50499017) - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
 * [2026-11-13, 14:42:57](https://news.ycombinator.com/item?id=50484234) - [Semicircle Packing](https://rorz.io/writing/semicircle-packing)
 * [2026-11-13, 12:00:18](https://news.ycombinator.com/item?id=50482279) - [Show HN: Carton Clock – A working pendulum clock made from empty drink cartons](https://www.niklasroy.com/carton-clock/)
-* [2026-11-13, 11:55:19](https://news.ycombinator.com/item?id=50482222) - [The Evolving Story of How Chemistry Became Biology](https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/)
 * [2026-11-13, 10:26:01](https://news.ycombinator.com/item?id=50481321) - [What thousands of conversations look like inside a language model](https://operator0x.com/field-notes/qwen-conversation-state-space/)
 * [2026-11-12, 23:11:25](https://news.ycombinator.com/item?id=50475759) - [Chasing an audio artifact on power loss](https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/)
 * [2026-11-12, 21:27:01](https://news.ycombinator.com/item?id=50474529) - [Handwritten 200-year-old dismissal notice found on roof tile](https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o)

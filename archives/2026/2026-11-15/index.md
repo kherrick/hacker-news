@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 18:23:21](https://news.ycombinator.com/item?id=50509308) - [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
 * [2026-11-15, 17:53:31](https://news.ycombinator.com/item?id=50509023) - ['Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html)
 * [2026-11-15, 16:16:26](https://news.ycombinator.com/item?id=50508076) - [What Picasso taught me about building AI Agents](https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/)
 * [2026-11-15, 16:05:53](https://news.ycombinator.com/item?id=50507989) - [The Atheist Bible](https://suchanek.name/texts/atheism/)
