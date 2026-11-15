@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-15, 09:06:43](https://news.ycombinator.com/item?id=50505271) - [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)
 * [2026-11-15, 05:29:54](https://news.ycombinator.com/item?id=50504277) - [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/)
 * [2026-11-15, 04:40:41](https://news.ycombinator.com/item?id=50504077) - [Kiri – The Modern Container Runtime](https://runkiri.com/)
 * [2026-11-15, 04:39:25](https://news.ycombinator.com/item?id=50504072) - [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
@@ -7,7 +8,6 @@
 * [2026-11-15, 02:41:25](https://news.ycombinator.com/item?id=50503465) - [My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
 * [2026-11-15, 02:00:54](https://news.ycombinator.com/item?id=50503255) - [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)
 * [2026-11-15, 01:18:36](https://news.ycombinator.com/item?id=50502988) - [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)
-* [2026-11-15, 00:56:45](https://news.ycombinator.com/item?id=50502839) - [Show HN: A custom font based on the Jamaican flag alphabet](https://bobbiec.github.io/jamaican-font.html)
 * [2026-11-14, 22:22:49](https://news.ycombinator.com/item?id=50501594) - [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
 * [2026-11-14, 21:22:24](https://news.ycombinator.com/item?id=50500963) - [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-14, 17:45:19](https://news.ycombinator.com/item?id=50499038) - [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
@@ -23,7 +23,7 @@
 * [2026-11-13, 11:55:19](https://news.ycombinator.com/item?id=50482222) - [The Evolving Story of How Chemistry Became Biology](https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/)
 * [2026-11-13, 05:22:08](https://news.ycombinator.com/item?id=50478701) - [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/)
 * [2026-11-12, 23:04:23](https://news.ycombinator.com/item?id=50475692) - [Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt](https://boldentrance.com/astro-spiral-the-greatest-car-stunt/)
-* [2026-11-12, 14:04:27](https://news.ycombinator.com/item?id=50467278) - [Testing a trash can Faraday cage](https://www.jefftk.com/p/testing-a-trash-can-faraday-cage)
+* [2026-11-12, 21:27:01](https://news.ycombinator.com/item?id=50474529) - [Handwritten 200-year-old dismissal notice found on roof tile](https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o)
 * [2026-11-11, 17:06:08](https://news.ycombinator.com/item?id=50455732) - [Oxford Molecular Motors](https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor)
 * [2026-11-11, 11:11:22](https://news.ycombinator.com/item?id=50452037) - [Open-Source HF Communications for Remote Communities and Experimenters](https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/)
 * [2026-11-11, 01:52:00](https://news.ycombinator.com/item?id=50448895) - [The Sicilian Citrus Family Tree](https://www.notesfromtheroad.com/europa/citrus-family-tree.html)
