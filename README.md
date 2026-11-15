@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-15, 02:00:54](https://news.ycombinator.com/item?id=50503255) - [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)
+* [2026-11-15, 00:56:45](https://news.ycombinator.com/item?id=50502839) - [Show HN: A custom font based on the Jamaican flag alphabet](https://bobbiec.github.io/jamaican-font.html)
 * [2026-11-14, 22:51:44](https://news.ycombinator.com/item?id=50501844) - [L3Harris statement on the Nov. 13 ground stop](https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop)
 * [2026-11-14, 22:26:30](https://news.ycombinator.com/item?id=50501631) - [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
 * [2026-11-14, 22:22:49](https://news.ycombinator.com/item?id=50501594) - [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
@@ -8,7 +9,6 @@
 * [2026-11-14, 18:56:47](https://news.ycombinator.com/item?id=50499723) - [LinkedIn, Monster take down over 1000 fake job postings after CBC investigation](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379)
 * [2026-11-14, 17:45:19](https://news.ycombinator.com/item?id=50499038) - [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
 * [2026-11-14, 17:43:10](https://news.ycombinator.com/item?id=50499017) - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
-* [2026-11-14, 16:29:05](https://news.ycombinator.com/item?id=50498295) - [Creating a self booting ZIP archive](https://goliath32.com/blog/ziphead.html)
 * [2026-11-14, 15:40:52](https://news.ycombinator.com/item?id=50497892) - [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
 * [2026-11-14, 15:04:15](https://news.ycombinator.com/item?id=50497589) - [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)
 * [2026-11-14, 14:44:28](https://news.ycombinator.com/item?id=50497416) - [Demystifying phone unlocking tools: A technical overview](https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/)
