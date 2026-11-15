@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-15, 05:29:54](https://news.ycombinator.com/item?id=50504277) - [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/)
+* [2026-11-15, 04:40:41](https://news.ycombinator.com/item?id=50504077) - [Kiri – The Modern Container Runtime](https://runkiri.com/)
 * [2026-11-15, 04:39:25](https://news.ycombinator.com/item?id=50504072) - [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
 * [2026-11-15, 04:09:11](https://news.ycombinator.com/item?id=50503930) - [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)
 * [2026-11-15, 02:41:25](https://news.ycombinator.com/item?id=50503465) - [My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
@@ -13,7 +14,6 @@
 * [2026-11-14, 17:43:10](https://news.ycombinator.com/item?id=50499017) - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
 * [2026-11-14, 15:40:52](https://news.ycombinator.com/item?id=50497892) - [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
 * [2026-11-14, 15:04:15](https://news.ycombinator.com/item?id=50497589) - [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)
-* [2026-11-14, 14:05:54](https://news.ycombinator.com/item?id=50497132) - [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)
 * [2026-11-14, 13:43:28](https://news.ycombinator.com/item?id=50496976) - [KDE: The documentary [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
 * [2026-11-14, 13:20:43](https://news.ycombinator.com/item?id=50496811) - [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
 * [2026-11-14, 11:13:17](https://news.ycombinator.com/item?id=50496051) - [Project Zero will disclose vulnerabilities 90 days after reporting](https://projectzero.google/2026/11/disclosure-policy.html)
