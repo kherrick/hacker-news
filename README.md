@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-15, 04:40:41](https://news.ycombinator.com/item?id=50504077) - [Kiri – The Modern Container Runtime](https://runkiri.com/)
 * [2026-11-15, 04:39:25](https://news.ycombinator.com/item?id=50504072) - [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
 * [2026-11-15, 04:09:11](https://news.ycombinator.com/item?id=50503930) - [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)
 * [2026-11-15, 02:41:25](https://news.ycombinator.com/item?id=50503465) - [My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
@@ -30,6 +29,7 @@
 * [2026-11-10, 17:21:48](https://news.ycombinator.com/item?id=50443331) - [A rare glimpse inside the high-risk, high-reward Hormuz trade](https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade)
 * [2026-11-10, 15:07:28](https://news.ycombinator.com/item?id=50441444) - [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/)
 * [2026-11-10, 14:16:05](https://news.ycombinator.com/item?id=50440709) - [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
+* [2026-11-08, 19:03:48](https://news.ycombinator.com/item?id=50416011) - [Reverse engineering a vintage diode-transistor logic chip](https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html)
 
 ## [Archives](archives/index.md)
 
