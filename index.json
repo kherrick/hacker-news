@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-11-15, 03:33:41",
-      "https://news.ycombinator.com/item?id=50503731"
-    ],
-    [
-      "Osint Case Studies",
-      "https://osintsearch.org/blog/osint-case-studies"
-    ]
-  ],
-  [
-    [
       "2026-11-15, 03:05:54",
       "https://news.ycombinator.com/item?id=50503588"
     ],
@@ -147,6 +137,16 @@
     [
       "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
       "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+    ]
+  ],
+  [
+    [
+      "2026-11-14, 14:05:54",
+      "https://news.ycombinator.com/item?id=50497132"
+    ],
+    [
+      "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "https://gitlab.com/snipedbywifi/terminactory"
     ]
   ],
   [
