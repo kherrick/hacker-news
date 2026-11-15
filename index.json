@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-15, 04:40:41",
+      "https://news.ycombinator.com/item?id=50504077"
+    ],
+    [
+      "Kiri – The Modern Container Runtime",
+      "https://runkiri.com/"
+    ]
+  ],
+  [
+    [
       "2026-11-15, 04:39:25",
       "https://news.ycombinator.com/item?id=50504072"
     ],
@@ -287,16 +297,6 @@
     [
       "Why get an expensive Pi when I have an old phone?",
       "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/"
-    ]
-  ],
-  [
-    [
-      "2026-11-08, 19:03:48",
-      "https://news.ycombinator.com/item?id=50416011"
-    ],
-    [
-      "Reverse engineering a vintage diode-transistor logic chip",
-      "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html"
     ]
   ]
 ]
