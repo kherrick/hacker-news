@@ -24,10 +24,10 @@
 * [2026-11-13, 12:00:18](https://news.ycombinator.com/item?id=50482279) - [Show HN: Carton Clock – A working pendulum clock made from empty drink cartons](https://www.niklasroy.com/carton-clock/)
 * [2026-11-13, 11:55:19](https://news.ycombinator.com/item?id=50482222) - [The Evolving Story of How Chemistry Became Biology](https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/)
 * [2026-11-13, 10:04:37](https://news.ycombinator.com/item?id=50481056) - [Strictly monotonic timestamps and gapless sequences in Rust](https://tsoracle.rs/)
-* [2026-11-13, 05:22:08](https://news.ycombinator.com/item?id=50478701) - [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/)
 * [2026-11-12, 21:27:01](https://news.ycombinator.com/item?id=50474529) - [Handwritten 200-year-old dismissal notice found on roof tile](https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o)
+* [2026-11-11, 17:06:08](https://news.ycombinator.com/item?id=50455732) - [Oxford Molecular Motors](https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor)
 * [2026-11-11, 11:11:22](https://news.ycombinator.com/item?id=50452037) - [Open-Source HF Communications for Remote Communities and Experimenters](https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/)
-* [2026-11-10, 17:21:48](https://news.ycombinator.com/item?id=50443331) - [A rare glimpse inside the high-risk, high-reward Hormuz trade](https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade)
+* [2026-11-11, 01:52:00](https://news.ycombinator.com/item?id=50448895) - [The Sicilian Citrus Family Tree](https://www.notesfromtheroad.com/europa/citrus-family-tree.html)
 * [2026-11-10, 15:07:28](https://news.ycombinator.com/item?id=50441444) - [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/)
 * [2026-11-10, 14:16:05](https://news.ycombinator.com/item?id=50440709) - [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
 
