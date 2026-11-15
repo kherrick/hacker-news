@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-15, 13:44:16",
+      "https://news.ycombinator.com/item?id=50506894"
+    ],
+    [
+      "Things That Turbo Pascal Is Smaller Than (2011)",
+      "https://prog21.dadgum.com/116.html"
+    ]
+  ],
+  [
+    [
       "2026-11-15, 13:15:22",
       "https://news.ycombinator.com/item?id=50506719"
     ],
@@ -157,16 +167,6 @@
     [
       "PyPI's redesigned project pages with clearer security signals are now live",
       "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
-    ]
-  ],
-  [
-    [
-      "2026-11-14, 15:04:15",
-      "https://news.ycombinator.com/item?id=50497589"
-    ],
-    [
-      "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
     ]
   ],
   [
