@@ -20,6 +20,7 @@
 * [2026-11-11, 20:45:50](https://news.ycombinator.com/item?id=50458434) - [Tools for exploring the souls of large language models](https://oshea00.github.io/posts/tinygpt-visualizer/)
 * [2026-11-11, 20:26:32](https://news.ycombinator.com/item?id=50458208) - [Emacs in the Age of Magic](https://commandlinesystems.com/magic.txt)
 * [2026-11-11, 20:23:57](https://news.ycombinator.com/item?id=50458166) - [Huawei releases MACaQ, its internal quantizer for local inference](https://github.com/huawei-csl/MACaQ)
+* [2026-11-11, 20:09:34](https://news.ycombinator.com/item?id=50457979) - [How to read codes from (many) IR remote controls with as little code as possible](https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html)
 * [2026-11-11, 20:05:29](https://news.ycombinator.com/item?id=50457939) - [Why are we still working this hard?](https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/)
 * [2026-11-11, 19:47:59](https://news.ycombinator.com/item?id=50457669) - [IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality](https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027)
 * [2026-11-11, 19:45:10](https://news.ycombinator.com/item?id=50457618) - [The Utah Teapot](https://graphics.cs.utah.edu/teapot/)
