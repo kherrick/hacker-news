@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-15, 13:15:22](https://news.ycombinator.com/item?id=50506719) - [The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
+* [2026-11-15, 12:51:47](https://news.ycombinator.com/item?id=50506588) - [A NES emulator written in Odin](https://lucypero.com/lucynes.html)
 * [2026-11-15, 12:14:06](https://news.ycombinator.com/item?id=50506376) - [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)
 * [2026-11-15, 11:40:51](https://news.ycombinator.com/item?id=50506180) - [Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business](https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html)
 * [2026-11-15, 09:06:43](https://news.ycombinator.com/item?id=50505271) - [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)
@@ -16,7 +18,6 @@
 * [2026-11-14, 15:40:52](https://news.ycombinator.com/item?id=50497892) - [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
 * [2026-11-14, 15:04:15](https://news.ycombinator.com/item?id=50497589) - [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)
 * [2026-11-14, 13:43:28](https://news.ycombinator.com/item?id=50496976) - [KDE: The documentary [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
-* [2026-11-14, 13:20:43](https://news.ycombinator.com/item?id=50496811) - [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
 * [2026-11-14, 11:13:17](https://news.ycombinator.com/item?id=50496051) - [Project Zero will disclose vulnerabilities 90 days after reporting](https://projectzero.google/2026/11/disclosure-policy.html)
 * [2026-11-13, 14:42:57](https://news.ycombinator.com/item?id=50484234) - [Semicircle Packing](https://rorz.io/writing/semicircle-packing)
 * [2026-11-13, 13:47:42](https://news.ycombinator.com/item?id=50483431) - [500 Lines or Less A 3D Modeller](https://aosabook.org/en/500L/a-3d-modeller.html)
@@ -26,7 +27,6 @@
 * [2026-11-13, 10:04:37](https://news.ycombinator.com/item?id=50481056) - [Strictly monotonic timestamps and gapless sequences in Rust](https://tsoracle.rs/)
 * [2026-11-12, 23:11:25](https://news.ycombinator.com/item?id=50475759) - [Chasing an audio artifact on power loss](https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/)
 * [2026-11-12, 21:27:01](https://news.ycombinator.com/item?id=50474529) - [Handwritten 200-year-old dismissal notice found on roof tile](https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o)
-* [2026-11-11, 17:06:08](https://news.ycombinator.com/item?id=50455732) - [Oxford Molecular Motors](https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor)
 * [2026-11-11, 11:11:22](https://news.ycombinator.com/item?id=50452037) - [Open-Source HF Communications for Remote Communities and Experimenters](https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/)
 * [2026-11-10, 15:07:28](https://news.ycombinator.com/item?id=50441444) - [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/)
 * [2026-11-10, 14:16:05](https://news.ycombinator.com/item?id=50440709) - [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
