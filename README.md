@@ -2,6 +2,7 @@
 
 * [2026-11-15, 19:46:02](https://news.ycombinator.com/item?id=50510005) - [Do House members' stock trades beat the market? A test of 8,900 trades](https://arkanumdata.com/research/house-trades)
 * [2026-11-15, 19:39:46](https://news.ycombinator.com/item?id=50509953) - [Parents pay $75k for Alpha's AI school. Half of its students missed math target](https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/)
+* [2026-11-15, 19:31:11](https://news.ycombinator.com/item?id=50509883) - [Jensen Huang discusses comeback as Nvidia CEO with allies](https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1)
 * [2026-11-15, 18:36:40](https://news.ycombinator.com/item?id=50509416) - [Eclipse Mosquitto – An open source MQTT broker](https://github.com/eclipse-mosquitto/mosquitto)
 * [2026-11-15, 18:36:10](https://news.ycombinator.com/item?id=50509411) - [Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html)
 * [2026-11-15, 18:23:21](https://news.ycombinator.com/item?id=50509308) - [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
@@ -19,7 +20,6 @@
 * [2026-11-14, 22:56:09](https://news.ycombinator.com/item?id=50501887) - [The Telephone Changed the World](https://lithub.com/how-the-telephone-changed-the-world/)
 * [2026-11-14, 22:22:49](https://news.ycombinator.com/item?id=50501594) - [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
 * [2026-11-14, 21:22:24](https://news.ycombinator.com/item?id=50500963) - [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
-* [2026-11-14, 17:45:19](https://news.ycombinator.com/item?id=50499038) - [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
 * [2026-11-13, 12:00:18](https://news.ycombinator.com/item?id=50482279) - [Show HN: Carton Clock – A working pendulum clock made from empty drink cartons](https://www.niklasroy.com/carton-clock/)
 * [2026-11-13, 10:26:01](https://news.ycombinator.com/item?id=50481321) - [What thousands of conversations look like inside a language model](https://operator0x.com/field-notes/qwen-conversation-state-space/)
 * [2026-11-12, 23:11:25](https://news.ycombinator.com/item?id=50475759) - [Chasing an audio artifact on power loss](https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/)
