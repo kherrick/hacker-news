@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 19:46:02](https://news.ycombinator.com/item?id=50510005) - [Do House members' stock trades beat the market? A test of 8,900 trades](https://arkanumdata.com/research/house-trades)
 * [2026-11-15, 19:39:46](https://news.ycombinator.com/item?id=50509953) - [Parents pay $75k for Alpha's AI school. Half of its students missed math target](https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/)
 * [2026-11-15, 18:36:40](https://news.ycombinator.com/item?id=50509416) - [Eclipse Mosquitto – An open source MQTT broker](https://github.com/eclipse-mosquitto/mosquitto)
 * [2026-11-15, 18:36:10](https://news.ycombinator.com/item?id=50509411) - [Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-15, 19:46:02](https://news.ycombinator.com/item?id=50510005) - [Do House members' stock trades beat the market? A test of 8,900 trades](https://arkanumdata.com/research/house-trades)
 * [2026-11-15, 19:39:46](https://news.ycombinator.com/item?id=50509953) - [Parents pay $75k for Alpha's AI school. Half of its students missed math target](https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/)
 * [2026-11-15, 18:36:40](https://news.ycombinator.com/item?id=50509416) - [Eclipse Mosquitto – An open source MQTT broker](https://github.com/eclipse-mosquitto/mosquitto)
 * [2026-11-15, 18:36:10](https://news.ycombinator.com/item?id=50509411) - [Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html)
@@ -8,7 +9,6 @@
 * [2026-11-15, 17:22:32](https://news.ycombinator.com/item?id=50508715) - [Clice v1.0 Released: Welcome to Modern C++](https://ykiko.me/en/articles/2105384023094834022/)
 * [2026-11-15, 15:21:21](https://news.ycombinator.com/item?id=50507553) - [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
 * [2026-11-15, 14:46:58](https://news.ycombinator.com/item?id=50507303) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
-* [2026-11-15, 13:50:51](https://news.ycombinator.com/item?id=50506940) - [Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS](https://github.com/db-branch/db-branch)
 * [2026-11-15, 13:44:16](https://news.ycombinator.com/item?id=50506894) - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2026-11-15, 13:15:22](https://news.ycombinator.com/item?id=50506719) - [The MacBook Pro's OLED PWM problem](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
 * [2026-11-15, 12:51:47](https://news.ycombinator.com/item?id=50506588) - [A NES emulator written in Odin](https://lucypero.com/lucynes.html)
