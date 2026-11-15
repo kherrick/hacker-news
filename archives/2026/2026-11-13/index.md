@@ -72,6 +72,7 @@
 * [2026-11-13, 13:08:48](https://news.ycombinator.com/item?id=50482992) - [Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory](https://respawnfirst.com/before-resigning-jensen-huang-admitted-he-was-facing-an-avalanche-of-excess-wafers-and-memory-new-report-sheds-more-light-on-the-gpu-ram-crisis/)
 * [2026-11-13, 12:17:52](https://news.ycombinator.com/item?id=50482455) - [Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy](https://github.com/Christ10-8/reflota)
 * [2026-11-13, 12:10:24](https://news.ycombinator.com/item?id=50482379) - [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
+* [2026-11-13, 12:00:18](https://news.ycombinator.com/item?id=50482279) - [Show HN: Carton Clock – A working pendulum clock made from empty drink cartons](https://www.niklasroy.com/carton-clock/)
 * [2026-11-13, 11:55:19](https://news.ycombinator.com/item?id=50482222) - [The Evolving Story of How Chemistry Became Biology](https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/)
 * [2026-11-13, 11:34:25](https://news.ycombinator.com/item?id=50482045) - [Europe's electric car sales jump 49% as global EV sales grow](https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/)
 * [2026-11-13, 11:13:46](https://news.ycombinator.com/item?id=50481870) - [AI Is Destroying the Trust Between Writers and Readers](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/)
