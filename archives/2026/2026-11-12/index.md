@@ -73,6 +73,7 @@
 * [2026-11-12, 12:14:20](https://news.ycombinator.com/item?id=50466069) - [The curious case of the north-east arrow](https://arsh.zip/posts/north-east-arrow/)
 * [2026-11-12, 12:00:06](https://news.ycombinator.com/item?id=50465926) - [Bilingualism and Denaskuleco](https://pgadey.ca/notes/bilingualism-and-denaskuleco/)
 * [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)
+* [2026-11-12, 11:23:02](https://news.ycombinator.com/item?id=50465676) - [Eval Awareness vs. Eval Paranoia](https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia)
 * [2026-11-12, 10:46:20](https://news.ycombinator.com/item?id=50465453) - [Researchers discover rare star system that emits radio signals every 8 minutes](https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/)
 * [2026-11-12, 10:37:47](https://news.ycombinator.com/item?id=50465395) - [Code Smells of Desperation (2023)](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 * [2026-11-12, 10:28:26](https://news.ycombinator.com/item?id=50465352) - [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity)
