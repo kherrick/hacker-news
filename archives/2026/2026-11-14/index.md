@@ -67,5 +67,6 @@
 * [2026-11-14, 00:28:11](https://news.ycombinator.com/item?id=50492141) - [Anthropic upgrades Claude Code Projects to run parallel AI workers](https://claude.com/resources/articles/projects-redesigned)
 * [2026-11-14, 00:28:11](https://news.ycombinator.com/item?id=50492141) - [Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free](https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free)
 * [2026-11-14, 00:21:26](https://news.ycombinator.com/item?id=50492098) - [Philip Roth and David Remnick Getting Personal](https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick)
+* [2026-11-14, 00:10:15](https://news.ycombinator.com/item?id=50492012) - [Keylogger Detection and Containment [pdf]](https://www.cs.vu.nl/~ast/Theses/ortolani-thesis.pdf)
 * [2026-11-14, 00:06:04](https://news.ycombinator.com/item?id=50491980) - [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)
 * [2026-11-14, 00:00:59](https://news.ycombinator.com/item?id=50491944) - [First Strike](https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html)
