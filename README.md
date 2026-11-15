@@ -2,7 +2,6 @@
 
 * [2026-11-15, 02:00:54](https://news.ycombinator.com/item?id=50503255) - [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)
 * [2026-11-15, 00:56:45](https://news.ycombinator.com/item?id=50502839) - [Show HN: A custom font based on the Jamaican flag alphabet](https://bobbiec.github.io/jamaican-font.html)
-* [2026-11-14, 22:51:44](https://news.ycombinator.com/item?id=50501844) - [L3Harris statement on the Nov. 13 ground stop](https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop)
 * [2026-11-14, 22:26:30](https://news.ycombinator.com/item?id=50501631) - [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
 * [2026-11-14, 22:22:49](https://news.ycombinator.com/item?id=50501594) - [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
 * [2026-11-14, 21:22:24](https://news.ycombinator.com/item?id=50500963) - [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
@@ -22,6 +21,7 @@
 * [2026-11-13, 13:47:42](https://news.ycombinator.com/item?id=50483431) - [500 Lines or Less A 3D Modeller](https://aosabook.org/en/500L/a-3d-modeller.html)
 * [2026-11-13, 05:12:56](https://news.ycombinator.com/item?id=50478632) - [Let's Write a PostScript Interpreter](https://beyondloom.com/blog/postscript.html)
 * [2026-11-12, 23:04:23](https://news.ycombinator.com/item?id=50475692) - [Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt](https://boldentrance.com/astro-spiral-the-greatest-car-stunt/)
+* [2026-11-12, 21:56:11](https://news.ycombinator.com/item?id=50474883) - [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
 * [2026-11-12, 18:28:06](https://news.ycombinator.com/item?id=50471874) - ['Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)](https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/)
 * [2026-11-12, 14:04:27](https://news.ycombinator.com/item?id=50467278) - [Testing a trash can Faraday cage](https://www.jefftk.com/p/testing-a-trash-can-faraday-cage)
 * [2026-11-11, 17:06:08](https://news.ycombinator.com/item?id=50455732) - [Oxford Molecular Motors](https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor)
