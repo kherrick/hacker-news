@@ -23,7 +23,7 @@
 * [2026-11-13, 11:55:19](https://news.ycombinator.com/item?id=50482222) - [The Evolving Story of How Chemistry Became Biology](https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/)
 * [2026-11-13, 10:26:01](https://news.ycombinator.com/item?id=50481321) - [What thousands of conversations look like inside a language model](https://operator0x.com/field-notes/qwen-conversation-state-space/)
 * [2026-11-13, 10:04:37](https://news.ycombinator.com/item?id=50481056) - [Strictly monotonic timestamps and gapless sequences in Rust](https://tsoracle.rs/)
-* [2026-11-12, 23:04:23](https://news.ycombinator.com/item?id=50475692) - [Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt](https://boldentrance.com/astro-spiral-the-greatest-car-stunt/)
+* [2026-11-12, 23:11:25](https://news.ycombinator.com/item?id=50475759) - [Chasing an audio artifact on power loss](https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/)
 * [2026-11-12, 21:27:01](https://news.ycombinator.com/item?id=50474529) - [Handwritten 200-year-old dismissal notice found on roof tile](https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o)
 * [2026-11-11, 17:06:08](https://news.ycombinator.com/item?id=50455732) - [Oxford Molecular Motors](https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor)
 * [2026-11-11, 11:11:22](https://news.ycombinator.com/item?id=50452037) - [Open-Source HF Communications for Remote Communities and Experimenters](https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/)
