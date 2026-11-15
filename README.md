@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-15, 20:37:28](https://news.ycombinator.com/item?id=50510442) - [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)
 * [2026-11-15, 19:46:02](https://news.ycombinator.com/item?id=50510005) - [Do House members' stock trades beat the market? A test of 8,900 trades](https://arkanumdata.com/research/house-trades)
-* [2026-11-15, 19:39:46](https://news.ycombinator.com/item?id=50509953) - [Parents pay $75k for Alpha's AI school. Half of its students missed math target](https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/)
-* [2026-11-15, 19:31:11](https://news.ycombinator.com/item?id=50509883) - [Jensen Huang discusses comeback as Nvidia CEO with allies](https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1)
 * [2026-11-15, 19:26:22](https://news.ycombinator.com/item?id=50509837) - [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)
 * [2026-11-15, 18:36:40](https://news.ycombinator.com/item?id=50509416) - [Eclipse Mosquitto – An open source MQTT broker](https://github.com/eclipse-mosquitto/mosquitto)
 * [2026-11-15, 18:36:10](https://news.ycombinator.com/item?id=50509411) - [Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html)
@@ -24,6 +23,7 @@
 * [2026-11-13, 20:05:20](https://news.ycombinator.com/item?id=50488916) - [Your room can be as bright as the outdoors (2019)](https://www.benkuhn.net/lux/)
 * [2026-11-13, 10:26:01](https://news.ycombinator.com/item?id=50481321) - [What thousands of conversations look like inside a language model](https://operator0x.com/field-notes/qwen-conversation-state-space/)
 * [2026-11-12, 23:11:25](https://news.ycombinator.com/item?id=50475759) - [Chasing an audio artifact on power loss](https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/)
+* [2026-11-12, 21:27:01](https://news.ycombinator.com/item?id=50474529) - [Handwritten 200-year-old dismissal notice found on roof tile](https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o)
 * [2026-11-12, 15:00:11](https://news.ycombinator.com/item?id=50468445) - [Bullet Dodged](https://idiotking.org/archives/2026/10/bullet-dodged-3/)
 * [2026-11-12, 14:15:28](https://news.ycombinator.com/item?id=50467539) - [20 Years of Pyrolog](https://pypy.org/posts/2026/11/20-years-of-pyrolog.html)
 * [2026-11-12, 11:23:02](https://news.ycombinator.com/item?id=50465676) - [Eval Awareness vs. Eval Paranoia](https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia)

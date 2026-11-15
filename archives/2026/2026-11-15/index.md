@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 20:37:28](https://news.ycombinator.com/item?id=50510442) - [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)
 * [2026-11-15, 19:46:02](https://news.ycombinator.com/item?id=50510005) - [Do House members' stock trades beat the market? A test of 8,900 trades](https://arkanumdata.com/research/house-trades)
 * [2026-11-15, 19:39:46](https://news.ycombinator.com/item?id=50509953) - [Parents pay $75k for Alpha's AI school. Half of its students missed math target](https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/)
 * [2026-11-15, 19:31:11](https://news.ycombinator.com/item?id=50509883) - [Jensen Huang discusses comeback as Nvidia CEO with allies](https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1)
