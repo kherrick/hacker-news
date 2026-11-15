@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 15:45:42](https://news.ycombinator.com/item?id=50507791) - ['Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story](https://www.commondreams.org/news/duffy-ground-stop-explanation)
 * [2026-11-15, 15:37:52](https://news.ycombinator.com/item?id=50507722) - [Show HN: A tiny macOS app that turns off the MacBook display [free license]](https://blackoutapp.io/)
 * [2026-11-15, 15:21:21](https://news.ycombinator.com/item?id=50507553) - [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
 * [2026-11-15, 15:18:06](https://news.ycombinator.com/item?id=50507517) - [A Human Reads the Anthropic IPO Filing](https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html)
