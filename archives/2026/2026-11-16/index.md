@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 19:29:17](https://news.ycombinator.com/item?id=50521870) - [How to Intercept HTTP/3 Traffic: QUIC and Qpack](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
 * [2026-11-16, 19:13:13](https://news.ycombinator.com/item?id=50521644) - [Adobe flash editor libre alternative](https://www.q0id.com/downloads)
 * [2026-11-16, 18:57:29](https://news.ycombinator.com/item?id=50521421) - [Chase, US Bank, Zelle, others are down](https://www.boston25news.com/news/trending/customers-report-chase-us-bank-zelle-others-are-down/LYYL3KX37JAGDGDPB65AS36Q24/)
 * [2026-11-16, 18:53:00](https://news.ycombinator.com/item?id=50521357) - [US Banks report outages in latest tech hiccup](https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/)
@@ -19,6 +20,7 @@
 * [2026-11-16, 17:51:18](https://news.ycombinator.com/item?id=50520506) - [Show HN: Claimseed, synthetic Medicare docs with planted errors and answer keys](https://github.com/claimseed/claimseed)
 * [2026-11-16, 17:34:41](https://news.ycombinator.com/item?id=50520270) - [Aristotle Expands into Rust](https://www.harmonic.fun/news/aristotle-rust-verification/)
 * [2026-11-16, 17:27:46](https://news.ycombinator.com/item?id=50520182) - [Sheep grazing in solar fields offers farmers economic, ecological gains](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
+* [2026-11-16, 17:25:35](https://news.ycombinator.com/item?id=50520148) - [How Billions in Safe Insurance Money Is Being Bet on A.I. Debt](https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html)
 * [2026-11-16, 17:20:28](https://news.ycombinator.com/item?id=50520076) - [Ask HN: If AI tools are so good, why isn't your bug backlog empty?](https://news.ycombinator.com/item?id=50520076)
 * [2026-11-16, 17:08:20](https://news.ycombinator.com/item?id=50519924) - [US now \"comfortable\" with children dying of measles as death toll hits 10](https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/)
 * [2026-11-16, 16:53:39](https://news.ycombinator.com/item?id=50519744) - [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
@@ -47,6 +49,7 @@
 * [2026-11-16, 09:19:38](https://news.ycombinator.com/item?id=50515616) - [It's always DNS, so why are we running our own?](https://s2.dev/blog/dns-server)
 * [2026-11-16, 08:00:13](https://news.ycombinator.com/item?id=50515182) - [Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME](https://github.com/ages2001/WINUDF)
 * [2026-11-16, 07:57:40](https://news.ycombinator.com/item?id=50515169) - [How Should Armies Fight?](https://worksinprogress.co/issue/the-future-of-war/)
+* [2026-11-16, 07:55:10](https://news.ycombinator.com/item?id=50515151) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-16, 07:38:19](https://news.ycombinator.com/item?id=50515058) - [“…and the proof is checked in Lean”](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
 * [2026-11-16, 05:50:37](https://news.ycombinator.com/item?id=50514470) - [How to Make Almost Anything](https://pub.cba.mit.edu/863.26/site/)
 * [2026-11-16, 05:05:54](https://news.ycombinator.com/item?id=50514257) - [Did the Apollo Guidance Computer use 60% of the ICs in 1963?](https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963)
