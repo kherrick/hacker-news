@@ -15,6 +15,7 @@
 * [2026-11-13, 22:30:10](https://news.ycombinator.com/item?id=50490967) - [Home Assistant: the password is not the key – token secrets in cleartext](https://seclists.org/fulldisclosure/2026/Nov/34)
 * [2026-11-13, 22:16:11](https://news.ycombinator.com/item?id=50490778) - [National Weather Service reports nationwide radar website outage amid FAA stop](https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage)
 * [2026-11-13, 22:04:24](https://news.ycombinator.com/item?id=50490593) - [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
+* [2026-11-13, 22:03:41](https://news.ycombinator.com/item?id=50490583) - [1900s How do you Wash a Kimono?](https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints)
 * [2026-11-13, 21:50:25](https://news.ycombinator.com/item?id=50490383) - [US Radar Service Outage](https://www.weather.gov/afc/radaroutage)
 * [2026-11-13, 21:08:49](https://news.ycombinator.com/item?id=50489678) - [FAA issues nationwide ground stop due to \"extraordinary circumstances\"](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
 * [2026-11-13, 21:06:52](https://news.ycombinator.com/item?id=50489652) - [All US airports are currently ground stopped](https://twitter.com/flightradar24/status/2121347654714077605)

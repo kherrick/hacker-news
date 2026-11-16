@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-15](index.md)
 
+* [2026-11-15, 23:55:55](https://news.ycombinator.com/item?id=50512235) - [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 * [2026-11-15, 23:55:41](https://news.ycombinator.com/item?id=50512231) - [Mini.nvim Is Now on Tangled](https://tangled.org/nvim-mini.org/mini.nvim)
 * [2026-11-15, 23:24:53](https://news.ycombinator.com/item?id=50511982) - [Jensen Huang might return to Nvidia as CEO](https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/)
 * [2026-11-15, 23:12:38](https://news.ycombinator.com/item?id=50511899) - [Chemical spills into drainage ditch at SpaceXAI in Southaven](https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/)
