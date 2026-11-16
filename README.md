@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-16, 05:50:37](https://news.ycombinator.com/item?id=50514470) - [How to Make Almost Anything](https://pub.cba.mit.edu/863.26/site/)
+* [2026-11-16, 05:50:37](https://news.ycombinator.com/item?id=50514470) - [How to make almost anything](https://pub.cba.mit.edu/863.26/site/)
 * [2026-11-16, 04:53:06](https://news.ycombinator.com/item?id=50514180) - [Debian Becomes Unresponsive after 6.1.0-55 Kernel Update](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
 * [2026-11-16, 04:37:03](https://news.ycombinator.com/item?id=50514093) - [Stop Filming in Log](https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/)
-* [2026-11-16, 02:53:30](https://news.ycombinator.com/item?id=50513451) - [Tell HN: HN is being scraped for emails to scam](https://news.ycombinator.com/item?id=50513451)
 * [2026-11-16, 02:14:44](https://news.ycombinator.com/item?id=50513215) - [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
 * [2026-11-16, 02:04:48](https://news.ycombinator.com/item?id=50513160) - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
 * [2026-11-16, 01:14:35](https://news.ycombinator.com/item?id=50512824) - [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
@@ -30,6 +29,7 @@
 * [2026-11-13, 06:58:41](https://news.ycombinator.com/item?id=50479405) - [The Miracle Cure: In 1977, a drug rejected by doctors became a sensation](https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html)
 * [2026-11-12, 14:18:04](https://news.ycombinator.com/item?id=50467599) - [Simple 8085 Computer](https://www.hackster.io/mit41301/simple-8085-computer-9fe156)
 * [2026-11-12, 05:29:24](https://news.ycombinator.com/item?id=50463399) - [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]](https://www.youtube.com/watch?v=WPj3aQ-xxpI)
+* [2026-11-12, 03:44:33](https://news.ycombinator.com/item?id=50462816) - [The Lasting Influence of John Berger](https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review)
 
 ## [Archives](archives/index.md)
 

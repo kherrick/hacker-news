@@ -88,6 +88,7 @@
 * [2026-11-12, 05:29:24](https://news.ycombinator.com/item?id=50463399) - [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]](https://www.youtube.com/watch?v=WPj3aQ-xxpI)
 * [2026-11-12, 04:32:31](https://news.ycombinator.com/item?id=50463103) - [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
 * [2026-11-12, 04:08:33](https://news.ycombinator.com/item?id=50462975) - [The Other Nefertiti(2015)](https://alloversky.com/puzzlepieces/the-other-nefertiti)
+* [2026-11-12, 03:44:33](https://news.ycombinator.com/item?id=50462816) - [The Lasting Influence of John Berger](https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review)
 * [2026-11-12, 03:18:13](https://news.ycombinator.com/item?id=50462613) - [Bad ideas that aren't bad anymore](https://devonestes.com/bad-ideas-that-arent-bad-anymore)
 * [2026-11-12, 02:53:22](https://news.ycombinator.com/item?id=50462469) - [Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS](https://github.com/DaleFranks/ramasite)
 * [2026-11-12, 02:36:48](https://news.ycombinator.com/item?id=50462375) - [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
