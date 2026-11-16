@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-16, 18:53:00](https://news.ycombinator.com/item?id=50521357) - [US Banks report outages in latest tech hiccup](https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/)
 * [2026-11-16, 18:17:17](https://news.ycombinator.com/item?id=50520866) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
 * [2026-11-16, 18:12:48](https://news.ycombinator.com/item?id=50520804) - [OpenAI: Strengthening the fight against online child sexual abuse](https://openai.com/index/strengthening-online-child-safety/)
 * [2026-11-16, 18:08:04](https://news.ycombinator.com/item?id=50520741) - [Show HN: Fakemetrics.com – \"build in public\" like a superstar](https://fakemetrics.com/)
@@ -13,7 +14,6 @@
 * [2026-11-16, 15:24:09](https://news.ycombinator.com/item?id=50518567) - [Nvidia was in trouble before the Jensen Huang mess](https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/)
 * [2026-11-16, 14:38:54](https://news.ycombinator.com/item?id=50518068) - [A 512 KiB binary message teaching chess without a shared language](https://artemlegotin.com/golden-board/)
 * [2026-11-16, 14:15:31](https://news.ycombinator.com/item?id=50517815) - [The Active Directory Era Is Finally Over](https://infisical.com/blog/active-directory-machine-identity)
-* [2026-11-16, 13:51:38](https://news.ycombinator.com/item?id=50517602) - [What is w2rt6byl5nf1opmc-a.com?](https://jack.cab/blog/siterate)
 * [2026-11-16, 13:39:07](https://news.ycombinator.com/item?id=50517488) - [Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/)
 * [2026-11-16, 11:39:31](https://news.ycombinator.com/item?id=50516473) - [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
 * [2026-11-16, 08:00:13](https://news.ycombinator.com/item?id=50515182) - [Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME](https://github.com/ages2001/WINUDF)
