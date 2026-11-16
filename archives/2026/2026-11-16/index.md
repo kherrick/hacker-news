@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
 * [2026-11-16, 05:50:37](https://news.ycombinator.com/item?id=50514470) - [How to Make Almost Anything](https://pub.cba.mit.edu/863.26/site/)
+* [2026-11-16, 05:05:54](https://news.ycombinator.com/item?id=50514257) - [Did the Apollo Guidance Computer use 60% of the ICs in 1963?](https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963)
 * [2026-11-16, 04:53:06](https://news.ycombinator.com/item?id=50514180) - [Debian Becomes Unresponsive after 6.1.0-55 Kernel Update](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
 * [2026-11-16, 04:37:03](https://news.ycombinator.com/item?id=50514093) - [Stop Filming in Log](https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/)
 * [2026-11-16, 03:58:04](https://news.ycombinator.com/item?id=50513843) - [Linux was created as a rejection of robust software architecture and tools](https://twitter.com/GrapheneOS/status/2122079826257588569)
