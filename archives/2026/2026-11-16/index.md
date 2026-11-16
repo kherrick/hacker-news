@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 11:14:27](https://news.ycombinator.com/item?id=50516301) - [I posted in \"Who wants to be hired?\" and a recruiter sent me a RAT and a stealer](https://getjump.me/posts/03-huntrole-fake-take-home/)
 * [2026-11-16, 11:03:16](https://news.ycombinator.com/item?id=50516245) - [Coffeehouses and the Rise of Science [pdf]](https://www.monirbounadi.com/Bounadi_JMP.pdf)
+* [2026-11-16, 11:00:02](https://news.ycombinator.com/item?id=50516232) - [Doing Show HN generates a ton of automated email pitches](https://petervandijck.com/post/pbrgs-ev0bc)
 * [2026-11-16, 09:19:38](https://news.ycombinator.com/item?id=50515616) - [It's always DNS, so why are we running our own?](https://s2.dev/blog/dns-server)
 * [2026-11-16, 08:00:13](https://news.ycombinator.com/item?id=50515182) - [Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME](https://github.com/ages2001/WINUDF)
 * [2026-11-16, 07:38:19](https://news.ycombinator.com/item?id=50515058) - [“…and the proof is checked in Lean”](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
