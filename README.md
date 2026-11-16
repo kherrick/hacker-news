@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-16, 03:58:04](https://news.ycombinator.com/item?id=50513843) - [Linux was created as a rejection of robust software architecture and tools](https://twitter.com/GrapheneOS/status/2122079826257588569)
-* [2026-11-16, 03:12:04](https://news.ycombinator.com/item?id=50513589) - [New Mexico wanted free childcare for all; what's worked – and what hasn't](https://text.npr.org/nx-s1-6040194)
 * [2026-11-16, 02:53:30](https://news.ycombinator.com/item?id=50513451) - [Tell HN: HN is being scraped for emails to scam](https://news.ycombinator.com/item?id=50513451)
 * [2026-11-16, 02:14:44](https://news.ycombinator.com/item?id=50513215) - [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
 * [2026-11-16, 02:04:48](https://news.ycombinator.com/item?id=50513160) - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
 * [2026-11-16, 01:14:35](https://news.ycombinator.com/item?id=50512824) - [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
 * [2026-11-16, 00:21:54](https://news.ycombinator.com/item?id=50512441) - [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
+* [2026-11-16, 00:03:12](https://news.ycombinator.com/item?id=50512296) - [Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones](https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone)
 * [2026-11-15, 23:55:55](https://news.ycombinator.com/item?id=50512235) - [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 * [2026-11-15, 23:55:41](https://news.ycombinator.com/item?id=50512231) - [Mini.nvim Is Now on Tangled](https://tangled.org/nvim-mini.org/mini.nvim)
 * [2026-11-15, 23:00:11](https://news.ycombinator.com/item?id=50511806) - [Preserving 30 years of Salon journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
