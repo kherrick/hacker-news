@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-16, 13:51:38",
+      "https://news.ycombinator.com/item?id=50517602"
+    ],
+    [
+      "What the fuck is w2rt6byl5nf1opmc-a.com?",
+      "https://jack.cab/blog/siterate"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 13:39:07",
+      "https://news.ycombinator.com/item?id=50517488"
+    ],
+    [
+      "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings– 1 in 10 Cost More",
+      "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 11:39:31",
       "https://news.ycombinator.com/item?id=50516473"
     ],
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2026-11-16, 00:03:12",
-      "https://news.ycombinator.com/item?id=50512296"
-    ],
-    [
-      "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
-      "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone"
-    ]
-  ],
-  [
-    [
       "2026-11-15, 23:55:55",
       "https://news.ycombinator.com/item?id=50512235"
     ],
     [
       "What's Next for Nvidia?",
       "https://steveblank.com/2026/11/15/whats-next-for-nvidia/"
-    ]
-  ],
-  [
-    [
-      "2026-11-15, 23:55:41",
-      "https://news.ycombinator.com/item?id=50512231"
-    ],
-    [
-      "Mini.nvim Is Now on Tangled",
-      "https://tangled.org/nvim-mini.org/mini.nvim"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-11-13, 20:08:36",
+      "https://news.ycombinator.com/item?id=50488948"
+    ],
+    [
+      "The Opportunivore's Dilemma",
+      "https://www.vqronline.org/essays/opportunivores-dilemma"
+    ]
+  ],
+  [
+    [
       "2026-11-13, 18:24:54",
       "https://news.ycombinator.com/item?id=50487628"
     ],
@@ -287,16 +297,6 @@
     [
       "The Lasting Influence of John Berger",
       "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review"
-    ]
-  ],
-  [
-    [
-      "2026-11-11, 18:14:36",
-      "https://news.ycombinator.com/item?id=50456548"
-    ],
-    [
-      "Making Atuin sync 32x faster with packfiles",
-      "https://blog.atuin.sh/making-atuin-sync-32x-faster-with-packfiles/"
     ]
   ]
 ]
