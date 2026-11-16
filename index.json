@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-16, 23:00:34",
+      "https://news.ycombinator.com/item?id=50524767"
+    ],
+    [
+      "Optimizely Compromised, Served Malware on Zoom, GitLab",
+      "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 22:57:49",
       "https://news.ycombinator.com/item?id=50524728"
     ],
@@ -65,8 +75,8 @@
       "https://news.ycombinator.com/item?id=50523300"
     ],
     [
-      "Optimizely Compromised",
-      "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/"
+      "World's Largest Brands Infected With Malware Via Optimizely",
+      "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
     ]
   ],
   [
@@ -151,21 +161,11 @@
   ],
   [
     [
-      "2026-11-16, 18:17:17",
-      "https://news.ycombinator.com/item?id=50520866"
-    ],
-    [
-      "Software is breaking down at a systemic level",
-      "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/"
-    ]
-  ],
-  [
-    [
       "2026-11-16, 18:12:48",
       "https://news.ycombinator.com/item?id=50520804"
     ],
     [
-      "OpenAI: Strengthening the fight against online child sexual abuse",
+      "Strengthening the fight against online child sexual abuse",
       "https://openai.com/index/strengthening-online-child-safety/"
     ]
   ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-11-16, 15:24:09",
-      "https://news.ycombinator.com/item?id=50518567"
-    ],
-    [
-      "Nvidia was in trouble before the Jensen Huang mess",
-      "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/"
-    ]
-  ],
-  [
-    [
       "2026-11-16, 13:39:07",
       "https://news.ycombinator.com/item?id=50517488"
     ],
@@ -277,6 +267,16 @@
     [
       "Squircles",
       "https://linebender.org/wiki/curves/squircle/"
+    ]
+  ],
+  [
+    [
+      "2026-11-14, 15:07:48",
+      "https://news.ycombinator.com/item?id=50497621"
+    ],
+    [
+      "Formal Verification Is Not Verifiable",
+      "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/"
     ]
   ],
   [
