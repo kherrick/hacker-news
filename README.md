@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-16, 14:17:53](https://news.ycombinator.com/item?id=50517838) - [Whistleblower complaint against Pentagon over Iran strike that killed 6](https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint)
-* [2026-11-16, 13:54:50](https://news.ycombinator.com/item?id=50517630) - [Show HN: CheeseDB – agent memory where deleting a source deletes what it taught](https://github.com/govinargo-labs/cheesedb)
+* [2026-11-16, 15:17:56](https://news.ycombinator.com/item?id=50518501) - [ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet/)
+* [2026-11-16, 14:17:53](https://news.ycombinator.com/item?id=50517838) - [Whistleblower accuses Pentagon over Iran strike on US base that killed 6](https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint)
 * [2026-11-16, 13:51:38](https://news.ycombinator.com/item?id=50517602) - [What is w2rt6byl5nf1opmc-a.com?](https://jack.cab/blog/siterate)
 * [2026-11-16, 13:39:07](https://news.ycombinator.com/item?id=50517488) - [Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/)
 * [2026-11-16, 11:39:31](https://news.ycombinator.com/item?id=50516473) - [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
