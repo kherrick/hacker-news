@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-16, 15:27:19",
+      "https://news.ycombinator.com/item?id=50518615"
+    ],
+    [
+      "Robert Pattinson Is Officially James Bond",
+      "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 15:13:47",
+      "https://news.ycombinator.com/item?id=50518453"
+    ],
+    [
+      "New James Bond Announced and the Name's Pattinson, Robert Pattinson",
+      "https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 14:17:53",
       "https://news.ycombinator.com/item?id=50517838"
     ],
@@ -17,6 +37,16 @@
     [
       "Show HN: Coral – Open-source gateway where agents write their own tools",
       "https://github.com/withcoral/coral"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 13:54:50",
+      "https://news.ycombinator.com/item?id=50517630"
+    ],
+    [
+      "Show HN: CheeseDB – agent memory where deleting a source deletes what it taught",
+      "https://github.com/govinargo-labs/cheesedb"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-11-15, 20:20:05",
-      "https://news.ycombinator.com/item?id=50510296"
-    ],
-    [
-      "WebGL Flight Simulator with seed generated terrain",
-      "https://baron.by.dai.studio/"
-    ]
-  ],
-  [
-    [
       "2026-11-15, 19:42:13",
       "https://news.ycombinator.com/item?id=50509972"
     ],
@@ -257,26 +277,6 @@
     [
       "Researchers track whole body movement with just a smartwatch",
       "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 15:31:50",
-      "https://news.ycombinator.com/item?id=50484998"
-    ],
-    [
-      "Do we still have to denormalize? Have your schema and search it too",
-      "https://www.paradedb.com/blog/joins"
-    ]
-  ],
-  [
-    [
-      "2026-11-12, 14:18:04",
-      "https://news.ycombinator.com/item?id=50467599"
-    ],
-    [
-      "Simple 8085 Computer",
-      "https://www.hackster.io/mit41301/simple-8085-computer-9fe156"
     ]
   ],
   [
