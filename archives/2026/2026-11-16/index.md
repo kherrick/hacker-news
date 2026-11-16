@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 03:58:04](https://news.ycombinator.com/item?id=50513843) - [Linux was created as a rejection of robust software architecture and tools](https://twitter.com/GrapheneOS/status/2122079826257588569)
+* [2026-11-16, 03:12:04](https://news.ycombinator.com/item?id=50513589) - [New Mexico wanted free childcare for all; what's worked – and what hasn't](https://text.npr.org/nx-s1-6040194)
 * [2026-11-16, 02:53:30](https://news.ycombinator.com/item?id=50513451) - [Tell HN: HN is being scraped for emails to scam](https://news.ycombinator.com/item?id=50513451)
 * [2026-11-16, 02:19:08](https://news.ycombinator.com/item?id=50513238) - [TuringFonts: Publish Uncrawable and Uncopiable Texts](https://jfmdev.github.io/TuringFonts/index.html)
 * [2026-11-16, 02:14:44](https://news.ycombinator.com/item?id=50513215) - [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)

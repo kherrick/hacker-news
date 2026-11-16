@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-16, 03:58:04](https://news.ycombinator.com/item?id=50513843) - [Linux was created as a rejection of robust software architecture and tools](https://twitter.com/GrapheneOS/status/2122079826257588569)
+* [2026-11-16, 03:12:04](https://news.ycombinator.com/item?id=50513589) - [New Mexico wanted free childcare for all; what's worked – and what hasn't](https://text.npr.org/nx-s1-6040194)
 * [2026-11-16, 02:53:30](https://news.ycombinator.com/item?id=50513451) - [Tell HN: HN is being scraped for emails to scam](https://news.ycombinator.com/item?id=50513451)
-* [2026-11-16, 02:19:08](https://news.ycombinator.com/item?id=50513238) - [TuringFonts: Publish Uncrawable and Uncopiable Texts](https://jfmdev.github.io/TuringFonts/index.html)
 * [2026-11-16, 02:14:44](https://news.ycombinator.com/item?id=50513215) - [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
 * [2026-11-16, 02:04:48](https://news.ycombinator.com/item?id=50513160) - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
 * [2026-11-16, 01:14:35](https://news.ycombinator.com/item?id=50512824) - [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
@@ -29,7 +30,6 @@
 * [2026-11-13, 15:31:50](https://news.ycombinator.com/item?id=50484998) - [Do we still have to denormalize? Have your schema and search it too](https://www.paradedb.com/blog/joins)
 * [2026-11-13, 06:58:41](https://news.ycombinator.com/item?id=50479405) - [The Miracle Cure: In 1977, a drug rejected by doctors became a sensation](https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html)
 * [2026-11-12, 05:29:24](https://news.ycombinator.com/item?id=50463399) - [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]](https://www.youtube.com/watch?v=WPj3aQ-xxpI)
-* [2026-11-11, 12:25:42](https://news.ycombinator.com/item?id=50452621) - [Notes on Mathematics for Engineers (1959) [pdf]](https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf)
 
 ## [Archives](archives/index.md)
 
