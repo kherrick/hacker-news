@@ -22,7 +22,6 @@
 * [2026-11-15, 18:23:21](https://news.ycombinator.com/item?id=50509308) - [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
 * [2026-11-15, 17:53:31](https://news.ycombinator.com/item?id=50509023) - [Crows make decisions faster than we can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html)
 * [2026-11-15, 17:22:32](https://news.ycombinator.com/item?id=50508715) - [Clice v1.0 Released: Welcome to Modern C++](https://ykiko.me/en/articles/2105384023094834022/)
-* [2026-11-15, 13:44:16](https://news.ycombinator.com/item?id=50506894) - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2026-11-14, 21:22:24](https://news.ycombinator.com/item?id=50500963) - [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-13, 17:37:32](https://news.ycombinator.com/item?id=50486880) - [A quest to create the perfect whiskey glass](https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html)
 * [2026-11-13, 17:29:49](https://news.ycombinator.com/item?id=50486745) - [Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch)
@@ -30,6 +29,7 @@
 * [2026-11-13, 15:31:50](https://news.ycombinator.com/item?id=50484998) - [Do we still have to denormalize? Have your schema and search it too](https://www.paradedb.com/blog/joins)
 * [2026-11-12, 14:18:04](https://news.ycombinator.com/item?id=50467599) - [Simple 8085 Computer](https://www.hackster.io/mit41301/simple-8085-computer-9fe156)
 * [2026-11-12, 03:44:33](https://news.ycombinator.com/item?id=50462816) - [The Lasting Influence of John Berger](https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review)
+* [2026-11-11, 18:14:36](https://news.ycombinator.com/item?id=50456548) - [Making Atuin sync 32x faster with packfiles](https://blog.atuin.sh/making-atuin-sync-32x-faster-with-packfiles/)
 
 ## [Archives](archives/index.md)
 
