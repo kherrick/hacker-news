@@ -4,7 +4,7 @@
 * [2026-11-16, 22:19:23](https://news.ycombinator.com/item?id=50524225) - [How to Break into Security, Ptacek Edition (2012)](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
 * [2026-11-16, 22:14:38](https://news.ycombinator.com/item?id=50524165) - [United Airlines experiencing a widespread system outage, airline says](https://www.cnn.com/2026/11/16/us/united-airlines-outage)
 * [2026-11-16, 21:47:19](https://news.ycombinator.com/item?id=50523784) - [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
-* [2026-11-16, 21:32:17](https://news.ycombinator.com/item?id=50523601) - [BugMeNot Has Closed](https://www.bugmenot.com/)
+* [2026-11-16, 21:32:17](https://news.ycombinator.com/item?id=50523601) - [BugMeNot has closed](https://www.bugmenot.com/)
 * [2026-11-16, 21:20:37](https://news.ycombinator.com/item?id=50523459) - [OpenCode Browse](https://opencode.ai/product/browse)
 * [2026-11-16, 21:08:38](https://news.ycombinator.com/item?id=50523300) - [Optimizely Compromised](https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/)
 * [2026-11-16, 21:07:43](https://news.ycombinator.com/item?id=50523291) - [My Quest to push native Three.js quality match AAA Game Engines](https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs)
