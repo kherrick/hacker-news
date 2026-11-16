@@ -2,10 +2,10 @@
 
 * [2026-11-15, 23:55:55](https://news.ycombinator.com/item?id=50512235) - [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 * [2026-11-15, 23:55:41](https://news.ycombinator.com/item?id=50512231) - [Mini.nvim Is Now on Tangled](https://tangled.org/nvim-mini.org/mini.nvim)
+* [2026-11-15, 23:24:53](https://news.ycombinator.com/item?id=50511982) - [Jensen Huang might return to Nvidia as CEO](https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/)
 * [2026-11-15, 23:00:11](https://news.ycombinator.com/item?id=50511806) - [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
 * [2026-11-15, 22:48:52](https://news.ycombinator.com/item?id=50511718) - [Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game](https://lastcomplication.com/)
 * [2026-11-15, 22:11:43](https://news.ycombinator.com/item?id=50511395) - [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
-* [2026-11-15, 21:38:11](https://news.ycombinator.com/item?id=50511072) - [Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites](https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/)
 * [2026-11-15, 20:37:28](https://news.ycombinator.com/item?id=50510442) - [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)
 * [2026-11-15, 20:20:05](https://news.ycombinator.com/item?id=50510296) - [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
 * [2026-11-15, 19:49:28](https://news.ycombinator.com/item?id=50510042) - [Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence](https://news.ycombinator.com/item?id=50510042)
