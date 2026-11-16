@@ -2,9 +2,9 @@
 
 * [2026-11-16, 15:24:09](https://news.ycombinator.com/item?id=50518567) - [Nvidia Was in Trouble Before the Jensen Huang Mess](https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/)
 * [2026-11-16, 14:17:53](https://news.ycombinator.com/item?id=50517838) - [Whistleblower accuses Pentagon over Iran strike on US base that killed 6](https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint)
+* [2026-11-16, 14:15:31](https://news.ycombinator.com/item?id=50517815) - [The Active Directory Era Is Finally Over](https://infisical.com/blog/active-directory-machine-identity)
 * [2026-11-16, 13:51:38](https://news.ycombinator.com/item?id=50517602) - [What is w2rt6byl5nf1opmc-a.com?](https://jack.cab/blog/siterate)
 * [2026-11-16, 13:39:07](https://news.ycombinator.com/item?id=50517488) - [Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/)
-* [2026-11-16, 13:21:53](https://news.ycombinator.com/item?id=50517352) - [Show HN: OpenTodo – a self-hosted, local-first task manager in one Go binary](https://github.com/OpenTodoApp/OpenTodo)
 * [2026-11-16, 11:39:31](https://news.ycombinator.com/item?id=50516473) - [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
 * [2026-11-16, 11:03:16](https://news.ycombinator.com/item?id=50516245) - [Coffeehouses and the Rise of Science [pdf]](https://www.monirbounadi.com/Bounadi_JMP.pdf)
 * [2026-11-16, 08:00:13](https://news.ycombinator.com/item?id=50515182) - [Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME](https://github.com/ages2001/WINUDF)
