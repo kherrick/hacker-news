@@ -45,6 +45,7 @@
 * [2026-11-12, 16:59:26](https://news.ycombinator.com/item?id=50470445) - [AWS Lambda Web Functions keep billing memory ~7 minutes after the last request](https://www.easel.sh/blog/lambda-web-functions-idle-memory)
 * [2026-11-12, 16:52:31](https://news.ycombinator.com/item?id=50470343) - [Show HN: Apron Chat Protocol](https://apron.chat/)
 * [2026-11-12, 16:29:13](https://news.ycombinator.com/item?id=50469994) - [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
+* [2026-11-12, 15:47:33](https://news.ycombinator.com/item?id=50469342) - [What happens if you write a TCP stack in Python? (2014)](https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/)
 * [2026-11-12, 15:35:54](https://news.ycombinator.com/item?id=50469123) - [Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in](https://getvale.org)
 * [2026-11-12, 15:30:01](https://news.ycombinator.com/item?id=50469007) - [Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games](https://fable52.games)
 * [2026-11-12, 15:25:52](https://news.ycombinator.com/item?id=50468944) - [ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ)

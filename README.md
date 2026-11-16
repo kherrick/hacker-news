@@ -10,7 +10,6 @@
 * [2026-11-15, 23:55:55](https://news.ycombinator.com/item?id=50512235) - [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 * [2026-11-15, 23:55:41](https://news.ycombinator.com/item?id=50512231) - [Mini.nvim Is Now on Tangled](https://tangled.org/nvim-mini.org/mini.nvim)
 * [2026-11-15, 23:00:11](https://news.ycombinator.com/item?id=50511806) - [Preserving 30 years of Salon journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
-* [2026-11-15, 22:48:52](https://news.ycombinator.com/item?id=50511718) - [Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game](https://lastcomplication.com/)
 * [2026-11-15, 22:11:43](https://news.ycombinator.com/item?id=50511395) - [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
 * [2026-11-15, 20:20:05](https://news.ycombinator.com/item?id=50510296) - [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
 * [2026-11-15, 19:42:13](https://news.ycombinator.com/item?id=50509972) - [Handwriting, as a Font](https://ductus.sorenblank.com)
@@ -23,13 +22,14 @@
 * [2026-11-15, 15:21:21](https://news.ycombinator.com/item?id=50507553) - [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
 * [2026-11-15, 13:44:16](https://news.ycombinator.com/item?id=50506894) - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2026-11-15, 13:15:22](https://news.ycombinator.com/item?id=50506719) - [The MacBook Pro's OLED PWM problem](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
-* [2026-11-15, 12:14:06](https://news.ycombinator.com/item?id=50506376) - [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)
 * [2026-11-13, 22:03:41](https://news.ycombinator.com/item?id=50490583) - [1900s How do you Wash a Kimono?](https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints)
 * [2026-11-13, 17:37:32](https://news.ycombinator.com/item?id=50486880) - [A quest to create the perfect whiskey glass](https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html)
 * [2026-11-13, 15:50:43](https://news.ycombinator.com/item?id=50485275) - [Artificial Intelligence for the Z80](https://www.dfsantos.com/en/libro-ia-z80)
 * [2026-11-13, 15:31:50](https://news.ycombinator.com/item?id=50484998) - [Do we still have to denormalize? Have your schema and search it too](https://www.paradedb.com/blog/joins)
 * [2026-11-13, 06:58:41](https://news.ycombinator.com/item?id=50479405) - [The Miracle Cure: In 1977, a drug rejected by doctors became a sensation](https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html)
+* [2026-11-12, 15:47:33](https://news.ycombinator.com/item?id=50469342) - [What happens if you write a TCP stack in Python? (2014)](https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/)
 * [2026-11-12, 05:29:24](https://news.ycombinator.com/item?id=50463399) - [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]](https://www.youtube.com/watch?v=WPj3aQ-xxpI)
+* [2026-11-11, 12:25:42](https://news.ycombinator.com/item?id=50452621) - [Notes on Mathematics for Engineers (1959) [pdf]](https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf)
 
 ## [Archives](archives/index.md)
 
