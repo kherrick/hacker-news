@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-16, 01:31:30](https://news.ycombinator.com/item?id=50512950) - [\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs](https://www.hntrends.com/2026/november.html)
 * [2026-11-16, 01:14:35](https://news.ycombinator.com/item?id=50512824) - [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
 * [2026-11-16, 00:21:54](https://news.ycombinator.com/item?id=50512441) - [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
 * [2026-11-15, 23:55:55](https://news.ycombinator.com/item?id=50512235) - [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
@@ -10,7 +11,6 @@
 * [2026-11-15, 22:07:08](https://news.ycombinator.com/item?id=50511362) - [DefCon: Breaking into Amazon Lockers by Any Means Necessary](https://www.youtube.com/watch?v=ZVmRe8OVZtE)
 * [2026-11-15, 20:37:28](https://news.ycombinator.com/item?id=50510442) - [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)
 * [2026-11-15, 20:20:05](https://news.ycombinator.com/item?id=50510296) - [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
-* [2026-11-15, 19:49:28](https://news.ycombinator.com/item?id=50510042) - [Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence](https://news.ycombinator.com/item?id=50510042)
 * [2026-11-15, 19:42:13](https://news.ycombinator.com/item?id=50509972) - [Handwriting, as a Font](https://ductus.sorenblank.com)
 * [2026-11-15, 19:26:22](https://news.ycombinator.com/item?id=50509837) - [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)
 * [2026-11-15, 18:36:40](https://news.ycombinator.com/item?id=50509416) - [Eclipse Mosquitto – An open source MQTT broker](https://github.com/eclipse-mosquitto/mosquitto)
@@ -26,7 +26,7 @@
 * [2026-11-14, 00:10:15](https://news.ycombinator.com/item?id=50492012) - [Keylogger Detection and Containment [pdf]](https://www.cs.vu.nl/~ast/Theses/ortolani-thesis.pdf)
 * [2026-11-13, 22:03:41](https://news.ycombinator.com/item?id=50490583) - [1900s How do you Wash a Kimono?](https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints)
 * [2026-11-13, 17:37:32](https://news.ycombinator.com/item?id=50486880) - [A quest to create the perfect whiskey glass](https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html)
-* [2026-11-12, 11:23:02](https://news.ycombinator.com/item?id=50465676) - [Eval Awareness vs. Eval Paranoia](https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia)
+* [2026-11-13, 15:31:50](https://news.ycombinator.com/item?id=50484998) - [Do We Still Have to Denormalize? Have Your Schema and Search It Too](https://www.paradedb.com/blog/joins)
 * [2026-11-12, 10:58:00](https://news.ycombinator.com/item?id=50465522) - [Aspidistra: A British wartime radio transmitter used for MitM attacks](https://en.wikipedia.org/wiki/Aspidistra_(transmitter))
 * [2026-11-12, 05:29:24](https://news.ycombinator.com/item?id=50463399) - [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]](https://www.youtube.com/watch?v=WPj3aQ-xxpI)
 * [2026-11-11, 12:25:42](https://news.ycombinator.com/item?id=50452621) - [Notes on Mathematics for Engineers (1959) [pdf]](https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf)
