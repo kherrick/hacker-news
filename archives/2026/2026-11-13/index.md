@@ -26,6 +26,7 @@
 * [2026-11-13, 20:56:10](https://news.ycombinator.com/item?id=50489536) - [I Can't Believe It Can Sort](https://yugen-tsuki.github.io/unbelievablesort.html)
 * [2026-11-13, 20:36:25](https://news.ycombinator.com/item?id=50489292) - [Expozine at 25: Has the Independent Print Scene Outgrown Expozine?](https://www.themain.com/articles/expozine-montreal-independent-print-scene-arcmtl)
 * [2026-11-13, 20:20:30](https://news.ycombinator.com/item?id=50489083) - [Big tech is here to let us down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down)
+* [2026-11-13, 20:08:36](https://news.ycombinator.com/item?id=50488948) - [The Opportunivore's Dilemma](https://www.vqronline.org/essays/opportunivores-dilemma)
 * [2026-11-13, 20:05:20](https://news.ycombinator.com/item?id=50488916) - [Your room can be as bright as the outdoors (2019)](https://www.benkuhn.net/lux/)
 * [2026-11-13, 19:58:42](https://news.ycombinator.com/item?id=50488835) - [Live-migration support in FreeBSD and bhyve coming](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
 * [2026-11-13, 19:51:56](https://news.ycombinator.com/item?id=50488769) - [No AI Slop: A Manifesto](https://www.slopmanifesto.com/)
