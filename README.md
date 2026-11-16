@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-16, 18:57:29](https://news.ycombinator.com/item?id=50521421) - [Chase, US Bank, Zelle, others are down](https://www.boston25news.com/news/trending/customers-report-chase-us-bank-zelle-others-are-down/LYYL3KX37JAGDGDPB65AS36Q24/)
-* [2026-11-16, 18:53:00](https://news.ycombinator.com/item?id=50521357) - [US Banks report outages in latest tech hiccup](https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/)
+* [2026-11-16, 18:31:30](https://news.ycombinator.com/item?id=50521045) - [Customers report outages at major banks](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
 * [2026-11-16, 18:17:17](https://news.ycombinator.com/item?id=50520866) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
 * [2026-11-16, 18:12:48](https://news.ycombinator.com/item?id=50520804) - [OpenAI: Strengthening the fight against online child sexual abuse](https://openai.com/index/strengthening-online-child-safety/)
 * [2026-11-16, 18:08:04](https://news.ycombinator.com/item?id=50520741) - [Show HN: Fakemetrics.com – \"build in public\" like a superstar](https://fakemetrics.com/)
@@ -30,6 +29,7 @@
 * [2026-11-13, 21:36:59](https://news.ycombinator.com/item?id=50490159) - [OOS – an open operating system for the Rigol Scopes](https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/)
 * [2026-11-13, 17:29:49](https://news.ycombinator.com/item?id=50486745) - [Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch)
 * [2026-11-12, 12:40:05](https://news.ycombinator.com/item?id=50466300) - [Quxnet Is a Breath of Fresh Air](https://moddedbear.com/quxnet-is-a-breath-of-fresh-air/)
+* [2026-11-10, 18:03:14](https://news.ycombinator.com/item?id=50443844) - [Giant Roadside Attractions Face Mounting Costs and an Uncertain Future](https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html)
 
 ## [Archives](archives/index.md)
 

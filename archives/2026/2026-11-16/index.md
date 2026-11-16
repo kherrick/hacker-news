@@ -6,6 +6,7 @@
 
 * [2026-11-16, 18:57:29](https://news.ycombinator.com/item?id=50521421) - [Chase, US Bank, Zelle, others are down](https://www.boston25news.com/news/trending/customers-report-chase-us-bank-zelle-others-are-down/LYYL3KX37JAGDGDPB65AS36Q24/)
 * [2026-11-16, 18:53:00](https://news.ycombinator.com/item?id=50521357) - [US Banks report outages in latest tech hiccup](https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/)
+* [2026-11-16, 18:31:30](https://news.ycombinator.com/item?id=50521045) - [Customers report outages at major banks](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
 * [2026-11-16, 18:17:17](https://news.ycombinator.com/item?id=50520866) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
 * [2026-11-16, 18:14:13](https://news.ycombinator.com/item?id=50520825) - [Duolingo uses screen time permission to block uninstall](https://blog.rhett.info/duolingo-screen-time-uninstall/)
 * [2026-11-16, 18:12:48](https://news.ycombinator.com/item?id=50520804) - [OpenAI: Strengthening the fight against online child sexual abuse](https://openai.com/index/strengthening-online-child-safety/)

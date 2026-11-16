@@ -19,6 +19,7 @@
 * [2026-11-10, 19:07:53](https://news.ycombinator.com/item?id=50444761) - [Show HN: I have trained 15 blood glucose forecasting models on my own data](https://github.com/0xdeadf1sh/T1DMAI)
 * [2026-11-10, 19:03:54](https://news.ycombinator.com/item?id=50444684) - [A comprehensive study of how fingerprintable users are](https://fingerprinting.study/)
 * [2026-11-10, 18:22:32](https://news.ycombinator.com/item?id=50444129) - [Starlink Mini 2](https://starlink.com/mini-2)
+* [2026-11-10, 18:03:14](https://news.ycombinator.com/item?id=50443844) - [Giant Roadside Attractions Face Mounting Costs and an Uncertain Future](https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html)
 * [2026-11-10, 18:02:54](https://news.ycombinator.com/item?id=50443838) - [Work at the Frontier: AI's effect on freelance work](https://openai.com/index/ai-effect-on-freelance-work)
 * [2026-11-10, 18:02:02](https://news.ycombinator.com/item?id=50443824) - [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
 * [2026-11-10, 18:01:15](https://news.ycombinator.com/item?id=50443812) - [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)
