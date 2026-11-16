@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-16, 19:13:13](https://news.ycombinator.com/item?id=50521644) - [Adobe flash editor libre alternative](https://www.q0id.com/downloads)
 * [2026-11-16, 18:31:30](https://news.ycombinator.com/item?id=50521045) - [Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
 * [2026-11-16, 18:17:17](https://news.ycombinator.com/item?id=50520866) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
 * [2026-11-16, 18:08:04](https://news.ycombinator.com/item?id=50520741) - [Show HN: Fakemetrics.com – \"build in public\" like a superstar](https://fakemetrics.com/)
@@ -23,12 +24,11 @@
 * [2026-11-16, 07:38:19](https://news.ycombinator.com/item?id=50515058) - [Interpreting claims that a theorem is correct because it was checked in Lean](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
 * [2026-11-16, 05:50:37](https://news.ycombinator.com/item?id=50514470) - [How to make almost anything](https://pub.cba.mit.edu/863.26/site/)
 * [2026-11-16, 02:04:48](https://news.ycombinator.com/item?id=50513160) - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
+* [2026-11-15, 23:00:11](https://news.ycombinator.com/item?id=50511806) - [Preserving 30 years of Salon journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
 * [2026-11-14, 15:22:30](https://news.ycombinator.com/item?id=50497746) - [Smallest possible nopert polyhedra: the Septopert](https://github.com/tom7/noperts/blob/main/septopert.md)
 * [2026-11-14, 08:58:31](https://news.ycombinator.com/item?id=50495325) - [Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland](https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala)
 * [2026-11-13, 21:36:59](https://news.ycombinator.com/item?id=50490159) - [OOS – an open operating system for the Rigol Scopes](https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/)
-* [2026-11-13, 20:08:36](https://news.ycombinator.com/item?id=50488948) - [The Opportunivore's Dilemma](https://www.vqronline.org/essays/opportunivores-dilemma)
 * [2026-11-13, 17:29:49](https://news.ycombinator.com/item?id=50486745) - [Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch)
-* [2026-11-12, 12:40:05](https://news.ycombinator.com/item?id=50466300) - [Quxnet Is a Breath of Fresh Air](https://moddedbear.com/quxnet-is-a-breath-of-fresh-air/)
 * [2026-11-10, 18:03:14](https://news.ycombinator.com/item?id=50443844) - [Giant Roadside Attractions Face Mounting Costs and an Uncertain Future](https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html)
 
 ## [Archives](archives/index.md)
