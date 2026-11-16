@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-16, 22:19:23](https://news.ycombinator.com/item?id=50524225) - [How to Break into Security, Ptacek Edition](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
+* [2026-11-16, 22:14:38](https://news.ycombinator.com/item?id=50524165) - [United Airlines Widespread System Outage](https://www.cnn.com/2026/11/16/us/united-airlines-outage)
 * [2026-11-16, 21:47:19](https://news.ycombinator.com/item?id=50523784) - [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
 * [2026-11-16, 21:32:17](https://news.ycombinator.com/item?id=50523601) - [BugMeNot Has Closed](https://www.bugmenot.com/)
 * [2026-11-16, 21:20:37](https://news.ycombinator.com/item?id=50523459) - [OpenCode Browse](https://opencode.ai/product/browse)
@@ -25,11 +27,9 @@
 * [2026-11-16, 13:18:22](https://news.ycombinator.com/item?id=50517321) - [Microsoft blames monster email outage on software defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026)
 * [2026-11-16, 11:39:31](https://news.ycombinator.com/item?id=50516473) - [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
 * [2026-11-16, 07:55:10](https://news.ycombinator.com/item?id=50515151) - [Squircles](https://linebender.org/wiki/curves/squircle/)
-* [2026-11-16, 05:50:37](https://news.ycombinator.com/item?id=50514470) - [How to make almost anything](https://pub.cba.mit.edu/863.26/site/)
 * [2026-11-14, 04:46:41](https://news.ycombinator.com/item?id=50494033) - [Eight years of running DocSpring on Convox](https://docspring.com/blog/posts/eight-years-running-docspring-convox/)
 * [2026-11-13, 21:36:59](https://news.ycombinator.com/item?id=50490159) - [OOS – an open operating system for the Rigol Scopes](https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/)
 * [2026-11-13, 15:53:09](https://news.ycombinator.com/item?id=50485327) - [The origins of the placenta](https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta)
-* [2026-11-10, 18:03:14](https://news.ycombinator.com/item?id=50443844) - [Giant Roadside Attractions Face Mounting Costs and an Uncertain Future](https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html)
 
 ## [Archives](archives/index.md)
 

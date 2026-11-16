@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 22:19:23](https://news.ycombinator.com/item?id=50524225) - [How to Break into Security, Ptacek Edition](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
+* [2026-11-16, 22:14:38](https://news.ycombinator.com/item?id=50524165) - [United Airlines Widespread System Outage](https://www.cnn.com/2026/11/16/us/united-airlines-outage)
 * [2026-11-16, 21:47:19](https://news.ycombinator.com/item?id=50523784) - [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
 * [2026-11-16, 21:32:17](https://news.ycombinator.com/item?id=50523601) - [BugMeNot Has Closed](https://www.bugmenot.com/)
 * [2026-11-16, 21:20:37](https://news.ycombinator.com/item?id=50523459) - [OpenCode Browse](https://opencode.ai/product/browse)
