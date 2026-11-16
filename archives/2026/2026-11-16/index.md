@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
 * [2026-11-16, 18:17:17](https://news.ycombinator.com/item?id=50520866) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
+* [2026-11-16, 18:14:13](https://news.ycombinator.com/item?id=50520825) - [Duolingo uses screen time permission to block uninstall](https://blog.rhett.info/duolingo-screen-time-uninstall/)
+* [2026-11-16, 18:12:48](https://news.ycombinator.com/item?id=50520804) - [OpenAI: Strengthening the fight against online child sexual abuse](https://openai.com/index/strengthening-online-child-safety/)
 * [2026-11-16, 18:04:55](https://news.ycombinator.com/item?id=50520697) - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)
 * [2026-11-16, 17:52:23](https://news.ycombinator.com/item?id=50520518) - [Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself](https://copyrightlately.com/michael-mann-heat-copyright-termination/)
 * [2026-11-16, 17:51:18](https://news.ycombinator.com/item?id=50520506) - [Show HN: Claimseed, synthetic Medicare docs with planted errors and answer keys](https://github.com/claimseed/claimseed)

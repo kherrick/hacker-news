@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-16, 18:17:17](https://news.ycombinator.com/item?id=50520866) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
+* [2026-11-16, 18:14:13](https://news.ycombinator.com/item?id=50520825) - [Duolingo uses screen time permission to block uninstall](https://blog.rhett.info/duolingo-screen-time-uninstall/)
+* [2026-11-16, 18:12:48](https://news.ycombinator.com/item?id=50520804) - [OpenAI: Strengthening the fight against online child sexual abuse](https://openai.com/index/strengthening-online-child-safety/)
 * [2026-11-16, 18:04:55](https://news.ycombinator.com/item?id=50520697) - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)
 * [2026-11-16, 17:52:23](https://news.ycombinator.com/item?id=50520518) - [Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself](https://copyrightlately.com/michael-mann-heat-copyright-termination/)
 * [2026-11-16, 17:34:41](https://news.ycombinator.com/item?id=50520270) - [Aristotle Expands into Rust](https://www.harmonic.fun/news/aristotle-rust-verification/)
@@ -23,13 +25,11 @@
 * [2026-11-16, 00:21:54](https://news.ycombinator.com/item?id=50512441) - [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
 * [2026-11-15, 23:55:55](https://news.ycombinator.com/item?id=50512235) - [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 * [2026-11-15, 22:11:43](https://news.ycombinator.com/item?id=50511395) - [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
-* [2026-11-15, 19:42:13](https://news.ycombinator.com/item?id=50509972) - [Handwriting, as a Font](https://ductus.sorenblank.com)
 * [2026-11-15, 19:26:22](https://news.ycombinator.com/item?id=50509837) - [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)
 * [2026-11-14, 15:22:30](https://news.ycombinator.com/item?id=50497746) - [Smallest possible nopert polyhedra: the Septopert](https://github.com/tom7/noperts/blob/main/septopert.md)
 * [2026-11-13, 21:36:59](https://news.ycombinator.com/item?id=50490159) - [OOS – an open operating system for the Rigol Scopes](https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/)
 * [2026-11-13, 17:29:49](https://news.ycombinator.com/item?id=50486745) - [Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch)
 * [2026-11-12, 12:40:05](https://news.ycombinator.com/item?id=50466300) - [Quxnet Is a Breath of Fresh Air](https://moddedbear.com/quxnet-is-a-breath-of-fresh-air/)
-* [2026-11-11, 11:39:15](https://news.ycombinator.com/item?id=50452230) - [Show HN: ThingStudio, Node-RED style programming for microcontrollers](https://thingstudio.net/)
 
 ## [Archives](archives/index.md)
 
