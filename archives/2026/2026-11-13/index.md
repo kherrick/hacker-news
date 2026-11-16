@@ -22,6 +22,7 @@
 * [2026-11-13, 21:05:53](https://news.ycombinator.com/item?id=50489641) - [FAA issues national ground stop](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
 * [2026-11-13, 21:05:53](https://news.ycombinator.com/item?id=50489641) - [FAA Issues National Ground Stop](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111)
 * [2026-11-13, 21:01:11](https://news.ycombinator.com/item?id=50489589) - [Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth](https://atg.science/careers)
+* [2026-11-13, 20:56:10](https://news.ycombinator.com/item?id=50489536) - [I Can't Believe It Can Sort](https://yugen-tsuki.github.io/unbelievablesort.html)
 * [2026-11-13, 20:20:30](https://news.ycombinator.com/item?id=50489083) - [Big tech is here to let us down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down)
 * [2026-11-13, 20:05:20](https://news.ycombinator.com/item?id=50488916) - [Your room can be as bright as the outdoors (2019)](https://www.benkuhn.net/lux/)
 * [2026-11-13, 19:58:42](https://news.ycombinator.com/item?id=50488835) - [Live-migration support in FreeBSD and bhyve coming](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/)
