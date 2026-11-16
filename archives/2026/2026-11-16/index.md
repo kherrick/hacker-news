@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 20:48:08](https://news.ycombinator.com/item?id=50523025) - [Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)
 * [2026-11-16, 20:47:53](https://news.ycombinator.com/item?id=50523022) - [Caltech professor no longer grades homework's because everyone uses AI](https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11)
 * [2026-11-16, 20:29:48](https://news.ycombinator.com/item?id=50522776) - [Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force](https://news.ycombinator.com/item?id=50522776)
 * [2026-11-16, 20:16:50](https://news.ycombinator.com/item?id=50522563) - [Rust Changed Me as a Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
