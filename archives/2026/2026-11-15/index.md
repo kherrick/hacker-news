@@ -12,6 +12,7 @@
 * [2026-11-15, 22:48:52](https://news.ycombinator.com/item?id=50511718) - [Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game](https://lastcomplication.com/)
 * [2026-11-15, 22:26:33](https://news.ycombinator.com/item?id=50511505) - [The Hofmann Wobble: Wikipedia and the problem of historical memory](https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/)
 * [2026-11-15, 22:11:43](https://news.ycombinator.com/item?id=50511395) - [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
+* [2026-11-15, 22:07:08](https://news.ycombinator.com/item?id=50511362) - [DefCon: Breaking into Amazon Lockers by Any Means Necessary](https://www.youtube.com/watch?v=ZVmRe8OVZtE)
 * [2026-11-15, 21:38:11](https://news.ycombinator.com/item?id=50511072) - [Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites](https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/)
 * [2026-11-15, 21:10:39](https://news.ycombinator.com/item?id=50510799) - [Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)
 * [2026-11-15, 20:37:28](https://news.ycombinator.com/item?id=50510442) - [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)
