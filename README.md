@@ -23,7 +23,7 @@
 * [2026-11-15, 17:22:32](https://news.ycombinator.com/item?id=50508715) - [Clice v1.0 Released: Welcome to Modern C++](https://ykiko.me/en/articles/2105384023094834022/)
 * [2026-11-15, 13:44:16](https://news.ycombinator.com/item?id=50506894) - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2026-11-15, 13:15:22](https://news.ycombinator.com/item?id=50506719) - [The MacBook Pro's OLED PWM problem](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
-* [2026-11-13, 22:03:41](https://news.ycombinator.com/item?id=50490583) - [1900s How do you Wash a Kimono?](https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints)
+* [2026-11-14, 21:22:24](https://news.ycombinator.com/item?id=50500963) - [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-13, 17:37:32](https://news.ycombinator.com/item?id=50486880) - [A quest to create the perfect whiskey glass](https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html)
 * [2026-11-13, 15:50:43](https://news.ycombinator.com/item?id=50485275) - [Artificial Intelligence for the Z80](https://www.dfsantos.com/en/libro-ia-z80)
 * [2026-11-13, 15:31:50](https://news.ycombinator.com/item?id=50484998) - [Do we still have to denormalize? Have your schema and search it too](https://www.paradedb.com/blog/joins)
