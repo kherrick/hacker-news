@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
 * [2026-11-16, 17:27:46](https://news.ycombinator.com/item?id=50520182) - [Sheep grazing in solar fields offers farmers economic, ecological gains](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
+* [2026-11-16, 17:20:28](https://news.ycombinator.com/item?id=50520076) - [Ask HN: If AI tools are so good, why isn't your bug backlog empty?](https://news.ycombinator.com/item?id=50520076)
 * [2026-11-16, 17:08:20](https://news.ycombinator.com/item?id=50519924) - [US now \"comfortable\" with children dying of measles as death toll hits 10](https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/)
 * [2026-11-16, 16:53:39](https://news.ycombinator.com/item?id=50519744) - [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
+* [2026-11-16, 16:23:01](https://news.ycombinator.com/item?id=50519345) - [Jolt – Clojure that speaks C](https://jolt-lang.net/)
 * [2026-11-16, 15:59:48](https://news.ycombinator.com/item?id=50519043) - [Generative AI Usage in the Games Industry](https://www.gameworkers.co.uk/ai-manifesto/)
 * [2026-11-16, 15:33:34](https://news.ycombinator.com/item?id=50518690) - [Psychic: Like fzf but learns from your actions](https://klauria.tech/psychic/)
 * [2026-11-16, 15:27:19](https://news.ycombinator.com/item?id=50518615) - [Robert Pattinson Is Officially James Bond](https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/)

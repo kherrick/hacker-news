@@ -73,6 +73,7 @@
 * [2026-11-12, 13:52:29](https://news.ycombinator.com/item?id=50467087) - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
 * [2026-11-12, 13:46:53](https://news.ycombinator.com/item?id=50467010) - [Cabo Pulmo, John Steinbeck, and the village that wouldn't give up](https://blue-continuum.com/the-village-that-gave-back-its-sea)
 * [2026-11-12, 12:51:38](https://news.ycombinator.com/item?id=50466410) - [Adapting CPython for Yk](https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html)
+* [2026-11-12, 12:40:05](https://news.ycombinator.com/item?id=50466300) - [Quxnet Is a Breath of Fresh Air](https://moddedbear.com/quxnet-is-a-breath-of-fresh-air/)
 * [2026-11-12, 12:14:20](https://news.ycombinator.com/item?id=50466069) - [The curious case of the north-east arrow](https://arsh.zip/posts/north-east-arrow/)
 * [2026-11-12, 12:00:06](https://news.ycombinator.com/item?id=50465926) - [Bilingualism and Denaskuleco](https://pgadey.ca/notes/bilingualism-and-denaskuleco/)
 * [2026-11-12, 11:46:41](https://news.ycombinator.com/item?id=50465829) - [Anthropic IPO](https://ipo.anthropic.com/us/)
