@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-11-16, 14:14:51",
+      "https://news.ycombinator.com/item?id=50517803"
+    ],
+    [
+      "Show HN: Coral – Open-source gateway where agents write their own tools",
+      "https://github.com/withcoral/coral"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 13:51:38",
       "https://news.ycombinator.com/item?id=50517602"
     ],
@@ -27,6 +37,16 @@
     [
       "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings– 1 in 10 Cost More",
       "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 13:18:22",
+      "https://news.ycombinator.com/item?id=50517321"
+    ],
+    [
+      "Microsoft blames monster email outage on software defect introduced in July fix",
+      "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2026-11-13, 17:37:32",
-      "https://news.ycombinator.com/item?id=50486880"
-    ],
-    [
-      "A quest to create the perfect whiskey glass",
-      "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html"
-    ]
-  ],
-  [
-    [
       "2026-11-13, 17:29:49",
       "https://news.ycombinator.com/item?id=50486745"
     ],
     [
       "Researchers track whole body movement with just a smartwatch",
       "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 15:50:43",
-      "https://news.ycombinator.com/item?id=50485275"
-    ],
-    [
-      "Artificial Intelligence for the Z80",
-      "https://www.dfsantos.com/en/libro-ia-z80"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-11-12, 14:18:04",
-      "https://news.ycombinator.com/item?id=50467599"
-    ],
-    [
-      "Simple 8085 Computer",
-      "https://www.hackster.io/mit41301/simple-8085-computer-9fe156"
-    ]
-  ],
-  [
-    [
       "2026-11-12, 03:44:33",
       "https://news.ycombinator.com/item?id=50462816"
     ],
     [
       "The Lasting Influence of John Berger",
       "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review"
+    ]
+  ],
+  [
+    [
+      "2026-11-11, 11:39:15",
+      "https://news.ycombinator.com/item?id=50452230"
+    ],
+    [
+      "Show HN: ThingStudio, Node-RED style programming for microcontrollers",
+      "https://thingstudio.net/"
     ]
   ]
 ]
