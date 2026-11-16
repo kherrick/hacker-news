@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-16, 19:29:17](https://news.ycombinator.com/item?id=50521870) - [How to Intercept HTTP/3 Traffic: QUIC and Qpack](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
-* [2026-11-16, 19:13:13](https://news.ycombinator.com/item?id=50521644) - [Adobe flash editor libre alternative](https://www.q0id.com/downloads)
 * [2026-11-16, 18:31:30](https://news.ycombinator.com/item?id=50521045) - [Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
 * [2026-11-16, 18:17:17](https://news.ycombinator.com/item?id=50520866) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
+* [2026-11-16, 18:16:18](https://news.ycombinator.com/item?id=50520853) - [Some OLED MacBook Pro Owners Report Eye Strain and Dizziness](https://www.macrumors.com/2026/11/16/oled-macbook-pro-owners-report-eye-strain/)
 * [2026-11-16, 18:12:21](https://news.ycombinator.com/item?id=50520796) - [FBI says Artex AI open-source hacking tool used to breach networks](https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/)
 * [2026-11-16, 18:08:04](https://news.ycombinator.com/item?id=50520741) - [Show HN: Fakemetrics.com – \"build in public\" like a superstar](https://fakemetrics.com/)
 * [2026-11-16, 18:04:55](https://news.ycombinator.com/item?id=50520697) - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)
