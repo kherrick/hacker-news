@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-16, 17:27:46](https://news.ycombinator.com/item?id=50520182) - [Sheep grazing in solar fields offers farmers economic, ecological gains](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
+* [2026-11-16, 16:53:39](https://news.ycombinator.com/item?id=50519744) - [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
 * [2026-11-16, 15:59:48](https://news.ycombinator.com/item?id=50519043) - [Generative AI Usage in the Games Industry](https://www.gameworkers.co.uk/ai-manifesto/)
 * [2026-11-16, 15:24:09](https://news.ycombinator.com/item?id=50518567) - [Nvidia Was in Trouble Before the Jensen Huang Mess](https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/)
 * [2026-11-16, 14:15:31](https://news.ycombinator.com/item?id=50517815) - [The Active Directory Era Is Finally Over](https://infisical.com/blog/active-directory-machine-identity)
@@ -16,7 +18,6 @@
 * [2026-11-15, 23:55:55](https://news.ycombinator.com/item?id=50512235) - [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 * [2026-11-15, 23:00:11](https://news.ycombinator.com/item?id=50511806) - [Preserving 30 years of Salon journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
 * [2026-11-15, 22:11:43](https://news.ycombinator.com/item?id=50511395) - [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
-* [2026-11-15, 20:20:05](https://news.ycombinator.com/item?id=50510296) - [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
 * [2026-11-15, 19:42:13](https://news.ycombinator.com/item?id=50509972) - [Handwriting, as a Font](https://ductus.sorenblank.com)
 * [2026-11-15, 19:26:22](https://news.ycombinator.com/item?id=50509837) - [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)
 * [2026-11-15, 18:23:21](https://news.ycombinator.com/item?id=50509308) - [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
@@ -25,7 +26,6 @@
 * [2026-11-14, 08:58:31](https://news.ycombinator.com/item?id=50495325) - [Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland](https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala)
 * [2026-11-13, 21:36:59](https://news.ycombinator.com/item?id=50490159) - [OOS – an open operating system for the Rigol Scopes](https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/)
 * [2026-11-13, 20:08:36](https://news.ycombinator.com/item?id=50488948) - [The Opportunivore's Dilemma](https://www.vqronline.org/essays/opportunivores-dilemma)
-* [2026-11-13, 18:24:54](https://news.ycombinator.com/item?id=50487628) - [Exact Gradients Through a BRep Kernel](https://muni.works/research/vcad)
 * [2026-11-13, 17:29:49](https://news.ycombinator.com/item?id=50486745) - [Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch)
 * [2026-11-13, 15:31:50](https://news.ycombinator.com/item?id=50484998) - [Do we still have to denormalize? Have your schema and search it too](https://www.paradedb.com/blog/joins)
 * [2026-11-12, 03:44:33](https://news.ycombinator.com/item?id=50462816) - [The Lasting Influence of John Berger](https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review)
