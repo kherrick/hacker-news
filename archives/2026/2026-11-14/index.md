@@ -45,6 +45,7 @@
 * [2026-11-14, 13:20:43](https://news.ycombinator.com/item?id=50496811) - [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
 * [2026-11-14, 12:45:45](https://news.ycombinator.com/item?id=50496602) - [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again)
 * [2026-11-14, 11:13:17](https://news.ycombinator.com/item?id=50496051) - [Project Zero will disclose vulnerabilities 90 days after reporting](https://projectzero.google/2026/11/disclosure-policy.html)
+* [2026-11-14, 08:58:31](https://news.ycombinator.com/item?id=50495325) - [Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland](https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala)
 * [2026-11-14, 06:59:46](https://news.ycombinator.com/item?id=50494711) - [Why a NAT VPS can cost $1: the economics of an IPv4 address](https://natbox.io/blog/why-a-nat-vps-can-cost-1-dollar)
 * [2026-11-14, 06:56:42](https://news.ycombinator.com/item?id=50494696) - [Ask HN: What are the most useful, concrete AI skills to independently learn?](https://news.ycombinator.com/item?id=50494696)
 * [2026-11-14, 04:59:21](https://news.ycombinator.com/item?id=50494109) - [Road Trip at the Borderland](https://longreads.com/2026/10/29/family-road-trip-china-north-korea/)

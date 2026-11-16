@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
 * [2026-11-16, 15:27:19](https://news.ycombinator.com/item?id=50518615) - [Robert Pattinson Is Officially James Bond](https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/)
+* [2026-11-16, 15:24:09](https://news.ycombinator.com/item?id=50518567) - [Nvidia Was in Trouble Before the Jensen Huang Mess](https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/)
 * [2026-11-16, 15:17:56](https://news.ycombinator.com/item?id=50518501) - [ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet/)
 * [2026-11-16, 15:13:47](https://news.ycombinator.com/item?id=50518453) - [New James Bond Announced and the Name's Pattinson, Robert Pattinson](https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson)
 * [2026-11-16, 14:17:53](https://news.ycombinator.com/item?id=50517838) - [Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops](https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint)
@@ -12,6 +13,7 @@
 * [2026-11-16, 13:54:50](https://news.ycombinator.com/item?id=50517630) - [Show HN: CheeseDB – agent memory where deleting a source deletes what it taught](https://github.com/govinargo-labs/cheesedb)
 * [2026-11-16, 13:51:38](https://news.ycombinator.com/item?id=50517602) - [What the fuck is w2rt6byl5nf1opmc-a.com?](https://jack.cab/blog/siterate)
 * [2026-11-16, 13:39:07](https://news.ycombinator.com/item?id=50517488) - [Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings– 1 in 10 Cost More](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/)
+* [2026-11-16, 13:21:53](https://news.ycombinator.com/item?id=50517352) - [Show HN: OpenTodo – a self-hosted, local-first task manager in one Go binary](https://github.com/OpenTodoApp/OpenTodo)
 * [2026-11-16, 13:18:22](https://news.ycombinator.com/item?id=50517321) - [Microsoft blames monster email outage on software defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026)
 * [2026-11-16, 11:39:31](https://news.ycombinator.com/item?id=50516473) - [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
 * [2026-11-16, 11:14:27](https://news.ycombinator.com/item?id=50516301) - [I posted in \"Who wants to be hired?\" and a recruiter sent me a RAT and a stealer](https://getjump.me/posts/03-huntrole-fake-take-home/)
