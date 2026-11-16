@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 15:59:48](https://news.ycombinator.com/item?id=50519043) - [Generative AI Usage in the Games Industry](https://www.gameworkers.co.uk/ai-manifesto/)
 * [2026-11-16, 15:27:19](https://news.ycombinator.com/item?id=50518615) - [Robert Pattinson Is Officially James Bond](https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/)
 * [2026-11-16, 15:24:09](https://news.ycombinator.com/item?id=50518567) - [Nvidia Was in Trouble Before the Jensen Huang Mess](https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/)
 * [2026-11-16, 15:17:56](https://news.ycombinator.com/item?id=50518501) - [ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet/)

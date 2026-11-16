@@ -29,6 +29,7 @@
 * [2026-11-14, 16:00:14](https://news.ycombinator.com/item?id=50498063) - [Italy fines Meta €805M over photo privacy](https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/)
 * [2026-11-14, 15:41:20](https://news.ycombinator.com/item?id=50497900) - [Formalizing US Tax Code (Using Lean)](https://lexifina.com/blog/formalizing-the-us-tax-code)
 * [2026-11-14, 15:40:52](https://news.ycombinator.com/item?id=50497892) - [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
+* [2026-11-14, 15:22:30](https://news.ycombinator.com/item?id=50497746) - [Smallest possible nopert polyhedra: the Septopert](https://github.com/tom7/noperts/blob/main/septopert.md)
 * [2026-11-14, 15:04:15](https://news.ycombinator.com/item?id=50497589) - [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)
 * [2026-11-14, 14:44:28](https://news.ycombinator.com/item?id=50497416) - [Demystifying phone unlocking tools: A technical overview](https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/)
 * [2026-11-14, 14:15:06](https://news.ycombinator.com/item?id=50497196) - [Vercel should fork and maintain Deno](https://news.ycombinator.com/item?id=50497196)
