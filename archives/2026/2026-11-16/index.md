@@ -21,6 +21,7 @@
 * [2026-11-16, 16:53:39](https://news.ycombinator.com/item?id=50519744) - [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
 * [2026-11-16, 16:23:22](https://news.ycombinator.com/item?id=50519354) - [Frame – 31.5\" color ePaper display](https://trmnl.com/blog/introducing-frame)
 * [2026-11-16, 16:23:01](https://news.ycombinator.com/item?id=50519345) - [Jolt – Clojure that speaks C](https://jolt-lang.net/)
+* [2026-11-16, 16:07:20](https://news.ycombinator.com/item?id=50519153) - [First phase of embedded assessments at OpenAI](https://openai.com/index/our-first-phase-of-embedded-assessments/)
 * [2026-11-16, 15:59:48](https://news.ycombinator.com/item?id=50519043) - [Generative AI Usage in the Games Industry](https://www.gameworkers.co.uk/ai-manifesto/)
 * [2026-11-16, 15:33:34](https://news.ycombinator.com/item?id=50518690) - [Psychic: Like fzf but learns from your actions](https://klauria.tech/psychic/)
 * [2026-11-16, 15:27:19](https://news.ycombinator.com/item?id=50518615) - [Robert Pattinson Is Officially James Bond](https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/)
