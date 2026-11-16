@@ -129,6 +129,115 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="50522776">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=50522776"
+              >Launch HN: Axonnic (YC F26) – Sleeves that track fingers and
+              estimate force</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-16 @ 20:29:48</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50522776"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://axonnic.com">https://axonnic.com</a>). We’ve
+              developed a forearm sleeve that reads muscle activity to decode
+              finger movements and estimate fingertip force, while leaving the
+              hands bare. It’s used to record human movement and generate
+              training data for dextrous robots.
+              <p>
+                Here’s a demo video:
+                <a href="https://youtube.com/shorts/xBrocTc9cfA"
+                  >https://youtube.com/shorts/xBrocTc9cfA</a
+                >
+              </p>
+              <p>
+                We’ve found that electromyography (EMG) is a much better way to
+                train robots than by video alone because video only captures
+                movement, not muscle activity or the effort behind the movement.
+                A useful signal can be present even when the hand barely moves;
+                just maintaining a grip involves muscle activation. The subtle
+                muscle movements that can barely be picked up in video are the
+                most important details for activities like sewing and delicate
+                assembly.
+              </p>
+              <p>
+                The sleeve has 64 channels of surface electromyography, or EMG.
+                Electrodes on the skin detect electrical activity from muscles
+                in the forearm. We distribute sensors across the forearm so as
+                to not overfit to one muscle group. We synchronize EMG with hand
+                tracking to train a model that predicts finger joint angles,
+                then we run the decoder solely from EMG, adding in fingertip
+                force estimates that have been calibrated from finger presses on
+                force sensors.
+              </p>
+              <p>
+                When the user takes the sleeve off then puts it back on again,
+                the electrode positions change, so we run tests over separate
+                wearings. In one case, we ran a 215-second recording, four days
+                after training, without any recalibration, and compared the
+                results with Apple Vision Pro hand tracking. The result was just
+                6.9° error across 20 joint angles. We’ve published the
+                measurements and evaluation details here:
+                <a href="https://axonnic.com/benchmarks"
+                  >https://axonnic.com/benchmarks</a
+                >.
+              </p>
+              <p>
+                We faced many challenges doing recordings in factories,
+                including wireless interference and unreliable off-the-shelf
+                hardware. This led to some bad recordings and the need to repeat
+                data collection. For that reason, we’re developing our own
+                electronics that use a wired PCB design that will eliminate
+                interference and timing inconsistencies.
+              </p>
+              <p>
+                Axonnic grew out of Max's EMG research at Oxford. We looked at
+                using the technology for computer control, then we thought a
+                more promising use-case was in capturing the effort involved in
+                skilled manual tasks. This technology could be described as a
+                computer to human interface. Where computers gain insight and
+                learn from human skills. Sewing particularly stood out because
+                the material deforms and the operator is constantly adjusting
+                grip and tension.
+              </p>
+              <p>
+                Maxim has an Oxford MBiol and conducted research on high-density
+                surface EMG. He previously built internal tools at Skyscanner
+                and worked at Voxblock across PCB development and supply chain.
+                Arsh studied medicine at Oxford and has research experience
+                applying machine learning to medical imaging, alongside software
+                and robotics projects. Together we have built the sleeve,
+                decoding software and data-collection system and tested them in
+                industrial settings.
+              </p>
+              <p>
+                So far we have the tech being used to record sewing and other
+                manual tasks at a European manufacturer, which signed an LOI for
+                support with robotic implementation. We have also collected
+                construction demonstrations involving electricians, plumbers and
+                demolition work. These are pilot and data-collection examples.
+                Separately, our public demos include controlling a Proception
+                robotic hand from forearm EMG.
+              </p>
+              <p>
+                If you’ve done any of your own trials for training robots for
+                manual tasks, we’d love to hear about what tasks you were trying
+                to train for and how the trials went. We’re happy to discuss the
+                hardware, calibration and models here in the comments. Thanks!
+              </p>
+              <p><a href="https://axonnic.com">https://axonnic.com</a></p>
+            </div>
+          </section>
+        </section>
         <section id="50521870">
           <h3>
             <a
@@ -141,7 +250,7 @@
             <h4>
               <span>2026-11-16 @ 19:29:17</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50521870"
                   >Comments</a
@@ -163,11 +272,11 @@
             <h4>
               <span>2026-11-16 @ 18:31:30</span
               ><span class="points-container"
-                >Points: <span class="points">410</span></span
+                >Points: <span class="points">435</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50521045"
                   >Comments</a
-                ><span class="descendants">: 293</span></span
+                ><span class="descendants">: 314</span></span
               >
             </h4>
           </section>
@@ -184,11 +293,11 @@
             <h4>
               <span>2026-11-16 @ 18:17:17</span
               ><span class="points-container"
-                >Points: <span class="points">229</span></span
+                >Points: <span class="points">237</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50520866"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -206,11 +315,11 @@
             <h4>
               <span>2026-11-16 @ 18:12:48</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50520804"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -227,11 +336,11 @@
             <h4>
               <span>2026-11-16 @ 18:04:55</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50520697"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -249,7 +358,7 @@
             <h4>
               <span>2026-11-16 @ 17:52:23</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50520518"
                   >Comments</a
@@ -274,7 +383,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50520270"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -291,7 +400,7 @@
             <h4>
               <span>2026-11-16 @ 17:27:46</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50520182"
                   >Comments</a
@@ -312,11 +421,11 @@
             <h4>
               <span>2026-11-16 @ 17:25:35</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50520148"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -331,7 +440,7 @@
             <h4>
               <span>2026-11-16 @ 16:53:39</span
               ><span class="points-container"
-                >Points: <span class="points">209</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50519744"
                   >Comments</a
@@ -350,11 +459,11 @@
             <h4>
               <span>2026-11-16 @ 16:23:22</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50519354"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -409,7 +518,7 @@
             <h4>
               <span>2026-11-16 @ 15:33:34</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50518690"
                   >Comments</a
@@ -434,7 +543,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50518567"
                   >Comments</a
-                ><span class="descendants">: 180</span></span
+                ><span class="descendants">: 183</span></span
               >
             </h4>
           </section>
@@ -454,7 +563,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50518068"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -471,11 +580,11 @@
             <h4>
               <span>2026-11-16 @ 14:15:31</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50517815"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -493,11 +602,11 @@
             <h4>
               <span>2026-11-16 @ 13:39:07</span
               ><span class="points-container"
-                >Points: <span class="points">696</span></span
+                >Points: <span class="points">700</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50517488"
                   >Comments</a
-                ><span class="descendants">: 432</span></span
+                ><span class="descendants">: 435</span></span
               >
             </h4>
           </section>
@@ -515,11 +624,11 @@
             <h4>
               <span>2026-11-16 @ 13:18:22</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50517321"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -537,7 +646,7 @@
             <h4>
               <span>2026-11-16 @ 11:39:31</span
               ><span class="points-container"
-                >Points: <span class="points">264</span></span
+                >Points: <span class="points">265</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50516473"
                   >Comments</a
@@ -565,26 +674,6 @@
             </h4>
           </section>
         </section>
-        <section id="50515182">
-          <h3>
-            <a class="item" href="https://github.com/ages2001/WINUDF"
-              >Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98
-              / ME</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-16 @ 08:00:13</span
-              ><span class="points-container"
-                >Points: <span class="points">82</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50515182"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="50515151">
           <h3>
             <a class="item" href="https://linebender.org/wiki/curves/squircle/"
@@ -595,7 +684,7 @@
             <h4>
               <span>2026-11-16 @ 07:55:10</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50515151"
                   >Comments</a
@@ -617,11 +706,11 @@
             <h4>
               <span>2026-11-16 @ 07:38:19</span
               ><span class="points-container"
-                >Points: <span class="points">260</span></span
+                >Points: <span class="points">261</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50515058"
                   >Comments</a
-                ><span class="descendants">: 114</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -636,7 +725,7 @@
             <h4>
               <span>2026-11-16 @ 05:50:37</span
               ><span class="points-container"
-                >Points: <span class="points">786</span></span
+                >Points: <span class="points">790</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50514470"
                   >Comments</a
@@ -657,11 +746,11 @@
             <h4>
               <span>2026-11-14 @ 15:22:30</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50497746"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -678,7 +767,7 @@
             <h4>
               <span>2026-11-13 @ 21:36:59</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50490159"
                   >Comments</a
@@ -742,7 +831,7 @@
             <h4>
               <span>2026-11-10 @ 18:03:14</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50443844"
                   >Comments</a
