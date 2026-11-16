@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2026-11-16, 07:57:40",
-      "https://news.ycombinator.com/item?id=50515169"
-    ],
-    [
-      "How Should Armies Fight?",
-      "https://worksinprogress.co/issue/the-future-of-war/"
-    ]
-  ],
-  [
-    [
       "2026-11-16, 07:38:19",
       "https://news.ycombinator.com/item?id=50515058"
     ],
@@ -297,6 +287,16 @@
     [
       "The Lasting Influence of John Berger",
       "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review"
+    ]
+  ],
+  [
+    [
+      "2026-11-11, 18:14:36",
+      "https://news.ycombinator.com/item?id=50456548"
+    ],
+    [
+      "Making Atuin sync 32x faster with packfiles",
+      "https://blog.atuin.sh/making-atuin-sync-32x-faster-with-packfiles/"
     ]
   ]
 ]
