@@ -23,11 +23,11 @@
 * [2026-11-15, 18:23:21](https://news.ycombinator.com/item?id=50509308) - [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
 * [2026-11-15, 17:53:31](https://news.ycombinator.com/item?id=50509023) - [Crows make decisions faster than we can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html)
 * [2026-11-13, 21:36:59](https://news.ycombinator.com/item?id=50490159) - [OOS – an open operating system for the Rigol Scopes](https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/)
-* [2026-11-13, 20:36:25](https://news.ycombinator.com/item?id=50489292) - [Expozine at 25: Has the Independent Print Scene Outgrown Expozine?](https://www.themain.com/articles/expozine-montreal-independent-print-scene-arcmtl)
 * [2026-11-13, 20:08:36](https://news.ycombinator.com/item?id=50488948) - [The Opportunivore's Dilemma](https://www.vqronline.org/essays/opportunivores-dilemma)
 * [2026-11-13, 18:24:54](https://news.ycombinator.com/item?id=50487628) - [Exact Gradients Through a BRep Kernel](https://muni.works/research/vcad)
 * [2026-11-13, 17:29:49](https://news.ycombinator.com/item?id=50486745) - [Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch)
 * [2026-11-13, 15:31:50](https://news.ycombinator.com/item?id=50484998) - [Do we still have to denormalize? Have your schema and search it too](https://www.paradedb.com/blog/joins)
+* [2026-11-12, 14:18:04](https://news.ycombinator.com/item?id=50467599) - [Simple 8085 Computer](https://www.hackster.io/mit41301/simple-8085-computer-9fe156)
 * [2026-11-12, 03:44:33](https://news.ycombinator.com/item?id=50462816) - [The Lasting Influence of John Berger](https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review)
 * [2026-11-11, 11:39:15](https://news.ycombinator.com/item?id=50452230) - [Show HN: ThingStudio, Node-RED style programming for microcontrollers](https://thingstudio.net/)
 
