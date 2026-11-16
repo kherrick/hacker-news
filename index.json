@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-16, 04:53:06",
+      "https://news.ycombinator.com/item?id=50514180"
+    ],
+    [
+      "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+      "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 04:37:03",
       "https://news.ycombinator.com/item?id=50514093"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-11-15, 15:21:21",
-      "https://news.ycombinator.com/item?id=50507553"
-    ],
-    [
-      "Emacs Is My Browser",
-      "https://joshblais.com/blog/emacs-as-my-browser/"
-    ]
-  ],
-  [
-    [
       "2026-11-15, 13:44:16",
       "https://news.ycombinator.com/item?id=50506894"
     ],
@@ -217,16 +217,6 @@
     [
       "The MacBook Pro's OLED PWM problem",
       "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
-    ]
-  ],
-  [
-    [
-      "2026-11-14, 21:22:24",
-      "https://news.ycombinator.com/item?id=50500963"
-    ],
-    [
-      "SpaceX catches the Starship to end Flight 15",
-      "https://www.spacex.com/launches/starship-flight-15"
     ]
   ],
   [
@@ -281,12 +271,12 @@
   ],
   [
     [
-      "2026-11-12, 15:47:33",
-      "https://news.ycombinator.com/item?id=50469342"
+      "2026-11-12, 14:18:04",
+      "https://news.ycombinator.com/item?id=50467599"
     ],
     [
-      "What happens if you write a TCP stack in Python? (2014)",
-      "https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/"
+      "Simple 8085 Computer",
+      "https://www.hackster.io/mit41301/simple-8085-computer-9fe156"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
       "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+    ]
+  ],
+  [
+    [
+      "2026-11-11, 12:25:42",
+      "https://news.ycombinator.com/item?id=50452621"
+    ],
+    [
+      "Notes on Mathematics for Engineers (1959) [pdf]",
+      "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf"
     ]
   ]
 ]
