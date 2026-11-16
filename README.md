@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-16, 04:53:06](https://news.ycombinator.com/item?id=50514180) - [Debian Becomes Unresponsive after 6.1.0-55 Kernel Update](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
 * [2026-11-16, 04:37:03](https://news.ycombinator.com/item?id=50514093) - [Stop Filming in Log](https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/)
 * [2026-11-16, 02:53:30](https://news.ycombinator.com/item?id=50513451) - [Tell HN: HN is being scraped for emails to scam](https://news.ycombinator.com/item?id=50513451)
 * [2026-11-16, 02:14:44](https://news.ycombinator.com/item?id=50513215) - [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
@@ -19,17 +20,16 @@
 * [2026-11-15, 18:23:21](https://news.ycombinator.com/item?id=50509308) - [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
 * [2026-11-15, 17:53:31](https://news.ycombinator.com/item?id=50509023) - [Crows make decisions faster than we can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html)
 * [2026-11-15, 17:22:32](https://news.ycombinator.com/item?id=50508715) - [Clice v1.0 Released: Welcome to Modern C++](https://ykiko.me/en/articles/2105384023094834022/)
-* [2026-11-15, 15:21:21](https://news.ycombinator.com/item?id=50507553) - [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
 * [2026-11-15, 13:44:16](https://news.ycombinator.com/item?id=50506894) - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2026-11-15, 13:15:22](https://news.ycombinator.com/item?id=50506719) - [The MacBook Pro's OLED PWM problem](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
-* [2026-11-14, 21:22:24](https://news.ycombinator.com/item?id=50500963) - [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-13, 22:03:41](https://news.ycombinator.com/item?id=50490583) - [1900s How do you Wash a Kimono?](https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints)
 * [2026-11-13, 17:37:32](https://news.ycombinator.com/item?id=50486880) - [A quest to create the perfect whiskey glass](https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html)
 * [2026-11-13, 15:50:43](https://news.ycombinator.com/item?id=50485275) - [Artificial Intelligence for the Z80](https://www.dfsantos.com/en/libro-ia-z80)
 * [2026-11-13, 15:31:50](https://news.ycombinator.com/item?id=50484998) - [Do we still have to denormalize? Have your schema and search it too](https://www.paradedb.com/blog/joins)
 * [2026-11-13, 06:58:41](https://news.ycombinator.com/item?id=50479405) - [The Miracle Cure: In 1977, a drug rejected by doctors became a sensation](https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html)
-* [2026-11-12, 15:47:33](https://news.ycombinator.com/item?id=50469342) - [What happens if you write a TCP stack in Python? (2014)](https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/)
+* [2026-11-12, 14:18:04](https://news.ycombinator.com/item?id=50467599) - [Simple 8085 Computer](https://www.hackster.io/mit41301/simple-8085-computer-9fe156)
 * [2026-11-12, 05:29:24](https://news.ycombinator.com/item?id=50463399) - [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]](https://www.youtube.com/watch?v=WPj3aQ-xxpI)
+* [2026-11-11, 12:25:42](https://news.ycombinator.com/item?id=50452621) - [Notes on Mathematics for Engineers (1959) [pdf]](https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf)
 
 ## [Archives](archives/index.md)
 
