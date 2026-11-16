@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-16, 15:27:19](https://news.ycombinator.com/item?id=50518615) - [Robert Pattinson Is Officially James Bond](https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/)
+* [2026-11-16, 15:13:47](https://news.ycombinator.com/item?id=50518453) - [New James Bond Announced and the Name's Pattinson, Robert Pattinson](https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson)
 * [2026-11-16, 14:17:53](https://news.ycombinator.com/item?id=50517838) - [Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops](https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint)
 * [2026-11-16, 14:14:51](https://news.ycombinator.com/item?id=50517803) - [Show HN: Coral – Open-source gateway where agents write their own tools](https://github.com/withcoral/coral)
+* [2026-11-16, 13:54:50](https://news.ycombinator.com/item?id=50517630) - [Show HN: CheeseDB – agent memory where deleting a source deletes what it taught](https://github.com/govinargo-labs/cheesedb)
 * [2026-11-16, 13:51:38](https://news.ycombinator.com/item?id=50517602) - [What the fuck is w2rt6byl5nf1opmc-a.com?](https://jack.cab/blog/siterate)
 * [2026-11-16, 13:39:07](https://news.ycombinator.com/item?id=50517488) - [Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings– 1 in 10 Cost More](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/)
 * [2026-11-16, 13:18:22](https://news.ycombinator.com/item?id=50517321) - [Microsoft blames monster email outage on software defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026)
@@ -17,7 +20,6 @@
 * [2026-11-15, 23:55:55](https://news.ycombinator.com/item?id=50512235) - [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 * [2026-11-15, 23:00:11](https://news.ycombinator.com/item?id=50511806) - [Preserving 30 years of Salon journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
 * [2026-11-15, 22:11:43](https://news.ycombinator.com/item?id=50511395) - [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
-* [2026-11-15, 20:20:05](https://news.ycombinator.com/item?id=50510296) - [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
 * [2026-11-15, 19:42:13](https://news.ycombinator.com/item?id=50509972) - [Handwriting, as a Font](https://ductus.sorenblank.com)
 * [2026-11-15, 19:26:22](https://news.ycombinator.com/item?id=50509837) - [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)
 * [2026-11-15, 18:23:21](https://news.ycombinator.com/item?id=50509308) - [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
@@ -26,8 +28,6 @@
 * [2026-11-13, 20:08:36](https://news.ycombinator.com/item?id=50488948) - [The Opportunivore's Dilemma](https://www.vqronline.org/essays/opportunivores-dilemma)
 * [2026-11-13, 18:24:54](https://news.ycombinator.com/item?id=50487628) - [Exact Gradients Through a BRep Kernel](https://muni.works/research/vcad)
 * [2026-11-13, 17:29:49](https://news.ycombinator.com/item?id=50486745) - [Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch)
-* [2026-11-13, 15:31:50](https://news.ycombinator.com/item?id=50484998) - [Do we still have to denormalize? Have your schema and search it too](https://www.paradedb.com/blog/joins)
-* [2026-11-12, 14:18:04](https://news.ycombinator.com/item?id=50467599) - [Simple 8085 Computer](https://www.hackster.io/mit41301/simple-8085-computer-9fe156)
 * [2026-11-12, 03:44:33](https://news.ycombinator.com/item?id=50462816) - [The Lasting Influence of John Berger](https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review)
 * [2026-11-11, 11:39:15](https://news.ycombinator.com/item?id=50452230) - [Show HN: ThingStudio, Node-RED style programming for microcontrollers](https://thingstudio.net/)
 
