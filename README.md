@@ -3,7 +3,6 @@
 * [2026-11-16, 19:29:17](https://news.ycombinator.com/item?id=50521870) - [How to Intercept HTTP/3 Traffic: QUIC and Qpack](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
 * [2026-11-16, 18:31:30](https://news.ycombinator.com/item?id=50521045) - [Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
 * [2026-11-16, 18:17:17](https://news.ycombinator.com/item?id=50520866) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
-* [2026-11-16, 18:16:18](https://news.ycombinator.com/item?id=50520853) - [Some OLED MacBook Pro Owners Report Eye Strain and Dizziness](https://www.macrumors.com/2026/11/16/oled-macbook-pro-owners-report-eye-strain/)
 * [2026-11-16, 18:12:21](https://news.ycombinator.com/item?id=50520796) - [FBI says Artex AI open-source hacking tool used to breach networks](https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/)
 * [2026-11-16, 18:08:04](https://news.ycombinator.com/item?id=50520741) - [Show HN: Fakemetrics.com – \"build in public\" like a superstar](https://fakemetrics.com/)
 * [2026-11-16, 18:04:55](https://news.ycombinator.com/item?id=50520697) - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)
@@ -29,6 +28,7 @@
 * [2026-11-14, 08:58:31](https://news.ycombinator.com/item?id=50495325) - [Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland](https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala)
 * [2026-11-13, 21:36:59](https://news.ycombinator.com/item?id=50490159) - [OOS – an open operating system for the Rigol Scopes](https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/)
 * [2026-11-13, 17:29:49](https://news.ycombinator.com/item?id=50486745) - [Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch)
+* [2026-11-13, 15:53:09](https://news.ycombinator.com/item?id=50485327) - [The Origins of the Placenta](https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta)
 * [2026-11-10, 18:03:14](https://news.ycombinator.com/item?id=50443844) - [Giant Roadside Attractions Face Mounting Costs and an Uncertain Future](https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html)
 
 ## [Archives](archives/index.md)
