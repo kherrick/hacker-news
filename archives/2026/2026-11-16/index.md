@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 21:47:19](https://news.ycombinator.com/item?id=50523784) - [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
 * [2026-11-16, 21:32:17](https://news.ycombinator.com/item?id=50523601) - [BugMeNot Has Closed](https://www.bugmenot.com/)
+* [2026-11-16, 21:20:37](https://news.ycombinator.com/item?id=50523459) - [OpenCode Browse](https://opencode.ai/product/browse)
+* [2026-11-16, 21:08:38](https://news.ycombinator.com/item?id=50523300) - [Optimizely Compromised](https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/)
 * [2026-11-16, 21:07:43](https://news.ycombinator.com/item?id=50523291) - [My Quest to push native Three.js quality match AAA Game Engines](https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs)
+* [2026-11-16, 20:57:25](https://news.ycombinator.com/item?id=50523147) - [Amtrak service stopped around Washington, D.C](https://www.fox5dc.com/news/amtrak-service-stopped-washington-dc-track-hold)
 * [2026-11-16, 20:48:08](https://news.ycombinator.com/item?id=50523025) - [Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)
 * [2026-11-16, 20:47:53](https://news.ycombinator.com/item?id=50523022) - [Caltech professor no longer grades homework's because everyone uses AI](https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11)
+* [2026-11-16, 20:43:36](https://news.ycombinator.com/item?id=50522980) - [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
 * [2026-11-16, 20:29:48](https://news.ycombinator.com/item?id=50522776) - [Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force](https://news.ycombinator.com/item?id=50522776)
 * [2026-11-16, 20:22:18](https://news.ycombinator.com/item?id=50522643) - [Chemistry Is Geometry](https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry)
 * [2026-11-16, 20:16:50](https://news.ycombinator.com/item?id=50522563) - [Rust Changed Me as a Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
