@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 02:53:30](https://news.ycombinator.com/item?id=50513451) - [Tell HN: HN is being scraped for emails to scam](https://news.ycombinator.com/item?id=50513451)
+* [2026-11-16, 02:19:08](https://news.ycombinator.com/item?id=50513238) - [TuringFonts: Publish Uncrawable and Uncopiable Texts](https://jfmdev.github.io/TuringFonts/index.html)
 * [2026-11-16, 02:14:44](https://news.ycombinator.com/item?id=50513215) - [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
 * [2026-11-16, 02:04:48](https://news.ycombinator.com/item?id=50513160) - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
 * [2026-11-16, 01:31:30](https://news.ycombinator.com/item?id=50512950) - [\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs](https://www.hntrends.com/2026/november.html)
