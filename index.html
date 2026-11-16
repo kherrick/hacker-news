@@ -142,13 +142,110 @@
             <h4>
               <span>2026-11-16 @ 14:17:53</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50517838"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="50517803">
+          <h3>
+            <a class="item" href="https://github.com/withcoral/coral"
+              >Show HN: Coral – Open-source gateway where agents write their own
+              tools</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-16 @ 14:14:51</span
+              ><span class="points-container"
+                >Points: <span class="points">35</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50517803"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Coral is an open-source, self-hosted gateway that sits between
+                your agents and the systems they work on. Agents call tools by
+                writing short TypeScript programs that they can save as custom
+                tools to reuse.
+              </p>
+              <p>
+                You can publish custom tools for groups of agents, so your
+                team’s library of tools adapts to your unique systems, data and
+                use cases. Custom tools help agent performance and give more
+                precise units of permission control.
+              </p>
+              <p>
+                Here’s a short demo:
+                <a href="https://www.youtube.com/watch?v=p0PKOlHLyVI"
+                  >https://www.youtube.com/watch?v=p0PKOlHLyVI</a
+                >
+              </p>
+              <p>
+                We started on this while building an AI SRE. To investigate an
+                incident, the agent had to connect the dots across an ocean of
+                telemetry data and undocumented relationships across internal
+                and external systems. It took broad permissions, a lot of tokens
+                and it would start from scratch the next time.
+              </p>
+              <p>
+                We built Coral so that the agent remembers the route. Once a
+                task succeeds, the agent writes the steps that worked into a
+                program and saves it as a custom tool. Next time, the agent
+                finds that custom tool in the same search as standard provider
+                tools (e.g. Datadog, Slack), and reuses it. It started with SRE,
+                but we (and our early users) now use Coral for agent work across
+                the org.
+              </p>
+              <p>
+                For our tasks across GitHub, Linear and Slack with Opus 5.5,
+                custom tools help agents work 29% faster, at 31% lower cost
+                (tasks here:
+                <a href="https://withcoral.com/docs/examples/custom-tools"
+                  >https://withcoral.com/docs/examples/custom-tools</a
+                >).
+              </p>
+              <p>
+                Coral builds on code mode, adding custom tools, policy controls
+                and managed identities. Each program runs in a V8 isolate with
+                no network access or credentials. Coral checks every tool call
+                against workspace policy before attaching credentials and
+                forwarding it to the provider. You can configure each provider
+                to use the caller’s own account, so teammates can share tools
+                without sharing API tokens. (e.g.
+                <a
+                  href="https://withcoral.com/blog/slackbot-works-better-with-coral"
+                  >https://withcoral.com/blog/slackbot-works-better-with-coral</a
+                >)
+              </p>
+              <p>
+                Coral is written in Rust, and you can run it as a desktop app or
+                as a shared server. The core is Apache 2.0 and has no limits on
+                users, agents or volume. Everything I've described here is in
+                the OSS edition. SAML, SCIM, and org-wide governance features
+                will be available soon under an enterprise licence.
+              </p>
+              <p>
+                We'd love for you to try it and share your feedback. You can
+                download it here
+                <a href="https://withcoral.com/download"
+                  >https://withcoral.com/download</a
+                >.
+              </p>
+              <p>
+                I'll be in the comments here and on Slack:
+                <a href="https://withcoral.com/slack"
+                  >https://withcoral.com/slack</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="50517602">
@@ -161,11 +258,11 @@
             <h4>
               <span>2026-11-16 @ 13:51:38</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50517602"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -183,11 +280,33 @@
             <h4>
               <span>2026-11-16 @ 13:39:07</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50517488"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 75</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="50517321">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026"
+              >Microsoft blames monster email outage on software defect
+              introduced in July fix</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-16 @ 13:18:22</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50517321"
+                  >Comments</a
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -205,11 +324,11 @@
             <h4>
               <span>2026-11-16 @ 11:39:31</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50516473"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -224,11 +343,11 @@
             <h4>
               <span>2026-11-16 @ 11:03:16</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50516245"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -243,11 +362,11 @@
             <h4>
               <span>2026-11-16 @ 09:19:38</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50515616"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -284,11 +403,11 @@
             <h4>
               <span>2026-11-16 @ 07:38:19</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50515058"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -303,7 +422,7 @@
             <h4>
               <span>2026-11-16 @ 05:50:37</span
               ><span class="points-container"
-                >Points: <span class="points">535</span></span
+                >Points: <span class="points">551</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50514470"
                   >Comments</a
@@ -322,11 +441,11 @@
             <h4>
               <span>2026-11-16 @ 02:14:44</span
               ><span class="points-container"
-                >Points: <span class="points">706</span></span
+                >Points: <span class="points">715</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50513215"
                   >Comments</a
-                ><span class="descendants">: 341</span></span
+                ><span class="descendants">: 349</span></span
               >
             </h4>
           </section>
@@ -342,11 +461,11 @@
             <h4>
               <span>2026-11-16 @ 02:04:48</span
               ><span class="points-container"
-                >Points: <span class="points">495</span></span
+                >Points: <span class="points">498</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50513160"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 143</span></span
               >
             </h4>
           </section>
@@ -364,7 +483,7 @@
             <h4>
               <span>2026-11-16 @ 00:21:54</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50512441"
                   >Comments</a
@@ -385,11 +504,11 @@
             <h4>
               <span>2026-11-15 @ 23:55:55</span
               ><span class="points-container"
-                >Points: <span class="points">363</span></span
+                >Points: <span class="points">368</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50512235"
                   >Comments</a
-                ><span class="descendants">: 457</span></span
+                ><span class="descendants">: 464</span></span
               >
             </h4>
           </section>
@@ -427,7 +546,7 @@
             <h4>
               <span>2026-11-15 @ 22:11:43</span
               ><span class="points-container"
-                >Points: <span class="points">337</span></span
+                >Points: <span class="points">339</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50511395"
                   >Comments</a
@@ -446,7 +565,7 @@
             <h4>
               <span>2026-11-15 @ 20:20:05</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50510296"
                   >Comments</a
@@ -465,7 +584,7 @@
             <h4>
               <span>2026-11-15 @ 19:42:13</span
               ><span class="points-container"
-                >Points: <span class="points">382</span></span
+                >Points: <span class="points">384</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50509972"
                   >Comments</a
@@ -484,7 +603,7 @@
             <h4>
               <span>2026-11-15 @ 19:26:22</span
               ><span class="points-container"
-                >Points: <span class="points">410</span></span
+                >Points: <span class="points">412</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50509837"
                   >Comments</a
@@ -503,11 +622,11 @@
             <h4>
               <span>2026-11-15 @ 18:23:21</span
               ><span class="points-container"
-                >Points: <span class="points">269</span></span
+                >Points: <span class="points">270</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50509308"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 154</span></span
               >
             </h4>
           </section>
@@ -524,7 +643,7 @@
             <h4>
               <span>2026-11-15 @ 17:53:31</span
               ><span class="points-container"
-                >Points: <span class="points">273</span></span
+                >Points: <span class="points">275</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50509023"
                   >Comments</a
@@ -588,7 +707,7 @@
             <h4>
               <span>2026-11-13 @ 20:08:36</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50488948"
                   >Comments</a
@@ -607,32 +726,11 @@
             <h4>
               <span>2026-11-13 @ 18:24:54</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50487628"
                   >Comments</a
                 ><span class="descendants">: 12</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50486880">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html"
-              >A quest to create the perfect whiskey glass</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-13 @ 17:37:32</span
-              ><span class="points-container"
-                >Points: <span class="points">81</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50486880"
-                  >Comments</a
-                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -649,30 +747,11 @@
             <h4>
               <span>2026-11-13 @ 17:29:49</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50486745"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50485275">
-          <h3>
-            <a class="item" href="https://www.dfsantos.com/en/libro-ia-z80"
-              >Artificial Intelligence for the Z80</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-13 @ 15:50:43</span
-              ><span class="points-container"
-                >Points: <span class="points">71</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50485275"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -697,27 +776,6 @@
             </h4>
           </section>
         </section>
-        <section id="50467599">
-          <h3>
-            <a
-              class="item"
-              href="https://www.hackster.io/mit41301/simple-8085-computer-9fe156"
-              >Simple 8085 Computer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-12 @ 14:18:04</span
-              ><span class="points-container"
-                >Points: <span class="points">63</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50467599"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="50462816">
           <h3>
             <a
@@ -730,13 +788,43 @@
             <h4>
               <span>2026-11-12 @ 03:44:33</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50462816"
                   >Comments</a
                 ><span class="descendants">: 4</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="50452230">
+          <h3>
+            <a class="item" href="https://thingstudio.net/"
+              >Show HN: ThingStudio, Node-RED style programming for
+              microcontrollers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-11 @ 11:39:15</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50452230"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              Hi, I'm Mike, I've made ThingStudio, a flow programing environment
+              for microcontrollers. It allows drag and drop programming Node-RED
+              style, but emits MicroPython which it uploads to the micro. The
+              board does not need the editor to run after that. Runs fully
+              local, Apache 2 licensed. There's a functional version of the
+              editor/IDE at linked to the home page, you'll need to install to
+              be able to upload, because WebSerial is not universal. Please give
+              it a whirl. I'm happy to answer any questions.
+            </div>
           </section>
         </section>
       </section>
