@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-11-16, 21:47:19",
+      "https://news.ycombinator.com/item?id=50523784"
+    ],
+    [
+      "Spamhaus new email sender requirements in November",
+      "https://www.spamhaus.org/sender-guidelines/"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 21:32:17",
       "https://news.ycombinator.com/item?id=50523601"
     ],
     [
       "BugMeNot Has Closed",
       "https://www.bugmenot.com/"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 21:20:37",
+      "https://news.ycombinator.com/item?id=50523459"
+    ],
+    [
+      "OpenCode Browse",
+      "https://opencode.ai/product/browse"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 21:08:38",
+      "https://news.ycombinator.com/item?id=50523300"
+    ],
+    [
+      "Optimizely Compromised",
+      "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/"
     ]
   ],
   [
@@ -21,6 +51,16 @@
   ],
   [
     [
+      "2026-11-16, 20:57:25",
+      "https://news.ycombinator.com/item?id=50523147"
+    ],
+    [
+      "Amtrak service stopped around Washington, D.C",
+      "https://www.fox5dc.com/news/amtrak-service-stopped-washington-dc-track-hold"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 20:48:08",
       "https://news.ycombinator.com/item?id=50523025"
     ],
@@ -31,12 +71,12 @@
   ],
   [
     [
-      "2026-11-16, 20:47:53",
-      "https://news.ycombinator.com/item?id=50523022"
+      "2026-11-16, 20:43:36",
+      "https://news.ycombinator.com/item?id=50522980"
     ],
     [
-      "Caltech professor no longer grades homework's because everyone uses AI",
-      "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11"
+      "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "https://www.cs.cmu.edu/learn/"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2026-11-16, 16:07:20",
-      "https://news.ycombinator.com/item?id=50519153"
-    ],
-    [
-      "First phase of embedded assessments at OpenAI",
-      "https://openai.com/index/our-first-phase-of-embedded-assessments/"
-    ]
-  ],
-  [
-    [
       "2026-11-16, 15:24:09",
       "https://news.ycombinator.com/item?id=50518567"
     ],
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2026-11-16, 11:03:16",
-      "https://news.ycombinator.com/item?id=50516245"
-    ],
-    [
-      "Coffeehouses and the Rise of Science [pdf]",
-      "https://www.monirbounadi.com/Bounadi_JMP.pdf"
-    ]
-  ],
-  [
-    [
       "2026-11-16, 07:55:10",
       "https://news.ycombinator.com/item?id=50515151"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2026-11-16, 07:38:19",
-      "https://news.ycombinator.com/item?id=50515058"
-    ],
-    [
-      "Interpreting claims that a theorem is correct because it was checked in Lean",
-      "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/"
-    ]
-  ],
-  [
-    [
       "2026-11-16, 05:50:37",
       "https://news.ycombinator.com/item?id=50514470"
     ],
     [
       "How to make almost anything",
       "https://pub.cba.mit.edu/863.26/site/"
-    ]
-  ],
-  [
-    [
-      "2026-11-14, 15:22:30",
-      "https://news.ycombinator.com/item?id=50497746"
-    ],
-    [
-      "Smallest possible nopert polyhedra: the Septopert",
-      "https://github.com/tom7/noperts/blob/main/septopert.md"
     ]
   ],
   [
