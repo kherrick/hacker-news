@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-16, 04:37:03](https://news.ycombinator.com/item?id=50514093) - [Stop Filming in Log](https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/)
 * [2026-11-16, 03:58:04](https://news.ycombinator.com/item?id=50513843) - [Linux was created as a rejection of robust software architecture and tools](https://twitter.com/GrapheneOS/status/2122079826257588569)
 * [2026-11-16, 02:53:30](https://news.ycombinator.com/item?id=50513451) - [Tell HN: HN is being scraped for emails to scam](https://news.ycombinator.com/item?id=50513451)
 * [2026-11-16, 02:14:44](https://news.ycombinator.com/item?id=50513215) - [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
@@ -22,7 +23,6 @@
 * [2026-11-15, 15:21:21](https://news.ycombinator.com/item?id=50507553) - [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
 * [2026-11-15, 13:44:16](https://news.ycombinator.com/item?id=50506894) - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2026-11-15, 13:15:22](https://news.ycombinator.com/item?id=50506719) - [The MacBook Pro's OLED PWM problem](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
-* [2026-11-14, 21:22:24](https://news.ycombinator.com/item?id=50500963) - [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-13, 22:03:41](https://news.ycombinator.com/item?id=50490583) - [1900s How do you Wash a Kimono?](https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints)
 * [2026-11-13, 17:37:32](https://news.ycombinator.com/item?id=50486880) - [A quest to create the perfect whiskey glass](https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html)
 * [2026-11-13, 15:50:43](https://news.ycombinator.com/item?id=50485275) - [Artificial Intelligence for the Z80](https://www.dfsantos.com/en/libro-ia-z80)

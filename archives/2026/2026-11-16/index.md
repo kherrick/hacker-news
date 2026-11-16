@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 04:37:03](https://news.ycombinator.com/item?id=50514093) - [Stop Filming in Log](https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/)
 * [2026-11-16, 03:58:04](https://news.ycombinator.com/item?id=50513843) - [Linux was created as a rejection of robust software architecture and tools](https://twitter.com/GrapheneOS/status/2122079826257588569)
 * [2026-11-16, 03:12:04](https://news.ycombinator.com/item?id=50513589) - [New Mexico wanted free childcare for all; what's worked – and what hasn't](https://text.npr.org/nx-s1-6040194)
 * [2026-11-16, 02:53:30](https://news.ycombinator.com/item?id=50513451) - [Tell HN: HN is being scraped for emails to scam](https://news.ycombinator.com/item?id=50513451)
