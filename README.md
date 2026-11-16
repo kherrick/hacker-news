@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-16, 05:50:37](https://news.ycombinator.com/item?id=50514470) - [How to Make Almost Anything](https://pub.cba.mit.edu/863.26/site/)
 * [2026-11-16, 04:53:06](https://news.ycombinator.com/item?id=50514180) - [Debian Becomes Unresponsive after 6.1.0-55 Kernel Update](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
 * [2026-11-16, 04:37:03](https://news.ycombinator.com/item?id=50514093) - [Stop Filming in Log](https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/)
 * [2026-11-16, 02:53:30](https://news.ycombinator.com/item?id=50513451) - [Tell HN: HN is being scraped for emails to scam](https://news.ycombinator.com/item?id=50513451)
@@ -29,7 +30,6 @@
 * [2026-11-13, 06:58:41](https://news.ycombinator.com/item?id=50479405) - [The Miracle Cure: In 1977, a drug rejected by doctors became a sensation](https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html)
 * [2026-11-12, 14:18:04](https://news.ycombinator.com/item?id=50467599) - [Simple 8085 Computer](https://www.hackster.io/mit41301/simple-8085-computer-9fe156)
 * [2026-11-12, 05:29:24](https://news.ycombinator.com/item?id=50463399) - [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]](https://www.youtube.com/watch?v=WPj3aQ-xxpI)
-* [2026-11-11, 12:25:42](https://news.ycombinator.com/item?id=50452621) - [Notes on Mathematics for Engineers (1959) [pdf]](https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf)
 
 ## [Archives](archives/index.md)
 
