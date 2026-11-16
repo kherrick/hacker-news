@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-16, 19:29:17",
+      "https://news.ycombinator.com/item?id=50521870"
+    ],
+    [
+      "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+      "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 19:13:13",
       "https://news.ycombinator.com/item?id=50521644"
     ],
@@ -27,16 +37,6 @@
     [
       "Software is breaking down at a systemic level",
       "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/"
-    ]
-  ],
-  [
-    [
-      "2026-11-16, 18:16:18",
-      "https://news.ycombinator.com/item?id=50520853"
-    ],
-    [
-      "Some OLED MacBook Pro Owners Report Eye Strain and Dizziness",
-      "https://www.macrumors.com/2026/11/16/oled-macbook-pro-owners-report-eye-strain/"
     ]
   ],
   [
@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2026-11-16, 17:25:35",
+      "https://news.ycombinator.com/item?id=50520148"
+    ],
+    [
+      "How Billions in Safe Insurance Money Is Being Bet on A.I. Debt",
+      "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 16:53:39",
       "https://news.ycombinator.com/item?id=50519744"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-11-16, 15:24:09",
-      "https://news.ycombinator.com/item?id=50518567"
-    ],
-    [
-      "Nvidia was in trouble before the Jensen Huang mess",
-      "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/"
-    ]
-  ],
-  [
-    [
       "2026-11-16, 14:38:54",
       "https://news.ycombinator.com/item?id=50518068"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2026-11-16, 11:03:16",
-      "https://news.ycombinator.com/item?id=50516245"
-    ],
-    [
-      "Coffeehouses and the Rise of Science [pdf]",
-      "https://www.monirbounadi.com/Bounadi_JMP.pdf"
-    ]
-  ],
-  [
-    [
       "2026-11-16, 08:00:13",
       "https://news.ycombinator.com/item?id=50515182"
     ],
     [
       "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
       "https://github.com/ages2001/WINUDF"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 07:55:10",
+      "https://news.ycombinator.com/item?id=50515151"
+    ],
+    [
+      "Squircles",
+      "https://linebender.org/wiki/curves/squircle/"
     ]
   ],
   [
