@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 18:17:17](https://news.ycombinator.com/item?id=50520866) - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
+* [2026-11-16, 17:52:23](https://news.ycombinator.com/item?id=50520518) - [Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself](https://copyrightlately.com/michael-mann-heat-copyright-termination/)
+* [2026-11-16, 17:51:18](https://news.ycombinator.com/item?id=50520506) - [Show HN: Claimseed, synthetic Medicare docs with planted errors and answer keys](https://github.com/claimseed/claimseed)
+* [2026-11-16, 17:34:41](https://news.ycombinator.com/item?id=50520270) - [Aristotle Expands into Rust](https://www.harmonic.fun/news/aristotle-rust-verification/)
 * [2026-11-16, 17:27:46](https://news.ycombinator.com/item?id=50520182) - [Sheep grazing in solar fields offers farmers economic, ecological gains](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
 * [2026-11-16, 17:20:28](https://news.ycombinator.com/item?id=50520076) - [Ask HN: If AI tools are so good, why isn't your bug backlog empty?](https://news.ycombinator.com/item?id=50520076)
 * [2026-11-16, 17:08:20](https://news.ycombinator.com/item?id=50519924) - [US now \"comfortable\" with children dying of measles as death toll hits 10](https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/)
