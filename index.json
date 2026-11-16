@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-16, 11:03:16",
+      "https://news.ycombinator.com/item?id=50516245"
+    ],
+    [
+      "Coffeehouses and the Rise of Science [pdf]",
+      "https://www.monirbounadi.com/Bounadi_JMP.pdf"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 07:38:19",
       "https://news.ycombinator.com/item?id=50515058"
     ],
@@ -17,16 +27,6 @@
     [
       "How to make almost anything",
       "https://pub.cba.mit.edu/863.26/site/"
-    ]
-  ],
-  [
-    [
-      "2026-11-16, 05:05:54",
-      "https://news.ycombinator.com/item?id=50514257"
-    ],
-    [
-      "Did the Apollo Guidance Computer use 60% of the ICs in 1963?",
-      "https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2026-11-15, 23:54:39",
-      "https://news.ycombinator.com/item?id=50512218"
-    ],
-    [
-      "Parcel: A desktop mail client for Linux, built with Zig",
-      "https://tangled.org/rockorager.dev/parcel"
-    ]
-  ],
-  [
-    [
       "2026-11-15, 23:00:11",
       "https://news.ycombinator.com/item?id=50511806"
     ],
@@ -157,6 +147,16 @@
     [
       "Protomaps: Self-hosting map tiles has gotten cheap and easy",
       "https://bruceroettgers.eu/blog/protomaps/"
+    ]
+  ],
+  [
+    [
+      "2026-11-15, 18:36:40",
+      "https://news.ycombinator.com/item?id=50509416"
+    ],
+    [
+      "Eclipse Mosquitto – An open source MQTT broker",
+      "https://github.com/eclipse-mosquitto/mosquitto"
     ]
   ],
   [
