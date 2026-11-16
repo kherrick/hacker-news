@@ -43,6 +43,7 @@
 * [2026-11-13, 17:55:23](https://news.ycombinator.com/item?id=50487184) - [OpenAI disbands its robotics team as its general models start running robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/)
 * [2026-11-13, 17:37:32](https://news.ycombinator.com/item?id=50486880) - [One Man's Quest to Create the Perfect Whiskey Glass](https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html)
 * [2026-11-13, 17:30:10](https://news.ycombinator.com/item?id=50486748) - [AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths)
+* [2026-11-13, 17:29:49](https://news.ycombinator.com/item?id=50486745) - [Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch)
 * [2026-11-13, 17:13:01](https://news.ycombinator.com/item?id=50486521) - [Concurrent Shell Command Queues](https://emmer.dev/blog/concurrent-shell-command-queues/)
 * [2026-11-13, 17:10:33](https://news.ycombinator.com/item?id=50486489) - [Arm boss Rene Haas approached in Nvidia CEO search](https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926)
 * [2026-11-13, 17:09:58](https://news.ycombinator.com/item?id=50486482) - [\"LibreOffice works 365 days a year. Just saying.\"](https://twitter.com/LibreOffice/status/2121205272479998268)
