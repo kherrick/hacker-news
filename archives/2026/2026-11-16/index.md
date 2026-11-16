@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
 * [2026-11-16, 11:03:16](https://news.ycombinator.com/item?id=50516245) - [Coffeehouses and the Rise of Science [pdf]](https://www.monirbounadi.com/Bounadi_JMP.pdf)
+* [2026-11-16, 09:19:38](https://news.ycombinator.com/item?id=50515616) - [It's always DNS, so why are we running our own?](https://s2.dev/blog/dns-server)
+* [2026-11-16, 08:00:13](https://news.ycombinator.com/item?id=50515182) - [Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME](https://github.com/ages2001/WINUDF)
 * [2026-11-16, 07:38:19](https://news.ycombinator.com/item?id=50515058) - [“…and the proof is checked in Lean”](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
 * [2026-11-16, 05:50:37](https://news.ycombinator.com/item?id=50514470) - [How to Make Almost Anything](https://pub.cba.mit.edu/863.26/site/)
 * [2026-11-16, 05:05:54](https://news.ycombinator.com/item?id=50514257) - [Did the Apollo Guidance Computer use 60% of the ICs in 1963?](https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963)
