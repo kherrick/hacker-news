@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-16](index.md)
 
+* [2026-11-16, 11:39:31](https://news.ycombinator.com/item?id=50516473) - [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
 * [2026-11-16, 11:14:27](https://news.ycombinator.com/item?id=50516301) - [I posted in \"Who wants to be hired?\" and a recruiter sent me a RAT and a stealer](https://getjump.me/posts/03-huntrole-fake-take-home/)
 * [2026-11-16, 11:03:16](https://news.ycombinator.com/item?id=50516245) - [Coffeehouses and the Rise of Science [pdf]](https://www.monirbounadi.com/Bounadi_JMP.pdf)
 * [2026-11-16, 11:00:02](https://news.ycombinator.com/item?id=50516232) - [Doing Show HN generates a ton of automated email pitches](https://petervandijck.com/post/pbrgs-ev0bc)
