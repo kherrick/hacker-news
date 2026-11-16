@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-16, 17:27:46](https://news.ycombinator.com/item?id=50520182) - [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
-* [2026-11-16, 17:08:20](https://news.ycombinator.com/item?id=50519924) - [US now \"comfortable\" with children dying of measles as death toll hits 10](https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/)
 * [2026-11-16, 16:53:39](https://news.ycombinator.com/item?id=50519744) - [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
-* [2026-11-16, 15:59:48](https://news.ycombinator.com/item?id=50519043) - [Generative AI Usage in the Games Industry](https://www.gameworkers.co.uk/ai-manifesto/)
 * [2026-11-16, 15:33:34](https://news.ycombinator.com/item?id=50518690) - [Psychic: Like fzf but learns from your actions](https://klauria.tech/psychic/)
 * [2026-11-16, 15:24:09](https://news.ycombinator.com/item?id=50518567) - [Nvidia was in trouble before the Jensen Huang mess](https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/)
 * [2026-11-16, 14:38:54](https://news.ycombinator.com/item?id=50518068) - [A 512 KiB binary message teaching chess without a shared language](https://artemlegotin.com/golden-board/)
@@ -23,6 +21,8 @@
 * [2026-11-15, 22:11:43](https://news.ycombinator.com/item?id=50511395) - [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
 * [2026-11-15, 19:42:13](https://news.ycombinator.com/item?id=50509972) - [Handwriting, as a Font](https://ductus.sorenblank.com)
 * [2026-11-15, 19:26:22](https://news.ycombinator.com/item?id=50509837) - [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)
+* [2026-11-15, 18:23:21](https://news.ycombinator.com/item?id=50509308) - [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
+* [2026-11-15, 17:53:31](https://news.ycombinator.com/item?id=50509023) - [Crows make decisions faster than we can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html)
 * [2026-11-14, 15:22:30](https://news.ycombinator.com/item?id=50497746) - [Smallest possible nopert polyhedra: the Septopert](https://github.com/tom7/noperts/blob/main/septopert.md)
 * [2026-11-14, 08:58:31](https://news.ycombinator.com/item?id=50495325) - [Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland](https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala)
 * [2026-11-13, 21:36:59](https://news.ycombinator.com/item?id=50490159) - [OOS – an open operating system for the Rigol Scopes](https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/)
