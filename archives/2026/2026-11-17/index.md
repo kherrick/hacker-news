@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 20:47:36](https://news.ycombinator.com/item?id=50537962) - [Human.md](https://www.human-md.ai/)
+* [2026-11-17, 20:44:30](https://news.ycombinator.com/item?id=50537924) - [Stripe Press](https://stripe.press/)
 * [2026-11-17, 20:11:44](https://news.ycombinator.com/item?id=50537470) - [Israel Is Attacking Wikipedia](https://techforpalestine.org/wikipedia-report-2026)
 * [2026-11-17, 20:10:03](https://news.ycombinator.com/item?id=50537441) - [Israel vs. Wikipedia](https://techforpalestine.org/wikipedia-report)
 * [2026-11-17, 20:01:35](https://news.ycombinator.com/item?id=50537290) - [Web Browser Engineering](https://browser.engineering/)
@@ -38,6 +40,7 @@
 * [2026-11-17, 15:03:25](https://news.ycombinator.com/item?id=50532322) - [A US Federal Women's Prison Became a \"Rape Club\"](https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop)
 * [2026-11-17, 15:02:53](https://news.ycombinator.com/item?id=50532315) - [Pentagon fails 9th financial audit in a row](https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/)
 * [2026-11-17, 14:53:43](https://news.ycombinator.com/item?id=50532191) - [In 27,280 coding agent runs, 64% of inference spend went to runs that failed](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
+* [2026-11-17, 14:48:03](https://news.ycombinator.com/item?id=50532118) - [Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)](https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938)
 * [2026-11-17, 14:45:36](https://news.ycombinator.com/item?id=50532086) - [We don't need more apps. We need better open source](https://jordankrueger.com/blog/better-open-source-not-more-apps/)
 * [2026-11-17, 14:20:32](https://news.ycombinator.com/item?id=50531761) - [Loopholes Are for Assholes](https://actsofvolition.com/2026/11/loopholes-are-for-assholes/)
 * [2026-11-17, 14:19:59](https://news.ycombinator.com/item?id=50531751) - [Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns](https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns)
