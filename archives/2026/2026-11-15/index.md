@@ -9,6 +9,7 @@
 * [2026-11-15, 23:54:39](https://news.ycombinator.com/item?id=50512218) - [Parcel: A desktop mail client for Linux, built with Zig](https://tangled.org/rockorager.dev/parcel)
 * [2026-11-15, 23:24:53](https://news.ycombinator.com/item?id=50511982) - [Jensen Huang might return to Nvidia as CEO](https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/)
 * [2026-11-15, 23:12:38](https://news.ycombinator.com/item?id=50511899) - [Chemical spills into drainage ditch at SpaceXAI in Southaven](https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/)
+* [2026-11-15, 23:08:30](https://news.ycombinator.com/item?id=50511874) - [VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012](https://visualbasic.world/)
 * [2026-11-15, 23:00:11](https://news.ycombinator.com/item?id=50511806) - [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
 * [2026-11-15, 22:48:52](https://news.ycombinator.com/item?id=50511718) - [Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game](https://lastcomplication.com/)
 * [2026-11-15, 22:26:33](https://news.ycombinator.com/item?id=50511505) - [The Hofmann Wobble: Wikipedia and the problem of historical memory](https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/)
