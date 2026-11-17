@@ -71,6 +71,7 @@
 * [2026-11-16, 07:57:40](https://news.ycombinator.com/item?id=50515169) - [How Should Armies Fight?](https://worksinprogress.co/issue/the-future-of-war/)
 * [2026-11-16, 07:55:10](https://news.ycombinator.com/item?id=50515151) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-16, 07:38:19](https://news.ycombinator.com/item?id=50515058) - [“…and the proof is checked in Lean”](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
+* [2026-11-16, 06:11:35](https://news.ycombinator.com/item?id=50514572) - [Large Angle Period of the Pendulum](https://jslandy.com/pendulum/)
 * [2026-11-16, 05:50:37](https://news.ycombinator.com/item?id=50514470) - [How to Make Almost Anything](https://pub.cba.mit.edu/863.26/site/)
 * [2026-11-16, 05:10:42](https://news.ycombinator.com/item?id=50514294) - [Import PST file to Office 365](https://www.mailsdaddy.com/pst-to-office-365-migration-tool/)
 * [2026-11-16, 05:05:54](https://news.ycombinator.com/item?id=50514257) - [Did the Apollo Guidance Computer use 60% of the ICs in 1963?](https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963)
