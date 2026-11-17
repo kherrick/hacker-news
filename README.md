@@ -26,10 +26,10 @@
 * [2026-11-16, 16:23:01](https://news.ycombinator.com/item?id=50519345) - [Jolt – Clojure that speaks C](https://jolt-lang.net/)
 * [2026-11-16, 13:39:07](https://news.ycombinator.com/item?id=50517488) - [Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/)
 * [2026-11-16, 13:18:22](https://news.ycombinator.com/item?id=50517321) - [Microsoft blames monster email outage on software defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026)
+* [2026-11-16, 12:06:46](https://news.ycombinator.com/item?id=50516689) - [Do Repeat Yourself](https://arcentry.com/blog/do-repeat-yourself/)
 * [2026-11-16, 11:39:31](https://news.ycombinator.com/item?id=50516473) - [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
 * [2026-11-16, 07:55:10](https://news.ycombinator.com/item?id=50515151) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-14, 15:07:48](https://news.ycombinator.com/item?id=50497621) - [Formal Verification Is Not Verifiable](https://alperenkeles.com/posts/formal-verification-is-not-verifiable/)
-* [2026-11-13, 15:53:09](https://news.ycombinator.com/item?id=50485327) - [The origins of the placenta](https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta)
 
 ## [Archives](archives/index.md)
 
