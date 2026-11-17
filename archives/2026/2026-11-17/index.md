@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 17:49:01](https://news.ycombinator.com/item?id=50535268) - [iCloud, App Store, and other Apple services hit by ongoing outage](https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/)
+* [2026-11-17, 17:47:14](https://news.ycombinator.com/item?id=50535238) - [Apple Services Down](https://downdetector.com/status/apple-support/)
 * [2026-11-17, 17:46:43](https://news.ycombinator.com/item?id=50535230) - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+* [2026-11-17, 17:45:39](https://news.ycombinator.com/item?id=50535208) - [Who Builds the Machines That Build the Machines?](https://read.corematter.com/p/section-232-us-machine-tools)
 * [2026-11-17, 17:13:57](https://news.ycombinator.com/item?id=50534664) - [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)
+* [2026-11-17, 17:12:06](https://news.ycombinator.com/item?id=50534631) - [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
 * [2026-11-17, 17:00:24](https://news.ycombinator.com/item?id=50534429) - [YC wrote software to run our internship expo – and an 8-bit SIM to show it off](https://news.ycombinator.com/item?id=50534429)
 * [2026-11-17, 16:40:38](https://news.ycombinator.com/item?id=50534044) - [Jensen Huang says he’s open to returning in first statement since resignation](https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html)
 * [2026-11-17, 16:23:55](https://news.ycombinator.com/item?id=50533723) - [Jensen Huang Posts on X](https://twitter.com/JensenHuang/status/2122726005219737649)
