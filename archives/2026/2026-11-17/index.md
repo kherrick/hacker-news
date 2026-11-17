@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 18:26:05](https://news.ycombinator.com/item?id=50535898) - [Advancing computer-use agents for healthcare teams](https://openai.com/index/advancing-computer-use-for-healthcare-teams/)
 * [2026-11-17, 18:25:13](https://news.ycombinator.com/item?id=50535885) - [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
 * [2026-11-17, 17:49:01](https://news.ycombinator.com/item?id=50535268) - [iCloud, App Store, and other Apple services hit by ongoing outage](https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/)
 * [2026-11-17, 17:47:14](https://news.ycombinator.com/item?id=50535238) - [Apple Services Down](https://downdetector.com/status/apple-support/)
