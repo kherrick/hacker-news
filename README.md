@@ -3,7 +3,6 @@
 * [2026-11-16, 23:25:41](https://news.ycombinator.com/item?id=50525052) - [Show HN: Sutra-OS – A self-hosted ontology platform](https://github.com/0nelight/sutra-os)
 * [2026-11-16, 23:00:34](https://news.ycombinator.com/item?id=50524767) - [Optimizely Compromised, Served Malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
 * [2026-11-16, 22:58:20](https://news.ycombinator.com/item?id=50524736) - [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
-* [2026-11-16, 22:57:49](https://news.ycombinator.com/item?id=50524728) - [US will say \"no\" to global ban on killer robots](https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369)
 * [2026-11-16, 22:19:23](https://news.ycombinator.com/item?id=50524225) - [How to Break into Security, Ptacek Edition (2012)](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
 * [2026-11-16, 22:14:38](https://news.ycombinator.com/item?id=50524165) - [United Airlines experiencing a widespread system outage, airline says](https://www.cnn.com/2026/11/16/us/united-airlines-outage)
 * [2026-11-16, 21:47:19](https://news.ycombinator.com/item?id=50523784) - [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
@@ -30,6 +29,7 @@
 * [2026-11-16, 11:39:31](https://news.ycombinator.com/item?id=50516473) - [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
 * [2026-11-16, 07:55:10](https://news.ycombinator.com/item?id=50515151) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-14, 15:07:48](https://news.ycombinator.com/item?id=50497621) - [Formal Verification Is Not Verifiable](https://alperenkeles.com/posts/formal-verification-is-not-verifiable/)
+* [2026-11-13, 15:53:09](https://news.ycombinator.com/item?id=50485327) - [The origins of the placenta](https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta)
 
 ## [Archives](archives/index.md)
 
