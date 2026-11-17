@@ -88,6 +88,7 @@
 * [2026-11-16, 01:31:30](https://news.ycombinator.com/item?id=50512950) - [\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs](https://www.hntrends.com/2026/november.html)
 * [2026-11-16, 01:28:10](https://news.ycombinator.com/item?id=50512933) - [Agentic AI Designs an Analog Synthesizer](https://cpldcpu.github.io/2026/11/14/touchsynth/)
 * [2026-11-16, 01:14:35](https://news.ycombinator.com/item?id=50512824) - [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
+* [2026-11-16, 01:05:22](https://news.ycombinator.com/item?id=50512779) - [Nimony: A New Compiler for Nim](https://nimony.org/)
 * [2026-11-16, 00:38:12](https://news.ycombinator.com/item?id=50512576) - [The Fossils That Haunted Lovecraft](https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/)
 * [2026-11-16, 00:21:54](https://news.ycombinator.com/item?id=50512441) - [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
 * [2026-11-16, 00:03:12](https://news.ycombinator.com/item?id=50512296) - [Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones](https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone)
