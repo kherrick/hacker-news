@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-17, 20:10:03](https://news.ycombinator.com/item?id=50537441) - [Israel vs. Wikipedia](https://techforpalestine.org/wikipedia-report)
 * [2026-11-17, 20:01:35](https://news.ycombinator.com/item?id=50537290) - [Web Browser Engineering](https://browser.engineering/)
 * [2026-11-17, 19:50:40](https://news.ycombinator.com/item?id=50537156) - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
 * [2026-11-17, 19:25:27](https://news.ycombinator.com/item?id=50536813) - [350 years ago, this man discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
@@ -10,7 +9,6 @@
 * [2026-11-17, 18:31:25](https://news.ycombinator.com/item?id=50535992) - [Phrack 73 Released](https://phrack.org/issues/73/introduction_md)
 * [2026-11-17, 18:26:05](https://news.ycombinator.com/item?id=50535898) - [Advancing computer-use agents for healthcare teams](https://openai.com/index/advancing-computer-use-for-healthcare-teams/)
 * [2026-11-17, 18:25:13](https://news.ycombinator.com/item?id=50535885) - [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
-* [2026-11-17, 17:49:01](https://news.ycombinator.com/item?id=50535268) - [iCloud, App Store, and other Apple services hit by ongoing outage](https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/)
 * [2026-11-17, 17:47:14](https://news.ycombinator.com/item?id=50535238) - [Apple Services Down](https://developer.apple.com/system-status/)
 * [2026-11-17, 17:46:43](https://news.ycombinator.com/item?id=50535230) - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
 * [2026-11-17, 17:45:39](https://news.ycombinator.com/item?id=50535208) - [Who Builds the Machines That Build the Machines?](https://read.corematter.com/p/section-232-us-machine-tools)
@@ -18,6 +16,7 @@
 * [2026-11-17, 17:00:24](https://news.ycombinator.com/item?id=50534429) - [YC wrote software to run our internship expo – and an 8-bit SIM to show it off](https://news.ycombinator.com/item?id=50534429)
 * [2026-11-17, 16:01:04](https://news.ycombinator.com/item?id=50533270) - [Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt)
 * [2026-11-17, 15:50:48](https://news.ycombinator.com/item?id=50533089) - [NSA Internal Network Down](https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/)
+* [2026-11-17, 15:38:28](https://news.ycombinator.com/item?id=50532849) - [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
 * [2026-11-17, 15:07:09](https://news.ycombinator.com/item?id=50532385) - [Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)
 * [2026-11-17, 14:53:43](https://news.ycombinator.com/item?id=50532191) - [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
 * [2026-11-17, 11:45:51](https://news.ycombinator.com/item?id=50530163) - [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
@@ -28,6 +27,7 @@
 * [2026-11-16, 13:25:17](https://news.ycombinator.com/item?id=50517375) - [Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs](https://arxiv.org/abs/2611.18126)
 * [2026-11-16, 08:23:28](https://news.ycombinator.com/item?id=50515291) - [Elephant-Goldfish Model](https://egm.dev/)
 * [2026-11-15, 23:08:30](https://news.ycombinator.com/item?id=50511874) - [VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012](https://visualbasic.world/)
+* [2026-11-14, 18:35:46](https://news.ycombinator.com/item?id=50499520) - [Fixing a WebKit bug to see if promises are made of train tracks](https://alistair.sh/thenables)
 * [2026-11-14, 15:38:50](https://news.ycombinator.com/item?id=50497872) - [Mouse Party](https://aboard.com/lets-have-a-mouse-party/)
 * [2026-11-12, 17:04:41](https://news.ycombinator.com/item?id=50470523) - [Rows vs. Columns: How different are they, really?](https://spiraldb.com/blog/rows-vs-columns)
 
