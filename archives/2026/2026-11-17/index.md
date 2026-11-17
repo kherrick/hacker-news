@@ -7,6 +7,7 @@
 * [2026-11-17, 22:17:18](https://news.ycombinator.com/item?id=50539039) - [Latent Lattice Language Models](https://shivamduggal4.github.io/latent-lattice-language-models/)
 * [2026-11-17, 22:13:34](https://news.ycombinator.com/item?id=50538994) - [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
 * [2026-11-17, 21:11:28](https://news.ycombinator.com/item?id=50538240) - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
+* [2026-11-17, 21:06:08](https://news.ycombinator.com/item?id=50538184) - [Tencent Hy4 Flash](https://hy.tencent.ai/research/hy4-flash)
 * [2026-11-17, 20:47:36](https://news.ycombinator.com/item?id=50537962) - [Human.md](https://www.human-md.ai/)
 * [2026-11-17, 20:44:30](https://news.ycombinator.com/item?id=50537924) - [Stripe Press](https://stripe.press/)
 * [2026-11-17, 20:11:44](https://news.ycombinator.com/item?id=50537470) - [Israel Is Attacking Wikipedia](https://techforpalestine.org/wikipedia-report-2026)
