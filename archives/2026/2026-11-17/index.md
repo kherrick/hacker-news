@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 10:20:40](https://news.ycombinator.com/item?id=50529612) - [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
 * [2026-11-17, 08:13:38](https://news.ycombinator.com/item?id=50528785) - [Run your FreeBSD services from one console](https://jailops.net/)
 * [2026-11-17, 07:04:46](https://news.ycombinator.com/item?id=50528364) - [40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md](https://verisource.dev/benchmarks/ai-search-readiness-2026)
 * [2026-11-17, 04:08:47](https://news.ycombinator.com/item?id=50527311) - [Unkernel: Linux kernel in WASM](https://unkernel.dev)
