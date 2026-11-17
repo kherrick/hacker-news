@@ -3,6 +3,7 @@
 * [2026-11-17, 02:17:04](https://news.ycombinator.com/item?id=50526560) - [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
 * [2026-11-17, 02:13:41](https://news.ycombinator.com/item?id=50526537) - [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
 * [2026-11-17, 01:18:56](https://news.ycombinator.com/item?id=50526152) - [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
+* [2026-11-17, 00:23:21](https://news.ycombinator.com/item?id=50525658) - [Pentagon fails ninth straight audit despite progress in organizing finances](https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/)
 * [2026-11-17, 00:16:24](https://news.ycombinator.com/item?id=50525575) - [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
 * [2026-11-16, 23:25:41](https://news.ycombinator.com/item?id=50525052) - [Show HN: Sutra-OS – A self-hosted ontology platform](https://github.com/0nelight/sutra-os)
 * [2026-11-16, 23:00:34](https://news.ycombinator.com/item?id=50524767) - [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
@@ -28,7 +29,6 @@
 * [2026-11-16, 07:55:10](https://news.ycombinator.com/item?id=50515151) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-16, 06:29:54](https://news.ycombinator.com/item?id=50514680) - [Atomic Nuked Veteran](https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/)
 * [2026-11-15, 21:27:29](https://news.ycombinator.com/item?id=50510969) - [Why did modems have speakers? (2019)](https://retrocomputing.stackexchange.com/questions/11765)
-* [2026-11-15, 15:55:08](https://news.ycombinator.com/item?id=50507870) - [New open source C4 Diagram tool](https://www.youtube.com/watch?v=ZCAHP50Zly8)
 * [2026-11-14, 15:07:48](https://news.ycombinator.com/item?id=50497621) - [Formal Verification Is Not Verifiable](https://alperenkeles.com/posts/formal-verification-is-not-verifiable/)
 
 ## [Archives](archives/index.md)
