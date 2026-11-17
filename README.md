@@ -24,10 +24,10 @@
 * [2026-11-17, 14:48:03](https://news.ycombinator.com/item?id=50532118) - [Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)](https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938)
 * [2026-11-17, 11:45:51](https://news.ycombinator.com/item?id=50530163) - [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
 * [2026-11-17, 10:20:40](https://news.ycombinator.com/item?id=50529612) - [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
-* [2026-11-16, 20:43:36](https://news.ycombinator.com/item?id=50522980) - [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
 * [2026-11-16, 15:02:20](https://news.ycombinator.com/item?id=50518328) - [First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664)
 * [2026-11-16, 08:23:28](https://news.ycombinator.com/item?id=50515291) - [Elephant-Goldfish Model](https://egm.dev/)
 * [2026-11-15, 23:08:30](https://news.ycombinator.com/item?id=50511874) - [VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012](https://visualbasic.world/)
+* [2026-11-15, 22:42:42](https://news.ycombinator.com/item?id=50511657) - [Zoltraak and the Dynamics of Military Innovation](https://jgeekstudies.org/2026/11/15/zoltraak-military-innovation-in-frieren/)
 * [2026-11-14, 18:35:46](https://news.ycombinator.com/item?id=50499520) - [Fixing a WebKit bug to see if promises are made of train tracks](https://alistair.sh/thenables)
 * [2026-11-14, 15:38:50](https://news.ycombinator.com/item?id=50497872) - [Mouse Party](https://aboard.com/lets-have-a-mouse-party/)
 
