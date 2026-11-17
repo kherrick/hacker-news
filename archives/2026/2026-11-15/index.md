@@ -44,6 +44,7 @@
 * [2026-11-15, 13:50:51](https://news.ycombinator.com/item?id=50506940) - [Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS](https://github.com/db-branch/db-branch)
 * [2026-11-15, 13:44:16](https://news.ycombinator.com/item?id=50506894) - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2026-11-15, 13:15:22](https://news.ycombinator.com/item?id=50506719) - [The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
+* [2026-11-15, 13:04:01](https://news.ycombinator.com/item?id=50506648) - [The Token Supercycle](https://solana.com/news/the-token-supercycle-oped)
 * [2026-11-15, 12:51:47](https://news.ycombinator.com/item?id=50506588) - [A NES emulator written in Odin](https://lucypero.com/lucynes.html)
 * [2026-11-15, 12:14:06](https://news.ycombinator.com/item?id=50506376) - [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)
 * [2026-11-15, 11:40:51](https://news.ycombinator.com/item?id=50506180) - [Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business](https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html)
