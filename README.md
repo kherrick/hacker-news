@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-17, 14:00:47](https://news.ycombinator.com/item?id=50531484) - [S. Korea to send nationwide emergency alerts over college entrance exam cheating](https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e)
 * [2026-11-17, 12:21:57](https://news.ycombinator.com/item?id=50530450) - [Regulatory Capture by Anthropic Through METR](https://nitter.cf/kevinnbass/status/2099621874279817638)
 * [2026-11-17, 11:45:51](https://news.ycombinator.com/item?id=50530163) - [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
 * [2026-11-17, 11:39:20](https://news.ycombinator.com/item?id=50530114) - [My Empire of Dirt](https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html)
@@ -13,7 +14,6 @@
 * [2026-11-16, 20:43:36](https://news.ycombinator.com/item?id=50522980) - [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
 * [2026-11-16, 20:29:48](https://news.ycombinator.com/item?id=50522776) - [Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force](https://news.ycombinator.com/item?id=50522776)
 * [2026-11-16, 20:22:18](https://news.ycombinator.com/item?id=50522643) - [Chemistry is Actually Geometry](https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry)
-* [2026-11-16, 18:31:30](https://news.ycombinator.com/item?id=50521045) - [Technical issue at JPMorgan Chase triggers online banking delays for US banks](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
 * [2026-11-16, 17:27:46](https://news.ycombinator.com/item?id=50520182) - [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
 * [2026-11-16, 16:53:39](https://news.ycombinator.com/item?id=50519744) - [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
 * [2026-11-16, 16:23:22](https://news.ycombinator.com/item?id=50519354) - [Frame – 31.5\" color ePaper display](https://trmnl.com/blog/introducing-frame)
