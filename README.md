@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-17, 07:04:46](https://news.ycombinator.com/item?id=50528364) - [40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md](https://verisource.dev/benchmarks/ai-search-readiness-2026)
 * [2026-11-17, 02:17:04](https://news.ycombinator.com/item?id=50526560) - [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
 * [2026-11-17, 02:13:41](https://news.ycombinator.com/item?id=50526537) - [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
 * [2026-11-17, 01:18:56](https://news.ycombinator.com/item?id=50526152) - [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
 * [2026-11-17, 00:16:24](https://news.ycombinator.com/item?id=50525575) - [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
 * [2026-11-16, 23:00:34](https://news.ycombinator.com/item?id=50524767) - [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
-* [2026-11-16, 22:58:20](https://news.ycombinator.com/item?id=50524736) - [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
+* [2026-11-16, 22:58:20](https://news.ycombinator.com/item?id=50524736) - [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
 * [2026-11-16, 22:19:23](https://news.ycombinator.com/item?id=50524225) - [How to Break into Security, Ptacek Edition (2012)](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
 * [2026-11-16, 21:47:19](https://news.ycombinator.com/item?id=50523784) - [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
 * [2026-11-16, 21:32:17](https://news.ycombinator.com/item?id=50523601) - [BugMeNot has closed](https://www.bugmenot.com/)
@@ -27,7 +28,6 @@
 * [2026-11-16, 01:05:22](https://news.ycombinator.com/item?id=50512779) - [Nimony: A New Compiler for Nim](https://nimony.org/)
 * [2026-11-16, 00:38:12](https://news.ycombinator.com/item?id=50512576) - [The Fossils That Haunted Lovecraft](https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/)
 * [2026-11-15, 21:27:29](https://news.ycombinator.com/item?id=50510969) - [Why did modems have speakers? (2019)](https://retrocomputing.stackexchange.com/questions/11765)
-* [2026-11-15, 13:04:01](https://news.ycombinator.com/item?id=50506648) - [The Token Supercycle](https://solana.com/news/the-token-supercycle-oped)
 * [2026-11-14, 15:07:48](https://news.ycombinator.com/item?id=50497621) - [Formal Verification Is Not Verifiable](https://alperenkeles.com/posts/formal-verification-is-not-verifiable/)
 * [2026-11-14, 13:17:10](https://news.ycombinator.com/item?id=50496787) - [Show HN: Zigzag, a native Mac browser for people leaving Arc](https://github.com/ZigaoWang/zigzag)
 
