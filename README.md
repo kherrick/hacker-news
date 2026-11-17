@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-17, 11:45:51](https://news.ycombinator.com/item?id=50530163) - [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
+* [2026-11-17, 11:39:20](https://news.ycombinator.com/item?id=50530114) - [My Empire of Dirt](https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html)
 * [2026-11-17, 10:20:40](https://news.ycombinator.com/item?id=50529612) - [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
 * [2026-11-17, 02:17:04](https://news.ycombinator.com/item?id=50526560) - [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
 * [2026-11-17, 00:16:24](https://news.ycombinator.com/item?id=50525575) - [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
@@ -20,7 +21,6 @@
 * [2026-11-16, 13:51:38](https://news.ycombinator.com/item?id=50517602) - [What is w2rt6byl5nf1opmc-a.com?](https://jack.cab/blog/siterate)
 * [2026-11-16, 13:18:22](https://news.ycombinator.com/item?id=50517321) - [Microsoft blames monster email outage on software defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026)
 * [2026-11-16, 12:06:46](https://news.ycombinator.com/item?id=50516689) - [Do Repeat Yourself](https://arcentry.com/blog/do-repeat-yourself/)
-* [2026-11-16, 07:55:10](https://news.ycombinator.com/item?id=50515151) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-16, 07:33:51](https://news.ycombinator.com/item?id=50515035) - [Test/verification technique effectiveness with Astra](https://danluu.com/astra-testing/)
 * [2026-11-16, 04:37:03](https://news.ycombinator.com/item?id=50514093) - [Stop Filming in Log?](https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/)
 * [2026-11-16, 01:05:22](https://news.ycombinator.com/item?id=50512779) - [Nimony: A New Compiler for Nim](https://nimony.org/)
