@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-17, 21:11:28](https://news.ycombinator.com/item?id=50538240) - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
+* [2026-11-17, 20:47:36](https://news.ycombinator.com/item?id=50537962) - [Human.md](https://www.human-md.ai/)
 * [2026-11-17, 20:01:35](https://news.ycombinator.com/item?id=50537290) - [Web Browser Engineering (2021)](https://browser.engineering/)
 * [2026-11-17, 19:50:40](https://news.ycombinator.com/item?id=50537156) - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
 * [2026-11-17, 19:46:57](https://news.ycombinator.com/item?id=50537120) - [Effects of a Nuclear Detonation in Low Earth Orbit](https://arxiv.org/abs/2611.09827)
@@ -26,7 +27,6 @@
 * [2026-11-17, 10:20:40](https://news.ycombinator.com/item?id=50529612) - [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
 * [2026-11-16, 15:02:20](https://news.ycombinator.com/item?id=50518328) - [First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664)
 * [2026-11-16, 08:23:28](https://news.ycombinator.com/item?id=50515291) - [Elephant-Goldfish Model](https://egm.dev/)
-* [2026-11-15, 23:08:30](https://news.ycombinator.com/item?id=50511874) - [VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012](https://visualbasic.world/)
 * [2026-11-15, 22:42:42](https://news.ycombinator.com/item?id=50511657) - [Zoltraak and the Dynamics of Military Innovation](https://jgeekstudies.org/2026/11/15/zoltraak-military-innovation-in-frieren/)
 * [2026-11-14, 18:35:46](https://news.ycombinator.com/item?id=50499520) - [Fixing a WebKit bug to see if promises are made of train tracks](https://alistair.sh/thenables)
 * [2026-11-14, 15:38:50](https://news.ycombinator.com/item?id=50497872) - [Mouse Party](https://aboard.com/lets-have-a-mouse-party/)
