@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 19:25:27](https://news.ycombinator.com/item?id=50536813) - [350 years ago, this man discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
 * [2026-11-17, 19:01:43](https://news.ycombinator.com/item?id=50536468) - [Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos](https://starsling.dev)
 * [2026-11-17, 18:56:17](https://news.ycombinator.com/item?id=50536387) - [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold/)
+* [2026-11-17, 18:34:10](https://news.ycombinator.com/item?id=50536031) - [Purism Launches Librem 5 v2, a RISC-V Phone to Empower People](https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/)
 * [2026-11-17, 18:31:25](https://news.ycombinator.com/item?id=50535992) - [Phrack 73 Released](https://phrack.org/issues/73/introduction_md)
 * [2026-11-17, 18:26:05](https://news.ycombinator.com/item?id=50535898) - [Advancing computer-use agents for healthcare teams](https://openai.com/index/advancing-computer-use-for-healthcare-teams/)
 * [2026-11-17, 18:25:13](https://news.ycombinator.com/item?id=50535885) - [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
