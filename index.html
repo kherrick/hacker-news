@@ -142,11 +142,11 @@
             <h4>
               <span>2026-11-17 @ 17:13:57</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50534664"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -206,13 +206,121 @@
             <h4>
               <span>2026-11-17 @ 16:05:42</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50533366"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="50533270">
+          <h3>
+            <a class="item" href="https://github.com/RunanywhereAI/trnrt"
+              >Show HN: TrnRT – An open-source LLM inference engine for AWS
+              Trainium</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-17 @ 16:01:04</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50533270"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>What it does today:</p>
+              <p>
+                - Serves 2 instances of GLM-5.3 flash on a single box, 8 trn2
+                with a cache aware router.
+              </p>
+              <p>
+                - Can process 3.57M TPM (tokens per minute) on SemiAnalysis's
+                AgentX benchmarks.
+              </p>
+              <p>
+                - Runs decode as one NKI kernel per layer half, or for the 11
+                sparse-attention layers fuses both blocks into a single kernel,
+                for faster performance.
+              </p>
+              <p>
+                We started working on Trn2 because we wanted to explore it and
+                see if we can come close to beating it’s performance in terms of
+                cost efficiency compared to H100/H200. A big MoE with 1M context
+                window such as GLM-5.3 flash requires a lot of memory, and
+                memory/tb on a trn2.48xlarge costs less than half compared to 8x
+                h200 on AWS, and hence we wanted to experiment with it and now
+                we’re sharing some early results.
+              </p>
+              <p>
+                But AWS's own stack didn't support the model: vLLM Neuron's
+                latest release did not register any GLM model, and NxDI, AWS's
+                own distributed inference framework, is no longer under active
+                development. We also saw the drop of SGLang Neuron
+                implementation yesterday, but there is no good support for Trn2,
+                which is the only chip available for public use right now.
+              </p>
+              <p>
+                We ran semiAnalysis's AgentX benchmarks, which replays real
+                coding agent sessions:
+              </p>
+              <p>
+                - 1 box served 28.9 RPM(requests per minute) with 32 agents at
+                batch 12 (also known as concurrency)
+              </p>
+              <p>
+                -The P50 TTFT with a cached prompt at 16 agents is ~1.24 seconds
+                with a decode of 35.9 tps.
+              </p>
+              <p>
+                Initially, the recurrence in one kda (linear attention) layer
+                was ~2% of the layer's attention time at batch 1, and the rest
+                was projections, transposes and XLA glue between small kernels.
+              </p>
+              <p>
+                So we wrote the megakernel so that it covers the whole layer in
+                2 kernel dispatch, which made decode 25% faster at batch 8.
+              </p>
+              <p>
+                The sparse attention kernel keep a layer’s working weights in
+                SBUF, distributing weighted streaming across the cores and
+                handling the interchip communication within
+              </p>
+              <p>
+                There’s an approximation in the sparse-attention prefill,
+                affecting about 1.2% of block selections.
+              </p>
+              <p>You can refer to the write-up for the profiling results:</p>
+              <p>
+                <a
+                  href="https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels"
+                  >https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-mega...</a
+                >
+              </p>
+              <p>
+                Please give it a try yourself on a trn2.48xlarge and reproduce
+                the AgentX results by following the steps in docs/RESULTS.md.
+                Happy to collaborate and hear any feedback.
+              </p>
+              <p>
+                Deploying high performant dedicated inference at lab like
+                performance and half the price for open models such as the
+                GLM-5.3 family, Kimi K3, Deepseek flash etc. is how we make
+                money. You can talk to us regarding the same at
+                founders@runanywhere.ai.
+              </p>
+              <p>
+                We hope you find this useful. If you are working with Trainium
+                or have experience with NKI kernels, we'd love to get your
+                honest feedback. Feel free to share the models you want support
+                for next, and we welcome any contributions to the repository.
+              </p>
+            </div>
           </section>
         </section>
         <section id="50533089">
@@ -227,11 +335,11 @@
             <h4>
               <span>2026-11-17 @ 15:50:48</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50533089"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -249,11 +357,11 @@
             <h4>
               <span>2026-11-17 @ 15:38:28</span
               ><span class="points-container"
-                >Points: <span class="points">187</span></span
+                >Points: <span class="points">193</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50532849"
                   >Comments</a
-                ><span class="descendants">: 176</span></span
+                ><span class="descendants">: 180</span></span
               >
             </h4>
           </section>
@@ -270,11 +378,11 @@
             <h4>
               <span>2026-11-17 @ 15:33:15</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50532773"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -290,7 +398,7 @@
             <h4>
               <span>2026-11-17 @ 15:07:09</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50532385"
                   >Comments</a
@@ -311,11 +419,11 @@
             <h4>
               <span>2026-11-17 @ 14:53:43</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50532191"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -332,11 +440,11 @@
             <h4>
               <span>2026-11-17 @ 14:45:36</span
               ><span class="points-container"
-                >Points: <span class="points">269</span></span
+                >Points: <span class="points">273</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50532086"
                   >Comments</a
-                ><span class="descendants">: 165</span></span
+                ><span class="descendants">: 171</span></span
               >
             </h4>
           </section>
@@ -354,11 +462,11 @@
             <h4>
               <span>2026-11-17 @ 11:45:51</span
               ><span class="points-container"
-                >Points: <span class="points">806</span></span
+                >Points: <span class="points">815</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50530163"
                   >Comments</a
-                ><span class="descendants">: 421</span></span
+                ><span class="descendants">: 430</span></span
               >
             </h4>
           </section>
@@ -375,7 +483,7 @@
             <h4>
               <span>2026-11-17 @ 10:20:40</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50529612"
                   >Comments</a
@@ -395,7 +503,7 @@
             <h4>
               <span>2026-11-17 @ 02:17:04</span
               ><span class="points-container"
-                >Points: <span class="points">209</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50526560"
                   >Comments</a
@@ -416,11 +524,11 @@
             <h4>
               <span>2026-11-17 @ 00:16:24</span
               ><span class="points-container"
-                >Points: <span class="points">251</span></span
+                >Points: <span class="points">253</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50525575"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -437,11 +545,11 @@
             <h4>
               <span>2026-11-16 @ 23:00:34</span
               ><span class="points-container"
-                >Points: <span class="points">574</span></span
+                >Points: <span class="points">577</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50524767"
                   >Comments</a
-                ><span class="descendants">: 229</span></span
+                ><span class="descendants">: 234</span></span
               >
             </h4>
           </section>
@@ -456,11 +564,11 @@
             <h4>
               <span>2026-11-16 @ 21:32:17</span
               ><span class="points-container"
-                >Points: <span class="points">684</span></span
+                >Points: <span class="points">686</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50523601"
                   >Comments</a
-                ><span class="descendants">: 312</span></span
+                ><span class="descendants">: 314</span></span
               >
             </h4>
           </section>
@@ -478,11 +586,11 @@
             <h4>
               <span>2026-11-16 @ 20:48:08</span
               ><span class="points-container"
-                >Points: <span class="points">231</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50523025"
                   >Comments</a
-                ><span class="descendants">: 202</span></span
+                ><span class="descendants">: 203</span></span
               >
             </h4>
           </section>
@@ -498,11 +606,11 @@
             <h4>
               <span>2026-11-16 @ 20:43:36</span
               ><span class="points-container"
-                >Points: <span class="points">2104</span></span
+                >Points: <span class="points">2112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50522980"
                   >Comments</a
-                ><span class="descendants">: 282</span></span
+                ><span class="descendants">: 283</span></span
               >
             </h4>
           </section>
@@ -528,25 +636,6 @@
             </h4>
           </section>
         </section>
-        <section id="50519744">
-          <h3>
-            <a class="item" href="https://burntsushi.net/jiff/"
-              >Jiff 1.0: A datetime library for Rust</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-16 @ 16:53:39</span
-              ><span class="points-container"
-                >Points: <span class="points">429</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50519744"
-                  >Comments</a
-                ><span class="descendants">: 92</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="50519354">
           <h3>
             <a class="item" href="https://trmnl.com/blog/introducing-frame"
@@ -561,7 +650,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50519354"
                   >Comments</a
-                ><span class="descendants">: 376</span></span
+                ><span class="descendants">: 377</span></span
               >
             </h4>
           </section>
@@ -578,7 +667,7 @@
             <h4>
               <span>2026-11-16 @ 15:02:20</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50518328"
                   >Comments</a
@@ -598,11 +687,11 @@
             <h4>
               <span>2026-11-16 @ 13:25:17</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50517375"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -620,11 +709,11 @@
             <h4>
               <span>2026-11-16 @ 13:18:22</span
               ><span class="points-container"
-                >Points: <span class="points">430</span></span
+                >Points: <span class="points">431</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50517321"
                   >Comments</a
-                ><span class="descendants">: 317</span></span
+                ><span class="descendants">: 319</span></span
               >
             </h4>
           </section>
@@ -657,7 +746,7 @@
             <h4>
               <span>2026-11-16 @ 08:23:28</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50515291"
                   >Comments</a
@@ -676,11 +765,11 @@
             <h4>
               <span>2026-11-16 @ 01:05:22</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50512779"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -696,7 +785,7 @@
             <h4>
               <span>2026-11-15 @ 23:08:30</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50511874"
                   >Comments</a
@@ -717,7 +806,7 @@
             <h4>
               <span>2026-11-15 @ 18:40:57</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50509456"
                   >Comments</a
@@ -726,25 +815,203 @@
             </h4>
           </section>
         </section>
-        <section id="50508845">
+        <section id="50496787">
           <h3>
-            <a
-              class="item"
-              href="https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/"
-              >Japan's Hometown Tax (2018)</a
+            <a class="item" href="https://github.com/ZigaoWang/zigzag"
+              >Show HN: Zigzag, a native Mac browser for people leaving Arc</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-11-15 @ 17:34:22</span
+              <span>2026-11-14 @ 13:17:10</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50508845"
+                ><a href="https://news.ycombinator.com/item?id=50496787"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                I used Arc everyday, and I never had any issues with it. So when
+                The Browser Company announced that they will shut down Arc on
+                Dec 22 I was devastated. I don’t want to switch back to boring
+                tabs along the top. Everything else i’ve tried is either a
+                Chromium fork or an AI integrated browser that I don’t want.
+                Therefore, I’ve been building my own browser for the last three
+                weeks. Its name is Zigzag, a free and open source Mac browser
+                that works just like Arc, written in Swift and based on WebKit.
+                It is lightweight and fast.
+              </p>
+              <p>Zigzag has:</p>
+              <p>
+                - The stuff you missed from Arc (obviously, that’s the point)...
+              </p>
+              <p>
+                - Import from Arc (or any other browser) brings everything (your
+                spaces, pins, history, passwords, cookies, etc)
+              </p>
+              <p>
+                - Chrome extension support! Even though its based on WebKit, you
+                can install them from the Chrome Web Store. Extensions such as
+                1Password, Bitwarden, dark reader, Return Youtube Dislike,
+                Tampermonkey all work)
+              </p>
+              <p>And most importantly:</p>
+              <p>- Privacy: no account, no telemetry, no analytics</p>
+              <p>
+                - Free and open source: no one can shut it down, anyone can
+                contribute and fork their own copy!
+              </p>
+              <p>
+                - It’s tiny and fast! Around 18 MB installed (Arc is over 800
+                MB), no Chromium, no Electron (eww)
+              </p>
+              <p>Some minor features that are nice-to-haves:</p>
+              <p>
+                - Built in ad blocker using uBlock origin’s and Easylist’s
+                filter lists
+              </p>
+              <p>
+                - Cookie popups turned down for you automatically, never
+                accepted
+              </p>
+              <p>- Split view up to four pages, drag pages intuitively</p>
+              <p>- Install any website as apps (still polishing it)</p>
+              <p>- Developer mode for web devs</p>
+              <p>- Little Arc (called Zigzag Mini)</p>
+              <p>
+                - AI apps can use your browser if you want (MCP, off by
+                default), stop button built in
+              </p>
+              <p>
+                - AppleScript and Shortcuts support, written in the conventional
+                way
+              </p>
+              <p>Why WebKit?</p>
+              <p>
+                - I once tried to fork Helium and build on that. But the source
+                was around 100 GB and builds took 3 to 4 hours on my Mac.
+                Shipping Chromium is nearly impossible for me as a solo dev
+              </p>
+              <p>
+                - Battery and RAM: WebKit is built for Mac by Apple, its
+                generally easier on battery and memory than Chromium
+              </p>
+              <p>
+                - Native: Swift + WebKit = behaves like a real Mac app,
+                explained later (e.g. Zen)
+              </p>
+              <p>
+                - Chrome extensions already works on Zigzag, so the point of
+                using Chromium is mostly gone
+              </p>
+              <p>Why not Zen or Orion?</p>
+              <p>
+                I tried both before building this, because I was looking for
+                alternatives. They are good browsers, just not what I wanted.
+              </p>
+              <p>
+                Zen is based on Firefox. It is basically an Arc replica but it’s
+                a Firefox under the hood, so you get Firefox extensions instead
+                of Chrome extensions, and it doesn’t really feel like a native
+                Mac app, which was kinda backwards. If you love Firefox it’s
+                great, but it didn’t feel like Arc to me.
+              </p>
+              <p>
+                Orion is the closest to what I wanted in terms of speed,
+                lightweightness and nativeness (are these even words?). It is
+                WebKit and runs Chrome extensions. But it is closed sourced, and
+                it is nowhere like Arc. It has vertical tabs but no real spaces,
+                pins or favorites like Arc. It feels like a Safari clone instead
+                of an Arc clone, so I turned it down. I love how it supports
+                Chrome extensions, so that’s why I’ve done the same in Zigzag.
+              </p>
+              <p>So how do Chrome extensions work on WebKit?</p>
+              <p>
+                This is probably the part people ask about the most, so here you
+                go.
+              </p>
+              <p>
+                In macOS 15.4, Apple added web extension support to WebKit
+                itself. Safari only takes extensions that come wrapped in an app
+                from the App store, but the engine underneath can load a normal
+                Chrome extension folder. So when you click “Add to Zigzag” on
+                the Chrome Web Store, Zigzag downloads the extension straight
+                from Google. It checks its signatures, unpacks it, and hands it
+                to WebKit.
+              </p>
+              <p>
+                That’s the easy part, and frankly most WebKit browsers can do
+                that easily. However, WebKit doesn’t have every Chrome API.
+                Stuffy like history, bookmarks, downloads, side panels,
+                notifications and a few others just aren’t there. So Zigzag
+                fills those in itself. When an extension calls one, Zigzag
+                answers it, but only if that extension asked for that
+                permission. 1Password and Bitwarden works, because they talk to
+                their Mac apps the same way they do in Chrome.
+              </p>
+              <p>
+                The hardest one was Tampermonkey. WebKit has no userScripts API
+                at all, so I had to build my own on top of WebKit’s content
+                scripts, with each extension’s scripts kept separate from the
+                extension itself like in Chrome.
+              </p>
+              <p>What doesn’t work yet:</p>
+              <p>
+                - the debugger API (so things that control the browser like
+                Claude for Chrome cant control the pages, but there’s MCP that
+                you can turn on if you want)
+              </p>
+              <p>
+                - Chrome’s own Google sign in for extensions (chrome.identity)
+              </p>
+              <p>
+                - Some old way of blocking requests that some extensions still
+                use (webRequest from manifest V2) (e.g. uBlock origin full
+                doesn’t work, but lite version works)
+              </p>
+              <p>
+                Most popular extensions are fine though. If any extension
+                doesn’t work, leave a comment below or open an issue and I will
+                look into it.
+              </p>
+              <p>How I build it</p>
+              <p>
+                Honest up front: I built Zigzag with the help from Claude Code.
+                But it is not another piece of AI slop app. I decide what it
+                does and how it should feel, and every change goes through my
+                own daily browsing before it ships. It is my daily browser now
+                for three weeks, and I am just like any of you, I don’t want
+                trash apps! Claude writes most of the code, but I am the one
+                reviewing the quality, the functions and the UI/UX decisions.
+                Try it out yourself or open a PR if you can do better!
+              </p>
+              <p>What’s missing</p>
+              <p>
+                It is still a beta. No sync between Macs yet (passwords sync
+                through iCloud keychain though). No boosts or easels. Needs
+                macOS 15.4 or newer.
+              </p>
+              <p>Try it</p>
+              <p>
+                <a href="https://zigzagbrowser.com"
+                  >https://zigzagbrowser.com</a
+                >
+              </p>
+              <p>
+                <a href="https://github.com/ZigaoWang/zigzag"
+                  >https://github.com/ZigaoWang/zigzag</a
+                >
+              </p>
+              <p>
+                If you try it I’d love to know what didn’t went so well (or what
+                did went well!), which extensions you need, and any sites that
+                break. I read every issue on GitHub and every comment below!
+                Thank you for your time!
+              </p>
+            </div>
           </section>
         </section>
         <section id="50470523">
@@ -757,11 +1024,11 @@
             <h4>
               <span>2026-11-12 @ 17:04:41</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50470523"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
