@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-17, 04:08:47](https://news.ycombinator.com/item?id=50527311) - [Unkernel: Linux kernel in WASM](https://unkernel.dev)
+* [2026-11-17, 02:19:50](https://news.ycombinator.com/item?id=50526584) - [Tokendoctor – the same Claude Code for up to 38% less](https://github.com/localixai/tokendoctor)
 * [2026-11-17, 02:17:04](https://news.ycombinator.com/item?id=50526560) - [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
 * [2026-11-17, 01:18:56](https://news.ycombinator.com/item?id=50526152) - [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
-* [2026-11-17, 00:23:21](https://news.ycombinator.com/item?id=50525658) - [Pentagon fails ninth straight audit despite progress in organizing finances](https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/)
 * [2026-11-17, 00:16:24](https://news.ycombinator.com/item?id=50525575) - [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
 * [2026-11-16, 23:25:41](https://news.ycombinator.com/item?id=50525052) - [Show HN: Sutra-OS – A self-hosted ontology platform](https://github.com/0nelight/sutra-os)
 * [2026-11-16, 23:00:34](https://news.ycombinator.com/item?id=50524767) - [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
