@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-11-17, 20:11:44",
+      "https://news.ycombinator.com/item?id=50537470"
+    ],
+    [
+      "Israel Is Attacking Wikipedia",
+      "https://techforpalestine.org/wikipedia-report-2026"
+    ]
+  ],
+  [
+    [
+      "2026-11-17, 20:10:03",
+      "https://news.ycombinator.com/item?id=50537441"
+    ],
+    [
+      "Israel vs. Wikipedia",
+      "https://techforpalestine.org/wikipedia-report"
+    ]
+  ],
+  [
+    [
+      "2026-11-17, 20:01:35",
+      "https://news.ycombinator.com/item?id=50537290"
+    ],
+    [
+      "Web Browser Engineering",
+      "https://browser.engineering/"
+    ]
+  ],
+  [
+    [
       "2026-11-17, 19:50:40",
       "https://news.ycombinator.com/item?id=50537156"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-11-17, 15:33:15",
-      "https://news.ycombinator.com/item?id=50532773"
-    ],
-    [
-      "Antfly learned to stop worrying and love Apache 2.0",
-      "https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2"
-    ]
-  ],
-  [
-    [
       "2026-11-17, 15:07:09",
       "https://news.ycombinator.com/item?id=50532385"
     ],
@@ -217,16 +237,6 @@
     [
       "Optimizely compromised, served malware on Zoom, GitLab",
       "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
-    ]
-  ],
-  [
-    [
-      "2026-11-16, 21:32:17",
-      "https://news.ycombinator.com/item?id=50523601"
-    ],
-    [
-      "BugMeNot has closed",
-      "https://www.bugmenot.com/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Mouse Party",
       "https://aboard.com/lets-have-a-mouse-party/"
-    ]
-  ],
-  [
-    [
-      "2026-11-12, 17:04:41",
-      "https://news.ycombinator.com/item?id=50470523"
-    ],
-    [
-      "Rows vs. Columns: How different are they, really?",
-      "https://spiraldb.com/blog/rows-vs-columns"
     ]
   ]
 ]
