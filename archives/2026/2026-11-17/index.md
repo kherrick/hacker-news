@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 02:23:34](https://news.ycombinator.com/item?id=50526621) - [The most expensive bargaining chip in history](https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history/)
 * [2026-11-17, 02:17:04](https://news.ycombinator.com/item?id=50526560) - [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
 * [2026-11-17, 02:13:41](https://news.ycombinator.com/item?id=50526537) - [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
 * [2026-11-17, 02:12:13](https://news.ycombinator.com/item?id=50526527) - [Show HN: A free interactive course on AI agent governance](https://studio.sinapsdata.com.br)
@@ -14,3 +15,4 @@
 * [2026-11-17, 01:18:56](https://news.ycombinator.com/item?id=50526152) - [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
 * [2026-11-17, 00:23:21](https://news.ycombinator.com/item?id=50525658) - [Pentagon fails ninth straight audit despite progress in organizing finances](https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/)
 * [2026-11-17, 00:21:46](https://news.ycombinator.com/item?id=50525646) - [Doom on the Nikon Z 6II camera](https://arnebaeyens.com/blog/2026/doom-on-nikon-z6ii/)
+* [2026-11-17, 00:16:24](https://news.ycombinator.com/item?id=50525575) - [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
