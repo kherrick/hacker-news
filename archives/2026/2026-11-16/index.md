@@ -70,6 +70,7 @@
 * [2026-11-16, 11:00:02](https://news.ycombinator.com/item?id=50516232) - [Doing Show HN generates a ton of automated email pitches](https://petervandijck.com/post/pbrgs-ev0bc)
 * [2026-11-16, 09:19:38](https://news.ycombinator.com/item?id=50515616) - [It's always DNS, so why are we running our own?](https://s2.dev/blog/dns-server)
 * [2026-11-16, 09:17:37](https://news.ycombinator.com/item?id=50515603) - [Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags](https://github.com/plabayo/venndb)
+* [2026-11-16, 08:23:28](https://news.ycombinator.com/item?id=50515291) - [Elephant-Goldfish Model](https://egm.dev/)
 * [2026-11-16, 08:00:13](https://news.ycombinator.com/item?id=50515182) - [Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME](https://github.com/ages2001/WINUDF)
 * [2026-11-16, 07:57:40](https://news.ycombinator.com/item?id=50515169) - [How Should Armies Fight?](https://worksinprogress.co/issue/the-future-of-war/)
 * [2026-11-16, 07:55:10](https://news.ycombinator.com/item?id=50515151) - [Squircles](https://linebender.org/wiki/curves/squircle/)
