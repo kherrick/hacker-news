@@ -2,6 +2,7 @@
 
 * [2026-11-17, 17:13:57](https://news.ycombinator.com/item?id=50534664) - [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)
 * [2026-11-17, 17:00:24](https://news.ycombinator.com/item?id=50534429) - [YC wrote software to run our internship expo – and an 8-bit SIM to show it off](https://news.ycombinator.com/item?id=50534429)
+* [2026-11-17, 16:23:55](https://news.ycombinator.com/item?id=50533723) - [Jensen Huang Posts on X](https://twitter.com/JensenHuang/status/2122726005219737649)
 * [2026-11-17, 16:05:42](https://news.ycombinator.com/item?id=50533366) - [Charles Schwab website goes down](https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11)
 * [2026-11-17, 16:01:04](https://news.ycombinator.com/item?id=50533270) - [Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt)
 * [2026-11-17, 15:50:48](https://news.ycombinator.com/item?id=50533089) - [NSA Internal Network Down](https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/)
@@ -22,7 +23,6 @@
 * [2026-11-16, 16:23:22](https://news.ycombinator.com/item?id=50519354) - [Frame – 31.5\" color ePaper display](https://trmnl.com/blog/introducing-frame)
 * [2026-11-16, 15:02:20](https://news.ycombinator.com/item?id=50518328) - [First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664)
 * [2026-11-16, 13:25:17](https://news.ycombinator.com/item?id=50517375) - [Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs](https://arxiv.org/abs/2611.18126)
-* [2026-11-16, 13:18:22](https://news.ycombinator.com/item?id=50517321) - [Microsoft blames monster email outage on software defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026)
 * [2026-11-16, 09:17:37](https://news.ycombinator.com/item?id=50515603) - [Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags](https://github.com/plabayo/venndb)
 * [2026-11-16, 08:23:28](https://news.ycombinator.com/item?id=50515291) - [Elephant-Goldfish Model](https://egm.dev/)
 * [2026-11-16, 01:05:22](https://news.ycombinator.com/item?id=50512779) - [Nimony: A New Compiler for Nim](https://nimony.org/)
