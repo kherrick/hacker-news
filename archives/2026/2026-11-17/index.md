@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 23:18:49](https://news.ycombinator.com/item?id=50539610) - [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)
 * [2026-11-17, 22:17:18](https://news.ycombinator.com/item?id=50539039) - [Latent Lattice Language Models](https://shivamduggal4.github.io/latent-lattice-language-models/)
 * [2026-11-17, 22:13:34](https://news.ycombinator.com/item?id=50538994) - [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
 * [2026-11-17, 21:16:12](https://news.ycombinator.com/item?id=50538303) - [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)

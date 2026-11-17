@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-17, 23:18:49](https://news.ycombinator.com/item?id=50539610) - [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)
 * [2026-11-17, 22:17:18](https://news.ycombinator.com/item?id=50539039) - [Latent Lattice Language Models](https://shivamduggal4.github.io/latent-lattice-language-models/)
 * [2026-11-17, 22:13:34](https://news.ycombinator.com/item?id=50538994) - [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
 * [2026-11-17, 21:16:12](https://news.ycombinator.com/item?id=50538303) - [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
@@ -28,7 +29,6 @@
 * [2026-11-17, 11:45:51](https://news.ycombinator.com/item?id=50530163) - [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
 * [2026-11-17, 10:20:40](https://news.ycombinator.com/item?id=50529612) - [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
 * [2026-11-15, 22:42:42](https://news.ycombinator.com/item?id=50511657) - [Zoltraak and the Dynamics of Military Innovation](https://jgeekstudies.org/2026/11/15/zoltraak-military-innovation-in-frieren/)
-* [2026-11-14, 18:35:46](https://news.ycombinator.com/item?id=50499520) - [Fixing a WebKit bug to see if promises are made of train tracks](https://alistair.sh/thenables)
 * [2026-11-14, 15:38:50](https://news.ycombinator.com/item?id=50497872) - [Mouse Party](https://aboard.com/lets-have-a-mouse-party/)
 
 ## [Archives](archives/index.md)
