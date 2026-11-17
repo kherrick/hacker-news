@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-17, 07:04:46](https://news.ycombinator.com/item?id=50528364) - [40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md](https://verisource.dev/benchmarks/ai-search-readiness-2026)
 * [2026-11-17, 02:17:04](https://news.ycombinator.com/item?id=50526560) - [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
 * [2026-11-17, 02:13:41](https://news.ycombinator.com/item?id=50526537) - [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
 * [2026-11-17, 01:18:56](https://news.ycombinator.com/item?id=50526152) - [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
@@ -7,7 +8,6 @@
 * [2026-11-16, 23:00:34](https://news.ycombinator.com/item?id=50524767) - [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
 * [2026-11-16, 22:58:20](https://news.ycombinator.com/item?id=50524736) - [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
 * [2026-11-16, 22:19:23](https://news.ycombinator.com/item?id=50524225) - [How to Break into Security, Ptacek Edition (2012)](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
-* [2026-11-16, 21:47:19](https://news.ycombinator.com/item?id=50523784) - [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
 * [2026-11-16, 21:32:17](https://news.ycombinator.com/item?id=50523601) - [BugMeNot has closed](https://www.bugmenot.com/)
 * [2026-11-16, 21:20:37](https://news.ycombinator.com/item?id=50523459) - [OpenCode Browse](https://opencode.ai/product/browse)
 * [2026-11-16, 20:48:08](https://news.ycombinator.com/item?id=50523025) - [Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)
