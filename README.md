@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-17, 03:18:53](https://news.ycombinator.com/item?id=50526967) - [Show HN: Pulsar – cross-harness agent to agent communication and messaging](https://github.com/yocontra/pulsar)
 * [2026-11-17, 02:19:50](https://news.ycombinator.com/item?id=50526584) - [Tokendoctor – See what your Claude Code use overpays](https://github.com/localixai/tokendoctor)
 * [2026-11-17, 02:17:04](https://news.ycombinator.com/item?id=50526560) - [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
 * [2026-11-17, 02:13:41](https://news.ycombinator.com/item?id=50526537) - [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
@@ -30,6 +29,7 @@
 * [2026-11-16, 00:38:12](https://news.ycombinator.com/item?id=50512576) - [The Fossils That Haunted Lovecraft](https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/)
 * [2026-11-15, 21:27:29](https://news.ycombinator.com/item?id=50510969) - [Why did modems have speakers? (2019)](https://retrocomputing.stackexchange.com/questions/11765)
 * [2026-11-14, 15:07:48](https://news.ycombinator.com/item?id=50497621) - [Formal Verification Is Not Verifiable](https://alperenkeles.com/posts/formal-verification-is-not-verifiable/)
+* [2026-11-14, 13:17:10](https://news.ycombinator.com/item?id=50496787) - [Show HN: Zigzag, a native Mac browser for people leaving Arc](https://github.com/ZigaoWang/zigzag)
 
 ## [Archives](archives/index.md)
 
