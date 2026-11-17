@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-17, 20:11:44](https://news.ycombinator.com/item?id=50537470) - [Israel Is Attacking Wikipedia](https://techforpalestine.org/wikipedia-report-2026)
 * [2026-11-17, 20:10:03](https://news.ycombinator.com/item?id=50537441) - [Israel vs. Wikipedia](https://techforpalestine.org/wikipedia-report)
 * [2026-11-17, 20:01:35](https://news.ycombinator.com/item?id=50537290) - [Web Browser Engineering](https://browser.engineering/)
 * [2026-11-17, 19:50:40](https://news.ycombinator.com/item?id=50537156) - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
@@ -30,6 +29,7 @@
 * [2026-11-16, 08:23:28](https://news.ycombinator.com/item?id=50515291) - [Elephant-Goldfish Model](https://egm.dev/)
 * [2026-11-15, 23:08:30](https://news.ycombinator.com/item?id=50511874) - [VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012](https://visualbasic.world/)
 * [2026-11-14, 15:38:50](https://news.ycombinator.com/item?id=50497872) - [Mouse Party](https://aboard.com/lets-have-a-mouse-party/)
+* [2026-11-12, 17:04:41](https://news.ycombinator.com/item?id=50470523) - [Rows vs. Columns: How different are they, really?](https://spiraldb.com/blog/rows-vs-columns)
 
 ## [Archives](archives/index.md)
 
