@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-17, 20:01:35](https://news.ycombinator.com/item?id=50537290) - [Web Browser Engineering](https://browser.engineering/)
+* [2026-11-17, 20:01:35](https://news.ycombinator.com/item?id=50537290) - [Web Browser Engineering (2021)](https://browser.engineering/)
 * [2026-11-17, 19:50:40](https://news.ycombinator.com/item?id=50537156) - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
 * [2026-11-17, 19:46:57](https://news.ycombinator.com/item?id=50537120) - [Effects of a Nuclear Detonation in Low Earth Orbit](https://arxiv.org/abs/2611.09827)
 * [2026-11-17, 19:25:27](https://news.ycombinator.com/item?id=50536813) - [350 years ago, this man discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
