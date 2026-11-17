@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-17, 21:11:28",
+      "https://news.ycombinator.com/item?id=50538240"
+    ],
+    [
+      "Java4Shell: RCE in OpenJDK when processing Base64",
+      "https://calif.io/java4shell/"
+    ]
+  ],
+  [
+    [
       "2026-11-17, 20:47:36",
       "https://news.ycombinator.com/item?id=50537962"
     ],
@@ -107,16 +117,6 @@
     [
       "MAI Code 2 and Code 2 Flash",
       "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 18:16:18",
-      "https://news.ycombinator.com/item?id=50535740"
-    ],
-    [
-      "Not Everything Needs an LLM",
-      "https://newsletter.posthog.com/p/decision-models"
     ]
   ],
   [
