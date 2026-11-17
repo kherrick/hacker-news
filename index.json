@@ -26,7 +26,7 @@
     ],
     [
       "Apple Services Down",
-      "https://downdetector.com/status/apple-support/"
+      "https://developer.apple.com/system-status/"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2026-11-16, 20:48:08",
+      "https://news.ycombinator.com/item?id=50523025"
+    ],
+    [
+      "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 20:43:36",
       "https://news.ycombinator.com/item?id=50522980"
     ],
@@ -227,16 +237,6 @@
     [
       "Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs",
       "https://arxiv.org/abs/2611.18126"
-    ]
-  ],
-  [
-    [
-      "2026-11-16, 09:17:37",
-      "https://news.ycombinator.com/item?id=50515603"
-    ],
-    [
-      "Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags",
-      "https://github.com/plabayo/venndb"
     ]
   ],
   [
