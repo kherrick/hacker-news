@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-17, 02:19:50](https://news.ycombinator.com/item?id=50526584) - [Tokendoctor – the same Claude Code for up to 38% less](https://github.com/localixai/tokendoctor)
+* [2026-11-17, 02:19:50](https://news.ycombinator.com/item?id=50526584) - [Tokendoctor – See what your Claude Code use overpays](https://github.com/localixai/tokendoctor)
 * [2026-11-17, 02:17:04](https://news.ycombinator.com/item?id=50526560) - [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
 * [2026-11-17, 02:13:41](https://news.ycombinator.com/item?id=50526537) - [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
 * [2026-11-17, 01:18:56](https://news.ycombinator.com/item?id=50526152) - [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
