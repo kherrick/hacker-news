@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-17, 00:21:46](https://news.ycombinator.com/item?id=50525646) - [Doom on the Nikon Z 6II camera](https://arnebaeyens.com/blog/2026/doom-on-nikon-z6ii/)
 * [2026-11-16, 23:25:41](https://news.ycombinator.com/item?id=50525052) - [Show HN: Sutra-OS – A self-hosted ontology platform](https://github.com/0nelight/sutra-os)
 * [2026-11-16, 23:00:34](https://news.ycombinator.com/item?id=50524767) - [Optimizely Compromised, Served Malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
 * [2026-11-16, 22:58:20](https://news.ycombinator.com/item?id=50524736) - [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
@@ -29,7 +30,6 @@
 * [2026-11-16, 07:55:10](https://news.ycombinator.com/item?id=50515151) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-15, 15:55:08](https://news.ycombinator.com/item?id=50507870) - [New open source C4 Diagram tool](https://www.youtube.com/watch?v=ZCAHP50Zly8)
 * [2026-11-14, 15:07:48](https://news.ycombinator.com/item?id=50497621) - [Formal Verification Is Not Verifiable](https://alperenkeles.com/posts/formal-verification-is-not-verifiable/)
-* [2026-11-13, 15:53:09](https://news.ycombinator.com/item?id=50485327) - [The origins of the placenta](https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta)
 
 ## [Archives](archives/index.md)
 
