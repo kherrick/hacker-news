@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-17, 16:15:44](https://news.ycombinator.com/item?id=50533571) - [Mistral offers three months of Vibe Pro free in Europe](https://x.com/MistralAI/status/2122713540666806397)
+* [2026-11-17, 16:40:38](https://news.ycombinator.com/item?id=50534044) - [Jensen Huang says he’s open to returning in first statement since resignation](https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html)
 * [2026-11-17, 15:50:48](https://news.ycombinator.com/item?id=50533089) - [NSA Internal Network Down](https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/)
 * [2026-11-17, 15:38:28](https://news.ycombinator.com/item?id=50532849) - [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
 * [2026-11-17, 15:07:09](https://news.ycombinator.com/item?id=50532385) - [Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)
@@ -28,7 +28,7 @@
 * [2026-11-16, 01:05:22](https://news.ycombinator.com/item?id=50512779) - [Nimony: A New Compiler for Nim](https://nimony.org/)
 * [2026-11-15, 23:08:30](https://news.ycombinator.com/item?id=50511874) - [VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012](https://visualbasic.world/)
 * [2026-11-15, 18:40:57](https://news.ycombinator.com/item?id=50509456) - [Turbo Pascal Compiler Written in Turbo Pascal](https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal)
-* [2026-11-14, 15:12:39](https://news.ycombinator.com/item?id=50497656) - [Too Many Stadiums with Roofs](https://sharptext.net/2026/too-many-stadiums-with-roofs/)
+* [2026-11-15, 17:34:22](https://news.ycombinator.com/item?id=50508845) - [Japan's Hometown Tax (2018)](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)
 * [2026-11-12, 17:04:41](https://news.ycombinator.com/item?id=50470523) - [Rows vs. Columns: How different are they, really?](https://spiraldb.com/blog/rows-vs-columns)
 
 ## [Archives](archives/index.md)
