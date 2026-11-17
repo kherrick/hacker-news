@@ -2,10 +2,10 @@
 
 * [2026-11-17, 10:20:40](https://news.ycombinator.com/item?id=50529612) - [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
 * [2026-11-17, 02:17:04](https://news.ycombinator.com/item?id=50526560) - [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
-* [2026-11-17, 02:13:41](https://news.ycombinator.com/item?id=50526537) - [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
 * [2026-11-17, 00:16:24](https://news.ycombinator.com/item?id=50525575) - [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
 * [2026-11-16, 23:00:34](https://news.ycombinator.com/item?id=50524767) - [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
 * [2026-11-16, 22:58:20](https://news.ycombinator.com/item?id=50524736) - [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
+* [2026-11-16, 22:19:23](https://news.ycombinator.com/item?id=50524225) - [How to Break into Security, Ptacek Edition (2012)](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
 * [2026-11-16, 21:47:19](https://news.ycombinator.com/item?id=50523784) - [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
 * [2026-11-16, 21:32:17](https://news.ycombinator.com/item?id=50523601) - [BugMeNot has closed](https://www.bugmenot.com/)
 * [2026-11-16, 21:20:37](https://news.ycombinator.com/item?id=50523459) - [OpenCode Browse](https://opencode.ai/product/browse)
