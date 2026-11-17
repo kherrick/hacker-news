@@ -36,6 +36,7 @@
 * [2026-11-15, 17:53:31](https://news.ycombinator.com/item?id=50509023) - ['Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html)
 * [2026-11-15, 17:34:22](https://news.ycombinator.com/item?id=50508845) - [Japan's Hometown Tax (2018)](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)
 * [2026-11-15, 17:22:32](https://news.ycombinator.com/item?id=50508715) - [Clice v1.0 Released: Welcome to Modern C++](https://ykiko.me/en/articles/2105384023094834022/)
+* [2026-11-15, 16:49:41](https://news.ycombinator.com/item?id=50508388) - [How a Pirate \"Free Netflix\" App Smuggles Video Inside .jpg Files](https://networkshard.com/blog/netmirror-smuggled-video/)
 * [2026-11-15, 16:16:26](https://news.ycombinator.com/item?id=50508076) - [What Picasso taught me about building AI Agents](https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/)
 * [2026-11-15, 16:05:53](https://news.ycombinator.com/item?id=50507989) - [The Atheist Bible](https://suchanek.name/texts/atheism/)
 * [2026-11-15, 15:55:08](https://news.ycombinator.com/item?id=50507870) - [New open source C4 Diagram tool](https://www.youtube.com/watch?v=ZCAHP50Zly8)
