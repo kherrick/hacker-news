@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-17, 18:25:13](https://news.ycombinator.com/item?id=50535885) - [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
 * [2026-11-17, 17:49:01](https://news.ycombinator.com/item?id=50535268) - [iCloud, App Store, and other Apple services hit by ongoing outage](https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/)
 * [2026-11-17, 17:47:14](https://news.ycombinator.com/item?id=50535238) - [Apple Services Down](https://downdetector.com/status/apple-support/)
 * [2026-11-17, 17:46:43](https://news.ycombinator.com/item?id=50535230) - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
@@ -20,7 +21,6 @@
 * [2026-11-16, 23:00:34](https://news.ycombinator.com/item?id=50524767) - [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
 * [2026-11-16, 21:32:17](https://news.ycombinator.com/item?id=50523601) - [BugMeNot has closed](https://www.bugmenot.com/)
 * [2026-11-16, 20:43:36](https://news.ycombinator.com/item?id=50522980) - [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
-* [2026-11-16, 20:22:18](https://news.ycombinator.com/item?id=50522643) - [Chemistry is Actually Geometry](https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry)
 * [2026-11-16, 15:02:20](https://news.ycombinator.com/item?id=50518328) - [First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664)
 * [2026-11-16, 13:25:17](https://news.ycombinator.com/item?id=50517375) - [Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs](https://arxiv.org/abs/2611.18126)
 * [2026-11-16, 09:17:37](https://news.ycombinator.com/item?id=50515603) - [Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags](https://github.com/plabayo/venndb)
