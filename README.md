@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-17, 17:46:43](https://news.ycombinator.com/item?id=50535230) - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
 * [2026-11-17, 17:13:57](https://news.ycombinator.com/item?id=50534664) - [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)
 * [2026-11-17, 17:00:24](https://news.ycombinator.com/item?id=50534429) - [YC wrote software to run our internship expo – and an 8-bit SIM to show it off](https://news.ycombinator.com/item?id=50534429)
 * [2026-11-17, 16:23:55](https://news.ycombinator.com/item?id=50533723) - [Jensen Huang Posts on X](https://twitter.com/JensenHuang/status/2122726005219737649)
 * [2026-11-17, 16:05:42](https://news.ycombinator.com/item?id=50533366) - [Charles Schwab website goes down](https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11)
 * [2026-11-17, 16:01:04](https://news.ycombinator.com/item?id=50533270) - [Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt)
 * [2026-11-17, 15:50:48](https://news.ycombinator.com/item?id=50533089) - [NSA Internal Network Down](https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/)
-* [2026-11-17, 15:38:28](https://news.ycombinator.com/item?id=50532849) - [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
 * [2026-11-17, 15:33:15](https://news.ycombinator.com/item?id=50532773) - [Antfly learned to stop worrying and love Apache 2.0](https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2)
 * [2026-11-17, 15:07:09](https://news.ycombinator.com/item?id=50532385) - [Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)
 * [2026-11-17, 14:53:43](https://news.ycombinator.com/item?id=50532191) - [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
