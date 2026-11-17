@@ -9,6 +9,7 @@
 * [2026-11-17, 16:40:38](https://news.ycombinator.com/item?id=50534044) - [Jensen Huang says he’s open to returning in first statement since resignation](https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html)
 * [2026-11-17, 16:15:44](https://news.ycombinator.com/item?id=50533571) - [Mistral offers three months of Vibe Pro free in Europe](https://x.com/MistralAI/status/2122713540666806397)
 * [2026-11-17, 16:05:42](https://news.ycombinator.com/item?id=50533366) - [Charles Schwab website goes down](https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11)
+* [2026-11-17, 16:01:04](https://news.ycombinator.com/item?id=50533270) - [Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt)
 * [2026-11-17, 15:50:48](https://news.ycombinator.com/item?id=50533089) - [NSA Internal Network Down](https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/)
 * [2026-11-17, 15:38:28](https://news.ycombinator.com/item?id=50532849) - [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
 * [2026-11-17, 15:33:48](https://news.ycombinator.com/item?id=50532786) - [A.I. Just Blew Up a Key Tenet of Computer Science](https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html)
