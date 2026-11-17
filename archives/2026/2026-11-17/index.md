@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 15:07:09](https://news.ycombinator.com/item?id=50532385) - [Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)
+* [2026-11-17, 15:03:25](https://news.ycombinator.com/item?id=50532322) - [A US Federal Women's Prison Became a \"Rape Club\"](https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop)
 * [2026-11-17, 15:02:53](https://news.ycombinator.com/item?id=50532315) - [Pentagon fails 9th financial audit in a row](https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/)
 * [2026-11-17, 14:45:36](https://news.ycombinator.com/item?id=50532086) - [We don't need more apps. We need better open source](https://jordankrueger.com/blog/better-open-source-not-more-apps/)
 * [2026-11-17, 14:20:32](https://news.ycombinator.com/item?id=50531761) - [Loopholes Are for Assholes](https://actsofvolition.com/2026/11/loopholes-are-for-assholes/)
