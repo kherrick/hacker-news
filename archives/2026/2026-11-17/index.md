@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 04:08:47](https://news.ycombinator.com/item?id=50527311) - [Unkernel: Linux kernel in WASM](https://unkernel.dev)
 * [2026-11-17, 02:23:34](https://news.ycombinator.com/item?id=50526621) - [The most expensive bargaining chip in history](https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history/)
 * [2026-11-17, 02:17:04](https://news.ycombinator.com/item?id=50526560) - [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
 * [2026-11-17, 02:13:41](https://news.ycombinator.com/item?id=50526537) - [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)

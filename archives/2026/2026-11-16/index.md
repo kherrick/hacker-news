@@ -71,6 +71,7 @@
 * [2026-11-16, 07:57:40](https://news.ycombinator.com/item?id=50515169) - [How Should Armies Fight?](https://worksinprogress.co/issue/the-future-of-war/)
 * [2026-11-16, 07:55:10](https://news.ycombinator.com/item?id=50515151) - [Squircles](https://linebender.org/wiki/curves/squircle/)
 * [2026-11-16, 07:38:19](https://news.ycombinator.com/item?id=50515058) - [“…and the proof is checked in Lean”](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
+* [2026-11-16, 07:33:51](https://news.ycombinator.com/item?id=50515035) - [Test/verification technique effectiveness with Astra](https://danluu.com/astra-testing/)
 * [2026-11-16, 06:29:54](https://news.ycombinator.com/item?id=50514680) - [Atomic Nuked Veteran](https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/)
 * [2026-11-16, 06:11:35](https://news.ycombinator.com/item?id=50514572) - [Large Angle Period of the Pendulum](https://jslandy.com/pendulum/)
 * [2026-11-16, 05:50:37](https://news.ycombinator.com/item?id=50514470) - [How to Make Almost Anything](https://pub.cba.mit.edu/863.26/site/)
