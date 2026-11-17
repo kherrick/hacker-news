@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-17, 01:50:54](https://news.ycombinator.com/item?id=50526380) - [Show HN: Win98 PE Interpreter in WebAssembly – StarCraft and Diablo on Phones](https://wine-assembly.berrry.app/)
+* [2026-11-17, 01:35:16](https://news.ycombinator.com/item?id=50526264) - [Claude Mythos slashed software work to onboard AMD GPUs to around three days](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat)
 * [2026-11-17, 01:31:35](https://news.ycombinator.com/item?id=50526244) - [Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling](https://cwtractors.com)
 * [2026-11-17, 01:24:31](https://news.ycombinator.com/item?id=50526199) - [The Weather at Home](https://alexhowells.com/writing/the-weather-at-home/)
 * [2026-11-17, 01:18:56](https://news.ycombinator.com/item?id=50526152) - [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
-* [2026-11-17, 00:23:21](https://news.ycombinator.com/item?id=50525658) - [Pentagon fails ninth straight audit despite progress in organizing finances](https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/)
 * [2026-11-16, 23:25:41](https://news.ycombinator.com/item?id=50525052) - [Show HN: Sutra-OS – A self-hosted ontology platform](https://github.com/0nelight/sutra-os)
 * [2026-11-16, 23:00:34](https://news.ycombinator.com/item?id=50524767) - [Optimizely Compromised, Served Malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
 * [2026-11-16, 22:58:20](https://news.ycombinator.com/item?id=50524736) - [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)

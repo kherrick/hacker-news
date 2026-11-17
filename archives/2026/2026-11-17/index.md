@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
 * [2026-11-17, 01:50:54](https://news.ycombinator.com/item?id=50526380) - [Show HN: Win98 PE Interpreter in WebAssembly – StarCraft and Diablo on Phones](https://wine-assembly.berrry.app/)
+* [2026-11-17, 01:35:16](https://news.ycombinator.com/item?id=50526264) - [Claude Mythos slashed software work to onboard AMD GPUs to around three days](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat)
 * [2026-11-17, 01:31:35](https://news.ycombinator.com/item?id=50526244) - [Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling](https://cwtractors.com)
 * [2026-11-17, 01:24:31](https://news.ycombinator.com/item?id=50526199) - [The Weather at Home](https://alexhowells.com/writing/the-weather-at-home/)
 * [2026-11-17, 01:18:56](https://news.ycombinator.com/item?id=50526152) - [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
