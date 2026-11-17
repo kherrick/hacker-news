@@ -8,6 +8,7 @@
 * [2026-11-17, 20:10:03](https://news.ycombinator.com/item?id=50537441) - [Israel vs. Wikipedia](https://techforpalestine.org/wikipedia-report)
 * [2026-11-17, 20:01:35](https://news.ycombinator.com/item?id=50537290) - [Web Browser Engineering](https://browser.engineering/)
 * [2026-11-17, 19:50:40](https://news.ycombinator.com/item?id=50537156) - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
+* [2026-11-17, 19:46:57](https://news.ycombinator.com/item?id=50537120) - [Effects of a Nuclear Detonation in Low Earth Orbit](https://arxiv.org/abs/2611.09827)
 * [2026-11-17, 19:25:27](https://news.ycombinator.com/item?id=50536813) - [350 years ago, this man discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
 * [2026-11-17, 19:01:43](https://news.ycombinator.com/item?id=50536468) - [Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos](https://starsling.dev)
 * [2026-11-17, 18:56:17](https://news.ycombinator.com/item?id=50536387) - [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold/)

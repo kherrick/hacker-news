@@ -2,6 +2,7 @@
 
 * [2026-11-17, 20:01:35](https://news.ycombinator.com/item?id=50537290) - [Web Browser Engineering](https://browser.engineering/)
 * [2026-11-17, 19:50:40](https://news.ycombinator.com/item?id=50537156) - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
+* [2026-11-17, 19:46:57](https://news.ycombinator.com/item?id=50537120) - [Effects of a Nuclear Detonation in Low Earth Orbit](https://arxiv.org/abs/2611.09827)
 * [2026-11-17, 19:25:27](https://news.ycombinator.com/item?id=50536813) - [350 years ago, this man discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
 * [2026-11-17, 19:01:43](https://news.ycombinator.com/item?id=50536468) - [Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos](https://starsling.dev)
 * [2026-11-17, 18:56:17](https://news.ycombinator.com/item?id=50536387) - [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold/)
@@ -21,7 +22,6 @@
 * [2026-11-17, 14:53:43](https://news.ycombinator.com/item?id=50532191) - [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
 * [2026-11-17, 11:45:51](https://news.ycombinator.com/item?id=50530163) - [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
 * [2026-11-17, 10:20:40](https://news.ycombinator.com/item?id=50529612) - [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
-* [2026-11-16, 23:00:34](https://news.ycombinator.com/item?id=50524767) - [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
 * [2026-11-16, 20:43:36](https://news.ycombinator.com/item?id=50522980) - [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
 * [2026-11-16, 15:02:20](https://news.ycombinator.com/item?id=50518328) - [First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664)
 * [2026-11-16, 13:25:17](https://news.ycombinator.com/item?id=50517375) - [Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs](https://arxiv.org/abs/2611.18126)
