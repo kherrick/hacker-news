@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-17, 21:11:28](https://news.ycombinator.com/item?id=50538240) - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
 * [2026-11-17, 20:47:36](https://news.ycombinator.com/item?id=50537962) - [Human.md](https://www.human-md.ai/)
 * [2026-11-17, 20:01:35](https://news.ycombinator.com/item?id=50537290) - [Web Browser Engineering (2021)](https://browser.engineering/)
 * [2026-11-17, 19:50:40](https://news.ycombinator.com/item?id=50537156) - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
@@ -11,7 +12,6 @@
 * [2026-11-17, 18:31:25](https://news.ycombinator.com/item?id=50535992) - [Phrack 73 Released](https://phrack.org/issues/73/introduction_md)
 * [2026-11-17, 18:26:05](https://news.ycombinator.com/item?id=50535898) - [Advancing computer-use agents for healthcare teams](https://openai.com/index/advancing-computer-use-for-healthcare-teams/)
 * [2026-11-17, 18:25:13](https://news.ycombinator.com/item?id=50535885) - [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
-* [2026-11-17, 18:16:18](https://news.ycombinator.com/item?id=50535740) - [Not Everything Needs an LLM](https://newsletter.posthog.com/p/decision-models)
 * [2026-11-17, 17:47:14](https://news.ycombinator.com/item?id=50535238) - [Apple Services Down](https://developer.apple.com/system-status/)
 * [2026-11-17, 17:46:43](https://news.ycombinator.com/item?id=50535230) - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
 * [2026-11-17, 17:45:39](https://news.ycombinator.com/item?id=50535208) - [Who Builds the Machines That Build the Machines?](https://read.corematter.com/p/section-232-us-machine-tools)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 21:11:28](https://news.ycombinator.com/item?id=50538240) - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
 * [2026-11-17, 20:47:36](https://news.ycombinator.com/item?id=50537962) - [Human.md](https://www.human-md.ai/)
 * [2026-11-17, 20:44:30](https://news.ycombinator.com/item?id=50537924) - [Stripe Press](https://stripe.press/)
 * [2026-11-17, 20:11:44](https://news.ycombinator.com/item?id=50537470) - [Israel Is Attacking Wikipedia](https://techforpalestine.org/wikipedia-report-2026)
