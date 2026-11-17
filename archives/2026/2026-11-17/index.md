@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 02:17:04](https://news.ycombinator.com/item?id=50526560) - [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
 * [2026-11-17, 02:13:41](https://news.ycombinator.com/item?id=50526537) - [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
 * [2026-11-17, 02:12:13](https://news.ycombinator.com/item?id=50526527) - [Show HN: A free interactive course on AI agent governance](https://studio.sinapsdata.com.br)
 * [2026-11-17, 01:50:54](https://news.ycombinator.com/item?id=50526380) - [Show HN: Win98 PE Interpreter in WebAssembly – StarCraft and Diablo on Phones](https://wine-assembly.berrry.app/)
