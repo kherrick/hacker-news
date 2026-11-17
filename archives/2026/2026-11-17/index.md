@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-17](index.md)
 
+* [2026-11-17, 14:45:36](https://news.ycombinator.com/item?id=50532086) - [We don't need more apps. We need better open source](https://jordankrueger.com/blog/better-open-source-not-more-apps/)
 * [2026-11-17, 14:19:59](https://news.ycombinator.com/item?id=50531751) - [Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns](https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns)
 * [2026-11-17, 14:00:47](https://news.ycombinator.com/item?id=50531484) - [S. Korea to send nationwide emergency alerts over college entrance exam cheating](https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e)
 * [2026-11-17, 12:21:57](https://news.ycombinator.com/item?id=50530450) - [Regulatory Capture by Anthropic Through METR](https://nitter.cf/kevinnbass/status/2099621874279817638)

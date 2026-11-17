@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-17, 14:45:36](https://news.ycombinator.com/item?id=50532086) - [We don't need more apps. We need better open source](https://jordankrueger.com/blog/better-open-source-not-more-apps/)
 * [2026-11-17, 14:19:59](https://news.ycombinator.com/item?id=50531751) - [Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns](https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns)
 * [2026-11-17, 14:00:47](https://news.ycombinator.com/item?id=50531484) - [S. Korea to send nationwide emergency alerts over college entrance exam cheating](https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e)
 * [2026-11-17, 11:45:51](https://news.ycombinator.com/item?id=50530163) - [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
@@ -11,7 +12,6 @@
 * [2026-11-16, 21:20:37](https://news.ycombinator.com/item?id=50523459) - [OpenCode Browse](https://opencode.ai/product/browse)
 * [2026-11-16, 20:48:08](https://news.ycombinator.com/item?id=50523025) - [Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)
 * [2026-11-16, 20:43:36](https://news.ycombinator.com/item?id=50522980) - [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
-* [2026-11-16, 20:29:48](https://news.ycombinator.com/item?id=50522776) - [Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force](https://news.ycombinator.com/item?id=50522776)
 * [2026-11-16, 20:22:18](https://news.ycombinator.com/item?id=50522643) - [Chemistry is Actually Geometry](https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry)
 * [2026-11-16, 17:27:46](https://news.ycombinator.com/item?id=50520182) - [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
 * [2026-11-16, 16:53:39](https://news.ycombinator.com/item?id=50519744) - [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
