@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 16:41:22](https://news.ycombinator.com/item?id=50548485) - [\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety](https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO)
+* [2026-11-18, 16:26:42](https://news.ycombinator.com/item?id=50548281) - [Software Factory builds 30 complex open source libraries in a month](https://recursiveai.org/blog/what-my-software-factory-built/)
+* [2026-11-18, 16:22:23](https://news.ycombinator.com/item?id=50548214) - [RFC 2675: IPv6 Jumbograms](https://www.rfc-editor.org/info/rfc2675/)
 * [2026-11-18, 16:18:51](https://news.ycombinator.com/item?id=50548161) - [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
 * [2026-11-18, 16:09:50](https://news.ycombinator.com/item?id=50548038) - [SuperEMeans: Making e-means 3× faster](https://www.lkuffo.com/superemeans/)
 * [2026-11-18, 16:08:24](https://news.ycombinator.com/item?id=50548021) - [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
 * [2026-11-18, 16:06:21](https://news.ycombinator.com/item?id=50548004) - [CVE-2026-99312: KVM Guest-to-Host Escape](https://www.terra.security/blog/kvm-guest-to-host-escape)
 * [2026-11-18, 16:04:43](https://news.ycombinator.com/item?id=50547980) - [Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365](https://exitpath-ruddy.vercel.app/)
+* [2026-11-18, 15:52:01](https://news.ycombinator.com/item?id=50547813) - [Ratwires – The Graffiti Wall of the Internet](https://ratwire.space/)
 * [2026-11-18, 15:49:34](https://news.ycombinator.com/item?id=50547777) - [AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
 * [2026-11-18, 15:38:33](https://news.ycombinator.com/item?id=50547620) - [Deutsche Bank](https://www.inside-db.com/)
 * [2026-11-18, 15:35:44](https://news.ycombinator.com/item?id=50547583) - [U.S. AirForce is looking for old storage Media (CF or PC cards)](https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view)
