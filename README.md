@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-18, 13:18:02](https://news.ycombinator.com/item?id=50545958) - [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
 * [2026-11-18, 12:00:16](https://news.ycombinator.com/item?id=50545238) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)
 * [2026-11-18, 11:11:53](https://news.ycombinator.com/item?id=50544821) - [Show HN: Type Fighter 2](https://typefighter2.com/)
 * [2026-11-18, 10:02:17](https://news.ycombinator.com/item?id=50544261) - [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)
@@ -15,7 +16,6 @@
 * [2026-11-17, 22:13:34](https://news.ycombinator.com/item?id=50538994) - [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
 * [2026-11-17, 21:16:12](https://news.ycombinator.com/item?id=50538303) - [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
 * [2026-11-17, 21:11:28](https://news.ycombinator.com/item?id=50538240) - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
-* [2026-11-17, 21:06:08](https://news.ycombinator.com/item?id=50538184) - [Tencent Hy4 Flash](https://hy.tencent.ai/research/hy4-flash)
 * [2026-11-17, 19:50:40](https://news.ycombinator.com/item?id=50537156) - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
 * [2026-11-17, 19:25:27](https://news.ycombinator.com/item?id=50536813) - [350 years ago, Ole Rømer discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
 * [2026-11-17, 19:01:43](https://news.ycombinator.com/item?id=50536468) - [Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos](https://news.ycombinator.com/item?id=50536468)

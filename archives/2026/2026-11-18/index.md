@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 13:18:02](https://news.ycombinator.com/item?id=50545958) - [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
 * [2026-11-18, 12:00:16](https://news.ycombinator.com/item?id=50545238) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)
 * [2026-11-18, 11:59:57](https://news.ycombinator.com/item?id=50545232) - [GTA 6 Review: It Is a Masterpiece](https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece)
 * [2026-11-18, 11:45:02](https://news.ycombinator.com/item?id=50545118) - [I had AI read my entire field, Theoretical Astrophysics](https://science.caseyhandmer.com/physics/)
