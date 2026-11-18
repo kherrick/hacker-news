@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-11-18, 05:21:07",
-      "https://news.ycombinator.com/item?id=50542181"
-    ],
-    [
-      "Optimjack from the Outside: The Hijacked Script Was on Our Radar",
-      "https://blog.fortirix.com/blog/optimjack/"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 05:11:30",
       "https://news.ycombinator.com/item?id=50542135"
     ],
@@ -287,6 +277,16 @@
     [
       "What is the best harness for each model?",
       "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 13:30:30",
+      "https://news.ycombinator.com/item?id=50517410"
+    ],
+    [
+      "Show HN: Unref – A Python dead code finder built on Ruff's parser",
+      "https://github.com/Apakottur/unref"
     ]
   ],
   [
