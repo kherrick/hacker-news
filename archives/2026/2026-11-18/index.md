@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 20:20:17](https://news.ycombinator.com/item?id=50551601) - [Google Gemini's \"Tasks\" Personal Assistant Is Now Free](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)
 * [2026-11-18, 20:04:31](https://news.ycombinator.com/item?id=50551398) - [Search Browser – Minimalist WebKit browser with Chrome extension support](https://searchbrowser.app/)
 * [2026-11-18, 20:01:50](https://news.ycombinator.com/item?id=50551359) - [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
 * [2026-11-18, 19:39:16](https://news.ycombinator.com/item?id=50551046) - [DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b)

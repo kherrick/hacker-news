@@ -24,6 +24,7 @@
 * [2026-11-15, 20:08:16](https://news.ycombinator.com/item?id=50510198) - [Sell Your Game Outside Steam: Keys, Downloads and Direct Sales](https://permitcore.dev/blog/sell-game-outside-steam)
 * [2026-11-15, 19:49:28](https://news.ycombinator.com/item?id=50510042) - [Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence](https://news.ycombinator.com/item?id=50510042)
 * [2026-11-15, 19:46:02](https://news.ycombinator.com/item?id=50510005) - [Do House members' stock trades beat the market? A test of 8,900 trades](https://arkanumdata.com/research/house-trades)
+* [2026-11-15, 19:42:59](https://news.ycombinator.com/item?id=50509980) - [A live service duress prototype](https://github.com/Ymsniper/vault-share)
 * [2026-11-15, 19:42:13](https://news.ycombinator.com/item?id=50509972) - [Handwriting, as a Font](https://ductus.sorenblank.com)
 * [2026-11-15, 19:39:46](https://news.ycombinator.com/item?id=50509953) - [Parents pay $75k for Alpha's AI school. Half of its students missed math target](https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/)
 * [2026-11-15, 19:31:11](https://news.ycombinator.com/item?id=50509883) - [Jensen Huang discusses comeback as Nvidia CEO with allies](https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1)
