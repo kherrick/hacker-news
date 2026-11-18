@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-11-18, 18:53:17",
+      "https://news.ycombinator.com/item?id=50550461"
+    ],
+    [
+      "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+      "https://tin.computer/blog/fake-ai-crawler-secrets-scanners"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 18:49:51",
       "https://news.ycombinator.com/item?id=50550415"
     ],
@@ -57,16 +67,6 @@
     [
       "The Magic of Partial Evaluation",
       "https://jimmyhmiller.com/magic-of-partial-evaluation"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 18:26:19",
-      "https://news.ycombinator.com/item?id=50550062"
-    ],
-    [
-      "Scottish HTTP Codes",
-      "https://underwood.network/http/scots.html"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=50546922"
     ],
     [
-      "A Primer on Fourier Series",
+      "A Primer on Fourier Series (2025)",
       "https://arxiv.org/abs/2510.18203"
     ]
   ],
