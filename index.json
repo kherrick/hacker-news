@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2026-11-17, 21:06:08",
+      "https://news.ycombinator.com/item?id=50538184"
+    ],
+    [
+      "Tencent Hy4 Flash",
+      "https://hy.tencent.ai/research/hy4-flash"
+    ]
+  ],
+  [
+    [
       "2026-11-17, 19:50:40",
       "https://news.ycombinator.com/item?id=50537156"
     ],
@@ -277,16 +287,6 @@
     [
       "Show HN: Unref – A Python dead code finder built on Ruff's parser",
       "https://github.com/Apakottur/unref"
-    ]
-  ],
-  [
-    [
-      "2026-11-15, 04:02:46",
-      "https://news.ycombinator.com/item?id=50503899"
-    ],
-    [
-      "Flattening Every Memory Peak in Long-Context Mixture-of-Experts Training",
-      "https://arxiv.org/abs/2609.14306"
     ]
   ],
   [
