@@ -26,9 +26,9 @@
 * [2026-11-17, 17:00:24](https://news.ycombinator.com/item?id=50534429) - [YC wrote software to run our internship expo – and an 8-bit SIM to show it off](https://news.ycombinator.com/item?id=50534429)
 * [2026-11-17, 15:38:28](https://news.ycombinator.com/item?id=50532849) - [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
 * [2026-11-17, 14:53:43](https://news.ycombinator.com/item?id=50532191) - [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
+* [2026-11-17, 11:45:51](https://news.ycombinator.com/item?id=50530163) - [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
 * [2026-11-17, 10:20:40](https://news.ycombinator.com/item?id=50529612) - [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
 * [2026-11-15, 02:45:57](https://news.ycombinator.com/item?id=50503492) - [Fun with Constrained Programming](https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html)
-* [2026-11-15, 01:13:52](https://news.ycombinator.com/item?id=50502957) - [Nozzle: A streaming library that emits when possible and buffers where necessary](https://github.com/Robert-Cunningham/nozzle)
 * [2026-11-14, 15:38:50](https://news.ycombinator.com/item?id=50497872) - [Mouse Party](https://aboard.com/lets-have-a-mouse-party/)
 
 ## [Archives](archives/index.md)
