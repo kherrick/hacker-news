@@ -6,6 +6,7 @@
 
 * [2026-11-18, 15:38:33](https://news.ycombinator.com/item?id=50547620) - [Deutsche Bank](https://www.inside-db.com/)
 * [2026-11-18, 15:35:44](https://news.ycombinator.com/item?id=50547583) - [U.S. AirForce is looking for old storage Media (CF or PC cards)](https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view)
+* [2026-11-18, 15:24:17](https://news.ycombinator.com/item?id=50547423) - [NGINX2Root by Xint – From Nginx visitor to root of the server host](https://nginx2root.com/)
 * [2026-11-18, 15:19:55](https://news.ycombinator.com/item?id=50547374) - [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
 * [2026-11-18, 15:18:30](https://news.ycombinator.com/item?id=50547344) - [Poland says it thwarted false flag operation near border with Kaliningrad](https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html)
 * [2026-11-18, 15:09:52](https://news.ycombinator.com/item?id=50547249) - [Younger adults more likely to say acceptable to wear T-shirts&sweatpants to work](https://yougov.com/en-us/articles/55583-younger-adults-are-more-likely-than-older-ones-to-say-its-acceptable-to-wear-t-shirts-and-sweatpants-to-work)

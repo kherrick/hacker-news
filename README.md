@@ -2,6 +2,7 @@
 
 * [2026-11-18, 15:38:33](https://news.ycombinator.com/item?id=50547620) - [Deutsche Bank](https://www.inside-db.com/)
 * [2026-11-18, 15:35:44](https://news.ycombinator.com/item?id=50547583) - [U.S. AirForce is looking for old storage Media (CF or PC cards)](https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view)
+* [2026-11-18, 15:24:17](https://news.ycombinator.com/item?id=50547423) - [NGINX2Root by Xint – From Nginx visitor to root of the server host](https://nginx2root.com/)
 * [2026-11-18, 15:19:55](https://news.ycombinator.com/item?id=50547374) - [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
 * [2026-11-18, 15:18:30](https://news.ycombinator.com/item?id=50547344) - [Poland says it thwarted false flag operation near border with Kaliningrad](https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html)
 * [2026-11-18, 14:47:53](https://news.ycombinator.com/item?id=50546967) - [The x86 CPU: From 4004 to 486](https://pikuma.com/blog/history-of-x86-4004-to-486)
@@ -18,7 +19,6 @@
 * [2026-11-18, 00:17:58](https://news.ycombinator.com/item?id=50540178) - [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)
 * [2026-11-17, 23:32:58](https://news.ycombinator.com/item?id=50539747) - [Archive Team is archiving the Apple Support Community](https://wiki.archiveteam.org/index.php/Apple_Discussions)
 * [2026-11-17, 23:18:49](https://news.ycombinator.com/item?id=50539610) - [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)
-* [2026-11-17, 22:13:34](https://news.ycombinator.com/item?id=50538994) - [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
 * [2026-11-17, 21:16:12](https://news.ycombinator.com/item?id=50538303) - [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
 * [2026-11-17, 21:11:28](https://news.ycombinator.com/item?id=50538240) - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
 * [2026-11-17, 19:50:40](https://news.ycombinator.com/item?id=50537156) - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
