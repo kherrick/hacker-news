@@ -44,6 +44,7 @@
 * [2026-11-15, 15:37:52](https://news.ycombinator.com/item?id=50507722) - [Show HN: A tiny macOS app that turns off the MacBook display [free license]](https://blackoutapp.io/)
 * [2026-11-15, 15:21:21](https://news.ycombinator.com/item?id=50507553) - [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
 * [2026-11-15, 15:18:06](https://news.ycombinator.com/item?id=50507517) - [A Human Reads the Anthropic IPO Filing](https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html)
+* [2026-11-15, 15:13:10](https://news.ycombinator.com/item?id=50507474) - [Alkaline batteries are obsolete – but not for the reason you'd think [video]](https://www.youtube.com/watch?v=I1rlK3BKmyA)
 * [2026-11-15, 14:46:58](https://news.ycombinator.com/item?id=50507303) - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 * [2026-11-15, 14:36:28](https://news.ycombinator.com/item?id=50507231) - [GPU says 35% busy. Busy doing what?](https://tensward.com/blog/gpu-busy-doing-what)
 * [2026-11-15, 14:31:52](https://news.ycombinator.com/item?id=50507206) - [The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)](https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/)
