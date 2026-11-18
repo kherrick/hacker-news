@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-11-17, 17:47:14",
-      "https://news.ycombinator.com/item?id=50535238"
-    ],
-    [
-      "Apple Services Down",
-      "https://developer.apple.com/system-status/"
-    ]
-  ],
-  [
-    [
       "2026-11-17, 17:46:43",
       "https://news.ycombinator.com/item?id=50535230"
     ],
@@ -297,6 +287,16 @@
     [
       "Fun with Constrained Programming",
       "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-14, 17:06:56",
+      "https://news.ycombinator.com/item?id=50498623"
+    ],
+    [
+      "43k+ new periodic solutions to the three body problem found by volunteers",
+      "https://www.threebodyorbits.com/hunt"
     ]
   ]
 ]
