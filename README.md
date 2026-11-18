@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-18, 22:42:53](https://news.ycombinator.com/item?id=50553402) - [Why educational system is broken](https://keycybermonk.com/edu)
 * [2026-11-18, 22:26:48](https://news.ycombinator.com/item?id=50553192) - [GTA6-like as a 942Kb UEFI bootable image](https://github.com/eklavya-raj/gta6-uefi)
 * [2026-11-18, 21:34:07](https://news.ycombinator.com/item?id=50552424) - [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 * [2026-11-18, 20:12:34](https://news.ycombinator.com/item?id=50551509) - [Horizon Labs Report](https://horizon-labs.ai/)
@@ -9,7 +10,6 @@
 * [2026-11-18, 18:49:51](https://news.ycombinator.com/item?id=50550415) - [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
 * [2026-11-18, 18:29:03](https://news.ycombinator.com/item?id=50550096) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
 * [2026-11-18, 17:45:47](https://news.ycombinator.com/item?id=50549493) - [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/)
-* [2026-11-18, 17:26:28](https://news.ycombinator.com/item?id=50549188) - [Launch HN: Maritime (YC F26) – A managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188)
 * [2026-11-18, 17:14:31](https://news.ycombinator.com/item?id=50548991) - [CrossPoint Reader](https://crosspointreader.com)
 * [2026-11-18, 16:53:42](https://news.ycombinator.com/item?id=50548660) - [Show HN: Mastra Factory, the open-source software factory we use to build Mastra](https://news.ycombinator.com/item?id=50548660)
 * [2026-11-18, 16:18:51](https://news.ycombinator.com/item?id=50548161) - [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
