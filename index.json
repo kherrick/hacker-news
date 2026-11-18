@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-11-18, 20:22:06",
-      "https://news.ycombinator.com/item?id=50551619"
-    ],
-    [
-      "How to Bypass Rust's Orphan Rule",
-      "https://edvong.com/bypass-orphan-rule/"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 20:20:17",
       "https://news.ycombinator.com/item?id=50551601"
     ],
@@ -97,6 +87,16 @@
     [
       "Advancing chip design with OpenAI models",
       "https://openai.com/index/advancing-chip-design-with-our-models/"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 17:41:48",
+      "https://news.ycombinator.com/item?id=50549438"
+    ],
+    [
+      "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
+      "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats"
     ]
   ],
   [
