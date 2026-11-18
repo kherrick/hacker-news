@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 15:19:55](https://news.ycombinator.com/item?id=50547374) - [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
 * [2026-11-18, 15:09:52](https://news.ycombinator.com/item?id=50547249) - [Younger adults more likely to say acceptable to wear T-shirts&sweatpants to work](https://yougov.com/en-us/articles/55583-younger-adults-are-more-likely-than-older-ones-to-say-its-acceptable-to-wear-t-shirts-and-sweatpants-to-work)
+* [2026-11-18, 14:47:53](https://news.ycombinator.com/item?id=50546967) - [The x86 CPU: From 4004 to 486](https://pikuma.com/blog/history-of-x86-4004-to-486)
+* [2026-11-18, 14:44:33](https://news.ycombinator.com/item?id=50546922) - [A Primer on Fourier Series](https://arxiv.org/abs/2510.18203)
 * [2026-11-18, 14:43:52](https://news.ycombinator.com/item?id=50546914) - ['Human' Is Cambridge Dictionary's Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
 * [2026-11-18, 14:03:37](https://news.ycombinator.com/item?id=50546465) - [Energy drinks linked to 11 times more reports of cardiac arrest](https://www.sciencedaily.com/releases/2026/11/261110042543.htm)
 * [2026-11-18, 13:51:03](https://news.ycombinator.com/item?id=50546312) - [Can Peer Review Survive AI-Generated Text? [pdf]](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf)
