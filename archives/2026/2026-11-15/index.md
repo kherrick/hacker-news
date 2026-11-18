@@ -69,6 +69,7 @@
 * [2026-11-15, 02:00:54](https://news.ycombinator.com/item?id=50503255) - [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)
 * [2026-11-15, 01:24:39](https://news.ycombinator.com/item?id=50503034) - [Can the AI boom make enough money to sustain itself?](https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself)
 * [2026-11-15, 01:18:36](https://news.ycombinator.com/item?id=50502988) - [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)
+* [2026-11-15, 01:13:52](https://news.ycombinator.com/item?id=50502957) - [Nozzle: A streaming library that emits when possible and buffers where necessary](https://github.com/Robert-Cunningham/nozzle)
 * [2026-11-15, 00:56:45](https://news.ycombinator.com/item?id=50502839) - [Show HN: A custom font based on the Jamaican flag alphabet](https://bobbiec.github.io/jamaican-font.html)
 * [2026-11-15, 00:49:56](https://news.ycombinator.com/item?id=50502789) - [Jensen Huang Fucked Everybody](https://www.theringer.com/2026/11/12/tech/jensen-huang-nvidia-ceo-resignation-chinese-spy-stock-market)
 * [2026-11-15, 00:48:11](https://news.ycombinator.com/item?id=50502768) - [US loses measles-free status: Pan American Health Organization](https://www.paho.org/en/news/10-11-2025-paho-calls-regional-action-americas-lose-measles-elimination-status)
