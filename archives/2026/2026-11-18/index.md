@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 21:11:10](https://news.ycombinator.com/item?id=50552169) - [Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights](https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/)
 * [2026-11-18, 20:22:06](https://news.ycombinator.com/item?id=50551619) - [How to Bypass Rust's Orphan Rule](https://edvong.com/bypass-orphan-rule/)
 * [2026-11-18, 20:20:17](https://news.ycombinator.com/item?id=50551601) - [Google Gemini's \"Tasks\" Personal Assistant Is Now Free](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)
 * [2026-11-18, 20:04:31](https://news.ycombinator.com/item?id=50551398) - [Search Browser – Minimalist WebKit browser with Chrome extension support](https://searchbrowser.app/)
