@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-18, 03:36:12](https://news.ycombinator.com/item?id=50541542) - [Engineering Vitals in the Age of AI](https://octopus.com/blog/engineering-vitals-in-the-age-of-ai)
 * [2026-11-18, 03:35:47](https://news.ycombinator.com/item?id=50541538) - [GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer)
 * [2026-11-18, 00:56:23](https://news.ycombinator.com/item?id=50540472) - [Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
 * [2026-11-18, 00:51:45](https://news.ycombinator.com/item?id=50540437) - [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
@@ -26,7 +27,6 @@
 * [2026-11-17, 17:12:06](https://news.ycombinator.com/item?id=50534631) - [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
 * [2026-11-17, 15:38:28](https://news.ycombinator.com/item?id=50532849) - [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
 * [2026-11-17, 14:53:43](https://news.ycombinator.com/item?id=50532191) - [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
-* [2026-11-17, 10:20:40](https://news.ycombinator.com/item?id=50529612) - [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
 * [2026-11-15, 02:45:57](https://news.ycombinator.com/item?id=50503492) - [Fun with Constrained Programming](https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html)
 * [2026-11-14, 15:41:51](https://news.ycombinator.com/item?id=50497903) - [Adopting Python 3.15's lazy imports: a 4× faster CLI, and where they didn't help](https://namegarage.com/blog/python-3-15-lazy-imports)
 * [2026-11-14, 15:38:50](https://news.ycombinator.com/item?id=50497872) - [Mouse Party](https://aboard.com/lets-have-a-mouse-party/)
