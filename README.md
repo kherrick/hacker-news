@@ -20,7 +20,6 @@
 * [2026-11-18, 15:24:17](https://news.ycombinator.com/item?id=50547423) - [NGINX2Root by Xint – From Nginx visitor to root of the server host](https://nginx2root.com/)
 * [2026-11-18, 15:19:55](https://news.ycombinator.com/item?id=50547374) - [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
 * [2026-11-18, 15:18:30](https://news.ycombinator.com/item?id=50547344) - [Poland says it thwarted false flag operation near border with Kaliningrad](https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html)
-* [2026-11-18, 15:09:16](https://news.ycombinator.com/item?id=50547236) - [Attackers Used Optimizely to A/B Test Malware on Top Websites](https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/)
 * [2026-11-18, 14:47:53](https://news.ycombinator.com/item?id=50546967) - [The x86 CPU: From 4004 to 486](https://pikuma.com/blog/history-of-x86-4004-to-486)
 * [2026-11-18, 14:44:33](https://news.ycombinator.com/item?id=50546922) - [A Primer on Fourier Series](https://arxiv.org/abs/2510.18203)
 * [2026-11-18, 14:43:52](https://news.ycombinator.com/item?id=50546914) - ['Human' Is Cambridge Dictionary's Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
@@ -29,6 +28,7 @@
 * [2026-11-18, 11:11:53](https://news.ycombinator.com/item?id=50544821) - [Show HN: Type Fighter 2](https://typefighter2.com/)
 * [2026-11-18, 09:29:32](https://news.ycombinator.com/item?id=50543989) - [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
 * [2026-11-16, 14:18:15](https://news.ycombinator.com/item?id=50517840) - [Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck](https://github.com/mr-anjaneyam/Emittr)
+* [2026-11-15, 16:46:13](https://news.ycombinator.com/item?id=50508356) - [New FreeBSD Pkgbase(8) Tool](https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/)
 * [2026-11-15, 09:12:55](https://news.ycombinator.com/item?id=50505310) - [The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter](https://americanhandgunner.com/handguns/revolvers/the-first-revolver/)
 
 ## [Archives](archives/index.md)
