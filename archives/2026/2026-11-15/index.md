@@ -64,6 +64,7 @@
 * [2026-11-15, 04:09:11](https://news.ycombinator.com/item?id=50503930) - [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)
 * [2026-11-15, 03:33:41](https://news.ycombinator.com/item?id=50503731) - [Osint Case Studies](https://osintsearch.org/blog/osint-case-studies)
 * [2026-11-15, 03:05:54](https://news.ycombinator.com/item?id=50503588) - [The Single Router in Southern Arkansas That Ground Air Travel to a Halt](https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c)
+* [2026-11-15, 02:45:57](https://news.ycombinator.com/item?id=50503492) - [Fun with Constrained Programming](https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html)
 * [2026-11-15, 02:41:25](https://news.ycombinator.com/item?id=50503465) - [My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
 * [2026-11-15, 02:00:54](https://news.ycombinator.com/item?id=50503255) - [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)
 * [2026-11-15, 01:24:39](https://news.ycombinator.com/item?id=50503034) - [Can the AI boom make enough money to sustain itself?](https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself)
