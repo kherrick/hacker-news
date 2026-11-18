@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-18, 20:22:06",
+      "https://news.ycombinator.com/item?id=50551619"
+    ],
+    [
+      "How to Bypass Rust's Orphan Rule",
+      "https://edvong.com/bypass-orphan-rule/"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 20:20:17",
       "https://news.ycombinator.com/item?id=50551601"
     ],
@@ -37,6 +47,16 @@
     [
       "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
       "https://www.radixark.com/blog/daisyrose-27b"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 18:53:17",
+      "https://news.ycombinator.com/item?id=50550461"
+    ],
+    [
+      "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+      "https://tin.computer/blog/fake-ai-crawler-secrets-scanners"
     ]
   ],
   [
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2026-11-18, 17:41:48",
-      "https://news.ycombinator.com/item?id=50549438"
-    ],
-    [
-      "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
-      "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 17:26:28",
       "https://news.ycombinator.com/item?id=50549188"
     ],
@@ -127,16 +137,6 @@
     [
       "Show HN: Take Voyager 1 apart, down to a single memory chip",
       "https://rshekhar.com/voyager/"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 16:09:50",
-      "https://news.ycombinator.com/item?id=50548038"
-    ],
-    [
-      "SuperEMeans: Making e-means 3× faster",
-      "https://www.lkuffo.com/superemeans/"
     ]
   ],
   [
