@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 04:14:04](https://news.ycombinator.com/item?id=50541790) - [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
 * [2026-11-18, 03:54:17](https://news.ycombinator.com/item?id=50541665) - [How Warp Speed Works (2023)](https://science.howstuffworks.com/warp-speed.htm)
 * [2026-11-18, 03:37:35](https://news.ycombinator.com/item?id=50541550) - [H-1B Executive Actions in 2026 [pdf]](https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf)
 * [2026-11-18, 03:36:12](https://news.ycombinator.com/item?id=50541542) - [Engineering Vitals in the Age of AI](https://octopus.com/blog/engineering-vitals-in-the-age-of-ai)
