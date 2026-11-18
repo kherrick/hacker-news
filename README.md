@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-18, 00:56:23](https://news.ycombinator.com/item?id=50540472) - [Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
 * [2026-11-18, 00:51:45](https://news.ycombinator.com/item?id=50540437) - [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
 * [2026-11-18, 00:17:58](https://news.ycombinator.com/item?id=50540178) - [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)
 * [2026-11-17, 23:32:58](https://news.ycombinator.com/item?id=50539747) - [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions)
@@ -24,7 +25,6 @@
 * [2026-11-17, 17:12:06](https://news.ycombinator.com/item?id=50534631) - [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
 * [2026-11-17, 17:00:24](https://news.ycombinator.com/item?id=50534429) - [YC wrote software to run our internship expo – and an 8-bit SIM to show it off](https://news.ycombinator.com/item?id=50534429)
 * [2026-11-17, 15:38:28](https://news.ycombinator.com/item?id=50532849) - [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
-* [2026-11-17, 15:07:09](https://news.ycombinator.com/item?id=50532385) - [Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)
 * [2026-11-17, 14:53:43](https://news.ycombinator.com/item?id=50532191) - [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
 * [2026-11-17, 11:45:51](https://news.ycombinator.com/item?id=50530163) - [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
 * [2026-11-17, 10:20:40](https://news.ycombinator.com/item?id=50529612) - [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
