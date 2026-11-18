@@ -58,6 +58,7 @@
 * [2026-11-15, 09:13:15](https://news.ycombinator.com/item?id=50505312) - [DKIM2 – Every system that handles an email signs for what it did](https://dkim2.com/)
 * [2026-11-15, 09:06:43](https://news.ycombinator.com/item?id=50505271) - [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)
 * [2026-11-15, 07:08:50](https://news.ycombinator.com/item?id=50504718) - [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists)
+* [2026-11-15, 05:54:22](https://news.ycombinator.com/item?id=50504373) - [A Perfect SimCity](https://www.jeffquast.com/post/a-perfect-simcity/)
 * [2026-11-15, 05:29:54](https://news.ycombinator.com/item?id=50504277) - [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/)
 * [2026-11-15, 04:49:09](https://news.ycombinator.com/item?id=50504105) - [Munich Laser Emits a Beam of Matter Waves (1999)](https://www.sciencedaily.com/releases/1999/03/990317060831.htm)
 * [2026-11-15, 04:40:41](https://news.ycombinator.com/item?id=50504077) - [Kiri – The Modern Container Runtime](https://runkiri.com/)

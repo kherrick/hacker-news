@@ -28,7 +28,7 @@
 * [2026-11-17, 14:53:43](https://news.ycombinator.com/item?id=50532191) - [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
 * [2026-11-16, 14:26:10](https://news.ycombinator.com/item?id=50517929) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
 * [2026-11-16, 13:30:30](https://news.ycombinator.com/item?id=50517410) - [Show HN: Unref – A Python dead code finder built on Ruff's parser](https://github.com/Apakottur/unref)
-* [2026-11-15, 04:02:46](https://news.ycombinator.com/item?id=50503899) - [Flattening Every Memory Peak in Long-Context Mixture-of-Experts Training](https://arxiv.org/abs/2609.14306)
+* [2026-11-15, 05:54:22](https://news.ycombinator.com/item?id=50504373) - [A Perfect SimCity](https://www.jeffquast.com/post/a-perfect-simcity/)
 * [2026-11-15, 02:45:57](https://news.ycombinator.com/item?id=50503492) - [Fun with Constrained Programming (2012)](https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html)
 
 ## [Archives](archives/index.md)
