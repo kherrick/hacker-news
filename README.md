@@ -17,6 +17,7 @@
 * [2026-11-17, 21:16:12](https://news.ycombinator.com/item?id=50538303) - [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
 * [2026-11-17, 21:11:28](https://news.ycombinator.com/item?id=50538240) - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
 * [2026-11-17, 21:06:08](https://news.ycombinator.com/item?id=50538184) - [Tencent Hy4 Flash](https://hy.tencent.ai/research/hy4-flash)
+* [2026-11-17, 20:01:35](https://news.ycombinator.com/item?id=50537290) - [Web Browser Engineering (2021)](https://browser.engineering/)
 * [2026-11-17, 19:50:40](https://news.ycombinator.com/item?id=50537156) - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
 * [2026-11-17, 19:25:27](https://news.ycombinator.com/item?id=50536813) - [350 years ago, Ole Rømer discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
 * [2026-11-17, 18:56:17](https://news.ycombinator.com/item?id=50536387) - [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold/)
@@ -29,7 +30,6 @@
 * [2026-11-16, 13:30:30](https://news.ycombinator.com/item?id=50517410) - [Show HN: Unref – A Python dead code finder built on Ruff's parser](https://github.com/Apakottur/unref)
 * [2026-11-15, 15:13:10](https://news.ycombinator.com/item?id=50507474) - [Alkaline batteries are obsolete – but not for the reason you'd think [video]](https://www.youtube.com/watch?v=I1rlK3BKmyA)
 * [2026-11-15, 02:45:57](https://news.ycombinator.com/item?id=50503492) - [Fun with Constrained Programming](https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html)
-* [2026-11-14, 17:06:56](https://news.ycombinator.com/item?id=50498623) - [43k+ new periodic solutions to the three body problem found by volunteers](https://www.threebodyorbits.com/hunt)
 
 ## [Archives](archives/index.md)
 
