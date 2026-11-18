@@ -8,6 +8,7 @@
 * [2026-11-18, 21:11:10](https://news.ycombinator.com/item?id=50552169) - [Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights](https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/)
 * [2026-11-18, 20:22:06](https://news.ycombinator.com/item?id=50551619) - [How to Bypass Rust's Orphan Rule](https://edvong.com/bypass-orphan-rule/)
 * [2026-11-18, 20:20:17](https://news.ycombinator.com/item?id=50551601) - [Google Gemini's \"Tasks\" Personal Assistant Is Now Free](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)
+* [2026-11-18, 20:12:34](https://news.ycombinator.com/item?id=50551509) - [Horizon Labs Report](https://horizon-labs.ai/)
 * [2026-11-18, 20:04:31](https://news.ycombinator.com/item?id=50551398) - [Search Browser – Minimalist WebKit browser with Chrome extension support](https://searchbrowser.app/)
 * [2026-11-18, 20:01:50](https://news.ycombinator.com/item?id=50551359) - [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
 * [2026-11-18, 19:39:16](https://news.ycombinator.com/item?id=50551046) - [DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b)
