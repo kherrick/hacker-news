@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 19:39:16](https://news.ycombinator.com/item?id=50551046) - [DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b)
 * [2026-11-18, 18:49:51](https://news.ycombinator.com/item?id=50550415) - [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
 * [2026-11-18, 18:29:03](https://news.ycombinator.com/item?id=50550096) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
 * [2026-11-18, 18:26:19](https://news.ycombinator.com/item?id=50550062) - [Scottish HTTP Codes](https://underwood.network/http/scots.html)

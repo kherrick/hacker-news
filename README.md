@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-18, 19:39:16](https://news.ycombinator.com/item?id=50551046) - [DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b)
 * [2026-11-18, 18:49:51](https://news.ycombinator.com/item?id=50550415) - [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
 * [2026-11-18, 18:29:03](https://news.ycombinator.com/item?id=50550096) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
 * [2026-11-18, 18:26:19](https://news.ycombinator.com/item?id=50550062) - [Scottish HTTP Codes](https://underwood.network/http/scots.html)
@@ -28,7 +29,6 @@
 * [2026-11-18, 11:11:53](https://news.ycombinator.com/item?id=50544821) - [Show HN: Type Fighter 2](https://typefighter2.com/)
 * [2026-11-18, 09:29:32](https://news.ycombinator.com/item?id=50543989) - [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
 * [2026-11-16, 14:18:15](https://news.ycombinator.com/item?id=50517840) - [Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck](https://github.com/mr-anjaneyam/Emittr)
-* [2026-11-15, 16:46:13](https://news.ycombinator.com/item?id=50508356) - [New FreeBSD Pkgbase(8) Tool](https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/)
 * [2026-11-15, 09:12:55](https://news.ycombinator.com/item?id=50505310) - [The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter](https://americanhandgunner.com/handguns/revolvers/the-first-revolver/)
 
 ## [Archives](archives/index.md)
