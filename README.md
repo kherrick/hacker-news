@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-18, 21:34:07](https://news.ycombinator.com/item?id=50552424) - [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
-* [2026-11-18, 21:11:10](https://news.ycombinator.com/item?id=50552169) - [Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights](https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/)
 * [2026-11-18, 20:20:17](https://news.ycombinator.com/item?id=50551601) - [Google Gemini's \"Tasks\" Personal Assistant Is Now Free](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)
 * [2026-11-18, 20:04:31](https://news.ycombinator.com/item?id=50551398) - [Search Browser – Minimalist WebKit browser with Chrome extension support](https://searchbrowser.app/)
 * [2026-11-18, 20:01:50](https://news.ycombinator.com/item?id=50551359) - [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
 * [2026-11-18, 19:39:16](https://news.ycombinator.com/item?id=50551046) - [DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b)
+* [2026-11-18, 18:53:17](https://news.ycombinator.com/item?id=50550461) - [Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys](https://tin.computer/blog/fake-ai-crawler-secrets-scanners)
 * [2026-11-18, 18:49:51](https://news.ycombinator.com/item?id=50550415) - [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
 * [2026-11-18, 18:39:28](https://news.ycombinator.com/item?id=50550264) - [When Free Software Isn't Free Enough](https://foss.life/notes/2026/free-software-isnt-free-enough/)
 * [2026-11-18, 18:29:03](https://news.ycombinator.com/item?id=50550096) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
@@ -27,7 +27,7 @@
 * [2026-11-18, 13:18:02](https://news.ycombinator.com/item?id=50545958) - [DNS resolvers are the wrong place to fight piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
 * [2026-11-18, 12:00:16](https://news.ycombinator.com/item?id=50545238) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)
 * [2026-11-18, 09:29:32](https://news.ycombinator.com/item?id=50543989) - [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
-* [2026-11-16, 14:18:15](https://news.ycombinator.com/item?id=50517840) - [Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck](https://github.com/mr-anjaneyam/Emittr)
+* [2026-11-15, 20:30:42](https://news.ycombinator.com/item?id=50510385) - [Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon](https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/)
 * [2026-11-15, 19:42:59](https://news.ycombinator.com/item?id=50509980) - [A live service duress prototype](https://github.com/Ymsniper/vault-share)
 * [2026-11-15, 09:12:55](https://news.ycombinator.com/item?id=50505310) - [The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter](https://americanhandgunner.com/handguns/revolvers/the-first-revolver/)
 

@@ -20,6 +20,7 @@
 * [2026-11-15, 21:27:29](https://news.ycombinator.com/item?id=50510969) - [Why did modems have speakers? (2019)](https://retrocomputing.stackexchange.com/questions/11765)
 * [2026-11-15, 21:10:39](https://news.ycombinator.com/item?id=50510799) - [Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)
 * [2026-11-15, 20:37:28](https://news.ycombinator.com/item?id=50510442) - [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)
+* [2026-11-15, 20:30:42](https://news.ycombinator.com/item?id=50510385) - [Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon](https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/)
 * [2026-11-15, 20:20:05](https://news.ycombinator.com/item?id=50510296) - [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
 * [2026-11-15, 20:08:16](https://news.ycombinator.com/item?id=50510198) - [Sell Your Game Outside Steam: Keys, Downloads and Direct Sales](https://permitcore.dev/blog/sell-game-outside-steam)
 * [2026-11-15, 19:49:28](https://news.ycombinator.com/item?id=50510042) - [Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence](https://news.ycombinator.com/item?id=50510042)
