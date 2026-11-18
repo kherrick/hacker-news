@@ -7,6 +7,7 @@
 * [2026-11-18, 20:04:31](https://news.ycombinator.com/item?id=50551398) - [Search Browser – Minimalist WebKit browser with Chrome extension support](https://searchbrowser.app/)
 * [2026-11-18, 20:01:50](https://news.ycombinator.com/item?id=50551359) - [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
 * [2026-11-18, 19:39:16](https://news.ycombinator.com/item?id=50551046) - [DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b)
+* [2026-11-18, 18:53:17](https://news.ycombinator.com/item?id=50550461) - [Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys](https://tin.computer/blog/fake-ai-crawler-secrets-scanners)
 * [2026-11-18, 18:49:51](https://news.ycombinator.com/item?id=50550415) - [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
 * [2026-11-18, 18:39:28](https://news.ycombinator.com/item?id=50550264) - [When Free Software Isn't Free Enough](https://foss.life/notes/2026/free-software-isnt-free-enough/)
 * [2026-11-18, 18:29:03](https://news.ycombinator.com/item?id=50550096) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
