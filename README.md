@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-18, 05:11:30](https://news.ycombinator.com/item?id=50542135) - [Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
 * [2026-11-18, 04:30:22](https://news.ycombinator.com/item?id=50541897) - [Hex: Voice Dictation](https://anoma.ly/hex/)
 * [2026-11-18, 04:14:04](https://news.ycombinator.com/item?id=50541790) - [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
 * [2026-11-18, 03:37:35](https://news.ycombinator.com/item?id=50541550) - [H-1B Executive Actions in 2026 [pdf]](https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf)
@@ -9,14 +10,12 @@
 * [2026-11-18, 00:17:58](https://news.ycombinator.com/item?id=50540178) - [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)
 * [2026-11-17, 23:32:58](https://news.ycombinator.com/item?id=50539747) - [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions)
 * [2026-11-17, 23:18:49](https://news.ycombinator.com/item?id=50539610) - [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)
-* [2026-11-17, 22:17:18](https://news.ycombinator.com/item?id=50539039) - [Latent Lattice Language Models](https://shivamduggal4.github.io/latent-lattice-language-models/)
 * [2026-11-17, 22:13:34](https://news.ycombinator.com/item?id=50538994) - [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
 * [2026-11-17, 21:16:12](https://news.ycombinator.com/item?id=50538303) - [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
 * [2026-11-17, 21:11:28](https://news.ycombinator.com/item?id=50538240) - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
 * [2026-11-17, 21:06:08](https://news.ycombinator.com/item?id=50538184) - [Tencent Hy4 Flash](https://hy.tencent.ai/research/hy4-flash)
 * [2026-11-17, 20:01:35](https://news.ycombinator.com/item?id=50537290) - [Web Browser Engineering (2021)](https://browser.engineering/)
 * [2026-11-17, 19:50:40](https://news.ycombinator.com/item?id=50537156) - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
-* [2026-11-17, 19:46:57](https://news.ycombinator.com/item?id=50537120) - [Effects of a Nuclear Detonation in Low Earth Orbit](https://arxiv.org/abs/2611.09827)
 * [2026-11-17, 19:25:27](https://news.ycombinator.com/item?id=50536813) - [350 years ago, Ole Rømer discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
 * [2026-11-17, 19:01:43](https://news.ycombinator.com/item?id=50536468) - [Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos](https://starsling.dev)
 * [2026-11-17, 18:56:17](https://news.ycombinator.com/item?id=50536387) - [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold/)
@@ -30,6 +29,7 @@
 * [2026-11-17, 14:53:43](https://news.ycombinator.com/item?id=50532191) - [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
 * [2026-11-15, 02:45:57](https://news.ycombinator.com/item?id=50503492) - [Fun with Constrained Programming](https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html)
 * [2026-11-14, 22:49:20](https://news.ycombinator.com/item?id=50501829) - [Duality of Quadrilaterals via Quaternions [pdf]](https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=1193&context=surp)
+* [2026-11-14, 21:41:51](https://news.ycombinator.com/item?id=50501205) - [A repo of information for Zoom R8 firmware development](https://github.com/aturley/zoom-r8-hardware-and-firmware)
 
 ## [Archives](archives/index.md)
 

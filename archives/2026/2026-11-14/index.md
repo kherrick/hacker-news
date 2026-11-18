@@ -10,6 +10,7 @@
 * [2026-11-14, 22:26:30](https://news.ycombinator.com/item?id=50501631) - [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
 * [2026-11-14, 22:22:49](https://news.ycombinator.com/item?id=50501594) - [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
 * [2026-11-14, 22:13:06](https://news.ycombinator.com/item?id=50501515) - [Mullvad VPN – Privacy is for the people](https://mullvad.net/en)
+* [2026-11-14, 21:41:51](https://news.ycombinator.com/item?id=50501205) - [A repo of information for Zoom R8 firmware development](https://github.com/aturley/zoom-r8-hardware-and-firmware)
 * [2026-11-14, 21:22:24](https://news.ycombinator.com/item?id=50500963) - [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
 * [2026-11-14, 21:22:24](https://news.ycombinator.com/item?id=50500963) - [SpaceX Catches the Starship to end Flight 15](https://x.com/i/broadcasts/2brajgZlOKRMka)
 * [2026-11-14, 19:23:40](https://news.ycombinator.com/item?id=50499945) - [Dartmouth (Guarini) will not admit math PhD cohort this year](https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year)
