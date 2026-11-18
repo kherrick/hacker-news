@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 11:45:02](https://news.ycombinator.com/item?id=50545118) - [I had AI read my entire field, Theoretical Astrophysics](https://science.caseyhandmer.com/physics/)
 * [2026-11-18, 10:02:17](https://news.ycombinator.com/item?id=50544261) - [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)
 * [2026-11-18, 09:29:32](https://news.ycombinator.com/item?id=50543989) - [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
 * [2026-11-18, 08:17:44](https://news.ycombinator.com/item?id=50543343) - [Talos Linux](https://www.siderolabs.com/talos-linux)
