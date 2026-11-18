@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-18, 18:29:03](https://news.ycombinator.com/item?id=50550096) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
+* [2026-11-18, 18:00:55](https://news.ycombinator.com/item?id=50549718) - [Show HN: BPM – Baby Plus Music Visualizer](https://hberg.com/bpm/)
 * [2026-11-18, 17:45:47](https://news.ycombinator.com/item?id=50549493) - [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/)
 * [2026-11-18, 17:41:57](https://news.ycombinator.com/item?id=50549441) - [Forking TuxGuitar into a 17-EDO tab editor](https://frogwizard.bearblog.dev/tuxguitar-17edo/)
 * [2026-11-18, 17:41:48](https://news.ycombinator.com/item?id=50549438) - [Lakegres: Vector search on existing Open/Hudi/Iceberg tables](https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats)
@@ -29,7 +30,6 @@
 * [2026-11-18, 09:29:32](https://news.ycombinator.com/item?id=50543989) - [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
 * [2026-11-16, 14:18:15](https://news.ycombinator.com/item?id=50517840) - [Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck](https://github.com/mr-anjaneyam/Emittr)
 * [2026-11-15, 16:46:13](https://news.ycombinator.com/item?id=50508356) - [New FreeBSD Pkgbase(8) Tool](https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/)
-* [2026-11-14, 21:11:46](https://news.ycombinator.com/item?id=50500863) - [Demazure Operators for Beginners](https://webspace.science.uu.nl/~kalle101/Demazure.html)
 
 ## [Archives](archives/index.md)
 
