@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-18, 14:43:52](https://news.ycombinator.com/item?id=50546914) - ['Human' Is Cambridge Dictionary's Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
+* [2026-11-18, 14:03:37](https://news.ycombinator.com/item?id=50546465) - [Energy drinks linked to 11 times more reports of cardiac arrest](https://www.sciencedaily.com/releases/2026/11/261110042543.htm)
 * [2026-11-18, 13:51:03](https://news.ycombinator.com/item?id=50546312) - [Can Peer Review Survive AI-Generated Text? [pdf]](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf)
 * [2026-11-18, 13:18:02](https://news.ycombinator.com/item?id=50545958) - [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
 * [2026-11-18, 12:00:16](https://news.ycombinator.com/item?id=50545238) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)
@@ -24,7 +25,6 @@
 * [2026-11-17, 17:46:43](https://news.ycombinator.com/item?id=50535230) - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
 * [2026-11-17, 17:12:06](https://news.ycombinator.com/item?id=50534631) - [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
 * [2026-11-17, 15:38:28](https://news.ycombinator.com/item?id=50532849) - [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
-* [2026-11-17, 14:53:43](https://news.ycombinator.com/item?id=50532191) - [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
 * [2026-11-16, 14:26:10](https://news.ycombinator.com/item?id=50517929) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
 * [2026-11-15, 18:06:13](https://news.ycombinator.com/item?id=50509141) - [IPv6 delegation, an unusually subtle failure mode](https://savyasacheejha.com/posts/why-odhcpd/)
 * [2026-11-15, 15:59:23](https://news.ycombinator.com/item?id=50507918) - [When AI Knows More Than It Can Offer](https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e)
