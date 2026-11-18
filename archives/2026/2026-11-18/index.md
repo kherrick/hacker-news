@@ -6,7 +6,9 @@
 
 * [2026-11-18, 05:35:02](https://news.ycombinator.com/item?id=50542264) - [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
 * [2026-11-18, 05:26:41](https://news.ycombinator.com/item?id=50542217) - [I had AI read my field](https://science.caseyhandmer.com/physics/)
+* [2026-11-18, 05:21:07](https://news.ycombinator.com/item?id=50542181) - [Optimjack from the Outside: The Hijacked Script Was on Our Radar](https://blog.fortirix.com/blog/optimjack/)
 * [2026-11-18, 05:11:30](https://news.ycombinator.com/item?id=50542135) - [Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
+* [2026-11-18, 05:08:05](https://news.ycombinator.com/item?id=50542120) - [Horizon Opens to Early Users: America's Most Powerful Academic Supercomputer](https://news.utexas.edu/2026/11/17/horizon-opens-to-early-users-americas-most-powerful-academic-supercomputer-begins-serving-science/)
 * [2026-11-18, 04:30:22](https://news.ycombinator.com/item?id=50541897) - [Hex: Voice Dictation](https://anoma.ly/hex/)
 * [2026-11-18, 04:14:04](https://news.ycombinator.com/item?id=50541790) - [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
 * [2026-11-18, 03:54:17](https://news.ycombinator.com/item?id=50541665) - [How Warp Speed Works (2023)](https://science.howstuffworks.com/warp-speed.htm)
