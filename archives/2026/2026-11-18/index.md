@@ -6,6 +6,7 @@
 
 * [2026-11-18, 18:49:51](https://news.ycombinator.com/item?id=50550415) - [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
 * [2026-11-18, 18:29:03](https://news.ycombinator.com/item?id=50550096) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
+* [2026-11-18, 18:26:19](https://news.ycombinator.com/item?id=50550062) - [Scottish HTTP Codes](https://underwood.network/http/scots.html)
 * [2026-11-18, 18:19:42](https://news.ycombinator.com/item?id=50549967) - [Nvidia Hit with a Ransomware](https://www.ransomware.live/id/TlZJRElBQHRoZWdlbnRsZW1lbg)
 * [2026-11-18, 18:00:55](https://news.ycombinator.com/item?id=50549718) - [Show HN: BPM – Baby Plus Music Visualizer](https://hberg.com/bpm/)
 * [2026-11-18, 18:00:18](https://news.ycombinator.com/item?id=50549711) - [Who made the strawberry? 14 days of logs building a procedural fruit with agents](https://strawberry-methodology.pages.dev)

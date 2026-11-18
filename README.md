@@ -2,8 +2,8 @@
 
 * [2026-11-18, 18:49:51](https://news.ycombinator.com/item?id=50550415) - [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
 * [2026-11-18, 18:29:03](https://news.ycombinator.com/item?id=50550096) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
+* [2026-11-18, 18:26:19](https://news.ycombinator.com/item?id=50550062) - [Scottish HTTP Codes](https://underwood.network/http/scots.html)
 * [2026-11-18, 17:45:47](https://news.ycombinator.com/item?id=50549493) - [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/)
-* [2026-11-18, 17:41:57](https://news.ycombinator.com/item?id=50549441) - [Forking TuxGuitar into a 17-EDO tab editor](https://frogwizard.bearblog.dev/tuxguitar-17edo/)
 * [2026-11-18, 17:41:48](https://news.ycombinator.com/item?id=50549438) - [Lakegres: Vector search on existing Open/Hudi/Iceberg tables](https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats)
 * [2026-11-18, 17:26:28](https://news.ycombinator.com/item?id=50549188) - [Launch HN: Maritime (YC F26) – A managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188)
 * [2026-11-18, 17:14:31](https://news.ycombinator.com/item?id=50548991) - [CrossPoint Reader](https://crosspointreader.com)
