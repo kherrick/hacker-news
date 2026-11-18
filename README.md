@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-18, 17:05:13](https://news.ycombinator.com/item?id=50548828) - [Stop Deploying to ECS Just to See If Your Code Works](https://metalbear.com/blog/stop-deploying-to-ecs/)
 * [2026-11-18, 16:41:22](https://news.ycombinator.com/item?id=50548485) - [\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety](https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO)
 * [2026-11-18, 16:26:42](https://news.ycombinator.com/item?id=50548281) - [Software Factory builds 30 complex open source libraries in a month](https://recursiveai.org/blog/what-my-software-factory-built/)
 * [2026-11-18, 16:22:23](https://news.ycombinator.com/item?id=50548214) - [RFC 2675: IPv6 Jumbograms](https://www.rfc-editor.org/info/rfc2675/)
@@ -24,7 +25,6 @@
 * [2026-11-18, 11:11:53](https://news.ycombinator.com/item?id=50544821) - [Show HN: Type Fighter 2](https://typefighter2.com/)
 * [2026-11-18, 09:29:32](https://news.ycombinator.com/item?id=50543989) - [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
 * [2026-11-18, 04:14:04](https://news.ycombinator.com/item?id=50541790) - [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
-* [2026-11-17, 21:11:28](https://news.ycombinator.com/item?id=50538240) - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
 * [2026-11-16, 14:26:10](https://news.ycombinator.com/item?id=50517929) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
 * [2026-11-15, 16:46:13](https://news.ycombinator.com/item?id=50508356) - [New FreeBSD Pkgbase(8) Tool](https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/)
 * [2026-11-15, 15:59:23](https://news.ycombinator.com/item?id=50507918) - [When AI Knows More Than It Can Offer](https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e)
