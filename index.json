@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-18, 05:35:02",
+      "https://news.ycombinator.com/item?id=50542264"
+    ],
+    [
+      "Why Fibonacci?",
+      "https://www.evilgeniuslabs.org/why-fibonacci"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 05:26:41",
+      "https://news.ycombinator.com/item?id=50542217"
+    ],
+    [
+      "I had AI read my field",
+      "https://science.caseyhandmer.com/physics/"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 05:11:30",
       "https://news.ycombinator.com/item?id=50542135"
     ],
@@ -87,16 +107,6 @@
     [
       "Microsoft's ONNX Runtime has disappeared from GitHub",
       "https://github.com/microsoft/onnxruntime"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 22:17:18",
-      "https://news.ycombinator.com/item?id=50539039"
-    ],
-    [
-      "Latent Lattice Language Models",
-      "https://shivamduggal4.github.io/latent-lattice-language-models/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "MAI Code 2 and Code 2 Flash",
       "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 18:16:18",
-      "https://news.ycombinator.com/item?id=50535740"
-    ],
-    [
-      "Not Everything Needs an LLM",
-      "https://newsletter.posthog.com/p/decision-models"
     ]
   ],
   [
