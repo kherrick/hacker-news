@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-18, 17:05:13",
+      "https://news.ycombinator.com/item?id=50548828"
+    ],
+    [
+      "Stop Deploying to ECS Just to See If Your Code Works",
+      "https://metalbear.com/blog/stop-deploying-to-ecs/"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 16:41:22",
       "https://news.ycombinator.com/item?id=50548485"
     ],
@@ -237,16 +247,6 @@
     [
       "Why is Gemini 4 Carbon taking so long?",
       "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 21:11:28",
-      "https://news.ycombinator.com/item?id=50538240"
-    ],
-    [
-      "Java4Shell: RCE in OpenJDK when processing Base64",
-      "https://calif.io/java4shell/"
     ]
   ],
   [
