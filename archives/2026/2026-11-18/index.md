@@ -6,6 +6,7 @@
 
 * [2026-11-18, 16:18:51](https://news.ycombinator.com/item?id=50548161) - [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
 * [2026-11-18, 16:08:24](https://news.ycombinator.com/item?id=50548021) - [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
+* [2026-11-18, 16:06:21](https://news.ycombinator.com/item?id=50548004) - [CVE-2026-99312: KVM Guest-to-Host Escape](https://www.terra.security/blog/kvm-guest-to-host-escape)
 * [2026-11-18, 16:04:43](https://news.ycombinator.com/item?id=50547980) - [Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365](https://exitpath-ruddy.vercel.app/)
 * [2026-11-18, 15:38:33](https://news.ycombinator.com/item?id=50547620) - [Deutsche Bank](https://www.inside-db.com/)
 * [2026-11-18, 15:35:44](https://news.ycombinator.com/item?id=50547583) - [U.S. AirForce is looking for old storage Media (CF or PC cards)](https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view)

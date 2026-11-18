@@ -2,6 +2,7 @@
 
 * [2026-11-18, 16:18:51](https://news.ycombinator.com/item?id=50548161) - [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
 * [2026-11-18, 16:08:24](https://news.ycombinator.com/item?id=50548021) - [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
+* [2026-11-18, 16:06:21](https://news.ycombinator.com/item?id=50548004) - [CVE-2026-99312: KVM Guest-to-Host Escape](https://www.terra.security/blog/kvm-guest-to-host-escape)
 * [2026-11-18, 16:04:43](https://news.ycombinator.com/item?id=50547980) - [Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365](https://exitpath-ruddy.vercel.app/)
 * [2026-11-18, 15:38:33](https://news.ycombinator.com/item?id=50547620) - [Deutsche Bank](https://www.inside-db.com/)
 * [2026-11-18, 15:35:44](https://news.ycombinator.com/item?id=50547583) - [U.S. AirForce is looking for old storage Media (CF or PC cards)](https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view)
@@ -23,12 +24,11 @@
 * [2026-11-17, 23:18:49](https://news.ycombinator.com/item?id=50539610) - [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)
 * [2026-11-17, 21:16:12](https://news.ycombinator.com/item?id=50538303) - [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
 * [2026-11-17, 21:11:28](https://news.ycombinator.com/item?id=50538240) - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
-* [2026-11-17, 19:25:27](https://news.ycombinator.com/item?id=50536813) - [350 years ago, Ole Rømer discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
 * [2026-11-17, 18:31:25](https://news.ycombinator.com/item?id=50535992) - [Phrack 73](https://phrack.org/issues/73/introduction_md)
-* [2026-11-17, 18:25:13](https://news.ycombinator.com/item?id=50535885) - [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
 * [2026-11-16, 14:26:10](https://news.ycombinator.com/item?id=50517929) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
 * [2026-11-15, 16:46:13](https://news.ycombinator.com/item?id=50508356) - [New FreeBSD Pkgbase(8) Tool](https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/)
 * [2026-11-15, 15:59:23](https://news.ycombinator.com/item?id=50507918) - [When AI Knows More Than It Can Offer](https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e)
+* [2026-11-15, 12:27:07](https://news.ycombinator.com/item?id=50506430) - [What is the randomart image for? (2023)](https://bytes.zone/posts/what-is-the-randomart-image-for/)
 * [2026-11-15, 05:54:22](https://news.ycombinator.com/item?id=50504373) - [A Perfect SimCity](https://www.jeffquast.com/post/a-perfect-simcity/)
 
 ## [Archives](archives/index.md)
