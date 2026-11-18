@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 06:47:26](https://news.ycombinator.com/item?id=50542705) - [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai)
 * [2026-11-18, 05:35:02](https://news.ycombinator.com/item?id=50542264) - [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
 * [2026-11-18, 05:26:41](https://news.ycombinator.com/item?id=50542217) - [I had AI read my field](https://science.caseyhandmer.com/physics/)
 * [2026-11-18, 05:21:07](https://news.ycombinator.com/item?id=50542181) - [Optimjack from the Outside: The Hijacked Script Was on Our Radar](https://blog.fortirix.com/blog/optimjack/)
