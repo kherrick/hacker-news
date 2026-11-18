@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-11-18, 10:02:17",
-      "https://news.ycombinator.com/item?id=50544261"
-    ],
-    [
-      "Codeberg.org Not Reachable",
-      "https://social.anoxinon.de/@codebergstatus/117636437840688845"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 09:29:32",
       "https://news.ycombinator.com/item?id=50543989"
     ],
@@ -297,6 +287,16 @@
     [
       "A Perfect SimCity",
       "https://www.jeffquast.com/post/a-perfect-simcity/"
+    ]
+  ],
+  [
+    [
+      "2026-11-15, 00:34:12",
+      "https://news.ycombinator.com/item?id=50502667"
+    ],
+    [
+      "Dissecting Spring petclinic (Part 2 – Bending the persistence)",
+      "https://hannomalie.github.io/posts/dissecting-spring-petclinic-persistence.html"
     ]
   ]
 ]
