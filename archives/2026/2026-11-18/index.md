@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 18:49:51](https://news.ycombinator.com/item?id=50550415) - [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
 * [2026-11-18, 18:29:03](https://news.ycombinator.com/item?id=50550096) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
 * [2026-11-18, 18:19:42](https://news.ycombinator.com/item?id=50549967) - [Nvidia Hit with a Ransomware](https://www.ransomware.live/id/TlZJRElBQHRoZWdlbnRsZW1lbg)
 * [2026-11-18, 18:00:55](https://news.ycombinator.com/item?id=50549718) - [Show HN: BPM – Baby Plus Music Visualizer](https://hberg.com/bpm/)
@@ -15,6 +16,7 @@
 * [2026-11-18, 17:26:28](https://news.ycombinator.com/item?id=50549188) - [Launch HN: Maritime (YC F26) – The managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188)
 * [2026-11-18, 17:14:31](https://news.ycombinator.com/item?id=50548991) - [CrossPoint Reader](https://crosspointreader.com)
 * [2026-11-18, 17:05:13](https://news.ycombinator.com/item?id=50548828) - [Stop Deploying to ECS Just to See If Your Code Works](https://metalbear.com/blog/stop-deploying-to-ecs/)
+* [2026-11-18, 16:53:42](https://news.ycombinator.com/item?id=50548660) - [Show HN: Mastra Factory, the open-source software factory we use to build Mastra](https://news.ycombinator.com/item?id=50548660)
 * [2026-11-18, 16:52:08](https://news.ycombinator.com/item?id=50548633) - [Pikuma: Fundamentals of Computer Science and Mathematics](https://pikuma.com/)
 * [2026-11-18, 16:41:22](https://news.ycombinator.com/item?id=50548485) - [\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety](https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO)
 * [2026-11-18, 16:26:42](https://news.ycombinator.com/item?id=50548281) - [Software Factory builds 30 complex open source libraries in a month](https://recursiveai.org/blog/what-my-software-factory-built/)
@@ -22,6 +24,7 @@
 * [2026-11-18, 16:18:51](https://news.ycombinator.com/item?id=50548161) - [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
 * [2026-11-18, 16:09:50](https://news.ycombinator.com/item?id=50548038) - [SuperEMeans: Making e-means 3× faster](https://www.lkuffo.com/superemeans/)
 * [2026-11-18, 16:08:24](https://news.ycombinator.com/item?id=50548021) - [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
+* [2026-11-18, 16:06:21](https://news.ycombinator.com/item?id=50548004) - [KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)](https://www.cve.org/CVERecord?id=CVE-2026-99312)
 * [2026-11-18, 16:06:21](https://news.ycombinator.com/item?id=50548004) - [CVE-2026-99312: KVM Guest-to-Host Escape](https://www.terra.security/blog/kvm-guest-to-host-escape)
 * [2026-11-18, 16:04:43](https://news.ycombinator.com/item?id=50547980) - [Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365](https://exitpath-ruddy.vercel.app/)
 * [2026-11-18, 15:52:01](https://news.ycombinator.com/item?id=50547813) - [Ratwires – The Graffiti Wall of the Internet](https://ratwire.space/)
