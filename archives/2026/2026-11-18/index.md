@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 22:26:48](https://news.ycombinator.com/item?id=50553192) - [GTA6-like as a 942Kb UEFI bootable image](https://github.com/eklavya-raj/gta6-uefi)
 * [2026-11-18, 21:34:07](https://news.ycombinator.com/item?id=50552424) - [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 * [2026-11-18, 21:11:10](https://news.ycombinator.com/item?id=50552169) - [Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights](https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/)
 * [2026-11-18, 20:22:06](https://news.ycombinator.com/item?id=50551619) - [How to Bypass Rust's Orphan Rule](https://edvong.com/bypass-orphan-rule/)

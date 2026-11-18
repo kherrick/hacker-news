@@ -9,6 +9,7 @@
 * [2026-11-16, 22:58:20](https://news.ycombinator.com/item?id=50524736) - [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
 * [2026-11-16, 22:57:49](https://news.ycombinator.com/item?id=50524728) - [US will say \"no\" to global ban on killer robots](https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369)
 * [2026-11-16, 22:22:18](https://news.ycombinator.com/item?id=50524260) - [United Airlines has a widespread system outage](https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff)
+* [2026-11-16, 22:19:31](https://news.ycombinator.com/item?id=50524227) - [A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover](https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/)
 * [2026-11-16, 22:19:23](https://news.ycombinator.com/item?id=50524225) - [How to Break into Security, Ptacek Edition](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
 * [2026-11-16, 22:14:38](https://news.ycombinator.com/item?id=50524165) - [United Airlines Widespread System Outage](https://www.cnn.com/2026/11/16/us/united-airlines-outage)
 * [2026-11-16, 21:47:19](https://news.ycombinator.com/item?id=50523784) - [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
