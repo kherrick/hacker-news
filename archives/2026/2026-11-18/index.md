@@ -25,6 +25,7 @@
 * [2026-11-18, 14:47:53](https://news.ycombinator.com/item?id=50546967) - [The x86 CPU: From 4004 to 486](https://pikuma.com/blog/history-of-x86-4004-to-486)
 * [2026-11-18, 14:44:33](https://news.ycombinator.com/item?id=50546922) - [A Primer on Fourier Series](https://arxiv.org/abs/2510.18203)
 * [2026-11-18, 14:43:52](https://news.ycombinator.com/item?id=50546914) - ['Human' Is Cambridge Dictionary's Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
+* [2026-11-18, 14:42:25](https://news.ycombinator.com/item?id=50546900) - [Can Universities Survive? AI vs. Higher Education [audio]](https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education)
 * [2026-11-18, 14:03:37](https://news.ycombinator.com/item?id=50546465) - [Energy drinks linked to 11 times more reports of cardiac arrest](https://www.sciencedaily.com/releases/2026/11/261110042543.htm)
 * [2026-11-18, 13:51:03](https://news.ycombinator.com/item?id=50546312) - [Can Peer Review Survive AI-Generated Text? [pdf]](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf)
 * [2026-11-18, 13:18:02](https://news.ycombinator.com/item?id=50545958) - [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
