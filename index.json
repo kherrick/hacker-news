@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-11-18, 17:41:48",
+      "https://news.ycombinator.com/item?id=50549438"
+    ],
+    [
+      "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
+      "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 17:26:28",
       "https://news.ycombinator.com/item?id=50549188"
     ],
     [
       "Launch HN: Maritime (YC F26) – The managed cloud for production AI agents",
       "https://news.ycombinator.com/item?id=50549188"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 17:05:13",
-      "https://news.ycombinator.com/item?id=50548828"
-    ],
-    [
-      "Stop Deploying to ECS Just to See If Your Code Works",
-      "https://metalbear.com/blog/stop-deploying-to-ecs/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-11-15, 12:27:07",
-      "https://news.ycombinator.com/item?id=50506430"
-    ],
-    [
-      "What is the randomart image for? (2023)",
-      "https://bytes.zone/posts/what-is-the-randomart-image-for/"
-    ]
-  ],
-  [
-    [
       "2026-11-15, 05:54:22",
       "https://news.ycombinator.com/item?id=50504373"
     ],
     [
       "A Perfect SimCity",
       "https://www.jeffquast.com/post/a-perfect-simcity/"
+    ]
+  ],
+  [
+    [
+      "2026-11-14, 21:11:46",
+      "https://news.ycombinator.com/item?id=50500863"
+    ],
+    [
+      "Demazure Operators for Beginners",
+      "https://webspace.science.uu.nl/~kalle101/Demazure.html"
     ]
   ]
 ]
