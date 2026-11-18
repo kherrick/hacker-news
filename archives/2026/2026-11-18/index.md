@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 17:26:28](https://news.ycombinator.com/item?id=50549188) - [Launch HN: Maritime (YC F26) – The managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188)
 * [2026-11-18, 17:05:13](https://news.ycombinator.com/item?id=50548828) - [Stop Deploying to ECS Just to See If Your Code Works](https://metalbear.com/blog/stop-deploying-to-ecs/)
 * [2026-11-18, 16:41:22](https://news.ycombinator.com/item?id=50548485) - [\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety](https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO)
 * [2026-11-18, 16:26:42](https://news.ycombinator.com/item?id=50548281) - [Software Factory builds 30 complex open source libraries in a month](https://recursiveai.org/blog/what-my-software-factory-built/)
