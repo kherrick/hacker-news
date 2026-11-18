@@ -40,6 +40,7 @@
 * [2026-11-15, 16:49:41](https://news.ycombinator.com/item?id=50508388) - [How a Pirate \"Free Netflix\" App Smuggles Video Inside .jpg Files](https://networkshard.com/blog/netmirror-smuggled-video/)
 * [2026-11-15, 16:16:26](https://news.ycombinator.com/item?id=50508076) - [What Picasso taught me about building AI Agents](https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/)
 * [2026-11-15, 16:05:53](https://news.ycombinator.com/item?id=50507989) - [The Atheist Bible](https://suchanek.name/texts/atheism/)
+* [2026-11-15, 15:59:23](https://news.ycombinator.com/item?id=50507918) - [When AI Knows More Than It Can Offer](https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e)
 * [2026-11-15, 15:55:08](https://news.ycombinator.com/item?id=50507870) - [New open source C4 Diagram tool](https://www.youtube.com/watch?v=ZCAHP50Zly8)
 * [2026-11-15, 15:45:42](https://news.ycombinator.com/item?id=50507791) - ['Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story](https://www.commondreams.org/news/duffy-ground-stop-explanation)
 * [2026-11-15, 15:37:52](https://news.ycombinator.com/item?id=50507722) - [Show HN: A tiny macOS app that turns off the MacBook display [free license]](https://blackoutapp.io/)
