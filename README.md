@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-18, 05:35:02](https://news.ycombinator.com/item?id=50542264) - [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
-* [2026-11-18, 05:21:07](https://news.ycombinator.com/item?id=50542181) - [Optimjack from the Outside: The Hijacked Script Was on Our Radar](https://blog.fortirix.com/blog/optimjack/)
 * [2026-11-18, 05:11:30](https://news.ycombinator.com/item?id=50542135) - [Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
 * [2026-11-18, 04:30:22](https://news.ycombinator.com/item?id=50541897) - [Hex: Voice Dictation](https://anoma.ly/hex/)
 * [2026-11-18, 04:14:04](https://news.ycombinator.com/item?id=50541790) - [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
@@ -29,6 +28,7 @@
 * [2026-11-17, 17:12:06](https://news.ycombinator.com/item?id=50534631) - [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
 * [2026-11-17, 15:38:28](https://news.ycombinator.com/item?id=50532849) - [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
 * [2026-11-17, 14:53:43](https://news.ycombinator.com/item?id=50532191) - [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
+* [2026-11-16, 13:30:30](https://news.ycombinator.com/item?id=50517410) - [Show HN: Unref – A Python dead code finder built on Ruff's parser](https://github.com/Apakottur/unref)
 * [2026-11-15, 02:45:57](https://news.ycombinator.com/item?id=50503492) - [Fun with Constrained Programming](https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html)
 
 ## [Archives](archives/index.md)
