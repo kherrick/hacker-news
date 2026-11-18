@@ -4,7 +4,6 @@
 * [2026-11-18, 13:18:02](https://news.ycombinator.com/item?id=50545958) - [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
 * [2026-11-18, 12:00:16](https://news.ycombinator.com/item?id=50545238) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)
 * [2026-11-18, 11:11:53](https://news.ycombinator.com/item?id=50544821) - [Show HN: Type Fighter 2](https://typefighter2.com/)
-* [2026-11-18, 10:02:17](https://news.ycombinator.com/item?id=50544261) - [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)
 * [2026-11-18, 09:29:32](https://news.ycombinator.com/item?id=50543989) - [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
 * [2026-11-18, 06:47:26](https://news.ycombinator.com/item?id=50542705) - [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai)
 * [2026-11-18, 04:14:04](https://news.ycombinator.com/item?id=50541790) - [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
@@ -30,6 +29,7 @@
 * [2026-11-15, 18:06:13](https://news.ycombinator.com/item?id=50509141) - [IPv6 delegation, an unusually subtle failure mode](https://savyasacheejha.com/posts/why-odhcpd/)
 * [2026-11-15, 15:59:23](https://news.ycombinator.com/item?id=50507918) - [When AI Knows More Than It Can Offer](https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e)
 * [2026-11-15, 05:54:22](https://news.ycombinator.com/item?id=50504373) - [A Perfect SimCity](https://www.jeffquast.com/post/a-perfect-simcity/)
+* [2026-11-15, 00:34:12](https://news.ycombinator.com/item?id=50502667) - [Dissecting Spring petclinic (Part 2 – Bending the persistence)](https://hannomalie.github.io/posts/dissecting-spring-petclinic-persistence.html)
 
 ## [Archives](archives/index.md)
 

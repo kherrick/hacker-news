@@ -78,3 +78,4 @@
 * [2026-11-15, 00:56:45](https://news.ycombinator.com/item?id=50502839) - [Show HN: A custom font based on the Jamaican flag alphabet](https://bobbiec.github.io/jamaican-font.html)
 * [2026-11-15, 00:49:56](https://news.ycombinator.com/item?id=50502789) - [Jensen Huang Fucked Everybody](https://www.theringer.com/2026/11/12/tech/jensen-huang-nvidia-ceo-resignation-chinese-spy-stock-market)
 * [2026-11-15, 00:48:11](https://news.ycombinator.com/item?id=50502768) - [US loses measles-free status: Pan American Health Organization](https://www.paho.org/en/news/10-11-2025-paho-calls-regional-action-americas-lose-measles-elimination-status)
+* [2026-11-15, 00:34:12](https://news.ycombinator.com/item?id=50502667) - [Dissecting Spring petclinic (Part 2 – Bending the persistence)](https://hannomalie.github.io/posts/dissecting-spring-petclinic-persistence.html)
