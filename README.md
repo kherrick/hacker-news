@@ -23,12 +23,12 @@
 * [2026-11-18, 14:47:53](https://news.ycombinator.com/item?id=50546967) - [The x86 CPU: From 4004 to 486](https://pikuma.com/blog/history-of-x86-4004-to-486)
 * [2026-11-18, 14:44:33](https://news.ycombinator.com/item?id=50546922) - [A Primer on Fourier Series](https://arxiv.org/abs/2510.18203)
 * [2026-11-18, 14:43:52](https://news.ycombinator.com/item?id=50546914) - ['Human' Is Cambridge Dictionary's Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
+* [2026-11-18, 14:42:25](https://news.ycombinator.com/item?id=50546900) - [Can Universities Survive? AI vs. Higher Education [audio]](https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education)
 * [2026-11-18, 13:18:02](https://news.ycombinator.com/item?id=50545958) - [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
 * [2026-11-18, 12:00:16](https://news.ycombinator.com/item?id=50545238) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)
 * [2026-11-18, 11:11:53](https://news.ycombinator.com/item?id=50544821) - [Show HN: Type Fighter 2](https://typefighter2.com/)
 * [2026-11-18, 09:29:32](https://news.ycombinator.com/item?id=50543989) - [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
 * [2026-11-15, 16:46:13](https://news.ycombinator.com/item?id=50508356) - [New FreeBSD Pkgbase(8) Tool](https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/)
-* [2026-11-15, 05:54:22](https://news.ycombinator.com/item?id=50504373) - [A Perfect SimCity](https://www.jeffquast.com/post/a-perfect-simcity/)
 * [2026-11-14, 21:11:46](https://news.ycombinator.com/item?id=50500863) - [Demazure Operators for Beginners](https://webspace.science.uu.nl/~kalle101/Demazure.html)
 
 ## [Archives](archives/index.md)
