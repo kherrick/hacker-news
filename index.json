@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-18, 20:20:17",
+      "https://news.ycombinator.com/item?id=50551601"
+    ],
+    [
+      "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
+      "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 20:04:31",
       "https://news.ycombinator.com/item?id=50551398"
     ],
@@ -27,16 +37,6 @@
     [
       "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
       "https://www.radixark.com/blog/daisyrose-27b"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 18:53:17",
-      "https://news.ycombinator.com/item?id=50550461"
-    ],
-    [
-      "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
-      "https://tin.computer/blog/fake-ai-crawler-secrets-scanners"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-11-18, 11:11:53",
-      "https://news.ycombinator.com/item?id=50544821"
-    ],
-    [
-      "Show HN: Type Fighter 2",
-      "https://typefighter2.com/"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 09:29:32",
       "https://news.ycombinator.com/item?id=50543989"
     ],
@@ -287,6 +277,16 @@
     [
       "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
       "https://github.com/mr-anjaneyam/Emittr"
+    ]
+  ],
+  [
+    [
+      "2026-11-15, 19:42:59",
+      "https://news.ycombinator.com/item?id=50509980"
+    ],
+    [
+      "A live service duress prototype",
+      "https://github.com/Ymsniper/vault-share"
     ]
   ],
   [
