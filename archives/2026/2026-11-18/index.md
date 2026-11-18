@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
 * [2026-11-18, 16:18:51](https://news.ycombinator.com/item?id=50548161) - [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
+* [2026-11-18, 16:09:50](https://news.ycombinator.com/item?id=50548038) - [SuperEMeans: Making e-means 3× faster](https://www.lkuffo.com/superemeans/)
 * [2026-11-18, 16:08:24](https://news.ycombinator.com/item?id=50548021) - [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
 * [2026-11-18, 16:06:21](https://news.ycombinator.com/item?id=50548004) - [CVE-2026-99312: KVM Guest-to-Host Escape](https://www.terra.security/blog/kvm-guest-to-host-escape)
 * [2026-11-18, 16:04:43](https://news.ycombinator.com/item?id=50547980) - [Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365](https://exitpath-ruddy.vercel.app/)
+* [2026-11-18, 15:49:34](https://news.ycombinator.com/item?id=50547777) - [AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
 * [2026-11-18, 15:38:33](https://news.ycombinator.com/item?id=50547620) - [Deutsche Bank](https://www.inside-db.com/)
 * [2026-11-18, 15:35:44](https://news.ycombinator.com/item?id=50547583) - [U.S. AirForce is looking for old storage Media (CF or PC cards)](https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view)
 * [2026-11-18, 15:24:17](https://news.ycombinator.com/item?id=50547423) - [NGINX2Root by Xint – From Nginx visitor to root of the server host](https://nginx2root.com/)
