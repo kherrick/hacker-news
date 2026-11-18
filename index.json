@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-11-17, 10:20:40",
-      "https://news.ycombinator.com/item?id=50529612"
-    ],
-    [
-      "How the Claude Code team thinks about verification",
-      "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
-    ]
-  ],
-  [
-    [
       "2026-11-15, 02:45:57",
       "https://news.ycombinator.com/item?id=50503492"
     ],
@@ -297,6 +287,16 @@
     [
       "Adopting Python 3.15's lazy imports: a 4× faster CLI, and where they didn't help",
       "https://namegarage.com/blog/python-3-15-lazy-imports"
+    ]
+  ],
+  [
+    [
+      "2026-11-14, 15:38:50",
+      "https://news.ycombinator.com/item?id=50497872"
+    ],
+    [
+      "Mouse Party",
+      "https://aboard.com/lets-have-a-mouse-party/"
     ]
   ]
 ]
