@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-11-17, 11:45:51",
+      "https://news.ycombinator.com/item?id=50530163"
+    ],
+    [
+      "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
+    ]
+  ],
+  [
+    [
       "2026-11-17, 10:20:40",
       "https://news.ycombinator.com/item?id=50529612"
     ],
@@ -277,16 +287,6 @@
     [
       "Fun with Constrained Programming",
       "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-15, 01:13:52",
-      "https://news.ycombinator.com/item?id=50502957"
-    ],
-    [
-      "Nozzle: A streaming library that emits when possible and buffers where necessary",
-      "https://github.com/Robert-Cunningham/nozzle"
     ]
   ],
   [
