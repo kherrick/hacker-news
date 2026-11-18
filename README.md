@@ -2,7 +2,6 @@
 
 * [2026-11-18, 05:35:02](https://news.ycombinator.com/item?id=50542264) - [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
 * [2026-11-18, 05:11:30](https://news.ycombinator.com/item?id=50542135) - [Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
-* [2026-11-18, 04:30:22](https://news.ycombinator.com/item?id=50541897) - [Hex: Voice Dictation](https://anoma.ly/hex/)
 * [2026-11-18, 04:14:04](https://news.ycombinator.com/item?id=50541790) - [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
 * [2026-11-18, 03:47:43](https://news.ycombinator.com/item?id=50541619) - [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)
 * [2026-11-18, 03:37:35](https://news.ycombinator.com/item?id=50541550) - [H-1B Executive Actions in 2026 [pdf]](https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf)
@@ -23,6 +22,7 @@
 * [2026-11-17, 18:56:17](https://news.ycombinator.com/item?id=50536387) - [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold/)
 * [2026-11-17, 18:31:25](https://news.ycombinator.com/item?id=50535992) - [Phrack 73 Released](https://phrack.org/issues/73/introduction_md)
 * [2026-11-17, 18:25:13](https://news.ycombinator.com/item?id=50535885) - [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
+* [2026-11-17, 18:16:18](https://news.ycombinator.com/item?id=50535740) - [Not Everything Needs an LLM](https://newsletter.posthog.com/p/decision-models)
 * [2026-11-17, 17:47:14](https://news.ycombinator.com/item?id=50535238) - [Apple Services Down](https://developer.apple.com/system-status/)
 * [2026-11-17, 17:46:43](https://news.ycombinator.com/item?id=50535230) - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
 * [2026-11-17, 17:12:06](https://news.ycombinator.com/item?id=50534631) - [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
