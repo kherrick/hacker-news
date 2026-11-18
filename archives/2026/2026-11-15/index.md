@@ -38,6 +38,7 @@
 * [2026-11-15, 17:34:22](https://news.ycombinator.com/item?id=50508845) - [Japan's Hometown Tax (2018)](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)
 * [2026-11-15, 17:22:32](https://news.ycombinator.com/item?id=50508715) - [Clice v1.0 Released: Welcome to Modern C++](https://ykiko.me/en/articles/2105384023094834022/)
 * [2026-11-15, 16:49:41](https://news.ycombinator.com/item?id=50508388) - [How a Pirate \"Free Netflix\" App Smuggles Video Inside .jpg Files](https://networkshard.com/blog/netmirror-smuggled-video/)
+* [2026-11-15, 16:46:13](https://news.ycombinator.com/item?id=50508356) - [New FreeBSD Pkgbase(8) Tool](https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/)
 * [2026-11-15, 16:16:26](https://news.ycombinator.com/item?id=50508076) - [What Picasso taught me about building AI Agents](https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/)
 * [2026-11-15, 16:05:53](https://news.ycombinator.com/item?id=50507989) - [The Atheist Bible](https://suchanek.name/texts/atheism/)
 * [2026-11-15, 15:59:23](https://news.ycombinator.com/item?id=50507918) - [When AI Knows More Than It Can Offer](https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e)
