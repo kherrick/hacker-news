@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 05:35:02](https://news.ycombinator.com/item?id=50542264) - [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
+* [2026-11-18, 05:26:41](https://news.ycombinator.com/item?id=50542217) - [I had AI read my field](https://science.caseyhandmer.com/physics/)
 * [2026-11-18, 05:11:30](https://news.ycombinator.com/item?id=50542135) - [Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
 * [2026-11-18, 04:30:22](https://news.ycombinator.com/item?id=50541897) - [Hex: Voice Dictation](https://anoma.ly/hex/)
 * [2026-11-18, 04:14:04](https://news.ycombinator.com/item?id=50541790) - [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
