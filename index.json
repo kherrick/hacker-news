@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-11-18, 21:11:10",
-      "https://news.ycombinator.com/item?id=50552169"
-    ],
-    [
-      "Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights",
-      "https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 20:20:17",
       "https://news.ycombinator.com/item?id=50551601"
     ],
@@ -57,6 +47,16 @@
     [
       "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
       "https://www.radixark.com/blog/daisyrose-27b"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 18:53:17",
+      "https://news.ycombinator.com/item?id=50550461"
+    ],
+    [
+      "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+      "https://tin.computer/blog/fake-ai-crawler-secrets-scanners"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-11-16, 14:18:15",
-      "https://news.ycombinator.com/item?id=50517840"
+      "2026-11-15, 20:30:42",
+      "https://news.ycombinator.com/item?id=50510385"
     ],
     [
-      "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
-      "https://github.com/mr-anjaneyam/Emittr"
+      "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
+      "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/"
     ]
   ],
   [
