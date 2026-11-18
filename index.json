@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-18, 03:35:47",
+      "https://news.ycombinator.com/item?id=50541538"
+    ],
+    [
+      "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+      "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 00:56:23",
       "https://news.ycombinator.com/item?id=50540472"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-11-17, 17:00:24",
-      "https://news.ycombinator.com/item?id=50534429"
-    ],
-    [
-      "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
-      "https://news.ycombinator.com/item?id=50534429"
-    ]
-  ],
-  [
-    [
       "2026-11-17, 15:38:28",
       "https://news.ycombinator.com/item?id=50532849"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-11-17, 11:45:51",
-      "https://news.ycombinator.com/item?id=50530163"
-    ],
-    [
-      "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
-    ]
-  ],
-  [
-    [
       "2026-11-17, 10:20:40",
       "https://news.ycombinator.com/item?id=50529612"
     ],
@@ -287,6 +277,16 @@
     [
       "Fun with Constrained Programming",
       "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-14, 15:41:51",
+      "https://news.ycombinator.com/item?id=50497903"
+    ],
+    [
+      "Adopting Python 3.15's lazy imports: a 4× faster CLI, and where they didn't help",
+      "https://namegarage.com/blog/python-3-15-lazy-imports"
     ]
   ],
   [
