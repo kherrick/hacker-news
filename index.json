@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2026-11-18, 00:56:23",
-      "https://news.ycombinator.com/item?id=50540472"
-    ],
-    [
-      "Cerebras Disaggregated Inference",
-      "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 00:51:45",
       "https://news.ycombinator.com/item?id=50540437"
     ],
@@ -157,6 +147,16 @@
     [
       "Java4Shell: RCE in OpenJDK when processing Base64",
       "https://calif.io/java4shell/"
+    ]
+  ],
+  [
+    [
+      "2026-11-17, 21:06:08",
+      "https://news.ycombinator.com/item?id=50538184"
+    ],
+    [
+      "Tencent Hy4 Flash",
+      "https://hy.tencent.ai/research/hy4-flash"
     ]
   ],
   [
