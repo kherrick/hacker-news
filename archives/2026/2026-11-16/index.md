@@ -54,6 +54,7 @@
 * [2026-11-16, 15:13:47](https://news.ycombinator.com/item?id=50518453) - [New James Bond Announced and the Name's Pattinson, Robert Pattinson](https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson)
 * [2026-11-16, 15:02:20](https://news.ycombinator.com/item?id=50518328) - [First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664)
 * [2026-11-16, 14:38:54](https://news.ycombinator.com/item?id=50518068) - [A 512 KiB binary message teaching chess without a shared language](https://artemlegotin.com/golden-board/)
+* [2026-11-16, 14:26:10](https://news.ycombinator.com/item?id=50517929) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
 * [2026-11-16, 14:17:53](https://news.ycombinator.com/item?id=50517838) - [Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops](https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint)
 * [2026-11-16, 14:15:31](https://news.ycombinator.com/item?id=50517815) - [The Active Directory Era Is Finally Over](https://infisical.com/blog/active-directory-machine-identity)
 * [2026-11-16, 14:14:51](https://news.ycombinator.com/item?id=50517803) - [Show HN: Coral – Open-source gateway where agents write their own tools](https://github.com/withcoral/coral)
