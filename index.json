@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2026-11-18, 05:08:05",
-      "https://news.ycombinator.com/item?id=50542120"
+      "2026-11-18, 04:30:22",
+      "https://news.ycombinator.com/item?id=50541897"
     ],
     [
-      "Horizon Opens to Early Users: America's Most Powerful Academic Supercomputer",
-      "https://news.utexas.edu/2026/11/17/horizon-opens-to-early-users-americas-most-powerful-academic-supercomputer-begins-serving-science/"
+      "Hex: Voice Dictation",
+      "https://anoma.ly/hex/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Why is Gemini 4 Carbon taking so long?",
       "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 03:47:43",
+      "https://news.ycombinator.com/item?id=50541619"
+    ],
+    [
+      "Claude was trained on protein sequences at scale",
+      "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2026-11-17, 17:47:14",
+      "https://news.ycombinator.com/item?id=50535238"
+    ],
+    [
+      "Apple Services Down",
+      "https://developer.apple.com/system-status/"
+    ]
+  ],
+  [
+    [
       "2026-11-17, 17:46:43",
       "https://news.ycombinator.com/item?id=50535230"
     ],
@@ -277,26 +297,6 @@
     [
       "Fun with Constrained Programming",
       "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-14, 22:49:20",
-      "https://news.ycombinator.com/item?id=50501829"
-    ],
-    [
-      "Duality of Quadrilaterals via Quaternions [pdf]",
-      "https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=1193&context=surp"
-    ]
-  ],
-  [
-    [
-      "2026-11-14, 21:41:51",
-      "https://news.ycombinator.com/item?id=50501205"
-    ],
-    [
-      "A repo of information for Zoom R8 firmware development",
-      "https://github.com/aturley/zoom-r8-hardware-and-firmware"
     ]
   ]
 ]
