@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-18, 11:45:02](https://news.ycombinator.com/item?id=50545118) - [I had AI read my entire field, Theoretical Astrophysics](https://science.caseyhandmer.com/physics/)
+* [2026-11-18, 12:00:16](https://news.ycombinator.com/item?id=50545238) - [Evidence (YC S21) Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)
+* [2026-11-18, 11:59:57](https://news.ycombinator.com/item?id=50545232) - [GTA 6 Review: It Is a Masterpiece](https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece)
 * [2026-11-18, 10:02:17](https://news.ycombinator.com/item?id=50544261) - [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)
 * [2026-11-18, 09:29:32](https://news.ycombinator.com/item?id=50543989) - [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
 * [2026-11-18, 08:17:44](https://news.ycombinator.com/item?id=50543343) - [Talos Linux](https://www.siderolabs.com/talos-linux)
@@ -29,7 +30,6 @@
 * [2026-11-16, 14:26:10](https://news.ycombinator.com/item?id=50517929) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
 * [2026-11-16, 13:30:30](https://news.ycombinator.com/item?id=50517410) - [Show HN: Unref – A Python dead code finder built on Ruff's parser](https://github.com/Apakottur/unref)
 * [2026-11-15, 05:54:22](https://news.ycombinator.com/item?id=50504373) - [A Perfect SimCity](https://www.jeffquast.com/post/a-perfect-simcity/)
-* [2026-11-15, 02:45:57](https://news.ycombinator.com/item?id=50503492) - [Fun with Constrained Programming (2012)](https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html)
 
 ## [Archives](archives/index.md)
 
