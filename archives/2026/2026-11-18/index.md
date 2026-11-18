@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-11-18](index.md)
 
+* [2026-11-18, 18:00:18](https://news.ycombinator.com/item?id=50549711) - [Who made the strawberry? 14 days of logs building a procedural fruit with agents](https://strawberry-methodology.pages.dev)
+* [2026-11-18, 17:58:00](https://news.ycombinator.com/item?id=50549677) - [We asked AI the same 210 buying questions 2 days in a row,84% of answers changed](https://supercite.ai/blog/ai-answers-change-every-day)
+* [2026-11-18, 17:41:57](https://news.ycombinator.com/item?id=50549441) - [Forking TuxGuitar into a 17-EDO tab editor](https://frogwizard.bearblog.dev/tuxguitar-17edo/)
 * [2026-11-18, 17:41:48](https://news.ycombinator.com/item?id=50549438) - [Lakegres: Vector search on existing Open/Hudi/Iceberg tables](https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats)
 * [2026-11-18, 17:26:28](https://news.ycombinator.com/item?id=50549188) - [Launch HN: Maritime (YC F26) – The managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188)
+* [2026-11-18, 17:14:31](https://news.ycombinator.com/item?id=50548991) - [CrossPoint Reader](https://crosspointreader.com)
 * [2026-11-18, 17:05:13](https://news.ycombinator.com/item?id=50548828) - [Stop Deploying to ECS Just to See If Your Code Works](https://metalbear.com/blog/stop-deploying-to-ecs/)
 * [2026-11-18, 16:41:22](https://news.ycombinator.com/item?id=50548485) - [\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety](https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO)
 * [2026-11-18, 16:26:42](https://news.ycombinator.com/item?id=50548281) - [Software Factory builds 30 complex open source libraries in a month](https://recursiveai.org/blog/what-my-software-factory-built/)
