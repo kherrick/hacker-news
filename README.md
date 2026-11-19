@@ -26,9 +26,9 @@
 * [2026-11-19, 05:09:11](https://news.ycombinator.com/item?id=50556287) - [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)
 * [2026-11-18, 14:56:04](https://news.ycombinator.com/item?id=50547048) - [Nintendo takes Picofly firmware down from GitHub [video]](https://www.youtube.com/watch?v=-TLCGUpoD6c)
 * [2026-11-17, 19:35:12](https://news.ycombinator.com/item?id=50536950) - [An Oregon library ditched Dewey Decimal and got people excited about books again](https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system)
-* [2026-11-17, 01:31:35](https://news.ycombinator.com/item?id=50526244) - [Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling](https://cwtractors.com)
 * [2026-11-16, 18:34:37](https://news.ycombinator.com/item?id=50521083) - [Adding Fortran Support to LLDB (GSoC 2026)](https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/)
 * [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
+* [2026-11-16, 15:26:09](https://news.ycombinator.com/item?id=50518596) - [I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062)
 * [2026-11-16, 13:58:56](https://news.ycombinator.com/item?id=50517657) - [Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches](https://www.tisonkun.io/posts/ai-repair-program/)
 
 ## [Archives](archives/index.md)
