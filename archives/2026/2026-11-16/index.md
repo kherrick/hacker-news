@@ -16,6 +16,7 @@
 * [2026-11-16, 21:47:19](https://news.ycombinator.com/item?id=50523784) - [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
 * [2026-11-16, 21:32:17](https://news.ycombinator.com/item?id=50523601) - [BugMeNot Has Closed](https://www.bugmenot.com/)
 * [2026-11-16, 21:20:37](https://news.ycombinator.com/item?id=50523459) - [OpenCode Browse](https://opencode.ai/product/browse)
+* [2026-11-16, 21:14:39](https://news.ycombinator.com/item?id=50523377) - [Show HN: Open-source, real-time object tracking for live video feeds](https://github.com/aryamandarda/tamserve)
 * [2026-11-16, 21:08:38](https://news.ycombinator.com/item?id=50523300) - [Optimizely Compromised](https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/)
 * [2026-11-16, 21:07:43](https://news.ycombinator.com/item?id=50523291) - [My Quest to push native Three.js quality match AAA Game Engines](https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs)
 * [2026-11-16, 20:57:25](https://news.ycombinator.com/item?id=50523147) - [Amtrak service stopped around Washington, D.C](https://www.fox5dc.com/news/amtrak-service-stopped-washington-dc-track-hold)
