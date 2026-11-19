@@ -106,3 +106,4 @@
 * [2026-11-16, 00:38:12](https://news.ycombinator.com/item?id=50512576) - [The Fossils That Haunted Lovecraft](https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/)
 * [2026-11-16, 00:21:54](https://news.ycombinator.com/item?id=50512441) - [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
 * [2026-11-16, 00:03:12](https://news.ycombinator.com/item?id=50512296) - [Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones](https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone)
+* [2026-11-16, 00:01:14](https://news.ycombinator.com/item?id=50512280) - [The first ping from Tonga (1997)](https://colo.to/firstping.html)
