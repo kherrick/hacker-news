@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-19, 08:39:45",
+      "https://news.ycombinator.com/item?id=50557537"
+    ],
+    [
+      "Distributed, high-performance blob storage on SQLite",
+      "https://zerodha.tech/blog/high-performance-distributed-blob-storage/"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 05:56:36",
       "https://news.ycombinator.com/item?id=50556533"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2026-11-18, 14:47:53",
-      "https://news.ycombinator.com/item?id=50546967"
-    ],
-    [
-      "The x86 CPU: From 4004 to 486",
-      "https://pikuma.com/blog/history-of-x86-4004-to-486"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 14:43:52",
       "https://news.ycombinator.com/item?id=50546914"
     ],
     [
       "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
       "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 13:18:02",
-      "https://news.ycombinator.com/item?id=50545958"
-    ],
-    [
-      "DNS resolvers are the wrong place to fight piracy",
-      "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
       "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 00:01:14",
+      "https://news.ycombinator.com/item?id=50512280"
+    ],
+    [
+      "The first ping from Tonga (1997)",
+      "https://colo.to/firstping.html"
     ]
   ],
   [
