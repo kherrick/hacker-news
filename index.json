@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-11-19, 18:47:16",
+      "https://news.ycombinator.com/item?id=50564366"
+    ],
+    [
+      "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "https://www.youtube.com/watch?v=lwfewYL7X0o"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 17:30:44",
       "https://news.ycombinator.com/item?id=50563148"
     ],
     [
       "Claude solves two open problems in the physics of black holes",
       "https://www.anthropic.com/research/claude-black-hole-physics"
+    ]
+  ],
+  [
+    [
+      "2026-11-19, 17:25:33",
+      "https://news.ycombinator.com/item?id=50563066"
+    ],
+    [
+      "Pancreatic cancer halted by virus injection in three patients",
+      "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Chrome AI features wasting much bandwidth",
       "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/"
-    ]
-  ],
-  [
-    [
-      "2026-11-19, 16:45:50",
-      "https://news.ycombinator.com/item?id=50562500"
-    ],
-    [
-      "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "https://restofworld.org/2026/ai-jobs-skills-gig-work/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Ruby2ßhell: Pre-authentication RCE on stock Rails",
       "https://verialabs.com/ruby2shell/"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 23:52:50",
-      "https://news.ycombinator.com/item?id=50554038"
-    ],
-    [
-      "Multiple vulnerabilities in Regexp and String case conversion",
-      "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
     ]
   ],
   [
