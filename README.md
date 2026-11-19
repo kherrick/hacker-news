@@ -22,14 +22,14 @@
 * [2026-11-19, 08:39:45](https://news.ycombinator.com/item?id=50557537) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
 * [2026-11-19, 05:56:36](https://news.ycombinator.com/item?id=50556533) - [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
 * [2026-11-19, 05:09:11](https://news.ycombinator.com/item?id=50556287) - [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)
-* [2026-11-18, 17:03:53](https://news.ycombinator.com/item?id=50548808) - [We taught robots to carve marble sculptures](https://eleanorwiesler.com/blog/robotic-stone-carving/)
+* [2026-11-18, 17:03:53](https://news.ycombinator.com/item?id=50548808) - [Teaching robots to carve marble sculptures](https://eleanorwiesler.com/blog/robotic-stone-carving/)
 * [2026-11-18, 14:56:04](https://news.ycombinator.com/item?id=50547048) - [Nintendo takes Picofly firmware down from GitHub [video]](https://www.youtube.com/watch?v=-TLCGUpoD6c)
 * [2026-11-18, 09:49:49](https://news.ycombinator.com/item?id=50544168) - [C's designated initializers give us named arguments](https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/)
 * [2026-11-17, 19:35:12](https://news.ycombinator.com/item?id=50536950) - [Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement](https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system)
 * [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 * [2026-11-16, 15:26:09](https://news.ycombinator.com/item?id=50518596) - [I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062)
 * [2026-11-16, 13:37:28](https://news.ycombinator.com/item?id=50517477) - [From data to silicon: play Connect-4 against a chip](https://benoitrostykus.com/data_to_silicon.html)
-* [2026-11-15, 03:34:58](https://news.ycombinator.com/item?id=50503743) - [It's All about the Allocator](https://aarol.dev/posts/zig-allocator/)
+* [2026-11-15, 03:34:58](https://news.ycombinator.com/item?id=50503743) - [It's all about the allocator](https://aarol.dev/posts/zig-allocator/)
 
 ## [Archives](archives/index.md)
 
