@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-11-18, 23:57:01",
+      "https://news.ycombinator.com/item?id=50554076"
+    ],
+    [
+      "Pushing WireGuard on macOS to 5 Gbit/s",
+      "https://www.firezone.dev/blog/apple-client-performance"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 23:53:49",
       "https://news.ycombinator.com/item?id=50554045"
     ],
@@ -187,16 +197,6 @@
     [
       "Unauthenticated remote code execution in Nginx",
       "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 14:47:53",
-      "https://news.ycombinator.com/item?id=50546967"
-    ],
-    [
-      "The x86 CPU: From 4004 to 486",
-      "https://pikuma.com/blog/history-of-x86-4004-to-486"
     ]
   ],
   [
