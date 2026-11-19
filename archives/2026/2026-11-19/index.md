@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-19](index.md)
 
+* [2026-11-19, 09:28:56](https://news.ycombinator.com/item?id=50557885) - [DeepMind Employees Are Unionising](https://www.gdmunion.co.uk)
 * [2026-11-19, 09:27:15](https://news.ycombinator.com/item?id=50557870) - [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
 * [2026-11-19, 09:05:34](https://news.ycombinator.com/item?id=50557716) - [SSD prices will start going down the second half of next year](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html)
 * [2026-11-19, 08:56:47](https://news.ycombinator.com/item?id=50557661) - [Do not buy RAM, compress](https://curiousbits.nl/blog/do-not-buy-ram-compress/)
