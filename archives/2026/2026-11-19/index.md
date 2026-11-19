@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-19](index.md)
 
+* [2026-11-19, 16:20:12](https://news.ycombinator.com/item?id=50562101) - [Google Chrome dev team declares bug report bankruptcy](https://blog.plover.com/tech/bug-reports.html)
 * [2026-11-19, 15:38:32](https://news.ycombinator.com/item?id=50561515) - [I built Cornhole News. A Hacker News inspired site for news across the Midwest](https://cornholenews.news)
 * [2026-11-19, 15:38:12](https://news.ycombinator.com/item?id=50561508) - [Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)](https://thedataexchange.media/pete-warden-moonshine/)
 * [2026-11-19, 15:32:47](https://news.ycombinator.com/item?id=50561436) - [Show HN: Watch weight-space programming in action with WebGPU](https://tabbyml.github.io/weight-space-playground/)
