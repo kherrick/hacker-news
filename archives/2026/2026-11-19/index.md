@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-11-19](index.md)
 
+* [2026-11-19, 13:21:20](https://news.ycombinator.com/item?id=50559749) - [Show HN: Foolscap – a writing app that reads your book and never writes for you](https://foolscap.works/)
 * [2026-11-19, 13:18:11](https://news.ycombinator.com/item?id=50559719) - [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
 * [2026-11-19, 12:22:00](https://news.ycombinator.com/item?id=50559179) - [Unblockable communication with gravity – Science Advances](https://www.science.org/doi/10.1126/sciadv.aee0802)
 * [2026-11-19, 12:17:10](https://news.ycombinator.com/item?id=50559140) - [The AI Superintelligence Debate Has Serious Flaws](https://spectrum.ieee.org/ai-superintelligence-debate)
+* [2026-11-19, 11:47:03](https://news.ycombinator.com/item?id=50558906) - [Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781)
 * [2026-11-19, 11:03:20](https://news.ycombinator.com/item?id=50558559) - [Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2](https://contralabs.com/frontierdesign)
 * [2026-11-19, 10:58:29](https://news.ycombinator.com/item?id=50558533) - [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
 * [2026-11-19, 09:28:56](https://news.ycombinator.com/item?id=50557885) - [DeepMind Employees Are Unionising](https://www.gdmunion.co.uk)
