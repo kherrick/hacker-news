@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-19, 05:56:36](https://news.ycombinator.com/item?id=50556533) - [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
 * [2026-11-19, 01:30:43](https://news.ycombinator.com/item?id=50554941) - [FailTrace – Reproduce a failed GitHub Actions run locally from its URL](https://github.com/Ri4dH/failtrace)
 * [2026-11-19, 01:29:29](https://news.ycombinator.com/item?id=50554935) - [Unreal Tournament 2004 in the Browser](https://ut2004.dev/)
 * [2026-11-19, 01:27:02](https://news.ycombinator.com/item?id=50554908) - [Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction](https://arxiv.org/abs/2607.29378)
@@ -15,7 +16,6 @@
 * [2026-11-18, 17:26:28](https://news.ycombinator.com/item?id=50549188) - [Launch HN: Maritime (YC F26) – A managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188)
 * [2026-11-18, 16:18:51](https://news.ycombinator.com/item?id=50548161) - [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
 * [2026-11-18, 16:08:24](https://news.ycombinator.com/item?id=50548021) - [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
-* [2026-11-18, 16:06:21](https://news.ycombinator.com/item?id=50548004) - [KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)](https://www.cve.org/CVERecord?id=CVE-2026-99312)
 * [2026-11-18, 16:04:43](https://news.ycombinator.com/item?id=50547980) - [Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365](https://exitpath-ruddy.vercel.app/)
 * [2026-11-18, 15:49:34](https://news.ycombinator.com/item?id=50547777) - [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
 * [2026-11-18, 15:38:33](https://news.ycombinator.com/item?id=50547620) - [Inside Deutsche Bank](https://www.inside-db.com/)

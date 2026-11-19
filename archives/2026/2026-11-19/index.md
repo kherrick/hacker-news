@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-19](index.md)
 
+* [2026-11-19, 05:56:36](https://news.ycombinator.com/item?id=50556533) - [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
 * [2026-11-19, 01:51:28](https://news.ycombinator.com/item?id=50555093) - [AI Will Not Make You Rich (2025)](https://colossus.com/article/ai-will-not-make-you-rich/)
 * [2026-11-19, 01:33:52](https://news.ycombinator.com/item?id=50554973) - [Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools](https://adeindex.com)
 * [2026-11-19, 01:30:43](https://news.ycombinator.com/item?id=50554941) - [FailTrace – Reproduce a failed GitHub Actions run locally from its URL](https://github.com/Ri4dH/failtrace)
