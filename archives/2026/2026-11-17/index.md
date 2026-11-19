@@ -71,6 +71,7 @@
 * [2026-11-17, 01:31:35](https://news.ycombinator.com/item?id=50526244) - [Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling](https://cwtractors.com)
 * [2026-11-17, 01:24:31](https://news.ycombinator.com/item?id=50526199) - [The Weather at Home](https://alexhowells.com/writing/the-weather-at-home/)
 * [2026-11-17, 01:18:56](https://news.ycombinator.com/item?id=50526152) - [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
+* [2026-11-17, 01:11:09](https://news.ycombinator.com/item?id=50526087) - [Collisions in Hash Functions](https://collisions.zksecurity.xyz/)
 * [2026-11-17, 00:23:21](https://news.ycombinator.com/item?id=50525658) - [Pentagon fails ninth straight audit despite progress in organizing finances](https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/)
 * [2026-11-17, 00:21:46](https://news.ycombinator.com/item?id=50525646) - [Doom on the Nikon Z 6II camera](https://arnebaeyens.com/blog/2026/doom-on-nikon-z6ii/)
 * [2026-11-17, 00:16:24](https://news.ycombinator.com/item?id=50525575) - [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
