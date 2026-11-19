@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-19, 00:41:57",
+      "https://news.ycombinator.com/item?id=50554487"
+    ],
+    [
+      "The Executive Mindset: From Technical Certainty to Strategic Trade-Offs",
+      "https://www.talkingtech.online/articles/the-executive-mindset-from-technical-certainty-to-strategic-trade-offs"
+    ]
+  ],
+  [
+    [
+      "2026-11-19, 00:29:45",
+      "https://news.ycombinator.com/item?id=50554374"
+    ],
+    [
+      "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 00:18:18",
       "https://news.ycombinator.com/item?id=50554269"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=50554010"
     ],
     [
-      "Software companies are trying to kill home computing",
+      "Software companies are trying to kill home computing?",
       "https://lateblt.livejournal.com/526188.html"
     ]
   ],
@@ -77,16 +97,6 @@
     [
       "Gemini 4 Neon",
       "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 20:04:31",
-      "https://news.ycombinator.com/item?id=50551398"
-    ],
-    [
-      "Search Browser – Minimalist WebKit browser with Chrome extension support",
-      "https://searchbrowser.app/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "CrossPoint Reader",
       "https://crosspointreader.com"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 16:53:42",
-      "https://news.ycombinator.com/item?id=50548660"
-    ],
-    [
-      "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-      "https://news.ycombinator.com/item?id=50548660"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-11-18, 09:29:32",
-      "https://news.ycombinator.com/item?id=50543989"
-    ],
-    [
-      "Energy-Based Reasoners: 385x more efficient inference",
-      "https://energy-based-reasoners.github.io/"
-    ]
-  ],
-  [
-    [
       "2026-11-16, 23:47:26",
       "https://news.ycombinator.com/item?id=50525260"
     ],
@@ -287,6 +277,16 @@
     [
       "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
       "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 21:14:39",
+      "https://news.ycombinator.com/item?id=50523377"
+    ],
+    [
+      "Show HN: Open-source, real-time object tracking for live video feeds",
+      "https://github.com/aryamandarda/tamserve"
     ]
   ],
   [
