@@ -9,6 +9,7 @@
 * [2026-11-19, 17:02:40](https://news.ycombinator.com/item?id=50562754) - [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
 * [2026-11-19, 16:54:25](https://news.ycombinator.com/item?id=50562636) - [Chrome AI Features Wasting Much Bandwidth](https://perishablepress.com/chrome-ai-wasting-much-bandwidth/)
 * [2026-11-19, 16:47:32](https://news.ycombinator.com/item?id=50562528) - [Anthropic (ANT) stock lists at nearly $2T valuation](https://news.ycombinator.com/item?id=50562528)
+* [2026-11-19, 16:45:50](https://news.ycombinator.com/item?id=50562500) - [AI isn't replacing your job. It's turning it into low-paid gig work](https://restofworld.org/2026/ai-jobs-skills-gig-work/)
 * [2026-11-19, 16:34:04](https://news.ycombinator.com/item?id=50562320) - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
 * [2026-11-19, 16:30:18](https://news.ycombinator.com/item?id=50562262) - [Fuck Your AI Safeguards](https://ounapuu.ee/posts/2026/11/19/unsafeguards/)
 * [2026-11-19, 16:24:31](https://news.ycombinator.com/item?id=50562160) - [ICE Is Paying AT&T to Dig Through a Mountain of Call Records](https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/)
