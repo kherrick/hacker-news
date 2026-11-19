@@ -13,6 +13,7 @@
 * [2026-11-18, 21:34:07](https://news.ycombinator.com/item?id=50552424) - [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 * [2026-11-18, 19:39:16](https://news.ycombinator.com/item?id=50551046) - [DaisyRose-27B](https://www.radixark.com/blog/daisyrose-27b)
 * [2026-11-18, 18:49:51](https://news.ycombinator.com/item?id=50550415) - [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
+* [2026-11-18, 17:45:47](https://news.ycombinator.com/item?id=50549493) - [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/)
 * [2026-11-18, 16:53:42](https://news.ycombinator.com/item?id=50548660) - [Show HN: Mastra Factory, the open-source software factory we use to build Mastra](https://news.ycombinator.com/item?id=50548660)
 * [2026-11-18, 16:18:51](https://news.ycombinator.com/item?id=50548161) - [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
 * [2026-11-18, 16:08:24](https://news.ycombinator.com/item?id=50548021) - [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
@@ -29,7 +30,6 @@
 * [2026-11-16, 16:56:43](https://news.ycombinator.com/item?id=50519778) - [Logitech Harmony IR code online database archive](https://github.com/pickysysadmin/logitech-harmony-ir-archive)
 * [2026-11-16, 14:59:54](https://news.ycombinator.com/item?id=50518303) - [Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute](https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/)
 * [2026-11-16, 00:01:14](https://news.ycombinator.com/item?id=50512280) - [The first ping from Tonga (1997)](https://colo.to/firstping.html)
-* [2026-11-15, 20:30:42](https://news.ycombinator.com/item?id=50510385) - [Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon](https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/)
 
 ## [Archives](archives/index.md)
 
