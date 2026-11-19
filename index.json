@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-11-19, 09:05:34",
-      "https://news.ycombinator.com/item?id=50557716"
-    ],
-    [
-      "SSD prices may begin to decline in the latter half of 2027",
-      "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html"
-    ]
-  ],
-  [
-    [
       "2026-11-19, 08:56:47",
       "https://news.ycombinator.com/item?id=50557661"
     ],
@@ -297,6 +287,16 @@
     [
       "Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising",
       "https://github.com/neoma-pcam/pcam-live"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 13:58:56",
+      "https://news.ycombinator.com/item?id=50517657"
+    ],
+    [
+      "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+      "https://www.tisonkun.io/posts/ai-repair-program/"
     ]
   ]
 ]
