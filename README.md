@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-19, 16:34:04](https://news.ycombinator.com/item?id=50562320) - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
-* [2026-11-19, 16:30:18](https://news.ycombinator.com/item?id=50562262) - [Fuck Your AI Safeguards](https://ounapuu.ee/posts/2026/11/19/unsafeguards/)
 * [2026-11-19, 16:24:31](https://news.ycombinator.com/item?id=50562160) - [ICE Is Paying AT&T to Dig Through a Mountain of Call Records](https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/)
-* [2026-11-19, 16:20:12](https://news.ycombinator.com/item?id=50562101) - [Google Chrome dev team declares bug report bankruptcy](https://blog.plover.com/tech/bug-reports.html)
+* [2026-11-19, 16:21:03](https://news.ycombinator.com/item?id=50562113) - [UK Government Forced to Admit It Issued Apple a Secret Encryption Order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
 * [2026-11-19, 15:38:32](https://news.ycombinator.com/item?id=50561515) - [I built Cornhole News. A Hacker News inspired site for news across the Midwest](https://cornholenews.news)
 * [2026-11-19, 15:38:12](https://news.ycombinator.com/item?id=50561508) - [Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)](https://thedataexchange.media/pete-warden-moonshine/)
 * [2026-11-19, 15:32:47](https://news.ycombinator.com/item?id=50561436) - [Show HN: Watch weight-space programming in action with WebGPU](https://tabbyml.github.io/weight-space-playground/)
@@ -25,6 +24,7 @@
 * [2026-11-18, 21:34:07](https://news.ycombinator.com/item?id=50552424) - [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 * [2026-11-18, 17:03:53](https://news.ycombinator.com/item?id=50548808) - [We taught robots to carve marble sculptures](https://eleanorwiesler.com/blog/robotic-stone-carving/)
 * [2026-11-18, 14:56:04](https://news.ycombinator.com/item?id=50547048) - [Nintendo takes Picofly firmware down from GitHub [video]](https://www.youtube.com/watch?v=-TLCGUpoD6c)
+* [2026-11-18, 14:07:09](https://news.ycombinator.com/item?id=50546495) - [Exponential Behavior in Magic: The Gathering](https://levineuwirth.org/essays/exponential-magic/)
 * [2026-11-18, 09:49:49](https://news.ycombinator.com/item?id=50544168) - [C's designated initializers give us named arguments](https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/)
 * [2026-11-17, 19:35:12](https://news.ycombinator.com/item?id=50536950) - [Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement](https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system)
 * [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
