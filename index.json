@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2026-11-18, 16:06:21",
+      "https://news.ycombinator.com/item?id=50548004"
+    ],
+    [
+      "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+      "https://www.cve.org/CVERecord?id=CVE-2026-99312"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 16:04:43",
       "https://news.ycombinator.com/item?id=50547980"
     ],
@@ -247,16 +257,6 @@
     [
       "Mosquitoes are Ladakh's latest tourists",
       "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 01:11:09",
-      "https://news.ycombinator.com/item?id=50526087"
-    ],
-    [
-      "Collisions in Hash Functions",
-      "https://collisions.zksecurity.xyz/"
     ]
   ],
   [
