@@ -28,7 +28,7 @@
 * [2026-11-17, 19:35:12](https://news.ycombinator.com/item?id=50536950) - [An Oregon library ditched Dewey Decimal and got people excited about books again](https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system)
 * [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 * [2026-11-16, 15:26:09](https://news.ycombinator.com/item?id=50518596) - [I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062)
-* [2026-11-16, 13:37:28](https://news.ycombinator.com/item?id=50517477) - [From data to silicon: play Connect-4 against a chip](https://benoitrostykus.com/data_to_silicon.html)
+* [2026-11-16, 14:12:22](https://news.ycombinator.com/item?id=50517783) - [Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising](https://github.com/neoma-pcam/pcam-live)
 * [2026-11-15, 03:34:58](https://news.ycombinator.com/item?id=50503743) - [It's all about the allocator](https://aarol.dev/posts/zig-allocator/)
 
 ## [Archives](archives/index.md)
