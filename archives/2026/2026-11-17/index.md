@@ -57,6 +57,7 @@
 * [2026-11-17, 11:45:51](https://news.ycombinator.com/item?id=50530163) - [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
 * [2026-11-17, 11:39:20](https://news.ycombinator.com/item?id=50530114) - [My Empire of Dirt](https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html)
 * [2026-11-17, 10:20:40](https://news.ycombinator.com/item?id=50529612) - [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
+* [2026-11-17, 08:57:57](https://news.ycombinator.com/item?id=50529101) - [My computer misbehaved so I went down a rabbit hole (2019)](https://leonwu.tech/posts/my_computer_misbehaved_so_i_went_down_a_rabbit_hole)
 * [2026-11-17, 08:13:38](https://news.ycombinator.com/item?id=50528785) - [Run your FreeBSD services from one console](https://jailops.net/)
 * [2026-11-17, 07:04:46](https://news.ycombinator.com/item?id=50528364) - [40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md](https://verisource.dev/benchmarks/ai-search-readiness-2026)
 * [2026-11-17, 04:08:47](https://news.ycombinator.com/item?id=50527311) - [Unkernel: Linux kernel in WASM](https://unkernel.dev)

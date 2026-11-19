@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-19, 01:51:28](https://news.ycombinator.com/item?id=50555093) - [AI Will Not Make You Rich (2025)](https://colossus.com/article/ai-will-not-make-you-rich/)
-* [2026-11-19, 01:33:52](https://news.ycombinator.com/item?id=50554973) - [Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools](https://adeindex.com)
+* [2026-11-19, 01:51:28](https://news.ycombinator.com/item?id=50555093) - [AI will not make you rich (2025)](https://colossus.com/article/ai-will-not-make-you-rich/)
 * [2026-11-19, 01:30:43](https://news.ycombinator.com/item?id=50554941) - [FailTrace – Reproduce a failed GitHub Actions run locally from its URL](https://github.com/Ri4dH/failtrace)
 * [2026-11-19, 01:29:29](https://news.ycombinator.com/item?id=50554935) - [Unreal Tournament 2004 in the Browser](https://ut2004.dev/)
 * [2026-11-19, 01:27:02](https://news.ycombinator.com/item?id=50554908) - [Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction](https://arxiv.org/abs/2607.29378)
@@ -25,6 +24,7 @@
 * [2026-11-18, 15:19:55](https://news.ycombinator.com/item?id=50547374) - [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
 * [2026-11-18, 14:43:52](https://news.ycombinator.com/item?id=50546914) - [The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
 * [2026-11-18, 13:18:02](https://news.ycombinator.com/item?id=50545958) - [DNS resolvers are the wrong place to fight piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
+* [2026-11-17, 08:57:57](https://news.ycombinator.com/item?id=50529101) - [My computer misbehaved so I went down a rabbit hole (2019)](https://leonwu.tech/posts/my_computer_misbehaved_so_i_went_down_a_rabbit_hole)
 * [2026-11-17, 01:11:09](https://news.ycombinator.com/item?id=50526087) - [Collisions in Hash Functions](https://collisions.zksecurity.xyz/)
 * [2026-11-16, 23:47:26](https://news.ycombinator.com/item?id=50525260) - [Dumping an AES key from a MyQ garage opener to stop rebooting when offline](https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/)
 * [2026-11-16, 22:19:31](https://news.ycombinator.com/item?id=50524227) - [A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover](https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/)
