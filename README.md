@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-19, 22:27:07](https://news.ycombinator.com/item?id=50567374) - [RegExr: Temporarily Offline](https://regexr.com/)
 * [2026-11-19, 22:13:40](https://news.ycombinator.com/item?id=50567209) - [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
 * [2026-11-19, 20:57:14](https://news.ycombinator.com/item?id=50566261) - [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
 * [2026-11-19, 18:47:16](https://news.ycombinator.com/item?id=50564366) - [Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]](https://www.youtube.com/watch?v=lwfewYL7X0o)
@@ -9,7 +10,6 @@
 * [2026-11-19, 17:25:33](https://news.ycombinator.com/item?id=50563066) - [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
 * [2026-11-19, 17:02:40](https://news.ycombinator.com/item?id=50562754) - [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
 * [2026-11-19, 16:34:04](https://news.ycombinator.com/item?id=50562320) - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
-* [2026-11-19, 16:30:18](https://news.ycombinator.com/item?id=50562262) - [Fuck Your AI Safeguards](https://ounapuu.ee/posts/2026/11/19/unsafeguards/)
 * [2026-11-19, 16:21:03](https://news.ycombinator.com/item?id=50562113) - [UK government forced to admit it issued Apple a secret encryption order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
 * [2026-11-19, 15:38:32](https://news.ycombinator.com/item?id=50561515) - [Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest](https://cornholenews.news)
 * [2026-11-19, 15:38:12](https://news.ycombinator.com/item?id=50561508) - [Pete warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/)
