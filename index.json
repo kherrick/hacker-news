@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-11-19, 14:09:50",
-      "https://news.ycombinator.com/item?id=50560334"
-    ],
-    [
-      "PHP 8.5.13",
-      "https://www.php.net/ChangeLog-8.php"
-    ]
-  ],
-  [
-    [
       "2026-11-19, 13:21:20",
       "https://news.ycombinator.com/item?id=50559749"
     ],
@@ -107,6 +97,16 @@
     [
       "SSD prices will start going down the second half of next year",
       "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-19, 08:56:47",
+      "https://news.ycombinator.com/item?id=50557661"
+    ],
+    [
+      "Do not buy RAM, compress",
+      "https://curiousbits.nl/blog/do-not-buy-ram-compress/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-11-16, 00:01:14",
-      "https://news.ycombinator.com/item?id=50512280"
+      "2026-11-15, 03:34:58",
+      "https://news.ycombinator.com/item?id=50503743"
     ],
     [
-      "The first ping from Tonga (1997)",
-      "https://colo.to/firstping.html"
+      "It's All about the Allocator",
+      "https://aarol.dev/posts/zig-allocator/"
     ]
   ]
 ]
