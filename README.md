@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-19, 01:51:28](https://news.ycombinator.com/item?id=50555093) - [AI will not make you rich (2025)](https://colossus.com/article/ai-will-not-make-you-rich/)
 * [2026-11-19, 01:30:43](https://news.ycombinator.com/item?id=50554941) - [FailTrace – Reproduce a failed GitHub Actions run locally from its URL](https://github.com/Ri4dH/failtrace)
 * [2026-11-19, 01:29:29](https://news.ycombinator.com/item?id=50554935) - [Unreal Tournament 2004 in the Browser](https://ut2004.dev/)
 * [2026-11-19, 01:27:02](https://news.ycombinator.com/item?id=50554908) - [Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction](https://arxiv.org/abs/2607.29378)
@@ -26,6 +25,7 @@
 * [2026-11-18, 14:43:52](https://news.ycombinator.com/item?id=50546914) - [The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
 * [2026-11-18, 13:18:02](https://news.ycombinator.com/item?id=50545958) - [DNS resolvers are the wrong place to fight piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
 * [2026-11-18, 06:08:25](https://news.ycombinator.com/item?id=50542441) - [Mosquitoes are Ladakh's latest tourists](https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists)
+* [2026-11-17, 11:35:33](https://news.ycombinator.com/item?id=50530088) - [Camera Index](https://www.cameraindex.co.uk/)
 * [2026-11-16, 23:47:26](https://news.ycombinator.com/item?id=50525260) - [Dumping an AES key from a MyQ garage opener to stop rebooting when offline](https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/)
 * [2026-11-16, 22:19:31](https://news.ycombinator.com/item?id=50524227) - [A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover](https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/)
 * [2026-11-16, 21:14:39](https://news.ycombinator.com/item?id=50523377) - [Show HN: Open-source, real-time object tracking for live video feeds](https://github.com/aryamandarda/tamserve)
