@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-19, 12:22:00](https://news.ycombinator.com/item?id=50559179) - [Unblockable communication with gravity – Science Advances](https://www.science.org/doi/10.1126/sciadv.aee0802)
 * [2026-11-19, 12:17:10](https://news.ycombinator.com/item?id=50559140) - [The AI Superintelligence Debate Has Serious Flaws](https://spectrum.ieee.org/ai-superintelligence-debate)
 * [2026-11-19, 10:58:29](https://news.ycombinator.com/item?id=50558533) - [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
 * [2026-11-19, 09:28:56](https://news.ycombinator.com/item?id=50557885) - [DeepMind Employees Are Unionising](https://www.gdmunion.co.uk)
@@ -20,7 +21,6 @@
 * [2026-11-18, 15:38:33](https://news.ycombinator.com/item?id=50547620) - [Inside Deutsche Bank](https://www.inside-db.com/)
 * [2026-11-18, 15:19:55](https://news.ycombinator.com/item?id=50547374) - [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
 * [2026-11-18, 14:56:04](https://news.ycombinator.com/item?id=50547048) - [Nintendo takes Picofly firmware down from GitHub [video]](https://www.youtube.com/watch?v=-TLCGUpoD6c)
-* [2026-11-18, 14:43:52](https://news.ycombinator.com/item?id=50546914) - [The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
 * [2026-11-18, 14:07:09](https://news.ycombinator.com/item?id=50546495) - [Exponential Behavior in Magic: The Gathering](https://levineuwirth.org/essays/exponential-magic/)
 * [2026-11-18, 13:43:08](https://news.ycombinator.com/item?id=50546221) - [Mass launched to orbit each year by rocket builder](https://www.kadoa.com/companies/insights/spacex-europe-payload)
 * [2026-11-18, 04:10:50](https://news.ycombinator.com/item?id=50541774) - [Building Lego Machines to Destroy Tall Lego Towers (2024)](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
