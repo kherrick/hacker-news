@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-19, 14:57:14](https://news.ycombinator.com/item?id=50560955) - [Cooling buildings is overtaking heating them as an energy need, IEA says](https://maccus.fr/en/cooling-overtaking-heating/)
+* [2026-11-19, 14:47:18](https://news.ycombinator.com/item?id=50560822) - [Everything you need to survive and rebuild society](https://lastbook.org/)
 * [2026-11-19, 14:44:50](https://news.ycombinator.com/item?id=50560795) - [Germany and Austria Call for European Control of TikTok](https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/)
 * [2026-11-19, 14:20:08](https://news.ycombinator.com/item?id=50560461) - [OpenAI still has a WebRTC Problem](https://moq.dev/blog/webrtc-is-still-the-problem/)
 * [2026-11-19, 13:21:20](https://news.ycombinator.com/item?id=50559749) - [Show HN: Foolscap – a writing app that reads your book and never writes for you](https://foolscap.works/)
@@ -20,8 +22,6 @@
 * [2026-11-18, 17:03:53](https://news.ycombinator.com/item?id=50548808) - [We taught robots to carve marble sculptures](https://eleanorwiesler.com/blog/robotic-stone-carving/)
 * [2026-11-18, 16:53:42](https://news.ycombinator.com/item?id=50548660) - [Show HN: Mastra Factory, the open-source software factory we use to build Mastra](https://news.ycombinator.com/item?id=50548660)
 * [2026-11-18, 16:08:24](https://news.ycombinator.com/item?id=50548021) - [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
-* [2026-11-18, 15:38:33](https://news.ycombinator.com/item?id=50547620) - [Inside Deutsche Bank](https://www.inside-db.com/)
-* [2026-11-18, 15:19:55](https://news.ycombinator.com/item?id=50547374) - [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
 * [2026-11-18, 14:56:04](https://news.ycombinator.com/item?id=50547048) - [Nintendo takes Picofly firmware down from GitHub [video]](https://www.youtube.com/watch?v=-TLCGUpoD6c)
 * [2026-11-18, 14:07:09](https://news.ycombinator.com/item?id=50546495) - [Exponential Behavior in Magic: The Gathering](https://levineuwirth.org/essays/exponential-magic/)
 * [2026-11-18, 13:43:08](https://news.ycombinator.com/item?id=50546221) - [Mass launched to orbit each year by rocket builder](https://www.kadoa.com/companies/insights/spacex-europe-payload)
