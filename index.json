@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-11-19, 18:35:17",
+      "https://news.ycombinator.com/item?id=50564159"
+    ],
+    [
+      "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 17:30:44",
       "https://news.ycombinator.com/item?id=50563148"
     ],
@@ -47,16 +57,6 @@
     [
       "Chrome AI features wasting much bandwidth",
       "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/"
-    ]
-  ],
-  [
-    [
-      "2026-11-19, 16:45:50",
-      "https://news.ycombinator.com/item?id=50562500"
-    ],
-    [
-      "AI isn't replacing your job. It's turning it into low-paid gig work",
-      "https://restofworld.org/2026/ai-jobs-skills-gig-work/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-11-16, 18:34:37",
+      "https://news.ycombinator.com/item?id=50521083"
+    ],
+    [
+      "Adding Fortran Support to LLDB (GSoC 2026)",
+      "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/"
+    ]
+  ],
+  [
+    [
       "2026-11-16, 16:13:36",
       "https://news.ycombinator.com/item?id=50519231"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising",
       "https://github.com/neoma-pcam/pcam-live"
-    ]
-  ],
-  [
-    [
-      "2026-11-15, 03:34:58",
-      "https://news.ycombinator.com/item?id=50503743"
-    ],
-    [
-      "It's all about the allocator",
-      "https://aarol.dev/posts/zig-allocator/"
     ]
   ]
 ]
