@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-19](index.md)
 
+* [2026-11-19, 16:54:25](https://news.ycombinator.com/item?id=50562636) - [Chrome AI Features Wasting Much Bandwidth](https://perishablepress.com/chrome-ai-wasting-much-bandwidth/)
 * [2026-11-19, 16:34:04](https://news.ycombinator.com/item?id=50562320) - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
 * [2026-11-19, 16:30:18](https://news.ycombinator.com/item?id=50562262) - [Fuck Your AI Safeguards](https://ounapuu.ee/posts/2026/11/19/unsafeguards/)
 * [2026-11-19, 16:24:31](https://news.ycombinator.com/item?id=50562160) - [ICE Is Paying AT&T to Dig Through a Mountain of Call Records](https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/)
