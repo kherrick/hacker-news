@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-19, 13:18:11](https://news.ycombinator.com/item?id=50559719) - [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
 * [2026-11-19, 12:22:00](https://news.ycombinator.com/item?id=50559179) - [Unblockable communication with gravity – Science Advances](https://www.science.org/doi/10.1126/sciadv.aee0802)
 * [2026-11-19, 12:17:10](https://news.ycombinator.com/item?id=50559140) - [The AI Superintelligence Debate Has Serious Flaws](https://spectrum.ieee.org/ai-superintelligence-debate)
 * [2026-11-19, 11:03:20](https://news.ycombinator.com/item?id=50558559) - [Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2](https://contralabs.com/frontierdesign)
@@ -16,7 +17,6 @@
 * [2026-11-18, 19:39:16](https://news.ycombinator.com/item?id=50551046) - [DaisyRose-27B](https://www.radixark.com/blog/daisyrose-27b)
 * [2026-11-18, 18:49:51](https://news.ycombinator.com/item?id=50550415) - [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
 * [2026-11-18, 17:03:53](https://news.ycombinator.com/item?id=50548808) - [We taught robots to carve marble sculptures](https://eleanorwiesler.com/blog/robotic-stone-carving/)
-* [2026-11-18, 16:53:42](https://news.ycombinator.com/item?id=50548660) - [Show HN: Mastra Factory, the open-source software factory we use to build Mastra](https://news.ycombinator.com/item?id=50548660)
 * [2026-11-18, 16:08:24](https://news.ycombinator.com/item?id=50548021) - [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
 * [2026-11-18, 15:38:33](https://news.ycombinator.com/item?id=50547620) - [Inside Deutsche Bank](https://www.inside-db.com/)
 * [2026-11-18, 15:19:55](https://news.ycombinator.com/item?id=50547374) - [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
