@@ -23,6 +23,7 @@
 * [2026-11-16, 20:57:25](https://news.ycombinator.com/item?id=50523147) - [Amtrak service stopped around Washington, D.C](https://www.fox5dc.com/news/amtrak-service-stopped-washington-dc-track-hold)
 * [2026-11-16, 20:48:08](https://news.ycombinator.com/item?id=50523025) - [Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)
 * [2026-11-16, 20:47:53](https://news.ycombinator.com/item?id=50523022) - [Caltech professor no longer grades homework's because everyone uses AI](https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11)
+* [2026-11-16, 20:44:37](https://news.ycombinator.com/item?id=50522991) - [Funkycache: A Python library to cache functions in SQLite](https://alexwlchan.net/2026/funkycache/)
 * [2026-11-16, 20:43:36](https://news.ycombinator.com/item?id=50522980) - [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
 * [2026-11-16, 20:29:48](https://news.ycombinator.com/item?id=50522776) - [Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force](https://news.ycombinator.com/item?id=50522776)
 * [2026-11-16, 20:22:18](https://news.ycombinator.com/item?id=50522643) - [Chemistry Is Geometry](https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry)
