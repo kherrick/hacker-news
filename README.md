@@ -2,8 +2,8 @@
 
 * [2026-11-19, 12:22:00](https://news.ycombinator.com/item?id=50559179) - [Unblockable communication with gravity – Science Advances](https://www.science.org/doi/10.1126/sciadv.aee0802)
 * [2026-11-19, 12:17:10](https://news.ycombinator.com/item?id=50559140) - [The AI Superintelligence Debate Has Serious Flaws](https://spectrum.ieee.org/ai-superintelligence-debate)
+* [2026-11-19, 11:03:20](https://news.ycombinator.com/item?id=50558559) - [Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2](https://contralabs.com/frontierdesign)
 * [2026-11-19, 10:58:29](https://news.ycombinator.com/item?id=50558533) - [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
-* [2026-11-19, 09:28:56](https://news.ycombinator.com/item?id=50557885) - [DeepMind Employees Are Unionising](https://www.gdmunion.co.uk)
 * [2026-11-19, 09:27:15](https://news.ycombinator.com/item?id=50557870) - [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
 * [2026-11-19, 09:05:34](https://news.ycombinator.com/item?id=50557716) - [SSD prices will start going down the second half of next year](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html)
 * [2026-11-19, 08:39:45](https://news.ycombinator.com/item?id=50557537) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
@@ -23,12 +23,12 @@
 * [2026-11-18, 14:56:04](https://news.ycombinator.com/item?id=50547048) - [Nintendo takes Picofly firmware down from GitHub [video]](https://www.youtube.com/watch?v=-TLCGUpoD6c)
 * [2026-11-18, 14:07:09](https://news.ycombinator.com/item?id=50546495) - [Exponential Behavior in Magic: The Gathering](https://levineuwirth.org/essays/exponential-magic/)
 * [2026-11-18, 13:43:08](https://news.ycombinator.com/item?id=50546221) - [Mass launched to orbit each year by rocket builder](https://www.kadoa.com/companies/insights/spacex-europe-payload)
+* [2026-11-18, 09:49:49](https://news.ycombinator.com/item?id=50544168) - [C's designated initializers give us named arguments](https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/)
 * [2026-11-18, 04:10:50](https://news.ycombinator.com/item?id=50541774) - [Building Lego Machines to Destroy Tall Lego Towers (2024)](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
 * [2026-11-17, 19:35:12](https://news.ycombinator.com/item?id=50536950) - [Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement](https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system)
 * [2026-11-16, 23:47:26](https://news.ycombinator.com/item?id=50525260) - [Dumping an AES key from a MyQ garage opener to stop rebooting when offline](https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/)
 * [2026-11-16, 16:56:43](https://news.ycombinator.com/item?id=50519778) - [Logitech Harmony IR code online database archive](https://github.com/pickysysadmin/logitech-harmony-ir-archive)
 * [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
-* [2026-11-16, 14:59:54](https://news.ycombinator.com/item?id=50518303) - [Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute](https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/)
 * [2026-11-16, 00:01:14](https://news.ycombinator.com/item?id=50512280) - [The first ping from Tonga (1997)](https://colo.to/firstping.html)
 
 ## [Archives](archives/index.md)

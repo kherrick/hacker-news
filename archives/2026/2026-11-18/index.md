@@ -72,6 +72,7 @@
 * [2026-11-18, 11:45:02](https://news.ycombinator.com/item?id=50545118) - [I had AI read my entire field, Theoretical Astrophysics](https://science.caseyhandmer.com/physics/)
 * [2026-11-18, 11:11:53](https://news.ycombinator.com/item?id=50544821) - [Show HN: Type Fighter 2](https://typefighter2.com/)
 * [2026-11-18, 10:02:17](https://news.ycombinator.com/item?id=50544261) - [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)
+* [2026-11-18, 09:49:49](https://news.ycombinator.com/item?id=50544168) - [C's designated initializers give us named arguments](https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/)
 * [2026-11-18, 09:29:32](https://news.ycombinator.com/item?id=50543989) - [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
 * [2026-11-18, 08:17:44](https://news.ycombinator.com/item?id=50543343) - [Talos Linux](https://www.siderolabs.com/talos-linux)
 * [2026-11-18, 07:10:46](https://news.ycombinator.com/item?id=50542863) - [Australia's full national topographic library at your fingertips](https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips)
