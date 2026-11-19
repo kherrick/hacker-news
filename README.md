@@ -2,7 +2,6 @@
 
 * [2026-11-19, 14:44:50](https://news.ycombinator.com/item?id=50560795) - [Germany and Austria Call for European Control of TikTok](https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/)
 * [2026-11-19, 14:20:08](https://news.ycombinator.com/item?id=50560461) - [OpenAI still has a WebRTC Problem](https://moq.dev/blog/webrtc-is-still-the-problem/)
-* [2026-11-19, 14:09:50](https://news.ycombinator.com/item?id=50560334) - [PHP 8.5.13](https://www.php.net/ChangeLog-8.php)
 * [2026-11-19, 13:21:20](https://news.ycombinator.com/item?id=50559749) - [Show HN: Foolscap – a writing app that reads your book and never writes for you](https://foolscap.works/)
 * [2026-11-19, 13:18:11](https://news.ycombinator.com/item?id=50559719) - [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
 * [2026-11-19, 12:22:00](https://news.ycombinator.com/item?id=50559179) - [Unblockable communication with gravity – Science Advances](https://www.science.org/doi/10.1126/sciadv.aee0802)
@@ -11,6 +10,7 @@
 * [2026-11-19, 10:58:29](https://news.ycombinator.com/item?id=50558533) - [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
 * [2026-11-19, 09:27:15](https://news.ycombinator.com/item?id=50557870) - [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
 * [2026-11-19, 09:05:34](https://news.ycombinator.com/item?id=50557716) - [SSD prices will start going down the second half of next year](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html)
+* [2026-11-19, 08:56:47](https://news.ycombinator.com/item?id=50557661) - [Do not buy RAM, compress](https://curiousbits.nl/blog/do-not-buy-ram-compress/)
 * [2026-11-19, 08:39:45](https://news.ycombinator.com/item?id=50557537) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
 * [2026-11-19, 05:56:36](https://news.ycombinator.com/item?id=50556533) - [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
 * [2026-11-19, 05:09:11](https://news.ycombinator.com/item?id=50556287) - [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)
@@ -29,7 +29,7 @@
 * [2026-11-17, 19:35:12](https://news.ycombinator.com/item?id=50536950) - [Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement](https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system)
 * [2026-11-16, 20:44:37](https://news.ycombinator.com/item?id=50522991) - [Funkycache: A Python library to cache functions in SQLite](https://alexwlchan.net/2026/funkycache/)
 * [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
-* [2026-11-16, 00:01:14](https://news.ycombinator.com/item?id=50512280) - [The first ping from Tonga (1997)](https://colo.to/firstping.html)
+* [2026-11-15, 03:34:58](https://news.ycombinator.com/item?id=50503743) - [It's All about the Allocator](https://aarol.dev/posts/zig-allocator/)
 
 ## [Archives](archives/index.md)
 
