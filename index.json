@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2026-11-18, 23:53:49",
-      "https://news.ycombinator.com/item?id=50554045"
-    ],
-    [
-      "We need smart people who give a shit",
-      "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 23:52:50",
       "https://news.ycombinator.com/item?id=50554038"
     ],
@@ -257,6 +247,16 @@
     [
       "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
       "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 21:14:39",
+      "https://news.ycombinator.com/item?id=50523377"
+    ],
+    [
+      "Show HN: Open-source, real-time object tracking for live video feeds",
+      "https://github.com/aryamandarda/tamserve"
     ]
   ],
   [
