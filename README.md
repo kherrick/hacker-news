@@ -19,7 +19,6 @@
 * [2026-11-19, 11:47:03](https://news.ycombinator.com/item?id=50558906) - [Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781)
 * [2026-11-19, 10:58:29](https://news.ycombinator.com/item?id=50558533) - [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
 * [2026-11-19, 09:27:15](https://news.ycombinator.com/item?id=50557870) - [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
-* [2026-11-19, 09:05:34](https://news.ycombinator.com/item?id=50557716) - [SSD prices may begin to decline in the latter half of 2027](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html)
 * [2026-11-19, 08:56:47](https://news.ycombinator.com/item?id=50557661) - [Do not buy RAM, compress](https://curiousbits.nl/blog/do-not-buy-ram-compress/)
 * [2026-11-19, 08:39:45](https://news.ycombinator.com/item?id=50557537) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
 * [2026-11-19, 05:56:36](https://news.ycombinator.com/item?id=50556533) - [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
@@ -30,6 +29,7 @@
 * [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 * [2026-11-16, 15:26:09](https://news.ycombinator.com/item?id=50518596) - [I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062)
 * [2026-11-16, 14:12:22](https://news.ycombinator.com/item?id=50517783) - [Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising](https://github.com/neoma-pcam/pcam-live)
+* [2026-11-16, 13:58:56](https://news.ycombinator.com/item?id=50517657) - [Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches](https://www.tisonkun.io/posts/ai-repair-program/)
 
 ## [Archives](archives/index.md)
 

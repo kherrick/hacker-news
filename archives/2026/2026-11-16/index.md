@@ -70,6 +70,7 @@
 * [2026-11-16, 14:15:31](https://news.ycombinator.com/item?id=50517815) - [The Active Directory Era Is Finally Over](https://infisical.com/blog/active-directory-machine-identity)
 * [2026-11-16, 14:14:51](https://news.ycombinator.com/item?id=50517803) - [Show HN: Coral – Open-source gateway where agents write their own tools](https://github.com/withcoral/coral)
 * [2026-11-16, 14:12:22](https://news.ycombinator.com/item?id=50517783) - [Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising](https://github.com/neoma-pcam/pcam-live)
+* [2026-11-16, 13:58:56](https://news.ycombinator.com/item?id=50517657) - [Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches](https://www.tisonkun.io/posts/ai-repair-program/)
 * [2026-11-16, 13:54:50](https://news.ycombinator.com/item?id=50517630) - [Show HN: CheeseDB – agent memory where deleting a source deletes what it taught](https://github.com/govinargo-labs/cheesedb)
 * [2026-11-16, 13:51:38](https://news.ycombinator.com/item?id=50517602) - [What the fuck is w2rt6byl5nf1opmc-a.com?](https://jack.cab/blog/siterate)
 * [2026-11-16, 13:46:12](https://news.ycombinator.com/item?id=50517558) - [Why sending notifications is a nightmare for engineers](https://notifkit.dev/articles/why-notification-systems-are-a-nightmare)
