@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-19, 05:56:36",
+      "https://news.ycombinator.com/item?id=50556533"
+    ],
+    [
+      "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "https://kapteko.com/15-million-webservers/"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 01:30:43",
       "https://news.ycombinator.com/item?id=50554941"
     ],
@@ -147,16 +157,6 @@
     [
       "Seven new models at scalable price-performance",
       "https://microsoft.ai/news/microsoft-ignite-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 16:06:21",
-      "https://news.ycombinator.com/item?id=50548004"
-    ],
-    [
-      "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
-      "https://www.cve.org/CVERecord?id=CVE-2026-99312"
     ]
   ],
   [
