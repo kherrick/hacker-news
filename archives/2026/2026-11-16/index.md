@@ -45,6 +45,7 @@
 * [2026-11-16, 17:25:35](https://news.ycombinator.com/item?id=50520148) - [How Billions in Safe Insurance Money Is Being Bet on A.I. Debt](https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html)
 * [2026-11-16, 17:20:28](https://news.ycombinator.com/item?id=50520076) - [Ask HN: If AI tools are so good, why isn't your bug backlog empty?](https://news.ycombinator.com/item?id=50520076)
 * [2026-11-16, 17:08:20](https://news.ycombinator.com/item?id=50519924) - [US now \"comfortable\" with children dying of measles as death toll hits 10](https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/)
+* [2026-11-16, 16:56:43](https://news.ycombinator.com/item?id=50519778) - [Logitech Harmony IR code online database archive](https://github.com/pickysysadmin/logitech-harmony-ir-archive)
 * [2026-11-16, 16:53:39](https://news.ycombinator.com/item?id=50519744) - [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
 * [2026-11-16, 16:23:22](https://news.ycombinator.com/item?id=50519354) - [Frame – 31.5\" color ePaper display](https://trmnl.com/blog/introducing-frame)
 * [2026-11-16, 16:23:01](https://news.ycombinator.com/item?id=50519345) - [Jolt – Clojure that speaks C](https://jolt-lang.net/)
