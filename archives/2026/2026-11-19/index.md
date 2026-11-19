@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-19](index.md)
 
+* [2026-11-19, 22:56:59](https://news.ycombinator.com/item?id=50567735) - [Court: 4th Amendment Doesn't Cover AI-Generated 'Probable Cause'](https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/)
 * [2026-11-19, 22:27:07](https://news.ycombinator.com/item?id=50567374) - [RegExr: Temporarily Offline](https://regexr.com/)
 * [2026-11-19, 22:13:40](https://news.ycombinator.com/item?id=50567209) - [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
 * [2026-11-19, 20:57:14](https://news.ycombinator.com/item?id=50566261) - [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
