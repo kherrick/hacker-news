@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-11-18, 22:42:53",
-      "https://news.ycombinator.com/item?id=50553402"
+      "2026-11-18, 23:53:49",
+      "https://news.ycombinator.com/item?id=50554045"
     ],
     [
-      "Why educational system is broken",
-      "https://keycybermonk.com/edu"
+      "We need smart people who give a shit",
+      "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 23:52:50",
+      "https://news.ycombinator.com/item?id=50554038"
+    ],
+    [
+      "Multiple vulnerabilities in Regexp and String case conversion",
+      "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 23:49:18",
+      "https://news.ycombinator.com/item?id=50554010"
+    ],
+    [
+      "Software companies are trying to kill home computing",
+      "https://lateblt.livejournal.com/526188.html"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=50553225"
     ],
     [
-      "LLM Assisted Reverse Engineering",
+      "LLM assisted reverse engineering",
       "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
     ]
   ],
@@ -37,16 +57,6 @@
     [
       "Gemini 4 Neon",
       "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 20:12:34",
-      "https://news.ycombinator.com/item?id=50551509"
-    ],
-    [
-      "Horizon Labs Report",
-      "https://horizon-labs.ai/"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=50551046"
     ],
     [
-      "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+      "DaisyRose-27B",
       "https://www.radixark.com/blog/daisyrose-27b"
     ]
   ],
@@ -107,6 +117,16 @@
     [
       "Advancing chip design with OpenAI models",
       "https://openai.com/index/advancing-chip-design-with-our-models/"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 17:26:28",
+      "https://news.ycombinator.com/item?id=50549188"
+    ],
+    [
+      "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "https://news.ycombinator.com/item?id=50549188"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-11-18, 12:00:16",
-      "https://news.ycombinator.com/item?id=50545238"
-    ],
-    [
-      "Evidence (YC S21) Is Hiring",
-      "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 09:29:32",
       "https://news.ycombinator.com/item?id=50543989"
     ],
@@ -287,16 +297,6 @@
     [
       "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
       "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/"
-    ]
-  ],
-  [
-    [
-      "2026-11-15, 09:12:55",
-      "https://news.ycombinator.com/item?id=50505310"
-    ],
-    [
-      "The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter",
-      "https://americanhandgunner.com/handguns/revolvers/the-first-revolver/"
     ]
   ]
 ]
