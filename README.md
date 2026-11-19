@@ -2,6 +2,7 @@
 
 * [2026-11-19, 09:27:15](https://news.ycombinator.com/item?id=50557870) - [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
 * [2026-11-19, 09:05:34](https://news.ycombinator.com/item?id=50557716) - [SSD prices will start going down the second half of next year](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html)
+* [2026-11-19, 08:56:47](https://news.ycombinator.com/item?id=50557661) - [Do not buy RAM, compress](https://curiousbits.nl/blog/do-not-buy-ram-compress/)
 * [2026-11-19, 08:39:45](https://news.ycombinator.com/item?id=50557537) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
 * [2026-11-19, 05:56:36](https://news.ycombinator.com/item?id=50556533) - [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
 * [2026-11-19, 05:09:11](https://news.ycombinator.com/item?id=50556287) - [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)
@@ -18,7 +19,6 @@
 * [2026-11-18, 16:18:51](https://news.ycombinator.com/item?id=50548161) - [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
 * [2026-11-18, 16:08:24](https://news.ycombinator.com/item?id=50548021) - [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
 * [2026-11-18, 16:04:43](https://news.ycombinator.com/item?id=50547980) - [Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365](https://exitpath-ruddy.vercel.app/)
-* [2026-11-18, 15:49:34](https://news.ycombinator.com/item?id=50547777) - [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
 * [2026-11-18, 15:38:33](https://news.ycombinator.com/item?id=50547620) - [Inside Deutsche Bank](https://www.inside-db.com/)
 * [2026-11-18, 15:35:44](https://news.ycombinator.com/item?id=50547583) - [F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)](https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view)
 * [2026-11-18, 15:19:55](https://news.ycombinator.com/item?id=50547374) - [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
