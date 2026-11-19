@@ -63,6 +63,7 @@
 * [2026-11-17, 08:57:57](https://news.ycombinator.com/item?id=50529101) - [My computer misbehaved so I went down a rabbit hole (2019)](https://leonwu.tech/posts/my_computer_misbehaved_so_i_went_down_a_rabbit_hole)
 * [2026-11-17, 08:13:38](https://news.ycombinator.com/item?id=50528785) - [Run your FreeBSD services from one console](https://jailops.net/)
 * [2026-11-17, 07:04:46](https://news.ycombinator.com/item?id=50528364) - [40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md](https://verisource.dev/benchmarks/ai-search-readiness-2026)
+* [2026-11-17, 06:29:57](https://news.ycombinator.com/item?id=50528119) - [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
 * [2026-11-17, 04:08:47](https://news.ycombinator.com/item?id=50527311) - [Unkernel: Linux kernel in WASM](https://unkernel.dev)
 * [2026-11-17, 03:18:53](https://news.ycombinator.com/item?id=50526967) - [Show HN: Pulsar – cross-harness agent to agent communication and messaging](https://github.com/yocontra/pulsar)
 * [2026-11-17, 02:23:34](https://news.ycombinator.com/item?id=50526621) - [The most expensive bargaining chip in history](https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history/)
