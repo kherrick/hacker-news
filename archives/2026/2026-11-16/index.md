@@ -56,6 +56,7 @@
 * [2026-11-16, 15:17:56](https://news.ycombinator.com/item?id=50518501) - [ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet/)
 * [2026-11-16, 15:13:47](https://news.ycombinator.com/item?id=50518453) - [New James Bond Announced and the Name's Pattinson, Robert Pattinson](https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson)
 * [2026-11-16, 15:02:20](https://news.ycombinator.com/item?id=50518328) - [First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664)
+* [2026-11-16, 14:59:54](https://news.ycombinator.com/item?id=50518303) - [Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute](https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/)
 * [2026-11-16, 14:38:54](https://news.ycombinator.com/item?id=50518068) - [A 512 KiB binary message teaching chess without a shared language](https://artemlegotin.com/golden-board/)
 * [2026-11-16, 14:26:10](https://news.ycombinator.com/item?id=50517929) - [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions)
 * [2026-11-16, 14:18:15](https://news.ycombinator.com/item?id=50517840) - [Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck](https://github.com/mr-anjaneyam/Emittr)

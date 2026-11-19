@@ -4,7 +4,6 @@
 * [2026-11-19, 01:29:29](https://news.ycombinator.com/item?id=50554935) - [Unreal Tournament 2004 in the Browser](https://ut2004.dev/)
 * [2026-11-19, 01:27:02](https://news.ycombinator.com/item?id=50554908) - [Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction](https://arxiv.org/abs/2607.29378)
 * [2026-11-19, 00:29:45](https://news.ycombinator.com/item?id=50554374) - [Gemini 4 Neon looks like an Opus 5.5 competitor](https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/)
-* [2026-11-18, 23:57:01](https://news.ycombinator.com/item?id=50554076) - [Pushing WireGuard on macOS to 5 Gbit/s](https://www.firezone.dev/blog/apple-client-performance)
 * [2026-11-18, 23:53:49](https://news.ycombinator.com/item?id=50554045) - [We need smart people who give a shit](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
 * [2026-11-18, 23:52:50](https://news.ycombinator.com/item?id=50554038) - [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
 * [2026-11-18, 23:49:13](https://news.ycombinator.com/item?id=50554009) - [Palo Alto Networks to Acquire Applied Compute for $4.5B](https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open)
@@ -29,6 +28,7 @@
 * [2026-11-16, 23:47:26](https://news.ycombinator.com/item?id=50525260) - [Dumping an AES key from a MyQ garage opener to stop rebooting when offline](https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/)
 * [2026-11-16, 22:19:31](https://news.ycombinator.com/item?id=50524227) - [A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover](https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/)
 * [2026-11-16, 21:14:39](https://news.ycombinator.com/item?id=50523377) - [Show HN: Open-source, real-time object tracking for live video feeds](https://github.com/aryamandarda/tamserve)
+* [2026-11-16, 14:59:54](https://news.ycombinator.com/item?id=50518303) - [Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute](https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/)
 * [2026-11-15, 20:30:42](https://news.ycombinator.com/item?id=50510385) - [Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon](https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/)
 
 ## [Archives](archives/index.md)
