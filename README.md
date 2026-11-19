@@ -5,6 +5,7 @@
 * [2026-11-19, 13:18:11](https://news.ycombinator.com/item?id=50559719) - [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
 * [2026-11-19, 12:22:00](https://news.ycombinator.com/item?id=50559179) - [Unblockable communication with gravity – Science Advances](https://www.science.org/doi/10.1126/sciadv.aee0802)
 * [2026-11-19, 11:47:03](https://news.ycombinator.com/item?id=50558906) - [Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781)
+* [2026-11-19, 11:03:20](https://news.ycombinator.com/item?id=50558559) - [Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2](https://contralabs.com/frontierdesign)
 * [2026-11-19, 10:58:29](https://news.ycombinator.com/item?id=50558533) - [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
 * [2026-11-19, 09:27:15](https://news.ycombinator.com/item?id=50557870) - [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
 * [2026-11-19, 09:05:34](https://news.ycombinator.com/item?id=50557716) - [SSD prices will start going down the second half of next year](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html)
@@ -27,7 +28,6 @@
 * [2026-11-18, 04:10:50](https://news.ycombinator.com/item?id=50541774) - [Building Lego Machines to Destroy Tall Lego Towers (2024)](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
 * [2026-11-17, 19:35:12](https://news.ycombinator.com/item?id=50536950) - [Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement](https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system)
 * [2026-11-16, 20:44:37](https://news.ycombinator.com/item?id=50522991) - [Funkycache: A Python library to cache functions in SQLite](https://alexwlchan.net/2026/funkycache/)
-* [2026-11-16, 16:56:43](https://news.ycombinator.com/item?id=50519778) - [Logitech Harmony IR code online database archive](https://github.com/pickysysadmin/logitech-harmony-ir-archive)
 * [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 * [2026-11-16, 00:01:14](https://news.ycombinator.com/item?id=50512280) - [The first ping from Tonga (1997)](https://colo.to/firstping.html)
 
