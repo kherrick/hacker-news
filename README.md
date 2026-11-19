@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-19, 16:34:04](https://news.ycombinator.com/item?id=50562320) - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
 * [2026-11-19, 16:20:12](https://news.ycombinator.com/item?id=50562101) - [Google Chrome dev team declares bug report bankruptcy](https://blog.plover.com/tech/bug-reports.html)
 * [2026-11-19, 15:38:32](https://news.ycombinator.com/item?id=50561515) - [I built Cornhole News. A Hacker News inspired site for news across the Midwest](https://cornholenews.news)
 * [2026-11-19, 15:38:12](https://news.ycombinator.com/item?id=50561508) - [Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)](https://thedataexchange.media/pete-warden-moonshine/)
@@ -20,7 +21,6 @@
 * [2026-11-19, 05:56:36](https://news.ycombinator.com/item?id=50556533) - [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
 * [2026-11-19, 05:09:11](https://news.ycombinator.com/item?id=50556287) - [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)
 * [2026-11-18, 23:52:50](https://news.ycombinator.com/item?id=50554038) - [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
-* [2026-11-18, 23:30:09](https://news.ycombinator.com/item?id=50553843) - [Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering)
 * [2026-11-18, 21:34:07](https://news.ycombinator.com/item?id=50552424) - [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 * [2026-11-18, 17:03:53](https://news.ycombinator.com/item?id=50548808) - [We taught robots to carve marble sculptures](https://eleanorwiesler.com/blog/robotic-stone-carving/)
 * [2026-11-18, 14:56:04](https://news.ycombinator.com/item?id=50547048) - [Nintendo takes Picofly firmware down from GitHub [video]](https://www.youtube.com/watch?v=-TLCGUpoD6c)
