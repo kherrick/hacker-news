@@ -7,6 +7,7 @@
 * [2026-11-18, 23:53:49](https://news.ycombinator.com/item?id=50554045) - [We need smart people who give a shit](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
 * [2026-11-18, 23:52:50](https://news.ycombinator.com/item?id=50554038) - [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
 * [2026-11-18, 23:49:18](https://news.ycombinator.com/item?id=50554010) - [Software companies are trying to kill home computing](https://lateblt.livejournal.com/526188.html)
+* [2026-11-18, 23:49:13](https://news.ycombinator.com/item?id=50554009) - [Palo Alto Networks to Acquire Applied Compute for $4.5B](https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open)
 * [2026-11-18, 23:30:09](https://news.ycombinator.com/item?id=50553843) - [Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering)
 * [2026-11-18, 22:42:53](https://news.ycombinator.com/item?id=50553402) - [Why educational system is broken](https://keycybermonk.com/edu)
 * [2026-11-18, 22:29:13](https://news.ycombinator.com/item?id=50553225) - [LLM Assisted Reverse Engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering)
