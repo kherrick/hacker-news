@@ -3,7 +3,7 @@
 * [2026-11-19, 18:47:16](https://news.ycombinator.com/item?id=50564366) - [Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]](https://www.youtube.com/watch?v=lwfewYL7X0o)
 * [2026-11-19, 18:35:17](https://news.ycombinator.com/item?id=50564159) - [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
 * [2026-11-19, 17:30:44](https://news.ycombinator.com/item?id=50563148) - [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
-* [2026-11-19, 17:25:33](https://news.ycombinator.com/item?id=50563066) - [Pancreatic cancer halted by virus injection in three patients](https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
+* [2026-11-19, 17:25:33](https://news.ycombinator.com/item?id=50563066) - [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
 * [2026-11-19, 17:02:40](https://news.ycombinator.com/item?id=50562754) - [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
 * [2026-11-19, 16:54:25](https://news.ycombinator.com/item?id=50562636) - [Chrome AI features wasting much bandwidth](https://perishablepress.com/chrome-ai-wasting-much-bandwidth/)
 * [2026-11-19, 16:34:04](https://news.ycombinator.com/item?id=50562320) - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
