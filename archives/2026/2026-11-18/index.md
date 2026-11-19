@@ -71,6 +71,7 @@
 * [2026-11-18, 08:17:44](https://news.ycombinator.com/item?id=50543343) - [Talos Linux](https://www.siderolabs.com/talos-linux)
 * [2026-11-18, 07:10:46](https://news.ycombinator.com/item?id=50542863) - [Australia's full national topographic library at your fingertips](https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips)
 * [2026-11-18, 06:47:26](https://news.ycombinator.com/item?id=50542705) - [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai)
+* [2026-11-18, 06:08:25](https://news.ycombinator.com/item?id=50542441) - [Mosquitoes are Ladakh's latest tourists](https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists)
 * [2026-11-18, 05:35:02](https://news.ycombinator.com/item?id=50542264) - [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
 * [2026-11-18, 05:26:41](https://news.ycombinator.com/item?id=50542217) - [I had AI read my field](https://science.caseyhandmer.com/physics/)
 * [2026-11-18, 05:21:07](https://news.ycombinator.com/item?id=50542181) - [Optimjack from the Outside: The Hijacked Script Was on Our Radar](https://blog.fortirix.com/blog/optimjack/)

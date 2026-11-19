@@ -24,7 +24,7 @@
 * [2026-11-18, 14:47:53](https://news.ycombinator.com/item?id=50546967) - [The x86 CPU: From 4004 to 486](https://pikuma.com/blog/history-of-x86-4004-to-486)
 * [2026-11-18, 14:43:52](https://news.ycombinator.com/item?id=50546914) - [The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
 * [2026-11-18, 13:18:02](https://news.ycombinator.com/item?id=50545958) - [DNS resolvers are the wrong place to fight piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
-* [2026-11-17, 08:57:57](https://news.ycombinator.com/item?id=50529101) - [My computer misbehaved so I went down a rabbit hole (2019)](https://leonwu.tech/posts/my_computer_misbehaved_so_i_went_down_a_rabbit_hole)
+* [2026-11-18, 06:08:25](https://news.ycombinator.com/item?id=50542441) - [Mosquitoes are Ladakh's latest tourists](https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists)
 * [2026-11-17, 01:11:09](https://news.ycombinator.com/item?id=50526087) - [Collisions in Hash Functions](https://collisions.zksecurity.xyz/)
 * [2026-11-16, 23:47:26](https://news.ycombinator.com/item?id=50525260) - [Dumping an AES key from a MyQ garage opener to stop rebooting when offline](https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/)
 * [2026-11-16, 22:19:31](https://news.ycombinator.com/item?id=50524227) - [A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover](https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/)
