@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-19, 14:44:50",
+      "https://news.ycombinator.com/item?id=50560795"
+    ],
+    [
+      "Germany and Austria Call for European Control of TikTok",
+      "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/"
+    ]
+  ],
+  [
+    [
+      "2026-11-19, 14:20:08",
+      "https://news.ycombinator.com/item?id=50560461"
+    ],
+    [
+      "OpenAI still has a WebRTC Problem",
+      "https://moq.dev/blog/webrtc-is-still-the-problem/"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 14:09:50",
       "https://news.ycombinator.com/item?id=50560334"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-11-18, 22:29:13",
-      "https://news.ycombinator.com/item?id=50553225"
-    ],
-    [
-      "LLM assisted reverse engineering",
-      "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 21:34:07",
       "https://news.ycombinator.com/item?id=50552424"
     ],
@@ -161,22 +171,22 @@
   ],
   [
     [
-      "2026-11-18, 19:39:16",
-      "https://news.ycombinator.com/item?id=50551046"
-    ],
-    [
-      "DaisyRose-27B",
-      "https://www.radixark.com/blog/daisyrose-27b"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 17:03:53",
       "https://news.ycombinator.com/item?id=50548808"
     ],
     [
       "We taught robots to carve marble sculptures",
       "https://eleanorwiesler.com/blog/robotic-stone-carving/"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 16:53:42",
+      "https://news.ycombinator.com/item?id=50548660"
+    ],
+    [
+      "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "https://news.ycombinator.com/item?id=50548660"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "C's designated initializers give us named arguments",
       "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 04:10:50",
-      "https://news.ycombinator.com/item?id=50541774"
-    ],
-    [
-      "Building Lego Machines to Destroy Tall Lego Towers (2024)",
-      "https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers"
     ]
   ],
   [
