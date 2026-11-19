@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-11-19, 05:09:11",
+      "https://news.ycombinator.com/item?id=50556287"
+    ],
+    [
+      "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "https://verialabs.com/ruby2shell/"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 01:29:29",
       "https://news.ycombinator.com/item?id=50554935"
     ],
@@ -27,16 +37,6 @@
     [
       "Gemini 4 Neon looks like an Opus 5.5 competitor",
       "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 23:57:01",
-      "https://news.ycombinator.com/item?id=50554076"
-    ],
-    [
-      "Pushing WireGuard on macOS to 5 Gbit/s",
-      "https://www.firezone.dev/blog/apple-client-performance"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-11-18, 13:18:02",
-      "https://news.ycombinator.com/item?id=50545958"
-    ],
-    [
-      "DNS resolvers are the wrong place to fight piracy",
-      "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 06:08:25",
       "https://news.ycombinator.com/item?id=50542441"
     ],
@@ -267,6 +257,16 @@
     [
       "Show HN: Open-source, real-time object tracking for live video feeds",
       "https://github.com/aryamandarda/tamserve"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 20:58:57",
+      "https://news.ycombinator.com/item?id=50523168"
+    ],
+    [
+      "Radio Waves and the Ionosphere (1999) [pdf]",
+      "https://www.arrl.org/files/file/Technology/pdf/119962.pdf"
     ]
   ],
   [
