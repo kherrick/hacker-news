@@ -6,6 +6,7 @@
 * [2026-11-19, 17:30:44](https://news.ycombinator.com/item?id=50563148) - [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
 * [2026-11-19, 17:25:33](https://news.ycombinator.com/item?id=50563066) - [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
 * [2026-11-19, 17:02:40](https://news.ycombinator.com/item?id=50562754) - [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
+* [2026-11-19, 16:54:25](https://news.ycombinator.com/item?id=50562636) - [Chrome AI features wasting much bandwidth](https://perishablepress.com/chrome-ai-wasting-much-bandwidth/)
 * [2026-11-19, 16:34:04](https://news.ycombinator.com/item?id=50562320) - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
 * [2026-11-19, 16:30:18](https://news.ycombinator.com/item?id=50562262) - [Fuck Your AI Safeguards](https://ounapuu.ee/posts/2026/11/19/unsafeguards/)
 * [2026-11-19, 16:21:03](https://news.ycombinator.com/item?id=50562113) - [UK government forced to admit it issued Apple a secret encryption order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
@@ -28,7 +29,6 @@
 * [2026-11-17, 01:31:35](https://news.ycombinator.com/item?id=50526244) - [Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling](https://cwtractors.com)
 * [2026-11-16, 18:34:37](https://news.ycombinator.com/item?id=50521083) - [Adding Fortran Support to LLDB (GSoC 2026)](https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/)
 * [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
-* [2026-11-16, 15:26:09](https://news.ycombinator.com/item?id=50518596) - [I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062)
 * [2026-11-16, 13:58:56](https://news.ycombinator.com/item?id=50517657) - [Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches](https://www.tisonkun.io/posts/ai-repair-program/)
 
 ## [Archives](archives/index.md)
