@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-19, 10:58:29](https://news.ycombinator.com/item?id=50558533) - [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
 * [2026-11-19, 09:28:56](https://news.ycombinator.com/item?id=50557885) - [DeepMind Employees Are Unionising](https://www.gdmunion.co.uk)
 * [2026-11-19, 09:27:15](https://news.ycombinator.com/item?id=50557870) - [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
 * [2026-11-19, 09:05:34](https://news.ycombinator.com/item?id=50557716) - [SSD prices will start going down the second half of next year](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html)
@@ -25,7 +26,6 @@
 * [2026-11-18, 06:08:25](https://news.ycombinator.com/item?id=50542441) - [Mosquitoes are Ladakh's latest tourists](https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists)
 * [2026-11-18, 04:10:50](https://news.ycombinator.com/item?id=50541774) - [Building Lego Machines to Destroy Tall Lego Towers (2024)](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
 * [2026-11-16, 23:47:26](https://news.ycombinator.com/item?id=50525260) - [Dumping an AES key from a MyQ garage opener to stop rebooting when offline](https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/)
-* [2026-11-16, 21:14:39](https://news.ycombinator.com/item?id=50523377) - [Show HN: Open-source, real-time object tracking for live video feeds](https://github.com/aryamandarda/tamserve)
 * [2026-11-16, 16:56:43](https://news.ycombinator.com/item?id=50519778) - [Logitech Harmony IR code online database archive](https://github.com/pickysysadmin/logitech-harmony-ir-archive)
 * [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 * [2026-11-16, 14:59:54](https://news.ycombinator.com/item?id=50518303) - [Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute](https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/)
