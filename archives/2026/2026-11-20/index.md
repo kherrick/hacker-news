@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 05:21:02](https://news.ycombinator.com/item?id=50570479) - [Google is pushing OEMs against GrapheneOS and bootloader unlocking](https://grapheneos.social/@GrapheneOS/117645038299496084)
 * [2026-11-20, 04:02:39](https://news.ycombinator.com/item?id=50569998) - [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)
 * [2026-11-20, 04:00:24](https://news.ycombinator.com/item?id=50569985) - [GIMP now has UI tests](https://www.gimp.org/news/2026/11/16/gimp-ui-tests/)
 * [2026-11-20, 03:45:45](https://news.ycombinator.com/item?id=50569890) - [PostgreSQL 19](https://www.postgresql.org/docs/release/19.0/)
