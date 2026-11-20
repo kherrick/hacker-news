@@ -11,7 +11,6 @@
 * [2026-11-20, 00:37:31](https://news.ycombinator.com/item?id=50568643) - [Postgres 19 is out, and it's available on Neon and Databricks Lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase)
 * [2026-11-20, 00:25:59](https://news.ycombinator.com/item?id=50568548) - [ChatGPT for SNES](https://www.bxfoundry.com/chatgpt_snes/)
 * [2026-11-19, 22:27:07](https://news.ycombinator.com/item?id=50567374) - [RegExr: Temporarily Offline](https://regexr.com/)
-* [2026-11-19, 22:13:40](https://news.ycombinator.com/item?id=50567209) - [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
 * [2026-11-19, 20:57:14](https://news.ycombinator.com/item?id=50566261) - [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
 * [2026-11-19, 18:47:16](https://news.ycombinator.com/item?id=50564366) - [Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]](https://www.youtube.com/watch?v=lwfewYL7X0o)
 * [2026-11-19, 18:35:17](https://news.ycombinator.com/item?id=50564159) - [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
@@ -28,6 +27,7 @@
 * [2026-11-17, 20:12:34](https://news.ycombinator.com/item?id=50537492) - [Automatic Checking of Compiler Correctness with E-Graphs](https://stng.substack.com/p/automatic-checking-of-compiler-correctness)
 * [2026-11-17, 11:41:08](https://news.ycombinator.com/item?id=50530132) - [Talking Venice with Mahesh Subramony at AMD In-Depth](https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony)
 * [2026-11-17, 06:29:57](https://news.ycombinator.com/item?id=50528119) - [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
+* [2026-11-16, 20:10:38](https://news.ycombinator.com/item?id=50522471) - [Frankenstein PBC – Animation, bestowed upon lifeless matter](https://www.frankensteinpbc.com/)
 * [2026-11-16, 19:04:36](https://news.ycombinator.com/item?id=50521512) - [Bit Shifting in Basic](https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/)
 * [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 

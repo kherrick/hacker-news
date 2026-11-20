@@ -28,6 +28,7 @@
 * [2026-11-16, 20:29:48](https://news.ycombinator.com/item?id=50522776) - [Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force](https://news.ycombinator.com/item?id=50522776)
 * [2026-11-16, 20:22:18](https://news.ycombinator.com/item?id=50522643) - [Chemistry Is Geometry](https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry)
 * [2026-11-16, 20:16:50](https://news.ycombinator.com/item?id=50522563) - [Rust Changed Me as a Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
+* [2026-11-16, 20:10:38](https://news.ycombinator.com/item?id=50522471) - [Frankenstein PBC – Animation, bestowed upon lifeless matter](https://www.frankensteinpbc.com/)
 * [2026-11-16, 19:29:17](https://news.ycombinator.com/item?id=50521870) - [How to Intercept HTTP/3 Traffic: QUIC and Qpack](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
 * [2026-11-16, 19:13:13](https://news.ycombinator.com/item?id=50521644) - [Adobe flash editor libre alternative](https://www.q0id.com/downloads)
 * [2026-11-16, 19:04:36](https://news.ycombinator.com/item?id=50521512) - [Bit Shifting in Basic](https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/)
