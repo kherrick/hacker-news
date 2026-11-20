@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-20, 01:06:12](https://news.ycombinator.com/item?id=50568861) - [Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
 * [2026-11-19, 23:35:35](https://news.ycombinator.com/item?id=50568130) - [Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/)
 * [2026-11-19, 23:32:11](https://news.ycombinator.com/item?id=50568082) - [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)
 * [2026-11-19, 22:27:07](https://news.ycombinator.com/item?id=50567374) - [RegExr: Temporarily Offline](https://regexr.com/)
@@ -14,7 +15,6 @@
 * [2026-11-19, 16:21:03](https://news.ycombinator.com/item?id=50562113) - [UK government forced to admit it issued Apple a secret encryption order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
 * [2026-11-19, 15:38:32](https://news.ycombinator.com/item?id=50561515) - [Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest](https://cornholenews.news)
 * [2026-11-19, 15:38:12](https://news.ycombinator.com/item?id=50561508) - [Pete warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/)
-* [2026-11-19, 15:13:23](https://news.ycombinator.com/item?id=50561170) - [How to Make the Ink Used to Write Hamlet and the Declaration of Independence](https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/)
 * [2026-11-19, 13:18:11](https://news.ycombinator.com/item?id=50559719) - [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
 * [2026-11-19, 12:22:00](https://news.ycombinator.com/item?id=50559179) - [Unblockable communication with gravity](https://www.science.org/doi/10.1126/sciadv.aee0802)
 * [2026-11-19, 11:47:03](https://news.ycombinator.com/item?id=50558906) - [Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781)
