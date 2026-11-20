@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-20, 02:44:13](https://news.ycombinator.com/item?id=50569519) - [What Comes After AGI?](https://institute.deepmind.com/essays/what-comes-after-agi/)
+* [2026-11-20, 02:43:49](https://news.ycombinator.com/item?id=50569516) - [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
 * [2026-11-20, 02:01:09](https://news.ycombinator.com/item?id=50569226) - [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
 * [2026-11-20, 01:06:12](https://news.ycombinator.com/item?id=50568861) - [Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
 * [2026-11-20, 00:37:31](https://news.ycombinator.com/item?id=50568643) - [Postgres 19 is out, and it's available on Neon and Databricks Lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase)
@@ -19,7 +21,6 @@
 * [2026-11-19, 13:18:11](https://news.ycombinator.com/item?id=50559719) - [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
 * [2026-11-19, 11:47:03](https://news.ycombinator.com/item?id=50558906) - [Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781)
 * [2026-11-19, 10:58:29](https://news.ycombinator.com/item?id=50558533) - [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
-* [2026-11-19, 08:56:47](https://news.ycombinator.com/item?id=50557661) - [Do not buy RAM, compress](https://curiousbits.nl/blog/do-not-buy-ram-compress/)
 * [2026-11-18, 14:56:04](https://news.ycombinator.com/item?id=50547048) - [Nintendo takes Picofly firmware down from GitHub [video]](https://www.youtube.com/watch?v=-TLCGUpoD6c)
 * [2026-11-18, 10:39:16](https://news.ycombinator.com/item?id=50544546) - [IRA Velinsky, industrial designer for Commodore and Atari](https://dfarq.homeip.net/ira-velinsky-industrial-designer-of-the-commodore-64/)
 * [2026-11-18, 03:28:39](https://news.ycombinator.com/item?id=50541489) - [Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch](https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/)
@@ -29,7 +30,6 @@
 * [2026-11-17, 11:41:08](https://news.ycombinator.com/item?id=50530132) - [Talking Venice with Mahesh Subramony at AMD In-Depth](https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony)
 * [2026-11-17, 06:29:57](https://news.ycombinator.com/item?id=50528119) - [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
 * [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
-* [2026-11-16, 13:58:56](https://news.ycombinator.com/item?id=50517657) - [Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches](https://www.tisonkun.io/posts/ai-repair-program/)
 
 ## [Archives](archives/index.md)
 
