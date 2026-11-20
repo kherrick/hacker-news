@@ -19,7 +19,6 @@
 * [2026-11-20, 16:45:25](https://news.ycombinator.com/item?id=50577613) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
 * [2026-11-20, 16:29:06](https://news.ycombinator.com/item?id=50577265) - [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
 * [2026-11-20, 15:34:31](https://news.ycombinator.com/item?id=50576232) - [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/)
-* [2026-11-20, 15:03:31](https://news.ycombinator.com/item?id=50575644) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 * [2026-11-20, 14:16:21](https://news.ycombinator.com/item?id=50574968) - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
 * [2026-11-20, 10:01:41](https://news.ycombinator.com/item?id=50572503) - [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
 * [2026-11-20, 09:43:19](https://news.ycombinator.com/item?id=50572355) - [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
@@ -28,6 +27,7 @@
 * [2026-11-18, 18:50:35](https://news.ycombinator.com/item?id=50550430) - [Microsoft announces Windows Server 2028 with hardened security](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/)
 * [2026-11-18, 14:23:24](https://news.ycombinator.com/item?id=50546676) - [LZ-RDO lands in ARM's astc-encoder](https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder)
 * [2026-11-18, 12:02:59](https://news.ycombinator.com/item?id=50545262) - [Teskooano: A 3D N-body simulator in the browser](https://teskooano.space/)
+* [2026-11-17, 15:16:45](https://news.ycombinator.com/item?id=50532515) - [Show HN: An API for word timestamps from speech, 75% within 20ms](https://quebec.yarn.so)
 * [2026-11-17, 04:29:07](https://news.ycombinator.com/item?id=50527444) - [The G1 Garbage Collector](https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/)
 * [2026-11-17, 01:03:05](https://news.ycombinator.com/item?id=50526023) - [Show HN: I made an audio-to-MIDI model 60x more efficient](https://kobi.music/research/dettato)
 
