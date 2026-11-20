@@ -26,7 +26,7 @@
 * [2026-11-19, 15:16:02](https://news.ycombinator.com/item?id=50561199) - [Show HN: Fast deterministic natural language search for OpenStreetMap data](https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935)
 * [2026-11-19, 14:29:49](https://news.ycombinator.com/item?id=50560595) - [Floppy3.5: A portable 3.5-inch floppy WiFi NAS](https://github.com/bigcrimping/floppy3.5)
 * [2026-11-18, 13:56:28](https://news.ycombinator.com/item?id=50546365) - [Why YC Series A rounds fell off a cliff](https://jaredheyman.medium.com/on-why-yc-series-a-rounds-fell-off-a-cliff-ab523211a2f2)
-* [2026-11-18, 13:02:08](https://news.ycombinator.com/item?id=50545818) - [µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/)
+* [2026-11-18, 12:02:59](https://news.ycombinator.com/item?id=50545262) - [Teskooano: A 3D N-body simulator in the browser](https://teskooano.space/)
 * [2026-11-17, 13:22:18](https://news.ycombinator.com/item?id=50531009) - [Lovable: Now you can explore any idea in parallel without touching what's live](https://lovable.dev/blog/introducing-drafts)
 * [2026-11-17, 04:29:07](https://news.ycombinator.com/item?id=50527444) - [The G1 Garbage Collector](https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/)
 * [2026-11-17, 01:03:05](https://news.ycombinator.com/item?id=50526023) - [Show HN: I made an audio-to-MIDI model 60x more efficient](https://kobi.music/research/dettato)
