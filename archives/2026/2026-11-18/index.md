@@ -62,6 +62,7 @@
 * [2026-11-18, 14:44:33](https://news.ycombinator.com/item?id=50546922) - [A Primer on Fourier Series](https://arxiv.org/abs/2510.18203)
 * [2026-11-18, 14:43:52](https://news.ycombinator.com/item?id=50546914) - ['Human' Is Cambridge Dictionary's Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
 * [2026-11-18, 14:42:25](https://news.ycombinator.com/item?id=50546900) - [Can Universities Survive? AI vs. Higher Education [audio]](https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education)
+* [2026-11-18, 14:23:24](https://news.ycombinator.com/item?id=50546676) - [LZ-RDO lands in ARM's astc-encoder](https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder)
 * [2026-11-18, 14:07:09](https://news.ycombinator.com/item?id=50546495) - [Exponential Behavior in Magic: The Gathering](https://levineuwirth.org/essays/exponential-magic/)
 * [2026-11-18, 14:03:37](https://news.ycombinator.com/item?id=50546465) - [Energy drinks linked to 11 times more reports of cardiac arrest](https://www.sciencedaily.com/releases/2026/11/261110042543.htm)
 * [2026-11-18, 13:56:28](https://news.ycombinator.com/item?id=50546365) - [Why YC Series A rounds fell off a cliff](https://jaredheyman.medium.com/on-why-yc-series-a-rounds-fell-off-a-cliff-ab523211a2f2)
