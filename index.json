@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2026-11-20, 13:29:59",
-      "https://news.ycombinator.com/item?id=50574383"
-    ],
-    [
-      "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-      "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
-    ]
-  ],
-  [
-    [
       "2026-11-20, 12:41:38",
       "https://news.ycombinator.com/item?id=50573886"
     ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2026-11-20, 07:13:21",
+      "https://news.ycombinator.com/item?id=50571189"
+    ],
+    [
+      "\"I can tell you wrote this yourself\"",
+      "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/"
+    ]
+  ],
+  [
+    [
       "2026-11-20, 04:02:39",
       "https://news.ycombinator.com/item?id=50569998"
     ],
@@ -187,6 +187,16 @@
     [
       "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
       "https://github.com/openssl/openssl/pull/33652"
+    ]
+  ],
+  [
+    [
+      "2026-11-20, 01:06:12",
+      "https://news.ycombinator.com/item?id=50568861"
+    ],
+    [
+      "Vint Cerf on why TCP/IP was never patented",
+      "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Strongest Sokoban Solver",
       "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver"
-    ]
-  ],
-  [
-    [
-      "2026-11-14, 09:13:24",
-      "https://news.ycombinator.com/item?id=50495392"
-    ],
-    [
-      "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-      "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/"
     ]
   ]
 ]
