@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-20, 11:37:00](https://news.ycombinator.com/item?id=50573288) - [The Market Is Down](https://anihil.com/the-market-is-down)
 * [2026-11-20, 11:13:05](https://news.ycombinator.com/item?id=50573087) - [Why do tech leaders sound so illogical and off-putting?](https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/)
 * [2026-11-20, 10:41:10](https://news.ycombinator.com/item?id=50572822) - [The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
 * [2026-11-20, 10:01:41](https://news.ycombinator.com/item?id=50572503) - [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
@@ -18,7 +19,6 @@
 * [2026-11-19, 18:35:17](https://news.ycombinator.com/item?id=50564159) - [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
 * [2026-11-19, 17:30:44](https://news.ycombinator.com/item?id=50563148) - [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
 * [2026-11-19, 17:25:33](https://news.ycombinator.com/item?id=50563066) - [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
-* [2026-11-19, 17:02:40](https://news.ycombinator.com/item?id=50562754) - [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
 * [2026-11-19, 15:38:12](https://news.ycombinator.com/item?id=50561508) - [Pete Warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/)
 * [2026-11-19, 11:47:03](https://news.ycombinator.com/item?id=50558906) - [Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781)
 * [2026-11-18, 13:02:08](https://news.ycombinator.com/item?id=50545818) - [µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/)

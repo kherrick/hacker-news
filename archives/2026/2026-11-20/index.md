@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 11:37:00](https://news.ycombinator.com/item?id=50573288) - [The Market Is Down](https://anihil.com/the-market-is-down)
 * [2026-11-20, 11:13:05](https://news.ycombinator.com/item?id=50573087) - [Why do tech leaders sound so illogical and off-putting?](https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/)
 * [2026-11-20, 10:41:10](https://news.ycombinator.com/item?id=50572822) - [The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
 * [2026-11-20, 10:01:41](https://news.ycombinator.com/item?id=50572503) - [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
