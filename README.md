@@ -25,10 +25,10 @@
 * [2026-11-18, 13:02:08](https://news.ycombinator.com/item?id=50545818) - [µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/)
 * [2026-11-18, 03:40:01](https://news.ycombinator.com/item?id=50541568) - [Show HN: Tinnitus frequency finder and audio notch tool](https://trynotched.com/find)
 * [2026-11-17, 06:29:57](https://news.ycombinator.com/item?id=50528119) - [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
+* [2026-11-17, 04:29:07](https://news.ycombinator.com/item?id=50527444) - [The G1 Garbage Collector](https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/)
 * [2026-11-17, 01:03:05](https://news.ycombinator.com/item?id=50526023) - [Show HN: I made an audio-to-MIDI model 60x more efficient](https://kobi.music/research/dettato)
 * [2026-11-16, 21:04:01](https://news.ycombinator.com/item?id=50523241) - [The Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver)
 * [2026-11-16, 19:07:13](https://news.ycombinator.com/item?id=50521550) - [I can’t believe it’s 1!](https://aperiodical.com/2026/11/i-cant-believe-its-1/)
-* [2026-11-14, 19:30:16](https://news.ycombinator.com/item?id=50500000) - [Show HN: Radiotherapy Delivery Demo](https://tps.neuralrad.com)
 * [2026-11-14, 09:13:24](https://news.ycombinator.com/item?id=50495392) - [Why the Airbus A321XLR often gets stuck climbing for first few hours of flight](https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/)
 
 ## [Archives](archives/index.md)
