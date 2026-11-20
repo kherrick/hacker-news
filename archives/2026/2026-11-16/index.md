@@ -47,6 +47,7 @@
 * [2026-11-16, 18:04:55](https://news.ycombinator.com/item?id=50520697) - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)
 * [2026-11-16, 17:52:23](https://news.ycombinator.com/item?id=50520518) - [Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself](https://copyrightlately.com/michael-mann-heat-copyright-termination/)
 * [2026-11-16, 17:51:18](https://news.ycombinator.com/item?id=50520506) - [Show HN: Claimseed, synthetic Medicare docs with planted errors and answer keys](https://github.com/claimseed/claimseed)
+* [2026-11-16, 17:45:03](https://news.ycombinator.com/item?id=50520420) - [Creativity in Negative Space](https://spf13.com/p/creativity-in-negative-space/)
 * [2026-11-16, 17:34:41](https://news.ycombinator.com/item?id=50520270) - [Aristotle Expands into Rust](https://www.harmonic.fun/news/aristotle-rust-verification/)
 * [2026-11-16, 17:27:46](https://news.ycombinator.com/item?id=50520182) - [Sheep grazing in solar fields offers farmers economic, ecological gains](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
 * [2026-11-16, 17:25:35](https://news.ycombinator.com/item?id=50520148) - [How Billions in Safe Insurance Money Is Being Bet on A.I. Debt](https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html)
