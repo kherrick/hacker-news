@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-20, 02:44:13",
+      "https://news.ycombinator.com/item?id=50569519"
+    ],
+    [
+      "What Comes After AGI?",
+      "https://institute.deepmind.com/essays/what-comes-after-agi/"
+    ]
+  ],
+  [
+    [
+      "2026-11-20, 02:43:49",
+      "https://news.ycombinator.com/item?id=50569516"
+    ],
+    [
+      "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/"
+    ]
+  ],
+  [
+    [
       "2026-11-20, 02:01:09",
       "https://news.ycombinator.com/item?id=50569226"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-11-19, 08:56:47",
-      "https://news.ycombinator.com/item?id=50557661"
-    ],
-    [
-      "Do not buy RAM, compress",
-      "https://curiousbits.nl/blog/do-not-buy-ram-compress/"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 14:56:04",
       "https://news.ycombinator.com/item?id=50547048"
     ],
@@ -287,16 +297,6 @@
     [
       "Garage Door Spam",
       "https://blog.harrison.page/garage-door-spam/"
-    ]
-  ],
-  [
-    [
-      "2026-11-16, 13:58:56",
-      "https://news.ycombinator.com/item?id=50517657"
-    ],
-    [
-      "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
-      "https://www.tisonkun.io/posts/ai-repair-program/"
     ]
   ]
 ]
