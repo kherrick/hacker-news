@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-20, 10:01:41](https://news.ycombinator.com/item?id=50572503) - [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
 * [2026-11-20, 09:52:20](https://news.ycombinator.com/item?id=50572430) - [UK fridges secured from hackers in secret nationwide operation](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o)
 * [2026-11-20, 07:13:21](https://news.ycombinator.com/item?id=50571189) - [\"I can tell you wrote this yourself\"](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
 * [2026-11-20, 05:46:01](https://news.ycombinator.com/item?id=50570628) - [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
@@ -11,7 +12,6 @@
 * [2026-11-20, 01:06:12](https://news.ycombinator.com/item?id=50568861) - [Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
 * [2026-11-20, 00:25:59](https://news.ycombinator.com/item?id=50568548) - [ChatGPT for SNES](https://www.bxfoundry.com/chatgpt_snes/)
 * [2026-11-19, 22:13:40](https://news.ycombinator.com/item?id=50567209) - [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
-* [2026-11-19, 18:47:16](https://news.ycombinator.com/item?id=50564366) - [Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]](https://www.youtube.com/watch?v=lwfewYL7X0o)
 * [2026-11-19, 18:35:17](https://news.ycombinator.com/item?id=50564159) - [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
 * [2026-11-19, 17:30:44](https://news.ycombinator.com/item?id=50563148) - [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
 * [2026-11-19, 17:25:33](https://news.ycombinator.com/item?id=50563066) - [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)

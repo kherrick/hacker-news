@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 10:01:41](https://news.ycombinator.com/item?id=50572503) - [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
 * [2026-11-20, 09:52:20](https://news.ycombinator.com/item?id=50572430) - [UK fridges secured from hackers in secret nationwide operation](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o)
 * [2026-11-20, 09:24:53](https://news.ycombinator.com/item?id=50572217) - [Infinite scroll and autoplay are fuelling a global problem](https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue)
 * [2026-11-20, 07:13:21](https://news.ycombinator.com/item?id=50571189) - [\"I can tell you wrote this yourself\"](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
