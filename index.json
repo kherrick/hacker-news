@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2026-11-20, 02:01:09",
-      "https://news.ycombinator.com/item?id=50569226"
-    ],
-    [
-      "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "https://github.com/openssl/openssl/pull/33652"
-    ]
-  ],
-  [
-    [
       "2026-11-19, 14:29:49",
       "https://news.ycombinator.com/item?id=50560595"
     ],
     [
       "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
       "https://github.com/bigcrimping/floppy3.5"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 18:50:35",
+      "https://news.ycombinator.com/item?id=50550430"
+    ],
+    [
+      "Microsoft announces Windows Server 2028 with hardened security",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/"
     ]
   ],
   [
