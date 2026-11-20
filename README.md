@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-20, 14:16:21](https://news.ycombinator.com/item?id=50574968) - [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
-* [2026-11-20, 14:00:23](https://news.ycombinator.com/item?id=50574772) - [Llms.txt and MCP didn't move the needle](https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did)
 * [2026-11-20, 13:29:59](https://news.ycombinator.com/item?id=50574383) - [Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
 * [2026-11-20, 12:41:38](https://news.ycombinator.com/item?id=50573886) - [If you stop writing code, you also get worse at reviewing it](https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/)
 * [2026-11-20, 12:16:36](https://news.ycombinator.com/item?id=50573681) - [Epic Games Turns to AI Coding for the Unreal Engine](https://spectrum.ieee.org/epic-games-unreal-engine-ai)
@@ -20,6 +19,7 @@
 * [2026-11-20, 02:43:49](https://news.ycombinator.com/item?id=50569516) - [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
 * [2026-11-20, 02:01:09](https://news.ycombinator.com/item?id=50569226) - [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
 * [2026-11-20, 01:06:12](https://news.ycombinator.com/item?id=50568861) - [Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
+* [2026-11-19, 17:25:33](https://news.ycombinator.com/item?id=50563066) - [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
 * [2026-11-19, 15:16:02](https://news.ycombinator.com/item?id=50561199) - [Show HN: Fast deterministic natural language search for OpenStreetMap data](https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935)
 * [2026-11-19, 14:29:49](https://news.ycombinator.com/item?id=50560595) - [Floppy3.5: A portable 3.5-inch floppy WiFi NAS](https://github.com/bigcrimping/floppy3.5)
 * [2026-11-18, 13:02:08](https://news.ycombinator.com/item?id=50545818) - [µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/)
