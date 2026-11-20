@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-11-19, 08:39:45",
-      "https://news.ycombinator.com/item?id=50557537"
-    ],
-    [
-      "Distributed, high-performance blob storage on SQLite",
-      "https://zerodha.tech/blog/high-performance-distributed-blob-storage/"
-    ]
-  ],
-  [
-    [
       "2026-11-19, 05:09:11",
       "https://news.ycombinator.com/item?id=50556287"
     ],
@@ -277,6 +267,16 @@
     [
       "How to CAD Almost Anything",
       "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/"
+    ]
+  ],
+  [
+    [
+      "2026-11-16, 18:34:37",
+      "https://news.ycombinator.com/item?id=50521083"
+    ],
+    [
+      "Adding Fortran Support to LLDB (GSoC 2026)",
+      "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/"
     ]
   ],
   [
