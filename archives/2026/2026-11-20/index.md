@@ -10,6 +10,7 @@
 * [2026-11-20, 20:11:14](https://news.ycombinator.com/item?id=50581242) - [Combatting Adversarial Distillation](https://openai.com/index/combatting-adversarial-distillation/)
 * [2026-11-20, 20:07:55](https://news.ycombinator.com/item?id=50581177) - [And Yet, It Moves](https://signoregalilei.com/2026/11/20/and-yet-it-moves/)
 * [2026-11-20, 20:07:14](https://news.ycombinator.com/item?id=50581165) - [Reverse Engineering my cat's litter box](https://master--ytulsiani.netlify.app/blog/furrytails/)
+* [2026-11-20, 20:03:59](https://news.ycombinator.com/item?id=50581110) - [DreamCoder: Coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder)
 * [2026-11-20, 20:03:07](https://news.ycombinator.com/item?id=50581084) - [The stochastic parrots have apparently proved the Riemann Hypothesis](https://scottaaronson.blog/?p=10344)
 * [2026-11-20, 19:30:16](https://news.ycombinator.com/item?id=50580536) - [Winedroid – run Android apps without Android (WASM demo)](https://winedroid.soham.sh/demo/)
 * [2026-11-20, 19:21:49](https://news.ycombinator.com/item?id=50580385) - [GrapheneOS claims Google is now waging war against it, could lock Pixel bootload](https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/)
