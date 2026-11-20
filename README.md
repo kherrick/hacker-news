@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-20, 20:22:41](https://news.ycombinator.com/item?id=50581438) - [Nvidia accounting under SEC investigation, sources say](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)
+* [2026-11-20, 20:19:56](https://news.ycombinator.com/item?id=50581403) - [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)
 * [2026-11-20, 20:12:19](https://news.ycombinator.com/item?id=50581260) - [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
 * [2026-11-20, 20:11:14](https://news.ycombinator.com/item?id=50581242) - [Combatting Adversarial Distillation](https://openai.com/index/combatting-adversarial-distillation/)
 * [2026-11-20, 20:07:55](https://news.ycombinator.com/item?id=50581177) - [And Yet, It Moves](https://signoregalilei.com/2026/11/20/and-yet-it-moves/)
@@ -20,7 +21,6 @@
 * [2026-11-20, 15:34:31](https://news.ycombinator.com/item?id=50576232) - [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/)
 * [2026-11-20, 15:03:31](https://news.ycombinator.com/item?id=50575644) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 * [2026-11-20, 14:16:21](https://news.ycombinator.com/item?id=50574968) - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
-* [2026-11-20, 10:41:10](https://news.ycombinator.com/item?id=50572822) - [The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
 * [2026-11-20, 10:01:41](https://news.ycombinator.com/item?id=50572503) - [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
 * [2026-11-20, 09:43:19](https://news.ycombinator.com/item?id=50572355) - [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
 * [2026-11-20, 09:42:16](https://news.ycombinator.com/item?id=50572348) - [Signal Is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
