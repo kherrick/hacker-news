@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-20, 09:24:53](https://news.ycombinator.com/item?id=50572217) - [Infinite scroll and autoplay are fuelling a global problem](https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue)
 * [2026-11-20, 07:13:21](https://news.ycombinator.com/item?id=50571189) - [\"I can tell you wrote this yourself\"](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
 * [2026-11-20, 05:46:01](https://news.ycombinator.com/item?id=50570628) - [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
 * [2026-11-20, 04:02:39](https://news.ycombinator.com/item?id=50569998) - [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)
@@ -16,7 +17,6 @@
 * [2026-11-19, 17:25:33](https://news.ycombinator.com/item?id=50563066) - [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
 * [2026-11-19, 17:02:40](https://news.ycombinator.com/item?id=50562754) - [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
 * [2026-11-19, 16:34:04](https://news.ycombinator.com/item?id=50562320) - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
-* [2026-11-19, 16:21:03](https://news.ycombinator.com/item?id=50562113) - [UK government forced to admit it issued Apple a secret encryption order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
 * [2026-11-19, 15:38:32](https://news.ycombinator.com/item?id=50561515) - [Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest](https://cornholenews.news)
 * [2026-11-19, 15:38:12](https://news.ycombinator.com/item?id=50561508) - [Pete Warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/)
 * [2026-11-19, 13:18:11](https://news.ycombinator.com/item?id=50559719) - [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
