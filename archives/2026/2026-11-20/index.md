@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
 * [2026-11-20, 22:30:47](https://news.ycombinator.com/item?id=50583274) - [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
+* [2026-11-20, 22:29:06](https://news.ycombinator.com/item?id=50583254) - [Nasdaq erases all 2026 gains](https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html)
 * [2026-11-20, 22:18:20](https://news.ycombinator.com/item?id=50583117) - [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models)
 * [2026-11-20, 21:50:25](https://news.ycombinator.com/item?id=50582746) - [Supreme Court sentences 29-year-old activist to prison over FB post](https://prachataienglish.com/node/12123)
 * [2026-11-20, 21:42:21](https://news.ycombinator.com/item?id=50582629) - [A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon)
