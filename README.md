@@ -16,6 +16,7 @@
 * [2026-11-20, 09:42:16](https://news.ycombinator.com/item?id=50572348) - [Signal Is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 * [2026-11-20, 09:13:09](https://news.ycombinator.com/item?id=50572116) - [Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)](https://ecohustler.com/article/one-corporation-to-pollute-them-all/)
 * [2026-11-20, 04:02:39](https://news.ycombinator.com/item?id=50569998) - [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)
+* [2026-11-20, 03:45:45](https://news.ycombinator.com/item?id=50569890) - [PostgreSQL 19](https://www.postgresql.org/docs/release/19.0/)
 * [2026-11-20, 02:43:49](https://news.ycombinator.com/item?id=50569516) - [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
 * [2026-11-20, 02:01:09](https://news.ycombinator.com/item?id=50569226) - [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
 * [2026-11-19, 17:30:44](https://news.ycombinator.com/item?id=50563148) - [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
@@ -28,7 +29,6 @@
 * [2026-11-17, 04:29:07](https://news.ycombinator.com/item?id=50527444) - [The G1 Garbage Collector](https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/)
 * [2026-11-17, 01:03:05](https://news.ycombinator.com/item?id=50526023) - [Show HN: I made an audio-to-MIDI model 60x more efficient](https://kobi.music/research/dettato)
 * [2026-11-16, 21:04:01](https://news.ycombinator.com/item?id=50523241) - [The Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver)
-* [2026-11-16, 17:45:03](https://news.ycombinator.com/item?id=50520420) - [Creativity in Negative Space](https://spf13.com/p/creativity-in-negative-space/)
 * [2026-11-14, 09:13:24](https://news.ycombinator.com/item?id=50495392) - [Why the Airbus A321XLR often gets stuck climbing for first few hours of flight](https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/)
 
 ## [Archives](archives/index.md)
