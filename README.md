@@ -2,6 +2,7 @@
 
 * [2026-11-20, 20:22:41](https://news.ycombinator.com/item?id=50581438) - [Nvidia accounting under SEC investigation, sources say](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)
 * [2026-11-20, 20:12:19](https://news.ycombinator.com/item?id=50581260) - [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
+* [2026-11-20, 20:03:07](https://news.ycombinator.com/item?id=50581084) - [The stochastic parrots have apparently proved the Riemann Hypothesis](https://scottaaronson.blog/?p=10344)
 * [2026-11-20, 19:30:16](https://news.ycombinator.com/item?id=50580536) - [Winedroid – run Android apps without Android (WASM demo)](https://winedroid.soham.sh/demo/)
 * [2026-11-20, 18:33:14](https://news.ycombinator.com/item?id=50579568) - [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
 * [2026-11-20, 18:17:51](https://news.ycombinator.com/item?id=50579331) - [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
@@ -12,7 +13,6 @@
 * [2026-11-20, 16:59:27](https://news.ycombinator.com/item?id=50577901) - [Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI](https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/)
 * [2026-11-20, 16:45:25](https://news.ycombinator.com/item?id=50577613) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
 * [2026-11-20, 16:29:06](https://news.ycombinator.com/item?id=50577265) - [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
-* [2026-11-20, 16:06:30](https://news.ycombinator.com/item?id=50576855) - [I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/)
 * [2026-11-20, 15:34:31](https://news.ycombinator.com/item?id=50576232) - [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/)
 * [2026-11-20, 15:03:31](https://news.ycombinator.com/item?id=50575644) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 * [2026-11-20, 14:16:21](https://news.ycombinator.com/item?id=50574968) - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
