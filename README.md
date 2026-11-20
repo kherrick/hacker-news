@@ -19,7 +19,7 @@
 * [2026-11-19, 16:34:04](https://news.ycombinator.com/item?id=50562320) - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
 * [2026-11-19, 16:21:03](https://news.ycombinator.com/item?id=50562113) - [UK government forced to admit it issued Apple a secret encryption order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
 * [2026-11-19, 15:38:32](https://news.ycombinator.com/item?id=50561515) - [Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest](https://cornholenews.news)
-* [2026-11-19, 15:38:12](https://news.ycombinator.com/item?id=50561508) - [Pete warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/)
+* [2026-11-19, 15:38:12](https://news.ycombinator.com/item?id=50561508) - [Pete Warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/)
 * [2026-11-19, 13:18:11](https://news.ycombinator.com/item?id=50559719) - [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
 * [2026-11-19, 11:47:03](https://news.ycombinator.com/item?id=50558906) - [Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781)
 * [2026-11-18, 13:02:08](https://news.ycombinator.com/item?id=50545818) - [µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/)
