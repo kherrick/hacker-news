@@ -66,6 +66,7 @@
 * [2026-11-13, 14:58:07](https://news.ycombinator.com/item?id=50484496) - [EU Digital Identity Wallet rollout: every EU state on one board](https://myid.ie/business/eu-digital-wallet-tracker/)
 * [2026-11-13, 14:53:56](https://news.ycombinator.com/item?id=50484426) - [Ask HN: Can anyone name anything new that AI has done?](https://news.ycombinator.com/item?id=50484426)
 * [2026-11-13, 14:53:32](https://news.ycombinator.com/item?id=50484421) - [U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years](https://news.ycombinator.com/item?id=50484421)
+* [2026-11-13, 14:45:22](https://news.ycombinator.com/item?id=50484268) - [The Specialization of Desire](https://summerlightning.substack.com/p/the-specialization-of-desire)
 * [2026-11-13, 14:43:12](https://news.ycombinator.com/item?id=50484235) - [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
 * [2026-11-13, 14:42:57](https://news.ycombinator.com/item?id=50484234) - [Semicircle Packing](https://rorz.io/writing/semicircle-packing)
 * [2026-11-13, 14:34:13](https://news.ycombinator.com/item?id=50484110) - [Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical](https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11)
