@@ -7,6 +7,7 @@
 * [2026-11-20, 17:16:44](https://news.ycombinator.com/item?id=50578289) - [Anthropic's Plunge Deepens AI Selloff](https://boamaehg.blogspot.com/2026/11/nasdaq-slides-as-anthropic-plunge-drags.html)
 * [2026-11-20, 17:14:03](https://news.ycombinator.com/item?id=50578233) - [Running two PSP emulators on one Switch 2 and sharing one via GameShare](https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md)
 * [2026-11-20, 17:08:56](https://news.ycombinator.com/item?id=50578117) - [PostgreSQL 19: A hands-on tour with runnable browser examples](https://certuvia.com/blog/postgres-19)
+* [2026-11-20, 16:59:27](https://news.ycombinator.com/item?id=50577901) - [Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI](https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/)
 * [2026-11-20, 16:45:25](https://news.ycombinator.com/item?id=50577613) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
 * [2026-11-20, 16:29:06](https://news.ycombinator.com/item?id=50577265) - [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
 * [2026-11-20, 16:06:30](https://news.ycombinator.com/item?id=50576855) - [I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/)
