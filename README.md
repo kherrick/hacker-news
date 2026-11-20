@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-20, 05:46:01](https://news.ycombinator.com/item?id=50570628) - [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
 * [2026-11-20, 05:21:02](https://news.ycombinator.com/item?id=50570479) - [Google is pushing OEMs against GrapheneOS and bootloader unlocking](https://grapheneos.social/@GrapheneOS/117645038299496084)
 * [2026-11-20, 04:02:39](https://news.ycombinator.com/item?id=50569998) - [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)
 * [2026-11-20, 04:00:24](https://news.ycombinator.com/item?id=50569985) - [GIMP now has UI tests](https://www.gimp.org/news/2026/11/16/gimp-ui-tests/)
@@ -25,7 +26,6 @@
 * [2026-11-18, 10:39:16](https://news.ycombinator.com/item?id=50544546) - [IRA Velinsky, industrial designer for Commodore and Atari](https://dfarq.homeip.net/ira-velinsky-industrial-designer-of-the-commodore-64/)
 * [2026-11-17, 22:11:46](https://news.ycombinator.com/item?id=50538977) - [Weight-Space Programming builds neural networks like a 1990s researcher](https://notesbylex.com/weight-space-programming-1990s)
 * [2026-11-17, 20:12:34](https://news.ycombinator.com/item?id=50537492) - [Automatic Checking of Compiler Correctness with E-Graphs](https://stng.substack.com/p/automatic-checking-of-compiler-correctness)
-* [2026-11-17, 19:35:12](https://news.ycombinator.com/item?id=50536950) - [An Oregon library ditched Dewey Decimal and got people excited about books again](https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system)
 * [2026-11-17, 11:41:08](https://news.ycombinator.com/item?id=50530132) - [Talking Venice with Mahesh Subramony at AMD In-Depth](https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony)
 * [2026-11-17, 06:29:57](https://news.ycombinator.com/item?id=50528119) - [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
 * [2026-11-16, 19:04:36](https://news.ycombinator.com/item?id=50521512) - [Bit Shifting in Basic](https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/)
