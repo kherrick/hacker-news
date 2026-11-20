@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-20, 19:30:16](https://news.ycombinator.com/item?id=50580536) - [Winedroid – run Android apps without Android (WASM demo)](https://winedroid.soham.sh/demo/)
 * [2026-11-20, 19:21:49](https://news.ycombinator.com/item?id=50580385) - [GrapheneOS claims Google is now waging war against it, could lock Pixel bootload](https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/)
 * [2026-11-20, 18:33:14](https://news.ycombinator.com/item?id=50579568) - [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
 * [2026-11-20, 18:17:51](https://news.ycombinator.com/item?id=50579331) - [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
@@ -15,7 +16,6 @@
 * [2026-11-20, 15:34:31](https://news.ycombinator.com/item?id=50576232) - [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/)
 * [2026-11-20, 15:03:31](https://news.ycombinator.com/item?id=50575644) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 * [2026-11-20, 14:16:21](https://news.ycombinator.com/item?id=50574968) - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
-* [2026-11-20, 12:41:38](https://news.ycombinator.com/item?id=50573886) - [If you stop writing code, you also get worse at reviewing it](https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/)
 * [2026-11-20, 10:41:10](https://news.ycombinator.com/item?id=50572822) - [The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
 * [2026-11-20, 10:01:41](https://news.ycombinator.com/item?id=50572503) - [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
 * [2026-11-20, 09:54:33](https://news.ycombinator.com/item?id=50572448) - [What people are building, discovered through new domains](https://startups.novumsignals.com/)
