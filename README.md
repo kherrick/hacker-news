@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-20, 11:13:05](https://news.ycombinator.com/item?id=50573087) - [Why do tech leaders sound so illogical and off-putting?](https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/)
 * [2026-11-20, 10:41:10](https://news.ycombinator.com/item?id=50572822) - [The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
 * [2026-11-20, 10:01:41](https://news.ycombinator.com/item?id=50572503) - [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
+* [2026-11-20, 09:54:33](https://news.ycombinator.com/item?id=50572448) - [What people are building, discovered through new domains](https://startups.novumsignals.com/)
 * [2026-11-20, 09:52:20](https://news.ycombinator.com/item?id=50572430) - [UK fridges secured from hackers in secret nationwide operation](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o)
 * [2026-11-20, 09:43:19](https://news.ycombinator.com/item?id=50572355) - [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
 * [2026-11-20, 09:13:09](https://news.ycombinator.com/item?id=50572116) - [Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars](https://ecohustler.com/article/one-corporation-to-pollute-them-all/)
@@ -22,13 +24,11 @@
 * [2026-11-19, 11:47:03](https://news.ycombinator.com/item?id=50558906) - [Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781)
 * [2026-11-18, 13:02:08](https://news.ycombinator.com/item?id=50545818) - [µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/)
 * [2026-11-18, 03:40:01](https://news.ycombinator.com/item?id=50541568) - [Show HN: Tinnitus frequency finder and audio notch tool](https://trynotched.com/find)
-* [2026-11-18, 02:13:35](https://news.ycombinator.com/item?id=50541018) - [Can I borrow a lunar rover? (2013)](https://space.stackexchange.com/questions/2095)
 * [2026-11-17, 22:11:46](https://news.ycombinator.com/item?id=50538977) - [Weight-Space Programming builds neural networks like a 1990s researcher](https://notesbylex.com/weight-space-programming-1990s)
 * [2026-11-17, 20:12:34](https://news.ycombinator.com/item?id=50537492) - [Automatic Checking of Compiler Correctness with E-Graphs](https://stng.substack.com/p/automatic-checking-of-compiler-correctness)
 * [2026-11-17, 06:29:57](https://news.ycombinator.com/item?id=50528119) - [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
 * [2026-11-16, 21:04:01](https://news.ycombinator.com/item?id=50523241) - [The Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver)
 * [2026-11-16, 19:04:36](https://news.ycombinator.com/item?id=50521512) - [Bit Shifting in Basic](https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/)
-* [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 * [2026-11-14, 19:30:16](https://news.ycombinator.com/item?id=50500000) - [Show HN: Radiotherapy Delivery Demo](https://tps.neuralrad.com)
 
 ## [Archives](archives/index.md)
