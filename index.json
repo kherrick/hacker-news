@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-11-20, 18:33:14",
+      "https://news.ycombinator.com/item?id=50579568"
+    ],
+    [
+      "Hurried Announcement: Alessandro Masullo GRH",
+      "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
+    ]
+  ],
+  [
+    [
       "2026-11-20, 18:17:51",
       "https://news.ycombinator.com/item?id=50579331"
     ],
     [
       "We promoted developers into architects without informing them",
       "https://manidoraisamy.com/developer-to-architect.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-20, 18:15:16",
+      "https://news.ycombinator.com/item?id=50579297"
+    ],
+    [
+      "Vibecoding an Inference Chip",
+      "https://ankitg.me/blog/vibecoding-inference-chip/"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2026-11-20, 02:43:49",
-      "https://news.ycombinator.com/item?id=50569516"
-    ],
-    [
-      "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-      "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/"
-    ]
-  ],
-  [
-    [
       "2026-11-20, 02:01:09",
       "https://news.ycombinator.com/item?id=50569226"
     ],
     [
       "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
       "https://github.com/openssl/openssl/pull/33652"
-    ]
-  ],
-  [
-    [
-      "2026-11-19, 17:30:44",
-      "https://news.ycombinator.com/item?id=50563148"
-    ],
-    [
-      "Claude solves two open problems in the physics of black holes",
-      "https://www.anthropic.com/research/claude-black-hole-physics"
     ]
   ],
   [
