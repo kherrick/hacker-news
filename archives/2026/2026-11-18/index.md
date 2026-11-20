@@ -90,6 +90,7 @@
 * [2026-11-18, 04:10:50](https://news.ycombinator.com/item?id=50541774) - [Building Lego Machines to Destroy Tall Lego Towers (2024)](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
 * [2026-11-18, 03:54:17](https://news.ycombinator.com/item?id=50541665) - [How Warp Speed Works (2023)](https://science.howstuffworks.com/warp-speed.htm)
 * [2026-11-18, 03:47:43](https://news.ycombinator.com/item?id=50541619) - [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)
+* [2026-11-18, 03:40:01](https://news.ycombinator.com/item?id=50541568) - [Show HN: Tinnitus frequency finder and audio notch tool](https://trynotched.com/find)
 * [2026-11-18, 03:37:35](https://news.ycombinator.com/item?id=50541550) - [H-1B Executive Actions in 2026 [pdf]](https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf)
 * [2026-11-18, 03:36:12](https://news.ycombinator.com/item?id=50541542) - [Engineering Vitals in the Age of AI](https://octopus.com/blog/engineering-vitals-in-the-age-of-ai)
 * [2026-11-18, 03:35:47](https://news.ycombinator.com/item?id=50541538) - [GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer)
