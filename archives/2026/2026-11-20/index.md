@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 16:45:25](https://news.ycombinator.com/item?id=50577613) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
+* [2026-11-20, 16:29:06](https://news.ycombinator.com/item?id=50577265) - [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
 * [2026-11-20, 16:06:30](https://news.ycombinator.com/item?id=50576855) - [I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/)
 * [2026-11-20, 15:34:31](https://news.ycombinator.com/item?id=50576232) - [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/)
 * [2026-11-20, 15:03:31](https://news.ycombinator.com/item?id=50575644) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)

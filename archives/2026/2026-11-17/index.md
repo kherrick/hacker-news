@@ -58,6 +58,7 @@
 * [2026-11-17, 14:20:32](https://news.ycombinator.com/item?id=50531761) - [Loopholes Are for Assholes](https://actsofvolition.com/2026/11/loopholes-are-for-assholes/)
 * [2026-11-17, 14:19:59](https://news.ycombinator.com/item?id=50531751) - [Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns](https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns)
 * [2026-11-17, 14:00:47](https://news.ycombinator.com/item?id=50531484) - [S. Korea to send nationwide emergency alerts over college entrance exam cheating](https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e)
+* [2026-11-17, 13:22:18](https://news.ycombinator.com/item?id=50531009) - [Lovable: Now you can explore any idea in parallel without touching what's live](https://lovable.dev/blog/introducing-drafts)
 * [2026-11-17, 12:21:57](https://news.ycombinator.com/item?id=50530450) - [Regulatory Capture by Anthropic Through METR](https://nitter.cf/kevinnbass/status/2099621874279817638)
 * [2026-11-17, 12:19:42](https://news.ycombinator.com/item?id=50530426) - [Making Art with QR Codes, and the Fine Line Between Inspiration and Idea Theft](https://www.gorillasun.de/blog/making-art-with-qr-codes-and-the-fine-line-between-inspiration-and-idea-theft/)
 * [2026-11-17, 11:45:51](https://news.ycombinator.com/item?id=50530163) - [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
