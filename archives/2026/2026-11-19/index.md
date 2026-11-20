@@ -29,6 +29,7 @@
 * [2026-11-19, 15:38:32](https://news.ycombinator.com/item?id=50561515) - [I built Cornhole News. A Hacker News inspired site for news across the Midwest](https://cornholenews.news)
 * [2026-11-19, 15:38:12](https://news.ycombinator.com/item?id=50561508) - [Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)](https://thedataexchange.media/pete-warden-moonshine/)
 * [2026-11-19, 15:32:47](https://news.ycombinator.com/item?id=50561436) - [Show HN: Watch weight-space programming in action with WebGPU](https://tabbyml.github.io/weight-space-playground/)
+* [2026-11-19, 15:16:02](https://news.ycombinator.com/item?id=50561199) - [Show HN: Fast deterministic natural language search for OpenStreetMap data](https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935)
 * [2026-11-19, 15:13:23](https://news.ycombinator.com/item?id=50561170) - [How to Make the Ink Used to Write Hamlet and the Declaration of Independence](https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/)
 * [2026-11-19, 14:57:14](https://news.ycombinator.com/item?id=50560955) - [Cooling buildings is overtaking heating them as an energy need, IEA says](https://maccus.fr/en/cooling-overtaking-heating/)
 * [2026-11-19, 14:47:18](https://news.ycombinator.com/item?id=50560822) - [Everything you need to survive and rebuild society](https://lastbook.org/)

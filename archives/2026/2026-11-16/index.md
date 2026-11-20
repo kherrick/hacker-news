@@ -32,6 +32,7 @@
 * [2026-11-16, 20:10:38](https://news.ycombinator.com/item?id=50522471) - [Frankenstein PBC – Animation, bestowed upon lifeless matter](https://www.frankensteinpbc.com/)
 * [2026-11-16, 19:29:17](https://news.ycombinator.com/item?id=50521870) - [How to Intercept HTTP/3 Traffic: QUIC and Qpack](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
 * [2026-11-16, 19:13:13](https://news.ycombinator.com/item?id=50521644) - [Adobe flash editor libre alternative](https://www.q0id.com/downloads)
+* [2026-11-16, 19:07:13](https://news.ycombinator.com/item?id=50521550) - [I can’t believe it’s 1!](https://aperiodical.com/2026/11/i-cant-believe-its-1/)
 * [2026-11-16, 19:04:36](https://news.ycombinator.com/item?id=50521512) - [Bit Shifting in Basic](https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/)
 * [2026-11-16, 18:57:29](https://news.ycombinator.com/item?id=50521421) - [Chase, US Bank, Zelle, others are down](https://www.boston25news.com/news/trending/customers-report-chase-us-bank-zelle-others-are-down/LYYL3KX37JAGDGDPB65AS36Q24/)
 * [2026-11-16, 18:53:00](https://news.ycombinator.com/item?id=50521357) - [US Banks report outages in latest tech hiccup](https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/)
