@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-11-20, 02:44:13",
-      "https://news.ycombinator.com/item?id=50569519"
+      "2026-11-20, 03:45:45",
+      "https://news.ycombinator.com/item?id=50569890"
     ],
     [
-      "What Comes After AGI?",
-      "https://institute.deepmind.com/essays/what-comes-after-agi/"
+      "PostgreSQL 19",
+      "https://www.postgresql.org/docs/release/19.0/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
       "https://www.databricks.com/blog/postgresql-19-available-lakebase"
+    ]
+  ],
+  [
+    [
+      "2026-11-20, 00:25:59",
+      "https://news.ycombinator.com/item?id=50568548"
+    ],
+    [
+      "ChatGPT for SNES",
+      "https://www.bxfoundry.com/chatgpt_snes/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-11-19, 08:56:47",
-      "https://news.ycombinator.com/item?id=50557661"
-    ],
-    [
-      "Do not buy RAM, compress",
-      "https://curiousbits.nl/blog/do-not-buy-ram-compress/"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 14:56:04",
       "https://news.ycombinator.com/item?id=50547048"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-11-17, 20:37:53",
-      "https://news.ycombinator.com/item?id=50537832"
+      "2026-11-17, 20:12:34",
+      "https://news.ycombinator.com/item?id=50537492"
     ],
     [
-      "Computer Graphics from Scratch (2021)",
-      "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html"
+      "Automatic Checking of Compiler Correctness with E-Graphs",
+      "https://stng.substack.com/p/automatic-checking-of-compiler-correctness"
     ]
   ],
   [
