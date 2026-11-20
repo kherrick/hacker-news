@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-11-20, 17:16:44",
+      "https://news.ycombinator.com/item?id=50578289"
+    ],
+    [
+      "Anthropic's Plunge Deepens AI Selloff",
+      "https://boamaehg.blogspot.com/2026/11/nasdaq-slides-as-anthropic-plunge-drags.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-20, 17:14:03",
+      "https://news.ycombinator.com/item?id=50578233"
+    ],
+    [
+      "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+      "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md"
+    ]
+  ],
+  [
+    [
+      "2026-11-20, 17:08:56",
+      "https://news.ycombinator.com/item?id=50578117"
+    ],
+    [
+      "PostgreSQL 19: A hands-on tour with runnable browser examples",
+      "https://certuvia.com/blog/postgres-19"
+    ]
+  ],
+  [
+    [
       "2026-11-20, 16:45:25",
       "https://news.ycombinator.com/item?id=50577613"
     ],
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2026-11-20, 07:13:21",
-      "https://news.ycombinator.com/item?id=50571189"
-    ],
-    [
-      "\"I can tell you wrote this yourself\"",
-      "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/"
-    ]
-  ],
-  [
-    [
       "2026-11-20, 04:02:39",
       "https://news.ycombinator.com/item?id=50569998"
     ],
     [
       "FFmpeg 9.1 'Gauss'",
       "https://ffmpeg.org/download.html#release_9.1"
-    ]
-  ],
-  [
-    [
-      "2026-11-20, 03:45:45",
-      "https://news.ycombinator.com/item?id=50569890"
-    ],
-    [
-      "PostgreSQL 19",
-      "https://www.postgresql.org/docs/release/19.0/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Strongest Sokoban Solver",
       "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver"
-    ]
-  ],
-  [
-    [
-      "2026-11-16, 17:45:03",
-      "https://news.ycombinator.com/item?id=50520420"
-    ],
-    [
-      "Creativity in Negative Space",
-      "https://spf13.com/p/creativity-in-negative-space/"
     ]
   ]
 ]
