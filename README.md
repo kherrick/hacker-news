@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-20, 10:41:10](https://news.ycombinator.com/item?id=50572822) - [The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
 * [2026-11-20, 10:01:41](https://news.ycombinator.com/item?id=50572503) - [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
 * [2026-11-20, 09:52:20](https://news.ycombinator.com/item?id=50572430) - [UK fridges secured from hackers in secret nationwide operation](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o)
 * [2026-11-20, 09:43:19](https://news.ycombinator.com/item?id=50572355) - [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
@@ -12,12 +13,11 @@
 * [2026-11-20, 02:43:49](https://news.ycombinator.com/item?id=50569516) - [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
 * [2026-11-20, 02:01:09](https://news.ycombinator.com/item?id=50569226) - [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
 * [2026-11-20, 01:06:12](https://news.ycombinator.com/item?id=50568861) - [Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
-* [2026-11-20, 00:25:59](https://news.ycombinator.com/item?id=50568548) - [ChatGPT for SNES](https://www.bxfoundry.com/chatgpt_snes/)
 * [2026-11-19, 22:13:40](https://news.ycombinator.com/item?id=50567209) - [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
 * [2026-11-19, 18:35:17](https://news.ycombinator.com/item?id=50564159) - [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
 * [2026-11-19, 17:30:44](https://news.ycombinator.com/item?id=50563148) - [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
+* [2026-11-19, 17:25:33](https://news.ycombinator.com/item?id=50563066) - [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
 * [2026-11-19, 17:02:40](https://news.ycombinator.com/item?id=50562754) - [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
-* [2026-11-19, 16:34:04](https://news.ycombinator.com/item?id=50562320) - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
 * [2026-11-19, 15:38:12](https://news.ycombinator.com/item?id=50561508) - [Pete Warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/)
 * [2026-11-19, 11:47:03](https://news.ycombinator.com/item?id=50558906) - [Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781)
 * [2026-11-18, 13:02:08](https://news.ycombinator.com/item?id=50545818) - [µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/)
@@ -27,9 +27,9 @@
 * [2026-11-17, 20:12:34](https://news.ycombinator.com/item?id=50537492) - [Automatic Checking of Compiler Correctness with E-Graphs](https://stng.substack.com/p/automatic-checking-of-compiler-correctness)
 * [2026-11-17, 06:29:57](https://news.ycombinator.com/item?id=50528119) - [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
 * [2026-11-16, 21:04:01](https://news.ycombinator.com/item?id=50523241) - [The Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver)
-* [2026-11-16, 20:10:38](https://news.ycombinator.com/item?id=50522471) - [Frankenstein PBC – Animation, bestowed upon lifeless matter](https://www.frankensteinpbc.com/)
 * [2026-11-16, 19:04:36](https://news.ycombinator.com/item?id=50521512) - [Bit Shifting in Basic](https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/)
 * [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
+* [2026-11-14, 19:30:16](https://news.ycombinator.com/item?id=50500000) - [Show HN: Radiotherapy Delivery Demo](https://tps.neuralrad.com)
 
 ## [Archives](archives/index.md)
 
