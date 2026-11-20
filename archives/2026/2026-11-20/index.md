@@ -5,7 +5,11 @@
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
 * [2026-11-20, 20:22:41](https://news.ycombinator.com/item?id=50581438) - [Nvidia accounting under SEC investigation, sources say](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)
+* [2026-11-20, 20:19:56](https://news.ycombinator.com/item?id=50581403) - [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)
 * [2026-11-20, 20:12:19](https://news.ycombinator.com/item?id=50581260) - [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
+* [2026-11-20, 20:11:14](https://news.ycombinator.com/item?id=50581242) - [Combatting Adversarial Distillation](https://openai.com/index/combatting-adversarial-distillation/)
+* [2026-11-20, 20:07:55](https://news.ycombinator.com/item?id=50581177) - [And Yet, It Moves](https://signoregalilei.com/2026/11/20/and-yet-it-moves/)
+* [2026-11-20, 20:07:14](https://news.ycombinator.com/item?id=50581165) - [Reverse Engineering my cat's litter box](https://master--ytulsiani.netlify.app/blog/furrytails/)
 * [2026-11-20, 20:03:07](https://news.ycombinator.com/item?id=50581084) - [The stochastic parrots have apparently proved the Riemann Hypothesis](https://scottaaronson.blog/?p=10344)
 * [2026-11-20, 19:30:16](https://news.ycombinator.com/item?id=50580536) - [Winedroid – run Android apps without Android (WASM demo)](https://winedroid.soham.sh/demo/)
 * [2026-11-20, 19:21:49](https://news.ycombinator.com/item?id=50580385) - [GrapheneOS claims Google is now waging war against it, could lock Pixel bootload](https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/)
