@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-20, 18:17:51](https://news.ycombinator.com/item?id=50579331) - [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
 * [2026-11-20, 17:44:01](https://news.ycombinator.com/item?id=50578794) - [Anthropic shares tank after IPO as the Nasdaq erases 2026 gains](https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394)
 * [2026-11-20, 17:21:36](https://news.ycombinator.com/item?id=50578358) - [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
 * [2026-11-20, 17:14:03](https://news.ycombinator.com/item?id=50578233) - [Running two PSP emulators on one Switch 2 and sharing one via GameShare](https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md)
@@ -15,7 +16,6 @@
 * [2026-11-20, 10:41:10](https://news.ycombinator.com/item?id=50572822) - [The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
 * [2026-11-20, 10:01:41](https://news.ycombinator.com/item?id=50572503) - [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
 * [2026-11-20, 09:54:33](https://news.ycombinator.com/item?id=50572448) - [What people are building, discovered through new domains](https://startups.novumsignals.com/)
-* [2026-11-20, 09:52:20](https://news.ycombinator.com/item?id=50572430) - [UK fridges secured from hackers](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o)
 * [2026-11-20, 09:43:19](https://news.ycombinator.com/item?id=50572355) - [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
 * [2026-11-20, 09:42:16](https://news.ycombinator.com/item?id=50572348) - [Signal Is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 * [2026-11-20, 09:13:09](https://news.ycombinator.com/item?id=50572116) - [Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)](https://ecohustler.com/article/one-corporation-to-pollute-them-all/)
