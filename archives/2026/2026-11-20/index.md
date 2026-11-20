@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 21:42:21](https://news.ycombinator.com/item?id=50582629) - [A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon)
 * [2026-11-20, 20:22:41](https://news.ycombinator.com/item?id=50581438) - [Nvidia accounting under SEC investigation, sources say](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)
 * [2026-11-20, 20:19:56](https://news.ycombinator.com/item?id=50581403) - [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)
 * [2026-11-20, 20:12:19](https://news.ycombinator.com/item?id=50581260) - [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
