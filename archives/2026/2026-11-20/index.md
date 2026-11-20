@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 23:35:42](https://news.ycombinator.com/item?id=50583911) - [GitHub nuked me with no reason, and (so far) no ability to contact a human](https://nate.mecca1.net/posts/2026-11-20_help/)
+* [2026-11-20, 23:19:44](https://news.ycombinator.com/item?id=50583768) - [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
 * [2026-11-20, 22:30:47](https://news.ycombinator.com/item?id=50583274) - [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
 * [2026-11-20, 22:29:06](https://news.ycombinator.com/item?id=50583254) - [Nasdaq erases all 2026 gains](https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html)
 * [2026-11-20, 22:18:20](https://news.ycombinator.com/item?id=50583117) - [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models)

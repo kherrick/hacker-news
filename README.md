@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-20, 23:35:42](https://news.ycombinator.com/item?id=50583911) - [GitHub nuked me with no reason, and (so far) no ability to contact a human](https://nate.mecca1.net/posts/2026-11-20_help/)
+* [2026-11-20, 23:19:44](https://news.ycombinator.com/item?id=50583768) - [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
 * [2026-11-20, 22:30:47](https://news.ycombinator.com/item?id=50583274) - [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
 * [2026-11-20, 22:29:06](https://news.ycombinator.com/item?id=50583254) - [Nasdaq erases all 2026 gains](https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html)
 * [2026-11-20, 22:18:20](https://news.ycombinator.com/item?id=50583117) - [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models)
@@ -8,7 +10,6 @@
 * [2026-11-20, 20:19:56](https://news.ycombinator.com/item?id=50581403) - [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)
 * [2026-11-20, 20:12:19](https://news.ycombinator.com/item?id=50581260) - [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
 * [2026-11-20, 20:07:55](https://news.ycombinator.com/item?id=50581177) - [And Yet, It Moves](https://signoregalilei.com/2026/11/20/and-yet-it-moves/)
-* [2026-11-20, 20:07:14](https://news.ycombinator.com/item?id=50581165) - [Reverse Engineering my cat's litter box](https://master--ytulsiani.netlify.app/blog/furrytails/)
 * [2026-11-20, 20:03:59](https://news.ycombinator.com/item?id=50581110) - [DreamCoder: Coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder)
 * [2026-11-20, 20:03:07](https://news.ycombinator.com/item?id=50581084) - [The stochastic parrots have apparently proved the Riemann Hypothesis](https://scottaaronson.blog/?p=10344)
 * [2026-11-20, 19:30:16](https://news.ycombinator.com/item?id=50580536) - [Winedroid – run Android apps without Android (WASM demo)](https://winedroid.soham.sh/demo/)
@@ -28,7 +29,6 @@
 * [2026-11-18, 18:50:35](https://news.ycombinator.com/item?id=50550430) - [Microsoft announces Windows Server 2028 with hardened security](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/)
 * [2026-11-17, 20:21:52](https://news.ycombinator.com/item?id=50537626) - [Show HN: Professor Euler – Offline math desk, 300-function CAS, workbooks](https://euler.dawei7.com)
 * [2026-11-17, 15:16:45](https://news.ycombinator.com/item?id=50532515) - [Show HN: An API for word timestamps from speech, 75% within 20ms](https://quebec.yarn.so)
-* [2026-11-17, 04:29:07](https://news.ycombinator.com/item?id=50527444) - [The G1 Garbage Collector](https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/)
 * [2026-11-17, 01:03:05](https://news.ycombinator.com/item?id=50526023) - [Show HN: I made an audio-to-MIDI model 60x more efficient](https://kobi.music/research/dettato)
 
 ## [Archives](archives/index.md)
