@@ -35,6 +35,7 @@
 * [2026-11-19, 14:57:14](https://news.ycombinator.com/item?id=50560955) - [Cooling buildings is overtaking heating them as an energy need, IEA says](https://maccus.fr/en/cooling-overtaking-heating/)
 * [2026-11-19, 14:47:18](https://news.ycombinator.com/item?id=50560822) - [Everything you need to survive and rebuild society](https://lastbook.org/)
 * [2026-11-19, 14:44:50](https://news.ycombinator.com/item?id=50560795) - [Germany and Austria Call for European Control of TikTok](https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/)
+* [2026-11-19, 14:29:49](https://news.ycombinator.com/item?id=50560595) - [Floppy3.5: A portable 3.5-inch floppy WiFi NAS](https://github.com/bigcrimping/floppy3.5)
 * [2026-11-19, 14:20:08](https://news.ycombinator.com/item?id=50560461) - [OpenAI still has a WebRTC Problem](https://moq.dev/blog/webrtc-is-still-the-problem/)
 * [2026-11-19, 14:09:50](https://news.ycombinator.com/item?id=50560334) - [PHP 8.5.13](https://www.php.net/ChangeLog-8.php)
 * [2026-11-19, 13:21:20](https://news.ycombinator.com/item?id=50559749) - [Show HN: Foolscap – a writing app that reads your book and never writes for you](https://foolscap.works/)
