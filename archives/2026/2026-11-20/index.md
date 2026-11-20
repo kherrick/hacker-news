@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 04:00:24](https://news.ycombinator.com/item?id=50569985) - [GIMP now has UI tests](https://www.gimp.org/news/2026/11/16/gimp-ui-tests/)
 * [2026-11-20, 03:45:45](https://news.ycombinator.com/item?id=50569890) - [PostgreSQL 19](https://www.postgresql.org/docs/release/19.0/)
 * [2026-11-20, 02:44:13](https://news.ycombinator.com/item?id=50569519) - [What Comes After AGI?](https://institute.deepmind.com/essays/what-comes-after-agi/)
 * [2026-11-20, 02:43:49](https://news.ycombinator.com/item?id=50569516) - [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)

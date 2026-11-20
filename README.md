@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-20, 04:00:24](https://news.ycombinator.com/item?id=50569985) - [GIMP now has UI tests](https://www.gimp.org/news/2026/11/16/gimp-ui-tests/)
 * [2026-11-20, 03:45:45](https://news.ycombinator.com/item?id=50569890) - [PostgreSQL 19](https://www.postgresql.org/docs/release/19.0/)
 * [2026-11-20, 02:43:49](https://news.ycombinator.com/item?id=50569516) - [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
 * [2026-11-20, 02:01:09](https://news.ycombinator.com/item?id=50569226) - [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
@@ -21,7 +22,6 @@
 * [2026-11-19, 15:38:32](https://news.ycombinator.com/item?id=50561515) - [Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest](https://cornholenews.news)
 * [2026-11-19, 13:18:11](https://news.ycombinator.com/item?id=50559719) - [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
 * [2026-11-19, 11:47:03](https://news.ycombinator.com/item?id=50558906) - [Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781)
-* [2026-11-19, 10:58:29](https://news.ycombinator.com/item?id=50558533) - [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
 * [2026-11-18, 14:56:04](https://news.ycombinator.com/item?id=50547048) - [Nintendo takes Picofly firmware down from GitHub [video]](https://www.youtube.com/watch?v=-TLCGUpoD6c)
 * [2026-11-18, 10:39:16](https://news.ycombinator.com/item?id=50544546) - [IRA Velinsky, industrial designer for Commodore and Atari](https://dfarq.homeip.net/ira-velinsky-industrial-designer-of-the-commodore-64/)
 * [2026-11-17, 22:11:46](https://news.ycombinator.com/item?id=50538977) - [Weight-Space Programming builds neural networks like a 1990s researcher](https://notesbylex.com/weight-space-programming-1990s)
