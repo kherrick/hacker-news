@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-11-20, 09:42:16",
+      "https://news.ycombinator.com/item?id=50572348"
+    ],
+    [
+      "Signal Is Serious About Protecting Your Privacy",
+      "https://signal.org/blog/protecting-your-privacy/"
+    ]
+  ],
+  [
+    [
       "2026-11-20, 09:13:09",
       "https://news.ycombinator.com/item?id=50572116"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-11-19, 15:38:12",
-      "https://news.ycombinator.com/item?id=50561508"
-    ],
-    [
-      "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-      "https://thedataexchange.media/pete-warden-moonshine/"
-    ]
-  ],
-  [
-    [
       "2026-11-19, 15:16:02",
       "https://news.ycombinator.com/item?id=50561199"
     ],
@@ -207,16 +207,6 @@
     [
       "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
       "https://github.com/bigcrimping/floppy3.5"
-    ]
-  ],
-  [
-    [
-      "2026-11-19, 11:47:03",
-      "https://news.ycombinator.com/item?id=50558906"
-    ],
-    [
-      "Someone reported java4shell bug in September 2026",
-      "https://github.com/openjdk/jdk/pull/32781"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "How to CAD Almost Anything",
       "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/"
+    ]
+  ],
+  [
+    [
+      "2026-11-17, 01:03:05",
+      "https://news.ycombinator.com/item?id=50526023"
+    ],
+    [
+      "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "https://kobi.music/research/dettato"
     ]
   ],
   [
