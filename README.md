@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-20, 17:44:01](https://news.ycombinator.com/item?id=50578794) - [Anthropic shares tank after IPO as the Nasdaq erases 2026 gains](https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394)
+* [2026-11-20, 17:21:36](https://news.ycombinator.com/item?id=50578358) - [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
 * [2026-11-20, 17:14:03](https://news.ycombinator.com/item?id=50578233) - [Running two PSP emulators on one Switch 2 and sharing one via GameShare](https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md)
 * [2026-11-20, 17:08:56](https://news.ycombinator.com/item?id=50578117) - [PostgreSQL 19: A hands-on tour with runnable browser examples](https://certuvia.com/blog/postgres-19)
 * [2026-11-20, 16:59:27](https://news.ycombinator.com/item?id=50577901) - [Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI](https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/)
@@ -26,10 +28,8 @@
 * [2026-11-18, 13:02:08](https://news.ycombinator.com/item?id=50545818) - [µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/)
 * [2026-11-18, 03:40:01](https://news.ycombinator.com/item?id=50541568) - [Show HN: Tinnitus frequency finder and audio notch tool](https://trynotched.com/find)
 * [2026-11-17, 13:22:18](https://news.ycombinator.com/item?id=50531009) - [Lovable: Now you can explore any idea in parallel without touching what's live](https://lovable.dev/blog/introducing-drafts)
-* [2026-11-17, 06:29:57](https://news.ycombinator.com/item?id=50528119) - [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
 * [2026-11-17, 04:29:07](https://news.ycombinator.com/item?id=50527444) - [The G1 Garbage Collector](https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/)
 * [2026-11-17, 01:03:05](https://news.ycombinator.com/item?id=50526023) - [Show HN: I made an audio-to-MIDI model 60x more efficient](https://kobi.music/research/dettato)
-* [2026-11-16, 21:04:01](https://news.ycombinator.com/item?id=50523241) - [The Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver)
 
 ## [Archives](archives/index.md)
 

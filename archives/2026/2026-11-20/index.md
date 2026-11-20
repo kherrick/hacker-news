@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 17:44:01](https://news.ycombinator.com/item?id=50578794) - [Anthropic shares tank after IPO as the Nasdaq erases 2026 gains](https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394)
+* [2026-11-20, 17:21:36](https://news.ycombinator.com/item?id=50578358) - [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
 * [2026-11-20, 17:16:44](https://news.ycombinator.com/item?id=50578289) - [Anthropic's Plunge Deepens AI Selloff](https://boamaehg.blogspot.com/2026/11/nasdaq-slides-as-anthropic-plunge-drags.html)
 * [2026-11-20, 17:14:03](https://news.ycombinator.com/item?id=50578233) - [Running two PSP emulators on one Switch 2 and sharing one via GameShare](https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md)
 * [2026-11-20, 17:08:56](https://news.ycombinator.com/item?id=50578117) - [PostgreSQL 19: A hands-on tour with runnable browser examples](https://certuvia.com/blog/postgres-19)
