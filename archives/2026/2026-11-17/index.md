@@ -15,6 +15,7 @@
 * [2026-11-17, 20:47:36](https://news.ycombinator.com/item?id=50537962) - [Human.md](https://www.human-md.ai/)
 * [2026-11-17, 20:44:30](https://news.ycombinator.com/item?id=50537924) - [Stripe Press](https://stripe.press/)
 * [2026-11-17, 20:37:53](https://news.ycombinator.com/item?id=50537832) - [Computer Graphics from Scratch (2021)](https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html)
+* [2026-11-17, 20:12:34](https://news.ycombinator.com/item?id=50537492) - [Automatic Checking of Compiler Correctness with E-Graphs](https://stng.substack.com/p/automatic-checking-of-compiler-correctness)
 * [2026-11-17, 20:11:44](https://news.ycombinator.com/item?id=50537470) - [Israel Is Attacking Wikipedia](https://techforpalestine.org/wikipedia-report-2026)
 * [2026-11-17, 20:10:03](https://news.ycombinator.com/item?id=50537441) - [Israel vs. Wikipedia](https://techforpalestine.org/wikipedia-report)
 * [2026-11-17, 20:01:35](https://news.ycombinator.com/item?id=50537290) - [Web Browser Engineering](https://browser.engineering/)
