@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 18:33:14](https://news.ycombinator.com/item?id=50579568) - [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
 * [2026-11-20, 18:17:51](https://news.ycombinator.com/item?id=50579331) - [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
+* [2026-11-20, 18:15:16](https://news.ycombinator.com/item?id=50579297) - [Vibecoding an Inference Chip](https://ankitg.me/blog/vibecoding-inference-chip/)
 * [2026-11-20, 17:44:01](https://news.ycombinator.com/item?id=50578794) - [Anthropic shares tank after IPO as the Nasdaq erases 2026 gains](https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394)
 * [2026-11-20, 17:21:36](https://news.ycombinator.com/item?id=50578358) - [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
 * [2026-11-20, 17:16:44](https://news.ycombinator.com/item?id=50578289) - [Anthropic's Plunge Deepens AI Selloff](https://boamaehg.blogspot.com/2026/11/nasdaq-slides-as-anthropic-plunge-drags.html)
