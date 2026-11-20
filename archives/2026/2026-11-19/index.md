@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-19](index.md)
 
+* [2026-11-19, 23:35:35](https://news.ycombinator.com/item?id=50568130) - [Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/)
 * [2026-11-19, 23:32:11](https://news.ycombinator.com/item?id=50568082) - [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)
 * [2026-11-19, 22:56:59](https://news.ycombinator.com/item?id=50567735) - [Court: 4th Amendment Doesn't Cover AI-Generated 'Probable Cause'](https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/)
 * [2026-11-19, 22:27:07](https://news.ycombinator.com/item?id=50567374) - [RegExr: Temporarily Offline](https://regexr.com/)

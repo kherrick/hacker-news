@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-19, 23:35:35](https://news.ycombinator.com/item?id=50568130) - [Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/)
 * [2026-11-19, 23:32:11](https://news.ycombinator.com/item?id=50568082) - [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)
 * [2026-11-19, 22:56:59](https://news.ycombinator.com/item?id=50567735) - [Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'](https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/)
 * [2026-11-19, 22:27:07](https://news.ycombinator.com/item?id=50567374) - [RegExr: Temporarily Offline](https://regexr.com/)
@@ -27,7 +28,6 @@
 * [2026-11-17, 20:37:53](https://news.ycombinator.com/item?id=50537832) - [Computer Graphics from Scratch (2021)](https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html)
 * [2026-11-17, 19:35:12](https://news.ycombinator.com/item?id=50536950) - [An Oregon library ditched Dewey Decimal and got people excited about books again](https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system)
 * [2026-11-17, 06:29:57](https://news.ycombinator.com/item?id=50528119) - [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
-* [2026-11-16, 18:34:37](https://news.ycombinator.com/item?id=50521083) - [Adding Fortran Support to LLDB (GSoC 2026)](https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/)
 * [2026-11-16, 16:13:36](https://news.ycombinator.com/item?id=50519231) - [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
 * [2026-11-16, 13:58:56](https://news.ycombinator.com/item?id=50517657) - [Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches](https://www.tisonkun.io/posts/ai-repair-program/)
 
