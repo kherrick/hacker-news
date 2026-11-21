@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-20](index.md)
 
+* [2026-11-20, 23:52:54](https://news.ycombinator.com/item?id=50584082) - [Catching Crumbs from the Table [pdf]](https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf)
 * [2026-11-20, 23:42:44](https://news.ycombinator.com/item?id=50583982) - [Re: Riemann](https://borretti.me/article/re-riemann)
 * [2026-11-20, 23:35:42](https://news.ycombinator.com/item?id=50583911) - [GitHub nuked me with no reason, and (so far) no ability to contact a human](https://nate.mecca1.net/posts/2026-11-20_help/)
 * [2026-11-20, 23:31:27](https://news.ycombinator.com/item?id=50583877) - [Uncontacted Indigenous people emerge from Amazon forest to ask for food](https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/)
