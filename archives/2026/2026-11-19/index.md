@@ -11,6 +11,7 @@
 * [2026-11-19, 22:13:40](https://news.ycombinator.com/item?id=50567209) - [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
 * [2026-11-19, 20:57:14](https://news.ycombinator.com/item?id=50566261) - [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
 * [2026-11-19, 20:21:15](https://news.ycombinator.com/item?id=50565788) - [Tubemap Mark Two: A geographically-accurate diagram of the London Underground](https://www.marknoaddesign.co.uk/london-tube-map)
+* [2026-11-19, 19:07:04](https://news.ycombinator.com/item?id=50564684) - [Show HN: LZ0 -An asymmetric LZ compressor with ultra minimal, 0-alloc decoder](https://github.com/seb3773/lz0)
 * [2026-11-19, 18:47:16](https://news.ycombinator.com/item?id=50564366) - [Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]](https://www.youtube.com/watch?v=lwfewYL7X0o)
 * [2026-11-19, 18:35:17](https://news.ycombinator.com/item?id=50564159) - [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
 * [2026-11-19, 18:26:28](https://news.ycombinator.com/item?id=50564004) - [Chile: UFO Sightings by 18th Century Jesuits](https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html)
