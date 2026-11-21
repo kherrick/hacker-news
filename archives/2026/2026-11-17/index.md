@@ -41,6 +41,7 @@
 * [2026-11-17, 17:13:57](https://news.ycombinator.com/item?id=50534664) - [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)
 * [2026-11-17, 17:12:06](https://news.ycombinator.com/item?id=50534631) - [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
 * [2026-11-17, 17:00:24](https://news.ycombinator.com/item?id=50534429) - [YC wrote software to run our internship expo – and an 8-bit SIM to show it off](https://news.ycombinator.com/item?id=50534429)
+* [2026-11-17, 16:58:30](https://news.ycombinator.com/item?id=50534387) - [Valkey kills the skiplist, cuts sorted set overhead by up to 43%](https://valkey.io/blog/from-skiplist-to-b+tree/)
 * [2026-11-17, 16:40:38](https://news.ycombinator.com/item?id=50534044) - [Jensen Huang says he’s open to returning in first statement since resignation](https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html)
 * [2026-11-17, 16:23:55](https://news.ycombinator.com/item?id=50533723) - [Jensen Huang Posts on X](https://twitter.com/JensenHuang/status/2122726005219737649)
 * [2026-11-17, 16:15:44](https://news.ycombinator.com/item?id=50533571) - [Mistral offers three months of Vibe Pro free in Europe](https://x.com/MistralAI/status/2122713540666806397)
