@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-21, 14:36:45](https://news.ycombinator.com/item?id=50589618) - [Lean Verification of the Riemann Hypothesis - Joint statement by...](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 * [2026-11-21, 13:23:14](https://news.ycombinator.com/item?id=50588982) - [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
 * [2026-11-21, 13:16:12](https://news.ycombinator.com/item?id=50588916) - [Astra 6.2 and Sol 6.2 flop at Simple Bench](https://simple-bench.com/)
-* [2026-11-21, 12:15:41](https://news.ycombinator.com/item?id=50588436) - [Adult-only households accounted for 55% of toy sales in the first half of 2026](https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic)
 * [2026-11-21, 10:36:32](https://news.ycombinator.com/item?id=50587875) - [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
 * [2026-11-21, 10:33:57](https://news.ycombinator.com/item?id=50587859) - [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o)
 * [2026-11-21, 08:32:58](https://news.ycombinator.com/item?id=50587208) - [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)

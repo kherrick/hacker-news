@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-21](index.md)
 
+* [2026-11-21, 14:36:45](https://news.ycombinator.com/item?id=50589618) - [Lean Verification of the Riemann Hypothesis - Joint statement by...](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 * [2026-11-21, 13:23:14](https://news.ycombinator.com/item?id=50588982) - [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
 * [2026-11-21, 13:16:26](https://news.ycombinator.com/item?id=50588918) - [Invalidity of Masullo's Proof of the Riemann Hypothesis](https://philarchive.org/rec/NIEIOM)
 * [2026-11-21, 13:16:12](https://news.ycombinator.com/item?id=50588916) - [Astra 6.2 and Sol 6.2 flop at Simple Bench](https://simple-bench.com/)
