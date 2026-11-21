@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-21, 01:17:05](https://news.ycombinator.com/item?id=50584776) - [Integrals of Polynomials with Galois Group S_p](https://m-slee.netlify.app/posts/integrals-galois-polynomials)
+* [2026-11-21, 00:33:40](https://news.ycombinator.com/item?id=50584429) - [I Don't Trust Visual Recordings Anymore. But One Day I Will Again](https://spectrum.ieee.org/fighting-back-against-deep-fakes)
 * [2026-11-20, 23:42:44](https://news.ycombinator.com/item?id=50583982) - [Re: Riemann](https://borretti.me/article/re-riemann)
 * [2026-11-20, 23:29:30](https://news.ycombinator.com/item?id=50583856) - [Serious cyberattack thought backed by wealthy operators](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411)
 * [2026-11-20, 23:19:44](https://news.ycombinator.com/item?id=50583768) - [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
@@ -22,7 +23,6 @@
 * [2026-11-20, 16:29:06](https://news.ycombinator.com/item?id=50577265) - [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
 * [2026-11-20, 15:34:31](https://news.ycombinator.com/item?id=50576232) - [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/)
 * [2026-11-20, 14:16:21](https://news.ycombinator.com/item?id=50574968) - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
-* [2026-11-20, 09:43:19](https://news.ycombinator.com/item?id=50572355) - [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
 * [2026-11-20, 09:42:16](https://news.ycombinator.com/item?id=50572348) - [Restricting AI agents in mobile operating systems platforms from capturing data](https://signal.org/blog/protecting-your-privacy/)
 * [2026-11-18, 20:22:06](https://news.ycombinator.com/item?id=50551619) - [How to Bypass Rust's Orphan Rule](https://edvong.com/bypass-orphan-rule/)
 * [2026-11-17, 16:58:30](https://news.ycombinator.com/item?id=50534387) - [Valkey kills the skiplist, cuts sorted set overhead by up to 43%](https://valkey.io/blog/from-skiplist-to-b+tree/)
