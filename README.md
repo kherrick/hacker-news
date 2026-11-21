@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-20, 23:42:44](https://news.ycombinator.com/item?id=50583982) - [Re: Riemann](https://borretti.me/article/re-riemann)
+* [2026-11-20, 23:31:27](https://news.ycombinator.com/item?id=50583877) - [Uncontacted Indigenous people emerge from Amazon forest to ask for food](https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/)
 * [2026-11-20, 23:19:44](https://news.ycombinator.com/item?id=50583768) - [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
 * [2026-11-20, 22:30:47](https://news.ycombinator.com/item?id=50583274) - [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
 * [2026-11-20, 22:19:23](https://news.ycombinator.com/item?id=50583134) - [Merkle Tree Certificates](https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/)
@@ -23,7 +24,6 @@
 * [2026-11-20, 10:01:41](https://news.ycombinator.com/item?id=50572503) - [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
 * [2026-11-20, 09:43:19](https://news.ycombinator.com/item?id=50572355) - [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
 * [2026-11-20, 09:42:16](https://news.ycombinator.com/item?id=50572348) - [Restricting AI agents in mobile operating systems platforms from capturing data](https://signal.org/blog/protecting-your-privacy/)
-* [2026-11-18, 18:50:35](https://news.ycombinator.com/item?id=50550430) - [Microsoft announces Windows Server 2028 with hardened security](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/)
 * [2026-11-17, 18:03:18](https://news.ycombinator.com/item?id=50535504) - [Replacing implicit optionals with a None type in TypeDB](https://typedb.com/blog/replacing-implicit-optionals-with-a-none-type-in-typedb)
 * [2026-11-17, 16:58:30](https://news.ycombinator.com/item?id=50534387) - [Valkey kills the skiplist, cuts sorted set overhead by up to 43%](https://valkey.io/blog/from-skiplist-to-b+tree/)
 * [2026-11-17, 15:16:45](https://news.ycombinator.com/item?id=50532515) - [Show HN: An API for word timestamps from speech, 75% within 20ms](https://quebec.yarn.so)
