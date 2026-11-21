@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-11-20, 22:29:06",
-      "https://news.ycombinator.com/item?id=50583254"
-    ],
-    [
-      "Nasdaq erases all 2026 gains",
-      "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
-    ]
-  ],
-  [
-    [
       "2026-11-20, 22:18:20",
       "https://news.ycombinator.com/item?id=50583117"
     ],
@@ -65,8 +55,8 @@
       "https://news.ycombinator.com/item?id=50581438"
     ],
     [
-      "Nvidia accounting under SEC investigation, sources say",
-      "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
+      "US SEC's Nvidia probe is examining potential accounting issues – sources",
+      "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Replacing implicit optionals with a None type in TypeDB",
       "https://typedb.com/blog/replacing-implicit-optionals-with-a-none-type-in-typedb"
+    ]
+  ],
+  [
+    [
+      "2026-11-17, 16:58:30",
+      "https://news.ycombinator.com/item?id=50534387"
+    ],
+    [
+      "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "https://valkey.io/blog/from-skiplist-to-b+tree/"
     ]
   ],
   [
