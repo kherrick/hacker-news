@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-21](index.md)
 
+* [2026-11-21, 23:10:21](https://news.ycombinator.com/item?id=50594564) - [International UN talks on controlling use of autonomous weapons collapse](https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse)
 * [2026-11-21, 22:09:58](https://news.ycombinator.com/item?id=50594132) - [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
 * [2026-11-21, 21:17:53](https://news.ycombinator.com/item?id=50593737) - [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
 * [2026-11-21, 21:11:08](https://news.ycombinator.com/item?id=50593679) - [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)

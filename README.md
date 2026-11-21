@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-21, 23:10:21](https://news.ycombinator.com/item?id=50594564) - [International UN talks on controlling use of autonomous weapons collapse](https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse)
 * [2026-11-21, 22:09:58](https://news.ycombinator.com/item?id=50594132) - [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
 * [2026-11-21, 21:17:53](https://news.ycombinator.com/item?id=50593737) - [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
 * [2026-11-21, 21:11:08](https://news.ycombinator.com/item?id=50593679) - [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
@@ -26,7 +27,6 @@
 * [2026-11-18, 16:17:41](https://news.ycombinator.com/item?id=50548136) - [Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust](https://contextgeneric.dev/blog/v0.8.0-release/)
 * [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
 * [2026-11-18, 14:07:09](https://news.ycombinator.com/item?id=50546495) - [Exponential Behavior in Magic: The Gathering](https://levineuwirth.org/essays/exponential-magic/)
-* [2026-11-18, 02:18:29](https://news.ycombinator.com/item?id=50541047) - [Show HN: An ASCII cell aquarium for your terminal](https://github.com/kborer/cells/)
 * [2026-11-17, 16:12:11](https://news.ycombinator.com/item?id=50533517) - [Bolt's Scooters Are Becoming Accessibility Sensors](https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/)
 * [2026-11-17, 15:22:57](https://news.ycombinator.com/item?id=50532613) - [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria)
 * [2026-11-17, 15:08:54](https://news.ycombinator.com/item?id=50532417) - [Tropical Rainforests Species may be surprisingly young](https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html)
