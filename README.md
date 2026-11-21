@@ -7,7 +7,6 @@
 * [2026-11-21, 13:23:14](https://news.ycombinator.com/item?id=50588982) - [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
 * [2026-11-21, 13:16:12](https://news.ycombinator.com/item?id=50588916) - [Astra 6.2 and Sol 6.2 flop at Simple Bench](https://simple-bench.com/)
 * [2026-11-21, 10:36:32](https://news.ycombinator.com/item?id=50587875) - [My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
-* [2026-11-21, 10:33:57](https://news.ycombinator.com/item?id=50587859) - [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o)
 * [2026-11-21, 08:32:58](https://news.ycombinator.com/item?id=50587208) - [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
 * [2026-11-21, 06:44:14](https://news.ycombinator.com/item?id=50586648) - [Surprisingly Adorable Insect Portraits](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
 * [2026-11-21, 05:38:01](https://news.ycombinator.com/item?id=50586292) - [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
@@ -29,6 +28,7 @@
 * [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
 * [2026-11-18, 02:18:29](https://news.ycombinator.com/item?id=50541047) - [Show HN: An ASCII cell aquarium for your terminal](https://github.com/kborer/cells/)
 * [2026-11-17, 17:46:37](https://news.ycombinator.com/item?id=50535228) - [The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU](https://8bitarchitect.net/machines/elektronika-bk-0010/)
+* [2026-11-17, 16:58:30](https://news.ycombinator.com/item?id=50534387) - [Valkey kills the skiplist, cuts sorted set overhead by up to 43%](https://valkey.io/blog/from-skiplist-to-b+tree/)
 * [2026-11-17, 15:22:57](https://news.ycombinator.com/item?id=50532613) - [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria)
 
 ## [Archives](archives/index.md)
