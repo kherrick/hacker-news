@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-21, 18:29:29](https://news.ycombinator.com/item?id=50592097) - [Upload2Shell · CVE-2026-125396](https://pwn.ai/upload2shell)
 * [2026-11-21, 18:02:19](https://news.ycombinator.com/item?id=50591853) - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
 * [2026-11-21, 17:59:59](https://news.ycombinator.com/item?id=50591835) - [Jensen Huang's fall is bad news for Silicon Valley's accelerationists](https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists)
 * [2026-11-21, 17:08:04](https://news.ycombinator.com/item?id=50591260) - [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/)
@@ -20,7 +21,6 @@
 * [2026-11-20, 18:17:51](https://news.ycombinator.com/item?id=50579331) - [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
 * [2026-11-20, 17:21:36](https://news.ycombinator.com/item?id=50578358) - [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
 * [2026-11-20, 17:03:39](https://news.ycombinator.com/item?id=50577991) - [I'm quite pleased by the tech architecture of my art website](https://klauria.tech/klauria-art/)
-* [2026-11-20, 16:29:06](https://news.ycombinator.com/item?id=50577265) - [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
 * [2026-11-20, 15:24:11](https://news.ycombinator.com/item?id=50576012) - [Slopstrap – Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/)
 * [2026-11-20, 14:16:21](https://news.ycombinator.com/item?id=50574968) - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
 * [2026-11-20, 13:19:48](https://news.ycombinator.com/item?id=50574264) - [Deterministic Simulation Testing Is for Everyone](https://outdata.net/blog/261120)
