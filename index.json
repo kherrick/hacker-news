@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-21, 17:08:04",
+      "https://news.ycombinator.com/item?id=50591260"
+    ],
+    [
+      "PostgreSQL Extensions in Go",
+      "https://jespino.github.io/gopgext/"
+    ]
+  ],
+  [
+    [
       "2026-11-21, 15:39:09",
       "https://news.ycombinator.com/item?id=50590279"
     ],
@@ -137,16 +147,6 @@
     [
       "Inkling 2 Mini",
       "https://thinkingmachines.ai/news/inkling-2-mini/"
-    ]
-  ],
-  [
-    [
-      "2026-11-20, 20:03:59",
-      "https://news.ycombinator.com/item?id=50581110"
-    ],
-    [
-      "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "https://www.masteringemacs.org/article/announcing-dreamcoder"
     ]
   ],
   [
