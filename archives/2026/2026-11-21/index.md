@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-21](index.md)
 
+* [2026-11-21, 13:23:14](https://news.ycombinator.com/item?id=50588982) - [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
 * [2026-11-21, 13:16:26](https://news.ycombinator.com/item?id=50588918) - [Invalidity of Masullo's Proof of the Riemann Hypothesis](https://philarchive.org/rec/NIEIOM)
 * [2026-11-21, 12:15:41](https://news.ycombinator.com/item?id=50588436) - [Adult-only households accounted for 55% of toy sales in the first half of 2026](https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic)
 * [2026-11-21, 11:30:33](https://news.ycombinator.com/item?id=50588168) - [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philarchive.org/rec/NIEIOT-2)

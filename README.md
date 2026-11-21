@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-21, 13:23:14](https://news.ycombinator.com/item?id=50588982) - [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
 * [2026-11-21, 12:15:41](https://news.ycombinator.com/item?id=50588436) - [Adult-only households accounted for 55% of toy sales in the first half of 2026](https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic)
 * [2026-11-21, 10:36:32](https://news.ycombinator.com/item?id=50587875) - [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
 * [2026-11-21, 10:33:57](https://news.ycombinator.com/item?id=50587859) - [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o)
 * [2026-11-21, 08:32:58](https://news.ycombinator.com/item?id=50587208) - [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
-* [2026-11-21, 08:32:34](https://news.ycombinator.com/item?id=50587205) - [Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize](https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize)
 * [2026-11-21, 06:44:14](https://news.ycombinator.com/item?id=50586648) - [Surprisingly Adorable Insect Portraits](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
 * [2026-11-21, 05:38:01](https://news.ycombinator.com/item?id=50586292) - [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
 * [2026-11-21, 02:40:39](https://news.ycombinator.com/item?id=50585376) - [Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
