@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-11-20, 23:42:44",
+      "https://news.ycombinator.com/item?id=50583982"
+    ],
+    [
+      "Re: Riemann",
+      "https://borretti.me/article/re-riemann"
+    ]
+  ],
+  [
+    [
       "2026-11-20, 23:35:42",
       "https://news.ycombinator.com/item?id=50583911"
     ],
     [
-      "GitHub nuked me with no reason, and (so far) no ability to contact a human",
+      "Help github just deleted me",
       "https://nate.mecca1.net/posts/2026-11-20_help/"
     ]
   ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2026-11-20, 21:42:21",
-      "https://news.ycombinator.com/item?id=50582629"
-    ],
-    [
-      "A few hours ago Google DeepMind created a math horizon repo",
-      "https://github.com/google-deepmind/math-horizon"
-    ]
-  ],
-  [
-    [
       "2026-11-20, 20:22:41",
       "https://news.ycombinator.com/item?id=50581438"
     ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=50581177"
     ],
     [
-      "And Yet, It Moves",
+      "And yet, it moves",
       "https://signoregalilei.com/2026/11/20/and-yet-it-moves/"
     ]
   ],
@@ -177,6 +177,16 @@
     [
       "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
       "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
+    ]
+  ],
+  [
+    [
+      "2026-11-20, 16:59:27",
+      "https://news.ycombinator.com/item?id=50577901"
+    ],
+    [
+      "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Microsoft announces Windows Server 2028 with hardened security",
       "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 20:21:52",
-      "https://news.ycombinator.com/item?id=50537626"
-    ],
-    [
-      "Show HN: Professor Euler – Offline math desk, 300-function CAS, workbooks",
-      "https://euler.dawei7.com"
     ]
   ],
   [
