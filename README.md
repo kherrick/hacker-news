@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-21, 21:11:08](https://news.ycombinator.com/item?id=50593679) - [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
+* [2026-11-21, 21:06:14](https://news.ycombinator.com/item?id=50593637) - [The Emergence of Inequality in the Czech Corded Ware Culture](https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746)
 * [2026-11-21, 18:29:29](https://news.ycombinator.com/item?id=50592097) - [Upload2Shell · CVE-2026-125396](https://pwn.ai/upload2shell)
 * [2026-11-21, 18:02:19](https://news.ycombinator.com/item?id=50591853) - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
 * [2026-11-21, 17:08:04](https://news.ycombinator.com/item?id=50591260) - [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/)
@@ -11,7 +12,6 @@
 * [2026-11-21, 10:36:32](https://news.ycombinator.com/item?id=50587875) - [My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
 * [2026-11-21, 08:32:58](https://news.ycombinator.com/item?id=50587208) - [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
 * [2026-11-20, 23:18:32](https://news.ycombinator.com/item?id=50583761) - [Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761)
-* [2026-11-20, 22:30:47](https://news.ycombinator.com/item?id=50583274) - [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
 * [2026-11-20, 22:11:05](https://news.ycombinator.com/item?id=50583028) - [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body)
 * [2026-11-20, 21:03:12](https://news.ycombinator.com/item?id=50582069) - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
 * [2026-11-20, 20:12:19](https://news.ycombinator.com/item?id=50581260) - [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)

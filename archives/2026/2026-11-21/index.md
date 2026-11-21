@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-21](index.md)
 
 * [2026-11-21, 21:11:08](https://news.ycombinator.com/item?id=50593679) - [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
+* [2026-11-21, 21:06:14](https://news.ycombinator.com/item?id=50593637) - [The Emergence of Inequality in the Czech Corded Ware Culture](https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746)
 * [2026-11-21, 18:29:29](https://news.ycombinator.com/item?id=50592097) - [Upload2Shell · CVE-2026-125396](https://pwn.ai/upload2shell)
 * [2026-11-21, 18:02:19](https://news.ycombinator.com/item?id=50591853) - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
 * [2026-11-21, 17:59:59](https://news.ycombinator.com/item?id=50591835) - [Jensen Huang's fall is bad news for Silicon Valley's accelerationists](https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists)
