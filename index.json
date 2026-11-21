@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-21, 18:29:29",
+      "https://news.ycombinator.com/item?id=50592097"
+    ],
+    [
+      "Upload2Shell · CVE-2026-125396",
+      "https://pwn.ai/upload2shell"
+    ]
+  ],
+  [
+    [
       "2026-11-21, 18:02:19",
       "https://news.ycombinator.com/item?id=50591853"
     ],
@@ -197,16 +207,6 @@
     [
       "I'm quite pleased by the tech architecture of my art website",
       "https://klauria.tech/klauria-art/"
-    ]
-  ],
-  [
-    [
-      "2026-11-20, 16:29:06",
-      "https://news.ycombinator.com/item?id=50577265"
-    ],
-    [
-      "Language Models Can Rewrite Their Own Weights",
-      "https://arxiv.org/abs/2611.21885"
     ]
   ],
   [
