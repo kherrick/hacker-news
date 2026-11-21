@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2026-11-21, 10:33:57",
-      "https://news.ycombinator.com/item?id=50587859"
-    ],
-    [
-      "FBI reportedly investigating apparent hack of its criminal database",
-      "https://www.bbc.com/news/articles/cvze7de86pk3o"
-    ]
-  ],
-  [
-    [
       "2026-11-21, 08:32:58",
       "https://news.ycombinator.com/item?id=50587208"
     ],
@@ -287,6 +277,16 @@
     [
       "The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU",
       "https://8bitarchitect.net/machines/elektronika-bk-0010/"
+    ]
+  ],
+  [
+    [
+      "2026-11-17, 16:58:30",
+      "https://news.ycombinator.com/item?id=50534387"
+    ],
+    [
+      "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "https://valkey.io/blog/from-skiplist-to-b+tree/"
     ]
   ],
   [
