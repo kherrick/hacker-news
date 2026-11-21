@@ -28,6 +28,7 @@
 * [2026-11-18, 18:29:03](https://news.ycombinator.com/item?id=50550096) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
 * [2026-11-18, 18:26:19](https://news.ycombinator.com/item?id=50550062) - [Scottish HTTP Codes](https://underwood.network/http/scots.html)
 * [2026-11-18, 18:19:42](https://news.ycombinator.com/item?id=50549967) - [Nvidia Hit with a Ransomware](https://www.ransomware.live/id/TlZJRElBQHRoZWdlbnRsZW1lbg)
+* [2026-11-18, 18:03:35](https://news.ycombinator.com/item?id=50549753) - [Acoustic parameters of bird vocalizations&their perceived pleasantness by humans](https://www.frontiersin.org/journals/bird-science/articles/10.3389/fbirs.2026.1794594/full)
 * [2026-11-18, 18:00:55](https://news.ycombinator.com/item?id=50549718) - [Show HN: BPM – Baby Plus Music Visualizer](https://hberg.com/bpm/)
 * [2026-11-18, 18:00:18](https://news.ycombinator.com/item?id=50549711) - [Who made the strawberry? 14 days of logs building a procedural fruit with agents](https://strawberry-methodology.pages.dev)
 * [2026-11-18, 17:58:00](https://news.ycombinator.com/item?id=50549677) - [We asked AI the same 210 buying questions 2 days in a row,84% of answers changed](https://supercite.ai/blog/ai-answers-change-every-day)
