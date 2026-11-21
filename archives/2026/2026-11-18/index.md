@@ -46,6 +46,7 @@
 * [2026-11-18, 16:26:42](https://news.ycombinator.com/item?id=50548281) - [Software Factory builds 30 complex open source libraries in a month](https://recursiveai.org/blog/what-my-software-factory-built/)
 * [2026-11-18, 16:22:23](https://news.ycombinator.com/item?id=50548214) - [RFC 2675: IPv6 Jumbograms](https://www.rfc-editor.org/info/rfc2675/)
 * [2026-11-18, 16:18:51](https://news.ycombinator.com/item?id=50548161) - [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
+* [2026-11-18, 16:17:41](https://news.ycombinator.com/item?id=50548136) - [Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust](https://contextgeneric.dev/blog/v0.8.0-release/)
 * [2026-11-18, 16:09:50](https://news.ycombinator.com/item?id=50548038) - [SuperEMeans: Making e-means 3× faster](https://www.lkuffo.com/superemeans/)
 * [2026-11-18, 16:08:24](https://news.ycombinator.com/item?id=50548021) - [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
 * [2026-11-18, 16:06:21](https://news.ycombinator.com/item?id=50548004) - [KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)](https://www.cve.org/CVERecord?id=CVE-2026-99312)
