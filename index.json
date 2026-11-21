@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-11-20, 15:24:11",
-      "https://news.ycombinator.com/item?id=50576012"
-    ],
-    [
-      "Slopstrap – Make your site look hastily vibecoded",
-      "https://slopstrap.mikelacher.com/"
-    ]
-  ],
-  [
-    [
       "2026-11-20, 15:03:31",
       "https://news.ycombinator.com/item?id=50575644"
     ],
@@ -237,6 +227,16 @@
     [
       "How I made a custom game engine for Satelital",
       "https://spectralorbit.com/blog/satelital_game_engine"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 16:17:41",
+      "https://news.ycombinator.com/item?id=50548136"
+    ],
+    [
+      "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
+      "https://contextgeneric.dev/blog/v0.8.0-release/"
     ]
   ],
   [
