@@ -66,6 +66,7 @@
 * [2026-11-18, 14:42:25](https://news.ycombinator.com/item?id=50546900) - [Can Universities Survive? AI vs. Higher Education [audio]](https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education)
 * [2026-11-18, 14:40:07](https://news.ycombinator.com/item?id=50546873) - [Defcon 5's California Caravan Program/Zine](https://netninja.com/2026/06/08/defcon-5s-california-caravan-program-zine/)
 * [2026-11-18, 14:23:24](https://news.ycombinator.com/item?id=50546676) - [LZ-RDO lands in ARM's astc-encoder](https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder)
+* [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
 * [2026-11-18, 14:07:09](https://news.ycombinator.com/item?id=50546495) - [Exponential Behavior in Magic: The Gathering](https://levineuwirth.org/essays/exponential-magic/)
 * [2026-11-18, 14:03:37](https://news.ycombinator.com/item?id=50546465) - [Energy drinks linked to 11 times more reports of cardiac arrest](https://www.sciencedaily.com/releases/2026/11/261110042543.htm)
 * [2026-11-18, 13:56:28](https://news.ycombinator.com/item?id=50546365) - [Why YC Series A rounds fell off a cliff](https://jaredheyman.medium.com/on-why-yc-series-a-rounds-fell-off-a-cliff-ab523211a2f2)
