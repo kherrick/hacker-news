@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-21, 22:09:58](https://news.ycombinator.com/item?id=50594132) - [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
+* [2026-11-21, 21:17:53](https://news.ycombinator.com/item?id=50593737) - [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
 * [2026-11-21, 21:11:08](https://news.ycombinator.com/item?id=50593679) - [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
 * [2026-11-21, 21:06:14](https://news.ycombinator.com/item?id=50593637) - [The Emergence of Inequality in the Czech Corded Ware Culture](https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746)
 * [2026-11-21, 18:29:29](https://news.ycombinator.com/item?id=50592097) - [Upload2Shell (CVE-2026-125396)](https://pwn.ai/upload2shell)
@@ -18,7 +19,6 @@
 * [2026-11-20, 20:12:19](https://news.ycombinator.com/item?id=50581260) - [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
 * [2026-11-20, 18:33:14](https://news.ycombinator.com/item?id=50579568) - [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
 * [2026-11-20, 18:17:51](https://news.ycombinator.com/item?id=50579331) - [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
-* [2026-11-20, 17:21:36](https://news.ycombinator.com/item?id=50578358) - [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
 * [2026-11-20, 17:03:39](https://news.ycombinator.com/item?id=50577991) - [I'm quite pleased by the tech architecture of my art website](https://klauria.tech/klauria-art/)
 * [2026-11-20, 15:03:31](https://news.ycombinator.com/item?id=50575644) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 * [2026-11-19, 14:00:08](https://news.ycombinator.com/item?id=50560203) - [Windows has two settings that bring work back after restart, both off by default](https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/)
