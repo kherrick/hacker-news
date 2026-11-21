@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-11-21, 15:54:34",
+      "https://news.ycombinator.com/item?id=50590441"
+    ],
+    [
+      "Verification files for the Lean proof of the Riemann Hypothesis",
+      "https://math.mit.edu/~drew/grh/"
+    ]
+  ],
+  [
+    [
       "2026-11-21, 15:39:09",
       "https://news.ycombinator.com/item?id=50590279"
     ],
@@ -277,16 +287,6 @@
     [
       "The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU",
       "https://8bitarchitect.net/machines/elektronika-bk-0010/"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 16:58:30",
-      "https://news.ycombinator.com/item?id=50534387"
-    ],
-    [
-      "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-      "https://valkey.io/blog/from-skiplist-to-b+tree/"
     ]
   ],
   [
