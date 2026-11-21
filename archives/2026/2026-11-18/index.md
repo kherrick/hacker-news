@@ -103,6 +103,7 @@
 * [2026-11-18, 03:36:12](https://news.ycombinator.com/item?id=50541542) - [Engineering Vitals in the Age of AI](https://octopus.com/blog/engineering-vitals-in-the-age-of-ai)
 * [2026-11-18, 03:35:47](https://news.ycombinator.com/item?id=50541538) - [GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer)
 * [2026-11-18, 03:28:39](https://news.ycombinator.com/item?id=50541489) - [Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch](https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/)
+* [2026-11-18, 02:18:29](https://news.ycombinator.com/item?id=50541047) - [Show HN: An ASCII cell aquarium for your terminal](https://github.com/kborer/cells/)
 * [2026-11-18, 02:13:35](https://news.ycombinator.com/item?id=50541018) - [Can I borrow a lunar rover? (2013)](https://space.stackexchange.com/questions/2095)
 * [2026-11-18, 00:56:23](https://news.ycombinator.com/item?id=50540472) - [Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
 * [2026-11-18, 00:51:45](https://news.ycombinator.com/item?id=50540437) - [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
