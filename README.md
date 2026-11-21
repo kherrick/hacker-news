@@ -24,11 +24,11 @@
 * [2026-11-20, 14:16:21](https://news.ycombinator.com/item?id=50574968) - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
 * [2026-11-20, 13:29:59](https://news.ycombinator.com/item?id=50574383) - [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
 * [2026-11-20, 13:19:48](https://news.ycombinator.com/item?id=50574264) - [Deterministic Simulation Testing Is for Everyone](https://outdata.net/blog/261120)
+* [2026-11-18, 18:23:03](https://news.ycombinator.com/item?id=50550015) - [How I made a custom game engine for Satelital](https://spectralorbit.com/blog/satelital_game_engine)
 * [2026-11-18, 14:40:07](https://news.ycombinator.com/item?id=50546873) - [Defcon 5's California Caravan Program/Zine](https://netninja.com/2026/06/08/defcon-5s-california-caravan-program-zine/)
 * [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
 * [2026-11-18, 02:18:29](https://news.ycombinator.com/item?id=50541047) - [Show HN: An ASCII cell aquarium for your terminal](https://github.com/kborer/cells/)
 * [2026-11-17, 17:46:37](https://news.ycombinator.com/item?id=50535228) - [The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU](https://8bitarchitect.net/machines/elektronika-bk-0010/)
-* [2026-11-17, 16:58:30](https://news.ycombinator.com/item?id=50534387) - [Valkey kills the skiplist, cuts sorted set overhead by up to 43%](https://valkey.io/blog/from-skiplist-to-b+tree/)
 * [2026-11-17, 15:22:57](https://news.ycombinator.com/item?id=50532613) - [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria)
 
 ## [Archives](archives/index.md)

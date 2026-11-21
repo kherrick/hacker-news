@@ -27,6 +27,7 @@
 * [2026-11-18, 18:39:28](https://news.ycombinator.com/item?id=50550264) - [When Free Software Isn't Free Enough](https://foss.life/notes/2026/free-software-isnt-free-enough/)
 * [2026-11-18, 18:29:03](https://news.ycombinator.com/item?id=50550096) - [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
 * [2026-11-18, 18:26:19](https://news.ycombinator.com/item?id=50550062) - [Scottish HTTP Codes](https://underwood.network/http/scots.html)
+* [2026-11-18, 18:23:03](https://news.ycombinator.com/item?id=50550015) - [How I made a custom game engine for Satelital](https://spectralorbit.com/blog/satelital_game_engine)
 * [2026-11-18, 18:19:42](https://news.ycombinator.com/item?id=50549967) - [Nvidia Hit with a Ransomware](https://www.ransomware.live/id/TlZJRElBQHRoZWdlbnRsZW1lbg)
 * [2026-11-18, 18:03:35](https://news.ycombinator.com/item?id=50549753) - [Acoustic parameters of bird vocalizations&their perceived pleasantness by humans](https://www.frontiersin.org/journals/bird-science/articles/10.3389/fbirs.2026.1794594/full)
 * [2026-11-18, 18:00:55](https://news.ycombinator.com/item?id=50549718) - [Show HN: BPM – Baby Plus Music Visualizer](https://hberg.com/bpm/)
