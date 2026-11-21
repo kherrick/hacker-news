@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2026-11-17, 17:44:10",
+      "https://news.ycombinator.com/item?id=50535187"
+    ],
+    [
+      "Substrate: A Lisp for WebAssembly",
+      "https://substrate-lang.com"
+    ]
+  ],
+  [
+    [
       "2026-11-17, 16:58:30",
       "https://news.ycombinator.com/item?id=50534387"
     ],
     [
       "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
       "https://valkey.io/blog/from-skiplist-to-b+tree/"
-    ]
-  ],
-  [
-    [
-      "2026-11-17, 15:16:45",
-      "https://news.ycombinator.com/item?id=50532515"
-    ],
-    [
-      "Show HN: An API for word timestamps from speech, 75% within 20ms",
-      "https://quebec.yarn.so"
     ]
   ],
   [
