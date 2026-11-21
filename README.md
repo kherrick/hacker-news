@@ -2,11 +2,11 @@
 
 * [2026-11-21, 02:40:39](https://news.ycombinator.com/item?id=50585376) - [Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
 * [2026-11-21, 01:17:05](https://news.ycombinator.com/item?id=50584776) - [Integrals of Polynomials with Galois Group S_p](https://m-slee.netlify.app/posts/integrals-galois-polynomials)
+* [2026-11-21, 00:33:40](https://news.ycombinator.com/item?id=50584429) - [I Don't Trust Visual Recordings Anymore. But One Day I Will Again](https://spectrum.ieee.org/fighting-back-against-deep-fakes)
 * [2026-11-20, 23:42:44](https://news.ycombinator.com/item?id=50583982) - [Re: Riemann](https://borretti.me/article/re-riemann)
 * [2026-11-20, 23:29:30](https://news.ycombinator.com/item?id=50583856) - [Serious cyberattack thought backed by wealthy operators](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411)
 * [2026-11-20, 23:19:44](https://news.ycombinator.com/item?id=50583768) - [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
 * [2026-11-20, 22:30:47](https://news.ycombinator.com/item?id=50583274) - [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
-* [2026-11-20, 22:19:23](https://news.ycombinator.com/item?id=50583134) - [Merkle Tree Certificates](https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/)
 * [2026-11-20, 22:18:20](https://news.ycombinator.com/item?id=50583117) - [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models)
 * [2026-11-20, 20:22:41](https://news.ycombinator.com/item?id=50581438) - [US SEC's Nvidia probe is examining potential accounting issues – sources](https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627)
 * [2026-11-20, 20:19:56](https://news.ycombinator.com/item?id=50581403) - [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)
