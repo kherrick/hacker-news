@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-20, 23:42:44](https://news.ycombinator.com/item?id=50583982) - [Re: Riemann](https://borretti.me/article/re-riemann)
-* [2026-11-20, 23:35:42](https://news.ycombinator.com/item?id=50583911) - [Help github just deleted me](https://nate.mecca1.net/posts/2026-11-20_help/)
 * [2026-11-20, 23:19:44](https://news.ycombinator.com/item?id=50583768) - [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
 * [2026-11-20, 22:46:59](https://news.ycombinator.com/item?id=50583445) - [AI may have solved the most important problem in mathematics](https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics)
 * [2026-11-20, 22:30:47](https://news.ycombinator.com/item?id=50583274) - [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
@@ -18,6 +17,7 @@
 * [2026-11-20, 18:17:51](https://news.ycombinator.com/item?id=50579331) - [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
 * [2026-11-20, 18:15:16](https://news.ycombinator.com/item?id=50579297) - [Vibecoding an inference chip](https://ankitg.me/blog/vibecoding-inference-chip/)
 * [2026-11-20, 17:21:36](https://news.ycombinator.com/item?id=50578358) - [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
+* [2026-11-20, 17:14:03](https://news.ycombinator.com/item?id=50578233) - [Running two PSP emulators on one Switch 2 and sharing one via GameShare](https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md)
 * [2026-11-20, 16:59:27](https://news.ycombinator.com/item?id=50577901) - [Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI](https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/)
 * [2026-11-20, 16:45:25](https://news.ycombinator.com/item?id=50577613) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
 * [2026-11-20, 16:29:06](https://news.ycombinator.com/item?id=50577265) - [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
