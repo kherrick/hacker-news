@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-21, 15:39:09](https://news.ycombinator.com/item?id=50590279) - [Show HN: Zero C#, Power of C# without any GC](https://onurgumus.github.io/zero-csharp/index.html)
 * [2026-11-21, 14:36:45](https://news.ycombinator.com/item?id=50589618) - [Lean Verification of the Riemann Hypothesis - Joint statement by...](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 * [2026-11-21, 13:23:14](https://news.ycombinator.com/item?id=50588982) - [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
 * [2026-11-21, 13:16:12](https://news.ycombinator.com/item?id=50588916) - [Astra 6.2 and Sol 6.2 flop at Simple Bench](https://simple-bench.com/)
@@ -9,7 +10,6 @@
 * [2026-11-21, 06:44:14](https://news.ycombinator.com/item?id=50586648) - [Surprisingly Adorable Insect Portraits](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
 * [2026-11-21, 05:38:01](https://news.ycombinator.com/item?id=50586292) - [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
 * [2026-11-21, 02:40:39](https://news.ycombinator.com/item?id=50585376) - [Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
-* [2026-11-20, 23:29:30](https://news.ycombinator.com/item?id=50583856) - [Serious cyberattack thought backed by wealthy operators](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411)
 * [2026-11-20, 23:19:44](https://news.ycombinator.com/item?id=50583768) - [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
 * [2026-11-20, 23:18:32](https://news.ycombinator.com/item?id=50583761) - [Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761)
 * [2026-11-20, 22:30:47](https://news.ycombinator.com/item?id=50583274) - [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
@@ -24,7 +24,7 @@
 * [2026-11-20, 15:24:11](https://news.ycombinator.com/item?id=50576012) - [Slopstrap – Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/)
 * [2026-11-20, 14:16:21](https://news.ycombinator.com/item?id=50574968) - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
 * [2026-11-20, 13:29:59](https://news.ycombinator.com/item?id=50574383) - [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
-* [2026-11-19, 05:46:36](https://news.ycombinator.com/item?id=50556482) - [Fewer slides, more dragons](https://www.breakingchange.blog/p/fewer-slides-more-dragons)
+* [2026-11-20, 13:19:48](https://news.ycombinator.com/item?id=50574264) - [Deterministic Simulation Testing Is for Everyone](https://outdata.net/blog/261120)
 * [2026-11-18, 14:40:07](https://news.ycombinator.com/item?id=50546873) - [Defcon 5's California Caravan Program/Zine](https://netninja.com/2026/06/08/defcon-5s-california-caravan-program-zine/)
 * [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
 * [2026-11-18, 02:18:29](https://news.ycombinator.com/item?id=50541047) - [Show HN: An ASCII cell aquarium for your terminal](https://github.com/kborer/cells/)
