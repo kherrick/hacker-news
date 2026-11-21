@@ -52,6 +52,7 @@
 * [2026-11-17, 15:38:28](https://news.ycombinator.com/item?id=50532849) - [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
 * [2026-11-17, 15:33:48](https://news.ycombinator.com/item?id=50532786) - [A.I. Just Blew Up a Key Tenet of Computer Science](https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html)
 * [2026-11-17, 15:33:15](https://news.ycombinator.com/item?id=50532773) - [Antfly learned to stop worrying and love Apache 2.0](https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2)
+* [2026-11-17, 15:22:57](https://news.ycombinator.com/item?id=50532613) - [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria)
 * [2026-11-17, 15:16:45](https://news.ycombinator.com/item?id=50532515) - [Show HN: An API for word timestamps from speech, 75% within 20ms](https://quebec.yarn.so)
 * [2026-11-17, 15:07:09](https://news.ycombinator.com/item?id=50532385) - [Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)
 * [2026-11-17, 15:03:25](https://news.ycombinator.com/item?id=50532322) - [A US Federal Women's Prison Became a \"Rape Club\"](https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop)
