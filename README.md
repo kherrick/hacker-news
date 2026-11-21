@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-21, 10:33:57](https://news.ycombinator.com/item?id=50587859) - [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o)
 * [2026-11-21, 08:32:58](https://news.ycombinator.com/item?id=50587208) - [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
 * [2026-11-21, 08:32:34](https://news.ycombinator.com/item?id=50587205) - [Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize](https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize)
 * [2026-11-21, 06:44:14](https://news.ycombinator.com/item?id=50586648) - [Surprisingly Adorable Insect Portraits](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
 * [2026-11-21, 05:38:01](https://news.ycombinator.com/item?id=50586292) - [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
-* [2026-11-21, 03:23:16](https://news.ycombinator.com/item?id=50585593) - [Backblaze Notice at Collection and Privacy Policy](https://www.backblaze.com/company/policy/privacy)
 * [2026-11-21, 02:40:39](https://news.ycombinator.com/item?id=50585376) - [Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
 * [2026-11-20, 23:29:30](https://news.ycombinator.com/item?id=50583856) - [Serious cyberattack thought backed by wealthy operators](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411)
 * [2026-11-20, 23:19:44](https://news.ycombinator.com/item?id=50583768) - [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
