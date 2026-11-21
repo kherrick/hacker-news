@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-21, 17:59:59](https://news.ycombinator.com/item?id=50591835) - [Jensen Huang's fall is bad news for Silicon Valley's accelerationists](https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists)
+* [2026-11-21, 17:58:23](https://news.ycombinator.com/item?id=50591820) - [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philarchive.org/rec/NIEIOT-2)
 * [2026-11-21, 17:08:04](https://news.ycombinator.com/item?id=50591260) - [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/)
 * [2026-11-21, 15:54:34](https://news.ycombinator.com/item?id=50590441) - [Verification files for the Lean proof of the Riemann Hypothesis](https://math.mit.edu/~drew/grh/)
 * [2026-11-21, 15:39:09](https://news.ycombinator.com/item?id=50590279) - [Show HN: Zero C#, Power of C# without any GC](https://onurgumus.github.io/zero-csharp/index.html)
@@ -11,7 +13,6 @@
 * [2026-11-21, 06:44:14](https://news.ycombinator.com/item?id=50586648) - [Surprisingly Adorable Insect Portraits](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
 * [2026-11-21, 05:38:01](https://news.ycombinator.com/item?id=50586292) - [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
 * [2026-11-21, 02:40:39](https://news.ycombinator.com/item?id=50585376) - [Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
-* [2026-11-20, 23:19:44](https://news.ycombinator.com/item?id=50583768) - [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
 * [2026-11-20, 23:18:32](https://news.ycombinator.com/item?id=50583761) - [Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761)
 * [2026-11-20, 22:30:47](https://news.ycombinator.com/item?id=50583274) - [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
 * [2026-11-20, 20:12:19](https://news.ycombinator.com/item?id=50581260) - [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
@@ -25,7 +26,6 @@
 * [2026-11-20, 13:29:59](https://news.ycombinator.com/item?id=50574383) - [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
 * [2026-11-20, 13:19:48](https://news.ycombinator.com/item?id=50574264) - [Deterministic Simulation Testing Is for Everyone](https://outdata.net/blog/261120)
 * [2026-11-18, 18:23:03](https://news.ycombinator.com/item?id=50550015) - [How I made a custom game engine for Satelital](https://spectralorbit.com/blog/satelital_game_engine)
-* [2026-11-18, 14:40:07](https://news.ycombinator.com/item?id=50546873) - [Defcon 5's California Caravan Program/Zine](https://netninja.com/2026/06/08/defcon-5s-california-caravan-program-zine/)
 * [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
 * [2026-11-18, 02:18:29](https://news.ycombinator.com/item?id=50541047) - [Show HN: An ASCII cell aquarium for your terminal](https://github.com/kborer/cells/)
 * [2026-11-17, 17:46:37](https://news.ycombinator.com/item?id=50535228) - [The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU](https://8bitarchitect.net/machines/elektronika-bk-0010/)
