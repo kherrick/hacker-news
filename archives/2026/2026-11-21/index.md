@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-21](index.md)
 
 * [2026-11-21, 11:30:33](https://news.ycombinator.com/item?id=50588168) - [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philarchive.org/rec/NIEIOT-2)
+* [2026-11-21, 10:36:32](https://news.ycombinator.com/item?id=50587875) - [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
 * [2026-11-21, 10:33:57](https://news.ycombinator.com/item?id=50587859) - [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o)
 * [2026-11-21, 08:32:58](https://news.ycombinator.com/item?id=50587208) - [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
 * [2026-11-21, 08:32:34](https://news.ycombinator.com/item?id=50587205) - [Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize](https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize)

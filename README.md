@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-21, 10:36:32](https://news.ycombinator.com/item?id=50587875) - [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
 * [2026-11-21, 10:33:57](https://news.ycombinator.com/item?id=50587859) - [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o)
 * [2026-11-21, 08:32:58](https://news.ycombinator.com/item?id=50587208) - [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
 * [2026-11-21, 08:32:34](https://news.ycombinator.com/item?id=50587205) - [Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize](https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize)
@@ -22,7 +23,6 @@
 * [2026-11-20, 15:24:11](https://news.ycombinator.com/item?id=50576012) - [Slopstrap – Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/)
 * [2026-11-20, 14:16:21](https://news.ycombinator.com/item?id=50574968) - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
 * [2026-11-20, 13:29:59](https://news.ycombinator.com/item?id=50574383) - [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
-* [2026-11-19, 07:25:57](https://news.ycombinator.com/item?id=50557025) - [Engineer's Guide to Career Growth – Advice from My Time at Stripe and Facebook](https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/)
 * [2026-11-19, 05:46:36](https://news.ycombinator.com/item?id=50556482) - [Fewer slides, more dragons](https://www.breakingchange.blog/p/fewer-slides-more-dragons)
 * [2026-11-18, 09:18:11](https://news.ycombinator.com/item?id=50543887) - [Microsoft's SideWinder Strategic Commander was a failed attempt](https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it)
 * [2026-11-18, 03:40:01](https://news.ycombinator.com/item?id=50541568) - [Show HN: Tinnitus frequency finder and audio notch tool](https://trynotched.com/find)
