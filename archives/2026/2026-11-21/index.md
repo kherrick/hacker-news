@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-21](index.md)
 
+* [2026-11-21, 22:09:58](https://news.ycombinator.com/item?id=50594132) - [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
 * [2026-11-21, 21:11:08](https://news.ycombinator.com/item?id=50593679) - [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
 * [2026-11-21, 21:06:14](https://news.ycombinator.com/item?id=50593637) - [The Emergence of Inequality in the Czech Corded Ware Culture](https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746)
 * [2026-11-21, 18:29:29](https://news.ycombinator.com/item?id=50592097) - [Upload2Shell · CVE-2026-125396](https://pwn.ai/upload2shell)
