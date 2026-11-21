@@ -22,12 +22,12 @@
 * [2026-11-20, 15:24:11](https://news.ycombinator.com/item?id=50576012) - [Slopstrap – Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/)
 * [2026-11-20, 14:16:21](https://news.ycombinator.com/item?id=50574968) - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
 * [2026-11-20, 13:29:59](https://news.ycombinator.com/item?id=50574383) - [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
+* [2026-11-19, 12:14:27](https://news.ycombinator.com/item?id=50559116) - [Worlds largest beaver dam in Northern Alberta](https://substack.com/@canadianreturnee/note/c-319574497)
 * [2026-11-19, 05:46:36](https://news.ycombinator.com/item?id=50556482) - [Fewer slides, more dragons](https://www.breakingchange.blog/p/fewer-slides-more-dragons)
 * [2026-11-18, 09:18:11](https://news.ycombinator.com/item?id=50543887) - [Microsoft's SideWinder Strategic Commander was a failed attempt](https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it)
 * [2026-11-18, 03:40:01](https://news.ycombinator.com/item?id=50541568) - [Show HN: Tinnitus frequency finder and audio notch tool](https://trynotched.com/find)
 * [2026-11-18, 00:39:18](https://news.ycombinator.com/item?id=50540342) - [3-legged Persian leopard's 150-mile journey highlights Caucasus border hazards](https://news.mongabay.com/short-article/2026/11/three-legged-persian-leopards-150-mile-journey-highlights-caucasus-border-hazards/)
 * [2026-11-17, 16:58:30](https://news.ycombinator.com/item?id=50534387) - [Valkey kills the skiplist, cuts sorted set overhead by up to 43%](https://valkey.io/blog/from-skiplist-to-b+tree/)
-* [2026-11-17, 01:03:05](https://news.ycombinator.com/item?id=50526023) - [Show HN: I made an audio-to-MIDI model 60x more efficient](https://kobi.music/research/dettato)
 * [2026-11-16, 19:07:13](https://news.ycombinator.com/item?id=50521550) - [I can’t believe it’s 1](https://aperiodical.com/2026/11/i-cant-believe-its-1/)
 * [2026-11-14, 09:13:24](https://news.ycombinator.com/item?id=50495392) - [Why the Airbus A321XLR often gets stuck climbing for first few hours of flight](https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/)
 
