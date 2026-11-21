@@ -37,6 +37,7 @@
 * [2026-11-17, 17:47:14](https://news.ycombinator.com/item?id=50535238) - [Apple Services Down](https://downdetector.com/status/apple-support/)
 * [2026-11-17, 17:47:14](https://news.ycombinator.com/item?id=50535238) - [Apple Services Down](https://developer.apple.com/system-status/)
 * [2026-11-17, 17:46:43](https://news.ycombinator.com/item?id=50535230) - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+* [2026-11-17, 17:46:37](https://news.ycombinator.com/item?id=50535228) - [The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU](https://8bitarchitect.net/machines/elektronika-bk-0010/)
 * [2026-11-17, 17:45:39](https://news.ycombinator.com/item?id=50535208) - [Who Builds the Machines That Build the Machines?](https://read.corematter.com/p/section-232-us-machine-tools)
 * [2026-11-17, 17:44:10](https://news.ycombinator.com/item?id=50535187) - [Substrate: A Lisp for WebAssembly](https://substrate-lang.com)
 * [2026-11-17, 17:13:57](https://news.ycombinator.com/item?id=50534664) - [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)
