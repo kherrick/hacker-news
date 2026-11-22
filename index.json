@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-11-19, 21:15:47",
+      "https://news.ycombinator.com/item?id=50566495"
+    ],
+    [
+      "Self-hosted library branch over public web OPDS",
+      "https://joinmayberry.com/"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 14:08:33",
       "https://news.ycombinator.com/item?id=50560314"
     ],
@@ -267,16 +277,6 @@
     [
       "LLMs can read and write executables byte by byte from a hex dump",
       "https://sgiannopoulos.github.io/blog/machine-code-programming/"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 10:24:42",
-      "https://news.ycombinator.com/item?id=50544428"
-    ],
-    [
-      "Reaktiv Workbook – A spreadsheet where every cell is Python",
-      "https://workbook.bui.app/"
     ]
   ],
   [
