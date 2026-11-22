@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-22, 04:04:56](https://news.ycombinator.com/item?id=50596133) - [Toyota, Nissan, and Honda to Standardize Parts to Lower Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
 * [2026-11-22, 03:07:27](https://news.ycombinator.com/item?id=50595816) - [Together.ai: Prompt Leakage for Requests](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026)
 * [2026-11-22, 03:06:35](https://news.ycombinator.com/item?id=50595812) - [Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"](https://www.youtube.com/watch?v=zqzk43bSdDI)
 * [2026-11-22, 02:47:18](https://news.ycombinator.com/item?id=50595725) - [The Most Popular Car Colors in America](https://www.iseecars.com/most-popular-car-colors-study)
@@ -24,7 +25,6 @@
 * [2026-11-20, 22:11:05](https://news.ycombinator.com/item?id=50583028) - [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body)
 * [2026-11-20, 21:03:12](https://news.ycombinator.com/item?id=50582069) - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
 * [2026-11-20, 15:03:31](https://news.ycombinator.com/item?id=50575644) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
-* [2026-11-19, 14:08:33](https://news.ycombinator.com/item?id=50560314) - [Split Radiance Cascades](https://www.jacktollenaar.top/articles/split-rc.html)
 * [2026-11-19, 12:34:54](https://news.ycombinator.com/item?id=50559295) - [Unit-testing in the Ü programming language](https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html)
 * [2026-11-18, 22:29:04](https://news.ycombinator.com/item?id=50553223) - [Shaping the Loops, Closing the Loops](https://revyl.com/blog/pattern-engineering/)
 * [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)

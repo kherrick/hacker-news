@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-22](index.md)
 
+* [2026-11-22, 04:04:56](https://news.ycombinator.com/item?id=50596133) - [Toyota, Nissan, and Honda to Standardize Parts to Lower Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
 * [2026-11-22, 03:07:27](https://news.ycombinator.com/item?id=50595816) - [Together.ai: Prompt Leakage for Requests](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026)
 * [2026-11-22, 03:06:35](https://news.ycombinator.com/item?id=50595812) - [Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"](https://www.youtube.com/watch?v=zqzk43bSdDI)
 * [2026-11-22, 02:47:18](https://news.ycombinator.com/item?id=50595725) - [The Most Popular Car Colors in America](https://www.iseecars.com/most-popular-car-colors-study)
