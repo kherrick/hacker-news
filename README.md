@@ -24,11 +24,11 @@
 * [2026-11-20, 17:03:39](https://news.ycombinator.com/item?id=50577991) - [I'm quite pleased by the tech architecture of my art website](https://klauria.tech/klauria-art/)
 * [2026-11-20, 15:03:31](https://news.ycombinator.com/item?id=50575644) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 * [2026-11-19, 14:00:08](https://news.ycombinator.com/item?id=50560203) - [Windows has two settings that bring work back after restart, both off by default](https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/)
+* [2026-11-19, 12:34:54](https://news.ycombinator.com/item?id=50559295) - [Unit-testing in the Ü programming language](https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html)
 * [2026-11-18, 22:29:04](https://news.ycombinator.com/item?id=50553223) - [Shaping the Loops, Closing the Loops](https://revyl.com/blog/pattern-engineering/)
 * [2026-11-18, 16:17:41](https://news.ycombinator.com/item?id=50548136) - [Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust](https://contextgeneric.dev/blog/v0.8.0-release/)
 * [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
 * [2026-11-18, 14:07:09](https://news.ycombinator.com/item?id=50546495) - [Exponential Behavior in Magic: The Gathering](https://levineuwirth.org/essays/exponential-magic/)
-* [2026-11-17, 15:22:57](https://news.ycombinator.com/item?id=50532613) - [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria)
 * [2026-11-17, 15:08:54](https://news.ycombinator.com/item?id=50532417) - [Tropical Rainforests Species may be surprisingly young](https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html)
 
 ## [Archives](archives/index.md)

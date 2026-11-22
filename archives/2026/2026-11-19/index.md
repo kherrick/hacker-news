@@ -43,6 +43,7 @@
 * [2026-11-19, 14:00:08](https://news.ycombinator.com/item?id=50560203) - [Windows has two settings that bring work back after restart, both off by default](https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/)
 * [2026-11-19, 13:21:20](https://news.ycombinator.com/item?id=50559749) - [Show HN: Foolscap – a writing app that reads your book and never writes for you](https://foolscap.works/)
 * [2026-11-19, 13:18:11](https://news.ycombinator.com/item?id=50559719) - [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
+* [2026-11-19, 12:34:54](https://news.ycombinator.com/item?id=50559295) - [Unit-testing in the Ü programming language](https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html)
 * [2026-11-19, 12:22:00](https://news.ycombinator.com/item?id=50559179) - [Unblockable communication with gravity – Science Advances](https://www.science.org/doi/10.1126/sciadv.aee0802)
 * [2026-11-19, 12:17:10](https://news.ycombinator.com/item?id=50559140) - [The AI Superintelligence Debate Has Serious Flaws](https://spectrum.ieee.org/ai-superintelligence-debate)
 * [2026-11-19, 12:14:27](https://news.ycombinator.com/item?id=50559116) - [Worlds largest beaver dam in Northern Alberta](https://substack.com/@canadianreturnee/note/c-319574497)
