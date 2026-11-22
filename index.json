@@ -1,26 +1,6 @@
 [
   [
     [
-      "2026-11-22, 08:36:29",
-      "https://news.ycombinator.com/item?id=50597505"
-    ],
-    [
-      "Man Claiming to Be Fired Rockstar Engineer Says GTA 6 Is Tracking Behavior",
-      "https://www.gadgetreview.com/man-claiming-to-be-fired-rockstar-engineer-says-gta-6-is-secretly-tracking-player-behavior-and-reporting-it-to-take-two"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 07:01:00",
-      "https://news.ycombinator.com/item?id=50597014"
-    ],
-    [
-      "The Engineering Manager's role is under attack (again)",
-      "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again"
-    ]
-  ],
-  [
-    [
       "2026-11-22, 06:52:25",
       "https://news.ycombinator.com/item?id=50596960"
     ],
@@ -151,12 +131,22 @@
   ],
   [
     [
-      "2026-11-21, 15:39:09",
-      "https://news.ycombinator.com/item?id=50590279"
+      "2026-11-21, 17:08:04",
+      "https://news.ycombinator.com/item?id=50591260"
     ],
     [
-      "Show HN: Zero C# – C# without a runtime or GC",
-      "https://onurgumus.github.io/zero-csharp/index.html"
+      "PostgreSQL Extensions in Go",
+      "https://jespino.github.io/gopgext/"
+    ]
+  ],
+  [
+    [
+      "2026-11-21, 15:54:34",
+      "https://news.ycombinator.com/item?id=50590441"
+    ],
+    [
+      "Verification files for the Lean proof of the Riemann Hypothesis",
+      "https://math.mit.edu/~drew/grh/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Reversing the Next-Page Prefetcher in Skylake-X",
       "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 22:51:11",
+      "https://news.ycombinator.com/item?id=50553496"
+    ],
+    [
+      "Pion Interceptor: WebRTC for Hackers",
+      "https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/"
     ]
   ],
   [
