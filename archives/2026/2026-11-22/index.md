@@ -9,6 +9,7 @@
 * [2026-11-22, 15:52:33](https://news.ycombinator.com/item?id=50600771) - [Ask HN: Are the trades a safe career transition?](https://news.ycombinator.com/item?id=50600771)
 * [2026-11-22, 15:42:40](https://news.ycombinator.com/item?id=50600677) - [Europe weakens chemical rules as science links them to 'lifestyle diseases'](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
 * [2026-11-22, 15:35:24](https://news.ycombinator.com/item?id=50600622) - [I joined the NTP Pool, but not with my Stratum 1 Pi](https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/)
+* [2026-11-22, 15:25:29](https://news.ycombinator.com/item?id=50600521) - [Fascism and Monopoly](https://repository.law.umich.edu/mlr/vol118/iss7/2/)
 * [2026-11-22, 15:24:32](https://news.ycombinator.com/item?id=50600511) - [A better internet for everyone is possible. Today](https://osw-alliance.net/en/)
 * [2026-11-22, 15:16:02](https://news.ycombinator.com/item?id=50600435) - [Backblaze customers worried of personal data sale/sharing after policy update](https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/)
 * [2026-11-22, 13:56:58](https://news.ycombinator.com/item?id=50599762) - [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
