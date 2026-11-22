@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-11-22, 12:19:46",
-      "https://news.ycombinator.com/item?id=50598961"
-    ],
-    [
-      "AI is becoming a disaster for the climate",
-      "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the"
-    ]
-  ],
-  [
-    [
       "2026-11-22, 09:57:01",
       "https://news.ycombinator.com/item?id=50597959"
     ],
@@ -147,6 +137,16 @@
     [
       "Inkling-2-Mini in 5.4 GB Memory",
       "https://github.com/ShinMegamiBoson/lookatmyquant"
+    ]
+  ],
+  [
+    [
+      "2026-11-21, 17:08:04",
+      "https://news.ycombinator.com/item?id=50591260"
+    ],
+    [
+      "PostgreSQL Extensions in Go",
+      "https://jespino.github.io/gopgext/"
     ]
   ],
   [
