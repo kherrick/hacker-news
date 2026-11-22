@@ -17,7 +17,6 @@
 * [2026-11-22, 00:07:59](https://news.ycombinator.com/item?id=50594911) - [Sandwich Simulator](https://stulle.app/)
 * [2026-11-21, 22:15:39](https://news.ycombinator.com/item?id=50594182) - [A Better Vocabulary for Testing](https://alperenkeles.com/posts/vocab-for-testing/)
 * [2026-11-21, 22:09:58](https://news.ycombinator.com/item?id=50594132) - [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
-* [2026-11-21, 21:17:53](https://news.ycombinator.com/item?id=50593737) - [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
 * [2026-11-21, 18:02:19](https://news.ycombinator.com/item?id=50591853) - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
 * [2026-11-21, 14:36:45](https://news.ycombinator.com/item?id=50589618) - [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 * [2026-11-21, 13:23:14](https://news.ycombinator.com/item?id=50588982) - [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
@@ -28,6 +27,7 @@
 * [2026-11-19, 21:44:50](https://news.ycombinator.com/item?id=50566886) - [What Makes UltraSMR Different?](https://blog.westerndigital.com/what-is-ultrasmr-technology/)
 * [2026-11-19, 21:15:47](https://news.ycombinator.com/item?id=50566495) - [Self-hosted library branch over public web OPDS](https://joinmayberry.com/)
 * [2026-11-19, 16:26:51](https://news.ycombinator.com/item?id=50562207) - [Inside PyPy: First Contact with RPython](https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/)
+* [2026-11-19, 12:50:25](https://news.ycombinator.com/item?id=50559441) - [The Transvoxel Algorithm](https://transvoxel.org/)
 * [2026-11-19, 01:37:45](https://news.ycombinator.com/item?id=50555002) - [Ask HN: Tips for transitioning from web development to embedded/firmware?](https://news.ycombinator.com/item?id=50555002)
 * [2026-11-18, 20:04:28](https://news.ycombinator.com/item?id=50551397) - [The Where's Waldo of the 1500s](https://blog.alexbeals.com/posts/il-civetta)
 
