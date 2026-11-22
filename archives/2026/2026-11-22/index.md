@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-22](index.md)
 
 * [2026-11-22, 12:19:46](https://news.ycombinator.com/item?id=50598961) - [AI is becoming a disaster for the climate](https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the)
+* [2026-11-22, 09:57:01](https://news.ycombinator.com/item?id=50597959) - [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/)
 * [2026-11-22, 09:18:36](https://news.ycombinator.com/item?id=50597743) - [Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts](https://arxiv.org/abs/2606.14068)
 * [2026-11-22, 08:57:34](https://news.ycombinator.com/item?id=50597612) - [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
 * [2026-11-22, 08:36:29](https://news.ycombinator.com/item?id=50597505) - [Man Claiming to Be Fired Rockstar Engineer Says GTA 6 Is Tracking Behavior](https://www.gadgetreview.com/man-claiming-to-be-fired-rockstar-engineer-says-gta-6-is-secretly-tracking-player-behavior-and-reporting-it-to-take-two)
