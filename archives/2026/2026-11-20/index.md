@@ -53,6 +53,7 @@
 * [2026-11-20, 13:29:59](https://news.ycombinator.com/item?id=50574383) - [Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)
 * [2026-11-20, 13:19:48](https://news.ycombinator.com/item?id=50574264) - [Deterministic Simulation Testing Is for Everyone](https://outdata.net/blog/261120)
 * [2026-11-20, 12:41:38](https://news.ycombinator.com/item?id=50573886) - [If you stop writing code, you also get worse at reviewing it](https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/)
+* [2026-11-20, 12:40:06](https://news.ycombinator.com/item?id=50573870) - [Field Mice on Drugs](https://ambrook.com/offrange/livestock/field-mice-on-drugs)
 * [2026-11-20, 12:16:36](https://news.ycombinator.com/item?id=50573681) - [Epic Games Turns to AI Coding for the Unreal Engine](https://spectrum.ieee.org/epic-games-unreal-engine-ai)
 * [2026-11-20, 11:37:00](https://news.ycombinator.com/item?id=50573288) - [The Market Is Down](https://anihil.com/the-market-is-down)
 * [2026-11-20, 11:13:05](https://news.ycombinator.com/item?id=50573087) - [Why do tech leaders sound so illogical and off-putting?](https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/)
