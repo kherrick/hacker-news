@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-22, 21:07:11](https://news.ycombinator.com/item?id=50603906) - [GLP-1 drugs could have a surprisingly large environmental payoff](https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114)
+* [2026-11-22, 21:01:16](https://news.ycombinator.com/item?id=50603845) - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
 * [2026-11-22, 20:50:18](https://news.ycombinator.com/item?id=50603730) - [AWS got hit by an outage too. You didn't hear about it](https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511)
 * [2026-11-22, 20:33:23](https://news.ycombinator.com/item?id=50603589) - [A miniature San Francisco with live buses, planes and boats](https://smallsf.com/)
 * [2026-11-22, 20:15:59](https://news.ycombinator.com/item?id=50603465) - [Nyx, the Oldest Internet Service Provider](https://nyx.net/)
@@ -13,7 +14,6 @@
 * [2026-11-22, 15:59:59](https://news.ycombinator.com/item?id=50600838) - [C++26 is done (again): November 2026 ISO C++ meeting trip report](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/)
 * [2026-11-22, 15:35:24](https://news.ycombinator.com/item?id=50600622) - [I joined the NTP Pool, but not with my Stratum 1 Pi](https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/)
 * [2026-11-22, 15:24:32](https://news.ycombinator.com/item?id=50600511) - [Open Social Web Alliance](https://osw-alliance.net/en/)
-* [2026-11-22, 15:16:02](https://news.ycombinator.com/item?id=50600435) - [Backblaze customers worried of personal data sale/sharing after policy update](https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/)
 * [2026-11-22, 13:56:58](https://news.ycombinator.com/item?id=50599762) - [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
 * [2026-11-22, 13:00:36](https://news.ycombinator.com/item?id=50599309) - [Testing Terraform with AWS Emulator](https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/)
 * [2026-11-22, 09:57:01](https://news.ycombinator.com/item?id=50597959) - [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/)
