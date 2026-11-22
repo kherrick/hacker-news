@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-22, 19:10:38](https://news.ycombinator.com/item?id=50602847) - [\"A government that 'gets it'\": Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
+* [2026-11-22, 19:10:38](https://news.ycombinator.com/item?id=50602847) - [Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
+* [2026-11-22, 19:10:34](https://news.ycombinator.com/item?id=50602843) - [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
 * [2026-11-22, 18:50:27](https://news.ycombinator.com/item?id=50602660) - [Dirac's Theorem at a Dinner Party](https://prideout.net/blog/dirac-dinner-party/)
 * [2026-11-22, 17:06:27](https://news.ycombinator.com/item?id=50601525) - [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
 * [2026-11-22, 15:42:40](https://news.ycombinator.com/item?id=50600677) - [Europe weakens chemical rules as science links them to 'lifestyle diseases'](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
@@ -19,7 +20,6 @@
 * [2026-11-22, 00:07:59](https://news.ycombinator.com/item?id=50594911) - [Sandwich Simulator](https://stulle.app/)
 * [2026-11-21, 22:15:39](https://news.ycombinator.com/item?id=50594182) - [A Better Vocabulary for Testing](https://alperenkeles.com/posts/vocab-for-testing/)
 * [2026-11-21, 18:02:19](https://news.ycombinator.com/item?id=50591853) - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
-* [2026-11-21, 14:36:45](https://news.ycombinator.com/item?id=50589618) - [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 * [2026-11-20, 22:11:05](https://news.ycombinator.com/item?id=50583028) - [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body)
 * [2026-11-20, 21:03:12](https://news.ycombinator.com/item?id=50582069) - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
 * [2026-11-20, 12:40:06](https://news.ycombinator.com/item?id=50573870) - [Field Mice on Drugs](https://ambrook.com/offrange/livestock/field-mice-on-drugs)
