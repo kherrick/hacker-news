@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-11-19, 12:34:54",
-      "https://news.ycombinator.com/item?id=50559295"
+      "2026-11-18, 22:51:11",
+      "https://news.ycombinator.com/item?id=50553496"
     ],
     [
-      "Unit-testing in the Ü programming language",
-      "https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html"
+      "Pion Interceptor: WebRTC for Hackers",
+      "https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-11-18, 14:07:09",
-      "https://news.ycombinator.com/item?id=50546495"
-    ],
-    [
-      "Exponential Behavior in Magic: The Gathering",
-      "https://levineuwirth.org/essays/exponential-magic/"
-    ]
-  ],
-  [
-    [
       "2026-11-18, 10:24:42",
       "https://news.ycombinator.com/item?id=50544428"
     ],
     [
       "Reaktiv Workbook – A spreadsheet where every cell is Python",
       "https://workbook.bui.app/"
+    ]
+  ],
+  [
+    [
+      "2026-11-13, 17:53:42",
+      "https://news.ycombinator.com/item?id=50487155"
+    ],
+    [
+      "Show HN: Compile the same source for GPUs and CPUs",
+      "https://github.com/ThrudTheBarbarian/xc"
     ]
   ]
 ]
