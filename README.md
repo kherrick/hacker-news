@@ -15,6 +15,7 @@
 * [2026-11-21, 18:29:29](https://news.ycombinator.com/item?id=50592097) - [Upload2Shell (CVE-2026-125396)](https://pwn.ai/upload2shell)
 * [2026-11-21, 18:02:19](https://news.ycombinator.com/item?id=50591853) - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
 * [2026-11-21, 17:08:04](https://news.ycombinator.com/item?id=50591260) - [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/)
+* [2026-11-21, 15:54:34](https://news.ycombinator.com/item?id=50590441) - [Verification files for the Lean proof of the Riemann Hypothesis](https://math.mit.edu/~drew/grh/)
 * [2026-11-21, 15:39:09](https://news.ycombinator.com/item?id=50590279) - [Show HN: Zero C# – C# without a runtime or GC](https://onurgumus.github.io/zero-csharp/index.html)
 * [2026-11-21, 14:36:45](https://news.ycombinator.com/item?id=50589618) - [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 * [2026-11-21, 13:23:14](https://news.ycombinator.com/item?id=50588982) - [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
@@ -28,7 +29,6 @@
 * [2026-11-18, 22:51:11](https://news.ycombinator.com/item?id=50553496) - [Pion Interceptor: WebRTC for Hackers](https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/)
 * [2026-11-18, 22:29:04](https://news.ycombinator.com/item?id=50553223) - [Shaping the Loops, Closing the Loops](https://revyl.com/blog/pattern-engineering/)
 * [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
-* [2026-11-18, 10:24:42](https://news.ycombinator.com/item?id=50544428) - [Reaktiv Workbook – A spreadsheet where every cell is Python](https://workbook.bui.app/)
 * [2026-11-13, 17:53:42](https://news.ycombinator.com/item?id=50487155) - [Show HN: Compile the same source for GPUs and CPUs](https://github.com/ThrudTheBarbarian/xc)
 
 ## [Archives](archives/index.md)
