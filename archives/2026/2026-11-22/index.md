@@ -13,6 +13,7 @@
 * [2026-11-22, 19:10:38](https://news.ycombinator.com/item?id=50602847) - [\"A government that 'gets it'\": Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
 * [2026-11-22, 19:10:34](https://news.ycombinator.com/item?id=50602843) - [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
 * [2026-11-22, 18:50:27](https://news.ycombinator.com/item?id=50602660) - [Dirac's Theorem at a Dinner Party](https://prideout.net/blog/dirac-dinner-party/)
+* [2026-11-22, 18:01:54](https://news.ycombinator.com/item?id=50602153) - [Harvard CS 2881R AI Safety](https://boazbk.github.io/mltheoryseminar/)
 * [2026-11-22, 17:32:41](https://news.ycombinator.com/item?id=50601823) - [Was software just always too complex for humans?](https://anil.recoil.org/notes/software-too-complex-for-humans)
 * [2026-11-22, 17:06:27](https://news.ycombinator.com/item?id=50601525) - [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
 * [2026-11-22, 15:59:59](https://news.ycombinator.com/item?id=50600838) - [C++26 is done (again): November 2026 ISO C++ meeting trip report](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/)
