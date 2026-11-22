@@ -45,6 +45,7 @@
 * [2026-11-17, 17:00:24](https://news.ycombinator.com/item?id=50534429) - [YC wrote software to run our internship expo – and an 8-bit SIM to show it off](https://news.ycombinator.com/item?id=50534429)
 * [2026-11-17, 16:58:30](https://news.ycombinator.com/item?id=50534387) - [Valkey kills the skiplist, cuts sorted set overhead by up to 43%](https://valkey.io/blog/from-skiplist-to-b+tree/)
 * [2026-11-17, 16:40:38](https://news.ycombinator.com/item?id=50534044) - [Jensen Huang says he’s open to returning in first statement since resignation](https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html)
+* [2026-11-17, 16:35:46](https://news.ycombinator.com/item?id=50533945) - [A real Linux kernel, compiled to WebAssembly](https://github.com/pithings/unkernel)
 * [2026-11-17, 16:23:55](https://news.ycombinator.com/item?id=50533723) - [Jensen Huang Posts on X](https://twitter.com/JensenHuang/status/2122726005219737649)
 * [2026-11-17, 16:15:44](https://news.ycombinator.com/item?id=50533571) - [Mistral offers three months of Vibe Pro free in Europe](https://x.com/MistralAI/status/2122713540666806397)
 * [2026-11-17, 16:12:11](https://news.ycombinator.com/item?id=50533517) - [Bolt's Scooters Are Becoming Accessibility Sensors](https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/)
