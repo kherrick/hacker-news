@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-11-19, 16:26:51",
+      "https://news.ycombinator.com/item?id=50562207"
+    ],
+    [
+      "Inside PyPy: First Contact with RPython",
+      "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/"
+    ]
+  ],
+  [
+    [
       "2026-11-19, 01:37:45",
       "https://news.ycombinator.com/item?id=50555002"
     ],
@@ -287,16 +297,6 @@
     [
       "The Where's Waldo of the 1500s",
       "https://blog.alexbeals.com/posts/il-civetta"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 14:15:58",
-      "https://news.ycombinator.com/item?id=50546587"
-    ],
-    [
-      "LLMs can read and write executables byte by byte from a hex dump",
-      "https://sgiannopoulos.github.io/blog/machine-code-programming/"
     ]
   ]
 ]
