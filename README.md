@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-22, 05:46:30](https://news.ycombinator.com/item?id=50596664) - [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)
 * [2026-11-22, 04:04:56](https://news.ycombinator.com/item?id=50596133) - [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
 * [2026-11-22, 03:07:27](https://news.ycombinator.com/item?id=50595816) - [Together.ai: Prompt Leakage for Requests](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026)
 * [2026-11-22, 02:47:18](https://news.ycombinator.com/item?id=50595725) - [The Most Popular Car Colors in America](https://www.iseecars.com/most-popular-car-colors-study)
@@ -14,7 +15,6 @@
 * [2026-11-21, 18:29:29](https://news.ycombinator.com/item?id=50592097) - [Upload2Shell (CVE-2026-125396)](https://pwn.ai/upload2shell)
 * [2026-11-21, 18:02:19](https://news.ycombinator.com/item?id=50591853) - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
 * [2026-11-21, 17:08:04](https://news.ycombinator.com/item?id=50591260) - [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/)
-* [2026-11-21, 15:54:34](https://news.ycombinator.com/item?id=50590441) - [Verification files for the Lean proof of the Riemann Hypothesis](https://math.mit.edu/~drew/grh/)
 * [2026-11-21, 15:39:09](https://news.ycombinator.com/item?id=50590279) - [Show HN: Zero C# – C# without a runtime or GC](https://onurgumus.github.io/zero-csharp/index.html)
 * [2026-11-21, 14:36:45](https://news.ycombinator.com/item?id=50589618) - [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 * [2026-11-21, 13:23:14](https://news.ycombinator.com/item?id=50588982) - [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
