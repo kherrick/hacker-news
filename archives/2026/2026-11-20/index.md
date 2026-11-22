@@ -71,6 +71,7 @@
 * [2026-11-20, 04:02:39](https://news.ycombinator.com/item?id=50569998) - [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)
 * [2026-11-20, 04:00:24](https://news.ycombinator.com/item?id=50569985) - [GIMP now has UI tests](https://www.gimp.org/news/2026/11/16/gimp-ui-tests/)
 * [2026-11-20, 03:45:45](https://news.ycombinator.com/item?id=50569890) - [PostgreSQL 19](https://www.postgresql.org/docs/release/19.0/)
+* [2026-11-20, 03:37:41](https://news.ycombinator.com/item?id=50569846) - [If tiny 'primordial' black holes exist](https://phys.org/news/2026-11-tiny-primordial-black-holes.html)
 * [2026-11-20, 02:44:13](https://news.ycombinator.com/item?id=50569519) - [What Comes After AGI?](https://institute.deepmind.com/essays/what-comes-after-agi/)
 * [2026-11-20, 02:43:49](https://news.ycombinator.com/item?id=50569516) - [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
 * [2026-11-20, 02:01:09](https://news.ycombinator.com/item?id=50569226) - [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
