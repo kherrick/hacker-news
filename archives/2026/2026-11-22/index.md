@@ -6,6 +6,7 @@
 
 * [2026-11-22, 13:56:58](https://news.ycombinator.com/item?id=50599762) - [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
 * [2026-11-22, 13:46:12](https://news.ycombinator.com/item?id=50599667) - [Blackberry releases secure browser for Windows](https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows)
+* [2026-11-22, 13:37:10](https://news.ycombinator.com/item?id=50599583) - [U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels](https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html)
 * [2026-11-22, 13:19:47](https://news.ycombinator.com/item?id=50599444) - [South Korea education minister resigns over exam cheating scandal](https://www.bbc.com/news/articles/cw3dgk29d37no)
 * [2026-11-22, 13:00:52](https://news.ycombinator.com/item?id=50599313) - [Prisons get OK to jam contraband phones](https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/)
 * [2026-11-22, 12:19:46](https://news.ycombinator.com/item?id=50598961) - [AI is becoming a disaster for the climate](https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the)
