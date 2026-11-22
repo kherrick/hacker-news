@@ -2,7 +2,7 @@
 
 * [2026-11-22, 15:54:24](https://news.ycombinator.com/item?id=50600789) - [Norway to extend proposed under-16 social media ban to games and messaging apps](https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps)
 * [2026-11-22, 15:42:40](https://news.ycombinator.com/item?id=50600677) - [Europe weakens chemical rules as science links them to 'lifestyle diseases'](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
-* [2026-11-22, 15:24:32](https://news.ycombinator.com/item?id=50600511) - [A better internet for everyone is possible. Today](https://osw-alliance.net/en/)
+* [2026-11-22, 15:24:32](https://news.ycombinator.com/item?id=50600511) - [Open Social Web Alliance](https://osw-alliance.net/en/)
 * [2026-11-22, 15:16:02](https://news.ycombinator.com/item?id=50600435) - [Backblaze customers worried of personal data sale/sharing after policy update](https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/)
 * [2026-11-22, 13:56:58](https://news.ycombinator.com/item?id=50599762) - [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
 * [2026-11-22, 13:37:10](https://news.ycombinator.com/item?id=50599583) - [U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels](https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html)
@@ -28,7 +28,7 @@
 * [2026-11-19, 22:37:16](https://news.ycombinator.com/item?id=50567493) - [Celliad – a daily Excel game (French)](https://celliad.com/)
 * [2026-11-19, 21:15:47](https://news.ycombinator.com/item?id=50566495) - [Self-hosted library branch over public web OPDS](https://joinmayberry.com/)
 * [2026-11-19, 01:37:45](https://news.ycombinator.com/item?id=50555002) - [Ask HN: Tips for transitioning from web development to embedded/firmware?](https://news.ycombinator.com/item?id=50555002)
-* [2026-11-18, 17:42:57](https://news.ycombinator.com/item?id=50549457) - [String Art Font (2017)](https://erikdemaine.org/fonts/stringart/)
+* [2026-11-18, 20:04:28](https://news.ycombinator.com/item?id=50551397) - [The Where's Waldo of the 1500s](https://blog.alexbeals.com/posts/il-civetta)
 * [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
 
 ## [Archives](archives/index.md)

@@ -22,6 +22,7 @@
 * [2026-11-18, 20:20:17](https://news.ycombinator.com/item?id=50551601) - [Google Gemini's \"Tasks\" Personal Assistant Is Now Free](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)
 * [2026-11-18, 20:12:34](https://news.ycombinator.com/item?id=50551509) - [Horizon Labs Report](https://horizon-labs.ai/)
 * [2026-11-18, 20:04:31](https://news.ycombinator.com/item?id=50551398) - [Search Browser – Minimalist WebKit browser with Chrome extension support](https://searchbrowser.app/)
+* [2026-11-18, 20:04:28](https://news.ycombinator.com/item?id=50551397) - [The Where's Waldo of the 1500s](https://blog.alexbeals.com/posts/il-civetta)
 * [2026-11-18, 20:01:50](https://news.ycombinator.com/item?id=50551359) - [Sexp Matrix](https://lisper.cc/ideas/entangle.html)
 * [2026-11-18, 19:39:16](https://news.ycombinator.com/item?id=50551046) - [DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b)
 * [2026-11-18, 18:53:17](https://news.ycombinator.com/item?id=50550461) - [Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys](https://tin.computer/blog/fake-ai-crawler-secrets-scanners)
