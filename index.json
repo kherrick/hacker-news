@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-11-18, 17:42:57",
+      "https://news.ycombinator.com/item?id=50549457"
+    ],
+    [
+      "String Art Font (2017)",
+      "https://erikdemaine.org/fonts/stringart/"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 14:15:58",
       "https://news.ycombinator.com/item?id=50546587"
     ],
@@ -287,16 +297,6 @@
     [
       "A real Linux kernel, compiled to WebAssembly",
       "https://github.com/pithings/unkernel"
-    ]
-  ],
-  [
-    [
-      "2026-11-13, 17:53:42",
-      "https://news.ycombinator.com/item?id=50487155"
-    ],
-    [
-      "Show HN: Compile the same source for GPUs and CPUs",
-      "https://github.com/ThrudTheBarbarian/xc"
     ]
   ]
 ]
