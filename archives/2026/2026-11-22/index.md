@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-22](index.md)
 
+* [2026-11-22, 07:01:00](https://news.ycombinator.com/item?id=50597014) - [The Engineering Manager's role is under attack (again)](https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again)
 * [2026-11-22, 06:52:25](https://news.ycombinator.com/item?id=50596960) - [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
 * [2026-11-22, 05:46:30](https://news.ycombinator.com/item?id=50596664) - [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)
 * [2026-11-22, 05:11:43](https://news.ycombinator.com/item?id=50596511) - [AI Supply Chain Security: What Canary Tokens Found](https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens)
