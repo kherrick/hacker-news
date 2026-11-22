@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-22, 01:12:15",
+      "https://news.ycombinator.com/item?id=50595256"
+    ],
+    [
+      "Supposed Fired Rockstar Engineer Says GTAVI Makes Psychological Profiles",
+      "https://www.gadgetreview.com/man-claiming-to-be-fired-rockstar-engineer-says-gta-6-is-secretly-tracking-player-behavior-and-reporting-it-to-take-two"
+    ]
+  ],
+  [
+    [
       "2026-11-22, 00:07:59",
       "https://news.ycombinator.com/item?id=50594911"
     ],
@@ -237,16 +247,6 @@
     [
       "Shaping the Loops, Closing the Loops",
       "https://revyl.com/blog/pattern-engineering/"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 16:17:41",
-      "https://news.ycombinator.com/item?id=50548136"
-    ],
-    [
-      "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
-      "https://contextgeneric.dev/blog/v0.8.0-release/"
     ]
   ],
   [
