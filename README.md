@@ -29,7 +29,7 @@
 * [2026-11-18, 22:29:04](https://news.ycombinator.com/item?id=50553223) - [Shaping the Loops, Closing the Loops](https://revyl.com/blog/pattern-engineering/)
 * [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
 * [2026-11-18, 14:07:09](https://news.ycombinator.com/item?id=50546495) - [Exponential Behavior in Magic: The Gathering](https://levineuwirth.org/essays/exponential-magic/)
-* [2026-11-13, 17:53:42](https://news.ycombinator.com/item?id=50487155) - [Show HN: Compile the same source for GPUs and CPUs](https://github.com/ThrudTheBarbarian/xc)
+* [2026-11-18, 10:24:42](https://news.ycombinator.com/item?id=50544428) - [Reaktiv Workbook – A spreadsheet where every cell is Python](https://workbook.bui.app/)
 
 ## [Archives](archives/index.md)
 
