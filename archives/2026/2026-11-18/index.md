@@ -37,6 +37,7 @@
 * [2026-11-18, 18:00:18](https://news.ycombinator.com/item?id=50549711) - [Who made the strawberry? 14 days of logs building a procedural fruit with agents](https://strawberry-methodology.pages.dev)
 * [2026-11-18, 17:58:00](https://news.ycombinator.com/item?id=50549677) - [We asked AI the same 210 buying questions 2 days in a row,84% of answers changed](https://supercite.ai/blog/ai-answers-change-every-day)
 * [2026-11-18, 17:45:47](https://news.ycombinator.com/item?id=50549493) - [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/)
+* [2026-11-18, 17:42:57](https://news.ycombinator.com/item?id=50549457) - [String Art Font (2017)](https://erikdemaine.org/fonts/stringart/)
 * [2026-11-18, 17:41:57](https://news.ycombinator.com/item?id=50549441) - [Forking TuxGuitar into a 17-EDO tab editor](https://frogwizard.bearblog.dev/tuxguitar-17edo/)
 * [2026-11-18, 17:41:48](https://news.ycombinator.com/item?id=50549438) - [Lakegres: Vector search on existing Open/Hudi/Iceberg tables](https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats)
 * [2026-11-18, 17:26:28](https://news.ycombinator.com/item?id=50549188) - [Launch HN: Maritime (YC F26) – The managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188)
