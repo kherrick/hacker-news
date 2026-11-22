@@ -79,6 +79,7 @@
 * [2026-11-18, 13:56:28](https://news.ycombinator.com/item?id=50546365) - [Why YC Series A rounds fell off a cliff](https://jaredheyman.medium.com/on-why-yc-series-a-rounds-fell-off-a-cliff-ab523211a2f2)
 * [2026-11-18, 13:51:03](https://news.ycombinator.com/item?id=50546312) - [Can Peer Review Survive AI-Generated Text? [pdf]](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf)
 * [2026-11-18, 13:43:08](https://news.ycombinator.com/item?id=50546221) - [Mass launched to orbit each year by rocket builder](https://www.kadoa.com/companies/insights/spacex-europe-payload)
+* [2026-11-18, 13:33:25](https://news.ycombinator.com/item?id=50546124) - [Advice for Young Researchers](http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html)
 * [2026-11-18, 13:18:02](https://news.ycombinator.com/item?id=50545958) - [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
 * [2026-11-18, 13:02:08](https://news.ycombinator.com/item?id=50545818) - [µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/)
 * [2026-11-18, 12:02:59](https://news.ycombinator.com/item?id=50545262) - [Teskooano: A 3D N-body simulator in the browser](https://teskooano.space/)
