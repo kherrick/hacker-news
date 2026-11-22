@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2026-11-22, 15:59:59",
+      "https://news.ycombinator.com/item?id=50600838"
+    ],
+    [
+      "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+      "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/"
+    ]
+  ],
+  [
+    [
       "2026-11-22, 15:42:40",
       "https://news.ycombinator.com/item?id=50600677"
     ],
@@ -157,16 +167,6 @@
     [
       "Notes on the discrete Fourier transform (DFT)",
       "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 04:10:09",
-      "https://news.ycombinator.com/item?id=50596155"
-    ],
-    [
-      "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-      "https://github.com/EL4CTEO/fast-anything"
     ]
   ],
   [
