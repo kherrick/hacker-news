@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-11-22](index.md)
 
+* [2026-11-22, 21:13:10](https://news.ycombinator.com/item?id=50603962) - [Will the first approved psychedelic become a blockbuster?](https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/)
 * [2026-11-22, 21:07:11](https://news.ycombinator.com/item?id=50603906) - [GLP-1 drugs could have a surprisingly large environmental payoff](https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114)
 * [2026-11-22, 21:01:16](https://news.ycombinator.com/item?id=50603845) - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
 * [2026-11-22, 20:50:18](https://news.ycombinator.com/item?id=50603730) - [AWS got hit by an outage too. You didn't hear about it](https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511)
+* [2026-11-22, 20:41:59](https://news.ycombinator.com/item?id=50603674) - [I did a meditation and it sort of changed my personality?!](https://www.benkuhn.net/meditation/)
 * [2026-11-22, 20:33:23](https://news.ycombinator.com/item?id=50603589) - [A miniature San Francisco with live buses, planes and boats](https://smallsf.com/)
 * [2026-11-22, 20:15:59](https://news.ycombinator.com/item?id=50603465) - [Nyx, the Oldest Internet Service Provider](https://nyx.net/)
 * [2026-11-22, 19:51:46](https://news.ycombinator.com/item?id=50603232) - [All Delta Flights Through Atlanta Delayed as Automated System Falters](https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html)

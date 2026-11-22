@@ -59,6 +59,7 @@
 * [2026-11-18, 16:04:43](https://news.ycombinator.com/item?id=50547980) - [Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365](https://exitpath-ruddy.vercel.app/)
 * [2026-11-18, 15:52:01](https://news.ycombinator.com/item?id=50547813) - [Ratwires – The Graffiti Wall of the Internet](https://ratwire.space/)
 * [2026-11-18, 15:49:34](https://news.ycombinator.com/item?id=50547777) - [AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
+* [2026-11-18, 15:43:29](https://news.ycombinator.com/item?id=50547698) - [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527)
 * [2026-11-18, 15:38:33](https://news.ycombinator.com/item?id=50547620) - [Deutsche Bank](https://www.inside-db.com/)
 * [2026-11-18, 15:35:44](https://news.ycombinator.com/item?id=50547583) - [U.S. AirForce is looking for old storage Media (CF or PC cards)](https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view)
 * [2026-11-18, 15:24:17](https://news.ycombinator.com/item?id=50547423) - [NGINX2Root by Xint – From Nginx visitor to root of the server host](https://nginx2root.com/)
