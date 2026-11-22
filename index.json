@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-22, 00:07:59",
+      "https://news.ycombinator.com/item?id=50594911"
+    ],
+    [
+      "Sandwich Simulator",
+      "https://stulle.app/"
+    ]
+  ],
+  [
+    [
       "2026-11-21, 23:10:21",
       "https://news.ycombinator.com/item?id=50594564"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-11-20, 18:17:51",
-      "https://news.ycombinator.com/item?id=50579331"
-    ],
-    [
-      "We promoted developers into architects without informing them",
-      "https://manidoraisamy.com/developer-to-architect.html"
-    ]
-  ],
-  [
-    [
       "2026-11-20, 17:03:39",
       "https://news.ycombinator.com/item?id=50577991"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-11-18, 16:17:41",
-      "https://news.ycombinator.com/item?id=50548136"
+      "2026-11-18, 22:29:04",
+      "https://news.ycombinator.com/item?id=50553223"
     ],
     [
-      "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
-      "https://contextgeneric.dev/blog/v0.8.0-release/"
+      "Shaping the Loops, Closing the Loops",
+      "https://revyl.com/blog/pattern-engineering/"
     ]
   ],
   [
