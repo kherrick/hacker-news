@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-22](index.md)
 
+* [2026-11-22, 22:10:58](https://news.ycombinator.com/item?id=50604472) - [The Usefulness of Useless Knowledge [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2026-11-22, 21:13:10](https://news.ycombinator.com/item?id=50603962) - [Will the first approved psychedelic become a blockbuster?](https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/)
 * [2026-11-22, 21:07:11](https://news.ycombinator.com/item?id=50603906) - [GLP-1 drugs could have a surprisingly large environmental payoff](https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114)
 * [2026-11-22, 21:01:16](https://news.ycombinator.com/item?id=50603845) - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
