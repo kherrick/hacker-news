@@ -12,6 +12,7 @@
 * [2026-11-18, 23:30:09](https://news.ycombinator.com/item?id=50553843) - [Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering)
 * [2026-11-18, 22:42:53](https://news.ycombinator.com/item?id=50553402) - [Why educational system is broken](https://keycybermonk.com/edu)
 * [2026-11-18, 22:29:13](https://news.ycombinator.com/item?id=50553225) - [LLM Assisted Reverse Engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering)
+* [2026-11-18, 22:29:04](https://news.ycombinator.com/item?id=50553223) - [Shaping the Loops, Closing the Loops](https://revyl.com/blog/pattern-engineering/)
 * [2026-11-18, 22:26:48](https://news.ycombinator.com/item?id=50553192) - [GTA6-like as a 942Kb UEFI bootable image](https://github.com/eklavya-raj/gta6-uefi)
 * [2026-11-18, 21:34:07](https://news.ycombinator.com/item?id=50552424) - [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 * [2026-11-18, 21:11:10](https://news.ycombinator.com/item?id=50552169) - [Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights](https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/)
