@@ -55,6 +55,7 @@
 * [2026-11-19, 08:56:47](https://news.ycombinator.com/item?id=50557661) - [Do not buy RAM, compress](https://curiousbits.nl/blog/do-not-buy-ram-compress/)
 * [2026-11-19, 08:39:45](https://news.ycombinator.com/item?id=50557537) - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
 * [2026-11-19, 07:25:57](https://news.ycombinator.com/item?id=50557025) - [Engineer's Guide to Career Growth – Advice from My Time at Stripe and Facebook](https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/)
+* [2026-11-19, 07:19:23](https://news.ycombinator.com/item?id=50556975) - [Right Code, Wrong Comment: The Pointer Chase Inside Zlib](https://www.dataisland.org/blog/zlib-overlay-chase.html)
 * [2026-11-19, 05:56:36](https://news.ycombinator.com/item?id=50556533) - [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
 * [2026-11-19, 05:46:36](https://news.ycombinator.com/item?id=50556482) - [Fewer slides, more dragons](https://www.breakingchange.blog/p/fewer-slides-more-dragons)
 * [2026-11-19, 05:09:11](https://news.ycombinator.com/item?id=50556287) - [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)
