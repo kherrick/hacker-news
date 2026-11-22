@@ -2,9 +2,9 @@
 
 * [2026-11-22, 19:51:46](https://news.ycombinator.com/item?id=50603232) - [All Delta Flights Through Atlanta Delayed as Automated System Falters](https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html)
 * [2026-11-22, 19:20:15](https://news.ycombinator.com/item?id=50602947) - [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
-* [2026-11-22, 19:10:38](https://news.ycombinator.com/item?id=50602847) - [Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
 * [2026-11-22, 19:10:34](https://news.ycombinator.com/item?id=50602843) - [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
 * [2026-11-22, 18:50:27](https://news.ycombinator.com/item?id=50602660) - [Dirac's Theorem at a Dinner Party](https://prideout.net/blog/dirac-dinner-party/)
+* [2026-11-22, 17:32:41](https://news.ycombinator.com/item?id=50601823) - [Was software just always too complex for humans?](https://anil.recoil.org/notes/software-too-complex-for-humans)
 * [2026-11-22, 17:06:27](https://news.ycombinator.com/item?id=50601525) - [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
 * [2026-11-22, 15:59:59](https://news.ycombinator.com/item?id=50600838) - [C++26 is done (again): November 2026 ISO C++ meeting trip report](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/)
 * [2026-11-22, 15:42:40](https://news.ycombinator.com/item?id=50600677) - [Europe weakens chemical rules as science links them to 'lifestyle diseases'](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
