@@ -10,6 +10,7 @@
 * [2026-11-19, 22:56:59](https://news.ycombinator.com/item?id=50567735) - [Court: 4th Amendment Doesn't Cover AI-Generated 'Probable Cause'](https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/)
 * [2026-11-19, 22:27:07](https://news.ycombinator.com/item?id=50567374) - [RegExr: Temporarily Offline](https://regexr.com/)
 * [2026-11-19, 22:13:40](https://news.ycombinator.com/item?id=50567209) - [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
+* [2026-11-19, 21:15:47](https://news.ycombinator.com/item?id=50566495) - [Self-hosted library branch over public web OPDS](https://joinmayberry.com/)
 * [2026-11-19, 20:57:14](https://news.ycombinator.com/item?id=50566261) - [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
 * [2026-11-19, 20:21:15](https://news.ycombinator.com/item?id=50565788) - [Tubemap Mark Two: A geographically-accurate diagram of the London Underground](https://www.marknoaddesign.co.uk/london-tube-map)
 * [2026-11-19, 19:07:04](https://news.ycombinator.com/item?id=50564684) - [Show HN: LZ0 -An asymmetric LZ compressor with ultra minimal, 0-alloc decoder](https://github.com/seb3773/lz0)
