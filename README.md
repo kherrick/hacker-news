@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-22, 20:15:59](https://news.ycombinator.com/item?id=50603465) - [Nyx, the Oldest Internet Service Provider](https://nyx.net/)
 * [2026-11-22, 19:51:46](https://news.ycombinator.com/item?id=50603232) - [All Delta Flights Through Atlanta Delayed as Automated System Falters](https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html)
 * [2026-11-22, 19:20:15](https://news.ycombinator.com/item?id=50602947) - [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
 * [2026-11-22, 19:10:34](https://news.ycombinator.com/item?id=50602843) - [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
@@ -21,7 +22,6 @@
 * [2026-11-22, 00:07:59](https://news.ycombinator.com/item?id=50594911) - [Sandwich Simulator](https://stulle.app/)
 * [2026-11-21, 22:15:39](https://news.ycombinator.com/item?id=50594182) - [A Better Vocabulary for Testing](https://alperenkeles.com/posts/vocab-for-testing/)
 * [2026-11-21, 18:02:19](https://news.ycombinator.com/item?id=50591853) - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
-* [2026-11-20, 22:11:05](https://news.ycombinator.com/item?id=50583028) - [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body)
 * [2026-11-20, 21:03:12](https://news.ycombinator.com/item?id=50582069) - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
 * [2026-11-20, 09:47:15](https://news.ycombinator.com/item?id=50572389) - [Show HN: Deflate X-Ray, See inside a compressed file](https://hrih.si/projects/deflate-xray/)
 * [2026-11-19, 21:44:50](https://news.ycombinator.com/item?id=50566886) - [What Makes UltraSMR Different?](https://blog.westerndigital.com/what-is-ultrasmr-technology/)

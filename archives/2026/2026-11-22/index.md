@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-22](index.md)
 
+* [2026-11-22, 20:15:59](https://news.ycombinator.com/item?id=50603465) - [Nyx, the Oldest Internet Service Provider](https://nyx.net/)
 * [2026-11-22, 19:51:46](https://news.ycombinator.com/item?id=50603232) - [All Delta Flights Through Atlanta Delayed as Automated System Falters](https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html)
 * [2026-11-22, 19:20:15](https://news.ycombinator.com/item?id=50602947) - [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
 * [2026-11-22, 19:10:38](https://news.ycombinator.com/item?id=50602847) - [\"A government that 'gets it'\": Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
