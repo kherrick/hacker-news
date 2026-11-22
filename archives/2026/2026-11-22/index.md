@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-22](index.md)
 
+* [2026-11-22, 13:46:12](https://news.ycombinator.com/item?id=50599667) - [Blackberry releases secure browser for Windows](https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows)
+* [2026-11-22, 13:19:47](https://news.ycombinator.com/item?id=50599444) - [South Korea education minister resigns over exam cheating scandal](https://www.bbc.com/news/articles/cw3dgk29d37no)
 * [2026-11-22, 13:00:52](https://news.ycombinator.com/item?id=50599313) - [Prisons get OK to jam contraband phones](https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/)
 * [2026-11-22, 12:19:46](https://news.ycombinator.com/item?id=50598961) - [AI is becoming a disaster for the climate](https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the)
 * [2026-11-22, 09:57:01](https://news.ycombinator.com/item?id=50597959) - [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/)
