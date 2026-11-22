@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2026-11-22, 05:11:43",
-      "https://news.ycombinator.com/item?id=50596511"
+      "2026-11-22, 04:10:09",
+      "https://news.ycombinator.com/item?id=50596155"
     ],
     [
-      "AI Supply Chain Security: What Canary Tokens Found",
-      "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
+      "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+      "https://github.com/EL4CTEO/fast-anything"
     ]
   ],
   [
@@ -161,26 +161,6 @@
   ],
   [
     [
-      "2026-11-21, 17:08:04",
-      "https://news.ycombinator.com/item?id=50591260"
-    ],
-    [
-      "PostgreSQL Extensions in Go",
-      "https://jespino.github.io/gopgext/"
-    ]
-  ],
-  [
-    [
-      "2026-11-21, 15:54:34",
-      "https://news.ycombinator.com/item?id=50590441"
-    ],
-    [
-      "Verification files for the Lean proof of the Riemann Hypothesis",
-      "https://math.mit.edu/~drew/grh/"
-    ]
-  ],
-  [
-    [
       "2026-11-21, 15:39:09",
       "https://news.ycombinator.com/item?id=50590279"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2026-11-19, 00:50:05",
+      "https://news.ycombinator.com/item?id=50554572"
+    ],
+    [
+      "Reversing the Next-Page Prefetcher in Skylake-X",
+      "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 22:29:04",
       "https://news.ycombinator.com/item?id=50553223"
     ],
@@ -297,6 +287,16 @@
     [
       "LLMs can read and write executables byte by byte from a hex dump",
       "https://sgiannopoulos.github.io/blog/machine-code-programming/"
+    ]
+  ],
+  [
+    [
+      "2026-11-13, 17:53:42",
+      "https://news.ycombinator.com/item?id=50487155"
+    ],
+    [
+      "Show HN: Compile the same source for GPUs and CPUs",
+      "https://github.com/ThrudTheBarbarian/xc"
     ]
   ]
 ]
