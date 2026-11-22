@@ -46,6 +46,7 @@
 * [2026-11-13, 17:58:37](https://news.ycombinator.com/item?id=50487228) - [Show HN: Isometric SF – A pixel-art map of the SF Bay Area](https://isometricsf.com/)
 * [2026-11-13, 17:55:28](https://news.ycombinator.com/item?id=50487185) - [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa)
 * [2026-11-13, 17:55:23](https://news.ycombinator.com/item?id=50487184) - [OpenAI disbands its robotics team as its general models start running robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/)
+* [2026-11-13, 17:53:42](https://news.ycombinator.com/item?id=50487155) - [Show HN: Compile the same source for GPUs and CPUs](https://github.com/ThrudTheBarbarian/xc)
 * [2026-11-13, 17:37:32](https://news.ycombinator.com/item?id=50486880) - [One Man's Quest to Create the Perfect Whiskey Glass](https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html)
 * [2026-11-13, 17:30:10](https://news.ycombinator.com/item?id=50486748) - [AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths)
 * [2026-11-13, 17:29:49](https://news.ycombinator.com/item?id=50486745) - [Researchers track whole body movement with just a smartwatch](https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch)
