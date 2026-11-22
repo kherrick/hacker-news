@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-22, 08:36:29](https://news.ycombinator.com/item?id=50597505) - [Man Claiming to Be Fired Rockstar Engineer Says GTA 6 Is Tracking Behavior](https://www.gadgetreview.com/man-claiming-to-be-fired-rockstar-engineer-says-gta-6-is-secretly-tracking-player-behavior-and-reporting-it-to-take-two)
 * [2026-11-22, 07:01:00](https://news.ycombinator.com/item?id=50597014) - [The Engineering Manager's role is under attack (again)](https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again)
 * [2026-11-22, 06:52:25](https://news.ycombinator.com/item?id=50596960) - [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
 * [2026-11-22, 05:46:30](https://news.ycombinator.com/item?id=50596664) - [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)
@@ -25,7 +26,6 @@
 * [2026-11-20, 03:37:41](https://news.ycombinator.com/item?id=50569846) - [If tiny 'primordial' black holes exist](https://phys.org/news/2026-11-tiny-primordial-black-holes.html)
 * [2026-11-19, 14:08:33](https://news.ycombinator.com/item?id=50560314) - [Split Radiance Cascades](https://www.jacktollenaar.top/articles/split-rc.html)
 * [2026-11-19, 00:50:05](https://news.ycombinator.com/item?id=50554572) - [Reversing the Next-Page Prefetcher in Skylake-X](https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html)
-* [2026-11-18, 22:51:11](https://news.ycombinator.com/item?id=50553496) - [Pion Interceptor: WebRTC for Hackers](https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/)
 * [2026-11-18, 22:29:04](https://news.ycombinator.com/item?id=50553223) - [Shaping the Loops, Closing the Loops](https://revyl.com/blog/pattern-engineering/)
 * [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
 * [2026-11-18, 10:24:42](https://news.ycombinator.com/item?id=50544428) - [Reaktiv Workbook – A spreadsheet where every cell is Python](https://workbook.bui.app/)
