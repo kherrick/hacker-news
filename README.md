@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-22, 15:54:24](https://news.ycombinator.com/item?id=50600789) - [Norway to extend proposed under-16 social media ban to games and messaging apps](https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps)
 * [2026-11-22, 15:42:40](https://news.ycombinator.com/item?id=50600677) - [Europe weakens chemical rules as science links them to 'lifestyle diseases'](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
+* [2026-11-22, 15:24:32](https://news.ycombinator.com/item?id=50600511) - [A better internet for everyone is possible. Today](https://osw-alliance.net/en/)
+* [2026-11-22, 15:16:02](https://news.ycombinator.com/item?id=50600435) - [Backblaze customers worried of personal data sale/sharing after policy update](https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/)
 * [2026-11-22, 13:56:58](https://news.ycombinator.com/item?id=50599762) - [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
 * [2026-11-22, 13:37:10](https://news.ycombinator.com/item?id=50599583) - [U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels](https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html)
 * [2026-11-22, 09:57:01](https://news.ycombinator.com/item?id=50597959) - [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/)
@@ -15,7 +18,6 @@
 * [2026-11-21, 22:09:58](https://news.ycombinator.com/item?id=50594132) - [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
 * [2026-11-21, 21:17:53](https://news.ycombinator.com/item?id=50593737) - [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
 * [2026-11-21, 20:47:41](https://news.ycombinator.com/item?id=50593481) - [Pandex – Official European Law for AI Agents, over MCP](https://www.pandex.io)
-* [2026-11-21, 18:29:29](https://news.ycombinator.com/item?id=50592097) - [Upload2Shell (CVE-2026-125396)](https://pwn.ai/upload2shell)
 * [2026-11-21, 18:02:19](https://news.ycombinator.com/item?id=50591853) - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
 * [2026-11-21, 14:36:45](https://news.ycombinator.com/item?id=50589618) - [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 * [2026-11-21, 13:23:14](https://news.ycombinator.com/item?id=50588982) - [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
@@ -25,10 +27,8 @@
 * [2026-11-20, 12:40:06](https://news.ycombinator.com/item?id=50573870) - [Field Mice on Drugs](https://ambrook.com/offrange/livestock/field-mice-on-drugs)
 * [2026-11-19, 22:37:16](https://news.ycombinator.com/item?id=50567493) - [Celliad – a daily Excel game (French)](https://celliad.com/)
 * [2026-11-19, 21:15:47](https://news.ycombinator.com/item?id=50566495) - [Self-hosted library branch over public web OPDS](https://joinmayberry.com/)
-* [2026-11-19, 14:08:33](https://news.ycombinator.com/item?id=50560314) - [Split Radiance Cascades](https://www.jacktollenaar.top/articles/split-rc.html)
 * [2026-11-19, 01:37:45](https://news.ycombinator.com/item?id=50555002) - [Ask HN: Tips for transitioning from web development to embedded/firmware?](https://news.ycombinator.com/item?id=50555002)
 * [2026-11-18, 17:42:57](https://news.ycombinator.com/item?id=50549457) - [String Art Font (2017)](https://erikdemaine.org/fonts/stringart/)
-* [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
 * [2026-11-17, 16:35:46](https://news.ycombinator.com/item?id=50533945) - [A real Linux kernel, compiled to WebAssembly](https://github.com/pithings/unkernel)
 
 ## [Archives](archives/index.md)
