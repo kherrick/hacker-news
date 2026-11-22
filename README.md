@@ -3,7 +3,7 @@
 * [2026-11-22, 07:01:00](https://news.ycombinator.com/item?id=50597014) - [The Engineering Manager's role is under attack (again)](https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again)
 * [2026-11-22, 06:52:25](https://news.ycombinator.com/item?id=50596960) - [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
 * [2026-11-22, 05:46:30](https://news.ycombinator.com/item?id=50596664) - [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)
-* [2026-11-22, 05:11:43](https://news.ycombinator.com/item?id=50596511) - [AI Supply Chain Security: What Canary Tokens Found](https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens)
+* [2026-11-22, 04:10:09](https://news.ycombinator.com/item?id=50596155) - [Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow](https://github.com/EL4CTEO/fast-anything)
 * [2026-11-22, 04:04:56](https://news.ycombinator.com/item?id=50596133) - [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
 * [2026-11-22, 03:07:27](https://news.ycombinator.com/item?id=50595816) - [Together.ai: Prompt Leakage for Requests](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026)
 * [2026-11-22, 02:14:14](https://news.ycombinator.com/item?id=50595554) - [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
@@ -16,8 +16,6 @@
 * [2026-11-21, 20:47:41](https://news.ycombinator.com/item?id=50593481) - [Pandex – Official European Law for AI Agents, over MCP](https://www.pandex.io)
 * [2026-11-21, 18:29:29](https://news.ycombinator.com/item?id=50592097) - [Upload2Shell (CVE-2026-125396)](https://pwn.ai/upload2shell)
 * [2026-11-21, 18:02:19](https://news.ycombinator.com/item?id=50591853) - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
-* [2026-11-21, 17:08:04](https://news.ycombinator.com/item?id=50591260) - [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/)
-* [2026-11-21, 15:54:34](https://news.ycombinator.com/item?id=50590441) - [Verification files for the Lean proof of the Riemann Hypothesis](https://math.mit.edu/~drew/grh/)
 * [2026-11-21, 15:39:09](https://news.ycombinator.com/item?id=50590279) - [Show HN: Zero C# – C# without a runtime or GC](https://onurgumus.github.io/zero-csharp/index.html)
 * [2026-11-21, 14:36:45](https://news.ycombinator.com/item?id=50589618) - [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 * [2026-11-21, 13:23:14](https://news.ycombinator.com/item?id=50588982) - [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
@@ -28,8 +26,10 @@
 * [2026-11-20, 18:33:14](https://news.ycombinator.com/item?id=50579568) - [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
 * [2026-11-20, 03:37:41](https://news.ycombinator.com/item?id=50569846) - [If tiny 'primordial' black holes exist](https://phys.org/news/2026-11-tiny-primordial-black-holes.html)
 * [2026-11-19, 14:08:33](https://news.ycombinator.com/item?id=50560314) - [Split Radiance Cascades](https://www.jacktollenaar.top/articles/split-rc.html)
+* [2026-11-19, 00:50:05](https://news.ycombinator.com/item?id=50554572) - [Reversing the Next-Page Prefetcher in Skylake-X](https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html)
 * [2026-11-18, 22:29:04](https://news.ycombinator.com/item?id=50553223) - [Shaping the Loops, Closing the Loops](https://revyl.com/blog/pattern-engineering/)
 * [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
+* [2026-11-13, 17:53:42](https://news.ycombinator.com/item?id=50487155) - [Show HN: Compile the same source for GPUs and CPUs](https://github.com/ThrudTheBarbarian/xc)
 
 ## [Archives](archives/index.md)
 
