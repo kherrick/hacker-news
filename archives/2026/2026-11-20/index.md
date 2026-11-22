@@ -61,6 +61,7 @@
 * [2026-11-20, 10:01:41](https://news.ycombinator.com/item?id=50572503) - [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
 * [2026-11-20, 09:54:33](https://news.ycombinator.com/item?id=50572448) - [What people are building, discovered through new domains](https://startups.novumsignals.com/)
 * [2026-11-20, 09:52:20](https://news.ycombinator.com/item?id=50572430) - [UK fridges secured from hackers in secret nationwide operation](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o)
+* [2026-11-20, 09:47:15](https://news.ycombinator.com/item?id=50572389) - [Show HN: Deflate X-Ray, See inside a compressed file](https://hrih.si/projects/deflate-xray/)
 * [2026-11-20, 09:43:19](https://news.ycombinator.com/item?id=50572355) - [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
 * [2026-11-20, 09:42:16](https://news.ycombinator.com/item?id=50572348) - [Signal Is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 * [2026-11-20, 09:24:53](https://news.ycombinator.com/item?id=50572217) - [Infinite scroll and autoplay are fuelling a global problem](https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue)
