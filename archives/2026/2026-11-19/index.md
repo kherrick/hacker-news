@@ -8,6 +8,7 @@
 * [2026-11-19, 23:32:11](https://news.ycombinator.com/item?id=50568082) - [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)
 * [2026-11-19, 23:23:16](https://news.ycombinator.com/item?id=50568019) - [Tin vs. Aluminum Foil in hat making applications](https://tinfoil.wtf/dispatches/tin-to-aluminum-switch/)
 * [2026-11-19, 22:56:59](https://news.ycombinator.com/item?id=50567735) - [Court: 4th Amendment Doesn't Cover AI-Generated 'Probable Cause'](https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/)
+* [2026-11-19, 22:37:16](https://news.ycombinator.com/item?id=50567493) - [Celliad – a daily Excel game (French)](https://celliad.com/)
 * [2026-11-19, 22:27:07](https://news.ycombinator.com/item?id=50567374) - [RegExr: Temporarily Offline](https://regexr.com/)
 * [2026-11-19, 22:13:40](https://news.ycombinator.com/item?id=50567209) - [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
 * [2026-11-19, 21:15:47](https://news.ycombinator.com/item?id=50566495) - [Self-hosted library branch over public web OPDS](https://joinmayberry.com/)
