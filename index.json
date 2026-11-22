@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-11-21, 17:08:04",
-      "https://news.ycombinator.com/item?id=50591260"
-    ],
-    [
-      "PostgreSQL Extensions in Go",
-      "https://jespino.github.io/gopgext/"
-    ]
-  ],
-  [
-    [
       "2026-11-21, 14:36:45",
       "https://news.ycombinator.com/item?id=50589618"
     ],
@@ -287,6 +277,16 @@
     [
       "Reaktiv Workbook – A spreadsheet where every cell is Python",
       "https://workbook.bui.app/"
+    ]
+  ],
+  [
+    [
+      "2026-11-17, 16:35:46",
+      "https://news.ycombinator.com/item?id=50533945"
+    ],
+    [
+      "A real Linux kernel, compiled to WebAssembly",
+      "https://github.com/pithings/unkernel"
     ]
   ],
   [
