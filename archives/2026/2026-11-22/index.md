@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-22](index.md)
 
+* [2026-11-22, 23:12:10](https://news.ycombinator.com/item?id=50605045) - [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
 * [2026-11-22, 23:06:37](https://news.ycombinator.com/item?id=50604988) - [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
+* [2026-11-22, 23:02:20](https://news.ycombinator.com/item?id=50604959) - [Do Not Accept](https://donotaccept.ai/)
 * [2026-11-22, 22:41:33](https://news.ycombinator.com/item?id=50604742) - [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philpapers.org/rec/NIEIOT-2)
 * [2026-11-22, 22:10:58](https://news.ycombinator.com/item?id=50604472) - [The Usefulness of Useless Knowledge [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2026-11-22, 21:53:45](https://news.ycombinator.com/item?id=50604314) - [Agent swarm trying to solve P vs. NP](https://pequalnp.com/)
