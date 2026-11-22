@@ -141,26 +141,6 @@
   ],
   [
     [
-      "2026-11-21, 17:08:04",
-      "https://news.ycombinator.com/item?id=50591260"
-    ],
-    [
-      "PostgreSQL Extensions in Go",
-      "https://jespino.github.io/gopgext/"
-    ]
-  ],
-  [
-    [
-      "2026-11-21, 15:54:34",
-      "https://news.ycombinator.com/item?id=50590441"
-    ],
-    [
-      "Verification files for the Lean proof of the Riemann Hypothesis",
-      "https://math.mit.edu/~drew/grh/"
-    ]
-  ],
-  [
-    [
       "2026-11-21, 15:39:09",
       "https://news.ycombinator.com/item?id=50590279"
     ],
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-11-18, 22:51:11",
+      "https://news.ycombinator.com/item?id=50553496"
+    ],
+    [
+      "Pion Interceptor: WebRTC for Hackers",
+      "https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/"
+    ]
+  ],
+  [
+    [
       "2026-11-18, 22:29:04",
       "https://news.ycombinator.com/item?id=50553223"
     ],
@@ -287,6 +277,16 @@
     [
       "LLMs can read and write executables byte by byte from a hex dump",
       "https://sgiannopoulos.github.io/blog/machine-code-programming/"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 10:24:42",
+      "https://news.ycombinator.com/item?id=50544428"
+    ],
+    [
+      "Reaktiv Workbook – A spreadsheet where every cell is Python",
+      "https://workbook.bui.app/"
     ]
   ],
   [
