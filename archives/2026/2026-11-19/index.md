@@ -65,6 +65,7 @@
 * [2026-11-19, 05:46:36](https://news.ycombinator.com/item?id=50556482) - [Fewer slides, more dragons](https://www.breakingchange.blog/p/fewer-slides-more-dragons)
 * [2026-11-19, 05:09:11](https://news.ycombinator.com/item?id=50556287) - [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)
 * [2026-11-19, 01:51:28](https://news.ycombinator.com/item?id=50555093) - [AI Will Not Make You Rich (2025)](https://colossus.com/article/ai-will-not-make-you-rich/)
+* [2026-11-19, 01:37:45](https://news.ycombinator.com/item?id=50555002) - [Ask HN: Tips for transitioning from web development to embedded/firmware?](https://news.ycombinator.com/item?id=50555002)
 * [2026-11-19, 01:33:52](https://news.ycombinator.com/item?id=50554973) - [Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools](https://adeindex.com)
 * [2026-11-19, 01:30:43](https://news.ycombinator.com/item?id=50554941) - [FailTrace – Reproduce a failed GitHub Actions run locally from its URL](https://github.com/Ri4dH/failtrace)
 * [2026-11-19, 01:29:29](https://news.ycombinator.com/item?id=50554935) - [Unreal Tournament 2004 in the Browser](https://ut2004.dev/)
