@@ -27,9 +27,9 @@
 * [2026-11-20, 12:40:06](https://news.ycombinator.com/item?id=50573870) - [Field Mice on Drugs](https://ambrook.com/offrange/livestock/field-mice-on-drugs)
 * [2026-11-19, 21:44:50](https://news.ycombinator.com/item?id=50566886) - [What Makes UltraSMR Different?](https://blog.westerndigital.com/what-is-ultrasmr-technology/)
 * [2026-11-19, 21:15:47](https://news.ycombinator.com/item?id=50566495) - [Self-hosted library branch over public web OPDS](https://joinmayberry.com/)
+* [2026-11-19, 16:26:51](https://news.ycombinator.com/item?id=50562207) - [Inside PyPy: First Contact with RPython](https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/)
 * [2026-11-19, 01:37:45](https://news.ycombinator.com/item?id=50555002) - [Ask HN: Tips for transitioning from web development to embedded/firmware?](https://news.ycombinator.com/item?id=50555002)
 * [2026-11-18, 20:04:28](https://news.ycombinator.com/item?id=50551397) - [The Where's Waldo of the 1500s](https://blog.alexbeals.com/posts/il-civetta)
-* [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
 
 ## [Archives](archives/index.md)
 

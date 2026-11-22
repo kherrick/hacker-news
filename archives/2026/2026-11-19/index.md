@@ -29,6 +29,7 @@
 * [2026-11-19, 16:45:50](https://news.ycombinator.com/item?id=50562500) - [AI isn't replacing your job. It's turning it into low-paid gig work](https://restofworld.org/2026/ai-jobs-skills-gig-work/)
 * [2026-11-19, 16:34:04](https://news.ycombinator.com/item?id=50562320) - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
 * [2026-11-19, 16:30:18](https://news.ycombinator.com/item?id=50562262) - [Fuck Your AI Safeguards](https://ounapuu.ee/posts/2026/11/19/unsafeguards/)
+* [2026-11-19, 16:26:51](https://news.ycombinator.com/item?id=50562207) - [Inside PyPy: First Contact with RPython](https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/)
 * [2026-11-19, 16:24:31](https://news.ycombinator.com/item?id=50562160) - [ICE Is Paying AT&T to Dig Through a Mountain of Call Records](https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/)
 * [2026-11-19, 16:21:03](https://news.ycombinator.com/item?id=50562113) - [UK Government Forced to Admit It Issued Apple a Secret Encryption Order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
 * [2026-11-19, 16:20:12](https://news.ycombinator.com/item?id=50562101) - [Google Chrome dev team declares bug report bankruptcy](https://blog.plover.com/tech/bug-reports.html)
