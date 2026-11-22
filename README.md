@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-22, 02:14:14](https://news.ycombinator.com/item?id=50595554) - [OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
 * [2026-11-22, 00:57:26](https://news.ycombinator.com/item?id=50595168) - [Leonida – PC Recompilation of the Xbox Version of GTA 6](https://github.com/ItsNotRexed/Leonida)
 * [2026-11-22, 00:07:59](https://news.ycombinator.com/item?id=50594911) - [Sandwich Simulator](https://stulle.app/)
 * [2026-11-21, 22:09:58](https://news.ycombinator.com/item?id=50594132) - [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
@@ -22,7 +23,6 @@
 * [2026-11-20, 20:12:19](https://news.ycombinator.com/item?id=50581260) - [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
 * [2026-11-20, 18:33:14](https://news.ycombinator.com/item?id=50579568) - [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
 * [2026-11-20, 18:17:51](https://news.ycombinator.com/item?id=50579331) - [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
-* [2026-11-20, 17:21:36](https://news.ycombinator.com/item?id=50578358) - [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
 * [2026-11-20, 17:03:39](https://news.ycombinator.com/item?id=50577991) - [I'm quite pleased by the tech architecture of my art website](https://klauria.tech/klauria-art/)
 * [2026-11-20, 15:03:31](https://news.ycombinator.com/item?id=50575644) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 * [2026-11-19, 12:34:54](https://news.ycombinator.com/item?id=50559295) - [Unit-testing in the Ü programming language](https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html)
