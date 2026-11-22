@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-22, 13:46:12",
+      "https://news.ycombinator.com/item?id=50599667"
+    ],
+    [
+      "Blackberry releases secure browser for Windows",
+      "https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows"
+    ]
+  ],
+  [
+    [
+      "2026-11-22, 13:19:47",
+      "https://news.ycombinator.com/item?id=50599444"
+    ],
+    [
+      "South Korea education minister resigns over exam cheating scandal",
+      "https://www.bbc.com/news/articles/cw3dgk29d37no"
+    ]
+  ],
+  [
+    [
       "2026-11-22, 13:00:52",
       "https://news.ycombinator.com/item?id=50599313"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-11-21, 08:32:58",
-      "https://news.ycombinator.com/item?id=50587208"
-    ],
-    [
-      "GnuPG Security Advisory for GPGME",
-      "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
-    ]
-  ],
-  [
-    [
       "2026-11-20, 22:11:05",
       "https://news.ycombinator.com/item?id=50583028"
     ],
@@ -257,16 +267,6 @@
     [
       "Is 'fork' missing operation in sandboxes?",
       "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable"
-    ]
-  ],
-  [
-    [
-      "2026-11-19, 00:50:05",
-      "https://news.ycombinator.com/item?id=50554572"
-    ],
-    [
-      "Reversing the Next-Page Prefetcher in Skylake-X",
-      "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html"
     ]
   ],
   [
