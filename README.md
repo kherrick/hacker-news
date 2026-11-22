@@ -25,11 +25,11 @@
 * [2026-11-20, 21:03:12](https://news.ycombinator.com/item?id=50582069) - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
 * [2026-11-20, 15:03:31](https://news.ycombinator.com/item?id=50575644) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
 * [2026-11-19, 14:08:33](https://news.ycombinator.com/item?id=50560314) - [Split Radiance Cascades](https://www.jacktollenaar.top/articles/split-rc.html)
-* [2026-11-19, 12:34:54](https://news.ycombinator.com/item?id=50559295) - [Unit-testing in the Ü programming language](https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html)
+* [2026-11-18, 22:51:11](https://news.ycombinator.com/item?id=50553496) - [Pion Interceptor: WebRTC for Hackers](https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/)
 * [2026-11-18, 22:29:04](https://news.ycombinator.com/item?id=50553223) - [Shaping the Loops, Closing the Loops](https://revyl.com/blog/pattern-engineering/)
 * [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
-* [2026-11-18, 14:07:09](https://news.ycombinator.com/item?id=50546495) - [Exponential Behavior in Magic: The Gathering](https://levineuwirth.org/essays/exponential-magic/)
 * [2026-11-18, 10:24:42](https://news.ycombinator.com/item?id=50544428) - [Reaktiv Workbook – A spreadsheet where every cell is Python](https://workbook.bui.app/)
+* [2026-11-13, 17:53:42](https://news.ycombinator.com/item?id=50487155) - [Show HN: Compile the same source for GPUs and CPUs](https://github.com/ThrudTheBarbarian/xc)
 
 ## [Archives](archives/index.md)
 
