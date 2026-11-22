@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-22, 17:06:27](https://news.ycombinator.com/item?id=50601525) - [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
 * [2026-11-22, 15:52:33](https://news.ycombinator.com/item?id=50600771) - [Ask HN: Are the trades a safe career transition?](https://news.ycombinator.com/item?id=50600771)
 * [2026-11-22, 15:42:40](https://news.ycombinator.com/item?id=50600677) - [Europe weakens chemical rules as science links them to 'lifestyle diseases'](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
 * [2026-11-22, 15:35:24](https://news.ycombinator.com/item?id=50600622) - [I joined the NTP Pool, but not with my Stratum 1 Pi](https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/)
@@ -17,7 +18,6 @@
 * [2026-11-21, 22:15:39](https://news.ycombinator.com/item?id=50594182) - [A Better Vocabulary for Testing](https://alperenkeles.com/posts/vocab-for-testing/)
 * [2026-11-21, 22:09:58](https://news.ycombinator.com/item?id=50594132) - [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
 * [2026-11-21, 21:17:53](https://news.ycombinator.com/item?id=50593737) - [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
-* [2026-11-21, 20:47:41](https://news.ycombinator.com/item?id=50593481) - [Pandex – Official European Law for AI Agents, over MCP](https://www.pandex.io)
 * [2026-11-21, 18:02:19](https://news.ycombinator.com/item?id=50591853) - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
 * [2026-11-21, 14:36:45](https://news.ycombinator.com/item?id=50589618) - [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 * [2026-11-21, 13:23:14](https://news.ycombinator.com/item?id=50588982) - [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)

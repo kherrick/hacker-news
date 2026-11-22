@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-22](index.md)
 
+* [2026-11-22, 17:06:27](https://news.ycombinator.com/item?id=50601525) - [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
 * [2026-11-22, 15:54:24](https://news.ycombinator.com/item?id=50600789) - [Norway to extend proposed under-16 social media ban to games and messaging apps](https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps)
 * [2026-11-22, 15:52:33](https://news.ycombinator.com/item?id=50600771) - [Ask HN: Are the trades a safe career transition?](https://news.ycombinator.com/item?id=50600771)
 * [2026-11-22, 15:42:40](https://news.ycombinator.com/item?id=50600677) - [Europe weakens chemical rules as science links them to 'lifestyle diseases'](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
