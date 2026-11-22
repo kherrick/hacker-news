@@ -25,7 +25,7 @@
 * [2026-11-20, 22:11:05](https://news.ycombinator.com/item?id=50583028) - [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body)
 * [2026-11-20, 21:03:12](https://news.ycombinator.com/item?id=50582069) - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
 * [2026-11-20, 12:40:06](https://news.ycombinator.com/item?id=50573870) - [Field Mice on Drugs](https://ambrook.com/offrange/livestock/field-mice-on-drugs)
-* [2026-11-19, 22:37:16](https://news.ycombinator.com/item?id=50567493) - [Celliad – a daily Excel game (French)](https://celliad.com/)
+* [2026-11-19, 21:44:50](https://news.ycombinator.com/item?id=50566886) - [What Makes UltraSMR Different?](https://blog.westerndigital.com/what-is-ultrasmr-technology/)
 * [2026-11-19, 21:15:47](https://news.ycombinator.com/item?id=50566495) - [Self-hosted library branch over public web OPDS](https://joinmayberry.com/)
 * [2026-11-19, 01:37:45](https://news.ycombinator.com/item?id=50555002) - [Ask HN: Tips for transitioning from web development to embedded/firmware?](https://news.ycombinator.com/item?id=50555002)
 * [2026-11-18, 20:04:28](https://news.ycombinator.com/item?id=50551397) - [The Where's Waldo of the 1500s](https://blog.alexbeals.com/posts/il-civetta)
