@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-22](index.md)
 
+* [2026-11-22, 08:57:34](https://news.ycombinator.com/item?id=50597612) - [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
 * [2026-11-22, 08:36:29](https://news.ycombinator.com/item?id=50597505) - [Man Claiming to Be Fired Rockstar Engineer Says GTA 6 Is Tracking Behavior](https://www.gadgetreview.com/man-claiming-to-be-fired-rockstar-engineer-says-gta-6-is-secretly-tracking-player-behavior-and-reporting-it-to-take-two)
 * [2026-11-22, 07:01:00](https://news.ycombinator.com/item?id=50597014) - [The Engineering Manager's role is under attack (again)](https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again)
 * [2026-11-22, 06:52:25](https://news.ycombinator.com/item?id=50596960) - [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
