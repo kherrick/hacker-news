@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-22, 08:57:34",
+      "https://news.ycombinator.com/item?id=50597612"
+    ],
+    [
+      "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
+    ]
+  ],
+  [
+    [
       "2026-11-22, 06:52:25",
       "https://news.ycombinator.com/item?id=50596960"
     ],
@@ -127,16 +137,6 @@
     [
       "Inkling-2-Mini in 5.4 GB Memory",
       "https://github.com/ShinMegamiBoson/lookatmyquant"
-    ]
-  ],
-  [
-    [
-      "2026-11-21, 17:08:04",
-      "https://news.ycombinator.com/item?id=50591260"
-    ],
-    [
-      "PostgreSQL Extensions in Go",
-      "https://jespino.github.io/gopgext/"
     ]
   ],
   [
