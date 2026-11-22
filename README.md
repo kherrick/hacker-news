@@ -29,7 +29,7 @@
 * [2026-11-19, 21:15:47](https://news.ycombinator.com/item?id=50566495) - [Self-hosted library branch over public web OPDS](https://joinmayberry.com/)
 * [2026-11-19, 01:37:45](https://news.ycombinator.com/item?id=50555002) - [Ask HN: Tips for transitioning from web development to embedded/firmware?](https://news.ycombinator.com/item?id=50555002)
 * [2026-11-18, 17:42:57](https://news.ycombinator.com/item?id=50549457) - [String Art Font (2017)](https://erikdemaine.org/fonts/stringart/)
-* [2026-11-17, 16:35:46](https://news.ycombinator.com/item?id=50533945) - [A real Linux kernel, compiled to WebAssembly](https://github.com/pithings/unkernel)
+* [2026-11-18, 14:15:58](https://news.ycombinator.com/item?id=50546587) - [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
 
 ## [Archives](archives/index.md)
 
