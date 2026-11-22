@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-22, 22:10:58](https://news.ycombinator.com/item?id=50604472) - [The Usefulness of Useless Knowledge [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
+* [2026-11-22, 21:53:45](https://news.ycombinator.com/item?id=50604314) - [Agent swarm trying to solve P vs. NP](https://pequalnp.com/)
+* [2026-11-22, 21:33:12](https://news.ycombinator.com/item?id=50604123) - [The struggle for freedom: How BSD escaped AT&T licensing](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/)
 * [2026-11-22, 21:13:10](https://news.ycombinator.com/item?id=50603962) - [Will the first approved psychedelic become a blockbuster?](https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/)
 * [2026-11-22, 21:01:16](https://news.ycombinator.com/item?id=50603845) - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
 * [2026-11-22, 20:50:18](https://news.ycombinator.com/item?id=50603730) - [AWS got hit by an outage too. You didn't hear about it](https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511)
@@ -22,8 +24,6 @@
 * [2026-11-22, 04:04:56](https://news.ycombinator.com/item?id=50596133) - [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
 * [2026-11-22, 00:07:59](https://news.ycombinator.com/item?id=50594911) - [Sandwich Simulator](https://stulle.app/)
 * [2026-11-21, 22:15:39](https://news.ycombinator.com/item?id=50594182) - [A Better Vocabulary for Testing](https://alperenkeles.com/posts/vocab-for-testing/)
-* [2026-11-21, 18:02:19](https://news.ycombinator.com/item?id=50591853) - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
-* [2026-11-20, 21:03:12](https://news.ycombinator.com/item?id=50582069) - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
 * [2026-11-19, 16:26:51](https://news.ycombinator.com/item?id=50562207) - [Inside PyPy: First Contact with RPython](https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/)
 * [2026-11-19, 12:50:25](https://news.ycombinator.com/item?id=50559441) - [The Transvoxel Algorithm](https://transvoxel.org/)
 * [2026-11-19, 05:02:09](https://news.ycombinator.com/item?id=50556249) - [Agentics: Mushy Software](https://12gramsofcarbon.com/p/agentics-mushy-software)
