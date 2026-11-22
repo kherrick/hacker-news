@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-22, 09:18:36",
+      "https://news.ycombinator.com/item?id=50597743"
+    ],
+    [
+      "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+      "https://arxiv.org/abs/2606.14068"
+    ]
+  ],
+  [
+    [
       "2026-11-22, 08:57:34",
       "https://news.ycombinator.com/item?id=50597612"
     ],
@@ -137,16 +147,6 @@
     [
       "PostgreSQL Extensions in Go",
       "https://jespino.github.io/gopgext/"
-    ]
-  ],
-  [
-    [
-      "2026-11-21, 15:54:34",
-      "https://news.ycombinator.com/item?id=50590441"
-    ],
-    [
-      "Verification files for the Lean proof of the Riemann Hypothesis",
-      "https://math.mit.edu/~drew/grh/"
     ]
   ],
   [
