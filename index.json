@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-11-22, 03:07:27",
+      "https://news.ycombinator.com/item?id=50595816"
+    ],
+    [
+      "Together.ai: Prompt Leakage for Requests",
+      "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
+    ]
+  ],
+  [
+    [
       "2026-11-22, 02:14:14",
       "https://news.ycombinator.com/item?id=50595554"
     ],
@@ -287,16 +297,6 @@
     [
       "LLMs can read and write executables byte by byte from a hex dump",
       "https://sgiannopoulos.github.io/blog/machine-code-programming/"
-    ]
-  ],
-  [
-    [
-      "2026-11-18, 14:07:09",
-      "https://news.ycombinator.com/item?id=50546495"
-    ],
-    [
-      "Exponential Behavior in Magic: The Gathering",
-      "https://levineuwirth.org/essays/exponential-magic/"
     ]
   ]
 ]
