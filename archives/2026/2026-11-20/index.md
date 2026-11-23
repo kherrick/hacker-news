@@ -11,6 +11,7 @@
 * [2026-11-20, 23:29:30](https://news.ycombinator.com/item?id=50583856) - [Serious cyberattack thought backed by wealthy operators](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411)
 * [2026-11-20, 23:19:44](https://news.ycombinator.com/item?id=50583768) - [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
 * [2026-11-20, 23:18:32](https://news.ycombinator.com/item?id=50583761) - [Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761)
+* [2026-11-20, 22:56:20](https://news.ycombinator.com/item?id=50583535) - [Reviving the Donkey Car with Erlang](https://underjord.io/reviving-the-donkey-car-with-erlang.html)
 * [2026-11-20, 22:46:59](https://news.ycombinator.com/item?id=50583445) - [AI may have solved the most important problem in mathematics](https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics)
 * [2026-11-20, 22:30:47](https://news.ycombinator.com/item?id=50583274) - [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
 * [2026-11-20, 22:29:06](https://news.ycombinator.com/item?id=50583254) - [Nasdaq erases all 2026 gains](https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html)
