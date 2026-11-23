@@ -2,6 +2,7 @@
 
 * [2026-11-23, 17:19:25](https://news.ycombinator.com/item?id=50615520) - [How should an LLM see a computer?](https://www.greptile.com/blog/trex-computer-use)
 * [2026-11-23, 17:17:01](https://news.ycombinator.com/item?id=50615481) - [Kagi Mail (public beta)](https://blog.kagi.com/kagi-mail-public-beta)
+* [2026-11-23, 17:07:26](https://news.ycombinator.com/item?id=50615308) - [Dario is hyping the dangers so OSS models are illegal and *he* stays in control](https://twitter.com/ylecun/status/2124550037912920090)
 * [2026-11-23, 17:00:05](https://news.ycombinator.com/item?id=50615161) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers/)
 * [2026-11-23, 16:13:12](https://news.ycombinator.com/item?id=50614249) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
 * [2026-11-23, 14:49:44](https://news.ycombinator.com/item?id=50612686) - [Cyberleek posted the GTA 6 Xbox build executable](https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/)
@@ -29,7 +30,6 @@
 * [2026-11-20, 20:57:16](https://news.ycombinator.com/item?id=50581961) - [Brake Check: Hijacking Trailer Brakes over Bluetooth](https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/)
 * [2026-11-20, 16:41:54](https://news.ycombinator.com/item?id=50577534) - [Let's Meet in the Middle](https://george.mand.is/2026/11/lets-meet-in-the-middle/)
 * [2026-11-20, 13:32:42](https://news.ycombinator.com/item?id=50574412) - [Show HN: Drive around my village in 3D](https://cherwellvalleymotorclub.app)
-* [2026-11-18, 15:43:29](https://news.ycombinator.com/item?id=50547698) - [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527)
 
 ## [Archives](archives/index.md)
 

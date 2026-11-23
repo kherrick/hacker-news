@@ -6,6 +6,7 @@
 
 * [2026-11-23, 17:19:25](https://news.ycombinator.com/item?id=50615520) - [How should an LLM see a computer?](https://www.greptile.com/blog/trex-computer-use)
 * [2026-11-23, 17:17:01](https://news.ycombinator.com/item?id=50615481) - [Kagi Mail is here (Public Beta)](https://blog.kagi.com/kagi-mail-public-beta)
+* [2026-11-23, 17:07:26](https://news.ycombinator.com/item?id=50615308) - [Dario is hyping the dangers so OSS models are illegal and *he* stays in control](https://twitter.com/ylecun/status/2124550037912920090)
 * [2026-11-23, 17:00:05](https://news.ycombinator.com/item?id=50615161) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers/)
 * [2026-11-23, 16:13:12](https://news.ycombinator.com/item?id=50614249) - [Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/)
 * [2026-11-23, 16:01:20](https://news.ycombinator.com/item?id=50614037) - [Buckle Up the AI Bubble Is Popping](https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/)
