@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-23, 22:23:04](https://news.ycombinator.com/item?id=50620252) - [VP != VNP over Every Field [pdf]](https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf)
+* [2026-11-23, 22:09:10](https://news.ycombinator.com/item?id=50620102) - [VP ≠ VNP over Every Field](https://github.com/anthropics/formal-math/tree/main/vp-vnp)
 * [2026-11-23, 21:01:16](https://news.ycombinator.com/item?id=50619207) - [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)
 * [2026-11-23, 20:59:12](https://news.ycombinator.com/item?id=50619186) - [The horse made the state](https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist)
 * [2026-11-23, 20:52:54](https://news.ycombinator.com/item?id=50619103) - [GPUI is getting its own repository](https://github.com/zed-industries/gpui)
@@ -20,8 +22,6 @@
 * [2026-11-23, 10:06:43](https://news.ycombinator.com/item?id=50609685) - [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4)
 * [2026-11-23, 03:49:24](https://news.ycombinator.com/item?id=50607261) - [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)
 * [2026-11-23, 01:13:51](https://news.ycombinator.com/item?id=50606192) - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
-* [2026-11-22, 23:57:45](https://news.ycombinator.com/item?id=50605479) - [Nespresso's project to reduce grams of coffee per capsule](https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/)
-* [2026-11-22, 21:01:16](https://news.ycombinator.com/item?id=50603845) - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
 * [2026-11-22, 18:40:57](https://news.ycombinator.com/item?id=50602561) - [Show HN: Type-C – variants, options, generics and pattern matching for C](https://github.com/stass/type-c)
 * [2026-11-22, 00:13:17](https://news.ycombinator.com/item?id=50594935) - [Derivative Flipping](http://blog.sigfpe.com/2026/11/derivative-flipping.html)
 * [2026-11-21, 09:14:02](https://news.ycombinator.com/item?id=50587439) - [Spacecraft reaches Mercury on second-ever mission to enter its orbit](https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo)
