@@ -79,6 +79,7 @@
 * [2026-11-20, 03:37:41](https://news.ycombinator.com/item?id=50569846) - [If tiny 'primordial' black holes exist](https://phys.org/news/2026-11-tiny-primordial-black-holes.html)
 * [2026-11-20, 02:44:13](https://news.ycombinator.com/item?id=50569519) - [What Comes After AGI?](https://institute.deepmind.com/essays/what-comes-after-agi/)
 * [2026-11-20, 02:43:49](https://news.ycombinator.com/item?id=50569516) - [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
+* [2026-11-20, 02:40:48](https://news.ycombinator.com/item?id=50569505) - [LittleBit: Ultra Low-Bit Quantization via Latent Factorization](https://arxiv.org/abs/2506.13771)
 * [2026-11-20, 02:01:09](https://news.ycombinator.com/item?id=50569226) - [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
 * [2026-11-20, 01:06:12](https://news.ycombinator.com/item?id=50568861) - [Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
 * [2026-11-20, 00:37:31](https://news.ycombinator.com/item?id=50568643) - [Postgres 19 is out, and it's available on Neon and Databricks Lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase)
