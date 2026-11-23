@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-11-23, 08:51:50",
-      "https://news.ycombinator.com/item?id=50609079"
-    ],
-    [
-      "GTA 6 building personal behavioral profile for every player",
-      "https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve"
-    ]
-  ],
-  [
-    [
       "2026-11-23, 07:01:08",
       "https://news.ycombinator.com/item?id=50608390"
     ],
@@ -87,6 +77,16 @@
     [
       "What we learned operating auth for 1k APIs",
       "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/"
+    ]
+  ],
+  [
+    [
+      "2026-11-22, 23:53:00",
+      "https://news.ycombinator.com/item?id=50605445"
+    ],
+    [
+      "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "https://0rwx.com/"
     ]
   ],
   [
