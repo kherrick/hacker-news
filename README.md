@@ -2,7 +2,6 @@
 
 * [2026-11-23, 11:34:16](https://news.ycombinator.com/item?id=50610334) - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
 * [2026-11-23, 10:06:43](https://news.ycombinator.com/item?id=50609685) - [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)
-* [2026-11-23, 09:15:09](https://news.ycombinator.com/item?id=50609252) - [Enjoy this guy getting bricked over the detail of towers in GTA6](https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v)
 * [2026-11-23, 07:01:08](https://news.ycombinator.com/item?id=50608390) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)
 * [2026-11-23, 05:00:49](https://news.ycombinator.com/item?id=50607668) - [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
 * [2026-11-23, 04:51:48](https://news.ycombinator.com/item?id=50607627) - [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
@@ -29,6 +28,7 @@
 * [2026-11-20, 13:32:42](https://news.ycombinator.com/item?id=50574412) - [Show HN: Drive around my village in 3D](https://cherwellvalleymotorclub.app)
 * [2026-11-20, 02:40:48](https://news.ycombinator.com/item?id=50569505) - [LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)](https://arxiv.org/abs/2506.13771)
 * [2026-11-19, 14:27:07](https://news.ycombinator.com/item?id=50560563) - [The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy](https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy)
+* [2026-11-19, 13:52:42](https://news.ycombinator.com/item?id=50560120) - [De-fanging dangerous triggers in GitHub Actions across an organization](https://alpha-omega.dev/blog/de-fanging-dangerous-triggers-in-github-actions-across-an-organization/)
 * [2026-11-18, 15:43:29](https://news.ycombinator.com/item?id=50547698) - [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527)
 
 ## [Archives](archives/index.md)
