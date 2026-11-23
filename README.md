@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-23, 13:02:52](https://news.ycombinator.com/item?id=50611026) - [Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites](https://github.com/ruairidhflint/news-blocklist)
 * [2026-11-23, 12:41:14](https://news.ycombinator.com/item?id=50610830) - [Amodei reportedly suggested games could pacify masses after AI took their jobs](https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness)
 * [2026-11-23, 12:28:11](https://news.ycombinator.com/item?id=50610743) - [Win4wine – Run Windows Shell as the Linux Desktop on Wine](https://github.com/mikuta0407/win4wine)
 * [2026-11-23, 11:34:16](https://news.ycombinator.com/item?id=50610334) - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
@@ -21,7 +22,6 @@
 * [2026-11-22, 19:41:30](https://news.ycombinator.com/item?id=50603143) - [Assume People Are Not Interested in Your Blog Post](https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/)
 * [2026-11-22, 19:10:34](https://news.ycombinator.com/item?id=50602843) - [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
 * [2026-11-22, 17:06:27](https://news.ycombinator.com/item?id=50601525) - [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
-* [2026-11-22, 13:56:58](https://news.ycombinator.com/item?id=50599762) - [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
 * [2026-11-22, 10:59:56](https://news.ycombinator.com/item?id=50598441) - [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/)
 * [2026-11-21, 10:14:11](https://news.ycombinator.com/item?id=50587750) - [MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash](https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/)
 * [2026-11-21, 00:47:57](https://news.ycombinator.com/item?id=50584526) - [Elixir HLS makes FPGA circuits from functions written in Elixir](https://github.com/elixir-hls/elixir-hls)
