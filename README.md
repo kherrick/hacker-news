@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-23, 03:49:24](https://news.ycombinator.com/item?id=50607261) - [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)
+* [2026-11-23, 03:34:29](https://news.ycombinator.com/item?id=50607194) - [The New Docker: Built to Run on Trust](https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/)
 * [2026-11-23, 02:17:27](https://news.ycombinator.com/item?id=50606704) - [Advanced Character Physics (2001) [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf)
-* [2026-11-23, 01:50:23](https://news.ycombinator.com/item?id=50606499) - [Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/)
 * [2026-11-23, 01:13:51](https://news.ycombinator.com/item?id=50606192) - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
 * [2026-11-23, 01:01:11](https://news.ycombinator.com/item?id=50606072) - [What we learned operating auth for 1k APIs](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/)
 * [2026-11-22, 23:53:00](https://news.ycombinator.com/item?id=50605445) - [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
@@ -16,7 +17,6 @@
 * [2026-11-22, 19:41:30](https://news.ycombinator.com/item?id=50603143) - [Assume People Are Not Interested in Your Blog Post](https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/)
 * [2026-11-22, 19:20:15](https://news.ycombinator.com/item?id=50602947) - [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
 * [2026-11-22, 19:10:34](https://news.ycombinator.com/item?id=50602843) - [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
-* [2026-11-22, 18:01:54](https://news.ycombinator.com/item?id=50602153) - [Harvard CS 2881R AI Safety](https://boazbk.github.io/mltheoryseminar/)
 * [2026-11-22, 17:06:27](https://news.ycombinator.com/item?id=50601525) - [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
 * [2026-11-22, 15:35:24](https://news.ycombinator.com/item?id=50600622) - [I joined the NTP Pool, but not with my Stratum 1 Pi](https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/)
 * [2026-11-22, 15:24:32](https://news.ycombinator.com/item?id=50600511) - [Open Social Web Alliance](https://osw-alliance.net/en/)
