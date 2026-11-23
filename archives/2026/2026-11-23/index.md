@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
+* [2026-11-23, 10:58:55](https://news.ycombinator.com/item?id=50610073) - [China's prison for the elite is massively expanding](https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding)
 * [2026-11-23, 10:06:43](https://news.ycombinator.com/item?id=50609685) - [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)
 * [2026-11-23, 08:51:50](https://news.ycombinator.com/item?id=50609079) - [GTA 6 building personal behavioral profile for every player](https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve)
 * [2026-11-23, 07:01:08](https://news.ycombinator.com/item?id=50608390) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)

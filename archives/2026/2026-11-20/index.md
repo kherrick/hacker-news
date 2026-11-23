@@ -72,6 +72,7 @@
 * [2026-11-20, 09:42:16](https://news.ycombinator.com/item?id=50572348) - [Signal Is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)
 * [2026-11-20, 09:24:53](https://news.ycombinator.com/item?id=50572217) - [Infinite scroll and autoplay are fuelling a global problem](https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue)
 * [2026-11-20, 09:13:09](https://news.ycombinator.com/item?id=50572116) - [Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars](https://ecohustler.com/article/one-corporation-to-pollute-them-all/)
+* [2026-11-20, 08:06:10](https://news.ycombinator.com/item?id=50571578) - [The Quartz Page](http://www.quartzpage.de/index.html)
 * [2026-11-20, 07:13:21](https://news.ycombinator.com/item?id=50571189) - [\"I can tell you wrote this yourself\"](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
 * [2026-11-20, 06:43:08](https://news.ycombinator.com/item?id=50570984) - [Former YC President: \"Stop!”](https://geoffralston.substack.com/p/stop)
 * [2026-11-20, 05:46:01](https://news.ycombinator.com/item?id=50570628) - [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
