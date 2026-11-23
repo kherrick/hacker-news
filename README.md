@@ -24,12 +24,12 @@
 * [2026-11-22, 13:56:58](https://news.ycombinator.com/item?id=50599762) - [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
 * [2026-11-22, 10:59:56](https://news.ycombinator.com/item?id=50598441) - [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/)
 * [2026-11-22, 04:04:56](https://news.ycombinator.com/item?id=50596133) - [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+* [2026-11-20, 20:57:16](https://news.ycombinator.com/item?id=50581961) - [Brake Check: Hijacking Trailer Brakes over Bluetooth](https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/)
 * [2026-11-20, 16:33:22](https://news.ycombinator.com/item?id=50577353) - [Verifying formal models of Raft implementations](https://antithesis.com/blog/2026/verifying-formal-models/)
 * [2026-11-20, 02:40:48](https://news.ycombinator.com/item?id=50569505) - [LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)](https://arxiv.org/abs/2506.13771)
 * [2026-11-19, 14:27:07](https://news.ycombinator.com/item?id=50560563) - [The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy](https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy)
 * [2026-11-19, 13:52:42](https://news.ycombinator.com/item?id=50560120) - [De-fanging dangerous triggers in GitHub Actions across an organization](https://alpha-omega.dev/blog/de-fanging-dangerous-triggers-in-github-actions-across-an-organization/)
 * [2026-11-18, 15:43:29](https://news.ycombinator.com/item?id=50547698) - [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527)
-* [2026-11-18, 13:33:25](https://news.ycombinator.com/item?id=50546124) - [Advice for Young Researchers](http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html)
 
 ## [Archives](archives/index.md)
 

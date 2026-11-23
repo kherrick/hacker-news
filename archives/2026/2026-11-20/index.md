@@ -20,6 +20,7 @@
 * [2026-11-20, 21:50:25](https://news.ycombinator.com/item?id=50582746) - [Supreme Court sentences 29-year-old activist to prison over FB post](https://prachataienglish.com/node/12123)
 * [2026-11-20, 21:42:21](https://news.ycombinator.com/item?id=50582629) - [A few hours ago Google DeepMind created a math horizon repo](https://github.com/google-deepmind/math-horizon)
 * [2026-11-20, 21:03:12](https://news.ycombinator.com/item?id=50582069) - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
+* [2026-11-20, 20:57:16](https://news.ycombinator.com/item?id=50581961) - [Brake Check: Hijacking Trailer Brakes over Bluetooth](https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/)
 * [2026-11-20, 20:22:41](https://news.ycombinator.com/item?id=50581438) - [US SEC's Nvidia probe is examining potential accounting issues – sources](https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627)
 * [2026-11-20, 20:22:41](https://news.ycombinator.com/item?id=50581438) - [Nvidia accounting under SEC investigation, sources say](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)
 * [2026-11-20, 20:19:56](https://news.ycombinator.com/item?id=50581403) - [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)
