@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
+* [2026-11-23, 20:13:18](https://news.ycombinator.com/item?id=50618490) - [Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html)
 * [2026-11-23, 19:17:55](https://news.ycombinator.com/item?id=50617499) - [\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"](https://arm.jonpalmisc.com/)
 * [2026-11-23, 18:48:38](https://news.ycombinator.com/item?id=50616947) - [Iranian authorities flog singer who performed without hijab, lawyers say](https://www.bbc.com/news/articles/cq1j6585l5g6o)
 * [2026-11-23, 18:48:10](https://news.ycombinator.com/item?id=50616933) - [Apple removed my open-source app from EU App Stores after 9 years](https://github.com/glushchenko/fsnotes/discussions/2056)

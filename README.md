@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-23, 20:13:18](https://news.ycombinator.com/item?id=50618490) - [Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html)
 * [2026-11-23, 19:17:55](https://news.ycombinator.com/item?id=50617499) - [\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"](https://arm.jonpalmisc.com/)
 * [2026-11-23, 18:48:10](https://news.ycombinator.com/item?id=50616933) - [Apple removed my open-source app from EU App Stores after 9 years](https://github.com/glushchenko/fsnotes/discussions/2056)
 * [2026-11-23, 17:19:25](https://news.ycombinator.com/item?id=50615520) - [How should an LLM see a computer?](https://www.greptile.com/blog/trex-computer-use)
@@ -22,7 +23,6 @@
 * [2026-11-22, 23:57:45](https://news.ycombinator.com/item?id=50605479) - [Nespresso's project to reduce grams of coffee per capsule](https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/)
 * [2026-11-22, 21:01:16](https://news.ycombinator.com/item?id=50603845) - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
 * [2026-11-22, 00:13:17](https://news.ycombinator.com/item?id=50594935) - [Derivative Flipping](http://blog.sigfpe.com/2026/11/derivative-flipping.html)
-* [2026-11-21, 10:14:11](https://news.ycombinator.com/item?id=50587750) - [MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash](https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/)
 * [2026-11-21, 09:14:02](https://news.ycombinator.com/item?id=50587439) - [Spacecraft reaches Mercury on second-ever mission to enter its orbit](https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo)
 * [2026-11-21, 08:49:14](https://news.ycombinator.com/item?id=50587286) - [What's the difference between an integer and a pointer? (2018)](https://blog.regehr.org/archives/1621)
 * [2026-11-21, 00:47:57](https://news.ycombinator.com/item?id=50584526) - [Elixir HLS makes FPGA circuits from functions written in Elixir](https://github.com/elixir-hls/elixir-hls)
