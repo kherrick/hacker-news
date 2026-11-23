@@ -46,6 +46,7 @@
 * [2026-11-20, 17:03:39](https://news.ycombinator.com/item?id=50577991) - [I'm quite pleased by the tech architecture of my art website](https://klauria.tech/klauria-art/)
 * [2026-11-20, 16:59:27](https://news.ycombinator.com/item?id=50577901) - [Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI](https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/)
 * [2026-11-20, 16:45:25](https://news.ycombinator.com/item?id=50577613) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
+* [2026-11-20, 16:41:54](https://news.ycombinator.com/item?id=50577534) - [Let's Meet in the Middle](https://george.mand.is/2026/11/lets-meet-in-the-middle/)
 * [2026-11-20, 16:33:22](https://news.ycombinator.com/item?id=50577353) - [Verifying formal models of Raft implementations](https://antithesis.com/blog/2026/verifying-formal-models/)
 * [2026-11-20, 16:29:06](https://news.ycombinator.com/item?id=50577265) - [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
 * [2026-11-20, 16:06:30](https://news.ycombinator.com/item?id=50576855) - [I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/)
