@@ -42,6 +42,7 @@
 * [2026-11-19, 14:47:18](https://news.ycombinator.com/item?id=50560822) - [Everything you need to survive and rebuild society](https://lastbook.org/)
 * [2026-11-19, 14:44:50](https://news.ycombinator.com/item?id=50560795) - [Germany and Austria Call for European Control of TikTok](https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/)
 * [2026-11-19, 14:29:49](https://news.ycombinator.com/item?id=50560595) - [Floppy3.5: A portable 3.5-inch floppy WiFi NAS](https://github.com/bigcrimping/floppy3.5)
+* [2026-11-19, 14:27:07](https://news.ycombinator.com/item?id=50560563) - [The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy](https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy)
 * [2026-11-19, 14:20:08](https://news.ycombinator.com/item?id=50560461) - [OpenAI still has a WebRTC Problem](https://moq.dev/blog/webrtc-is-still-the-problem/)
 * [2026-11-19, 14:09:50](https://news.ycombinator.com/item?id=50560334) - [PHP 8.5.13](https://www.php.net/ChangeLog-8.php)
 * [2026-11-19, 14:08:33](https://news.ycombinator.com/item?id=50560314) - [Split Radiance Cascades](https://www.jacktollenaar.top/articles/split-rc.html)
