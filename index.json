@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-23, 17:19:25",
+      "https://news.ycombinator.com/item?id=50615520"
+    ],
+    [
+      "How should an LLM see a computer?",
+      "https://www.greptile.com/blog/trex-computer-use"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 17:17:01",
       "https://news.ycombinator.com/item?id=50615481"
     ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2026-11-22, 17:32:41",
-      "https://news.ycombinator.com/item?id=50601823"
-    ],
-    [
-      "Was software just always too complex for humans?",
-      "https://anil.recoil.org/notes/software-too-complex-for-humans"
-    ]
-  ],
-  [
-    [
       "2026-11-22, 17:06:27",
       "https://news.ycombinator.com/item?id=50601525"
     ],
     [
       "Perplexity and Intelligence",
       "https://openai.com/index/perplexity-and-intelligence/"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 10:59:56",
-      "https://news.ycombinator.com/item?id=50598441"
-    ],
-    [
-      "Masullo on the Riemann Hypothesis",
-      "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Elixir HLS makes FPGA circuits from functions written in Elixir",
       "https://github.com/elixir-hls/elixir-hls"
+    ]
+  ],
+  [
+    [
+      "2026-11-21, 00:20:37",
+      "https://news.ycombinator.com/item?id=50584327"
+    ],
+    [
+      "Anatomia Di Tor – The Tor Protocol, Byte by Byte",
+      "https://github.com/aleff-github/onion-routing-anatomy"
     ]
   ],
   [
