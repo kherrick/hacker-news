@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-23, 19:17:55](https://news.ycombinator.com/item?id=50617499) - [\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"](https://arm.jonpalmisc.com/)
-* [2026-11-23, 18:48:38](https://news.ycombinator.com/item?id=50616947) - [Iranian authorities flog singer who performed without hijab, lawyers say](https://www.bbc.com/news/articles/cq1j6585l5g6o)
 * [2026-11-23, 18:48:10](https://news.ycombinator.com/item?id=50616933) - [Apple removed my open-source app from EU App Stores after 9 years](https://github.com/glushchenko/fsnotes/discussions/2056)
 * [2026-11-23, 17:19:25](https://news.ycombinator.com/item?id=50615520) - [How should an LLM see a computer?](https://www.greptile.com/blog/trex-computer-use)
 * [2026-11-23, 17:17:01](https://news.ycombinator.com/item?id=50615481) - [Kagi Mail (public beta)](https://blog.kagi.com/kagi-mail-public-beta)
@@ -28,6 +27,7 @@
 * [2026-11-21, 08:49:14](https://news.ycombinator.com/item?id=50587286) - [What's the difference between an integer and a pointer? (2018)](https://blog.regehr.org/archives/1621)
 * [2026-11-21, 00:47:57](https://news.ycombinator.com/item?id=50584526) - [Elixir HLS makes FPGA circuits from functions written in Elixir](https://github.com/elixir-hls/elixir-hls)
 * [2026-11-21, 00:20:37](https://news.ycombinator.com/item?id=50584327) - [Anatomia Di Tor – The Tor Protocol, Byte by Byte](https://github.com/aleff-github/onion-routing-anatomy)
+* [2026-11-20, 20:57:16](https://news.ycombinator.com/item?id=50581961) - [Brake Check: Hijacking Trailer Brakes over Bluetooth](https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/)
 * [2026-11-20, 16:41:54](https://news.ycombinator.com/item?id=50577534) - [Let's Meet in the Middle](https://george.mand.is/2026/11/lets-meet-in-the-middle/)
 * [2026-11-20, 13:32:42](https://news.ycombinator.com/item?id=50574412) - [Show HN: Drive around my village in 3D](https://cherwellvalleymotorclub.app)
 
