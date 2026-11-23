@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-23, 10:06:43](https://news.ycombinator.com/item?id=50609685) - [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)
+* [2026-11-23, 09:15:09](https://news.ycombinator.com/item?id=50609252) - [Enjoy this guy getting bricked over the detail of towers in GTA6](https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v)
 * [2026-11-23, 07:01:08](https://news.ycombinator.com/item?id=50608390) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)
 * [2026-11-23, 05:00:49](https://news.ycombinator.com/item?id=50607668) - [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
 * [2026-11-23, 04:51:48](https://news.ycombinator.com/item?id=50607627) - [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
@@ -23,7 +24,6 @@
 * [2026-11-22, 04:04:56](https://news.ycombinator.com/item?id=50596133) - [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
 * [2026-11-21, 00:47:57](https://news.ycombinator.com/item?id=50584526) - [Elixir HLS makes FPGA circuits from functions written in Elixir](https://github.com/elixir-hls/elixir-hls)
 * [2026-11-20, 20:57:16](https://news.ycombinator.com/item?id=50581961) - [Brake Check: Hijacking Trailer Brakes over Bluetooth](https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/)
-* [2026-11-20, 16:33:22](https://news.ycombinator.com/item?id=50577353) - [Verifying formal models of Raft implementations](https://antithesis.com/blog/2026/verifying-formal-models/)
 * [2026-11-20, 13:32:42](https://news.ycombinator.com/item?id=50574412) - [Show HN: Drive around my village in 3D](https://cherwellvalleymotorclub.app)
 * [2026-11-20, 08:06:10](https://news.ycombinator.com/item?id=50571578) - [The Quartz Page](http://www.quartzpage.de/index.html)
 * [2026-11-20, 02:40:48](https://news.ycombinator.com/item?id=50569505) - [LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)](https://arxiv.org/abs/2506.13771)
