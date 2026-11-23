@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-23, 08:51:50](https://news.ycombinator.com/item?id=50609079) - [GTA 6 building personal behavioral profile for every player](https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve)
 * [2026-11-23, 07:01:08](https://news.ycombinator.com/item?id=50608390) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)
 * [2026-11-23, 05:00:49](https://news.ycombinator.com/item?id=50607668) - [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
 * [2026-11-23, 04:51:48](https://news.ycombinator.com/item?id=50607627) - [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
@@ -8,7 +9,6 @@
 * [2026-11-23, 01:50:23](https://news.ycombinator.com/item?id=50606499) - [Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/)
 * [2026-11-23, 01:13:51](https://news.ycombinator.com/item?id=50606192) - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
 * [2026-11-23, 01:01:11](https://news.ycombinator.com/item?id=50606072) - [What we learned operating auth for 1k APIs](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/)
-* [2026-11-22, 23:53:00](https://news.ycombinator.com/item?id=50605445) - [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
 * [2026-11-22, 23:12:10](https://news.ycombinator.com/item?id=50605045) - [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
 * [2026-11-22, 23:06:37](https://news.ycombinator.com/item?id=50604988) - [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
 * [2026-11-22, 22:10:58](https://news.ycombinator.com/item?id=50604472) - [The Usefulness of Useless Knowledge [pdf] (1939)](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
