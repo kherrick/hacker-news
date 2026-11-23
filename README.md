@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-23, 02:17:27](https://news.ycombinator.com/item?id=50606704) - [Advanced Character Physics (2001) [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf)
+* [2026-11-23, 01:50:23](https://news.ycombinator.com/item?id=50606499) - [Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/)
 * [2026-11-23, 01:13:51](https://news.ycombinator.com/item?id=50606192) - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
 * [2026-11-23, 01:01:11](https://news.ycombinator.com/item?id=50606072) - [What we learned operating auth for 1k APIs](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/)
 * [2026-11-22, 23:53:00](https://news.ycombinator.com/item?id=50605445) - [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
@@ -9,7 +10,6 @@
 * [2026-11-22, 22:18:48](https://news.ycombinator.com/item?id=50604540) - [Localcode, open source agentic coding on your Mac with one command](https://github.com/mjwsolo/localcode)
 * [2026-11-22, 22:10:58](https://news.ycombinator.com/item?id=50604472) - [The Usefulness of Useless Knowledge [pdf] (1939)](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2026-11-22, 21:33:12](https://news.ycombinator.com/item?id=50604123) - [The struggle for freedom: How BSD escaped AT&T licensing](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/)
-* [2026-11-22, 21:13:10](https://news.ycombinator.com/item?id=50603962) - [Will the first approved psychedelic become a blockbuster?](https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/)
 * [2026-11-22, 21:01:16](https://news.ycombinator.com/item?id=50603845) - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
 * [2026-11-22, 20:33:23](https://news.ycombinator.com/item?id=50603589) - [A miniature San Francisco with live buses, planes and boats](https://smallsf.com/)
 * [2026-11-22, 20:15:59](https://news.ycombinator.com/item?id=50603465) - [Nyx, the Oldest Internet Service Provider](https://nyx.net/)
