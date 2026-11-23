@@ -26,7 +26,7 @@
 * [2026-11-22, 00:13:17](https://news.ycombinator.com/item?id=50594935) - [Derivative Flipping](http://blog.sigfpe.com/2026/11/derivative-flipping.html)
 * [2026-11-21, 09:14:02](https://news.ycombinator.com/item?id=50587439) - [Spacecraft reaches Mercury on second-ever mission to enter its orbit](https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo)
 * [2026-11-21, 08:49:14](https://news.ycombinator.com/item?id=50587286) - [What's the difference between an integer and a pointer? (2018)](https://blog.regehr.org/archives/1621)
-* [2026-11-21, 00:47:57](https://news.ycombinator.com/item?id=50584526) - [Elixir HLS makes FPGA circuits from functions written in Elixir](https://github.com/elixir-hls/elixir-hls)
+* [2026-11-21, 00:20:37](https://news.ycombinator.com/item?id=50584327) - [Anatomia Di Tor – The Tor Protocol, Byte by Byte](https://github.com/aleff-github/onion-routing-anatomy)
 * [2026-11-20, 16:41:54](https://news.ycombinator.com/item?id=50577534) - [Let's Meet in the Middle](https://george.mand.is/2026/11/lets-meet-in-the-middle/)
 * [2026-11-20, 13:32:42](https://news.ycombinator.com/item?id=50574412) - [Show HN: Drive around my village in 3D](https://cherwellvalleymotorclub.app)
 * [2026-11-20, 12:51:47](https://news.ycombinator.com/item?id=50573996) - [Crafting Targeted MP4 Fuzzers](https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/)
