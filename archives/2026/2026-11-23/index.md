@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
+* [2026-11-23, 17:00:05](https://news.ycombinator.com/item?id=50615161) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers/)
 * [2026-11-23, 16:13:12](https://news.ycombinator.com/item?id=50614249) - [Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/)
 * [2026-11-23, 16:01:20](https://news.ycombinator.com/item?id=50614037) - [Buckle Up the AI Bubble Is Popping](https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/)
 * [2026-11-23, 15:28:41](https://news.ycombinator.com/item?id=50613465) - [One Man's Quest to End Daylight Savings](https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings)

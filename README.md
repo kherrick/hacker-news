@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-23, 17:00:05](https://news.ycombinator.com/item?id=50615161) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers/)
 * [2026-11-23, 16:13:12](https://news.ycombinator.com/item?id=50614249) - [Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/)
 * [2026-11-23, 14:49:44](https://news.ycombinator.com/item?id=50612686) - [GTA 6 Xbox executable released early by cyberleek](https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/)
 * [2026-11-23, 14:16:37](https://news.ycombinator.com/item?id=50611861) - [Building a wireless network adapter for the Super Nintendo](https://boland.dev/snet/)
@@ -9,7 +10,6 @@
 * [2026-11-23, 11:31:54](https://news.ycombinator.com/item?id=50610318) - [Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
 * [2026-11-23, 10:06:43](https://news.ycombinator.com/item?id=50609685) - [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)
 * [2026-11-23, 09:55:38](https://news.ycombinator.com/item?id=50609579) - [You can't afford to keep your SSH keys on disk](https://jola.dev/posts/you-cant-afford-ssh-keys-disk)
-* [2026-11-23, 07:01:08](https://news.ycombinator.com/item?id=50608390) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)
 * [2026-11-23, 05:00:49](https://news.ycombinator.com/item?id=50607668) - [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
 * [2026-11-23, 04:51:48](https://news.ycombinator.com/item?id=50607627) - [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
 * [2026-11-23, 03:49:24](https://news.ycombinator.com/item?id=50607261) - [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)
