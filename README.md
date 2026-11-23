@@ -2,6 +2,7 @@
 
 * [2026-11-23, 04:51:48](https://news.ycombinator.com/item?id=50607627) - [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
 * [2026-11-23, 04:47:35](https://news.ycombinator.com/item?id=50607591) - [Mass destruction of weapons](https://computer.rip/2026-11-22-mass-destruction-of-weapons.html)
+* [2026-11-23, 04:31:32](https://news.ycombinator.com/item?id=50607498) - [DeFlock Amerca Facebook Group Suspended as a Dangerous Organization](https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/)
 * [2026-11-23, 03:49:24](https://news.ycombinator.com/item?id=50607261) - [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)
 * [2026-11-23, 03:34:29](https://news.ycombinator.com/item?id=50607194) - [The New Docker: Built to Run on Trust](https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/)
 * [2026-11-23, 01:50:23](https://news.ycombinator.com/item?id=50606499) - [Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/)
@@ -10,7 +11,6 @@
 * [2026-11-22, 23:53:00](https://news.ycombinator.com/item?id=50605445) - [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
 * [2026-11-22, 23:12:10](https://news.ycombinator.com/item?id=50605045) - [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
 * [2026-11-22, 23:06:37](https://news.ycombinator.com/item?id=50604988) - [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
-* [2026-11-22, 22:18:48](https://news.ycombinator.com/item?id=50604540) - [Localcode, open source agentic coding on your Mac with one command](https://github.com/mjwsolo/localcode)
 * [2026-11-22, 22:10:58](https://news.ycombinator.com/item?id=50604472) - [The Usefulness of Useless Knowledge [pdf] (1939)](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2026-11-22, 21:33:12](https://news.ycombinator.com/item?id=50604123) - [The struggle for freedom: How BSD escaped AT&T licensing](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/)
 * [2026-11-22, 21:01:16](https://news.ycombinator.com/item?id=50603845) - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
