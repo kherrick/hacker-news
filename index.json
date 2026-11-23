@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-11-23, 12:28:11",
+      "https://news.ycombinator.com/item?id=50610743"
+    ],
+    [
+      "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "https://github.com/mikuta0407/win4wine"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 11:34:16",
       "https://news.ycombinator.com/item?id=50610334"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-11-22, 19:20:15",
-      "https://news.ycombinator.com/item?id=50602947"
-    ],
-    [
-      "What Happened to Silicon Valley?",
-      "https://www.oreilly.com/radar/what-happened-to-silicon-valley/"
-    ]
-  ],
-  [
-    [
       "2026-11-22, 19:10:34",
       "https://news.ycombinator.com/item?id=50602843"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-11-22, 04:04:56",
-      "https://news.ycombinator.com/item?id=50596133"
-    ],
-    [
-      "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
-    ]
-  ],
-  [
-    [
       "2026-11-21, 10:14:11",
       "https://news.ycombinator.com/item?id=50587750"
     ],
@@ -257,6 +247,16 @@
     [
       "Elixir HLS makes FPGA circuits from functions written in Elixir",
       "https://github.com/elixir-hls/elixir-hls"
+    ]
+  ],
+  [
+    [
+      "2026-11-20, 22:56:20",
+      "https://news.ycombinator.com/item?id=50583535"
+    ],
+    [
+      "Reviving the Donkey Car with Erlang",
+      "https://underjord.io/reviving-the-donkey-car-with-erlang.html"
     ]
   ],
   [
