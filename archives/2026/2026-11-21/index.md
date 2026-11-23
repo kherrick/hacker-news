@@ -39,4 +39,5 @@
 * [2026-11-21, 01:17:05](https://news.ycombinator.com/item?id=50584776) - [Integrals of Polynomials with Galois Group S_p](https://m-slee.netlify.app/posts/integrals-galois-polynomials)
 * [2026-11-21, 00:47:57](https://news.ycombinator.com/item?id=50584526) - [Elixir HLS makes FPGA circuits from functions written in Elixir](https://github.com/elixir-hls/elixir-hls)
 * [2026-11-21, 00:33:40](https://news.ycombinator.com/item?id=50584429) - [I Don't Trust Visual Recordings Anymore. But One Day I Will Again](https://spectrum.ieee.org/fighting-back-against-deep-fakes)
+* [2026-11-21, 00:20:37](https://news.ycombinator.com/item?id=50584327) - [Anatomia Di Tor – The Tor Protocol, Byte by Byte](https://github.com/aleff-github/onion-routing-anatomy)
 * [2026-11-21, 00:12:04](https://news.ycombinator.com/item?id=50584268) - [Making torch_remat work in TorchTitan](https://docs.pytorch.org/devlogs/distributed/2026-11-19-torch-remat-in-torchtitan/)
