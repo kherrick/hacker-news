@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2026-11-22, 23:53:00",
-      "https://news.ycombinator.com/item?id=50605445"
-    ],
-    [
-      "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "https://0rwx.com/"
-    ]
-  ],
-  [
-    [
       "2026-11-22, 23:12:10",
       "https://news.ycombinator.com/item?id=50605045"
     ],
@@ -227,6 +217,16 @@
     [
       "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
+    ]
+  ],
+  [
+    [
+      "2026-11-21, 00:47:57",
+      "https://news.ycombinator.com/item?id=50584526"
+    ],
+    [
+      "Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "https://github.com/elixir-hls/elixir-hls"
     ]
   ],
   [
