@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-23, 15:28:41](https://news.ycombinator.com/item?id=50613465) - [One Man's Quest to End Daylight Savings](https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings)
 * [2026-11-23, 14:16:37](https://news.ycombinator.com/item?id=50611861) - [Building a wireless network adapter for the Super Nintendo](https://boland.dev/snet/)
 * [2026-11-23, 14:01:23](https://news.ycombinator.com/item?id=50611588) - [Jensen Huang Reinstated as Nvidia CEO](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)
 * [2026-11-23, 12:28:11](https://news.ycombinator.com/item?id=50610743) - [Win4wine – Run Windows Shell as the Linux Desktop on Wine](https://github.com/mikuta0407/win4wine)
@@ -15,7 +16,6 @@
 * [2026-11-23, 01:50:23](https://news.ycombinator.com/item?id=50606499) - [Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/)
 * [2026-11-23, 01:13:51](https://news.ycombinator.com/item?id=50606192) - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
 * [2026-11-22, 23:06:37](https://news.ycombinator.com/item?id=50604988) - [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
-* [2026-11-22, 22:10:58](https://news.ycombinator.com/item?id=50604472) - [The Usefulness of Useless Knowledge [pdf] (1939)](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2026-11-22, 21:33:12](https://news.ycombinator.com/item?id=50604123) - [The struggle for freedom: How BSD escaped AT&T licensing](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/)
 * [2026-11-22, 21:01:16](https://news.ycombinator.com/item?id=50603845) - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
 * [2026-11-22, 20:33:23](https://news.ycombinator.com/item?id=50603589) - [A miniature San Francisco with live buses, planes and boats](https://smallsf.com/)

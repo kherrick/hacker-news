@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
+* [2026-11-23, 15:28:41](https://news.ycombinator.com/item?id=50613465) - [One Man's Quest to End Daylight Savings](https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings)
 * [2026-11-23, 14:16:37](https://news.ycombinator.com/item?id=50611861) - [Building a wireless network adapter for the Super Nintendo](https://boland.dev/snet/)
 * [2026-11-23, 14:01:23](https://news.ycombinator.com/item?id=50611588) - [Jensen Huang Reinstated as Nvidia CEO](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)
 * [2026-11-23, 14:00:18](https://news.ycombinator.com/item?id=50611576) - [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
