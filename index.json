@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-11-23, 20:13:18",
-      "https://news.ycombinator.com/item?id=50618490"
+      "2026-11-23, 21:09:14",
+      "https://news.ycombinator.com/item?id=50619335"
     ],
     [
-      "Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'",
-      "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
+      "Wikipedia Has Hidden Doors",
+      "https://cardcatalogforlife.substack.com/p/wikipedia-has-hidden-doors-heres"
+    ]
+  ],
+  [
+    [
+      "2026-11-23, 20:59:12",
+      "https://news.ycombinator.com/item?id=50619186"
+    ],
+    [
+      "The horse made the state",
+      "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=50617499"
     ],
     [
-      "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+      "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
       "https://arm.jonpalmisc.com/"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=50615308"
     ],
     [
-      "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+      "Dario is hyping the dangers so OSS models are illegal and he stays in control",
       "https://twitter.com/ylecun/status/2124550037912920090"
     ]
   ],
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2026-11-23, 10:09:02",
+      "https://news.ycombinator.com/item?id=50609708"
+    ],
+    [
+      "Show HN: Hermit CRM – Free open-source CRM for solopreneurs",
+      "https://hermitcrm.io/"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 10:06:43",
       "https://news.ycombinator.com/item?id=50609685"
     ],
@@ -167,16 +187,6 @@
     [
       "Don't keep your SSH keys on disk",
       "https://jola.dev/posts/you-cant-afford-ssh-keys-disk"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 05:00:49",
-      "https://news.ycombinator.com/item?id=50607668"
-    ],
-    [
-      "Yes, 17M lines of Lean is a lot",
-      "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Elixir HLS makes FPGA circuits from functions written in Elixir",
       "https://github.com/elixir-hls/elixir-hls"
-    ]
-  ],
-  [
-    [
-      "2026-11-21, 00:20:37",
-      "https://news.ycombinator.com/item?id=50584327"
-    ],
-    [
-      "Anatomia Di Tor – The Tor Protocol, Byte by Byte",
-      "https://github.com/aleff-github/onion-routing-anatomy"
     ]
   ],
   [
