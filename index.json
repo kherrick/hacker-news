@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-11-23, 09:55:38",
+      "https://news.ycombinator.com/item?id=50609579"
+    ],
+    [
+      "You can't afford to keep your SSH keys on disk",
+      "https://jola.dev/posts/you-cant-afford-ssh-keys-disk"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 07:01:08",
       "https://news.ycombinator.com/item?id=50608390"
     ],
@@ -207,16 +217,6 @@
     [
       "Perplexity and Intelligence",
       "https://openai.com/index/perplexity-and-intelligence/"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 13:56:58",
-      "https://news.ycombinator.com/item?id=50599762"
-    ],
-    [
-      "Show HN: I built a game where you are an LLM's subagent",
-      "https://github.com/gulivan/worker755"
     ]
   ],
   [
