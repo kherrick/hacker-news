@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-23, 00:23:37](https://news.ycombinator.com/item?id=50605699) - ['It's greed': Zohran Mamdani blasts Amazon over new $5 fee hike in NYC](https://finance.yahoo.com/economy/policy/articles/greed-zohran-mamdani-blasts-amazon-121000124.html)
 * [2026-11-22, 23:57:45](https://news.ycombinator.com/item?id=50605479) - [Nespresso's project to reduce grams of coffee per capsule](https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/)
 * [2026-11-22, 23:53:00](https://news.ycombinator.com/item?id=50605445) - [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
 * [2026-11-22, 23:51:00](https://news.ycombinator.com/item?id=50605426) - [What should AAA game devs do](https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/)
@@ -23,6 +22,7 @@
 * [2026-11-22, 15:35:24](https://news.ycombinator.com/item?id=50600622) - [I joined the NTP Pool, but not with my Stratum 1 Pi](https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/)
 * [2026-11-22, 15:24:32](https://news.ycombinator.com/item?id=50600511) - [Open Social Web Alliance](https://osw-alliance.net/en/)
 * [2026-11-22, 13:56:58](https://news.ycombinator.com/item?id=50599762) - [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
+* [2026-11-22, 08:57:34](https://news.ycombinator.com/item?id=50597612) - [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
 * [2026-11-22, 04:04:56](https://news.ycombinator.com/item?id=50596133) - [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
 * [2026-11-21, 22:15:39](https://news.ycombinator.com/item?id=50594182) - [A Better Vocabulary for Testing](https://alperenkeles.com/posts/vocab-for-testing/)
 * [2026-11-19, 16:26:51](https://news.ycombinator.com/item?id=50562207) - [Inside PyPy: First Contact with RPython](https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/)
