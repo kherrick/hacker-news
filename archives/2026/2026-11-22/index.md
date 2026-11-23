@@ -47,6 +47,7 @@
 * [2026-11-22, 13:00:52](https://news.ycombinator.com/item?id=50599313) - [Prisons get OK to jam contraband phones](https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/)
 * [2026-11-22, 13:00:36](https://news.ycombinator.com/item?id=50599309) - [Testing Terraform with AWS Emulator](https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/)
 * [2026-11-22, 12:19:46](https://news.ycombinator.com/item?id=50598961) - [AI is becoming a disaster for the climate](https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the)
+* [2026-11-22, 10:59:56](https://news.ycombinator.com/item?id=50598441) - [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/)
 * [2026-11-22, 09:57:01](https://news.ycombinator.com/item?id=50597959) - [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/)
 * [2026-11-22, 09:18:36](https://news.ycombinator.com/item?id=50597743) - [Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts](https://arxiv.org/abs/2606.14068)
 * [2026-11-22, 08:57:34](https://news.ycombinator.com/item?id=50597612) - [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
