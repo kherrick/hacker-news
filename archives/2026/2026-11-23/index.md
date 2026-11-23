@@ -6,6 +6,7 @@
 
 * [2026-11-23, 12:41:14](https://news.ycombinator.com/item?id=50610830) - [Amodei reportedly suggested games could pacify masses after AI took their jobs](https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness)
 * [2026-11-23, 11:34:16](https://news.ycombinator.com/item?id=50610334) - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
+* [2026-11-23, 11:31:54](https://news.ycombinator.com/item?id=50610318) - [Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
 * [2026-11-23, 10:58:55](https://news.ycombinator.com/item?id=50610073) - [China's prison for the elite is massively expanding](https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding)
 * [2026-11-23, 10:06:43](https://news.ycombinator.com/item?id=50609685) - [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)
 * [2026-11-23, 09:15:09](https://news.ycombinator.com/item?id=50609252) - [Enjoy this guy getting bricked over the detail of towers in GTA6](https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v)
