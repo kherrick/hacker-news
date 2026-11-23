@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
+* [2026-11-23, 21:09:14](https://news.ycombinator.com/item?id=50619335) - [Wikipedia Has Hidden Doors](https://cardcatalogforlife.substack.com/p/wikipedia-has-hidden-doors-heres)
+* [2026-11-23, 20:59:12](https://news.ycombinator.com/item?id=50619186) - [The horse made the state](https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist)
 * [2026-11-23, 20:13:18](https://news.ycombinator.com/item?id=50618490) - [Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html)
 * [2026-11-23, 19:17:55](https://news.ycombinator.com/item?id=50617499) - [\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"](https://arm.jonpalmisc.com/)
 * [2026-11-23, 18:48:38](https://news.ycombinator.com/item?id=50616947) - [Iranian authorities flog singer who performed without hijab, lawyers say](https://www.bbc.com/news/articles/cq1j6585l5g6o)
@@ -26,6 +28,7 @@
 * [2026-11-23, 11:34:16](https://news.ycombinator.com/item?id=50610334) - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
 * [2026-11-23, 11:31:54](https://news.ycombinator.com/item?id=50610318) - [Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
 * [2026-11-23, 10:58:55](https://news.ycombinator.com/item?id=50610073) - [China's prison for the elite is massively expanding](https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding)
+* [2026-11-23, 10:09:02](https://news.ycombinator.com/item?id=50609708) - [Show HN: Hermit CRM – Free open-source CRM for solopreneurs](https://hermitcrm.io/)
 * [2026-11-23, 10:06:43](https://news.ycombinator.com/item?id=50609685) - [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)
 * [2026-11-23, 09:55:38](https://news.ycombinator.com/item?id=50609579) - [You can't afford to keep your SSH keys on disk](https://jola.dev/posts/you-cant-afford-ssh-keys-disk)
 * [2026-11-23, 09:15:09](https://news.ycombinator.com/item?id=50609252) - [Enjoy this guy getting bricked over the detail of towers in GTA6](https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v)
