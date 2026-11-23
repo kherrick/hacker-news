@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-23, 12:41:14](https://news.ycombinator.com/item?id=50610830) - [Amodei reportedly suggested games could pacify masses after AI took their jobs](https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness)
 * [2026-11-23, 11:34:16](https://news.ycombinator.com/item?id=50610334) - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
 * [2026-11-23, 10:06:43](https://news.ycombinator.com/item?id=50609685) - [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)
 * [2026-11-23, 07:01:08](https://news.ycombinator.com/item?id=50608390) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)
@@ -26,6 +25,7 @@
 * [2026-11-21, 10:14:11](https://news.ycombinator.com/item?id=50587750) - [MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash](https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/)
 * [2026-11-21, 00:47:57](https://news.ycombinator.com/item?id=50584526) - [Elixir HLS makes FPGA circuits from functions written in Elixir](https://github.com/elixir-hls/elixir-hls)
 * [2026-11-20, 20:57:16](https://news.ycombinator.com/item?id=50581961) - [Brake Check: Hijacking Trailer Brakes over Bluetooth](https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/)
+* [2026-11-20, 16:33:22](https://news.ycombinator.com/item?id=50577353) - [Verifying formal models of Raft implementations](https://antithesis.com/blog/2026/verifying-formal-models/)
 * [2026-11-20, 02:40:48](https://news.ycombinator.com/item?id=50569505) - [LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)](https://arxiv.org/abs/2506.13771)
 * [2026-11-19, 14:27:07](https://news.ycombinator.com/item?id=50560563) - [The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy](https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy)
 * [2026-11-19, 13:52:42](https://news.ycombinator.com/item?id=50560120) - [De-fanging dangerous triggers in GitHub Actions across an organization](https://alpha-omega.dev/blog/de-fanging-dangerous-triggers-in-github-actions-across-an-organization/)
