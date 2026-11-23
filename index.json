@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-11-23, 21:46:33",
+      "https://news.ycombinator.com/item?id=50619838"
+    ],
+    [
+      "The AI conversation we're not having",
+      "https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 21:01:16",
       "https://news.ycombinator.com/item?id=50619207"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-11-23, 14:16:37",
-      "https://news.ycombinator.com/item?id=50611861"
-    ],
-    [
-      "Building a wireless network adapter for the Super Nintendo",
-      "https://boland.dev/snet/"
-    ]
-  ],
-  [
-    [
       "2026-11-23, 14:00:18",
       "https://news.ycombinator.com/item?id=50611576"
     ],
@@ -177,16 +177,6 @@
     [
       "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
       "https://github.com/mikuta0407/win4wine"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 11:34:16",
-      "https://news.ycombinator.com/item?id=50610334"
-    ],
-    [
-      "The next circle of security hell",
-      "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Crafting Targeted MP4 Fuzzers",
       "https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/"
+    ]
+  ],
+  [
+    [
+      "2026-11-18, 17:00:13",
+      "https://news.ycombinator.com/item?id=50548763"
+    ],
+    [
+      "Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains)",
+      "https://github.com/voygr-tech/placebench"
     ]
   ]
 ]
