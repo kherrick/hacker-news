@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
+* [2026-11-23, 07:01:08](https://news.ycombinator.com/item?id=50608390) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)
 * [2026-11-23, 05:00:49](https://news.ycombinator.com/item?id=50607668) - [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
 * [2026-11-23, 04:51:48](https://news.ycombinator.com/item?id=50607627) - [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
 * [2026-11-23, 04:47:35](https://news.ycombinator.com/item?id=50607591) - [Mass destruction of weapons](https://computer.rip/2026-11-22-mass-destruction-of-weapons.html)
