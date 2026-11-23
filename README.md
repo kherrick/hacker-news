@@ -2,6 +2,7 @@
 
 * [2026-11-23, 21:01:16](https://news.ycombinator.com/item?id=50619207) - [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)
 * [2026-11-23, 20:59:12](https://news.ycombinator.com/item?id=50619186) - [The horse made the state](https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist)
+* [2026-11-23, 20:52:54](https://news.ycombinator.com/item?id=50619103) - [GPUI is getting its own repository](https://github.com/zed-industries/gpui)
 * [2026-11-23, 19:17:55](https://news.ycombinator.com/item?id=50617499) - [Per Arm's request, this site will be discontinued on 4 December 2026 :(](https://arm.jonpalmisc.com/)
 * [2026-11-23, 18:48:10](https://news.ycombinator.com/item?id=50616933) - [Apple removed my open-source app from EU App Stores after 9 years](https://github.com/glushchenko/fsnotes/discussions/2056)
 * [2026-11-23, 17:19:25](https://news.ycombinator.com/item?id=50615520) - [How should an LLM see a computer?](https://www.greptile.com/blog/trex-computer-use)
@@ -9,7 +10,6 @@
 * [2026-11-23, 17:07:26](https://news.ycombinator.com/item?id=50615308) - [Dario is hyping the dangers so OSS models are illegal and he stays in control](https://twitter.com/ylecun/status/2124550037912920090)
 * [2026-11-23, 17:00:05](https://news.ycombinator.com/item?id=50615161) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers/)
 * [2026-11-23, 16:13:12](https://news.ycombinator.com/item?id=50614249) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
-* [2026-11-23, 14:49:44](https://news.ycombinator.com/item?id=50612686) - [Cyberleek posted the GTA 6 Xbox build executable](https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/)
 * [2026-11-23, 14:16:37](https://news.ycombinator.com/item?id=50611861) - [Building a wireless network adapter for the Super Nintendo](https://boland.dev/snet/)
 * [2026-11-23, 14:00:18](https://news.ycombinator.com/item?id=50611576) - [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
 * [2026-11-23, 13:42:38](https://news.ycombinator.com/item?id=50611402) - [NariQ: BF16-level Qwen3.8-27B in a 10 GB file](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF)
