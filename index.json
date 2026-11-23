@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-23, 14:01:23",
+      "https://news.ycombinator.com/item?id=50611588"
+    ],
+    [
+      "Jensen Huang Reinstated as Nvidia CEO",
+      "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+    ]
+  ],
+  [
+    [
+      "2026-11-23, 14:00:18",
+      "https://news.ycombinator.com/item?id=50611576"
+    ],
+    [
+      "Nvidia Reinstates Jensen Huang as CEO",
+      "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 13:02:52",
       "https://news.ycombinator.com/item?id=50611026"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-11-22, 13:56:58",
-      "https://news.ycombinator.com/item?id=50599762"
-    ],
-    [
-      "Show HN: I built a game where you are an LLM's subagent",
-      "https://github.com/gulivan/worker755"
-    ]
-  ],
-  [
-    [
       "2026-11-22, 10:59:56",
       "https://news.ycombinator.com/item?id=50598441"
     ],
@@ -277,16 +287,6 @@
     [
       "The Quartz Page",
       "http://www.quartzpage.de/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-20, 02:40:48",
-      "https://news.ycombinator.com/item?id=50569505"
-    ],
-    [
-      "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
-      "https://arxiv.org/abs/2506.13771"
     ]
   ],
   [
