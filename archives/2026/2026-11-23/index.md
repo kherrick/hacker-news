@@ -7,6 +7,7 @@
 * [2026-11-23, 16:13:12](https://news.ycombinator.com/item?id=50614249) - [Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/)
 * [2026-11-23, 16:01:20](https://news.ycombinator.com/item?id=50614037) - [Buckle Up the AI Bubble Is Popping](https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/)
 * [2026-11-23, 15:28:41](https://news.ycombinator.com/item?id=50613465) - [One Man's Quest to End Daylight Savings](https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings)
+* [2026-11-23, 14:49:44](https://news.ycombinator.com/item?id=50612686) - [GTA 6 Xbox executable released early by cyberleek](https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/)
 * [2026-11-23, 14:16:37](https://news.ycombinator.com/item?id=50611861) - [Building a wireless network adapter for the Super Nintendo](https://boland.dev/snet/)
 * [2026-11-23, 14:01:23](https://news.ycombinator.com/item?id=50611588) - [Jensen Huang Reinstated as Nvidia CEO](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)
 * [2026-11-23, 14:00:18](https://news.ycombinator.com/item?id=50611576) - [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
