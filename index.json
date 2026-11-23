@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-23, 05:00:49",
+      "https://news.ycombinator.com/item?id=50607668"
+    ],
+    [
+      "Yes, 17M lines of Lean is a lot",
+      "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 04:51:48",
       "https://news.ycombinator.com/item?id=50607627"
     ],
@@ -87,16 +97,6 @@
     [
       "GL.iNet Security Notice 2026-11-20",
       "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 22:18:48",
-      "https://news.ycombinator.com/item?id=50604540"
-    ],
-    [
-      "Localcode, open source agentic coding on your Mac with one command",
-      "https://github.com/mjwsolo/localcode"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-11-22, 15:24:32",
-      "https://news.ycombinator.com/item?id=50600511"
-    ],
-    [
-      "Open Social Web Alliance",
-      "https://osw-alliance.net/en/"
-    ]
-  ],
-  [
-    [
       "2026-11-22, 13:56:58",
       "https://news.ycombinator.com/item?id=50599762"
     ],
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2026-11-20, 19:57:48",
+      "https://news.ycombinator.com/item?id=50580986"
+    ],
+    [
+      "Slow inefficient (non-derogatory) guestbook",
+      "https://kwon.nyc/notes/slow-inefficient-non-derogatory-guestbook/"
+    ]
+  ],
+  [
+    [
       "2026-11-20, 16:33:22",
       "https://news.ycombinator.com/item?id=50577353"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=50569505"
     ],
     [
-      "LittleBit: Ultra Low-Bit Quantization via Latent Factorization",
+      "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
       "https://arxiv.org/abs/2506.13771"
     ]
   ],
