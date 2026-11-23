@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-23](index.md)
 
 * [2026-11-23, 21:09:14](https://news.ycombinator.com/item?id=50619335) - [Wikipedia Has Hidden Doors](https://cardcatalogforlife.substack.com/p/wikipedia-has-hidden-doors-heres)
+* [2026-11-23, 21:01:16](https://news.ycombinator.com/item?id=50619207) - [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)
 * [2026-11-23, 20:59:12](https://news.ycombinator.com/item?id=50619186) - [The horse made the state](https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist)
 * [2026-11-23, 20:13:18](https://news.ycombinator.com/item?id=50618490) - [Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html)
 * [2026-11-23, 19:17:55](https://news.ycombinator.com/item?id=50617499) - [\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"](https://arm.jonpalmisc.com/)
