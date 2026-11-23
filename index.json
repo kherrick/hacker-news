@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-11-22, 21:33:12",
-      "https://news.ycombinator.com/item?id=50604123"
-    ],
-    [
-      "The struggle for freedom: How BSD escaped AT&T licensing",
-      "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/"
-    ]
-  ],
-  [
-    [
       "2026-11-22, 21:01:16",
       "https://news.ycombinator.com/item?id=50603845"
     ],
@@ -267,6 +257,16 @@
     [
       "Elixir HLS makes FPGA circuits from functions written in Elixir",
       "https://github.com/elixir-hls/elixir-hls"
+    ]
+  ],
+  [
+    [
+      "2026-11-21, 00:12:04",
+      "https://news.ycombinator.com/item?id=50584268"
+    ],
+    [
+      "Making torch_remat work in TorchTitan",
+      "https://docs.pytorch.org/devlogs/distributed/2026-11-19-torch-remat-in-torchtitan/"
     ]
   ],
   [
