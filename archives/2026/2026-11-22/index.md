@@ -65,4 +65,5 @@
 * [2026-11-22, 02:10:02](https://news.ycombinator.com/item?id=50595537) - [The Mythology of Conscious AI](https://www.noemamag.com/the-mythology-of-conscious-ai/)
 * [2026-11-22, 01:12:15](https://news.ycombinator.com/item?id=50595256) - [Supposed Fired Rockstar Engineer Says GTAVI Makes Psychological Profiles](https://www.gadgetreview.com/man-claiming-to-be-fired-rockstar-engineer-says-gta-6-is-secretly-tracking-player-behavior-and-reporting-it-to-take-two)
 * [2026-11-22, 00:57:26](https://news.ycombinator.com/item?id=50595168) - [Leonida – PC Recompilation of the Xbox Version of GTA 6](https://github.com/ItsNotRexed/Leonida)
+* [2026-11-22, 00:13:17](https://news.ycombinator.com/item?id=50594935) - [Derivative Flipping](http://blog.sigfpe.com/2026/11/derivative-flipping.html)
 * [2026-11-22, 00:07:59](https://news.ycombinator.com/item?id=50594911) - [Sandwich Simulator](https://stulle.app/)
