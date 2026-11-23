@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-22, 23:58:22](https://news.ycombinator.com/item?id=50605483) - [FBI is having a mass hire for IT specialists](https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&)
+* [2026-11-23, 00:23:37](https://news.ycombinator.com/item?id=50605699) - ['It's greed': Zohran Mamdani blasts Amazon over new $5 fee hike in NYC](https://finance.yahoo.com/economy/policy/articles/greed-zohran-mamdani-blasts-amazon-121000124.html)
 * [2026-11-22, 23:57:45](https://news.ycombinator.com/item?id=50605479) - [Nespresso's project to reduce grams of coffee per capsule](https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/)
 * [2026-11-22, 23:53:00](https://news.ycombinator.com/item?id=50605445) - [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
 * [2026-11-22, 23:51:00](https://news.ycombinator.com/item?id=50605426) - [What should AAA game devs do](https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/)

@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-11-23](index.md)
+
+* [2026-11-23, 00:23:37](https://news.ycombinator.com/item?id=50605699) - ['It's greed': Zohran Mamdani blasts Amazon over new $5 fee hike in NYC](https://finance.yahoo.com/economy/policy/articles/greed-zohran-mamdani-blasts-amazon-121000124.html)
