@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-23, 16:13:12](https://news.ycombinator.com/item?id=50614249) - [Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/)
 * [2026-11-23, 16:01:20](https://news.ycombinator.com/item?id=50614037) - [Buckle Up the AI Bubble Is Popping](https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/)
 * [2026-11-23, 15:28:41](https://news.ycombinator.com/item?id=50613465) - [One Man's Quest to End Daylight Savings](https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings)
 * [2026-11-23, 14:16:37](https://news.ycombinator.com/item?id=50611861) - [Building a wireless network adapter for the Super Nintendo](https://boland.dev/snet/)
-* [2026-11-23, 14:01:23](https://news.ycombinator.com/item?id=50611588) - [Jensen Huang Reinstated as Nvidia CEO](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)
 * [2026-11-23, 12:28:11](https://news.ycombinator.com/item?id=50610743) - [Win4wine – Run Windows Shell as the Linux Desktop on Wine](https://github.com/mikuta0407/win4wine)
 * [2026-11-23, 11:34:16](https://news.ycombinator.com/item?id=50610334) - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
 * [2026-11-23, 11:31:54](https://news.ycombinator.com/item?id=50610318) - [Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
@@ -17,6 +17,7 @@
 * [2026-11-23, 01:50:23](https://news.ycombinator.com/item?id=50606499) - [Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/)
 * [2026-11-23, 01:13:51](https://news.ycombinator.com/item?id=50606192) - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
 * [2026-11-22, 23:06:37](https://news.ycombinator.com/item?id=50604988) - [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
+* [2026-11-22, 21:33:12](https://news.ycombinator.com/item?id=50604123) - [The struggle for freedom: How BSD escaped AT&T licensing](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/)
 * [2026-11-22, 21:01:16](https://news.ycombinator.com/item?id=50603845) - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
 * [2026-11-22, 20:33:23](https://news.ycombinator.com/item?id=50603589) - [A miniature San Francisco with live buses, planes and boats](https://smallsf.com/)
 * [2026-11-22, 19:41:30](https://news.ycombinator.com/item?id=50603143) - [Assume People Are Not Interested in Your Blog Post](https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/)
@@ -28,7 +29,6 @@
 * [2026-11-21, 08:49:14](https://news.ycombinator.com/item?id=50587286) - [What's the difference between an integer and a pointer? (2018)](https://blog.regehr.org/archives/1621)
 * [2026-11-21, 00:47:57](https://news.ycombinator.com/item?id=50584526) - [Elixir HLS makes FPGA circuits from functions written in Elixir](https://github.com/elixir-hls/elixir-hls)
 * [2026-11-20, 22:56:20](https://news.ycombinator.com/item?id=50583535) - [Reviving the Donkey Car with Erlang](https://underjord.io/reviving-the-donkey-car-with-erlang.html)
-* [2026-11-20, 20:57:16](https://news.ycombinator.com/item?id=50581961) - [Brake Check: Hijacking Trailer Brakes over Bluetooth](https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/)
 * [2026-11-18, 15:43:29](https://news.ycombinator.com/item?id=50547698) - [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527)
 
 ## [Archives](archives/index.md)
