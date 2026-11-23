@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-23, 10:06:43",
+      "https://news.ycombinator.com/item?id=50609685"
+    ],
+    [
+      "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "https://z.ai/blog/glm-5.4"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 07:01:08",
       "https://news.ycombinator.com/item?id=50608390"
     ],
@@ -67,16 +77,6 @@
     [
       "Free alternative TV network built from the Internet Archive's forgotten videos",
       "https://spelunkr.tv"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 01:01:11",
-      "https://news.ycombinator.com/item?id=50606072"
-    ],
-    [
-      "What we learned operating auth for 1k APIs",
-      "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/"
     ]
   ],
   [
