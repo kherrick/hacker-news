@@ -47,6 +47,7 @@
 * [2026-11-19, 14:09:50](https://news.ycombinator.com/item?id=50560334) - [PHP 8.5.13](https://www.php.net/ChangeLog-8.php)
 * [2026-11-19, 14:08:33](https://news.ycombinator.com/item?id=50560314) - [Split Radiance Cascades](https://www.jacktollenaar.top/articles/split-rc.html)
 * [2026-11-19, 14:00:08](https://news.ycombinator.com/item?id=50560203) - [Windows has two settings that bring work back after restart, both off by default](https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/)
+* [2026-11-19, 13:52:42](https://news.ycombinator.com/item?id=50560120) - [De-fanging dangerous triggers in GitHub Actions across an organization](https://alpha-omega.dev/blog/de-fanging-dangerous-triggers-in-github-actions-across-an-organization/)
 * [2026-11-19, 13:28:43](https://news.ycombinator.com/item?id=50559820) - [Is 'fork' missing operation in sandboxes?](https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable)
 * [2026-11-19, 13:21:20](https://news.ycombinator.com/item?id=50559749) - [Show HN: Foolscap – a writing app that reads your book and never writes for you](https://foolscap.works/)
 * [2026-11-19, 13:18:11](https://news.ycombinator.com/item?id=50559719) - [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
