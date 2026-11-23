@@ -48,6 +48,7 @@
 * [2026-11-20, 15:34:31](https://news.ycombinator.com/item?id=50576232) - [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/)
 * [2026-11-20, 15:24:11](https://news.ycombinator.com/item?id=50576012) - [Slopstrap – Make your site look hastily vibecoded](https://slopstrap.mikelacher.com/)
 * [2026-11-20, 15:03:31](https://news.ycombinator.com/item?id=50575644) - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
+* [2026-11-20, 14:20:15](https://news.ycombinator.com/item?id=50575007) - [How the World Draws the World](https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html)
 * [2026-11-20, 14:16:21](https://news.ycombinator.com/item?id=50574968) - [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
 * [2026-11-20, 14:00:23](https://news.ycombinator.com/item?id=50574772) - [Llms.txt and MCP didn't move the needle](https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did)
 * [2026-11-20, 14:00:10](https://news.ycombinator.com/item?id=50574768) - [The Gateless Gate 3D](https://frankforce.com/the-gateless-gate-3d/)

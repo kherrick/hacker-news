@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-22, 23:57:45](https://news.ycombinator.com/item?id=50605479) - [Nespresso's project to reduce grams of coffee per capsule](https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/)
-* [2026-11-22, 23:53:00](https://news.ycombinator.com/item?id=50605445) - [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
 * [2026-11-22, 23:51:00](https://news.ycombinator.com/item?id=50605426) - [What should AAA game devs do](https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/)
 * [2026-11-22, 23:12:10](https://news.ycombinator.com/item?id=50605045) - [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
 * [2026-11-22, 23:06:37](https://news.ycombinator.com/item?id=50604988) - [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
@@ -25,6 +24,7 @@
 * [2026-11-22, 08:57:34](https://news.ycombinator.com/item?id=50597612) - [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
 * [2026-11-22, 04:04:56](https://news.ycombinator.com/item?id=50596133) - [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
 * [2026-11-21, 22:15:39](https://news.ycombinator.com/item?id=50594182) - [A Better Vocabulary for Testing](https://alperenkeles.com/posts/vocab-for-testing/)
+* [2026-11-20, 14:20:15](https://news.ycombinator.com/item?id=50575007) - [How the World Draws the World](https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html)
 * [2026-11-19, 16:26:51](https://news.ycombinator.com/item?id=50562207) - [Inside PyPy: First Contact with RPython](https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/)
 * [2026-11-19, 05:02:09](https://news.ycombinator.com/item?id=50556249) - [Agentics: Mushy Software](https://12gramsofcarbon.com/p/agentics-mushy-software)
 * [2026-11-19, 01:37:45](https://news.ycombinator.com/item?id=50555002) - [Ask HN: Tips for transitioning from web development to embedded/firmware?](https://news.ycombinator.com/item?id=50555002)
