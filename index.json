@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-11-23, 14:00:18",
-      "https://news.ycombinator.com/item?id=50611576"
-    ],
-    [
-      "Nvidia Reinstates Jensen Huang as CEO",
-      "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
-    ]
-  ],
-  [
-    [
       "2026-11-23, 13:02:52",
       "https://news.ycombinator.com/item?id=50611026"
     ],
@@ -247,6 +237,16 @@
     [
       "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
       "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/"
+    ]
+  ],
+  [
+    [
+      "2026-11-21, 08:49:14",
+      "https://news.ycombinator.com/item?id=50587286"
+    ],
+    [
+      "What's the difference between an integer and a pointer?",
+      "https://blog.regehr.org/archives/1621"
     ]
   ],
   [
