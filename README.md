@@ -7,7 +7,7 @@
 * [2026-11-23, 03:34:29](https://news.ycombinator.com/item?id=50607194) - [The New Docker: Built to Run on Trust](https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/)
 * [2026-11-23, 01:50:23](https://news.ycombinator.com/item?id=50606499) - [Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/)
 * [2026-11-23, 01:13:51](https://news.ycombinator.com/item?id=50606192) - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
-* [2026-11-22, 23:53:00](https://news.ycombinator.com/item?id=50605445) - [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
+* [2026-11-23, 01:01:11](https://news.ycombinator.com/item?id=50606072) - [What we learned operating auth for 1k APIs](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/)
 * [2026-11-22, 23:12:10](https://news.ycombinator.com/item?id=50605045) - [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
 * [2026-11-22, 23:06:37](https://news.ycombinator.com/item?id=50604988) - [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
 * [2026-11-22, 22:10:58](https://news.ycombinator.com/item?id=50604472) - [The Usefulness of Useless Knowledge [pdf] (1939)](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
