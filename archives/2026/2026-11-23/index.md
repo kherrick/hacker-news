@@ -14,6 +14,7 @@
 * [2026-11-23, 21:01:16](https://news.ycombinator.com/item?id=50619207) - [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)
 * [2026-11-23, 20:59:12](https://news.ycombinator.com/item?id=50619186) - [The horse made the state](https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist)
 * [2026-11-23, 20:52:54](https://news.ycombinator.com/item?id=50619103) - [GPUI is getting its own repository](https://github.com/zed-industries/gpui)
+* [2026-11-23, 20:30:46](https://news.ycombinator.com/item?id=50618798) - [Next gaming monitor should still be an OLED](https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled)
 * [2026-11-23, 20:13:18](https://news.ycombinator.com/item?id=50618490) - [Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html)
 * [2026-11-23, 19:17:55](https://news.ycombinator.com/item?id=50617499) - [\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"](https://arm.jonpalmisc.com/)
 * [2026-11-23, 18:48:38](https://news.ycombinator.com/item?id=50616947) - [Iranian authorities flog singer who performed without hijab, lawyers say](https://www.bbc.com/news/articles/cq1j6585l5g6o)
