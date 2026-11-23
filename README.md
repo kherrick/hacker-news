@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-23, 23:11:38](https://news.ycombinator.com/item?id=50620822) - [Huang's Return Is the Biggest National Security Scandal in U.S. History](https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/)
 * [2026-11-23, 23:03:13](https://news.ycombinator.com/item?id=50620721) - [Freeing the iPod Nano 5G](https://viktorkrapivin.com/blog/nano5g-priv-prvd)
 * [2026-11-23, 22:48:33](https://news.ycombinator.com/item?id=50620530) - [The Beauty of Artists' Studios](https://spectator.com/article/the-beauty-of-artists-studios/)
 * [2026-11-23, 22:32:29](https://news.ycombinator.com/item?id=50620349) - [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
@@ -25,7 +26,6 @@
 * [2026-11-23, 01:13:51](https://news.ycombinator.com/item?id=50606192) - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
 * [2026-11-22, 18:40:57](https://news.ycombinator.com/item?id=50602561) - [Show HN: Type-C – variants, options, generics and pattern matching for C](https://github.com/stass/type-c)
 * [2026-11-22, 15:59:59](https://news.ycombinator.com/item?id=50600838) - [C++26 is done (again): ISO C++ meeting trip report](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/)
-* [2026-11-22, 02:09:12](https://news.ycombinator.com/item?id=50595534) - [What was so great about move 37?](https://www.lesswrong.com/posts/zAcYRJP9CZcYXTs7o/what-was-so-great-about-move-37)
 * [2026-11-22, 01:34:57](https://news.ycombinator.com/item?id=50595365) - [What does it mean to understand what we built?](https://brooker.co.za/blog/2026/11/16/understanding.html)
 * [2026-11-22, 00:13:17](https://news.ycombinator.com/item?id=50594935) - [Derivative Flipping](http://blog.sigfpe.com/2026/11/derivative-flipping.html)
 * [2026-11-21, 09:14:02](https://news.ycombinator.com/item?id=50587439) - [Spacecraft reaches Mercury on second-ever mission to enter its orbit](https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo)
