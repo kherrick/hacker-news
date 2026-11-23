@@ -4,6 +4,7 @@
 * [2026-11-23, 22:32:29](https://news.ycombinator.com/item?id=50620349) - [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
 * [2026-11-23, 22:22:56](https://news.ycombinator.com/item?id=50620250) - [Levent Alpöge comments on his Riemann Hypothesis proof](https://twitter.com/__alpoge__/status/2124987173439209561)
 * [2026-11-23, 22:09:10](https://news.ycombinator.com/item?id=50620102) - [VP ≠ VNP over Every Field](https://github.com/anthropics/formal-math/tree/main/vp-vnp)
+* [2026-11-23, 21:46:33](https://news.ycombinator.com/item?id=50619838) - [The AI conversation we're not having](https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/)
 * [2026-11-23, 21:01:16](https://news.ycombinator.com/item?id=50619207) - [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)
 * [2026-11-23, 20:59:12](https://news.ycombinator.com/item?id=50619186) - [The horse made the state](https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist)
 * [2026-11-23, 20:52:54](https://news.ycombinator.com/item?id=50619103) - [GPUI is getting its own repository](https://github.com/zed-industries/gpui)
@@ -14,11 +15,9 @@
 * [2026-11-23, 17:07:26](https://news.ycombinator.com/item?id=50615308) - [Dario is hyping the dangers so OSS models are illegal and he stays in control](https://twitter.com/ylecun/status/2124550037912920090)
 * [2026-11-23, 17:00:05](https://news.ycombinator.com/item?id=50615161) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers/)
 * [2026-11-23, 16:13:12](https://news.ycombinator.com/item?id=50614249) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
-* [2026-11-23, 14:16:37](https://news.ycombinator.com/item?id=50611861) - [Building a wireless network adapter for the Super Nintendo](https://boland.dev/snet/)
 * [2026-11-23, 14:00:18](https://news.ycombinator.com/item?id=50611576) - [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
 * [2026-11-23, 13:42:38](https://news.ycombinator.com/item?id=50611402) - [NariQ: BF16-level Qwen3.8-27B in a 10 GB file](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF)
 * [2026-11-23, 12:28:11](https://news.ycombinator.com/item?id=50610743) - [Win4wine – Run Windows Shell as the Linux Desktop on Wine](https://github.com/mikuta0407/win4wine)
-* [2026-11-23, 11:34:16](https://news.ycombinator.com/item?id=50610334) - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
 * [2026-11-23, 11:31:54](https://news.ycombinator.com/item?id=50610318) - [Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
 * [2026-11-23, 10:09:02](https://news.ycombinator.com/item?id=50609708) - [Show HN: Hermit CRM – Free open-source CRM for solopreneurs](https://hermitcrm.io/)
 * [2026-11-23, 10:06:43](https://news.ycombinator.com/item?id=50609685) - [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4)
@@ -30,6 +29,7 @@
 * [2026-11-21, 09:14:02](https://news.ycombinator.com/item?id=50587439) - [Spacecraft reaches Mercury on second-ever mission to enter its orbit](https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo)
 * [2026-11-20, 13:32:42](https://news.ycombinator.com/item?id=50574412) - [Show HN: Drive around my village in 3D](https://cherwellvalleymotorclub.app)
 * [2026-11-20, 12:51:47](https://news.ycombinator.com/item?id=50573996) - [Crafting Targeted MP4 Fuzzers](https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/)
+* [2026-11-18, 17:00:13](https://news.ycombinator.com/item?id=50548763) - [Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains)](https://github.com/voygr-tech/placebench)
 
 ## [Archives](archives/index.md)
 

@@ -45,6 +45,7 @@
 * [2026-11-18, 17:14:31](https://news.ycombinator.com/item?id=50548991) - [CrossPoint Reader](https://crosspointreader.com)
 * [2026-11-18, 17:05:13](https://news.ycombinator.com/item?id=50548828) - [Stop Deploying to ECS Just to See If Your Code Works](https://metalbear.com/blog/stop-deploying-to-ecs/)
 * [2026-11-18, 17:03:53](https://news.ycombinator.com/item?id=50548808) - [We taught robots to carve marble sculptures](https://eleanorwiesler.com/blog/robotic-stone-carving/)
+* [2026-11-18, 17:00:13](https://news.ycombinator.com/item?id=50548763) - [Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains)](https://github.com/voygr-tech/placebench)
 * [2026-11-18, 16:53:42](https://news.ycombinator.com/item?id=50548660) - [Show HN: Mastra Factory, the open-source software factory we use to build Mastra](https://news.ycombinator.com/item?id=50548660)
 * [2026-11-18, 16:52:08](https://news.ycombinator.com/item?id=50548633) - [Pikuma: Fundamentals of Computer Science and Mathematics](https://pikuma.com/)
 * [2026-11-18, 16:41:22](https://news.ycombinator.com/item?id=50548485) - [\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety](https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO)
