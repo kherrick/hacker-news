@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-23, 01:13:51",
+      "https://news.ycombinator.com/item?id=50606192"
+    ],
+    [
+      "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "https://spelunkr.tv"
+    ]
+  ],
+  [
+    [
+      "2026-11-23, 01:01:11",
+      "https://news.ycombinator.com/item?id=50606072"
+    ],
+    [
+      "What we learned operating auth for 1k APIs",
+      "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/"
+    ]
+  ],
+  [
+    [
       "2026-11-22, 23:57:45",
       "https://news.ycombinator.com/item?id=50605479"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-11-22, 19:51:46",
-      "https://news.ycombinator.com/item?id=50603232"
-    ],
-    [
-      "All Delta Flights Through Atlanta Delayed as Automated System Falters",
-      "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html"
-    ]
-  ],
-  [
-    [
       "2026-11-22, 19:41:30",
       "https://news.ycombinator.com/item?id=50603143"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2026-11-22, 08:57:34",
-      "https://news.ycombinator.com/item?id=50597612"
+      "2026-11-22, 10:59:56",
+      "https://news.ycombinator.com/item?id=50598441"
     ],
     [
-      "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
+      "Masullo on the Riemann Hypothesis",
+      "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Inside PyPy: First Contact with RPython",
       "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/"
-    ]
-  ],
-  [
-    [
-      "2026-11-19, 05:02:09",
-      "https://news.ycombinator.com/item?id=50556249"
-    ],
-    [
-      "Agentics: Mushy Software",
-      "https://12gramsofcarbon.com/p/agentics-mushy-software"
     ]
   ],
   [
