@@ -5,6 +5,7 @@
 * [2026-11-24, 16:23:02](https://news.ycombinator.com/item?id=50630462) - [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro)
 * [2026-11-24, 16:19:55](https://news.ycombinator.com/item?id=50630423) - [How to Make a Lovable City](https://www.worksinprogress.news/p/how-to-make-a-lovable-city)
 * [2026-11-24, 16:12:38](https://news.ycombinator.com/item?id=50630309) - [Tidal bans AI-generated music](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/)
+* [2026-11-24, 16:11:52](https://news.ycombinator.com/item?id=50630294) - [Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage](https://masondata.ai/)
 * [2026-11-24, 16:08:29](https://news.ycombinator.com/item?id=50630245) - [Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban](https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/)
 * [2026-11-24, 15:50:22](https://news.ycombinator.com/item?id=50629962) - [The KL Divergence Is Never Negative, Except in PyTorch](https://arxiv.org/abs/2611.30835)
 * [2026-11-24, 15:03:40](https://news.ycombinator.com/item?id=50629231) - [A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe)
@@ -29,7 +30,6 @@
 * [2026-11-22, 11:35:03](https://news.ycombinator.com/item?id=50598679) - [Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88](https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html)
 * [2026-11-22, 11:16:30](https://news.ycombinator.com/item?id=50598555) - [Mechanical Pencil: Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
 * [2026-11-22, 10:12:22](https://news.ycombinator.com/item?id=50598094) - [An anti-slavery sugar bowl (2024)](https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl)
-* [2026-11-21, 18:49:45](https://news.ycombinator.com/item?id=50592307) - [Arctic: A Practical Lock-Free Adaptive Radix Tree](https://www.usenix.org/conference/osdi26/presentation/ni)
 
 ## [Archives](archives/index.md)
 
