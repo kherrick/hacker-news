@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-24, 16:12:38",
+      "https://news.ycombinator.com/item?id=50630309"
+    ],
+    [
+      "Tidal Bans AI-Generated Music",
+      "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 15:03:40",
       "https://news.ycombinator.com/item?id=50629231"
     ],
@@ -207,16 +217,6 @@
     [
       "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
       "https://dl.acm.org/doi/10.1145/3828523.3857112"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 04:33:50",
-      "https://news.ycombinator.com/item?id=50607512"
-    ],
-    [
-      "Lowering Perplexity Without Scaling",
-      "https://micjm.com/blog/lowering-perplexity-without-scaling/"
     ]
   ],
   [
