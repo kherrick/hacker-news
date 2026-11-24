@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 11:13:55](https://news.ycombinator.com/item?id=50626578) - [Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)
+* [2026-11-24, 10:50:14](https://news.ycombinator.com/item?id=50626413) - [Worshipping at the Altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
 * [2026-11-24, 09:56:08](https://news.ycombinator.com/item?id=50626012) - [Google Chrome dev team declares bug report bankruptcy](https://blog.plover.com/2026/11/18/#bug-reports)
 * [2026-11-24, 09:39:50](https://news.ycombinator.com/item?id=50625888) - [Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex](https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/)
 * [2026-11-24, 07:46:12](https://news.ycombinator.com/item?id=50625004) - [I'm not excited about tech anymore](https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore)
