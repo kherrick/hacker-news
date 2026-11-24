@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-24, 21:51:21](https://news.ycombinator.com/item?id=50635271) - [Heart attack and stroke risk detectable decades in advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance)
 * [2026-11-24, 21:24:27](https://news.ycombinator.com/item?id=50634933) - [An unclassified CIA system was breached in a cyberattack](https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77)
 * [2026-11-24, 21:07:38](https://news.ycombinator.com/item?id=50634734) - [Working with AI](https://www.anthropic.com/research/working-with-ai)
 * [2026-11-24, 21:02:22](https://news.ycombinator.com/item?id=50634658) - [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
@@ -17,7 +18,6 @@
 * [2026-11-24, 15:48:34](https://news.ycombinator.com/item?id=50629936) - [Show HN: Brickie – Deploy sandboxes in your own AWS account](https://github.com/hatchet-dev/brickie)
 * [2026-11-24, 15:03:40](https://news.ycombinator.com/item?id=50629231) - [A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe)
 * [2026-11-24, 14:54:10](https://news.ycombinator.com/item?id=50629106) - [Splitting USB-C: USB 3 and USB 2 on one port](https://www.frankchiarulli.com/blog/splitting-usb-c/)
-* [2026-11-24, 13:23:47](https://news.ycombinator.com/item?id=50627836) - [Anthropic breaks below $83 IPO price](https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading)
 * [2026-11-24, 13:19:31](https://news.ycombinator.com/item?id=50627783) - [GTA 6 Running on Windows](https://twitter.com/raul_bs3/status/2125213756238291075)
 * [2026-11-24, 12:40:15](https://news.ycombinator.com/item?id=50627340) - [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)
 * [2026-11-24, 10:50:14](https://news.ycombinator.com/item?id=50626413) - [Worshipping at the altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)

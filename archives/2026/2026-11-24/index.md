@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 21:51:21](https://news.ycombinator.com/item?id=50635271) - [Heart attack and stroke risk detectable decades in advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance)
 * [2026-11-24, 21:24:27](https://news.ycombinator.com/item?id=50634933) - [An unclassified CIA system was breached in a cyberattack](https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77)
 * [2026-11-24, 21:07:38](https://news.ycombinator.com/item?id=50634734) - [Working with AI](https://www.anthropic.com/research/working-with-ai)
 * [2026-11-24, 21:02:22](https://news.ycombinator.com/item?id=50634658) - [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
