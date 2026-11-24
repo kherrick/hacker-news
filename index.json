@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-11-24, 16:11:52",
+      "https://news.ycombinator.com/item?id=50630294"
+    ],
+    [
+      "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
+      "https://masondata.ai/"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 16:08:29",
       "https://news.ycombinator.com/item?id=50630245"
     ],
@@ -287,16 +297,6 @@
     [
       "An anti-slavery sugar bowl (2024)",
       "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl"
-    ]
-  ],
-  [
-    [
-      "2026-11-21, 18:49:45",
-      "https://news.ycombinator.com/item?id=50592307"
-    ],
-    [
-      "Arctic: A Practical Lock-Free Adaptive Radix Tree",
-      "https://www.usenix.org/conference/osdi26/presentation/ni"
     ]
   ]
 ]
