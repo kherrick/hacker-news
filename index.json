@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-11-23, 14:03:38",
+      "https://news.ycombinator.com/item?id=50611613"
+    ],
+    [
+      "Gnomon: Git for Postgres Data",
+      "https://gnomon.bitsinfra.com/"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 14:00:18",
       "https://news.ycombinator.com/item?id=50611576"
     ],
@@ -237,16 +247,6 @@
     [
       "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
       "https://dl.acm.org/doi/10.1145/3828523.3857112"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 23:42:53",
-      "https://news.ycombinator.com/item?id=50605361"
-    ],
-    [
-      "The new set of problems for engineers to solve",
-      "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve"
     ]
   ],
   [
