@@ -1,42 +1,12 @@
 [
   [
     [
-      "2026-11-24, 15:15:50",
-      "https://news.ycombinator.com/item?id=50629413"
-    ],
-    [
-      "Anthropic falls below $83 IPO price in Swift reversal after record listing",
-      "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 15:03:40",
       "https://news.ycombinator.com/item?id=50629231"
     ],
     [
       "A training engine for your local model, using your idle compute",
       "https://github.com/sous-labs/songe"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 14:41:15",
-      "https://news.ycombinator.com/item?id=50628932"
-    ],
-    [
-      "Anthropic is below its IPO price",
-      "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 13:19:31",
-      "https://news.ycombinator.com/item?id=50627783"
-    ],
-    [
-      "GTA 6 Running on Windows",
-      "https://twitter.com/raul_bs3/status/2125213756238291075"
     ]
   ],
   [
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2026-11-23, 19:17:55",
+      "https://news.ycombinator.com/item?id=50617499"
+    ],
+    [
+      "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "https://arm.jonpalmisc.com/"
+    ]
+  ],
+  [
+    [
       "2026-11-23, 17:07:26",
       "https://news.ycombinator.com/item?id=50615308"
     ],
@@ -227,6 +207,26 @@
     [
       "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
       "https://dl.acm.org/doi/10.1145/3828523.3857112"
+    ]
+  ],
+  [
+    [
+      "2026-11-23, 04:33:50",
+      "https://news.ycombinator.com/item?id=50607512"
+    ],
+    [
+      "Lowering Perplexity Without Scaling",
+      "https://micjm.com/blog/lowering-perplexity-without-scaling/"
+    ]
+  ],
+  [
+    [
+      "2026-11-23, 01:13:51",
+      "https://news.ycombinator.com/item?id=50606192"
+    ],
+    [
+      "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "https://spelunkr.tv"
     ]
   ],
   [
