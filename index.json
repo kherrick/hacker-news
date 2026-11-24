@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-24, 19:40:43",
+      "https://news.ycombinator.com/item?id=50633424"
+    ],
+    [
+      "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "https://andlukyane.com/blog/cayley-graphs-and-torchtpu"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 19:23:44",
       "https://news.ycombinator.com/item?id=50633159"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=50630594"
     ],
     [
-      "Active Intrusion Campaign Against Check Point Security Management Servers",
+      "Active intrusion campaign against CheckPoint security management servers",
       "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
     ]
   ],
@@ -87,16 +97,6 @@
     [
       "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
       "https://masondata.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 16:08:29",
-      "https://news.ycombinator.com/item?id=50630245"
-    ],
-    [
-      "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-      "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/"
     ]
   ],
   [
