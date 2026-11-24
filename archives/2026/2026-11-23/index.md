@@ -41,6 +41,7 @@
 * [2026-11-23, 12:28:11](https://news.ycombinator.com/item?id=50610743) - [Win4wine – Run Windows Shell as the Linux Desktop on Wine](https://github.com/mikuta0407/win4wine)
 * [2026-11-23, 11:34:16](https://news.ycombinator.com/item?id=50610334) - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
 * [2026-11-23, 11:31:54](https://news.ycombinator.com/item?id=50610318) - [Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
+* [2026-11-23, 11:12:33](https://news.ycombinator.com/item?id=50610170) - [New material gets stronger the more it bends](https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/)
 * [2026-11-23, 10:58:55](https://news.ycombinator.com/item?id=50610073) - [China's prison for the elite is massively expanding](https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding)
 * [2026-11-23, 10:09:02](https://news.ycombinator.com/item?id=50609708) - [Show HN: Hermit CRM – Free open-source CRM for solopreneurs](https://hermitcrm.io/)
 * [2026-11-23, 10:06:43](https://news.ycombinator.com/item?id=50609685) - [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)
