@@ -56,6 +56,7 @@
 * [2026-11-22, 11:35:03](https://news.ycombinator.com/item?id=50598679) - [Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88](https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html)
 * [2026-11-22, 11:16:30](https://news.ycombinator.com/item?id=50598555) - [Mechanical Pencil: Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
 * [2026-11-22, 10:59:56](https://news.ycombinator.com/item?id=50598441) - [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/)
+* [2026-11-22, 10:39:05](https://news.ycombinator.com/item?id=50598297) - [Overpass QL EBNF Grammar](https://github.com/b1tw153/overpass-ebnf)
 * [2026-11-22, 10:12:22](https://news.ycombinator.com/item?id=50598094) - [An anti-slavery sugar bowl (2024)](https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl)
 * [2026-11-22, 09:57:01](https://news.ycombinator.com/item?id=50597959) - [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/)
 * [2026-11-22, 09:18:36](https://news.ycombinator.com/item?id=50597743) - [Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts](https://arxiv.org/abs/2606.14068)
