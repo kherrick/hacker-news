@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-24, 04:42:02",
+      "https://news.ycombinator.com/item?id=50623812"
+    ],
+    [
+      "Online Backrooms",
+      "https://onlinebackrooms.com/"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 04:00:28",
       "https://news.ycombinator.com/item?id=50623515"
     ],
@@ -47,6 +57,16 @@
     [
       "Declare is a UI language for you and your AI",
       "https://davidtemkin.github.io/declarelang/"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 02:30:47",
+      "https://news.ycombinator.com/item?id=50622804"
+    ],
+    [
+      "Rune: Rust VM for Emacs",
+      "https://github.com/CeleritasCelery/rune"
     ]
   ],
   [
@@ -107,26 +127,6 @@
     [
       "Latent Introspection: LLMs Can Detect Prior Concept Injections",
       "https://arxiv.org/abs/2602.20031"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 22:09:10",
-      "https://news.ycombinator.com/item?id=50620102"
-    ],
-    [
-      "VP ≠ VNP over Every Field",
-      "https://github.com/anthropics/formal-math/tree/main/vp-vnp"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 21:30:41",
-      "https://news.ycombinator.com/item?id=50619630"
-    ],
-    [
-      "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-      "https://openai.com/index/introducing-shirudo/"
     ]
   ],
   [
