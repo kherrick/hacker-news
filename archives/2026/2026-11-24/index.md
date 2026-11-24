@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 18:21:01](https://news.ycombinator.com/item?id=50632214) - [\"pervert glasses\" named word of the year by Australian national dictionary](https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/)
 * [2026-11-24, 18:00:21](https://news.ycombinator.com/item?id=50631900) - [AstridVPN: A VPN that doesn't know who you are](https://astridvpn.com/)
 * [2026-11-24, 17:10:45](https://news.ycombinator.com/item?id=50631210) - [Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/)
 * [2026-11-24, 17:07:41](https://news.ycombinator.com/item?id=50631157) - [Microsoft declares 'Code Red' after historic outage, internal memos show](https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/)
