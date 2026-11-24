@@ -158,11 +158,11 @@
             <h4>
               <span>2026-11-24 @ 16:32:17</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50630594"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -177,11 +177,11 @@
             <h4>
               <span>2026-11-24 @ 16:23:02</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50630462"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -198,7 +198,7 @@
             <h4>
               <span>2026-11-24 @ 16:19:55</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50630423"
                   >Comments</a
@@ -219,13 +219,142 @@
             <h4>
               <span>2026-11-24 @ 16:12:38</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">219</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50630309"
                   >Comments</a
-                ><span class="descendants">: 172</span></span
+                ><span class="descendants">: 182</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="50630294">
+          <h3>
+            <a class="item" href="https://masondata.ai/"
+              >Show HN: Mason – a lightweight Postgres read-replica, built on
+              columnar storage</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-24 @ 16:11:52</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50630294"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                So, this started out as: let’s just connect Clickhouse to our
+                postgres dbs and throw our analytics queries at it instead. That
+                will speed everything up. But we quickly found that 1)
+                Clickhouse comes with quite the learning curve (engine
+                optimisation) to make it fast (we needed something we could
+                easily drop in to any customer’s postgres scenario), and 2) we
+                had underestimated how different clickhouse’s SQL syntax was to
+                postgres. Don’t get me wrong: we love Clickhouse (it’s
+                ridiculously fast if you know what queries to expect), it just
+                didn’t work for our ad-hoc postgres workloads.
+              </p>
+              <p>
+                So we went searching for alternatives that were 1) more
+                plug-and-play and 2) looked a lot more like postgres.
+              </p>
+              <p>We dismissed a bunch based on desk research alone:</p>
+              <p>
+                - pg_mooncake (seems to have stalled since data bricks bought
+                them)
+              </p>
+              <p>
+                - pg_duckdb (seems to offer fast queries, or fresh data, but not
+                both - we needed both)
+              </p>
+              <p>
+                - materialize/risingwave/readyset (like Clickhouse, they require
+                knowing the query shapes upfront - not ideal for ad-hoc
+                workloads)
+              </p>
+              <p>
+                - firebolt (license makes it challenging to offer to our
+                customers)
+              </p>
+              <p>
+                - redshift / alloydb / etc (we wanted something cloud-provider
+                agnostic)
+              </p>
+              <p>And we shortlisted 3:</p>
+              <p>
+                - pg_clickhouse (Postgres extension that parses SQL in Postgres
+                and pushes the work down to ClickHouse)
+              </p>
+              <p>
+                - cedarDB (closed-source, Postgres-compatible analytical
+                database)
+              </p>
+              <p>
+                - duckdb (open-source, embedded columnar analytics engine with a
+                Postgres-like SQL dialect)
+              </p>
+              <p>
+                We needed to know how they would perform on real postgres
+                queries, so we took a backlog of 5,410 (hand-written) queries
+                (chosen because they had been slow to execute against postgres)
+                from 159 real postgres databases. We then generated synthetic
+                data (dynamically using the schemas from those 159 databases) to
+                fill 159 local databases so we could run the experiment.
+              </p>
+              <p>
+                We then spun up the 3 short-listed tools locally, and ran each
+                of the 5,410 queries against both postgres and the 3 tools, and
+                compared the results:
+              </p>
+              <p>
+                - pg_clickhouse (matched postgres 59.4% of the time, refused
+                39.9% of the queries and was “wrong” 0.8% of the time).
+              </p>
+              <p>
+                - cedarDB (matched postgres 88.1% of the time, refused 8% of the
+                queries and was “wrong” 3.9% of the time).
+              </p>
+              <p>
+                - duckdb (matched postgres 84.1% of the time, refused 14.3% of
+                the queries and was “wrong” 1.6% of the time).
+              </p>
+              <p>
+                Matched meant they returned exactly the same result as postgres.
+                Refused meant they returned an error message (usually telling
+                you some syntax isn’t recognised). And “wrong” meant they didn’t
+                return the same results as postgres. I appreciate that arguably
+                postgres may be the one that is wrong in some cases - but for
+                our use case, we considered postgres the golden source of truth.
+              </p>
+              <p>
+                So, both duckdb and cedardb performed pretty well (correctly
+                handled more than 80% of the postgres queries we threw at it),
+                out-of-the box. But we really still wanted to try and cover that
+                long-tail.
+              </p>
+              <p>
+                We chose duckdb as its open-source license would allow us to
+                easily work on the long tail to get the postgres SQL parity we
+                wanted.
+              </p>
+              <p>
+                So, Mason (linked above), is what we built, powered by duckdb,
+                which now matches postgres on 96% of our 5,410 queries, plus
+                hundreds of other queries that we added, testing it with
+                Metabase, Grafana, Superset, DBeaver and Trevor.io. For the
+                remaining 4%, it errors with a nice clear message telling you
+                how to rewrite your SQL.
+              </p>
+              <p>
+                We’d love your feedback on what we’ve built. Useful? How can we
+                make it better?
+              </p>
+            </div>
           </section>
         </section>
         <section id="50630245">
@@ -241,11 +370,11 @@
             <h4>
               <span>2026-11-24 @ 16:08:29</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50630245"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -260,7 +389,7 @@
             <h4>
               <span>2026-11-24 @ 15:50:22</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50629962"
                   >Comments</a
@@ -280,7 +409,7 @@
             <h4>
               <span>2026-11-24 @ 15:03:40</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50629231"
                   >Comments</a
@@ -301,11 +430,11 @@
             <h4>
               <span>2026-11-24 @ 14:54:10</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50629106"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -322,11 +451,11 @@
             <h4>
               <span>2026-11-24 @ 12:40:15</span
               ><span class="points-container"
-                >Points: <span class="points">631</span></span
+                >Points: <span class="points">645</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50627340"
                   >Comments</a
-                ><span class="descendants">: 261</span></span
+                ><span class="descendants">: 264</span></span
               >
             </h4>
           </section>
@@ -343,7 +472,7 @@
             <h4>
               <span>2026-11-24 @ 10:50:14</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">172</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50626413"
                   >Comments</a
@@ -362,11 +491,11 @@
             <h4>
               <span>2026-11-24 @ 09:47:59</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50625953"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -383,11 +512,11 @@
             <h4>
               <span>2026-11-24 @ 08:33:14</span
               ><span class="points-container"
-                >Points: <span class="points">196</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50625384"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -404,11 +533,11 @@
             <h4>
               <span>2026-11-24 @ 06:30:33</span
               ><span class="points-container"
-                >Points: <span class="points">779</span></span
+                >Points: <span class="points">786</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50624497"
                   >Comments</a
-                ><span class="descendants">: 292</span></span
+                ><span class="descendants">: 293</span></span
               >
             </h4>
           </section>
@@ -426,11 +555,11 @@
             <h4>
               <span>2026-11-24 @ 05:15:22</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50624061"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 99</span></span
               >
             </h4>
           </section>
@@ -445,7 +574,7 @@
             <h4>
               <span>2026-11-24 @ 04:00:28</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50623515"
                   >Comments</a
@@ -485,11 +614,11 @@
             <h4>
               <span>2026-11-24 @ 02:27:02</span
               ><span class="points-container"
-                >Points: <span class="points">702</span></span
+                >Points: <span class="points">709</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50622774"
                   >Comments</a
-                ><span class="descendants">: 336</span></span
+                ><span class="descendants">: 340</span></span
               >
             </h4>
           </section>
@@ -505,11 +634,11 @@
             <h4>
               <span>2026-11-24 @ 02:08:09</span
               ><span class="points-container"
-                >Points: <span class="points">259</span></span
+                >Points: <span class="points">267</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50622638"
                   >Comments</a
-                ><span class="descendants">: 424</span></span
+                ><span class="descendants">: 436</span></span
               >
             </h4>
             <div class="text">
@@ -532,7 +661,7 @@
             <h4>
               <span>2026-11-23 @ 22:32:29</span
               ><span class="points-container"
-                >Points: <span class="points">647</span></span
+                >Points: <span class="points">649</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50620349"
                   >Comments</a
@@ -551,7 +680,7 @@
             <h4>
               <span>2026-11-23 @ 20:52:54</span
               ><span class="points-container"
-                >Points: <span class="points">363</span></span
+                >Points: <span class="points">365</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50619103"
                   >Comments</a
@@ -570,7 +699,7 @@
             <h4>
               <span>2026-11-23 @ 16:13:12</span
               ><span class="points-container"
-                >Points: <span class="points">2325</span></span
+                >Points: <span class="points">2328</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50614249"
                   >Comments</a
@@ -589,7 +718,7 @@
             <h4>
               <span>2026-11-23 @ 14:03:38</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50611613"
                   >Comments</a
@@ -610,11 +739,11 @@
             <h4>
               <span>2026-11-23 @ 14:00:18</span
               ><span class="points-container"
-                >Points: <span class="points">2743</span></span
+                >Points: <span class="points">2745</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50611576"
                   >Comments</a
-                ><span class="descendants">: 3600</span></span
+                ><span class="descendants">: 3603</span></span
               >
             </h4>
             <div class="text">
@@ -644,7 +773,7 @@
             <h4>
               <span>2026-11-23 @ 06:54:08</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50608343"
                   >Comments</a
@@ -665,7 +794,7 @@
             <h4>
               <span>2026-11-22 @ 13:21:25</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50599458"
                   >Comments</a
@@ -687,7 +816,7 @@
             <h4>
               <span>2026-11-22 @ 11:35:03</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50598679"
                   >Comments</a
@@ -708,7 +837,7 @@
             <h4>
               <span>2026-11-22 @ 11:16:30</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50598555"
                   >Comments</a
@@ -729,32 +858,11 @@
             <h4>
               <span>2026-11-22 @ 10:12:22</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50598094"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50592307">
-          <h3>
-            <a
-              class="item"
-              href="https://www.usenix.org/conference/osdi26/presentation/ni"
-              >Arctic: A Practical Lock-Free Adaptive Radix Tree</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-21 @ 18:49:45</span
-              ><span class="points-container"
-                >Points: <span class="points">87</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50592307"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
