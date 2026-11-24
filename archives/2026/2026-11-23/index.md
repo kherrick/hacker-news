@@ -13,6 +13,7 @@
 * [2026-11-23, 22:22:56](https://news.ycombinator.com/item?id=50620250) - [Levent Alpöge comments on his Riemann Hypothesis proof](https://twitter.com/__alpoge__/status/2124987173439209561)
 * [2026-11-23, 22:09:10](https://news.ycombinator.com/item?id=50620102) - [VP ≠ VNP over Every Field](https://github.com/anthropics/formal-math/tree/main/vp-vnp)
 * [2026-11-23, 21:46:33](https://news.ycombinator.com/item?id=50619838) - [The AI conversation we're not having](https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/)
+* [2026-11-23, 21:30:41](https://news.ycombinator.com/item?id=50619630) - [Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux](https://openai.com/index/introducing-shirudo/)
 * [2026-11-23, 21:09:14](https://news.ycombinator.com/item?id=50619335) - [Wikipedia Has Hidden Doors](https://cardcatalogforlife.substack.com/p/wikipedia-has-hidden-doors-heres)
 * [2026-11-23, 21:01:16](https://news.ycombinator.com/item?id=50619207) - [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)
 * [2026-11-23, 20:59:12](https://news.ycombinator.com/item?id=50619186) - [The horse made the state](https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist)
