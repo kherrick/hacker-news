@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-24, 07:46:12](https://news.ycombinator.com/item?id=50625004) - [I'm not excited about tech anymore](https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore)
 * [2026-11-24, 06:30:33](https://news.ycombinator.com/item?id=50624497) - [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-24, 05:15:22](https://news.ycombinator.com/item?id=50624061) - [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
 * [2026-11-24, 04:00:28](https://news.ycombinator.com/item?id=50623515) - [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
@@ -24,6 +23,7 @@
 * [2026-11-23, 04:33:50](https://news.ycombinator.com/item?id=50607512) - [Lowering Perplexity Without Scaling](https://micjm.com/blog/lowering-perplexity-without-scaling/)
 * [2026-11-23, 02:04:25](https://news.ycombinator.com/item?id=50606611) - [Becoming a Magician](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)
 * [2026-11-23, 01:13:51](https://news.ycombinator.com/item?id=50606192) - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
+* [2026-11-22, 23:57:45](https://news.ycombinator.com/item?id=50605479) - [Nespresso's project to reduce grams of coffee per capsule](https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/)
 * [2026-11-22, 22:37:51](https://news.ycombinator.com/item?id=50604710) - [Modernizing iperf/iperf3 and introducing fireperf](https://blog.daniel-baumann.ch/posts/20261122-1.html)
 * [2026-11-22, 17:51:57](https://news.ycombinator.com/item?id=50602041) - [Falsehoods Programmers Believe About ATProto](https://reiver.link/atproto/falsehoods-programmers-believe/)
 * [2026-11-22, 15:59:59](https://news.ycombinator.com/item?id=50600838) - [C++26 is done (again): ISO C++ meeting trip report](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/)
