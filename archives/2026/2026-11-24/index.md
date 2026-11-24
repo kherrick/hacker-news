@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 07:46:12](https://news.ycombinator.com/item?id=50625004) - [I'm not excited about tech anymore](https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore)
 * [2026-11-24, 07:38:50](https://news.ycombinator.com/item?id=50624929) - [VP ≠ VNP over Every Field [pdf]](https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf)
 * [2026-11-24, 06:30:33](https://news.ycombinator.com/item?id=50624497) - [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-24, 06:28:04](https://news.ycombinator.com/item?id=50624487) - [India's opposition storms Meta's offices to get its Instagram accounts back](https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html)
