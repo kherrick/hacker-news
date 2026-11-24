@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 17:10:45](https://news.ycombinator.com/item?id=50631210) - [Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/)
 * [2026-11-24, 17:00:55](https://news.ycombinator.com/item?id=50631041) - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os)
 * [2026-11-24, 16:32:17](https://news.ycombinator.com/item?id=50630594) - [Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 * [2026-11-24, 16:23:02](https://news.ycombinator.com/item?id=50630462) - [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro)

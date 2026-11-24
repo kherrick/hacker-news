@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-24, 17:10:45](https://news.ycombinator.com/item?id=50631210) - [Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/)
 * [2026-11-24, 17:00:55](https://news.ycombinator.com/item?id=50631041) - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os)
 * [2026-11-24, 16:32:17](https://news.ycombinator.com/item?id=50630594) - [Cyberattack campaign compromising Check Point servers across 22 organizations](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 * [2026-11-24, 16:23:02](https://news.ycombinator.com/item?id=50630462) - [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro)
@@ -17,7 +18,6 @@
 * [2026-11-24, 06:30:33](https://news.ycombinator.com/item?id=50624497) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-24, 05:15:22](https://news.ycombinator.com/item?id=50624061) - [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
 * [2026-11-24, 04:00:28](https://news.ycombinator.com/item?id=50623515) - [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
-* [2026-11-24, 02:36:56](https://news.ycombinator.com/item?id=50622854) - [Declare is a UI language for you and your AI](https://davidtemkin.github.io/declarelang/)
 * [2026-11-24, 02:27:02](https://news.ycombinator.com/item?id=50622774) - [New York Bans Subscription and Post-Purchase Fees on Cars](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription)
 * [2026-11-24, 02:08:09](https://news.ycombinator.com/item?id=50622638) - [GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school](https://github.com/ItsNotRexed/Leonida/issues)
 * [2026-11-23, 22:32:29](https://news.ycombinator.com/item?id=50620349) - [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
