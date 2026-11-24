@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-24, 20:44:15](https://news.ycombinator.com/item?id=50634426) - [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
 * [2026-11-24, 20:08:03](https://news.ycombinator.com/item?id=50633922) - [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
 * [2026-11-24, 19:40:43](https://news.ycombinator.com/item?id=50633424) - [From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver](https://andlukyane.com/blog/cayley-graphs-and-torchtpu)
 * [2026-11-24, 19:23:44](https://news.ycombinator.com/item?id=50633159) - [Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)](https://grafana.com/grafana/download)
@@ -13,7 +14,6 @@
 * [2026-11-24, 16:11:52](https://news.ycombinator.com/item?id=50630294) - [Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage](https://masondata.ai/)
 * [2026-11-24, 15:50:22](https://news.ycombinator.com/item?id=50629962) - [The KL Divergence Is Never Negative, Except in PyTorch](https://arxiv.org/abs/2611.30835)
 * [2026-11-24, 15:48:34](https://news.ycombinator.com/item?id=50629936) - [Show HN: Brickie – Deploy sandboxes in your own AWS account](https://github.com/hatchet-dev/brickie)
-* [2026-11-24, 15:24:29](https://news.ycombinator.com/item?id=50629555) - ['Castles' Review](https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&reflink=desktopwebshare_permalink)
 * [2026-11-24, 15:03:40](https://news.ycombinator.com/item?id=50629231) - [A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe)
 * [2026-11-24, 14:54:10](https://news.ycombinator.com/item?id=50629106) - [Splitting USB-C: USB 3 and USB 2 on one port](https://www.frankchiarulli.com/blog/splitting-usb-c/)
 * [2026-11-24, 13:23:47](https://news.ycombinator.com/item?id=50627836) - [Anthropic breaks below $83 IPO price](https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading)
