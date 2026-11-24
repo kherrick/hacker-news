@@ -141,11 +141,11 @@
             <h4>
               <span>2026-11-24 @ 21:51:21</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50635271"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -162,11 +162,11 @@
             <h4>
               <span>2026-11-24 @ 21:24:27</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50634933"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -183,11 +183,11 @@
             <h4>
               <span>2026-11-24 @ 21:02:22</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50634658"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -329,11 +329,11 @@
             <h4>
               <span>2026-11-24 @ 20:08:03</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">214</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50633922"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -351,7 +351,7 @@
             <h4>
               <span>2026-11-24 @ 19:40:43</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50633424"
                   >Comments</a
@@ -396,7 +396,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50632883"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -414,11 +414,11 @@
             <h4>
               <span>2026-11-24 @ 17:07:41</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50631157"
                   >Comments</a
-                ><span class="descendants">: 166</span></span
+                ><span class="descendants">: 169</span></span
               >
             </h4>
           </section>
@@ -491,7 +491,7 @@
             <h4>
               <span>2026-11-24 @ 16:11:52</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50630294"
                   >Comments</a
@@ -628,99 +628,6 @@
             </h4>
           </section>
         </section>
-        <section id="50629936">
-          <h3>
-            <a class="item" href="https://github.com/hatchet-dev/brickie"
-              >Show HN: Brickie – Deploy sandboxes in your own AWS account</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-24 @ 15:48:34</span
-              ><span class="points-container"
-                >Points: <span class="points">20</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50629936"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://github.com/hatchet-dev/hatchet"
-                >https://github.com/hatchet-dev/hatchet</a
-              >). We’re releasing a new open-source project today called
-              Brickie. Brickie lets you run sandboxes in your own cloud account,
-              primarily targeting EKS on AWS.
-              <p>
-                Sandboxes are an incredibly useful primitive for agentic
-                applications. They serve two main functions: (1) a way for the
-                agent to safely execute untrusted code, and (2) a durable
-                filesystem for agents to preserve their state via snapshots.
-              </p>
-              <p>
-                We decided to start building this after we started on a package
-                called `@hatchet-dev/sandbox` to integrate more directly with
-                various sandbox providers, like E2B, Daytona, Archil, and Modal.
-                We discovered that a lot of users had a requirement to self-host
-                their sandbox infra for part of (or all of) their stack, due to
-                a self-host requirement for enterprises. We searched around for
-                the easiest way for users to self-host a sandbox stack and
-                agent-sandbox (<a href="https://agent-sandbox.sigs.k8s.io"
-                  >https://agent-sandbox.sigs.k8s.io</a
-                >) was the closest thing to what we had in mind: it’s a
-                kubernetes-sigs project implementing a Kubernetes operator which
-                spawns sandboxes as pods on supported isolation layers like
-                Firecracker, gVisor, and Kata Containers. We learned that many
-                platform teams were adopting this because it's a standard
-                k8s-based deployment model and is pretty easy to customize the
-                isolation layer, network config, etc.
-              </p>
-              <p>
-                However, it was missing some necessary features. brickie builds
-                on top of the agent-sandbox project and extends it to support
-                proper sandbox (filesystem-based) snapshots, fork, pause, and
-                resume, all while bundling a proper orchestration and
-                observability layer via Hatchet.
-              </p>
-              <p>
-                Zooming out a bit, Hatchet is an orchestration engine which
-                supports durable execution (<a
-                  href="https://hatchet.run/blog/durable-execution"
-                  >https://hatchet.run/blog/durable-execution</a
-                >). Throughout 2026, we saw high adoption from users building
-                agents using durable workflows as the statefulness layer and
-                execution model. But as sandboxes became more popular, something
-                didn’t sit right with us. Sandboxes _also_ provide a durability
-                layer, but at the filesystem level, and it became important to
-                disambiguate what we call <i>session state</i> from
-                <i>filesystem state</i>. I wrote a lot more about this here:
-                <a href="https://hatchet.run/blog/agent-statefulness"
-                  >https://hatchet.run/blog/agent-statefulness</a
-                >.
-              </p>
-              <p>
-                The problem with having state in multiple places is that it
-                needs coordination, which adds complexity to your application.
-                This was part of the motivation behind `@hatchet-dev/sandbox`:
-                we wanted to provide an easy way to take coordinated snapshots
-                of agent state, even when using an external sandbox provider.
-              </p>
-              <p>
-                So when we started looking at self-hosted sandbox options, it
-                was critical that this architecture was supported well. We
-                decided to support this in brickie using a pretty simple
-                snapshotting mechanism which tars and stores snapshots in an
-                object store (S3). This is something we’re actively working to
-                improve and make more performant.
-              </p>
-              <p>
-                Brickie is early and in beta, we're looking for testers,
-                contributors, and feedback on the deployment model. Thanks in
-                advance!
-              </p>
-            </div>
-          </section>
-        </section>
         <section id="50629231">
           <h3>
             <a class="item" href="https://github.com/sous-labs/songe"
@@ -732,7 +639,7 @@
             <h4>
               <span>2026-11-24 @ 15:03:40</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50629231"
                   >Comments</a
@@ -762,6 +669,27 @@
             </h4>
           </section>
         </section>
+        <section id="50627836">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+              >Anthropic breaks below $83 IPO price</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-24 @ 13:23:47</span
+              ><span class="points-container"
+                >Points: <span class="points">288</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50627836"
+                  >Comments</a
+                ><span class="descendants">: 579</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="50627783">
           <h3>
             <a
@@ -774,11 +702,11 @@
             <h4>
               <span>2026-11-24 @ 13:19:31</span
               ><span class="points-container"
-                >Points: <span class="points">224</span></span
+                >Points: <span class="points">227</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50627783"
                   >Comments</a
-                ><span class="descendants">: 249</span></span
+                ><span class="descendants">: 253</span></span
               >
             </h4>
           </section>
@@ -795,11 +723,11 @@
             <h4>
               <span>2026-11-24 @ 12:40:15</span
               ><span class="points-container"
-                >Points: <span class="points">846</span></span
+                >Points: <span class="points">850</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50627340"
                   >Comments</a
-                ><span class="descendants">: 351</span></span
+                ><span class="descendants">: 353</span></span
               >
             </h4>
           </section>
@@ -837,7 +765,7 @@
             <h4>
               <span>2026-11-24 @ 08:33:14</span
               ><span class="points-container"
-                >Points: <span class="points">318</span></span
+                >Points: <span class="points">320</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50625384"
                   >Comments</a
@@ -858,11 +786,11 @@
             <h4>
               <span>2026-11-24 @ 08:16:02</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50625265"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -879,11 +807,11 @@
             <h4>
               <span>2026-11-24 @ 06:30:33</span
               ><span class="points-container"
-                >Points: <span class="points">927</span></span
+                >Points: <span class="points">930</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50624497"
                   >Comments</a
-                ><span class="descendants">: 350</span></span
+                ><span class="descendants">: 351</span></span
               >
             </h4>
           </section>
@@ -904,7 +832,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50610820"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -919,7 +847,7 @@
             <h4>
               <span>2026-11-23 @ 09:46:57</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50609483"
                   >Comments</a
@@ -940,7 +868,7 @@
             <h4>
               <span>2026-11-22 @ 23:42:53</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50605361"
                   >Comments</a
@@ -982,7 +910,7 @@
             <h4>
               <span>2026-11-22 @ 13:21:25</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50599458"
                   >Comments</a
@@ -1003,11 +931,11 @@
             <h4>
               <span>2026-11-22 @ 11:16:30</span
               ><span class="points-container"
-                >Points: <span class="points">297</span></span
+                >Points: <span class="points">299</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50598555"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -1027,7 +955,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50591024"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
