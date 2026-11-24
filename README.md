@@ -2,7 +2,6 @@
 
 * [2026-11-24, 06:28:04](https://news.ycombinator.com/item?id=50624487) - [India's opposition storms Meta's offices to get its Instagram accounts back](https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html)
 * [2026-11-24, 05:15:22](https://news.ycombinator.com/item?id=50624061) - [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
-* [2026-11-24, 05:04:41](https://news.ycombinator.com/item?id=50623965) - [Show HN: Genesis Map – Visualize your agent's changes. See where they can break](https://github.com/GenesisAgentInfra/genesis)
 * [2026-11-24, 04:00:28](https://news.ycombinator.com/item?id=50623515) - [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
 * [2026-11-24, 02:46:54](https://news.ycombinator.com/item?id=50622934) - [Making a dumb TV just smart enough](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
 * [2026-11-24, 02:36:56](https://news.ycombinator.com/item?id=50622854) - [Declare is a UI language for you and your AI](https://davidtemkin.github.io/declarelang/)
@@ -13,6 +12,7 @@
 * [2026-11-23, 23:03:13](https://news.ycombinator.com/item?id=50620721) - [Freeing the iPod Nano 5G](https://viktorkrapivin.com/blog/nano5g-priv-prvd)
 * [2026-11-23, 22:32:29](https://news.ycombinator.com/item?id=50620349) - [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
 * [2026-11-23, 22:29:48](https://news.ycombinator.com/item?id=50620328) - [Latent Introspection: LLMs Can Detect Prior Concept Injections](https://arxiv.org/abs/2602.20031)
+* [2026-11-23, 21:30:41](https://news.ycombinator.com/item?id=50619630) - [Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux](https://openai.com/index/introducing-shirudo/)
 * [2026-11-23, 21:01:16](https://news.ycombinator.com/item?id=50619207) - [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)
 * [2026-11-23, 20:52:54](https://news.ycombinator.com/item?id=50619103) - [GPUI is getting its own repository](https://github.com/zed-industries/gpui)
 * [2026-11-23, 19:17:55](https://news.ycombinator.com/item?id=50617499) - [Per Arm's request, this site will be discontinued on 4 December 2026 :(](https://arm.jonpalmisc.com/)
