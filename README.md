@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-24, 16:12:38](https://news.ycombinator.com/item?id=50630309) - [Tidal Bans AI-Generated Music](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/)
 * [2026-11-24, 15:03:40](https://news.ycombinator.com/item?id=50629231) - [A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe)
 * [2026-11-24, 12:40:15](https://news.ycombinator.com/item?id=50627340) - [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)
 * [2026-11-24, 11:51:05](https://news.ycombinator.com/item?id=50626861) - [Who in Washington owns and trades Nvidia stock](https://www.kadoa.com/congress/insights/trump-nvidia)
@@ -21,7 +22,6 @@
 * [2026-11-23, 16:13:12](https://news.ycombinator.com/item?id=50614249) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
 * [2026-11-23, 14:00:18](https://news.ycombinator.com/item?id=50611576) - [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
 * [2026-11-23, 06:54:08](https://news.ycombinator.com/item?id=50608343) - [SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance](https://dl.acm.org/doi/10.1145/3828523.3857112)
-* [2026-11-23, 04:33:50](https://news.ycombinator.com/item?id=50607512) - [Lowering Perplexity Without Scaling](https://micjm.com/blog/lowering-perplexity-without-scaling/)
 * [2026-11-23, 01:13:51](https://news.ycombinator.com/item?id=50606192) - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
 * [2026-11-22, 23:42:53](https://news.ycombinator.com/item?id=50605361) - [The new set of problems for engineers to solve](https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve)
 * [2026-11-22, 22:37:51](https://news.ycombinator.com/item?id=50604710) - [Modernizing iperf/iperf3 and introducing fireperf](https://blog.daniel-baumann.ch/posts/20261122-1.html)
