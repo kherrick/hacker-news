@@ -12,6 +12,7 @@
 * [2026-11-21, 21:06:14](https://news.ycombinator.com/item?id=50593637) - [The Emergence of Inequality in the Czech Corded Ware Culture](https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746)
 * [2026-11-21, 20:54:18](https://news.ycombinator.com/item?id=50593540) - [Developing the perception to separate the form of a place from what it contains](https://www.thedeletedscenes.com/p/blight-and-entrepreneurship-in-manassas)
 * [2026-11-21, 20:47:41](https://news.ycombinator.com/item?id=50593481) - [Pandex – Official European Law for AI Agents, over MCP](https://www.pandex.io)
+* [2026-11-21, 19:56:36](https://news.ycombinator.com/item?id=50593006) - [Ride the SQL curve from basics to mastery](https://sqlride.com/)
 * [2026-11-21, 18:49:45](https://news.ycombinator.com/item?id=50592307) - [Arctic: A Practical Lock-Free Adaptive Radix Tree](https://www.usenix.org/conference/osdi26/presentation/ni)
 * [2026-11-21, 18:29:29](https://news.ycombinator.com/item?id=50592097) - [Upload2Shell · CVE-2026-125396](https://pwn.ai/upload2shell)
 * [2026-11-21, 18:02:19](https://news.ycombinator.com/item?id=50591853) - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
