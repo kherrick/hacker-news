@@ -28,8 +28,8 @@
 * [2026-11-22, 01:34:57](https://news.ycombinator.com/item?id=50595365) - [What does it mean to understand what we built?](https://brooker.co.za/blog/2026/11/16/understanding.html)
 * [2026-11-22, 00:13:17](https://news.ycombinator.com/item?id=50594935) - [Derivative Flipping](http://blog.sigfpe.com/2026/11/derivative-flipping.html)
 * [2026-11-21, 20:54:18](https://news.ycombinator.com/item?id=50593540) - [Developing the perception to separate the form of a place from what it contains](https://www.thedeletedscenes.com/p/blight-and-entrepreneurship-in-manassas)
-* [2026-11-21, 14:45:03](https://news.ycombinator.com/item?id=50589701) - [Mutex poisoning is not for everyone](https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html)
 * [2026-11-21, 09:14:02](https://news.ycombinator.com/item?id=50587439) - [Spacecraft reaches Mercury on second-ever mission to enter its orbit](https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo)
+* [2026-11-20, 21:47:06](https://news.ycombinator.com/item?id=50582698) - [How photos were transmitted by wire in the 1930s (2024)](https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s)
 
 ## [Archives](archives/index.md)
 
