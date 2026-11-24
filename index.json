@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2026-11-24, 00:53:46",
-      "https://news.ycombinator.com/item?id=50621977"
-    ],
-    [
-      "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
-      "https://www.science.org/doi/10.1126/scisignal.aef1375"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 00:03:59",
       "https://news.ycombinator.com/item?id=50621466"
     ],
@@ -237,6 +227,16 @@
     [
       "GLM-5.4: Toward generalized coding with our first loop transformer",
       "https://z.ai/blog/glm-5.4"
+    ]
+  ],
+  [
+    [
+      "2026-11-23, 04:33:50",
+      "https://news.ycombinator.com/item?id=50607512"
+    ],
+    [
+      "Lowering Perplexity Without Scaling",
+      "https://micjm.com/blog/lowering-perplexity-without-scaling/"
     ]
   ],
   [
