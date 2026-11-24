@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-11-24, 06:28:04",
+      "https://news.ycombinator.com/item?id=50624487"
+    ],
+    [
+      "India's opposition storms Meta's offices to get its Instagram accounts back",
+      "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 05:15:22",
+      "https://news.ycombinator.com/item?id=50624061"
+    ],
+    [
+      "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "https://www.phoronix.com/review/amd-epyc-9006-7601"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 05:04:41",
+      "https://news.ycombinator.com/item?id=50623965"
+    ],
+    [
+      "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
+      "https://github.com/GenesisAgentInfra/genesis"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 04:00:28",
       "https://news.ycombinator.com/item?id=50623515"
     ],
     [
       "Drone Maps of Salvage Yards",
       "https://salvageyarddrone.wordpress.com/"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 02:56:41",
-      "https://news.ycombinator.com/item?id=50623020"
-    ],
-    [
-      "Hacking radiators",
-      "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-11-23, 21:30:41",
-      "https://news.ycombinator.com/item?id=50619630"
-    ],
-    [
-      "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-      "https://openai.com/index/introducing-shirudo/"
-    ]
-  ],
-  [
-    [
       "2026-11-23, 21:01:16",
       "https://news.ycombinator.com/item?id=50619207"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-11-23, 12:28:11",
-      "https://news.ycombinator.com/item?id=50610743"
-    ],
-    [
-      "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
-      "https://github.com/mikuta0407/win4wine"
-    ]
-  ],
-  [
-    [
       "2026-11-23, 11:12:33",
       "https://news.ycombinator.com/item?id=50610170"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-11-22, 00:13:17",
-      "https://news.ycombinator.com/item?id=50594935"
+      "2026-11-21, 18:49:45",
+      "https://news.ycombinator.com/item?id=50592307"
     ],
     [
-      "Derivative Flipping",
-      "http://blog.sigfpe.com/2026/11/derivative-flipping.html"
+      "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+      "https://www.usenix.org/conference/osdi26/presentation/ni"
     ]
   ],
   [
