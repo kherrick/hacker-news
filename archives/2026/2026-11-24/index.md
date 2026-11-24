@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 18:55:12](https://news.ycombinator.com/item?id=50632756) - [OpenAI reveals they solved VP ≠ VNP before Anthropic](https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026)
 * [2026-11-24, 18:21:01](https://news.ycombinator.com/item?id=50632214) - [\"pervert glasses\" named word of the year by Australian national dictionary](https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/)
 * [2026-11-24, 18:00:21](https://news.ycombinator.com/item?id=50631900) - [AstridVPN: A VPN that doesn't know who you are](https://astridvpn.com/)
 * [2026-11-24, 17:10:45](https://news.ycombinator.com/item?id=50631210) - [Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/)
@@ -17,6 +18,7 @@
 * [2026-11-24, 16:08:29](https://news.ycombinator.com/item?id=50630245) - [Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban](https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/)
 * [2026-11-24, 16:01:24](https://news.ycombinator.com/item?id=50630122) - [Millions of bitcoin are probably lost for good. Almost none can be proved gone](https://blog.everstrike.io/lost-bitcoin/)
 * [2026-11-24, 15:50:22](https://news.ycombinator.com/item?id=50629962) - [The KL Divergence Is Never Negative, Except in PyTorch](https://arxiv.org/abs/2611.30835)
+* [2026-11-24, 15:24:29](https://news.ycombinator.com/item?id=50629555) - ['Castles' Review](https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&reflink=desktopwebshare_permalink)
 * [2026-11-24, 15:15:50](https://news.ycombinator.com/item?id=50629413) - [Anthropic falls below $83 IPO price in Swift reversal after record listing](https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/)
 * [2026-11-24, 15:06:51](https://news.ycombinator.com/item?id=50629289) - [Ladybird Is Freakin' Awesome](https://dbushell.com/2026/11/24/ladybird-is-freakin-awesome/)
 * [2026-11-24, 15:03:40](https://news.ycombinator.com/item?id=50629231) - [A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe)
