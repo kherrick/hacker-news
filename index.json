@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-11-23, 17:17:01",
-      "https://news.ycombinator.com/item?id=50615481"
-    ],
-    [
-      "Kagi Mail (public beta)",
-      "https://blog.kagi.com/kagi-mail-public-beta"
-    ]
-  ],
-  [
-    [
       "2026-11-23, 17:07:26",
       "https://news.ycombinator.com/item?id=50615308"
     ],
@@ -257,6 +247,16 @@
     [
       "Modernizing iperf/iperf3 and introducing fireperf",
       "https://blog.daniel-baumann.ch/posts/20261122-1.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-22, 17:51:57",
+      "https://news.ycombinator.com/item?id=50602041"
+    ],
+    [
+      "Falsehoods Programmers Believe About ATProto",
+      "https://reiver.link/atproto/falsehoods-programmers-believe/"
     ]
   ],
   [
