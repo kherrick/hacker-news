@@ -7,6 +7,7 @@
 * [2026-11-24, 19:23:44](https://news.ycombinator.com/item?id=50633159) - [Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)](https://grafana.com/grafana/download)
 * [2026-11-24, 19:12:02](https://news.ycombinator.com/item?id=50632998) - [Compiling Web Applications into Verified Operations for AI Agents](https://protocolis.co/paper/)
 * [2026-11-24, 19:03:55](https://news.ycombinator.com/item?id=50632883) - [What Cloudflare Doesn't Tell You](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/)
+* [2026-11-24, 19:00:26](https://news.ycombinator.com/item?id=50632832) - [Canada's median health-care wait time hits 30.7 weeks–longest ever recorded](https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2026)
 * [2026-11-24, 18:58:59](https://news.ycombinator.com/item?id=50632804) - [Iran's quest for its own Monroe Doctrine](https://engelsbergideas.com/notebook/irans-quest-for-its-own-monroe-doctrine/)
 * [2026-11-24, 18:55:12](https://news.ycombinator.com/item?id=50632756) - [OpenAI reveals they solved VP ≠ VNP before Anthropic](https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026)
 * [2026-11-24, 18:21:01](https://news.ycombinator.com/item?id=50632214) - [\"pervert glasses\" named word of the year by Australian national dictionary](https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/)
