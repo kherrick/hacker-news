@@ -3,8 +3,8 @@
 * [2026-11-24, 00:03:59](https://news.ycombinator.com/item?id=50621466) - [The Power of GraphQL, Without GraphQL](https://cobalt27.dev/)
 * [2026-11-23, 23:11:38](https://news.ycombinator.com/item?id=50620822) - [Huang's Return Is the Biggest National Security Scandal in U.S. History](https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/)
 * [2026-11-23, 23:03:13](https://news.ycombinator.com/item?id=50620721) - [Freeing the iPod Nano 5G](https://viktorkrapivin.com/blog/nano5g-priv-prvd)
-* [2026-11-23, 22:48:33](https://news.ycombinator.com/item?id=50620530) - [The Beauty of Artists' Studios](https://spectator.com/article/the-beauty-of-artists-studios/)
 * [2026-11-23, 22:32:29](https://news.ycombinator.com/item?id=50620349) - [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
+* [2026-11-23, 22:29:48](https://news.ycombinator.com/item?id=50620328) - [Latent Introspection: LLMs Can Detect Prior Concept Injections](https://arxiv.org/abs/2602.20031)
 * [2026-11-23, 22:22:56](https://news.ycombinator.com/item?id=50620250) - [Levent Alpöge comments on his Riemann Hypothesis proof](https://twitter.com/__alpoge__/status/2124987173439209561)
 * [2026-11-23, 22:09:10](https://news.ycombinator.com/item?id=50620102) - [VP ≠ VNP over Every Field](https://github.com/anthropics/formal-math/tree/main/vp-vnp)
 * [2026-11-23, 21:01:16](https://news.ycombinator.com/item?id=50619207) - [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)
@@ -28,8 +28,8 @@
 * [2026-11-22, 15:59:59](https://news.ycombinator.com/item?id=50600838) - [C++26 is done (again): ISO C++ meeting trip report](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/)
 * [2026-11-22, 01:34:57](https://news.ycombinator.com/item?id=50595365) - [What does it mean to understand what we built?](https://brooker.co.za/blog/2026/11/16/understanding.html)
 * [2026-11-22, 00:13:17](https://news.ycombinator.com/item?id=50594935) - [Derivative Flipping](http://blog.sigfpe.com/2026/11/derivative-flipping.html)
+* [2026-11-21, 14:45:03](https://news.ycombinator.com/item?id=50589701) - [Mutex poisoning is not for everyone](https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html)
 * [2026-11-21, 09:14:02](https://news.ycombinator.com/item?id=50587439) - [Spacecraft reaches Mercury on second-ever mission to enter its orbit](https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo)
-* [2026-11-20, 13:32:42](https://news.ycombinator.com/item?id=50574412) - [Show HN: Drive around my village in 3D](https://cherwellvalleymotorclub.app)
 
 ## [Archives](archives/index.md)
 
