@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 20:08:03](https://news.ycombinator.com/item?id=50633922) - [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
 * [2026-11-24, 19:40:43](https://news.ycombinator.com/item?id=50633424) - [From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver](https://andlukyane.com/blog/cayley-graphs-and-torchtpu)
 * [2026-11-24, 19:23:44](https://news.ycombinator.com/item?id=50633159) - [Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)](https://grafana.com/grafana/download)
 * [2026-11-24, 19:12:02](https://news.ycombinator.com/item?id=50632998) - [Compiling Web Applications into Verified Operations for AI Agents](https://protocolis.co/paper/)

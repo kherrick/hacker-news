@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-24, 20:08:03](https://news.ycombinator.com/item?id=50633922) - [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
 * [2026-11-24, 19:40:43](https://news.ycombinator.com/item?id=50633424) - [From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver](https://andlukyane.com/blog/cayley-graphs-and-torchtpu)
 * [2026-11-24, 19:23:44](https://news.ycombinator.com/item?id=50633159) - [Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)](https://grafana.com/grafana/download)
 * [2026-11-24, 19:12:02](https://news.ycombinator.com/item?id=50632998) - [Compiling web applications into verified operations for AI agents](https://protocolis.co/paper/)
@@ -9,7 +10,7 @@
 * [2026-11-24, 16:45:44](https://news.ycombinator.com/item?id=50630809) - [Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?](https://news.ycombinator.com/item?id=50630809)
 * [2026-11-24, 16:32:17](https://news.ycombinator.com/item?id=50630594) - [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 * [2026-11-24, 16:23:02](https://news.ycombinator.com/item?id=50630462) - [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro)
-* [2026-11-24, 16:11:52](https://news.ycombinator.com/item?id=50630294) - [Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage](https://masondata.ai/)
+* [2026-11-24, 16:11:52](https://news.ycombinator.com/item?id=50630294) - [Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage](https://masondata.ai/)
 * [2026-11-24, 15:50:22](https://news.ycombinator.com/item?id=50629962) - [The KL Divergence Is Never Negative, Except in PyTorch](https://arxiv.org/abs/2611.30835)
 * [2026-11-24, 15:48:34](https://news.ycombinator.com/item?id=50629936) - [Show HN: Brickie – Deploy sandboxes in your own AWS account](https://github.com/hatchet-dev/brickie)
 * [2026-11-24, 15:24:29](https://news.ycombinator.com/item?id=50629555) - ['Castles' Review](https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&reflink=desktopwebshare_permalink)
@@ -22,7 +23,6 @@
 * [2026-11-24, 08:33:14](https://news.ycombinator.com/item?id=50625384) - [Quad9 pulled their DNS service from France](https://quad9.net/news/blog/quad9-service-deactivation-in-france/)
 * [2026-11-24, 06:30:33](https://news.ycombinator.com/item?id=50624497) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-23, 23:12:40](https://news.ycombinator.com/item?id=50620831) - [The search for a top dark matter candidate](https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/)
-* [2026-11-23, 14:03:38](https://news.ycombinator.com/item?id=50611613) - [Gnomon: Git for Postgres Data](https://gnomon.bitsinfra.com/)
 * [2026-11-23, 12:40:08](https://news.ycombinator.com/item?id=50610820) - [An Italian folding bicycle design that fits into a suitcase](https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase)
 * [2026-11-23, 09:46:57](https://news.ycombinator.com/item?id=50609483) - [Calculate how many mesh radio nodes your city needs](https://meshcoveragecalculator.lalala.ing/)
 * [2026-11-23, 07:39:04](https://news.ycombinator.com/item?id=50608604) - [Show HN: KradleBench – Multi-agent AI evals in Minecraft](https://www.kradle.ai?1)
