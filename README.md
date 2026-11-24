@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-24, 00:03:59](https://news.ycombinator.com/item?id=50621466) - [The Power of GraphQL, Without GraphQL](https://cobalt27.dev/)
 * [2026-11-23, 23:11:38](https://news.ycombinator.com/item?id=50620822) - [Huang's Return Is the Biggest National Security Scandal in U.S. History](https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/)
 * [2026-11-23, 23:03:13](https://news.ycombinator.com/item?id=50620721) - [Freeing the iPod Nano 5G](https://viktorkrapivin.com/blog/nano5g-priv-prvd)
 * [2026-11-23, 22:48:33](https://news.ycombinator.com/item?id=50620530) - [The Beauty of Artists' Studios](https://spectator.com/article/the-beauty-of-artists-studios/)
@@ -21,7 +22,6 @@
 * [2026-11-23, 13:42:38](https://news.ycombinator.com/item?id=50611402) - [NariQ: BF16-level Qwen3.8-27B in a 10 GB file](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF)
 * [2026-11-23, 12:28:11](https://news.ycombinator.com/item?id=50610743) - [Win4wine – Run Windows Shell as the Linux Desktop on Wine](https://github.com/mikuta0407/win4wine)
 * [2026-11-23, 11:31:54](https://news.ycombinator.com/item?id=50610318) - [Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
-* [2026-11-23, 10:09:02](https://news.ycombinator.com/item?id=50609708) - [Show HN: Hermit CRM – Free open-source CRM for solopreneurs](https://hermitcrm.io/)
 * [2026-11-23, 10:06:43](https://news.ycombinator.com/item?id=50609685) - [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4)
 * [2026-11-23, 01:13:51](https://news.ycombinator.com/item?id=50606192) - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
 * [2026-11-22, 18:40:57](https://news.ycombinator.com/item?id=50602561) - [Show HN: Type-C – variants, options, generics and pattern matching for C](https://github.com/stass/type-c)
@@ -29,7 +29,7 @@
 * [2026-11-22, 01:34:57](https://news.ycombinator.com/item?id=50595365) - [What does it mean to understand what we built?](https://brooker.co.za/blog/2026/11/16/understanding.html)
 * [2026-11-22, 00:13:17](https://news.ycombinator.com/item?id=50594935) - [Derivative Flipping](http://blog.sigfpe.com/2026/11/derivative-flipping.html)
 * [2026-11-21, 09:14:02](https://news.ycombinator.com/item?id=50587439) - [Spacecraft reaches Mercury on second-ever mission to enter its orbit](https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo)
-* [2026-11-18, 17:00:13](https://news.ycombinator.com/item?id=50548763) - [Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains)](https://github.com/voygr-tech/placebench)
+* [2026-11-20, 13:32:42](https://news.ycombinator.com/item?id=50574412) - [Show HN: Drive around my village in 3D](https://cherwellvalleymotorclub.app)
 
 ## [Archives](archives/index.md)
 
