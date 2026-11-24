@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 09:56:08](https://news.ycombinator.com/item?id=50626012) - [Google Chrome dev team declares bug report bankruptcy](https://blog.plover.com/2026/11/18/#bug-reports)
 * [2026-11-24, 09:39:50](https://news.ycombinator.com/item?id=50625888) - [Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex](https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/)
 * [2026-11-24, 07:46:12](https://news.ycombinator.com/item?id=50625004) - [I'm not excited about tech anymore](https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore)
 * [2026-11-24, 07:38:50](https://news.ycombinator.com/item?id=50624929) - [VP ≠ VNP over Every Field [pdf]](https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf)
