@@ -27,8 +27,8 @@
 * [2026-11-23, 01:13:51](https://news.ycombinator.com/item?id=50606192) - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
 * [2026-11-22, 22:37:51](https://news.ycombinator.com/item?id=50604710) - [Modernizing iperf/iperf3 and introducing fireperf](https://blog.daniel-baumann.ch/posts/20261122-1.html)
 * [2026-11-22, 15:59:59](https://news.ycombinator.com/item?id=50600838) - [C++26 is done (again): ISO C++ meeting trip report](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/)
+* [2026-11-22, 00:13:17](https://news.ycombinator.com/item?id=50594935) - [Derivative Flipping](http://blog.sigfpe.com/2026/11/derivative-flipping.html)
 * [2026-11-21, 18:49:45](https://news.ycombinator.com/item?id=50592307) - [Arctic: A Practical Lock-Free Adaptive Radix Tree](https://www.usenix.org/conference/osdi26/presentation/ni)
-* [2026-11-21, 09:14:02](https://news.ycombinator.com/item?id=50587439) - [Spacecraft reaches Mercury on second-ever mission to enter its orbit](https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo)
 * [2026-11-20, 21:47:06](https://news.ycombinator.com/item?id=50582698) - [How photos were transmitted by wire in the 1930s (2024)](https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s)
 
 ## [Archives](archives/index.md)
