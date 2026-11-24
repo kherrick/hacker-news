@@ -2,6 +2,7 @@
 
 * [2026-11-24, 11:13:55](https://news.ycombinator.com/item?id=50626578) - [Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)
 * [2026-11-24, 10:50:14](https://news.ycombinator.com/item?id=50626413) - [Worshipping at the Altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
+* [2026-11-24, 09:47:59](https://news.ycombinator.com/item?id=50625953) - [Just a Few Bugs](https://www.justafewbugs.xyz/)
 * [2026-11-24, 09:39:50](https://news.ycombinator.com/item?id=50625888) - [Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex](https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/)
 * [2026-11-24, 06:30:33](https://news.ycombinator.com/item?id=50624497) - [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-24, 05:15:22](https://news.ycombinator.com/item?id=50624061) - [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
@@ -9,7 +10,6 @@
 * [2026-11-24, 02:46:54](https://news.ycombinator.com/item?id=50622934) - [Making a dumb TV just smart enough](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
 * [2026-11-24, 02:30:47](https://news.ycombinator.com/item?id=50622804) - [Rune: Rust VM for Emacs](https://github.com/CeleritasCelery/rune)
 * [2026-11-24, 02:27:02](https://news.ycombinator.com/item?id=50622774) - [New York Bans Subscription and Post-Purchase Fees on Cars](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription)
-* [2026-11-23, 23:12:40](https://news.ycombinator.com/item?id=50620831) - [The search for a top dark matter candidate](https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/)
 * [2026-11-23, 23:03:13](https://news.ycombinator.com/item?id=50620721) - [Freeing the iPod Nano 5G](https://viktorkrapivin.com/blog/nano5g-priv-prvd)
 * [2026-11-23, 22:32:29](https://news.ycombinator.com/item?id=50620349) - [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
 * [2026-11-23, 22:29:48](https://news.ycombinator.com/item?id=50620328) - [Latent Introspection: LLMs Can Detect Prior Concept Injections](https://arxiv.org/abs/2602.20031)
