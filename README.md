@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-24, 22:26:41](https://news.ycombinator.com/item?id=50635698) - [Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available](https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available)
 * [2026-11-24, 21:51:21](https://news.ycombinator.com/item?id=50635271) - [Heart attack and stroke risk detectable decades in advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance)
 * [2026-11-24, 21:24:27](https://news.ycombinator.com/item?id=50634933) - [An unclassified CIA system was breached in a cyberattack](https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77)
 * [2026-11-24, 21:02:22](https://news.ycombinator.com/item?id=50634658) - [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
@@ -8,7 +9,6 @@
 * [2026-11-24, 19:40:43](https://news.ycombinator.com/item?id=50633424) - [From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver](https://andlukyane.com/blog/cayley-graphs-and-torchtpu)
 * [2026-11-24, 19:23:44](https://news.ycombinator.com/item?id=50633159) - [Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)](https://grafana.com/grafana/download)
 * [2026-11-24, 19:03:55](https://news.ycombinator.com/item?id=50632883) - [Cloudflare hides shortcomings of the underlying infrastructure](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/)
-* [2026-11-24, 17:07:41](https://news.ycombinator.com/item?id=50631157) - [Microsoft declares 'Code Red' after historic outage, internal memos show](https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/)
 * [2026-11-24, 17:00:55](https://news.ycombinator.com/item?id=50631041) - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os)
 * [2026-11-24, 16:32:17](https://news.ycombinator.com/item?id=50630594) - [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 * [2026-11-24, 16:23:02](https://news.ycombinator.com/item?id=50630462) - [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro)
