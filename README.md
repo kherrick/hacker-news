@@ -25,9 +25,9 @@
 * [2026-11-23, 16:13:12](https://news.ycombinator.com/item?id=50614249) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
 * [2026-11-23, 14:03:38](https://news.ycombinator.com/item?id=50611613) - [Gnomon: Git for Postgres Data](https://gnomon.bitsinfra.com/)
 * [2026-11-23, 14:00:18](https://news.ycombinator.com/item?id=50611576) - [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
+* [2026-11-23, 12:58:33](https://news.ycombinator.com/item?id=50610977) - [Claude Code Mode Internals](https://muthuishere.medium.com/code-mode-internals-and-adapting-them-for-your-clis-and-agent-skills-3a9ae4c9782f)
 * [2026-11-23, 06:54:08](https://news.ycombinator.com/item?id=50608343) - [SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance](https://dl.acm.org/doi/10.1145/3828523.3857112)
 * [2026-11-22, 13:21:25](https://news.ycombinator.com/item?id=50599458) - [How a Mechanical Watch Keeps Time (Interactive 3D)](https://martincmartin.github.io/slidev-stem/watches/article/1/)
-* [2026-11-22, 11:35:03](https://news.ycombinator.com/item?id=50598679) - [Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88](https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html)
 * [2026-11-22, 11:16:30](https://news.ycombinator.com/item?id=50598555) - [Mechanical Pencil: Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
 * [2026-11-22, 10:12:22](https://news.ycombinator.com/item?id=50598094) - [An anti-slavery sugar bowl (2024)](https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl)
 
