@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 16:32:17](https://news.ycombinator.com/item?id=50630594) - [Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 * [2026-11-24, 16:12:38](https://news.ycombinator.com/item?id=50630309) - [Tidal Bans AI-Generated Music](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/)
 * [2026-11-24, 16:08:29](https://news.ycombinator.com/item?id=50630245) - [Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban](https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/)
 * [2026-11-24, 15:15:50](https://news.ycombinator.com/item?id=50629413) - [Anthropic falls below $83 IPO price in Swift reversal after record listing](https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/)
 * [2026-11-24, 15:06:51](https://news.ycombinator.com/item?id=50629289) - [Ladybird Is Freakin' Awesome](https://dbushell.com/2026/11/24/ladybird-is-freakin-awesome/)
 * [2026-11-24, 15:03:40](https://news.ycombinator.com/item?id=50629231) - [A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe)
+* [2026-11-24, 14:54:10](https://news.ycombinator.com/item?id=50629106) - [Splitting USB-C: USB 3 and USB 2 on One Port](https://www.frankchiarulli.com/blog/splitting-usb-c/)
 * [2026-11-24, 14:41:15](https://news.ycombinator.com/item?id=50628932) - [Anthropic is below its IPO price](https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa)
 * [2026-11-24, 13:23:47](https://news.ycombinator.com/item?id=50627836) - [Anthropic Breaks Below $83 IPO Price in Premarket Trading](https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading)
 * [2026-11-24, 13:19:31](https://news.ycombinator.com/item?id=50627783) - [GTA 6 Running on Windows](https://twitter.com/raul_bs3/status/2125213756238291075)
