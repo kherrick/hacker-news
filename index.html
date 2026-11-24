@@ -129,6 +129,133 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="50634426">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=50634426"
+              >Launch HN: Versine (YC F26) – MCP to send and receive money</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-24 @ 20:44:15</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50634426"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://versine.com">https://versine.com</a>). Versine
+              lets you send and request money just by talking or texting with
+              your AI (think Venmo with an MCP). We’re software engineers who
+              have worked on distributed systems at Stripe, Databricks, and
+              Amazon.
+              <p>
+                Versine is an MCP that sits in front of a wallet with a balance.
+                With it, your agent can do things like:
+              </p>
+              <p>
+                - Send money to someone with your approval (via passkey in our
+                app)
+              </p>
+              <p>- Send and request money to/from up to 100 people at once</p>
+              <p>
+                - Send money to people without a Versine account (they cash out
+                to their bank in 2 mins)
+              </p>
+              <p>
+                - Pay people without your explicit approval to trusted contacts
+                (you can set this)
+              </p>
+              <p>
+                Here’s a demo:
+                <a href="https://youtube.com/shorts/Q9X7zioEqi0"
+                  >https://youtube.com/shorts/Q9X7zioEqi0</a
+                >
+              </p>
+              <p>
+                We started working on this because assistants are frustratingly
+                hands-off when it comes to finance and money movement. You can
+                have your assistant go through a receipt and map out all the
+                amounts owed taking care of splitting the subtotal, taxes, tips,
+                but at the end of it the assistant hands back work to you when
+                you have to go out and make the Venmo transfer.
+              </p>
+              <p>
+                Our current solution is oriented towards power users: those who
+                want to automate everything through their agent use us to split
+                dinners, group trips, or settle poker ledgers. We see ourselves
+                unlocking more value for the general consumer as
+              </p>
+              <p>
+                1. More people turn into power users of agents, and 2. We expand
+                to a more complete banking solution: deposits, transfers, wires,
+                everything you can (and more) do with your bank offered as an
+                MCP.
+              </p>
+              <p>
+                Behind the scenes, each user has a self-custodial stablecoin
+                wallet storing USDC on Base. With self-custodial wallets, users
+                own their keys, meaning money can’t be sent without their
+                approval.
+              </p>
+              <p>
+                Interestingly, we were almost forced into this solution because
+                we had around 4 weeks to build this product (after a pivot), and
+                traditional fiat with a partner bank would have caused far too
+                many regulatory and compliance slowdowns.
+              </p>
+              <p>
+                Because of that, the only fast option that remained was using
+                stablecoin wallets. It also ensures we aren't a Money Services
+                Business (MSB) since we don’t hold control or access to the
+                user’s funds.
+              </p>
+              <p>
+                Each call to the wallet creates what we call one-time or
+                recurring standing permissions. For a one-time payment, your
+                agent makes an MCP call, and you receive a notification in our
+                mobile app. Once you swipe up in the app and approve with a
+                passkey (or your device’s biometric method), we create a
+                one-time permission that instructs your wallet to send $X to
+                your recipient’s address.
+              </p>
+              <p>
+                Trusted contacts let your agent send money to people that you’ve
+                previously authorized without explicit passkey approval.
+                Generally, these are people that you’d trust to send your money
+                back even if your agent made a mistake.
+              </p>
+              <p>
+                We’re also able to support sending money to someone off Versine
+                using claim forwarding, where the user authorizes us to forward
+                a specific amount to a future address (which we create once we
+                verify a recipient's OTP).
+              </p>
+              <p>
+                Param worked on scaling vector search at Databricks and harness
+                evals at Glean. Harshith worked on core Stripe Connect
+                fee-processing infrastructure and built an AWS Fargate
+                autoscaler at Amazon. Vishnu worked on intent-based agent
+                testing infrastructure at Amazon. None of us were experienced in
+                stablecoin or crypto infra before working on Versine but our
+                distributed systems experience has helped us a lot.
+              </p>
+              <p>
+                We'd love for you guys to try it! It's available on iOS and
+                Android and as an MCP on ChatGPT and Claude. We also support a
+                public MCP and REST API for other agents.
+              </p>
+              <p>
+                Please let us know how you find it and if it works as you'd
+                hoped!
+              </p>
+              <p><a href="https://versine.com">https://versine.com</a></p>
+            </div>
+          </section>
+        </section>
         <section id="50633922">
           <h3>
             <a class="item" href="https://prismml.com/news/bonsai-2-5-27b"
@@ -139,11 +266,11 @@
             <h4>
               <span>2026-11-24 @ 20:08:03</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50633922"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -161,7 +288,7 @@
             <h4>
               <span>2026-11-24 @ 19:40:43</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50633424"
                   >Comments</a
@@ -181,7 +308,7 @@
             <h4>
               <span>2026-11-24 @ 19:23:44</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50633159"
                   >Comments</a
@@ -201,11 +328,11 @@
             <h4>
               <span>2026-11-24 @ 19:12:02</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50632998"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -222,11 +349,11 @@
             <h4>
               <span>2026-11-24 @ 19:03:55</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50632883"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -244,11 +371,11 @@
             <h4>
               <span>2026-11-24 @ 17:07:41</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50631157"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -280,11 +407,11 @@
             <h4>
               <span>2026-11-24 @ 16:45:44</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50630809"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
             <div class="text">
@@ -323,7 +450,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50630594"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -338,11 +465,11 @@
             <h4>
               <span>2026-11-24 @ 16:23:02</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50630462"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -358,11 +485,11 @@
             <h4>
               <span>2026-11-24 @ 16:11:52</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50630294"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
             <div class="text">
@@ -490,7 +617,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50629962"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -588,27 +715,6 @@
             </div>
           </section>
         </section>
-        <section id="50629555">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&amp;reflink=desktopwebshare_permalink"
-              >'Castles' Review</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-24 @ 15:24:29</span
-              ><span class="points-container"
-                >Points: <span class="points">12</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50629555"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="50629231">
           <h3>
             <a class="item" href="https://github.com/sous-labs/songe"
@@ -620,11 +726,11 @@
             <h4>
               <span>2026-11-24 @ 15:03:40</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50629231"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -641,7 +747,7 @@
             <h4>
               <span>2026-11-24 @ 14:54:10</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50629106"
                   >Comments</a
@@ -662,11 +768,11 @@
             <h4>
               <span>2026-11-24 @ 13:23:47</span
               ><span class="points-container"
-                >Points: <span class="points">229</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50627836"
                   >Comments</a
-                ><span class="descendants">: 477</span></span
+                ><span class="descendants">: 485</span></span
               >
             </h4>
           </section>
@@ -683,11 +789,11 @@
             <h4>
               <span>2026-11-24 @ 13:19:31</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50627783"
                   >Comments</a
-                ><span class="descendants">: 173</span></span
+                ><span class="descendants">: 181</span></span
               >
             </h4>
           </section>
@@ -704,7 +810,7 @@
             <h4>
               <span>2026-11-24 @ 12:40:15</span
               ><span class="points-container"
-                >Points: <span class="points">783</span></span
+                >Points: <span class="points">786</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50627340"
                   >Comments</a
@@ -746,7 +852,7 @@
             <h4>
               <span>2026-11-24 @ 08:33:14</span
               ><span class="points-container"
-                >Points: <span class="points">272</span></span
+                >Points: <span class="points">275</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50625384"
                   >Comments</a
@@ -767,11 +873,11 @@
             <h4>
               <span>2026-11-24 @ 06:30:33</span
               ><span class="points-container"
-                >Points: <span class="points">886</span></span
+                >Points: <span class="points">890</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50624497"
                   >Comments</a
-                ><span class="descendants">: 332</span></span
+                ><span class="descendants">: 333</span></span
               >
             </h4>
           </section>
@@ -809,11 +915,11 @@
             <h4>
               <span>2026-11-23 @ 12:40:08</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50610820"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -828,7 +934,7 @@
             <h4>
               <span>2026-11-23 @ 09:46:57</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50609483"
                   >Comments</a
@@ -847,7 +953,7 @@
             <h4>
               <span>2026-11-23 @ 07:39:04</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50608604"
                   >Comments</a
@@ -919,11 +1025,11 @@
             <h4>
               <span>2026-11-22 @ 23:42:53</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50605361"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -940,11 +1046,11 @@
             <h4>
               <span>2026-11-22 @ 21:59:09</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50604355"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -961,11 +1067,11 @@
             <h4>
               <span>2026-11-22 @ 13:21:25</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50599458"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -982,7 +1088,7 @@
             <h4>
               <span>2026-11-22 @ 11:16:30</span
               ><span class="points-container"
-                >Points: <span class="points">233</span></span
+                >Points: <span class="points">239</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50598555"
                   >Comments</a
