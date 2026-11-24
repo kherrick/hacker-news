@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-11-24, 13:23:47",
-      "https://news.ycombinator.com/item?id=50627836"
-    ],
-    [
-      "Anthropic breaks below $83 IPO price",
-      "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 13:19:31",
       "https://news.ycombinator.com/item?id=50627783"
     ],
@@ -297,6 +287,16 @@
     [
       "The Spray Bottle",
       "https://mechanical-pencil.com/products/spray-bottle"
+    ]
+  ],
+  [
+    [
+      "2026-11-21, 16:46:43",
+      "https://news.ycombinator.com/item?id=50591024"
+    ],
+    [
+      "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
+      "https://github.com/PQCrypta/pqcrypta-proxy"
     ]
   ]
 ]
