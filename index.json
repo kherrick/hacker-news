@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-24, 16:32:17",
+      "https://news.ycombinator.com/item?id=50630594"
+    ],
+    [
+      "Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations",
+      "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 16:12:38",
       "https://news.ycombinator.com/item?id=50630309"
     ],
@@ -27,6 +37,16 @@
     [
       "A training engine for your local model, using your idle compute",
       "https://github.com/sous-labs/songe"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 14:54:10",
+      "https://news.ycombinator.com/item?id=50629106"
+    ],
+    [
+      "Splitting USB-C: USB 3 and USB 2 on One Port",
+      "https://www.frankchiarulli.com/blog/splitting-usb-c/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-11-24, 02:46:54",
-      "https://news.ycombinator.com/item?id=50622934"
-    ],
-    [
-      "Making a dumb TV just smart enough",
-      "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 02:36:56",
       "https://news.ycombinator.com/item?id=50622854"
     ],
@@ -177,16 +187,6 @@
     [
       "GPUI is getting its own repository",
       "https://github.com/zed-industries/gpui"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 17:07:26",
-      "https://news.ycombinator.com/item?id=50615308"
-    ],
-    [
-      "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-      "https://twitter.com/ylecun/status/2124550037912920090"
     ]
   ],
   [
