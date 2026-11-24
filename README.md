@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-24, 16:32:17](https://news.ycombinator.com/item?id=50630594) - [Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
+* [2026-11-24, 16:23:02](https://news.ycombinator.com/item?id=50630462) - [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro)
+* [2026-11-24, 16:19:55](https://news.ycombinator.com/item?id=50630423) - [How to Make a Lovable City](https://www.worksinprogress.news/p/how-to-make-a-lovable-city)
 * [2026-11-24, 16:12:38](https://news.ycombinator.com/item?id=50630309) - [Tidal Bans AI-Generated Music](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/)
 * [2026-11-24, 16:08:29](https://news.ycombinator.com/item?id=50630245) - [Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban](https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/)
 * [2026-11-24, 15:03:40](https://news.ycombinator.com/item?id=50629231) - [A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe)
@@ -23,8 +25,6 @@
 * [2026-11-23, 14:00:18](https://news.ycombinator.com/item?id=50611576) - [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
 * [2026-11-23, 06:54:08](https://news.ycombinator.com/item?id=50608343) - [SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance](https://dl.acm.org/doi/10.1145/3828523.3857112)
 * [2026-11-22, 23:42:53](https://news.ycombinator.com/item?id=50605361) - [The new set of problems for engineers to solve](https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve)
-* [2026-11-22, 22:37:51](https://news.ycombinator.com/item?id=50604710) - [Modernizing iperf/iperf3 and introducing fireperf](https://blog.daniel-baumann.ch/posts/20261122-1.html)
-* [2026-11-22, 21:59:09](https://news.ycombinator.com/item?id=50604355) - [Tomato Fraud? When San Marzano Is \"San Marzano\" – Cinco Tomatos](https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html)
 * [2026-11-22, 13:21:25](https://news.ycombinator.com/item?id=50599458) - [How a Mechanical Watch Keeps Time (Interactive 3D)](https://martincmartin.github.io/slidev-stem/watches/article/1/)
 * [2026-11-22, 11:35:03](https://news.ycombinator.com/item?id=50598679) - [Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88](https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html)
 * [2026-11-22, 11:16:30](https://news.ycombinator.com/item?id=50598555) - [Mechanical Pencil: Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)

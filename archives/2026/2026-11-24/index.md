@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
 * [2026-11-24, 16:32:17](https://news.ycombinator.com/item?id=50630594) - [Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
+* [2026-11-24, 16:23:02](https://news.ycombinator.com/item?id=50630462) - [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro)
+* [2026-11-24, 16:19:55](https://news.ycombinator.com/item?id=50630423) - [How to Make a Lovable City](https://www.worksinprogress.news/p/how-to-make-a-lovable-city)
 * [2026-11-24, 16:12:38](https://news.ycombinator.com/item?id=50630309) - [Tidal Bans AI-Generated Music](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/)
 * [2026-11-24, 16:08:29](https://news.ycombinator.com/item?id=50630245) - [Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban](https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/)
 * [2026-11-24, 15:15:50](https://news.ycombinator.com/item?id=50629413) - [Anthropic falls below $83 IPO price in Swift reversal after record listing](https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/)
