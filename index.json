@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-11-24, 19:23:44",
+      "https://news.ycombinator.com/item?id=50633159"
+    ],
+    [
+      "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "https://grafana.com/grafana/download"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 19:12:02",
+      "https://news.ycombinator.com/item?id=50632998"
+    ],
+    [
+      "Compiling Web Applications into Verified Operations for AI Agents",
+      "https://protocolis.co/paper/"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 19:03:55",
       "https://news.ycombinator.com/item?id=50632883"
     ],
     [
       "What Cloudflare Doesn't Tell You",
       "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 18:58:59",
-      "https://news.ycombinator.com/item?id=50632804"
-    ],
-    [
-      "Iran's quest for its own Monroe Doctrine",
-      "https://engelsbergideas.com/notebook/irans-quest-for-its-own-monroe-doctrine/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-11-24, 09:47:59",
-      "https://news.ycombinator.com/item?id=50625953"
-    ],
-    [
-      "Just a Few Bugs",
-      "https://www.justafewbugs.xyz/"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 08:33:14",
       "https://news.ycombinator.com/item?id=50625384"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2026-11-23, 22:32:29",
-      "https://news.ycombinator.com/item?id=50620349"
-    ],
-    [
-      "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "https://stalw.art/blog/microsoft-exchange-replacement/"
-    ]
-  ],
-  [
-    [
       "2026-11-23, 14:03:38",
       "https://news.ycombinator.com/item?id=50611613"
     ],
     [
       "Gnomon: Git for Postgres Data",
       "https://gnomon.bitsinfra.com/"
+    ]
+  ],
+  [
+    [
+      "2026-11-23, 12:40:08",
+      "https://news.ycombinator.com/item?id=50610820"
+    ],
+    [
+      "An Italian Folding Bicycle Design That Fits into a Suitcase",
+      "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase"
     ]
   ],
   [
