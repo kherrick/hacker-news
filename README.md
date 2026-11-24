@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-24, 12:40:15](https://news.ycombinator.com/item?id=50627340) - [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)
 * [2026-11-24, 11:51:05](https://news.ycombinator.com/item?id=50626861) - [Who in Washington owns and trades Nvidia stock](https://www.kadoa.com/congress/insights/trump-nvidia)
 * [2026-11-24, 11:13:55](https://news.ycombinator.com/item?id=50626578) - [Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)
 * [2026-11-24, 10:50:14](https://news.ycombinator.com/item?id=50626413) - [Worshipping at the Altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
@@ -21,7 +22,6 @@
 * [2026-11-23, 16:13:12](https://news.ycombinator.com/item?id=50614249) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
 * [2026-11-23, 14:00:18](https://news.ycombinator.com/item?id=50611576) - [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
 * [2026-11-23, 13:42:38](https://news.ycombinator.com/item?id=50611402) - [NariQ: BF16-level Qwen3.8-27B in a 10 GB file](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF)
-* [2026-11-23, 10:06:43](https://news.ycombinator.com/item?id=50609685) - [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4)
 * [2026-11-23, 04:33:50](https://news.ycombinator.com/item?id=50607512) - [Lowering Perplexity Without Scaling](https://micjm.com/blog/lowering-perplexity-without-scaling/)
 * [2026-11-23, 02:04:25](https://news.ycombinator.com/item?id=50606611) - [Becoming a Magician](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)
 * [2026-11-23, 01:13:51](https://news.ycombinator.com/item?id=50606192) - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)

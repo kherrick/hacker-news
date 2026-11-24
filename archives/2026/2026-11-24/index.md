@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 12:40:15](https://news.ycombinator.com/item?id=50627340) - [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)
 * [2026-11-24, 11:51:05](https://news.ycombinator.com/item?id=50626861) - [Who in Washington owns and trades Nvidia stock](https://www.kadoa.com/congress/insights/trump-nvidia)
 * [2026-11-24, 11:13:55](https://news.ycombinator.com/item?id=50626578) - [Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)
 * [2026-11-24, 10:50:14](https://news.ycombinator.com/item?id=50626413) - [Worshipping at the Altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
