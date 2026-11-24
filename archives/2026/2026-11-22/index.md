@@ -8,6 +8,7 @@
 * [2026-11-22, 23:57:45](https://news.ycombinator.com/item?id=50605479) - [Nespresso's project to reduce grams of coffee per capsule](https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/)
 * [2026-11-22, 23:53:00](https://news.ycombinator.com/item?id=50605445) - [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
 * [2026-11-22, 23:51:00](https://news.ycombinator.com/item?id=50605426) - [What should AAA game devs do](https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/)
+* [2026-11-22, 23:42:53](https://news.ycombinator.com/item?id=50605361) - [The new set of problems for engineers to solve](https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve)
 * [2026-11-22, 23:12:10](https://news.ycombinator.com/item?id=50605045) - [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
 * [2026-11-22, 23:06:37](https://news.ycombinator.com/item?id=50604988) - [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
 * [2026-11-22, 23:02:20](https://news.ycombinator.com/item?id=50604959) - [Do Not Accept](https://donotaccept.ai/)
