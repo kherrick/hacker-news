@@ -32,6 +32,7 @@
 * [2026-11-22, 18:50:27](https://news.ycombinator.com/item?id=50602660) - [Dirac's Theorem at a Dinner Party](https://prideout.net/blog/dirac-dinner-party/)
 * [2026-11-22, 18:40:57](https://news.ycombinator.com/item?id=50602561) - [Show HN: Type-C – variants, options, generics and pattern matching for C](https://github.com/stass/type-c)
 * [2026-11-22, 18:01:54](https://news.ycombinator.com/item?id=50602153) - [Harvard CS 2881R AI Safety](https://boazbk.github.io/mltheoryseminar/)
+* [2026-11-22, 17:51:57](https://news.ycombinator.com/item?id=50602041) - [Falsehoods Programmers Believe About ATProto](https://reiver.link/atproto/falsehoods-programmers-believe/)
 * [2026-11-22, 17:32:41](https://news.ycombinator.com/item?id=50601823) - [Was software just always too complex for humans?](https://anil.recoil.org/notes/software-too-complex-for-humans)
 * [2026-11-22, 17:06:27](https://news.ycombinator.com/item?id=50601525) - [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
 * [2026-11-22, 15:59:59](https://news.ycombinator.com/item?id=50600838) - [C++26 is done (again): November 2026 ISO C++ meeting trip report](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/)
