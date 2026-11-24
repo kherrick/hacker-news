@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-11-24, 03:16:58",
-      "https://news.ycombinator.com/item?id=50623175"
-    ],
-    [
-      "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
-      "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 02:56:41",
       "https://news.ycombinator.com/item?id=50623020"
     ],
@@ -127,6 +117,16 @@
     [
       "Latent Introspection: LLMs Can Detect Prior Concept Injections",
       "https://arxiv.org/abs/2602.20031"
+    ]
+  ],
+  [
+    [
+      "2026-11-23, 21:30:41",
+      "https://news.ycombinator.com/item?id=50619630"
+    ],
+    [
+      "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+      "https://openai.com/index/introducing-shirudo/"
     ]
   ],
   [
