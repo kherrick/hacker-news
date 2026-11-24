@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-24, 15:15:50",
+      "https://news.ycombinator.com/item?id=50629413"
+    ],
+    [
+      "Anthropic falls below $83 IPO price in Swift reversal after record listing",
+      "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 15:03:40",
+      "https://news.ycombinator.com/item?id=50629231"
+    ],
+    [
+      "A training engine for your local model, using your idle compute",
+      "https://github.com/sous-labs/songe"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 14:41:15",
       "https://news.ycombinator.com/item?id=50628932"
     ],
@@ -207,26 +227,6 @@
     [
       "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
       "https://dl.acm.org/doi/10.1145/3828523.3857112"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 04:33:50",
-      "https://news.ycombinator.com/item?id=50607512"
-    ],
-    [
-      "Lowering Perplexity Without Scaling",
-      "https://micjm.com/blog/lowering-perplexity-without-scaling/"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 01:13:51",
-      "https://news.ycombinator.com/item?id=50606192"
-    ],
-    [
-      "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "https://spelunkr.tv"
     ]
   ],
   [
