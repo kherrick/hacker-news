@@ -1,32 +1,22 @@
 [
   [
     [
+      "2026-11-24, 19:03:55",
+      "https://news.ycombinator.com/item?id=50632883"
+    ],
+    [
+      "What Cloudflare Doesn't Tell You",
+      "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 18:55:12",
       "https://news.ycombinator.com/item?id=50632756"
     ],
     [
       "OpenAI reveals they solved VP ≠ VNP before Anthropic",
       "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 18:00:21",
-      "https://news.ycombinator.com/item?id=50631900"
-    ],
-    [
-      "AstridVPN: A VPN that doesn't know who you are",
-      "https://astridvpn.com/"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 17:10:45",
-      "https://news.ycombinator.com/item?id=50631210"
-    ],
-    [
-      "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
-      "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
     ]
   ],
   [
@@ -47,6 +37,16 @@
     [
       "Weave (YC W25) is hiring ML, AI, product, & design engineers",
       "https://jobs.ashbyhq.com/weave-os"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 16:45:44",
+      "https://news.ycombinator.com/item?id=50630809"
+    ],
+    [
+      "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "https://news.ycombinator.com/item?id=50630809"
     ]
   ],
   [
@@ -141,6 +141,26 @@
   ],
   [
     [
+      "2026-11-24, 13:23:47",
+      "https://news.ycombinator.com/item?id=50627836"
+    ],
+    [
+      "Anthropic breaks below $83 IPO price",
+      "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 13:19:31",
+      "https://news.ycombinator.com/item?id=50627783"
+    ],
+    [
+      "GTA 6 Running on Windows",
+      "https://twitter.com/raul_bs3/status/2125213756238291075"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 12:40:15",
       "https://news.ycombinator.com/item?id=50627340"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-11-24, 05:15:22",
-      "https://news.ycombinator.com/item?id=50624061"
-    ],
-    [
-      "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "https://www.phoronix.com/review/amd-epyc-9006-7601"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 02:08:09",
       "https://news.ycombinator.com/item?id=50622638"
     ],
@@ -217,16 +227,6 @@
     [
       "Stalwart is now a drop-in replacement for Microsoft Exchange",
       "https://stalw.art/blog/microsoft-exchange-replacement/"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 16:13:12",
-      "https://news.ycombinator.com/item?id=50614249"
-    ],
-    [
-      "Ladybird is now in alpha",
-      "https://ladybird.org/posts/alpha/"
     ]
   ],
   [
