@@ -11,7 +11,9 @@
 * [2026-11-24, 05:15:22](https://news.ycombinator.com/item?id=50624061) - [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
 * [2026-11-24, 04:00:28](https://news.ycombinator.com/item?id=50623515) - [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
 * [2026-11-24, 02:46:54](https://news.ycombinator.com/item?id=50622934) - [Making a dumb TV just smart enough](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
+* [2026-11-24, 02:36:56](https://news.ycombinator.com/item?id=50622854) - [Declare is a UI language for you and your AI](https://davidtemkin.github.io/declarelang/)
 * [2026-11-24, 02:27:02](https://news.ycombinator.com/item?id=50622774) - [New York Bans Subscription and Post-Purchase Fees on Cars](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription)
+* [2026-11-24, 02:08:09](https://news.ycombinator.com/item?id=50622638) - [GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school](https://github.com/ItsNotRexed/Leonida/issues)
 * [2026-11-23, 23:03:13](https://news.ycombinator.com/item?id=50620721) - [Freeing the iPod Nano 5G](https://viktorkrapivin.com/blog/nano5g-priv-prvd)
 * [2026-11-23, 22:32:29](https://news.ycombinator.com/item?id=50620349) - [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
 * [2026-11-23, 21:01:16](https://news.ycombinator.com/item?id=50619207) - [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)
@@ -20,7 +22,6 @@
 * [2026-11-23, 17:07:26](https://news.ycombinator.com/item?id=50615308) - [\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"](https://twitter.com/ylecun/status/2124550037912920090)
 * [2026-11-23, 16:13:12](https://news.ycombinator.com/item?id=50614249) - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
 * [2026-11-23, 14:00:18](https://news.ycombinator.com/item?id=50611576) - [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
-* [2026-11-23, 13:42:38](https://news.ycombinator.com/item?id=50611402) - [NariQ: BF16-level Qwen3.8-27B in a 10 GB file](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF)
 * [2026-11-23, 04:33:50](https://news.ycombinator.com/item?id=50607512) - [Lowering Perplexity Without Scaling](https://micjm.com/blog/lowering-perplexity-without-scaling/)
 * [2026-11-23, 02:04:25](https://news.ycombinator.com/item?id=50606611) - [Becoming a Magician](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)
 * [2026-11-23, 01:13:51](https://news.ycombinator.com/item?id=50606192) - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
@@ -29,7 +30,6 @@
 * [2026-11-22, 11:35:03](https://news.ycombinator.com/item?id=50598679) - [Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88](https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html)
 * [2026-11-22, 10:12:22](https://news.ycombinator.com/item?id=50598094) - [An anti-slavery sugar bowl (2024)](https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl)
 * [2026-11-21, 18:49:45](https://news.ycombinator.com/item?id=50592307) - [Arctic: A Practical Lock-Free Adaptive Radix Tree](https://www.usenix.org/conference/osdi26/presentation/ni)
-* [2026-11-20, 21:47:06](https://news.ycombinator.com/item?id=50582698) - [How photos were transmitted by wire in the 1930s (2024)](https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s)
 
 ## [Archives](archives/index.md)
 
