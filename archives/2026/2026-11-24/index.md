@@ -11,6 +11,7 @@
 * [2026-11-24, 02:58:20](https://news.ycombinator.com/item?id=50623038) - [Show HN: FireVoice, free open-source voice studio on your own GPU](https://firevoice.fabwaseem.com)
 * [2026-11-24, 02:56:41](https://news.ycombinator.com/item?id=50623020) - [Hacking radiators for fun and no profit](https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/)
 * [2026-11-24, 02:46:54](https://news.ycombinator.com/item?id=50622934) - [Making a dumb TV just smart enough](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
+* [2026-11-24, 02:36:56](https://news.ycombinator.com/item?id=50622854) - [Declare is a UI language for you and your AI](https://davidtemkin.github.io/declarelang/)
 * [2026-11-24, 02:30:47](https://news.ycombinator.com/item?id=50622804) - [Rune: Rust VM for Emacs](https://github.com/CeleritasCelery/rune)
 * [2026-11-24, 02:27:02](https://news.ycombinator.com/item?id=50622774) - [New York Bans Subscription and Post-Purchase Fees on Cars](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription)
 * [2026-11-24, 02:26:23](https://news.ycombinator.com/item?id=50622769) - [New York Bans Subscription and Post-Purchase Fees on Cars](https://wgna.com/car-bill-extra-fees/)
