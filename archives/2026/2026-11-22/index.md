@@ -52,6 +52,7 @@
 * [2026-11-22, 12:19:46](https://news.ycombinator.com/item?id=50598961) - [AI is becoming a disaster for the climate](https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the)
 * [2026-11-22, 11:35:03](https://news.ycombinator.com/item?id=50598679) - [Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88](https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html)
 * [2026-11-22, 10:59:56](https://news.ycombinator.com/item?id=50598441) - [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/)
+* [2026-11-22, 10:12:22](https://news.ycombinator.com/item?id=50598094) - [An anti-slavery sugar bowl (2024)](https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl)
 * [2026-11-22, 09:57:01](https://news.ycombinator.com/item?id=50597959) - [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/)
 * [2026-11-22, 09:18:36](https://news.ycombinator.com/item?id=50597743) - [Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts](https://arxiv.org/abs/2606.14068)
 * [2026-11-22, 08:57:34](https://news.ycombinator.com/item?id=50597612) - [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
