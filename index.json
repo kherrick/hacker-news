@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-11-24, 17:00:55",
+      "https://news.ycombinator.com/item?id=50631041"
+    ],
+    [
+      "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "https://jobs.ashbyhq.com/weave-os"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 16:32:17",
       "https://news.ycombinator.com/item?id=50630594"
     ],
     [
-      "Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations",
+      "Cyberattack campaign compromising Check Point servers across 22 organizations",
       "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=50630309"
     ],
     [
-      "Tidal Bans AI-Generated Music",
+      "Tidal bans AI-generated music",
       "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
     ]
   ],
@@ -47,6 +57,16 @@
     [
       "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
       "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 15:50:22",
+      "https://news.ycombinator.com/item?id=50629962"
+    ],
+    [
+      "The KL Divergence Is Never Negative, Except in PyTorch",
+      "https://arxiv.org/abs/2611.30835"
     ]
   ],
   [
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2026-11-23, 21:01:16",
-      "https://news.ycombinator.com/item?id=50619207"
-    ],
-    [
-      "Bored.com: Fun, interesting and cool websites to explore when bored",
-      "https://www.bored.com/"
-    ]
-  ],
-  [
-    [
       "2026-11-23, 20:52:54",
       "https://news.ycombinator.com/item?id=50619103"
     ],
     [
       "GPUI is getting its own repository",
       "https://github.com/zed-industries/gpui"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 17:07:26",
-      "https://news.ycombinator.com/item?id=50615308"
-    ],
-    [
-      "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-      "https://twitter.com/ylecun/status/2124550037912920090"
     ]
   ],
   [
