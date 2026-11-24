@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 15:15:50](https://news.ycombinator.com/item?id=50629413) - [Anthropic falls below $83 IPO price in Swift reversal after record listing](https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/)
 * [2026-11-24, 15:06:51](https://news.ycombinator.com/item?id=50629289) - [Ladybird Is Freakin' Awesome](https://dbushell.com/2026/11/24/ladybird-is-freakin-awesome/)
+* [2026-11-24, 15:03:40](https://news.ycombinator.com/item?id=50629231) - [A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe)
 * [2026-11-24, 14:41:15](https://news.ycombinator.com/item?id=50628932) - [Anthropic is below its IPO price](https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa)
 * [2026-11-24, 13:23:47](https://news.ycombinator.com/item?id=50627836) - [Anthropic Breaks Below $83 IPO Price in Premarket Trading](https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading)
 * [2026-11-24, 13:19:31](https://news.ycombinator.com/item?id=50627783) - [GTA 6 Running on Windows](https://twitter.com/raul_bs3/status/2125213756238291075)
