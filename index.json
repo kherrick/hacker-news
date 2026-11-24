@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=50632998"
     ],
     [
-      "Compiling Web Applications into Verified Operations for AI Agents",
+      "Compiling web applications into verified operations for AI agents",
       "https://protocolis.co/paper/"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=50632883"
     ],
     [
-      "What Cloudflare Doesn't Tell You",
+      "Cloudflare hides shortcomings of the underlying infrastructure",
       "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=50629936"
     ],
     [
-      "Show HN: Brickie – deploy sandboxes in your own AWS account",
+      "Show HN: Brickie – Deploy sandboxes in your own AWS account",
       "https://github.com/hatchet-dev/brickie"
     ]
   ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-11-24, 02:08:09",
-      "https://news.ycombinator.com/item?id=50622638"
-    ],
-    [
-      "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
-      "https://github.com/ItsNotRexed/Leonida/issues"
-    ]
-  ],
-  [
-    [
       "2026-11-23, 23:12:40",
       "https://news.ycombinator.com/item?id=50620831"
     ],
@@ -245,18 +235,28 @@
       "https://news.ycombinator.com/item?id=50610820"
     ],
     [
-      "An Italian Folding Bicycle Design That Fits into a Suitcase",
+      "An Italian folding bicycle design that fits into a suitcase",
       "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase"
     ]
   ],
   [
     [
-      "2026-11-23, 06:54:08",
-      "https://news.ycombinator.com/item?id=50608343"
+      "2026-11-23, 09:46:57",
+      "https://news.ycombinator.com/item?id=50609483"
     ],
     [
-      "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
-      "https://dl.acm.org/doi/10.1145/3828523.3857112"
+      "Calculate how many mesh radio nodes your city needs",
+      "https://meshcoveragecalculator.lalala.ing/"
+    ]
+  ],
+  [
+    [
+      "2026-11-23, 07:39:04",
+      "https://news.ycombinator.com/item?id=50608604"
+    ],
+    [
+      "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+      "https://www.kradle.ai?1"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=50598555"
     ],
     [
-      "Mechanical Pencil: Spray Bottle",
+      "The Spray Bottle",
       "https://mechanical-pencil.com/products/spray-bottle"
     ]
   ]
