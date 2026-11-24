@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-11-24, 18:00:21",
+      "https://news.ycombinator.com/item?id=50631900"
+    ],
+    [
+      "AstridVPN: A VPN that doesn't know who you are",
+      "https://astridvpn.com/"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 17:10:45",
       "https://news.ycombinator.com/item?id=50631210"
     ],
     [
       "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
       "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 17:07:41",
+      "https://news.ycombinator.com/item?id=50631157"
+    ],
+    [
+      "Microsoft declares 'Code Red' after historic outage, internal memos show",
+      "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/"
     ]
   ],
   [
@@ -77,6 +97,16 @@
     [
       "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
       "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 16:01:24",
+      "https://news.ycombinator.com/item?id=50630122"
+    ],
+    [
+      "Millions of bitcoin are probably lost for good. Almost none can be proved gone",
+      "https://blog.everstrike.io/lost-bitcoin/"
     ]
   ],
   [
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2026-11-24, 04:00:28",
-      "https://news.ycombinator.com/item?id=50623515"
-    ],
-    [
-      "Drone Maps of Salvage Yards",
-      "https://salvageyarddrone.wordpress.com/"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 02:27:02",
-      "https://news.ycombinator.com/item?id=50622774"
-    ],
-    [
-      "New York Bans Subscription and Post-Purchase Fees on Cars",
-      "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 02:08:09",
       "https://news.ycombinator.com/item?id=50622638"
     ],
@@ -207,16 +217,6 @@
     [
       "Stalwart is now a drop-in replacement for Microsoft Exchange",
       "https://stalw.art/blog/microsoft-exchange-replacement/"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 20:52:54",
-      "https://news.ycombinator.com/item?id=50619103"
-    ],
-    [
-      "GPUI is getting its own repository",
-      "https://github.com/zed-industries/gpui"
     ]
   ],
   [
