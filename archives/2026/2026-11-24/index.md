@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 11:51:05](https://news.ycombinator.com/item?id=50626861) - [Who in Washington owns and trades Nvidia stock](https://www.kadoa.com/congress/insights/trump-nvidia)
 * [2026-11-24, 11:13:55](https://news.ycombinator.com/item?id=50626578) - [Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)
 * [2026-11-24, 10:50:14](https://news.ycombinator.com/item?id=50626413) - [Worshipping at the Altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
 * [2026-11-24, 09:56:08](https://news.ycombinator.com/item?id=50626012) - [Google Chrome dev team declares bug report bankruptcy](https://blog.plover.com/2026/11/18/#bug-reports)
 * [2026-11-24, 09:47:59](https://news.ycombinator.com/item?id=50625953) - [Just a Few Bugs](https://www.justafewbugs.xyz/)
 * [2026-11-24, 09:39:50](https://news.ycombinator.com/item?id=50625888) - [Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex](https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/)
+* [2026-11-24, 08:33:14](https://news.ycombinator.com/item?id=50625384) - [Quad9 pulled their DNS service from France](https://quad9.net/news/blog/quad9-service-deactivation-in-france/)
 * [2026-11-24, 07:46:12](https://news.ycombinator.com/item?id=50625004) - [I'm not excited about tech anymore](https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore)
 * [2026-11-24, 07:38:50](https://news.ycombinator.com/item?id=50624929) - [VP ≠ VNP over Every Field [pdf]](https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf)
 * [2026-11-24, 06:30:33](https://news.ycombinator.com/item?id=50624497) - [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early)
