@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
+* [2026-11-24, 06:28:04](https://news.ycombinator.com/item?id=50624487) - [India's opposition storms Meta's offices to get its Instagram accounts back](https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html)
+* [2026-11-24, 05:15:22](https://news.ycombinator.com/item?id=50624061) - [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
+* [2026-11-24, 05:04:41](https://news.ycombinator.com/item?id=50623965) - [Show HN: Genesis Map – Visualize your agent's changes. See where they can break](https://github.com/GenesisAgentInfra/genesis)
 * [2026-11-24, 04:42:02](https://news.ycombinator.com/item?id=50623812) - [Online Backrooms](https://onlinebackrooms.com/)
 * [2026-11-24, 04:00:28](https://news.ycombinator.com/item?id=50623515) - [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
 * [2026-11-24, 03:19:38](https://news.ycombinator.com/item?id=50623202) - [Mcpseal: Grade an MCP server for safety before you install it](https://www.npmjs.com/package/@hashshabbir/mcp-pack)
