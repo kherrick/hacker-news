@@ -16,6 +16,7 @@
 * [2026-11-22, 22:37:51](https://news.ycombinator.com/item?id=50604710) - [Modernizing iperf/iperf3 and introducing fireperf](https://blog.daniel-baumann.ch/posts/20261122-1.html)
 * [2026-11-22, 22:18:48](https://news.ycombinator.com/item?id=50604540) - [Localcode, open source agentic coding on your Mac with one command](https://github.com/mjwsolo/localcode)
 * [2026-11-22, 22:10:58](https://news.ycombinator.com/item?id=50604472) - [The Usefulness of Useless Knowledge [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
+* [2026-11-22, 21:59:09](https://news.ycombinator.com/item?id=50604355) - [Tomato Fraud? When San Marzano Is \"San Marzano\" – Cinco Tomatos](https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html)
 * [2026-11-22, 21:53:45](https://news.ycombinator.com/item?id=50604314) - [Agent swarm trying to solve P vs. NP](https://pequalnp.com/)
 * [2026-11-22, 21:33:12](https://news.ycombinator.com/item?id=50604123) - [The struggle for freedom: How BSD escaped AT&T licensing](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/)
 * [2026-11-22, 21:13:10](https://news.ycombinator.com/item?id=50603962) - [Will the first approved psychedelic become a blockbuster?](https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/)
