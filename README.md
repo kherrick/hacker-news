@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-24, 19:03:55](https://news.ycombinator.com/item?id=50632883) - [What Cloudflare Doesn't Tell You](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/)
+* [2026-11-24, 18:58:59](https://news.ycombinator.com/item?id=50632804) - [Iran's quest for its own Monroe Doctrine](https://engelsbergideas.com/notebook/irans-quest-for-its-own-monroe-doctrine/)
 * [2026-11-24, 18:55:12](https://news.ycombinator.com/item?id=50632756) - [OpenAI reveals they solved VP ≠ VNP before Anthropic](https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026)
 * [2026-11-24, 17:07:41](https://news.ycombinator.com/item?id=50631157) - [Microsoft declares 'Code Red' after historic outage, internal memos show](https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/)
 * [2026-11-24, 17:00:55](https://news.ycombinator.com/item?id=50631041) - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os)
@@ -21,15 +22,14 @@
 * [2026-11-24, 09:47:59](https://news.ycombinator.com/item?id=50625953) - [Just a Few Bugs](https://www.justafewbugs.xyz/)
 * [2026-11-24, 08:33:14](https://news.ycombinator.com/item?id=50625384) - [Quad9 pulled their DNS service from France](https://quad9.net/news/blog/quad9-service-deactivation-in-france/)
 * [2026-11-24, 06:30:33](https://news.ycombinator.com/item?id=50624497) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
-* [2026-11-24, 02:08:09](https://news.ycombinator.com/item?id=50622638) - [GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school](https://github.com/ItsNotRexed/Leonida/issues)
+* [2026-11-23, 23:12:40](https://news.ycombinator.com/item?id=50620831) - [The search for a top dark matter candidate](https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/)
 * [2026-11-23, 22:32:29](https://news.ycombinator.com/item?id=50620349) - [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
 * [2026-11-23, 14:03:38](https://news.ycombinator.com/item?id=50611613) - [Gnomon: Git for Postgres Data](https://gnomon.bitsinfra.com/)
-* [2026-11-23, 14:00:18](https://news.ycombinator.com/item?id=50611576) - [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
 * [2026-11-23, 06:54:08](https://news.ycombinator.com/item?id=50608343) - [SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance](https://dl.acm.org/doi/10.1145/3828523.3857112)
+* [2026-11-22, 23:42:53](https://news.ycombinator.com/item?id=50605361) - [The new set of problems for engineers to solve](https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve)
 * [2026-11-22, 21:59:09](https://news.ycombinator.com/item?id=50604355) - [Cento fine foods has been sued for “tomato fraud”](https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html)
 * [2026-11-22, 13:21:25](https://news.ycombinator.com/item?id=50599458) - [How a Mechanical Watch Keeps Time (Interactive 3D)](https://martincmartin.github.io/slidev-stem/watches/article/1/)
 * [2026-11-22, 11:16:30](https://news.ycombinator.com/item?id=50598555) - [Mechanical Pencil: Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
-* [2026-11-22, 10:12:22](https://news.ycombinator.com/item?id=50598094) - [An anti-slavery sugar bowl (2024)](https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl)
 
 ## [Archives](archives/index.md)
 

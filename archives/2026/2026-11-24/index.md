@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
 * [2026-11-24, 19:03:55](https://news.ycombinator.com/item?id=50632883) - [What Cloudflare Doesn't Tell You](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/)
+* [2026-11-24, 18:58:59](https://news.ycombinator.com/item?id=50632804) - [Iran's quest for its own Monroe Doctrine](https://engelsbergideas.com/notebook/irans-quest-for-its-own-monroe-doctrine/)
 * [2026-11-24, 18:55:12](https://news.ycombinator.com/item?id=50632756) - [OpenAI reveals they solved VP ≠ VNP before Anthropic](https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026)
 * [2026-11-24, 18:21:01](https://news.ycombinator.com/item?id=50632214) - [\"pervert glasses\" named word of the year by Australian national dictionary](https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/)
 * [2026-11-24, 18:00:21](https://news.ycombinator.com/item?id=50631900) - [AstridVPN: A VPN that doesn't know who you are](https://astridvpn.com/)
