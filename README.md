@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-25, 01:19:26](https://news.ycombinator.com/item?id=50637220) - [Matrix Multiplication is O(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
 * [2026-11-25, 00:54:49](https://news.ycombinator.com/item?id=50637056) - [PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/)
 * [2026-11-25, 00:36:43](https://news.ycombinator.com/item?id=50636925) - [Here in the World: Letters of Albert Camus, 1944–1959](https://literaryreview.co.uk/here-in-the-world)
 * [2026-11-24, 22:26:41](https://news.ycombinator.com/item?id=50635698) - [Fable 5.2 tries less on some hard tasks when a shortcut is available](https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available)
@@ -21,7 +22,6 @@
 * [2026-11-24, 10:50:14](https://news.ycombinator.com/item?id=50626413) - [Worshipping at the altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
 * [2026-11-24, 08:33:14](https://news.ycombinator.com/item?id=50625384) - [Quad9 pulled their DNS service from France](https://quad9.net/news/blog/quad9-service-deactivation-in-france/)
 * [2026-11-24, 08:16:02](https://news.ycombinator.com/item?id=50625265) - [Gödel Enigma](https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description)
-* [2026-11-24, 06:30:33](https://news.ycombinator.com/item?id=50624497) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-24, 02:08:09](https://news.ycombinator.com/item?id=50622638) - [GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school](https://github.com/ItsNotRexed/Leonida/issues)
 * [2026-11-23, 12:40:08](https://news.ycombinator.com/item?id=50610820) - [An Italian folding bicycle design that fits into a suitcase](https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase)
 * [2026-11-23, 09:46:57](https://news.ycombinator.com/item?id=50609483) - [Calculate how many mesh radio nodes your city needs](https://meshcoveragecalculator.lalala.ing/)
