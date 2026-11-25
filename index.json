@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-11-25, 17:34:34",
+      "https://news.ycombinator.com/item?id=50644980"
+    ],
+    [
+      "The polynomial Hirsch conjecture is false [pdf]",
+      "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 17:18:26",
       "https://news.ycombinator.com/item?id=50644817"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-11-24, 13:14:37",
-      "https://news.ycombinator.com/item?id=50627726"
-    ],
-    [
-      "Getting old Java phones online again",
-      "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 13:06:17",
       "https://news.ycombinator.com/item?id=50627625"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=50624446"
     ],
     [
-      "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
       "https://jayd.ml/2026/11/14/rockbox-on-yp3.html"
     ]
   ],
