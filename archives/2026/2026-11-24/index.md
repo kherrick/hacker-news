@@ -35,6 +35,7 @@
 * [2026-11-24, 15:50:22](https://news.ycombinator.com/item?id=50629962) - [The KL Divergence Is Never Negative, Except in PyTorch](https://arxiv.org/abs/2611.30835)
 * [2026-11-24, 15:48:34](https://news.ycombinator.com/item?id=50629936) - [Show HN: Brickie – deploy sandboxes in your own AWS account](https://github.com/hatchet-dev/brickie)
 * [2026-11-24, 15:24:29](https://news.ycombinator.com/item?id=50629555) - ['Castles' Review](https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&reflink=desktopwebshare_permalink)
+* [2026-11-24, 15:17:49](https://news.ycombinator.com/item?id=50629442) - [Turning raw air traffic control recordings into lo-fi beats](https://finalapproach.fm/field-notes/how-a-track-is-made/)
 * [2026-11-24, 15:15:50](https://news.ycombinator.com/item?id=50629413) - [Anthropic falls below $83 IPO price in Swift reversal after record listing](https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/)
 * [2026-11-24, 15:06:51](https://news.ycombinator.com/item?id=50629289) - [Ladybird Is Freakin' Awesome](https://dbushell.com/2026/11/24/ladybird-is-freakin-awesome/)
 * [2026-11-24, 15:03:40](https://news.ycombinator.com/item?id=50629231) - [A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe)
