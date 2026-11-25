@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-25, 15:20:15",
+      "https://news.ycombinator.com/item?id=50643199"
+    ],
+    [
+      "In C++, = default and {} are not the same constructor",
+      "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 15:14:32",
       "https://news.ycombinator.com/item?id=50643129"
     ],
@@ -217,16 +227,6 @@
     [
       "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
       "https://news.ycombinator.com/item?id=50630809"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 16:32:17",
-      "https://news.ycombinator.com/item?id=50630594"
-    ],
-    [
-      "Active intrusion campaign against Check Point security management servers",
-      "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
     ]
   ],
   [
