@@ -101,6 +101,26 @@
   ],
   [
     [
+      "2026-11-25, 08:23:34",
+      "https://news.ycombinator.com/item?id=50639929"
+    ],
+    [
+      "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+      "https://arxiv.org/abs/2611.31286"
+    ]
+  ],
+  [
+    [
+      "2026-11-25, 07:46:43",
+      "https://news.ycombinator.com/item?id=50639698"
+    ],
+    [
+      "Smart people who give a shit use tools",
+      "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 04:31:48",
       "https://news.ycombinator.com/item?id=50638503"
     ],
@@ -117,16 +137,6 @@
     [
       "Taking over US Treasury subdomains for $3 each",
       "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each"
-    ]
-  ],
-  [
-    [
-      "2026-11-25, 03:47:42",
-      "https://news.ycombinator.com/item?id=50638220"
-    ],
-    [
-      "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "https://www.marginalia.nu/log/a_141_marginalia_update/"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2026-11-24, 14:14:47",
+      "https://news.ycombinator.com/item?id=50628517"
+    ],
+    [
+      "Is your DNS ready for a bigger namespace?",
+      "https://www.akamai.com/blog/security/2026/nov/1615-new-tlds-dns-ready-for-bigger-namespace"
+    ]
+  ],
+  [
+    [
       "2026-11-24, 13:14:37",
       "https://news.ycombinator.com/item?id=50627726"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-11-24, 04:49:58",
-      "https://news.ycombinator.com/item?id=50623866"
-    ],
-    [
-      "The algebra of dependent types (2025)",
-      "https://dotat.at/@/2025-05-28-types.html"
-    ]
-  ],
-  [
-    [
       "2026-11-23, 05:33:34",
       "https://news.ycombinator.com/item?id=50607849"
     ],
     [
       "The short age of dragon riders",
       "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 11:16:30",
-      "https://news.ycombinator.com/item?id=50598555"
-    ],
-    [
-      "The Spray Bottle",
-      "https://mechanical-pencil.com/products/spray-bottle"
     ]
   ]
 ]
