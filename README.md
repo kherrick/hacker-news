@@ -21,6 +21,7 @@
 * [2026-11-24, 10:50:14](https://news.ycombinator.com/item?id=50626413) - [Worshipping at the altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
 * [2026-11-24, 08:33:14](https://news.ycombinator.com/item?id=50625384) - [Quad9 pulled their DNS service from France](https://quad9.net/news/blog/quad9-service-deactivation-in-france/)
 * [2026-11-24, 08:16:02](https://news.ycombinator.com/item?id=50625265) - [Gödel Enigma](https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description)
+* [2026-11-24, 06:30:33](https://news.ycombinator.com/item?id=50624497) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-23, 12:40:08](https://news.ycombinator.com/item?id=50610820) - [An Italian folding bicycle design that fits into a suitcase](https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase)
 * [2026-11-23, 09:46:57](https://news.ycombinator.com/item?id=50609483) - [Calculate how many mesh radio nodes your city needs](https://meshcoveragecalculator.lalala.ing/)
 * [2026-11-23, 02:10:39](https://news.ycombinator.com/item?id=50606655) - [Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility](https://statwonk.com/hierarchical-bayesian-neural-network.html)
@@ -28,7 +29,6 @@
 * [2026-11-22, 21:59:09](https://news.ycombinator.com/item?id=50604355) - [Cento fine foods has been sued for “tomato fraud”](https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html)
 * [2026-11-22, 13:21:25](https://news.ycombinator.com/item?id=50599458) - [How a Mechanical Watch Keeps Time](https://martincmartin.github.io/slidev-stem/watches/article/1/)
 * [2026-11-22, 11:16:30](https://news.ycombinator.com/item?id=50598555) - [The Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
-* [2026-11-22, 10:39:05](https://news.ycombinator.com/item?id=50598297) - [Overpass QL EBNF Grammar](https://github.com/b1tw153/overpass-ebnf)
 * [2026-11-21, 16:46:43](https://news.ycombinator.com/item?id=50591024) - [Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS](https://github.com/PQCrypta/pqcrypta-proxy)
 
 ## [Archives](archives/index.md)
