@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
+* [2026-11-25, 03:47:42](https://news.ycombinator.com/item?id=50638220) - [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
+* [2026-11-25, 03:28:06](https://news.ycombinator.com/item?id=50638070) - [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
 * [2026-11-25, 03:23:07](https://news.ycombinator.com/item?id=50638032) - [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
+* [2026-11-25, 03:10:18](https://news.ycombinator.com/item?id=50637936) - [Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)](https://vcarl.com/sashay/)
 * [2026-11-25, 03:04:46](https://news.ycombinator.com/item?id=50637891) - [Macrohistory in Six Facts](https://basilhalperin.com/essays/macrohistory.html)
 * [2026-11-25, 03:04:37](https://news.ycombinator.com/item?id=50637890) - [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
 * [2026-11-25, 03:04:12](https://news.ycombinator.com/item?id=50637888) - [Lua for Data Representation](https://citrons.xyz/journal/2025-07-23)
 * [2026-11-25, 03:02:10](https://news.ycombinator.com/item?id=50637874) - [I've been drinking wine in my kitchen](https://scottaaronson.blog/?p=10362)
 * [2026-11-25, 03:01:36](https://news.ycombinator.com/item?id=50637871) - [Top open problems in mathematics ranked by LLM-assessed importance](https://www.proofatlas.ai/open-problems/)
 * [2026-11-25, 03:00:39](https://news.ycombinator.com/item?id=50637866) - [Network Researchers Nail Down Theory of 'Perfect Resilience'](https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/)
+* [2026-11-25, 03:00:12](https://news.ycombinator.com/item?id=50637863) - [Bo3mac: Static ARM64 Recompiler and Direct Metal Port of Black Ops III](https://github.com/mawlicious/bo3mac)
 * [2026-11-25, 02:34:21](https://news.ycombinator.com/item?id=50637686) - [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being)
 * [2026-11-25, 02:31:49](https://news.ycombinator.com/item?id=50637661) - [A 1:1 replica of the London DLR](https://jabza.github.io/labs/dlr-rider/)
 * [2026-11-25, 01:40:39](https://news.ycombinator.com/item?id=50637344) - [How PyTorch's autograd works, rebuilt in 60 lines of Python](https://farid-alexander.github.io/autograd-from-scratch/)
