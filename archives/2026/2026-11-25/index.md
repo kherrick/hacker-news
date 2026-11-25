@@ -9,6 +9,7 @@
 * [2026-11-25, 17:54:29](https://news.ycombinator.com/item?id=50645195) - [How Can Anything Beat n log n?](https://iahmed.me/post/nlogn/)
 * [2026-11-25, 17:43:46](https://news.ycombinator.com/item?id=50645074) - [Britain's Ghost Stations](https://spectator.com/article/britains-ghost-stations-are-fascinating/)
 * [2026-11-25, 17:37:17](https://news.ycombinator.com/item?id=50645010) - [Why aren't we working 2-days a week?](https://anihil.com/why-arent-we-working-2-days-a-week)
+* [2026-11-25, 17:34:34](https://news.ycombinator.com/item?id=50644980) - [The polynomial Hirsch conjecture is false [pdf]](https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf)
 * [2026-11-25, 17:18:26](https://news.ycombinator.com/item?id=50644817) - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 * [2026-11-25, 17:18:15](https://news.ycombinator.com/item?id=50644814) - [Deriving Black-Scholes](https://david.alvarezrosa.com/posts/deriving-black-scholes/)
 * [2026-11-25, 16:28:28](https://news.ycombinator.com/item?id=50644162) - [Anthropic migrated Messages API to Rust with no Rust developers](https://www.anthropic.com/research/migrating-api-to-rust)
