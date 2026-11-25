@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-11-25, 19:57:08",
-      "https://news.ycombinator.com/item?id=50646662"
+      "2026-11-25, 21:47:16",
+      "https://news.ycombinator.com/item?id=50648035"
     ],
     [
-      "Spending 35B Opus 5.5 Tokens to Write a Symphony",
-      "https://danprice.ai/blog/opus-symphony"
+      "Defang Security Incident",
+      "https://defang.io/blog/post/security-incident-november-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-11-25, 20:38:00",
+      "https://news.ycombinator.com/item?id=50647181"
+    ],
+    [
+      "Slow Ubuntu security response times",
+      "https://www.openwall.com/lists/oss-security/2026/11/25/9"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "1Password Security Incident",
       "https://1password.com/blog/update-on-nov-2026-security-incident"
-    ]
-  ],
-  [
-    [
-      "2026-11-25, 17:18:15",
-      "https://news.ycombinator.com/item?id=50644814"
-    ],
-    [
-      "Deriving Black-Scholes",
-      "https://david.alvarezrosa.com/posts/deriving-black-scholes/"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-11-25, 03:04:37",
-      "https://news.ycombinator.com/item?id=50637890"
-    ],
-    [
-      "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-      "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit"
-    ]
-  ],
-  [
-    [
       "2026-11-25, 02:34:21",
       "https://news.ycombinator.com/item?id=50637686"
     ],
@@ -257,6 +247,16 @@
     [
       "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
       "https://jayd.ml/2026/11/14/rockbox-on-yp3.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-23, 20:50:20",
+      "https://news.ycombinator.com/item?id=50619073"
+    ],
+    [
+      "The undocumented 249-file limit for Googlebot rendering",
+      "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit"
     ]
   ],
   [
