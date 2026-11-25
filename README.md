@@ -24,10 +24,10 @@
 * [2026-11-24, 20:08:03](https://news.ycombinator.com/item?id=50633922) - [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
 * [2026-11-24, 16:32:17](https://news.ycombinator.com/item?id=50630594) - [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 * [2026-11-24, 13:28:03](https://news.ycombinator.com/item?id=50627891) - [Adding some funk to an old Vtech toy](https://boyesm.ca/vtech)
-* [2026-11-24, 13:19:31](https://news.ycombinator.com/item?id=50627783) - [GTA 6 Running on Windows](https://twitter.com/raul_bs3/status/2125213756238291075)
 * [2026-11-24, 12:14:25](https://news.ycombinator.com/item?id=50627079) - [The Shapes of Rivers](https://dominicroye.github.io/shapes-of-rivers/)
 * [2026-11-24, 10:52:12](https://news.ycombinator.com/item?id=50626430) - [New Rewritable Antimony Selenide Display Shows an Image for Months Without Power](https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/)
 * [2026-11-24, 08:16:02](https://news.ycombinator.com/item?id=50625265) - [Gödel Enigma](https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description)
+* [2026-11-23, 15:45:11](https://news.ycombinator.com/item?id=50613769) - [When in Doubt, Flail About](https://www.seangoedecke.com/when-in-doubt-flail-about/)
 * [2026-11-23, 12:40:08](https://news.ycombinator.com/item?id=50610820) - [An Italian folding bicycle design that fits into a suitcase](https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase)
 * [2026-11-22, 11:16:30](https://news.ycombinator.com/item?id=50598555) - [The Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
 
