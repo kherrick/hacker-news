@@ -53,6 +53,7 @@
 * [2026-11-23, 09:46:57](https://news.ycombinator.com/item?id=50609483) - [Calculate how many mesh radio nodes your city needs](https://meshcoveragecalculator.lalala.ing/)
 * [2026-11-23, 09:15:09](https://news.ycombinator.com/item?id=50609252) - [Enjoy this guy getting bricked over the detail of towers in GTA6](https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v)
 * [2026-11-23, 08:51:50](https://news.ycombinator.com/item?id=50609079) - [GTA 6 building personal behavioral profile for every player](https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve)
+* [2026-11-23, 08:33:23](https://news.ycombinator.com/item?id=50608973) - [Why Airlines Accept A321XLR's Heavier Takeoff Weight on Flights Shorter < 1 Hour](https://simpleflying.com/airlines-accept-airbus-a321xlr-heavier-101-tonne-maximum-takeoff-weight-flights-shorter-hour/)
 * [2026-11-23, 07:39:04](https://news.ycombinator.com/item?id=50608604) - [Show HN: KradleBench – Multi-agent AI evals in Minecraft](https://www.kradle.ai?1)
 * [2026-11-23, 07:01:08](https://news.ycombinator.com/item?id=50608390) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)
 * [2026-11-23, 06:54:08](https://news.ycombinator.com/item?id=50608343) - [SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance](https://dl.acm.org/doi/10.1145/3828523.3857112)
