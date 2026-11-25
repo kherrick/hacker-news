@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-25, 04:56:36](https://news.ycombinator.com/item?id=50638647) - [Treasury CIO is too busy vibecoding instead of doing his job #147](https://github.com/samcorcos/legatum/issues/147)
 * [2026-11-25, 04:35:32](https://news.ycombinator.com/item?id=50638523) - [Show HN: U.S. Interstate Weather](https://www.interstateweather.com/)
 * [2026-11-25, 04:31:48](https://news.ycombinator.com/item?id=50638503) - [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
 * [2026-11-25, 04:27:55](https://news.ycombinator.com/item?id=50638478) - [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
@@ -8,7 +9,6 @@
 * [2026-11-25, 03:28:42](https://news.ycombinator.com/item?id=50638075) - [A faster algorithm for extracting hexadecimal digits of π](https://www.stylewarning.com/posts/faster-digit-extraction/)
 * [2026-11-25, 03:28:06](https://news.ycombinator.com/item?id=50638070) - [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
 * [2026-11-25, 03:23:07](https://news.ycombinator.com/item?id=50638032) - [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
-* [2026-11-25, 03:10:18](https://news.ycombinator.com/item?id=50637936) - [Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)](https://vcarl.com/sashay/)
 * [2026-11-25, 03:04:46](https://news.ycombinator.com/item?id=50637891) - [Macrohistory in Six Facts](https://basilhalperin.com/essays/macrohistory.html)
 * [2026-11-25, 03:04:37](https://news.ycombinator.com/item?id=50637890) - [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
 * [2026-11-25, 03:04:12](https://news.ycombinator.com/item?id=50637888) - [Lua for Data Representation](https://citrons.xyz/journal/2025-07-23)
