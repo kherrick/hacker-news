@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
+* [2026-11-25, 14:43:41](https://news.ycombinator.com/item?id=50642832) - [The year the web industry gave up](https://dbushell.com/2026/11/25/web-industry/)
 * [2026-11-25, 14:19:21](https://news.ycombinator.com/item?id=50642554) - [Amazon S3 Files](https://aws.amazon.com/s3/features/files/)
 * [2026-11-25, 14:12:29](https://news.ycombinator.com/item?id=50642496) - [U.S. jury convicts Huawei of fraud, Iran sanctions violations](https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/)
 * [2026-11-25, 13:33:07](https://news.ycombinator.com/item?id=50642086) - [Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
