@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
+* [2026-11-25, 11:34:25](https://news.ycombinator.com/item?id=50641171) - [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq)
 * [2026-11-25, 10:32:04](https://news.ycombinator.com/item?id=50640746) - [The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map](https://marioschlosser.org/riemann/)
 * [2026-11-25, 08:23:34](https://news.ycombinator.com/item?id=50639929) - [Why Automated Proof-Solving Is the Same Old Dead End](https://arxiv.org/abs/2611.31286)
 * [2026-11-25, 06:23:09](https://news.ycombinator.com/item?id=50639156) - [Swift Death of Statelessness](https://bexx.io/post/swift-death-of-statelessness/)
