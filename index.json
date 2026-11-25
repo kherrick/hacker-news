@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-11-25, 08:23:34",
-      "https://news.ycombinator.com/item?id=50639929"
-    ],
-    [
-      "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
-      "https://arxiv.org/abs/2611.31286"
-    ]
-  ],
-  [
-    [
       "2026-11-25, 07:46:43",
       "https://news.ycombinator.com/item?id=50639698"
     ],
@@ -247,6 +237,16 @@
     [
       "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
       "https://jayd.ml/2026/11/14/rockbox-on-yp3.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 02:57:22",
+      "https://news.ycombinator.com/item?id=50623028"
+    ],
+    [
+      "A fast CAS with a focus on resolution of singularities",
+      "https://github.com/pportilla/atlas"
     ]
   ],
   [
