@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
 * [2026-11-25, 20:03:57](https://news.ycombinator.com/item?id=50646781) - [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philpapers.org/rec/NIEIOT-2)
+* [2026-11-25, 19:57:08](https://news.ycombinator.com/item?id=50646662) - [Spending 35B Opus 5.5 Tokens to Write a Symphony](https://danprice.ai/blog/opus-symphony)
 * [2026-11-25, 19:11:27](https://news.ycombinator.com/item?id=50646108) - [Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]](https://scottaaronson.blog/?p=10379)
 * [2026-11-25, 18:59:43](https://news.ycombinator.com/item?id=50645978) - [SpaceX wins FCC approval to deploy 1M orbital data center satellites](https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html)
 * [2026-11-25, 17:54:29](https://news.ycombinator.com/item?id=50645195) - [How Can Anything Beat n log n?](https://iahmed.me/post/nlogn/)

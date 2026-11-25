@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-25, 19:11:27](https://news.ycombinator.com/item?id=50646108) - [Holy shit holy shit holy shit holy shit: the magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
+* [2026-11-25, 19:57:08](https://news.ycombinator.com/item?id=50646662) - [Spending 35B Opus 5.5 Tokens to Write a Symphony](https://danprice.ai/blog/opus-symphony)
+* [2026-11-25, 19:11:27](https://news.ycombinator.com/item?id=50646108) - [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
 * [2026-11-25, 17:43:46](https://news.ycombinator.com/item?id=50645074) - [Britain's ghost stations](https://spectator.com/article/britains-ghost-stations-are-fascinating/)
 * [2026-11-25, 17:34:34](https://news.ycombinator.com/item?id=50644980) - [The polynomial Hirsch conjecture is false [pdf]](https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf)
 * [2026-11-25, 17:18:26](https://news.ycombinator.com/item?id=50644817) - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
@@ -17,7 +18,6 @@
 * [2026-11-25, 07:46:43](https://news.ycombinator.com/item?id=50639698) - [Smart people who give a shit use tools](https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools)
 * [2026-11-25, 04:31:48](https://news.ycombinator.com/item?id=50638503) - [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
 * [2026-11-25, 03:23:07](https://news.ycombinator.com/item?id=50638032) - [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
-* [2026-11-25, 03:04:46](https://news.ycombinator.com/item?id=50637891) - [Macrohistory in Six Facts](https://basilhalperin.com/essays/macrohistory.html)
 * [2026-11-25, 03:04:37](https://news.ycombinator.com/item?id=50637890) - [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
 * [2026-11-25, 02:34:21](https://news.ycombinator.com/item?id=50637686) - [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being)
 * [2026-11-25, 02:00:08](https://news.ycombinator.com/item?id=50637448) - [How did pinwheel calculators work?](https://blog.coredump.cx/p/how-did-pinwheel-calculators-work)
