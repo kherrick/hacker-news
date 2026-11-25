@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-25, 19:11:27](https://news.ycombinator.com/item?id=50646108) - [Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]](https://scottaaronson.blog/?p=10379)
+* [2026-11-25, 18:59:43](https://news.ycombinator.com/item?id=50645978) - [SpaceX wins FCC approval to deploy 1M orbital data center satellites](https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html)
 * [2026-11-25, 17:43:46](https://news.ycombinator.com/item?id=50645074) - [Britain's ghost stations](https://spectator.com/article/britains-ghost-stations-are-fascinating/)
 * [2026-11-25, 17:18:26](https://news.ycombinator.com/item?id=50644817) - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 * [2026-11-25, 17:18:15](https://news.ycombinator.com/item?id=50644814) - [Deriving Black-Scholes](https://david.alvarezrosa.com/posts/deriving-black-scholes/)
@@ -21,10 +23,8 @@
 * [2026-11-25, 02:00:08](https://news.ycombinator.com/item?id=50637448) - [How did pinwheel calculators work?](https://blog.coredump.cx/p/how-did-pinwheel-calculators-work)
 * [2026-11-25, 01:19:26](https://news.ycombinator.com/item?id=50637220) - [The matrix multiplication exponent is nine fourths [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
 * [2026-11-24, 22:34:29](https://news.ycombinator.com/item?id=50635783) - [Predicting LoRA size for any dataset](https://engram.com/blog/lora-size)
-* [2026-11-24, 20:44:15](https://news.ycombinator.com/item?id=50634426) - [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
 * [2026-11-24, 20:08:03](https://news.ycombinator.com/item?id=50633922) - [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
 * [2026-11-24, 17:53:53](https://news.ycombinator.com/item?id=50631791) - [Show HN: Keeping faces and features consistent across 24 AI-driven comic pages](https://joonoo.art/create-comic)
-* [2026-11-24, 14:14:47](https://news.ycombinator.com/item?id=50628517) - [Is your DNS ready for a bigger namespace?](https://www.akamai.com/blog/security/2026/nov/1615-new-tlds-dns-ready-for-bigger-namespace)
 * [2026-11-24, 13:14:37](https://news.ycombinator.com/item?id=50627726) - [Getting old Java phones online again](https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html)
 * [2026-11-24, 13:06:17](https://news.ycombinator.com/item?id=50627625) - [Show HN: Ribbon Architect – Endless ways to tie a gift ribbon](https://ribbonarchitect.com)
 * [2026-11-24, 09:06:47](https://news.ycombinator.com/item?id=50625654) - [Pinocchio at 200: a tale of hunger, greed and Italy's culinary history](https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/)

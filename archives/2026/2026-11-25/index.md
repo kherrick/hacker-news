@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
+* [2026-11-25, 19:11:27](https://news.ycombinator.com/item?id=50646108) - [Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]](https://scottaaronson.blog/?p=10379)
+* [2026-11-25, 18:59:43](https://news.ycombinator.com/item?id=50645978) - [SpaceX wins FCC approval to deploy 1M orbital data center satellites](https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html)
 * [2026-11-25, 17:54:29](https://news.ycombinator.com/item?id=50645195) - [How Can Anything Beat n log n?](https://iahmed.me/post/nlogn/)
 * [2026-11-25, 17:43:46](https://news.ycombinator.com/item?id=50645074) - [Britain's Ghost Stations](https://spectator.com/article/britains-ghost-stations-are-fascinating/)
 * [2026-11-25, 17:37:17](https://news.ycombinator.com/item?id=50645010) - [Why aren't we working 2-days a week?](https://anihil.com/why-arent-we-working-2-days-a-week)
