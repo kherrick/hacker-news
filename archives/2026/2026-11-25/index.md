@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
+* [2026-11-25, 04:35:32](https://news.ycombinator.com/item?id=50638523) - [Show HN: U.S. Interstate Weather](https://www.interstateweather.com/)
+* [2026-11-25, 04:03:33](https://news.ycombinator.com/item?id=50638320) - [Gemini refused to give me the lyrics to Twinkle Twinkle Little Star](https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F)
 * [2026-11-25, 03:47:42](https://news.ycombinator.com/item?id=50638220) - [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
 * [2026-11-25, 03:28:42](https://news.ycombinator.com/item?id=50638075) - [A faster algorithm for extracting hexadecimal digits of π](https://www.stylewarning.com/posts/faster-digit-extraction/)
 * [2026-11-25, 03:28:06](https://news.ycombinator.com/item?id=50638070) - [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
