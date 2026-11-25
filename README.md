@@ -23,11 +23,11 @@
 * [2026-11-24, 20:08:03](https://news.ycombinator.com/item?id=50633922) - [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
 * [2026-11-24, 14:20:08](https://news.ycombinator.com/item?id=50628600) - [A Clock Made of Branches](https://fzakaria.com/2026/11/01/a-clock-made-of-branches)
 * [2026-11-24, 13:14:37](https://news.ycombinator.com/item?id=50627726) - [Getting old Java phones online again](https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html)
+* [2026-11-24, 13:06:17](https://news.ycombinator.com/item?id=50627625) - [Show HN: Ribbon Architect – Endless ways to tie a gift ribbon](https://ribbonarchitect.com)
 * [2026-11-24, 12:14:25](https://news.ycombinator.com/item?id=50627079) - [The Shapes of Rivers](https://dominicroye.github.io/shapes-of-rivers/)
 * [2026-11-24, 09:06:47](https://news.ycombinator.com/item?id=50625654) - [Pinocchio at 200: a tale of hunger, greed and Italy's culinary history](https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/)
 * [2026-11-24, 06:22:36](https://news.ycombinator.com/item?id=50624446) - [Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs](https://jayd.ml/2026/11/14/rockbox-on-yp3.html)
 * [2026-11-24, 04:49:58](https://news.ycombinator.com/item?id=50623866) - [The algebra of dependent types (2025)](https://dotat.at/@/2025-05-28-types.html)
-* [2026-11-23, 15:45:11](https://news.ycombinator.com/item?id=50613769) - [When in Doubt, Flail About](https://www.seangoedecke.com/when-in-doubt-flail-about/)
 * [2026-11-23, 05:33:34](https://news.ycombinator.com/item?id=50607849) - [The short age of dragon riders](https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/)
 * [2026-11-22, 11:16:30](https://news.ycombinator.com/item?id=50598555) - [The Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
 

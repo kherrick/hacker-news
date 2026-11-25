@@ -48,6 +48,7 @@
 * [2026-11-24, 13:23:47](https://news.ycombinator.com/item?id=50627836) - [Anthropic Breaks Below $83 IPO Price in Premarket Trading](https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading)
 * [2026-11-24, 13:19:31](https://news.ycombinator.com/item?id=50627783) - [GTA 6 Running on Windows](https://twitter.com/raul_bs3/status/2125213756238291075)
 * [2026-11-24, 13:14:37](https://news.ycombinator.com/item?id=50627726) - [Getting old Java phones online again](https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html)
+* [2026-11-24, 13:06:17](https://news.ycombinator.com/item?id=50627625) - [Show HN: Ribbon Architect – Endless ways to tie a gift ribbon](https://ribbonarchitect.com)
 * [2026-11-24, 12:40:15](https://news.ycombinator.com/item?id=50627340) - [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)
 * [2026-11-24, 12:14:25](https://news.ycombinator.com/item?id=50627079) - [The Shapes of Rivers](https://dominicroye.github.io/shapes-of-rivers/)
 * [2026-11-24, 11:51:05](https://news.ycombinator.com/item?id=50626861) - [Who in Washington owns and trades Nvidia stock](https://www.kadoa.com/congress/insights/trump-nvidia)
