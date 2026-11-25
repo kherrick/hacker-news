@@ -22,6 +22,7 @@
 * [2026-11-21, 16:46:43](https://news.ycombinator.com/item?id=50591024) - [Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS](https://github.com/PQCrypta/pqcrypta-proxy)
 * [2026-11-21, 15:54:34](https://news.ycombinator.com/item?id=50590441) - [Verification files for the Lean proof of the Riemann Hypothesis](https://math.mit.edu/~drew/grh/)
 * [2026-11-21, 15:39:09](https://news.ycombinator.com/item?id=50590279) - [Show HN: Zero C#, Power of C# without any GC](https://onurgumus.github.io/zero-csharp/index.html)
+* [2026-11-21, 14:52:41](https://news.ycombinator.com/item?id=50589784) - [SSH is a GUI framework](https://zydra.sh/articles/ssh-is-a-gui-framework/)
 * [2026-11-21, 14:45:03](https://news.ycombinator.com/item?id=50589701) - [Mutex poisoning is not for everyone](https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html)
 * [2026-11-21, 14:36:45](https://news.ycombinator.com/item?id=50589618) - [Lean Verification of the Riemann Hypothesis - Joint statement by...](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 * [2026-11-21, 13:23:14](https://news.ycombinator.com/item?id=50588982) - [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)

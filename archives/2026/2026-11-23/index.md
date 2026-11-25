@@ -35,6 +35,7 @@
 * [2026-11-23, 14:49:44](https://news.ycombinator.com/item?id=50612686) - [GTA 6 Xbox executable released early by cyberleek](https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/)
 * [2026-11-23, 14:16:37](https://news.ycombinator.com/item?id=50611861) - [Building a wireless network adapter for the Super Nintendo](https://boland.dev/snet/)
 * [2026-11-23, 14:03:38](https://news.ycombinator.com/item?id=50611613) - [Gnomon: Git for Postgres Data](https://gnomon.bitsinfra.com/)
+* [2026-11-23, 14:02:15](https://news.ycombinator.com/item?id=50611593) - [Show HN: An agent skill that optimizes code with falsifiable hypotheses](https://chszlab.github.io/AgenticAlgorithmEngineering/)
 * [2026-11-23, 14:01:23](https://news.ycombinator.com/item?id=50611588) - [Jensen Huang Reinstated as Nvidia CEO](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)
 * [2026-11-23, 14:00:18](https://news.ycombinator.com/item?id=50611576) - [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
 * [2026-11-23, 13:42:38](https://news.ycombinator.com/item?id=50611402) - [NariQ: BF16-level Qwen3.8-27B in a 10 GB file](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF)
