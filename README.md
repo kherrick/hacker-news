@@ -2,7 +2,6 @@
 
 * [2026-11-25, 12:00:34](https://news.ycombinator.com/item?id=50641323) - [Hazel (YC W24) Is Hiring a Product Designer](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract)
 * [2026-11-25, 11:34:25](https://news.ycombinator.com/item?id=50641171) - [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq)
-* [2026-11-25, 10:32:04](https://news.ycombinator.com/item?id=50640746) - [The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map](https://marioschlosser.org/riemann/)
 * [2026-11-25, 07:46:43](https://news.ycombinator.com/item?id=50639698) - [Smart People Who Give a Shit Use Tools](https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools)
 * [2026-11-25, 04:31:48](https://news.ycombinator.com/item?id=50638503) - [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
 * [2026-11-25, 04:27:55](https://news.ycombinator.com/item?id=50638478) - [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
@@ -25,6 +24,7 @@
 * [2026-11-24, 13:19:31](https://news.ycombinator.com/item?id=50627783) - [GTA 6 Running on Windows](https://twitter.com/raul_bs3/status/2125213756238291075)
 * [2026-11-24, 13:14:37](https://news.ycombinator.com/item?id=50627726) - [Getting old Java phones online again](https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html)
 * [2026-11-24, 12:14:25](https://news.ycombinator.com/item?id=50627079) - [The Shapes of Rivers](https://dominicroye.github.io/shapes-of-rivers/)
+* [2026-11-24, 10:52:12](https://news.ycombinator.com/item?id=50626430) - [New rewritable antimony selenide display shows an image for months without power](https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/)
 * [2026-11-24, 04:49:58](https://news.ycombinator.com/item?id=50623866) - [The algebra of dependent types (2025)](https://dotat.at/@/2025-05-28-types.html)
 * [2026-11-23, 15:45:11](https://news.ycombinator.com/item?id=50613769) - [When in Doubt, Flail About](https://www.seangoedecke.com/when-in-doubt-flail-about/)
 * [2026-11-23, 12:40:08](https://news.ycombinator.com/item?id=50610820) - [An Italian folding bicycle design that fits into a suitcase](https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase)
