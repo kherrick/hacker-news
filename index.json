@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2026-11-24, 19:03:55",
-      "https://news.ycombinator.com/item?id=50632883"
-    ],
-    [
-      "Cloudflare hides shortcomings of the underlying infrastructure",
-      "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 17:00:55",
       "https://news.ycombinator.com/item?id=50631041"
     ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2026-11-23, 02:10:39",
+      "https://news.ycombinator.com/item?id=50606655"
+    ],
+    [
+      "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
+      "https://statwonk.com/hierarchical-bayesian-neural-network.html"
+    ]
+  ],
+  [
+    [
       "2026-11-22, 23:42:53",
       "https://news.ycombinator.com/item?id=50605361"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=50599458"
     ],
     [
-      "How a Mechanical Watch Keeps Time (Interactive 3D)",
+      "How a Mechanical Watch Keeps Time",
       "https://martincmartin.github.io/slidev-stem/watches/article/1/"
     ]
   ],
