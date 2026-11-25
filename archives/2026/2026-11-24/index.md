@@ -65,6 +65,7 @@
 * [2026-11-24, 08:16:02](https://news.ycombinator.com/item?id=50625265) - [Gödel Enigma](https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description)
 * [2026-11-24, 07:46:12](https://news.ycombinator.com/item?id=50625004) - [I'm not excited about tech anymore](https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore)
 * [2026-11-24, 07:38:50](https://news.ycombinator.com/item?id=50624929) - [VP ≠ VNP over Every Field [pdf]](https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf)
+* [2026-11-24, 07:03:33](https://news.ycombinator.com/item?id=50624684) - [Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window](https://www.rchive.computer/)
 * [2026-11-24, 06:30:33](https://news.ycombinator.com/item?id=50624497) - [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-24, 06:28:04](https://news.ycombinator.com/item?id=50624487) - [India's opposition storms Meta's offices to get its Instagram accounts back](https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html)
 * [2026-11-24, 06:22:36](https://news.ycombinator.com/item?id=50624446) - [Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs](https://jayd.ml/2026/11/14/rockbox-on-yp3.html)

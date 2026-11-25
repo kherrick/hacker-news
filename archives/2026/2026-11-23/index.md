@@ -44,6 +44,7 @@
 * [2026-11-23, 12:41:14](https://news.ycombinator.com/item?id=50610830) - [Amodei reportedly suggested games could pacify masses after AI took their jobs](https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness)
 * [2026-11-23, 12:40:08](https://news.ycombinator.com/item?id=50610820) - [An Italian Folding Bicycle Design That Fits into a Suitcase](https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase)
 * [2026-11-23, 12:28:11](https://news.ycombinator.com/item?id=50610743) - [Win4wine – Run Windows Shell as the Linux Desktop on Wine](https://github.com/mikuta0407/win4wine)
+* [2026-11-23, 12:20:15](https://news.ycombinator.com/item?id=50610682) - [A Beer Brewer's Noise Estimation](https://chillphysicsenjoyer.substack.com/p/a-beer-brewers-noise-estimation)
 * [2026-11-23, 11:34:16](https://news.ycombinator.com/item?id=50610334) - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
 * [2026-11-23, 11:31:54](https://news.ycombinator.com/item?id=50610318) - [Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
 * [2026-11-23, 11:12:33](https://news.ycombinator.com/item?id=50610170) - [New material gets stronger the more it bends](https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/)
