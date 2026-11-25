@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-25, 19:57:08](https://news.ycombinator.com/item?id=50646662) - [Spending 35B Opus 5.5 Tokens to Write a Symphony](https://danprice.ai/blog/opus-symphony)
 * [2026-11-25, 19:11:27](https://news.ycombinator.com/item?id=50646108) - [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
 * [2026-11-25, 17:43:46](https://news.ycombinator.com/item?id=50645074) - [Britain's ghost stations](https://spectator.com/article/britains-ghost-stations-are-fascinating/)
 * [2026-11-25, 17:34:34](https://news.ycombinator.com/item?id=50644980) - [The polynomial Hirsch conjecture is false [pdf]](https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf)
@@ -23,6 +22,7 @@
 * [2026-11-25, 02:00:08](https://news.ycombinator.com/item?id=50637448) - [How did pinwheel calculators work?](https://blog.coredump.cx/p/how-did-pinwheel-calculators-work)
 * [2026-11-25, 01:19:26](https://news.ycombinator.com/item?id=50637220) - [The matrix multiplication exponent is nine fourths [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
 * [2026-11-24, 22:34:29](https://news.ycombinator.com/item?id=50635783) - [Predicting LoRA size for any dataset](https://engram.com/blog/lora-size)
+* [2026-11-24, 20:08:03](https://news.ycombinator.com/item?id=50633922) - [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
 * [2026-11-24, 09:06:47](https://news.ycombinator.com/item?id=50625654) - [Pinocchio at 200: a tale of hunger, greed and Italy's culinary history](https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/)
 * [2026-11-24, 07:03:33](https://news.ycombinator.com/item?id=50624684) - [Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window](https://www.rchive.computer/)
 * [2026-11-24, 06:22:36](https://news.ycombinator.com/item?id=50624446) - [Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs](https://jayd.ml/2026/11/14/rockbox-on-yp3.html)
