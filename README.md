@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-25, 14:19:21](https://news.ycombinator.com/item?id=50642554) - [Amazon S3 Files](https://aws.amazon.com/s3/features/files/)
 * [2026-11-25, 14:12:29](https://news.ycombinator.com/item?id=50642496) - [U.S. jury convicts Huawei of fraud, Iran sanctions violations](https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/)
 * [2026-11-25, 13:33:07](https://news.ycombinator.com/item?id=50642086) - [Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
 * [2026-11-25, 12:00:34](https://news.ycombinator.com/item?id=50641323) - [Hazel (YC W24) Is Hiring a Product Designer](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract)
@@ -7,7 +8,6 @@
 * [2026-11-25, 04:31:48](https://news.ycombinator.com/item?id=50638503) - [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
 * [2026-11-25, 04:27:55](https://news.ycombinator.com/item?id=50638478) - [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
 * [2026-11-25, 03:47:42](https://news.ycombinator.com/item?id=50638220) - [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
-* [2026-11-25, 03:28:42](https://news.ycombinator.com/item?id=50638075) - [A faster algorithm for extracting hexadecimal digits of π](https://www.stylewarning.com/posts/faster-digit-extraction/)
 * [2026-11-25, 03:28:06](https://news.ycombinator.com/item?id=50638070) - [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
 * [2026-11-25, 03:23:07](https://news.ycombinator.com/item?id=50638032) - [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
 * [2026-11-25, 03:04:46](https://news.ycombinator.com/item?id=50637891) - [Macrohistory in Six Facts](https://basilhalperin.com/essays/macrohistory.html)
