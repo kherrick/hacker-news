@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
+* [2026-11-25, 10:32:04](https://news.ycombinator.com/item?id=50640746) - [The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map](https://marioschlosser.org/riemann/)
 * [2026-11-25, 08:23:34](https://news.ycombinator.com/item?id=50639929) - [Why Automated Proof-Solving Is the Same Old Dead End](https://arxiv.org/abs/2611.31286)
 * [2026-11-25, 06:23:09](https://news.ycombinator.com/item?id=50639156) - [Swift Death of Statelessness](https://bexx.io/post/swift-death-of-statelessness/)
 * [2026-11-25, 05:19:28](https://news.ycombinator.com/item?id=50638811) - [Invisible Wave Hits California, Oregon and Canada as Towns Evacuate](https://www.abovethenormnews.com/2026/11/24/king-tides-california/)
