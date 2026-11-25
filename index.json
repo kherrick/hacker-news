@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-11-25, 03:23:07",
+      "https://news.ycombinator.com/item?id=50638032"
+    ],
+    [
+      "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "https://buttons.joshwcomeau.com/"
+    ]
+  ],
+  [
+    [
+      "2026-11-25, 03:04:46",
+      "https://news.ycombinator.com/item?id=50637891"
+    ],
+    [
+      "Macrohistory in Six Facts",
+      "https://basilhalperin.com/essays/macrohistory.html"
+    ]
+  ],
+  [
+    [
+      "2026-11-25, 03:04:37",
+      "https://news.ycombinator.com/item?id=50637890"
+    ],
+    [
+      "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit"
+    ]
+  ],
+  [
+    [
+      "2026-11-25, 03:04:12",
+      "https://news.ycombinator.com/item?id=50637888"
+    ],
+    [
+      "Lua for Data Representation",
+      "https://citrons.xyz/journal/2025-07-23"
+    ]
+  ],
+  [
+    [
+      "2026-11-25, 03:02:10",
+      "https://news.ycombinator.com/item?id=50637874"
+    ],
+    [
+      "I've been drinking wine in my kitchen",
+      "https://scottaaronson.blog/?p=10362"
+    ]
+  ],
+  [
+    [
+      "2026-11-25, 03:01:36",
+      "https://news.ycombinator.com/item?id=50637871"
+    ],
+    [
+      "Top open problems in mathematics ranked by LLM-assessed importance",
+      "https://www.proofatlas.ai/open-problems/"
+    ]
+  ],
+  [
+    [
+      "2026-11-25, 03:00:39",
+      "https://news.ycombinator.com/item?id=50637866"
+    ],
+    [
+      "Network Researchers Nail Down Theory of 'Perfect Resilience'",
+      "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 02:34:21",
       "https://news.ycombinator.com/item?id=50637686"
     ],
@@ -17,16 +87,6 @@
     [
       "A 1:1 replica of the London DLR",
       "https://jabza.github.io/labs/dlr-rider/"
-    ]
-  ],
-  [
-    [
-      "2026-11-25, 01:40:39",
-      "https://news.ycombinator.com/item?id=50637344"
-    ],
-    [
-      "How PyTorch's autograd works, rebuilt in 60 lines of Python",
-      "https://farid-alexander.github.io/autograd-from-scratch/"
     ]
   ],
   [
@@ -151,16 +211,6 @@
   ],
   [
     [
-      "2026-11-24, 14:54:10",
-      "https://news.ycombinator.com/item?id=50629106"
-    ],
-    [
-      "Splitting USB-C: USB 3 and USB 2 on one port",
-      "https://www.frankchiarulli.com/blog/splitting-usb-c/"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 13:19:31",
       "https://news.ycombinator.com/item?id=50627783"
     ],
@@ -171,42 +221,12 @@
   ],
   [
     [
-      "2026-11-24, 12:40:15",
-      "https://news.ycombinator.com/item?id=50627340"
-    ],
-    [
-      "LLM agents work for their parent companies, not for you",
-      "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 11:19:00",
-      "https://news.ycombinator.com/item?id=50626620"
-    ],
-    [
-      "The Artificial Monkey Mind",
-      "https://eamonnsullivan.co.uk/posts/the-artificial-monkey-mind/"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 10:52:12",
       "https://news.ycombinator.com/item?id=50626430"
     ],
     [
       "New Rewritable Antimony Elenide Display Shows an Image for Months Without Power",
       "https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 10:50:14",
-      "https://news.ycombinator.com/item?id=50626413"
-    ],
-    [
-      "Worshipping at the altar of Brendan Gregg",
-      "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-11-22, 13:21:25",
-      "https://news.ycombinator.com/item?id=50599458"
-    ],
-    [
-      "How a Mechanical Watch Keeps Time",
-      "https://martincmartin.github.io/slidev-stem/watches/article/1/"
-    ]
-  ],
-  [
-    [
       "2026-11-22, 11:16:30",
       "https://news.ycombinator.com/item?id=50598555"
     ],
     [
       "The Spray Bottle",
       "https://mechanical-pencil.com/products/spray-bottle"
-    ]
-  ],
-  [
-    [
-      "2026-11-21, 16:46:43",
-      "https://news.ycombinator.com/item?id=50591024"
-    ],
-    [
-      "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
-      "https://github.com/PQCrypta/pqcrypta-proxy"
     ]
   ]
 ]
