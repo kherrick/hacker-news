@@ -37,6 +37,7 @@
 * [2026-11-22, 17:51:57](https://news.ycombinator.com/item?id=50602041) - [Falsehoods Programmers Believe About ATProto](https://reiver.link/atproto/falsehoods-programmers-believe/)
 * [2026-11-22, 17:32:41](https://news.ycombinator.com/item?id=50601823) - [Was software just always too complex for humans?](https://anil.recoil.org/notes/software-too-complex-for-humans)
 * [2026-11-22, 17:06:27](https://news.ycombinator.com/item?id=50601525) - [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
+* [2026-11-22, 16:44:48](https://news.ycombinator.com/item?id=50601280) - [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
 * [2026-11-22, 15:59:59](https://news.ycombinator.com/item?id=50600838) - [C++26 is done (again): November 2026 ISO C++ meeting trip report](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/)
 * [2026-11-22, 15:54:24](https://news.ycombinator.com/item?id=50600789) - [Norway to extend proposed under-16 social media ban to games and messaging apps](https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps)
 * [2026-11-22, 15:52:33](https://news.ycombinator.com/item?id=50600771) - [Ask HN: Are the trades a safe career transition?](https://news.ycombinator.com/item?id=50600771)
