@@ -2,6 +2,7 @@
 
 * [2026-11-25, 17:37:17](https://news.ycombinator.com/item?id=50645010) - [Why aren't we working 2-days a week?](https://anihil.com/why-arent-we-working-2-days-a-week)
 * [2026-11-25, 17:18:26](https://news.ycombinator.com/item?id=50644817) - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
+* [2026-11-25, 17:18:15](https://news.ycombinator.com/item?id=50644814) - [Deriving Black-Scholes](https://david.alvarezrosa.com/posts/deriving-black-scholes/)
 * [2026-11-25, 15:59:23](https://news.ycombinator.com/item?id=50643720) - [Investigating degraded experiences across GitHub products](https://www.githubstatus.com/incidents/qn8mfv6q5hlx)
 * [2026-11-25, 15:20:15](https://news.ycombinator.com/item?id=50643199) - [In C++, = default and {} are not the same constructor](https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/)
 * [2026-11-25, 15:14:32](https://news.ycombinator.com/item?id=50643129) - [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
@@ -23,7 +24,6 @@
 * [2026-11-24, 22:34:29](https://news.ycombinator.com/item?id=50635783) - [Predicting LoRA size for any dataset](https://engram.com/blog/lora-size)
 * [2026-11-24, 20:44:15](https://news.ycombinator.com/item?id=50634426) - [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
 * [2026-11-24, 20:08:03](https://news.ycombinator.com/item?id=50633922) - [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
-* [2026-11-24, 14:20:08](https://news.ycombinator.com/item?id=50628600) - [A Clock Made of Branches](https://fzakaria.com/2026/11/01/a-clock-made-of-branches)
 * [2026-11-24, 14:14:47](https://news.ycombinator.com/item?id=50628517) - [Is your DNS ready for a bigger namespace?](https://www.akamai.com/blog/security/2026/nov/1615-new-tlds-dns-ready-for-bigger-namespace)
 * [2026-11-24, 13:14:37](https://news.ycombinator.com/item?id=50627726) - [Getting old Java phones online again](https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html)
 * [2026-11-24, 13:06:17](https://news.ycombinator.com/item?id=50627625) - [Show HN: Ribbon Architect – Endless ways to tie a gift ribbon](https://ribbonarchitect.com)
