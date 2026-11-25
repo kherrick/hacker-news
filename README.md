@@ -2,10 +2,10 @@
 
 * [2026-11-25, 21:48:10](https://news.ycombinator.com/item?id=50648050) - [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
 * [2026-11-25, 21:47:16](https://news.ycombinator.com/item?id=50648035) - [Defang Security Incident](https://defang.io/blog/post/security-incident-november-2026/)
-* [2026-11-25, 21:44:35](https://news.ycombinator.com/item?id=50648008) - [Prof. Sam Lawler: FUCK FUCK FUCK FUCK FUCK FUCK FUCK](https://mastodon.social/@sundogplanets/117678381079935502)
 * [2026-11-25, 21:18:02](https://news.ycombinator.com/item?id=50647673) - [The New York Times tells photographers not to use the latest Photoshop](https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/)
 * [2026-11-25, 20:38:00](https://news.ycombinator.com/item?id=50647181) - [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
 * [2026-11-25, 20:35:50](https://news.ycombinator.com/item?id=50647161) - [Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server](https://opensec.in/blog/nfs2root-cve-2026-99362)
+* [2026-11-25, 20:35:39](https://news.ycombinator.com/item?id=50647158) - [72-Hour Fasting Can Reset Your Immune System, USC Study Shows](https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/)
 * [2026-11-25, 19:11:27](https://news.ycombinator.com/item?id=50646108) - [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
 * [2026-11-25, 17:43:46](https://news.ycombinator.com/item?id=50645074) - [Britain's ghost stations](https://spectator.com/article/britains-ghost-stations-are-fascinating/)
 * [2026-11-25, 17:34:34](https://news.ycombinator.com/item?id=50644980) - [The polynomial Hirsch conjecture is false [pdf]](https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf)
