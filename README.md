@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-25, 03:47:42](https://news.ycombinator.com/item?id=50638220) - [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
+* [2026-11-25, 03:28:42](https://news.ycombinator.com/item?id=50638075) - [A faster algorithm for extracting hexadecimal digits of π](https://www.stylewarning.com/posts/faster-digit-extraction/)
 * [2026-11-25, 03:28:06](https://news.ycombinator.com/item?id=50638070) - [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
 * [2026-11-25, 03:23:07](https://news.ycombinator.com/item?id=50638032) - [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
 * [2026-11-25, 03:10:18](https://news.ycombinator.com/item?id=50637936) - [Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)](https://vcarl.com/sashay/)
@@ -9,7 +10,6 @@
 * [2026-11-25, 03:04:12](https://news.ycombinator.com/item?id=50637888) - [Lua for Data Representation](https://citrons.xyz/journal/2025-07-23)
 * [2026-11-25, 03:02:10](https://news.ycombinator.com/item?id=50637874) - [I've been drinking wine in my kitchen](https://scottaaronson.blog/?p=10362)
 * [2026-11-25, 03:01:36](https://news.ycombinator.com/item?id=50637871) - [Top open problems in mathematics ranked by LLM-assessed importance](https://www.proofatlas.ai/open-problems/)
-* [2026-11-25, 03:00:12](https://news.ycombinator.com/item?id=50637863) - [Bo3mac: Static ARM64 Recompiler and Direct Metal Port of Black Ops III](https://github.com/mawlicious/bo3mac)
 * [2026-11-25, 02:34:21](https://news.ycombinator.com/item?id=50637686) - [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being)
 * [2026-11-25, 01:19:26](https://news.ycombinator.com/item?id=50637220) - [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
 * [2026-11-25, 00:54:49](https://news.ycombinator.com/item?id=50637056) - [PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/)
