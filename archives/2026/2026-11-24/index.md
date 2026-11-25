@@ -46,6 +46,7 @@
 * [2026-11-24, 11:51:05](https://news.ycombinator.com/item?id=50626861) - [Who in Washington owns and trades Nvidia stock](https://www.kadoa.com/congress/insights/trump-nvidia)
 * [2026-11-24, 11:19:00](https://news.ycombinator.com/item?id=50626620) - [The Artificial Monkey Mind](https://eamonnsullivan.co.uk/posts/the-artificial-monkey-mind/)
 * [2026-11-24, 11:13:55](https://news.ycombinator.com/item?id=50626578) - [Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)
+* [2026-11-24, 10:52:12](https://news.ycombinator.com/item?id=50626430) - [New Rewritable Antimony Elenide Display Shows an Image for Months Without Power](https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/)
 * [2026-11-24, 10:50:14](https://news.ycombinator.com/item?id=50626413) - [Worshipping at the Altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
 * [2026-11-24, 09:56:08](https://news.ycombinator.com/item?id=50626012) - [Google Chrome dev team declares bug report bankruptcy](https://blog.plover.com/2026/11/18/#bug-reports)
 * [2026-11-24, 09:47:59](https://news.ycombinator.com/item?id=50625953) - [Just a Few Bugs](https://www.justafewbugs.xyz/)
