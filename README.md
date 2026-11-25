@@ -2,7 +2,6 @@
 
 * [2026-11-25, 15:20:15](https://news.ycombinator.com/item?id=50643199) - [In C++, = default and {} are not the same constructor](https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/)
 * [2026-11-25, 15:14:32](https://news.ycombinator.com/item?id=50643129) - [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
-* [2026-11-25, 15:08:44](https://news.ycombinator.com/item?id=50643065) - [Rumors swirling that labs might have cracked Factoring in P](https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/)
 * [2026-11-25, 14:43:41](https://news.ycombinator.com/item?id=50642832) - [The year the web industry gave up](https://dbushell.com/2026/11/25/web-industry/)
 * [2026-11-25, 14:12:29](https://news.ycombinator.com/item?id=50642496) - [U.S. jury convicts Huawei of fraud, Iran sanctions violations](https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/)
 * [2026-11-25, 13:33:07](https://news.ycombinator.com/item?id=50642086) - [Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
@@ -26,6 +25,7 @@
 * [2026-11-24, 13:14:37](https://news.ycombinator.com/item?id=50627726) - [Getting old Java phones online again](https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html)
 * [2026-11-24, 12:14:25](https://news.ycombinator.com/item?id=50627079) - [The Shapes of Rivers](https://dominicroye.github.io/shapes-of-rivers/)
 * [2026-11-24, 09:06:47](https://news.ycombinator.com/item?id=50625654) - [Pinocchio at 200: a tale of hunger, greed and Italy's culinary history](https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/)
+* [2026-11-24, 06:22:36](https://news.ycombinator.com/item?id=50624446) - [Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs](https://jayd.ml/2026/11/14/rockbox-on-yp3.html)
 * [2026-11-24, 04:49:58](https://news.ycombinator.com/item?id=50623866) - [The algebra of dependent types (2025)](https://dotat.at/@/2025-05-28-types.html)
 * [2026-11-23, 15:45:11](https://news.ycombinator.com/item?id=50613769) - [When in Doubt, Flail About](https://www.seangoedecke.com/when-in-doubt-flail-about/)
 * [2026-11-23, 05:33:34](https://news.ycombinator.com/item?id=50607849) - [The short age of dragon riders](https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/)
