@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-11-25, 22:15:34",
+      "https://news.ycombinator.com/item?id=50648365"
+    ],
+    [
+      "Bare Metal Qwen",
+      "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 21:48:10",
       "https://news.ycombinator.com/item?id=50648050"
     ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2026-11-25, 15:08:44",
+      "https://news.ycombinator.com/item?id=50643065"
+    ],
+    [
+      "Rumors swirling that labs might have cracked Factoring in P",
+      "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 14:56:52",
       "https://news.ycombinator.com/item?id=50642939"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2026-11-25, 03:23:07",
-      "https://news.ycombinator.com/item?id=50638032"
+      "2026-11-25, 04:31:48",
+      "https://news.ycombinator.com/item?id=50638503"
     ],
     [
-      "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "https://buttons.joshwcomeau.com/"
-    ]
-  ],
-  [
-    [
-      "2026-11-25, 02:34:21",
-      "https://news.ycombinator.com/item?id=50637686"
-    ],
-    [
-      "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
-    ]
-  ],
-  [
-    [
-      "2026-11-25, 01:19:26",
-      "https://news.ycombinator.com/item?id=50637220"
-    ],
-    [
-      "The matrix multiplication exponent is nine fourths [pdf]",
-      "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+      "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "https://gpu-demo-gallery.pages.dev/"
     ]
   ],
   [
