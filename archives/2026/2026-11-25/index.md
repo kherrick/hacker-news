@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
+* [2026-11-25, 13:33:07](https://news.ycombinator.com/item?id=50642086) - [Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
 * [2026-11-25, 13:09:06](https://news.ycombinator.com/item?id=50641836) - [SSH Is the Most Underrated Platform in Tech](https://milkcrunch.com/ssh-is-a-platform/)
 * [2026-11-25, 12:00:34](https://news.ycombinator.com/item?id=50641323) - [Hazel (YC W24) Is Hiring a Product Designer](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract)
 * [2026-11-25, 11:34:25](https://news.ycombinator.com/item?id=50641171) - [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq)
