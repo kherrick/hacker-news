@@ -21,7 +21,7 @@
 * [2026-11-24, 21:02:22](https://news.ycombinator.com/item?id=50634658) - [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
 * [2026-11-24, 20:44:15](https://news.ycombinator.com/item?id=50634426) - [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
 * [2026-11-24, 20:08:03](https://news.ycombinator.com/item?id=50633922) - [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
-* [2026-11-24, 17:00:55](https://news.ycombinator.com/item?id=50631041) - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os)
+* [2026-11-24, 19:40:43](https://news.ycombinator.com/item?id=50633424) - [From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver](https://andlukyane.com/blog/cayley-graphs-and-torchtpu)
 * [2026-11-24, 16:32:17](https://news.ycombinator.com/item?id=50630594) - [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 * [2026-11-24, 13:19:31](https://news.ycombinator.com/item?id=50627783) - [GTA 6 Running on Windows](https://twitter.com/raul_bs3/status/2125213756238291075)
 * [2026-11-24, 12:14:25](https://news.ycombinator.com/item?id=50627079) - [The Shapes of Rivers](https://dominicroye.github.io/shapes-of-rivers/)
