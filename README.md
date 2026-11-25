@@ -13,7 +13,6 @@
 * [2026-11-25, 04:27:55](https://news.ycombinator.com/item?id=50638478) - [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
 * [2026-11-25, 03:47:42](https://news.ycombinator.com/item?id=50638220) - [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
 * [2026-11-25, 03:23:07](https://news.ycombinator.com/item?id=50638032) - [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
-* [2026-11-25, 03:04:46](https://news.ycombinator.com/item?id=50637891) - [Macrohistory in Six Facts](https://basilhalperin.com/essays/macrohistory.html)
 * [2026-11-25, 03:04:37](https://news.ycombinator.com/item?id=50637890) - [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
 * [2026-11-25, 02:34:21](https://news.ycombinator.com/item?id=50637686) - [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being)
 * [2026-11-25, 01:19:26](https://news.ycombinator.com/item?id=50637220) - [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
@@ -28,6 +27,7 @@
 * [2026-11-24, 09:06:47](https://news.ycombinator.com/item?id=50625654) - [Pinocchio at 200: a tale of hunger, greed and Italy's culinary history](https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/)
 * [2026-11-24, 06:22:36](https://news.ycombinator.com/item?id=50624446) - [Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs](https://jayd.ml/2026/11/14/rockbox-on-yp3.html)
 * [2026-11-24, 04:49:58](https://news.ycombinator.com/item?id=50623866) - [The algebra of dependent types (2025)](https://dotat.at/@/2025-05-28-types.html)
+* [2026-11-23, 15:45:11](https://news.ycombinator.com/item?id=50613769) - [When in Doubt, Flail About](https://www.seangoedecke.com/when-in-doubt-flail-about/)
 * [2026-11-23, 05:33:34](https://news.ycombinator.com/item?id=50607849) - [The short age of dragon riders](https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/)
 * [2026-11-22, 11:16:30](https://news.ycombinator.com/item?id=50598555) - [The Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
 
