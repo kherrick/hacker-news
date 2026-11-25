@@ -21,7 +21,7 @@
 * [2026-11-24, 21:02:22](https://news.ycombinator.com/item?id=50634658) - [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
 * [2026-11-24, 20:44:15](https://news.ycombinator.com/item?id=50634426) - [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
 * [2026-11-24, 20:08:03](https://news.ycombinator.com/item?id=50633922) - [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
-* [2026-11-24, 16:45:44](https://news.ycombinator.com/item?id=50630809) - [Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?](https://news.ycombinator.com/item?id=50630809)
+* [2026-11-24, 14:20:08](https://news.ycombinator.com/item?id=50628600) - [A Clock Made of Branches](https://fzakaria.com/2026/11/01/a-clock-made-of-branches)
 * [2026-11-24, 13:14:37](https://news.ycombinator.com/item?id=50627726) - [Getting old Java phones online again](https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html)
 * [2026-11-24, 12:14:25](https://news.ycombinator.com/item?id=50627079) - [The Shapes of Rivers](https://dominicroye.github.io/shapes-of-rivers/)
 * [2026-11-24, 09:06:47](https://news.ycombinator.com/item?id=50625654) - [Pinocchio at 200: a tale of hunger, greed and Italy's culinary history](https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/)

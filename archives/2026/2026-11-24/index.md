@@ -42,6 +42,7 @@
 * [2026-11-24, 15:03:40](https://news.ycombinator.com/item?id=50629231) - [A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe)
 * [2026-11-24, 14:54:10](https://news.ycombinator.com/item?id=50629106) - [Splitting USB-C: USB 3 and USB 2 on One Port](https://www.frankchiarulli.com/blog/splitting-usb-c/)
 * [2026-11-24, 14:41:15](https://news.ycombinator.com/item?id=50628932) - [Anthropic is below its IPO price](https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa)
+* [2026-11-24, 14:20:08](https://news.ycombinator.com/item?id=50628600) - [A Clock Made of Branches](https://fzakaria.com/2026/11/01/a-clock-made-of-branches)
 * [2026-11-24, 14:14:47](https://news.ycombinator.com/item?id=50628517) - [1,615 New TLDs Are Coming. Is Your DNS Ready for a Bigger Namespace?](https://www.akamai.com/blog/security/2026/nov/1615-new-tlds-dns-ready-for-bigger-namespace)
 * [2026-11-24, 13:28:03](https://news.ycombinator.com/item?id=50627891) - [Adding some funk to an old Vtech toy](https://boyesm.ca/vtech)
 * [2026-11-24, 13:23:47](https://news.ycombinator.com/item?id=50627836) - [Anthropic Breaks Below $83 IPO Price in Premarket Trading](https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading)
