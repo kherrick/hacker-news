@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-25, 15:59:23",
+      "https://news.ycombinator.com/item?id=50643720"
+    ],
+    [
+      "Investigating degraded experiences across GitHub products",
+      "https://www.githubstatus.com/incidents/qn8mfv6q5hlx"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 15:20:15",
       "https://news.ycombinator.com/item?id=50643199"
     ],
@@ -27,16 +37,6 @@
     [
       "Rumors swirling that labs might have cracked Factoring in P",
       "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/"
-    ]
-  ],
-  [
-    [
-      "2026-11-25, 14:43:41",
-      "https://news.ycombinator.com/item?id=50642832"
-    ],
-    [
-      "The year the web industry gave up",
-      "https://dbushell.com/2026/11/25/web-industry/"
     ]
   ],
   [
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-11-25, 03:28:06",
-      "https://news.ycombinator.com/item?id=50638070"
-    ],
-    [
-      "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-      "https://noahbuilt.it/writing/qwen-on-5600-lambdas"
-    ]
-  ],
-  [
-    [
       "2026-11-25, 03:23:07",
       "https://news.ycombinator.com/item?id=50638032"
     ],
@@ -187,6 +177,16 @@
     [
       "PenGPT: A Generative Transformer for Handwriting and Sketches",
       "https://greydanus.github.io/2026/11/12/pengpt/"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 22:34:29",
+      "https://news.ycombinator.com/item?id=50635783"
+    ],
+    [
+      "Predicting LoRA size for any dataset",
+      "https://engram.com/blog/lora-size"
     ]
   ],
   [
