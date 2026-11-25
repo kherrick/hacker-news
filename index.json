@@ -1,21 +1,11 @@
 [
   [
     [
-      "2026-11-25, 17:54:29",
-      "https://news.ycombinator.com/item?id=50645195"
-    ],
-    [
-      "How Can Anything Beat n log n?",
-      "https://iahmed.me/post/nlogn/"
-    ]
-  ],
-  [
-    [
       "2026-11-25, 17:43:46",
       "https://news.ycombinator.com/item?id=50645074"
     ],
     [
-      "Britain's Ghost Stations",
+      "Britain's ghost stations",
       "https://spectator.com/article/britains-ghost-stations-are-fascinating/"
     ]
   ],
@@ -207,6 +197,16 @@
     [
       "The matrix multiplication exponent is nine fourths [pdf]",
       "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-11-25, 00:54:49",
+      "https://news.ycombinator.com/item?id=50637056"
+    ],
+    [
+      "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "https://greydanus.github.io/2026/11/12/pengpt/"
     ]
   ],
   [
