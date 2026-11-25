@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
+* [2026-11-25, 17:54:29](https://news.ycombinator.com/item?id=50645195) - [How Can Anything Beat n log n?](https://iahmed.me/post/nlogn/)
 * [2026-11-25, 17:37:17](https://news.ycombinator.com/item?id=50645010) - [Why aren't we working 2-days a week?](https://anihil.com/why-arent-we-working-2-days-a-week)
 * [2026-11-25, 17:18:26](https://news.ycombinator.com/item?id=50644817) - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 * [2026-11-25, 17:18:15](https://news.ycombinator.com/item?id=50644814) - [Deriving Black-Scholes](https://david.alvarezrosa.com/posts/deriving-black-scholes/)
