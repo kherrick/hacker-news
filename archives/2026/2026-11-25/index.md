@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
 * [2026-11-25, 05:19:28](https://news.ycombinator.com/item?id=50638811) - [Invisible Wave Hits California, Oregon and Canada as Towns Evacuate](https://www.abovethenormnews.com/2026/11/24/king-tides-california/)
+* [2026-11-25, 04:56:36](https://news.ycombinator.com/item?id=50638647) - [Treasury CIO is too busy vibecoding instead of doing his job #147](https://github.com/samcorcos/legatum/issues/147)
 * [2026-11-25, 04:35:32](https://news.ycombinator.com/item?id=50638523) - [Show HN: U.S. Interstate Weather](https://www.interstateweather.com/)
 * [2026-11-25, 04:31:48](https://news.ycombinator.com/item?id=50638503) - [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
 * [2026-11-25, 04:27:55](https://news.ycombinator.com/item?id=50638478) - [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
