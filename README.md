@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-25, 15:59:23](https://news.ycombinator.com/item?id=50643720) - [Investigating degraded experiences across GitHub products](https://www.githubstatus.com/incidents/qn8mfv6q5hlx)
-* [2026-11-25, 15:20:15](https://news.ycombinator.com/item?id=50643199) - [In C++, = default and {} are not the same constructor](https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/)
 * [2026-11-25, 15:14:32](https://news.ycombinator.com/item?id=50643129) - [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
 * [2026-11-25, 15:08:44](https://news.ycombinator.com/item?id=50643065) - [Rumors swirling that labs might have cracked Factoring in P](https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/)
 * [2026-11-25, 14:12:29](https://news.ycombinator.com/item?id=50642496) - [U.S. jury convicts Huawei of fraud, Iran sanctions violations](https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/)
@@ -11,6 +10,7 @@
 * [2026-11-25, 04:31:48](https://news.ycombinator.com/item?id=50638503) - [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
 * [2026-11-25, 04:27:55](https://news.ycombinator.com/item?id=50638478) - [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
 * [2026-11-25, 03:47:42](https://news.ycombinator.com/item?id=50638220) - [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
+* [2026-11-25, 03:28:06](https://news.ycombinator.com/item?id=50638070) - [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
 * [2026-11-25, 03:23:07](https://news.ycombinator.com/item?id=50638032) - [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
 * [2026-11-25, 03:04:46](https://news.ycombinator.com/item?id=50637891) - [Macrohistory in Six Facts](https://basilhalperin.com/essays/macrohistory.html)
 * [2026-11-25, 03:04:37](https://news.ycombinator.com/item?id=50637890) - [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
