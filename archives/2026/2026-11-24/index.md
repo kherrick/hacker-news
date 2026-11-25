@@ -78,6 +78,7 @@
 * [2026-11-24, 03:16:58](https://news.ycombinator.com/item?id=50623175) - [Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in](https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26)
 * [2026-11-24, 03:15:38](https://news.ycombinator.com/item?id=50623166) - [Zero data retention with Enterprise Frontier Safeguards is now in beta](https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards)
 * [2026-11-24, 02:58:20](https://news.ycombinator.com/item?id=50623038) - [Show HN: FireVoice, free open-source voice studio on your own GPU](https://firevoice.fabwaseem.com)
+* [2026-11-24, 02:57:22](https://news.ycombinator.com/item?id=50623028) - [A fast CAS with a focus on resolution of singularities](https://github.com/pportilla/atlas)
 * [2026-11-24, 02:56:41](https://news.ycombinator.com/item?id=50623020) - [Hacking radiators for fun and no profit](https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/)
 * [2026-11-24, 02:46:54](https://news.ycombinator.com/item?id=50622934) - [Making a dumb TV just smart enough](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
 * [2026-11-24, 02:36:56](https://news.ycombinator.com/item?id=50622854) - [Declare is a UI language for you and your AI](https://davidtemkin.github.io/declarelang/)
