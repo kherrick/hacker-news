@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-11-25, 03:47:42",
+      "https://news.ycombinator.com/item?id=50638220"
+    ],
+    [
+      "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "https://www.marginalia.nu/log/a_141_marginalia_update/"
+    ]
+  ],
+  [
+    [
+      "2026-11-25, 03:28:06",
+      "https://news.ycombinator.com/item?id=50638070"
+    ],
+    [
+      "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "https://noahbuilt.it/writing/qwen-on-5600-lambdas"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 03:23:07",
       "https://news.ycombinator.com/item?id=50638032"
     ],
     [
       "Button Sounds – collection of professionally-recorded button clicks and presses",
       "https://buttons.joshwcomeau.com/"
+    ]
+  ],
+  [
+    [
+      "2026-11-25, 03:10:18",
+      "https://news.ycombinator.com/item?id=50637936"
+    ],
+    [
+      "Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)",
+      "https://vcarl.com/sashay/"
     ]
   ],
   [
@@ -61,12 +91,12 @@
   ],
   [
     [
-      "2026-11-25, 03:00:39",
-      "https://news.ycombinator.com/item?id=50637866"
+      "2026-11-25, 03:00:12",
+      "https://news.ycombinator.com/item?id=50637863"
     ],
     [
-      "Network Researchers Nail Down Theory of 'Perfect Resilience'",
-      "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/"
+      "Bo3mac: Static ARM64 Recompiler and Direct Metal Port of Black Ops III",
+      "https://github.com/mawlicious/bo3mac"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Models Can Communicate via Inference Servers Despite Being Sandboxed",
       "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
-    ]
-  ],
-  [
-    [
-      "2026-11-25, 02:31:49",
-      "https://news.ycombinator.com/item?id=50637661"
-    ],
-    [
-      "A 1:1 replica of the London DLR",
-      "https://jabza.github.io/labs/dlr-rider/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-11-24, 08:33:14",
-      "https://news.ycombinator.com/item?id=50625384"
-    ],
-    [
-      "Quad9 pulled their DNS service from France",
-      "https://quad9.net/news/blog/quad9-service-deactivation-in-france/"
-    ]
-  ],
-  [
-    [
       "2026-11-24, 08:16:02",
       "https://news.ycombinator.com/item?id=50625265"
     ],
@@ -277,16 +287,6 @@
     [
       "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
       "https://statwonk.com/hierarchical-bayesian-neural-network.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 21:59:09",
-      "https://news.ycombinator.com/item?id=50604355"
-    ],
-    [
-      "Cento fine foods has been sued for “tomato fraud”",
-      "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html"
     ]
   ],
   [
