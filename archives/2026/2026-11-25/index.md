@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
 * [2026-11-25, 21:47:16](https://news.ycombinator.com/item?id=50648035) - [Defang Security Incident](https://defang.io/blog/post/security-incident-november-2026/)
+* [2026-11-25, 21:18:02](https://news.ycombinator.com/item?id=50647673) - [The New York Times tells photographers not to use the latest Photoshop](https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/)
 * [2026-11-25, 20:38:00](https://news.ycombinator.com/item?id=50647181) - [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
+* [2026-11-25, 20:35:50](https://news.ycombinator.com/item?id=50647161) - [Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server](https://opensec.in/blog/nfs2root-cve-2026-99362)
 * [2026-11-25, 20:03:57](https://news.ycombinator.com/item?id=50646781) - [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philpapers.org/rec/NIEIOT-2)
 * [2026-11-25, 19:57:08](https://news.ycombinator.com/item?id=50646662) - [Spending 35B Opus 5.5 Tokens to Write a Symphony](https://danprice.ai/blog/opus-symphony)
 * [2026-11-25, 19:11:27](https://news.ycombinator.com/item?id=50646108) - [Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]](https://scottaaronson.blog/?p=10379)
