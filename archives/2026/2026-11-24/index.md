@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-24](index.md)
 
 * [2026-11-24, 23:23:35](https://news.ycombinator.com/item?id=50636286) - [Get in, friends, the Atmosphere is happening](https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9)
+* [2026-11-24, 22:34:29](https://news.ycombinator.com/item?id=50635783) - [Predicting LoRA size for any dataset](https://engram.com/blog/lora-size)
 * [2026-11-24, 22:26:41](https://news.ycombinator.com/item?id=50635698) - [Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available](https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available)
 * [2026-11-24, 21:51:21](https://news.ycombinator.com/item?id=50635271) - [Heart attack and stroke risk detectable decades in advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance)
 * [2026-11-24, 21:24:27](https://news.ycombinator.com/item?id=50634933) - [An unclassified CIA system was breached in a cyberattack](https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77)
