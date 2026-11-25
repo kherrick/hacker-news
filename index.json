@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-25, 11:34:25",
+      "https://news.ycombinator.com/item?id=50641171"
+    ],
+    [
+      "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "https://github.com/xoxorwr/pw-loudness-eq"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 10:32:04",
       "https://news.ycombinator.com/item?id=50640746"
     ],
@@ -237,16 +247,6 @@
     [
       "New rewritable antimony selenide display shows an image for months without power",
       "https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 08:16:02",
-      "https://news.ycombinator.com/item?id=50625265"
-    ],
-    [
-      "Gödel Enigma",
-      "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description"
     ]
   ],
   [
