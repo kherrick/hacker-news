@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-25, 14:12:29](https://news.ycombinator.com/item?id=50642496) - [U.S. jury convicts Huawei of fraud, Iran sanctions violations](https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/)
 * [2026-11-25, 13:33:07](https://news.ycombinator.com/item?id=50642086) - [Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
 * [2026-11-25, 12:00:34](https://news.ycombinator.com/item?id=50641323) - [Hazel (YC W24) Is Hiring a Product Designer](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract)
 * [2026-11-25, 11:34:25](https://news.ycombinator.com/item?id=50641171) - [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq)
@@ -24,7 +25,6 @@
 * [2026-11-24, 13:19:31](https://news.ycombinator.com/item?id=50627783) - [GTA 6 Running on Windows](https://twitter.com/raul_bs3/status/2125213756238291075)
 * [2026-11-24, 13:14:37](https://news.ycombinator.com/item?id=50627726) - [Getting old Java phones online again](https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html)
 * [2026-11-24, 12:14:25](https://news.ycombinator.com/item?id=50627079) - [The Shapes of Rivers](https://dominicroye.github.io/shapes-of-rivers/)
-* [2026-11-24, 08:16:02](https://news.ycombinator.com/item?id=50625265) - [Gödel Enigma](https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description)
 * [2026-11-24, 04:49:58](https://news.ycombinator.com/item?id=50623866) - [The algebra of dependent types (2025)](https://dotat.at/@/2025-05-28-types.html)
 * [2026-11-23, 15:45:11](https://news.ycombinator.com/item?id=50613769) - [When in Doubt, Flail About](https://www.seangoedecke.com/when-in-doubt-flail-about/)
 * [2026-11-23, 12:40:08](https://news.ycombinator.com/item?id=50610820) - [An Italian folding bicycle design that fits into a suitcase](https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase)
