@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-25, 00:36:43](https://news.ycombinator.com/item?id=50636925) - [Here in the World: Letters of Albert Camus, 1944–1959](https://literaryreview.co.uk/here-in-the-world)
 * [2026-11-24, 23:23:35](https://news.ycombinator.com/item?id=50636286) - [Get in, friends, the Atmosphere is happening](https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9)
-* [2026-11-24, 22:26:41](https://news.ycombinator.com/item?id=50635698) - [Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available](https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available)
+* [2026-11-24, 22:26:41](https://news.ycombinator.com/item?id=50635698) - [Fable 5.2 tries less on some hard tasks when a shortcut is available](https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available)
 * [2026-11-24, 21:51:21](https://news.ycombinator.com/item?id=50635271) - [Heart attack and stroke risk detectable decades in advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance)
 * [2026-11-24, 21:24:27](https://news.ycombinator.com/item?id=50634933) - [An unclassified CIA system was breached in a cyberattack](https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77)
 * [2026-11-24, 21:02:22](https://news.ycombinator.com/item?id=50634658) - [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
@@ -21,7 +22,6 @@
 * [2026-11-24, 10:50:14](https://news.ycombinator.com/item?id=50626413) - [Worshipping at the altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
 * [2026-11-24, 08:33:14](https://news.ycombinator.com/item?id=50625384) - [Quad9 pulled their DNS service from France](https://quad9.net/news/blog/quad9-service-deactivation-in-france/)
 * [2026-11-24, 08:16:02](https://news.ycombinator.com/item?id=50625265) - [Gödel Enigma](https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description)
-* [2026-11-24, 06:30:33](https://news.ycombinator.com/item?id=50624497) - [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
 * [2026-11-23, 12:40:08](https://news.ycombinator.com/item?id=50610820) - [An Italian folding bicycle design that fits into a suitcase](https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase)
 * [2026-11-23, 09:46:57](https://news.ycombinator.com/item?id=50609483) - [Calculate how many mesh radio nodes your city needs](https://meshcoveragecalculator.lalala.ing/)
 * [2026-11-23, 02:10:39](https://news.ycombinator.com/item?id=50606655) - [Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility](https://statwonk.com/hierarchical-bayesian-neural-network.html)
