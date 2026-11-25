@@ -56,6 +56,7 @@
 * [2026-11-24, 09:56:08](https://news.ycombinator.com/item?id=50626012) - [Google Chrome dev team declares bug report bankruptcy](https://blog.plover.com/2026/11/18/#bug-reports)
 * [2026-11-24, 09:47:59](https://news.ycombinator.com/item?id=50625953) - [Just a Few Bugs](https://www.justafewbugs.xyz/)
 * [2026-11-24, 09:39:50](https://news.ycombinator.com/item?id=50625888) - [Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex](https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/)
+* [2026-11-24, 09:06:47](https://news.ycombinator.com/item?id=50625654) - [Pinocchio at 200: a tale of hunger, greed and Italy's culinary history](https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/)
 * [2026-11-24, 08:33:14](https://news.ycombinator.com/item?id=50625384) - [Quad9 pulled their DNS service from France](https://quad9.net/news/blog/quad9-service-deactivation-in-france/)
 * [2026-11-24, 08:16:02](https://news.ycombinator.com/item?id=50625265) - [Gödel Enigma](https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description)
 * [2026-11-24, 07:46:12](https://news.ycombinator.com/item?id=50625004) - [I'm not excited about tech anymore](https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore)
