@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-25, 22:57:04](https://news.ycombinator.com/item?id=50648823) - [Jev is (probably) Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie)
 * [2026-11-25, 21:48:10](https://news.ycombinator.com/item?id=50648050) - [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
 * [2026-11-25, 21:47:16](https://news.ycombinator.com/item?id=50648035) - [Defang Security Incident](https://defang.io/blog/post/security-incident-november-2026/)
 * [2026-11-25, 21:18:02](https://news.ycombinator.com/item?id=50647673) - [The New York Times tells photographers not to use the latest Photoshop](https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/)
@@ -12,7 +13,6 @@
 * [2026-11-25, 17:18:26](https://news.ycombinator.com/item?id=50644817) - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 * [2026-11-25, 15:20:15](https://news.ycombinator.com/item?id=50643199) - [In C++, = default and {} are not the same constructor](https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/)
 * [2026-11-25, 15:14:32](https://news.ycombinator.com/item?id=50643129) - [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
-* [2026-11-25, 15:08:44](https://news.ycombinator.com/item?id=50643065) - [Rumors swirling that labs might have cracked Factoring in P](https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/)
 * [2026-11-25, 14:56:52](https://news.ycombinator.com/item?id=50642939) - [I checked Clojure's core with Lean and found unreported bugs](https://s.conao3.com/blog/2026/e4f733)
 * [2026-11-25, 13:33:07](https://news.ycombinator.com/item?id=50642086) - [Google releases Cogentic papers on integer factorization, discrete logs and more](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
 * [2026-11-25, 12:00:34](https://news.ycombinator.com/item?id=50641323) - [Hazel (YC W24) Is Hiring a Product Designer](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract)
