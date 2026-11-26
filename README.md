@@ -26,9 +26,9 @@
 * [2026-11-26, 03:00:48](https://news.ycombinator.com/item?id=50650892) - [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)
 * [2026-11-26, 00:40:00](https://news.ycombinator.com/item?id=50649834) - [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)
 * [2026-11-25, 21:48:10](https://news.ycombinator.com/item?id=50648050) - [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
-* [2026-11-25, 21:18:02](https://news.ycombinator.com/item?id=50647673) - [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
 * [2026-11-25, 19:11:27](https://news.ycombinator.com/item?id=50646108) - [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
 * [2026-11-25, 00:37:07](https://news.ycombinator.com/item?id=50636931) - [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/)
+* [2026-11-24, 20:40:18](https://news.ycombinator.com/item?id=50634381) - [The history of civilization is the history of wheat](https://asteriskmag.com/issues/16/marginal-grains)
 * [2026-11-23, 21:18:49](https://news.ycombinator.com/item?id=50619466) - [Discovery of curse ritual in trash dump surprises Egyptologist](https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html)
 
 ## [Archives](archives/index.md)
