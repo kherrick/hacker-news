@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-26, 18:06:19](https://news.ycombinator.com/item?id=50657860) - [Kim Dotcom has won his case](https://twitter.com/KimDotcom/status/2125837707125621184)
 * [2026-11-26, 17:47:45](https://news.ycombinator.com/item?id=50657645) - [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 * [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Bypass anti-adblock](https://github.com/antonpictures/youtube-punisher)
 * [2026-11-26, 17:16:41](https://news.ycombinator.com/item?id=50657307) - [Tracking Diseases Cured by AI](https://diseasescuredbyai.com/)
@@ -27,7 +28,6 @@
 * [2026-11-25, 00:37:07](https://news.ycombinator.com/item?id=50636931) - [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/)
 * [2026-11-24, 20:40:18](https://news.ycombinator.com/item?id=50634381) - [The history of civilization is the history of wheat](https://asteriskmag.com/issues/16/marginal-grains)
 * [2026-11-24, 10:56:56](https://news.ycombinator.com/item?id=50626466) - [What VP ≠ VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp)
-* [2026-11-24, 03:24:22](https://news.ycombinator.com/item?id=50623232) - [Show HN: Synth Patch Hero](https://swarkentin.github.io/synth-patch-hero/)
 * [2026-11-23, 21:18:49](https://news.ycombinator.com/item?id=50619466) - [Discovery of curse ritual in trash dump surprises Egyptologist](https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html)
 * [2026-11-22, 16:44:48](https://news.ycombinator.com/item?id=50601280) - [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
 
