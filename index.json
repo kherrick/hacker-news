@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-11-26, 16:55:15",
-      "https://news.ycombinator.com/item?id=50657110"
-    ],
-    [
-      "One guy is doing an hunger strike at Anthropic, currently in his 3rd day",
-      "https://twitter.com/ElliotC1/status/2125689373337489419"
-    ]
-  ],
-  [
-    [
       "2026-11-26, 16:50:55",
       "https://news.ycombinator.com/item?id=50657059"
     ],
@@ -207,6 +197,16 @@
     [
       "Slow Ubuntu security response times",
       "https://www.openwall.com/lists/oss-security/2026/11/25/9"
+    ]
+  ],
+  [
+    [
+      "2026-11-25, 20:35:50",
+      "https://news.ycombinator.com/item?id=50647161"
+    ],
+    [
+      "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "https://opensec.in/blog/nfs2root-cve-2026-99362"
     ]
   ],
   [
