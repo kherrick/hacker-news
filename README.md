@@ -25,7 +25,7 @@
 * [2026-11-24, 06:22:36](https://news.ycombinator.com/item?id=50624446) - [Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs](https://jayd.ml/2026/11/14/rockbox-on-yp3.html)
 * [2026-11-24, 02:56:41](https://news.ycombinator.com/item?id=50623020) - [Hacking radiators](https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/)
 * [2026-11-23, 20:50:20](https://news.ycombinator.com/item?id=50619073) - [The undocumented 249-file limit for Googlebot rendering](https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit)
-* [2026-11-23, 18:48:15](https://news.ycombinator.com/item?id=50616937) - [Why \"all different\" Sets take 5x longer to find](https://setdaily.app/blog/spotting-sets)
+* [2026-11-23, 18:48:15](https://news.ycombinator.com/item?id=50616937) - [Why “all different” Sets take longer to find](https://setdaily.app/blog/spotting-sets)
 * [2026-11-23, 18:18:08](https://news.ycombinator.com/item?id=50616473) - [The trouble with serendipity: Scientific discoveries don't happen how you think](https://www.worksinprogress.news/p/the-trouble-with-serendipity)
 * [2026-11-23, 14:02:15](https://news.ycombinator.com/item?id=50611593) - [Show HN: An agent skill that optimizes code with falsifiable hypotheses](https://chszlab.github.io/AgenticAlgorithmEngineering/)
 * [2026-11-22, 16:44:48](https://news.ycombinator.com/item?id=50601280) - [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
