@@ -26,6 +26,7 @@
 * [2026-11-23, 18:48:38](https://news.ycombinator.com/item?id=50616947) - [Iranian authorities flog singer who performed without hijab, lawyers say](https://www.bbc.com/news/articles/cq1j6585l5g6o)
 * [2026-11-23, 18:48:15](https://news.ycombinator.com/item?id=50616937) - [Why \"all different\" Sets take 5x longer to find](https://setdaily.app/blog/spotting-sets)
 * [2026-11-23, 18:48:10](https://news.ycombinator.com/item?id=50616933) - [Apple removed my open-source app from EU App Stores after 9 years](https://github.com/glushchenko/fsnotes/discussions/2056)
+* [2026-11-23, 18:18:08](https://news.ycombinator.com/item?id=50616473) - [The trouble with serendipity: Scientific discoveries don't happen how you think](https://www.worksinprogress.news/p/the-trouble-with-serendipity)
 * [2026-11-23, 17:19:25](https://news.ycombinator.com/item?id=50615520) - [How should an LLM see a computer?](https://www.greptile.com/blog/trex-computer-use)
 * [2026-11-23, 17:17:01](https://news.ycombinator.com/item?id=50615481) - [Kagi Mail is here (Public Beta)](https://blog.kagi.com/kagi-mail-public-beta)
 * [2026-11-23, 17:07:26](https://news.ycombinator.com/item?id=50615308) - [Dario is hyping the dangers so OSS models are illegal and *he* stays in control](https://twitter.com/ylecun/status/2124550037912920090)
