@@ -13,6 +13,7 @@
 * [2026-11-23, 22:29:48](https://news.ycombinator.com/item?id=50620328) - [Latent Introspection: LLMs Can Detect Prior Concept Injections](https://arxiv.org/abs/2602.20031)
 * [2026-11-23, 22:23:04](https://news.ycombinator.com/item?id=50620252) - [VP != VNP over Every Field [pdf]](https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf)
 * [2026-11-23, 22:22:56](https://news.ycombinator.com/item?id=50620250) - [Levent Alpöge comments on his Riemann Hypothesis proof](https://twitter.com/__alpoge__/status/2124987173439209561)
+* [2026-11-23, 22:10:43](https://news.ycombinator.com/item?id=50620120) - [MCP Gateway: How Snap Checks Both the Person and the Agent](https://eng.snap.com/mcp-gateway)
 * [2026-11-23, 22:09:10](https://news.ycombinator.com/item?id=50620102) - [VP ≠ VNP over Every Field](https://github.com/anthropics/formal-math/tree/main/vp-vnp)
 * [2026-11-23, 21:46:33](https://news.ycombinator.com/item?id=50619838) - [The AI conversation we're not having](https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/)
 * [2026-11-23, 21:30:41](https://news.ycombinator.com/item?id=50619630) - [Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux](https://openai.com/index/introducing-shirudo/)
