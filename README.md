@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-26, 20:39:05](https://news.ycombinator.com/item?id=50659532) - [Nvidia was right to bring back Jensen Huang, writes Sarah Guo](https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo)
 * [2026-11-26, 19:53:58](https://news.ycombinator.com/item?id=50658997) - [The USA as a Civilizations-esque map](https://karpathy.ai/usaciv/)
 * [2026-11-26, 19:18:09](https://news.ycombinator.com/item?id=50658632) - [Rvoip 0.5 the complete VoIP stack in Rust](https://github.com/eisenzopf/rvoip)
+* [2026-11-26, 18:37:24](https://news.ycombinator.com/item?id=50658193) - [Largest 2D Chart library in the world using BUI: BlenderUI](https://bui.preetham.top/charts/)
 * [2026-11-26, 18:37:21](https://news.ycombinator.com/item?id=50658191) - [Show HN: Fuck_data_brokers.py](https://github.com/gary23w/f-ck_data_brokers)
 * [2026-11-26, 18:13:07](https://news.ycombinator.com/item?id=50657936) - [George Whitesides, 1939-2026](https://www.science.org/content/blog-post/george-whitesides-1939-2026)
 * [2026-11-26, 17:47:45](https://news.ycombinator.com/item?id=50657645) - [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
@@ -11,7 +13,6 @@
 * [2026-11-26, 16:50:55](https://news.ycombinator.com/item?id=50657059) - [NP_R ≠ PAR_R](https://github.com/samueleverett01/bss-permanent-separations)
 * [2026-11-26, 15:00:06](https://news.ycombinator.com/item?id=50656036) - [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/)
 * [2026-11-26, 14:26:54](https://news.ycombinator.com/item?id=50655664) - [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
-* [2026-11-26, 13:48:11](https://news.ycombinator.com/item?id=50655278) - [45°C inlets just killed the chiller. Most people haven't noticed yet](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831)
 * [2026-11-26, 12:00:00](https://news.ycombinator.com/item?id=50654353) - [Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353)
 * [2026-11-26, 11:50:49](https://news.ycombinator.com/item?id=50654289) - [Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
 * [2026-11-26, 10:11:01](https://news.ycombinator.com/item?id=50653667) - [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono)
@@ -28,7 +29,6 @@
 * [2026-11-25, 21:18:02](https://news.ycombinator.com/item?id=50647673) - [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
 * [2026-11-25, 19:11:27](https://news.ycombinator.com/item?id=50646108) - [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
 * [2026-11-25, 00:37:07](https://news.ycombinator.com/item?id=50636931) - [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/)
-* [2026-11-24, 20:40:18](https://news.ycombinator.com/item?id=50634381) - [The history of civilization is the history of wheat](https://asteriskmag.com/issues/16/marginal-grains)
 * [2026-11-23, 21:18:49](https://news.ycombinator.com/item?id=50619466) - [Discovery of curse ritual in trash dump surprises Egyptologist](https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html)
 
 ## [Archives](archives/index.md)
