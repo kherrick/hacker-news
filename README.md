@@ -8,7 +8,7 @@
 * [2026-11-26, 14:26:54](https://news.ycombinator.com/item?id=50655664) - [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
 * [2026-11-26, 13:48:11](https://news.ycombinator.com/item?id=50655278) - [45°C inlets just killed the chiller. Most people haven't noticed yet](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831)
 * [2026-11-26, 12:00:00](https://news.ycombinator.com/item?id=50654353) - [Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353)
-* [2026-11-26, 11:50:49](https://news.ycombinator.com/item?id=50654289) - [Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
+* [2026-11-26, 11:50:49](https://news.ycombinator.com/item?id=50654289) - [Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
 * [2026-11-26, 10:11:01](https://news.ycombinator.com/item?id=50653667) - [Intel One Mono font](https://github.com/intel/intel-one-mono)
 * [2026-11-26, 06:32:48](https://news.ycombinator.com/item?id=50652184) - [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)
 * [2026-11-26, 05:37:51](https://news.ycombinator.com/item?id=50651863) - [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)
