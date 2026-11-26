@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-11-26, 18:14:53",
-      "https://news.ycombinator.com/item?id=50657957"
-    ],
-    [
-      "Ask HN: How do you find meaning of life at 41?",
-      "https://news.ycombinator.com/item?id=50657957"
-    ]
-  ],
-  [
-    [
       "2026-11-26, 17:47:45",
       "https://news.ycombinator.com/item?id=50657645"
     ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=50653667"
     ],
     [
-      "Intel One Mono font",
+      "Intel One Mono font (2023)",
       "https://github.com/intel/intel-one-mono"
     ]
   ],
@@ -167,6 +157,16 @@
     [
       "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
       "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/"
+    ]
+  ],
+  [
+    [
+      "2026-11-26, 04:59:56",
+      "https://news.ycombinator.com/item?id=50651627"
+    ],
+    [
+      "Unconditional Integer Factorization in Subexponential Time",
+      "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization"
     ]
   ],
   [
