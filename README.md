@@ -23,7 +23,7 @@
 * [2026-11-24, 22:34:29](https://news.ycombinator.com/item?id=50635783) - [Predicting LoRA size for any dataset](https://engram.com/blog/lora-size)
 * [2026-11-24, 07:03:33](https://news.ycombinator.com/item?id=50624684) - [Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window](https://www.rchive.computer/)
 * [2026-11-24, 06:22:36](https://news.ycombinator.com/item?id=50624446) - [Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs](https://jayd.ml/2026/11/14/rockbox-on-yp3.html)
-* [2026-11-24, 02:57:22](https://news.ycombinator.com/item?id=50623028) - [A fast CAS with a focus on resolution of singularities](https://github.com/pportilla/atlas)
+* [2026-11-24, 02:56:41](https://news.ycombinator.com/item?id=50623020) - [Hacking radiators](https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/)
 * [2026-11-23, 20:50:20](https://news.ycombinator.com/item?id=50619073) - [The undocumented 249-file limit for Googlebot rendering](https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit)
 * [2026-11-23, 18:48:15](https://news.ycombinator.com/item?id=50616937) - [Why \"all different\" Sets take 5x longer to find](https://setdaily.app/blog/spotting-sets)
 * [2026-11-23, 18:18:08](https://news.ycombinator.com/item?id=50616473) - [The trouble with serendipity: Scientific discoveries don't happen how you think](https://www.worksinprogress.news/p/the-trouble-with-serendipity)
