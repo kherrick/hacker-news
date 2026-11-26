@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-11-26, 17:36:47",
+      "https://news.ycombinator.com/item?id=50657530"
+    ],
+    [
+      "YouTube Ad Punisher – Bypass anti-adblock",
+      "https://github.com/antonpictures/youtube-punisher"
+    ]
+  ],
+  [
+    [
+      "2026-11-26, 17:16:41",
+      "https://news.ycombinator.com/item?id=50657307"
+    ],
+    [
+      "Tracking Diseases Cured by AI",
+      "https://diseasescuredbyai.com/"
+    ]
+  ],
+  [
+    [
       "2026-11-26, 17:11:29",
       "https://news.ycombinator.com/item?id=50657265"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-11-25, 22:15:34",
-      "https://news.ycombinator.com/item?id=50648365"
-    ],
-    [
-      "Bare Metal Qwen",
-      "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os"
-    ]
-  ],
-  [
-    [
       "2026-11-25, 21:18:02",
       "https://news.ycombinator.com/item?id=50647673"
     ],
@@ -197,16 +207,6 @@
     [
       "Slow Ubuntu security response times",
       "https://www.openwall.com/lists/oss-security/2026/11/25/9"
-    ]
-  ],
-  [
-    [
-      "2026-11-25, 20:35:50",
-      "https://news.ycombinator.com/item?id=50647161"
-    ],
-    [
-      "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-      "https://opensec.in/blog/nfs2root-cve-2026-99362"
     ]
   ],
   [
