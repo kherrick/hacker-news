@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=50657530"
     ],
     [
-      "YouTube Ad Punisher – Bypass anti-adblock",
+      "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
       "https://github.com/antonpictures/youtube-punisher"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "DeepSeekMath: Pushing the Limits of Mathematical Reasoning",
       "https://github.com/deepseek-ai/deepseek-math"
-    ]
-  ],
-  [
-    [
-      "2026-11-26, 17:16:41",
-      "https://news.ycombinator.com/item?id=50657307"
-    ],
-    [
-      "Tracking Diseases Cured by AI",
-      "https://diseasescuredbyai.com/"
     ]
   ],
   [
@@ -77,6 +67,16 @@
     [
       "NP_R ≠ PAR_R",
       "https://github.com/samueleverett01/bss-permanent-separations"
+    ]
+  ],
+  [
+    [
+      "2026-11-26, 16:28:54",
+      "https://news.ycombinator.com/item?id=50656862"
+    ],
+    [
+      "Kagi Watch",
+      "https://kagi.com/watch"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=50652184"
     ],
     [
-      "Moat: Your OpenRouter Replacement",
+      "Moat: OpenRouter replacement",
       "https://commandcode.ai/moat"
     ]
   ],
@@ -177,6 +177,16 @@
     [
       "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
       "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/"
+    ]
+  ],
+  [
+    [
+      "2026-11-26, 03:33:06",
+      "https://news.ycombinator.com/item?id=50651099"
+    ],
+    [
+      "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "https://olumino.app"
     ]
   ],
   [
@@ -207,6 +217,16 @@
     [
       "Collection of preserved UI style guides",
       "https://aresluna.org/ui-style-guides/"
+    ]
+  ],
+  [
+    [
+      "2026-11-25, 21:48:10",
+      "https://news.ycombinator.com/item?id=50648050"
+    ],
+    [
+      "Much shorter version of GRH Lean verification from Anthropic",
+      "https://github.com/lsernau/grh-lean"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2026-11-25, 17:18:26",
-      "https://news.ycombinator.com/item?id=50644817"
-    ],
-    [
-      "1Password Security Incident",
-      "https://1password.com/blog/update-on-nov-2026-security-incident"
-    ]
-  ],
-  [
-    [
       "2026-11-25, 00:37:07",
       "https://news.ycombinator.com/item?id=50636931"
     ],
@@ -287,16 +297,6 @@
     [
       "Discovery of curse ritual in trash dump surprises Egyptologist",
       "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html"
-    ]
-  ],
-  [
-    [
-      "2026-11-22, 16:44:48",
-      "https://news.ycombinator.com/item?id=50601280"
-    ],
-    [
-      "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "https://bjin.github.io/go-codegolf-benchmark/#leaderboard"
     ]
   ]
 ]
