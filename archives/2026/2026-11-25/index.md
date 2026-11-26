@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
+* [2026-11-25, 23:15:52](https://news.ycombinator.com/item?id=50649040) - [The USAID Files](https://reclaimthenet.org/usaid-files)
 * [2026-11-25, 22:57:04](https://news.ycombinator.com/item?id=50648823) - [Jev is (probably) Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie)
 * [2026-11-25, 22:57:01](https://news.ycombinator.com/item?id=50648822) - [Duran Duran guitarist Andy Taylor dies aged 65](https://www.bbc.co.uk/news/articles/cmp3vk6vr44po)
 * [2026-11-25, 22:15:34](https://news.ycombinator.com/item?id=50648365) - [Bare Metal Qwen](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os)
