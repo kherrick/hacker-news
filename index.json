@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-26, 03:00:48",
+      "https://news.ycombinator.com/item?id=50650892"
+    ],
+    [
+      "Minipg: PostgreSQL as a Single Executable",
+      "https://progrium.github.io/minipg/"
+    ]
+  ],
+  [
+    [
       "2026-11-26, 00:43:34",
       "https://news.ycombinator.com/item?id=50649864"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=50648323"
     ],
     [
-      "Deploying a payphone on a tiny Pacific Island",
+      "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
       "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Much shorter version of GRH Lean verification from Anthropic",
       "https://github.com/lsernau/grh-lean"
-    ]
-  ],
-  [
-    [
-      "2026-11-25, 21:47:16",
-      "https://news.ycombinator.com/item?id=50648035"
-    ],
-    [
-      "Defang Security Incident",
-      "https://defang.io/blog/post/security-incident-november-2026/"
     ]
   ],
   [
