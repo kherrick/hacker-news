@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
+* [2026-11-26, 19:53:58](https://news.ycombinator.com/item?id=50658997) - [The USA as a Civilizations-esque map](https://karpathy.ai/usaciv/)
 * [2026-11-26, 18:14:53](https://news.ycombinator.com/item?id=50657957) - [Ask HN: How do you find meaning of life at 41?](https://news.ycombinator.com/item?id=50657957)
 * [2026-11-26, 18:13:07](https://news.ycombinator.com/item?id=50657936) - [George Whitesides, 1939-2026](https://www.science.org/content/blog-post/george-whitesides-1939-2026)
 * [2026-11-26, 18:06:19](https://news.ycombinator.com/item?id=50657860) - [Kim Dotcom has won his case](https://twitter.com/KimDotcom/status/2125837707125621184)
