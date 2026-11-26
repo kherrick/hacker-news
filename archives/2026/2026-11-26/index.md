@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
+* [2026-11-26, 15:12:27](https://news.ycombinator.com/item?id=50656145) - [Shein to pay $100M in fines to FTC for illegal practices](https://www.upi.com/Top_News/US/2026/11/25/shein-ftc-100-million/1661795636863/)
 * [2026-11-26, 14:26:54](https://news.ycombinator.com/item?id=50655664) - [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
 * [2026-11-26, 13:48:11](https://news.ycombinator.com/item?id=50655278) - [45°C inlets just killed the chiller. Most people haven't noticed yet](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831)
 * [2026-11-26, 12:00:05](https://news.ycombinator.com/item?id=50654354) - [Samsung TV has 650 free channels behind one button most owners never press](https://www.makeuseof.com/samsung-tv-plus/)
