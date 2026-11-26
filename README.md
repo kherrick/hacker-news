@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-26, 17:11:29](https://news.ycombinator.com/item?id=50657265) - [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
+* [2026-11-26, 16:55:15](https://news.ycombinator.com/item?id=50657110) - [One guy is doing an hunger strike at Anthropic, currently in his 3rd day](https://twitter.com/ElliotC1/status/2125689373337489419)
+* [2026-11-26, 16:50:55](https://news.ycombinator.com/item?id=50657059) - [NP_R ≠ PAR_R](https://github.com/samueleverett01/bss-permanent-separations)
 * [2026-11-26, 16:16:41](https://news.ycombinator.com/item?id=50656763) - [Ask HN: Any courses/products by indie makers worth getting today?](https://news.ycombinator.com/item?id=50656763)
-* [2026-11-26, 16:09:12](https://news.ycombinator.com/item?id=50656686) - [1984 Hosting is down due to a security incident](https://status.1984.is/status/public)
 * [2026-11-26, 15:00:06](https://news.ycombinator.com/item?id=50656036) - [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/)
 * [2026-11-26, 14:26:54](https://news.ycombinator.com/item?id=50655664) - [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
 * [2026-11-26, 13:48:11](https://news.ycombinator.com/item?id=50655278) - [45°C inlets just killed the chiller. Most people haven't noticed yet](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831)
@@ -16,7 +18,6 @@
 * [2026-11-26, 00:43:34](https://news.ycombinator.com/item?id=50649864) - [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
 * [2026-11-26, 00:40:00](https://news.ycombinator.com/item?id=50649834) - [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)
 * [2026-11-25, 22:15:34](https://news.ycombinator.com/item?id=50648365) - [Bare Metal Qwen](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os)
-* [2026-11-25, 21:48:10](https://news.ycombinator.com/item?id=50648050) - [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
 * [2026-11-25, 21:18:02](https://news.ycombinator.com/item?id=50647673) - [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
 * [2026-11-25, 20:38:00](https://news.ycombinator.com/item?id=50647181) - [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
 * [2026-11-25, 20:35:50](https://news.ycombinator.com/item?id=50647161) - [Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server](https://opensec.in/blog/nfs2root-cve-2026-99362)
@@ -29,7 +30,6 @@
 * [2026-11-24, 03:24:22](https://news.ycombinator.com/item?id=50623232) - [Show HN: Synth Patch Hero](https://swarkentin.github.io/synth-patch-hero/)
 * [2026-11-23, 21:18:49](https://news.ycombinator.com/item?id=50619466) - [Discovery of curse ritual in trash dump surprises Egyptologist](https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html)
 * [2026-11-22, 16:44:48](https://news.ycombinator.com/item?id=50601280) - [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
-* [2026-11-22, 11:29:44](https://news.ycombinator.com/item?id=50598636) - [The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]](https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf)
 
 ## [Archives](archives/index.md)
 

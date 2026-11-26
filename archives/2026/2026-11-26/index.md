@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
+* [2026-11-26, 17:11:29](https://news.ycombinator.com/item?id=50657265) - [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
+* [2026-11-26, 16:55:15](https://news.ycombinator.com/item?id=50657110) - [One guy is doing an hunger strike at Anthropic, currently in his 3rd day](https://twitter.com/ElliotC1/status/2125689373337489419)
+* [2026-11-26, 16:50:55](https://news.ycombinator.com/item?id=50657059) - [NP_R ≠ PAR_R](https://github.com/samueleverett01/bss-permanent-separations)
 * [2026-11-26, 16:28:54](https://news.ycombinator.com/item?id=50656862) - [Kagi Watch](https://kagi.com/watch)
 * [2026-11-26, 16:16:41](https://news.ycombinator.com/item?id=50656763) - [Ask HN: Any courses/products by indie makers worth getting today?](https://news.ycombinator.com/item?id=50656763)
 * [2026-11-26, 16:09:12](https://news.ycombinator.com/item?id=50656686) - [1984 Hosting is down due to a security incident](https://status.1984.is/status/public)
