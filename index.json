@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2026-11-25, 15:20:15",
+      "https://news.ycombinator.com/item?id=50643199"
+    ],
+    [
+      "In C++, = default and {} are not the same constructor",
+      "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/"
+    ]
+  ],
+  [
+    [
       "2026-11-25, 15:14:32",
       "https://news.ycombinator.com/item?id=50643129"
     ],
@@ -247,16 +257,6 @@
     [
       "The undocumented 249-file limit for Googlebot rendering",
       "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit"
-    ]
-  ],
-  [
-    [
-      "2026-11-23, 18:48:15",
-      "https://news.ycombinator.com/item?id=50616937"
-    ],
-    [
-      "Why \"all different\" Sets take 5x longer to find",
-      "https://setdaily.app/blog/spotting-sets"
     ]
   ],
   [
