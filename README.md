@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-26, 03:43:24](https://news.ycombinator.com/item?id=50651158) - [Qualcomm's Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
 * [2026-11-26, 03:00:48](https://news.ycombinator.com/item?id=50650892) - [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)
 * [2026-11-26, 00:43:34](https://news.ycombinator.com/item?id=50649864) - [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
 * [2026-11-26, 00:40:00](https://news.ycombinator.com/item?id=50649834) - [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)
@@ -19,7 +20,6 @@
 * [2026-11-25, 13:33:07](https://news.ycombinator.com/item?id=50642086) - [Google releases Cogentic papers on integer factorization, discrete logs and more](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
 * [2026-11-25, 11:34:25](https://news.ycombinator.com/item?id=50641171) - [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq)
 * [2026-11-25, 02:00:08](https://news.ycombinator.com/item?id=50637448) - [How did pinwheel calculators work?](https://blog.coredump.cx/p/how-did-pinwheel-calculators-work)
-* [2026-11-24, 22:34:29](https://news.ycombinator.com/item?id=50635783) - [Predicting LoRA size for any dataset](https://engram.com/blog/lora-size)
 * [2026-11-24, 10:56:56](https://news.ycombinator.com/item?id=50626466) - [What VP ≠ VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp)
 * [2026-11-24, 06:22:36](https://news.ycombinator.com/item?id=50624446) - [Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs](https://jayd.ml/2026/11/14/rockbox-on-yp3.html)
 * [2026-11-24, 02:56:41](https://news.ycombinator.com/item?id=50623020) - [Hacking radiators](https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/)
