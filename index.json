@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-11-26, 18:06:19",
-      "https://news.ycombinator.com/item?id=50657860"
-    ],
-    [
-      "Kim Dotcom has won his case",
-      "https://twitter.com/KimDotcom/status/2125837707125621184"
-    ]
-  ],
-  [
-    [
       "2026-11-26, 17:47:45",
       "https://news.ycombinator.com/item?id=50657645"
     ],
@@ -47,6 +37,16 @@
     [
       "AMD Specific Patches for Llama.cpp",
       "https://devnull.land/amd-specific-llama-cpp"
+    ]
+  ],
+  [
+    [
+      "2026-11-26, 16:51:38",
+      "https://news.ycombinator.com/item?id=50657070"
+    ],
+    [
+      "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "https://github.com/rxliuli/sim-drop"
     ]
   ],
   [
