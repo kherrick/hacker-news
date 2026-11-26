@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-26, 00:43:34](https://news.ycombinator.com/item?id=50649864) - [Tell HN: More Ask HNs on /ask again](https://news.ycombinator.com/item?id=50649864)
+* [2026-11-26, 00:43:34](https://news.ycombinator.com/item?id=50649864) - [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
 * [2026-11-25, 22:57:04](https://news.ycombinator.com/item?id=50648823) - [Jev is probably Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie)
 * [2026-11-25, 22:15:34](https://news.ycombinator.com/item?id=50648365) - [Bare Metal Qwen](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os)
-* [2026-11-25, 22:12:25](https://news.ycombinator.com/item?id=50648323) - [Deploying a payphone on a tiny Pacific Island for fun and zero profit](https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/)
+* [2026-11-25, 22:12:25](https://news.ycombinator.com/item?id=50648323) - [Deploying a payphone on a tiny Pacific Island](https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/)
 * [2026-11-25, 21:48:10](https://news.ycombinator.com/item?id=50648050) - [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
 * [2026-11-25, 21:47:16](https://news.ycombinator.com/item?id=50648035) - [Defang Security Incident](https://defang.io/blog/post/security-incident-november-2026/)
 * [2026-11-25, 21:18:02](https://news.ycombinator.com/item?id=50647673) - [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
