@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-26, 07:05:59](https://news.ycombinator.com/item?id=50652370) - [Mirror life is dangerous. Regulators must act before it becomes real](https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real)
 * [2026-11-26, 05:12:59](https://news.ycombinator.com/item?id=50651719) - [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
 * [2026-11-26, 03:43:24](https://news.ycombinator.com/item?id=50651158) - [Qualcomm's Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
 * [2026-11-26, 03:36:58](https://news.ycombinator.com/item?id=50651117) - [OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](https://twitter.com/thsottiaux/status/2125784147889393806)
@@ -23,7 +24,6 @@
 * [2026-11-24, 20:40:18](https://news.ycombinator.com/item?id=50634381) - [Marginal Grains](https://asteriskmag.com/issues/16/marginal-grains)
 * [2026-11-24, 13:00:05](https://news.ycombinator.com/item?id=50627532) - [Xkcd and Fourier](https://leancrew.com/all-this/2026/10/xkcd-and-fourier/)
 * [2026-11-24, 10:56:56](https://news.ycombinator.com/item?id=50626466) - [What VP ≠ VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp)
-* [2026-11-24, 06:22:36](https://news.ycombinator.com/item?id=50624446) - [Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs](https://jayd.ml/2026/11/14/rockbox-on-yp3.html)
 * [2026-11-24, 03:24:22](https://news.ycombinator.com/item?id=50623232) - [Show HN: Synth Patch Hero](https://swarkentin.github.io/synth-patch-hero/)
 * [2026-11-23, 23:25:26](https://news.ycombinator.com/item?id=50620991) - [Hkust 3D Prints a Titanium Alloy That Keeps Hardening](https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/)
 * [2026-11-23, 06:27:47](https://news.ycombinator.com/item?id=50608175) - [Can a TV be too large? An investigation](https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/)
