@@ -37,6 +37,7 @@
 * [2026-11-23, 15:45:11](https://news.ycombinator.com/item?id=50613769) - [When in Doubt, Flail About](https://www.seangoedecke.com/when-in-doubt-flail-about/)
 * [2026-11-23, 15:28:41](https://news.ycombinator.com/item?id=50613465) - [One Man's Quest to End Daylight Savings](https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings)
 * [2026-11-23, 14:49:44](https://news.ycombinator.com/item?id=50612686) - [GTA 6 Xbox executable released early by cyberleek](https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/)
+* [2026-11-23, 14:17:34](https://news.ycombinator.com/item?id=50611889) - [Linear scan register allocation in Datalog](https://bernsteinbear.com/blog/lsra-datalog/)
 * [2026-11-23, 14:16:37](https://news.ycombinator.com/item?id=50611861) - [Building a wireless network adapter for the Super Nintendo](https://boland.dev/snet/)
 * [2026-11-23, 14:03:38](https://news.ycombinator.com/item?id=50611613) - [Gnomon: Git for Postgres Data](https://gnomon.bitsinfra.com/)
 * [2026-11-23, 14:02:15](https://news.ycombinator.com/item?id=50611593) - [Show HN: An agent skill that optimizes code with falsifiable hypotheses](https://chszlab.github.io/AgenticAlgorithmEngineering/)
