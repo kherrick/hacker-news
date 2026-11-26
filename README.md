@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-26, 05:12:59](https://news.ycombinator.com/item?id=50651719) - [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
 * [2026-11-26, 03:43:24](https://news.ycombinator.com/item?id=50651158) - [Qualcomm's Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
 * [2026-11-26, 03:36:58](https://news.ycombinator.com/item?id=50651117) - [OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](https://twitter.com/thsottiaux/status/2125784147889393806)
 * [2026-11-26, 03:00:48](https://news.ycombinator.com/item?id=50650892) - [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)
@@ -16,7 +17,6 @@
 * [2026-11-25, 17:18:26](https://news.ycombinator.com/item?id=50644817) - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 * [2026-11-25, 17:18:15](https://news.ycombinator.com/item?id=50644814) - [Deriving Black-Scholes](https://david.alvarezrosa.com/posts/deriving-black-scholes/)
 * [2026-11-25, 15:14:32](https://news.ycombinator.com/item?id=50643129) - [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
-* [2026-11-25, 14:56:52](https://news.ycombinator.com/item?id=50642939) - [I checked Clojure's core with Lean and found unreported bugs](https://s.conao3.com/blog/2026/e4f733)
 * [2026-11-25, 13:33:07](https://news.ycombinator.com/item?id=50642086) - [Google releases Cogentic papers on integer factorization, discrete logs and more](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
 * [2026-11-25, 11:34:25](https://news.ycombinator.com/item?id=50641171) - [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq)
 * [2026-11-25, 02:00:08](https://news.ycombinator.com/item?id=50637448) - [How did pinwheel calculators work?](https://blog.coredump.cx/p/how-did-pinwheel-calculators-work)

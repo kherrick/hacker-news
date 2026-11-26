@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
+* [2026-11-26, 05:12:59](https://news.ycombinator.com/item?id=50651719) - [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
 * [2026-11-26, 03:43:24](https://news.ycombinator.com/item?id=50651158) - [Qualcomm's Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
 * [2026-11-26, 03:36:58](https://news.ycombinator.com/item?id=50651117) - [OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](https://twitter.com/thsottiaux/status/2125784147889393806)
 * [2026-11-26, 03:33:06](https://news.ycombinator.com/item?id=50651099) - [Show HN: Olumino, a Markdown notes and spaced repetition app](https://olumino.app)
