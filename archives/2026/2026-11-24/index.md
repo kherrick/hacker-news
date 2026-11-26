@@ -91,4 +91,5 @@
 * [2026-11-24, 02:26:23](https://news.ycombinator.com/item?id=50622769) - [New York Bans Subscription and Post-Purchase Fees on Cars](https://wgna.com/car-bill-extra-fees/)
 * [2026-11-24, 02:08:09](https://news.ycombinator.com/item?id=50622638) - [GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school](https://github.com/ItsNotRexed/Leonida/issues)
 * [2026-11-24, 00:53:46](https://news.ycombinator.com/item?id=50621977) - [Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity](https://www.science.org/doi/10.1126/scisignal.aef1375)
+* [2026-11-24, 00:19:50](https://news.ycombinator.com/item?id=50621638) - [Training on Documents About Monitoring Leads to Cot Obfuscation](https://arxiv.org/abs/2605.15257)
 * [2026-11-24, 00:03:59](https://news.ycombinator.com/item?id=50621466) - [The Power of GraphQL, Without GraphQL](https://cobalt27.dev/)
