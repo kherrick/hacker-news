@@ -26,10 +26,10 @@
 * [2026-11-24, 20:40:18](https://news.ycombinator.com/item?id=50634381) - [The history of civilization is the history of wheat](https://asteriskmag.com/issues/16/marginal-grains)
 * [2026-11-24, 10:56:56](https://news.ycombinator.com/item?id=50626466) - [What VP ≠ VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp)
 * [2026-11-24, 03:24:22](https://news.ycombinator.com/item?id=50623232) - [Show HN: Synth Patch Hero](https://swarkentin.github.io/synth-patch-hero/)
+* [2026-11-23, 22:10:43](https://news.ycombinator.com/item?id=50620120) - [MCP Gateway: How Snap Checks Both the Person and the Agent](https://eng.snap.com/mcp-gateway)
 * [2026-11-23, 21:18:49](https://news.ycombinator.com/item?id=50619466) - [Discovery of curse ritual in trash dump surprises Egyptologist](https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html)
 * [2026-11-22, 16:44:48](https://news.ycombinator.com/item?id=50601280) - [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
 * [2026-11-22, 11:29:44](https://news.ycombinator.com/item?id=50598636) - [The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]](https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf)
-* [2026-11-21, 14:52:41](https://news.ycombinator.com/item?id=50589784) - [SSH is a GUI framework](https://zydra.sh/articles/ssh-is-a-gui-framework/)
 
 ## [Archives](archives/index.md)
 
