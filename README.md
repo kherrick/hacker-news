@@ -26,7 +26,7 @@
 * [2026-11-24, 10:56:56](https://news.ycombinator.com/item?id=50626466) - [What VP ≠ VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp)
 * [2026-11-24, 03:24:22](https://news.ycombinator.com/item?id=50623232) - [Show HN: Synth Patch Hero](https://swarkentin.github.io/synth-patch-hero/)
 * [2026-11-24, 00:19:50](https://news.ycombinator.com/item?id=50621638) - [Training on Documents About Monitoring Leads to Cot Obfuscation](https://arxiv.org/abs/2605.15257)
-* [2026-11-23, 16:54:57](https://news.ycombinator.com/item?id=50615059) - [Who is in charge of Britain's web addresses?](https://medium.com/@jharbourne/who-is-in-charge-of-britains-web-addresses-6efc797bc133)
+* [2026-11-23, 06:27:47](https://news.ycombinator.com/item?id=50608175) - [Can a TV be too large? An investigation](https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/)
 * [2026-11-22, 16:44:48](https://news.ycombinator.com/item?id=50601280) - [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
 * [2026-11-22, 11:29:44](https://news.ycombinator.com/item?id=50598636) - [The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]](https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf)
 * [2026-11-21, 14:52:41](https://news.ycombinator.com/item?id=50589784) - [SSH is a GUI framework](https://zydra.sh/articles/ssh-is-a-gui-framework/)
