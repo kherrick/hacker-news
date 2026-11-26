@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
+* [2026-11-26, 17:47:45](https://news.ycombinator.com/item?id=50657645) - [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 * [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Bypass anti-adblock](https://github.com/antonpictures/youtube-punisher)
 * [2026-11-26, 17:16:41](https://news.ycombinator.com/item?id=50657307) - [Tracking Diseases Cured by AI](https://diseasescuredbyai.com/)
 * [2026-11-26, 17:11:29](https://news.ycombinator.com/item?id=50657265) - [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
