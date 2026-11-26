@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
 * [2026-11-26, 18:14:53](https://news.ycombinator.com/item?id=50657957) - [Ask HN: How do you find meaning of life at 41?](https://news.ycombinator.com/item?id=50657957)
+* [2026-11-26, 18:13:07](https://news.ycombinator.com/item?id=50657936) - [George Whitesides, 1939-2026](https://www.science.org/content/blog-post/george-whitesides-1939-2026)
 * [2026-11-26, 18:06:19](https://news.ycombinator.com/item?id=50657860) - [Kim Dotcom has won his case](https://twitter.com/KimDotcom/status/2125837707125621184)
 * [2026-11-26, 17:47:45](https://news.ycombinator.com/item?id=50657645) - [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 * [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Bypass anti-adblock](https://github.com/antonpictures/youtube-punisher)

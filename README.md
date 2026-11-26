@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-26, 18:14:53](https://news.ycombinator.com/item?id=50657957) - [Ask HN: How do you find meaning of life at 41?](https://news.ycombinator.com/item?id=50657957)
+* [2026-11-26, 18:13:07](https://news.ycombinator.com/item?id=50657936) - [George Whitesides, 1939-2026](https://www.science.org/content/blog-post/george-whitesides-1939-2026)
 * [2026-11-26, 17:47:45](https://news.ycombinator.com/item?id=50657645) - [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 * [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Bypass anti-adblock](https://github.com/antonpictures/youtube-punisher)
 * [2026-11-26, 17:21:14](https://news.ycombinator.com/item?id=50657355) - [DeepSeekMath: Pushing the Limits of Mathematical Reasoning](https://github.com/deepseek-ai/deepseek-math)
@@ -15,6 +16,7 @@
 * [2026-11-26, 12:00:00](https://news.ycombinator.com/item?id=50654353) - [Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353)
 * [2026-11-26, 11:50:49](https://news.ycombinator.com/item?id=50654289) - [Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
 * [2026-11-26, 10:11:01](https://news.ycombinator.com/item?id=50653667) - [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono)
+* [2026-11-26, 09:44:23](https://news.ycombinator.com/item?id=50653477) - [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
 * [2026-11-26, 06:32:48](https://news.ycombinator.com/item?id=50652184) - [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)
 * [2026-11-26, 05:12:59](https://news.ycombinator.com/item?id=50651719) - [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
 * [2026-11-26, 03:00:48](https://news.ycombinator.com/item?id=50650892) - [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)
@@ -27,9 +29,7 @@
 * [2026-11-25, 17:18:26](https://news.ycombinator.com/item?id=50644817) - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 * [2026-11-25, 00:37:07](https://news.ycombinator.com/item?id=50636931) - [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/)
 * [2026-11-24, 20:40:18](https://news.ycombinator.com/item?id=50634381) - [The history of civilization is the history of wheat](https://asteriskmag.com/issues/16/marginal-grains)
-* [2026-11-24, 10:56:56](https://news.ycombinator.com/item?id=50626466) - [What VP ≠ VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp)
 * [2026-11-23, 21:18:49](https://news.ycombinator.com/item?id=50619466) - [Discovery of curse ritual in trash dump surprises Egyptologist](https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html)
-* [2026-11-22, 16:44:48](https://news.ycombinator.com/item?id=50601280) - [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
 
 ## [Archives](archives/index.md)
 
