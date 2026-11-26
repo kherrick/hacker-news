@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
 * [2026-11-26, 10:11:01](https://news.ycombinator.com/item?id=50653667) - [Intel One Mono font](https://github.com/intel/intel-one-mono)
+* [2026-11-26, 09:44:23](https://news.ycombinator.com/item?id=50653477) - [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
 * [2026-11-26, 07:05:59](https://news.ycombinator.com/item?id=50652370) - [Mirror life is dangerous. Regulators must act before it becomes real](https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real)
 * [2026-11-26, 06:32:48](https://news.ycombinator.com/item?id=50652184) - [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)
+* [2026-11-26, 05:37:51](https://news.ycombinator.com/item?id=50651863) - [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)
 * [2026-11-26, 05:12:59](https://news.ycombinator.com/item?id=50651719) - [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
 * [2026-11-26, 04:59:56](https://news.ycombinator.com/item?id=50651627) - [Unconditional Integer Factorization in Subexponential Time](https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization)
 * [2026-11-26, 03:43:24](https://news.ycombinator.com/item?id=50651158) - [Qualcomm's Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
