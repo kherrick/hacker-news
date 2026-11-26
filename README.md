@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-26, 19:53:58](https://news.ycombinator.com/item?id=50658997) - [The USA as a Civilizations-esque map](https://karpathy.ai/usaciv/)
+* [2026-11-26, 21:08:05](https://news.ycombinator.com/item?id=50659841) - [The greatest architect you've never heard of is in Pakistan](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
 * [2026-11-26, 19:18:09](https://news.ycombinator.com/item?id=50658632) - [Rvoip 0.5 the complete VoIP stack in Rust](https://github.com/eisenzopf/rvoip)
 * [2026-11-26, 18:37:24](https://news.ycombinator.com/item?id=50658193) - [Largest 2D Chart library in the world using BUI: BlenderUI](https://bui.preetham.top/charts/)
 * [2026-11-26, 18:37:21](https://news.ycombinator.com/item?id=50658191) - [Show HN: Fuck_data_brokers.py](https://github.com/gary23w/f-ck_data_brokers)
@@ -24,8 +24,8 @@
 * [2026-11-26, 04:32:26](https://news.ycombinator.com/item?id=50651430) - [NormalScript: A perfectly normal scripting language](https://psychoscript.com/)
 * [2026-11-26, 03:33:06](https://news.ycombinator.com/item?id=50651099) - [Show HN: Olumino, a Markdown notes and spaced repetition app](https://olumino.app)
 * [2026-11-26, 03:00:48](https://news.ycombinator.com/item?id=50650892) - [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)
+* [2026-11-26, 00:43:34](https://news.ycombinator.com/item?id=50649864) - [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
 * [2026-11-26, 00:40:00](https://news.ycombinator.com/item?id=50649834) - [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)
-* [2026-11-25, 21:48:10](https://news.ycombinator.com/item?id=50648050) - [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
 * [2026-11-25, 19:11:27](https://news.ycombinator.com/item?id=50646108) - [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
 * [2026-11-25, 00:37:07](https://news.ycombinator.com/item?id=50636931) - [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/)
 * [2026-11-24, 20:40:18](https://news.ycombinator.com/item?id=50634381) - [The history of civilization is the history of wheat](https://asteriskmag.com/issues/16/marginal-grains)
