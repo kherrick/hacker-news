@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-26, 14:26:54](https://news.ycombinator.com/item?id=50655664) - [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
 * [2026-11-26, 12:00:00](https://news.ycombinator.com/item?id=50654353) - [Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353)
 * [2026-11-26, 11:50:49](https://news.ycombinator.com/item?id=50654289) - [Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
 * [2026-11-26, 10:11:01](https://news.ycombinator.com/item?id=50653667) - [Intel One Mono font](https://github.com/intel/intel-one-mono)
@@ -21,7 +22,6 @@
 * [2026-11-25, 19:11:27](https://news.ycombinator.com/item?id=50646108) - [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
 * [2026-11-25, 17:34:34](https://news.ycombinator.com/item?id=50644980) - [The polynomial Hirsch conjecture is false [pdf]](https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf)
 * [2026-11-25, 17:18:26](https://news.ycombinator.com/item?id=50644817) - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
-* [2026-11-25, 14:56:52](https://news.ycombinator.com/item?id=50642939) - [I checked Clojure's core with Lean and found unreported bugs](https://s.conao3.com/blog/2026/e4f733)
 * [2026-11-24, 20:40:18](https://news.ycombinator.com/item?id=50634381) - [The history of civilization is the history of wheat](https://asteriskmag.com/issues/16/marginal-grains)
 * [2026-11-24, 10:56:56](https://news.ycombinator.com/item?id=50626466) - [What VP ≠ VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp)
 * [2026-11-24, 03:24:22](https://news.ycombinator.com/item?id=50623232) - [Show HN: Synth Patch Hero](https://swarkentin.github.io/synth-patch-hero/)
