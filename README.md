@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-26, 18:14:53](https://news.ycombinator.com/item?id=50657957) - [Ask HN: How do you find meaning of life at 41?](https://news.ycombinator.com/item?id=50657957)
 * [2026-11-26, 17:47:45](https://news.ycombinator.com/item?id=50657645) - [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 * [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Bypass anti-adblock](https://github.com/antonpictures/youtube-punisher)
 * [2026-11-26, 17:16:41](https://news.ycombinator.com/item?id=50657307) - [Tracking Diseases Cured by AI](https://diseasescuredbyai.com/)
@@ -16,7 +17,6 @@
 * [2026-11-26, 06:32:48](https://news.ycombinator.com/item?id=50652184) - [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)
 * [2026-11-26, 05:37:51](https://news.ycombinator.com/item?id=50651863) - [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)
 * [2026-11-26, 05:12:59](https://news.ycombinator.com/item?id=50651719) - [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
-* [2026-11-26, 04:59:56](https://news.ycombinator.com/item?id=50651627) - [Unconditional Integer Factorization in Subexponential Time](https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization)
 * [2026-11-26, 03:00:48](https://news.ycombinator.com/item?id=50650892) - [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)
 * [2026-11-26, 00:43:34](https://news.ycombinator.com/item?id=50649864) - [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
 * [2026-11-26, 00:40:00](https://news.ycombinator.com/item?id=50649834) - [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)
