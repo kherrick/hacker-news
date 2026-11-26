@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-26, 21:59:19](https://news.ycombinator.com/item?id=50660273) - [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
 * [2026-11-26, 21:47:45](https://news.ycombinator.com/item?id=50660180) - [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
 * [2026-11-26, 21:08:05](https://news.ycombinator.com/item?id=50659841) - [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
-* [2026-11-26, 20:49:49](https://news.ycombinator.com/item?id=50659640) - [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
 * [2026-11-26, 19:44:31](https://news.ycombinator.com/item?id=50658910) - [Top-cited AI scientists at four US companies compared](https://topcitedscientists.com/figures/ai-at-four-us-companies/)
 * [2026-11-26, 19:18:09](https://news.ycombinator.com/item?id=50658632) - [Rvoip 0.5 the complete VoIP stack in Rust](https://github.com/eisenzopf/rvoip)
 * [2026-11-26, 18:37:24](https://news.ycombinator.com/item?id=50658193) - [Largest 2D Chart library in the world using BUI: BlenderUI](https://bui.preetham.top/charts/)
