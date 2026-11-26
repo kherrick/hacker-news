@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-25, 22:57:04](https://news.ycombinator.com/item?id=50648823) - [Jev is (probably) Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie)
+* [2026-11-25, 22:57:01](https://news.ycombinator.com/item?id=50648822) - [Duran Duran guitarist Andy Taylor dies aged 65](https://www.bbc.co.uk/news/articles/cmp3vk6vr44po)
 * [2026-11-25, 22:15:34](https://news.ycombinator.com/item?id=50648365) - [Bare Metal Qwen](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os)
 * [2026-11-25, 22:12:25](https://news.ycombinator.com/item?id=50648323) - [Deploying a payphone on a tiny Pacific Island for fun and zero profit](https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/)
 * [2026-11-25, 21:48:10](https://news.ycombinator.com/item?id=50648050) - [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
@@ -17,7 +18,6 @@
 * [2026-11-25, 15:14:32](https://news.ycombinator.com/item?id=50643129) - [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
 * [2026-11-25, 14:56:52](https://news.ycombinator.com/item?id=50642939) - [I checked Clojure's core with Lean and found unreported bugs](https://s.conao3.com/blog/2026/e4f733)
 * [2026-11-25, 13:33:07](https://news.ycombinator.com/item?id=50642086) - [Google releases Cogentic papers on integer factorization, discrete logs and more](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
-* [2026-11-25, 12:00:34](https://news.ycombinator.com/item?id=50641323) - [Hazel (YC W24) Is Hiring a Product Designer](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract)
 * [2026-11-25, 11:34:25](https://news.ycombinator.com/item?id=50641171) - [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq)
 * [2026-11-25, 07:46:43](https://news.ycombinator.com/item?id=50639698) - [Smart people who give a shit use tools](https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools)
 * [2026-11-24, 22:34:29](https://news.ycombinator.com/item?id=50635783) - [Predicting LoRA size for any dataset](https://engram.com/blog/lora-size)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-25](index.md)
 
 * [2026-11-25, 22:57:04](https://news.ycombinator.com/item?id=50648823) - [Jev is (probably) Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie)
+* [2026-11-25, 22:57:01](https://news.ycombinator.com/item?id=50648822) - [Duran Duran guitarist Andy Taylor dies aged 65](https://www.bbc.co.uk/news/articles/cmp3vk6vr44po)
 * [2026-11-25, 22:15:34](https://news.ycombinator.com/item?id=50648365) - [Bare Metal Qwen](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os)
 * [2026-11-25, 22:12:25](https://news.ycombinator.com/item?id=50648323) - [Deploying a payphone on a tiny Pacific Island for fun and zero profit](https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/)
 * [2026-11-25, 21:48:10](https://news.ycombinator.com/item?id=50648050) - [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
