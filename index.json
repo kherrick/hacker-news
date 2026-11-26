@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-11-26, 12:00:05",
-      "https://news.ycombinator.com/item?id=50654354"
-    ],
-    [
-      "Samsung TV has 650 free channels behind one button most owners never press",
-      "https://www.makeuseof.com/samsung-tv-plus/"
-    ]
-  ],
-  [
-    [
       "2026-11-26, 12:00:00",
       "https://news.ycombinator.com/item?id=50654353"
     ],
@@ -297,6 +287,16 @@
     [
       "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
       "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-11-21, 14:52:41",
+      "https://news.ycombinator.com/item?id=50589784"
+    ],
+    [
+      "SSH is a GUI framework",
+      "https://zydra.sh/articles/ssh-is-a-gui-framework/"
     ]
   ]
 ]
