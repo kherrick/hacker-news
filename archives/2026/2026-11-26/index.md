@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
 * [2026-11-26, 14:26:54](https://news.ycombinator.com/item?id=50655664) - [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
+* [2026-11-26, 13:48:11](https://news.ycombinator.com/item?id=50655278) - [45°C inlets just killed the chiller. Most people haven't noticed yet](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831)
 * [2026-11-26, 12:00:05](https://news.ycombinator.com/item?id=50654354) - [Samsung TV has 650 free channels behind one button most owners never press](https://www.makeuseof.com/samsung-tv-plus/)
 * [2026-11-26, 12:00:00](https://news.ycombinator.com/item?id=50654353) - [Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353)
 * [2026-11-26, 11:50:49](https://news.ycombinator.com/item?id=50654289) - [Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
