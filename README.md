@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-26, 16:28:54](https://news.ycombinator.com/item?id=50656862) - [Kagi Watch](https://kagi.com/watch)
 * [2026-11-26, 16:16:41](https://news.ycombinator.com/item?id=50656763) - [Ask HN: Any courses/products by indie makers worth getting today?](https://news.ycombinator.com/item?id=50656763)
+* [2026-11-26, 16:09:12](https://news.ycombinator.com/item?id=50656686) - [1984 Hosting is down due to a security incident](https://status.1984.is/status/public)
 * [2026-11-26, 15:00:06](https://news.ycombinator.com/item?id=50656036) - [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/)
 * [2026-11-26, 14:26:54](https://news.ycombinator.com/item?id=50655664) - [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
 * [2026-11-26, 13:48:11](https://news.ycombinator.com/item?id=50655278) - [45°C inlets just killed the chiller. Most people haven't noticed yet](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831)

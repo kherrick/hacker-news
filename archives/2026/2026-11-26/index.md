@@ -6,6 +6,7 @@
 
 * [2026-11-26, 16:28:54](https://news.ycombinator.com/item?id=50656862) - [Kagi Watch](https://kagi.com/watch)
 * [2026-11-26, 16:16:41](https://news.ycombinator.com/item?id=50656763) - [Ask HN: Any courses/products by indie makers worth getting today?](https://news.ycombinator.com/item?id=50656763)
+* [2026-11-26, 16:09:12](https://news.ycombinator.com/item?id=50656686) - [1984 Hosting is down due to a security incident](https://status.1984.is/status/public)
 * [2026-11-26, 15:12:27](https://news.ycombinator.com/item?id=50656145) - [Shein to pay $100M in fines to FTC for illegal practices](https://www.upi.com/Top_News/US/2026/11/25/shein-ftc-100-million/1661795636863/)
 * [2026-11-26, 15:00:06](https://news.ycombinator.com/item?id=50656036) - [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/)
 * [2026-11-26, 14:26:54](https://news.ycombinator.com/item?id=50655664) - [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
