@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-11-26, 20:39:05](https://news.ycombinator.com/item?id=50659532) - [Nvidia was right to bring back Jensen Huang, writes Sarah Guo](https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo)
 * [2026-11-26, 19:53:58](https://news.ycombinator.com/item?id=50658997) - [The USA as a Civilizations-esque map](https://karpathy.ai/usaciv/)
 * [2026-11-26, 19:18:09](https://news.ycombinator.com/item?id=50658632) - [Rvoip 0.5 the complete VoIP stack in Rust](https://github.com/eisenzopf/rvoip)
 * [2026-11-26, 18:37:24](https://news.ycombinator.com/item?id=50658193) - [Largest 2D Chart library in the world using BUI: BlenderUI](https://bui.preetham.top/charts/)
@@ -11,6 +10,7 @@
 * [2026-11-26, 17:11:29](https://news.ycombinator.com/item?id=50657265) - [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
 * [2026-11-26, 16:51:38](https://news.ycombinator.com/item?id=50657070) - [Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar](https://github.com/rxliuli/sim-drop)
 * [2026-11-26, 16:50:55](https://news.ycombinator.com/item?id=50657059) - [NP_R ≠ PAR_R](https://github.com/samueleverett01/bss-permanent-separations)
+* [2026-11-26, 16:28:54](https://news.ycombinator.com/item?id=50656862) - [Kagi Watch](https://kagi.com/watch)
 * [2026-11-26, 15:00:06](https://news.ycombinator.com/item?id=50656036) - [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/)
 * [2026-11-26, 14:26:54](https://news.ycombinator.com/item?id=50655664) - [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
 * [2026-11-26, 12:00:00](https://news.ycombinator.com/item?id=50654353) - [Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353)
