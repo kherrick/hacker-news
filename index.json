@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-11-26, 04:59:56",
+      "https://news.ycombinator.com/item?id=50651627"
+    ],
+    [
+      "Unconditional Integer Factorization in Subexponential Time",
+      "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization"
+    ]
+  ],
+  [
+    [
       "2026-11-26, 03:43:24",
       "https://news.ycombinator.com/item?id=50651158"
     ],
@@ -227,16 +237,6 @@
     [
       "What VP ≠ VNP Means (In 3 Minutes)",
       "https://www.friedgil.com/vpvnp"
-    ]
-  ],
-  [
-    [
-      "2026-11-24, 06:22:36",
-      "https://news.ycombinator.com/item?id=50624446"
-    ],
-    [
-      "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
-      "https://jayd.ml/2026/11/14/rockbox-on-yp3.html"
     ]
   ],
   [
