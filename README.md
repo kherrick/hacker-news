@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-27, 00:03:18](https://news.ycombinator.com/item?id=50661218) - [AI agents now control part of DeepMind's compute for Gemini experiments](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/)
+* [2026-11-26, 23:33:34](https://news.ycombinator.com/item?id=50661044) - [Oakland's $30 minimum wage push advances toward city council vote](https://abc7news.com/post/oaklands-30-minimum-wage-push-advances-city-council-vote-alameda-workers-protest-alleged-theft-jack-box/19974057/)
 * [2026-11-26, 21:59:19](https://news.ycombinator.com/item?id=50660273) - [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
 * [2026-11-26, 21:47:45](https://news.ycombinator.com/item?id=50660180) - [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
-* [2026-11-26, 21:16:41](https://news.ycombinator.com/item?id=50659918) - [Denver man traps Waymo robotaxis with cones, eggs them at least 30 times](https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/)
 * [2026-11-26, 21:08:05](https://news.ycombinator.com/item?id=50659841) - [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
 * [2026-11-26, 19:44:31](https://news.ycombinator.com/item?id=50658910) - [Top-cited AI scientists at four US companies compared](https://topcitedscientists.com/figures/ai-at-four-us-companies/)
 * [2026-11-26, 19:18:09](https://news.ycombinator.com/item?id=50658632) - [Rvoip: VoIP stack in Rust](https://github.com/eisenzopf/rvoip)

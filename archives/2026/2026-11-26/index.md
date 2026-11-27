@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-26](index.md)
 
+* [2026-11-26, 23:33:34](https://news.ycombinator.com/item?id=50661044) - [Oakland's $30 minimum wage push advances toward city council vote](https://abc7news.com/post/oaklands-30-minimum-wage-push-advances-city-council-vote-alameda-workers-protest-alleged-theft-jack-box/19974057/)
 * [2026-11-26, 21:59:19](https://news.ycombinator.com/item?id=50660273) - [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
 * [2026-11-26, 21:47:45](https://news.ycombinator.com/item?id=50660180) - [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
 * [2026-11-26, 21:16:41](https://news.ycombinator.com/item?id=50659918) - [Denver man traps Waymo robotaxis with cones, eggs them at least 30 times](https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/)
