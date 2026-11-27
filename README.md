@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-27, 17:10:39](https://news.ycombinator.com/item?id=50669137) - [Why is Hacker News like that?](https://drewdevault.com/blog/Why-is-HN-like-that/#)
 * [2026-11-27, 17:01:51](https://news.ycombinator.com/item?id=50669026) - [Palliative Care for the Chronically Online](https://idiotecon.substack.com/p/palliative-care-for-the-chronically)
 * [2026-11-27, 15:40:31](https://news.ycombinator.com/item?id=50668145) - [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
 * [2026-11-27, 15:26:09](https://news.ycombinator.com/item?id=50667989) - [False computer-checked proofs](https://cr.yp.to/proofs/falseccp.html)
@@ -13,7 +14,6 @@
 * [2026-11-27, 12:43:40](https://news.ycombinator.com/item?id=50666279) - [New York and California age gating rules go into effect in the new year](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)
 * [2026-11-27, 12:08:51](https://news.ycombinator.com/item?id=50665968) - [A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf)
 * [2026-11-27, 12:03:11](https://news.ycombinator.com/item?id=50665920) - [Kimi for Science: More scientific ideas, made possible](https://www.kimi.ai/news/kimi-for-science-program)
-* [2026-11-27, 11:09:04](https://news.ycombinator.com/item?id=50665488) - [AI on brink of making online security useless, mathematicians fear](https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8)
 * [2026-11-27, 09:50:02](https://news.ycombinator.com/item?id=50664931) - [Pimalaya goes stable: Himalaya v3 and the pimdir standard](https://blog.pimalaya.org/pimalaya-goes-stable/)
 * [2026-11-27, 08:28:08](https://news.ycombinator.com/item?id=50664325) - [Claude sabotaging ML research tasks?](https://twitter.com/RealAstropulse/status/2126119408997466389)
 * [2026-11-27, 06:44:34](https://news.ycombinator.com/item?id=50663595) - [Group chat where your AI talks behind your back](https://construct22.com/)

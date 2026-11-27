@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 17:10:39](https://news.ycombinator.com/item?id=50669137) - [Why is Hacker News like that?](https://drewdevault.com/blog/Why-is-HN-like-that/#)
 * [2026-11-27, 17:01:51](https://news.ycombinator.com/item?id=50669026) - [Palliative Care for the Chronically Online](https://idiotecon.substack.com/p/palliative-care-for-the-chronically)
 * [2026-11-27, 15:40:31](https://news.ycombinator.com/item?id=50668145) - [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
 * [2026-11-27, 15:26:09](https://news.ycombinator.com/item?id=50667989) - [False Computer-Checked Proofs](https://cr.yp.to/proofs/falseccp.html)
