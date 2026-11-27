@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
 * [2026-11-27, 19:31:01](https://news.ycombinator.com/item?id=50670757) - [Michael Nielsen took down his book on neural nets](https://twitter.com/michael_nielsen/status/2126359767362748777)
+* [2026-11-27, 18:28:29](https://news.ycombinator.com/item?id=50670088) - [Euclidean geometry in the asymptotic spectrum of tensors [pdf]](https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf)
 * [2026-11-27, 18:17:20](https://news.ycombinator.com/item?id=50669963) - [The NFL Player Who Left Football for Math](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
 * [2026-11-27, 18:02:45](https://news.ycombinator.com/item?id=50669765) - [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)
 * [2026-11-27, 17:56:28](https://news.ycombinator.com/item?id=50669673) - [Show HN: DragDropMath, Learn Math by Feel](https://dragdropmath.com/)
@@ -43,6 +44,7 @@
 * [2026-11-27, 05:22:06](https://news.ycombinator.com/item?id=50663089) - [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
 * [2026-11-27, 04:56:18](https://news.ycombinator.com/item?id=50662933) - [\"What's Claude's Fursona?\" and Other Questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/)
 * [2026-11-27, 03:11:41](https://news.ycombinator.com/item?id=50662322) - [Google will show solo Android developers' phone numbers and addresses](https://support.google.com/googleplay/android-developer/answer/17594752?hl=en)
+* [2026-11-27, 03:10:19](https://news.ycombinator.com/item?id=50662313) - [Citroën Hydraulic System](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html)
 * [2026-11-27, 02:53:22](https://news.ycombinator.com/item?id=50662217) - [Show HN: Sqrin – A better screen share for Mac](https://sqrin.app)
 * [2026-11-27, 02:44:12](https://news.ycombinator.com/item?id=50662153) - [New AI research suggests AI bubble bursting and to expect major market collapse](https://www.london.edu/think/ai-bubble-about-to-burst)
 * [2026-11-27, 01:21:49](https://news.ycombinator.com/item?id=50661705) - [The Cutthroat Business of Shipwrecks](https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-27, 19:31:01](https://news.ycombinator.com/item?id=50670757) - [Michael Nielsen took down his book on neural nets](https://twitter.com/michael_nielsen/status/2126359767362748777)
+* [2026-11-27, 18:28:29](https://news.ycombinator.com/item?id=50670088) - [Euclidean geometry in the asymptotic spectrum of tensors [pdf]](https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf)
 * [2026-11-27, 18:02:45](https://news.ycombinator.com/item?id=50669765) - [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)
 * [2026-11-27, 17:56:28](https://news.ycombinator.com/item?id=50669673) - [Show HN: DragDropMath – Learn math by feel](https://dragdropmath.com/)
 * [2026-11-27, 17:45:31](https://news.ycombinator.com/item?id=50669561) - [I'm Scared of AI](https://thesoapbox.email/archive/3)
@@ -18,9 +19,9 @@
 * [2026-11-27, 12:03:11](https://news.ycombinator.com/item?id=50665920) - [Kimi for Science: More scientific ideas, made possible](https://www.kimi.ai/news/kimi-for-science-program)
 * [2026-11-27, 08:28:08](https://news.ycombinator.com/item?id=50664325) - [Claude sabotaging ML research tasks?](https://twitter.com/RealAstropulse/status/2126119408997466389)
 * [2026-11-27, 06:44:34](https://news.ycombinator.com/item?id=50663595) - [Group chat where your AI talks behind your back](https://construct22.com/)
-* [2026-11-27, 05:52:42](https://news.ycombinator.com/item?id=50663261) - [Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/)
 * [2026-11-27, 05:22:06](https://news.ycombinator.com/item?id=50663089) - [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
 * [2026-11-27, 04:56:18](https://news.ycombinator.com/item?id=50662933) - [\"What's Claude's fursona?\" and other questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/)
+* [2026-11-27, 03:10:19](https://news.ycombinator.com/item?id=50662313) - [Citroën Hydraulic System](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html)
 * [2026-11-27, 01:13:49](https://news.ycombinator.com/item?id=50661646) - [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
 * [2026-11-26, 21:47:45](https://news.ycombinator.com/item?id=50660180) - [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
 * [2026-11-26, 21:08:05](https://news.ycombinator.com/item?id=50659841) - [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
@@ -28,7 +29,6 @@
 * [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
 * [2026-11-26, 17:24:37](https://news.ycombinator.com/item?id=50657392) - [First images of the impact of DART asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
 * [2026-11-26, 17:11:29](https://news.ycombinator.com/item?id=50657265) - [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp)
-* [2026-11-26, 10:11:01](https://news.ycombinator.com/item?id=50653667) - [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono)
 * [2026-11-24, 19:46:54](https://news.ycombinator.com/item?id=50633531) - [Show HN: Analysis of Hacker News predictions since 2008](https://hnpredictions.com/)
 
 ## [Archives](archives/index.md)
