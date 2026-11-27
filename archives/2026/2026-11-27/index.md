@@ -8,4 +8,5 @@
 * [2026-11-27, 02:53:22](https://news.ycombinator.com/item?id=50662217) - [Show HN: Sqrin – A better screen share for Mac](https://sqrin.app)
 * [2026-11-27, 02:44:12](https://news.ycombinator.com/item?id=50662153) - [New AI research suggests AI bubble bursting and to expect major market collapse](https://www.london.edu/think/ai-bubble-about-to-burst)
 * [2026-11-27, 01:13:49](https://news.ycombinator.com/item?id=50661646) - [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
+* [2026-11-27, 00:03:44](https://news.ycombinator.com/item?id=50661224) - [ESO statement on approval of launch of one million space data centres](https://www.eso.org/public/news/eso2614/)
 * [2026-11-27, 00:03:18](https://news.ycombinator.com/item?id=50661218) - [AI agents now control part of DeepMind's compute for Gemini experiments](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/)
