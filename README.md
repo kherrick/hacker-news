@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-27, 15:26:09](https://news.ycombinator.com/item?id=50667989) - [False Computer-Checked Proofs](https://cr.yp.to/proofs/falseccp.html)
 * [2026-11-27, 15:03:17](https://news.ycombinator.com/item?id=50667744) - [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
 * [2026-11-27, 15:01:50](https://news.ycombinator.com/item?id=50667726) - [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)
 * [2026-11-27, 14:55:57](https://news.ycombinator.com/item?id=50667664) - [Stanford Physicist Uses AI to Tackle Quantum Gravity Problem](https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/)
 * [2026-11-27, 14:09:44](https://news.ycombinator.com/item?id=50667143) - [Norse Atlantic suspends all flights as it faces potential collapse](https://www.bbc.com/news/articles/c9kgmd0ldy0lo)
-* [2026-11-27, 13:06:34](https://news.ycombinator.com/item?id=50666487) - [She Reported Her Sexual Assault. The Marine Corps Kicked Her Out](https://thewarhorse.org/marine-corps-administrative-separation-after-sexual-assault/)
 * [2026-11-27, 13:01:02](https://news.ycombinator.com/item?id=50666436) - [Mental Health Resources and Political Engagement](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219)
 * [2026-11-27, 12:54:11](https://news.ycombinator.com/item?id=50666375) - [US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
 * [2026-11-27, 12:43:40](https://news.ycombinator.com/item?id=50666279) - [New York and California age gating rules go into effect in the new year](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)

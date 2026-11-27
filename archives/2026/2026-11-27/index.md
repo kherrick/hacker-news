@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 15:26:09](https://news.ycombinator.com/item?id=50667989) - [False Computer-Checked Proofs](https://cr.yp.to/proofs/falseccp.html)
 * [2026-11-27, 15:22:52](https://news.ycombinator.com/item?id=50667970) - [Grand Theft GTA](https://grandtheftgta.com/)
 * [2026-11-27, 15:03:17](https://news.ycombinator.com/item?id=50667744) - [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
 * [2026-11-27, 15:01:50](https://news.ycombinator.com/item?id=50667726) - [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)
