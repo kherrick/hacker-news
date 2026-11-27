@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-27, 12:08:51](https://news.ycombinator.com/item?id=50665968) - [A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf)
 * [2026-11-27, 11:41:11](https://news.ycombinator.com/item?id=50665732) - [Pizza history: AI agent's cardless purchase is a first for UK](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer)
 * [2026-11-27, 08:11:46](https://news.ycombinator.com/item?id=50664191) - [European Commission Declares Browser Competition a Digital Markets Act Priority](https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/)
 * [2026-11-27, 07:58:37](https://news.ycombinator.com/item?id=50664104) - [Indie web browser Ladybird enters alpha testing](https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914)
@@ -20,7 +21,6 @@
 * [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
 * [2026-11-26, 17:11:29](https://news.ycombinator.com/item?id=50657265) - [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp)
 * [2026-11-26, 14:44:22](https://news.ycombinator.com/item?id=50655868) - [Show HN: I wrote an entire Vim manual over 4 years](http://themouseless.dev/vim/)
-* [2026-11-26, 11:50:49](https://news.ycombinator.com/item?id=50654289) - [Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
 * [2026-11-26, 10:11:01](https://news.ycombinator.com/item?id=50653667) - [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono)
 * [2026-11-26, 09:44:23](https://news.ycombinator.com/item?id=50653477) - [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
 * [2026-11-26, 06:32:48](https://news.ycombinator.com/item?id=50652184) - [Moat: OpenRouter replacement](https://commandcode.ai/moat)
