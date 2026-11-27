@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-27, 00:03:18](https://news.ycombinator.com/item?id=50661218) - [AI agents now control part of DeepMind's compute for Gemini experiments](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/)
 * [2026-11-26, 21:59:19](https://news.ycombinator.com/item?id=50660273) - [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
 * [2026-11-26, 21:47:45](https://news.ycombinator.com/item?id=50660180) - [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
 * [2026-11-26, 21:16:41](https://news.ycombinator.com/item?id=50659918) - [Denver man traps Waymo robotaxis with cones, eggs them at least 30 times](https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/)
@@ -7,7 +8,6 @@
 * [2026-11-26, 19:44:31](https://news.ycombinator.com/item?id=50658910) - [Top-cited AI scientists at four US companies compared](https://topcitedscientists.com/figures/ai-at-four-us-companies/)
 * [2026-11-26, 19:18:09](https://news.ycombinator.com/item?id=50658632) - [Rvoip: VoIP stack in Rust](https://github.com/eisenzopf/rvoip)
 * [2026-11-26, 18:37:24](https://news.ycombinator.com/item?id=50658193) - [Largest 2D Chart library in the world using BUI: BlenderUI](https://bui.preetham.top/charts/)
-* [2026-11-26, 18:35:37](https://news.ycombinator.com/item?id=50658170) - [IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company](https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr)
 * [2026-11-26, 18:13:07](https://news.ycombinator.com/item?id=50657936) - [George Whitesides, 1939-2026](https://www.science.org/content/blog-post/george-whitesides-1939-2026)
 * [2026-11-26, 17:47:45](https://news.ycombinator.com/item?id=50657645) - [CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 * [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
