@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-27, 08:28:08](https://news.ycombinator.com/item?id=50664325) - [Claude sabotaging SOTA ML research tasks](https://twitter.com/RealAstropulse/status/2126119408997466389)
+* [2026-11-27, 08:11:46](https://news.ycombinator.com/item?id=50664191) - [European Commission Declares Browser Competition a Digital Markets Act Priority](https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/)
 * [2026-11-27, 06:44:34](https://news.ycombinator.com/item?id=50663595) - [The group chat where your AI talks behind your back](https://construct22.com/)
 * [2026-11-27, 05:52:42](https://news.ycombinator.com/item?id=50663261) - [Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/)
 * [2026-11-27, 05:22:06](https://news.ycombinator.com/item?id=50663089) - [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
@@ -17,7 +18,6 @@
 * [2026-11-26, 17:47:45](https://news.ycombinator.com/item?id=50657645) - [CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 * [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
 * [2026-11-26, 17:11:29](https://news.ycombinator.com/item?id=50657265) - [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp)
-* [2026-11-26, 15:00:06](https://news.ycombinator.com/item?id=50656036) - [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/)
 * [2026-11-26, 14:44:22](https://news.ycombinator.com/item?id=50655868) - [Show HN: I wrote an entire Vim manual over 4 years](http://themouseless.dev/vim/)
 * [2026-11-26, 14:26:54](https://news.ycombinator.com/item?id=50655664) - [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
 * [2026-11-26, 11:50:49](https://news.ycombinator.com/item?id=50654289) - [Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
