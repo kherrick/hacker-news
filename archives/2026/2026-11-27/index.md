@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 22:06:44](https://news.ycombinator.com/item?id=50672142) - [Source Control from Hell](https://frantic.im/git/)
 * [2026-11-27, 21:48:14](https://news.ycombinator.com/item?id=50672008) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
 * [2026-11-27, 21:07:34](https://news.ycombinator.com/item?id=50671651) - [SessionGraph: Visualize all your coding agent sessions in one interactive graph](https://sessiongraph.ai/)
 * [2026-11-27, 20:38:19](https://news.ycombinator.com/item?id=50671417) - [UK net migration at lowest level since 1997](https://www.bbc.com/news/articles/cq36gj12n0l3o)
@@ -42,6 +43,7 @@
 * [2026-11-27, 12:43:40](https://news.ycombinator.com/item?id=50666279) - [New York and California Age Gating Rules Go into Effect in the New Year](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)
 * [2026-11-27, 12:08:51](https://news.ycombinator.com/item?id=50665968) - [A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf)
 * [2026-11-27, 12:03:11](https://news.ycombinator.com/item?id=50665920) - [Kimi for Science More scientific ideas, made possible](https://www.kimi.ai/news/kimi-for-science-program)
+* [2026-11-27, 12:00:06](https://news.ycombinator.com/item?id=50665888) - [Doing It the Hard Way](https://terraformindustries.wordpress.com/2026/11/04/doing-it-the-hard-way/)
 * [2026-11-27, 11:41:11](https://news.ycombinator.com/item?id=50665732) - [Pizza history: AI agent's cardless purchase is a first for UK](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer)
 * [2026-11-27, 11:09:04](https://news.ycombinator.com/item?id=50665488) - [Fields-winning mathematicians worried about eerie silence over AI and encryption](https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8)
 * [2026-11-27, 09:50:02](https://news.ycombinator.com/item?id=50664931) - [Pimalaya goes stable: Himalaya v3 and the pimdir standard](https://blog.pimalaya.org/pimalaya-goes-stable/)
