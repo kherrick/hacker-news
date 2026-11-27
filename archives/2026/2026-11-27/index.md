@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 19:31:01](https://news.ycombinator.com/item?id=50670757) - [Michael Nielsen took down his book on neural nets](https://twitter.com/michael_nielsen/status/2126359767362748777)
 * [2026-11-27, 18:17:20](https://news.ycombinator.com/item?id=50669963) - [The NFL Player Who Left Football for Math](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
 * [2026-11-27, 18:02:45](https://news.ycombinator.com/item?id=50669765) - [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)
 * [2026-11-27, 17:56:28](https://news.ycombinator.com/item?id=50669673) - [Show HN: DragDropMath, Learn Math by Feel](https://dragdropmath.com/)
@@ -18,6 +19,7 @@
 * [2026-11-27, 15:01:50](https://news.ycombinator.com/item?id=50667726) - [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)
 * [2026-11-27, 14:55:57](https://news.ycombinator.com/item?id=50667664) - [Stanford Physicist Uses AI to Tackle Quantum Gravity Problem](https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/)
 * [2026-11-27, 14:37:02](https://news.ycombinator.com/item?id=50667452) - [Show HN: I restored Palm's last device, and brought its OS to other platforms](https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/)
+* [2026-11-27, 14:30:20](https://news.ycombinator.com/item?id=50667371) - [Rayshader 1.0: Exit the Matrix](https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html)
 * [2026-11-27, 14:09:44](https://news.ycombinator.com/item?id=50667143) - [Norse Atlantic suspends all flights as it faces potential collapse](https://www.bbc.com/news/articles/c9kgmd0ldy0lo)
 * [2026-11-27, 14:02:52](https://news.ycombinator.com/item?id=50667062) - [Making a 3D fantasy map like a 16th-Century atlas](https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas)
 * [2026-11-27, 13:59:11](https://news.ycombinator.com/item?id=50667025) - [Weird Little Guys of FOSS (a.k.a. the Fourth Reich of FOSS)](https://drewdevault.com/weird-guys/)
