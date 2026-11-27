@@ -11,6 +11,8 @@
 * [2026-11-27, 19:31:01](https://news.ycombinator.com/item?id=50670757) - [Michael Nielsen took down his book on neural nets](https://twitter.com/michael_nielsen/status/2126359767362748777)
 * [2026-11-27, 19:25:16](https://news.ycombinator.com/item?id=50670694) - [Michael Giles, co-founder and drummer of King Crimson, dies aged 84](https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84)
 * [2026-11-27, 19:06:35](https://news.ycombinator.com/item?id=50670517) - [I'm a watchmaker and I accidentally made a software factory](https://opentimegrapher.org/blog/2026-11-27-coordinators-chair-1/)
+* [2026-11-27, 18:59:55](https://news.ycombinator.com/item?id=50670443) - [Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10](https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/)
+* [2026-11-27, 18:50:26](https://news.ycombinator.com/item?id=50670340) - [Scrapheap America](https://dansinker.com/posts/2026-11-20-scrapheap/)
 * [2026-11-27, 18:28:29](https://news.ycombinator.com/item?id=50670088) - [Euclidean geometry in the asymptotic spectrum of tensors [pdf]](https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf)
 * [2026-11-27, 18:17:20](https://news.ycombinator.com/item?id=50669963) - [The NFL Player Who Left Football for Math](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
 * [2026-11-27, 18:02:45](https://news.ycombinator.com/item?id=50669765) - [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)
