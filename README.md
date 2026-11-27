@@ -6,7 +6,6 @@
 * [2026-11-26, 21:16:41](https://news.ycombinator.com/item?id=50659918) - [A man in Denver has been throwing eggs at Waymo vehicles](https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html)
 * [2026-11-26, 21:08:05](https://news.ycombinator.com/item?id=50659841) - [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
 * [2026-11-26, 20:49:49](https://news.ycombinator.com/item?id=50659640) - [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
-* [2026-11-26, 19:44:31](https://news.ycombinator.com/item?id=50658910) - [Top-cited AI scientists at four US companies compared](https://topcitedscientists.com/figures/ai-at-four-us-companies/)
 * [2026-11-26, 19:18:09](https://news.ycombinator.com/item?id=50658632) - [Rvoip: VoIP stack in Rust](https://github.com/eisenzopf/rvoip)
 * [2026-11-26, 19:04:50](https://news.ycombinator.com/item?id=50658498) - [An introduction to uncertainty in machine learning](https://chrhenning.com/blog/2026/introduction-to-uncertainty/)
 * [2026-11-26, 18:37:24](https://news.ycombinator.com/item?id=50658193) - [Largest 2D Chart library in the world using BUI: BlenderUI](https://bui.preetham.top/charts/)
@@ -30,6 +29,7 @@
 * [2026-11-25, 23:15:52](https://news.ycombinator.com/item?id=50649040) - [The USAID Files](https://reclaimthenet.org/usaid-files)
 * [2026-11-25, 19:11:27](https://news.ycombinator.com/item?id=50646108) - [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
 * [2026-11-25, 00:37:07](https://news.ycombinator.com/item?id=50636931) - [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/)
+* [2026-11-23, 21:18:49](https://news.ycombinator.com/item?id=50619466) - [Discovery of curse ritual in trash dump surprises Egyptologist](https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html)
 
 ## [Archives](archives/index.md)
 
