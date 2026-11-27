@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 05:52:42](https://news.ycombinator.com/item?id=50663261) - [Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/)
 * [2026-11-27, 05:22:06](https://news.ycombinator.com/item?id=50663089) - [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
 * [2026-11-27, 04:56:18](https://news.ycombinator.com/item?id=50662933) - [\"What's Claude's Fursona?\" and Other Questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/)
 * [2026-11-27, 03:11:41](https://news.ycombinator.com/item?id=50662322) - [Google will show solo Android developers' phone numbers and addresses](https://support.google.com/googleplay/android-developer/answer/17594752?hl=en)
