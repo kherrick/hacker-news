@@ -26,10 +26,10 @@
 * [2026-11-26, 21:08:05](https://news.ycombinator.com/item?id=50659841) - [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
 * [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
 * [2026-11-26, 17:24:37](https://news.ycombinator.com/item?id=50657392) - [First images of the impact of DART asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
+* [2026-11-26, 17:11:29](https://news.ycombinator.com/item?id=50657265) - [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp)
 * [2026-11-25, 20:55:26](https://news.ycombinator.com/item?id=50647400) - [Atlantic 1866: information and shipping in the age of the telegraph](https://atlantic-1866.com/)
 * [2026-11-25, 15:16:53](https://news.ycombinator.com/item?id=50643158) - [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
 * [2026-11-25, 04:46:49](https://news.ycombinator.com/item?id=50638593) - [Lydian Chromatic Concept of Tonal Organization](https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization)
-* [2026-11-24, 19:46:54](https://news.ycombinator.com/item?id=50633531) - [Show HN: Analysis of Hacker News predictions since 2008](https://hnpredictions.com/)
 
 ## [Archives](archives/index.md)
 
