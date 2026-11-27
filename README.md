@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-27, 14:09:44](https://news.ycombinator.com/item?id=50667143) - [Norse Atlantic suspends all flights as it faces potential collapse](https://www.bbc.com/news/articles/c9kgmd0ldy0lo)
-* [2026-11-27, 13:59:11](https://news.ycombinator.com/item?id=50667025) - [Weird Little Guys of FOSS (a.k.a. the Fourth Reich of FOSS)](https://drewdevault.com/weird-guys/)
 * [2026-11-27, 12:54:11](https://news.ycombinator.com/item?id=50666375) - [US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
 * [2026-11-27, 12:43:40](https://news.ycombinator.com/item?id=50666279) - [New York and California Age Gating Rules Go into Effect in the New Year](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)
 * [2026-11-27, 12:08:51](https://news.ycombinator.com/item?id=50665968) - [A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf)
 * [2026-11-27, 12:03:11](https://news.ycombinator.com/item?id=50665920) - [Kimi for Science: More scientific ideas, made possible](https://www.kimi.ai/news/kimi-for-science-program)
 * [2026-11-27, 11:41:11](https://news.ycombinator.com/item?id=50665732) - [Pizza history: AI agent's cardless purchase is a first for UK](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer)
+* [2026-11-27, 09:50:02](https://news.ycombinator.com/item?id=50664931) - [Pimalaya goes stable: Himalaya v3 and the pimdir standard](https://blog.pimalaya.org/pimalaya-goes-stable/)
 * [2026-11-27, 07:58:37](https://news.ycombinator.com/item?id=50664104) - [Indie web browser Ladybird enters alpha testing](https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914)
 * [2026-11-27, 06:44:34](https://news.ycombinator.com/item?id=50663595) - [The group chat where your AI talks behind your back](https://construct22.com/)
 * [2026-11-27, 05:52:42](https://news.ycombinator.com/item?id=50663261) - [Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/)
