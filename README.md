@@ -13,7 +13,6 @@
 * [2026-11-27, 14:37:02](https://news.ycombinator.com/item?id=50667452) - [Show HN: I restored Palm's last device, and brought its OS to other platforms](https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/)
 * [2026-11-27, 14:30:20](https://news.ycombinator.com/item?id=50667371) - [Rayshader 1.0: Exit the Matrix](https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html)
 * [2026-11-27, 14:02:52](https://news.ycombinator.com/item?id=50667062) - [Making a 3D fantasy map like a 16th-Century atlas](https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas)
-* [2026-11-27, 13:01:02](https://news.ycombinator.com/item?id=50666436) - [Mental Health Resources and Political Engagement](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219)
 * [2026-11-27, 12:54:11](https://news.ycombinator.com/item?id=50666375) - [US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
 * [2026-11-27, 12:43:40](https://news.ycombinator.com/item?id=50666279) - [New York and California age gating rules go into effect in the new year](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)
 * [2026-11-27, 12:08:51](https://news.ycombinator.com/item?id=50665968) - [A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf)
@@ -29,6 +28,7 @@
 * [2026-11-26, 17:24:37](https://news.ycombinator.com/item?id=50657392) - [First images of the impact of DART asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
 * [2026-11-26, 17:11:29](https://news.ycombinator.com/item?id=50657265) - [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp)
 * [2026-11-25, 15:16:53](https://news.ycombinator.com/item?id=50643158) - [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
+* [2026-11-25, 04:46:49](https://news.ycombinator.com/item?id=50638593) - [Lydian Chromatic Concept of Tonal Organization](https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization)
 * [2026-11-24, 19:46:54](https://news.ycombinator.com/item?id=50633531) - [Show HN: Analysis of Hacker News predictions since 2008](https://hnpredictions.com/)
 
 ## [Archives](archives/index.md)
