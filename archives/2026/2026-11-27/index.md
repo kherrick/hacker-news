@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 08:28:08](https://news.ycombinator.com/item?id=50664325) - [Claude sabotaging SOTA ML research tasks](https://twitter.com/RealAstropulse/status/2126119408997466389)
 * [2026-11-27, 06:53:52](https://news.ycombinator.com/item?id=50663666) - [Ladybird browser's first downloadable alpha is surprisingly capable](https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/)
 * [2026-11-27, 06:44:34](https://news.ycombinator.com/item?id=50663595) - [The group chat where your AI talks behind your back](https://construct22.com/)
 * [2026-11-27, 05:52:42](https://news.ycombinator.com/item?id=50663261) - [Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/)
