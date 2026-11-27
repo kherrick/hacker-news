@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-27, 21:48:14](https://news.ycombinator.com/item?id=50672008) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
 * [2026-11-27, 20:25:15](https://news.ycombinator.com/item?id=50671301) - [I am scared: Careless People – Sarah Wynn-Williams on living under a gag order](https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours)
 * [2026-11-27, 20:23:14](https://news.ycombinator.com/item?id=50671275) - [Prospero: Bloat-free, native AI coding harness with ImGui](https://github.com/skeeto/prospero)
 * [2026-11-27, 19:42:25](https://news.ycombinator.com/item?id=50670855) - [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform)
@@ -25,7 +26,6 @@
 * [2026-11-27, 03:10:19](https://news.ycombinator.com/item?id=50662313) - [Citroën Hydraulic System](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html)
 * [2026-11-26, 21:47:45](https://news.ycombinator.com/item?id=50660180) - [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
 * [2026-11-26, 21:08:05](https://news.ycombinator.com/item?id=50659841) - [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
-* [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
 * [2026-11-26, 17:24:37](https://news.ycombinator.com/item?id=50657392) - [First images of the impact of DART asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
 * [2026-11-25, 20:55:26](https://news.ycombinator.com/item?id=50647400) - [Atlantic 1866: information and shipping in the age of the telegraph](https://atlantic-1866.com/)
 * [2026-11-25, 15:16:53](https://news.ycombinator.com/item?id=50643158) - [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
