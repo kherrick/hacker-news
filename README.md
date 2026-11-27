@@ -25,9 +25,9 @@
 * [2026-11-26, 05:37:51](https://news.ycombinator.com/item?id=50651863) - [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)
 * [2026-11-26, 04:32:26](https://news.ycombinator.com/item?id=50651430) - [NormalScript: A perfectly normal scripting language](https://psychoscript.com/)
 * [2026-11-26, 03:33:06](https://news.ycombinator.com/item?id=50651099) - [Show HN: Olumino, a Markdown notes and spaced repetition app](https://olumino.app)
-* [2026-11-26, 02:55:41](https://news.ycombinator.com/item?id=50650860) - [The Naturalist's Library](https://www.c82.net/naturalists-library/)
 * [2026-11-25, 23:15:52](https://news.ycombinator.com/item?id=50649040) - [The USAID Files](https://reclaimthenet.org/usaid-files)
 * [2026-11-25, 19:11:27](https://news.ycombinator.com/item?id=50646108) - [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
+* [2026-11-25, 17:18:26](https://news.ycombinator.com/item?id=50644817) - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 * [2026-11-25, 00:37:07](https://news.ycombinator.com/item?id=50636931) - [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/)
 * [2026-11-23, 21:18:49](https://news.ycombinator.com/item?id=50619466) - [Discovery of curse ritual in trash dump surprises Egyptologist](https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html)
 
