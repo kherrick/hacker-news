@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-11-27, 14:09:44](https://news.ycombinator.com/item?id=50667143) - [Norse Atlantic suspends all flights as it faces potential collapse](https://www.bbc.com/news/articles/c9kgmd0ldy0lo)
-* [2026-11-27, 13:50:05](https://news.ycombinator.com/item?id=50666919) - [Jason Arday's research cleared in investigation](https://www.bbc.com/news/articles/ck9d7e11lnq4o)
-* [2026-11-27, 13:01:02](https://news.ycombinator.com/item?id=50666436) - [Counseling for mental health decreases likelihood of protesting by 34%–39%](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219)
 * [2026-11-27, 12:54:11](https://news.ycombinator.com/item?id=50666375) - [US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
 * [2026-11-27, 12:43:40](https://news.ycombinator.com/item?id=50666279) - [New York and California Age Gating Rules Go into Effect in the New Year](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)
 * [2026-11-27, 12:08:51](https://news.ycombinator.com/item?id=50665968) - [A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf)
@@ -23,13 +21,15 @@
 * [2026-11-26, 18:37:24](https://news.ycombinator.com/item?id=50658193) - [Largest 2D Chart library in the world using BUI: BlenderUI](https://bui.preetham.top/charts/)
 * [2026-11-26, 17:47:45](https://news.ycombinator.com/item?id=50657645) - [CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 * [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
+* [2026-11-26, 17:24:37](https://news.ycombinator.com/item?id=50657392) - [European spacecraft finds chaotic scene after asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
 * [2026-11-26, 17:11:29](https://news.ycombinator.com/item?id=50657265) - [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp)
 * [2026-11-26, 14:44:22](https://news.ycombinator.com/item?id=50655868) - [Show HN: I wrote an entire Vim manual over 4 years](http://themouseless.dev/vim/)
 * [2026-11-26, 10:11:01](https://news.ycombinator.com/item?id=50653667) - [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono)
 * [2026-11-26, 09:44:23](https://news.ycombinator.com/item?id=50653477) - [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
+* [2026-11-26, 06:32:48](https://news.ycombinator.com/item?id=50652184) - [Moat: OpenRouter replacement](https://commandcode.ai/moat)
 * [2026-11-26, 05:37:51](https://news.ycombinator.com/item?id=50651863) - [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)
 * [2026-11-25, 23:15:52](https://news.ycombinator.com/item?id=50649040) - [The USAID Files](https://reclaimthenet.org/usaid-files)
-* [2026-11-25, 00:37:07](https://news.ycombinator.com/item?id=50636931) - [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/)
+* [2026-11-25, 17:18:26](https://news.ycombinator.com/item?id=50644817) - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 
 ## [Archives](archives/index.md)
 

@@ -24,6 +24,7 @@
 * [2026-11-26, 18:06:19](https://news.ycombinator.com/item?id=50657860) - [Kim Dotcom has won his case](https://twitter.com/KimDotcom/status/2125837707125621184)
 * [2026-11-26, 17:47:45](https://news.ycombinator.com/item?id=50657645) - [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 * [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Bypass anti-adblock](https://github.com/antonpictures/youtube-punisher)
+* [2026-11-26, 17:24:37](https://news.ycombinator.com/item?id=50657392) - [European spacecraft finds chaotic scene after asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
 * [2026-11-26, 17:21:14](https://news.ycombinator.com/item?id=50657355) - [DeepSeekMath: Pushing the Limits of Mathematical Reasoning](https://github.com/deepseek-ai/deepseek-math)
 * [2026-11-26, 17:16:41](https://news.ycombinator.com/item?id=50657307) - [Tracking Diseases Cured by AI](https://diseasescuredbyai.com/)
 * [2026-11-26, 17:11:29](https://news.ycombinator.com/item?id=50657265) - [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
