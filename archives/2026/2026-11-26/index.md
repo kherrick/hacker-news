@@ -8,6 +8,7 @@
 * [2026-11-26, 21:59:19](https://news.ycombinator.com/item?id=50660273) - [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
 * [2026-11-26, 21:47:45](https://news.ycombinator.com/item?id=50660180) - [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
 * [2026-11-26, 21:16:41](https://news.ycombinator.com/item?id=50659918) - [Denver man traps Waymo robotaxis with cones, eggs them at least 30 times](https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/)
+* [2026-11-26, 21:16:41](https://news.ycombinator.com/item?id=50659918) - [A man in Denver has been throwing eggs at Waymo vehicles](https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html)
 * [2026-11-26, 21:08:05](https://news.ycombinator.com/item?id=50659841) - [The greatest architect you've never heard of is in Pakistan](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
 * [2026-11-26, 20:49:49](https://news.ycombinator.com/item?id=50659640) - [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
 * [2026-11-26, 20:39:05](https://news.ycombinator.com/item?id=50659532) - [Nvidia was right to bring back Jensen Huang, writes Sarah Guo](https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo)
