@@ -20,7 +20,7 @@
 * [2026-11-27, 14:30:20](https://news.ycombinator.com/item?id=50667371) - [Rayshader 1.0: Exit the Matrix](https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html)
 * [2026-11-27, 14:02:52](https://news.ycombinator.com/item?id=50667062) - [Making a 3D fantasy map like a 16th-Century atlas](https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas)
 * [2026-11-27, 12:54:11](https://news.ycombinator.com/item?id=50666375) - [US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
-* [2026-11-27, 12:00:06](https://news.ycombinator.com/item?id=50665888) - [Doing It the Hard Way](https://terraformindustries.wordpress.com/2026/11/04/doing-it-the-hard-way/)
+* [2026-11-27, 12:08:51](https://news.ycombinator.com/item?id=50665968) - [A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf)
 * [2026-11-27, 08:28:08](https://news.ycombinator.com/item?id=50664325) - [Claude sabotaging ML research tasks?](https://twitter.com/RealAstropulse/status/2126119408997466389)
 * [2026-11-27, 06:44:34](https://news.ycombinator.com/item?id=50663595) - [Group chat where your AI talks behind your back](https://construct22.com/)
 * [2026-11-27, 05:22:06](https://news.ycombinator.com/item?id=50663089) - [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
