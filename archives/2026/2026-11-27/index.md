@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 11:41:11](https://news.ycombinator.com/item?id=50665732) - [Pizza history: AI agent's cardless purchase is a first for UK](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer)
 * [2026-11-27, 11:09:04](https://news.ycombinator.com/item?id=50665488) - [Fields-winning mathematicians worried about eerie silence over AI and encryption](https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8)
 * [2026-11-27, 09:44:37](https://news.ycombinator.com/item?id=50664885) - ['Cyber incident' forces UK Gov to take some services offline](https://www.bbc.co.uk/news/live/c6rrg94lgjrjt)
 * [2026-11-27, 08:28:08](https://news.ycombinator.com/item?id=50664325) - [Claude sabotaging SOTA ML research tasks](https://twitter.com/RealAstropulse/status/2126119408997466389)
