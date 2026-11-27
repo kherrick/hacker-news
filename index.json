@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-11-27, 02:53:22",
-      "https://news.ycombinator.com/item?id=50662217"
-    ],
-    [
-      "Show HN: Sqrin – A better screen share for Mac",
-      "https://sqrin.app"
-    ]
-  ],
-  [
-    [
       "2026-11-27, 02:44:12",
       "https://news.ycombinator.com/item?id=50662153"
     ],
@@ -157,6 +147,16 @@
     [
       "AMD-specific fork of llama.cpp",
       "https://devnull.land/amd-specific-llama-cpp"
+    ]
+  ],
+  [
+    [
+      "2026-11-26, 16:51:38",
+      "https://news.ycombinator.com/item?id=50657070"
+    ],
+    [
+      "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "https://github.com/rxliuli/sim-drop"
     ]
   ],
   [
