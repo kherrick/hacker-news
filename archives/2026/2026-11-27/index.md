@@ -11,6 +11,7 @@
 * [2026-11-27, 14:09:44](https://news.ycombinator.com/item?id=50667143) - [Norse Atlantic suspends all flights as it faces potential collapse](https://www.bbc.com/news/articles/c9kgmd0ldy0lo)
 * [2026-11-27, 13:59:11](https://news.ycombinator.com/item?id=50667025) - [Weird Little Guys of FOSS (a.k.a. the Fourth Reich of FOSS)](https://drewdevault.com/weird-guys/)
 * [2026-11-27, 13:50:05](https://news.ycombinator.com/item?id=50666919) - [Jason Arday's research cleared in investigation](https://www.bbc.com/news/articles/ck9d7e11lnq4o)
+* [2026-11-27, 13:06:34](https://news.ycombinator.com/item?id=50666487) - [She Reported Her Sexual Assault. The Marine Corps Kicked Her Out](https://thewarhorse.org/marine-corps-administrative-separation-after-sexual-assault/)
 * [2026-11-27, 13:01:02](https://news.ycombinator.com/item?id=50666436) - [Counseling for mental health decreases likelihood of protesting by 34%–39%](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219)
 * [2026-11-27, 12:54:11](https://news.ycombinator.com/item?id=50666375) - [US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
 * [2026-11-27, 12:43:40](https://news.ycombinator.com/item?id=50666279) - [New York and California Age Gating Rules Go into Effect in the New Year](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)
