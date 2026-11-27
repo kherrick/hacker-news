@@ -19,7 +19,6 @@
 * [2026-11-27, 14:37:02](https://news.ycombinator.com/item?id=50667452) - [Show HN: I restored Palm's last device, and brought its OS to other platforms](https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/)
 * [2026-11-27, 14:30:20](https://news.ycombinator.com/item?id=50667371) - [Rayshader 1.0: Exit the Matrix](https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html)
 * [2026-11-27, 14:02:52](https://news.ycombinator.com/item?id=50667062) - [Making a 3D fantasy map like a 16th-Century atlas](https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas)
-* [2026-11-27, 12:54:11](https://news.ycombinator.com/item?id=50666375) - [US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
 * [2026-11-27, 08:28:08](https://news.ycombinator.com/item?id=50664325) - [Claude sabotaging ML research tasks?](https://twitter.com/RealAstropulse/status/2126119408997466389)
 * [2026-11-27, 06:44:34](https://news.ycombinator.com/item?id=50663595) - [Group chat where your AI talks behind your back](https://construct22.com/)
 * [2026-11-27, 05:22:06](https://news.ycombinator.com/item?id=50663089) - [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
@@ -30,6 +29,7 @@
 * [2026-11-25, 15:16:53](https://news.ycombinator.com/item?id=50643158) - [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
 * [2026-11-25, 04:46:49](https://news.ycombinator.com/item?id=50638593) - [Lydian Chromatic Concept of Tonal Organization](https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization)
 * [2026-11-24, 19:46:54](https://news.ycombinator.com/item?id=50633531) - [Show HN: Analysis of Hacker News predictions since 2008](https://hnpredictions.com/)
+* [2026-11-24, 17:55:27](https://news.ycombinator.com/item?id=50631823) - [Build your own amp modeler: $78 DIY pedal kit from TONE3000](https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit)
 
 ## [Archives](archives/index.md)
 
