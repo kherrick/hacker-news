@@ -6,6 +6,7 @@
 
 * [2026-11-27, 18:17:20](https://news.ycombinator.com/item?id=50669963) - [The NFL Player Who Left Football for Math](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
 * [2026-11-27, 18:02:45](https://news.ycombinator.com/item?id=50669765) - [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)
+* [2026-11-27, 17:56:28](https://news.ycombinator.com/item?id=50669673) - [Show HN: DragDropMath, Learn Math by Feel](https://dragdropmath.com/)
 * [2026-11-27, 17:45:31](https://news.ycombinator.com/item?id=50669561) - [I'm Scared of AI](https://thesoapbox.email/archive/3)
 * [2026-11-27, 17:21:51](https://news.ycombinator.com/item?id=50669280) - [France Slips into Recession as Exports Sag](https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5)
 * [2026-11-27, 17:10:39](https://news.ycombinator.com/item?id=50669137) - [Why is Hacker News like that?](https://drewdevault.com/blog/Why-is-HN-like-that/#)
