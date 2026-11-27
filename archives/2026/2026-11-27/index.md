@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 17:45:31](https://news.ycombinator.com/item?id=50669561) - [I'm Scared of AI](https://thesoapbox.email/archive/3)
 * [2026-11-27, 17:21:51](https://news.ycombinator.com/item?id=50669280) - [France Slips into Recession as Exports Sag](https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5)
 * [2026-11-27, 17:10:39](https://news.ycombinator.com/item?id=50669137) - [Why is Hacker News like that?](https://drewdevault.com/blog/Why-is-HN-like-that/#)
 * [2026-11-27, 17:01:51](https://news.ycombinator.com/item?id=50669026) - [Palliative Care for the Chronically Online](https://idiotecon.substack.com/p/palliative-care-for-the-chronically)
