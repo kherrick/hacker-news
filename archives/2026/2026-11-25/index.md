@@ -14,6 +14,7 @@
 * [2026-11-25, 21:44:35](https://news.ycombinator.com/item?id=50648008) - [Prof. Sam Lawler: FUCK FUCK FUCK FUCK FUCK FUCK FUCK](https://mastodon.social/@sundogplanets/117678381079935502)
 * [2026-11-25, 21:18:02](https://news.ycombinator.com/item?id=50647673) - [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
 * [2026-11-25, 21:18:02](https://news.ycombinator.com/item?id=50647673) - [The New York Times tells photographers not to use the latest Photoshop](https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/)
+* [2026-11-25, 20:55:26](https://news.ycombinator.com/item?id=50647400) - [Atlantic 1866: information and shipping in the age of the telegraph](https://atlantic-1866.com/)
 * [2026-11-25, 20:38:00](https://news.ycombinator.com/item?id=50647181) - [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
 * [2026-11-25, 20:35:50](https://news.ycombinator.com/item?id=50647161) - [Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server](https://opensec.in/blog/nfs2root-cve-2026-99362)
 * [2026-11-25, 20:35:39](https://news.ycombinator.com/item?id=50647158) - [72-Hour Fasting Can Reset Your Immune System, USC Study Shows](https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/)
