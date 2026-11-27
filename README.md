@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-27, 23:39:15](https://news.ycombinator.com/item?id=50672762) - [Why drivers want cheap, dumb cars again](https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html)
 * [2026-11-27, 23:00:30](https://news.ycombinator.com/item?id=50672521) - [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
 * [2026-11-27, 22:06:44](https://news.ycombinator.com/item?id=50672142) - [Source Control from Hell](https://frantic.im/git/)
 * [2026-11-27, 21:48:14](https://news.ycombinator.com/item?id=50672008) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
@@ -11,7 +12,6 @@
 * [2026-11-27, 19:31:01](https://news.ycombinator.com/item?id=50670757) - [Michael Nielsen took down his book on neural nets](https://neuralnetworksanddeeplearning.com/)
 * [2026-11-27, 18:59:55](https://news.ycombinator.com/item?id=50670443) - [Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10](https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/)
 * [2026-11-27, 18:50:26](https://news.ycombinator.com/item?id=50670340) - [Scrapheap America](https://dansinker.com/posts/2026-11-20-scrapheap/)
-* [2026-11-27, 18:28:29](https://news.ycombinator.com/item?id=50670088) - [Euclidean geometry in the asymptotic spectrum of tensors [pdf]](https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf)
 * [2026-11-27, 18:02:45](https://news.ycombinator.com/item?id=50669765) - [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)
 * [2026-11-27, 17:56:28](https://news.ycombinator.com/item?id=50669673) - [Show HN: DragDropMath – Learn math by feel](https://dragdropmath.com/)
 * [2026-11-27, 15:40:31](https://news.ycombinator.com/item?id=50668145) - [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
