@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-27, 13:01:02](https://news.ycombinator.com/item?id=50666436) - [Counseling for mental health decreases likelihood of protesting by 34%–39%](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219)
 * [2026-11-27, 12:43:40](https://news.ycombinator.com/item?id=50666279) - [New York and California Age Gating Rules Go into Effect in the New Year](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)
 * [2026-11-27, 12:08:51](https://news.ycombinator.com/item?id=50665968) - [A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf)
 * [2026-11-27, 12:03:11](https://news.ycombinator.com/item?id=50665920) - [Kimi for Science More scientific ideas, made possible](https://www.kimi.ai/news/kimi-for-science-program)
@@ -28,7 +29,6 @@
 * [2026-11-26, 05:37:51](https://news.ycombinator.com/item?id=50651863) - [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)
 * [2026-11-26, 03:33:06](https://news.ycombinator.com/item?id=50651099) - [Show HN: Olumino, a Markdown notes and spaced repetition app](https://olumino.app)
 * [2026-11-25, 23:15:52](https://news.ycombinator.com/item?id=50649040) - [The USAID Files](https://reclaimthenet.org/usaid-files)
-* [2026-11-25, 17:18:26](https://news.ycombinator.com/item?id=50644817) - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 * [2026-11-25, 00:37:07](https://news.ycombinator.com/item?id=50636931) - [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/)
 
 ## [Archives](archives/index.md)
