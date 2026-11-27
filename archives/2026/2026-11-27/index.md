@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 15:40:31](https://news.ycombinator.com/item?id=50668145) - [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
 * [2026-11-27, 15:26:09](https://news.ycombinator.com/item?id=50667989) - [False Computer-Checked Proofs](https://cr.yp.to/proofs/falseccp.html)
 * [2026-11-27, 15:22:52](https://news.ycombinator.com/item?id=50667970) - [Grand Theft GTA](https://grandtheftgta.com/)
 * [2026-11-27, 15:03:17](https://news.ycombinator.com/item?id=50667744) - [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
 * [2026-11-27, 15:01:50](https://news.ycombinator.com/item?id=50667726) - [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)
 * [2026-11-27, 14:55:57](https://news.ycombinator.com/item?id=50667664) - [Stanford Physicist Uses AI to Tackle Quantum Gravity Problem](https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/)
 * [2026-11-27, 14:09:44](https://news.ycombinator.com/item?id=50667143) - [Norse Atlantic suspends all flights as it faces potential collapse](https://www.bbc.com/news/articles/c9kgmd0ldy0lo)
+* [2026-11-27, 14:02:52](https://news.ycombinator.com/item?id=50667062) - [Making a 3D fantasy map like a 16th-Century atlas](https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas)
 * [2026-11-27, 13:59:11](https://news.ycombinator.com/item?id=50667025) - [Weird Little Guys of FOSS (a.k.a. the Fourth Reich of FOSS)](https://drewdevault.com/weird-guys/)
 * [2026-11-27, 13:50:05](https://news.ycombinator.com/item?id=50666919) - [Jason Arday's research cleared in investigation](https://www.bbc.com/news/articles/ck9d7e11lnq4o)
 * [2026-11-27, 13:06:34](https://news.ycombinator.com/item?id=50666487) - [She Reported Her Sexual Assault. The Marine Corps Kicked Her Out](https://thewarhorse.org/marine-corps-administrative-separation-after-sexual-assault/)

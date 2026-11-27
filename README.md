@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-27, 15:40:31](https://news.ycombinator.com/item?id=50668145) - [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
 * [2026-11-27, 15:26:09](https://news.ycombinator.com/item?id=50667989) - [False Computer-Checked Proofs](https://cr.yp.to/proofs/falseccp.html)
 * [2026-11-27, 15:03:17](https://news.ycombinator.com/item?id=50667744) - [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
 * [2026-11-27, 15:01:50](https://news.ycombinator.com/item?id=50667726) - [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)
 * [2026-11-27, 14:55:57](https://news.ycombinator.com/item?id=50667664) - [Stanford Physicist Uses AI to Tackle Quantum Gravity Problem](https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/)
 * [2026-11-27, 14:09:44](https://news.ycombinator.com/item?id=50667143) - [Norse Atlantic suspends all flights as it faces potential collapse](https://www.bbc.com/news/articles/c9kgmd0ldy0lo)
+* [2026-11-27, 14:02:52](https://news.ycombinator.com/item?id=50667062) - [Making a 3D fantasy map like a 16th-Century atlas](https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas)
 * [2026-11-27, 13:01:02](https://news.ycombinator.com/item?id=50666436) - [Mental Health Resources and Political Engagement](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219)
 * [2026-11-27, 12:54:11](https://news.ycombinator.com/item?id=50666375) - [US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
 * [2026-11-27, 12:43:40](https://news.ycombinator.com/item?id=50666279) - [New York and California age gating rules go into effect in the new year](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)
@@ -20,7 +22,6 @@
 * [2026-11-26, 21:47:45](https://news.ycombinator.com/item?id=50660180) - [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
 * [2026-11-26, 21:08:05](https://news.ycombinator.com/item?id=50659841) - [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
 * [2026-11-26, 20:49:49](https://news.ycombinator.com/item?id=50659640) - [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
-* [2026-11-26, 19:18:09](https://news.ycombinator.com/item?id=50658632) - [Rvoip: VoIP stack in Rust](https://github.com/eisenzopf/rvoip)
 * [2026-11-26, 19:04:50](https://news.ycombinator.com/item?id=50658498) - [An introduction to uncertainty in machine learning](https://chrhenning.com/blog/2026/introduction-to-uncertainty/)
 * [2026-11-26, 17:47:45](https://news.ycombinator.com/item?id=50657645) - [CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 * [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
@@ -29,7 +30,6 @@
 * [2026-11-26, 14:44:22](https://news.ycombinator.com/item?id=50655868) - [Show HN: I wrote an entire Vim manual over 4 years](http://themouseless.dev/vim/)
 * [2026-11-26, 10:11:01](https://news.ycombinator.com/item?id=50653667) - [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono)
 * [2026-11-26, 09:44:23](https://news.ycombinator.com/item?id=50653477) - [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
-* [2026-11-26, 05:37:51](https://news.ycombinator.com/item?id=50651863) - [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)
 
 ## [Archives](archives/index.md)
 
