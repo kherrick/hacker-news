@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 23:00:30](https://news.ycombinator.com/item?id=50672521) - [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
 * [2026-11-27, 22:06:44](https://news.ycombinator.com/item?id=50672142) - [Source Control from Hell](https://frantic.im/git/)
 * [2026-11-27, 21:48:14](https://news.ycombinator.com/item?id=50672008) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
 * [2026-11-27, 21:07:34](https://news.ycombinator.com/item?id=50671651) - [SessionGraph: Visualize all your coding agent sessions in one interactive graph](https://sessiongraph.ai/)
