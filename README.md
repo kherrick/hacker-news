@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-27, 11:09:04](https://news.ycombinator.com/item?id=50665488) - [Fields-winning mathematicians worried about eerie silence over AI and encryption](https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8)
 * [2026-11-27, 09:44:37](https://news.ycombinator.com/item?id=50664885) - ['Cyber incident' forces UK Gov to take some services offline](https://www.bbc.co.uk/news/live/c6rrg94lgjrjt)
 * [2026-11-27, 08:28:08](https://news.ycombinator.com/item?id=50664325) - [Claude sabotaging SOTA ML research tasks](https://twitter.com/RealAstropulse/status/2126119408997466389)
 * [2026-11-27, 08:11:46](https://news.ycombinator.com/item?id=50664191) - [European Commission Declares Browser Competition a Digital Markets Act Priority](https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/)
@@ -25,7 +26,6 @@
 * [2026-11-26, 09:44:23](https://news.ycombinator.com/item?id=50653477) - [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
 * [2026-11-26, 06:32:48](https://news.ycombinator.com/item?id=50652184) - [Moat: OpenRouter replacement](https://commandcode.ai/moat)
 * [2026-11-26, 05:37:51](https://news.ycombinator.com/item?id=50651863) - [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)
-* [2026-11-26, 04:32:26](https://news.ycombinator.com/item?id=50651430) - [NormalScript: A perfectly normal scripting language](https://psychoscript.com/)
 * [2026-11-26, 03:33:06](https://news.ycombinator.com/item?id=50651099) - [Show HN: Olumino, a Markdown notes and spaced repetition app](https://olumino.app)
 * [2026-11-25, 23:15:52](https://news.ycombinator.com/item?id=50649040) - [The USAID Files](https://reclaimthenet.org/usaid-files)
 * [2026-11-25, 17:18:26](https://news.ycombinator.com/item?id=50644817) - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
