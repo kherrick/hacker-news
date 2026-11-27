@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-27, 15:22:52](https://news.ycombinator.com/item?id=50667970) - [Grand Theft GTA](https://grandtheftgta.com/)
 * [2026-11-27, 15:03:17](https://news.ycombinator.com/item?id=50667744) - [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
 * [2026-11-27, 15:01:50](https://news.ycombinator.com/item?id=50667726) - [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)
 * [2026-11-27, 14:55:57](https://news.ycombinator.com/item?id=50667664) - [Stanford Physicist Uses AI to Tackle Quantum Gravity Problem](https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/)
@@ -11,6 +12,7 @@
 * [2026-11-27, 12:03:11](https://news.ycombinator.com/item?id=50665920) - [Kimi for Science: More scientific ideas, made possible](https://www.kimi.ai/news/kimi-for-science-program)
 * [2026-11-27, 11:09:04](https://news.ycombinator.com/item?id=50665488) - [AI on brink of making online security useless, mathematicians fear](https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8)
 * [2026-11-27, 09:50:02](https://news.ycombinator.com/item?id=50664931) - [Pimalaya goes stable: Himalaya v3 and the pimdir standard](https://blog.pimalaya.org/pimalaya-goes-stable/)
+* [2026-11-27, 08:28:08](https://news.ycombinator.com/item?id=50664325) - [Claude sabotaging SOTA ML research tasks?](https://twitter.com/RealAstropulse/status/2126119408997466389)
 * [2026-11-27, 06:44:34](https://news.ycombinator.com/item?id=50663595) - [The group chat where your AI talks behind your back](https://construct22.com/)
 * [2026-11-27, 05:52:42](https://news.ycombinator.com/item?id=50663261) - [Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/)
 * [2026-11-27, 05:22:06](https://news.ycombinator.com/item?id=50663089) - [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
@@ -21,7 +23,6 @@
 * [2026-11-26, 20:49:49](https://news.ycombinator.com/item?id=50659640) - [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
 * [2026-11-26, 19:18:09](https://news.ycombinator.com/item?id=50658632) - [Rvoip: VoIP stack in Rust](https://github.com/eisenzopf/rvoip)
 * [2026-11-26, 19:04:50](https://news.ycombinator.com/item?id=50658498) - [An introduction to uncertainty in machine learning](https://chrhenning.com/blog/2026/introduction-to-uncertainty/)
-* [2026-11-26, 18:37:24](https://news.ycombinator.com/item?id=50658193) - [Largest 2D Chart library in the world using BUI: BlenderUI](https://bui.preetham.top/charts/)
 * [2026-11-26, 17:47:45](https://news.ycombinator.com/item?id=50657645) - [CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 * [2026-11-26, 17:36:47](https://news.ycombinator.com/item?id=50657530) - [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
 * [2026-11-26, 17:24:37](https://news.ycombinator.com/item?id=50657392) - [First images of the impact of DART asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
@@ -29,7 +30,6 @@
 * [2026-11-26, 14:44:22](https://news.ycombinator.com/item?id=50655868) - [Show HN: I wrote an entire Vim manual over 4 years](http://themouseless.dev/vim/)
 * [2026-11-26, 10:11:01](https://news.ycombinator.com/item?id=50653667) - [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono)
 * [2026-11-26, 09:44:23](https://news.ycombinator.com/item?id=50653477) - [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)
-* [2026-11-26, 05:37:51](https://news.ycombinator.com/item?id=50651863) - [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)
 
 ## [Archives](archives/index.md)
 
