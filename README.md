@@ -2,6 +2,7 @@
 
 * [2026-11-28, 03:19:20](https://news.ycombinator.com/item?id=50674218) - [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
 * [2026-11-28, 02:03:25](https://news.ycombinator.com/item?id=50673688) - [Atari Homebrew Awards Cancelled](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/)
+* [2026-11-28, 01:32:56](https://news.ycombinator.com/item?id=50673521) - [Woman evicted after landlord's AI assistant told her she could delay rent](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
 * [2026-11-27, 23:06:29](https://news.ycombinator.com/item?id=50672565) - [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
 * [2026-11-27, 23:00:30](https://news.ycombinator.com/item?id=50672521) - [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
 * [2026-11-27, 22:06:44](https://news.ycombinator.com/item?id=50672142) - [Source Control from Hell](https://frantic.im/git/)
@@ -21,7 +22,6 @@
 * [2026-11-27, 03:10:19](https://news.ycombinator.com/item?id=50662313) - [Citroën Hydraulic System](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html)
 * [2026-11-26, 17:24:37](https://news.ycombinator.com/item?id=50657392) - [First images of the impact of DART asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
 * [2026-11-26, 17:20:27](https://news.ycombinator.com/item?id=50657346) - [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
-* [2026-11-26, 17:15:43](https://news.ycombinator.com/item?id=50657300) - [fplotlib – Fortran Plotting Library](https://github.com/fortran-lang/fplotlib)
 * [2026-11-26, 12:51:37](https://news.ycombinator.com/item?id=50654773) - [How WinHelp Files Work](https://quin.fyi/posts/how-winhelp-files-work.html)
 * [2026-11-26, 01:33:02](https://news.ycombinator.com/item?id=50650253) - [Sydney Fire Ant Infestation](https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812)
 * [2026-11-25, 16:32:28](https://news.ycombinator.com/item?id=50644213) - [Cyberpunk Television Shows](https://shellzine.net/cyberpunk-television/)
