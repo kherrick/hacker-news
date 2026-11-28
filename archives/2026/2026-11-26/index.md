@@ -28,6 +28,7 @@
 * [2026-11-26, 17:21:14](https://news.ycombinator.com/item?id=50657355) - [DeepSeekMath: Pushing the Limits of Mathematical Reasoning](https://github.com/deepseek-ai/deepseek-math)
 * [2026-11-26, 17:20:27](https://news.ycombinator.com/item?id=50657346) - [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
 * [2026-11-26, 17:16:41](https://news.ycombinator.com/item?id=50657307) - [Tracking Diseases Cured by AI](https://diseasescuredbyai.com/)
+* [2026-11-26, 17:15:43](https://news.ycombinator.com/item?id=50657300) - [fplotlib – Fortran Plotting Library](https://github.com/fortran-lang/fplotlib)
 * [2026-11-26, 17:11:29](https://news.ycombinator.com/item?id=50657265) - [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
 * [2026-11-26, 16:55:15](https://news.ycombinator.com/item?id=50657110) - [One guy is doing an hunger strike at Anthropic, currently in his 3rd day](https://twitter.com/ElliotC1/status/2125689373337489419)
 * [2026-11-26, 16:51:38](https://news.ycombinator.com/item?id=50657070) - [Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar](https://github.com/rxliuli/sim-drop)
