@@ -30,6 +30,7 @@
 * [2026-11-25, 17:20:14](https://news.ycombinator.com/item?id=50644839) - [The Engineering of Smartphone Cameras](https://www.pencilofrays.com/smartphone-lens/)
 * [2026-11-25, 17:18:26](https://news.ycombinator.com/item?id=50644817) - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 * [2026-11-25, 17:18:15](https://news.ycombinator.com/item?id=50644814) - [Deriving Black-Scholes](https://david.alvarezrosa.com/posts/deriving-black-scholes/)
+* [2026-11-25, 16:41:41](https://news.ycombinator.com/item?id=50644341) - [What Is the Metabolism-First Theory for the Origin of Life?](https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/)
 * [2026-11-25, 16:32:28](https://news.ycombinator.com/item?id=50644213) - [Cyberpunk Television Shows](https://shellzine.net/cyberpunk-television/)
 * [2026-11-25, 16:28:28](https://news.ycombinator.com/item?id=50644162) - [Anthropic migrated Messages API to Rust with no Rust developers](https://www.anthropic.com/research/migrating-api-to-rust)
 * [2026-11-25, 15:59:23](https://news.ycombinator.com/item?id=50643720) - [Investigating degraded experiences across GitHub products](https://www.githubstatus.com/incidents/qn8mfv6q5hlx)
