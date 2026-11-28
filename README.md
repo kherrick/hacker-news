@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-28, 03:19:20](https://news.ycombinator.com/item?id=50674218) - [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
 * [2026-11-28, 02:03:25](https://news.ycombinator.com/item?id=50673688) - [Atari Homebrew Awards Cancelled](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/)
 * [2026-11-28, 01:32:56](https://news.ycombinator.com/item?id=50673521) - [Woman evicted after landlord's AI assistant told her she could delay rent](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
 * [2026-11-28, 01:20:16](https://news.ycombinator.com/item?id=50673444) - [Alaska seized his plane over some beers. He is asking the Supreme Court for help](https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/)
@@ -18,7 +19,6 @@
 * [2026-11-27, 15:26:09](https://news.ycombinator.com/item?id=50667989) - [False computer-checked proofs](https://cr.yp.to/proofs/falseccp.html)
 * [2026-11-27, 15:01:50](https://news.ycombinator.com/item?id=50667726) - [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)
 * [2026-11-27, 14:30:20](https://news.ycombinator.com/item?id=50667371) - [Rayshader 1.0: Exit the Matrix](https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html)
-* [2026-11-27, 14:02:52](https://news.ycombinator.com/item?id=50667062) - [Making a 3D fantasy map like a 16th-Century atlas](https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas)
 * [2026-11-27, 03:10:19](https://news.ycombinator.com/item?id=50662313) - [Citroën Hydraulic System](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html)
 * [2026-11-26, 17:24:37](https://news.ycombinator.com/item?id=50657392) - [First images of the impact of DART asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
 * [2026-11-26, 17:20:27](https://news.ycombinator.com/item?id=50657346) - [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
