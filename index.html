@@ -129,6 +129,89 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="50675831">
+          <h3>
+            <a class="item" href="https://fleetlayer.ai/"
+              >Show HN: Fleetlayer – Framework for running many AI agents on
+              multiple machines</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-28 @ 08:37:09</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50675831"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Running so many different accounts meant that I couldn't use
+                claude.ai artifacts anymore, because the browser has to be
+                signed in to the same account in order to access them. It's a
+                pain to keep signing in and out of accounts. This also broke the
+                Claude in Chrome extension because that can also only be signed
+                into a single account.
+              </p>
+              <p>
+                Then I needed to manage AI agents that run on my laptop, a VM on
+                my laptop, and multiple VMs on my home server. Claude Code has a
+                messaging feature which is very useful, but agents can't see
+                each other when they run on different machines. The Claude in
+                Chrome extension only works for agents running on the same
+                machine, so my remote agents couldn't help me with anything in
+                the browser. It's really handy when they can access services
+                that I'm already signed into.
+              </p>
+              <p>
+                I set out to solve all of these problems and I ended up building
+                Fleetlayer. It's a control plane and a node binary that you run
+                on all your machines and VMs to connect them all together. It
+                connects to Herdr (and other session managers soon), and it
+                makes it possible for all your AI agents to message each other
+                and access tools and resources on other machines (with
+                permission.)
+              </p>
+              <p>
+                It has a lot more features too: routing webhooks to agents,
+                single sign-on, access rules, approvals, audit logs, remote
+                terminals, remote browser sharing, centralized AI account
+                sign-ins, session summaries, secrets management, and pages and
+                apps (our own self-hosted version of claude.ai artifacts).
+              </p>
+              <p>A few ways to think of it:</p>
+              <p>
+                - The "Nextcloud" of claude.ai features (your own self-hosted
+                artifacts, remote control, browser use, etc.)
+              </p>
+              <p>
+                - The "Arch Linux" of OpenClaw (build your own agentic systems
+                from swappable components and plugins)
+              </p>
+              <p>
+                You can run everything on your laptop to try it out, then easily
+                move any component to a different machine. If you want to build
+                a proper production-grade home server to run many AI agents,
+                Rust builds, and CI runners, I've also open sourced my own setup
+                as a boilerplate IaC example repo. You just need to install
+                Proxmox and then point your AI agent at the guide [1].
+              </p>
+              <p>
+                I'd be interested to know if anyone else would find Fleetlayer
+                useful. Please let me know if you have any feature requests!
+              </p>
+              <p>
+                [1]
+                <a href="https://fleetlayer.ai/docs/guides/server-setup/"
+                  >https://fleetlayer.ai/docs/guides/server-setup/</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="50675195">
           <h3>
             <a
@@ -141,7 +224,7 @@
             <h4>
               <span>2026-11-28 @ 06:14:21</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50675195"
                   >Comments</a
@@ -162,11 +245,11 @@
             <h4>
               <span>2026-11-28 @ 03:49:21</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50674452"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -181,11 +264,11 @@
             <h4>
               <span>2026-11-28 @ 03:19:20</span
               ><span class="points-container"
-                >Points: <span class="points">326</span></span
+                >Points: <span class="points">332</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50674218"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -203,11 +286,11 @@
             <h4>
               <span>2026-11-27 @ 23:06:29</span
               ><span class="points-container"
-                >Points: <span class="points">408</span></span
+                >Points: <span class="points">410</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50672565"
                   >Comments</a
-                ><span class="descendants">: 155</span></span
+                ><span class="descendants">: 158</span></span
               >
             </h4>
           </section>
@@ -222,7 +305,7 @@
             <h4>
               <span>2026-11-27 @ 23:00:30</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50672521"
                   >Comments</a
@@ -261,7 +344,7 @@
             <h4>
               <span>2026-11-27 @ 21:07:34</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50671651"
                   >Comments</a
@@ -302,11 +385,11 @@
             <h4>
               <span>2026-11-27 @ 19:42:25</span
               ><span class="points-container"
-                >Points: <span class="points">389</span></span
+                >Points: <span class="points">390</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50670855"
                   >Comments</a
-                ><span class="descendants">: 242</span></span
+                ><span class="descendants">: 245</span></span
               >
             </h4>
           </section>
@@ -325,7 +408,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50670757"
                   >Comments</a
-                ><span class="descendants">: 335</span></span
+                ><span class="descendants">: 336</span></span
               >
             </h4>
           </section>
@@ -343,11 +426,11 @@
             <h4>
               <span>2026-11-27 @ 18:02:45</span
               ><span class="points-container"
-                >Points: <span class="points">308</span></span
+                >Points: <span class="points">309</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50669765"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -529,11 +612,11 @@
             <h4>
               <span>2026-11-27 @ 13:30:20</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50666724"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -554,7 +637,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50662313"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -593,30 +676,11 @@
             <h4>
               <span>2026-11-26 @ 17:20:27</span
               ><span class="points-container"
-                >Points: <span class="points">377</span></span
+                >Points: <span class="points">379</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50657346"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50657300">
-          <h3>
-            <a class="item" href="https://github.com/fortran-lang/fplotlib"
-              >fplotlib – Fortran Plotting Library</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-26 @ 17:15:43</span
-              ><span class="points-container"
-                >Points: <span class="points">18</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50657300"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -663,6 +727,25 @@
             </h4>
           </section>
         </section>
+        <section id="50648760">
+          <h3>
+            <a class="item" href="https://starfire.tech/shock/"
+              >Coherent Energy Transformations: What elements can you make?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-11-25 @ 22:51:08</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=50648760"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="50644341">
           <h3>
             <a
@@ -680,25 +763,6 @@
                 ><a href="https://news.ycombinator.com/item?id=50644341"
                   >Comments</a
                 ><span class="descendants">: 7</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="50644213">
-          <h3>
-            <a class="item" href="https://shellzine.net/cyberpunk-television/"
-              >Cyberpunk Television Shows</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-11-25 @ 16:32:28</span
-              ><span class="points-container"
-                >Points: <span class="points">110</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=50644213"
-                  >Comments</a
-                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -755,11 +819,11 @@
             <h4>
               <span>2026-11-24 @ 19:46:54</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50633531"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
             <div class="text">
@@ -820,7 +884,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=50632052"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
