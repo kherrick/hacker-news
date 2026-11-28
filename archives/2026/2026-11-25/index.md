@@ -42,6 +42,7 @@
 * [2026-11-25, 15:00:05](https://news.ycombinator.com/item?id=50642977) - [Limiting Charging to 80 Percent](https://www.jefftk.com/p/limiting-charging-to-80)
 * [2026-11-25, 14:56:52](https://news.ycombinator.com/item?id=50642939) - [I checked Clojure's core with Lean and found unreported bugs](https://s.conao3.com/blog/2026/e4f733)
 * [2026-11-25, 14:43:41](https://news.ycombinator.com/item?id=50642832) - [The year the web industry gave up](https://dbushell.com/2026/11/25/web-industry/)
+* [2026-11-25, 14:35:55](https://news.ycombinator.com/item?id=50642758) - [The Quantum Omelette Problem](https://quantumfrontiers.com/2026/10/11/the-quantum-omelette-problem-how-much-energy-belongs-to-the-yolk/)
 * [2026-11-25, 14:19:21](https://news.ycombinator.com/item?id=50642554) - [Amazon S3 Files](https://aws.amazon.com/s3/features/files/)
 * [2026-11-25, 14:12:29](https://news.ycombinator.com/item?id=50642496) - [U.S. jury convicts Huawei of fraud, Iran sanctions violations](https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/)
 * [2026-11-25, 13:33:07](https://news.ycombinator.com/item?id=50642086) - [Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
