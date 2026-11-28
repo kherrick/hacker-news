@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-28, 11:57:04](https://news.ycombinator.com/item?id=50676752) - [GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims](https://malspark.com/blog/malicious-gguf-models-hugging-face/)
 * [2026-11-28, 11:42:26](https://news.ycombinator.com/item?id=50676672) - [Farewell](https://github.com/p-e-w/heretic/issues/601)
 * [2026-11-28, 08:37:09](https://news.ycombinator.com/item?id=50675831) - [Show HN: Fleetlayer – Framework for running many AI agents on multiple machines](https://fleetlayer.ai/)
 * [2026-11-28, 06:14:21](https://news.ycombinator.com/item?id=50675195) - [FastLanes: Next-gen File Format [pdf]](https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf)
@@ -13,7 +14,6 @@
 * [2026-11-27, 18:02:45](https://news.ycombinator.com/item?id=50669765) - [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)
 * [2026-11-27, 17:56:28](https://news.ycombinator.com/item?id=50669673) - [Show HN: DragDropMath – Learn math by feel](https://dragdropmath.com/)
 * [2026-11-27, 15:40:31](https://news.ycombinator.com/item?id=50668145) - [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
-* [2026-11-27, 15:26:09](https://news.ycombinator.com/item?id=50667989) - [False computer-checked proofs](https://cr.yp.to/proofs/falseccp.html)
 * [2026-11-27, 15:01:50](https://news.ycombinator.com/item?id=50667726) - [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)
 * [2026-11-27, 14:30:20](https://news.ycombinator.com/item?id=50667371) - [Rayshader 1.0: Exit the Matrix](https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html)
 * [2026-11-27, 13:30:20](https://news.ycombinator.com/item?id=50666724) - [Paolo Soleri built a utopian eco-city in the Arizona desert](https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona)
@@ -21,7 +21,6 @@
 * [2026-11-26, 17:24:37](https://news.ycombinator.com/item?id=50657392) - [First images of the impact of DART asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
 * [2026-11-26, 17:20:27](https://news.ycombinator.com/item?id=50657346) - [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
 * [2026-11-26, 14:00:05](https://news.ycombinator.com/item?id=50655389) - [Signals](https://www.quarter--mile.com/Signals)
-* [2026-11-26, 12:51:37](https://news.ycombinator.com/item?id=50654773) - [How WinHelp Files Work](https://quin.fyi/posts/how-winhelp-files-work.html)
 * [2026-11-26, 01:33:02](https://news.ycombinator.com/item?id=50650253) - [Sydney Fire Ant Infestation](https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812)
 * [2026-11-25, 22:51:08](https://news.ycombinator.com/item?id=50648760) - [Coherent Energy Transformations: What elements can you make?](https://starfire.tech/shock/)
 * [2026-11-25, 16:41:41](https://news.ycombinator.com/item?id=50644341) - [What Is the Metabolism-First Theory for the Origin of Life?](https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/)
@@ -30,6 +29,7 @@
 * [2026-11-24, 19:46:54](https://news.ycombinator.com/item?id=50633531) - [Show HN: Analysis of Hacker News predictions since 2008](https://hnpredictions.com/)
 * [2026-11-24, 18:10:45](https://news.ycombinator.com/item?id=50632052) - [Loom seamlessly combines weaving, knitting and braiding](https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding)
 * [2026-11-24, 17:55:27](https://news.ycombinator.com/item?id=50631823) - [Build your own amp modeler: $78 DIY pedal kit from TONE3000](https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit)
+* [2026-11-24, 14:06:58](https://news.ycombinator.com/item?id=50628391) - [Swapping Jolt's sorted collections to a B+tree](https://yogthos.net/posts/2026-11-23-b+trees.html)
 
 ## [Archives](archives/index.md)
 
