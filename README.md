@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-28, 03:55:15](https://news.ycombinator.com/item?id=50674489) - [Claude silently added rules to ignore users skintone preferences in our app](https://twitter.com/jakozloski/status/2126281598517576049)
 * [2026-11-28, 03:19:20](https://news.ycombinator.com/item?id=50674218) - [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
 * [2026-11-28, 02:03:25](https://news.ycombinator.com/item?id=50673688) - [Atari Homebrew Awards Cancelled](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/)
 * [2026-11-28, 01:32:56](https://news.ycombinator.com/item?id=50673521) - [Woman evicted after landlord's AI assistant told her she could delay rent](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
@@ -24,7 +25,6 @@
 * [2026-11-26, 17:15:43](https://news.ycombinator.com/item?id=50657300) - [fplotlib – Fortran Plotting Library](https://github.com/fortran-lang/fplotlib)
 * [2026-11-26, 12:51:37](https://news.ycombinator.com/item?id=50654773) - [How WinHelp Files Work](https://quin.fyi/posts/how-winhelp-files-work.html)
 * [2026-11-26, 01:33:02](https://news.ycombinator.com/item?id=50650253) - [Sydney Fire Ant Infestation](https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812)
-* [2026-11-25, 20:55:26](https://news.ycombinator.com/item?id=50647400) - [Atlantic 1866: information and shipping in the age of the telegraph](https://atlantic-1866.com/)
 * [2026-11-25, 16:32:28](https://news.ycombinator.com/item?id=50644213) - [Cyberpunk Television Shows](https://shellzine.net/cyberpunk-television/)
 * [2026-11-25, 15:16:53](https://news.ycombinator.com/item?id=50643158) - [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
 * [2026-11-25, 04:46:49](https://news.ycombinator.com/item?id=50638593) - [Lydian Chromatic Concept of Tonal Organization](https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization)

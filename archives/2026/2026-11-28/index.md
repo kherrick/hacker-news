@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-28](index.md)
 
+* [2026-11-28, 03:55:15](https://news.ycombinator.com/item?id=50674489) - [Claude silently added rules to ignore users skintone preferences in our app](https://twitter.com/jakozloski/status/2126281598517576049)
 * [2026-11-28, 03:19:20](https://news.ycombinator.com/item?id=50674218) - [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
 * [2026-11-28, 02:03:25](https://news.ycombinator.com/item?id=50673688) - [Atari Homebrew Awards Cancelled](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/)
 * [2026-11-28, 01:32:56](https://news.ycombinator.com/item?id=50673521) - [Woman evicted after landlord's AI assistant told her she could delay rent](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
