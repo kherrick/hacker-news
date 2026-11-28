@@ -23,6 +23,7 @@
 * [2026-11-24, 18:58:59](https://news.ycombinator.com/item?id=50632804) - [Iran's quest for its own Monroe Doctrine](https://engelsbergideas.com/notebook/irans-quest-for-its-own-monroe-doctrine/)
 * [2026-11-24, 18:55:12](https://news.ycombinator.com/item?id=50632756) - [OpenAI reveals they solved VP ≠ VNP before Anthropic](https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026)
 * [2026-11-24, 18:21:01](https://news.ycombinator.com/item?id=50632214) - [\"pervert glasses\" named word of the year by Australian national dictionary](https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/)
+* [2026-11-24, 18:10:45](https://news.ycombinator.com/item?id=50632052) - [Loom seamlessly combines weaving, knitting and braiding](https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding)
 * [2026-11-24, 18:00:21](https://news.ycombinator.com/item?id=50631900) - [AstridVPN: A VPN that doesn't know who you are](https://astridvpn.com/)
 * [2026-11-24, 17:55:27](https://news.ycombinator.com/item?id=50631823) - [Build your own amp modeler: $78 DIY pedal kit from TONE3000](https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit)
 * [2026-11-24, 17:53:53](https://news.ycombinator.com/item?id=50631791) - [Show HN: Keeping faces and features consistent across 24 AI-driven comic pages](https://joonoo.art/create-comic)
