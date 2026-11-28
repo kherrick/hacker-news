@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-28, 01:20:16](https://news.ycombinator.com/item?id=50673444) - [Alaska seized his plane over some beers. He is asking the Supreme Court for help](https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/)
 * [2026-11-27, 23:51:28](https://news.ycombinator.com/item?id=50672835) - [Passkey blues](https://ssg.dev/passkey-blues/)
 * [2026-11-27, 23:50:17](https://news.ycombinator.com/item?id=50672829) - [Painting 1990s anime scenes in Python](https://www.fofr.ai/greenhouse-after-the-typhoon)
 * [2026-11-27, 23:06:29](https://news.ycombinator.com/item?id=50672565) - [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
@@ -8,7 +9,6 @@
 * [2026-11-27, 21:48:14](https://news.ycombinator.com/item?id=50672008) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
 * [2026-11-27, 21:07:34](https://news.ycombinator.com/item?id=50671651) - [SessionGraph: Visualize all your coding agent sessions in one interactive graph](https://sessiongraph.ai/)
 * [2026-11-27, 21:03:56](https://news.ycombinator.com/item?id=50671619) - [Quad9 Blocks Nginx2root.com](https://quad9.net/?url=nginx2root.com#domain-tester)
-* [2026-11-27, 20:25:15](https://news.ycombinator.com/item?id=50671301) - [I am scared: Careless People – Sarah Wynn-Williams on living under a gag order](https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours)
 * [2026-11-27, 20:23:14](https://news.ycombinator.com/item?id=50671275) - [Prospero: Bloat-free, native AI coding harness with ImGui](https://github.com/skeeto/prospero)
 * [2026-11-27, 19:42:25](https://news.ycombinator.com/item?id=50670855) - [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform)
 * [2026-11-27, 19:40:33](https://news.ycombinator.com/item?id=50670841) - [The AT&T Unix PC (3B1) VM](https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/)
