@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-11-27, 23:06:29",
+      "https://news.ycombinator.com/item?id=50672565"
+    ],
+    [
+      "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "https://research.google/blog/supercharging-transformer-residual-connections/"
+    ]
+  ],
+  [
+    [
       "2026-11-27, 23:00:30",
       "https://news.ycombinator.com/item?id=50672521"
     ],
@@ -47,6 +57,16 @@
     [
       "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
       "https://sessiongraph.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-11-27, 21:03:56",
+      "https://news.ycombinator.com/item?id=50671619"
+    ],
+    [
+      "Quad9 Blocks Nginx2root.com",
+      "https://quad9.net/?url=nginx2root.com#domain-tester"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-11-27, 12:00:06",
-      "https://news.ycombinator.com/item?id=50665888"
+      "2026-11-27, 08:28:08",
+      "https://news.ycombinator.com/item?id=50664325"
     ],
     [
-      "Doing It the Hard Way",
-      "https://terraformindustries.wordpress.com/2026/11/04/doing-it-the-hard-way/"
-    ]
-  ],
-  [
-    [
-      "2026-11-27, 06:44:34",
-      "https://news.ycombinator.com/item?id=50663595"
-    ],
-    [
-      "Group chat where your AI talks behind your back",
-      "https://construct22.com/"
-    ]
-  ],
-  [
-    [
-      "2026-11-27, 05:22:06",
-      "https://news.ycombinator.com/item?id=50663089"
-    ],
-    [
-      "The need for a formally verifiable mainstream programming language",
-      "https://blainehansen.me/post/mainstream-verifiable-language/"
+      "Claude sabotaging ML research tasks?",
+      "https://twitter.com/RealAstropulse/status/2126119408997466389"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2026-11-26, 21:47:45",
-      "https://news.ycombinator.com/item?id=50660180"
-    ],
-    [
-      "AI made self-hosting fun again",
-      "https://janlukas.blog/posts/ai-self-hosting"
-    ]
-  ],
-  [
-    [
       "2026-11-26, 17:24:37",
       "https://news.ycombinator.com/item?id=50657392"
     ],
     [
       "First images of the impact of DART asteroid deflection experiment",
       "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
+    ]
+  ],
+  [
+    [
+      "2026-11-26, 17:20:27",
+      "https://news.ycombinator.com/item?id=50657346"
+    ],
+    [
+      "The Balatro Timeline",
+      "https://localthunk.com/blog/balatro-timeline-3aarh"
     ]
   ],
   [
