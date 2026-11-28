@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-11-28, 11:57:04",
+      "https://news.ycombinator.com/item?id=50676752"
+    ],
+    [
+      "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
+    ]
+  ],
+  [
+    [
       "2026-11-28, 11:42:26",
       "https://news.ycombinator.com/item?id=50676672"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-11-27, 15:26:09",
-      "https://news.ycombinator.com/item?id=50667989"
-    ],
-    [
-      "False computer-checked proofs",
-      "https://cr.yp.to/proofs/falseccp.html"
-    ]
-  ],
-  [
-    [
       "2026-11-27, 15:01:50",
       "https://news.ycombinator.com/item?id=50667726"
     ],
@@ -207,16 +207,6 @@
     [
       "Signals",
       "https://www.quarter--mile.com/Signals"
-    ]
-  ],
-  [
-    [
-      "2026-11-26, 12:51:37",
-      "https://news.ycombinator.com/item?id=50654773"
-    ],
-    [
-      "How WinHelp Files Work",
-      "https://quin.fyi/posts/how-winhelp-files-work.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
       "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit"
+    ]
+  ],
+  [
+    [
+      "2026-11-24, 14:06:58",
+      "https://news.ycombinator.com/item?id=50628391"
+    ],
+    [
+      "Swapping Jolt's sorted collections to a B+tree",
+      "https://yogthos.net/posts/2026-11-23-b+trees.html"
     ]
   ]
 ]
