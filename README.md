@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-28, 11:42:26](https://news.ycombinator.com/item?id=50676672) - [Farewell](https://github.com/p-e-w/heretic/issues/601)
 * [2026-11-28, 08:37:09](https://news.ycombinator.com/item?id=50675831) - [Show HN: Fleetlayer – Framework for running many AI agents on multiple machines](https://fleetlayer.ai/)
 * [2026-11-28, 06:14:21](https://news.ycombinator.com/item?id=50675195) - [FastLanes: Next-gen File Format [pdf]](https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf)
 * [2026-11-28, 03:49:21](https://news.ycombinator.com/item?id=50674452) - [Knuth: Moratorium on Error Reports](https://www-cs-faculty.stanford.edu/~knuth/moratorium.html)
@@ -7,7 +8,6 @@
 * [2026-11-27, 23:06:29](https://news.ycombinator.com/item?id=50672565) - [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
 * [2026-11-27, 23:00:30](https://news.ycombinator.com/item?id=50672521) - [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
 * [2026-11-27, 21:48:14](https://news.ycombinator.com/item?id=50672008) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
-* [2026-11-27, 21:07:34](https://news.ycombinator.com/item?id=50671651) - [SessionGraph: Visualize all your coding agent sessions in one interactive graph](https://sessiongraph.ai/)
 * [2026-11-27, 19:42:25](https://news.ycombinator.com/item?id=50670855) - [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform)
 * [2026-11-27, 19:31:01](https://news.ycombinator.com/item?id=50670757) - [Michael Nielsen took down his book on neural nets](https://neuralnetworksanddeeplearning.com/)
 * [2026-11-27, 18:02:45](https://news.ycombinator.com/item?id=50669765) - [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)
