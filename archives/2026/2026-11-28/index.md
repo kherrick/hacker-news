@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-11-28](index.md)
 
+* [2026-11-28, 12:50:15](https://news.ycombinator.com/item?id=50677091) - [Show HN: Luciole Mono – terminal font designed for legibility](https://scriptor-pro.github.io/luciole-mono/)
+* [2026-11-28, 12:36:46](https://news.ycombinator.com/item?id=50677014) - [AnthropicAI posted a fraudulent proof of RH](https://twitter.com/QualiaQuanta/status/2126158001035768256)
 * [2026-11-28, 11:57:04](https://news.ycombinator.com/item?id=50676752) - [GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims](https://malspark.com/blog/malicious-gguf-models-hugging-face/)
 * [2026-11-28, 11:42:26](https://news.ycombinator.com/item?id=50676672) - [Farewell](https://github.com/p-e-w/heretic/issues/601)
+* [2026-11-28, 10:37:40](https://news.ycombinator.com/item?id=50676390) - [Claude Code sabotage: preliminary benchmarking](https://xinyadu.github.io/blog/claude-code-sabotage.html)
 * [2026-11-28, 10:24:43](https://news.ycombinator.com/item?id=50676333) - [Telegram warns iPhone users of mass hacks; CEO says a website visit may suffice](https://dev.ua/en/news/durov-1795852825)
 * [2026-11-28, 09:54:19](https://news.ycombinator.com/item?id=50676199) - [Diablo II](https://www.filfre.net/2026/11/diablo-ii/)
 * [2026-11-28, 08:37:09](https://news.ycombinator.com/item?id=50675831) - [Show HN: Fleetlayer – Framework for running many AI agents on multiple machines](https://fleetlayer.ai/)
