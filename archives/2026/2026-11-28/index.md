@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-28](index.md)
 
+* [2026-11-28, 10:24:43](https://news.ycombinator.com/item?id=50676333) - [Telegram warns iPhone users of mass hacks; CEO says a website visit may suffice](https://dev.ua/en/news/durov-1795852825)
 * [2026-11-28, 08:37:09](https://news.ycombinator.com/item?id=50675831) - [Show HN: Fleetlayer – Framework for running many AI agents on multiple machines](https://fleetlayer.ai/)
 * [2026-11-28, 06:14:21](https://news.ycombinator.com/item?id=50675195) - [FastLanes: Next-gen File Format [pdf]](https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf)
 * [2026-11-28, 03:55:15](https://news.ycombinator.com/item?id=50674489) - [Claude silently added rules to ignore users skintone preferences in our app](https://twitter.com/jakozloski/status/2126281598517576049)
