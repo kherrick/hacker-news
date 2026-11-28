@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
 * [2026-11-27, 23:39:15](https://news.ycombinator.com/item?id=50672762) - [Why drivers want cheap, dumb cars again](https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html)
+* [2026-11-27, 23:06:29](https://news.ycombinator.com/item?id=50672565) - [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
 * [2026-11-27, 23:00:30](https://news.ycombinator.com/item?id=50672521) - [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
 * [2026-11-27, 22:06:44](https://news.ycombinator.com/item?id=50672142) - [Source Control from Hell](https://frantic.im/git/)
 * [2026-11-27, 21:48:14](https://news.ycombinator.com/item?id=50672008) - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
 * [2026-11-27, 21:07:34](https://news.ycombinator.com/item?id=50671651) - [SessionGraph: Visualize all your coding agent sessions in one interactive graph](https://sessiongraph.ai/)
+* [2026-11-27, 21:03:56](https://news.ycombinator.com/item?id=50671619) - [Quad9 Blocks Nginx2root.com](https://quad9.net/?url=nginx2root.com#domain-tester)
 * [2026-11-27, 20:38:19](https://news.ycombinator.com/item?id=50671417) - [UK net migration at lowest level since 1997](https://www.bbc.com/news/articles/cq36gj12n0l3o)
 * [2026-11-27, 20:25:15](https://news.ycombinator.com/item?id=50671301) - [I am scared: Careless People – Sarah Wynn-Williams on living under a gag order](https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours)
 * [2026-11-27, 20:23:14](https://news.ycombinator.com/item?id=50671275) - [Prospero: Bloat-free, native AI coding harness with ImGui](https://github.com/skeeto/prospero)
