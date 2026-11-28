@@ -2,6 +2,7 @@
 
 * [2026-11-28, 11:57:04](https://news.ycombinator.com/item?id=50676752) - [GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims](https://malspark.com/blog/malicious-gguf-models-hugging-face/)
 * [2026-11-28, 11:42:26](https://news.ycombinator.com/item?id=50676672) - [Farewell](https://github.com/p-e-w/heretic/issues/601)
+* [2026-11-28, 09:54:19](https://news.ycombinator.com/item?id=50676199) - [Diablo II](https://www.filfre.net/2026/11/diablo-ii/)
 * [2026-11-28, 08:37:09](https://news.ycombinator.com/item?id=50675831) - [Show HN: Fleetlayer – Framework for running many AI agents on multiple machines](https://fleetlayer.ai/)
 * [2026-11-28, 06:14:21](https://news.ycombinator.com/item?id=50675195) - [FastLanes: Next-gen File Format [pdf]](https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf)
 * [2026-11-28, 03:49:21](https://news.ycombinator.com/item?id=50674452) - [Knuth: Moratorium on Error Reports](https://www-cs-faculty.stanford.edu/~knuth/moratorium.html)
@@ -12,7 +13,6 @@
 * [2026-11-27, 19:42:25](https://news.ycombinator.com/item?id=50670855) - [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform)
 * [2026-11-27, 19:31:01](https://news.ycombinator.com/item?id=50670757) - [Michael Nielsen took down his book on neural nets](https://neuralnetworksanddeeplearning.com/)
 * [2026-11-27, 18:02:45](https://news.ycombinator.com/item?id=50669765) - [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)
-* [2026-11-27, 17:56:28](https://news.ycombinator.com/item?id=50669673) - [Show HN: DragDropMath – Learn math by feel](https://dragdropmath.com/)
 * [2026-11-27, 15:40:31](https://news.ycombinator.com/item?id=50668145) - [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
 * [2026-11-27, 15:01:50](https://news.ycombinator.com/item?id=50667726) - [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)
 * [2026-11-27, 14:30:20](https://news.ycombinator.com/item?id=50667371) - [Rayshader 1.0: Exit the Matrix](https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html)
