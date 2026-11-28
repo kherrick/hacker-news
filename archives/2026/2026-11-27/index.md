@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-11-27](index.md)
 
+* [2026-11-27, 23:51:28](https://news.ycombinator.com/item?id=50672835) - [Passkey blues](https://ssg.dev/passkey-blues/)
 * [2026-11-27, 23:50:17](https://news.ycombinator.com/item?id=50672829) - [Painting 1990s anime scenes in Python](https://www.fofr.ai/greenhouse-after-the-typhoon)
 * [2026-11-27, 23:39:15](https://news.ycombinator.com/item?id=50672762) - [Why drivers want cheap, dumb cars again](https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html)
 * [2026-11-27, 23:06:29](https://news.ycombinator.com/item?id=50672565) - [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)

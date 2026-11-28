@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-11-27, 23:51:28](https://news.ycombinator.com/item?id=50672835) - [Passkey blues](https://ssg.dev/passkey-blues/)
 * [2026-11-27, 23:50:17](https://news.ycombinator.com/item?id=50672829) - [Painting 1990s anime scenes in Python](https://www.fofr.ai/greenhouse-after-the-typhoon)
 * [2026-11-27, 23:06:29](https://news.ycombinator.com/item?id=50672565) - [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
 * [2026-11-27, 23:00:30](https://news.ycombinator.com/item?id=50672521) - [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
@@ -21,7 +22,6 @@
 * [2026-11-27, 15:01:50](https://news.ycombinator.com/item?id=50667726) - [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)
 * [2026-11-27, 14:30:20](https://news.ycombinator.com/item?id=50667371) - [Rayshader 1.0: Exit the Matrix](https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html)
 * [2026-11-27, 14:02:52](https://news.ycombinator.com/item?id=50667062) - [Making a 3D fantasy map like a 16th-Century atlas](https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas)
-* [2026-11-27, 08:28:08](https://news.ycombinator.com/item?id=50664325) - [Claude sabotaging ML research tasks?](https://twitter.com/RealAstropulse/status/2126119408997466389)
 * [2026-11-27, 03:10:19](https://news.ycombinator.com/item?id=50662313) - [Citroën Hydraulic System](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html)
 * [2026-11-26, 17:24:37](https://news.ycombinator.com/item?id=50657392) - [First images of the impact of DART asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
 * [2026-11-26, 17:20:27](https://news.ycombinator.com/item?id=50657346) - [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
